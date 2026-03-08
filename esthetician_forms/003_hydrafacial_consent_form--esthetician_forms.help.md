@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from clients or patients for the purpose of providing a hydrafacial treatment. The form aims to gather medical history, contact information, and other relevant details to ensure that the client is properly prepared and informed about the treatment. The form will likely be used by esthetician professionals to obtain consent and assess potential risks associated with the hydrafacial treatment.
-
-</thinking>
-
 # Hydrafacial Consent Form - Help Guide
 ## Purpose
 The Hydrafacial Consent Form is used to collect necessary information from clients prior to receiving a hydrafacial treatment. This form aims to gather medical history, contact information, and other relevant details to ensure the client's understanding of the treatment and potential risks involved.

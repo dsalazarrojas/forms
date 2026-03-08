@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to obtain approval for a new pay structure for an employee. This form is typically used when an employee's pay rate needs to be adjusted, and an employer or their manager needs to approve the change. The form may be used when an employee's performance is increasing significantly, their role is changing, or there is a change in the company's overall compensation policies. 
-
-This form should only be completed by employees who are requesting a change in their pay rate, and it should not be completed by other types of employees.
-
-</thinking>
-
 # Pay Structure Approval Form - Help Guide
 
 ## Purpose

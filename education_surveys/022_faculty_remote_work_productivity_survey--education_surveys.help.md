@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to gather feedback and information from faculty members about their remote work experience. The purpose of this survey is to gather data on the productivity and effectiveness of faculty remote work arrangements. This form will help gather detailed feedback on faculty members' current remote work experience. Please ensure that you are providing feedback from the relevant perspective. Duplicate responses are not encouraged and any responses that are deemed to be a duplicate will not be accepted.
-</thinking>
-
 # Faculty Remote Work Productivity Survey - Help Guide
 
 ## Purpose

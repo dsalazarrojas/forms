@@ -1,7 +1,3 @@
-<thinking>
-The form "Employment Contract Acknowledgment" is used by employees to acknowledge receipt of an employment contract from the company. This form ensures that all employees have read, understand, and acknowledge the terms of their employment contract. The form is used to verify that the employee has received the contract, has read it, and has agreed to its terms. This process helps to prevent potential disputes or misunderstandings related to the employment contract. It's essential to complete this form accurately and thoroughly to ensure that all parties involved are on the same page.
-</thinking>
-
 # Employment Contract Acknowledgment - Help Guide
 ## Purpose
 The Employment Contract Acknowledgment form is used to verify that an employee has received and acknowledged an employment contract, ensuring they understand and agree to its terms.

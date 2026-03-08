@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data for the "Character Policy" in an educational institution. The purpose of this form is to assess the awareness, effectiveness, and challenges of the Character Policy among key stakeholders. The form is divided into sections that cover different aspects of the policy, including awareness, effectiveness, and potential improvement ideas. This guide will walk you through each section and help you understand what information is being collected.
-</thinking>
-
 # endline_survey_for_character_policy - Help Guide
 ## Purpose
 The "endline_survey_for_character_policy" form is designed to gather information about the Character Policy in an educational institution, specifically the awareness, effectiveness, and challenges of the policy among key stakeholders. This data will help the institution evaluate and improve the policy.

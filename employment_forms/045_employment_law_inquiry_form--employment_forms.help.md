@@ -1,7 +1,3 @@
-<thinking>
-We need to determine if the employment law inquiry form is intended for employment law experts only, or if it's a general form to gather information from anyone with employment-related legal issues. Also, we should verify that this form isn't redundant or similar to existing forms. If it's meant for employment law experts only, we might need to adjust the form to be more user-friendly for non-experts. Additionally, we should ensure that the form's fields are clear and concise, and that the labels and options are well-defined and non-duplicative.
-</thinking>
-
 # Employment Law Inquiry Form - Help Guide
 ## Purpose
 The Employment Law Inquiry Form is a tool used to gather information from individuals or organizations regarding employment-related legal issues. This form is designed to be a general-purpose form, not limited to employment law experts only. It's intended to be user-friendly and accessible to anyone with employment-related legal questions or concerns.

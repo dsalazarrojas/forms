@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for employees to request a laptop for work-related purposes. To ensure that the request is processed correctly, please complete all required fields. 
-- Check with your supervisor before submitting your request.
-- Be sure that you are requesting equipment for a legitimate work purpose, and that you are not duplicating a request.
-</thinking>
-
 # Laptop Requisition Form - Help Guide
 ## Purpose
 This form is used for employees to submit requests for a laptop for work-related purposes. 

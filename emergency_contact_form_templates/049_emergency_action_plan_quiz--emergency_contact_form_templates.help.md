@@ -1,13 +1,3 @@
-<thinking>
-This form is used to create an emergency action plan for a team or organization. The goal is to have a central location where important contact information can be collected and accessed in case of an emergency. This form will help the team or organization to identify the necessary emergency contact details of its members.
-
-To ensure accuracy, please make sure to fill out this form correctly. If you've already completed an emergency action plan for this team/organization, do not fill this form again.
-
-The form has two questions: First Name, Last Name, Contact Number, Employee Title, Emergency Contact Name, Emergency Contact Relationship, Emergency Contact Email, Emergency Contact Work Number, Emergency Contact Home Number, and Emergency Contact Cell Number.
-
-Please make sure to fill out the form with accurate and complete information. The form will be used by the team or organization to identify emergency contacts and make contact in case of an emergency.
-</thinking>
-
 # emergency_action_plan_quiz - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This is an expert form designer and technical writer's block where they're thinking about the form's purpose and relevance to create a comprehensive user-facing help guide. The form is likely an application form for entrepreneurs or business owners to submit a lease contract for a vehicle. The form requires various personal and vehicle information, including vehicle make, year, and model, as well as lease specifics such as start and end dates, rental period, and lease status. The form seems to be primarily used for administrative or operational purposes within a business context. This form is likely used by business owners who need to manage vehicle leases within their companies.
-The form's structure suggests that it's designed for efficient data collection and organization, with fields ranging from vehicle details to lease specifics and owner information. Each field has a clear and concise label, hinting at its intended purpose. The form's complexity suggests that it's a comprehensive tool for managing lease contracts.
-
-</thinking>
-
 # owner-operator-lease-contract-application-form - Help Guide
 ## Purpose
 The owner-operator lease contract application form is a tool for business owners to submit a lease contract for a vehicle. This form is used to collect personal and vehicle information, as well as lease specifics, for administrative or operational purposes within a business context.

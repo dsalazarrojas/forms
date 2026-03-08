@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data on employees' perceptions of diversity and inclusion in the workplace. The goal is to gather information on employees' experiences with discrimination, bias, and support systems in place to address these issues. This data will help management understand the current state of diversity and inclusion within the organization and identify areas for improvement.
-
-This form should only be filled out by employees who have not already completed the survey in the past, to avoid duplicate responses.
-</thinking>
-
 # Workplace Diversity Perception Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on their experiences with diversity and inclusion in the workplace. Your input will help management understand the current state of diversity and inclusion within the organization and identify areas for improvement.

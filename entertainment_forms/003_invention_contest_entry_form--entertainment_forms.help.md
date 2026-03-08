@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 In this internal reasoning block, we're checking the following:
 - The form is designed to allow users to submit their inventions for an invention contest, which likely involves showcasing and evaluating new ideas or innovations.
 - The form should be easy to understand and complete, with a clear and concise explanation of each field and its purpose.

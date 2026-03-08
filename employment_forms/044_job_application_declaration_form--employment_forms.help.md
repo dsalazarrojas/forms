@@ -1,12 +1,3 @@
-<thinking>
-What is the purpose of this form? This form, "Job Application Declaration Form," is designed for users to declare job applications, providing crucial information about the job seeker, the job details, and the application process. The form aims to standardize the application process, ensuring that all necessary information is gathered and tracked consistently.
-
-Is the form relevant to our current context? This form seems to be a general template for job applications, which is relevant to various industries and organizations.
-
-Is the form duplicating existing processes? The form's fields and structure suggest it's designed to be a centralized platform for collecting and organizing job application data, potentially reducing duplication and inconsistencies.
-
-</thinking>
-
 # Job Application Declaration Form - Help Guide
 ## Purpose
 The Job Application Declaration Form is a standardized template for job seekers to declare their applications, providing essential information about themselves and their job requirements.

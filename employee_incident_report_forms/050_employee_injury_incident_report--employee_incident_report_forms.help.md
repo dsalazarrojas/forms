@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about employee injuries, specifically the incident details, location, and contact information. It will help supervisors to document and track injuries that occur within the company.
-</thinking>
-
 # Employee Injury Incident Report - Help Guide
 
 ## Purpose

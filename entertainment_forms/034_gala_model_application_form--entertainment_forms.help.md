@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help individuals apply for a spot in the Gala Model, a program aimed at showcasing talented models who are part of local communities. The form's primary purpose is to gather essential information about the applicants, including contact details, model specifics, photos, experience, availability, and personal preferences for contact. This data will be used to evaluate and potentially feature the applicants in the Gala Model.
 
 Before proceeding, please ensure you have not previously applied for this spot, and that the information you provide is accurate and up-to-date. This will help ensure a smooth and efficient application process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from applicants for the Validation Engineer position. This form will be used to collect relevant data for the hiring process. Please ensure you only fill out this form once you have been presented with it and have all necessary information ready. This form is not intended for duplicate or test submissions. 
-</thinking>
-
 # Validation Engineer Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for the Validation Engineer position. It is used by the hiring team to review and assess candidate applications.

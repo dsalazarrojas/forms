@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML. The form is titled "Trade Registration Form" and it's part of the "entrepreneur_forms" category. This suggests that it's a form for entrepreneurs or businesses to register their trade or business. The fields included are typical of what one would find when registering a business, such as business name, address, contact number, email, website, and business license number. This form likely serves as an initial step in the registration process for businesses to provide necessary information about themselves.
-
-To complete this form, the user should follow these steps:
-
-1. Fill in the trade registration form fields as accurately and thoroughly as possible.
-2. Ensure that all required fields are completed (although in this case, all fields are marked as optional, so this step is not strictly necessary).
-3. Review the form for completeness and accuracy before submitting.
-
-The purpose of this form and the step-by-step instructions should be clear and self-explanatory. However, to further clarify each field and its purpose, we can provide a field-by-field explanation.
-
-</thinking>
-
 # Trade Registration Form - Help Guide
 ## Purpose
 The Trade Registration Form is a document for entrepreneurs or businesses to register their trade or business. It requires providing essential information about the business, including name, address, contact number, email, website, and business license number.

@@ -1,31 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a "Video Release Consent Letter", which is a document typically used in the entertainment industry to obtain consent from individuals featured in videos or recordings. The form is intended to be completed by the individual, and the information collected will be used to verify their consent to release their likeness, voice, or other personal characteristics. This form is likely used in situations such as film, television, or media productions where there may be a need to feature individuals in a video or recording.
-
-To ensure the form is completed accurately, we should confirm that it is being used for the intended purpose and not for any other reasons.
-
-Form Schema:
-  - 5 fields related to address (home_street_address, city, state, zip, email)
-
-This form does not seem to be using the standard address fields, so we'll need to clarify what these fields are used for. Assuming they are part of a full address field, they are likely being used to record the individual's address. If that's not the case, we'll need to adjust the field-by-field explanation accordingly.
-
-Form Schema:
-  - 2 fields related to dates (video_release_date, date_of_birth)
-
-The two date fields might be used to record the date the video was released and the individual's date of birth. Again, if that's not the case, we'll need to adjust the explanation.
-
-Form Schema:
-  - 1 field related to a phone number
-
-This field is likely used to record the individual's contact phone number.
-
-Form Schema:
-  - 1 field related to a video title
-
-This field is likely used to record the title of the video in which the individual appeared.
-
-</thinking>
-
 # Video Release Consent Letter - Help Guide
 ## Purpose
 The Video Release Consent Letter form is designed to collect information from individuals featured in videos or recordings. This form is used to obtain consent from the individual to release their likeness, voice, or other personal characteristics in a video or recording.

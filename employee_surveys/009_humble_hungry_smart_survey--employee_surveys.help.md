@@ -1,10 +1,3 @@
-<thinking>
-To be honest, this form seems to be a survey form for a team's performance, development, and feedback. I'm not entirely sure what kind of team it is (humble-hungry?), but I'm guessing it might be related to IT, software development, or maybe it's for a team of researchers. The form looks like it's designed to collect feedback and performance metrics from team members and possibly from managers. It has a mix of dropdowns, date/time fields, and text areas, which could be used to gather data on team development, goals, feedback, submission status, and comments.
-The form is quite long, with 25 fields, so I'm hoping the team will be able to fill it out quickly and efficiently. Some fields might seem redundant, like "submission_date" and "submission_date_time" or "survey_completion_date" and "survey_completion_time". I'm guessing the team can decide which ones are necessary.
-I'm assuming the form will be submitted by team members, possibly with some fields being mandatory and others being optional. I'm also assuming the team will receive the completed surveys and use the data to make improvements and decisions.
-Let me know if any of these assumptions are wrong, and I'll be happy to adjust!
-</thinking>
-
 # humble_hungry_smart_survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and performance metrics from team members and possibly from managers. It's a mix of dropdowns, date/time fields, and text areas that aim to collect data on team development, goals, submission status, and comments.

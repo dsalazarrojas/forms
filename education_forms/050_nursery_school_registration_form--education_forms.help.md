@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nursery School Registration Form - Help Guide
 
 ## Purpose

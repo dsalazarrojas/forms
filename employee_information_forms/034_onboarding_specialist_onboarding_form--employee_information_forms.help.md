@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about new employees onboarding into the company as onboarding specialists. This form ensures that all necessary details are collected accurately and efficiently to facilitate a smooth transition for the employees.
-
-Before using this form, please note that the fields are mostly related to employment history and contact details. It's essential to ensure the correct and consistent completion of the form to maintain data consistency and reduce errors.
-
-The following guide will walk you through completing the form step by step, with a focus on each field's purpose and required information.
-
-</thinking>
-
 # Onboarding Specialist Onboarding Form - Help Guide
 ## Purpose
 The Onboarding Specialist Onboarding Form is a comprehensive form used to collect and store employee information for onboarding purposes.

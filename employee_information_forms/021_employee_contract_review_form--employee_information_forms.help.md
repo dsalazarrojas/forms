@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for reviewing contracts for employees, likely for management or HR purposes. It seems to gather information about employee contracts, including employee details, contract dates, and status. Each field is designed to be populated by the employee's manager or HR representative. There might already be similar forms in use, such as an employee information form or contract template, so ensure that this new form doesn't duplicate functionality or confuse users. Double-check that this form is correctly categorized under "employee_information_forms" to avoid confusion.
-</thinking>
-
 # employee_contract_review_form - Help Guide
 ## Purpose
 The employee contract review form is used to gather and document information about employee contracts. This form helps managers or HR representatives review and update employee contract details, ensuring that all necessary information is up-to-date and accurate.

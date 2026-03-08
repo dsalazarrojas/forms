@@ -1,7 +1,3 @@
-<thinking>
-This form is for promoting an independent film through various media channels. The purpose of this form is to collect necessary information from individuals or organizations that want to promote the film. This includes contact details, talent and contributor information, a description of the film, and other relevant details. To ensure the accuracy and completeness of the information, it's essential to have the most up-to-date and relevant data. Therefore, this form is designed to gather the required details efficiently and effectively. Before completing this form, please make sure you have the necessary permission and approval from relevant authorities to avoid any potential risks or issues.
-</thinking>
-
 # Independent Film Promotion Consent Form - Help Guide
 ## Purpose
 This form is designed for individuals or organizations that want to promote an independent film through various media channels. It collects necessary information for efficient and effective promotion.

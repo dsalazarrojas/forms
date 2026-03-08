@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the user understands the purpose of this form and checks for potential redundancy before proceeding.
-</thinking>
-
 # Concert Attendance Form - Help Guide
 ## Purpose
 This form is designed to gather information about your concert attendance experience. It helps us understand your satisfaction with the event, venue, and staff, as well as any feedback or comments you may have. Please provide your honest and accurate responses to help us improve future concerts.

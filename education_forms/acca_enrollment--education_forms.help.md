@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for enrollment in the ACCA program. The purpose of this form is to gather personal details, program preferences, and other relevant information from applicants. The form is divided into two sections: "Personal Details" and "Program & Enrollment". This form is intended for individuals who wish to enroll in the ACCA program and is not affiliated with any specific platform. It is an original adaptation created using public survey topic metadata. By filling out this form, applicants can provide their information and preferences for the ACCA program.
-</thinking>
-
 # ACCA Enrollment - Help Guide
 ## Purpose
 This form is designed to collect information for enrollment in the ACCA program. 

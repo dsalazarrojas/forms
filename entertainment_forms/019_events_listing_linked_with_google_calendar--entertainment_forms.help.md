@@ -1,5 +1,3 @@
-<thinking>Events Listing Linked With Google Calendar form is designed to gather information about a user's events, whether they are linked or unlinked with a Google Calendar. This form is intended for users who manage their schedules and meetings with Google Calendar. The form should only be completed by users who are authorized to access and manage Google Calendars. To prevent duplication of effort, ensure that you are not filling out this form if you have already submitted an events listing form or a similar form.</thinking>
-
 # Events Listing Linked With Google Calendar - Help Guide
 ## Purpose
 This form is used to gather information about events that are linked or unlinked with a Google Calendar.

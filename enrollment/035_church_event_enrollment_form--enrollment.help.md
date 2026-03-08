@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Church Event Enrollment Form - Help Guide
 
 ## Purpose

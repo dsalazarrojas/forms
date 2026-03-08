@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is used to report an employee's absenteeism. It is meant to be filled out by employees who are unable to work due to a specific reason. To avoid duplication, please only submit the form once per absence period. If you are filling out the form for multiple employees, please fill out separate forms for each employee. If you have previously submitted a form for the same absence period, please do not resubmit, as it may affect the employee's absence record.</thinking>
 
 # Employee Absenteeism Form - Help Guide

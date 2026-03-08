@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather employee information for onboarding purposes. This form is typically used by HR or management teams to collect essential data from new employees. The information collected will be used to create employee profiles and facilitate a smooth onboarding process.
 
 Before starting, please ensure that you have all the necessary information and authorization to complete this form.

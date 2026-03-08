@@ -1,7 +1,3 @@
-<thinking>
-...The purpose of this form is to collect information about employees' perceptions of job site safety measures and their own experiences with safety procedures. This will help us identify areas for improvement and better understand employee confidence in safety protocols. Please ensure you've completed this form only once and for your own work site. Please answer honestly, and remember that your responses are confidential.
-</thinking>
-
 # Construction Job Site Safety Employment Survey - Help Guide
 ## Purpose
 This form is designed to gather information about employees' perceptions and experiences with safety measures on construction job sites.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory And Meter Readings Form - Help Guide
 ## Purpose
 The Inventory And Meter Readings Form is used to record and track the readings and status of equipment in a location. This form helps to ensure that the inventory is up-to-date and accurate for maintenance, maintenance scheduling, and other related activities.

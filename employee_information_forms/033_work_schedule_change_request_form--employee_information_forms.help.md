@@ -1,5 +1,3 @@
-<thinking>Before proceeding to create the user-facing help guide, I need to confirm that the form purpose is to collect information for an employee's schedule change request, likely for HR or payroll purposes. This form seems to be a straightforward data collection tool used to update employee schedules. It's essential to note that the form is likely intended for internal use only, as there are no explicit external-facing fields. To confirm, the form's internal purpose is to gather details about employee schedule changes, which might include employee ID, name, shift number, start and end times, date, and possibly reason for change. Additionally, the form appears to require manager approval and a potential manager note for further clarification or rejection. I'll make sure to keep this in mind as I create the user-facing help guide to ensure it accurately conveys the form's purpose and usage.</thinking>
-
 # Work Schedule Change Request Form - Help Guide
 ## Purpose
 This form is used to submit a schedule change request for an employee's work schedule. Please fill out the form to provide necessary information for processing your request.

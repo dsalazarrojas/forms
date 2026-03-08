@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form, "workplace_culture_quiz", is designed to assess employees' perceptions of their workplace culture. The form asks for subjective opinions on various aspects of company culture, such as employee satisfaction, values alignment, and communication. It seems that the purpose of this form is to gather feedback and insights about the company culture to help identify areas of improvement or areas of strength. This form is likely used to support employee engagement, retention, and overall job satisfaction. Before proceeding, please ensure that this form is not a duplication of an existing form, especially if it's related to employee surveys. Also, this form is not affiliated with any proprietary form platforms and is a public creation.
-</thinking>
-
 # Workplace Culture Quiz - Help Guide
 ## Purpose
 This form is designed to gather employees' opinions on various aspects of their workplace culture to help identify areas of improvement or areas of strength.

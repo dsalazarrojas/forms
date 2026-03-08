@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Harassment Complaint Form - Help Guide
 
 ## Purpose

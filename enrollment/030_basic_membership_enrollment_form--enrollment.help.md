@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for individuals who are completing the Basic Membership Enrollment Form. Please ensure that you are reading this guide carefully to understand the form's purpose and requirements. This form is used for enrollment into a membership program, and the information provided will be used to determine your membership level, benefits, and services. 
-
-Before proceeding, please verify that you are not already enrolled in the membership program and that the information you provide is accurate. This guide will walk you through each section of the form, explaining the purpose and requirements of each field. Please follow the instructions carefully to ensure a smooth and accurate submission.
-</thinking>
-
 # Basic Membership Enrollment Form - Help Guide
 ## Purpose
 The Basic Membership Enrollment Form is used to collect information for enrollment into a membership program. This form gathers your personal details, membership preferences, and payment information to create a membership profile.

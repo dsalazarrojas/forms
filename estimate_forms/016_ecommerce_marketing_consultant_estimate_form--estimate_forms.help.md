@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ecommercemarketingconsultantestimateform - Help Guide
 ## Purpose
 The ecommercemarketingconsultantestimateform is used to gather information about the services offered by an e-commerce marketing consultant, including estimated costs and hours required for each service.

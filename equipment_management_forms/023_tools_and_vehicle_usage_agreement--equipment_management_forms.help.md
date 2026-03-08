@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about the usage of tools and vehicles within the organization. 
-This form should be used to document the usage and return of tools and vehicles to track and monitor who has used them and when they were returned. 
-The form is divided into two sections: one for the person who used the equipment and another for who approved the use. 
-The form is intended for the use of employees, and should be reviewed and filled out for each tool or vehicle before it is released or returned.
-</thinking>
-
 # Tools And Vehicle Usage Agreement - Help Guide
 ## Purpose
 This form is used to collect information about the usage of tools and vehicles within the organization. It is a necessary step before releasing or returning tools and vehicles, and is intended to ensure that all relevant parties are aware of who has used them and when they were returned.

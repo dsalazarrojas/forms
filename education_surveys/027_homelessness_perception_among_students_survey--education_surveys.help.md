@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to collect data on the perception of homelessness among students in the education sector. It is intended for students to share their experiences, opinions, and feelings about homelessness in their community. This form is part of a larger effort to better understand the needs and concerns of students in regards to homelessness. 
-
-The questions included in this form are designed to be self-explanatory, but if there is any doubt, please refer to the following guide for further clarification.
-
-Before proceeding, make sure you have answered all questions that you think apply to you. 
-
-Note that some questions are optional, but it's essential to answer as many as you can to help us better understand your perspective. 
-
-Please keep in mind that your responses will be kept confidential and anonymous, and will only be used for research purposes. 
-
-</thinking>
-
 # Homelessness Perception Among Students Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect data on the perception of homelessness among students in the education sector. This will help us better understand the experiences, opinions, and feelings of students about homelessness in their community.

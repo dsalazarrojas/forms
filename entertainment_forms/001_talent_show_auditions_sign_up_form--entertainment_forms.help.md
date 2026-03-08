@@ -1,5 +1,3 @@
-<thinking>What this form is meant to accomplish is a simple one. It is designed for performers who wish to showcase their talents at an entertainment event. The form will gather information about the performer such as their name, contact details, and a description of their talent. The form will also be used to keep track of the talent show schedule, so it is crucial that each performer fills it out correctly. To avoid duplicate entries, the system will check for existing entries of the same name and talent type before allowing the new entry.</thinking>
-
 # Talent Show Auditions Sign Up Form - Help Guide
 ## Purpose
 This form is designed for performers to sign up for an entertainment talent show. It helps the organizers track the schedule, performers, and their talents.

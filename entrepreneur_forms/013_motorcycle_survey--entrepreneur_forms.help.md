@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "motorcycle_survey" form. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each field. After the internal reasoning block, I'll output the final help guide in Markdown format.</thinking>
-
 # motorcycle_survey - Help Guide
 ## Purpose
 The motorcycle survey form is designed to collect information about a motorcycle and its owner. This form is used to gather details such as the motorcycle's name, owner's name, and purchase price, among other relevant fields.

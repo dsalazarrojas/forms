@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cultural_event_scrapbook_submission - Help Guide
 
 ## Purpose

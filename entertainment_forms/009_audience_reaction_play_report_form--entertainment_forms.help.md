@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback and data from audience members or production team members after a performance. The purpose of this form is to gather information about audience engagement, reactions, and overall satisfaction. It is designed to be completed by individuals who have attended or participated in a live performance, such as a theater play. The form will help the production team understand what worked well and what did not during the performance, providing valuable insights for future shows and productions.
-
-The form is designed to be completed by a single individual, and each section should only be filled out once. If a section does not apply to your experience, please select "Not Applicable" or leave it blank.
-
-Before starting, please note that some fields are optional, while others are required to be filled out.
-
-</thinking>
-
 # Audience Reaction Play Report Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and data from audience members or production team members after a performance. It will help the production team understand what worked well and what did not during the performance.

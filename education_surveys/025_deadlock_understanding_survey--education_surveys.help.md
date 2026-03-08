@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users understand the concept of deadlocks and gather information about their experience, knowledge, and concerns regarding deadlocks. It is intended for educational purposes, and the goal is to collect data to improve the understanding and management of deadlocks. To ensure that the form is filled out correctly, please review each field carefully. Some fields are required, while others are optional. You can fill out this form at your own pace and save your progress if needed.
-</thinking>
-
 # Deadlock Understanding Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your understanding and concerns regarding deadlocks. It consists of eight pages, each with questions that will help us better comprehend your knowledge, experience, and concerns about deadlocks.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's aptitude for a fintech role, likely for hiring or evaluation purposes. The form collects basic personal and contact information, as well as some context about their experience, presumably to understand their background and relevance for a fintech position. This form is designed to be simple and brief, aiming to quickly gauge a person's suitability for a fintech role. The form does not collect any sensitive or financial data, and it should not be used as a substitute for in-depth evaluation or interviews.
-Please review the form fields to confirm their relevance and accuracy in the context of a fintech role. If any field appears to be unnecessary or redundant, suggest removing or rephrasing it to improve the form's effectiveness.
-</thinking>
-
 # Fintech Role Aptitude Exam - Help Guide
 ## Purpose
 The Fintech Role Aptitude Exam is designed to evaluate a person's suitability for a fintech role. It collects personal, contact, and professional details to assess their relevance for a position in the fintech industry.

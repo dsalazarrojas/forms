@@ -1,9 +1,3 @@
-<thinking>
-To create this form, we need to ensure that it accurately captures essential information about homelessness concerns. This form serves as a reporting tool for individuals to report instances of homelessness concerns in their area. It's essential to note that this form is not a substitute for official reporting channels, but rather a supplementary tool to gather information and provide insights for addressing homelessness concerns. 
-We aim to keep this form as concise and straightforward as possible while ensuring that all necessary fields are included to provide a thorough understanding of the situations. 
-Please review the fields carefully and ensure that you have filled out all relevant sections before submitting the form. 
-</thinking>
-
 # Homelessness Concern Report Form - Help Guide
 
 ## Purpose

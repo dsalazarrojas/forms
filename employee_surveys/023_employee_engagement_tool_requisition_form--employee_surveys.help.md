@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the employee engagement tools requested by employees, which will help the internal stakeholders make informed decisions about tool allocation and management. This form is not intended for employees to submit their personal preferences or opinions, but rather to provide a structured format for them to submit their tool requests in a way that is consistent with the organization's standards and guidelines. This form should only be filled out by employees who have been given explicit approval to submit a tool request, and should not be used to submit requests for personal purposes or non-work-related tools.
-
-</thinking>
-
 # employee_engagement_tool_requisition_form - Help Guide
 ## Purpose
 This form is designed to collect information about employee engagement tools requested by employees, which will be reviewed and processed by internal stakeholders for approval and resource allocation.

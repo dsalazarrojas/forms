@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information related to a lottery claim. The purpose of this form is to collect details about the claimant, including ticket information, win date, and win amount. This form will likely be used by individuals or organizations claiming a win in a lottery. The form is likely not to be used for other purposes.
-</thinking>
-
 # lottery_claim_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning block is used to explain the purpose of the form, which is to create a job request form that can be filled out by users to provide information about a job they are requesting to be posted. This form is intended to gather relevant information about the job title, job details, and other supporting documents related to the job. 
 
 </thinking>

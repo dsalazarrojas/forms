@@ -1,7 +1,3 @@
-<thinking>
-We've designed this form to help candidates provide detailed information about themselves for a job opening in the biotechnology sector. The form collects personal information, professional experience, and relevant skills and qualifications. It's essential to complete this form accurately and thoroughly to increase your chances of being considered for the position. Please make sure to answer all questions carefully, as some fields are required for the application to be considered valid. If you're unsure about any field, refer to the field-by-field explanations below.
-</thinking>
-
 # Biotechnology Sector Job Application Form - Help Guide
 ## Purpose
 The Biotechnology Sector Job Application Form is designed to collect comprehensive information about your background, qualifications, and experience for a job opening in the biotech industry. It will help us understand your fit for the position and streamline the application process.

@@ -1,12 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Performance Troupe Collaboration Application Form". This form is designed for artists and performers who wish to collaborate on a performance project. It gathers information about the troupe's details, contact details, performance preferences, collaboration preferences, and review preferences.
-
-To ensure we're not duplicating efforts, we'll make sure to check if there are any similar forms within our system before creating new forms.
-
-Before starting this form, please note that the performance preferences section has multiple questions with the same label, but different options. This is intentional, as it allows the user to provide more specific information about their performance preferences. We'll explain each section separately to avoid confusion.
-
-</thinking>
-
 # Performance Troupe Collaboration Application Form - Help Guide
 ## Purpose
 

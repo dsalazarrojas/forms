@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback on the performance of Humanization Specialists. It is a crucial tool for managers to evaluate and improve the performance of these critical members of the team. This feedback form will help ensure that Humanization Specialists are consistently meeting the required standards and expectations. To prevent duplication, please fill out a new form only when there are new issues or updates to report.
-</thinking>
-
 # Humanization Specialist Feedback Form - Help Guide
 ## Purpose
 The Humanization Specialist Feedback Form is used to collect feedback on the performance of Humanization Specialists. This form is used by managers to evaluate and improve the performance of these critical team members.

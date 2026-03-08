@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on full-time employment contracts. The purpose of this form is to provide a standardized way to record and track employment contracts for employees. This form is used to gather essential information about the employment contract, including the contract title, start and end dates, contract description, employment status, employee name, job title, manager's name and title, contract terms, employment agreement, agreement date, and employment contract end date.
-This form is intended to be completed by employees and their managers when an employment contract is established or modified. The information collected on this form will be used for administrative and HR purposes.
-</thinking>
-
 # Full Time Employment Contract Form - Help Guide
 ## Purpose
 This form is used to record and track full-time employment contracts for employees.

@@ -1,8 +1,3 @@
-<thinking>
-The "Equity in Digital Access Survey" form is designed to gather information about the digital access experiences and challenges faced by schools, teachers, and students. The survey aims to identify areas where equity and access to digital resources can be improved to support educational initiatives and ensure equal opportunities for all students. This form is intended for educational institutions and organizations to report their digital access experiences and challenges. The information gathered will be used to inform policy and resource allocation decisions that promote digital equity and access.
-Before starting this survey, please ensure that you are using it in the context of the "education_surveys" category and that you have not previously completed this survey.
-</thinking>
-
 # equity_in_digital_access_survey - Help Guide
 ## Purpose
 The "Equity in Digital Access Survey" is designed to collect information about digital access experiences and challenges faced by schools, teachers, and students. This information will be used to inform policy and resource allocation decisions that promote digital equity and access.

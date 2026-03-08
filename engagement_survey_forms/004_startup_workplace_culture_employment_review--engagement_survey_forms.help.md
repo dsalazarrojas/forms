@@ -1,8 +1,3 @@
-<thinking>
-# Internal reasoning block to check for relevance and non-duplication
-This form is designed to collect feedback from employees on the startup workplace culture, job satisfaction, and team collaboration. It aims to gather valuable insights to help the management team understand the strengths and weaknesses of the company culture and make informed decisions to improve it. The form will collect data on company size, job satisfaction, team collaboration, company culture, and other relevant factors. The data will be used to identify areas of improvement and develop strategies to foster a positive and productive work environment.
-</thinking>
-
 # Startup Workplace Culture Employment Review - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees on the startup workplace culture, job satisfaction, and team collaboration. The feedback will help the management team understand the strengths and weaknesses of the company culture and make informed decisions to improve it.

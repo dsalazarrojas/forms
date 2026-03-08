@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to submit their ideas and suggestions to the company. The purpose of this form is to collect and review employee suggestions for potential implementation. To ensure that only relevant and unique ideas are submitted, this form will check for duplication and redundancy before accepting the submission. This will help the company to stay organized and focused on innovative ideas.
-</thinking>
-
 # Idea Submission Form - Help Guide
 ## Purpose
 The Idea Submission Form is a platform for employees to share their ideas and suggestions with the company. It is designed to collect and review employee suggestions for potential implementation.

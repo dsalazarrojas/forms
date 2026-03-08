@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the employment skills of a tech applicant. It is designed to collect information about the applicant's identity and employment history, including their name, contact details, and professional background. The form is intended for use by hiring managers and HR personnel to evaluate the suitability of the applicant for employment. This form may be used in conjunction with other assessment tools or evaluations to provide a comprehensive review of the applicant's qualifications and experience.
-</thinking>
-
 # Tech Applicant Skills Employment Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about the applicant's identity and employment history in order to assess their suitability for employment in a tech role.

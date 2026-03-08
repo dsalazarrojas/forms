@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from potential tutors who wish to be considered for employment opportunities. This form will help us understand their background, skills, and availability, which will aid in the hiring process. 
-
-To ensure that we don't have duplicate applications from the same person, we will use the email address as a unique identifier.
-
-Please make sure that the required fields (First Name, Last Name, and Email) are filled in, as they are crucial for our internal processes.
-
-</thinking>
-
 # Tutor Recruiting Application - Help Guide
 ## Purpose
 This form is used to collect information from potential tutors to aid in the hiring process.

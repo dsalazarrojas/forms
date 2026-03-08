@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll review the form schema to understand its purpose and structure. The form seems to be focused on managing waiting lists for products, customers, and form-related metadata.</thinking>
-
 # Product Waiting List Form - Help Guide
 
 ## Purpose

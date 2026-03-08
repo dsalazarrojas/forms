@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support requests from users who need accommodations or accessibility features for online learning materials. The form is used by the learning platform's support team to gather relevant information to assess and address the user's request. This form should only be filled out by users who have not already contacted the platform's support team. 
-</thinking>
-
 # Online Learning Accessibility Support Request Form - Help Guide
 ## Purpose
 This form is used to request support for online learning materials that require accommodations or accessibility features.

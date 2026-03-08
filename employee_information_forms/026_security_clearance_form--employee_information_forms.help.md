@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information about an employee's security clearance status and background check. This form is typically filled out by employees who need to be cleared for security purposes, such as those working with sensitive information or in a high-security facility. This form is not a one-time process, and employees may need to update their clearance status regularly. Before filling out this form, please ensure that you are filling it out for the correct purpose and that your information is accurate.</thinking>
-
 # Security Clearance Form - Help Guide
 
 ## Purpose

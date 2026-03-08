@@ -1,7 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the Webinar Enrollment Form. The form seems to be designed to collect participant information for a webinar, which likely includes general participant details, contact information (email, phone), and specific details about their participation in the webinar (date, time, notes). We should make sure to clearly explain each field and provide guidance on how to complete the form correctly. Let's review the form structure to ensure it's easy to understand and use.
-</thinking>
-
 # Webinar Enrollment Form - Help Guide
 ## Purpose
 This form is designed to gather information from participants who wish to enroll in a webinar. Please fill out the form accurately to ensure that we have the necessary details to prepare for your participation in the webinar.

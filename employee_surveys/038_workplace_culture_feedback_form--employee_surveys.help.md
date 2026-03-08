@@ -1,9 +1,3 @@
-<thinking>...to create an effective user-facing help guide for the "Workplace Culture Feedback Form", I'll consider the provided YAML fields and explain the form's purpose, how to complete it, and what each field means. To provide a clear and concise explanation, I'll assume the form is designed to collect feedback from employees on various aspects of their work experience, focusing on job satisfaction, team collaboration, work-life balance, manager support, and overall workplace culture.
-
-The form has 26 fields, which may seem overwhelming. To make it easier to complete, I'll break it down into sections, focusing on one field at a time.
-
-</thinking>
-
 # Workplace Culture Feedback Form - Help Guide
 ## Purpose
 The "Workplace Culture Feedback Form" is designed to help you provide feedback on your experiences at work. Your responses will help us understand how you feel about your job, team, and work environment. Please answer each question honestly, and remember that your responses are anonymous.

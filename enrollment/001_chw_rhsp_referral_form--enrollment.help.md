@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for community health workers (CHWs) to refer clients to relevant services, allowing the client to receive assistance from an organization or service. To ensure accurate data and prevent duplication, please verify that a referral has not already been made for this client or that the client is not already a known contact before submitting this form.
-</thinking>
-
 # CHW RHSP Referral Form - Help Guide
 ## Purpose
 The CHW RHSP Referral Form is used by community health workers (CHWs) to refer clients to relevant services. This form is essential for ensuring that clients receive the necessary assistance and support.

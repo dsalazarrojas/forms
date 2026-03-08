@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for the maintenance and tracking of robot equipment, specifically for the purpose of performing safety inspections. This form will help ensure that equipment is regularly inspected and potential hazards are identified and mitigated. The form should only be used for equipment tracking purposes and not for other internal or external use cases.
-
-</thinking>
-
 # Robot Equipment Safety Inspection Form - Help Guide
 ## Purpose
 The Robot Equipment Safety Inspection Form is used to track and report the safety inspection status of robot equipment. The form helps maintain accurate records and enables timely interventions to prevent accidents and ensure optimal equipment usage.

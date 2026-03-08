@@ -1,5 +1,3 @@
-<thinking>Before we dive into this help guide, I'd like to acknowledge that this form has a large number of fields (25!), which can be overwhelming for users. It's likely that this form was generated based on a specific purpose or goal, and it's essential to understand this context to make the most out of this guide.</thinking>
-
 # Innovation Survey - Help Guide
 ## Purpose
 The Innovation Survey form is designed to gather information from employees about their perceptions and experiences related to innovation within the organization. This form aims to capture their thoughts, opinions, and suggestions on various aspects of innovation, such as idea generation, idea development, and implementation.

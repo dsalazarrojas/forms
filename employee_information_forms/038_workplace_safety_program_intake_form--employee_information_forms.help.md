@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees about their workplace safety concerns and incidents. It is designed to be completed by employees who have experienced or witnessed a workplace hazard. The purpose of this form is to gather accurate and detailed information about the incident, allowing the workplace safety team to respond and take necessary steps to prevent future incidents. Please ensure that this form is only used for its intended purpose and not for any other reason. To avoid duplication, please do not submit this form for employees who have already provided safety information through other means.
-</thinking>
-
 # Workplace Safety Program Intake Form - Help Guide
 ## Purpose
 The Workplace Safety Program Intake Form is designed to collect information from employees about their workplace safety concerns and incidents. This form helps the workplace safety team respond promptly and effectively to potential safety issues.

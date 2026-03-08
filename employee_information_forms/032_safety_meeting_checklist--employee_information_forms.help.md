@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to document the details of a safety meeting, which is a crucial step in ensuring that employees are aware of and follow safety protocols to prevent accidents. By filling out this form, you'll provide valuable information about the meeting, including the date and time it took place, the location where it occurred, and the types of incidents that were discussed. This information will help managers and team leads review the effectiveness of the meeting and identify areas for improvement.
-
-It's essential to fill out this form accurately and thoroughly, as it will help in maintaining a safe work environment. Please make sure to review the form before submitting it to ensure that all necessary fields are filled.
-</thinking>
-
 # Safety Meeting Checklist - Help Guide
 ## Purpose
 The Safety Meeting Checklist is a form used to document the details of a safety meeting.

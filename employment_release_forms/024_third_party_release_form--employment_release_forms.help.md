@@ -1,9 +1,3 @@
-<thinking>
-This form is a tool for collecting information about third-party releases. Third-party releases are agreements or documents that allow an individual to release their rights to a third party, which can include a company, organization, or other entity. 
-This form is designed to guide users through the process of creating a third-party release form, which is a crucial document in various industries such as employment, business, and finance. 
-The form is meant to be a starting point or a template for users to create their own third-party release forms tailored to their specific needs. 
-</thinking>
-
 # third-party-release-form - Help Guide
 ## Purpose
 The purpose of this form is to create a third-party release form, which is a document that grants permission to a third party to access or use sensitive information.

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block: This form is designed to collect information from virtual fans who wish to participate in a broadcast or event. The form will help to gather their details and ensure they have provided their consent for the broadcast. This form will be used to verify that the participant has read and agreed to the terms and conditions of the broadcast. It is crucial that this form is completed accurately and honestly to avoid any miscommunication. Please ensure that you are completing this form for the correct event or broadcast. If you are unsure, please refer to the event organizer or the broadcast details.
-</thinking>
-
 # virtual_fan_panel_broadcast_consent_form - Help Guide
 ## Purpose
 The virtual_fan_panel_broadcast_consent_form is a form designed to collect information and consent from virtual fans who wish to participate in a broadcast or event.

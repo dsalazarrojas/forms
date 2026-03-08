@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Parent School Program Preference Poll Form" which is used to collect input from parents on their program preferences for their child. This guide will walk users through the purpose and completion of this form, explaining each field and any tips to consider while filling it out.
-</thinking>
-
 # Parent School Program Preference Poll Form - Help Guide
 ## Purpose
 The "Parent School Program Preference Poll Form" is used to gather input from parents on their program preferences for their child. This form is designed to help us understand what programs parents are interested in, and how they would like to be involved in the school programs.

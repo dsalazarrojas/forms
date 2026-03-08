@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect critical information during emergency situations, such as natural disasters, accidents, or other critical events that require immediate attention. It allows users to provide contact information, incident details, and response data to ensure swift and effective emergency response. This form is designed to be completed by those who have been affected by or are responsible for the emergency response, such as authorities, emergency services, or individuals involved in the incident. Please ensure that you have completed this form accurately and thoroughly, as the information collected will help in coordinating and executing a response to the emergency situation. Before starting, please confirm that you have all the necessary information and resources available to complete this form without interruptions.
-</thinking>
-
 # Evacuation Alert Communication Form - Help Guide
 ## Purpose
 This form is designed to collect critical information during emergency situations to ensure swift and effective emergency response. It is intended for those who have been affected by or are responsible for the emergency response.

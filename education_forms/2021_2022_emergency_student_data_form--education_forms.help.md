@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the 2021 2022 Emergency Student Data Form. Please review this guide to ensure you understand the form's purpose and requirements.
-
-To ensure the form's integrity and security, please do not share or modify any portion of this guide without proper authorization. This form has been generated using AI algorithms and is not affiliated with, endorsed by, or derived from any proprietary form platform.
-
-Before proceeding, please verify that the form has not been previously completed for the same student. Duplicate forms may lead to incorrect data and compromise student safety.
-
-The form contains sensitive information. Please handle it with care and ensure all fields are filled accurately and truthfully.
-
-Please note that some fields may have specific requirements or formatting expectations. These will be highlighted in the field-by-field explanation section.
-
-</thinking>
-
 # 2021 2022 Emergency Student Data Form - Help Guide
 ## Purpose
 The 2021 2022 Emergency Student Data Form is designed to collect essential information about students in case of emergencies. This data will help school authorities and emergency contacts respond efficiently and effectively in critical situations.

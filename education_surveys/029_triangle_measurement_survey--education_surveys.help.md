@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data from researchers or institutions on their projects and research goals, as well as gather feedback and information about the people involved in the research. It appears to be a survey or data collection form for research purposes.
-
-The form has several fields that require completion, including the submitter's name, email, phone number, and date, as well as fields for the research project's title, URL, and researcher's name, title, and institution's name, URL, and email. The form also includes fields for feedback and notes.
-
-It's essential to understand that the form's fields are designed to collect specific information and should not be altered or duplicated. Please make sure to fill out the form accurately and completely.
-</thinking>
-
 # Triangle Measurement Survey - Help Guide
 ## Purpose
 This form is designed to collect data from researchers or institutions on their projects and research goals.

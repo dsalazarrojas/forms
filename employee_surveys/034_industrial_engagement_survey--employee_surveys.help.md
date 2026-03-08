@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ** industrial-engagement-survey - Help Guide **
 
 ## Purpose

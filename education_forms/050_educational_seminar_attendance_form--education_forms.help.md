@@ -1,12 +1,3 @@
-<thinking>
-This form's purpose is to collect information from attendees about their experience at an educational seminar. It might be used by event organizers to track attendance, gather feedback, or follow up with attendees for further engagement.
-
-Before completing this form, ensure that you're not already using a similar form for the same purpose. This form is designed to be a one-time data collection tool and is not intended to be a general contact form or a form for multiple events.
-
-To complete this form, follow the steps below.
-
-</thinking>
-
 # Educational Seminar Attendance Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from attendees about their experience at an educational seminar.

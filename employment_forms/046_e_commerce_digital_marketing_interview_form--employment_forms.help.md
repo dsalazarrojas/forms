@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm the purpose of the form and whether it's being duplicated or not. The form titled "E Commerce Digital Marketing Interview Form" is likely used for gathering information about a candidate's background and experience in digital marketing. We need to ensure that this form isn't being used for other purposes or if there are similar forms with the same purpose.
-</thinking>
-
 # E Commerce Digital Marketing Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information about your background and experience in digital marketing for the purpose of an interview or assessment. It's a tool to help the hiring team get to know your qualifications and fit for a role in digital marketing.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used for enrolling in a program and collecting demographic information from parents and youth. To use this form, the user should be enrolled in a program and be a parent or guardian of the youth. The form is not intended for youth to complete on their own, but rather as a parent or guardian to provide information about the youth.
-The purpose of this form is to collect demographic information from parents and youth, and to allow them to select program options for the youth. This form is not intended for general public use.
-This form is not meant to be completed more than once per youth. If a user has already completed this form for a youth, they should not attempt to complete it again.
-</thinking>
-
 # enrollment_registration - Help Guide
 ## Purpose
 This form is used for enrolling in a program and collecting demographic information from parents and youth. To use this form, the user should be enrolled in a program and be a parent or guardian of the youth.

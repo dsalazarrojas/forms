@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Contact Information Update Request Form - Help Guide
 
 ## Purpose

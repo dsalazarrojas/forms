@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Logo Contest Form" that meets the specified requirements, we will focus on the form's purpose, the steps to complete it, and a detailed explanation of each field. This guide is designed to be clear, concise, and practical for end-users.
-
-</thinking>
-
 # Logo Contest Form - Help Guide
 ## Purpose
 The Logo Contest Form is designed to gather information about a logo upload, including the type, date, and size of the logo, as well as its upload result and file size. This form helps in organizing and categorizing logos uploaded to the system.

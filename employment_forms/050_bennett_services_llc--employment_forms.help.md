@@ -1,7 +1,3 @@
-<thinking>
-I need to understand the form's purpose and ensure I provide a clear and concise guide for end-users. Upon reviewing the form fields, it appears to be a timesheet and payroll form for employees. The form collects various details such as employee information, hours worked, pay periods, and deductions. It seems the form is used for tracking employee work hours, pay calculations, and payroll deductions for a specific period. I'll aim to provide a clear and practical guide for end-users to complete this form accurately.
-</thinking>
-
 # Bennett Services Llc - Help Guide
 ## Purpose
 This form is used to track employee hours worked, calculate pay, and manage payroll deductions for a specific pay period.

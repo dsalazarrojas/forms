@@ -1,11 +1,3 @@
-<thinking>
-
-The "Science Center Evaluation Form" is a collection of questions designed to gather feedback from visitors about their experience at the Science Center. This form is meant to help the center's management understand what visitors enjoy most, what they find lacking, and what they would like to see improved. It's essential to provide accurate and constructive feedback to ensure that the Science Center continues to offer the best possible experience for its visitors.
-
-The form is divided into several sections, each addressing a different aspect of the Science Center. By answering the questions honestly, you'll be contributing to the improvement of the center and helping shape its future developments.
-
-</thinking>
-
 # Science Center Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from visitors about their experience at the Science Center. Your input will help us better understand what we do well and what we can improve.

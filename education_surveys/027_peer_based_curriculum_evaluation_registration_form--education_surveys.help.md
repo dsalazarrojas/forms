@@ -1,8 +1,3 @@
-<thinking>
-To prevent duplication, please note that this form is intended for peer-based curriculum evaluation registration. This form is for reviewers to register their interest in participating in peer evaluation of a curriculum. Reviewers will provide information about their preferred evaluation method, evaluation type, and evaluation frequency, among other details. Please ensure that this form is filled out accurately and completely to ensure effective evaluation and to avoid duplication of effort.
-
-</thinking>
-
 # Peer Based Curriculum Evaluation Registration Form - Help Guide
 ## Purpose
 

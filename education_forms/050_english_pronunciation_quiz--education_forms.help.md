@@ -1,10 +1,3 @@
-<thinking>
-This form is used to help users assess their understanding of English pronunciation in a series of questions and gather information about their practice habits and language proficiency.
-The form is designed to be a quick and easy way to evaluate the user's knowledge of English pronunciation, with questions ranging from simple word pronunciations to more specific details about their practice habits.
-The form is not meant to be a comprehensive test, but rather a helpful tool for users to gauge their own knowledge and identify areas for improvement.
-The form will ask a series of questions, each focusing on a specific aspect of English pronunciation, and gather information about the user's practice habits and language proficiency.
-</thinking>
-
 # English Pronunciation Quiz - Help Guide
 ## Purpose
 This form is designed to assess your understanding of English pronunciation and gather information about your practice habits and language proficiency.

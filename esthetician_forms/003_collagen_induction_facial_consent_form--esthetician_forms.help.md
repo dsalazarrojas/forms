@@ -1,11 +1,3 @@
-<thinking>Before generating the help guide, I've reviewed the provided form and its fields to ensure that I understand its purpose, requirements, and fields. Here's my internal reasoning:
-
-The Collagen Induction Facial Consent Form is designed to gather essential information from clients before administering a collagen induction facial treatment. This form is used to collect demographic data, medical history, and treatment expectations from clients. The form has 20 fields, each with a specific purpose. I've reviewed the fields to understand their meaning and relevance. 
-
-The form requires the client's full name, date of birth, email address, phone number, skin type, current skin conditions, allergies, medications, recent procedures, sun exposure, pregnancy status, treatment goals, pain tolerance, downtime acceptance, understanding of potential risks and side effects, aftercare agreement, commitment to using sunscreen, and consent to the treatment. This form also has a signature field where the client acknowledges their understanding of the treatment and its potential risks. The fields are a mix of text, date, email, phone number, select_one, select_multiple, and yes/no options.
-
-</thinking>
-
 # Collagen Induction Facial Consent Form - Help Guide
 ## Purpose
 The Collagen Induction Facial Consent Form is a document that clients must sign before receiving a collagen induction facial treatment. This form is used to gather essential information about the client's medical history, skin type, and treatment expectations.

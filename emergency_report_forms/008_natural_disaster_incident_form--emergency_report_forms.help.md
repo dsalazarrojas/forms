@@ -1,13 +1,3 @@
-<thinking>
-This is a critical step to create a user-facing help guide for the "natural-disaster-incident-form" form. Before creating the guide, let's analyze the form's purpose and fields:
-
-- The form's purpose is to collect information about incidents or events related to natural disasters. This could include damage reports, incident descriptions, location, affected people, and other relevant details.
-- The fields seem to cover various aspects of natural disasters, including information about the incident itself (title, location, type, severity), the impact (damage description, affected people, damage amount), and other relevant details (incident date, time, time zone).
-
-To create a clear and concise help guide, we'll focus on explaining each field in a straightforward and practical way, avoiding unnecessary technical jargon.
-
-</thinking>
-
 # natural-disaster-incident-form - Help Guide
 ## Purpose
 The "natural-disaster-incident-form" is designed to collect information about incidents or events related to natural disasters. This form helps to gather details about the incident, including location, damage description, affected people, and other relevant information.

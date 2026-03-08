@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering feedback and engagement from users about their experience with a program. The form is designed to collect information on the user's level of engagement, rating of experience, and suggestions for improvement. It's crucial to ensure that the user's feedback is accurate and relevant to the program. Please review the form carefully to ensure that your answers are based on your actual experience and not a duplicate of your previous feedback. If you're unsure or have previously submitted a similar form, please refrain from submitting this form to avoid duplication of effort.
-</thinking>
-
 # Global Learning Engagement Survey - Help Guide
 ## Purpose
 The Global Learning Engagement Survey is a tool to help us understand your experience with our program. Your feedback is valuable in helping us identify areas of improvement and enhance our services.

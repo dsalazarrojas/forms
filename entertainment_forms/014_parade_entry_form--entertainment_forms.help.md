@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information for a parade entry submission. The purpose of this form is to gather essential details from participants, including their contact information and entry details. This form is not intended for internal use or sensitive data collection, so no password or credit card fields are included. Each field is designed to be straightforward and easy to understand.
-
-</thinking>
-
 # Parade Entry Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we'll need to understand that the form purpose is for evaluating the quality of an advertisement. This form likely belongs to a specific business process within the company, such as marketing or product development. The form will help evaluate the advertisement's effectiveness and gather feedback from employees who have reviewed it. This form may be used to track progress and make data-driven decisions about future marketing strategies.
-
-We'll also need to verify that the form fields are correctly labeled and that there's no duplication of fields. Upon reviewing the YAML, we see that most fields are labeled correctly, but there's a slight duplication in the field names and labels. For example, "evaluation_form_employees_evaluated" and "evaluation_form_employees_evaluated_2" are both used to gather feedback from employees but have different field labels. We'll need to clarify the differences between these fields in the help guide.
-
-</thinking>
-
 # longwood_prostaff_eval_rec_ad - Help Guide
 ## Purpose
 The longwood_prostaff_eval_rec_ad form is used to evaluate the quality of an advertisement. Fill out this form to provide feedback on advertisements that you have reviewed.

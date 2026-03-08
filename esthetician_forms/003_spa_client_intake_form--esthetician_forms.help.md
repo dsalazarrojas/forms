@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect client information for a spa treatment session. The form is likely used by spa therapists to gather details about their clients, including contact information, medical history, and treatment preferences. This form should be completed by a client or their representative, and the results will likely be used by the spa staff to provide personalized treatment and ensure client safety.
-
-Before proceeding, please check that this form has not been previously completed for the same client. This will help prevent data duplication and ensure that each client's information is up-to-date.
-
-</thinking>
-
 # spa_client_intake_form - Help Guide
 ## Purpose
 The spa_client_intake_form is a client intake form used by spa therapists to collect information about clients before providing treatment.

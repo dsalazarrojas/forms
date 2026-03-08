@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the attendance and participation of guests at a gala event. This form helps in tracking attendance, gathering feedback, and ensuring the overall success of the event. 
-
-To ensure a smooth and successful gala event, it is crucial that the form is filled out completely and accurately. 
-
-This form should only be filled out by guests who have attended the gala event. It is not to be used for any other purpose.
-
-</thinking>
-
 # Gala Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect information about the attendance and participation of guests at a gala event. It helps in tracking attendance, gathering feedback, and ensuring the overall success of the event.

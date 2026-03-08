@@ -1,13 +1,3 @@
-<thinking>
-This form is used for registering manager feedback and coaching sessions. It is intended to be used by managers to provide feedback and coaching to their employees. This form is designed to be filled out by the manager, and it will be used to schedule and track coaching sessions.
-
-Before starting to fill out this form, please ensure that you have the necessary permissions and approvals to complete the form. If you are unsure, please reach out to your supervisor or HR department for clarification.
-
-This form is designed to be simple and easy to use, but it is essential to fill it out accurately and completely. Please make sure to provide all the required information and answer all the questions to the best of your ability.
-
-If you have any questions or concerns while filling out this form, please don't hesitate to reach out to your supervisor or HR department for assistance.
-</thinking>
-
 # manager_feedback_coaching_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to register feedback and coaching sessions between managers and their employees. This form helps to schedule and track coaching sessions, ensuring that both parties are on the same page and that the coaching goals and topics are well-defined.

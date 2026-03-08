@@ -1,7 +1,3 @@
-<thinking>...I'm assuming the form is designed to track employee work hours, breaks, and other relevant work-related information for time-tracking purposes. I'll review the form fields to ensure I'm providing accurate explanations...
-
-</thinking>
-
 # Time Tracker Form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's work hours, breaks, and other relevant details for time-tracking purposes. It's intended for employees to report their daily work hours, breaks, and submit their work-related information to their managers.

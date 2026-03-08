@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to provide feedback on their remote work experience. The purpose of this form is to gather information on the quality of work, productivity, and overall satisfaction with the flexible work arrangement offered. Please make sure to complete this form if you have participated in remote work in the past and are able to provide an honest and detailed account of your experience. This form is for feedback purposes only and will not affect your performance evaluations or job status.
-</thinking>
-
 # Remote Work Experience Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees who have participated in remote work. Your input will help us to understand your experiences, challenges, and suggestions for improving our remote work policy.

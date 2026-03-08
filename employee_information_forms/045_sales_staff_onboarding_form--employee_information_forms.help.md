@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for collecting information about new sales staff members to be onboarded into the company. The purpose of this form is to gather essential details about the sales representatives, including their job title, email address, phone numbers, and manager's information. The form is designed for both new hires and existing sales representatives, allowing for flexibility in its usage. It is recommended to fill out the form carefully, ensuring all required and optional fields are accurate and complete.
-
-</thinking>
-
 # Sales Staff Onboarding Form - Help Guide
 ## Purpose
 The Sales Staff Onboarding Form is used to gather information about new sales staff members for the onboarding process.

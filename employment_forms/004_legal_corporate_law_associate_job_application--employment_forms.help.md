@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from potential candidates applying for a Legal Corporate Law Associate position in a corporation. The form will likely be used in an in-house or internal recruitment process where HR or hiring teams need to assess candidate qualifications and fit for the role. 
-
-The form's purpose is to gather relevant details about the candidate's background, qualifications, and availability to determine the best fit for the position. The fields are designed to be simple and user-friendly, making it easy for candidates to provide the necessary information.
-
-Internal teams should ensure that only candidates who are eligible for the role are invited to fill out this form, and that the information gathered is used solely for the internal recruitment process. 
-
-Before sharing this form with external candidates, please ensure that you've reviewed and followed your company's internal policies and external communication channels to maintain compliance with any applicable laws and regulations.
-
-</thinking>
-
 # Legal Corporate Law Associate Job Application - Help Guide
 ## Purpose
 This form is designed to collect information from potential candidates applying for a Legal Corporate Law Associate position in a corporation.

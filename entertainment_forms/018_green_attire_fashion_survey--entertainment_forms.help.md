@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about individuals' attitudes and behaviors related to fashion and sustainability. The form is designed to gather data on various aspects of fashion, including sustainable practices, personal preferences, and purchasing habits. This information will be used to inform the development of more sustainable and customer-centric fashion products and services.
-
-Before proceeding, please note that this form is intended for general information collection and does not require any personal or sensitive information. The form is designed to be completed in a few minutes and can be saved for later if needed.
-
-Please review the form carefully and make sure you are completing it for the intended purpose and not for any other reason. If you have any doubts or concerns, please feel free to reach out to us for clarification.
-
-</thinking>
-
 # Green Attire Fashion Survey - Help Guide
 ## Purpose
 

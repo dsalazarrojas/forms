@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture essential information from applicants for the 1st PUC (Pre-University Course) application process. It is a crucial step in the admission process, and filling it out accurately and completely will help ensure that the applicant's information is processed correctly. Please note that this form is not affiliated with any proprietary form platforms, and the data collected here will be used solely for the purpose of evaluating and processing the applicant's 1st PUC application.
-
-Before starting the form, ensure that you have all the necessary documents and information ready. If you are unable to complete the form in one sitting, you can save your progress and return to it later.
-
-</thinking>
-
 # 1st PUC Application Form 2021 2022 - Help Guide
 ## Purpose
 This form is designed to collect essential information for the 1st PUC application process.

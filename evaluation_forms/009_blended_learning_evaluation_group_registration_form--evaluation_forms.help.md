@@ -1,8 +1,3 @@
-<thinking>
-The blended learning evaluation group registration form is designed to collect information from groups that want to participate in the blended learning evaluation program. This form aims to gather details about the group's institution, participants, and their learning program. It is intended to help us understand their needs, goals, and evaluation requirements. Before filling out this form, please ensure that you are representing a group and not an individual. If you have filled out this form before, you may already be registered in our system, so please check your previous registration before submitting this form. Please note that this form is only for groups and not for individual registrations. If you are unsure about any of the information provided, please contact us for clarification.
-
-</thinking>
-
 # Blended Learning Evaluation Group Registration Form - Help Guide
 
 ## Purpose

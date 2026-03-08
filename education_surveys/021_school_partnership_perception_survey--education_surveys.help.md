@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Partnership Perception Survey - Help Guide
 ## Purpose
 The School Partnership Perception Survey is designed to gather input from schools and parents on their perception of the current partnership between the school and the community. This information will help us understand the strengths and weaknesses of our partnership and inform future improvements.

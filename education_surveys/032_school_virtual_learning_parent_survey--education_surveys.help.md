@@ -1,7 +1,3 @@
-<thinking>
-**Form Purpose:** The "School Virtual Learning Parent Survey" is designed to gauge parents' perceptions and concerns regarding their child's virtual learning experience. This form aims to gather feedback on various aspects of the school's virtual learning approach, such as communication methods and support needs. The survey's purpose is to help the school administration understand parental preferences and make informed decisions to improve the virtual learning program.
-</thinking>
-
 # School Virtual Learning Parent Survey - Help Guide
 ## Purpose
 This guide helps you navigate the "School Virtual Learning Parent Survey". The purpose of this survey is to collect your honest feedback about your child's virtual learning experience and preferences for communication with the school.

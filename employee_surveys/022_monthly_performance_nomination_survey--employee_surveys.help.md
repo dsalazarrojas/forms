@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about nominations for employee performance and review cycles. It is intended for use by team members, team leaders, and managers to provide feedback and input on performance and nominations. This form is not intended to be used for other purposes, such as collecting personal data or for general surveys. Each field is designed to be filled in by a specific group of people, with some fields being optional. This guide will explain each field in detail to help users navigate the form correctly.
-</thinking>
-
 # Monthly Performance Nomination Survey - Help Guide
 
 ## Purpose

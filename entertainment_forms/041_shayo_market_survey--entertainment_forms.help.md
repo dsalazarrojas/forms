@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather user information, focusing on entertainment preferences, location, and personal data (date of birth, email, and phone number). The form is intended for general user profiling, allowing users to select their favorite entertainment genres (music, sports, movies), choose their preferred location (home, office), and provide essential contact information.
-</thinking>
-
 # shayo_market_survey - Help Guide
 ## Purpose
 The Shayo Market Survey form is a data collection tool used to gather information about users' preferences and contact details.

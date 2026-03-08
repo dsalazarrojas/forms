@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disaster Recovery Readiness Assessment Form - Help Guide
 ## Purpose
 The Disaster Recovery Readiness Assessment Form is designed to evaluate your organization's readiness for disaster recovery. This form will help you assess the current state of your disaster recovery plan and identify areas for improvement.

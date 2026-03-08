@@ -1,10 +1,3 @@
-<thinking>
-This form is a Severance Settlement Form used to document and process employment terminations in a formal and organized manner. 
-It is used to capture employee and manager information, severance package details, and settlement terms. 
-The form is designed to be completed in conjunction with HR and management to ensure a smooth and fair severance process. 
-The fields in this form are designed to gather relevant information about the termination, ensuring that all necessary details are captured accurately and consistently.
-</thinking>
-
 # Severance Settlement Form - Help Guide
 ## Purpose
 This form is used to document and process employment terminations, ensuring that all necessary details are captured accurately and consistently.

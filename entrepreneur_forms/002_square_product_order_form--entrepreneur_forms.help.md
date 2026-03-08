@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Square Product Order Form - Help Guide
 ## Purpose
 The Square Product Order Form is a multi-page form used to collect information about a product order from a customer. The form is designed to gather essential details such as product line, product description, customer name, order date and time, and order amount. The form also includes an option for payment method.

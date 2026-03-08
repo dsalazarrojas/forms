@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and document facility inspection reports on a monthly basis. It's intended to capture information about the condition and status of facilities within the organization. The form will help ensure that facilities are inspected regularly and any issues are addressed promptly. Please ensure you only fill out this form if it's a monthly facility inspection report for a specific facility. If you're unsure, please reach out to your supervisor or facilities management team for clarification.
-</thinking>
-
 # monthly_facility_inspection_report - Help Guide
 
 ## Purpose

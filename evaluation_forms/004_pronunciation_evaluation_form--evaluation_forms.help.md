@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the pronunciation of students. This form is used by evaluators to gather information from students about their pronunciation and provide feedback in response. It is intended for internal use within your organization. Please fill out the form completely and accurately to help evaluators provide constructive feedback to students.
-</thinking>
-
 # Pronunciation Evaluation Form - Help Guide
 ## Purpose
 This form is used by evaluators to collect and evaluate the pronunciation of students. It is intended to provide a structured way to gather feedback from students and help them improve their pronunciation.

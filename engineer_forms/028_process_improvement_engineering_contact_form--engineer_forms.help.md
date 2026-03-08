@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from process improvement engineers about their contact details, description of a process improvement request, and other relevant details such as category, status, and priority. This form serves as a centralized hub for engineers to communicate their queries, thoughts, and ideas for process improvement. When filling out this form, please ensure that you provide accurate and clear information about your contact and request details.
-Please note that some fields are mandatory (required) and should be filled out accordingly.
-</thinking>
-
 # Process Improvement Engineering Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from process improvement engineers about their contact details, description of a process improvement request, and other relevant details such as category, status, and priority.

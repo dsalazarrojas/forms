@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or event organizers for party decoration services. The form is used to gather details about the event, such as the party name, date, time, location, and decoration description. It also includes fields for specifying decoration services, additional information, and contact details. The form is likely used in an event planning or party planning context, where the organizer needs to provide details about the event and services required for decoration.
-</thinking>
-
 # party_decoration_agreement_form - Help Guide
 ## Purpose
 The party decoration agreement form is a document used to collect information from clients or event organizers about party decoration services.

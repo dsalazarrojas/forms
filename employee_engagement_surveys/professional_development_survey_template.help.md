@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on their current job satisfaction and professional growth opportunities within the organization. The goal is to identify areas of improvement and provide valuable insights for employee development.
-</thinking>
-
 # Professional Development Survey Template - Help Guide
 ## Purpose
 This form is used to collect feedback from employees on their job satisfaction and professional growth opportunities within the organization. The goal is to identify areas of improvement and provide valuable insights for employee development.

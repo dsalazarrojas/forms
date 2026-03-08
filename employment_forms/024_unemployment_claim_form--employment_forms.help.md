@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to help employees claim unemployment benefits. This form should only be used by employees who are eligible for unemployment benefits. Please ensure that you have not previously submitted an unemployment claim for the same claim period. If you have any questions or concerns, please contact your local unemployment office.
-
-</thinking>
-
 # Unemployment Claim Form - Help Guide
 ## Purpose
 This guide will walk you through the completion of the Unemployment Claim Form, which is used to claim unemployment benefits. Please note that this form is only for employees who are eligible for unemployment benefits.

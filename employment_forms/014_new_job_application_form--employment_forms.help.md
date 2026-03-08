@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning and checks for duplication)
-
-This form is designed to collect personal details from individuals who are interested in applying for a new job within our organization. This form is intended to capture relevant information that will help us assess their qualifications and eligibility for the position. To confirm, this is not a resume or cover letter, but rather a concise collection of fields that will aid in the initial review process.
-
-Before proceeding, please ensure that you have not already submitted a job application form for the same position. If you have any questions or concerns, feel free to contact us.</thinking>
-
 # New Job Application Form - Help Guide
 ## Purpose
 This form is used to collect personal details from individuals who are interested in applying for a new job within our organization.

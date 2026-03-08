@@ -1,7 +1,3 @@
-<thinking>Internal Startup Incubator Application Form - Purpose
-
-The Internal Startup Incubator Application Form is designed for individuals interested in participating in the internal startup incubator program within our organization. This form helps us understand your background, goals, and needs to better support your entrepreneurial journey. Please ensure that your submission is original and does not duplicate any previous application. This will help us to process your application efficiently and provide the most relevant feedback.</thinking>
-
 # Internal Startup Incubator Application Form - Help Guide
 ## Purpose
 

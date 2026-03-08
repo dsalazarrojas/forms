@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gauge the engagement level of employees with the company's advocacy program. The purpose is to collect information on how well employees are aware of and participating in the program. The form will help the company identify areas of improvement and assess the effectiveness of the advocacy program. It is not a duplicate of other engagement surveys, as it focuses specifically on employment advocacy, which is distinct from other employee engagement aspects.
-
-</thinking>
-
 # Employment Advocacy Engagement Survey - Help Guide
 ## Purpose
 The Employment Advocacy Engagement Survey is designed to measure employee engagement with the company's advocacy program. It aims to collect data on employee awareness, participation, communication, and follow-up methods to help the company evaluate the program's effectiveness and identify areas for improvement.

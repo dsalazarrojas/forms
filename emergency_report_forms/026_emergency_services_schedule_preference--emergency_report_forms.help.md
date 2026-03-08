@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Services Schedule Preference - Help Guide
 
 ## Purpose

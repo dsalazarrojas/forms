@@ -1,7 +1,3 @@
-<thinking>
-Are you sure you've covered all the possible scenarios that may arise when a user tries to RSVP to a dance party? This form is designed to collect information for a specific event, the "kiss and tell valentines dance party." It's not designed for other types of events or parties. Double-check that you haven't missed any important details or requirements for users.
-</thinking>
-
 # kiss_and_tell_valentines_dance_party_rsvp_form - Help Guide
 
 ## Purpose

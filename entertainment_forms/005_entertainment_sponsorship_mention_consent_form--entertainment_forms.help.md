@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about an entertainment sponsorship mention from an event or stream. The form is used to ensure that the sponsor has given their consent to be mentioned in the entertainment content, and to collect additional details about the sponsorship, such as the sponsor's contact information and preferred mention format. This form is typically used by event organizers or content creators to collect this information from sponsors before creating or publishing content featuring the sponsor.
-</thinking>
-
 # Entertainment Sponsorship Mention Consent Form - Help Guide
 ## Purpose
 This form is used to collect consent and details from entertainment sponsors for mentions in content such as events, streams, and videos. It ensures that the sponsor has given their consent to be mentioned and provides necessary information for follow-up contact and content creation.

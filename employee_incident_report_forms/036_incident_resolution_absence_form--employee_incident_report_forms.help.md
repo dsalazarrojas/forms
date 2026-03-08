@@ -1,8 +1,3 @@
-<thinking> 
-The Incident Resolution Absence Form is used to collect information and details about incidents that have occurred within the organization. It is used to gather information such as incident dates, locations, and types, as well as contact information for employees and managers involved. The form also includes fields for reporting and resolution status, and details of the resolution process. This form is intended to help ensure that incidents are properly documented and addressed in a timely and efficient manner.
-
-</thinking>
-
 # Incident Resolution Absence Form - Help Guide
 ## Purpose
 This form is used to collect and document incidents that occur within the organization, including details about the incident, the employees involved, and the resolution process.

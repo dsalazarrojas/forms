@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees about the ergonomics of their workspace. The purpose of this form is to identify areas of improvement and suggestions for enhancing the workspace comfort and productivity. Please ensure that you have the necessary permissions and clearance to complete this form.
-</thinking>
-
 # office_ergonomics_feedback_questionnaire - Help Guide
 ## Purpose
 The office ergonomics feedback questionnaire is a form that asks employees to share their thoughts, concerns, and suggestions about the ergonomics of their workspace. It aims to collect valuable feedback that can help the organization make informed decisions to create a more comfortable and productive work environment.

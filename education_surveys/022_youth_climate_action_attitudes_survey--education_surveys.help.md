@@ -1,8 +1,3 @@
-<thinking>
-This guide will be used by users to provide feedback on how they perceive and act on climate change. The purpose of the form is to understand the attitudes and behaviors of young individuals regarding climate action. The form will be used to collect responses from individuals across different demographic groups, allowing researchers to analyze and identify patterns. It's essential to complete this form accurately and honestly to ensure valid and meaningful results. Please ensure you have read and understood the form instructions before proceeding.
-
-</thinking>
-
 # Youth Climate Action Attitudes Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your attitudes and behaviors regarding climate action. Your responses will help researchers understand how young individuals perceive and act on climate change.

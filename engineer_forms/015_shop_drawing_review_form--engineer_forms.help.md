@@ -1,9 +1,3 @@
-<thinking>
-This form is used to review and record the completion status of shop drawings, which are detailed plans and designs for construction projects. It serves as a crucial document for tracking progress and ensuring compliance with project requirements. The form captures essential information, such as review comments, completion dates, and contact details for the architect and contractor. It's a required form for shop drawing reviews, and users should only complete it for the purpose of reviewing shop drawings.
-
-Before proceeding, ensure that all necessary information is accurate and up-to-date. Reviewing this form requires the correct completion of all required fields and careful consideration of comments and contact details.
-</thinking>
-
 # Shop Drawing Review Form - Help Guide
 ## Purpose
 This form is used for reviewing shop drawings and tracking progress in construction projects.

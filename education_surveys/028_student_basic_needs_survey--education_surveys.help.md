@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Student Basic Needs Survey" form, we need to understand the purpose and functionality of the form. The purpose of this form is to collect information from students to assess their basic needs, such as financial aid, campus resources, health services, support services, housing, and transportation. This form is likely used by administrators or faculty members to gather data for research, policy-making, or student support services.
-
-We should also check if this form is being used for any other purpose or if it's a duplicate of another form. If it's not clear or relevant, we should review the form's fields and their labels to ensure they are accurate and concise.
-
-</thinking>
-
 # Student Basic Needs Survey - Help Guide
 ## Purpose
 The Student Basic Needs Survey is designed to collect information from students about their basic needs, including financial aid, campus resources, health services, support services, housing, and transportation. This data will help administrators and faculty members understand student needs and make informed decisions to support students.

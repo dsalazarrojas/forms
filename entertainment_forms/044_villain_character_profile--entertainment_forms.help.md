@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a villain character. It is likely used for a game or a story development tool, where the user needs to create or edit villain characters. The form is divided into several sections that gather different aspects of the character's profile.
-
-The form will help in understanding how to complete it:
-
-1. Fill in the basic information such as name, age, and occupation.
-2. Add any superpowers or weaknesses that the character has.
-3. Specify the character's motivations and goals.
-
-To complete this form, please follow the instructions below.
-</thinking>
-
 # Villain Character Profile - Help Guide
 ## Purpose
 This form is designed to collect information about a villain character. It is used to gather data about their name, age, occupation, superpowers, weaknesses, motivations, lair, and goals.

@@ -1,5 +1,3 @@
-<thinking>Before creating this form, consider verifying that this form is being used for its intended purpose, i.e., to enroll students in a diploma program. Additionally, ensure that this form is not being used for any other purpose that may conflict with or duplicate its intended use. Also, ensure that all required fields are filled out accurately to avoid any delays or errors in the enrollment process.</thinking>
-
 # Diploma Enrollment Form - Help Guide
 ## Purpose
 The Diploma Enrollment Form is used to enroll students in a diploma program. This form is required for the enrollment process, and it helps us to collect information from students that is necessary for processing their applications and providing them with the services they need.

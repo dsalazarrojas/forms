@@ -1,7 +1,3 @@
-<thinking>
-This form is a calculator designed to convert between different units of heat transfer, allowing users to easily switch between various units of measurement for heat transfer values. The form is intended to be used for educational purposes or as a quick reference tool for professionals in the field of heat transfer. Before proceeding, please confirm that this form accurately reflects your needs. If you are looking for a more advanced heat transfer calculator with additional features or specific customization, please explore other form options.
-</thinking>
-
 # Heat Transfer Unit Conversion Calculator - Help Guide
 ## Purpose
 This form is a simple calculator designed to convert between units of heat transfer. It provides a quick and easy way to switch between different units of measurement, useful for educational purposes or as a reference tool for professionals.

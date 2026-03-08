@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from an external reference check for an employee. The purpose of this form is to gather honest opinions from the employee's supervisor, coworker, or someone who has worked with them. This form helps in verifying the employee's performance, behavior, and other relevant details. It's essential to fill out this form accurately and truthfully to ensure reliable and valid information is collected. Before starting, ensure that you have permission from the employee to conduct the reference check and that the person providing the information is familiar with the employee's work and behavior. Also, please note that this form is meant for employee reference checking and not for performance evaluations or other unrelated purposes.
-
-</thinking>
-
 # Employee Reference Check Form Template - Help Guide
 
 ## Purpose

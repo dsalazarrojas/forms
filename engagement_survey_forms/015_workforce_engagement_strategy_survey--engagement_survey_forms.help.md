@@ -1,7 +1,3 @@
-<thinking>
-This form is a workforce engagement strategy survey designed to gather information from employees about their experiences and perceptions of their work environment, leadership, and organizational culture. The purpose of this survey is to gather data on areas that are most important to employees and to identify potential gaps or areas for improvement within the organization. This survey is intended to be completed by employees and is not a mandatory requirement.
-</thinking>
-
 # Workforce Engagement Strategy Survey - Help Guide
 ## Purpose
 The Workforce Engagement Strategy Survey is a tool used to gather information from employees about their experiences and perceptions of their work environment, leadership, and organizational culture. The survey helps to identify areas of strength and areas for improvement to inform the development of a comprehensive workforce engagement strategy.

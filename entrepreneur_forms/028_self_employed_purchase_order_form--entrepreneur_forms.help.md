@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about a purchase order from a self-employed individual or business. The purpose of this form is to provide a structured way to document and submit purchase orders. It is likely used by accountants, bookkeepers, or other financial professionals to keep track of invoices, payments, and other financial transactions related to self-employed individuals or businesses.
-
-To ensure that the form is used correctly, it is recommended to review this help guide before filling it out.
-
-</thinking>
 # Self Employed Purchase Order Form - Help Guide
 
 ## Purpose

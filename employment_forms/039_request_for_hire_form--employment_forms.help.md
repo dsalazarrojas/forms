@@ -1,14 +1,3 @@
-<thinking>
-To create this form, I'll follow these steps:
-
-1. Identify the main purpose of the form: This form is for requesting employment opportunities, likely for job seekers or recruiters. I'll ensure to convey this purpose clearly in the guide.
-
-2. Determine the required and optional fields: From the YAML, I can see that the "Job Type" field is required, while the rest are optional.
-
-3. Understand the field types and possible values: The form has text, select one (enum), and email fields with no options provided. This means that for "Job Type", the user will select one of the provided values, while "Contact Name" and "Company Email" require actual values, and "Job Description" and "Job Requirements" are free-text fields.
-
-</thinking>
-
 # request_for_hire_form - Help Guide
 ## Purpose
 This form is used to request employment opportunities. You can use it to provide your contact information and details about the job you are seeking or offering.

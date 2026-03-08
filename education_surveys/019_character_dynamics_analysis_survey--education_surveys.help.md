@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-The purpose of this form is to analyze the dynamics between two characters in a given context, such as fictional stories, games, or real-life relationships. It helps users understand the nature of their relationships, including power balance, conflict level, and key interactions that shape their connection. This analysis can be useful for writers, researchers, or anyone looking to gain insights into character development and relationships.
-
-</thinking>
-
 # Character Dynamics Analysis Survey - Help Guide
 ## Purpose
 This form is designed to analyze the dynamics between two characters in a given context, providing insights into their relationship's power balance, conflict level, and key interactions.

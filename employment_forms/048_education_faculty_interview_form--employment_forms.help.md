@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the evaluation process of faculty members. This process typically involves assessing a faculty member's performance, skills, and areas of improvement. It is likely used by HR or departmental teams to evaluate a faculty member's suitability for a position. This form should not be completed if the faculty member's evaluation has already been done.
-
-</thinking>
-
 # Education Faculty Interview Form - Help Guide
 ## Purpose
 The Education Faculty Interview Form is a tool used to evaluate a faculty member's performance and suitability for a position. It is designed to provide a structured and organized way to document the evaluation process.

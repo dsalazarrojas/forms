@@ -1,14 +1,3 @@
-<thinking>
-We can use this form to collect feedback on seminars. This form is likely used by staff members or instructors to evaluate and improve the quality of our seminars. The purpose of this form is to gather information on different aspects of the seminar, such as content, materials used, and overall assessment.
-To complete this form, follow these steps:
-- Ensure you are in the correct seminar assessment form.
-- Review the form fields and determine which ones are required.
-- Start by filling in the numerical fields with your assessment score, using the following scale: 1 (poor), 2 (fair), 3 (good), 4 (very good), 5 (excellent).
-- Provide feedback on the content, materials used, and presenter's comments in the text fields.
-- Consider the future gathering of this seminar and select the corresponding option(s) from the dropdown list.
-- Add any additional comments about the seminar in the text field.
-</thinking>
-
 # Seminar Assessment Form - Help Guide
 ## Purpose
 This form is used to collect feedback on seminars to improve their quality.

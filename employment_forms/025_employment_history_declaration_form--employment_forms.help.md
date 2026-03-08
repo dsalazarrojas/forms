@@ -1,7 +1,3 @@
-<thinking>
-The Employment History Declaration Form is a document that helps you provide details about your employment history. It's used to collect relevant information for various purposes, such as employment verifications, tax purposes, or other employment-related activities. Please ensure you're filling out the form correctly to avoid duplication or misrepresentation of your employment history. This form is not affiliated with any form platform and is an original creation using public survey topic metadata as inspiration.
-</thinking>
-
 # Employment History Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about your employment history, including job details, employment status, and work-related information.

@@ -1,9 +1,3 @@
-<thinking>
-This form was created to help evaluate the effectiveness of a workplace cycling program, gathering feedback from employees on their participation, satisfaction, and potential areas for improvement.
-The form is designed to collect qualitative and quantitative data, using a mix of multiple-choice and text-based questions. It's essential to review this form carefully to ensure the collected data is accurate and relevant.
-Before filling out this form, please ensure you have read and understood the purpose of the form. If you have already filled out this form, you may be asked not to do so again.
-</thinking>
-
 # Workplace Cycling Program Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their participation, satisfaction, and ideas for improvement of the workplace cycling program.

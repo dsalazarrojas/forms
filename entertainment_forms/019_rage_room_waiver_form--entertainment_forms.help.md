@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants in an activity that may pose some risks or health concerns. This form is designed to ensure that all participants are aware of and understand their potential risks and take necessary precautions to ensure their safety. It's essential to have a clear understanding of the participant's medical history, current health status, and any medications they may be taking to make informed decisions about their participation in the activity.
-This form is meant to be filled out by participants who will be engaging in a potentially hazardous activity, such as extreme sports or physical exercises. The information collected will help the organizers and staff to assess the participant's suitability for the activity and provide necessary guidance and support.
-This form does not require any sensitive personal data, so participants are not expected to provide any sensitive personal or financial information.
-This form will be reviewed and verified by the staff before allowing participants to engage in the activity.
-</thinking>
-
 # rage_room_waiver_form - Help Guide
 ## Purpose
 The "rage_room_waiver_form" is a form designed to collect information from participants in an activity that may pose some risks or health concerns. It helps the organizers and staff to assess the participant's suitability for the activity and provide necessary guidance and support.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure relevance and avoid duplication, let's first clarify the form's purpose and its expected outcomes. This evaluation form aims to assess the impact of social care services on users, gathering information on their satisfaction levels, reasons for satisfaction, and any detailed feedback they may have. This data will help service providers understand their strengths and weaknesses, enabling them to improve their services accordingly.
-</thinking>
-
 # Social Care Impact Measurement Evaluation Form - Help Guide
 
 ## Purpose

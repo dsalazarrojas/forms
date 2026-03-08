@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the form is to provide a platform for users to report or request maintenance for theater props. This form can be used by anyone in the organization to report issues with props, such as damage, wear and tear, or other malfunctions. This form ensures that the necessary information is collected for efficient maintenance and repair of theater props.
-
-Before filling out the form, ensure that it is not already completed for the same prop. This helps prevent duplicate requests and streamlines the maintenance process. Please review the form carefully and fill out as much information as possible to aid the maintenance team in addressing the issue promptly.
-
-The following guide will walk you through each section of the form and explain what information is required for each field.
-
-</thinking>
-
 # Theater Prop Maintenance Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for meal kit delivery subscription orders. The form is intended for entrepreneurs who use the Stripe payment platform to manage their business. The purpose of this form is to gather user, billing, subscription, shipping, and order details. Please make sure this form is not being used for non-subscription purposes or for any other business activities.
-</thinking>
-
 # stripe_meal_kit_delivery_subscription_form - Help Guide
 ## Purpose
 The form is designed to collect user information for meal kit delivery subscription orders.

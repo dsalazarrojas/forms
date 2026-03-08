@@ -1,9 +1,4 @@
-> <thinking>
-This form is designed for former employees to provide their information in a structured format, making it easier for the company to keep track of their details and ensure a smooth transition. 
-The purpose of this form is to collect relevant information about the former employee's experience at the company, which will help the HR department update their records and make any necessary adjustments.
-To complete this form, please follow these steps:</thinking>
-
-# Former Employee Information Form - Help Guide
+> # Former Employee Information Form - Help Guide
 ## Purpose
 The Former Employee Information Form is designed for former employees to provide their information in a structured format, making it easier for the company to keep track of their details and ensure a smooth transition.
 

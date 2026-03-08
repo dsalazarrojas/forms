@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather client feedback on the services provided by Clean Team. It's essential to have an objective evaluation of the performance of the team to ensure quality standards are met. This form is not intended to be a one-size-fits-all, so please adapt it to fit your specific needs. Please ensure each field is filled out accurately and thoroughly to avoid unnecessary revisions.
-</thinking>
-
 # CLEAN TEAM Performance Review Client - Help Guide
 ## Purpose
 The Clean Team Performance Review Client form is used to collect feedback from clients on the services provided by Clean Team. This form helps in understanding the client's perception of the quality of service, timeliness, communication, and overall satisfaction.

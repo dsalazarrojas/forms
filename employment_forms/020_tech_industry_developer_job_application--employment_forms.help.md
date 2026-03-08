@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tech Industry Developer Job Application - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for the success of the team. The goal of this form is to gather information about the team's dynamics, allowing team members to connect with each other and work more effectively. This form ensures that each team member understands their role and responsibilities and can communicate with the team effectively. This information helps us avoid misunderstandings, miscommunications, and improves collaboration and productivity.
-</thinking>
-
 # Employee Collaboration Forum Registration - Help Guide
 ## Purpose
 The Employee Collaboration Forum Registration form is a tool for teams to register and connect with each other, fostering better communication and collaboration within the team.

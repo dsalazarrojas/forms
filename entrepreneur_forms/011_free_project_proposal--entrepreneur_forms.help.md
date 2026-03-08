@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a free project proposal, which is likely used to gather details about a project that requires funding or resources without a specific budget allocated. This form should be used for projects that do not have a defined budget or financial constraints. It is essential to ensure that the project proposal is complete and thorough to increase the chances of getting the necessary approvals and funding.
-To avoid duplication, please ensure that each project is unique and does not have an existing proposal in the system. Please also make sure the project name is not a duplicate, and the status should accurately reflect the current state of the project.
-</thinking>
-
 # Free Project Proposal - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the "Free Project Proposal" form. The form is designed to gather essential details about a project that requires funding or resources without a specific budget allocated.

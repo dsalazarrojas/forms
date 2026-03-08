@@ -1,17 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "sickness_absence_history_form", the form is intended to record and track employee absences due to sickness. This form will allow users to input employee information, absence dates, reason for absence, and other relevant details. By understanding the purpose and requirements of this form, we can create a comprehensive guide for users to complete it accurately.
-
-The form is divided into several sections that need to be filled out:
-
-*   Employee information: This section includes fields for the employee ID and name.
-*   Absence details: This section includes fields for the absence dates, reason, and absence type.
-*   Manager approval: This section includes fields for manager approval and supporting documents.
-*   Additional details: This section includes fields for doctor notes, manager notes, and employee status.
-
-Each field in the form is crucial in providing a complete picture of the employee's absence history. Therefore, it is essential to fill out each field accurately.
-
-</thinking>
-
 # sickness_absence_history_form - Help Guide
 ## Purpose
 The "sickness_absence_history_form" is a form used to record and track employee absences due to sickness. It helps in documenting the absence history of employees for future reference.

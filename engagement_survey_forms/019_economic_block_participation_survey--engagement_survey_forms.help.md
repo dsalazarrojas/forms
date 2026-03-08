@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their economic block participation, including contact details, roles, expectations, and preferences. This form is likely used for data collection purposes, such as creating a database of participating economic blocks or users. To ensure accurate data and prevent duplication, users should not complete this form multiple times. This form is designed to be completed by users who have a genuine interest in participating in economic block activities. If you're not sure whether you're eligible or have already completed this form, please contact the Economic Block Administrator for clarification.
-</thinking>
-
 # Economic Block Participation Survey - Help Guide
 ## Purpose
 

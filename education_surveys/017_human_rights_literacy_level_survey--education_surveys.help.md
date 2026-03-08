@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is designed to gauge the knowledge and attitudes of individuals towards human rights. Each section of the form aims to assess their awareness, understanding, and action towards human rights, as well as their perception of barriers and resources available to them. The form is meant to be a quick and efficient way to collect data on human rights literacy in a given population. Before you start, please confirm that you have not completed this form before and that your responses are not duplicate. This form is not a test, and your responses will be kept confidential and anonymous.
-</thinking>
-
 # Human Rights Literacy Level Survey - Help Guide
 ## Purpose
 This form is designed to gauge the knowledge and attitudes of individuals towards human rights.

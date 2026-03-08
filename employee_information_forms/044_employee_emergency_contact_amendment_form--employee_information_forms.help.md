@@ -1,7 +1,3 @@
-<thinking>
-We're creating this form for updating employee emergency contact information. This form is intended to gather the details of an employee's emergency contacts in the event of a crisis or unexpected situation at work. This form can be used to update existing emergency contact information or provide new contact details. It's crucial to ensure the accuracy and completeness of the emergency contact information. Please fill out the form carefully and provide accurate details. Note that this form does not replace the original emergency contact information, so if you already have an existing record for the employee, it is essential to review and update that information instead of filling out this form.
-</thinking>
-
 # Employee Emergency Contact Amendment Form - Help Guide
 ## Purpose
 This form is used to update or add new emergency contacts for an employee.

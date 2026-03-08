@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from educators on the teaching effectiveness of special education teachers. The purpose of this form is to assess the quality of instruction, identify areas of concern, and provide recommendations for improvement. The form is intended for use by administrators or peers within an educational institution. To ensure accurate and comprehensive feedback, please ensure that the form is filled out thoughtfully and completely.
-</thinking>
-
 # Special Education Teacher Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback on the teaching effectiveness of special education teachers, with a focus on their instructional practices and classroom environment. The feedback gathered will help identify strengths and areas for improvement to support teacher growth and student success.

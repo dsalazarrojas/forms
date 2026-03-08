@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for the Virtual Learning Feedback Taskforce registration. This information will be used to understand the backgrounds and interests of individuals registering for the taskforce. The form is designed to be completed by individuals representing various roles (Admin, User, Teacher) and categories (Virtual Learning, Virtual Event). The form will not be used for any other purpose and will not be duplicated in any other form. 
-
-</thinking>
-
 # Virtual Learning Feedback Taskforce Registration Form - Help Guide
 ## Purpose
 This form is for registering individuals interested in participating in the Virtual Learning Feedback Taskforce. It will help us understand your background and interests for future reference.

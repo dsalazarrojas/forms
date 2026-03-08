@@ -1,9 +1,3 @@
-<thinking>
-
-The K 12 Parent Survey form is designed to collect information and feedback from parents of students in the K-12 education system. The form is intended to be filled out by parents to provide their thoughts, opinions, and experiences regarding their child's educational journey. To ensure accuracy and relevance, please note that this form is not affiliated with any specific form platform, and the responses collected will be used for internal purposes only. If you have already completed a similar survey for the same school or institution, please do not resubmit. Your feedback is valuable, and your cooperation is appreciated.
-
-</thinking>
-
 # K 12 Parent Survey - Help Guide
 ## Purpose
 The K 12 Parent Survey is a tool designed to collect information and feedback from parents of students in the K-12 education system. This form aims to gather your thoughts, opinions, and experiences regarding your child's educational journey.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be a tool for gathering information from potential clients about their virtual assistance needs. This includes information about the type of services they require, how they expect their assistant to communicate, and how they evaluate the quality of service received. Additionally, the form will gather contact information of the client and their virtual assistant, including email and phone numbers. This form should only be filled out by the virtual assistant who will be providing services to the client, and not by the client themselves. 
-</thinking>
-
 # Virtual Assistance Client Questionnaire - Help Guide
 ## Purpose
 This form is designed to provide information to the virtual assistant about the needs and expectations of their clients. This will help the assistant to better serve their clients and provide a more personalized and tailored service.

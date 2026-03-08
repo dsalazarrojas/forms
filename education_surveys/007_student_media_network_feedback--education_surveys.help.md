@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback and preferences from students regarding media channels, such as radio stations, newspapers, and podcasts. This feedback will help the media network understand what types of content are most popular among students and what can be improved upon.
-
-To confirm that this form is being used correctly, we need to ensure that each field is relevant to the form's purpose and that no unnecessary fields are included. Upon reviewing the form schema, it appears that all fields are relevant to the form's purpose and contribute to the overall feedback and preference collection.
-
-</thinking>
-
 # student_media_network_feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback and preferences from students regarding various media channels. It helps the media network to understand what types of content are most popular among students and what areas for improvement exist.

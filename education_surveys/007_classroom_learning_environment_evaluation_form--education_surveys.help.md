@@ -1,7 +1,3 @@
-<thinking>... This form is used to evaluate the classroom learning environment, which is the physical space and atmosphere where learning takes place. It's meant to assess the environment's suitability for teaching and learning. The purpose of this form is to gather information about the strengths and weaknesses of the learning environment, which can help inform decisions on how to improve it.
-
-</thinking>
-
 # Classroom Learning Environment Evaluation Form - Help Guide
 
 ## Purpose

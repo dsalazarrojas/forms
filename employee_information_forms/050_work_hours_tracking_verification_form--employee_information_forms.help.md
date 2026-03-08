@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the hours an employee has worked, including the start and end dates and times of their work period, the number of hours worked, and any breaks taken. The form is intended for internal use within the organization and will be used to track and verify employee work hours.
-</thinking>
-
 # work_hours_tracking_verification_form - Help Guide
 ## Purpose
 This form is used to collect information about an employee's work hours to track and verify their work periods.

@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I need to clarify a few things about the form purpose and relevance. Please note that I'll base my explanations on the provided YAML fields and try to make the text concise and clear. Also, I'll avoid inventing business logic not supported by the YAML fields.</thinking>
-
 # Phd Student Survey - Help Guide
 ## Purpose
 The Phd Student Survey is a form designed to collect information from Phd students. The survey is intended to gather data on various aspects related to Phd programs. It is likely used for research, analysis, or other purposes within an academic institution.

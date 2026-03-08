@@ -1,12 +1,3 @@
-<thinking>
-Please note that this form is designed to collect feedback on the flexibility of a course. It will help us understand how well the course content, instructions, and support are adapted to the students' needs and learning style. The form is not meant for general feedback or comments, but rather for specific and detailed feedback on the course experience. Please ensure that you answer each question truthfully and concisely to provide valuable insights.
-
-This form is not intended to be filled out multiple times, so please do not submit it again if you have already completed it. If you are unsure about any field, please contact us to clarify.
-
-Also, note that some fields are optional, but we encourage you to provide as much information as possible to help us improve the course.
-
-</thinking>
-
 # hy_flex_learning_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the flexibility of a course, including its content, instructions, and support.

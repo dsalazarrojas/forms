@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect data on students' participation behavior in a hybrid classroom setting. This data will help teachers, administrators, and researchers understand student engagement and identify areas where students may need support or resources to participate effectively.
-
-This form is designed to collect information from both students and teachers. Students will be asked about their participation frequency, mode, and time spent in class, as well as any challenges they face or feedback they have about their experience. Teachers will be asked about their students' participation behavior, comments, and ratings.
-
-The data collected will be used to inform teaching practices, identify areas for improvement, and develop strategies to support student engagement.
-
-Before proceeding, please ensure that you have reviewed this form carefully and understand the purpose and instructions provided.
-
-</thinking>
-
 # Hybrid Classroom Participation Behavior Survey - Help Guide
 ## Purpose
 The Hybrid Classroom Participation Behavior Survey is designed to collect data on students' participation behavior in a hybrid classroom setting.

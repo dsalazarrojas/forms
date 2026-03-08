@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a student. The purpose of this form is to gather essential details about a student, including their name, contact information, and demographic data such as birth date and address. This information will be used to update the student's records and ensure accurate and efficient processing. Before attempting to complete this form, please ensure you have permission to access and edit student records. Duplicate or irrelevant submissions may be rejected.
-</thinking>
-
 # icssc_rcf_student - Help Guide
 ## Purpose
 The icssc_rcf_student form is designed to collect and update student information for accurate and efficient processing.

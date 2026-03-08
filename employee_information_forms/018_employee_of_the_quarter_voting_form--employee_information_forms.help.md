@@ -1,16 +1,3 @@
-<thinking>
-The goal of this form is to allow team members to nominate and vote for the Employee of the Quarter. This form is designed to be a democratic and transparent process, allowing all team members to cast their votes without any influence or coercion. The form is not intended to be used for other purposes, such as evaluating employee performance or providing feedback.
-
-Each field in this form is crucial for the voting process. The form should only be completed by authorized individuals, and the answers should be honest and accurate.
-
-The following sections of the form are designed to collect specific information:
-
-*   Nominee information (employee's first name, last name, employee number, job title, department, and position)
-*   Nominator information (nominator's name, department, and job title)
-
-The form should be completed with the utmost care and attention to detail to ensure that the voting process is fair and unbiased.
-</thinking>
-
 # Employee Of The Quarter Voting Form - Help Guide
 ## Purpose
 The Employee Of The Quarter Voting Form is a democratic process that allows team members to nominate and vote for the Employee of the Quarter. This form is designed to be completed by authorized team members to cast their votes without influence or coercion.

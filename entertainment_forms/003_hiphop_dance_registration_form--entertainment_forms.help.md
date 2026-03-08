@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for the registration of hip hop dance crews. The form is used to gather information about the crew members, their manager's details, and other relevant information. This form is likely to be used by event organizers or promoters to gather information about the crews before a competition or event. The purpose of this form is to ensure that the crews are properly registered and that all necessary information is provided. This will help the organizers to have a smooth and organized event. This form is not intended for internal use within the organization, but rather for external use by the crews that are participating in the event. Therefore, it's essential to ensure that the form is clear and easy to understand for the crews to submit their information correctly.
-</thinking>
-
 # hiphop_dance_registration_form - Help Guide
 ## Purpose
 This form is used for the registration of hip hop dance crews. It gathers information about the crew members, their manager's details, and other relevant information to ensure a smooth and organized event.

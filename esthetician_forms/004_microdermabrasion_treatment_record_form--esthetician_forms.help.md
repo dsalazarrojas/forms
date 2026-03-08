@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is intended to record the treatment details and client information for microdermabrasion treatments. The purpose of this form is to provide a structured way of documenting the treatment process, including client contact information, treatment details, and notes. The form is not designed to replace the expertise of a medical professional, but rather to aid in recording and tracking client data.
-</thinking>
-
 # Microdermabrasion Treatment Record Form - Help Guide
 ## Purpose
 This form is designed to record the details of microdermabrasion treatments provided to clients. It helps in documenting the treatment process and tracking client information.

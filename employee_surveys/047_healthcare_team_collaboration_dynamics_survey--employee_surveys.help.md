@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather insights on the dynamics of collaboration among healthcare teams. As an organization, it's essential to understand how well the teams are communicating, what challenges they face, and what improvements can be suggested. This form serves as a survey to gather this information. Please make sure this form is not duplicated or filled out by people without the necessary understanding and intent to provide meaningful feedback.
-</thinking>
-
 # Healthcare Team Collaboration Dynamics Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the collaboration dynamics within healthcare teams. It is a series of questions and prompts that aim to elicit responses from team members to better understand their experiences and perceptions of teamwork.

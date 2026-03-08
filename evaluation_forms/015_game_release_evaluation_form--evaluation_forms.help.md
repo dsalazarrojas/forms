@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gather information about a game release evaluation. It's likely that this form will be used by a gaming company to collect feedback from players after a new game release. The form might be part of a larger evaluation process, where the company wants to know what players enjoyed, what they didn't enjoy, and what they would suggest for improvement. The "what_did_you_enjoy" field might be used to collect feedback about the game's features or mechanics that players appreciated, while "suggestions" could be used to collect ideas for new game content or features. The "rating" field might be used to measure player satisfaction, and "email" and "phone" fields could be used for follow-up contact if needed.
 
 # Game Release Evaluation Form - Help Guide

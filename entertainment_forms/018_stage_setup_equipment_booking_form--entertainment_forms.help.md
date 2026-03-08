@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stage Setup Equipment Booking Form - Help Guide
 
 ## Purpose

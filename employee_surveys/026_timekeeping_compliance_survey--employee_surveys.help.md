@@ -1,9 +1,3 @@
-<thinking>
-
-Before diving into the help guide, let's ensure we understand the purpose and context of this form. This form is designed to collect information on employee timekeeping compliance, which likely refers to adherence to company policies and procedures related to employee work hours, attendance, and related matters. Given the variety of fields, it's essential to break down each field's purpose and how it should be completed.
-
-</thinking>
-
 # Timekeeping Compliance Survey - Help Guide
 ## Purpose
 The Timekeeping Compliance Survey is designed to assess employee knowledge and practices regarding company timekeeping policies, including training needs, processes, and feedback. This survey aims to gather information that can be used to identify areas for improvement and ensure compliance with company policies.

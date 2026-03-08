@@ -1,17 +1,3 @@
-<thinking>
-To ensure that this form is properly understood by its end users, let's break down its purpose and the reasoning behind its design.
-
-The equipment heat monitoring report form is a critical document used for tracking and analyzing temperature-related issues with equipment in facilities. It's designed to collect essential information about equipment malfunctions, including details about the problem, the equipment involved, and the location where the issue occurred. This data helps facility management and maintenance teams to identify trends, prevent future occurrences, and make informed decisions for maintenance and repairs.
-
-The form is divided into several sections, each collecting specific information that contributes to a comprehensive understanding of the issue. The report details section asks for a brief description of the problem, its severity, and the date and time it was observed. The equipment details section is where users provide information about the affected equipment, including its name, location, and current temperature reading. The issues and evidence section allows users to describe the problem in more detail and provide supporting evidence or photographs. The status section requires the user to assign a priority level to the issue, which aids in resource allocation and decision-making.
-
-The form includes fields for facility information, such as facility name and location, to help with data correlation and reporting. Additionally, it requires the user to identify the equipment responsible for the report, the person responsible for handling the issue, and whether the issue has been reviewed or closed.
-
-Overall, this form's design is centered around gathering and recording essential information in a structured and organized manner, which enables efficient maintenance, analysis, and resolution of temperature-related equipment issues.
-
-Now, let's present the user-facing help guide in Markdown format.
-</thinking>
-
 # equipment_heat_monitoring_report - Help Guide
 ## Purpose
 The equipment heat monitoring report form is a critical document used for tracking and analyzing temperature-related issues with equipment in facilities. This form collects essential information to aid facility management and maintenance teams in identifying trends, preventing future occurrences, and making informed decisions for maintenance and repairs.

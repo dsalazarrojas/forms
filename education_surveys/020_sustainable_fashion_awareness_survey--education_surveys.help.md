@@ -1,9 +1,3 @@
-<thinking>
-
-The Sustainable Fashion Awareness Survey form is designed to gather information on individuals' attitudes and behaviors regarding sustainable fashion practices. This survey will help researchers understand public perceptions and habits related to sustainable fashion, aiming to improve the industry's sustainability and customer understanding. Before completing this survey, please ensure you have not already participated in this survey as duplicate responses will not be accepted.
-
-</thinking>
-
 # Sustainable Fashion Awareness Survey - Help Guide
 ## Purpose
 The Sustainable Fashion Awareness Survey is a research tool designed to gather information on individuals' attitudes and behaviors regarding sustainable fashion practices. Your participation will contribute to improving the industry's sustainability and customer understanding.

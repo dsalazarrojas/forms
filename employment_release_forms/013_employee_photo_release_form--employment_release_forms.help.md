@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from employees regarding the release of their photos. The form is used to obtain the necessary consent from employees for their photos to be used in various company contexts, such as company events, marketing materials, and social media. The form is typically completed by employees and their managers, ensuring that both parties are on the same page regarding the use of the employee's photo.
-
-Before completing this form, please ensure that you are authorized to do so and that the form is being used for legitimate business purposes.
-
-This guide will walk you through the form fields and how to complete them accurately.
-</thinking>
-
 # Employee Photo Release Form - Help Guide
 ## Purpose
 The Employee Photo Release Form is a document used to collect the necessary consent from employees for their photos to be used in company contexts, such as events, marketing materials, and social media.

@@ -1,15 +1,3 @@
-<thinking>
-The form "Artist Advance Form" is designed to collect information from artists who are applying for a specific opportunity or position. This form is intended to gather essential details about the artist's contact information, credentials, vehicles, catering, hospitality, artist credentials, transportation, arrival and departure, and on-site media requirements. 
-
-The purpose of this form is to help event planners and organizers efficiently collect relevant information from artists to streamline their event planning process. 
-
-Please note that this form does not duplicate or copy any existing forms. It is an original adaptation created using only public metadata as inspiration. 
-
-This form has a modular design, with each page dedicated to a specific group of related questions. 
-
-The following is the help guide for the form.
-</thinking>
-
 # Artist Advance Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from artists for event planning purposes.

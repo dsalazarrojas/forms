@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help companies assess the impact of their corporate diversity initiatives. The purpose of this questionnaire is to gather information from employees about their experiences and perceptions of diversity, inclusion, and equity initiatives within the company. The questions aim to understand how these initiatives affect employee engagement, retention, and overall business outcomes. This form is meant to be completed by employees who have been impacted by or are aware of the company's diversity initiatives.
-
-Before starting, please make sure you're eligible to complete this form. If you're unsure, check with your HR department or supervisor for guidance.
-
-</thinking>
-
 # Corporate Diversity Initiatives Impact Questionnaire - Help Guide
 ## Purpose
 This questionnaire aims to gather information from employees about their experiences and perceptions of corporate diversity, inclusion, and equity initiatives. It helps us understand how these initiatives affect employee engagement, retention, and overall business outcomes.

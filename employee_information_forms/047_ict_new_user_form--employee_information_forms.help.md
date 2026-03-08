@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information about new employees joining the organization. It will be used to store and manage employee data for internal purposes, such as personnel administration, communication, and reporting.
-
-The form has two main sections: Employee Details and Emergency Contact. The Employee Details section includes fields for collecting general employee information, such as name, job title, department, and reporting relationships. The Emergency Contact section includes fields for collecting information about the employee's emergency contact, including their name, phone number, relationship, and ID.
-
-This form is intended for new employees to fill out upon joining the organization. It is not meant to be used for external communication or public-facing purposes.
-
-Please note that this form is not designed to be used for any other purpose than employee information management, and any data collected through this form will be used only for internal purposes.
-
-</thinking>
-
 # ICT New User Form - Help Guide
 ## Purpose
 The ICT New User Form is designed to collect information about new employees joining the organization for internal purposes such as personnel administration, communication, and reporting.

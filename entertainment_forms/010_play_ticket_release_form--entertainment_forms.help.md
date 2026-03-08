@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # play_ticket_release_form - Help Guide
 ## Purpose
 The play_ticket_release_form is a document used to release play tickets for events. It helps to manage ticket distribution and ensures that tickets are allocated fairly among participants. Completing this form will help the event organizers to keep track of ticket allocations and release them to the correct individuals.

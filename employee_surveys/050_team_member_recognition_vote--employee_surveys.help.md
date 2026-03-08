@@ -1,5 +1,3 @@
-<thinking>Before creating this guide, I'd like to acknowledge that the form has multiple purposes and requirements. It seems to be related to the recognition of team members, allowing users to cast a vote, provide details about the nominee, and manage the process. However, I'll follow your request and focus on creating a user-friendly help guide for the form as described.</thinking>
-
 # Team Member Recognition Vote - Help Guide
 ## Purpose
 This form is designed to allow team members to cast their vote for team recognition, providing details about the nominee and managing the submission process.

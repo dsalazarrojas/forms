@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to evaluate the performance of kitchen staff, which is a crucial aspect of maintaining a well-run kitchen environment. The purpose of this form is to collect feedback from supervisors regarding the performance of their team members. The evaluation is crucial for providing constructive feedback and improving staff performance. This form is designed to be completed by the kitchen supervisor, and the information collected will be used to support staff development and improvement.
-
-</thinking>
-
 # kitchen_staff_evaluation_form - Help Guide
 ## Purpose
 The kitchen_staff_evaluation_form is a performance evaluation form used to assess the performance of kitchen staff. It's designed to collect feedback from supervisors and help identify areas of improvement for staff development.

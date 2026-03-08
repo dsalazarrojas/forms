@@ -1,7 +1,3 @@
-<thinking>
-This form is used for hybrid team membership applications. The goal is to gather relevant information about the applicant to determine their eligibility and suitability for a hybrid team role. The form collects personal details such as name, contact information, and employment specifics like job title, work location, and schedule. To ensure accurate and efficient processing, it's crucial that the applicant provides correct and complete information. Please note that some fields are not required, but it's essential to fill them out accurately to avoid delays or rejections in the application process.
-</thinking>
-
 # hybrid_team_membership_application_form - Help Guide
 ## Purpose
 The Hybrid Team Membership Application Form is used to collect information from applicants to determine their eligibility and suitability for a hybrid team role.

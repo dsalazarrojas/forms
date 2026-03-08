@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about the language function of participants in a study or survey. The purpose of this form is to collect evaluations of language function from participants, likely for research or educational purposes. It's essential to ensure that each participant understands the purpose and goals of the evaluation, and that their responses are accurate and meaningful. Before proceeding, please review the form carefully and ensure that you're completing it for the correct purpose.
-
-</thinking>
-
 # Language Function Evaluation Survey - Help Guide
 
 ## Purpose

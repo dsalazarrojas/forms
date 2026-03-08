@@ -1,8 +1,3 @@
-<thinking>
-We have a template for a Maternity Leave Application Form that seems to be for employees to provide details for taking maternity leave, a specific type of leave for women who are expecting or have just had a child. This form template appears to be designed to collect various information about the employee's leave, including their personal details, leave duration, leave type, and expected return to work date.
-We'll need to verify that this form is not already part of our standard leave policy and that it's not a duplicate of another form. If it is, we should update or merge the two forms for consistency.
-</thinking>
-
 # Maternity Leave Application Form Template - Help Guide
 ## Purpose
 This form is used to provide employees with a template to apply for maternity leave. It helps to streamline the process of submitting leave requests and ensures that all necessary information is provided for approval.

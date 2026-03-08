@@ -1,7 +1,3 @@
-<thinking>
-The dermal filler treatment record form is used to document and store information about a client's dermal filler treatment session. This form is crucial for maintaining accurate records and providing a basis for follow-up consultations.
-</thinking>
-
 # dermal_filler_treatment_record_form - Help Guide
 ## Purpose
 This form is used to record and document the details of a dermal filler treatment session, including client information, treatment details, outcome, follow-up schedule, and other relevant notes.

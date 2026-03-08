@@ -1,6 +1,3 @@
-<thinking>
-The form is used to book library equipment for use. This is a critical part of the form to ensure that the equipment is available and ready to use for the scheduled time. The form helps prevent duplication and non-availability of equipment. This will help us to keep track of our equipment usage in the library and prevent overbooking of the equipment which may lead to loss or damage. The form will also help us to allocate the equipment to multiple users at the same time if needed.</thinking>
-
 # Library Equipment Rental Booking Form - Help Guide
 
 ## Purpose

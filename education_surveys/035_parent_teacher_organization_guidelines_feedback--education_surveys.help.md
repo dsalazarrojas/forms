@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from parents or guardians about the clarity and effectiveness of the parent-teacher organization guidelines. The form is likely to be used by parents or guardians to provide their feedback on how well the school's organization and communication are meeting their needs. 
-Before providing feedback, it's essential to ensure that this form is not being used for the same purpose as other forms or surveys that may already exist. This guide is intended to help users understand the structure and requirements of this specific form.
-</thinking>
 # Parent Teacher Organization Guidelines Feedback - Help Guide
 
 ## Purpose

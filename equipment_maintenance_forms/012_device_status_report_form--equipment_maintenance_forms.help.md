@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the current status of devices. This form is likely to be used by IT or facilities teams to gather data on device condition, maintenance needs, and maintenance scheduling. It's possible that this form could be used for auditing or reporting purposes. However, it's worth noting that the form is not explicitly stated as being related to any specific business process or system, so it's possible that its purpose may be more general or ad-hoc. If the form is not being used for a specific process, it's possible that it may be intended for general status updates or inventory management.
-To determine the purpose and scope of this form, it would be helpful to know more about the context in which it is being used, such as the department or team that would be using it, and what specific data is being collected.</thinking>
-
 # device_status_report_form - Help Guide
 ## Purpose
 The device status report form is used to collect information about the status of devices.

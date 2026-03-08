@@ -1,5 +1,3 @@
-<thinking>...checking the form design for relevance and non-duplication...</thinking>
-
 # High School Grad Night Sign Up Form - Help Guide
 ## Purpose
 The High School Grad Night Sign Up Form is used to collect information from parents, teachers, and students for the high school graduation event. This form will help us track student attendance, teacher attendance, and other important details for the event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shift Preference Form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's shift preference, including start and end dates, times, and break periods. It also requires manager-level information such as manager's name, title, contact details, and their notes. The form is intended to ensure that employees and managers have all necessary information to effectively manage shifts and communicate with each other.

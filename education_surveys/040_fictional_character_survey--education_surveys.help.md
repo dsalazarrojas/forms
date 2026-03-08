@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the "Fictional Character Survey" form in an efficient and accurate manner. This form is designed to gather information from users about their favorite fictional characters, and the purpose of this guide is to ensure that users understand the form's purpose and how to navigate it successfully. 
-
-By following this guide, users will be able to determine if they have any existing data that overlaps with what they're about to input, as some fields do have similar labels but different intents. For example, "age_range" and "age_range_years" are related but distinct fields, and it's essential to fill in both to provide a complete response. Understanding how each field is used will help users avoid potential duplication of effort and provide accurate data for analysis.
-
-Please note that this guide assumes that users are familiar with the basics of filling out forms, such as entering their name and email address for identification purposes only. The guide will provide step-by-step instructions for filling out each field and offer explanations of each field's purpose and expected outcome.</thinking>
-
 # Fictional Character Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from dancers who want to participate in a dance competition. The form is intended to gather relevant details about the dancer, such as their contact information, dance style, and medical status. This information will be used to facilitate the registration process and ensure a smooth competition experience for all participants.
-</thinking>
-
 # Dance Competition Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from dancers who want to participate in a dance competition. The goal is to gather necessary details about the dancer, including their contact information, dance style, and medical status.

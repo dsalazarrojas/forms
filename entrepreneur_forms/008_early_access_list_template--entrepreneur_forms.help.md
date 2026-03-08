@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # early_access_list_template - Help Guide
 ## Purpose
 The early_access_list_template form is designed to gather information from customers who have requested early access to a product. This form helps to capture the essential details of the customer's early access request, allowing us to efficiently process and follow up on their request.

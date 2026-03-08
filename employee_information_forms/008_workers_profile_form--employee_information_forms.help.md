@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let me break down the form purpose and relevance. The "Workers Profile Form" is used to collect information about employees in the organization, specifically their personal and job-related details. This form is likely used for HR-related purposes, such as creating employee profiles, tracking job history, and updating employee information. To ensure this guide is relevant and non-duplicative, I'll focus on explaining each field in a clear and concise manner.</thinking>
-
 # Workers Profile Form - Help Guide
 ## Purpose
 The Workers Profile Form is used to collect and manage employee information, including their personal details and job-related data.

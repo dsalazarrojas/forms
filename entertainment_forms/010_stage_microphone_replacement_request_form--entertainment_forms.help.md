@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to help users report a request for a stage microphone replacement. The user will be prompted to provide details about the issue with their microphone, including the venue where it was used, the type of microphone, when it was issued, and how urgent it is. The user must select the microphone type, specify the issue date, choose a urgency level, and enter their contact information. They can also add any notes or attach a photo of the issue. The user will be able to submit their request and choose the output format of the report. To ensure that each request is properly handled, the submitter's information will be recorded as well.
-</thinking>
-
 # stage_microphone_replacement_request_form - Help Guide
 ## Purpose
 

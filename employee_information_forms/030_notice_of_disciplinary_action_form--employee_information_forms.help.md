@@ -1,7 +1,3 @@
-<thinking>
-We're creating this help guide to inform end-users on how to properly complete the "Notice Of Disciplinary Action Form". This form is used to record and document instances of employee misconduct. It's crucial that users understand its purpose and use it for its intended purpose. Before starting, please ensure you're filling out this form for a legitimate reason and not duplicating any existing records. This form is not for casual use; it's a formal document that requires accurate and honest input. If you're unsure, please review your company's policies or consult with your supervisor.
-</thinking>
-
 # Notice Of Disciplinary Action Form - Help Guide
 ## Purpose
 The Notice Of Disciplinary Action Form is used to record instances of employee misconduct and document the disciplinary actions taken. This form helps to maintain accurate records and ensures that all disciplinary actions are properly documented and communicated with the employee.

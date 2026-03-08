@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to explain the Contact Form with HeaderFooter Customized to end-users. The form is intended to collect visitor information, including their name, email address, phone number, preferred entertainment type, favorite genre, and inquiry subject, as well as any additional details or messages they would like to share. The form also allows visitors to specify their preferred contact method and provides an option to request a discount code. The form will be used to gather information about visitors' interests and preferences, which will help the company to better understand their needs and provide personalized experiences. Please make sure to fill out the form accurately and completely to help us serve you better.
-</thinking>
-
 # Contact Form With HeaderFooter Customized - Help Guide
 
 ## Purpose

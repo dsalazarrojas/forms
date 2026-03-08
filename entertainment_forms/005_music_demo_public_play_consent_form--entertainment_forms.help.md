@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from artists who want to allow or restrict their music to be played publicly. It's meant to be a simple and straightforward form that ensures artists can provide necessary details about their work, including consent for public play, song specifics, and terms of submission. There's no affiliation with any form platforms, and the form was created using public metadata. 
-</thinking>
-
 # music_demo_public_play_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to gather artist information for music demos that may be played publicly. It's an internal form designed to collect necessary details from artists about their music, such as consent for public play and terms and conditions.

@@ -1,9 +1,3 @@
-<thinking>
-We are designing a help guide for a "School Test Administration Plan" form. The purpose of this form is to collect information about school test administration, including details about the test logistics, school information, test dates and times, room setup, exam information, accommodations, test coordinator and school contact information, and exam proctors and scribes. This form will help ensure that all necessary information is gathered to facilitate a smooth and efficient test administration process.
-
-Before proceeding, let's ensure that this form is being used for its intended purpose and not for any other unrelated task.
-</thinking>
-
 # School Test Administration Plan - Help Guide
 ## Purpose
 The School Test Administration Plan form is designed to collect essential information for planning and executing school tests, ensuring a seamless experience for students, staff, and exam administrators.

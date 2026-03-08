@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Top Performer Of The Month Nomination Form - Help Guide
 
 ## Purpose

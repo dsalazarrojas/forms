@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Inclusion Barriers In Learning Survey - Help Guide
 
 ## Purpose

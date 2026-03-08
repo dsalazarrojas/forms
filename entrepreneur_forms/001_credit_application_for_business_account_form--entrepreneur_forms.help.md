@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from a business applicant for creating a business account. It is intended for businesses looking to open a new account or update existing account information. The form will help us assess the applicant's business creditworthiness and ensure they meet our lending criteria. Before filling out this form, please make sure you have all the necessary information and documents ready, as some fields may require additional documentation to be submitted separately.
-</thinking>
-
 # Credit Application For Business Account Form - Help Guide
 ## Purpose
 This form is designed to collect information from a business applicant for creating a new business account or updating existing account information. The form will help us assess the applicant's creditworthiness and ensure they meet our lending criteria.

@@ -1,8 +1,3 @@
-<thinking>
-We will use this form to collect feedback and experiences of participants after attending a language camp. We expect participants to provide honest and detailed feedback on their session and the overall language camp experience. To ensure we don't receive duplicate feedback, we will be checking for participant's session and feedback comments to see if they've already provided them. Please fill out the form thoroughly and honestly.
-
-</thinking>
-
 # Language Camp Experience Survey - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees about their experience with affirmations or recognition they have received in the workplace. The form is intended to help employees provide their perspective on how often they receive positive feedback, how it affects their performance, and what they would like to see improved in the recognition practices. 
-
-To ensure that the form is completed accurately, please make sure to only submit it if you have experience with affirmations or recognition in the company. If you're unsure about a question or field, please answer based on your best effort.
-
-It's worth noting that this form will be used as a tool to gather data and improve the company's recognition practices, so please provide honest and constructive feedback. If you have any questions or concerns about the form, please reach out to your HR representative.
-
-</thinking>
-
 # Affirmation Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees about their experience with affirmations or recognition in the workplace. Your input will help us understand how often you receive positive feedback, what impact it has on your performance, and what we can do to improve our recognition practices.

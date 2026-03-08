@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents where an animal has escaped from a zoo. It is intended for use by zoo staff to report and document animal escapes. This form is not meant for general public use. The form is not meant for duplicate reports, so please ensure that each incident is reported only once.
-</thinking>
-
 # Zoological Animal Escape Incident Report Form - Help Guide
 ## Purpose
 The Zoological Animal Escape Incident Report Form is used to document and report incidents where an animal has escaped from a zoo. This form is intended for use by authorized staff members to ensure that all escape incidents are recorded accurately and thoroughly.

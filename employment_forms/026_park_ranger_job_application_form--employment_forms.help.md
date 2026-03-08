@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for applicants to apply for a Park Ranger position. The form is used to collect information about the candidate's personal details, availability, and qualifications. The fields in this form are required to be filled in to ensure that the candidate provides sufficient information for the hiring process.
-
-Before proceeding, please ensure that you have a clear understanding of what information is being asked and why it is necessary. This form is for internal use only, and all fields should be filled in with accurate and up-to-date information.
-
-</thinking>
-
 # Park Ranger Job Application Form - Help Guide
 ## Purpose
 This form is for applicants to apply for a Park Ranger position.

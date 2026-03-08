@@ -1,10 +1,3 @@
-<thinking>
-This is a help guide for users of the Sociolinguistics And Pragmatics Quiz form. The form is designed to collect data for educational purposes, specifically in the fields of sociolinguistics and pragmatics. The purpose of this form is to provide a structured and standardized way of collecting information on sociolinguistics and pragmatics from users. This form will be used to gather data that can be used for research and educational purposes. 
-
-To complete this form, users are required to select a category, enter a title and description of their quiz, choose an assigned tool, and select various other fields as necessary. This guide will explain each field and its purpose in more detail.
-
-</thinking>
-
 # Sociolinguistics And Pragmatics Quiz - Help Guide
 ## Purpose
 This form is designed to collect data for educational purposes, specifically in the fields of sociolinguistics and pragmatics.

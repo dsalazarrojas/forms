@@ -1,9 +1,3 @@
-<thinking>
-We're creating a form that captures the essential details for planning a wedding event. This form is designed to be completed by someone (e.g., a wedding planner, coordinator, or couple) responsible for planning a wedding. The form's purpose is to gather information about the wedding date, location, packages or services required, contact details, people to contact, and other essential elements.
-
-The form is not intended for use in situations where duplicate data collection is necessary or where multiple instances of the same form are being filled out for the same event. This guide assumes that the form will be filled out once for each unique wedding event.
-
-</thinking>
 # Wedding Event Plan Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather essential information for planning a wedding event. It will help the wedding planner or coordinator to understand the event's specifics and ensure that all necessary details are covered.

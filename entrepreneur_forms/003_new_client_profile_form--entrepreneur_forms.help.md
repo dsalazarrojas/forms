@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a new client, including their personal details, contact information, and business-related data. The form is intended to be completed by the user, and the information collected will be stored in the system for future reference. Before completing the form, please ensure that you have the necessary permissions and authorization to access this information. Additionally, please be aware that the form is not intended for multiple clients with the same name and address. If you are unsure about any of the fields, please reach out to the system administrator for clarification.
-</thinking>
-
 # New Client Profile Form - Help Guide
 ## Purpose
 The New Client Profile Form is designed to collect information about a new client, including their personal details, contact information, and business-related data. This information will be stored in the system for future reference and will help in keeping track of client details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Information Sheet - Help Guide
 ## Purpose
 This form is used to collect information about an event. It is designed to gather relevant details such as event date, start time, location, and description. This form helps event organizers and planners to provide a comprehensive overview of the event.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Enrolment Form PTQ is to gather relevant information about trainings and courses for enrollment purposes.
-This form is used to collect data from users about their training and course selections, status, and other relevant details.
-Please ensure that this form is not duplicated for any other purpose than the intended use of enrollment.
-</thinking>
-
 # Enrolment Form PTQ - Help Guide
 ## Purpose
 The Enrolment Form PTQ is used to collect information about trainings and courses for enrollment purposes.

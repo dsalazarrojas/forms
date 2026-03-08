@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for the management and tracking of film-related projects, including confirmation, details, and production information. It may be used by filmmakers, producers, or industry professionals to collect and store data about films, including confirmation status, technical details, and production specifics. This form likely serves as a tool for tracking and managing film projects in the entertainment industry. Before proceeding, ensure that this is the correct form for your needs and that you have all the necessary information to complete it accurately.
-</thinking>
-
 # film_confirmation_form - Help Guide
 ## Purpose
 This form is designed to collect and track film-related project information, including confirmation, details, and production specifics.

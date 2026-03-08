@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from educators on their experiences and perceptions of digital classroom adaptation in their institutions. This form will help us understand how different types of schools (public, private, charter) have adopted digital technologies in their classrooms, what level of adaptation they have achieved, and which tools they use. This will enable us to identify areas of improvement and provide targeted support to schools with specific needs. This form should only be filled out once per school, so please do not fill it out if you've already completed it in the past.
-</thinking>
-
 # Digital Classroom Adaptation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from educators on their experiences and perceptions of digital classroom adaptation in their institutions.

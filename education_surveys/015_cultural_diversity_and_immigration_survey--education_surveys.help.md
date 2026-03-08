@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on cultural diversity and immigration. This form will help us understand the demographics, language proficiency, education level, years of residence in the USA, and opinions on the importance and challenges of cultural diversity and immigration. It is essential to provide accurate and honest answers to ensure that we can better understand the perspectives and experiences of our community members. This form is not meant to be a comprehensive survey, but rather a starting point for further discussions and investigations. Please ensure that the responses are not duplicated or irrelevant to the questions asked. This form is designed for informational purposes only and will not affect any personal benefits or consequences.
-</thinking>
-
 # Cultural Diversity And Immigration Survey - Help Guide
 ## Purpose
 

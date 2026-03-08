@@ -1,7 +1,3 @@
-<thinking>
-The form "custom_product_order_form_template" is likely designed for customers to provide order information, customer details, delivery details, payment information, shipping information, product options, and a review or order confirmation. The form is not affiliated with any specific form platforms, and its creation is based on public survey metadata from the "entrepreneur" category. It is an original adaptation and does not copy or use proprietary content from other platforms. The form is released under CC BY 4.0, allowing free use, modification, and even sale with credit. The form's purpose is to gather information for orders, customer, delivery, payment, shipping, product options, and review/confirmation. This guide will explain how to complete this form, field by field.
-</thinking>
-
 # custom_product_order_form_template - Help Guide
 ## Purpose
 The "custom_product_order_form_template" form is designed for customers to provide order information, customer details, delivery details, payment information, shipping information, product options, and review/confirmation for their orders.

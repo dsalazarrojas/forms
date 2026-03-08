@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to evaluate the impact of an educational program on its participants. Its purpose is to gather feedback from participants to improve the program's effectiveness and overall user experience. The form will likely be used by program staff or administrators who need to assess the program's effectiveness and identify areas for improvement. The form should only be filled out by participants who have attended the program.
-
-Please ensure that this form is not filled out by anyone who did not attend the program, and that each participant provides their own evaluation.
-</thinking>
-
 # Educational Program Impact Evaluation Questionnaire - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from students regarding their confidence in conducting research. The purpose of this form is to help identify areas where students may need additional support to aid in their research endeavors. The form will help track what students have confidence in and what areas they are struggling with. This information can be used to create targeted support plans to benefit students in their academic pursuits. 
-
-This form is only to be filled out by students who are currently conducting research. This form is a one-time survey. 
-
-</thinking>
-
 # Student Research Confidence Survey - Help Guide
 ## Purpose
 The Student Research Confidence Survey is a form designed to gather information from students about their confidence in conducting research. This form will help identify areas where students need additional support and allow for targeted support plans to be created.

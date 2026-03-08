@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Anti Bullying Program Effectiveness Survey - Help Guide
 ## Purpose
 The Anti Bullying Program Effectiveness Survey is a tool used to assess the effectiveness of the school's anti-bullying program. This survey is designed to collect feedback from various stakeholders, including teachers, students, staff, parents, and volunteers, to gauge the program's impact on bullying incidents and overall school climate. The data collected will help the school administration refine and improve the program to better support students and maintain a safe and inclusive environment.

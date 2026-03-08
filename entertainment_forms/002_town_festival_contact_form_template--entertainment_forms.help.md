@@ -1,7 +1,3 @@
-<thinking>
-To create a form that captures contact information and event details for a town festival, we need to ensure that it is not duplicated in the internal database. To avoid this, we will be checking for existing entries before submitting new ones. This form will be used by attendees and organizers to communicate with each other and share their contact and event details. The fields are designed to be minimal and straightforward, making it easy for users to fill out and submit the form.
-</thinking>
-
 # Town Festival Contact Form Template - Help Guide
 ## Purpose
 This form is designed to allow attendees and organizers to share their contact and event details with each other. It helps to facilitate communication and ensures that there is no duplication of entries in the internal database.

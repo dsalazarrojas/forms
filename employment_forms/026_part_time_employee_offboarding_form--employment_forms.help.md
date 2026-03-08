@@ -1,6 +1,3 @@
-<thinking>
-This form is used for part-time employees to provide information and feedback during their offboarding process. It is designed to gather essential details for a smooth transition and ensure that all necessary steps are taken to maintain a positive relationship with the employee. The form is not meant to be filled out by the employee, but rather by the person in charge of offboarding or HR representative.
-</thinking>
 # part_time_employee_offboarding_form - Help Guide
 ## Purpose
 The Part-time Employee Offboarding Form is used to collect information and feedback from part-time employees during the offboarding process. This form helps in maintaining a positive relationship with the employee and ensuring a smooth transition.

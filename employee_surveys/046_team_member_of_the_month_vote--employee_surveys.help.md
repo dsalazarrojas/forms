@@ -1,5 +1,3 @@
-<thinking>Team Member Of The Month Vote is a form used to nominate team members for a monthly recognition award. This form is used to gather feedback and reasons why a team member should be recognized for their outstanding contributions and efforts. Before completing this form, please ensure you have not previously nominated the same team member for this award in the past month. If you need to nominate a team member again, please provide a detailed explanation for your previous nominations to ensure consistency in our recognition process.</thinking>
-
 # Team Member Of The Month Vote - Help Guide
 ## Purpose
 The Team Member Of The Month Vote form is used to recognize and reward team members for their outstanding contributions and efforts. By completing this form, you can nominate team members and provide feedback on their strengths and achievements.

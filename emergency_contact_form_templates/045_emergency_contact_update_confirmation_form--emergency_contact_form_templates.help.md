@@ -1,7 +1,3 @@
-<thinking>
-This form is used to confirm updates to an individual's emergency contact information. It should only be completed for new or updated emergency contacts, not for deleting or replacing existing ones. Please ensure that the form is filled out correctly to avoid creating duplicates or incorrect information.
-</thinking>
-
 # Emergency Contact Update Confirmation Form - Help Guide
 ## Purpose
 The Emergency Contact Update Confirmation Form is used to confirm updates to an individual's emergency contact information. This form is intended for updating new or existing emergency contact details, ensuring that the information is accurate and up-to-date.

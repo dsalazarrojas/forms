@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to allow users to submit information about events, including event details, artist submissions, and setlists. This form is likely used in the context of event planning or organization, where users need to provide information about upcoming events.
 
 To complete this form, users will navigate through several pages, filling in the required and optional fields. The form appears to be designed to collect multiple pieces of information about events, including titles, artists, and setlists. Each field has a label, type, and option list, which will be explained below.

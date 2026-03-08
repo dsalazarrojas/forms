@@ -1,7 +1,3 @@
-<thinking>
-We are about to create a user-facing help guide for the "Pedagogical Research Awareness Survey" form. This form aims to gauge the level of awareness and engagement of users with pedagogical research, its theories, and its applications in education. It will help us understand their understanding of pedagogical theories, their collaboration with other researchers, and their favorite research resources. We will also explore their evaluation process, teaching practices, and challenges they face in the field. The outcomes and challenges sections will give us insight into their current status and areas for improvement.
-</thinking>
-
 # Pedagogical Research Awareness Survey - Help Guide
 
 ## Purpose

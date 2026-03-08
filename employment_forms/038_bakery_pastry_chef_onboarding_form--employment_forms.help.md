@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information from pastry chefs who are joining or already work in a bakery. The form is used to onboard new employees, gather their personal and professional details, and ensure they meet the necessary requirements for employment. The form is intended for internal use only within the bakery and is not meant to be shared or used for external purposes. It is also not a form for ordering or purchasing any products or services. This form is a tool for the hiring process and onboarding of new employees.
-
-</thinking>
-
 # Bakery Pastry Chef Onboarding Form - Help Guide
 ## Purpose
 This form is used to gather and store information about new bakery and pastry chefs during the onboarding process. This information helps the bakery to efficiently manage employee data, streamline communication, and ensure that all necessary requirements and certifications are met.

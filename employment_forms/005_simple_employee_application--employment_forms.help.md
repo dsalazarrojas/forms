@@ -1,5 +1,3 @@
-<thinking>...This simple employee application form is designed for individuals to provide information about themselves for employment purposes. Before starting, please ensure you have not already filled out this form or have been previously registered in the system. This form is intended to collect basic details such as name, address, and other relevant information for our records. Please fill out the form accurately and completely to the best of your abilities...</thinking>
-
 # Simple Employee Application - Help Guide
 ## Purpose
 The Simple Employee Application form is a tool for prospective employees to provide their personal details for employment purposes.

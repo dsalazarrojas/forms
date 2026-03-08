@@ -1,6 +1,4 @@
 >
-<thinking>...</thinking>
-
 This block is a payroll system performance survey form. The purpose of this form is to collect feedback and performance data from employees about their current payroll system. This data will help our team evaluate and improve the payroll system. Please answer all required questions to the best of your ability.
 
 </thinking>

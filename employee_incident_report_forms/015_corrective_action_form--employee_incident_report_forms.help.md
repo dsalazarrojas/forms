@@ -1,12 +1,3 @@
-<thinking>
-This form is used to document corrective actions taken in response to incidents or near-misses. This form ensures that actions are well-documented and reviewed, ensuring that lessons learned are captured and applied to prevent similar incidents in the future. 
-
-Before filling out this form, please ensure that all relevant fields are filled out accurately and completely. The form can be filled out by employees who have been tasked with implementing corrective actions. 
-
-The form is designed to be filled out in a sequential manner, from the first page to the last. Each page is labeled to help guide the user through the process. This form should not be duplicated or filled out multiple times for the same incident.
-
-</thinking>
-
 # Corrective Action Form - Help Guide
 ## Purpose
 This form is used to document corrective actions taken in response to incidents or near-misses. It ensures that actions are well-documented and reviewed, allowing lessons learned to be captured and applied to prevent similar incidents in the future.

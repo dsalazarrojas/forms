@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a form for Neuroscience Training Recommendation. The purpose of this form is to collect information from users about a training program for neuroscience. The form is not affiliated with or endorsed by any form platform and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # Neuroscience Training Recommendation Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about a training program for neuroscience. Please fill out the form to submit your recommendation and training details.

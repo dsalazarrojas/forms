@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the form is being used by authorized users only, and that the survey questions are relevant to the specific institution's learning policies. It's essential to review the form's settings to avoid duplication of questions or unnecessary fields. For example, if a question is already answered on the first page, it's pointless to ask it again on subsequent pages.
-</thinking>
-
 # Institutional Learning Policy Awareness Survey - Help Guide
 ## Purpose
 The Institutional Learning Policy Awareness Survey is designed to gather information about an institution's learning policies and ensure that they are understood and followed by all relevant parties. This survey aims to raise awareness about existing policies, gather feedback, and identify areas for improvement.

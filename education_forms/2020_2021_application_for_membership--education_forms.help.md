@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals seeking membership in the 2020-2021 academic year educational program. To ensure relevance and non-duplication, users should only complete this form if they are indeed interested in joining the program and have not already submitted an application.
-</thinking>
-
 # 2020 – 2021 Application For Membership - Help Guide
 ## Purpose
 

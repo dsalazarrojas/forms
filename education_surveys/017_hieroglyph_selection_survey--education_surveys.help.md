@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that users understand what it's for. This form is likely a survey for gathering feedback or information about hieroglyphs from users. It's possible that this form is used in an educational setting or for research purposes. Let's make sure that the form is not being used for any other purpose than its intended use. We should also check if there are any similar forms that could be used in place of this one, to avoid duplication of effort. 
-
-</thinking>
-
 # Hieroglyph Selection Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather feedback and information about hieroglyphs from users. It's likely used in an educational setting or for research purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brand Strategist Estimate Form - Help Guide
 ## Purpose
 The Brand Strategist Estimate Form is used to provide a structured and accurate estimate of the time and resources required for a project. The form helps in capturing the essential details of a project, including its scope, timeline, and financial aspects. The goal is to ensure that both the client and the brand strategist have a clear understanding of the project's scope and costs, preventing misunderstandings and miscommunication during project execution.

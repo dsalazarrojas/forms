@@ -1,10 +1,3 @@
-<thinking>
-The Housing Technology Incubator Registration Form is designed to collect information from startups and entrepreneurs about their housing technology startups. This form is used for internal purposes, such as tracking and evaluating startup applications. Before completing this form, please ensure that you have read and understood the purpose and instructions carefully. This form will collect information about your startup, funding, location, and other relevant details. Please ensure that all required fields are filled out accurately and completely. 
-
-This form will be reviewed and assessed internally to determine whether your startup meets the criteria for incubation. If you have any questions or concerns, please contact us.
-
-To complete this form, please follow the instructions below:</thinking>
-
 # Housing Technology Incubator Registration Form - Help Guide
 
 ## Purpose

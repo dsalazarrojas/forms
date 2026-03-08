@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Breakfast Program Feedback - Help Guide
 ## Purpose
 The Breakfast Program Feedback form is designed to gather information about your experiences with the breakfast program. This form helps us understand what you like or dislike about the program, and how we can improve it to better serve you.

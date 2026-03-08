@@ -1,7 +1,3 @@
-<thinking>
-This form is used for dermaplaning, a procedure that involves removing the top layer of skin, typically from the scalp or face. The form is meant to be completed by a patient to provide consent for the procedure and ensure they are aware of the risks and benefits involved.
-</thinking>
-
 # Dermaplaning Consent Form - Help Guide
 
 ## Purpose

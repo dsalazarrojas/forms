@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather order information from customers to be used for ordering books through Stripe. It's essential to fill out this form accurately to ensure that your order is processed correctly and that you receive the books you need.
-</thinking>
-
 # Stripe Book Order Form - Help Guide
 ## Purpose
 This form is used to collect order details from customers to be used for processing book orders through Stripe.

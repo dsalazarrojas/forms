@@ -1,5 +1,3 @@
-<thinking>...I will assume that the form is intended to collect information about an estimate of work to be performed by an attorney for a client, including details about the firm and the client, as well as the scope and cost of the work. I will also assume that the form is meant to be completed by the law firm, providing their information and the details of their work, including the estimated hours and total fee...I will review the form and provide a detailed help guide for each field in the following sections...</thinking>
-
 # Attorney Estimate Form - Help Guide
 ## Purpose
 This form is used to create an estimate for a legal matter. It collects information about the law firm providing the service, the client, and the details of the work to be performed, including estimated hours, total fee, and other relevant information.

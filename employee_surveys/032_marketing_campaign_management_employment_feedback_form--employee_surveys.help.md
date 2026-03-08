@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from employees regarding marketing campaign management, specifically on the employment aspects of the campaign. It is used to evaluate the effectiveness of the campaign in meeting employee resource needs and to identify areas for improvement. Please make sure to fill out this form accurately and thoroughly to provide valuable feedback. This form is not meant to be a duplicate or repetitive effort, so if you have already provided feedback on a similar campaign, please do not submit this form.
-</thinking>
-
 # Marketing Campaign Management Employment Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on the effectiveness of marketing campaign management, focusing on the employment aspects of the campaign. It aims to collect information on the campaign's performance in meeting employee resource needs and to identify areas for improvement.

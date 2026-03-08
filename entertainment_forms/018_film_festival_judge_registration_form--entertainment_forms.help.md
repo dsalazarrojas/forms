@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from individuals wishing to be a judge for a film festival. It ensures that festival organizers know who's interested in judging, their relevant experience, and their availability. This form prevents duplicate entries and ensures the quality of the judging panel. It's essential that users understand the purpose and requirements to avoid confusion and ensure accurate data collection.
-
-</thinking>
-
 # Film Festival Judge Registration Form - Help Guide
 ## Purpose
 This form is used to register individuals as film festival judges. It's a mandatory requirement for anyone interested in participating in the festival's judging process. Please ensure you complete this form accurately to help us understand your qualifications and availability.

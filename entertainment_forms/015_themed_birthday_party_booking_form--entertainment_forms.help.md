@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a user-facing help guide for a themed birthday party booking form. The form will be used to collect information for a themed birthday party, and the goal is to provide a clear and concise guide for end-users to understand the form's purpose, how to complete it, and what each field means. The form will likely be used by parents or caregivers to book a themed birthday party for their child, and the information collected will help the party organizers to create a memorable and fun celebration for the child and their guests.
-
-Before proceeding, it's essential to ensure that the form's purpose is clear and that the information is being collected for the correct party. A quick review of the party details will help to avoid duplication of efforts and ensure that the correct information is being entered.
-
-</thinking>
-
 # Themed Birthday Party Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for a themed birthday party booking. The party organizers will use this information to create a memorable and fun celebration for the child and their guests.

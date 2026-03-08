@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gauge the attitudes and experiences of researchers regarding open access publishing. This form will help us understand their perceptions, usage, and satisfaction with open access publishing, as well as their experiences with preprint servers and barriers to open access publishing.
-The form is structured into multiple pages, with a mix of multiple-choice questions and open-ended questions that aim to capture a comprehensive picture of researchers' attitudes and experiences.
-</thinking>
-
 # Open Access Publishing Attitudes Survey - Help Guide
 ## Purpose
 This form is designed to gauge the attitudes and experiences of researchers regarding open access publishing.

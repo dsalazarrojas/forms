@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect basic applicant information for the purpose of evaluating and processing job applications. The form fields are intended to gather details such as contact information, position applied for, and other relevant information that will aid in the evaluation process. It is essential to ensure that the form is completed accurately and thoroughly to facilitate a smooth and efficient evaluation process. Please note that this form is only to be used for the purpose of evaluating and processing job applications, and any information provided will be treated with confidentiality and respect. Ensure that you are completing the form for the correct purpose and that the information provided is accurate and true to the best of your ability.
-</thinking>
-
 # Applicant Information Form - Help Guide
 ## Purpose
 The Applicant Information Form is a document used to gather essential details from applicants for the purpose of evaluating and processing job applications.

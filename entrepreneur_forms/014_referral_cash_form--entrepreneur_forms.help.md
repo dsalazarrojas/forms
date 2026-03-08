@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for capturing customer referrals and reward information. 
-It is used by the business team to record and track customer referrals, including details such as the customer's name, email, phone number, and reward amount, as well as information about the business they were referred to. 
-The form will help the business team to identify successful referrals, calculate rewards, and maintain a database of customer interactions for future reference.
-</thinking>
-
 # Referral Cash Form - Help Guide
 ## Purpose
 The Referral Cash Form is used to capture and record customer referrals and reward information. It includes fields for customer contact details, business information, and date of referral.

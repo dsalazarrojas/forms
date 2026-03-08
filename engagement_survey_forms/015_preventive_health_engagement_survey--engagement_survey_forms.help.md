@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assess the user's engagement with preventive health activities such as visiting the doctor, exercising, smoking, and eating habits. It is likely used by healthcare professionals or wellness programs to identify areas of improvement for users in maintaining their health. It is not intended to be used in emergency situations or for users who have recently experienced a major life change. Users who have recently experienced a major life change or have urgent medical concerns should not be directed to complete this form.
-
-Before proceeding, please ensure that you are not in a rush and have the necessary time and attention to complete this form accurately. If you have any questions or concerns, please reach out to the designated contact person for assistance. Please complete this form carefully and honestly, as the information collected will be used to improve your health and well-being.
-
-To avoid duplication of effort, please do not complete this form if you have already completed a similar survey or assessment in the past 6 months.
-
-</thinking>
-
 # Preventive Health Engagement Survey - Help Guide
 ## Purpose
 This form is designed to assess your engagement with preventive health activities to help you maintain a healthy lifestyle. The information collected will be used to provide you with personalized recommendations and guidance on how to improve your health and well-being.

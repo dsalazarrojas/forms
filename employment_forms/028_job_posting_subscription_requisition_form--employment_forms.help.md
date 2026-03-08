@@ -1,8 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and consistently, the form purpose and required information should be thoroughly understood by the end-user. The form is called "Job Posting Subscription Requisition Form" and it appears to be used to collect information about job postings, including details about job postings, their status, categories, and other relevant information. It's crucial that the user understands the form's purpose before proceeding. The form should only be filled out if the user has a clear understanding of what type of job posting they wish to create or update. If the user is not certain or has doubts, they should not proceed until they have gathered all necessary information or consulted relevant resources.
-To prevent duplication of job postings, users should check the form's database to see if a similar posting already exists before creating a new one. This can be done by searching the form's database or asking the support team for assistance.
-</thinking>
-
 # Job Posting Subscription Requisition Form - Help Guide
 ## Purpose
 The "Job Posting Subscription Requisition Form" is used to create or update a job posting. This form is intended to collect necessary details such as job title, category, status, and other relevant information to facilitate the creation or update of a job posting.

@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to create an original adaptation of a mining equipment inspection form. The form is designed to collect information on the inspection of mining equipment, ensuring it is in good working order or in need of maintenance. The form is likely used by maintenance teams or equipment managers within the mining industry to gather data on equipment condition and status.
-</thinking>
-
 # Mining Equipment Inspection Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information on the inspection of mining equipment, ensuring it is in good working order or in need of maintenance.

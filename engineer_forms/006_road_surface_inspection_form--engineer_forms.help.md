@@ -1,6 +1,3 @@
-<thinking>
-The form is designed for inspectors to document the condition of road surfaces, including their condition, type, material, and other relevant details. The purpose of this form is to gather information for maintenance and inspection planning, ensuring that road surfaces are accurately assessed and maintained. This form aims to minimize data duplication and facilitate consistent data collection. Please ensure that all fields are filled out accurately and completely. The data collected will be used for planning and decision-making purposes.</thinking>
-
 # road_surface_inspection_form - Help Guide
 ## Purpose
 This form is designed for inspecting and documenting the condition of road surfaces. The collected data will be used for maintenance and inspection planning.

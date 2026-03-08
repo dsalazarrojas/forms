@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from employees on their experiences and perceptions of remote work. The form is designed to collect data on various aspects of remote work, including communication with team members and management, collaboration, work-life balance, company culture, and more. This form helps to identify areas of improvement and provide insights for better employee experience and organizational growth.
-</thinking>
-
 # corporate_remote_work_satisfaction_report - Help Guide
 ## Purpose
 The corporate remote work satisfaction report is a tool to gather feedback from employees on their experiences and perceptions of remote work. This report aims to provide insights on areas of improvement and support for better employee experience and organizational growth.

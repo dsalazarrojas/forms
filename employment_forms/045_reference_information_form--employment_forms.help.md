@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a candidate or employee's reference information, which may include details such as job title, department, job level, job type, and employment status. This form will help gather essential data that can aid in the hiring or promotion process. It is possible that this form will be used in conjunction with other forms, and the data collected can be used to streamline or automate HR processes such as background checks or promotion tracking.
-</thinking>
-
 # Reference Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect reference information about a candidate or employee, including job details and employment history. This form is designed to aid in the hiring or promotion process by gathering essential data that can be used to make informed decisions.

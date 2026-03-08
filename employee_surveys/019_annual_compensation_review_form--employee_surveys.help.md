@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to conduct an annual compensation review for employees. It ensures that all relevant information is collected to make informed decisions about salary increases, bonuses, and other compensation-related benefits. This form will help the reviewer assess the employee's current compensation and make recommendations for future growth and development. 
-
-The form is designed to be completed by the employee's manager or HR representative and will guide them through the necessary steps to ensure that all required information is collected. Please note that this form is not intended to be used for external purposes, and all information collected will remain confidential and internal to the organization.
-
-Before starting, please check that the form is not being duplicated for another purpose or employee. If you are unsure, contact the HR department for clarification.
-
-</thinking>
-
 # Annual Compensation Review Form - Help Guide
 ## Purpose
 

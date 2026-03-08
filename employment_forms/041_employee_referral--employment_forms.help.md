@@ -1,9 +1,3 @@
-<thinking>Before creating the help guide, let's briefly explain the form's purpose and relevance check to ensure it's being used correctly:
-
-This form is designed to collect information about a person referred for a job opportunity within the organization. It's intended to gather essential details such as the referred employee's name, contact information, job title, department, and company. The form also includes fields for the referring employee's contact details and other relevant sections to provide a complete picture of the referral.
-
-Before proceeding, please ensure you have the authority to refer this candidate and that you're not duplicating an existing referral. If the referred candidate is already employed within the organization, please use the existing referral system to update their details instead.</thinking>
-
 # Employee Referral - Help Guide
 ## Purpose
 The Employee Referral form is used to collect information about a person referred for a job opportunity within the organization. This form helps to gather essential details such as contact information, job title, department, and company to facilitate a smooth referral process.

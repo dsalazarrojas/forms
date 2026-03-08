@@ -1,5 +1,3 @@
-<thinking>Forms like this are typically used to collect information from clients or customers for various reasons, such as event management, client onboarding, or data collection. Before proceeding, please ensure that you are using this form for the correct purpose and that the information collected is not a duplicate of any existing data in your system. This form is not intended for mass registration of multiple clients at once. If you need to collect data for multiple clients, please use the appropriate form designed for that specific use case.</thinking>
-
 # Studio A Dance Center Registration Form - Help Guide
 ## Purpose
 The Studio A Dance Center Registration Form is used to collect information from clients registering for our dance classes. This form helps us understand their needs and preferences, ensuring that we can provide the best experience for our students.

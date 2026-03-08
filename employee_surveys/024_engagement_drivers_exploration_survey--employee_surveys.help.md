@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information about employee engagement and satisfaction with their job, manager, and company. The goal is to identify factors that drive engagement and provide insights for improvement.
-We will be checking for relevance and duplication to ensure the form is not being filled out multiple times for the same employee. Please note that this information will be used for internal purposes only and will not be shared with external parties.
-</thinking>
-
 # Engagement Drivers Exploration Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about employee engagement and satisfaction with their job, manager, and company. This information will be used to identify factors that drive engagement and provide insights for improvement.

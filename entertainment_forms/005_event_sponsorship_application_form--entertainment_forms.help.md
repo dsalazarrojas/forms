@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for organizations or individuals to apply for event sponsorship. The form is meant to collect contact information, event details, and credit card information for processing. It is intended for use by event organizers, planners, or other entities seeking sponsorships for their events. 
-</thinking>
-
 # event_sponsorship_application_form - Help Guide
 ## Purpose
 The Event Sponsorship Application Form is used by event organizers to collect information from potential sponsors about their event. This form helps to ensure that sponsors have the necessary details to consider a sponsorship opportunity.

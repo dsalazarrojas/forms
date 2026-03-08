@@ -1,22 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's review its YAML fields.
-
-The form is titled "university_field_assessment_form" and has 21 fields across 2 pages. The fields seem to be related to assessing the quality and effectiveness of various aspects of a university field, such as student attendance, faculty participation, student satisfaction, and more.
-
-Upon further review, the fields appear to be grouped into several categories:
-
-* Field Visit (page 1): This page likely assesses the initial field visit.
-* Student and Faculty Feedback (page 2): This page gathers feedback from students and faculty regarding their experience and satisfaction.
-
-Given the fields and their labels, it's reasonable to conclude that this form is used to collect feedback and data from university field visits. The form may be used to assess the quality of the field visit, evaluate student and faculty participation and satisfaction, and identify potential areas for improvement.
-
-This form seems to be for internal use within the university, and its purpose might be to:
-1. Collect data for quality assessment and evaluation of the field visit.
-2. Track student and faculty feedback and participation.
-3. Inform decisions on future field visits and resource allocation.
-
-It's essential to avoid duplication of effort and ensure that the correct form is used for the intended purpose.</thinking>
-
 # university_field_assessment_form - Help Guide
 ## Purpose
 

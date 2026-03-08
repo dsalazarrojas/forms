@@ -1,7 +1,3 @@
-<thinking>
-To confirm, I will be creating a user-facing help guide for a form called "Soundtrack Rights Usage Request Form" under the category "entertainment_forms". The purpose of this form is to facilitate the process of requesting usage rights for a project's soundtrack. This form will collect information from both the composer and the client, including project details, contact information, and agreement terms. The form will be used to determine whether the composer has agreed to the usage terms and whether the client has obtained the necessary rights. I will be using the provided YAML fields to create a clear and concise help guide that explains each field's purpose and how to complete the form correctly.
-</thinking>
-
 # Soundtrack Rights Usage Request Form - Help Guide
 ## Purpose
 The Soundtrack Rights Usage Request Form is a tool used to request usage rights for a project's soundtrack. This form collects information from both the composer and the client to ensure that all necessary rights are acquired and terms are agreed upon.

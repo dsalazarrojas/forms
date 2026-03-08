@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I'll create a comprehensive help guide for the "Teacher Autonomy And Creativity Survey" form, making it easy for end-users to understand its purpose, how to complete it, and what each field means. I'll ensure that the explanation is concrete, concise, and practical. I'll cover all 25 fields, even those with similar names but different purposes, to help users avoid confusion.</thinking>
-
 # Teacher Autonomy And Creativity Survey - Help Guide
 
 ## Purpose

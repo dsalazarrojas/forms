@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is intended to collect information from sellers about their products, including general details about the seller and the product, ratings, feedback, and any additional questions or concerns. The purpose of this form is to help evaluate the quality and performance of products and sellers. It is likely used in a business-to-business (B2B) or business-to-consumer (B2C) context, such as in a sales or customer service department. To prevent duplication, the form should only be filled out by a single seller for each product, and the data collected should be kept up-to-date and accurate. This form should not be used for mass data collection or for any purpose other than its intended use... </thinking>
-
 # Sellers Product Evaluation Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from sellers about their products. It is intended to be used by sellers to provide more information about their products, allowing customers or evaluators to make more informed decisions.

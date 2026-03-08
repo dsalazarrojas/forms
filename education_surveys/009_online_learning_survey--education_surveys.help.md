@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect user feedback and opinions on online courses. This form helps learners provide input on the types of courses they've taken, their experiences with the courses, and any feedback or suggestions they may have. It's essential to ensure that the form is completed correctly to provide useful insights.
-</thinking>
-
 # Online Learning Survey - Help Guide
 ## Purpose
 This survey aims to gather information from users about their online learning experiences, allowing us to improve and refine our course offerings and services.

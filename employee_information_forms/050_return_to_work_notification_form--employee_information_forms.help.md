@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to be used by employees to provide a return to work notification. The purpose of this form is to inform management and HR of an employee's status and reason for returning to work after a leave of absence. This form is a critical document that requires accurate and timely completion to ensure that employee's work status is updated correctly. 
-Please note that this form is not intended to replace or duplicate any existing HR or management processes, but rather to provide an additional layer of communication and tracking.
-</thinking>
-
 # return_to_work_notification_form - Help Guide
 ## Purpose
 The return to work notification form is used to notify management and HR of an employee's status and reason for returning to work after a leave of absence.

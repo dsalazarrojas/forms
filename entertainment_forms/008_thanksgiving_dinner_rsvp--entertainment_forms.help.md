@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users about attending a thanksgiving dinner. The purpose is to collect data on who is attending and how many guests are expected. This form is required for planning and preparation purposes. The form should only be filled out once per person attending the dinner.
-</thinking>
-
 # thanksgiving_dinner_rsvp - Help Guide
 ## Purpose
 This form is used to collect information about who is attending the Thanksgiving dinner and how many guests are expected.

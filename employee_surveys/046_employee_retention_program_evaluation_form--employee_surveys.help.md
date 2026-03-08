@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the Employee Retention Program, which is a program designed to measure employee satisfaction and engagement. This form will help to gather feedback and suggestions from employees and managers to improve the retention program and ultimately retain employees. 
-It's essential to ensure that this form is completed by the right people, with the correct information, and in the right context. Please verify that you have the authority to complete this form and that it's not a duplicate effort.
-Please note that some fields are optional, but they might still be important for providing a complete picture of the employee's experience and feedback.
-</thinking>
-
 # Employee Retention Program Evaluation Form - Help Guide
 ## Purpose
 The Employee Retention Program Evaluation Form is designed to gather feedback and suggestions from employees and managers to evaluate the effectiveness of the Employee Retention Program. It is essential to fill out this form accurately and honestly to help improve the program.

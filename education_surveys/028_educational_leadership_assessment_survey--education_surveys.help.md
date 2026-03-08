@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be used to assess the effectiveness of a school leader. The purpose of this form is to collect information from educators about their school leader's performance. The form likely serves as a tool for school administrators or HR personnel to evaluate a school leader's strengths and weaknesses, and to identify areas for improvement. This form should only be completed by educators who have had direct experience working with the school leader being assessed. To ensure that each educator's input is valuable and relevant, please do not complete this form if you have not had direct experience working with the school leader being assessed. Also, ensure that you have not already completed this form for the same school leader in the past.
-
-</thinking>
-
 # educational_leadership_assessment_survey - Help Guide
 ## Purpose
 The Educational Leadership Assessment Survey is a tool for school administrators or HR personnel to evaluate a school leader's performance.

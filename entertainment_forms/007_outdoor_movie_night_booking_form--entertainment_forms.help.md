@@ -1,10 +1,3 @@
-<thinking>
-This help guide aims to assist end users in understanding the purpose and functionality of the "Outdoor Movie Night Booking Form". The form's purpose is to collect information for an outdoor movie night event, including event details, attendee information, and contact data. This guide will walk users through how to fill out the form step by step, explaining each field and its intended use.
-
-Before proceeding, ensure that the form is relevant to the event you are creating and that you are not duplicating an existing form.
-
-</thinking>
-
 # Outdoor Movie Night Booking Form - Help Guide
 
 ## Purpose

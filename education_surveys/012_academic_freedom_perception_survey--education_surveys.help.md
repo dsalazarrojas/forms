@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gauge the perception of academic freedom among various members of an academic institution, likely for research or feedback purposes. This form is likely part of a broader effort to understand the current state of academic freedom in the institution and identify areas where improvement is needed.
-</thinking>
-
 # Academic Freedom Perception Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about your perception of academic freedom within your institution. Your responses will help the institution understand your views on this topic and identify potential areas for improvement.

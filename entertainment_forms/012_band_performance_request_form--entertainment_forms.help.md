@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Band Performance Request Form - Help Guide
 
 ## Purpose

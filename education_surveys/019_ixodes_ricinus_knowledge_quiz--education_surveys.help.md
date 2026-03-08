@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Ixodes Ricinus Knowledge Quiz - Help Guide
 
 ## Purpose

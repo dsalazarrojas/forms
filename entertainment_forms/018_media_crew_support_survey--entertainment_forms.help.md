@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help media crews get support and feedback from production teams. The form should be used by members of the media crew to communicate their needs and concerns to the production team. The purpose of this form is to ensure that the production team is aware of the crew's needs and can provide timely and effective support.
-The form should not be used for any other purpose, and it is recommended to fill it out only if you are a member of the media crew.
-</thinking>
-
 # media_crew_support_survey - Help Guide
 ## Purpose
 The media_crew_support_survey form is designed to help media crews get support and feedback from the production team. This form is used to communicate your needs and concerns to the production team.

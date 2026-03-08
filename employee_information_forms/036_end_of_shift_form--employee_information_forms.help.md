@@ -1,7 +1,3 @@
-<thinking>
-The "End Of Shift Form" is a crucial document that needs to be completed at the end of each shift by employees to ensure that all necessary information is recorded and reported accurately. Before completing this form, please ensure that you have not already submitted this form, as it may lead to duplicate reporting. This form is a critical record of the employee's activities and tasks completed during the shift. The goal is to provide a clear and concise report of the employee's work, allowing for efficient tracking and communication between employees, supervisors, and management.
-</thinking>
-
 # End Of Shift Form - Help Guide
 ## Purpose
 The End Of Shift Form is designed to gather essential information about an employee's work completed during their shift. It helps in tracking tasks, recording comments and notes, and provides a clear record of employee and supervisor details.

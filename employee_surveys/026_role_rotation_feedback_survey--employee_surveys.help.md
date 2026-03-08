@@ -1,10 +1,6 @@
 # Role Rotation Feedback Survey - Help Guide
 
 ## Purpose
-<thinking>**Purpose of this form:** This form is designed to collect feedback from employees regarding their experience and satisfaction with role rotation, a process where employees take on different roles within the organization. The purpose of this form is to gather insights on the effectiveness and challenges of role rotation, allowing for continuous improvement and better management of role rotation processes.
-
-</thinking>
-
 ## How To Complete This Form
 
 To complete this form, follow these steps:

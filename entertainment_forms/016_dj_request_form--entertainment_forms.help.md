@@ -1,9 +1,3 @@
-<thinking>
-**Form Purpose:** The DJ Request Form is a tool for users to request a music event or performance. This form is intended for event planners to gather specific information from users about the type of music desired, details about the event, and other relevant data.
-
-This form is a crucial part of the planning process and should only be used for requesting music events or performances. Please do not use this form for other purposes.
-</thinking>
-
 # DJ Request Form - Help Guide
 ## Purpose
 The DJ Request Form is a tool for users to request a music event or performance. This form is intended for event planners to gather specific information from users about the type of music desired, details about the event, and other relevant data.

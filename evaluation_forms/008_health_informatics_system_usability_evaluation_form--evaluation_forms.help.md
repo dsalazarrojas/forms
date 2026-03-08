@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to evaluate the usability and effectiveness of a Health Informatics System. The form aims to gather information on how well the system meets the user's needs and expectations. The form will help us understand how users interact with the system, identify areas of improvement, and make data-driven decisions for future development and updates.
-
-This form has been created to assess the usability, functionality, and overall user experience of the Health Informatics System. It is not a technical evaluation form, so users without technical knowledge can easily understand and fill it out.
-
-Please ensure you are filling this form honestly and in the context of your real-world experience with the Health Informatics System. Your feedback is crucial to help us improve the system.
-</thinking>
-
 # Health Informatics System Usability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to assess the usability and effectiveness of a Health Informatics System. It aims to gather information on how well the system meets the user's needs and expectations.

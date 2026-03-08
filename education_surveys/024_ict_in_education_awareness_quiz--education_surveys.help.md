@@ -1,11 +1,3 @@
-<thinking>
-
-This form is part of the "education_surveys" category, aiming to gauge respondents' awareness and perceptions of technology in education. It's likely a tool to collect data on how technology influences the learning process, teaching methods, and student outcomes. The form's questions are designed to elicit specific insights into respondents' attitudes, experiences, and opinions regarding the benefits, uses, and effects of technology in education.
-
-This form should not be completed if the respondent has already responded to a similar survey in the past few months, to avoid duplication of effort and skew the collected data.
-
-</thinking>
-
 # ict_in_education_awareness_quiz - Help Guide
 
 ## Purpose

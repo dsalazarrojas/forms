@@ -1,13 +1,3 @@
-<thinking>...
-
-The purpose of the Weekly Reflection Survey is to help employees reflect on their progress, challenges, and goals on a weekly basis. This survey aims to gather information about employee performance, progress, and areas of improvement, which can be used to provide feedback and support to employees. By providing a clear and concise format for reflection, this survey helps employees track their progress and set realistic goals, ultimately leading to personal and professional growth.
-
-This information will be used to help managers and supervisors make informed decisions about employee development and support. 
-
-This form is not a required form, and responses are optional. However, the more detailed and thoughtful responses, the better the outcome.
-
-</thinking>
-
 # Weekly Reflection Survey - Help Guide
 ## Purpose
 The Weekly Reflection Survey is a tool designed to help employees reflect on their progress, challenges, and goals on a weekly basis. It aims to gather information about employee performance and provide feedback and support to employees.

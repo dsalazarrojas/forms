@@ -1,7 +1,3 @@
-<thinking>
-The design thesis review survey is intended to gather feedback from evaluators on a student's design thesis. The purpose of this survey is to assess the overall quality and impact of the thesis, identify areas of improvement, and provide recommendations for future students. The survey should only be completed by those who have reviewed the thesis and are familiar with its content. To ensure relevance, the survey should only be completed once the thesis has been thoroughly reviewed. To avoid duplication, please only complete this survey once per thesis. If you have already completed a survey for the same thesis, please do not repeat the process.
-</thinking>
-
 # Design Thesis Review Survey - Help Guide
 ## Purpose
 The Design Thesis Review Survey is a form used to gather feedback from evaluators on a student's design thesis. The survey is designed to collect your thoughts on the overall quality and impact of the thesis, identify areas for improvement, and provide recommendations for future students.

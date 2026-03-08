@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to help users understand and complete the "Prenatal Education Registration" form. The form collects information from pregnant women to register for a prenatal class, providing essential details such as name, contact information, class preferences, and medical clearance. The form is designed to gather relevant data for the organization to provide targeted education and support for expectant mothers. Before proceeding, please ensure you have not completed this form previously, as duplicate submissions are not allowed.
 
 # Prenatal Education Registration - Help Guide

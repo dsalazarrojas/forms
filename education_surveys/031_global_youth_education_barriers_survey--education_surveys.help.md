@@ -1,7 +1,3 @@
-<thinking>
-This is a help guide for the Global Youth Education Barriers Survey form, designed to collect data on the experiences and challenges of students facing barriers to education. This form is intended to help identify the specific obstacles that students face in accessing education, and to gather information on the types of support systems in place to help them overcome these barriers. By completing this form, you will be contributing to a research project aimed at improving education outcomes for youth around the world. Please ensure that you answer these questions as accurately and thoroughly as possible. Note that answers will be kept confidential and will not be shared without your consent.
-</thinking>
-
 # Global Youth Education Barriers Survey - Help Guide
 ## Purpose
 The Global Youth Education Barriers Survey is designed to collect data on the experiences and challenges faced by students in accessing education. This form will help identify the specific obstacles that students face and gather information on the types of support systems in place to help them overcome these barriers.

@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose**
-The form is designed to collect feedback and opinions from participants on full day school programs, aiming to understand their preferences and experiences. This form will help gather data on the goals, outcomes, frequency, start time, duration, and completion time of these programs.
-</thinking>
-
 # Survey On Full Day School Programs - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from participants on full day school programs. The goal is to gather data on your preferences and experiences.

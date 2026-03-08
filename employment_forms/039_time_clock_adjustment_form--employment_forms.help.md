@@ -1,7 +1,3 @@
-<thinking>
-This form is used to adjust employee time clock data. The purpose of this form is to correct or update employee work hours, dates, or project assignments. This form is typically used by employees to submit changes to their time clock records. To ensure that the form is filled out correctly, please review your employee data before submitting. If you've already submitted a time clock adjustment form for the same project or date, your new submission will replace the old one. Please be cautious of overwriting previous submissions if you've entered incorrect information. 
-</thinking>
-
 # Time Clock Adjustment Form - Help Guide
 ## Purpose
 The Time Clock Adjustment Form is used to correct or update employee time clock data, including work hours, dates, and project assignments.

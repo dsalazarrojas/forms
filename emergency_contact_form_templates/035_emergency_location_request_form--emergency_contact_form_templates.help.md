@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to collect information from users about their emergency contact information, specifically their address, location type, city, region, and contact details in case of an emergency. This form is likely used in situations where people need to report or request assistance due to an emergency, such as medical emergencies or accidents. The form is designed to gather essential contact information to facilitate quick and effective response and support. It is essential to ensure that the form is completed accurately and thoroughly to provide the best possible assistance. 
-
-Please note that this form does not appear to have any conditional logic or rules that would prevent users from duplicating submissions. Therefore, it is essential to complete the form once and accurately to ensure that the information is recorded correctly.
-</thinking>
-
 # Emergency Location Request Form - Help Guide
 ## Purpose
 The Emergency Location Request Form is designed to collect contact information and details about your location in case of an emergency. This information will help us provide assistance and support when you need it most.

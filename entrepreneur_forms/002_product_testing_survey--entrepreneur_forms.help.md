@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about a product they have tested. The purpose of this form is to collect their overall satisfaction and rating of the product, along with any comments or suggestions they may have. The form is meant to be completed by customers after they have tested the product and have formed an opinion about it. To avoid duplication, this form is only meant to be filled out once after a product has been tested.
-</thinking>
-
 # Product Testing Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information from customers about a product they have tested.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Change Form - Help Guide
 ## Purpose
 The Employee Change Form is used to record changes made to an employee's status within the company, such as updates to their employment status or any reason for the change. This form helps the HR department to keep track of changes in a structured and organized manner, facilitating better decision-making and record-keeping.

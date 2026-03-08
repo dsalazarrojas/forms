@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to allow users to provide information about their hourly rates and related settings. The form is likely used in a business or financial context, where users need to specify their rates and settings for hourly work. The fields provided are likely for users who need to set rates for various categories or organizations. This form is probably used for internal management or accounting purposes.
-
-The form should not be duplicated or filled out multiple times with varying information. 
-
-The purpose of this form is to collect data related to user's hourly rates. The form has sections for form title, category, description, hourly rate, rate interval, weekly hours, weekly rate, weekly rate currency, and other fields that provide options for rate rounding and additional notes.
-
-Please note that the form requires the user to specify their category (e.g., Educators, Freelancers, etc.) which is a mandatory field. The user can also select the interval and currency for their weekly rate. The form allows for users to enter a description of their services and notes about their hourly rate.
-</thinking>
-
 # hourly_rate_calculator - Help Guide
 ## Purpose
 This form is used to collect data related to user's hourly rates for various categories or organizations.

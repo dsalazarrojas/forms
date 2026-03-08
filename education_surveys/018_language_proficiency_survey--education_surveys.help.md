@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Language Proficiency Survey" form, which is part of the "education_surveys" category. This form is designed to assess an individual's language proficiency in various language skills such as reading, writing, listening, and speaking. The form is intended to provide users with a comprehensive evaluation of their language proficiency levels.
-</thinking>
-
 # Language Proficiency Survey - Help Guide
 ## Purpose
 The Language Proficiency Survey is a form designed to evaluate an individual's language proficiency in various language skills. This survey is used to assess a person's ability to communicate effectively in each of the language skills listed below.

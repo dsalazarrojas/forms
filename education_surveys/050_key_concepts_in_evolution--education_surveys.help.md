@@ -1,10 +1,3 @@
-<thinking>
-This form is for collecting feedback on key concepts in evolution, which are crucial aspects of the subject that students find challenging or unclear. 
-The goal of this form is to help the instructors identify areas where students need more support or clarification. 
-This form will be completed by students to provide their input on the key concepts that they find difficult to understand or need more explanation on. 
-Please ensure this form is not filled out if the student has already provided feedback on the same topic. 
-</thinking>
-
 # Key Concepts In Evolution - Help Guide
 ## Purpose
 This form is designed to collect feedback from students on the key concepts in evolution that they find challenging or unclear. Instructors will use this feedback to identify areas where they can provide additional support or clarification to help students better understand the subject.

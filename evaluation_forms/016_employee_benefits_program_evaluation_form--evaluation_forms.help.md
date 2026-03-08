@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a survey or evaluation form for an Employee Benefits Program. The purpose of the form is likely to gather feedback and data on the current benefits provided by the company to its employees. The form is probably used to evaluate the effectiveness of the benefits, identify areas of improvement, and make informed decisions on what changes to make to the program. This could be part of a regular evaluation process to ensure that the company is providing the best possible benefits to its employees.
-</thinking>
-
 # employee_benefits_program_evaluation_form - Help Guide
 ## Purpose
 This form is used to gather feedback and data on the current benefits provided by the company to its employees. It is an evaluation form to help identify areas of improvement and make informed decisions on what changes to make to the program.

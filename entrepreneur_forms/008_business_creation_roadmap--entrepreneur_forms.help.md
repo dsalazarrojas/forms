@@ -1,28 +1,3 @@
-<thinking>
-
-This form is designed to help entrepreneurs create a comprehensive business creation roadmap, guiding them through the process of defining their business vision, goals, and strategy. The form is organized into sections, each covering a specific aspect of business development. The goal is to gather essential information to create a clear and actionable plan for starting and growing a successful business.
-
-By filling out this form, entrepreneurs will be able to:
-
-* Define their business concept and description
-* Identify their target market and competitive advantage
-* Set clear goals and milestones for the first three, six, and twelve months
-* Determine the necessary initial investment and funding sources
-* Outline the key skills required for success
-* Plan the launch strategy and timeline
-* Identify the type of support needed to ensure business growth
-
-This form is a critical tool for entrepreneurs to structure their thoughts, prioritize their efforts, and create a solid foundation for their business. By completing this form, they will be able to:
-
-* Clarify their vision and goals
-* Develop a comprehensive business plan
-* Identify potential challenges and opportunities
-* Create a roadmap for success
-
-Before starting, make sure you have a clear understanding of your business idea and the resources you have available. This form is not meant to be a one-size-fits-all solution, so feel free to adapt it to your specific business needs.
-
-</thinking>
-
 # Business Creation Roadmap - Help Guide
 ## Purpose
 The Business Creation Roadmap form is designed to guide entrepreneurs through the process of creating a comprehensive business plan, covering essential aspects such as business concept, target market, goals, funding, and launch strategy.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Threat Assessment Form" is to collect information about a potential or ongoing threat to an individual or organization's safety and security. This form helps assess the severity and type of threat, allowing for informed decision-making and proactive measures to mitigate risks. The form should only be filled out for new or ongoing threats, not for historical events or routine assessments. Please only submit one threat per form submission.
-</thinking>
-
 # Threat Assessment Form - Help Guide
 ## Purpose
 The Threat Assessment Form is used to collect information about a potential or ongoing threat to an individual or organization's safety and security. This form helps assess the severity and type of threat, allowing for informed decision-making and proactive measures to mitigate risks.

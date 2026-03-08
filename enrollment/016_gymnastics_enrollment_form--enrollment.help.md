@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from students and parents/guardians for enrolling students in a gymnastics program. The form is designed to capture essential details such as name, contact information, class schedule, and experience level. This form will help the gymnastics organization to efficiently process enrollment requests and ensure that all necessary information is collected.
-
-</thinking>
-
 # Gymnastics Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from students and parents/guardians for enrolling students in a gymnastics program.

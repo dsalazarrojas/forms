@@ -1,7 +1,3 @@
-<thinking>
-This form, "payroll_and_cryptocurrency_survey", appears to be a survey designed to collect information from employees on their payroll and cryptocurrency preferences. It may be used to gather data on employee compensation, cryptocurrency preferences, and other relevant details. Before creating this survey, it is worth checking if a similar form or survey already exists to avoid duplication of effort.
-</thinking>
-
 # payroll_and_cryptocurrency_survey - Help Guide
 ## Purpose
 This survey is intended to collect information on employees' payroll and cryptocurrency preferences. It aims to gather data on department, preferred currency, salary frequency, cryptocurrency payment, and other relevant details.

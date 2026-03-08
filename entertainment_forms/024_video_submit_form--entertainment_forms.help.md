@@ -1,17 +1,3 @@
-<thinking>
-We're creating a help guide for the "video_submit_form" to ensure end-users understand its purpose and requirements. This form is designed to collect information about videos, including the title, description, categories, tags, video URL, and thumbnail URL. 
-
-To avoid duplication, we'll check if this form already exists in our database. If it does, we'll provide an error message and direct the user to the existing form.
-
-Before proceeding, please confirm that you're familiar with the form's purpose: to collect metadata about videos for our platform.
-
-To confirm, this form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created by AI using public survey topic metadata.
-
-This form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-
-For any questions or concerns, please contact form@gic.mx.
-</thinking>
-
 # video_submit_form - Help Guide
 ## Purpose
 This form collects metadata about videos, including title, description, categories, tags, video URL, and thumbnail URL, for our platform.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess users' knowledge and preparedness for disasters, gathering information on their emergency readiness, experience with emergencies, and personal details. The goal is to identify areas where users may need additional guidance or resources to improve their disaster preparedness. This form is intended for educational and informative purposes, and the data collected will help to develop targeted educational materials and resources. Please note that this form is not a substitute for official disaster preparedness training or certification. If you have previously completed this form, you may not need to repeat the survey. 
-
-</thinking>
-
 # Disaster Preparedness Knowledge Survey - Help Guide
 ## Purpose
 The Disaster Preparedness Knowledge Survey is a tool to assess users' knowledge and preparedness for disasters. It aims to collect information on emergency readiness, experience with emergencies, and personal details to identify areas where users may need additional guidance or resources.

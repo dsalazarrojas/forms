@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Centered Learning Experiment Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from educators and students about their participation in a Student Centered Learning Experiment. The goal of this form is to gather relevant details about each project, including project details, teacher and student information, contact information, and project objectives.

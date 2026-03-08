@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to register students for an electronics course. It is intended for students who have already been accepted into the course and are now required to provide more detailed information and payment details. This form will be used to validate the student's identity, course selection, and payment method. Note that some fields are marked as "required" and some are not, indicating the importance of their accuracy and completion.
-
-To ensure that the form is filled out correctly, please follow the instructions below.
-
-</thinking>
-
 # Electronics Course Registration - Help Guide
 ## Purpose
 This form is used to register students for an electronics course. It is used to validate the student's identity, course selection, and payment method.

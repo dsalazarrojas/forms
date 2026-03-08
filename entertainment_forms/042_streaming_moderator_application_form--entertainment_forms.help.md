@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and not for other unrelated tasks. 
-The form is designed for streaming moderators to apply for available shifts at a streaming platform. 
-To avoid duplication, let's make sure that the moderators are not applying for shifts they are not available for or that are already filled. 
-The form fields are self-explanatory, but let's make sure that the explanations are clear to the end-user. 
-</thinking>
-
 # Streaming Moderator Application Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to log the maintenance activities performed on material handling equipment. It helps track the start and end dates and times of maintenance activities, as well as the equipment status and comments.
 
 The purpose of this form is to provide a clear and concise record of maintenance activities, enabling efficient tracking and reporting of equipment performance and maintenance history.

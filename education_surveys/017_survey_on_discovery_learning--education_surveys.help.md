@@ -1,5 +1,3 @@
-<thinking>...The purpose of this "Survey On Discovery Learning" form is to gather information from educators about their use and effectiveness of Discovery Learning methods in their classrooms. This form is designed to be a tool for educational researchers, administrators, and policymakers to understand current practices and opinions on Discovery Learning. The form does not collect any personal data and is intended for academic and research purposes only...</thinking>
-
 # Survey On Discovery Learning - Help Guide
 ## Purpose
 The "Survey On Discovery Learning" form is designed to collect data from educators about their use and opinions on Discovery Learning methods in their classrooms.

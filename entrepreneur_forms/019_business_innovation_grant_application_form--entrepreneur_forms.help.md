@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help entrepreneurs and innovators submit their applications for the Business Innovation Grant. The form is designed to gather necessary information about the applicant, their project, and its goals, as well as any relevant previous funding received. Please note that this form should only be completed by the actual applicant, and not by a representative or third party. This ensures that the information provided is accurate and up-to-date. If an application is submitted with incomplete or incorrect information, it may be returned without consideration.
-</thinking>
-
 # Business Innovation Grant Application Form - Help Guide
 ## Purpose
 This form is for entrepreneurs and innovators who wish to apply for the Business Innovation Grant. It collects essential information about the applicant, their project, and its goals.

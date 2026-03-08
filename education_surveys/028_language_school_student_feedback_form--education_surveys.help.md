@@ -1,13 +1,3 @@
-<thinking>
-To ensure that this form is used correctly, the form's purpose and usage should be reviewed by someone familiar with the language school's goals and objectives.
-
-The form should only be used for students of the language school to provide feedback on their educational experience. This feedback will help the school understand their students' needs and improve the quality of their services.
-
-Before filling out this form, please ensure that you have read and understood the form's purpose and have answered the questions honestly and accurately to provide valuable feedback.
-
-Please note that this form is for internal use only and will not be shared publicly.
-</thinking>
-
 # Language School Student Feedback Form - Help Guide
 ## Purpose
 The Language School Student Feedback Form is designed to collect feedback from students on their educational experience. This form is used to help the school improve its services and better meet the needs of its students.

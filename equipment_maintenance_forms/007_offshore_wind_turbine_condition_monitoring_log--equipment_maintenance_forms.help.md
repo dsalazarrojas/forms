@@ -1,7 +1,3 @@
-<thinking>
-The form "Offshore Wind Turbine Condition Monitoring Log" is designed for wind turbine owners/operators to monitor and document the condition of their offshore wind turbines. This form helps to gather data on the turbine's performance, issues, and maintenance activities, which can be used to optimize maintenance planning, identify potential problems, and improve overall turbine reliability. Before filling out this form, please ensure that you have a clear understanding of the turbine's status and have reviewed the relevant documents and records related to the turbine. Please note that this form is not intended to replace regular maintenance schedules or inspections, but rather to supplement them with additional information.
-
-</thinking>
 # Offshore Wind Turbine Condition Monitoring Log - Help Guide
 ## Purpose
 This form is designed to monitor and document the condition of offshore wind turbines. It helps to gather data on the turbine's performance, issues, and maintenance activities, which can be used to optimize maintenance planning, identify potential problems, and improve overall turbine reliability.

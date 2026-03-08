@@ -1,10 +1,3 @@
-<thinking>
-This is a technical form that will guide me in generating a help guide.
-The purpose of this form is to collect user information and allow users to calculate time constants.
-The form is used for internal purposes and will not be shared publicly.
-The form will be reviewed internally to ensure accuracy.
-</thinking>
-
 # Time Constant Calculation Form - Help Guide
 ## Purpose
 The Time Constant Calculation Form is a user-facing form designed to collect user information and allow users to calculate time constants. This form is used for internal purposes and will not be shared publicly. It will be reviewed internally to ensure accuracy.

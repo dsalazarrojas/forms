@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their experiences and preferences related to parties and social events. It seems to be designed for an entertainment-focused organization or community. I will make sure to provide a clear and concise help guide for this form, assuming this form is part of a larger platform or system.
-
-The form is likely used to collect data about user preferences and attendance at parties, events, and other social gatherings. The form's purpose is to collect quantitative and qualitative data to better understand user preferences and opinions. This form might be used by organizers or hosts of events to tailor their events to their audience's tastes and interests.
-
-To ensure the form's integrity, let's assume that the form is a part of a larger system or platform. We can safely assume that users will be accessing this form in a secure and controlled environment.
-
-Before proceeding, we should ensure that this form is not a duplicate or redundant. If this form is already covered in another guide, we might be able to link to it instead of creating a new guide.
-
-</thinking>
-
 # previous_year_party_survey_form - Help Guide
 ## Purpose
 This form is designed to collect information about users' experiences and preferences related to parties and social events. It helps the event organizers understand user preferences and tailor their events accordingly.

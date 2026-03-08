@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a Secret Santa gift-giving form, designed to collect information about individuals who will be participating in a Secret Santa gift exchange. It's meant to be used in a social or office setting, perhaps during the holiday season, to facilitate gift-giving among colleagues or friends. This form should only be used for this specific purpose and not for other types of forms, such as surveys or sign-ups.
-
-To avoid any confusion, please ensure that this form is used only for its intended use case, and not for any other type of form or survey.
-</thinking>
-
 # Secret Santa Form - Help Guide
 ## Purpose
 The Secret Santa Form is designed to collect information from participants in a Secret Santa gift exchange, allowing them to exchange gifts with each other.

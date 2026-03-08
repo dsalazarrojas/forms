@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Walk In Cooler Maintenance Checklist - Help Guide
 
 ## Purpose

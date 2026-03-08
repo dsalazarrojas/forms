@@ -1,14 +1,3 @@
-<thinking>
-Internal Note: Before diving into the help guide, let's clarify that the purpose of this form is to collect information related to IT employee onboarding, specifically to track the status of onboarding and tasks completed by each employee. This form likely aims to ensure that all necessary steps for onboarding are covered and that employees can provide updates on their progress. 
-
-The form has 10 fields, but not all are required. Each field is designed to collect specific information from the employee. For example, the first field is the employee's email, which is an email input field. The next field, "onboarding_status", is a select_one field with three options: "Completed", "Not Started", or "In Progress". This suggests that the form is tracking the onboarding process and allows employees to report their status. The other fields seem to be related to additional information such as tasks completed, notes, phone number, onboarding date and time, and comments. It's possible that this form is used for internal reporting and tracking purposes. 
-
-To ensure that the form is not duplicated, it's essential to check if there's a similar form or process already in place before proceeding. If the form is part of a larger onboarding process, it might be necessary to review that process to understand the context of this form and how it fits into it. 
-
-Please refer to the provided YAML for further information on the form layout and structure.
-</thinking>
-
-
 # it_employee_onboarding_form - Help Guide
 
 ## Purpose

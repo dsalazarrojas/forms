@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the PTO Reimbursement Form, a form used to manage employee leave requests and associated reimbursement processes. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section. Please note that this form is used within an internal company setting, and the form fields will be explained accordingly.
-
-This form is used to facilitate the reimbursement process for employees taking paid time off (PTO). It ensures that all relevant information is collected and processed efficiently, making it easier to manage employee leave requests and track reimbursement details.
-
-</thinking>
-
 # PTO Reimbursement Form - Help Guide
 
 ## Purpose

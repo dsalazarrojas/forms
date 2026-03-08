@@ -1,14 +1,3 @@
-<thinking>
-The purpose of the "Vendor Reference Check Form" is to collect information from end-users about a vendor's reputation and performance. This form is used to verify if a vendor meets the necessary criteria for a particular job or project.
-
-Before starting this form, please ensure that you are only filling it out for a vendor who has been previously vetted or is being evaluated for a new opportunity. Duplicating the effort for a vendor that has already been evaluated may lead to unnecessary and confusing data.
-
-When filling out this form, please provide accurate and thorough information. The information collected will be used to assess the vendor's capabilities and performance.
-
-Please note that some fields may not be required, but please provide as much detail as possible to help with the evaluation process.
-
-</thinking>
-
 # Vendor Reference Check Form - Help Guide
 
 ## Purpose

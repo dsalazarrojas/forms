@@ -1,12 +1,3 @@
-<thinking>As the form designer, my internal reasoning is as follows:
-The purpose of this form is to collect information from parents or guardians about their child's math skills, specifically their proficiency levels in various areas such as addition, subtraction, counting, and more. This information will help teachers or educators assess the child's math skills and provide targeted support.
-
-Upon reviewing the form structure, it seems that most fields are required, indicating that this form is comprehensive and covers a range of areas to be assessed. However, some fields such as "parent_phone" and "teacher_phone" are marked as optional, suggesting that these details may not be essential for the assessment.
-
-The form includes text, number, email, and select types, indicating that it will be filled out by a human user, likely a parent or guardian. The options for select fields like "grade_level", "child_grade", "math_proficiency", "reading_proficiency", and "writing_proficiency" provide a range of choices for the user to select from.
-
-Before finalizing the form, I will review it again to ensure that all fields are properly labeled, and that the instructions are clear and concise. I will also make sure that the explanation is concrete and practical, avoiding any unsupported business logic.</thinking>
-
 # early_childhood_math_skills_survey - Help Guide
 ## Purpose
 The **early_childhood_math_skills_survey** form is designed to collect information from parents or guardians about their child's math skills, including their proficiency levels in various areas such as addition, subtraction, and counting.

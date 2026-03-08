@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-This form is for outgoing athletic trainers to provide feedback on their experience and reason for leaving the organization. It's essential to complete this form honestly and accurately to help us improve our workplace culture and provide better support for future staff members. Please note that this form should only be completed once you have officially left the organization or are in the process of leaving.
+# This form is for outgoing athletic trainers to provide feedback on their experience and reason for leaving the organization. It's essential to complete this form honestly and accurately to help us improve our workplace culture and provide better support for future staff members. Please note that this form should only be completed once you have officially left the organization or are in the process of leaving.
 
 ## Purpose
 

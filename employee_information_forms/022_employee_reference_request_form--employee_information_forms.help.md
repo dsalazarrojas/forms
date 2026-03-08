@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical component of the employee onboarding process. Its purpose is to collect information from the employee's current supervisor or HR representative to confirm employment details and facilitate a smooth transition. The form helps to prevent errors in employee data and reduces potential risks associated with data duplication. It is essential that the form is completed accurately and thoroughly to ensure consistency and accuracy in our records.
-</thinking>
-
 # Employee Reference Request Form - Help Guide
 ## Purpose
 The Employee Reference Request Form is used to collect information from the employee's current supervisor or HR representative to confirm employment details and facilitate a smooth transition during the onboarding process.

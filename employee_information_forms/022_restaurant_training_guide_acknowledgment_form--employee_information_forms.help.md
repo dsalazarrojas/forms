@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Training Guide Acknowledgment Form - Help Guide
 ## Purpose
 This form is used to acknowledge that an employee has read and understood the restaurant training guide, and to provide their name and title for record-keeping purposes.

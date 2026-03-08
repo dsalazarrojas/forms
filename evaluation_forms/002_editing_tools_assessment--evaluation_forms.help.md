@@ -1,9 +1,3 @@
-<thinking>Before creating a help guide for the "Editing Tools Assessment" form, I'll review the provided YAML fields to understand the form's purpose and structure.
-
-The form's title is "Editing Tools Assessment" which suggests that it's a form used to evaluate the usage and effectiveness of editing tools. The form has five pages with various fields for collecting feedback from users. Each field type and options are also defined in the YAML, which will help me create a clear and concise help guide.
-
-The form's purpose is likely to gather feedback on how well the editing tools are being used, the level of satisfaction with the tools, and what features are needed or recommended. This form is likely used by stakeholders or users to provide subjective feedback on the tools' performance.</thinking>
-
 # Editing Tools Assessment - Help Guide
 
 ## Purpose

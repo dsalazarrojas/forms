@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather relevant information about workplace violence incidents that occur in a manufacturing setting. The purpose of this form is to provide a standardized and structured way to document such incidents, allowing for efficient and thorough reporting. The form is designed to be completed by the incident reporting officer or other authorized personnel.
-
-Before completing this form, please ensure that you are familiar with the organization's workplace violence incident reporting procedures and guidelines. It is essential to report any incidents promptly and accurately to ensure a timely and appropriate response.
-
-When completing this form, please answer all applicable questions to the best of your ability. If a field is not relevant to the incident, you may leave it blank. However, be sure to provide as much detail as possible to facilitate a thorough investigation and response.
-
-</thinking>
-
 # Manufacturing Workplace Violence Incident Report - Help Guide
 ## Purpose
 This form is used to document and report workplace violence incidents that occur in a manufacturing setting, ensuring a timely and appropriate response.

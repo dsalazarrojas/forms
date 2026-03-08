@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the perceptions of educators on the topic of sustainability in education. It is crucial that the responses provided are accurate and relevant, as they will be used to inform educational leadership strategies and decisions. Please ensure that you are completing this form for the correct purpose and do not duplicate your responses.
-</thinking>
-
 # Sustainable Education Leadership Survey - Help Guide
 ## Purpose
 This form aims to understand the opinions and experiences of educators on sustainability in education. It's an essential tool for educational leaders to make informed decisions and develop effective strategies for promoting sustainability in educational settings.

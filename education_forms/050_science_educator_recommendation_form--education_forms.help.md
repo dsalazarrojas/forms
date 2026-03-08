@@ -1,11 +1,3 @@
-<thinking>
-The Science Educator Recommendation Form is designed to collect information from science educators, such as teachers, instructors, or professors, who want to recommend students for a particular program or opportunity. This form helps to gather their insights and comments about the student's abilities and potential. The purpose of the form is to gather data on the student's performance, strengths, and areas for improvement, which can be used by program managers or administrators to make informed decisions. 
-
-This form is meant for science educators to provide recommendations for students who are applying for various programs or scholarships. It is crucial that educators only submit recommendations for students they have had a significant interaction with, such as through a class, research project, or mentorship. 
-
-Please ensure that you are providing a genuine recommendation and that you are familiar with the student's work. 
-</thinking>
-
 # Science Educator Recommendation Form - Help Guide
 ## Purpose
 The Science Educator Recommendation Form is a tool for science educators to provide recommendations for students who are applying for various programs or scholarships.

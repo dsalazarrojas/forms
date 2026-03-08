@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data on the wellbeing culture of healthcare professionals. The purpose of this form is to measure the level of employee engagement and satisfaction with the wellbeing culture in a specific organization. This data will be used to help healthcare leaders identify areas of improvement and make informed decisions to support the wellbeing of their teams.
-</thinking>
-
 # Healthcare Professional Wellbeing Culture Survey - Help Guide
 
 ## Purpose

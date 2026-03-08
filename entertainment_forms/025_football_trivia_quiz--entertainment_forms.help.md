@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to showcase their knowledge and interest in football (soccer) by answering a series of trivia questions. The form is designed to be a fun and engaging way for users to share their opinions on various aspects of football, including its history, their favorite teams, players, and trivia questions. The form will be used to collect data for analytics and research purposes, ensuring that the user's information will not be shared or used for any commercial purposes.
-</thinking>
-
 # Football Trivia Quiz - Help Guide
 ## Purpose
 This form is a collection of trivia questions and answers about football (soccer) to test your knowledge and interest in the sport.

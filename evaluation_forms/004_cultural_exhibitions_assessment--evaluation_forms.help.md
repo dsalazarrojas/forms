@@ -1,10 +1,3 @@
-<thinking>
-Are you sure you want to proceed with creating a help guide? The provided YAML does not seem to be in a format that can be directly used to generate the help guide. The YAML is for form input schema, not for help guide content. However, I can try to create a help guide based on the provided YAML.
-
-Please note that I will make best-effort assumptions about the fields and their meanings.
-
-</thinking>
-
 # Cultural Exhibitions Assessment - Help Guide
 ## Purpose
 The Cultural Exhibitions Assessment form is used to collect feedback and suggestions from visitors to exhibitions. It helps us understand their experiences and opinions about the exhibitions, allowing us to improve future events.

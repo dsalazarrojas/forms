@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data about an individual's training attendance. The purpose of the form is to gather information about the training session, such as the date, start and end times, instructor name, course name, and any additional notes. This form is likely used in educational institutions or training programs to track and record attendance. The form's design and structure are based on general best practices and publicly available survey metadata, making it an original creation and not derived from any specific proprietary platform. 
-
-</thinking>
-
 # Training Attendance Form - Help Guide
 ## Purpose
 This form is used to collect information about an individual's attendance at a training session.

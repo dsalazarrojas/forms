@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Business Partner Accountability Survey - Help Guide
 =====================================
 

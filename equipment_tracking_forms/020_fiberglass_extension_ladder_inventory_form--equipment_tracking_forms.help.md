@@ -1,7 +1,3 @@
-<thinking>Before we dive into the help guide for the Fiberglass Extension Ladder Inventory Form, let's ensure that this form is being used correctly and effectively. To confirm, the form is used to track and manage inventory of fiberglass extension ladders within a facility. The goal is to ensure that each piece of equipment is accurately documented, and its condition is monitored regularly. This form will be used by personnel to update information on a specific ladder's status, including its equipment type, condition, and due dates for inspections.
-
-To complete this form, please follow the steps below:</thinking>
-
 # Fiberglass Extension Ladder Inventory Form - Help Guide
 ## Purpose
 The Fiberglass Extension Ladder Inventory Form is a tool used to monitor and record the status of fiberglass extension ladders within your facility. This form helps ensure that each ladder's information is up-to-date and that inspections are performed regularly.

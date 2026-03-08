@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a student's academic performance and study habits. The form is intended to be used to gather data on various aspects of a student's academic experience, including their current academic level, major or field of study, GPA, course load, study hours per week, class attendance, academic challenges, support services used, satisfaction with academic performance, plan to improve performance, and any additional support needed. This information is likely to be used for academic advising, counseling, or other administrative purposes within an educational institution.
-
-Before proceeding, please ensure that you have not completed this form previously. If you have any questions or concerns, please contact the relevant authorities.
-
-This help guide will walk you through each section of the form and help you complete it accurately.
-</thinking>
-
 # Academic Performance Questionnaire - Help Guide
 ## Purpose
 The Academic Performance Questionnaire is a tool used to collect information about your academic performance and study habits.

@@ -1,7 +1,3 @@
-<thinking>
-This form is part of an employee engagement and retention program aimed at understanding the organizational culture within a workplace. The form is designed to gather feedback from employees on various aspects of the workplace culture, such as communication, collaboration, and overall job satisfaction. The goal is to identify areas of strength and weakness within the culture and use the insights to make data-driven decisions to improve employee engagement and retention.
-</thinking>
-
 # Organizational Culture Assessment Form - Help Guide
 ## Purpose
 This form is used to collect feedback from employees on various aspects of the workplace culture, including communication, collaboration, job satisfaction, and overall job security. The information gathered will help us understand the strengths and weaknesses of our current culture and inform decision-making to improve it.

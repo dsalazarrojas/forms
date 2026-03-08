@@ -1,11 +1,3 @@
-<thinking>
-
-This form was created to help collect information from students about their global learning goals, preferences, and readiness to be a global citizen. It's crucial to ensure that this form is not being used as a duplicate or in a context where the questions don't apply.
-
-This form was designed to be an original adaptation of a public survey topic, "Global Learning Readiness" in the education_surveys category, released under the Creative Commons BY 4.0 license.
-
-</thinking>
-
 # Student Global Learning Readiness Survey - Help Guide
 ## Purpose
 This survey aims to understand students' global learning goals, preferences, and readiness to be a global citizen.

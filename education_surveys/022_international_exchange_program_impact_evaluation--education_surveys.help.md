@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-friendly help guide for the "International Exchange Program Impact Evaluation" form. This guide will cover the form's purpose, how to complete it, and provide a field-by-field explanation of each section.</thinking>
-
 # International Exchange Program Impact Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the impact of an international exchange program on participating students and programs. It helps to gather information on the outcomes, experiences, and feedback from participants, enabling the program's administrators to assess its effectiveness and identify areas for improvement.

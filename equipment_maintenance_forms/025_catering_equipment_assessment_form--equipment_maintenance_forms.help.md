@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the condition and maintenance status of catering equipment. It is intended to be completed by a designated assessor, who evaluates the overall condition, cleanliness, and functionality of the equipment. The form aims to identify any issues, safety concerns, and necessary maintenance or repairs. The assessor is required to provide detailed information about the equipment, including its category, name, location, and purchase date. This information will help in making informed decisions about maintenance, repairs, or replacement of the equipment.
-</thinking>
-
 # Catering Equipment Assessment Form - Help Guide
 ## Purpose
 The Catering Equipment Assessment Form is used to evaluate the condition and maintenance status of catering equipment. This form helps assessors identify potential issues and make recommendations for maintenance, repairs, or replacement to ensure safe and efficient equipment operation.

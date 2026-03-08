@@ -1,7 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for a responsive contact form with a default theme. This form is designed to be used by entrepreneurs and business owners to gather contact information and feedback from clients. The form will be displayed on a web page and will have multiple fields for users to fill in. The goal of this guide is to help users understand the purpose and usage of each field in the form.
-</thinking>
-
 # Responsive Contact Form Default Theme - Help Guide
 ## Purpose
 This form is a contact form designed for entrepreneurs and business owners to gather contact information and feedback from clients.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Compensation Fairness Perception Survey - Help Guide
 
 ## Purpose

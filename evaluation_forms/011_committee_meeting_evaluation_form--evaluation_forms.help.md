@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the effectiveness and productivity of committee meetings. The form captures the meeting details, such as the committee name, meeting date, and the role of the evaluator. It also assesses the meeting's preparation, content, and outcomes, including the adequacy of agenda topics coverage, active participation encouragement, and clear action items identification. The form also captures the relevance of discussions to the committee goals and the overall productivity of the meeting. Finally, it allows for suggestions and immediate follow-up actions to be documented.
-
-To ensure the relevance and accuracy of evaluations, it is essential to fill out this form immediately after each meeting while the details are still fresh in mind. Please review the form carefully, and avoid duplicating evaluations if a meeting has been assessed before.
-
-Please note that some of the fields are required, marked as 'true' in the form schema, to ensure that essential information is captured for the evaluation.
-
-</thinking>
-
 # Committee Meeting Evaluation Form - Help Guide
 ## Purpose
 The Committee Meeting Evaluation Form is designed to assess the effectiveness and productivity of committee meetings. It helps to identify areas of improvement and ensure that meetings are well-organized and goal-oriented.

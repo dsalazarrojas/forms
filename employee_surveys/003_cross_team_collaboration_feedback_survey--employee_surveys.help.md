@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from employees on the level of collaboration within their team, how often they collaborate with other teams, and their preferred communication channels. The purpose of this form is to gather information on team dynamics and communication effectiveness.
-</thinking>
-
 # Cross Team Collaboration Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on the cross-team collaboration within their team, communication channels used, and the frequency of collaboration with other teams. This information will help us understand the team's performance and identify areas for improvement.

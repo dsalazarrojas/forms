@@ -1,8 +1,3 @@
-<thinking>
-The form is designed for students to request guest passes for events or performances held within the campus or institution. This form aims to gather necessary information from students to facilitate the efficient processing of their requests. Before proceeding, please ensure that this is a one-time request and not a duplicate.
-
-</thinking>
-
 # Guest Pass Request Form - Help Guide
 ## Purpose
 The Guest Pass Request Form is used for students to request guest passes for events or performances held within the campus or institution. This form is essential for obtaining a guest pass for a specific event or performance where the student's student status needs to be verified.

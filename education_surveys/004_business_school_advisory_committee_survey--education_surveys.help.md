@@ -1,13 +1,3 @@
-<thinking> 
-
-The purpose of this form is to gather feedback from members of the Business School Advisory Committee on various aspects of the business school, including their role, familiarity with the programs, curriculum relevance, graduate readiness, and effectiveness of the committee. This feedback will help the school administration make informed decisions about how to improve the quality of instruction, develop industry partnerships, and strengthen the programs.
-
-It's essential to have a diverse set of responses to avoid duplication of answers. If you're unsure about your role on the committee, please review your previous correspondence or the school's website for information.
-
-This guide will walk you through the questions on the survey, explaining each field and its purpose.
-
-</thinking>
-
 # Business School Advisory Committee Survey - Help Guide
 
 ## Purpose

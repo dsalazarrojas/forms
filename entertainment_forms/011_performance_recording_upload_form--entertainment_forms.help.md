@@ -1,7 +1,3 @@
-<thinking>
-This form is for uploading performance recordings of artists, which can be useful for tracking and organizing performance history. To avoid duplication, ensure that the uploaded files are not already in the system.
-</thinking>
-
 # Performance Recording Upload Form - Help Guide
 ## Purpose
 The Performance Recording Upload Form is designed to collect and manage performance recordings of artists. This form helps to upload and store performance details in a centralized system.

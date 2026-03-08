@@ -1,10 +1,3 @@
-<thinking>
-This form is a "Dispatch Release" form, used to document employee departures or terminations from the company. Before filling out this form, please ensure you are not already submitting another form for the same purpose, and that this is the correct form for your situation.
-
-This form gathers basic information about the employee's identity, address, and employment status.
-
-</thinking>
-
 # Dispatch Release - Help Guide
 ## Purpose
 The Dispatch Release form is used to document employee departures or terminations from the company. It helps to formally notify the employee of the changes in their employment status and to ensure a smooth transition.

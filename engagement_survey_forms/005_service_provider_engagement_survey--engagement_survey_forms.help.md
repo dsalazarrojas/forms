@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for internal use within the organization to assess the engagement of service providers. It aims to gauge the performance, satisfaction, and overall engagement of service providers, as well as their recommendations and feedback on internal and external communication. This form ensures that service providers are engaged and committed to the organization's goals and objectives.
-
-The form is designed to be completed by service providers and is an essential tool for the organization to understand the needs and concerns of its service providers.
-
-</thinking>
-
 # Service Provider Engagement Survey - Help Guide
 ## Purpose
 This survey is designed to measure the engagement and performance of service providers. It helps to identify areas of improvement and ensure that service providers are aligned with the organization's goals and objectives.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Evaluation Form - Help Guide
 ## Purpose
 The Performance Evaluation Form is designed to collect feedback and ratings on an employee's performance, providing a structured framework for evaluations. This form can be used for regular check-ins, performance reviews, or progress assessments.

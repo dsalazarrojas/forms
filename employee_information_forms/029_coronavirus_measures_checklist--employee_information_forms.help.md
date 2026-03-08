@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect employee information related to COVID-19 measures in the workplace. The purpose of this form is to track employee health status, temperature, travel history, and other relevant details to ensure the organization's safety and compliance with health regulations. 
-This form should not be used for non-employees or external parties.
-
-</thinking>
-
 # Coronavirus Measures Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect employee information related to COVID-19 measures in the workplace, ensuring a safe and healthy environment for everyone.

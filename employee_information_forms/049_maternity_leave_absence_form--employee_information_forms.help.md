@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to submit information for maternity leave, and it's essential to understand the purpose and process of completing it accurately. Before starting, ensure you have the necessary information and approvals in place. This form requires information from employees, managers, and supervisors, and it's crucial to complete it correctly to avoid any discrepancies or delays. Please review the form carefully and ensure you have all the necessary approvals before submitting it.
-</thinking>
-
 # Maternity Leave Absence Form - Help Guide
 ## Purpose
 The Maternity Leave Absence Form is used to notify the company of an employee's maternity leave. This form requires information from employees, managers, and supervisors to ensure a smooth process.

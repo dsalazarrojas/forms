@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for collecting collaboration agreements for music and video projects. The purpose of this form is to gather information about the project's details, role allocation, start and end dates and times, location, and description. This form is likely used by project managers or team leaders to collect input from team members or collaborators, ensuring that everyone is on the same page and aware of their responsibilities and commitments.
-
-To prevent duplication, it's essential to review and validate the data before sending it to collaborators. This form is designed to be used in a collaborative environment, where multiple people are working together on a project.
-
-</thinking>
-
 # music_video_collaboration_agreement - Help Guide
 ## Purpose
 The music_video_collaboration_agreement form is used to collect collaboration agreements for music and video projects. This form gathers information about project details, role allocation, start and end dates and times, location, and description to ensure that everyone is on the same page and aware of their responsibilities and commitments.

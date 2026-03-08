@@ -1,13 +1,3 @@
-<thinking>...
-This guide is for users who need to track biofuel usage on equipment, including vehicles and generators. The purpose of this form is to collect data on biofuel usage, including the type of biofuel used, the quantity consumed, and other relevant information. To ensure accuracy, please complete this form for each instance of biofuel usage.
-
-Before starting, please ensure that you have all necessary information ready.
-
-This guide will walk you through each field and help you complete the form correctly.
-
-Please note that fields marked as "optional" can be skipped if no information is available or relevant.
-
-</thinking>
 # Biofuel Usage Log - Help Guide
 ## Purpose
 This form is designed to track biofuel usage on equipment, providing essential data for monitoring and maintaining accurate records.

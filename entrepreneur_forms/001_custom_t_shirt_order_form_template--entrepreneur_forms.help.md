@@ -1,9 +1,3 @@
-<thinking>
-This form is for collecting information from customers to create custom T-shirts with the desired design, color, and other specifications. It's meant to be used by entrepreneurs or small business owners to gather orders from customers. The form doesn't seem to have a specific validation or submission logic built-in, so I will assume it's meant for internal use or testing purposes.
-
-The "Custom T Shirt Order Form Template" form has several fields to collect customer details and order information. I will provide a help guide on how to complete it and explain each field in simple terms.
-</thinking>
-
 # Custom T Shirt Order Form Template - Help Guide
 
 ## Purpose

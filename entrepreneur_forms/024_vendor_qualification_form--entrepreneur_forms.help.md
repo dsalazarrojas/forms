@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from vendors to assess their qualification status. This form ensures that all necessary information is gathered for evaluation and potential partnership consideration. It's crucial that this form is filled out accurately and completely to avoid duplication of work and unnecessary follow-up requests.
-
-Before proceeding, make sure to have all necessary information readily available and fill out the form in its entirety. The form is split into several sections, each focusing on a specific aspect of the vendor's business. Ensure that you have all required information at hand before starting the process.
-
-</thinking>
-
 # Vendor Qualification Form - Help Guide
 ## Purpose
 

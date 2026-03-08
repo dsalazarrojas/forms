@@ -1,7 +1,4 @@
-> <thinking>
-This form is used to collect data on incentives claimed by employees. The form is primarily used to track incentives that are eligible for payment to employees. The information collected will help the organization process payments and ensure that incentives are distributed fairly and accurately. To ensure that you are filling out the correct information, please verify that you have read this form carefully and understand the questions being asked. If you have any doubts or concerns, please contact your supervisor or HR representative for clarification. Please note that this form is subject to change, and any discrepancies or errors may affect the accuracy of the data collected.</thinking>
-
-# Incentive Claim Form - Help Guide
+> # Incentive Claim Form - Help Guide
 ## Purpose
 The Incentive Claim Form is used to collect data on incentives claimed by employees. It is a crucial tool for the organization to process payments and ensure that incentives are distributed fairly and accurately.
 

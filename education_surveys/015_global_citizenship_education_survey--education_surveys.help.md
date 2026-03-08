@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Global_Citizenship_Education_Survey" form that explains its purpose, how to complete it, and provides a field-by-field explanation of each form field.
-
-To start, the "Global_Citizenship_Education_Survey" form is designed to collect information from users about their education system, level of education, familiarity with certain concepts, and feedback on their experience. This form is part of the "education_surveys" category.
-
-Before starting to complete the form, we need to ensure that you understand its purpose and scope. This form is intended for individuals who have experience with the program, and your participation will help us improve it. Please answer the questions honestly and provide as much detail as possible. If you have previously completed this form, please do not submit duplicate responses. Your participation is voluntary, and your responses will remain anonymous.
-
-</thinking>
-
 # Global_Citizenship_Education_Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their education system, level of education, familiarity with certain concepts, and feedback on their experience with the program.

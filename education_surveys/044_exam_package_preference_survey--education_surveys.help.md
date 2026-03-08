@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us understand your preferences for an exam package. We're trying to get a better understanding of what you're looking for in an exam package. Please make sure you're only filling this form once, as it may ask you similar questions. This will help us to provide you with a more accurate and personalized package.
-</thinking>
-
 # Exam Package Preference Survey - Help Guide
 ## Purpose
 This form is designed to collect your preferences for an exam package. Your input will help us tailor the package to fit your needs.

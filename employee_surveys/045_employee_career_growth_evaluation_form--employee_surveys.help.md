@@ -1,11 +1,3 @@
-<thinking>
-The Employee Career Growth Evaluation Form is designed to help employees evaluate their career growth and satisfaction within their current role. This form is meant to be a self-assessment tool that helps employees identify areas of improvement and growth opportunities within their career. It is not a performance evaluation form, but rather a personal reflection tool for employees to gain insight into their career development. This form should not be used as a replacement for regular performance evaluations or as a substitute for one-on-one meetings with a manager or HR representative.
-
-By completing this form, employees can provide honest feedback about their current job, career goals, and growth opportunities. This form is intended to be a helpful guide for employees to reflect on their career development and make informed decisions about their future career aspirations.
-
-Please note that this form is not a formal evaluation tool and should not be used as a basis for making employment-related decisions. Its purpose is to support employee development and growth.
-</thinking>
-
 # Employee Career Growth Evaluation Form - Help Guide
 ## Purpose
 The Employee Career Growth Evaluation Form is a self-assessment tool designed to help employees evaluate their career growth and satisfaction within their current role. This form provides a framework for employees to reflect on their career development and identify areas of improvement and growth opportunities.

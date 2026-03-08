@@ -1,8 +1,3 @@
-<thinking>
-This guide will explain the "Entry Level Remote Assembly Line Worker Application Form" to end-users, ensuring they understand its purpose, how to complete it, and what each field represents. The form is designed for applicants who are interested in working on an assembly line in a remote setting. The form will help the applicant provide their personal information, work experience, job preferences, and contact details. The form will be reviewed to ensure the applicant meets the required qualifications and is a good fit for the position.
-
-</thinking>
-
 # Entry Level Remote Assembly Line Worker Application Form - Help Guide
 ## Purpose
 The "Entry Level Remote Assembly Line Worker Application Form" is a form designed for applicants interested in working on an assembly line in a remote setting. This form helps applicants provide their personal information, work experience, job preferences, and contact details to be considered for the position.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information from a client for liability waiver purposes related to lash extension services. The purpose of this form is to ensure that the client has provided accurate and essential details about themselves and their potential medical conditions, emergency contacts, and allergies. 
-This form will be used to identify potential risks and liabilities associated with the lash extension process. 
-Please ensure that the client completes all mandatory fields accurately.
-</thinking>
-
 # lash_extension_client_liability_waiver - Help Guide
 ## Purpose
 The Lash Extension Client Liability Waiver form is used to gather essential information from clients about their medical conditions, emergency contacts, and allergies before undergoing lash extension services. This form helps ensure that all clients provide accurate and reliable information, reducing the risk of potential complications during and after the procedure.

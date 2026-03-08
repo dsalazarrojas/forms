@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to capture a user's emotional state and feelings, providing a snapshot of their current mood. The form is designed to be simple and easy to complete, with fields that allow users to express their mood level, emotional state, and feelings in various areas.
 
 # mood_meter_form - Help Guide

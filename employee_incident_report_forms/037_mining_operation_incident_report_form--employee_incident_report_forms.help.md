@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for reporting incidents that occurred during mining operations. It captures general information about the incident, date and time it happened, details of what occurred, any supporting documents related to the incident, location where the incident took place, incident type, and incident status. Please fill in this form accurately and thoroughly to ensure that incidents are reported in a way that allows for efficient investigation and resolution. Ensure that you are not reporting duplicate incidents, and that you report each incident only once.
-</thinking>
-
 # Mining Operation Incident Report Form - Help Guide
 ## Purpose
 The Mining Operation Incident Report Form is used to report incidents that occurred during mining operations. It collects information about incidents, including general details, dates and times, incident types, and incident statuses.

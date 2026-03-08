@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback from students about their instructors and their teaching performance. The form is likely used by administrators or department heads to evaluate instructor performance and provide feedback to instructors. To avoid duplication, this form should not be filled out by students who have already taken a course with the same instructor or for the same course in the same term.
-</thinking>
-
 # University Faculty Performance Feedback Form - Help Guide
 ## Purpose
 This form is a tool to help instructors improve their teaching performance and effectiveness.

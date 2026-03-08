@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Uniform Management Survey - Help Guide
 
 ## Purpose

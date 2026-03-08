@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information from users about their solar exploration experiences, which is crucial for understanding user preferences and behaviors related to solar exploration. It's essential to fill out this form accurately to ensure that your input contributes to the development of relevant and user-friendly solar exploration experiences. Before proceeding, please note that the form is not a duplicate, and your responses will only be used for research purposes. Please make sure to answer honestly and thoroughly. 
-</thinking> 
-
 # Solar Exploration Survey - Help Guide
 ## Purpose
 The Solar Exploration Survey is designed to understand user preferences and behaviors related to solar exploration experiences.

@@ -1,10 +1,3 @@
-<thinking>
-The Emergency Procedures Form is designed to capture critical information related to emergency contact procedures within an organization. This form aims to collect data on emergency contact details, procedure descriptions, and status updates in a structured and standardized manner. The purpose of this form is to ensure that emergency contact information is up-to-date and easily accessible in case of an emergency. It's essential to complete this form accurately and thoroughly to guarantee that emergency contact procedures are well-documented and effective.
-
-Before filling out this form, please verify that you are not duplicating information that already exists in your organization's records. If you're unsure about the purpose of this form or its relevance to your role, please consult with your supervisor or HR representative to ensure that you're using it correctly.
-
-</thinking>
-
 # Emergency Procedures Form - Help Guide
 ## Purpose
 The Emergency Procedures Form is a vital tool to document and maintain emergency contact information, procedure descriptions, and status updates within an organization. It's designed to be completed by employees, managers, or other authorized personnel to ensure that critical contact information is accurate and easily accessible in case of an emergency.

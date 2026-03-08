@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data on the employment outcomes of MBA graduates. The primary purpose of this form is to gather information on the job titles, employment status, and satisfaction levels of MBA graduates. This data will help us better understand the career paths and job satisfaction of our MBA graduates, which will inform our academic and career development programs.
-To ensure the relevance of this form, it's essential to note that some fields are not required, but it's still necessary to fill them out for a comprehensive understanding of your employment outcomes. Additionally, we have multiple fields with similar labels, "Other Job Satisfaction", which are intended to collect additional, specific details on job satisfaction. It's essential to fill out all the "Other Job Satisfaction" fields consistently and concisely.
-</thinking>
 # MBA Employment Outcomes Survey - Help Guide
 ## Purpose
 The MBA Employment Outcomes Survey is a tool designed to collect data on the employment outcomes of our MBA graduates. This data will help us better understand their career paths and job satisfaction, informing our academic and career development programs.

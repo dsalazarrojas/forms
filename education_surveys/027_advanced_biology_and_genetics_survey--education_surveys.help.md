@@ -1,5 +1,3 @@
-<thinking>
-This form is designed to collect feedback and survey responses from users about their experience in an Advanced Biology and Genetics course. It is meant to gauge the level of understanding and engagement of the students in the course. The form is intended for students who have completed or are currently taking the course. It is not designed for instructors or staff. There are two versions of this form, one for students and one for instructors. This form is for students only. There should be a separate guide for the instructor version of this form.</thinking>
 # Advanced Biology And Genetics Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather your feedback and survey responses about your experience in the Advanced Biology and Genetics course. Your input will help us to better understand your understanding and engagement with the course material.

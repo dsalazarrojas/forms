@@ -1,7 +1,3 @@
-<thinking>
-This form aims to gather information about employees' work-from-home setups, experiences, and challenges. The goal is to collect data that will help management understand the needs and requirements for remote work environments. It is essential to ensure that employees have a good understanding of their work-from-home setup before filling out this form. Please take a few minutes to answer the questions honestly, and provide any suggestions or comments at the end.
-</thinking>
-
 # Work From Home Setup Poll - Help Guide
 ## Purpose
 This form is designed to gather information about your work-from-home setup, experiences, and challenges. Your input will help us understand how to improve our work-from-home environment and support your needs.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about the barriers and support needs of homeless youth in accessing education. The form is part of a larger initiative to better understand the challenges faced by this population and to provide more effective support services. 
-
-Before proceeding, please check that you are completing this form as part of your work with homeless youth. If you are not a relevant user, please do not proceed. This form is not intended for general public completion and any responses will not be considered valid without this context. 
-
-If you have already completed a similar form in the past, please be aware that this is the updated version and your previous responses will not be automatically imported. Your responses will be treated as new and separate from any previous ones.
-
-Please note that some sections of this form are optional and are intended to help us better understand the nuances of your situation. Your responses will be kept confidential and used for research and support purposes only.
-</thinking>
-
 # Homeless Youth Education Access Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the barriers and support needs of homeless youth in accessing education. The data collected will be used to inform the development of more effective support services for this population.

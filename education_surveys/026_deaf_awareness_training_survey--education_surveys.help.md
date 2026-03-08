@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for the "Deaf Awareness Training Survey" form, a tool used to gather feedback from participants who have attended the Deaf Awareness Training course. The form has 25 questions divided into 5 sections, which aim to understand the participants' experiences, understanding, and satisfaction with the training. To ensure the form is filled out correctly, we need to make sure that each field is clearly explained to avoid any confusion. Before starting the survey, we should confirm that the form is relevant to the course and not a duplication of efforts.
-</thinking>
-
 # Deaf Awareness Training Survey - Help Guide
 ## Purpose
 The Deaf Awareness Training Survey is designed to gather feedback from participants who have attended the Deaf Awareness Training course. This form will help us understand your experience, understanding, and satisfaction with the training.

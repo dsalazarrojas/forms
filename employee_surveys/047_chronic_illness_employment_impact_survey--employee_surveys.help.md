@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chronic Illness Employment Impact Survey - Help Guide
 
 ## Purpose

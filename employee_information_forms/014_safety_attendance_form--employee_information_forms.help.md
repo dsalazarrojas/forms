@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track attendance information for employee safety meetings. The purpose of this form is to ensure that employees have attended a safety meeting and provide a record of their attendance. This form is typically used by supervisors to verify that employees have received critical safety information and are aware of any hazards in the workplace.
-</thinking>
-
 # Safety Attendance Form - Help Guide
 ## Purpose
 This form is used to track attendance information for employee safety meetings. It helps supervisors to verify that employees have received critical safety information and are aware of any hazards in the workplace.

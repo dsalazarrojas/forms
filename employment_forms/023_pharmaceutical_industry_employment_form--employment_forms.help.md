@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from job applicants about their employment status in the pharmaceutical industry. The form is likely used by companies or organizations in the pharmaceutical industry to collect data about job openings, job requirements, and other relevant information from potential employees. This form is a general guide for completing the form, and it does not require specific knowledge of the industry or company's internal systems.
-
-To ensure that you are completing the correct information, please review each field carefully and follow the instructions provided. If you are unsure about any field, you can refer back to this guide for clarification.
-
-</thinking>
-
 # Pharmaceutical Industry Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your employment status in the pharmaceutical industry. Please fill out the form accurately and completely to ensure that your application is processed correctly.

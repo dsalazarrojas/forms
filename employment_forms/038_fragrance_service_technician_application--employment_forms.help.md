@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in applying for a Fragrance Service Technician position. The purpose of this form is to gather relevant details about the candidate, including contact information, employment history, work experience, education, skills, and certifications.
-
-To ensure that this form is used correctly, I will analyze the provided YAML and create a comprehensive help guide for end-users, avoiding duplication and non-relevant content.
-
-Form structure is straightforward, consisting of 7 pages, each with a text input type. No conditional logic or complex branching is applied.</thinking>
-
 # Fragrance Service Technician Application - Help Guide
 ## Purpose
 The Fragrance Service Technician Application form is designed to collect information from candidates interested in a Fragrance Service Technician position. The form aims to gather essential details about the candidate, including contact information, work history, education, skills, and certifications.

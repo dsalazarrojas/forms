@@ -1,10 +1,3 @@
-<thinking>
-This help guide will cover the "production_script_reading_booking_form" form, a tool used for booking and managing reading sessions for production scripts. The form is designed to gather essential information from customers or users who wish to book a reading session for a production script. The purpose of this form is to ensure that all necessary details are collected in a concise and organized manner, allowing for efficient planning and coordination.
-
-Before proceeding, please note that some fields in this form are optional, but it's essential to fill out as much information as possible to ensure accurate processing and follow-up.
-
-</thinking>
-
 # production_script_reading_booking_form - Help Guide
 ## Purpose
 The "production_script_reading_booking_form" form is used to book and manage reading sessions for production scripts. It collects relevant information from customers or users, including project details, contact information, and script specifics.

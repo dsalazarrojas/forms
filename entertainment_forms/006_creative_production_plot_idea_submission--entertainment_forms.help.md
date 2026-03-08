@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user-submitted plot idea submissions for creative production projects. The form should only be used for submitting original ideas, and not for reusing or re-submission of previously submitted ideas. Submitters should ensure they have a unique and innovative idea before submitting it. 
-
-This guide will provide an overview of the form's purpose and how to complete it, including a detailed explanation of each field.
-</thinking>
-
 # Creative Production Plot Idea Submission - Help Guide
 ## Purpose
 This form is designed to collect user-submitted plot idea submissions for creative production projects. Submissions are used to develop and produce new ideas in various industries and categories. 

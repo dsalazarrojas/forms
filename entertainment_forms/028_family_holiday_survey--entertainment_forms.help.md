@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block...</thinking>
-
 We're going to use the YAML fields to create a user-friendly help guide for the "Family Holiday Survey" form. The form purpose is likely to gather information about a user's holiday experience and their family's dynamics. This form seems to be used by families or individuals to report on their holiday experiences, including whether they have family members, if they're organized tours, if they've attended school, and if they're associated with a company.
 
 The guide will be structured to help end users understand each question and what is expected from them.

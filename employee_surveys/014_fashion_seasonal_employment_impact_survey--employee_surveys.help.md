@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from employees about their experiences and challenges during the peak season. The data collected will help management understand the seasonal employment impact and make informed decisions to address any potential issues. This form should only be completed by employees who have had experience with the peak season in the past and can provide valuable insights.
-
-Before proceeding, please ensure that this form does not duplicate any information you have already submitted in the past. If you're unsure, you can check your past responses or consult with your HR representative.
-
-</thinking>
-
 # Fashion Seasonal Employment Impact Survey - Help Guide
 
 ## Purpose

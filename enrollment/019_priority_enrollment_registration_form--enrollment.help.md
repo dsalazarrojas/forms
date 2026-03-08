@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the priority enrollment registration form's purpose and requirements. It's essential to ensure that users complete the form accurately to avoid any discrepancies or errors. Before starting, kindly review this guide carefully and ensure that you're submitting a completed and accurate form.
-
-</thinking>
-
 # Priority Enrollment Registration Form - Help Guide
 ## Purpose
 The Priority Enrollment Registration Form is a crucial tool for students to register their priority status and other necessary details to be considered for enrollment. Please complete this form to provide accurate and up-to-date information to ensure a smooth enrollment process.

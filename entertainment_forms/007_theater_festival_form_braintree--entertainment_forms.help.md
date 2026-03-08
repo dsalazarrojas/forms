@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from attendees of the Theater Festival Braintree. The form is intended for general audience and should only be filled out by individuals attending the festival. Please ensure that you are filling out the form for a legitimate purpose and not for commercial or promotional use. If you are a repeat filler, please do not fill out the form again.
-</thinking>
-
 # Theater Festival Form Braintree - Help Guide
 ## Purpose
 This form is designed to collect information from attendees of the Theater Festival Braintree.

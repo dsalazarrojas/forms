@@ -1,26 +1,3 @@
-<thinking>
-
-**Form Purpose:**
-This form is designed to collect data about participants' experience with acrylic painting. It gathers information on their experience level, preferred painting styles, challenges faced, helpful resources, and other aspects of their learning process. The collected data will help in designing a more effective class format and curriculum that meets the needs of participants.
-
-**How To Complete This Form:**
-
-To complete this form, please follow these steps:
-
-1. Provide your participant information (optional).
-2. Select your experience level with acrylic painting.
-3. Choose the painting styles you prefer.
-4. If applicable, describe the main challenges you faced while learning acrylics.
-5. Indicate which resources help you learn most effectively.
-6. Select your preferred class format (in-person, online live, or on demand).
-7. Confirm if you have access to necessary materials.
-8. Choose your preferred class session duration.
-9. Specify the topics you are interested in covering in a class.
-10. Indicate your willingness to share your work for feedback.
-11. Add any other comments you may have about improving the class.
-
-</thinking>
-
 # Acrylic Painting Basics Survey - Help Guide
 ## Purpose
 This form is designed to gather data about your experience with acrylic painting.

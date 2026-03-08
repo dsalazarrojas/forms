@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for wedding events hosted by DJSammy's Wedding DJ. It is likely intended for wedding event planners or DJs to provide necessary details about the event. The form appears to ask for general event details, including budget, date, time, venue, contact information, and music preferences. It also collects information about the number of guests, start and end dates, event type, and other relevant details.
-</thinking>
-
 # DJSAMMACK'S Wedding DJ Planning Forms - Help Guide
 ## Purpose
 This form is designed to gather information about wedding events to ensure that DJSammy's Wedding DJ team has all the necessary details to deliver an exceptional experience for the event.

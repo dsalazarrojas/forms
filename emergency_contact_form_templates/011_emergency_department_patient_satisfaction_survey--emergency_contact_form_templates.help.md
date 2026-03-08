@@ -1,8 +1,3 @@
-<thinking>
-**Form Purpose:** This form is designed to gather feedback from patients about their experience in the emergency department, specifically regarding the wait time, satisfaction with nurses and doctors, safety procedures, hospital environment, staff helpfulness, and overall satisfaction with their visit. 
-**Non-Duplication Check:** Please ensure that this form is not duplicated or submitted by the same patient multiple times, as this may skew the data and lead to inaccurate results. 
-</thinking>
-
 # Emergency Department Patient Satisfaction Survey - Help Guide
 
 ## Purpose

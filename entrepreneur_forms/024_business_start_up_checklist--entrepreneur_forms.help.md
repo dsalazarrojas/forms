@@ -1,13 +1,3 @@
-<thinking>
-This is a form designed to assist entrepreneurs in tracking their progress towards setting up a business. It is intended to be a comprehensive checklist for start-ups, covering various key aspects of business establishment. The form is meant to be used by entrepreneurs to ensure they have covered all necessary steps before launching their business. This form should help them identify areas they may be missing or not fully addressed, allowing them to focus on the essential tasks required for a successful start-up.
-
-Before using this form, please ensure that the tasks and fields are relevant to your business situation. Some items might not apply to your type of business or industry. This form's purpose is to provide a general framework; adjust and customize it as needed to fit your specific needs.
-
-To avoid duplication, this form should not be used for formal business registration, legal purposes, or as a substitute for professional advice. It is a tool for entrepreneurs to organize and prioritize their tasks for setting up a business.
-
-Please use this form responsibly, and consider consulting with experts or professionals for specific advice tailored to your business and industry.
-</thinking>
-
 # Business Start Up Checklist - Help Guide
 ## Purpose
 This form is designed to aid entrepreneurs in tracking their progress in setting up a business. It is a comprehensive checklist covering various key aspects of business establishment.

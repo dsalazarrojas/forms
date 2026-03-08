@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from potential candidates for a web development position. The form asks for personal details, project experience, skills, and other relevant information. The form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata. It is released under CC BY 4.0 license, allowing users to use, modify, and share the form freely.
-
-To ensure this guide is not duplicated or outdated, please verify the following:
-* Is this form intended for a specific job opening or application process?
-* Are there any specific requirements or guidelines that need to be followed for this form?
-* Is there a specific industry or category that this form is targeting (e.g., web development, programming)?
-</thinking>
-
 # Web Developer Programmer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential candidates for a web development position. It gathers personal details, project experience, skills, and other relevant information to help assess candidates' suitability for the role.

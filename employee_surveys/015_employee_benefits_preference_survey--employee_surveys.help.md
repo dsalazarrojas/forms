@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Benefits Preference Survey - Help Guide
 ## Purpose
 

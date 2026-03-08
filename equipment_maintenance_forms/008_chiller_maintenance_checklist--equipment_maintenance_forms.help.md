@@ -1,27 +1,3 @@
-<thinking>
-The Chiller Maintenance Checklist form is designed to aid technicians in completing a comprehensive assessment of a chiller system's condition. This form ensures that all necessary checks are performed and documented for routine maintenance, quarterly inspections, and annual maintenance of chillers. The form is meant to be a one-time use case and is not meant for repeated or recurring maintenance tasks.
-
-The form should be used to:
-
-* Record details about the service visit
-* Document the type of service performed
-* Record technician information
-* Record customer information
-* Document equipment details
-* Record electrical system checks
-* Document mechanical system checks
-* Record cleaning tasks
-* Record operational readings
-* Record findings and recommendations
-* Document the overall status of the equipment
-* Document any issues found during the service
-* Record any recommendations or parts replaced
-* Document the recommended next service date
-* Record signatures of the technician and customer
-
-This form is designed to be used in conjunction with other forms for more complex or detailed tasks. The form's design and structure should make it easy for technicians to quickly and accurately document the necessary information during a service visit.
-</thinking>
-
 # Chiller Maintenance Checklist - Help Guide
 ## Purpose
 The Chiller Maintenance Checklist form is designed to aid technicians in completing a comprehensive assessment of a chiller system's condition. This form ensures that all necessary checks are performed and documented for routine maintenance, quarterly inspections, and annual maintenance of chillers.

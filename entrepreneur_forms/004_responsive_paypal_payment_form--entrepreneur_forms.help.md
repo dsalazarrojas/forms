@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-We need to create a help guide for a form that is used for payment processing, specifically for selecting a payment method, products, and gathering customer information. The form will likely be used by customers to place orders or make payments. It's not clear from the provided YAML what the specific business logic or rules are for this form, so let's assume it's for general e-commerce purposes.
-
-The form appears to have 4 different pages with fields for selecting a payment method, products, name, contact information (email, phone number, address, city, state, and zip code), and a message field. Each page seems to be independent, so we'll focus on explaining each field in its own section.
-
-</thinking>
-
 # Responsive Paypal Payment Form - Help Guide
 
 ## Purpose

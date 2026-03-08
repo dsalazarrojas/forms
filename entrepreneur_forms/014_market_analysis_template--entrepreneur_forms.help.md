@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used to gather information about a market analysis, which is a process to understand the needs and wants of a target market. This template likely serves as a starting point for entrepreneurs, business analysts, or market researchers to structure their thoughts and findings.
-</thinking>
-
 # Market Analysis Template - Help Guide
 ## Purpose
 This template is designed to assist in the process of analyzing a market by organizing key information about the market, company, and products/services.

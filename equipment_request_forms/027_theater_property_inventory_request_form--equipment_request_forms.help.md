@@ -1,11 +1,3 @@
-<thinking>
-This form is used to manage the property inventory for a theater, allowing users to request new properties for use in events or productions. This form helps ensure that the properties are properly tracked and maintained, and that all necessary information is gathered for each property.
-
-The form is primarily used by theater staff or event coordinators to request properties such as set pieces, stages, and other equipment. The information entered into the form will be used to assign the correct properties to the correct events or productions.
-
-To use this form, the user will select a property type, enter the property name, description, and other relevant details, as well as the location and date/time needed. The user will also need to input their contact information, including name, email, and phone number. Finally, they will select who the property is to be assigned to and add any additional notes. All of this information will be used to facilitate the proper management and distribution of properties.
-</thinking>
-
 # Theater Property Inventory Request Form - Help Guide
 ## Purpose
 This form is used to request new properties for use in events or productions at the theater.

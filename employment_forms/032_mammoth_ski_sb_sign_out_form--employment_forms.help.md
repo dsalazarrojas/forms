@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mammoth_ski_sb_sign_out_form - Help Guide
 
 ## Purpose

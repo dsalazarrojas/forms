@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to help users submit a request for a room addition cost estimate. This is a crucial step in the process of planning and executing a room addition project. It is essential to fill out the form accurately and thoroughly to ensure that the project is properly evaluated and estimated. Please note that the form has multiple fields that require specific information, and it is crucial to complete them correctly. Before proceeding, ensure that you have all the necessary information and details ready to provide. This form is designed to be completed by users who are requesting a cost estimate for a room addition project. If you are unsure about any part of the form, please refer to the field explanations below. 
-
-</thinking>
-
 # Room Addition Cost Estimate Request - Help Guide
 ## Purpose
 This form is a request for a room addition cost estimate. It is used to gather information about your project to provide an accurate estimate.

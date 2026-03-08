@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Aircraft Line Maintenance Tool Inventory Form - Help Guide
 ## Purpose
 This form is designed to track and inventory tools and equipment within the aircraft line maintenance environment. It captures essential details about each tool, including the tool's condition, calibration status, and location within the facility. The form helps to ensure that tools are properly accounted for, and their maintenance and replacement needs are accurately documented.

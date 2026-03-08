@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Post Party Feedback Form", we need to understand that this form is used to gather feedback from attendees and hosts of parties. The form's purpose is to collect information about the party, including the host's name, date and time, party theme, and the attendee's experiences and feedback. However, the form also asks the attendee to report if they attended the party and the type of feedback they have. This suggests that the form is designed to be flexible and accommodate different types of feedback, making it a useful tool for party hosts to gather valuable insights from their guests.
-</thinking>
-
 # Post Party Feedback Form - Help Guide
 ## Purpose
 The Post Party Feedback Form is designed to collect feedback from attendees and hosts of parties. It helps hosts understand their guests' experiences, gather valuable insights, and improve future events.

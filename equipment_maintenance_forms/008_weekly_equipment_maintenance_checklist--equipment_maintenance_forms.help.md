@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Equipment Maintenance Checklist - Help Guide
 ## Purpose
 The Weekly Equipment Maintenance Checklist is a form used to track and manage equipment maintenance activities. This form helps ensure that equipment is maintained regularly, reducing the risk of downtime and improving overall equipment health.

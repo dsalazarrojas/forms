@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seller Initiation Form Template - Help Guide
 
 ## Purpose

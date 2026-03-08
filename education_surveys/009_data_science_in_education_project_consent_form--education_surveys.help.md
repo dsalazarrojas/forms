@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # data_science_in_education_project_consent_form - Help Guide
 
 ## Purpose

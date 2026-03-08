@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information from clients for skincare services. The form is used to gather client details, upcoming visit information, and service expectations. The fields are designed to be as concise and clear as possible. The form is intended for estheticians to use in their daily practice.
-...</thinking>
-
 # skincare_facial_consent_form - Help Guide
 ## Purpose
 This form is used to collect information from clients for skincare services, including client details, upcoming visit information, and service expectations.

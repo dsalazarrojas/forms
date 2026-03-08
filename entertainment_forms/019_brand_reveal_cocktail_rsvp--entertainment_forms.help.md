@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure this form's purpose and relevance, I'll provide an internal reasoning block to explain the form's intent and check for duplication before creating the user-facing help guide.
-
-The form "Brand Reveal Cocktail RSVP" is likely used for event planning, particularly for cocktail events or gatherings where attendees need to provide essential information for organization, communication, and networking purposes. The form likely aims to gather details about attendees, including their name, contact information, event preferences, and social media handles. The form might also include questions about dietary restrictions, transportation plans, and parking needs to ensure attendees' comfort and accessibility. Additionally, the form may request permission to post photos on social media, which could be for promotional purposes.
-
-To create a comprehensive help guide, I'll review the provided YAML fields and aim to cover all essential aspects of the form, ensuring clarity and conciseness.
-
-</thinking>
-
 # Brand Reveal Cocktail RSVP - Help Guide
 ## Purpose
 The Brand Reveal Cocktail RSVP form is designed for attendees to provide essential information about themselves for event organization, communication, and networking purposes.

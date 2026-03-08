@@ -1,5 +1,3 @@
-<thinking>...The Dog Challenge Awards Submission form is designed to collect information and feedback from dog owners and their furry friends. Before completing this form, ensure that you haven't already submitted an entry, as duplicate submissions will not be considered valid. This form is intended for those who wish to participate in the Dog Challenge Awards, a recognition program celebrating outstanding dogs and their achievements. Please fill out the form completely and accurately to ensure your submission is reviewed and considered for an award...</thinking>
-
 # Dog Challenge Awards Submission - Help Guide
 ## Purpose
 

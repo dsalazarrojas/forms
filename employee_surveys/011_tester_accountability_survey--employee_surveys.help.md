@@ -1,26 +1,3 @@
-<thinking>
-This help guide is intended to be used by testers and test cycle stakeholders to ensure accurate and timely completion of the form. The form is designed to gather feedback and metrics on the test cycle process, which is essential for continuous improvement and quality assurance. This guide will help users understand the purpose and requirements of each field to ensure they complete the form correctly and thoroughly.
-
-It's crucial to review the form carefully before proceeding, ensuring that no questions are skipped or duplicated. The form is divided into several sections, each focusing on a specific aspect of the test cycle. Completing this form will help testers and test cycle stakeholders gain valuable insights and identify areas for improvement.
-
-Before starting, please review the following pages to ensure you understand the form's purpose and requirements:
-
-* Page 1: Test Cycle Status
-* Page 2: Blockers
-* Page 3: Test Cycle Comments
-* Page 4: Self-Assessed Accountability
-* Page 5: Manager-Assessed Accountability
-* Page 6: Blockers 2
-* Page 7: Test Cycle Status 2
-* Page 8: Test Cycle Comments 2
-* Page 9: Test Cycle Status 3
-* Page 10: Manager Comments
-* Page 11: Has the test cycle met its goals?
-* Page 12: Biggest Challenges Faced During the Test Cycle
-* Page 13: Prepared For Test Cycle
-
-</thinking>
-
 # Tester Accountability Survey - Help Guide
 ## Purpose
 The Tester Accountability Survey is a critical tool to gather feedback and metrics on the test cycle process, ensuring the continuous improvement and quality assurance of the testing process.

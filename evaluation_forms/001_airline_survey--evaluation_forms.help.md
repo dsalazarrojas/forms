@@ -1,7 +1,3 @@
-<thinking>
-The "Airline Survey" form is designed to collect feedback from passengers about their recent flight experience. This form is intended to gather information about the various aspects of the flight, including flight number, flight date, departure and arrival cities, travel class, overall satisfaction, and more. The data collected will help airlines improve their services and provide better experiences for their passengers. To ensure accurate and relevant data is collected, please make sure to complete the form carefully and honestly. You can skip questions that are not applicable to your experience.
-</thinking>
-
 # Airline Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback about your recent airline flight experience. The data collected will help the airline improve their services and provide better experiences for their passengers.

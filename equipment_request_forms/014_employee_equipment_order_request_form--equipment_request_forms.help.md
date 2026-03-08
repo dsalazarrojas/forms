@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Before we dive into the help guide, let's take a moment to review the purpose and relevance of this form. The Employee Equipment Order Request Form is designed to collect information from employees when they need to request new equipment, such as computers, chairs, or paper supplies, for their work. This form helps the equipment team determine the need for new equipment, allocate resources, and ensure that the right equipment is delivered to the right people. It's essential to complete this form accurately to prevent duplication of requests and ensure that the equipment team has all the necessary information to fulfill the request.
 
 # Employee Equipment Order Request Form - Help Guide

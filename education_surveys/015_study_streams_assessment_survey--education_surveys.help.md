@@ -1,7 +1,3 @@
-<thinking>
-This guide provides a walkthrough on how to fill out the Study Streams Assessment Survey form, ensuring you understand its purpose, the fields it contains, and tips to complete it successfully.
-</thinking>
-
 # Study Streams Assessment Survey - Help Guide
 ## Purpose
 This form is used to gather feedback and assessment on the study streams from users. The form aims to collect data on teaching methods, study formats, and feedback on the training experience.

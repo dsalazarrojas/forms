@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to evaluate an employee's perception and experience with work-life balance. Work-life balance refers to the harmony between an individual's work and personal life. The form is meant to gather information on various aspects of an employee's work-life balance, including their perception, description, work hours, flexibility, communication with their manager, manager's support, self-care activities, wellness plan, feedback, suggestions for improvement, and contact information. This form is likely used by HR or management to gauge the effectiveness of their work-life balance policies and strategies.
-
-To avoid duplication of effort, the form might be used as a follow-up to an initial assessment, or as a regular check-in to monitor employee satisfaction and concerns.
-
-Given the form's design and options, it is likely that the organization wants to gather both numerical and qualitative data. The "On a scale of 1-5" question (field 2) allows for a quick and easy quantifiable assessment, while the "Description of your work-life balance" field (3) enables employees to provide more in-depth information. Similarly, the "How many hours do you work per week?" field (4) and "Do you feel you have sufficient flexibility in your work schedule?" (5) gather numerical and yes/no information. 
-
-The "communication with manager" (6) field, which is currently set as a "date" type, might be a mistake, as it would be more appropriate to use a "select" type for this field, given the provided options. A radio or checkbox type would also make sense, as it seems to be asking for a selection rather than a date. 
-
-The "self_care_activities" field (8) is interesting, as it's asking about activities that are good for well-being, but the provided options are very specific. It might be beneficial to add more options or allow free text input to cater to diverse self-care needs. 
-
-The "feedback" and "suggestions" fields (10 and 11) are useful for gathering additional information and ideas from employees. These could be useful for improving work-life balance policies.
-
-The "contact_information" field (12) is likely for gathering information from employees who wish to be contacted for follow-up or further discussion.
-</thinking>
-
 # Employee Work Life Balance Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate an employee's perception and experience with work-life balance.

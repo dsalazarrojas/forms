@@ -1,7 +1,3 @@
-<thinking>
-The form is for understanding the preferences and behavior of individuals who participate in or would like to participate in giveaways. It collects data on demographics, past experience with giveaways, and interest in prizes and entry methods. The goal is to gain insights on how often to run giveaways, what prizes to offer, and how to improve the process for participants. This form is not affiliated with any form platform and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # Christmas Giveaway Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on your preferences and behavior related to giveaways. Your participation will help us understand what types of prizes and entry methods are most appealing to you, as well as how often you'd like to see giveaways run. Your input will be valuable in helping us improve our giveaway process.

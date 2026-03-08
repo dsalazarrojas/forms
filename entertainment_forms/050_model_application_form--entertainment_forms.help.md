@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, the goal is to create a user-facing help guide that provides a clear and concise explanation of the form's purpose and each field's requirements. To achieve this, we will analyze the provided YAML form schema and extract the necessary information to create a well-structured guide.</thinking>
-
 # Model Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for a model position. The form is divided into several sections, and each section focuses on a specific aspect of the applicant's experience, skills, and qualifications.

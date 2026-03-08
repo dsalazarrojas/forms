@@ -1,5 +1,3 @@
-<thinking>...The Performance Evaluation Form is designed to evaluate an employee's performance based on their contributions and progress within the organization. The form is used to assess an employee's performance over a specific period of time, and it is used to provide feedback to the employee and the organization on their performance. This form is a standard tool for performance evaluations across the company, and its fields are carefully crafted to gather essential information for fair and objective assessments. To ensure consistency, it is essential to understand and follow the guidelines in this help guide carefully...)</thinking>
-
 # Performance Evaluation Form - Help Guide
 ## Purpose
 The Performance Evaluation Form is used to evaluate an employee's performance over a specific period of time, providing feedback to the employee and the organization on their progress.

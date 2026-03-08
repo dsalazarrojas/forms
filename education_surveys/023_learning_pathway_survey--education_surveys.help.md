@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Learning Pathway Survey - Help Guide
 
 ## Purpose

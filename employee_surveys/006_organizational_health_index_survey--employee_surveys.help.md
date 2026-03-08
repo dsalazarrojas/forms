@@ -1,11 +1,3 @@
-<thinking>
-This is an internal help guide for the Organizational Health Index Survey form, used to assess the health and well-being of the organization. The form is designed to gather data on various aspects of the organization's performance, including team leadership, organizational values, employee engagement, employee satisfaction, and communication.
-
-Before starting the survey, ensure that you are familiar with the organization's current state and are not duplicating efforts. If you've completed this survey recently, you may not need to take it again. However, if you're unsure or have significant changes within the organization, it's best to re-complete the survey for an updated assessment.
-
-This guide will walk you through how to complete the form and provide explanations for each field, helping you understand the questions and their significance.
-</thinking>
-
 # Organizational Health Index Survey - Help Guide
 ## Purpose
 

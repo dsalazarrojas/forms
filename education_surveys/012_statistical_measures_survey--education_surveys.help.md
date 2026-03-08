@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data from educators on their habits and self-assessment of their use of statistical measures in education. This data will be used to inform the development of new statistical measures and tools for educators. The form is designed for educators who work with students, and the data collected will help to improve the quality and effectiveness of statistical measures in educational settings.
-
-To prevent duplicate submissions, the form is designed to be completed by only one educator per submission. Please do not submit the form multiple times.</thinking>
-
 # Statistical Measures Survey - Help Guide
 ## Purpose
 The Statistical Measures Survey is a questionnaire designed to gather data from educators on their habits and self-assessment of their use of statistical measures in education. This data will be used to inform the development of new statistical measures and tools for educators.

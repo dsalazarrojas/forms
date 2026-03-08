@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Wellness Questionnaire - Help Guide
 
 ## Purpose

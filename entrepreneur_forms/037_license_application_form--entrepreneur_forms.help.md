@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for a license application process. It's intended for businesses or individuals seeking to obtain a license or permit. The form is designed to collect essential information about the applicant, their business, and the license they're applying for. Before completing this form, ensure you have all necessary information and documents ready. If you're unsure about any field or requirement, please review the provided instructions or contact our support team for clarification.
-</thinking>
-
 # License Application Form - Help Guide
 ## Purpose
 This form is designed to collect information for a license application process. It helps businesses or individuals to apply for a license or permit by providing a structured format to gather essential details.

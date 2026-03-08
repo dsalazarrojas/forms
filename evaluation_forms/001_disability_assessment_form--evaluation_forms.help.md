@@ -1,9 +1,3 @@
-<thinking>... 
-
-The Disability Assessment Form is a tool used to assess an individual's level of disability or impairment in various aspects of their life. This form is typically used by healthcare professionals to gather information about an individual's symptoms, medical conditions, and functional limitations. It is essential to answer the questions accurately and truthfully to provide a comprehensive understanding of your situation. Please review each field carefully and ensure the information provided is up-to-date. If you've completed this form before, please ensure that the responses are the most recent and accurate.
-
-</thinking>
-
 # Disability Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess your level of disability or impairment in various areas, including disability categories, symptoms, medical conditions, functional limitations, and educational impact. It will help healthcare professionals understand your situation and provide a comprehensive assessment.

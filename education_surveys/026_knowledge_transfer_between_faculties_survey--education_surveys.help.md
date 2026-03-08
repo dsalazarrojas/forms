@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about knowledge transfer between faculties, which is essential for evaluating and improving collaboration and communication within academic institutions. The form is used to gather data on various aspects of knowledge transfer, including faculty participation, collaboration barriers, methods used, and effectiveness of collaboration. By providing this information, institutions can identify areas of improvement and develop strategies to enhance knowledge transfer between faculties.
-
-To ensure accurate and relevant data, please fill out the form only if you have personal experience with knowledge transfer between faculties in your institution or department. Duplicate or irrelevant responses will not be included in the analysis.
-
-</thinking>
-
 # knowledge_transfer_between_faculties_survey - Help Guide
 ## Purpose
 This form is designed to collect information about knowledge transfer between faculties, which is essential for evaluating and improving collaboration and communication within academic institutions.

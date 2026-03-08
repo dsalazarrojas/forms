@@ -1,5 +1,3 @@
-<thinking>As a collaboration workflow survey, this form is designed to gather feedback from team members about their satisfaction with the current workflow, biggest challenges they face in collaboration, and their preferred communication channel. The goal is to identify areas of improvement and make necessary changes to enhance collaboration and communication within the team. It's essential to ensure that each respondent's answers are accurate and relevant, so please review the form carefully and provide honest feedback.</thinking>
-
 # Collaboration Workflow Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from team members about their experience with the collaboration workflow, including their satisfaction with the current workflow, biggest challenges they face, and their preferred communication channel.

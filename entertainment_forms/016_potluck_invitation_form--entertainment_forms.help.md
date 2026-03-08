@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a potluck invitation for a group or event. It's essential to ensure that the form is filled out correctly to avoid confusion and ensure that the host receives the right information about the potluck. Please make sure to fill out this form carefully and accurately.
-</thinking>
-
 # potluck_invitation_form - Help Guide
 ## Purpose
 The potluck_invitation_form is designed to help host a potluck event by gathering essential information about the event and its participants.

@@ -1,10 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "Factory Maintenance Scheduling Device Order Form", we need to understand the purpose of the form and its fields. This form is used to schedule maintenance for devices in a factory setting. It's essential to provide clear instructions and explanations for each field to help users complete the form accurately.
-
-The form is designed to collect contact information (name, contact number, and email), list the equipment needed for maintenance, select the maintenance scheduling type, and provide any additional notes.
-
-</thinking>
-
 # Factory Maintenance Scheduling Device Order Form - Help Guide
 ## Purpose
 The Factory Maintenance Scheduling Device Order Form is used to schedule maintenance for devices in a factory setting. This form ensures that equipment is properly maintained to prevent downtime and increase productivity.

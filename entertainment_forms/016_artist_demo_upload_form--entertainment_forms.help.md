@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information and assets from artists or bands for review and evaluation by industry professionals. It is intended to be used by artists or their representatives to submit demos or projects for review. The form collects contact information, bio, genre, formation year, band members, and social media links. It also includes fields for the demo file, demo title, description, number of tracks, listening link, production credits, previous releases, target audience, rights, and additional notes. 
-This form will be used to ensure that all required information is provided and that the submission process is streamlined and efficient. It is crucial to fill in all required fields accurately and completely to avoid any delays or issues with the review process. 
-Before proceeding with this form, please ensure that you have all necessary information and files ready for upload. The form is designed to be completed by artists or their representatives, and it is essential that the information provided is accurate and up-to-date.
-</thinking>
-
 # Artist Demo Upload Form - Help Guide
 ## Purpose
 The Artist Demo Upload Form is designed to collect information and assets from artists or bands for review and evaluation by industry professionals. It is intended to be used by artists or their representatives to submit demos or projects for review.

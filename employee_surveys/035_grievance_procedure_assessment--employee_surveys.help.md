@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is used to assess the employee grievance procedure in place within the organization. It ensures that the procedure is being followed correctly and that there are no issues or discrepancies that need to be addressed. The form is used to gather information about the grievance procedure, including whether it is being followed, whether the resolution process is effective, and what actions are being taken to address the issue. The form is meant to be used by employees to provide feedback and input on the grievance procedure, and to identify areas for improvement. By using this form, employees can ensure that their voices are heard and that their concerns are addressed. This form is a critical component of maintaining a positive and productive work environment.
-</thinking>
-
 # grievance_procedure_assessment - Help Guide
 ## Purpose
 The grievance procedure assessment form is used to evaluate the effectiveness and adherence to the employee grievance procedure in place within the organization. It is designed to gather information from employees about their experiences with the grievance procedure, including whether it is being followed correctly, and to identify areas for improvement.

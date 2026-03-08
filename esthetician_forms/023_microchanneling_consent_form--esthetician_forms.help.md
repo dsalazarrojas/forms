@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a consent form for a microchanneling procedure, a non-invasive treatment for skin rejuvenation. Based on the provided YAML structure, this form aims to gather information from clients regarding their understanding and acceptance of the potential risks and benefits of the procedure, their medical history, and their informed consent. The fields included cover various aspects such as the procedure's purpose, potential risks, benefits, post-procedure aftercare, informed consent, signature, date, and time of the procedure, the type of procedure chosen, acceptance of risks, medical conditions, supervision, contraindications, and additional medical condition notes. This form appears to be designed for a medical or aesthetician setting, likely for clients seeking to undergo microchanneling treatment. 
-</thinking>
-
 # Microchanneling Consent Form - Help Guide
 ## Purpose
 This form is designed to gather informed consent from clients prior to undergoing a microchanneling procedure. Microchanneling is a non-invasive treatment aimed at skin rejuvenation.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to report equipment damage incidents. The purpose of this form is to gather information about the equipment that was damaged, including the date and description of the incident, the location where the incident occurred, and any other relevant details. This form will help the maintenance team to quickly and accurately assess the situation and take necessary actions to repair or replace the damaged equipment. 
-
-The form is designed to be completed by the person who reported the incident, and the information collected will be used to prioritize and schedule maintenance tasks. Please ensure that all required fields are filled in accurately to avoid delays in processing.
-
-This form is not used for reporting minor scratches or small issues. If you are unsure whether you need to report an incident, please contact the maintenance team for guidance.
-</thinking>
-
 # Equipment Damage Report Form - Help Guide
 
 ## Purpose

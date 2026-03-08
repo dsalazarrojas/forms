@@ -1,6 +1,3 @@
-<thinking>
-This form is used for conducting an internal audit of the workplace environment in relation to menopause. It's designed to gather information from employees about their experiences and perceptions of the workplace culture, policies, and practices regarding menopause. The form's purpose is to identify areas that need improvement and to provide insight into how the organization can better support employees going through menopause. The form should not be filled out by managers or HR representatives, but rather by employees who are going through or have gone through menopause. This form's content and structure are based on general information about menopause and workplace experiences and are not affiliated with any specific company or organization.</thinking>
-
 # Menopause Workplace Audit Form - Help Guide
 ## Purpose
 The Menopause Workplace Audit Form is designed to gather information from employees about their experiences and perceptions of the workplace culture, policies, and practices regarding menopause.

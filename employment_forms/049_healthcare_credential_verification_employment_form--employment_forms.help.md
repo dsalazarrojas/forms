@@ -1,7 +1,3 @@
-<thinking>
-The healthcare credential verification form is intended to collect information about an individual's employment status, type, and history to verify their credentials in the context of healthcare. This form is often used by medical institutions, hospitals, or healthcare professionals to assess an individual's eligibility for certain benefits, services, or privileges. The form should only be completed if the individual is being hired or already employed in the healthcare industry. If the individual is not a healthcare professional or is not being hired/employed in the healthcare industry, this form is not relevant and should not be completed.
-</thinking>
-
 # healthcare_credential_verification_employment_form - Help Guide
 ## Purpose
 This form is used to collect and verify employment information for healthcare professionals. It helps medical institutions, hospitals, or healthcare organizations assess an individual's eligibility for certain benefits, services, or privileges.

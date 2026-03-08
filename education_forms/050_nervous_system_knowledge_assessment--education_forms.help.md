@@ -1,11 +1,3 @@
-<thinking>
-The form "Nervous System Knowledge Assessment" is designed to evaluate a user's knowledge about the nervous system, its components, functions, and related disorders. The form aims to gather information about a user's understanding of the nervous system's basic structure, functions, and potential issues that may affect it. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original creation using public survey topic metadata.
-
-This form is intended for users who have a general understanding of the nervous system and are looking to assess their knowledge in a more formal and structured manner. It is not a medical form and should not be used for diagnostic purposes.
-
-By completing this form, users will be able to evaluate their knowledge of the nervous system's components, functions, and structures, as well as identify potential areas of improvement.
-</thinking>
-
 # Nervous System Knowledge Assessment - Help Guide
 ## Purpose
 

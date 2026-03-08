@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to log their daily and weekly nutrition information, including intake and exercise data. It helps users track their diet and physical activities to achieve a balanced lifestyle. This form can be completed by users to provide detailed information about their daily nutrition habits, including food intake and physical exercise, over a period of time.
-
-Note that this form has multiple pages with similar fields, so users do not need to fill out all fields on every page. Only fill in the fields relevant to your specific needs and habits. This form is not intended for duplicate or repetitive logging of information, so please fill it out once with accurate and comprehensive data.
-</thinking>
-
 # Nutrition Diary Form - Help Guide
 ## Purpose
 

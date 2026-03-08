@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather information from potential business collaborators for the Skincare Business Collaboration Application. It seems that the form is designed to collect contact information and details about the business that would like to collaborate with our skincare business. 
 
 The form includes fields for:

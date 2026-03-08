@@ -1,5 +1,3 @@
-<thinking>Before designing this form, I'd like to clarify the purpose of the form, which is to collect information from participants in a shooting event. This form appears to be a waiver form, which is often used in situations where there is an inherent risk involved, such as shooting activities. I'll make sure to cover the necessary fields and provide clear explanations for each field. I also want to check if there are any redundant or non-essential fields in the form to avoid confusing the users. It seems like most fields are optional, but some like "waiver_signed" and "parent_name" and "parent_email" might have a dependency on each other.</thinking>
-
 # Shooting Waiver Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants in a shooting event, ensuring their safety and the organizers' responsibility. The form will collect personal details, safety information, and waiver consent to participate in the event.

@@ -1,5 +1,3 @@
-<thinking>... ( internal reasoning: This form is designed for requesting stage performance transport, likely for events like theater shows, festivals, or concerts. It should be used by performers, event organizers, or stage crews to provide information about the transport needs of a specific performance. This form aims to collect details about the performer, crew members, equipment required, and transport specifics. To prevent errors, this form should not be filled out if a transport request has already been submitted for the same event. )...</thinking>
-
 # Stage Performance Transport Request Form - Help Guide
 ## Purpose
 The Stage Performance Transport Request Form is a tool to provide necessary information for stage performances, such as theater shows, festivals, or concerts. This form helps to organize and plan for the transport of performers and their crew to ensure timely and efficient execution of events.

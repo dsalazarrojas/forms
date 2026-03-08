@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users about a TV pilot. This form will help us understand their thoughts on the content, production, and overall quality of the pilot. The form has 15 fields that cover various aspects of the pilot, from its category and title to ratings and recommendations. Users will be asked to choose from a range of categories, rate the pilot, and provide comments or additional feedback. This form is intended for both internal and external use, and its purpose is to help the production team improve future episodes based on user feedback. The form's structure ensures that all required fields are filled out, making it easy to track and analyze the data.
-
-</thinking>
-
 # tv_pilot_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about a TV pilot. It helps us understand their thoughts on the content, production, and overall quality of the pilot. The feedback gathered will be used to improve future episodes.

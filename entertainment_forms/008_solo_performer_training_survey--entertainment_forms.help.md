@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for solo performers to provide information about their background, experience, and training habits. It will be used to gather data for a training program, and it's essential to provide accurate and honest answers to ensure the quality of the training services offered. Please fill out this form carefully, and note that all fields are required unless specified otherwise. If you have filled out this form previously, you may not need to complete it again.
-</thinking>
-
 # Solo Performer Training Survey - Help Guide
 ## Purpose
 This form is designed to collect information from solo performers about their background, experience, and training habits. The data collected will be used to tailor training services to meet their specific needs.

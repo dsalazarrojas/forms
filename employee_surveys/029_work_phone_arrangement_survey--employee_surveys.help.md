@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about employee work phone arrangements, likely to gauge employee satisfaction or experiences related to phone use, support, and company phone policies. The purpose of this form might be to identify areas of improvement for phone-related support or to gather feedback on work phone arrangements. It seems that this form is a combination of multiple questions, possibly aiming to cover the frequency of phone use, company phone use, support quality, and employee experience. I'll create the help guide according to this understanding.
-</thinking>
-
 # Work Phone Arrangement Survey - Help Guide
 ## Purpose
 This form is designed to help management understand employees' work phone arrangements, including usage frequency, support needs, and experiences with company phones. Your feedback is crucial in helping us improve our phone-related services.

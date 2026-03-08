@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Performance Reflection Survey - Help Guide
 ## Purpose
 This form, "Team Performance Reflection Survey", is designed to provide an opportunity for team members to reflect on their current team performance. The survey will help the team evaluate their strengths and areas of improvement, identify key areas that need attention, and provide a basis for future team development.

@@ -1,14 +1,3 @@
-<thinking>
-
-This form appears to be a template for printing orders, likely used to gather information about a customer's job or project that requires printing services. The form is likely used for internal purposes within an organization, and the fields provided suggest that it is used to collect details about the customer, their business, and the job specifics. The form's purpose is to streamline the printing order process, ensuring that all necessary information is collected in a single, organized format.
-
-The form's fields are divided into several sections, including customer information, job details, and special instructions. 
-
-This form is not intended for general public usage. Therefore, it is assumed that the end-user has a basic understanding of the printing process and the terminology used in the form.
-
-The form's fields can be completed in the following order: customer information, job details, and special instructions.
-
-</thinking>
 # Printing Order Form - Help Guide
 ## Purpose
 The Printing Order Form is used to gather information about a customer's job or project that requires printing services. It is designed to streamline the printing order process, ensuring that all necessary details are collected in a single, organized format.

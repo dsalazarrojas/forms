@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from retail businesses that are interested in participating in a retail accelerator program. The purpose of this form is to gather relevant details about the businesses, including their current stage, goals, business type, and participation in various retail programs and accelerators. This information will be used to evaluate the suitability of the businesses for the retail accelerator program. Note that some of the fields are optional, but they are still important for a comprehensive understanding of the business.
-
-Before proceeding, ensure that you are filling out this form for the correct business entity, as some fields may require specific information related to the business's current status. If you are unsure about any of the questions, please contact us for clarification.
-
-Also, be aware that this form is designed to be completed by one person per business. If you are representing a team or organization, please ensure that only one representative fills out this form.
-
-</thinking>
-
 # Retail Brand Accelerator Registration Form - Help Guide
 ## Purpose
 The retail brand accelerator registration form is designed to collect information from retail businesses interested in participating in the retail accelerator program.

@@ -1,11 +1,3 @@
-<thinking>
-
-Before creating the help guide, let's analyze the provided YAML. The form is called "Performance Feedback Quality Survey" and is categorized under "employee_surveys". It consists of 25 fields, mostly "rating" fields with numbers from 1 to 20, along with "comments" and 4 "rating" fields with numbers 6, 7, 9, and 11, which seem to be duplicates with some minor differences. There are no clear labels indicating what these ratings are for, but based on the names, they might be related to different aspects of performance, such as overall, quality, timeliness, communication, teamwork, initiative, and so on.
-
-Given the lack of clarity in the field labels, I'll make an educated guess that these fields might be rating different aspects of employee performance. I'll use this assumption to create a help guide that explains the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Performance Feedback Quality Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on an employee's performance in various aspects, allowing managers and HR representatives to monitor and assess an individual's strengths and weaknesses. This feedback will help in making informed decisions regarding promotions, training, or other professional development opportunities.

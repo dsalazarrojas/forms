@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about a board member's engagement and availability for meetings. The goal is to understand their current level of involvement, preferred meeting frequency and duration, and any challenges they face that might affect their engagement. This form is meant to be completed by board members and will help the organization better understand their needs and preferences.
-
-Before starting, please ensure that you are a board member and that this is the correct form for you. If you are not a board member, you should not complete this form.
-
-To complete this form, please select the relevant options for each field as accurately as possible. If you are unsure about any option, choose the one that best represents your situation.
-
-</thinking>
-
 # Board Engagement And Availability Survey - Help Guide
 ## How To Complete This Form
 

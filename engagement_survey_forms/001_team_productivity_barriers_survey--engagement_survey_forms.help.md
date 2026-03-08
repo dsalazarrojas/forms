@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about the team's productivity barriers and potential solutions to overcome them. It's essential to complete this form to provide valuable insights to improve team performance and productivity. Please ensure you're completing this form only once for each team, and if you've already completed this form for a team, please do not repeat the survey.
-
-</thinking>
-
 # Team Productivity Barriers Survey - Help Guide
 ## Purpose
 This survey is designed to collect information about your team's productivity barriers and potential solutions to overcome them. Your input will help us improve team performance and productivity.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to test the knowledge of users on the concept of Venn diagrams, which are a type of diagram used in math and logic to visualize relationships between sets. The purpose of this form is to assess the user's understanding of the different types of Venn diagrams, their components, and their uses. The form consists of multiple questions that cover various aspects of Venn diagrams, including their structure, terminology, and applications.
-
-</thinking>
-
 # Venn Diagrams Knowledge Quiz - Help Guide
 
 ## Purpose

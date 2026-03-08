@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from employees on various aspects of their work experience, with the primary purpose of gauging team passion and engagement. The form is meant to be completed by team members to provide insights on their job satisfaction, team dynamics, and overall experience. This form should only be completed once per team member, and any feedback should be genuine and respectful of their peers.
-
-Before completing this form, make sure to review the questions carefully and answer honestly. This will help ensure that the feedback provided is accurate and valuable. If you're unsure about any question or feel uncomfortable answering a particular question, please don't hesitate to reach out to your supervisor or HR representative for guidance.
-
-</thinking>
-
 # team_passion_feedback_form - Help Guide
 ## Purpose
 The team passion feedback form is designed to gather information about team members' experiences and perceptions of their work environment. This information will help the team and leadership understand areas of strength and areas for improvement, leading to a more positive and productive team culture.

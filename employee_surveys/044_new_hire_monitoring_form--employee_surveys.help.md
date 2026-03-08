@@ -1,10 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'd like to help you create a user-facing help guide for the "New Hire Monitoring Form". This guide will help end-users understand the purpose of the form, how to complete it, and what each field means. Let's break it down:
-
-**Internal Reasoning Block:**
-The "New Hire Monitoring Form" is a tool used to track and monitor new hires' progress, ensuring a smooth onboarding process. It helps managers and HR representatives to keep track of new employees' status, training hours, and performance. This form is essential for maintaining accurate and up-to-date information, facilitating effective communication, and facilitating timely interventions when needed. By filling out this form, employees, managers, and HR representatives can ensure that new hires are properly integrated into the team and organization.
-
-</thinking>
-
 # New Hire Monitoring Form - Help Guide
 ## Purpose
 The New Hire Monitoring Form is a document used to track new hires' progress, status, and performance. It helps managers and HR representatives to keep track of new employees' onboarding journey, from the beginning to the end.

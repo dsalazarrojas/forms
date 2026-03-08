@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended to capture information for a web-based enrollment process for International purposes? Is it a one-time or ongoing process? Are there any specific requirements or restrictions that need to be considered when filling out this form? Are there any potential duplicate or incomplete submissions that need to be prevented?
-</thinking>
-
 # NetpulseOne Enrollment Form (web Only)_International - Help Guide
 
 ## Purpose

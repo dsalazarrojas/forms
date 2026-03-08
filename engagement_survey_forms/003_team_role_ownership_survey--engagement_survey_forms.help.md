@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about team members' perceptions of their roles and job satisfaction. The goal of this survey is to identify areas where team members are comfortable and challenged, as well as their level of interest in taking on new roles. The data collected will help managers understand team members' needs and provide targeted support.
-
-Please note that this form is for internal use only and does not contain any sensitive or confidential information. Each section of the form is designed to gather specific data points that will help inform future planning and decision-making.
-
-Before completing this form, please note that all fields are optional and are intended to be completed at your own discretion. If you are unsure about a particular question, please feel free to skip it or ask your manager for guidance.
-
-This form consists of multiple pages and fields, each designed to gather specific information. Please complete each page carefully, and don't hesitate to reach out if you need help or clarification on any of the questions.</thinking>
-
 # Team Role Ownership Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about team members' perceptions of their roles and job satisfaction. This data will help managers understand team members' needs and provide targeted support.

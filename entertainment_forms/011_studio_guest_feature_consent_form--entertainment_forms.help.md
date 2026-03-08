@@ -1,10 +1,3 @@
-<thinking>
-To provide clear and concise instructions for users, we must understand the purpose and requirements of the "studio_guest_feature_consent_form" form. This form is likely used to capture information from guests who are visiting a studio or facility, and it seems to be related to consent, contact information, and signatures. However, the exact purpose and requirements of this form are not explicitly stated in the provided YAML file. Therefore, I will assume that this form is used for capturing consent and contact information from guests and hosts.
-
-To confirm, I will review the field labels and options to make sure they align with the assumed purpose.
-
-</thinking>
-
 # studio_guest_feature_consent_form - Help Guide
 ## Purpose
 The studio_guest_feature_consent_form is used to capture consent and contact information from guests who are visiting a studio or facility. This form is likely used by studios or facilities to collect necessary information from guests for communication and record-keeping purposes.

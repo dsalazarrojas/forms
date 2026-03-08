@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide that is clear, concise, and easy to follow. The form is called "intern_information_form", and it appears to be used to collect information about interns in an organization. The guide should help users understand what to expect and how to complete the form correctly.
-</thinking>
-
 # intern_information_form - Help Guide
 ## Purpose
 The "intern_information_form" is used to collect information about interns, including personal details, contact information, and emergency contact details. This form helps the organization to keep accurate and up-to-date records about their interns.

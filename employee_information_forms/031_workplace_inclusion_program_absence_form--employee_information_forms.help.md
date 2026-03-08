@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from employees to track and manage workplace inclusion program absences. 
-This form should only be filled out by employees in instances where they will be absent from work. 
-The form will be reviewed by management and HR personnel to ensure that the information is accurate and up to date. 
-Please make sure you are filling this form out for the correct absence and not duplicating entries. 
-</thinking>
-
 # Workplace Inclusion Program Absence Form - Help Guide
 ## Purpose
 The Workplace Inclusion Program Absence Form is a document used to report the absence of an employee from work. This form will help management and HR track and manage the reason for the absence and ensure the employee's status while away.

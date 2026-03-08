@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from parents for the purpose of enrolling their child in a preschool program. The form is intended to gather essential details about the parent and the child, including contact information, emergency contacts, and medical history. The form also asks parents to confirm that they have submitted the form, which is a way to ensure that the form is being completed accurately and intentionally. This form is not to be duplicated, meaning that each child can only have one preschool enrollment form submitted for them. It's essential to ensure that the form is completed accurately to avoid any potential issues or miscommunications during the preschool enrollment process.
-
-</thinking>
-
 # Preschool Enrollment Form - Help Guide
 ## Purpose
 The Preschool Enrollment Form is a critical document that helps us understand your child's background and your family's needs. It's essential to complete this form accurately to ensure a smooth and successful enrollment process.

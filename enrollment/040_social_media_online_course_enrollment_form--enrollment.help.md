@@ -1,7 +1,3 @@
-<thinking>
-This form is used to enroll a user in an online course on social media platforms. It captures essential information for the course registration process. The fields are designed to collect relevant details such as name, contact information, social media platforms, course name, start and end dates, and status. Please note that this form is not designed for duplicate enrollments or updates of existing enrollments.
-</thinking>
-
 # social_media_online_course_enrollment_form - Help Guide
 ## Purpose
 This form is used to enroll a user in an online course on social media platforms.

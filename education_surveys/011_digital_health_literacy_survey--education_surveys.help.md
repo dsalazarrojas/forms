@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to assess a participant's digital health literacy, which encompasses their ability to access, understand, and effectively use digital health resources. This form will be used to gather information on participant demographics, digital health habits, and self-assessed health literacy skills. It is essential to ensure that participants provide accurate and honest answers to the questions, as the data collected will be used to inform the development of digital health programs and services.
-
-Before proceeding, please ensure that this form is relevant to your needs and that you have not already completed it. If you have any doubts or concerns, please feel free to reach out to the survey administrators for clarification.
-
-</thinking>
-
 # Digital Health Literacy Survey - Help Guide
 ## Purpose
 The Digital Health Literacy Survey is designed to evaluate your digital health literacy skills and habits.

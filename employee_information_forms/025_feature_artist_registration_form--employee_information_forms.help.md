@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for artists to register their information and manage their publicist or manager's details for features and other related purposes. The form is meant to collect data for internal use by the company. This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field. Please ensure that you only need to fill this form out once for each artist. If you're unsure or have questions, please reach out to your team for assistance.
-</thinking>
-
 # Feature Artist Registration Form - Help Guide
 
 ## Purpose

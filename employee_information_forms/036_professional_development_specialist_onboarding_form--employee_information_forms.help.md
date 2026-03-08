@@ -1,9 +1,3 @@
-<thinking>This form is designed to collect information from new hire professional development specialists to ensure they are properly on-boarded into the organization. This form is used to capture key details about the new hire, including their training needs, job title, reporting manager, and emergency contact information. It is an internal tool for HR and management, and the information collected will be used to create accurate records and facilitate communication with the new hire. 
-
-The form is divided into several sections, each with its own specific purpose. Please ensure that you complete the form accurately and thoroughly, as the information collected will be used to tailor the on-boarding process to your specific needs and role within the organization.
-
-To complete the form, please follow the instructions below:</thinking>
-
 # Professional Development Specialist Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from new hire professional development specialists to ensure they are properly on-boarded into the organization.

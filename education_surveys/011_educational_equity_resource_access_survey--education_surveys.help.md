@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to collect information from students about their experiences with accessing educational resources. This form will help us better understand the needs and challenges of students in accessing resources, which will inform our efforts to improve equity in education. By completing this form, you will be helping us to identify areas where we can make positive changes to support your access to educational resources.
-
-Before starting, please note that this form will be used for internal analysis and decision-making. Your responses will not be shared publicly or used for any purpose other than to improve educational equity in our institution. If you have already completed a similar form, your responses may be considered duplicate and will not be included in the analysis.
-
-Please ensure that you complete the form in its entirety, as your feedback is essential for us to get a comprehensive understanding of the situation.
-</thinking>
-
 # Educational Equity Resource Access Survey - Help Guide
 ## Purpose
 This survey aims to gather information about your experiences with accessing educational resources. Your responses will help us identify areas where we can improve resource accessibility for students.

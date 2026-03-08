@@ -1,8 +1,3 @@
-<thinking>
-This form is used to create a customized emergency preparedness checklist for specific situations. It's essential to ensure that the user understands its purpose and knows how to fill it out correctly to avoid confusion or omission of crucial information.
-The form should only be filled out if the situation is truly unexpected and requires immediate attention. Otherwise, other more relevant forms might be more suitable.
-</thinking>
-
 # emergency_preparedness_checklist_form - Help Guide
 
 ## Purpose

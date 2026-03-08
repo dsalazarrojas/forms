@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be filling out the Workplace Belonging Assessment Survey form. The purpose of this form is to gauge the level of engagement and satisfaction among employees with various aspects of their workplace, including team belonging, manager support, team connection, work-life balance, and job satisfaction. To ensure that the form is useful and relevant to each employee, it is essential that each question is completed honestly and thoroughly. If an employee has already completed this form, please do not fill it out again. This guide will walk you through each question and provide a clear explanation of what to expect and how to complete each section.
-
-</thinking>
-
 # Workplace Belonging Assessment Survey - Help Guide
 ## Purpose
 The Workplace Belonging Assessment Survey is designed to help employees understand their level of engagement and satisfaction with various aspects of their workplace. This survey aims to gather valuable insights into the employee experience, which can be used to identify areas of improvement and implement positive changes.

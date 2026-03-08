@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to gather accurate data on students' knowledge and understanding of Chinese New Year. This form should only be used by students who have participated in related lessons or workshops. Please note that this form should not be used by students who have not had any prior interaction with the Chinese New Year content. This is to prevent bias and ensure that the data collected is representative of students with a genuine understanding of the topic.
-
-To confirm, this form is intended to measure the effectiveness of our Chinese New Year lessons in promoting cultural understanding and knowledge among students. By using this form, we aim to identify areas of improvement and make data-driven decisions to enhance our educational content and materials.
-
-Please ensure that the form is completed correctly and honestly to provide valuable insights for future development and refinement of our educational programs.
-</thinking>
-
 # Chinese New Year Student Survey - Help Guide
 
 ## Purpose

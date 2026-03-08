@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to gather information from candidates applying for positions in the sports industry. This form is designed to be user-friendly and easy to understand, ensuring that candidates provide accurate and relevant information about themselves. To prevent data duplication and ensure consistency, we will review and analyze the information provided in this form before processing it.
-</thinking>
-
 # Sports Industry Employment Application - Help Guide
 ## Purpose
 The Sports Industry Employment Application form is designed to collect information from candidates applying for positions in the sports industry. This form helps us understand your background, experience, and qualifications, making it easier for us to assess your suitability for potential roles.

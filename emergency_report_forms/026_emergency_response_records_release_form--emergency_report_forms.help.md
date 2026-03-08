@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from patients to determine the reason for sharing their medical information in emergency response scenarios. The form is designed to be completed by patients or their authorized representatives and is used to obtain consent for sharing medical information with emergency responders, emergency departments, or other specified recipients. The purpose of this form is to ensure that patients have control over their medical information and can decide who to share it with in emergency situations. The form is also used to gather any additional comments or concerns the patient may have.
-
-</thinking>
-
 # emergency_response_records_release_form - Help Guide
 ## Purpose
 The emergency response records release form is used to collect information from patients or their authorized representatives to determine the reason for sharing their medical information in emergency response scenarios.

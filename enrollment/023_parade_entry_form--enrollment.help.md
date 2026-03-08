@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information for parade participants, ensuring accurate and complete data for event organization and management. The form should only be filled out once for each participant. 
-
-Please note that the provided YAML contains fields that are likely part of a more comprehensive data collection process. This guide will cover the required information to fill out the Parade Entry Form.
-
-</thinking>
-
 # Parade Entry Form - Help Guide
 ## Purpose
 The Parade Entry Form is designed to gather essential information from parade participants. This form will be used to organize and manage parade entries, ensuring a smooth and efficient experience for both participants and event organizers.

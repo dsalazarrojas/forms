@@ -1,7 +1,3 @@
-<thinking>
-This is a form to be used for recording and reporting leave of absence (LOA) for dental professionals. It is designed to capture relevant information regarding a dental professional's education leave, including whether they are taking a leave of absence for educational purposes, the start and end dates of the leave, the reason for the leave, and the approval status and type of leave. This form is likely used for internal administrative and reporting purposes, such as tracking employee absences and leave history. It is intended for use by dental professionals and administrators. Before filling out this form, please ensure that you are using the correct form for your specific situation. This form is not intended to be used for other purposes, such as general vacation or sick leave requests. Please only fill out the form if you have a legitimate education-related reason for your leave.
-</thinking>
-
 # dental_professional_education_leave_of_absence_form - Help Guide
 ## Purpose
 This form is used to report and record leave of absence for dental professional's educational purposes.

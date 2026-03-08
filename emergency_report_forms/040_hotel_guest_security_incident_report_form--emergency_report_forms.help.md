@@ -1,14 +1,3 @@
-<thinking>
-As the form designer and technical writer, I will analyze the form's purpose, functionality, and required information to create a comprehensive and user-friendly help guide.
-
-The purpose of this form is to collect information from hotel guests about security incidents that occurred during their stay. This form is essential for hotel management to document and manage such incidents effectively, ensuring the safety and security of their guests.
-
-When creating this help guide, I will focus on making it concise, practical, and easy to follow, providing step-by-step instructions on how to complete each page of the form, explaining each field's purpose, and highlighting tips to ensure accurate and complete submission.
-
-To avoid duplication, I will ensure that the guide addresses only the most critical information and tasks that users need to complete.
-
-</thinking>
-
 # Hotel Guest Security Incident Report Form - Help Guide
 ## Purpose
 The Hotel Guest Security Incident Report Form is designed to collect information about security incidents that occurred during a guest's stay. This form helps hotel management document and manage incidents efficiently, ensuring the safety and security of guests.

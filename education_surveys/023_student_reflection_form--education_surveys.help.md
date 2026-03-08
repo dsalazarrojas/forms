@@ -1,14 +1,3 @@
-<thinking> 
-This help guide will provide an overview of the Student Reflection Form, which is used for students to reflect on their learning experience in the education sector. It will help ensure that you complete the form accurately and efficiently. 
-
-Please note that this form is designed to collect information from students, and it's essential to provide accurate and honest answers to the questions. Before filling out the form, please make sure you're eligible to do so and that you're not duplicating any existing responses.
-
-This guide will walk you through each field of the form, explaining what information is required and how to complete it correctly. 
-
-Please read through the guide carefully, and if you have any questions or concerns, contact the relevant authority for assistance.
-
-</thinking>
-
 # Student Reflection Form - Help Guide
 ## Purpose
 The Student Reflection Form is designed to gather feedback from students on their learning experience. It's essential to fill out this form accurately and honestly to ensure that the education sector can better understand the students' needs and experiences.

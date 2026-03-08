@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # gym_member_community_engagement_survey - Help Guide
 ## Purpose
 The gym_member_community_engagement_survey form is designed to gauge the interest and preferences of gym members in various events, activities, and communication channels. This form helps the gym management understand what activities and events to prioritize based on member interests and preferences.

@@ -1,11 +1,3 @@
-<thinking>
-
-To confirm, the form purpose is to collect information for a Variable Frequency Drive (VFD) application. The form appears to be designed to gather user, site, and VFD details for a specific motor, including its size and configuration, motor details, frequency range, and winding types. This form may be used by technicians, engineers, or other authorized personnel to input data for the installation, commissioning, or maintenance of VFD systems.
-
-Before proceeding, ensure that this form is relevant to your current project or task, as it is not intended for other purposes. Additionally, please be aware that some fields may have specific formatting or data type requirements, such as numerical inputs or specific selection options.
-
-</thinking>
-
 # Variable Frequency Drive Application Form - Help Guide
 ## Purpose
 The Variable Frequency Drive Application Form is a tool used to collect necessary information for a VFD application. This form helps ensure that all required details are captured accurately and efficiently.

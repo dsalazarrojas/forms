@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Team Collaboration Dynamics Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences and challenges with collaboration within your healthcare team. Your feedback will help us better understand the dynamics of your team's collaboration and identify areas for improvement.

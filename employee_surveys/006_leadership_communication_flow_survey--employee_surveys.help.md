@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information about leadership communication flow within an organization. It's intended to help teams and leaders understand how effectively they are communicating with their team members and identify any potential barriers to effective leadership communication.
-
-This form should only be used for leadership communication flow surveys. If you're looking to create a form for another purpose, please adjust the form according to your specific needs.
-
-Please note that some fields may have similar labels or options, but each field has a distinct purpose and should be completed accordingly. For example, the "Frequency of Communication" and "Channels of Communication" fields might seem redundant, but they are designed to capture different aspects of communication flow.
-
-Before starting the form, take a moment to review the purpose and fields to ensure you're completing the form correctly.
-</thinking>
-
 # leadership_communication_flow_survey - Help Guide
 ## Purpose
 This form is designed to gather information about leadership communication flow within an organization, helping teams and leaders understand how effectively they are communicating with their team members and identify potential barriers to effective leadership communication.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used to evaluate the performance, skills, attendance, and other characteristics of preschool staff members. It helps to identify areas of improvement and strengths for professional development and decision-making purposes. The form can be completed by authorized personnel to assess the performance of individual staff members and provide a comprehensive evaluation of their skills, attendance, and other characteristics.
-
-</thinking>
 # Preschool Staff Evaluation Form - Help Guide
 ## Purpose
 

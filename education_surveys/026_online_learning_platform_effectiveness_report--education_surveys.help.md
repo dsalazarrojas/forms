@@ -1,15 +1,3 @@
-<thinking>
-The goal of this form is to collect feedback from users on their experience with the online learning platform. The platform wants to assess how well the platform is meeting user needs and expectations.
-
-The form is divided into multiple sections, with some fields being optional. The purpose of this form is to gather quantitative and qualitative data on user satisfaction, platform effectiveness, and areas for improvement.
-
-Before filling out this form, make sure to answer all the questions that apply to your experience and be as specific as possible. If you have any suggestions or comments that are not covered in the questions, feel free to provide them in the "Additional Comments" section at the end.
-
-This form is only for users of the online learning platform, so only answer questions related to your experience with this platform.
-
-The platform has multiple pages, each covering a different aspect of user experience. Please answer each question on each page thoroughly and honestly.
-</thinking>
-
 # Online Learning Platform Effectiveness Report - Help Guide
 ## Purpose
 This guide is for users who want to provide their feedback and suggestions on how the online learning platform is meeting their needs and expectations.

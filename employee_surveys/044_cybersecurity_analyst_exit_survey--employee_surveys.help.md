@@ -1,5 +1,3 @@
-<thinking>Before providing the help guide, let's quickly validate that the form is for gathering feedback from cybersecurity analysts who are leaving the company. If this is correct, then here's the internal reasoning block:</thinking>
-
 # Cybersecurity Analyst Exit Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from departing cybersecurity analysts on their experience with the company. It helps us understand their satisfaction with our tools, processes, and overall experience to make improvements and better serve our employees in the future.

@@ -1,15 +1,3 @@
-<thinking>
-This form is used to collect information about an individual's proficiency with camera equipment. This form is used in the context of employment, likely for camera operators or production staff who are applying for or being evaluated for a position. The purpose of this form is to gauge the individual's experience and proficiency with various types of camera equipment, as well as their ability to perform specific tasks related to camera maintenance, testing, and rigging. This form is likely used by production companies or studios to assess an individual's qualifications and suitability for a role. It is also possible that this form is used for self-assessment or certification purposes.
-
-It's worth noting that some options, such as "production_camera_equipment_proficiency_question_three" and "production_camera_equipment_proficiency_question_four", ask for years of experience with camera accessories, which is a vague and possibly open to interpretation question. However, based on the overall structure of the form, it seems to be trying to gauge the individual's experience with camera equipment in general, rather than specific skills or tasks.
-
-The form also appears to be trying to assess the individual's ability to perform various tasks related to camera equipment, such as maintenance, testing, and rigging. This form could be used to identify individuals who are proficient with camera equipment and able to perform these tasks, making them a strong candidate for a camera-related position.
-
-It's also worth noting that some questions are similar and could be combined, such as "production_camera_equipment_proficiency_question_six", "production_camera_equipment_proficiency_question_seven", "production_camera_equipment_proficiency_question_eight", "production_camera_equipment_proficiency_question_nine", and "production_camera_equipment_proficiency_question_ten" all relate to the individual's ability to perform specific tasks related to camera equipment. These questions could be condensed into a single question or combined with other questions to make the form more efficient and user-friendly.
-
-Overall, this form is designed to collect information about an individual's experience and proficiency with camera equipment, which is useful for assessing their qualifications and suitability for a camera-related position.
-</thinking>
-
 # Production Camera Equipment Proficiency Employment Form - Help Guide
 ## Purpose
 This form is used to collect information about an individual's proficiency with camera equipment. This information is used to assess their suitability for a camera-related position.

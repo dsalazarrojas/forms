@@ -1,10 +1,3 @@
-<thinking>
-**Form Purpose**: This form is used to report accidents that occur in the workplace, allowing employees to provide details about the incident, including the date, time, location, and any witnesses. The form will help management gather information and investigate the incident.
-
-**Checking for Duplication**: Before filling out this form, please make sure you have not already reported this incident to your supervisor or HR department.
-
-</thinking>
-
 # Employee Accident Report Form - Help Guide
 ## Purpose
 The Employee Accident Report Form is a tool to report accidents that occur in the workplace. It is essential to provide accurate and detailed information about the incident to help management understand what happened and take necessary actions.

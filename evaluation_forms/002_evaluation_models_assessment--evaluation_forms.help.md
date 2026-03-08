@@ -1,7 +1,3 @@
-<thinking>
-This form is an AI-generated form designed to gather information about assessments. It is not affiliated with, endorsed by, or derived from any form platform, and its content is created using only public survey topic metadata. The form's primary purpose is to collect general information, assess strategies, and gather details about assessment items.
-</thinking>
-
 # Evaluation Models Assessment - Help Guide
 
 ## Purpose

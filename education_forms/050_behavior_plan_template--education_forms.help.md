@@ -1,9 +1,3 @@
-<thinking>
-The Behavior Plan Template form is designed to help educators create a comprehensive plan to address a student's behavior, providing a structured approach to understanding the student's problem behavior, identifying the desired replacement behavior, and outlining the interventions and consequences that will be taken to support the student's success. This form ensures that the student's needs are understood and addressed in a consistent and effective manner.
-To prevent duplication and non-relevance, it's essential that the user carefully reviews the information and ensures that all necessary details are included, and that the form is filled out in a way that accurately reflects the student's needs and goals.
-The form is divided into several sections, each with specific fields that support the development of a well-rounded behavior plan. This help guide will walk you through each section and field to ensure that users understand the purpose and requirements of each.
-</thinking>
-
 # Behavior Plan Template - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is a donation form for users to support a game server, likely for a online gaming community or platform. The form is designed to collect basic information from users who want to donate to the server, such as Stream ID, email, and player name. This information will be used to process the donation and provide updates to the user. To ensure the form is filled out correctly, we'll need to clarify each field's purpose and requirements.
-</thinking>
-
 # game_server_donation_form - Help Guide
 ## Purpose
 The game server donation form is a way for users to support their favorite game server by making a donation. This form helps us understand who's donating and how to provide updates and rewards to them.

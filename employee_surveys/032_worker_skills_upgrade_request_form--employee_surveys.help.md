@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please ensure that you are submitting a genuine request for a worker's skills upgrade. This form is designed to help you request a manager's approval for skills upgrade for a specific employee. Please note that manager approval is not mandatory, but it is highly recommended. If the request is approved, please check the manager's availability before proceeding. If you have any doubts or questions, reach out to your HR department for clarification.</thinking>
-
 # Worker Skills Upgrade Request Form - Help Guide
 ## Purpose
 The Worker Skills Upgrade Request Form is a tool for employees to request a manager's approval for skills upgrade for a specific worker. This form helps to facilitate the process of upgrading the worker's skills and knowledge, and ensures that the manager is informed and involved in the decision-making process.

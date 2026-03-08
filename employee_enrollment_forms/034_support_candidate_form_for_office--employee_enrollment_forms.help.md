@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Support Candidate Form For Office - Help Guide
 ## Purpose
 This form is designed to collect information from job applicants for support candidates. It helps us to better understand the candidates' details, skills, and preferences. Please fill out the form with accurate and detailed information to ensure a smooth hiring process.

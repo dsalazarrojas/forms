@@ -1,7 +1,3 @@
-<thinking>
-The emergency_fund_utilization_report form is designed to collect information related to emergency fund usage. This form is used to document and track expenses or disbursements made from an emergency fund to help manage the fund's utilization effectively. It appears to be a simple report form that does not require any complex business logic or conditional branching.
-</thinking>
-
 # emergency_fund_utilization_report - Help Guide
 ## Purpose
 The emergency_fund_utilization_report is a form used to track and document expenses or disbursements made from the emergency fund.

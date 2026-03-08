@@ -1,23 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for an entertainment booking, which includes the name of the act, contact details, performance date, start and end times, act length, type, and other relevant details. This form ensures that the booking information is accurate and complete, making it easier for the management team to confirm or decline the booking. It's essential to fill out this form accurately to avoid any misunderstandings or miscommunications.
-
-To ensure consistency, please only fill out this form when you are making a booking for a specific entertainment act. If you are an entertainment agent or representative, please fill out this form for each act you are representing.
-
-Before starting, make sure you have the following information ready:
-
-* The name of the entertainment act
-* Contact number and email address
-* Performance date
-* Start and end times
-* Act length
-* Act type (e.g., solo, duo, group, or other)
-* Venue address and name (if applicable)
-* Description of the performance (if applicable)
-* Contact details of the entertainment agent or representative (if applicable)
-
-</thinking>
-
 # Entertainment Booking Form - Help Guide
 ## Purpose
 

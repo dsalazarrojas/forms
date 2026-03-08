@@ -1,5 +1,3 @@
-<thinking>As you can see, this form is designed to guide institutions, students, and other stakeholders in the academic process to release academic transcripts in a secure and compliant manner. The form is primarily used in educational settings, such as universities, colleges, or schools. It serves as a means to obtain authorization from a student to release their transcript to a third party. This form is essential for maintaining data privacy and security in academic records management. It's used to request, authorize, and verify the release of academic transcripts for various purposes, including admissions, job applications, or academic verification. The form is also designed to ensure that students are aware of their rights and responsibilities related to their educational records.</thinking>
-
 # Academic Transcript Release Form - Help Guide
 
 ## Purpose

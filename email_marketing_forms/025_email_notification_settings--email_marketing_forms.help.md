@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # email_notification_settings - Help Guide
 ## Purpose
 The email notification settings form is designed to provide a way to configure email notifications for various applications or services. This form helps users set up their email notification preferences, ensuring they receive important updates, reminders, and notifications from their email accounts.

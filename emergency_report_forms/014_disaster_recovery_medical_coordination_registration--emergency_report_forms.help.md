@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Disaster Recovery Medical Coordination Registration form. Before proceeding, please ensure you have a legitimate reason to fill out this form and that you are not duplicating efforts already underway. This form is designed to capture essential information for coordination and registration of medical volunteers in disaster recovery efforts.
-
-</thinking>
-
 # Disaster Recovery Medical Coordination Registration - Help Guide
 ## Purpose
 The Disaster Recovery Medical Coordination Registration form is designed to collect information from medical volunteers during disaster recovery efforts. It ensures that volunteers are properly registered and coordinated for optimal support and safety.

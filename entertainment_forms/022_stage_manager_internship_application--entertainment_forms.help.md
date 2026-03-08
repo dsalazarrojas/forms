@@ -1,5 +1,3 @@
-<thinking>...The form "stage_manager_internship_application" is designed to collect information from potential candidates who are interested in joining the stage management team as interns. This form is used to gather application details, candidate information, and other relevant data required for the internship selection process. Please ensure that you have reviewed the form carefully and that the information provided is accurate and relevant...+</thinking>
-
 # stage_manager_internship_application - Help Guide
 ## Purpose
 The "stage_manager_internship_application" form is designed to collect information from potential candidates for the stage management internship position. The form is used to gather application details, candidate information, and other relevant data required for the internship selection process.

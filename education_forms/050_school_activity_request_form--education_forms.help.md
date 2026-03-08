@@ -1,21 +1,3 @@
-<thinking>
-The form is designed for school staff to submit requests for activities, events, or programs that they want to organize or participate in. This form helps them to provide necessary information about the activity, including its title, date, number of participants, and other details. The form ensures that the school staff can submit a well-structured and organized request that will be reviewed and approved by the school administration.
-
-To complete this form, follow these steps:
-
-1. Enter the title of the activity, event, or program you want to submit.
-2. Select the date when the activity will take place.
-3. Enter the number of participants expected for the activity.
-4. Choose the program or category under which the activity falls (e.g., School Club, School Organization, or Student Event).
-5. Provide a detailed description of the activity.
-6. Enter the location where the activity will take place.
-7. Add any additional payment details, if necessary.
-8. Select the category of the activity (e.g., School Club, School Organization, or Student Event).
-
-When filling out the form, please ensure that you are providing accurate and complete information to help the school staff review and approve your request.
-
-</thinking>
-
 # School Activity Request Form - Help Guide
 ## Purpose
 The form is designed for school staff to submit requests for activities, events, or programs that they want to organize or participate in. This form helps them to provide necessary information about the activity, including its title, date, number of participants, and other details.

@@ -1,12 +1,3 @@
-<thinking>
-I will generate a help guide for the emergency contact form template.
-
-The purpose of this form is to collect emergency contact information from owners or individuals who may need to be contacted in case of an emergency. This form is designed to gather essential details such as owner and emergency contact names, phone numbers, email addresses, and category (fire, police, or medical) to ensure that relevant parties can be reached quickly and efficiently in emergency situations.
-
-Before proceeding, ensure you have not already completed this form for this owner, as it's not designed to collect duplicate information. If the form is already filled out, please review and update it instead of creating a new one.
-
-</thinking>
-
 # emergency_contact_form_template - Help Guide
 ## Purpose
 The purpose of this form is to collect emergency contact information from owners or individuals who may need to be contacted in case of an emergency.

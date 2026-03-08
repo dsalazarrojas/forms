@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Idea Consultation Request - Help Guide
 
 ## Purpose

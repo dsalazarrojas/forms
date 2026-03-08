@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect business information and banking details from an entrepreneur, including business name, address, tax ID, date established, industry, and banking information such as bank name, account type, account number, and routing number. The form is divided into two main sections: "Business Information" and "Banking Details". This form is likely used for business registration, banking, or other financial purposes.
-
-To ensure that this form is completed accurately and consistently, it's essential to check if the form already exists for the business or if the business details need to be updated. This form should not be filled out if the business is not registered, or if the details are already up-to-date.
-
-</thinking>
-
 # Business Details And Banking Form - Help Guide
 ## Purpose
 This form is designed to collect essential business information and banking details from entrepreneurs, ensuring that all necessary data is accurately recorded.

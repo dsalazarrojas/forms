@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate_team_communication_assessment_form - Help Guide
 ## Purpose
 This form is designed to assess the effectiveness of communication within a corporate team. It helps to gauge the frequency and quality of communication among team members. The results will help the management to identify areas of improvement in team communication and make data-driven decisions to enhance collaboration and productivity.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluations from users on various aspects of the vector database model, including engineering, product, and research aspects. The form is intended to be completed by users to provide a comprehensive assessment of the model's performance. This form is meant to be used by internal teams to gather feedback and make data-driven decisions. It's crucial to fill this form out accurately and thoroughly to ensure that the evaluations are reliable and actionable.
-</thinking>
-
 # Vector Database Model Evaluation Form - Help Guide
 ## Purpose
 The Vector Database Model Evaluation Form is a tool used to gather feedback and evaluations from users on various aspects of the vector database model. It helps internal teams to make data-driven decisions by providing a comprehensive assessment of the model's performance.

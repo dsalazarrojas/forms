@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a supervisor's observations and notes on specific dates and times regarding an individual's behavior. It is likely used in a work or educational setting to document incidents or performance, allowing supervisors to track and record important events. To avoid duplication, users should only complete this form if they are a supervisor or have been authorized to provide feedback. Please ensure you have the necessary permissions and are completing this form for a valid purpose.
-
-</thinking>
-
 # Supervisor Note Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Religious Exemption For Covid Vaccine Form - Help Guide
 
 ## Purpose

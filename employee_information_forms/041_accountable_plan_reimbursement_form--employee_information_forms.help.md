@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employee expenses, including employee details, expense date, category, and reimbursement details. The form ensures that employees provide accurate and complete information to facilitate the reimbursement process. This form is not intended for personal or entertainment expenses. All fields marked as "required" must be filled in for the form to be considered complete. Please review each field carefully to ensure accurate and complete information.
-</thinking>
-
 # Accountable Plan Reimbursement Form - Help Guide
 ## Purpose
 This form is used to collect information about employee expenses to ensure accurate and complete reimbursement.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect employee feedback on their engagement and satisfaction with their department, manager, and overall work experience. It's essential to understand the purpose of this form to ensure accurate and relevant responses. 
-
-The form is not meant to be a comprehensive evaluation, but rather a starting point for discussions and areas for improvement within the organization. It's crucial to complete it honestly and thoughtfully, as the feedback will help the management team to make informed decisions and create a better work environment for everyone.
-
-To avoid duplication of effort, please note that this form is not intended to replace other evaluation forms or processes. It's a supplementary tool to enhance employee engagement and satisfaction.
-
-</thinking>
-
 # Employee Engagement Survey - Help Guide
 ## Purpose
 

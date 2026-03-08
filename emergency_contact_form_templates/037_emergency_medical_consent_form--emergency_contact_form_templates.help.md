@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's emergency medical history, including their medical conditions, allergies, medications, and contact information for emergency contacts. This form is intended to be completed by the patient or their representative, and will be used to help emergency medical staff respond to medical emergencies. Please make sure to fill out this form carefully and accurately, and ensure that all required fields are completed.
-
-This form will not be used for any other purpose than emergency medical treatment.
-</thinking>
-
 # Emergency Medical Consent Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for film distribution consultation booking purposes. It is likely used by a company or organization in the film industry to gather details about customer preferences, interests, or requirements for film distribution. The form's purpose is to provide a structured way to capture relevant information, ensuring that customers can easily provide their input and feedback.
-The form structure consists of 25 pages with 1 field per page, all labeled as "film_distribution_consultation_booking_form_<id>" with no specific options provided. This suggests that the form is designed for general input or text-based data collection.
-To ensure that this form is used effectively and accurately, it is crucial that users understand its purpose and how to complete it correctly. 
-</thinking>
-
 # film_distribution_consultation_booking_form - Help Guide
 ## Purpose
 The film_distribution_consultation_booking_form is a data collection tool used to gather information from customers regarding their preferences, interests, or requirements for film distribution.

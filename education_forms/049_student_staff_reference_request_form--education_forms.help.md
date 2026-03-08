@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students for a staff reference, which is a request from the institution to a staff member to provide a character reference for a student. This form ensures that the student's request for a reference is properly documented and submitted to the relevant staff member in the correct department. It's essential to ensure that the staff member being requested as a reference is in a position to accurately and positively represent the student. This form helps prevent duplicate requests, which can be confusing for staff and may lead to missed opportunities for students. Please use this form only for legitimate requests, and be mindful of the required fields to avoid unnecessary delays.
-</thinking>
-
 # Student Staff Reference Request Form - Help Guide
 ## Purpose
 The Student Staff Reference Request Form is a document used to request a staff member to provide a character reference for a student. This form ensures that the request is properly documented and submitted to the relevant staff member in the correct department.

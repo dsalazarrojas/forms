@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a movie premiere, including the name of the movie, contact information of the person submitting the form (name, email, phone), media permission, screening date and time, and the location of the screening. To prevent duplication, users should not submit the form multiple times for the same movie premiere. The form will be used by event organizers to collect and manage invitations to the movie premiere.
-</thinking>
-
 # Movie Premiere Release Form - Help Guide
 ## Purpose
 This form is used to collect information about a movie premiere, including contact details of individuals attending, media permission, and screening details.

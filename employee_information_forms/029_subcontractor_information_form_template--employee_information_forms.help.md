@@ -1,8 +1,3 @@
-<thinking>
-Internal purpose: This form is used to collect information about subcontractors working with the organization, including their contact details, employment history, and contract terms. This information is essential for managing subcontractor relationships, payment processing, and compliance with company policies.
-The purpose of this form is to ensure that subcontractors have a clear and accurate understanding of their engagement with the organization, and to provide a standardized template for data collection and analysis.
-</thinking>
-
 # subcontractor_information_form_template - Help Guide
 ## Purpose
 This form is used to collect information about subcontractors working with the organization, including their contact details, employment history, and contract terms.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about participants in a TV series production. It captures details such as participant name, role, contact information, media use, release ownership, participant consent, filming location, production company, and production contact. This form is intended for participants who are involved in TV series productions and need to provide their consent for media use, as well as for production teams to obtain necessary information to manage releases and permissions.
-
-</thinking>
-
 # TV Series Release Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in a TV series production. It's essential to ensure that participants understand their rights and release ownership.

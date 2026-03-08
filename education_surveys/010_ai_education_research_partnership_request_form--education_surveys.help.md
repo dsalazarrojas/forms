@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from potential partners for the AI Education Research Partnership. This form is meant to be a straightforward way to initiate collaboration between the partnership's team and potential partners. The form fields are carefully selected to gather all the necessary information to evaluate the request and assess its feasibility. Before filling out the form, please review the provided fields to ensure you're not duplicating an existing request. This form is not meant to be a general contact form, so please do not submit requests for unrelated partnerships or events.
-</thinking>
-
 # AI Education Research Partnership Request Form - Help Guide
 ## Purpose
 

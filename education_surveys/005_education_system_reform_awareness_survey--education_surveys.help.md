@@ -1,8 +1,3 @@
-<thinking>
-This guide explains the purpose of the Education System Reform Awareness Survey and how to complete it.
-The form is intended to collect information about the respondents' awareness and opinions on education system reform. The goal is to gather data that can be used to improve the education system. To avoid duplication, the form should only be completed once by each respondent. If the form is completed multiple times, the responses may not be accurately reflected in the data.
-</thinking>
-
 # Education System Reform Awareness Survey - Help Guide
 ## Purpose
 The Education System Reform Awareness Survey is designed to gather information from respondents about their awareness and opinions on education system reform. The survey aims to collect data that can be used to identify areas of improvement and make informed decisions about the education system.

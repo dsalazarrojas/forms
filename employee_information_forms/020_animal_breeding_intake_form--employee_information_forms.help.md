@@ -1,5 +1,3 @@
-<thinking>... This form appears to be a comprehensive intake form for animals entering a breeding program. It collects essential information about the animal's owner, breeding goals, and program requirements. Upon reviewing the form structure and field descriptions, I'm assuming it's for dog or animal breeders or owners enrolling their pets in a program. To confirm, I'll need more context or specific instructions to ensure I provide the most accurate and relevant explanation... </thinking>
-
 # Animal Breeding Intake Form - Help Guide
 
 ## Purpose

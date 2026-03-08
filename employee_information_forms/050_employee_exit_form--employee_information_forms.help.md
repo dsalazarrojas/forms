@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees who are leaving their job. The form should be used to gather data on the employer's name, the employee's name, job title, reason for departure, last day of work, and exit date. This form is likely used for HR or administrative purposes, such as tracking employee exit data or creating reports. To avoid duplication of effort, please ensure that this form is only used for employees who are actually leaving their job and not for other purposes, such as internal HR tracking.
-
-</thinking>
-
 # employee_exit_form - Help Guide
 
 ## Purpose

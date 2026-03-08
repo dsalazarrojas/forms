@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees on their role-specific training needs. The purpose of this form is to ensure that training programs are tailored to meet the needs of each role within the organization, thereby improving employee engagement, retention, and overall job satisfaction. By completing this form, employees can provide valuable insights into what they feel they need to excel in their current role, as well as what they would like to see in the future training programs.
-</thinking>
-
 # role_specific_training_needs_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your role-specific training needs and preferences.

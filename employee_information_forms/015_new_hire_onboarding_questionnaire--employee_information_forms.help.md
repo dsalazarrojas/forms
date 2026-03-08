@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's clarify the purpose of this form and ensure you're ready to proceed. This form is designed to gather essential information about new hires, including their contact details, job description, and onboarding process. It's crucial to provide accurate and complete information to facilitate a smooth onboarding experience for the new employee and the team. Please review the form carefully and ensure you're filling out the correct fields.</thinking>
-
 # New Hire Onboarding Questionnaire - Help Guide
 ## Purpose
 The New Hire Onboarding Questionnaire is a form designed to collect information about new employees, ensuring a seamless integration into the company's system and team. This guide will walk you through each section, explaining what each field represents and how to fill it out correctly.

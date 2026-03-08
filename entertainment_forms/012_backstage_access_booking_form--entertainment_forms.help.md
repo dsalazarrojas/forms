@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's quickly review the form's purpose and ensure you're not already familiar with the backstage access request process. This form is designed for event organizers to collect information from individuals seeking backstage access to an event. The form's structure is quite comprehensive, covering various aspects of the access request. To confirm, this form is intended for event organizers, not the event attendees. If you're familiar with this form, feel free to proceed; otherwise, please read on to understand its purpose and usage.</thinking>
-
 # Backstage Access Booking Form - Help Guide
 ## Purpose
 The Backstage Access Booking Form is a tool for event organizers to collect essential information from individuals seeking backstage access to an event. This form helps ensure that all necessary details are gathered for efficient and secure access arrangements.

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form, "remote_employee_offboarding_form", is to track the offboarding status of remote employees and gather feedback on the offboarding process. This form is relevant to employees who are being offboarded from their remote work arrangements, and its completion is optional but recommended for the company to gather valuable insights and improve the offboarding process.
-
-The form is designed to be completed by remote employees, and its fields aim to collect their offboarding status, their rating of the offboarding process, and any comments or feedback they may have.
-
-Before starting, please ensure that the form is not duplicating any existing processes or forms within your organization. This form is an original adaptation of a public survey, and its completion should not replace any other offboarding process you may have in place.
-
-</thinking>
-
 # remote_employee_offboarding_form - Help Guide
 ## Purpose
 The remote_employee_offboarding_form is a tool used to track the offboarding status of remote employees and gather feedback on the offboarding process. This helps the organization to improve and refine the process for future reference.

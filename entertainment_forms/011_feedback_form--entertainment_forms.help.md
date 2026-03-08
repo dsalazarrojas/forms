@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # feedback_form - Help Guide
 
 ## Purpose

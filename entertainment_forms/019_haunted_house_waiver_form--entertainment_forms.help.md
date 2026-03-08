@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals visiting a haunted house attraction, ensuring they provide their consent and details necessary for medical emergencies. Before filling out this form, please ensure you're not submitting duplicate entries, as this form is designed to be completed once per person. This form is intended for one-time use and is not meant to be filled out multiple times by the same individual.
-</thinking>
-
 # haunted-house-waiver-form - Help Guide
 ## Purpose
 This form is used to collect information from individuals visiting a haunted house attraction, ensuring they provide their consent and details necessary for medical emergencies.

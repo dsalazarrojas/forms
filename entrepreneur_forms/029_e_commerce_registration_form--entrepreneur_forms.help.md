@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from online e-commerce store owners and managers. The form is meant to be a comprehensive guide for users to fill out their e-commerce store's registration details. The form is divided into different sections, each focusing on a specific aspect of the store's information. This guide will walk you through each field, explaining what to expect and how to complete it accurately.
-
-</thinking>
-
 # e_commerce_registration_form - Help Guide
 ## Purpose
 The e_commerce registration form is designed to collect essential details from online e-commerce store owners and managers. It is a simple and straightforward form that gathers the necessary information for registering an e-commerce store. The fields included are designed to be easy to fill out, and this guide will explain each field to ensure a smooth and error-free experience.

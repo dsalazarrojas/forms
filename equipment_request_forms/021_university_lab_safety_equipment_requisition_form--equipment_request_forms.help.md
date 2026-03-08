@@ -1,11 +1,3 @@
-<thinking>
-To prevent duplication of effort and ensure accuracy in equipment requests, it's essential to follow a clear and structured process when filling out the "University Lab Safety Equipment Requisition Form". This guide will walk you through the form's purpose, the steps to complete it, and explanations of each field to help you submit a well-rounded request.
-
-Before submitting, please review your department's inventory, lab manager's approval, and the date needed for the equipment to prevent duplication of requests or unnecessary purchases.
-
-This form is designed to streamline the equipment request process for your department and the university. It will help the procurement team understand your needs accurately and efficiently, ensuring timely fulfillment of your requirements.
-</thinking>
-
 # University Lab Safety Equipment Requisition Form - Help Guide
 ## Purpose
 The University Lab Safety Equipment Requisition Form is designed to facilitate the request process for equipment needs in your lab department. It helps ensure that the procurement team gets the necessary information to process your requests efficiently and correctly.

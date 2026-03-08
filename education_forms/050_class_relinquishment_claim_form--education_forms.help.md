@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow students to relinquish their class enrollment and provide a reason for doing so. This process helps the student's academic institution to accurately manage student enrollment and track the reasons for relinquishment. It is essential that this form is filled out carefully and accurately, as it may impact the student's financial aid, graduation timeline, and other relevant factors.
-</thinking>
-
 # Class Relinquishment Claim Form - Help Guide
 
 ## Purpose

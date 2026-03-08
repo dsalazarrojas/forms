@@ -1,8 +1,3 @@
-<thinking>
-The Walkathon Registration Form is designed to collect information from participants for the Walkathon event. This form helps to gather essential details, including participant information, event selection, contribution, and fees, to facilitate a smooth registration process. 
-Before proceeding, please ensure that you have not registered for the same event in the past. If you need to register for the same event again, contact us to resolve the issue.
-</thinking>
-
 # Walkathon Registration Form - Help Guide
 ## Purpose
 This form is designed for participants to register for the Walkathon event. It will help us collect the necessary information to ensure a seamless registration process.

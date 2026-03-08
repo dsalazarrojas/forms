@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from parents or guardians to better understand their comfort level with remote learning, concerns about reopening, support needs, communication preferences, and other relevant details. This form is likely used to inform school leaders and support staff about the needs and concerns of their students and families. Please ensure that this form is filled out for each student and that you are authorized to complete the form on behalf of the student(s). If you are filling out this form for multiple students, be sure to complete each question for each student. Duplicate submissions will not be accepted, please only submit the form once per student.
-</thinking>
-
 # Back To School Parent Survey - Help Guide
 ## Purpose
 This form is intended to collect information from parents or guardians to help us better understand their comfort level with remote learning, concerns about school reopening, and other needs and preferences.

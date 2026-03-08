@@ -1,9 +1,3 @@
-<thinking>
-
-The Adult ADHD Self Report Scale (ASRS V1.1) Symptom Checklist is a comprehensive assessment tool used to evaluate the severity of ADHD symptoms in adults. To ensure that this form accurately represents your experiences, please note that it was designed based on public survey topic metadata and is not affiliated with any proprietary form platforms. The form is divided into two sections: Part A (Core Symptoms) and Part B (Additional Symptoms). Each section contains questions designed to help you rate the frequency of specific symptoms you've experienced over the past 6 months.
-
-</thinking>
-
 # Adult ADHD Self Report Scale (ASRS V1.1) Symptom Checklist - Help Guide
 ## Purpose
 

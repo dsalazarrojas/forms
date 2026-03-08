@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for collecting consent from patients for laser hair removal treatments. It seems to be a comprehensive form covering various aspects of the treatment, including medical history, potential risks, and contact information in case of emergencies. This form aims to ensure that the patient is aware of the treatment process, potential risks, and has provided necessary contact information for emergency situations. I will now create a user-facing help guide for this form.
-</thinking>
-
 # Laser Hair Removal Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients before undergoing laser hair removal treatment. It covers important details about their medical history, potential risks, and contact information for emergency situations.

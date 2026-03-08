@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the Employee Wellbeing Audit Initiative, a tool aimed at identifying and addressing potential wellbeing issues among employees. The form is designed to gather information about employees' work status, job title, location, and any wellbeing issues they may be experiencing. This information will be used to provide support and guidance to employees who may be struggling.
-</thinking>
-
 # Employee Wellbeing Audit Initiative Application Form - Help Guide
 ## Purpose
 The Employee Wellbeing Audit Initiative Application Form is a tool used to gather information about employees' work status, job title, location, and any wellbeing issues they may be experiencing. The information collected will be used to provide support and guidance to employees who may be struggling.

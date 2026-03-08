@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help talent sign up for virtual events. The purpose of this form is to collect information from performers who wish to participate in virtual events. This form is not intended for other purposes and is only used for talent sign-ups.
-</thinking>
-
 # Virtual Event Talent Sign Up Form - Help Guide
 ## Purpose
 The Virtual Event Talent Sign Up Form is designed to collect information from performers who want to sign up for virtual events. This form is used to gather the necessary details for talent management and event organization.

@@ -1,11 +1,3 @@
-<thinking>
-To ensure that the volunteer application form accurately captures the necessary information for volunteer opportunities, we must consider the following:
-- The form is intended to gather data from potential volunteers about their personal details, availability, and motivations for volunteering.
-- Each field should be clearly explained to prevent confusion and ensure that the information collected is relevant and non-duplicative.
-- The form should be easy to navigate and complete.
-
-</thinking>
-
 # Volunteer Application Form - Help Guide
 
 ## Purpose

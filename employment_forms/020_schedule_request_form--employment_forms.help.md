@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request approval for a schedule request, which is a process where an employee can request time off or changes to their schedule. The form is filled out by both the employee and their manager, ensuring that both parties are in agreement with the requested schedule changes. This guide will walk you through the fields and how to fill them out correctly.</thinking>
-
 # Schedule Request Form - Help Guide
 ## Purpose
 The Schedule Request Form is used to request approval for schedule changes. This form is used by employees to request time off or changes to their schedule and requires approval from their manager.

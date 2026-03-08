@@ -1,7 +1,3 @@
-<thinking>
-To determine if this form is suitable for the task, let's analyze its purpose and required fields. This form seems to be related to the maintenance and installation of a quick release steering wheel, which is a specific type of component in the vehicle's steering system. It is likely used to record information about the installation of a quick release steering wheel on a vehicle, which includes details about the customer, vehicle, installation notes, and other relevant information. The required fields are not explicitly specified in the YAML input, so we will assume that all fields are optional. The purpose of this form is to provide a standardized way for mechanics to gather and record information about the installation of quick release steering wheels on vehicles. It is possible that this form is used in a maintenance or repair context. We will not be duplicating any existing forms or tasks as there is no indication that a similar form is already being used in the organization.
-</thinking>
-
 # Quick Release Steering Wheel Installation Checklist - Help Guide
 ## Purpose
 This form is used to gather and record information about the installation of a quick release steering wheel on a vehicle. It will help mechanics to standardize the process and ensure that all necessary information is collected.

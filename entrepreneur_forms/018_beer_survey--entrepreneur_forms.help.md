@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beer Survey - Help Guide
 
 ## Purpose

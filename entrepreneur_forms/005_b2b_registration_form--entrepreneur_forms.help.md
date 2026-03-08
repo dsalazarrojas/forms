@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Here is the final help guide for the B2B Registration Form:
 
 # B2B Registration Form - Help Guide

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block ...
-
-This form is intended to collect information from a new client who is requesting assistance. The form will gather basic contact information and details about their needs. Please ensure you only submit a single entry per new client. Duplicate submissions will not be accepted.
-
-</thinking>
-
 # new_client_request_form - Help Guide
 ## Purpose
 The new client request form is designed to collect information from clients who require assistance. This form will help us gather essential details about the client, including their name, contact information, and specific needs.

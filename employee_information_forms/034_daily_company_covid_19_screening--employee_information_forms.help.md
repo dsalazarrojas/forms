@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help companies screen their employees for potential COVID-19 symptoms and risks. It's a crucial tool to identify and address potential outbreaks within the organization. This guide will explain how to complete the form, what each field means, and provide tips to ensure accurate and efficient completion.
-</thinking>
-
 # Daily Company Covid 19 Screening - Help Guide
 ## Purpose
 This form is intended to collect information about employees' potential exposure to COVID-19, including symptoms and travel history. The data collected will help the company take necessary precautions to maintain a safe working environment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Emergency Contact Information Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential contact information from parents or guardians of students in case of an emergency. This form is meant to be filled out by parents or guardians to provide the school with important contact details in case their child needs to be contacted during an emergency.

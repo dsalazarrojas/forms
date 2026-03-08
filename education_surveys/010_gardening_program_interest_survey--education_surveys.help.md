@@ -1,8 +1,3 @@
-<thinking>
-This form is used by users to express their interest in various gardening programs, including Gardening, Horticulture, Landscaping, Conservation, Environmental science, and other programs. The form is designed to collect information about the type of program the user is interested in, their availability in terms of time of year and time of day, their contact information, the type of learning they prefer, and any additional notes they may have. This form is used to gauge interest in these programs and to gather contact information for further communication. Please ensure you have the necessary permissions to access and use this form.
-
-</thinking>
-
 # Gardening Program Interest Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your interest in various gardening programs.

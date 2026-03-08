@@ -1,22 +1,3 @@
-<thinking>
-This help guide is intended to assist employees in completing the Employee Attitude Survey form. The purpose of this form is to gather feedback and insights from employees about their work experience, work environment, and overall job satisfaction. This survey is designed to be completed on a regular basis to help management understand employee sentiment and make informed decisions to improve work conditions.
-
-Before starting, please note that this form is not a performance evaluation or a formal assessment tool. It is a tool for employees to express their thoughts and feelings about their work experience.
-
-To ensure consistency, please complete the form with the same frequency and in the same format as other employees in the organization.
-
-The form is divided into several sections:
-
-1.  "How was your day today?"
-2.  Rating questions (Manager, Team, Work Environment, and Work-Life Balance)
-3.  Feedback and suggestions
-4.  Contact information
-5.  Comments and comments
-
-Please answer the questions honestly, and feel free to provide any additional comments or feedback you have.
-
-</thinking>
-
 # Employee Attitude Survey - Help Guide
 ## Purpose
 The Employee Attitude Survey is designed to gather feedback and insights from employees about their work experience, work environment, and overall job satisfaction.

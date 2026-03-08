@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help employees report incidents involving damaged utility equipment or infrastructure. The purpose of this form is to collect information about the incident, including the incident date, location, type of damage, and any relevant comments or photos. This form is not intended to be used for other purposes, such as reporting maintenance requests or work orders. Please ensure that you are using this form only for reporting incidents involving damaged utility equipment or infrastructure, and not for other purposes.
-</thinking>
-
 # Damaged Utility Reporting Form - Help Guide
 ## Purpose
 The Damaged Utility Reporting Form is used to report incidents involving damaged utility equipment or infrastructure to the relevant maintenance team. This form is designed to collect relevant information to facilitate prompt attention and resolution to the issue.

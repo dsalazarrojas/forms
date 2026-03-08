@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to provide a structured way for curators or proposers to submit their art exhibit curation requests to an art organization or institution. This form will help to gather essential information about the exhibit, including the curator's contact details, exhibit concept, title, and logistical requirements. By using this form, the organization can efficiently review and assess the feasibility of the exhibit, and potentially provide guidance and support to the curator.
-To avoid duplication of effort, please note that the organization already has an existing exhibit curation process in place. However, this form will help to streamline and improve the process for curators and proposers, and ensure that all relevant information is captured accurately and efficiently.
-</thinking>
-
 # Art Exhibit Curation Request Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way for curators or proposers to submit their art exhibit curation requests to the art organization. This form helps to gather essential information about the exhibit, including the curator's contact details, exhibit concept, title, and logistical requirements.

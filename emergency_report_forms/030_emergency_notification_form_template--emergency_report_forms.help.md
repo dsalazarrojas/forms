@@ -1,5 +1,3 @@
-<thinking>Before proceeding, let's confirm that this form is intended for emergency notifications, and that all necessary information will be collected for incident reporting and response. This form is not meant for general contact or non-emergency purposes. Each field is carefully designed to gather specific details about the incident, contact, and response. It's crucial to fill out this form accurately and thoroughly.</thinking>
-
 # emergency_notification_form_template - Help Guide
 ## Purpose
 The emergency notification form is used to report and document emergency incidents. It provides a structured format for collecting crucial information, such as the incident location, time, and severity, as well as the contact details of the reporting party and witness.

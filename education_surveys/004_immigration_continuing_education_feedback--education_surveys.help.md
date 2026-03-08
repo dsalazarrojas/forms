@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Immigration Continuing Education Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on a continuing education session on immigration, ensuring that the content is relevant and meets the needs of attendees. This form helps to evaluate the session's goals, content, and format, as well as provide information about the speaker and attendees.

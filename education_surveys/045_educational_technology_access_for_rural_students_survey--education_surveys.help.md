@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will provide a user-friendly guide that explains the purpose and functionality of the Educational Technology Access For Rural Students Survey form. This guide will walk users through each field, explaining what to expect and how to complete the form correctly. Please note that this form is designed to collect information about the accessibility of educational technology in rural schools and will help policymakers and educators better understand the needs and challenges faced by students in these settings.</thinking>
-
 # Educational Technology Access For Rural Students Survey - Help Guide
 ## Purpose
 The Educational Technology Access For Rural Students Survey is designed to gather data about the availability and accessibility of educational technology in rural schools. This form will help policymakers and educators understand the needs and challenges faced by students in these settings, allowing them to make informed decisions about resource allocation and technology infrastructure development.

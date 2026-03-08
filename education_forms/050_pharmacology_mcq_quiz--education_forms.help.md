@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to evaluate a user's knowledge in pharmacology through a multiple-choice quiz. It is meant to be completed by individuals with knowledge in pharmacology, such as students, researchers, or medical professionals. To ensure the integrity of the results, please do not attempt to complete this form unless you have a strong foundation in pharmacology. If you are not an expert in pharmacology, please do not attempt to complete this form as your answers may not be accurate. Additionally, please note that the form is designed to be completed only once. If you have already completed this form, please do not attempt to complete it again.
-
-To complete this form, simply follow the instructions for each question, and select the most appropriate answer based on your knowledge in pharmacology. If you are unsure of an answer, please choose the option that best represents your guess, but be aware that this may affect the accuracy of your results.
-
-Please ensure that you complete each question thoroughly, as the form is designed to assess your knowledge in pharmacology. If you need to review or change an answer, please do not proceed without doing so.
-</thinking>
-
 # Pharmacology MCQ Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate a user's knowledge in pharmacology through a multiple-choice quiz.

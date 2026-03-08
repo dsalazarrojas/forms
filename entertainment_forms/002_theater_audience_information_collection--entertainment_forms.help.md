@@ -1,17 +1,3 @@
-<thinking>
-This form appears to be for collecting information about theater audience members, likely for events or performances held at a theater. The form likely aims to gather contact and demographic details about the attendees, such as their names, email addresses, and phone numbers.
-
-The purpose of this form could be to:
-
-1. Create an attendance list for the theater's event management system.
-2. Build an email list for future promotions, events, and announcements.
-3. Gather feedback from attendees for evaluation purposes.
-
-It's essential to check if this form is not a duplicate or a redundant form within the system to avoid data duplication.
-
-Please proceed with creating the help guide as per the specified structure.
-</thinking>
-
 # Theater Audience Information Collection - Help Guide
 ## Purpose
 Theater Audience Information Collection form is designed to gather information from individuals attending events or performances at the theater. It will help the theater management to create an attendance list, build an email list for future promotions and events, and gather feedback for evaluation purposes.

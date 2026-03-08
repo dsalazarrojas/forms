@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to determine their fit for an MBA specialization program. It is intended to help users identify their background, experience, interests, and motivation for pursuing a specific MBA program. This form is likely to be used by admission officers to assess the suitability of a candidate for the program. The form should be filled out by users who are seriously considering enrolling in the program.
-
-This guide will explain each section and field in the form, and provide guidance on how to complete it accurately and efficiently.
-
-The following fields are required to be completed, while others are optional. Please fill out this form carefully, and provide as much detail as possible.
-
-</thinking>
-
 # MBA Specialization Fit Survey - Help Guide
 ## Purpose
 This form is designed to help admission officers understand your background, experience, and motivation for pursuing an MBA program. Your responses will be used to assess your suitability for the program.

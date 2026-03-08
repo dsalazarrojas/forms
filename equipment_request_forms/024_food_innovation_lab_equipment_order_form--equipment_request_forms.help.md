@@ -1,10 +1,3 @@
-<thinking>
-To create this form, I analyzed the provided YAML file and inferred the form's purpose and structure. The form appears to be a tool for users to request equipment from a food innovation lab. The purpose of the form is likely to allow users to submit information about the equipment they need, and the lab administrators can process these requests to fulfill the users' needs.
-
-I also checked for any redundancy or unnecessary fields and noticed that all fields are currently set to text type, which may not be the most ideal format for collecting information. However, based on the provided YAML, I will proceed with creating a user-facing help guide in Markdown format.
-
-</thinking>
-
 # Food Innovation Lab Equipment Order Form - Help Guide
 ## Purpose
 The Food Innovation Lab Equipment Order Form is a tool for requesting equipment from the food innovation lab. To use this form, please follow the instructions below.

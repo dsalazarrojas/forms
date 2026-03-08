@@ -1,5 +1,3 @@
-<thinking>First, let's ensure this form is only accessed when it's relevant for the user and not a redundant task. This form should be filled out when an employee wants to request a performance bonus for a specific period or milestone, and they should only see these questions if they indeed need a bonus. For this form, the purpose is not to request a general bonus, but rather for requesting a bonus for a particular event or achievement. By checking this form out, users will be aware they are requesting a bonus for a specific performance, rather than for general or routine reasons. If users are already familiar with this process, this guide is for their reference. If not, please proceed below for a step-by-step guide on how to correctly complete this form.</thinking>
-
 # Performance Bonus Request Form - Help Guide
 ## Purpose
 The Performance Bonus Request Form is designed to allow employees to request a bonus for a specific performance-related achievement or milestone. This form should only be used when an employee wants to request a bonus for a particular event or achievement.

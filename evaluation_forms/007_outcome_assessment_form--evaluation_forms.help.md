@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the outcome and effectiveness of a program, intervention, or project. It is used to evaluate the degree of impact, effectiveness, and time frame of an event or program. The form is intended to be filled out by a designated person or team. The form may ask for redundant or similar information, so please make sure to fill it out accurately and consistently. 
-</thinking>
-
 # Outcome Assessment Form - Help Guide
 ## Purpose
 The Outcome Assessment Form is used to evaluate the outcome and effectiveness of a program, intervention, or project. It collects information on the impact, effectiveness, and time frame of an event or program.

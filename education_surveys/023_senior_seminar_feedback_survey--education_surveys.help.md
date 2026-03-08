@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather feedback about senior seminars, likely a type of educational or training session. The purpose is to collect information on the attendees' experiences and opinions about the seminar, which can help organizers or facilitators improve future events. It's likely that the form will be used internally within an organization or company to evaluate the effectiveness of their educational programs. It's worth noting that the form does not collect sensitive or personal data, and the responses are not intended to be used for any purpose other than improving the seminars.
-
-Before filling out this form, please make sure you have attended a senior seminar and are providing feedback on that specific event. This will help ensure that the feedback is relevant and useful to the organizers.
-</thinking>
-
 # Senior Seminar Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback about senior seminars. Your responses will help seminar organizers and facilitators improve future events.

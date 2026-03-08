@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users express their personal wishes or preferences for a specific category, such as a birthday list or a gift list. This form is likely to be used in an entertainment setting, where users may be creating lists for parties or events. The form is not intended to be a complex or technical form, but rather a simple way to gather information from users. Before completing this form, please make sure you have not already expressed this wish or preference in a previous form. If you are unsure, you can always check your previous responses to ensure consistency.
-</thinking>
-
 # wish_list_template - Help Guide
 ## Purpose
 The wish_list_template is a form designed to collect personal wishes or preferences for a specific category. This form is intended to be used in an entertainment setting, such as birthday parties or events.

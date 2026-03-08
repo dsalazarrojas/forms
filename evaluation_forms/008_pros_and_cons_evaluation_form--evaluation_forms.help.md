@@ -1,10 +1,3 @@
-<thinking>
-This form is used for evaluating the pros and cons of a particular idea, product, or service. The form is divided into several sections, each designed to capture specific aspects of the evaluation. The purpose of this form is to gather data to help users weigh the advantages and disadvantages of the given subject.
-
-The form consists of several fields that are explained in detail below.
-
-</thinking>
-
 # pros_and_cons_evaluation_form - Help Guide
 ## Purpose
 The pros and cons evaluation form is designed to help users evaluate the advantages and disadvantages of a particular idea, product, or service.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about employee complaints. It's intended for employees to report incidents or issues they've experienced within the organization. This form should only be used for reporting complaints that are not resolved through internal channels. Please ensure that you're not duplicating a complaint that's already been reported.
-
-</thinking>
-
 # Employee Complaint Form - Help Guide
 ## Purpose
 The Employee Complaint Form is a tool to help employees report and document incidents or issues they have experienced within the organization. This form should be used to report complaints that are not resolved through internal channels.

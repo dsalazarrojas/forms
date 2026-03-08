@@ -1,5 +1,3 @@
-<thinking>...To create a user-facing help guide for the Film Production Assistant Onboarding Form, I need to understand the form's purpose and the fields it contains. From the provided YAML input schema, I will extract the relevant information and structure it into a concise and practical guide for end-users to complete the form correctly...</thinking>
-
 # Film Production Assistant Onboarding Form - Help Guide
 ## Purpose
 The Film Production Assistant Onboarding Form is designed to collect details about production assistants, including their availability, experience, and contact information. This form helps the production team onboard new assistants efficiently and effectively.

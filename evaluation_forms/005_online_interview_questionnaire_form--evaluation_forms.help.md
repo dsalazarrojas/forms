@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended for users who need to understand the purpose and usage of the online-interview-questionnaire-form, as well as how to complete it accurately and efficiently.
-This guide is meant to be a reference for individuals who are not familiar with the form's structure and requirements.
-Please note that this form is designed to collect information and feedback from users, and it is crucial to fill it out correctly to ensure that the data collected is accurate and helpful.
-Before proceeding, ensure that you are familiar with the form's purpose and that you have all the necessary information to complete it accurately.
-</thinking>
-
 # online-interview-questionnaire-form - Help Guide
 ## Purpose
 The online-interview-questionnaire-form is designed to collect demographic and contact information, as well as feedback and preferences from users. It is used to gather data that helps us better understand the audience and improve our services.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather information from stakeholders about their engagement with a project. It is essential to fill out this form to ensure that project managers and team members are aware of the stakeholders' opinions and concerns. Before completing this form, please ensure that you are not a duplicate entry. This form is designed to collect data for internal purposes only and will not be shared with any external parties. Please only fill out the form once per stakeholder.
-</thinking>
 # Stakeholder Engagement Survey Form - Help Guide
 
 ## Purpose

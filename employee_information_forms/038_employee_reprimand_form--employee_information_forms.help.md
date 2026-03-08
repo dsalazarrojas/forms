@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to document and process instances of employee reprimand, which is an action taken by management to address misconduct or unsatisfactory performance by an employee. This form will serve as a formal record of the incident, allowing management to track and evaluate employee actions and performance.
-
-Before using this form, please ensure that you are not already using a similar form for the same purpose, and that you have the necessary permissions and authority to complete this form.
-
-To complete this form, follow the steps below:</thinking>
-
 # Employee Reprimand Form - Help Guide
 ## Purpose
 The Employee Reprimand Form is used to document and process instances of employee reprimand, which is an action taken by management to address misconduct or unsatisfactory performance by an employee.

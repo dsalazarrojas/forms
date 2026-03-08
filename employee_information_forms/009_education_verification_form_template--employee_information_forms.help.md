@@ -1,16 +1,3 @@
-<thinking>
-We are creating this guide to help users understand how to complete the Education Verification Form Template in a way that is clear and easy to follow. This form is designed to collect information about an employee's educational background and verify certain aspects of their credentials. 
-
-The form is used to gather data from employees on their educational history, including their name, school attended, graduation date, degree earned, field of study, GPA, and other relevant details. It also asks about transcript and diploma requests, as well as the status of degree verification. 
-
-We aim to minimize duplication and ensure all required fields are completed accurately. By following this guide, users will be able to complete the form with ease and ensure that the information collected is accurate and relevant. 
-
-Please note that while the form asks for certain fields to be completed as 'True' or 'False', these are not boolean values and may need to be interpreted as such depending on the specific context. 
-
-Also, please ensure that users understand that certain fields may be dependent on others being filled out correctly. For example, certain options may be available only if other fields are answered in a particular way. This will help ensure accurate and correct data is collected.
-
-</thinking>
-
 # Education Verification Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's educational background and verify certain aspects of their credentials.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for individuals responsible for completing the Trunk or Treat Registration Form, which is used to gather information for the Trunk or Treat event. This form is used to collect details about attendees, including their name, contact information, and vehicle information. The form is not designed to be a comprehensive demographic survey, and most fields are optional. Please ensure that the information you provide is accurate and up-to-date, as it will be used for event planning and communication.
-</thinking>
-
 # Trunk or Treat Registration Form - Help Guide
 ## Purpose
 The Trunk or Treat Registration Form is a simple form used to collect information from attendees about themselves and their children. This information will help us better plan and manage the Trunk or Treat event.

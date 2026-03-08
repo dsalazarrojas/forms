@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information on the disaster recovery plan for an organization. The purpose of this form is to gather details on the recovery strategies, personnel involved, services affected, restoration time, personnel contacts, restoration services, recovery plan status, and additional notes related to the disaster recovery plan.
-</thinking>
-
 # Disaster_recovery_plan_form - Help Guide
 
 ## Purpose

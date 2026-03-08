@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to assist users in providing their genuine feedback for the application. The goal of the survey is to gather valuable insights from users on their experiences with the app, including their overall satisfaction, ratings, and suggestions for improvement. This information will help the developers to better understand the user's needs and preferences and make necessary changes to improve the app's features and overall user experience.
-
-To ensure the collected feedback is accurate and relevant, please only fill out this survey if you have used the app and have a genuine opinion about it.
-
-The survey is designed to be completed by users who have a strong opinion about the app and are willing to share their thoughts and suggestions.
-
-Please note that the answers provided in this survey will be kept confidential and used solely for the purpose of improving the app.
-
-</thinking>
-
 # App Feedback Survey - Help Guide
 ## Purpose
 

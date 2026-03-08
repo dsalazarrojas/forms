@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disaster Recovery Plan Absence Form - Help Guide
 ## Purpose
 This form is used to report employee absences during a disaster recovery plan. It captures essential information about the employee's emergency contact details, absence status, and other relevant details. Please use this form to report your absence accurately and in a timely manner.

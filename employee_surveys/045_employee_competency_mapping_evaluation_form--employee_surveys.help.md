@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating an employee's competencies and creating a performance plan. The purpose of this form is to assess an employee's skills and abilities, identify areas for development, and create a plan for improvement. Before completing this form, please ensure that you have a clear understanding of the employee's current strengths and weaknesses, as well as their goals and objectives. Please note that some fields are required to be completed for accurate submission.
-</thinking>
-
 # Employee Competency Mapping Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate an employee's competencies and create a performance plan, helping identify areas for development and improvement.

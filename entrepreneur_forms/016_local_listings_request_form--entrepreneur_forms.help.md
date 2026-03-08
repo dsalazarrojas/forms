@@ -1,18 +1,3 @@
-<thinking>
-This form appears to be designed for entrepreneurs to submit local listings information such as business details, contact information, and categorization. The form is likely used to populate a business directory or listings platform. Each section should be completed in its entirety to ensure the submission is successful.
-
-To avoid duplication, users should verify that they are not submitting a new listing for the same business.
-
-The fields are split into two categories: "Personal Information" and "Business Details". 
-
-The Personal Information section includes fields for "First Name", "Last Name", "Email", "Phone", and "Location". 
-
-The Business Details section includes fields for "Business Name", "Business Type", "Category", "Sub Category", "URL", and "Image" and "Description".
-
-Note that the "Image" field is optional, suggesting it's not a required field for the submission.
-
-</thinking>
-
 # local_listings_request_form - Help Guide
 ## Purpose
 The purpose of this form is for entrepreneurs to submit local listings information for a business directory or listings platform.

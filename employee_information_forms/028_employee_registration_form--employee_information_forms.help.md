@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to register employee information to be used for internal administrative and HR purposes. This includes collecting personal details such as name, contact information, and job-related data like job title, department, and job type. The goal is to create a comprehensive record of new and existing employees for easy access and management.
-
-Before proceeding, please ensure that you have not already registered this employee. If you are updating an existing employee's information, please use the "Update Employee" form instead.
-
-</thinking>
-
 # Employee Registration Form - Help Guide
 ## Purpose
 The Employee Registration Form is used to collect and store employee information for internal administrative and HR purposes. This form helps us keep track of new and existing employees, their job details, and contact information.

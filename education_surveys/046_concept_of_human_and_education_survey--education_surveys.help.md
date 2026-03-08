@@ -1,7 +1,3 @@
-<thinking>
-I'll create a user-facing help guide for the "Concept Of Human And Education Survey" form. This form is designed to gather information on the role of education in human development, covering various aspects such as respondent affiliation, the importance of education, and its primary purpose. The form is not affiliated with any specific platform and is open-source under CC BY 4.0.
-</thinking>
-
 # Concept Of Human And Education Survey - Help Guide
 ## Purpose
 This form is designed to collect opinions and views on the role of education in human development. It aims to understand the respondent's perception of the importance and purpose of education, as well as their suggestions for improvement.

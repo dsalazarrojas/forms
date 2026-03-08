@@ -1,10 +1,3 @@
-<thinking>
-This form is a tool for uploading screenplays to a platform for sharing and reviewing scripts. The purpose of this form is to facilitate the submission of screenplays for festivals, programs, or other forms of production companies. It is intended for authors to provide information about their scripts, including the title, author name, and contact email. The form also allows authors to upload their screenplay files and select the type of production company or festival they are submitting to. 
-
-Please note that this form is not affiliated with any specific form platform, and the fields and options are designed based on the provided metadata. This form can be used as is or modified to suit specific needs.
-
-</thinking>
-
 # Screenplay Upload Form - Help Guide
 ## Purpose
 The Screenplay Upload Form is a tool for uploading and submitting screenplays to festivals, programs, or production companies.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the impact of a mentorship program. The purpose of this form is to gather information on the program's effectiveness, outcomes, and areas of improvement. It is intended for participants, mentors, and supervisors to provide feedback on their experiences and perceptions of the program. The form is used to track progress and provide insights for program development and improvement.
-</thinking>
-
 # Mentorship Program Impact Evaluation Form - Help Guide
 ## Purpose
 The Mentorship Program Impact Evaluation Form is a tool used to assess the effectiveness and outcomes of a mentorship program. It gathers feedback from participants, mentors, and supervisors to understand the program's strengths and weaknesses. This form is essential for program improvement, development, and evaluation.

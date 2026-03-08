@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be an onboarding assessment form for new hires. It captures various pieces of information that will help HR or administrative staff assess and onboard new employees. However, there's a potential issue here: some of the form fields might be redundant or unnecessary, and the labels are somewhat weak. For instance, the 'employee_id' field is a number type, which might imply a specific ID system, but it's not immediately clear what this ID is for. Similarly, the 'manager_email' and 'manager_phone_number' fields might be redundant with the 'manager_name' field, which already captures the manager's name. I'll do my best to explain each field's purpose without introducing assumptions or inventing business logic. I'll assume that the 'New Hire Onboarding Assessment Form' is used for a general onboarding process and will provide explanations based on the provided YAML fields.</thinking>
-
 # New Hire Onboarding Assessment Form - Help Guide
 ## Purpose
 The New Hire Onboarding Assessment Form is designed to capture essential information about a new hire during the onboarding process. This form helps HR or administrative staff assess and onboard new employees efficiently.

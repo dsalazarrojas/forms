@@ -1,12 +1,3 @@
-<thinking>
-The Energy Credit Authorization Form is used for obtaining energy credits from the government or other organizations that provide incentives to reduce energy consumption and expenses. Energy credits can be in the form of credits, rebates, or incentives. This form is used to provide the necessary information required for energy credit applications. It is essential to fill out the form accurately and completely, as any missing or incorrect information may result in rejected applications.
-
-Before starting, please ensure that you have all the required information and that the form is completed for the correct purpose. If you are unsure about any of the fields, please refer to this help guide.
-
-Please note that some fields are required to be completed, and missing or incorrect information may lead to rejected applications. Make sure to review this help guide before proceeding.
-
-</thinking>
-
 # Energy Credit Authorization Form - Help Guide
 ## Purpose
 This form is used for obtaining energy credits from the government or other organizations that provide incentives to reduce energy consumption and expenses.

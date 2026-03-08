@@ -1,12 +1,3 @@
-<thinking>
-
-The Business Diagnosis Questionnaire is a form designed to help entrepreneurs and business owners assess the current state of their business, identifying areas of strength, weakness, opportunities, and threats. This guide will walk you through the form's purpose, how to complete it, and what each field represents.
-
-**Internal Reasoning Block:**
-Before proceeding, let's ensure that this form is relevant and necessary for the current business situation. This form is ideal for businesses that are experiencing difficulties or want to gauge their performance in different areas. If you're not facing any issues or don't see your business as a candidate for this assessment, please consider our other forms or services that can help you with your current goals.
-
-</thinking>
-
 # Business Diagnosis Questionnaire - Help Guide
 ## Purpose
 The Business Diagnosis Questionnaire is a tool designed to help businesses identify their current state, strengths, weaknesses, opportunities, and threats. This form will guide you through questions about your business's financials, operations, and overall health.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nursing Skills Checklist Form - Help Guide
 
 ## Purpose

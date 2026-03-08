@@ -1,9 +1,3 @@
-<thinking> 
-This form is designed to help users quickly estimate the packing quantity for a given move. It is intended for internal use within the organization, and its purpose is to simplify the process of planning and estimating the quantity of items to be packed for a move. 
-The form is not intended for external users, and its primary function is to assist internal staff in performing their daily tasks. 
-No other form with a similar purpose exists within the system. 
-</thinking>
-
 # Packing Quantity Estimator - Help Guide
 ## Purpose
 The Packing Quantity Estimator form is a tool designed to assist internal staff in estimating the quantity of items to be packed for a move. It is intended to simplify the planning process and ensure accurate quantities are provided to relevant teams and stakeholders.

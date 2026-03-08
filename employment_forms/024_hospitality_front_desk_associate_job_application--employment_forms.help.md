@@ -1,14 +1,3 @@
-<thinking>
-To determine if this form is relevant and to avoid duplication, let's analyze the provided YAML fields.
-
-The form is for a job application, specifically for a front desk associate position in a hospitality setting. It requests personal information, such as name, email, contact phone number, date of birth, address, and job title. Additionally, it asks about the applicant's availability and preferred shift.
-
-Given the structure of the form, it's likely that this is a general employment application, and not a duplicate of another form with similar information. The fields seem to be comprehensive for a hospitality front desk associate position, covering basic contact information, job title, and work schedule preferences.
-
-To proceed, the form purpose is to gather information from individuals interested in applying for a front desk associate position in a hospitality setting. The form will help the hiring team assess the applicant's qualifications and suitability for the role.
-
-</thinking>
-
 # Hospitality Front Desk Associate Job Application - Help Guide
 ## Purpose
 This form is for individuals interested in applying for a front desk associate position in a hospitality setting. It collects basic contact information, job title, and work schedule preferences to help the hiring team assess the applicant's qualifications and suitability for the role.

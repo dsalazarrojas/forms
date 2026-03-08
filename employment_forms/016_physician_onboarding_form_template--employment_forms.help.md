@@ -1,11 +1,3 @@
-<thinking>
-This form template is designed to collect information from physicians during the onboarding process. It covers essential details such as user information, contact information, medical credentials, work experience, education background, medical specialties, language skills, and additional details. This template aims to streamline the onboarding process for physicians, ensuring that all necessary information is captured accurately and efficiently. 
-
-The form's structure allows for flexibility in terms of required fields, with the option to include or exclude sections based on specific needs. The medical specialties and language skills fields use select multiple options, enabling users to choose one or more relevant options. 
-
-Before proceeding, ensure that the form is relevant to your organization's onboarding process and does not duplicate any existing forms. Please review and adapt the form according to your specific needs.
-</thinking>
-
 # Physician Onboarding Form Template - Help Guide
 ## Purpose
 This form is designed to collect essential information from physicians during the onboarding process, ensuring accurate and efficient data capture.

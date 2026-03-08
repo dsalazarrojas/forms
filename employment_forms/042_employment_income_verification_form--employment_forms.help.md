@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employment Income Verification Form - Help Guide
 ## Purpose
 The "Employment Income Verification Form" is designed to provide information about an employee's employment status, income details, and company information. This form is typically used for tax purposes, benefits verification, or other employment-related activities. Please ensure that the information provided is accurate and up-to-date, as this form may be used to support important decisions or actions.

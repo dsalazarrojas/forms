@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for employees to attested their information for payroll and HR purposes. The information collected will be used for payroll processing, employee data management, and other organizational records. This form should not be filled out multiple times, as it is meant to be a one-time process for employees to update their information. Please ensure you have all the necessary details before starting, as it is easier to complete in one sitting rather than having to come back later.
-
-</thinking>
-
 # Employee Attestation Form - Help Guide
 ## Purpose
 The Employee Attestation Form is used for employees to update their personal and employment details for payroll and HR purposes.

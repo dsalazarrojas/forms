@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Benefits Program Evaluation Form - Help Guide
 
 ## Purpose

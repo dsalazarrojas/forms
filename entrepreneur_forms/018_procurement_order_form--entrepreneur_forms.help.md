@@ -1,9 +1,3 @@
-<thinking>
-The form "procurement_order_form" is intended to collect information from customers or clients to place an order for a procurement or purchase. The form is typically used in a business-to-business (B2B) or business-to-consumer (B2C) setting to facilitate the ordering process. To avoid duplication, please ensure that the information collected through this form is not already available in your system or from previous interactions. The form's fields should be filled out accurately and completely to ensure that the ordering process is smooth and efficient.
-
-The form consists of 8 pages with the following fields:
-</thinking>
-
 # procurement_order_form - Help Guide
 ## Purpose
 The procurement_order_form is used to collect information from customers or clients to place an order for a procurement or purchase.

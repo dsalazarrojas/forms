@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect various types of information from users, including user input, video upload, photo upload, description, category selection, tags, submission date, video duration, file upload, email, phone, note, and select multiple options. The form is used to gather data for entertainment-related purposes, such as events, contests, or showcases. To ensure data consistency and accuracy, please ensure that you complete the form with accurate and relevant information.
-</thinking>
-
 # Video And Photo Submission Form - Help Guide
 ## Purpose
 This form is used to collect information from users for entertainment-related purposes, such as events, contests, or showcases.

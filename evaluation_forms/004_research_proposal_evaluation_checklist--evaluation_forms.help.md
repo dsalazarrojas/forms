@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for evaluating research proposals, likely for a scientific or academic context. The form has multiple fields that cater to different aspects of the proposal, including the introduction, research question, methodology, expected outcomes, timeline, evaluation criteria, and budget estimates. The form is comprehensive and covers various aspects of a research proposal. I'm going to assume that this form is used to ensure that research proposals are evaluated consistently and fairly. It's possible that this form is used in conjunction with other evaluation forms or as a standalone tool for assessing research proposals. The form doesn't seem to be redundant, and each field is designed to elicit specific information from the reviewer. I'll create a help guide that explains each field in detail, assuming that the reviewer is familiar with the research proposal evaluation process.</thinking>
-
 # Research Proposal Evaluation Checklist - Help Guide
 ## Purpose
 The Research Proposal Evaluation Checklist is a comprehensive form used to evaluate research proposals submitted for funding or review. This form helps ensure that each proposal is evaluated consistently and fairly, considering various aspects of the project.

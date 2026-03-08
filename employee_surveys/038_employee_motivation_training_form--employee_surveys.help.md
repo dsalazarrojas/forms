@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Motivation Training Form - Help Guide
 
 ## Purpose

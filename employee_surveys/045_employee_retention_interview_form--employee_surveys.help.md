@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about employee retention and satisfaction within the company. It is meant to be completed by current employees to provide their thoughts, feelings, and experiences with their job and the company. This data will help management understand what employees like and dislike about their job, what they value most, and what they see as areas for improvement. The goal is to create a better work environment and improve employee retention.
-
-Please note that this form is not intended for external use, and the information collected will be used internally by the company to make data-driven decisions and improvements.
-
-Before you start, please make sure you have not already completed this survey. If you have, your input will not be recorded.
-</thinking>
-
 # Employee Retention Interview Form - Help Guide
 ## Purpose
 This form is designed to help us understand your thoughts, feelings, and experiences about your job and the company. Your feedback is crucial in helping us create a better work environment and improve employee retention.

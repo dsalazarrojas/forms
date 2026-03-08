@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's preferences and habits related to laptops. It's meant to help us better understand user needs and preferences when designing and recommending laptops. This form is not meant to be filled out by non-technical users, so the questions are focused on specific technical aspects of laptops.
-
-To ensure accuracy and consistency in our analysis, please only fill out this form if you have experience with laptops. If you're not a laptop user or have limited experience, your responses may not be representative of typical user needs.
-
-Before filling out this form, please make sure you have a general understanding of the terms and options provided. If you're unsure about any of the options, please research or ask a colleague for clarification.
-
-Please fill out the form carefully, as any inconsistencies or inaccuracies may affect the validity of our analysis.
-
-This form is not intended to be a comprehensive survey, but rather a focused collection of information on specific laptop-related topics.
-
-</thinking>
-
 # laptop_research_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your laptop preferences, habits, and needs. Please answer the questions as accurately and honestly as possible to help us better understand what you expect from a laptop.

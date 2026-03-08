@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients regarding their hair treatment preferences and consent for protein infusion procedures. This form is designed to gather essential details about the client, their health information, and their consent for specific treatments. The goal is to ensure that clients understand and agree to the chosen treatment plans.
-</thinking>
-
 # Hair Protein Infusion Consent Form - Help Guide
 ## Purpose
 This form is used to collect client information and their consent for hair protein infusion procedures. It's crucial to fill it out accurately and thoroughly to ensure your treatment plan is tailored to your needs.

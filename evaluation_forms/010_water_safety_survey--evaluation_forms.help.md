@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form purpose and fields to ensure we're providing accurate and practical explanations. Based on the YAML input schema, I'll create a user-facing help guide that covers the form's purpose, how to complete it, and a field-by-field explanation of each field.</thinking>
-
 # Water Safety Survey - Help Guide
 ## Purpose
 The Water Safety Survey is designed to collect information about participants in a water-related activity or event. This form helps gather essential details about participants, including their safety concerns, emergency procedures, and contact information in case of an emergency.

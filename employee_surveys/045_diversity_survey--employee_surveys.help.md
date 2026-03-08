@@ -1,8 +1,3 @@
-<thinking> 
-To create a helpful and clear guide for users, first, let's understand the context and purpose of this form. This form is for collecting diversity survey data from employees. The purpose is to gather information about employee characteristics such as demographics, job preferences, and work-related information to help in making informed decisions related to diversity, inclusion, and employee well-being. This form will help ensure that the collected data is accurate, complete, and consistent with the company's diversity and inclusion policies. This information will be used to identify areas of improvement and to create a more inclusive work environment. To avoid duplication of effort and ensure consistency, the form should only be filled out once per employee. 
-
-</thinking>
-
 # Diversity Survey - Help Guide
 ## Purpose
 This form is designed to collect diversity data from employees to help the company create a more inclusive work environment. Please answer the questions honestly, and make sure to fill out the form only once per employee.

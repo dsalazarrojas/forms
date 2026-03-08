@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's motivation for engaging in peer learning. It is intended to be filled out by students participating in a peer learning program, and it will collect data on their name, contact information, and specific motivation for engaging in peer learning activities. This data will be used to track student engagement and motivation in the program.
-
-To avoid duplication, this form should not be filled out by students who have already submitted this information previously. If you have already filled out this form, please do not submit it again.
-</thinking>
-
 # Peer Learning Motivation Survey - Help Guide
 ## Purpose
 This form is used to gather information about your motivation for engaging in peer learning activities.

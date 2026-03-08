@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form, the "Work From Home Policy Survey", is to gather information about employees' experiences and satisfaction with remote work arrangements. This survey aims to collect data to help employers and management identify areas of improvement in the work-from-home policy and provide a better understanding of the challenges and benefits of remote work.
-
-Before proceeding, please ensure that you have not completed this survey in the past or that you are not completing it on behalf of another employee. This will help us avoid duplicate data collection and provide accurate insights for policy development.
-
-This survey is completely anonymous, and all answers will be kept confidential. The data collected will be used solely for internal analysis and improvement of the company's work-from-home policy.
-
-Please answer the questions honestly, and feel free to provide suggestions and recommendations for improvement.
-
-</thinking>
-
 # Work From Home Policy Survey - Help Guide
 ## Purpose
 This survey aims to collect information about your experiences and satisfaction with remote work arrangements, including how often you work from home, communication with management, and satisfaction with various aspects of remote work.

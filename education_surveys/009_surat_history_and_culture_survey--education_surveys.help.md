@@ -1,10 +1,3 @@
-<thinking>
-To determine if this form is relevant, we need to consider the context in which it will be used. This form is designed for collecting user information, demographic data, and engagement with local programming and research education. Given the title, "Surat History and Culture Survey", it's likely used for academic or cultural research purposes. This form seems to be a general survey, so it should not be used for any urgent or time-sensitive matters.
-
-To avoid duplication, let's assume this form is meant to be filled out once by each user.
-
-</thinking>
-
 # surat_history_and_culture_survey - Help Guide
 ## Purpose
 The "Surat History and Culture Survey" is a form designed to collect information about users' backgrounds, interests, and experiences related to Surat (a town or city) history and culture. This form will help researchers understand the community's engagement with local programs, educational background, and research interests.

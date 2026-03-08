@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the effectiveness of a university laboratory session. The form will collect feedback from participants, allowing them to rate their overall experience, the quality of teaching, and the availability of materials and equipment. This information will help the university to refine and improve their laboratory sessions.
-This form is likely to be filled out by students or instructors attending a laboratory session. To ensure that you are completing the form for the correct session, please make sure that you have the correct Session ID.
-This form is not intended to be filled out multiple times for the same session. If you are completing this form for the same session, please do not submit multiple forms.
-</thinking>
-
 # University Laboratory Session Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from participants about their experience in a university laboratory session. It will help the university to evaluate the effectiveness of the session and identify areas for improvement.

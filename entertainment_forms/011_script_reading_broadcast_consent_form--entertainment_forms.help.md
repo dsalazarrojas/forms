@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about individuals who wish to participate in a script reading broadcast. It asks for their name, email, phone number, broadcast type (live or pre-recorded), broadcast date and time, and a confirmation of consent. The form is likely used by the event team to manage the script reading broadcast schedule and communicate with participants.
-</thinking>
-
 # Script Reading Broadcast Consent Form - Help Guide
 ## Purpose
 The Script Reading Broadcast Consent Form is used to register individuals for a script reading broadcast. It collects their contact information and preferences for the broadcast.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed to measure the frequency and perception of violence exposure in individuals from different age groups, including children and adults. It appears to be assessing how often people watch movies and TV shows, and their attitudes towards violence in different contexts. The form might be used in research studies or surveys to gather data on media consumption and attitudes towards violence in society. I will now create the help guide as requested.
-</thinking>
-
 # tv_violence_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your exposure to violence through media consumption and your attitudes towards violence in different contexts. Please answer the questions honestly to help us understand your views and behaviors.

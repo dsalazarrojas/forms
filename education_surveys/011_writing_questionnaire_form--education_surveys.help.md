@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Writing Questionnaire Form - Help Guide
 
 ## Purpose

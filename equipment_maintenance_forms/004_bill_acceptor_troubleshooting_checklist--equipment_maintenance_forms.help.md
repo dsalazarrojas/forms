@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm considering the purpose of this form. This form is designed to guide service technicians in identifying and resolving issues with bill acceptors, a critical component in various industries such as vending machines or gaming systems. The form aims to standardize the troubleshooting process, ensuring that all necessary steps are taken to diagnose and fix problems efficiently. This form is intended to be a comprehensive guide for technicians to follow, providing a systematic approach to troubleshooting. It also helps in recording and tracking issues, allowing for better maintenance and quality control. Given its focus on troubleshooting, the form will likely have a mix of fields for recording technician details, problem descriptions, and test results. Let's see what the actual form looks like.</thinking>
-
 # Bill Acceptor Troubleshooting Checklist - Help Guide
 
 ## Purpose

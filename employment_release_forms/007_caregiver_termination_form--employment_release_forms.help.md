@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Caregiver Termination Form - Help Guide
 ## Purpose
 The Caregiver Termination Form is used to document the details of a caregiver's termination from employment. This form helps ensure that all necessary information is collected and that the termination process is complete and accurate.

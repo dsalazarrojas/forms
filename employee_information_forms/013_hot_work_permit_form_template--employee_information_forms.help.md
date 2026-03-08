@@ -1,5 +1,3 @@
-<thinking>...The Hot Work Permit Form Template is used for employees to declare that they are performing hot work on-site, which is any work that involves burning, cutting, or welding on or near exposed flames or sparks. This form is essential for ensuring that all necessary safety measures are taken before, during, and after hot work operations to prevent injuries and maintain a safe working environment. It should only be filled out by employees who are performing or supervising hot work activities. It is not necessary to fill out this form for tasks that do not involve hot work...</thinking>
-
 # Hot Work Permit Form Template - Help Guide
 ## Purpose
 This form template is used to declare hot work activities on-site and ensure the necessary safety measures are taken before, during, and after the work.

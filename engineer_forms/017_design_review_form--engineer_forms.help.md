@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and ratings on design projects from reviewers. It is intended to facilitate a design review process, where the reviewer evaluates and rates the design project based on certain criteria. This form should only be used for design projects that are active or have been completed, and not for projects that are on hold or deferred.
-
-This form should only be used to review projects that have a "Designer" assigned to them. Reviewers should only fill out this form for projects that are relevant to them. Reviewers should fill out this form to provide a clear and concise review and rating of the design project, and not to use the form as a way to provide general feedback or suggestions that are not related to the specific project.
-
-Reviewers should be specific and accurate when filling out the form, and not provide incomplete or inaccurate information. Reviewers should only select options that accurately reflect their assessment of the project, and not select options that do not apply. Reviewers should be aware that their comments and ratings will be visible to the designer and project team.
-
-</thinking>
-
 # Design Review Form - Help Guide
 ## Purpose
 The Design Review Form is a tool used to gather feedback and ratings on design projects from reviewers. It is intended to facilitate a clear and concise review process that helps project teams understand their project's performance and identify areas for improvement.

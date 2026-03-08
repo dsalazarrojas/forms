@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are making a purchase using PayPal. The purpose of the form is to capture the necessary details for a secure and successful payment transaction. The form should only be used for users who are making a payment through PayPal, as indicated by the 'country' field with options 'Yes' and 'No'. 
-The form is structured to gather the necessary information in an efficient and intuitive manner, reducing the likelihood of duplication of effort in the form creation process.
-</thinking>
-
 # paypal_purchase_order_form - Help Guide
 ## Purpose
 The PayPal Purchase Order Form is used to collect information from users making a payment through PayPal.

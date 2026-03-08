@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information about the environmental awareness and education within an educational institution's curriculum. It aims to help institutions understand their current state of environmental awareness and identify areas for improvement. The form is part of a larger initiative to promote environmental consciousness and sustainability within the educational system. It's essential that the information collected is accurate, and the form should only be filled out by authorized personnel... </thinking>
-
 # Environmental Consciousness In Curriculum Survey - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect data on teaching innovation from educators. The purpose of this form is to gather information on the frequency, types, and challenges of innovation in teaching. It is intended for educators to provide feedback on their teaching practices and experiences. To ensure that this form is completed accurately and effectively, please follow the steps below.
-
-</thinking>
-
 # Global Teaching Innovation Index Survey - Help Guide
 ## Purpose
 The Global Teaching Innovation Index Survey is a tool designed to collect data on teaching innovation from educators. The form will help educators provide feedback on their teaching practices and experiences, allowing for a more accurate understanding of the frequency, types, and challenges of innovation in teaching.

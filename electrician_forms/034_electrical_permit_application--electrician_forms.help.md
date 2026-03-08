@@ -1,8 +1,3 @@
-<thinking>
-...this form is designed to gather project information for electrical permitting purposes...
-checking for consistency across fields and no redundant data entry
-</thinking>
-
 # electrical_permit_application - Help Guide
 ## Purpose
 The electrical permit application form is used to collect project information for electrical permitting purposes. This includes gathering details about the project's specifics, timeline, and contact information.

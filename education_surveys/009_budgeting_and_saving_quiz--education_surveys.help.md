@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive survey for assessing individuals' financial literacy, habits, and challenges. The form's primary purpose is to gauge participants' knowledge and confidence in personal finance, as well as their current savings and debt management practices. This information will help to:
-
-* Identify areas where participants may need additional resources or education to improve their financial well-being
-* Provide insight into common challenges and trends in personal finance
-* Inform the development of targeted educational content or programs to address these needs
-
-Please ensure that you complete this form accurately and honestly, as the collected data will be used to improve financial education and resources for the community.
-
-Please note that the form is designed to be anonymous, and all responses will be kept confidential.
-
-If you have already taken this form, please do not take it again. Your responses will be recorded and linked to your participant ID. If you have any questions or concerns, please contact us at [support email](mailto:form@gic.mx).
-</thinking>
-
 # Budgeting and Saving Quiz - Help Guide
 ## Purpose
 This form is designed to assess your financial literacy, habits, and challenges. It will ask you a series of questions about your current savings and debt management practices, as well as your willingness to learn and improve your financial knowledge.

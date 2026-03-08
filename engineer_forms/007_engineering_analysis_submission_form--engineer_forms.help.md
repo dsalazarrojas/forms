@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will create a user-facing help guide that explains the purpose, completion process, and fields of the Engineering Analysis Submission Form. I will review the provided YAML schema and ensure that the guide is concrete, concise, and practical.</thinking>
-
 # Engineering Analysis Submission Form - Help Guide
 ## Purpose
 The Engineering Analysis Submission Form is a crucial document that enables submitters to provide essential information about their engineering analysis submissions. This form serves as a standardized template for collecting required details, which helps in streamlining the submission process and ensures that all necessary information is accurately recorded.

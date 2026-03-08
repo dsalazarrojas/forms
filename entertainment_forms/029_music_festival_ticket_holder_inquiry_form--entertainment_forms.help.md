@@ -1,7 +1,3 @@
-<thinking>
-To ensure that our music festival ticket holders are accurately informed about their ticket status and purchase details, we need to gather relevant information from them. This form aims to collect data that will help us understand their preferences, needs, and experiences with our music festival. By completing this form, you will be assisting us in providing better services and improving our event organization. Please fill out this form carefully, and make sure to provide accurate information to help us serve you better.
-</thinking>
-
 # Music Festival Ticket Holder Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from ticket holders about their experience with the music festival. Your responses will help us improve our event organization and provide better services to our attendees.

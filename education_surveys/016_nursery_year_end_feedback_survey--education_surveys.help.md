@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nursery Year End Feedback Survey - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # staff_application_form - Help Guide
 ## Purpose
 The staff application form is used to collect information from staff members for on-call positions. It helps to streamline the on-call position assignment process by providing a structured way for staff to submit their applications.

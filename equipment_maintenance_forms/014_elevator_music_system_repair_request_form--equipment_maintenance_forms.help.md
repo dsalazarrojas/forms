@@ -1,13 +1,3 @@
-<thinking>Before creating this form, we need to consider the following:
-
-* The form is for reporting issues with the elevator music system.
-* The form should be completed by someone who is experiencing issues with the music system, not the maintenance team.
-* The form should provide enough information for the maintenance team to troubleshoot and resolve the issue.
-* The form should have fields for tracking progress and resolution of the issue.
-* The form should have fields for comments and attachments.
-
-</thinking>
-
 # Elevator Music System Repair Request Form - Help Guide
 ## Purpose
 The Elevator Music System Repair Request Form is used to report issues with the elevator music system to the maintenance team. It's essential to report any issues, no matter how small they may seem, to ensure that the system is functioning correctly and that users are not affected.

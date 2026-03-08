@@ -1,12 +1,3 @@
-<thinking>
-  This form is used to track and record details of various equipment types.
-  It is used for both new and existing equipment. The form is designed to 
-  collect specific information about the equipment, which can be used for 
-  inventory management and maintenance purposes.
-  Please ensure that the form is filled out completely and accurately. 
-  Duplicate or unnecessary forms will be discarded.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to gather information about equipment details, maintenance, and contact information.

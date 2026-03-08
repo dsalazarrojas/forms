@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for a customer satisfaction or feedback survey, possibly for a skincare products company. The goal is to gather information about users' skin types, concerns, and preferences. I'll assume that the form is meant to be a self-service tool for users to provide input on how they perceive their skin.
-</thinking>
-
 # Skincare Quiz - Help Guide
 ## Purpose
 The Skincare Quiz is a self-service tool designed to help us understand your skin type, concerns, and preferences. Your input will help us provide you with more personalized product recommendations and advice.

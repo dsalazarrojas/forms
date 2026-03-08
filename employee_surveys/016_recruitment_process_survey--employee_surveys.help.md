@@ -1,11 +1,3 @@
-<thinking>
-
-We are designing a help guide for an "Employee Surveys" category form, specifically for the "Recruitment Process Survey" form. This form aims to collect feedback from candidates who have gone through the company's recruitment process. 
-
-To ensure relevance and to prevent duplication, we are focusing on understanding each field's purpose and providing clear instructions on how to complete the form accurately. This guide will help end-users understand what each field means and how to fill it out correctly.
-
-</thinking>
-
 # Recruitment Process Survey - Help Guide
 ## Purpose
 The "Recruitment Process Survey" form is designed to collect feedback from candidates who have gone through the company's recruitment process. This feedback will help us understand areas of improvement and refine our recruitment practices to better serve our candidates.

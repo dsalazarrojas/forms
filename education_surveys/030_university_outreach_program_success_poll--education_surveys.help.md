@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to ensure that this form is used correctly and efficiently. The "University Outreach Program Success Poll" form is designed to gather feedback from attendees of events organized by the University Outreach Program, such as conferences, workshops, and seminars. It is crucial to understand that this form should only be filled out by people who have actually attended an event. This will help us gauge the success of the program and identify areas for improvement. Before proceeding, please ensure that you have attended an event and are providing feedback based on your actual experience.</thinking>
-
 # University Outreach Program Success Poll - Help Guide
 ## Purpose
 The University Outreach Program Success Poll is designed to gather feedback from attendees of events organized by the University Outreach Program. Your input is crucial in helping us evaluate the success of our events and improve them in the future.

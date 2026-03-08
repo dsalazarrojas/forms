@@ -1,17 +1,3 @@
-<thinking> 
-This form is designed to collect information about an individual's preferences and habits related to chocolate consumption. It is intended to gather data on demographics, chocolate preferences, consumption habits, and factors influencing purchasing decisions. This information will be useful for understanding the chocolate market and tailoring marketing efforts accordingly.
-
-The form is divided into several sections that cover the following topics:
-- Respondent Information (demographics)
-- Chocolate Consumption (frequency, preferences, and types)
-- Brand Loyalty (favorite brands, loyalty level, and brand importance)
-- Purchasing Factors (price, quality, brand reputation, etc.)
-- Additional Feedback (health consciousness and interest in new products)
-
-Please note that some fields might have specific ratings or selections that are meant to help gauge preferences or concerns. For these fields, the options are rated on a scale of 1 to 5, with 1 being the lowest and 5 being the highest.
-
-</thinking>
-
 # Chocolate Survey - Help Guide
 ## Purpose
 The form is designed to collect information on your demographics, chocolate preferences, consumption habits, and factors that influence your purchasing decisions.

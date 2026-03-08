@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Best Friend Application Form - Help Guide
 ## Purpose
 The Best Friend Application Form is designed to help us get to know you better and understand what makes you tick. This form will help us determine whether we can be a good match for each other and if you're ready to take on the responsibilities of being a true friend. Please answer the questions honestly, and don't worry, we won't judge you!

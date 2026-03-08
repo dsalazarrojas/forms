@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to ensure that employees working remotely are meeting the necessary safety and emergency protocols for their home or remote workstations. The purpose of this form is to gather information on the safety features and emergency equipment present in the employee's home or remote work area, such as fire suppression systems, electrical outlets, emergency exit paths, and medical equipment. This information will be used to verify that the employee's remote work environment is safe and compliant with company policies. It's essential to complete this form carefully and accurately to ensure that the employee's safety is protected. Please note that this form will be reviewed and validated by the responsible personnel to ensure accuracy and compliance.
-
-</thinking>
 # Remote Work Safety Check Form - Help Guide
 ## Purpose
 This form is designed to ensure that employees working remotely are meeting the necessary safety and emergency protocols for their home or remote workstations.

@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the Modern Caregiver Job Application Form. Before using this form, please ensure that you understand your responsibilities as a caregiver and the specific requirements for each section. This form is designed for caregivers who need to provide personal and professional information in order to be considered for employment opportunities. 
-
-If you are a caregiver looking for work, please carefully review and complete this form to increase your chances of being matched with suitable positions.
-
-This form contains 8 mandatory sections that you must complete. These sections are divided into the following categories: applicant details, contact information, work experience, education, skills, references, medical certifications, medical clearances, languages, and minimalist form.
-
-</thinking>
 # Modern Caregiver Job Application Form - Help Guide
 ## Purpose
 The Modern Caregiver Job Application Form is designed for caregivers who need to provide personal and professional information in order to be considered for employment opportunities.

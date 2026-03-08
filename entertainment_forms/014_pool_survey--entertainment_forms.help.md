@@ -1,12 +1,3 @@
-<thinking>
-To start with, I'll create a help guide for the "Pool Survey" form. This form is designed to collect feedback from users about their experiences and opinions regarding pools. It's essential to understand that this form is meant to be completed by people who have visited or used a pool. The purpose of this form is to gather information about their experiences and opinions on different aspects of the pool, such as its condition, cleanliness, and overall satisfaction. This information will help pool management and maintenance teams to improve and maintain the pool facilities.
-
-This form is not intended for general feedback, but rather for specific feedback about the pool conditions. Users who don't have experience with the pool should not complete this form.
-
-Before proceeding, ensure that you have a genuine experience with the pool and can provide honest and constructive feedback.
-
-</thinking>
-
 # Pool Survey - Help Guide
 ## Purpose
 The Pool Survey is a form designed to collect feedback from users about their experiences and opinions on different aspects of a pool.

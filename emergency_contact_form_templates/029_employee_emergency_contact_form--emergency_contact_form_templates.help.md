@@ -1,7 +1,3 @@
-<thinking>
-We're creating this form to gather essential information from employees about their emergency contacts. This form should only be used for employees who have not yet filled out an emergency contact form. It's not necessary for employees who have already submitted a form. Please ensure you're filling out this form accurately and thoroughly, as the information provided will be used in emergency situations.
-</thinking>
-
 # Employee Emergency Contact Form - Help Guide
 ## Purpose
 The Employee Emergency Contact Form is a crucial document that provides essential information about your emergency contacts. It's designed to help us quickly reach out to your loved ones in case of an emergency.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a declaration of non-compete agreement, which is typically used by companies to ensure that employees do not enter into competing business activities or ventures after leaving the organization. The purpose of this form is to gather information about the employee's agreement status, which can be used to protect the company's interests and prevent potential conflicts of interest. It is likely that this form will be used in conjunction with other employment-related forms to ensure compliance with relevant laws and regulations.
-</thinking>
-
 # Non Compete Agreement Declaration Form - Help Guide
 ## Purpose
 This form is a declaration of non-compete agreement, which is used by companies to ensure that employees do not enter into competing business activities or ventures after leaving the organization.

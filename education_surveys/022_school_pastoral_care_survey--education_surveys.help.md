@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and suggestions from students, parents, and staff members of a school on their experiences with the school's pastoral care services. This form is intended to help the school understand how well they are supporting the wellbeing and satisfaction of their students and staff. The information gathered from this form will be used to identify areas of improvement and make necessary changes to enhance the school's pastoral care.
-
-To ensure that this form is used correctly, please check that you are not completing it multiple times as a single entity. If you are unsure whether a particular field is required, please refer to the required/optional label next to each field.
-
-Please note that this form is for anonymous feedback, so all fields are optional and your responses will not be tracked back to you.
-
-</thinking>
-
 # School Pastoral Care Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and suggestions from students, parents, and staff members of a school on their experiences with the school's pastoral care services.

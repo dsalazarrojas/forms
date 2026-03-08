@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "A3 Problem Solving Form", I'll assume the purpose is to report and track progress on problems that need to be solved within an organization. This form is likely used for continuous improvement, root cause analysis, and monitoring progress towards goals. The form is likely to be used by various teams or individuals within the organization to collect and document problem-solving processes and outcomes.
-
-This form may be part of a larger process or system for managing and improving organizational performance. The form's structure suggests that it's designed to capture relevant information about the problem, analysis, proposed solutions, and progress monitoring. I'll aim to create a clear and concise help guide that guides the user through this process.
-
-</thinking>
-
 # A3 Problem Solving Form - Help Guide
 ## Purpose
 The A3 Problem Solving Form is designed to help teams or individuals document and track progress on problems that require attention and improvement. This form captures essential information to understand the problem, identify root causes, propose solutions, and monitor progress towards achieving goals.

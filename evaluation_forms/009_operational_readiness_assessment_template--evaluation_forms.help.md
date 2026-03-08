@@ -1,7 +1,3 @@
-<thinking>
-This is an Operational Readiness Assessment Template form that helps evaluators assess the operational readiness of a team or project. It is used to gather information on various aspects of operational readiness, including operational challenges, team performance, resource availability, situational awareness, and more. This form should only be used for assessment and evaluation purposes, and not for other purposes like reporting or data collection. It is essential to fill out this form accurately and thoroughly to get a comprehensive understanding of the operational readiness of the team or project.
-</thinking>
-
 # Operational Readiness Assessment Template - Help Guide
 ## Purpose
 This template is designed to help evaluators assess the operational readiness of a team or project.

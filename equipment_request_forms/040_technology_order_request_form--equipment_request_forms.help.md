@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users for a technology order request. The form is designed to gather details about the type of technology needed, its specifications, quantity, budget, contact information, and other relevant details to facilitate the request process. Before starting, please ensure that this is the correct form for your request, and that you haven't submitted a similar request recently, as duplicate submissions may cause delays in processing your order.
-
-</thinking>
-
 # Technology Order Request Form - Help Guide
 ## Purpose
 The Technology Order Request Form is used to gather information for technology-related orders. This includes requests for new equipment, upgrade, or replacement of existing technology.

@@ -1,12 +1,3 @@
-<thinking>
-The "new-staff-employment-application-form" form is designed to collect information from applicants for new staff employment positions within an organization. The form is divided into five pages, each with its own set of questions or fields. The form is intended to gather personal and professional details from applicants, which will be reviewed and assessed by the hiring team.
-
-Before proceeding, ensure you are not duplicating an existing application, as this form is intended for new staff employment applications only. Please note that this form was generated using AI and is not affiliated with any proprietary form platforms.
-
-This guide will walk you through each page of the form, explaining each field and how to complete it. Please follow these instructions carefully to ensure a smooth and accurate completion of the form.
-
-</thinking>
-
 # new-staff-employment-application-form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from applicants for new staff employment positions. Please fill out this form to provide your application.

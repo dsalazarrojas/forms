@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed to collect information about an applicant for a marketing creative position. The purpose of this form is to gather relevant details about the applicant, including their name, contact information, work experience, availability, and other relevant background information. It also provides an option for the applicant to upload a resume. The form is likely used in a hiring process, so it's essential to ensure that the fields are clear and easy to understand for the applicant.
-
-Before creating this guide, I will review the provided YAML fields to ensure that I understand the form's requirements and limitations.
-
-</thinking>
-
 # Marketing Creative Employment Form - Help Guide
 ## Purpose
 The Marketing Creative Employment Form is designed to collect information about applicants for marketing creative positions. This form helps the hiring team to gather essential details about the applicant, including their name, contact information, work experience, and other relevant background information.

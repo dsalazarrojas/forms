@@ -1,12 +1,3 @@
-<thinking>
-To design a clear and effective help guide for the Embroidery Upload Form, we need to consider the purpose of the form, which is likely to collect information and metadata for uploaded embroidery files. The form appears to be designed for uploading various types of embroidery files, including designs, images, and metadata such as title, description, tags, categories, and status.
-
-Before we begin, let's check for relevance and non-duplication of fields. Upon reviewing the form, we notice that several fields have similar labels, such as "upload_file" and "file", which might be considered duplicates. We also notice that the "upload_type" field has a select_one type, but the options provided are limited to three specific types, which might be limiting for users who have other types of embroidery files to upload. Additionally, the "date" and "time" fields both use a date and time type, which might not be the most user-friendly option for users who only need to provide a date or time. Lastly, we see a lot of fields with a "note" type, which might be better represented as a single "Notes" field for users to provide additional information.
-
-With these considerations in mind, we can now proceed to create the help guide.
-
-</thinking>
-
 # Embroidery Upload Form - Help Guide
 
 ## Purpose

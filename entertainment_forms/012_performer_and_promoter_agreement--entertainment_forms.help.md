@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for capturing details about a performer's and promoter's agreement for an event. This form is used to ensure that both parties are in agreement with the terms of the event, including the event details, payment method, and contract terms. 
-
-Before starting, make sure to review the form carefully and ensure that you are not duplicating an existing agreement. If the event is already in progress or completed, this form may not be necessary.
-
-</thinking>
-
 # Performer and Promoter Agreement - Help Guide
 ## Purpose
 This form is used to document the agreement between a performer and a promoter for an event.

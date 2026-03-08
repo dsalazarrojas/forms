@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers who are visiting the workplace during a pandemic, specifically to track their vaccination status and other relevant details. This form is likely used in a healthcare or retail setting to ensure the safety and well-being of employees and customers. Before completing this form, it's essential to ensure that you are not duplicating the process and that you have the necessary permission to access and use the information collected.
-</thinking>
-
 # Covid 19 Customer Check In Form - Help Guide
 
 ## Purpose

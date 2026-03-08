@@ -1,14 +1,3 @@
-<thinking>
-We are considering using this form as a tool to help employees assess their productivity and work environment. However, before we proceed, let's ensure that this form accurately captures the necessary information to provide actionable insights for employees and stakeholders. We need to review the purpose and scope of this form to avoid duplication of effort and ensure it meets our organization's goals.
-
-This form is intended to be used by employees to rate their own workplace productivity and environment. It's likely meant to gather information on various aspects of work performance, such as work hours, breaks, time management, and so on. However, upon reviewing the form, we notice that some fields may be redundant or overlapping in their purpose. For example, "Job Satisfaction" and "Employee Satisfaction" seem to be related but distinct concepts. We should consider merging or rephrasing these fields for consistency and clarity.
-
-We should also consider whether the form is too lengthy or burdensome for employees to complete. The current structure appears to be quite extensive, with 25 fields. We may need to trim down the number of questions or make them more concise to avoid overwhelming respondents.
-
-Lastly, we should ensure that the form's questions are clear and concise, and that the options provided are specific and relevant to the field's purpose. Some field labels may be unclear or ambiguous, such as "Collaboration Tools" and "Reporting Frequency". We may need to add explanations or examples to make these fields more understandable.
-
-Before proceeding, let's review the form's content and structure carefully to ensure it accurately reflects our organization's goals and priorities. We don't want to create a tool that is confusing, time-consuming, or redundant. Let's refine the form to make it more effective and user-friendly for our employees. </thinking>
-
 # Workplace Productivity Assessment Form - Help Guide
 
 ## Purpose

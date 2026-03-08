@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for an employee to request clarification on their employment status. It is intended for employees who have been reported as having a specific employment status but are unsure of their actual status or have reason to believe it is incorrect. The form will guide you through the process of requesting clarification and providing required information to support your request.
 
 </thinking>

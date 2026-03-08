@@ -1,9 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Digital Workplace Productivity Survey" form. 
-The form is designed to collect information about users' productivity and habits in the digital workplace. We want to ensure that end-users understand the purpose and usage of the form, and can complete it accurately and efficiently. 
-Before we start writing the help guide, let's make sure we are not duplicating any effort. Let's review the form fields and their types. The form has a mix of open-ended fields (none), numeric fields (question_1, question_2, question_3), and multiple-choice fields (question_4, question_6, question_7, question_9, question_11, question_17, question_20, question_22, question_23, question_24). We will focus on explaining each field in a clear and concise way, without assuming any prior knowledge or context.
-</thinking>
-
 # Digital Workplace Productivity Survey - Help Guide
 ## Purpose
 The Digital Workplace Productivity Survey is designed to collect information about your digital habits and productivity. It will help us understand how you spend your time on your computer, phone, and other digital devices. Your responses will help us improve our services and provide better support for your work.

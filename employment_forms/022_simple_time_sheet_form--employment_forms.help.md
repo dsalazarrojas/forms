@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # simple_time_sheet_form - Help Guide
 
 ## Purpose

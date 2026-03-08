@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Benefits Optimization Application Form - Help Guide
 ## Purpose
 The Employee Benefits Optimization Application Form is designed to collect information from employees about their benefits preferences and needs. This form helps the HR department understand individual employee requirements, allowing them to optimize benefits packages and improve employee satisfaction. 

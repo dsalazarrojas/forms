@@ -1,7 +1,3 @@
-<thinking>
-We are designing a job application form for a Fintech Software Engineer position. This form aims to gather essential information from candidates to assess their eligibility and suitability for the role. The form will be used by the HR department to evaluate candidates' applications and make informed decisions about their employment. To avoid duplication and ensure accurate representation of candidate data, we will be using this form for a specific job opening. Please ensure that the form is filled out carefully and accurately to avoid any issues during the evaluation process.
-</thinking>
-
 # Fintech Software Engineer Job Application - Help Guide
 ## Purpose
 This form is designed to gather essential information from candidates for the Fintech Software Engineer position. Please fill out the form accurately to provide the necessary details for evaluation.

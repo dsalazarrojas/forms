@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data on users' awareness and engagement with foreign conflicts. The survey aims to assess users' perception of foreign conflicts, their sources of information, and how they consume news and media related to these conflicts. This form is intended for users to report their personal experiences and opinions on foreign conflicts, and the data collected will help us understand how to better design our services and materials to inform and educate users on this topic.
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 
 ## Purpose

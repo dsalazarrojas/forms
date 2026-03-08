@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be used for recording promotions within an organization. It's likely used to track and document promotions in a structured manner, ensuring consistency and accuracy in the promotion process. The form seems to collect information on employee identifiers, manager names, new positions, and various dates and statuses related to promotions. This could be part of a larger system for human resources or personnel management.
-The form might be part of a larger process to track promotions from start to finish, including employee and manager approvals, dates and statuses.
-Before completing this form, please ensure the employee being promoted is aware of the promotion and the new role they are being promoted to. The form should only be completed by authorized personnel, such as HR representatives.
-</thinking>
-
 # promotion_record_employment_form - Help Guide
 ## Purpose
 This form is used to record and document promotions within an organization, ensuring consistency and accuracy in the promotion process.

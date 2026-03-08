@@ -1,8 +1,3 @@
-<thinking>
-This form is generated based on the provided YAML data and is intended for employees to enroll in various benefits offered by their employer. The form is designed to collect information about the employee's personal details, benefit selections, and other relevant information. The benefits included are health insurance, life and disability insurance, retirement savings, and commuter benefits. Employees will need to select their preferred options for each benefit type, providing accurate information to ensure proper enrollment. Please review the form carefully and answer the questions truthfully to complete the enrollment process.
-
-</thinking>
-
 # 2021 Employee Benefit Enrollment - Help Guide
 ## Purpose
 This form is designed to guide employees through the 2021 employee benefit enrollment process. It collects personal and benefit-related information to ensure accurate enrollment and processing of benefits.

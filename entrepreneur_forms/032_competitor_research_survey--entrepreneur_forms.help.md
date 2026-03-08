@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a company's competitive landscape. It's designed to help businesses better understand their competitors' strengths and weaknesses, market share, and overall threat level. This form will likely be used by business development teams or marketing departments to gather data for strategic planning and decision-making.
-
-Before filling out this form, ensure that the information you're providing is accurate and relevant to your business. If you're unsure about any of the questions or answers, try to answer them based on your best knowledge and experience.
-
-This guide will walk you through each field, explaining what to expect and how to complete it accurately.
-
-</thinking>
-
 # Competitor Research Survey - Help Guide
 ## Purpose
 

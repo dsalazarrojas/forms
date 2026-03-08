@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to register for an event, providing essential details such as event name, date, time, and location. The form also collects payment information, allowing users to choose a preferred payment method and the amount to be paid. Finally, it captures contact information (email and phone number) and any additional notes.
-To avoid duplication, the form should only be used for event registration purposes and not for other types of submissions.
-</thinking>
-
 # event_registration_form_with_sofort_payment_method - Help Guide
 ## Purpose
 This form is designed to collect registration information and payment details for an event. It includes fields for event name, date, time, location, payment method, payment amount, email, phone number, and notes.

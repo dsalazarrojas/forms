@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ticket_order_form - Help Guide
 ## Purpose
 The ticket_order_form is used to order tickets for events. You will need to provide event details, select a package, specify the quantity of tickets, and confirm various details to complete the form.

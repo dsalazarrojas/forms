@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from employees regarding their waiver of liability for work-related injuries or accidents. The form is intended to be completed by the employee and their employer to document the details of the incident, including the employee's name, job title, date of birth, address, and details of the injury. The form also includes fields for the date of the accident or injury, the employee's signature, and the employer's signature, as well as fields for waiver terms and conditions. The purpose of this form is to provide a clear and concise way for employees to waive their liability for work-related injuries or accidents, and for employers to document and verify the waiver...</thinking>
-
 # Workers Comp Waiver Form - Help Guide
 ## Purpose
 This form is used to collect information from employees regarding their waiver of liability for work-related injuries or accidents.

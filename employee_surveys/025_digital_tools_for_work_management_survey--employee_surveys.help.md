@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees on their experience with digital tools for work management. The form will help the organization understand what digital tools are being used, how they are being used, and what areas for improvement are needed. This form will also help teams compare satisfaction, challenges, and priorities across departments. It's essential to complete this form to ensure that the organization is providing the best possible work management experience for employees.
-</thinking>
-
 # Digital Tools For Work Management Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their experience with digital tools for work management. It will help the organization understand what digital tools are being used, how they are being used, and what areas for improvement are needed.

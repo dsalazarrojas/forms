@@ -1,10 +1,3 @@
-<thinking>
-The Trade Reference Form is designed to collect information about a trade reference from an end user, which will be used to provide a comprehensive overview of the trade. This form aims to capture details such as the trade name, address, contact information, and status, among other relevant details. It is essential to fill out this form accurately to ensure that the trade reference is up-to-date and complete.
-
-Before starting, please ensure that you are not duplicating any existing trade references. If you are unsure, please consult with the relevant team or supervisor.
-
-</thinking>
-
 # Trade Reference Form - Help Guide
 ## Purpose
 The Trade Reference Form is a crucial document used to collect and store information about a trade. This form is used to create a comprehensive overview of the trade, including details such as contact information, address, and status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Mission Understanding Survey - Help Guide
 ## Purpose
 The Corporate Mission Understanding Survey is designed to gauge the understanding of employees about the company's mission and their role within it. This survey aims to collect feedback on the level of understanding, internal communication, and alignment of employees with the company's mission.

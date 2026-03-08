@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the Exit Survey form, let's clarify the purpose and relevance of this form. The purpose of the Exit Survey is to gather information from departing employees about their reasons for leaving the company, which can help the organization identify areas of improvement and make informed decisions for future growth and employee satisfaction. This form should only be completed by employees who are leaving the company, and it's essential to ensure that each employee understands the purpose and relevance of the survey to provide valuable and honest feedback.</thinking>
-
 # Exit Survey - Help Guide
 ## Purpose
 The Exit Survey is designed to collect feedback from departing employees about their reasons for leaving the company. This survey helps the organization understand the reasons behind employee departures, which can inform decision-making and improve future employee retention and satisfaction.

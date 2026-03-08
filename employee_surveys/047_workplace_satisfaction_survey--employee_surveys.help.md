@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Workplace Satisfaction Survey" accurately captures the sentiments and experiences of employees in the workplace. This form aims to gauge various aspects of workplace satisfaction, such as job satisfaction, work-life balance, and communication, to help organizations understand areas that require improvement. It's essential to avoid duplicating efforts and ensure that this form does not overlap with existing surveys or evaluations. This form's design should prioritize clarity and conciseness in its questions, making it easy for employees to provide honest and thoughtful responses.
-</thinking>
-
 # Workplace Satisfaction Survey - Help Guide
 ## Purpose
 The Workplace Satisfaction Survey is designed to gather feedback from employees on their overall satisfaction with various aspects of their workplace experience. By providing honest and constructive feedback, employees can help identify areas of improvement for a better work environment.

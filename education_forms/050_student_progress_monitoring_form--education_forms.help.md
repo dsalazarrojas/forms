@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to monitor the progress of students in educational settings, such as schools or universities. It is likely used by instructors or administrators to track student progress and performance over time. The form is intended to be completed by students, although some fields are not required, suggesting that it may also be used by instructors or administrators to report on student progress.
 
 The form is divided into multiple pages, each with its own set of fields. Some fields are select options, while others are text or date fields. The presence of email fields suggests that the form may be used to contact students or send notifications, but this is not explicitly stated in the provided YAML.

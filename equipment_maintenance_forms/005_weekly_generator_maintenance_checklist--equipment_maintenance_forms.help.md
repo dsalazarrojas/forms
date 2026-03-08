@@ -1,11 +1,3 @@
-<thinking>
-This form is used for generator maintenance, and it's likely used for monitoring or reporting on generator maintenance activities. It seems there might be some overlap between sections or pages within the form, but I'll assume that each page is for a different part of the generator or related activities.
-
-This form has several fields that are meant to be completed for each maintenance action taken. For each field, it's essential to provide a detailed explanation to ensure the end user understands what's being asked.
-
-I'll be creating a help guide for this form, following the provided structure and explanations in the YAML fields.
-</thinking>
-
 # Weekly Generator Maintenance Checklist - Help Guide
 ## Purpose
 The purpose of this form is to document and track generator maintenance activities on a weekly basis. It helps in monitoring the status of various components and ensuring that the generator is running smoothly and efficiently.

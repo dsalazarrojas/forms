@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather information about an employee's expectations and plans for returning to the office after a period of remote work. The primary goal of this form is to assess the feasibility of an employee's return to office plan and ensure that the necessary arrangements are made to support a smooth transition. This form should only be completed by employees who are planning to return to the office. 
-
-Please note that this form is not intended to collect information for performance evaluations or disciplinary actions. Any data collected will be used to support employee well-being and productivity.
-
-Before proceeding, make sure you have not already completed this form in the past. If you are unsure, please consult with your supervisor or HR representative.
-</thinking>
-
 # Return To Office Survey - Help Guide
 
 ## Purpose

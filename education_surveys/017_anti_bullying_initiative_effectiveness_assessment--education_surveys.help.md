@@ -1,9 +1,3 @@
-<thinking>...
-This form is designed to assess the effectiveness of anti-bullying initiatives in schools, gathering data on observed incidents and program context. 
-This form has been generated using publicly available metadata, and its use should be reviewed by relevant authorities before distribution.
-The purpose of this form is to collect information on the respondent's role, school level, observed bullying incidents before and after the program, program effectiveness, examples of behavior change, and recommendations for improvement.
-</thinking>
-
 # Anti Bullying Initiative Effectiveness Assessment - Help Guide
 ## Purpose
 The Anti Bullying Initiative Effectiveness Assessment form is designed to gather data on the effectiveness of anti-bullying initiatives in schools. It helps to evaluate the impact of these initiatives on observed bullying incidents and gather suggestions for improvement.

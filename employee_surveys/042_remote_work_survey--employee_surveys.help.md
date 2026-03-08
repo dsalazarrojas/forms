@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly discuss the purpose of this form. The Remote Work Survey is designed to gather information from employees about their experiences and preferences regarding remote work. This form aims to understand the current state of remote work within the organization, identify potential challenges, and gather feedback on how to improve the remote work policy. It's essential to complete this form accurately and honestly to ensure the data collected is relevant and useful for decision-making purposes. Please confirm that you are completing this form for the correct reasons and are aware of its purpose.</thinking>
-
 # Remote Work Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-**Internal note:** The purpose of this form is to collect information from potential partners about their company, interests, and expectations for a potential collaboration. It's crucial to understand the company's goals, industry, size, and areas of interest. This form helps the Innovation Partner team to assess partnership potential and tailor the engagement process accordingly. It's essential to review the form's fields carefully to ensure that the questions are clear, concise, and relevant to the partnership goals. This form is a critical part of the partnership assessment process and should not be used for general inquiries or sales pitches.
-</thinking>
-
 # Business Model Innovation Partner Contact Form - Help Guide
 
 ## Purpose

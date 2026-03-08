@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The emergency reporting form is used to document and track emergencies, incidents, and road conditions that occur on highways and roads across the country. This form will help to provide critical information for emergency services, maintenance crews, and road authorities to respond promptly and effectively to such incidents. It's essential to fill out this form accurately and completely to ensure that the information is useful for emergency services.
 
 </thinking>

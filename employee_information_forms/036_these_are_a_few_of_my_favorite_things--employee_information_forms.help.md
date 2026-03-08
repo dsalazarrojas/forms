@@ -1,5 +1,3 @@
-<thinking>Form "these-are-a-few-of-my-favorite-things" is designed to gather information about jobs. It's intended for employees, managers, and HR personnel to fill out a single form to provide details about their work experience, role, and responsibilities. Before filling out this form, please ensure you have the necessary information and authority to do so, and that you're not duplicating efforts. If you're unsure, please consult with your supervisor or HR representative.</thinking>
-
 # these-are-a-few-of-my-favorite-things - Help Guide
 ## Purpose
 This form is used to provide information about your job title, role, and responsibilities. It's essential for updating your employee information, tracking your job progress, and facilitating communication within the organization.

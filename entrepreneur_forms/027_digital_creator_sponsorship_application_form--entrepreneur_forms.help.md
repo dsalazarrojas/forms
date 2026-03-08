@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to collect information from digital creators who wish to be sponsored by the company. The purpose of this form is to gather essential details about the creator, such as their audience metrics, campaign ideas, contact information, phone number, campaign budget, and social media presence. This data will be used to review and determine the suitability of the creator for sponsorship opportunities.
-We will use the data from this form to determine the feasibility of the sponsorship and ensure that it aligns with our company's goals and objectives. This form is not intended for duplicate submissions, so please ensure that you have not previously submitted an application and are applying for a new opportunity.
-The data collected from this form will be used to facilitate the sponsorship process, and the creator can expect to receive a response regarding the status of their application. If selected for sponsorship, the creator can expect to receive further information about the terms and conditions of the sponsorship.
-</thinking>
-
 # Digital Creator Sponsorship Application Form - Help Guide
 ## Purpose
 

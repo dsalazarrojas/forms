@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting information from drivers to acknowledge and document their understanding of safety responsibilities, vehicle information, and other related data. This form is likely used in industries such as transportation, logistics, or construction to ensure drivers are aware of and comply with safety regulations and company policies.
-</thinking>
-
 # Safe Driver Acknowledgment Form Template - Help Guide
 ## Purpose
 This form is used to collect driver information, vehicle details, and other relevant data to ensure drivers are aware of and comply with safety responsibilities and company regulations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Idea Submission Feedback Evaluation Form - Help Guide
 ## Purpose
 The "Employee Idea Submission Feedback Evaluation Form" is designed to allow employees to evaluate and provide feedback on submitted ideas. This form is used to assess the quality and feasibility of ideas, and to provide constructive feedback to the employees who submitted them. Please ensure you understand the purpose and relevance of this form before completing it.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for applicants to apply for the Summer Youth Program. Before proceeding, please ensure that you are eligible and have the necessary information ready. This form should not be duplicated for multiple applications, as each application will be treated as a separate entry.
-</thinking>
-
 # Summer Youth Program Application - Help Guide
 ## Purpose
 The Summer Youth Program Application form is designed to collect information from applicants for the Summer Youth Program. To be eligible, applicants must fill out the form accurately and thoroughly. This form is for new applications only; if you have already submitted an application, please do not duplicate this process.

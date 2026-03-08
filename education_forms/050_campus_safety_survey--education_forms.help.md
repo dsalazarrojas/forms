@@ -1,5 +1,3 @@
-<thinking>... This form is designed to gather information from respondents about their safety experiences and perceptions on campus. Its purpose is to help the university understand how well its safety measures are working and identify areas that need improvement. The form should only be filled out by individuals who have been on campus, so we recommend that you respond truthfully and only if your experience is relevant...</thinking>
-
 # Campus Safety Survey - Help Guide
 
 ## Purpose

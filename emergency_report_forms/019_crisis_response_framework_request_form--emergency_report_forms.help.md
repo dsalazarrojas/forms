@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is used to collect information from users in a crisis response framework context. This form is designed to gather relevant details for crisis response efforts. To ensure the form is filled out correctly, please review the following help guide.
-</thinking>
-
 # Crisis Response Framework Request Form - Help Guide
 
 ## Purpose

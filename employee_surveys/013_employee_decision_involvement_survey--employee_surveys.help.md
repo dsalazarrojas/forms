@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather feedback and input from various stakeholders regarding the decision-making process within the organization. The Employee Decision Involvement Survey is intended to gauge how well employees are involved in the decision-making process and identify areas for improvement. Before filling out this form, ensure that you have read the instructions carefully and that your input is honest and constructive. Please note that this form is not meant to duplicate existing performance reviews or other similar evaluations.</thinking>
-
 # Employee Decision Involvement Survey - Help Guide
 ## Purpose
 The Employee Decision Involvement Survey is designed to gather feedback on the decision-making process within the organization, with the goal of identifying areas for improvement and ensuring that employees are effectively involved in the decision-making process.

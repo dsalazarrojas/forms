@@ -4,12 +4,6 @@
 
 This form is used to request a virtual experience production for an event or project. Please ensure that the information provided is accurate and complete to help us produce high-quality virtual experiences.
 
-<thinking>
-
-We are using this form to check for duplication and ensure that we are not producing the same virtual experience multiple times. If you have previously submitted a request for the same event, please do not resubmit this form. If you have any questions or concerns, please contact us at [insert contact information].
-
-</thinking>
-
 ## How To Complete This Form
 
 1. **Fill out all required fields**: Please fill out all fields marked as required (*).

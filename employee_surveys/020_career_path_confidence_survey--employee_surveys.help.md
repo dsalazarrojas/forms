@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly cover the purpose and relevance of this form. The Career Path Confidence Survey is a tool designed to assess an employee's confidence in their career path within the organization. This survey aims to gauge an individual's perception of their career direction, confidence in their current role, and readiness for advancement. It's essential to complete this form to understand how employees feel about their career development and identify areas for improvement or support. Please make sure to complete it only once, as repeating the survey may lead to inconsistent results.</thinking>
-
 # Career Path Confidence Survey - Help Guide
 
 ## Purpose

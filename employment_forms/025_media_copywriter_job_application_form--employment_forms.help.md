@@ -1,7 +1,3 @@
-<thinking>
-This form is used by potential candidates to apply for a Media Copywriter job position. It is crucial to fill it out completely and accurately to increase the chances of getting selected. Please ensure that the form is filled out once only, as submitting multiple applications can lead to confusion and may delay the evaluation process. Also, make sure to provide a valid application date in the correct format (dd/mm/yyyy).
-</thinking>
-
 # Media Copywriter Job Application Form - Help Guide
 ## Purpose
 This form is designed for potential candidates to submit their application for a Media Copywriter position. It gathers information about the applicant's background, experience, and qualifications to assess their fit for the role.

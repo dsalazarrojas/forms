@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Compensation Benchmarking Application Form - Help Guide
 
 ## Purpose

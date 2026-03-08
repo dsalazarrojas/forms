@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their favorite pumpkins. It is intended for entertainment purposes only and does not require any personal data. It's recommended to complete this form only once and not to duplicate entries.
-</thinking>
-
 # Which Pumpkin Is Your Favorite Form - Help Guide
 ## Purpose
 This form is designed to collect users' favorite pumpkin choices for entertainment purposes.

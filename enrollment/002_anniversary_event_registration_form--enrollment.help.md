@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow individuals to register for and provide information about an in-person or virtual anniversary event, including details about themselves, their guests, and any special requests or needs they may have. The form is meant to collect necessary information from attendees to facilitate event organization and communication. To avoid duplication, please only submit one registration form per attendee.
-</thinking>
-
 # Anniversary Event Registration Form - Help Guide
 ## Purpose
 The Anniversary Event Registration Form is designed to collect information from attendees to facilitate event organization and communication.

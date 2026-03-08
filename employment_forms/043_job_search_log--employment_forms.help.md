@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their job search activities. The form is designed to help users track their job search progress, noting the details of each job they are searching for, including the title, type, location, and company. This information can be useful for users to keep track of their job search activities and potentially aid in future reference.
-The form is likely to be used by job seekers, career advisors, or HR professionals to gather data on job search trends, company information, or other relevant metrics.
-The form should only be filled out once per job, to avoid duplication.
-</thinking>
-
 # Job Search Log - Help Guide
 ## Purpose
 This form is designed to collect job search information from users. It is meant to be filled out once for each job being searched, to avoid duplication.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the respondent's attitudes and behaviors related to sustainable fashion, specifically their preferences, concerns, and practices regarding environmental impact, consumerism, and lifestyle choices. The form aims to understand how individuals perceive the fashion industry's effect on the environment and what steps they plan to take to promote sustainable fashion practices.
-</thinking>
-
 # Green Attire Fashion Survey - Help Guide
 ## Purpose
 The Green Attire Fashion Survey is a questionnaire designed to gather information on your attitudes and behaviors related to sustainable fashion. Your participation is greatly appreciated and will help us understand how individuals perceive the fashion industry's environmental impact.

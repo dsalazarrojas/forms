@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for recording and authorizing cash disbursements. The purpose of this form is to ensure accurate and efficient cash disbursements are processed and accounted for. The form captures all relevant information related to the disbursement, including details about the payee, payment method, and accounting information.
-
-Before proceeding with completing this form, please ensure that all required fields are filled in correctly, as indicated by the "required" property in each field's label. This form should not be used for duplicate or redundant entries. Each disbursement should be processed separately and accurately. 
-
-</thinking>
-
 # Cash Disbursement Form - Help Guide
 ## Purpose
 The Cash Disbursement Form is used to record and authorize cash disbursements, ensuring accurate and efficient processing and accounting.

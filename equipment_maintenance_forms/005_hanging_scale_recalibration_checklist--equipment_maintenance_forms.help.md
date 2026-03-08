@@ -1,7 +1,3 @@
-<thinking>
-This form is used for recalibrating a hanging scale, a type of equipment used in various industries for measuring purposes. The form is designed to gather information about the current and recalibrated values, recalculation date, next due date for recalibration, and other relevant details. It is essential to fill out this form accurately to ensure that the scale is properly recalibrated and functioning correctly. Before starting, please ensure that you have all the necessary information and authorization to perform the recalibration. Please note that this form may be part of a larger process, and additional steps may be required after completing this form.
-</thinking>
-
 # Hanging Scale Recalibration Checklist - Help Guide
 ## Purpose
 This form is used to gather information for the recalculation of a hanging scale.

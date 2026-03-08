@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess respondents' awareness and attitudes towards ocean plastic pollution. It aims to gather information on their current knowledge, concerns, and actions related to ocean plastic pollution. This form is part of a larger initiative to improve ocean plastic pollution awareness among the general public.
-Please note that the form has 25 questions, each with a unique ID, name, label, and type. Some questions are multiple-choice select_one or select_multiple, while others are free-text fields.
-</thinking>
-
 # Ocean Plastic Awareness Survey - Help Guide
 
 ## Purpose

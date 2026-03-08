@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shift Handoff Preferences Survey - Help Guide
 ## Purpose
 This form is designed to gather information from employees on their preferences for shift handoffs, including communication methods, frequency, and priorities. The purpose of this form is to understand each employee's individual needs and provide a more effective handoff process. Please fill out this form thoroughly and honestly to help us better serve you.

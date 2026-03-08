@@ -1,11 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I'm considering the form's purpose is to collect suggestions or ideas from employees about improving the workplace culture. These suggestions might be aimed at enhancing the work environment, increasing employee engagement, or improving communication within the organization. The form is designed to be completed by employees to submit their ideas and feedback, and it will likely be reviewed by management or HR to determine the best course of action.
-
-To ensure that the form is used correctly, the following instructions and explanations will be provided for each field:
-
-</thinking>
-
 # Workplace Culture Suggestion Request Form - Help Guide
 ## Purpose
 The Workplace Culture Suggestion Request Form is designed to collect ideas and suggestions from employees to improve the workplace culture. This form helps gather feedback and ideas on how to create a more positive and productive work environment.

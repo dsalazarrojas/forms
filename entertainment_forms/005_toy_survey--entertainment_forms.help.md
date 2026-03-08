@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form, "toy_survey", is to collect user feedback and opinions about toys and gaming items, with questions that cover various aspects of their interaction with toys. This includes their frequency of visits to toy stores, preferred toy types, satisfaction with toy quality and price, and any additional comments or suggestions they might have. It appears to be an in-depth survey aimed at understanding user behavior and opinions, likely for business development or market research purposes.
 
 ## toy_survey - Help Guide

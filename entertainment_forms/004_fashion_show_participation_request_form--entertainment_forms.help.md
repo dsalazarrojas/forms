@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from participants who are interested in participating in a fashion show. The purpose of this form is to gather necessary details about the participants, such as their name, contact information, and preferences regarding their fashion item. This form should only be filled out by individuals who have not previously submitted an application for the same fashion show, to avoid redundant submissions.
-
-The participant will need to provide their contact information, including their name and email address, which will be used to communicate with them about their participation in the fashion show. They will also need to specify the date and time they are available to participate, as well as the type of role they are interested in playing during the show (e.g., model, designer, etc.). Additionally, they will need to describe their fashion item, including any relevant images or information about it.
-
-The form will help the fashion show organizers to get an overview of the participants' interests, skills, and availability, which will help in organizing the event more efficiently. It is crucial to fill out the form accurately and thoroughly to ensure a smooth and enjoyable experience for all participants.
-
-</thinking>
 # Fashion Show Participation Request Form - Help Guide
 ## Purpose
 The Fashion Show Participation Request Form is designed to collect information from participants interested in taking part in a fashion show. This form helps us understand your preferences, skills, and availability to better organize the event.

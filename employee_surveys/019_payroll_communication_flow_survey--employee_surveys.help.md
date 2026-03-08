@@ -2,9 +2,7 @@
 ## Purpose
 This survey is designed to gather feedback on the communication flow between employees and the payroll team. The goal is to understand how employees currently perceive and experience the payroll process, and to identify potential areas for improvement.
 
-> <thinking>Before answering this form, please note that this survey is meant to gather general feedback and is not a formal assessment of individual performance. Your input is invaluable in helping us improve our processes and services. Please answer these questions based on your current experience with our payroll team.</thinking>
-
-## How To Complete This Form
+> ## How To Complete This Form
 To complete this form, please go through each page and answer the questions accordingly. For select_multiple, select all that apply, and for select_one, select only one option that best describes your experience. You can skip questions that are not relevant or do not apply to you.
 
 ## Field-by-Field Explanation

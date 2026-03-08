@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants who are interested in being considered for a Senior Outreach Specialist position. This form is intended for internal use, and the data collected will be reviewed by hiring managers to assess the qualifications and experience of each applicant. Before submitting this form, please ensure that you are not duplicating an existing application, and that you have thoroughly reviewed the form to provide accurate and relevant information.
-
-The form is divided into several sections, each asking for specific information about your background, experience, and qualifications. Please take your time to review each section carefully and provide clear and concise answers.
-
-</thinking>
-
 # Senior Outreach Specialist Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from applicants interested in being considered for a Senior Outreach Specialist position.

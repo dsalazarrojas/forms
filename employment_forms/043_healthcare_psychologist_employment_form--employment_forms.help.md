@@ -1,13 +1,3 @@
-<thinking>
-
-To avoid duplication and ensure accurate completion of the form, the following internal reasoning should be applied:
-
-* Check if the user has already submitted a healthcare psychologist employment form before. If they have, redirect them to an update page with a unique URL that includes the existing form ID.
-* Validate that the user is an authorized person (e.g., HR representative) to access and fill out the form.
-* Ensure that the form is not being accessed by a non-dedicated user, such as a robot or a non-approved user.
-* Consider implementing a session-based authentication mechanism to track user activity and prevent concurrent access to the same form.
-</thinking>
-
 # Healthcare Psychologist Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information about your education, work experience, and other relevant details that are required for employment purposes as a healthcare psychologist.

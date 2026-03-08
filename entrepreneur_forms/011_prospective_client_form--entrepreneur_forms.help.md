@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather relevant information from prospective clients, which is a critical part of the onboarding process for new business partnerships. This form is designed to be completed by prospective clients, and its purpose is to collect essential data about them. It is essential to ensure that only one instance of this form is completed per prospective client to maintain data accuracy and prevent duplication. The collected data will be used to create a profile for each prospective client, which will aid in the partnership process.
-</thinking>
-
 # prospective_client_form - Help Guide
 ## Purpose
 The prospective client form is designed to collect information about prospective clients, which will aid in the onboarding process for new business partnerships. This form is intended to be completed by prospective clients and should only be filled out once per client.

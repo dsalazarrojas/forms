@@ -1,12 +1,3 @@
-<thinking>
-Please note that this form is designed to collect employment information from applicants for potential job openings within the organization. The purpose of this form is to gather essential details about the applicant's personal and professional background, education, and work experience. This information will be used to evaluate their suitability for available positions and facilitate the hiring process.
-
-This form consists of several sections, each with specific fields that require completion. Please ensure you fill out each field accurately and thoroughly.
-
-Before starting, please note that some fields are mandatory and must be completed. Others are optional but provide valuable context to your application.
-
-</thinking>
-
 # BOS Employment Application Form - Help Guide
 ## Purpose
 This form is designed to collect employment application information from applicants for potential job openings within the organization.

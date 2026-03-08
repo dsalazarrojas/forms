@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for employees to report their daily earnings, including their hours worked, payment methods, and any tips received. It is designed to be completed by employees to report their daily income and expenses, which will be reviewed and approved by managers. The form helps in maintaining accurate records and ensuring that employees are correctly compensated for their work. This form should only be completed once a day by each employee, and not for any other purpose.
-</thinking>
-
 # employee_report_of_tip_form - Help Guide
 ## Purpose
 This form is used to report daily earnings by employees. It helps in maintaining accurate records and ensuring correct payment.

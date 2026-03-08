@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about users' engagement and authority levels with your company. This form is likely used for market research or customer satisfaction surveys. It's essential to ensure that users understand the purpose of the form and its relevance to the company's goals. Please review your company's specific use case to confirm the form's purpose and avoid duplication of effort.
-</thinking>
-
 # Engagement And Authority Survey - Help Guide
 ## Purpose
 This form is designed to gather information about users' engagement and authority levels with your company. It will help the company understand how users perceive and interact with the company, which can inform marketing strategies and customer satisfaction initiatives.

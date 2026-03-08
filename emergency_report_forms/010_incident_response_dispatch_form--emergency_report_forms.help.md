@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the incident response dispatch process by gathering relevant information about the incident. Before completing this form, please make sure you have all necessary information and have reviewed it carefully to avoid duplication of effort. Please note that the form will be used to dispatch a team to respond to the incident, so please provide accurate and detailed information to ensure a prompt and effective response.
-</thinking>
-
 # Incident Response Dispatch Form - Help Guide
 ## Purpose
 The Incident Response Dispatch Form is used to report and dispatch incidents to the appropriate team, ensuring a prompt and effective response. This form collects information about the incident, including the dispatching team, priority level, response time, and incident details.

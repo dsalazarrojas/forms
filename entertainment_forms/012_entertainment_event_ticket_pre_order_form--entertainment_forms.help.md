@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in purchasing tickets for an entertainment event. The form should be filled out by anyone who wants to buy a ticket for the event. Please note that this form is a public adaptation of a survey form and is not affiliated with any form platform. Before filling out the form, make sure to read the following instructions carefully to ensure you get the most out of the form. 
-
-To complete this form, you will need to answer the required fields, which are marked with a *. Please ensure that you have all the necessary information before filling out the form. If you have any doubts or questions, feel free to reach out to us at form@gic.mx.
-
-</thinking>
-
 # Entertainment Event Ticket Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are interested in purchasing tickets for an entertainment event.

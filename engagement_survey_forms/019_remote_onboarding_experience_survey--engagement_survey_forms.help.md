@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from new hires about their remote onboarding experience. The form is intended to collect information on various aspects of their experience, including communication with managers and colleagues, overall experience, and feedback. This form is likely used by HR or management to assess the effectiveness of their remote onboarding process and identify areas for improvement.
-</thinking>
-
 # Remote Onboarding Experience Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from new hires about their remote onboarding experience. It will ask questions about their communication with managers and colleagues, overall experience, and other relevant aspects of their onboarding process.

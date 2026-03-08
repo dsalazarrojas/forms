@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to assess the quality of an academic curriculum, allowing respondents to provide feedback on various aspects of the curriculum. The survey is intended for use in higher education institutions to help identify strengths and areas for improvement.
-The form is organized into sections that cover different aspects of the curriculum, from its relevance to program objectives to its alignment with industry or professional needs.
-To ensure that the form is completed effectively and accurately, it is essential to understand the purpose and requirements of each section.
-</thinking>
-
 # Academic Curriculum Assessment Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to assess the quality of an academic curriculum, identifying its strengths and areas for improvement.

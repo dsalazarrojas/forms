@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the preferences of concert-goers for future events. The form will help us understand what types of music genres, venues, and event characteristics are most appealing to attendees. This information will be used to inform event planning and improve the overall concert experience for both attendees and organizers.
-</thinking>
-
 # Concert Goer Future Event Preferences Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your preferences for future concerts and events.

@@ -1,7 +1,3 @@
-<thinking>
-This form will help employees document their need for sickness leave, a type of leave that allows them to take time off for medical reasons. This form is used to gather information from employees who need to take a short-term leave of absence due to illness or injury. The purpose of this form is to ensure that the leave process is initiated and approved in a timely and efficient manner.
-</thinking>
-
 # Sickness Leave Form - Help Guide
 ## Purpose
 The Sickness Leave Form is a document used to record an employee's request for sickness leave. It captures essential information about the leave, including the employee's details, supervisor's approval, and other relevant specifics.

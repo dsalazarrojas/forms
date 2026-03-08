@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect medical employment information from users, likely for HR purposes or insurance-related activities. It's essential to fill out this form accurately to ensure proper medical employment information is captured. Please ensure you fill out this form only once for each medical employment instance, as duplicate submissions can cause confusion and affect medical employment data consistency.
-</thinking>
-
 # Medical Employment Information Form - Help Guide
 ## Purpose
 

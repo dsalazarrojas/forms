@@ -1,7 +1,3 @@
-<thinking>
-The HR Process Intelligence Pilot Application Form is designed to collect information from applicants to help HR teams better understand the needs and goals of candidates applying for pilot positions within the company. This form should only be completed by individuals who are genuinely interested in applying for a pilot position and are willing to provide accurate and honest information about their goals and challenges. Please note that the form is divided into sections for a clear and organized flow of information.
-</thinking>
-
 # HR Process Intelligence Pilot Application Form - Help Guide
 
 ## Purpose

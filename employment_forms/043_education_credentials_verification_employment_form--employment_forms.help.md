@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect personal details from an individual to verify their education credentials for employment purposes. It's likely to be used by HR departments or recruiters to gather relevant information from candidates during the hiring process. The form's purpose is to ensure that the candidate's education background matches the job requirements and company standards. To use this form, you must have a legitimate reason for doing so, and it's essential to handle the submitted data with care and in compliance with relevant data protection regulations.
-
-</thinking>
-
 # Education Credentials Verification Employment Form - Help Guide
 ## Purpose
 

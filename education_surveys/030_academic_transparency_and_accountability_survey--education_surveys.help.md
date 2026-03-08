@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Transparency And Accountability Survey - Help Guide
 ## Purpose
 The Academic Transparency and Accountability Survey is designed to gather feedback from members of the institution on their experiences and perceptions of transparency and accountability within the institution. This survey aims to collect data on decision-making processes, communication, and leadership accountability.

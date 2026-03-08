@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Assembly Line Worker Application Form - Help Guide
 
 ## Purpose

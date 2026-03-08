@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll review the form's purpose, required fields, and field-by-field explanations to ensure I provide accurate and clear instructions for end users. This form, the "Cash Out Form", is likely used for employees to request a cash out for a specific reason, providing details such as employee information, cash out amount, and reason for the request. The form has 25 fields, but only a few are required to ensure employees can submit a minimally viable request. I will focus on those key fields and create a clear and concise guide.</thinking>
-
 # Cash Out Form - Help Guide
 ## Purpose
 The Cash Out Form is used by employees to request a cash out for a specific reason. This form requires employee information, cash out amount, and reason for the request to be filled out. Use this guide to ensure you complete the form accurately.

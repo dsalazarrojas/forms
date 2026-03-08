@@ -1,7 +1,3 @@
-<thinking>
-The Time Off Request Form is used to document employee's absence or leave from work due to a time off request, which could be a vacation or an extended break. The form should be filled out when an employee intends to take some time off to ensure that the management and HR are notified and the absence can be recorded in the employee database. This form can only be filled out by employees, it's not intended for other purposes.
-</thinking>
-
 # Time Off Request Form - Help Guide
 ## Purpose
 The Time Off Request Form is a document used to record an employee's time off requests, allowing them to inform the management and HR of their absence.

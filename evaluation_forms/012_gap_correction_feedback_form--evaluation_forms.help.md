@@ -1,24 +1,3 @@
-<thinking>
-This form appears to be designed for collecting feedback and suggestions from individuals regarding performance gaps. It's likely used to identify areas where individuals or teams might be struggling and provide a platform for them to suggest improvements. The goal is to gather information that can help bridge these gaps and enhance performance. 
-
-To ensure relevance, please note that this form is only meant for providing feedback on performance gaps, and any other type of submission might not be processed. Duplicate submissions should be avoided, as this would dilute the effectiveness of the feedback.
-
-This form has the following fields:
-
-* First page (Page 1) - This field is used for any initial comments or questions.
-* Select one (Page 2) - Choose one of the options provided.
-* First Name, Last Name, and Email (Pages 3, 4, and 5) - These fields are for personal identification and contact information.
-* Phone and Date (Pages 6 and 7) - These fields are for additional contact information.
-* Time - This field is likely for scheduling or appointment purposes.
-* Performance Gaps (Page 9) - Describe any performance gaps you've identified.
-* Feedback (Page 10) - Share your thoughts or concerns about the performance gaps.
-* Suggestions (Page 11) - Suggest potential improvements or solutions.
-* Comments (Page 12) - Additional comments or observations.
-* Submit (Page 13) - This is the final step to submit your feedback.
-
-It's essential to fill in the fields accurately and concisely, as they will directly impact the quality of the feedback provided.
-</thinking>
-
 # Gap Correction Feedback Form - Help Guide
 ## Purpose
 The Gap Correction Feedback Form is a tool designed to help identify and address performance gaps that individuals or teams may be experiencing. By providing a clear and concise platform for feedback and suggestions, it aims to improve performance and bridge these gaps.

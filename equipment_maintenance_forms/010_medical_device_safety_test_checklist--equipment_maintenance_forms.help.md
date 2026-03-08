@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for recording and maintaining information about the safety testing of medical devices. The form likely serves to ensure that medical devices are regularly inspected and tested for their safety and functionality. This form could be used by medical device administrators, safety managers, or technicians responsible for maintaining and inspecting medical equipment. To confirm, the form includes fields for medical device information, serial number, last inspection date, next due date, next calibration date, calibration frequency, and so on. This form might be part of a larger maintenance and safety management system used in hospitals, clinics, or other healthcare institutions. It's essential to verify the form's relevance and accuracy in your specific context before proceeding.
-</thinking>
-
 # medical_device_safety_test_checklist - Help Guide
 ## Purpose
 This form is used to record and maintain information about the safety testing of medical devices.

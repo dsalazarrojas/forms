@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "pre_employment_health_questionnaire" form is designed to collect general and medical information from new employees as part of the onboarding process. This form is used to ensure that all new employees have the necessary medical clearance and information before they start working. The form is divided into several sections, including General Information, Medical Information, Allergies, Medications, Medical Conditions, and Medical Procedure. This information will be used by HR and benefits administrators to create employee profiles and ensure that they have accurate and up-to-date information about each employee's health status.
 
 Before completing this form, ensure that you have the necessary information and answers readily available. The form must be completed accurately and honestly, as it is used for official records and benefits purposes. If you have any questions or concerns, please reach out to your HR representative for assistance.

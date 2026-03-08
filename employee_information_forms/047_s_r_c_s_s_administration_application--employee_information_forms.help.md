@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect employee information for administration purposes. The fields are intended to gather essential details about an individual, including their name, contact information (email and phone), date of birth, time of hiring, and any additional notes. The form also includes a field for selecting a category and multiple selection options. The purpose of this form is to efficiently capture and store employee data for administrative use.
-
-To determine if this form is relevant and not duplicated, consider the following:
-
-- Is the form intended for internal use within the organization?
-- Is the form part of a larger process or workflow?
-- Are the fields and their labels clear and concise?
-
-If you have answered "yes" to the above questions, proceed to the form guide below.
-</thinking>
-
 # s_r_c_s_s_administration_application - Help Guide
 ## Purpose
 This form is designed to collect employee information for administration purposes.

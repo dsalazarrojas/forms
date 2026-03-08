@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about TV series. The form fields are designed to gather details such as title, genre, number of episodes, release year, seasons, description, tags, and creator. The purpose of this form is to create a comprehensive catalog of TV series. This form will likely be used by users who want to submit or update TV series data in a database or platform.
-
-To ensure that the form is completed correctly, I will review the field types and labels to provide clear explanations for end-users.
-
-</thinking>
-
 # TV Series Catalog Form - Help Guide
 ## Purpose
 The TV Series Catalog Form is designed to collect information about TV series to create a comprehensive catalog. This form will help users submit or update TV series data in a database or platform.

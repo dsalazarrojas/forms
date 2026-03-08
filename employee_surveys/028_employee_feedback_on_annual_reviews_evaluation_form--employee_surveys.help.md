@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from employees on their experiences and satisfaction with the annual review process. This form is designed to gather information on their perception of the review process, their level of satisfaction, and areas for improvement. It is essential to ensure that the form is completed honestly and to the best of the employee's knowledge. Please do not duplicate or repeat any information that you have already provided in other evaluations or feedback sessions. Ensure that you answer the questions truthfully and to the best of your ability...</thinking>
-
 # Employee Feedback On Annual Reviews Evaluation Form - Help Guide
 
 ## Purpose

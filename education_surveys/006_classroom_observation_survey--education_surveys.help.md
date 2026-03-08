@@ -1,17 +1,3 @@
-<thinking>
-
-The goal of this form is to gather information about a classroom observation, focusing on various aspects of the teacher's performance, student behavior, and classroom environment. This form is intended to be used by observers, who are typically teachers, administrators, or external evaluators, to provide a comprehensive assessment of the classroom setting.
-
-The form is designed to be completed by one observer, and it captures the following information:
-
-* Observer details: The observer's name, role, and position or title.
-* Teacher and class information: The name of the teacher being observed, the subject area of the class, and the grade level of the students.
-* Observation date: The date of the classroom observation.
-* Ratings and assessments: The observer's ratings of the classroom environment, student knowledge demonstration, student skills demonstration, student behavior, class management effectiveness, instructional quality, and overall impression.
-* Strengths and areas for improvement: The observer's observations of the teacher's strengths and areas for improvement.
-
-</thinking>
-
 # Classroom Observation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a classroom observation, focusing on various aspects of the teacher's performance, student behavior, and classroom environment.

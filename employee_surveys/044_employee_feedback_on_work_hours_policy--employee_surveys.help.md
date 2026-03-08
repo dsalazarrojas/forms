@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on the company's work hours policy. It is meant to be completed by employees who wish to provide their thoughts and opinions on the current policy. The form is intended to gather information on their experiences, likes, and dislikes regarding the policy, which will help the management to make informed decisions on any necessary changes or adjustments to be made to the policy.
-</thinking>
-
 # Employee Feedback On Work Hours Policy - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on the company's work hours policy. It will help the management understand the experiences, likes, and dislikes of employees regarding the policy.

@@ -1,5 +1,3 @@
-<thinking>Since this form is for registration and organization purposes, I will explain its purpose: to collect information from participants about the workshop they plan to attend. This form will help us track participant details, workshop specifics, and other relevant information to ensure the workshop runs smoothly and efficiently. To avoid duplication, please fill out this form only once for each participant. This form will not be used for any other purpose other than registration and organization of the workshop.</thinking>
-
 # Entertainment Training Registration Form - Help Guide
 ## Purpose
 The Entertainment Training Registration Form is used to collect information from participants about the workshop they plan to attend.

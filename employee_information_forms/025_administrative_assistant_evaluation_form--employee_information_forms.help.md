@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I'll create a comprehensive user-facing help guide for the "Administrative Assistant Evaluation Form" that's clear, concise, and easy to follow. Before I dive into the guide, let me just check if the form purpose and fields are relevant and not duplicated. The form seems to be a thorough evaluation tool for assessing an administrative assistant's performance, and I don't see any obvious duplications or irrelevancies. I'll proceed with creating the help guide.</thinking>
-
 # Administrative Assistant Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of an administrative assistant, gathering feedback on their attendance, punctuality, communication skills, organizational abilities, computer proficiency, and other critical aspects of their role. The evaluation will help managers and supervisors assess their administrative assistants' strengths and weaknesses, provide guidance for improvement, and make informed decisions about their development and growth opportunities.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information for employment opportunities in the IT sector. It is crucial to ensure that the information is accurate and up-to-date to prevent duplication and ensure relevant results.
-
-Before proceeding, please note that this guide is only a guide. If you are unsure or have any questions, please contact the HR department for clarification.
-</thinking>
-
 # IT Sector Employment Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information for employment opportunities in the IT sector. It is essential to provide accurate and up-to-date information to attract the right candidates for the job.

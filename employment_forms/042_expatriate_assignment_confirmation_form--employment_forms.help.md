@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for confirming expatriate assignments within an organization, ensuring that employees understand their terms and conditions of employment. The form aims to gather information about the employee's details, assignment location, job start and end dates, terms acceptance, and any additional confirmation notes. This form is not affiliated with any specific platform or service and can be used as is or modified according to individual needs.
-</thinking>
-
 # Expatriate Assignment Confirmation Form - Help Guide
 ## Purpose
 The Expatriate Assignment Confirmation Form is a document used to confirm employee details and terms of employment for expatriate assignments.

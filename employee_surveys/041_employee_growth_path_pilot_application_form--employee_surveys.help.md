@@ -1,10 +1,3 @@
-<thinking> 
-To create an effective help guide for this form, we must first understand its purpose and intended use cases. The Employee Growth Path Pilot Application Form appears to be a tool for employees to express their interest in pursuing career development opportunities within their organization. The form may be used by employees who are looking to gain new skills, take on new challenges, or seek promotions. The purpose of this form is to collect relevant information from employees, including their background, motivation, and availability. 
-
-Before proceeding, ensure that this form is not intended for duplicate use, such as when an employee has already submitted a similar application in the past. If this is the case, please review and update the form accordingly.
-
-</thinking>
-
 # Employee Growth Path Pilot Application Form - Help Guide
 ## Purpose
 The Employee Growth Path Pilot Application Form is designed to help employees express their interest in career development opportunities within their organization. This form collects relevant information from employees, including their background, motivation, and availability.

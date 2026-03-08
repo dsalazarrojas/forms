@@ -1,9 +1,3 @@
-<thinking>
-To prevent duplication of effort and ensure that the form is used effectively, it's essential to understand the purpose and requirements of the "Email-Campaign-Plan-Form-Template". This form is designed to plan and organize email marketing campaigns, providing a structured approach to crafting a successful campaign. Each field in this form plays a crucial role in shaping the campaign's strategy, execution, and outcome. Completing this form will ensure that the campaign team is on the same page and that the campaign meets its goals.
-
-
-</thinking>
-
 # Email-Campaign-Plan-Form-Template - Help Guide
 ## Purpose
 The Email-Campaign-Plan-Form-Template is a tool to help you plan and organize email marketing campaigns. It guides you through the essential steps to create a well-structured campaign that meets your objectives.

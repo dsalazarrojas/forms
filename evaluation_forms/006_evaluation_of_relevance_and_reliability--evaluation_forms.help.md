@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the relevance and reliability of information or sources. It's meant to be filled out by assessors or evaluators to provide an objective assessment of a given topic, issue, or source. The form is intended to ensure that the evaluator has a clear understanding of the source's relevance and reliability and that this understanding is documented for future reference. 
-
-This form is used to prevent duplication of effort and to maintain consistency in evaluations. It helps in keeping track of evaluations and their status, making it easier to identify areas that need further evaluation.
-
-</thinking>
-
 # Evaluation Of Relevance And Reliability - Help Guide
 ## Purpose
 The Evaluation Of Relevance And Reliability form is used to assess the relevance and reliability of information or sources. It is designed to be filled out by assessors or evaluators to provide a clear understanding of a source's relevance and reliability.

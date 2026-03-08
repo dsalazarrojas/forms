@@ -1,7 +1,3 @@
-<thinking>...
-The purpose of this form is to assess respondents' awareness and experiences with academic integrity policies, their confidence in reporting misconduct, and their preferences for anonymous surveys. This form is designed to gather feedback on how to improve the university's academic integrity support services. It is essential to complete this form to contribute to the development of more effective and supportive policies and procedures.
-</thinking>
-
 # Academic Integrity Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information on your experiences and perceptions regarding academic integrity at the university. Your responses will help the administration and support services better understand the needs and concerns of the academic community, enabling them to improve the overall integrity support.

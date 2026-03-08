@@ -1,10 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-Before filling out this form, please ensure that you are not duplicating your input. This form is intended to collect feedback on how well your holiday office hours are being met. Your responses will help us improve our office hours schedule. Please be honest and complete the form as accurately as possible.
-
-</thinking>
-
 # Holiday Office Hours Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their holiday office hours experience. Your input will help us better understand your needs and improve our office hours schedule.

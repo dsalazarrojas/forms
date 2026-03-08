@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about employee laptop usage and agreement terms. It is used to ensure that employees understand and agree to the usage guidelines for company-provided laptops. The form may be part of a larger process for issuing or replacing company-owned laptops.
-
-</thinking>
-
 # Employee Laptop Agreement Form - Help Guide
 ## Purpose
 This form is used to collect employee details, laptop information, and agreement terms for company-owned laptops.

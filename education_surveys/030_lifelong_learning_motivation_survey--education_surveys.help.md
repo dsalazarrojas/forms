@@ -1,14 +1,3 @@
-<thinking>
-The Lifelong Learning Motivation Survey is intended to gather information about individuals' motivations for learning new skills, barriers to learning, and preferences for learning environments. This form is used to collect data on the following topics:
-
-* Motivations for learning (e.g. personal interest, career goals, external pressures)
-* Barriers to learning (e.g. limited time, financial constraints, lack of support)
-* Learning preferences (e.g. in-person instruction, online learning, self-guided learning)
-
-This information will help us understand the factors that influence individuals' willingness and ability to learn new skills, and how we can best support and facilitate learning opportunities for our users.
-
-</thinking>
-
 # Lifelong Learning Motivation Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your motivations for learning new skills and your preferences for learning environments. Your responses will help us understand how to better support and facilitate learning opportunities for you and others.

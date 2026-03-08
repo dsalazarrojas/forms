@@ -1,14 +1,3 @@
-<thinking>
-This form is used for requesting electrical termination drawings, which are essential documents for engineers and technicians to plan and execute electrical connections in various settings. It ensures that the required information is gathered accurately and efficiently.
-
-To prevent duplication and ensure that the form is filled out correctly, please make sure the form is not already filled out by another engineer for the same location and date. Before proceeding, double-check that there are no existing requests for the same location and date. If you're unsure, please reach out to the relevant department or team lead for guidance.
-
-The form is split into two pages: Electrical Termination Drawing Request and Contact Information. The first page requires details about the termination request, while the second page focuses on contact information and other related details.
-
-Before filling out the form, please refer to the fields below for further guidance.
-
-</thinking>
-
 # Electrical Termination Drawing Request Form - Help Guide
 ## Purpose
 The Electrical Termination Drawing Request Form is designed to gather essential information for engineers and technicians to create accurate electrical termination drawings.

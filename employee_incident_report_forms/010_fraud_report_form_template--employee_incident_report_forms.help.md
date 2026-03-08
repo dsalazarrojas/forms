@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Fraud Report Form Template - Help Guide
 ====================================
 

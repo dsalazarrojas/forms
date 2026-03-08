@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for academic recommenders to provide a professional evaluation of a candidate, typically for academic or job recommendation purposes. The form collects information about the recommender's relationship to the candidate, the candidate's name and program/position, their key strengths and contributions, areas for development, and the recommender's overall rating of the candidate. This form is likely used in an educational setting to support the candidate's application or career goals.
-</thinking>
-
 # Academic Recommendation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a candidate from an academic recommendor, providing a professional evaluation of the candidate's abilities and potential.

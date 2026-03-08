@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dental_employee_evaluation_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from employees in the dental industry, specifically for assessing their performance and progress.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a film production team when a retake is requested for a particular scene. This form will likely be used by filmmakers, producers, and production coordinators to communicate with other crew members or vendors about the need for a retake. The purpose of this form is to provide essential details about the scene, including the reason for the retake and the preferred date and time for the retake.
-</thinking>
-
 # Film Scene Retake Request Form - Help Guide
 ## Purpose
 This form is used to request a retake for a film scene, providing essential details to facilitate the process.

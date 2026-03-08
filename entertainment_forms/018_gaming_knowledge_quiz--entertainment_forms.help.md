@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a gaming-related topic or question. It's meant to be completed by users who want to share their gaming knowledge or provide feedback on a specific game. The form is likely used in an online community or forum where users can ask and answer questions related to games.
-The form is not meant to be filled out multiple times by the same user or for the same game, so users should not fill it out for the same game or topic more than once.
-</thinking>
-
 # Gaming Knowledge Quiz - Help Guide
 ## Purpose
 This form is used to collect information from users about their gaming experiences or knowledge. It's a tool for the community to share and discuss various games, platforms, and genres.

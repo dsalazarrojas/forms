@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gauge your perception of safety on campus or in specific areas where you may feel vulnerable. Your responses will help us understand your sense of safety and identify areas where we can improve. Please answer these questions truthfully, and feel free to provide any additional comments or thoughts you may have.
-
-</thinking>
-
 # Safety Perception Survey - Help Guide
 ## Purpose
 The Safety Perception Survey is designed to collect your opinions on how safe you feel in different situations, such as walking alone at night or on campus. Your input will help us better understand your perceptions and identify areas where we can improve safety measures.

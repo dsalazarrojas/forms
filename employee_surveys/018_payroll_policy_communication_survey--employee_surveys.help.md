@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather employee feedback on payroll policy communication. The survey is part of the employee engagement and feedback process to understand what works best for the employees and what needs improvement. This form is intended for employees to respond anonymously, and their responses will be used to inform future changes to payroll policy communication. The survey consists of multiple-choice questions and open-ended fields for gathering more detailed feedback. To ensure accuracy, please respond to each question carefully, and if you have any concerns or questions, feel free to reach out to your HR representative.
-</thinking>
-
 # Payroll Policy Communication Survey - Help Guide
 
 ## Purpose

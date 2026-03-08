@@ -1,6 +1,3 @@
-<thinking>
-This form is for Adjunct Faculty Employment Applications, which are typically used for hiring or re-hiring part-time instructors to teach specific courses or sections. To ensure that this form is used correctly, please review the fields carefully and only submit it for valid purposes. Please note that this form is not intended for other types of employee applications, such as staff or full-time faculty. If you are applying for a different type of position, please use the relevant form instead.</thinking>
-
 # Adjunct Faculty Employment Application - Help Guide
 ## Purpose
 The Adjunct Faculty Employment Application form is used to gather information from potential adjunct faculty applicants. This form helps to streamline the hiring process by collecting necessary contact and educational information from applicants.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from DJs who want to participate in live streaming events. The form is likely to be used by event organizers to collect details about the DJs, such as their profiles and event information, and to enable them to sign up for live streaming events. This form is not intended to collect sensitive or confidential information and should only be filled out by individuals who are interested in participating in live streaming events as DJs. It's worth noting that the form fields are not required, so individuals can choose to fill out as much or as little information as they want. The form does not appear to be designed for multiple submissions or repetitive usage, suggesting that it's intended for one-time registration per individual. 
-</thinking>
-
 # Live Stream DJ Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from DJs who want to participate in live streaming events.

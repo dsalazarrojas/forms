@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from employees regarding their travel expenses. It is essential to ensure that all fields are filled out accurately, and the form should not be used for non-business purposes. Please review each field carefully to ensure you understand its purpose before proceeding.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Travel Claim Form - Help Guide
 ## Purpose
 The Travel Claim Form is used by employees to submit their travel expenses for reimbursement. To ensure accurate processing, please fill out the form with all necessary information.

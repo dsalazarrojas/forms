@@ -1,6 +1,3 @@
-<thinking> 
-Please ensure that you are completing this form for the right reason and purpose. This form is used to nominate an employee for a specific position or recognition. Please do not submit the form if the employee you are nominating is not eligible for nomination or if you have already submitted a nomination for the same employee in the past.</thinking>
-
 # Employee Nomination Form - Help Guide
 ## Purpose
 The Employee Nomination Form is used to nominate an employee for a specific position or recognition. This form helps the management team to keep track of employee nominations and evaluate them for potential awards or promotions.

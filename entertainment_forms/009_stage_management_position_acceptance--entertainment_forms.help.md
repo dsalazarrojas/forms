@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from users regarding the acceptance or rejection of a stage management position. The purpose of this form is to gather data on the status of stage management positions, including job offers, job start dates, role expectations, agreements, and other relevant details. It's essential to ensure that this information is accurate and up-to-date to maintain effective stage management operations.
-
-To avoid duplication of efforts, please fill out this form only when a stage management position has been offered or accepted.
-
-Before completing this form, ensure that you have all the necessary information to accurately fill out the fields.
-
-</thinking>
-
 # Stage Management Position Acceptance - Help Guide
 ## Purpose
 This form is used to collect information on stage management position acceptances or rejections, ensuring accurate data for stage management operations.

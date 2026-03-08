@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the readiness of new employees in terms of their ability to perform their job duties. It is intended to be completed by new employees, and its results will be used to assess their preparedness to start their new role. This form is not a mandatory requirement, but it will help management to identify potential knowledge gaps and provide necessary training or support to ensure a smooth transition.
-</thinking>
-
 # New Member Readiness Survey Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your readiness to start your new role as a member of our team. This will help us better understand your current skills and experience, and provide a more effective onboarding process.

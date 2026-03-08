@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about senior citizens who experienced social isolation during the COVID-19 pandemic. The purpose of this form is to gather data on how the pandemic affected seniors' academic and mental well-being. The form is not meant to be a comprehensive survey, but rather a quick assessment to gather general insights. This form should only be filled out by seniors who have experienced social isolation during the pandemic and are willing to share their experiences.
-</thinking>
-
 # The Analysis Of The Academic Consequences Of Social Isolation During The COVID 19 Pandemic On Senior - Help Guide
 ## Purpose
 This form is designed to collect information about senior citizens who experienced social isolation during the COVID-19 pandemic. The goal is to gather data on how the pandemic affected their academic and mental well-being.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help educators and school administrators assess and improve their cultural responsiveness in teaching practices, student support systems, and other relevant areas. The form asks for feedback from various stakeholders, including teachers, school administrators, and students. It's essential to fill this form to ensure that everyone has a clear understanding of what cultural responsiveness means and how it can be implemented in the teaching environment.
-</thinking>
-
 # Cultural Responsiveness In Teaching Survey - Help Guide
 
 ## Purpose

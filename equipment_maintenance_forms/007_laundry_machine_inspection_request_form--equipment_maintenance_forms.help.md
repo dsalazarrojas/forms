@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Laundry Machine Inspection Request Form - Help Guide
 ==============================================
 

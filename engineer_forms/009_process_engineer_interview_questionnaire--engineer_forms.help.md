@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a process engineer's experience, skills, and thought process during the hiring process. It is intended to be completed by candidates applying for a process engineer position, and the questions are designed to assess their ability to communicate their background, approach to problem-solving, and experience with process design, development, and implementation.
-
-The form is divided into 17 questions that cover various aspects of process engineering, including motivation for applying for the position, problem-solving approach, experience with data analysis, communication skills, and experience with process design, development, and validation. This form is designed to help the hiring team understand the candidate's qualifications and fit for the position.
-
-This form will not be used for internal reference, and the questions are not intended to be scored or graded. The form is for candidate self-reporting, and the answers will be reviewed on a case-by-case basis.
-
-</thinking>
-
 # Process Engineer Interview Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a process engineer's experience, skills, and thought process during the hiring process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # media_production_employment_flexibility_impact_survey - Help Guide
 ## Purpose
 This form is designed to collect information about the impact of employment flexibility on media production. It is intended for use by employees to provide feedback on their experiences with flexible work arrangements in the production process.

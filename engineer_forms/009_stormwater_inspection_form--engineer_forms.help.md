@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for stormwater inspection records, collecting information on inspection frequency, system components inspected, and other relevant details. The purpose of this form is to standardize and document stormwater inspections, likely for maintenance, quality control, or regulatory compliance purposes.
-
-Before proceeding, please confirm this form is relevant to your specific use case. Ensure you have the necessary permissions and access rights to submit this form.
-
-Please note that some fields are optional and can be filled in based on your specific requirements.
-
-</thinking>
-
 # Stormwater Inspection Form - Help Guide
 ## Purpose
 This form is designed to help standardize and document stormwater inspections. It captures critical information on inspection frequency, system components inspected, and other relevant details.

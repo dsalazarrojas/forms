@@ -1,14 +1,3 @@
-<thinking>
-This form is used to update an employee's payroll information. Before creating this form, ensure you have the necessary permissions and approvals to modify an employee's payroll details.
-
-Please check that this form is not being completed to correct a mistake or as a duplicate request. Ensure you have reviewed the employee's original payroll information and are making the change for a valid reason.
-
-The form has two fields that are required for completion: Employee ID and Employee Pay Rate. The Payroll Change Date is optional but recommended for tracking purposes.
-
-This form will be reviewed and validated by HR/Finance teams before being implemented. Ensure all fields are completed accurately and thoroughly.
-
-</thinking>
-
 # Employee Payroll Change Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from users on how effectively the workplace communication channels are being used. It's meant to help teams understand the strengths and weaknesses of their communication processes, allowing them to identify areas for improvement. It seems that this form is a survey to gather data about response times and channels, rather than a form that requests personal information or confidential data. There should not be a need for duplication of questions in the same form.
-
-</thinking>
-
 # Workplace Feedback Channel Survey - Help Guide
 ## Purpose
 This form is a survey aimed at gathering data about the effectiveness of workplace communication channels. The goal is to help teams understand their strengths and weaknesses and identify areas for improvement.

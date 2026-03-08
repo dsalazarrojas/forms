@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to allow employees to submit suggestions and ideas for improvement or change within the organization. This form is designed to gather feedback from employees and provide a platform for them to share their thoughts and ideas. To avoid duplication, employees will be informed if a similar suggestion has already been made and is currently being reviewed. Please complete this form carefully and truthfully to ensure that your suggestions are properly evaluated. Please note that all suggestions will be reviewed and evaluated, and a response will be provided once they are reviewed. If a similar suggestion has already been made, please do not resubmit. Instead, add your thoughts to the existing suggestion if you wish to do so...</thinking>
-
 # Employee Suggestion Submission Form - Help Guide
 ## Purpose
 The Employee Suggestion Submission Form is a tool for employees to submit their suggestions and ideas for improvement or change within the organization. This form helps gather feedback from employees, provides a platform for them to share their thoughts, and ensures that their ideas are evaluated and responded to.

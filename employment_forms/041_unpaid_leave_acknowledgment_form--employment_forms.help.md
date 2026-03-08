@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to acknowledge and document an employee's unpaid leave, which is a formal request for time off without pay that the employee is taking. This form is used by employees to notify their manager of their leave dates and reason for the leave. The form is also used by the manager to approve or deny the leave, and to record their notes and signature. This form should only be filled out by the employee, and then reviewed and approved/denied by the manager. 
-</thinking>
-
 # Unpaid Leave Acknowledgment Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a form that encourages entrepreneurship and creativity, we'll focus on guiding users through the "creator_circle_registration" form. This form aims to collect essential information from creators about their projects, applications, and programs. Given its purpose is to onboard membership, we need to ensure the fields are clear and user-friendly.
-
-We don't have specific business logic behind some field labels, so we'll rely on general explanations. Our form has 4 fields: "Creator Details," "Review Application," "Onboard Membership," and "Creator Programs."
-
-</thinking>
-
 # creator_circle_registration - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from participants about their preferences and interests in fantasy series. Specifically, it aims to gather data on their favorite fantasy worlds, books, movies, characters, and trivia scores. This form is likely used in a research or survey context, such as in market research, audience engagement, or educational settings.
 
 ## Fantasy Series Quiz - Help Guide

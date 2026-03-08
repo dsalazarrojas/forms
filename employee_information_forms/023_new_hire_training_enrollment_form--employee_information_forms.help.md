@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_hire_training_enrollment_form - Help Guide
 ## Purpose
 The New Hire Training Enrollment Form is used to collect information about a new hire, including their name, contact details, training programs, and job-related information. This form is required for all new hires and must be completed in full to ensure accurate and up-to-date records.

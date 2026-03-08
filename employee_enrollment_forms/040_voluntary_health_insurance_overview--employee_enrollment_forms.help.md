@@ -1,8 +1,3 @@
-<thinking>
-The form "Voluntary Health Insurance Overview" is designed to collect information about employees and their company's details for health insurance purposes. This form is meant to be filled out by employees who are enrolling in or are already enrolled in the company's voluntary health insurance program. The data collected in this form will be used to identify and verify employee and company information for health insurance enrollment and claims processing.
-
-</thinking>
-
 # Voluntary Health Insurance Overview - Help Guide
 ## Purpose
 The Voluntary Health Insurance Overview form is a crucial document that allows employees to enroll in or update their health insurance coverage. It collects essential details about employees and their companies, which will be used for health insurance enrollment and claims processing purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from employees on the effectiveness of the feedback process within the workplace. The form will ask various questions to understand how employees perceive the feedback process, its usefulness, and areas for improvement. This feedback will help management identify potential issues and areas for growth. Please note that this form is designed to be completed by employees, so please answer honestly, and do not worry about providing feedback that may seem negative. Your input is valuable and will help us improve the feedback process.
-</thinking>
-
 # feedback_process_effectiveness_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from employees on the effectiveness of the feedback process within the workplace.

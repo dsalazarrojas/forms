@@ -1,9 +1,3 @@
-<thinking>
-  This form is used for reporting on emergency drills conducted in emergency situations. 
-  The form captures various details and information about the drill, including date, location, time, observer count, safety standards met, observations, actions taken, conclusion, recommended improvements, additional comments, and who conducted the drill.
-  It is intended to be filled out by individuals or teams involved in the drill, providing a comprehensive overview of the drill's outcome and any subsequent actions taken.
-</thinking>
-
 # emergency_drill_report_form - Help Guide
 ## Purpose
 This form is used for reporting on emergency drills conducted in emergency situations. 

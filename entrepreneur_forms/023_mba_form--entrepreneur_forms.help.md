@@ -1,5 +1,3 @@
-<thinking>What the form "mba_form" is designed to collect information from applicants for MBA (Master's in Business Administration) programs. The form has several fields that collect various pieces of information from applicants, including their demographic details, education history, work experience, language skills, computer skills, education level, program preferences, and more. This form is likely used by admission officers to assess applicants' suitability for MBA programs, and the provided fields are likely designed to gather necessary information for the admission process.</thinking>
-
 # mba_form - Help Guide
 ## Purpose
 The "mba_form" is a form designed to collect information from applicants for MBA programs. This guide will walk you through the form's purpose, how to complete it, and what each field means.

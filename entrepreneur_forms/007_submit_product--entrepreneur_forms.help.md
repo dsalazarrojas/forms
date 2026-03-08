@@ -1,21 +1,3 @@
-<thinking>
-Before generating the help guide, I would like to confirm that the form is intended for submitting a product with the following fields:
-* First Name
-* Last Name
-* Product Name
-* Category (with multiple options)
-* Description
-* Email (not required)
-* Phone (not required)
-
-The form appears to be for creating or updating a product in an online system, possibly for an e-commerce platform or product management system.
-
-To confirm, is this correct? 
-
-If so, I will proceed with generating the help guide.
-
-</thinking>
-
 # Submit Product - Help Guide
 ## Purpose
 This form is used to submit a new product with details such as name, category, and description. To complete this form, please follow the instructions below.

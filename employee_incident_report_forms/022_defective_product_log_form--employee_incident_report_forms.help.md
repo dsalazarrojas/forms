@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Defective Product Log Form - Help Guide
 
 ## Purpose

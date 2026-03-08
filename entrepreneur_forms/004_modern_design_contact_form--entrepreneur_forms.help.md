@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for general contact purposes, allowing users to send messages and requests to the form owner or administrator. The form does not collect sensitive information such as payment details, personal data, or confidential information. The form's simplicity allows users to quickly and easily send their queries or suggestions.
-
-</thinking>
-
 # modern-design-contact-form - Help Guide
 ## Purpose
 The modern-design-contact-form is a simple contact form for sending messages and requests to the form owner or administrator.

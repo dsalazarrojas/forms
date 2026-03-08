@@ -1,12 +1,3 @@
-<thinking>
-The Music Industry Accelerator Application Form is designed to help artists and music professionals apply for the Music Industry Accelerator program. This program aims to support and accelerate the growth of the music industry by providing resources and guidance to artists and professionals who are looking to advance their careers. The form is a crucial step in the application process, as it allows the artist to showcase their background, music style, and goals, as well as provide contact information and a statement about their artistic vision.
-
-Before filling out the form, make sure you have all the required information and details about your artistic project. Double-check that you're not duplicating an application for a similar project or artist. Ensure you're using the correct contact information and that your project aligns with the Music Industry Accelerator's goals and values.
-
-The following guide will walk you through the process of completing the form, section by section, to help you understand what each field is used for and how to provide the required information.
-
-</thinking>
-
 # Music Industry Accelerator Application Form - Help Guide
 ## Purpose
 The Music Industry Accelerator Application Form is designed to gather information from artists and music professionals to evaluate their suitability for the Music Industry Accelerator program. The form helps us understand your background, music style, and goals, which are essential for the selection process.

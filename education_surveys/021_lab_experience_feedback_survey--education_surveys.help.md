@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing help guide for a "Lab Experience Feedback Survey" in the education category, likely used to gather feedback from students about their lab sessions. The form's purpose is to collect information about students' experiences, opinions, and perceptions of the lab sessions they attended. The form asks students to provide feedback on various aspects of their lab session, including the session's name, date, facilities, equipment, instructor, quality, and overall satisfaction. The form's structure and field names suggest that it is designed to be completed by students who have attended a lab session, and the feedback collected will likely be used by instructors or lab administrators to improve future lab sessions. To ensure that this form is not duplicated or copied from any other source, it is explicitly stated that this form was created by AI using only public survey topic metadata and is an original adaptation, not affiliated with, endorsed by, or derived from any form platform.
-</thinking>
-
 # Lab Experience Feedback Survey - Help Guide
 
 ## Purpose

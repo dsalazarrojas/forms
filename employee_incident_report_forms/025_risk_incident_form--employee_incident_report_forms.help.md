@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from employees regarding any risk incidents they have experienced in the workplace. This form will help in recording and reporting such incidents to ensure that the workplace remains a safe environment for all employees. Please fill out this form carefully and accurately, ensuring that you are providing all relevant information about the incident. 
-
-This form should not be used to report incidents that are not related to workplace risk, or if the incident has already been reported. Reporting non-relevant or duplicate incidents can lead to unnecessary delays and inefficiencies in the reporting process.
-
-</thinking>
-
 # Risk Incident Form - Help Guide
 ## Purpose
 

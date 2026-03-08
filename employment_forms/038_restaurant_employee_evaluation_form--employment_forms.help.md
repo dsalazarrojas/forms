@@ -1,11 +1,3 @@
-<thinking>
-
-This form is meant to be used by restaurant management to evaluate the performance of restaurant employees, taking into consideration their name, job title (supervisor), the date of the evaluation, a brief description of the evaluation period, an assessment of the employee's performance, feedback and recommendations for improvement, the type of evaluation (e.g., Excellent, Good, Fair, Poor), a numerical score out of 100, and other details such as the employee's ID, the due date for the evaluation, the person who submitted the evaluation, and the date it was submitted.
-
-It's essential to complete this form accurately and honestly to provide a fair and constructive assessment of the employee's performance. Please ensure you only submit the form if you are authorized to do so. This form should not be used for duplicate evaluations, and any duplicate submissions may be discarded.
-
-</thinking>
-
 # Restaurant Employee Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of restaurant employees, providing a structured assessment of their work.

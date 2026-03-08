@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Children's Show Appearance Release Form - Help Guide
 
 ## Purpose

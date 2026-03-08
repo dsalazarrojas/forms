@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shift Patterns And Mental Fatigue Survey - Help Guide
 ## Purpose
 The Shift Patterns And Mental Fatigue Survey is a form designed to gather information about your work schedule and its impact on your mental and physical well-being. This survey will help us understand your work patterns and identify areas that may be contributing to mental fatigue.

@@ -1,12 +1,3 @@
-<thinking>
-The user-facing "Theater Audience Check In Form" is designed to collect information from attendees to ensure a smooth and enjoyable experience for everyone at the theater. The primary purpose of this form is to confirm attendees' details and provide necessary information for accessibility and special requests. By filling out this form, attendees help the theater staff prepare for their arrival and ensure that necessary accommodations are made to cater to their needs.
-
-To prevent duplication, the form is designed to be filled out only once per attendee, and the information collected will be used to personalize their experience.
-
-Please note that this form is not intended to replace the ticketing process. Attendees are still required to present their ticket at the entry gate.
-
-</thinking>
-
 # Theater Audience Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from attendees to ensure a smooth and enjoyable experience for everyone at the theater.

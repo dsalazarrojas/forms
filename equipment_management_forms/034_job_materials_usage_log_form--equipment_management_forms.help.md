@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to log the usage of job materials, including site usage, material type, quantity, and other relevant details. This form likely serves a team or department responsible for managing and tracking the usage of materials for specific job sites or projects. It ensures accurate and efficient reporting of material usage, which helps in maintaining records, identifying trends, and optimizing resource allocation.
-
-To avoid duplication, it is recommended to fill out this form only when reporting material usage on new job sites or significant changes to material usage.
-
-This form can be part of a larger system for managing job site materials, which includes tracking usage, costs, and other relevant data. It helps in maintaining accurate records, reducing errors, and facilitating data-driven decision-making.
-
-Please note that this form might be part of a more comprehensive system for managing job site materials, which includes tracking usage, costs, and other relevant data. If you are unsure about the form's purpose or usage, please reach out to the relevant team or department for clarification.
-</thinking>
-
 # Job Materials Usage Log Form - Help Guide
 ## Purpose
 This form is used to log the usage of job materials, including site usage, material type, quantity, and other relevant details.

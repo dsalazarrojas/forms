@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the enablement programs and their progress. The fields in this form are intended to gather data on specific programs, including their type, description, start and end dates, status, and other relevant details. The form should only be filled out by authorized users to ensure accuracy and avoid duplication of information. 
-</thinking>
-
 # Enablement Insight Survey - Help Guide
 ## Purpose
 

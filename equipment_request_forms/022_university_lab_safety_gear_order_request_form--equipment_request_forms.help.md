@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for university lab staff to request safety gear, such as fume hoods and microscopes, for use in various laboratories. The form is intended for lab personnel to submit requests for equipment, providing details on the specific lab and equipment needs. The form should only be used by authorized staff members, and requests should be submitted with sufficient information to ensure accurate and timely fulfillment.
-</thinking>
-
 # University Lab Safety Gear Order Request Form - Help Guide
 ## Purpose
 This form is used by university lab staff to request safety gear for use in various laboratories.

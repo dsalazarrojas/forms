@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for approving or rejecting a recruitment plan. The purpose of this form is to document the process, decisions, and approvals related to a recruitment plan. This form should only be used for internal or external recruitment plans, not for both. Please ensure the correct recruitment process is selected (Internal, External, or Both) and the correct approval type (Manager, Director, or HR Manager) is chosen. Also, please fill in the correct start and end dates for the recruitment plan. This form will be used by HR or other departments to track and record the approval process and comments from managers and other stakeholders.
-</thinking>
-
 # recruitment_plan_approval_form - Help Guide
 ## Purpose
 The purpose of this form is to approve or reject a recruitment plan, ensuring a standardized process for documentation and decision-making.

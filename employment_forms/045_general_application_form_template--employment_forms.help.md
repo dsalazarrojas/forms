@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to ensure this form is relevant and non-duplication check ...
-
-This form is a generic application form template designed to collect basic information from users. It is intended to be filled out by applicants when applying for a job or any other position. The form is not intended for internal use within the company and is meant to be submitted to the hiring manager or HR department. The form is not a part of any specific company's hiring process and is meant to be used by multiple companies. 
-
-</thinking>
-
 # General Application Form Template - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: To ensure that users understand the purpose of the form, we need to identify the type of form and the information it's supposed to collect. Based on the provided YAML structure, this form seems to be a generic form collecting various types of information from employers, including text inputs, select options, dates, times, and notes. It's likely used for data collection purposes, such as HR, finance, or recruitment. However, we cannot be certain without more context. To avoid duplication of effort, let's review the form fields and ensure that each field has a clear and concise explanation.
-</thinking>
-
 # Employer Statement Form - Help Guide
 ## Purpose
 The Employer Statement Form is designed to collect information from employers about their employees or employment status. It's likely used for data collection purposes, such as HR, finance, or recruitment.

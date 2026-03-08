@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gauge users' awareness and experiences with green buildings, which is crucial for assessing the effectiveness of green building initiatives. The purpose of this survey is to gather information on users' attitudes, experiences, and knowledge about green buildings, which can help identify areas of improvement in education and training programs. By completing this survey, users can contribute to the development of more effective green building practices and policies.
 
 # Green Building Awareness Survey - Help Guide

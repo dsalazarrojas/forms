@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to help you collect and record vital information about the maintenance and inspection of mining equipment. It ensures that you stay on top of regular check-ups, maintenance schedules, and costs associated with your equipment. This form should be completed for each piece of equipment in your inventory, providing a centralized and organized record of its maintenance history. Please ensure to only fill out the form for each unique equipment item, and avoid duplication of efforts.
-
-</thinking>
-
 # Mining Equipment Inspection Form - Help Guide
 ## Purpose
 The Mining Equipment Inspection Form is used to record and track the maintenance and inspection history of mining equipment. This helps ensure that equipment is regularly checked, maintained, and inspected, reducing the risk of downtime and improving overall equipment efficiency.

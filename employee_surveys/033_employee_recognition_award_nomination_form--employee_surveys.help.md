@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information about employees who deserve recognition for their outstanding work or achievements. This form is likely used to facilitate an internal recognition process within the organization, where managers or team leaders can nominate employees for rewards or accolades. By filling out this form, you'll be able to identify the employees who have made significant contributions and deserve to be recognized for their hard work. This process should not be used to simply check a box without a genuine reason, as it can lead to unnecessary administrative tasks and potential conflicts.
-
-To ensure that this form is used correctly, please make sure to nominate only employees who have genuinely contributed to the team or organization in a significant way. Nomination reasons should be specific and detailed, and you should provide a clear explanation of why the employee deserves recognition.
-
-Please note that this form is meant to be completed by managers or team leaders, and it's essential to follow the instructions carefully to avoid errors. If you're unsure about any part of the form, please ask your supervisor or HR representative for clarification.
-</thinking>
-
 # Employee Recognition Award Nomination Form - Help Guide
 ## Purpose
 The Employee Recognition Award Nomination Form is used to identify and recognize employees who have made significant contributions to the team or organization.

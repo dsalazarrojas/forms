@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect employee health information, which will be used by HR or management to keep track of employee health and well-being. This form is intended to be completed by employees and is not a substitute for any medical advice or treatment. Please ensure you understand the context and relevance of this form within your organization before proceeding.
-</thinking>
-
 # Employees Health Declaration Form - Help Guide
 ## Purpose
 This form is used to collect employee health information, including personal details and health status.

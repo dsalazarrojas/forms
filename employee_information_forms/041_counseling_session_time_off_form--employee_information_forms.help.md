@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and document an employee's time off for a counseling session. 
-</thinking>
-
 # Counseling Session Time Off Form - Help Guide
 
 ## Purpose

@@ -1,23 +1,3 @@
-<thinking>
-This form appears to be designed to collect information from customers or clients who are requesting electrical services. The form likely serves as a template for creating a price list or quote for the services provided. 
-
-The form may be used by electricians or electrical technicians to gather information from clients and create a customized price list based on the client's needs. 
-
-The form fields include:
-- Service Request (a text field where the client can describe their electrical service request)
-- Contact Information (a text field for the client's contact details)
-- Location (a select-one field with options for the location type: Home, Commercial, or Industrial)
-- Date (a date field for scheduling the service)
-- Time (a time field for scheduling the service)
-- Preferred Time Window (a text field for the client's preferred time slot)
-- Service Type (a select-one field for the type of electrical service required)
-- Service Price (a number field for the price of the service)
-- Service Price Currency (a text field for the currency of the service price)
-- Service Notes (a text field for any additional notes or comments)
-- Schedule Preferences (a text field for any special scheduling requirements)
-
-</thinking>
-
 # Electrical Services Price List - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients or customers who are requesting electrical services. This information is used to create a customized price list or quote for the services provided.

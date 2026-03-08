@@ -1,10 +1,3 @@
-<thinking>
-The "Telemetry Technician Assessment" form is designed to gather information from applicants about their experience, skills, and qualifications for a Telemetry Technician position. The form will collect details about the applicant's general information, work experience, technical skills, communication skills, shift readiness, emergency procedures, certification, work environment, references, education, and other relevant information. 
-
-Before filling out the form, please ensure you are applying to a Telemetry Technician position and have the necessary qualifications and experience. This form is not a duplication of any other form, and the information provided will be used for this specific application only.
-
-</thinking>
-
 # Telemetry Technician Assessment - Help Guide
 ## Purpose
 This form is designed to collect information from applicants about their experience, skills, and qualifications for a Telemetry Technician position.

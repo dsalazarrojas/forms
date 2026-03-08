@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain work location authorization from a manager and HR representative. It is intended for employees to provide information about their work location and schedule, and for managers and HR to review and approve or decline the request. It is essential to ensure that all required fields are filled in accurately and completely to avoid delays in processing. The form should not be duplicated; each instance should be submitted only once.
-</thinking>
-
 # work_location_authorization_form - Help Guide
 ## Purpose
 The Work Location Authorization Form is used to request approval for employees to work from a specific location. This form must be completed by the employee and approved by both the manager and HR representative.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from potential franchisees for an entrepreneurship program, allowing them to apply for a franchise opportunity. The form is designed to gather personal details, business information, and preferences related to franchising. This guide aims to ensure a smooth and accurate completion of the form for end-users.
-</thinking>
-
 # Franchise Application Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is for gathering information about an employee's resume, specifically to collect details about their work history, job title, job preferences, and other relevant information. This form is designed to be completed by employees or job applicants to provide accurate and up-to-date information about their work experience and skills. The form should be completed carefully, ensuring that all required fields are filled in accurately.
-
-To prevent duplication of effort, only one form should be completed per employee. This form is intended to be a single source of truth for employee information.
-
-Please note that this form is not intended to be a comprehensive employment contract or agreement. It is a tool for gathering information about an employee's work history and job preferences.
-
-</thinking>
-
 # Resume Information Gathering Form - Help Guide
 ## Purpose
 The Resume Information Gathering Form is used to collect detailed information about an employee's work history, job title, job preferences, and other relevant details.

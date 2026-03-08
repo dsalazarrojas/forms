@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on their direct manager's effectiveness and impact. The goal is to help managers identify areas of improvement and make informed decisions to enhance employee satisfaction and engagement. This template is a public adaptation of a survey, and its purpose is to collect honest and actionable feedback. Before proceeding, ensure that the form is relevant to your organization and not duplicating existing surveys or forms.
-</thinking>
-
 # manager_effectiveness_survey_template - Help Guide
 ## Purpose
 The manager effectiveness survey is designed to gather feedback from employees on their direct manager's effectiveness and impact. The goal is to help managers identify areas of improvement and make informed decisions to enhance employee satisfaction and engagement.

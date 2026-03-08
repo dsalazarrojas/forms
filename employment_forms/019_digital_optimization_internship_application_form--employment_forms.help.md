@@ -1,7 +1,3 @@
-<thinking>Before diving into the help guide, let's clarify the purpose and expectations of this form. This form is for students or individuals seeking to apply for a digital optimization internship with our organization. We expect applicants to provide accurate and honest information to increase their chances of being considered for the internship. To ensure the application process is seamless, we'll go over each field in detail.
-
-</thinking>
-
 # Digital Optimization Internship Application Form - Help Guide
 ## Purpose
 The Digital Optimization Internship Application Form is designed for individuals interested in gaining practical experience in digital optimization. By filling out this form, you'll be providing us with the necessary information to evaluate your application.

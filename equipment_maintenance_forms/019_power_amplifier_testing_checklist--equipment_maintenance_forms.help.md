@@ -1,5 +1,3 @@
-<thinking>...internal reasoning block...</thinking>
-
 The form purpose is to document the testing and outcome of power amplifiers. This form should be used to record the test ID, date, outcome, and comments for power amplifier tests. To ensure accuracy and consistency, the internal reasoning block will verify that the form is being completed for the correct purpose and will not duplicate existing data.
 
 The form is a simple text-based form with several fields, including "Power Amplifier Testing Checklist", "Test ID", "Test Date", "Test Outcome", and "Test Comments". The "Test Outcome" field is a required field with three options: "Passed", "Failed", and "Not Tested". The form does not appear to have any dependencies between fields or any complex rules for completion.

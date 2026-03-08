@@ -1,11 +1,3 @@
-<thinking>
-This form is for evaluating videos for a job posting, and the fields are designed to help you assess the candidate's video submission. As you fill out this form, consider the following:
-
-* Make sure you are evaluating a video submission, and not something else (e.g., a document or a text-based response).
-* Ensure that you are not evaluating a video submission that you have not reviewed or have not received from the reviewee.
-* Be sure to fill out this form for every video submission you need to evaluate, so that we can maintain accurate records and track progress.
-</thinking>
-
 # video_evaluation_rubric - Help Guide
 
 ## Purpose

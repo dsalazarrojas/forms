@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used in emergency response simulations, where users are required to provide information about the simulated event. The purpose of this form is to collect contact information and details about the emergency simulation in order to facilitate follow-up and evaluation of the drill. The form should only be completed by authorized personnel or individuals with a legitimate need to participate in the simulation. This form will not be used to collect personal data for any other purpose.
-</thinking>
-
 # Emergency Response Simulation Recording Consent Form - Help Guide
 ## Purpose
 The Emergency Response Simulation Recording Consent Form is designed to collect necessary information about emergency response simulations. It is intended to help us track and evaluate the progress of the simulated event and ensure that all relevant information is documented accurately.

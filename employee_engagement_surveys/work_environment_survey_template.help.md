@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # work_environment_survey_template - Help Guide
 
 ## Purpose

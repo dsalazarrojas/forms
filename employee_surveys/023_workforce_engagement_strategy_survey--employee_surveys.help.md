@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this form, we need to first understand its purpose and how the user can complete it. The form is titled "Workforce Engagement Strategy Survey" which indicates it is likely used to gather feedback and insights on employee engagement and satisfaction within an organization. This survey likely aims to help management and HR teams identify areas of improvement and areas of strength within their employee engagement strategies. 
-
-The form structure suggests that there are four sections to the survey, each potentially focusing on a different aspect of employee engagement. 
-
-Given the structure, the user will need to complete each section by filling in the corresponding text fields.
-
-</thinking>
-
 # Workforce Engagement Strategy Survey - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about the participation of employees in workforce learning programs. The purpose of this form is to assess the effectiveness and impact of these programs on employees' skills and knowledge development. It is essential to understand how employees perceive and engage with these programs to make data-driven decisions for future program development and resource allocation.
-
-This form is part of the "employee_surveys" category, and its title is "workforce_learning_participation_survey". It is crucial to ensure that the information provided is relevant and not a duplicate, as it might lead to incorrect or redundant data collection.
-
-The form consists of several fields that cater to different aspects of workforce learning participation, including program engagement, usefulness, and feedback. Each field has been designed to collect specific types of data that can be used to analyze and improve the learning programs.
-
-This form is intended for completion by employees who have participated in or have some knowledge about the workforce learning programs.
-
-</thinking>
-
 # Workforce Learning Participation Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the participation of employees in workforce learning programs, assessing their effectiveness and impact on employees' skills and knowledge development.

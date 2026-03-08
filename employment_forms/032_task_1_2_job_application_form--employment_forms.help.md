@@ -1,7 +1,3 @@
-<thinking>
-To be honest, it looks like this form is for collecting job application information from candidates. It seems to be a form for internal use within an organization, perhaps for recruitment or talent acquisition purposes. However, without further context, I'll assume that this form is for job seekers to provide their details for job applications. If this is not the case, please let me know, and I'll adjust my response accordingly.
-</thinking>
-
 # Task 1.2 Job Application Form - Help Guide
 
 ## Purpose

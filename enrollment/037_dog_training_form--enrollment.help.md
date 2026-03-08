@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to collect information about dog training sessions, including behavior modifications, session dates, assigned trainers, and other relevant details. This form should be filled out by dog owners or guardians who are seeking canine coaching or guidance. To avoid duplication, please ensure you haven't already provided this information before. If you're unsure about the purpose or content of a particular field, try to use your best judgment to determine the most accurate and practical answer.
-</thinking>
-
 # Dog Training Form - Help Guide
 ## Purpose
 This form is designed to collect information about dog training sessions. It's meant for dog owners or guardians to provide details about their dog's behavior, training progress, and other relevant information.

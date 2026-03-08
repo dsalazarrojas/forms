@@ -1,7 +1,3 @@
-<thinking>
-The "Machine Calibration Report Form" is used to record information about equipment maintenance. The form should only be completed for equipment that has been calibrated, repaired, or inspected within the specified timeframe. Ensure that each equipment ID is unique and not duplicated. This form is intended for maintenance personnel to report on the status of equipment and provide information about the maintenance activities performed. Please complete this form accurately and thoroughly, ensuring all fields are filled in as required or as necessary.
-</thinking>
-
 # Machine Calibration Report Form - Help Guide
 ## Purpose
 The Machine Calibration Report Form is used to document the maintenance activities performed on equipment, including calibration, repair, and inspection. The information collected helps track and manage equipment maintenance and performance.

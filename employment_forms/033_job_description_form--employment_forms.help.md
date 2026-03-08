@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about job descriptions for job postings. The primary purpose of this form is to help job seekers provide a detailed overview of their job openings, including job titles, company names, job types, and other relevant information. This form is intended to be used by internal stakeholders within the organization to create job postings for posting on job boards or websites.
-
-When completing this form, please ensure that you are not duplicating any existing job postings. If you are unsure about any information, please consult with your HR department or relevant teams.
-
-</thinking>
-
 # Job Description Form - Help Guide
 ## Purpose
 This form is used to collect and document job descriptions for job postings.

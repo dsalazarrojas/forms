@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather user information and consent for the Pedagogical Innovation Showcase. It's likely used for events, conferences, or meetings related to education and pedagogy, where the organizer wants to collect data on projects, teaching experiences, and user preferences. This form ensures that users understand and agree to the terms and conditions of sharing their data and participating in the event.
-Before completing this form, please ensure that you have the necessary information and permissions to provide. The form is not intended for duplicate submissions, so if you have already submitted the form, please do not resubmit.
-</thinking>
-
 # Pedagogical Innovation Showcase Consent Form - Help Guide
 ## Purpose
 The Pedagogical Innovation Showcase Consent Form collects user information and consent for the event. The form is designed to be completed by users who want to share their projects, ideas, and preferences with others.

@@ -1,29 +1,3 @@
-<thinking>
-
-This form is intended to be used by employees to register for the Employee Motivation & Reward Program. This program aims to boost employee morale and incentivize productivity. 
-
-The purpose of this form is to collect information from employees regarding their preferences and contact details. The form will be used by management to identify areas of improvement and provide targeted rewards to employees. It is not intended for general inquiries or HR-related matters.
-
-To ensure that the program is effective and reaches the right employees, it is essential to understand their needs and concerns. This form will help the administration team to get a better sense of who to target for recognition and rewards.
-
-By using this form, employees can provide their personal and professional information to facilitate the process.
-
-This form has multiple sections, including:
-
-* Employee Survey (Section 1)
-* Contact Details (Section 2)
-* Preferences (Section 3)
-* Consents (Section 4)
-* Employee Survey 2 (Section 5)
-* Contact Details 2 (Section 6)
-* Preferences 2 (Section 7)
-* Consents 2 (Section 8)
-* Submission (Section 9)
-
-Each section is designed to gather specific information that will help the management team to make informed decisions. 
-
-</thinking>
-
 # Employee Motivation & Reward Program Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees to improve employee motivation and reward them accordingly.

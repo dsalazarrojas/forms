@@ -1,9 +1,3 @@
-<thinking>
-This form was created as a tool for employees to request emergency repairs for equipment. The form aims to provide a straightforward way to report equipment malfunctions, ensuring that technical teams can quickly assess and address the issue. 
-The form should only be used for reporting actual issues that require immediate attention. If you're unsure or have a non-emergency repair request, please do not fill out this form. 
-Before submitting, please check that you haven't already reported this issue. If the equipment is already in the repair queue, do not submit a duplicate form. 
-</thinking>
-
 # Emergency Equipment Repair Request Form - Help Guide
 ## Purpose
 The Emergency Equipment Repair Request Form is a tool for employees to report equipment malfunctions that require immediate attention from technical teams. This form helps technical teams quickly identify and address issues, ensuring minimal downtime and optimal productivity.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Camp Detailed Registration Form - Help Guide
 ## Purpose
 The Summer Camp Detailed Registration Form is used to collect information from participants and their parents/guardians regarding their attendance at our summer camp. The form aims to ensure that we have accurate and up-to-date information about each participant, which is essential for providing a safe and enjoyable experience. **Please ensure you fill in the form accurately and completely, and note that submission of false or incomplete information can be grounds for exclusion from the camp.**

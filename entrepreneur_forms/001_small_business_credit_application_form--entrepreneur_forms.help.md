@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect general information from small business owners to determine their credit request requirements. This form is a critical part of the credit application process and will help our team understand the needs of your business. Please ensure that the information provided is accurate and up-to-date as this will help us to evaluate your credit request efficiently.
-
-Before starting the form, please note that the following fields are mandatory and cannot be skipped: Contact Information, Credit Request, Credit Type, Credit Amount, Credit Term, Terms and Conditions, Interest Rate, and Repayment Schedule. 
-
-</thinking>
-
 # small-business-credit-application-form - Help Guide
 ## Purpose
 This form is designed to collect general information from small business owners to determine their credit request requirements.

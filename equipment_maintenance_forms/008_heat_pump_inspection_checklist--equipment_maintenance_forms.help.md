@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Heat Pump Inspection Checklist - Help Guide
 ## Purpose
 The Heat Pump Inspection Checklist is designed to assist with the routine maintenance and evaluation of heat pumps. This form will help ensure that all necessary information is collected and documented during each inspection, facilitating accurate records and informed decision-making for maintenance and repair.

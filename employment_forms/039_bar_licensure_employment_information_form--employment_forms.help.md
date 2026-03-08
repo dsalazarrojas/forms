@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Bar Licensure Employment Information Form", we need to understand the purpose of this form and the fields within it. The form appears to be for bar or restaurant industry professionals to provide employment information, including their application date, personal details, work history, and background check consent. We should ensure that the fields are completed correctly and accurately to avoid duplication of information.
-</thinking>
-
 # Bar Licensure Employment Information Form - Help Guide
 
 ## Purpose

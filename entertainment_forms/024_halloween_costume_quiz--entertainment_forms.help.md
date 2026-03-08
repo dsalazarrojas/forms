@@ -1,7 +1,3 @@
-<thinking>
-This form was created to collect information about users' preferences and interests related to Halloween. It is intended to be a fun and engaging way for users to express their Halloween spirit. The form will ask users about their favorite Halloween movies, books, games, music, costume styles, party sizes, and age group. This form is not affiliated with or endorsed by any form platform and is an original adaptation using public survey topic metadata.
-</thinking>
-
 # Halloween Costume Quiz - Help Guide
 ## Purpose
 This form is designed to be a fun and interactive way to collect information about users' Halloween preferences and interests.

@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather information about the educational background and teaching experiences of the users. This form is part of an ongoing effort to improve the quality of educational content in a specific domain. To ensure that this form is not completed by the same person multiple times, it's essential to understand the purpose and content of the form clearly.
-</thinking>
-
 # Ecosystem And Food Chain Survey - Help Guide
 ## Purpose
 The Ecosystem And Food Chain Survey is designed to gather information about your educational background and teaching experiences. Your input will help improve the quality of educational content in the domain of ecosystems and food chains.

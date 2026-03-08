@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect feedback on the organizational behavior dynamics in the workplace. The goal is to gather information about the state of company culture, leadership effectiveness, communication, collaboration, and overall satisfaction with various aspects of the workplace. This survey is intended to be completed by employees to provide insights and suggestions for improvement.
-...</thinking>
-
 # Organizational Behavior Dynamics Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the organizational behavior dynamics in the workplace, focusing on company culture, leadership effectiveness, communication, collaboration, and overall satisfaction with various aspects of the workplace.

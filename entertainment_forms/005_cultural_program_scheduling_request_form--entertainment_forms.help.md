@@ -1,7 +1,3 @@
-<thinking>
-This form is used for scheduling cultural programs. It is a general request form for event organizers to request scheduling for their events. This form should not be filled out multiple times for the same event. If you need to schedule multiple events, please fill out a separate request form for each one. This form will guide you through the necessary information required to schedule a program.
-</thinking>
-
 # Cultural Program Scheduling Request Form - Help Guide
 ## Purpose
 This form is used to schedule cultural programs, such as concerts, performances, or events. Fill out the form below to request a scheduling for your event.

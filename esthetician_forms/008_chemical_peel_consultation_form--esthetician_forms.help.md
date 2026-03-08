@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from patients about their skin type, concerns, and medical history before undergoing a chemical peel treatment. This form helps the esthetician understand the patient's expectations, concerns, and medical conditions that may impact their treatment. It is essential to ensure that all fields are filled out accurately to provide the best possible care for the patient.
-</thinking>
-
 # Chemical Peel Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about your skin type, concerns, and medical history before undergoing a chemical peel treatment. It will help us understand your skin better and provide you with the best possible care.

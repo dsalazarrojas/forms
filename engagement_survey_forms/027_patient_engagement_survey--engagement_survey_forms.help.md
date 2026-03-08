@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I will follow the instructions to provide a clear and concise explanation of each field and its purpose. The form is used to collect patient engagement survey data, which can help healthcare providers understand patient satisfaction, engagement, and demographic information. This form is likely used by healthcare administrators or staff to collect data for quality improvement and research purposes.
-
-</thinking>
-
 # Patient Engagement Survey - Help Guide
 
 ## Purpose

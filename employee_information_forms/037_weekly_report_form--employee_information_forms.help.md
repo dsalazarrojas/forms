@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Report Form - Help Guide
 
 ## Purpose

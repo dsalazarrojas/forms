@@ -1,9 +1,4 @@
-><thinking>
-This form is intended to evaluate the overall balance of a team's workload. It is a survey designed to gather information from team members about the fairness of their workload distribution, their stress levels, and the level of support they receive. This form is meant to be completed by team members, and the data collected will be used to assess the team's workload balance and identify areas that may need improvement. 
-This form should not be completed by team leaders or managers, as it is intended to be a team member's perspective on their own workload. 
-</thinking>
-
-# Workload Balance Evaluation Survey - Help Guide
+># Workload Balance Evaluation Survey - Help Guide
 ## Purpose
 The Workload Balance Evaluation Survey is a tool to help teams assess their workload distribution and identify areas for improvement.
 

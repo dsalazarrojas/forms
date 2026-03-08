@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Evaluation Form - Help Guide
 ## Purpose
 The Restaurant Evaluation Form is used to collect user feedback on their dining experience at our restaurants. It will help us understand how you feel about the food, service, and overall quality of our restaurants. This form is completely anonymous and is meant to help us improve our services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by content creators to request approval for the soundtrack of a documentary. It is intended for use by internal stakeholders within the organization. To prevent duplication, ensure that you have not already submitted a request for this project. If you have, please do not resubmit.
-</thinking>
-
 # Documentary Soundtrack Approval Request Form - Help Guide
 
 ## Purpose

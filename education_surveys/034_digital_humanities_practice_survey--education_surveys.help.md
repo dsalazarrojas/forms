@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to create an original, public domain adaptation of a survey for the Digital Humanities Practice Survey. It is not affiliated with, endorsed by, or derived from any form platform. The purpose of this form is to collect user input for the Digital Humanities Practice Survey. Before completing this form, please ensure that your responses are accurate and relevant to the topic.
-</thinking>
-
 # Digital Humanities Practice Survey - Help Guide
 ## Purpose
 The Digital Humanities Practice Survey aims to gather user input on various aspects of digital humanities practices. This form is designed to collect responses related to your experiences, thoughts, and opinions on digital humanities.

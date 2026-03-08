@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback and opinions from users about a new media series pilot. It will help the development team understand what users think about the series, their overall experience, and various aspects of their viewing habits. The form will likely be used by media professionals to inform the development and marketing of the series.
-
-To ensure data quality, it's essential to review the form carefully before submission to avoid duplication or irrelevant responses. Please make sure to fill out the form accurately and provide as much detail as possible.
-</thinking>
-
 # media_new_series_pilot_opinion_survey_form - Help Guide
 
 ## Purpose

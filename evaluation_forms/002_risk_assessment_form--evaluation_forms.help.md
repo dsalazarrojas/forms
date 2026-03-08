@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Risk Assessment Form - Help Guide
 ## Purpose
 The Risk Assessment Form is designed to assess and document potential risks associated with a specific situation or activity. It helps to identify, categorize, and evaluate the severity of risks to inform decision-making and mitigation strategies.

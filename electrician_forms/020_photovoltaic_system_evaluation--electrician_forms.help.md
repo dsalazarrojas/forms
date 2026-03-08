@@ -1,5 +1,3 @@
-<thinking>This form is used to gather information about photovoltaic systems, including site, roof, usage, and solar panel information. It's crucial to understand the context and purpose of this form is to evaluate and assess photovoltaic systems. Ensure to complete this form accurately and thoroughly to provide the required information. Ensure that you are completing the correct fields based on the specific requirements of this form and your understanding of photovoltaic systems.</thinking>
-
 # Photovoltaic System Evaluation - Help Guide
 ## Purpose
 This form is used to gather and evaluate information about photovoltaic systems for assessment and evaluation purposes. It is essential to ensure that the form is completed accurately and thoroughly to avoid any confusion or errors.

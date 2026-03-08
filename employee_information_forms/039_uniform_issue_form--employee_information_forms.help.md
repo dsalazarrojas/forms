@@ -1,8 +1,3 @@
-<thinking>
-This is a form to collect information about the uniform issues, allowing employees to report any discrepancies or problems they are experiencing with their uniforms. It's essential to fill out this form accurately and completely to ensure that the issues are documented correctly. Please fill out all required fields and provide as much detail as possible.
-
-</thinking>
-
 # Uniform Issue Form - Help Guide
 ## Purpose
 This form is used to report any issues related to employee uniforms, such as missing or damaged items, discrepancies with the uniform type or quantity, or other problems.

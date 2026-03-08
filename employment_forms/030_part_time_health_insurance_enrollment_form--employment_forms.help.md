@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for part-time employees to enroll or disenroll from company-provided health insurance benefits. The form is intended to be completed by part-time employees who are currently receiving benefits or are eligible to do so. Before completing this form, please review the company's policies and procedures regarding benefits eligibility and enrollment periods. Note that this form is not intended to be a substitute for other required documentation or forms, such as employment verification or benefits election forms. If you are unsure about your benefits status or eligibility, please consult with your HR representative or supervisor.
-</thinking>
-
 # Part Time Health Insurance Enrollment Form - Help Guide
 ## Purpose
 The Part Time Health Insurance Enrollment Form is used to enroll or disenroll part-time employees from company-provided health insurance benefits.

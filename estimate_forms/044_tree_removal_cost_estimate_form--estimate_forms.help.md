@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a form used to estimate the cost of tree removal services. The form is titled "Tree Removal Cost Estimate Form" and is likely used by customers to provide information about the tree they want to remove, including its species, size, location, and any additional services required. This form will help the customer provide all necessary details for an accurate cost estimate. We should aim to make the guide clear and concise, explaining each field's purpose and what information is expected from the user.
-</thinking>
-
 # Tree Removal Cost Estimate Form - Help Guide
 
 ## Purpose

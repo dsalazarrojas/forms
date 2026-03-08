@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's break down the form's purpose and requirements. This form appears to be a "Process Evaluation Checklist" designed to assess various aspects of a process, including evaluation scope, frequency, and status. It seems to be used for monitoring and improving processes. Each field is likely used to collect specific data points to inform these assessments. Now, let's create a help guide to make it easy for end-users to understand and complete the form correctly.</thinking>
-
 # Process Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to evaluate and improve processes. It helps monitor and track the status of processes, their frequency of evaluation, and the scope of evaluation. This information is crucial for identifying areas for improvement and making data-driven decisions.

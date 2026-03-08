@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather contact information from Factory Floor Engineering Team members for request or issue resolution purposes. The form's purpose is to ensure that team members can provide necessary support to address problems or make requests in a timely and efficient manner. The form will be reviewed internally to avoid duplication of effort and to prioritize tasks effectively.
-</thinking>
-
 # Factory Floor Engineering Team Contact Form - Help Guide
 ## Purpose
 The Factory Floor Engineering Team Contact Form is a tool to collect information from team members for request or issue resolution purposes. It helps the team to provide timely and efficient support for problems or requests.

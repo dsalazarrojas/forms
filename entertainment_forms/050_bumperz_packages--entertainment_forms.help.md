@@ -1,9 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Bumperz Packages" form. This form is likely designed for clients who are interested in renting bumper cars for events such as parties, corporate events, weddings, or other large gatherings. The form is used to gather information about the event and the client's preferences for the bumper cars, such as the type of package they want, the number of guests attending, and the location and date of the event.
-
-To determine if the form meets the requirements, we will review each field and ensure that the explanations provided are clear and concise for the end-users. We will not make any assumptions about the form's purpose or functionality based on the field labels and types.
-
-</thinking>
 # Bumperz Packages - Help Guide
 ## Purpose
 The Bumperz Packages form is designed to gather information about your event and your preferences for bumper car rentals. This form will help us understand your needs and provide you with the best possible experience.

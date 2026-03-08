@@ -1,10 +1,3 @@
-<thinking>
-
-The form is used to collect information from candidates about a job opportunity, which will help in assessing whether it matches the company's requirements and needs. 
-The fields are categorized into two main sections: candidate details, resume upload, and job opportunity specifics. 
-
-</thinking>
-
 # Job Opportunity Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a job opportunity from candidates, which will aid in determining the suitability of the opportunity for the company's needs.

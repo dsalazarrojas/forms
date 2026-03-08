@@ -1,7 +1,3 @@
-<thinking>
-A Band Member Identification Survey is designed to collect information from individual band members. This form is intended to be completed by each band member to help the band management or organizer understand their personal and professional details. This information is essential for communication, scheduling, and coordination within the band. The survey should not be completed more than once per member, to ensure that the latest information is always recorded.
-</thinking>
-
 # Band Member Identification Survey - Help Guide
 ## Purpose
 This form is designed to collect essential information from band members, including their basic details, contact information, and availability. Providing accurate and up-to-date information will help the band management or organizer to communicate effectively, schedule rehearsals and shows, and ensure that the band functions smoothly.

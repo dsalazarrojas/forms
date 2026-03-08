@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from home care support workers for various purposes such as recruitment, training, or performance evaluation. The form will be reviewed by authorized personnel before being submitted to ensure its accuracy and completeness. Please ensure that the information provided is correct and complete before submitting the form. 
-</thinking>
-
 # home_care_support_worker_intake_form - Help Guide
 ## Purpose
 The home care support worker intake form is used to collect relevant information from home care support workers. This form will be reviewed and stored for future reference.

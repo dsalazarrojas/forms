@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to report and document their absences from work due to health reasons, ensuring a systematic and accurate tracking of employee health status and potential absences. Please verify that this form is relevant to your specific business needs and context before using it. This form is designed to be an adaptation, not a direct copy, of a typical employee absence form, and its fields are intended to provide necessary information for HR and management teams to handle employee absences effectively.
-</thinking>
-
 # Occupational Health Absence Form - Help Guide
 ## Purpose
 This form is designed for employees to report and document their absences from work due to health reasons, ensuring accurate and systematic tracking of employee health status and potential absences.

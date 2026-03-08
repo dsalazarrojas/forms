@@ -1,5 +1,3 @@
-<thinking>...The Prospective Job Application Form is designed to help job applicants provide their contact information, job experience, qualifications, and other relevant details to prospective employers. The form is meant to streamline the hiring process by gathering necessary information in one place, reducing the back-and-forth of initial interviews and phone screens. It's recommended that you fill out this form only once you've reached a stage where you're seriously considering a job and wish to proceed with the application process... </thinking>
-
 # Prospective Job Application Form - Help Guide
 ## Purpose
 The Prospective Job Application Form is designed to help job applicants provide their contact information, job experience, qualifications, and other relevant details to prospective employers. It's meant to streamline the hiring process by gathering necessary information in one place, reducing the initial interviews and phone screens.

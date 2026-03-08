@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to gather valuable feedback from church members, attendees, and first-time guests. This form is designed to assess the spiritual growth, satisfaction, and experiences of individuals within the church community. It's essential to prevent duplication of effort and to focus on areas where improvements are needed. This guide will walk users through each step of the form to guarantee that the collected data is accurate and useful for the church's growth and development.
-</thinking>
-
 # Church Assessment Survey - Help Guide
 ## Purpose
 This form is created to gather feedback from church members, attendees, and visitors to understand their experiences, satisfaction, and spiritual growth within the church community. The collected data will aid in identifying areas for improvement and help the church to better serve its members and visitors.

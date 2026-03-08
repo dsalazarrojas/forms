@@ -1,27 +1,3 @@
-<thinking>
-This form is designed to collect information related to an employee's retirement and health savings contributions. The form likely serves as a means to track and manage these contributions for employees in an organization. It's possible that this form is used for internal HR purposes, to ensure accurate record-keeping, and to provide transparency to employees regarding their benefits. To confirm, I'll provide a detailed help guide to ensure users understand its purpose and usage correctly. 
-
-The form has multiple fields, but some are marked as optional, which suggests that not all sections are required to be filled out. This implies that the form might be used for a variety of scenarios, such as updating existing information or adding new contributions.
-
-Given the fields, it seems that this form covers both current and future benefits, including retirement and health savings plans. The fields include employee information (ID and department), plan choices, contribution amounts, effective dates, and status updates. 
-
-To confirm, the fields are likely used to calculate contributions, determine benefits start dates, and update employee benefits status. 
-
-The form might also be used for auditing purposes or to track changes in an employee's benefits over time. 
-
-The fields 'health_savings_plan' and 'retirement_plan' suggest that the form tracks which plans are chosen by employees, while 'contribution_amount' and 'retirement_contribution' track the amounts contributed. The 'health_savings_rate' and 'retirement_rate' likely calculate the rates of these contributions. 
-
-The fields 'health_savings_contribution' and 'retirement_contribution' likely display the total contributions to these plans. 
-
-The 'effective_date' and 'benefits_start_date' fields are used to track the start dates of these plans. 
-
-The 'employee_status' field might be used to track an employee's status in relation to these benefits. 
-
-The 'benefits_status' field could be used to track the status of an employee's benefits. 
-
-This form seems to cover both current and past benefits, which could be useful for auditing and tracking purposes. 
-</thinking>
-
 # Retirement And Health Savings Contributions Form - Help Guide
 ## Purpose
 This form is used to collect and track information related to an employee's retirement and health savings contributions. It provides a way to update or add new contributions to their benefits, including both current and future plans.

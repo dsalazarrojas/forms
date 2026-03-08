@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect personal stories and language experiences from individuals. The form is meant to be used as a data collection tool for research or other purposes. Please use this form only for its intended purpose and do not share or sell it in any way that could compromise its original intent.
-
-This form is an AI-generated adaptation of a public survey topic, and as such, it may not be affiliated with, endorsed by, or derived from any form platform. The form is released under the Creative Commons 4.0 license, allowing users to use, modify, and even sell it, as long as they provide proper credit.
-
-Before filling out this form, make sure you have read and understood the purpose and instructions provided. If you're unsure about any part of the form, please contact the form creators at form@gic.mx.
-
-</thinking>
-
 # Personal Story And Language Survey - Help Guide
 ## Purpose
 

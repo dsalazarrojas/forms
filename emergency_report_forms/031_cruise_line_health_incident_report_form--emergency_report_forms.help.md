@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a health-related incident that occurred on a cruise line. The goal is to gather details about the incident, including date, time, location, and severity. This form is meant for use by crew members or other authorized personnel to report incidents in a clear and concise manner.
-We will check for relevance and non-duplication before accepting a report. If an incident report already exists, we will alert the user and provide a link to the previous report. This ensures that we can track and analyze incident reports effectively.
-</thinking>
-
 # Cruise Line Health Incident Report Form - Help Guide
 ## Purpose
 This form is used to report health-related incidents that occurred on a cruise line. It helps us track and analyze incidents to ensure a safe and healthy environment for all passengers and crew members.

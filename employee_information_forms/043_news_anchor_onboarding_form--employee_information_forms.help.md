@@ -1,5 +1,3 @@
-<thinking>Before creating a help guide for the "News Anchor Onboarding Form", let's consider the form's purpose and the information it's intended to collect. The form appears to be designed to collect various details about a new employee, including their name, department, job title, and contact information. This guide will walk the user through each field and what it's intended to capture.</thinking>
-
 # News Anchor Onboarding Form - Help Guide
 ## Purpose
 The News Anchor Onboarding Form is designed to collect essential information about new hires, including their job titles, departments, and contact details. This information is crucial for creating employee profiles, assigning tasks, and facilitating communication within the organization.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request changes to the layout of a performance venue, such as a theater or other performance space. Before starting, please ensure that you have a valid reason for the change request and that it aligns with your role and the venue's needs. Also, ensure that you're not submitting duplicate requests for the same layout change.
-</thinking>
-
 # Performance Venue Layout Change Request Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking> 
-To ensure that end-users understand the purpose and usage of the Early Childhood Credential Pathways Survey form, it is crucial to clearly describe its intent, required fields, and each field's purpose. The form appears to be designed to gather information about early childhood educational settings, credentials, and survey completion status. Each field should be described in a way that is concrete, concise, and practical for end-users to accurately fill out the form.</thinking>
-
 # early_childhood_credential_pathways_survey - Help Guide
 ## Purpose
 This form is designed to gather information about early childhood educational settings, credentials, and survey completion status.

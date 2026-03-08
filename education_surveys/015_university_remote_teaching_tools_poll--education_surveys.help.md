@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from university staff about their usage and preferences of remote teaching platforms, to inform decisions on which platforms to prioritize for further development and support.
-To prevent data duplication, this form is only to be filled by authorized personnel.
-</thinking>
-
 # University Remote Teaching Tools Poll - Help Guide
 ## Purpose
 This form is designed to gather information from university staff about their usage and preferences of remote teaching platforms. The goal is to inform decisions on which platforms to prioritize for further development and support.

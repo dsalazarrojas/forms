@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # future-of-work-survey - Help Guide
 
 ## Purpose

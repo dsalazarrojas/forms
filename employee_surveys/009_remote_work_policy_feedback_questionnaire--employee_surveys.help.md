@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees about their remote work experience last week. The form aims to gather information on various aspects of remote work, including work hours, communication, challenges, and satisfaction. It is intended to help managers and administrators understand how remote work policies and processes can be improved.
-</thinking>
-
 # Remote Work Policy Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees about their remote work experience last week. The goal is to gather information on various aspects of remote work, including work hours, communication, challenges, and satisfaction.

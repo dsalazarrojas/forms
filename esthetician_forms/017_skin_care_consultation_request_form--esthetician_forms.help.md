@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help estheticians (skin care professionals) gather information from clients about their skin care needs so that they can tailor their services to each individual client. The form aims to collect essential information to create a personalized skin consultation plan. This form must be completed by the client to initiate the skin consultation process. 
-</thinking>
-
 # Skin Care Consultation Request Form - Help Guide
 
 ## Purpose

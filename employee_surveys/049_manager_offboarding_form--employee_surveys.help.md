@@ -1,7 +1,3 @@
-<thinking>
-This form is used for managers to offboard employees from the company, gathering necessary information for the offboarding process. Before starting the offboarding process, please ensure that the employee's manager has reviewed and completed this form thoroughly and accurately. This form is not intended to be a duplicate effort for other departments, such as HR or IT. It is essential to fill out this form to the best of your ability, as it will be reviewed and used as a reference for the offboarding process. Please do not skip any fields as they are required for the proper offboarding process.
-</thinking>
-
 # Manager Offboarding Form - Help Guide
 ## Purpose
 The Manager Offboarding Form is a necessary step in the offboarding process for employees leaving the company. It helps managers to gather information and input required for a smooth transition of the employee's role and responsibilities.

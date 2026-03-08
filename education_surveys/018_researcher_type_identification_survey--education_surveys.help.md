@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for identifying the type and characteristics of researchers in an education context. The primary purpose of this form is to collect information about a researcher's identity, research interests, goals, and motivations. This data will help in categorizing and understanding the diversity of researchers within an institution or program.
-This form is required for all researchers to accurately categorize themselves. Please ensure that you answer these questions carefully and truthfully, as this information will help in better understanding the diversity of researchers within the institution.
-The form will guide you through a series of questions that will help us understand your role, interests, goals, and motivations.</thinking>
-
 # researcher_type_identification_survey - Help Guide
 ## Purpose
 This form is designed to identify the type and characteristics of researchers in an education context.

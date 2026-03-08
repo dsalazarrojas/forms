@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for creating a game show, and its purpose is to guide users in designing their own game show concept. The form will be used to collect information about the game show's title, concepts, target audience, prizes, scores, rules, and duration. This information will help in creating a well-structured game show.
-
-</thinking>
-
 # Create Your Own Game Show - Help Guide
 ## Purpose
 The "Create Your Own Game Show" form is designed to help you design a customized game show concept. Fill out the form by providing details about your game show, and it will be used to create a unique and engaging experience for your audience.

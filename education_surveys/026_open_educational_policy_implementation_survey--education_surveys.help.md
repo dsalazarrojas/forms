@@ -1,12 +1,3 @@
-<thinking> 
-This form is meant to gather information from respondents about the implementation of Open Educational Policy (OEP) in educational institutions. The purpose of this form is to understand the current state of OEP, identify challenges, and gather feedback from stakeholders. Respondents are asked to provide their contact information to be kept in the loop and allow for further discussion.
-
-It is essential to note that this form should only be completed once by each respondent, and it is not a recurring form. Please ensure that the same respondent does not submit the form multiple times. If you need to make changes or updates to your response, kindly contact the survey administrators.
-
-Please review the form carefully and ensure that you have provided the necessary information before submitting it.
-
-</thinking>
-
 # Open Educational Policy Implementation Survey - Help Guide
 ## Purpose
 The Open Educational Policy Implementation Survey aims to gather information on the current implementation of Open Educational Policy in educational institutions. This information will help institutions to better understand their strengths and weaknesses and make necessary adjustments to improve the implementation of the policy.

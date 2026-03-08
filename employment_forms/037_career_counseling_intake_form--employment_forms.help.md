@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from clients about their employment status, goals, and challenges. It is meant to be a starting point for career counseling services. Please ensure that the information collected is accurate and relevant to the client's situation, and that each field is completed as required. Note that some fields may be optional, and the client's input should not be duplicated or falsified.
-
-</thinking>
-
 # Career Counseling Intake Form - Help Guide
 ## Purpose
 The Career Counseling Intake Form is designed to collect information from clients about their employment status, goals, and challenges. This form helps us understand their needs and provide personalized career counseling services.

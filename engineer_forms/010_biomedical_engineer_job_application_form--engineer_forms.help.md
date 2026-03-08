@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that this form is for biomedical engineers to apply for a job position. This form requires applicants to provide basic contact information, job title/position applied for, and other relevant details such as desired start date, desired salary, eligibility to work, references, and additional information. We should ensure that all required fields are completed accurately and thoroughly, especially eligibility to work, as this will determine the next steps in the application process. We also need to consider that the form has a mix of required and optional fields, so applicants should not feel overwhelmed but rather focus on providing accurate and detailed information. Additionally, we should double-check that the form fields are clear and self-explanatory, especially for those who may not be familiar with biomedical engineering applications.
-</thinking>
-
 # Biomedical Engineer Job Application Form - Help Guide
 ## Purpose
 This form is for biomedical engineers to apply for a job position. It collects relevant information about the applicant, including contact details, job specifics, and other necessary documents.

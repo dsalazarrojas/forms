@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the trip_survey form, I need to understand its purpose and the meaning of each field. The form appears to be a trip planning form, likely used to gather information about users' travel plans. It contains fields for trip purpose, travel dates, travel locations, trip type, travel duration, additional trip details, contact person, group trip status, and trip status. 
-
-The form's purpose is to gather information about users' trips, and it seems that the form is intended for both personal and professional use, as some fields are optional while others are mandatory. 
-
-There is no indication of any specific constraints or restrictions on the form fields other than the 'required' fields which are already marked in the form's schema.
-
-</thinking>
 # trip_survey - Help Guide
 ## Purpose
 The trip_survey form is used to gather information about users' travel plans. It can be used by both personal and professional users.

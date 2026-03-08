@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following is the help guide for the "Salary Survey" form:
 
 # Salary Survey - Help Guide

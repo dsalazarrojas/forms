@@ -1,8 +1,3 @@
-<thinking>
-The form is likely used to request access to a heavy equipment mat, which is a mat used for access on heavy equipment, such as forklifts, cranes, or other machinery, at a job site. This form will help the user request access to the mat for a specific project or job, and provide necessary information to the requestor, such as the contractor's details, equipment type, start and end dates, and other relevant details.
-The form will not be used for non-duplication, as each field should be filled in with specific and accurate information.
-</thinking>
-
 # Heavy Equipment Access Mat Request Form - Help Guide
 
 ## Purpose

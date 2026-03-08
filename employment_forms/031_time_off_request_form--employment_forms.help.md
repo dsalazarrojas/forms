@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to gather information from employees about their time off requests. A well-structured time off request form ensures that all necessary details are collected, making it easier for HR and management to process and respond to these requests. This form is likely used for internal purposes within a company, so it's essential to understand its purpose to avoid duplication or misinterpretation of the requests. Ensure you complete this form carefully to minimize errors and delays in processing.
-</thinking>
-
 # Time Off Request Form - Help Guide
 
 ## Purpose

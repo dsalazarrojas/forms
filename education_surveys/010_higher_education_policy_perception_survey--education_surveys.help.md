@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and opinions from educators, administrators, and other stakeholders on their perception of higher education policies. The form is designed to gather information on the effectiveness of current and future policies, as well as areas that need improvement. This survey will help identify trends and areas of concern in the higher education sector.
-
-This form is intended for use by educators, administrators, and other stakeholders in the higher education sector. It is not meant to be a comprehensive or exhaustive survey, but rather a means to gather general opinions and perceptions.
-
-Before proceeding, please note that the form is split into sections, each focusing on a specific aspect of higher education policies. Each section is designed to be completed by a single individual, but responses can be completed in any order.
-
-Please ensure that you only complete the form once, and do not duplicate your responses.
-
-</thinking>
-
 # Higher Education Policy Perception Survey - Help Guide
 ## Purpose
 The Higher Education Policy Perception Survey is designed to gather feedback and opinions from educators, administrators, and other stakeholders on their perception of higher education policies.

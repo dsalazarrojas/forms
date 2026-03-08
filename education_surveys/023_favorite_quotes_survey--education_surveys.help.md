@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that this form is being used correctly and that the user understands what it's for. This form is for collecting information on users' favorite quotes, books, and other relevant details. It's not just about gathering any old information; it's about collecting specific details to help us categorize and analyze the data. If users fill out the form without any thought, it defeats the purpose of the survey.
-</thinking>
-
 # Favorite Quotes Survey - Help Guide
 ## Purpose
 The "Favorite Quotes Survey" is a form designed to gather information on users' favorite quotes, books, and related details. Please fill out this form to provide us with accurate and specific information about your favorite quotes and books.

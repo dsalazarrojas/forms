@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's note-taking methods and memory retention habits. 
-</thinking>
-
 # Note Taking Methods And Memory Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather insights into an individual's note-taking habits and memory retention abilities. It will help us better understand how people take notes and remember information.

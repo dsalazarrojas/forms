@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about employee training, which is essential for tracking and managing employee development within the organization. It is crucial to understand that the purpose of this form is to gather details about the training an employee has received or will receive, which is a critical component of employee development and growth.
-
-The form collects information about the employee's training, including the name of the company, type of training, start date, duration, number of employees participating, training location, termination date, evaluation date, and manager's comments.
-
-Before filling out this form, ensure that you have all the necessary details about the employee's training. If you are unsure about any of the fields, refer to the relevant sections below for a detailed explanation of each field.
-</thinking>
-
 # Employee Training Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about employee training, which is essential for tracking and managing employee development within the organization.

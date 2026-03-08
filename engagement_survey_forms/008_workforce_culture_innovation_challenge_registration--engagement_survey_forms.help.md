@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants about the Workforce Culture Innovation Challenge. The form is divided into several sections that cover different aspects of the challenge, including participant details, innovation ideas, submission management, easy submission, no-code form building, drag-and-drop interface, and organized data collection. Before filling out this form, please ensure you have all the necessary information and that you are not duplicating an existing entry. To confirm, can you please let us know if you have already submitted an entry for this challenge?
-</thinking>
-
 # Workforce Culture Innovation Challenge Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from participants about the Workforce Culture Innovation Challenge.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Concrete Cylinder Break Report - Help Guide
 ## Purpose
 The Concrete Cylinder Break Report is a form used to document the results of a concrete cylinder test, which is a laboratory test to determine the compressive strength of concrete. This form is used to record the details of the test, including the laboratory technician's name, project reference, sample ID, test dates, specimen dimensions, load at failure, calculated compressive strength, type of break observed, and any remarks or observations.

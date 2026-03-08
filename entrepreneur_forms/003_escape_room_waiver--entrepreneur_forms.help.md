@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from participants in an escape room activity, including their waiver of liability, contact information, and medical conditions. This form is used to ensure that participants are aware of and agree to the terms and conditions of the escape room experience, and to provide emergency contact information in case of any incidents or accidents during the activity.</thinking>
-
 # Escape Room Waiver - Help Guide
 ## Purpose
 The Escape Room Waiver form is used to collect information from participants, ensuring they are aware of and agree to the terms and conditions of the escape room experience. This form is essential for their safety and to provide emergency contact information.

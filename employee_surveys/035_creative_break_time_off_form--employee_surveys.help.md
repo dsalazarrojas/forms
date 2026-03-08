@@ -1,13 +1,3 @@
-<thinking>As a form designer and technical writer, I understand that the purpose of this form is to request and track creative break time off, which is an essential aspect of maintaining a healthy work environment. This form allows employees to submit requests for a specific period off, providing details such as the project name, type, status, and reason for requesting time off. The form may be used by managers or HR representatives to review and approve requests, ensuring that employees receive the necessary break time without disrupting project timelines.
-
-Before filling out this form, make sure to:
-
-*   Ensure that you have discussed your request with your manager or HR representative if required.
-*   Double-check that you have the necessary information and permissions before submitting the request.
-*   Be concise and clear in your answers to facilitate the review process.
-
-This guide will help you understand each field's purpose and what to expect when filling out the form.</thinking>
-
 # Creative Break Time Off Form - Help Guide
 ## Purpose
 The Creative Break Time Off Form is designed to help employees request and track creative breaks. This form allows you to submit requests for a specific period off, providing essential details about the project you are working on and the reason for your request.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the actual form help guide, let's quickly review the form's purpose. This form is used to collect employee feedback on leadership evaluation. It's likely used within an organization to assess how well leaders are doing, identify areas for improvement, and provide a platform for employees to share their opinions and suggestions. This form seems to be a simple and straightforward way to collect feedback, without any complex logic or conditional fields. It's likely used by HR or a similar department to gather insights and create a more positive work environment. If you're familiar with this form, feel free to skip this section and proceed to the help guide.</thinking>
-
 # Employee Feedback On Leadership Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect employee feedback on leadership evaluation, helping to assess how well leaders are doing and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Sensor Calibration Report Form - Help Guide
 
 ## Purpose

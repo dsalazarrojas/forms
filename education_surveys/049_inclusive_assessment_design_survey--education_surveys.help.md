@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from educators on the assessment design of inclusive practices. The purpose of this form is to collect information on the use and perceived effectiveness of different strategies and methods used in inclusive assessments in educational settings. This form will help us understand how often and in what capacity educators use these strategies, as well as their importance and perceived value. Please note that this form is intended for educators with experience in designing and implementing assessments.
-</thinking>
-
 # Inclusive Assessment Design Survey - Help Guide
 ## Purpose
 The Inclusive Assessment Design Survey is a form designed to gather feedback from educators on the assessment design of inclusive practices in educational settings. It aims to collect information on the use and effectiveness of different strategies and methods used in inclusive assessments.

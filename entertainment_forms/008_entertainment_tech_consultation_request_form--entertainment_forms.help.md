@@ -1,9 +1,3 @@
-<thinking>
-This help guide is to ensure that users understand the purpose and functionality of the "entertainment_tech_consultation_request_form" and can complete the form accurately and efficiently. Please ensure that you have read the instructions and guidelines carefully before proceeding.
-
-To prevent duplication, please verify that a similar request has not been submitted recently. If you are unsure or need to make changes to an existing request, please contact the internal team for further assistance.
-</thinking>
-
 # entertainment_tech_consultation_request_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a specific project's technical requirements, such as project details, project manager's name, project start and end dates, project status, location, description, and technology requirements. This form will help the internal team to better understand the project and provide relevant technical consultation.

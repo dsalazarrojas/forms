@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to evaluate the performance of an academic department. It assesses various aspects of departmental performance, including teaching quality, research output and impact, student support services, financial management, and more. The form helps to identify areas of strength and weakness and provides recommendations for improvement. This evaluation is crucial for ensuring that the department meets its academic and professional standards.
-
-</thinking>
-
 # Academic Department Performance Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the performance of an academic department. It assesses various aspects of departmental performance, including teaching quality, research output and impact, student support services, financial management, and more. The form helps to identify areas of strength and weakness and provides recommendations for improvement.

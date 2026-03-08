@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mental Health Support In Academia Survey - Help Guide
 
 ## Purpose

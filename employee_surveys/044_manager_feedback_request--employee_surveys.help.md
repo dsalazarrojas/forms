@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from managers, allowing them to provide input on their strengths and areas for improvement. The form is intended to be completed by managers themselves, providing valuable insights and suggestions for their own growth and development. This form should only be used by managers to request feedback from their direct reports or team members. Please ensure that you are in the correct context before completing this form.
-</thinking>
-
 # manager_feedback_request - Help Guide
 ## Purpose
 The "manager_feedback_request" form is designed to collect feedback from managers, helping them to identify their strengths and areas for improvement. This form is intended for internal use and should only be used by managers to request feedback from their direct reports or team members.

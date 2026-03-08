@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is completed correctly and accurately to gain valuable insights and feedback. This form is intended to be completed by students after the course has concluded, and it's crucial that each field is filled out with the utmost care and attention to detail. To prevent duplication of effort and potential bias, only one person should complete the form. If you are unsure about any section, please take a moment to review the field labels and hints for clarification.
-</thinking>
-
 # Class Feedback Survey - Help Guide
 
 ## Purpose

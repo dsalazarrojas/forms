@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect feedback and suggestions from employees on how to improve HR policies within the company. The purpose of this form is to gather information and insights from employees on what they think are areas that need improvement, how to communicate more effectively, and to collect feedback on company policies. It's essential to ensure that the information entered in this form is relevant and not duplicated with other surveys or feedback mechanisms.
 
 # Hr Policy Review Report Form - Help Guide

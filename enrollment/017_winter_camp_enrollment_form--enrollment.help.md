@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for the Winter Camp Enrollment process. It is intended for parents/guardians to provide details about themselves and their children, along with selecting a suitable camp for their child's enrollment, and specifying any dates available for attendance. 
-
-Before proceeding, ensure that:
-- The form is only used for the intended purpose of Winter Camp Enrollment.
-- The form is not duplicated or used to collect sensitive information.
-</thinking>
-
 # winter_camp_enrollment_form - Help Guide
 ## Purpose
 The winter_camp_enrollment_form is designed to collect information from parents/guardians for the Winter Camp Enrollment process. This form is meant for parents to provide details about themselves and their children, along with selecting a suitable camp for their child's enrollment and specifying dates available for attendance.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the "Dance Event Participation Interest Form" and its purpose. The form is designed to collect information from potential participants about their interest in attending a dance event. The form should only be completed if the user is genuinely interested in participating in a dance event. Users should not complete the form if they are only inquiring about the event or if they are not sure about their availability. This guide assumes that users understand the basics of form completion and the types of form fields presented.
-</thinking>
-
 # Dance Event Participation Interest Form - Help Guide
 ## Purpose
 The Dance Event Participation Interest Form is a tool used to collect information from potential participants who are interested in attending a dance event. The form is designed to help event organizers understand who is interested in participating and what types of dance styles and levels of experience they have.

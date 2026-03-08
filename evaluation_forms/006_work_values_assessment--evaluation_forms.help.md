@@ -1,5 +1,3 @@
-<thinking>This form is designed to help users assess their work-related values and preferences. It is not affiliated with, endorsed by, or derived from any form platform. This form was created by AI using only public survey topic metadata as inspiration and is an original adaptation. Users are free to use, modify, and even sell forms derived from it, just give credit. This form does not collect or use proprietary content from any form creation, data collection, or survey platform, released under CC BY 4.0. This form should not be used for commercial purposes without permission. The form's purpose is to help users understand their work values and preferences, and to provide a framework for self-reflection and personal growth. Before proceeding, ensure you are not duplicating any work values assessments you have already completed. If you have any questions, feel free to contact form@gic.mx. This form is intended for personal use and should not be used to assess someone else's work values without their consent.</thinking>
-
 # Work Values Assessment - Help Guide
 ## Purpose
 This form is designed to help you assess your work values and preferences.

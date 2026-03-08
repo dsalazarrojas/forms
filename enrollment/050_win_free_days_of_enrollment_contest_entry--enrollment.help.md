@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from students for a "Win Free Days Of Enrollment Contest Entry". It's likely used for a contest or promotion aimed at students. The form asks for personal and school-related information to determine eligibility and categorize participants. Please ensure you are eligible to participate before filling out this form. If you have already completed this form, you may not need to do so again. 
-
-This form is divided into two parts: student information and school information. 
-
-Please fill out this form carefully and accurately. 
-
-Note to self: Be aware of the required fields marked with an asterisk (*) and make sure to fill out all of them.
-</thinking>
-
 # Win Free Days Of Enrollment Contest Entry - Help Guide
 ## Purpose
 This form is designed to collect information from students for the "Win Free Days Of Enrollment Contest Entry". The contest aims to provide free days of enrollment to participating students.

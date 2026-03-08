@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # religious_education_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users about the religious education programs offered by your organization. It collects information on program feedback, satisfaction levels, and contact information to help us better understand your experiences and improve our services.

@@ -1,7 +1,3 @@
-<thinking>
-The Waxing Consent Form is used to obtain informed consent from a client for waxing procedures. This form serves as a legal document to establish a record of the client's understanding and agreement to the procedures that will be performed. It is a critical component of the waxing process, ensuring that the client is aware of the risks and benefits associated with waxing and has provided their consent to proceed. 
-</thinking>
-
 # Waxing Consent Form - Help Guide
 
 ## Purpose

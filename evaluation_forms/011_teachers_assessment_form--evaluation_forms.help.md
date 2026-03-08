@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to allow teachers to assess and provide feedback on a student's performance, focusing on their strengths, weaknesses, and suggestions for improvement. This form is intended for internal use within an educational institution or organization. It is essential to fill out this form accurately and truthfully to ensure that the assessment is comprehensive and reliable. Please ensure that you are using this form for its intended purpose and do not use it for any other purpose that may compromise the integrity of the evaluation process.
-
-To prevent duplication, please note that each teacher should only use this form to assess one student at a time. Using this form for multiple students may lead to confusion and affect the accuracy of the assessment.
-
-To complete this form, please follow these steps:
-
-1.  Start on the first page, where you will provide basic information about yourself as the evaluating teacher.
-2.  On the subsequent pages, you will be asked to evaluate the student's performance, providing feedback on their strengths, weaknesses, and suggestions for improvement.
-
-Please note that some fields may be optional, but please ensure that you fill out all required fields to provide a comprehensive assessment.
-
-</thinking>
-
 # Teachers Assessment Form - Help Guide
 ## Purpose
 The Teachers Assessment Form is designed to evaluate a student's performance, focusing on their strengths, weaknesses, and suggestions for improvement.

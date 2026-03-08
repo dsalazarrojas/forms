@@ -1,23 +1,3 @@
-<thinking>
-
-This form appears to be designed to assess potential hazards related to personal protective equipment (PPE) in the workplace. It seems to focus on evaluating the type and frequency of PPE inspections, as well as the level of hazard presented. The form likely serves as a tool for management and HR to track and manage PPE-related incidents, risks, and preventive measures.
-
-To confirm, the form has several sections:
-
-*   Employee information (name, ID, supervisor name, supervisor ID)
-*   Equipment location and type
-*   PPE inspection frequency, last date, and next date
-*   Notes
-*   Submission and assignment details
-*   Status and comments
-*   Hazard level and description
-*   Recommended and prohibited PPE
-*   Supervisor and employee signatures and dates
-
-The form may be used in an organizational setting, such as in a construction or manufacturing environment, where workers are exposed to various hazards.
-
-</thinking>
-
 # ppe_hazard_assessment_form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to track and document employee absences for the company. It is designed to be completed by employees to report their absence status and provide necessary details for approval and processing. 
-Please ensure that you are only submitting one form per absence occurrence. If you have already submitted a form for this absence, please do not resubmit. 
-</thinking>
-
 # Health Check Absence Form - Help Guide
 ## Purpose
 The Health Check Absence Form is used to provide information about an employee's absence from work due to health reasons. It helps the management team keep track of absences and facilitate the approval process.

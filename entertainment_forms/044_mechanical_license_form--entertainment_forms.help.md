@@ -1,10 +1,3 @@
-<thinking>
-This is a guide to help you complete the Mechanical License Form, a critical part of the music industry. Please note that this form is used for the purpose of clearing mechanical rights for music, which means granting permission for a song to be performed or recorded. Ensure that you understand the purpose and relevance of this form before proceeding.
-
-Before you start, check if you've already completed this form, as duplicate submissions can lead to unnecessary paperwork and delay the process. If you're certain you've got this form right, let's move on to the step-by-step instructions.
-
-</thinking>
-
 # Mechanical License Form - Help Guide
 ## Purpose
 The Mechanical License Form is a crucial document used to acquire the necessary rights and permissions for a song to be performed or recorded by others. It ensures that the original creators of the music, the songwriters and publishers, are compensated fairly and correctly for their work.

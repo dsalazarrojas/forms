@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for estimating the cost and details of a tour guide. The form will be used to collect user inputs on the type of services offered, locations, estimated cost, travel time, tour duration, currency, and any additional notes. This information will be used internally to provide users with a comprehensive estimate for planning and executing their tour guides. This form is a one-time submission form, meaning users can only submit one estimate form at a time.
-</thinking>
-
 # Tour Guide Estimate Form - Help Guide
 ## Purpose
 This form is used to gather information for estimating the cost and details of a tour guide.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are involved in rooftop farming, an innovative agricultural practice where crops are grown on rooftops. This form is designed to gather insights and experiences from experts, researchers, and practitioners in the field of rooftop farming. The information collected will help us better understand the challenges, benefits, and practices associated with rooftop farming, which can inform future research, policy making, and urban planning initiatives.
-</thinking>
-
 # Rooftop Farming Survey - Help Guide
 ## Purpose
 This form is intended to collect information from individuals involved in rooftop farming to gain insights into the challenges and benefits of this innovative agricultural practice.

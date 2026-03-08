@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to be a helpful resource for users filling out the Lash Extension Intake Form. Before starting, please ensure that you have a clear understanding of the form's purpose and that you're not duplicating an existing submission. The form is designed to collect information from clients for lash extension services, repair, and other related treatments. Please follow the instructions carefully to ensure accurate and complete information.
-
-</thinking>
-
 # lash_extension_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for lash extension services, repair, and other related treatments. It helps the technician understand the client's needs and preferences, ensuring a more personalized experience during the treatment process.

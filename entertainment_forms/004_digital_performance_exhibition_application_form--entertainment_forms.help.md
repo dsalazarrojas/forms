@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Digital Performance Exhibition Application Form, the purpose and context of this form should be considered. This form is intended to collect information from artists for a digital performance exhibition, likely for an art or entertainment organization. The form's purpose is to gather essential details from the artist, including their name, proposal, and media links. This form's primary use case is for artists to apply to perform at the exhibition, and it is likely to be used by curators or organizers to review and decide on artist participation.
-
-To ensure that the form is completed correctly, it is essential to understand its purpose and relevance. This form is not intended to be a generic survey or data collection tool, but rather a specific application form for digital performance artists. 
-
-The form's fields should be examined closely, and each field's purpose and meaning should be considered. 
-
-The form is designed to be completed by artists, who may not be familiar with the organization's specific requirements or processes. Therefore, the explanations provided should be clear, concise, and practical. If a field label is weak or unclear, the explanation should convey the intended meaning without inventing unsupported business logic. 
-
-The form's fields should be examined for any potential issues or concerns that may arise during completion. For example, the "artist_details" field may be used to collect the artist's name, contact information, and other essential details. The "proposal" field is likely used to describe the artist's performance proposal, including the type of performance, duration, and any specific requirements. The "media_links" field may be used to collect links to the artist's website, social media, or online portfolios. 
-
-To create a user-friendly guide, the explanations should be concrete, concise, and practical. The guide should address potential concerns or issues that may arise during form completion and provide clear instructions on how to complete the form correctly.</thinking>
-
 # Digital Performance Exhibition Application Form - Help Guide
 ## Purpose
 This guide will walk you through the Digital Performance Exhibition Application Form, which is designed for artists to apply to perform at a digital performance exhibition.

@@ -1,10 +1,3 @@
-<thinking>
-
-This form is designed to collect editor information for a specific purpose, possibly for internal personnel management or record-keeping purposes. Before proceeding, please ensure that you haven't filled out this form in the past, or if you have, review the changes since your last submission. The goal is to provide accurate and up-to-date editor information.
-
-
-</thinking>
-
 # editor_information_form - Help Guide
 ## Purpose
 This form is used to collect and store editor information for various purposes, such as personnel management, record-keeping, and other internal needs.

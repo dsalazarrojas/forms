@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm wondering if this form is indeed for internal use only. The fact that it only includes fields like "start_date", "end_date", and "job_opening_number" makes me think it might be more of a reporting or tracking form. However, I'll assume that "Postdoctoral Scholar Hire Notification Form" is its actual purpose. If that's the case, perhaps this form is used for notifying administrators or HR about new postdoctoral scholars, or for tracking their status, employment details, and other relevant information. I'm also curious about the "Reason for Leaving" field, which might be for tracking scholar separations or terminations. Without more context, it's hard to say for certain. I'll proceed with creating the help guide based on the provided form structure.
-</thinking>
-
 # Postdoctoral Scholar Hire Notification Form - Help Guide
 
 ## Purpose

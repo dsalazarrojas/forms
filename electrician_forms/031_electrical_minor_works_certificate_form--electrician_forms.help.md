@@ -1,7 +1,3 @@
-<thinking>
-This form is likely for an electrical minor works certificate, which is a document used to confirm that a minor electrical work has been completed and is safe to use. The purpose of this form is to provide a record of the work that was done, including details about the job, the address, and the certifier's information. It's essential to ensure that all required fields are filled in correctly to create a complete and accurate certificate.
-</thinking>
-
 # Electrical Minor Works Certificate Form - Help Guide
 ## Purpose
 This form is used to record and confirm minor electrical works. It's designed to provide details about the work, address, and the certifier's information.

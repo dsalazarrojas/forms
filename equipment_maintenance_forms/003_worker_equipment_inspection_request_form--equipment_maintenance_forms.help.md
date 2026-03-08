@@ -1,7 +1,3 @@
-<thinking>
-The "Worker Equipment Inspection Request Form" is a tool used to collect information about equipment that requires inspection. This form is likely used by workers or equipment managers to request inspections, which can be related to maintenance, safety, or other purposes. It's possible that this form is part of a larger workflow that includes submitting requests, scheduling inspections, and performing maintenance on equipment. To avoid duplicates, users might be able to filter or sort forms by category or status.
-</thinking>
-
 # Worker Equipment Inspection Request Form - Help Guide
 ## Purpose
 The Worker Equipment Inspection Request Form is used to collect information about equipment that requires inspection. This form helps to identify the equipment, schedule an inspection, and track the progress of the inspection.

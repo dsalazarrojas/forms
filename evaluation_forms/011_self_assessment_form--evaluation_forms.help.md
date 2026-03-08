@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Self Assessment Form - Help Guide
 ## Purpose
 The Self Assessment Form is a tool used to evaluate and track progress on a project or task. It's designed to provide a comprehensive overview of the assessment process, helping users to identify areas of improvement and areas of success.

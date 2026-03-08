@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for gym staff to assess the effectiveness of training sessions, providing an opportunity for employees to share their experiences, feedback, and suggestions on the quality and relevance of the training provided. It's essential to complete this form accurately and honestly, as the feedback will help trainers and management evaluate and improve the training program. Please note that this form is only accessible to authorized personnel, and your responses will be kept confidential.
-
-</thinking>
-
 # gym_staff_training_effectiveness_survey - Help Guide
 ## Purpose
 The gym staff training effectiveness survey is designed to gather feedback from staff members on the effectiveness of the training sessions, enabling trainers and management to evaluate and improve the training program.

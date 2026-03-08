@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from young people who want to participate in youth ministries, such as volunteering, attending events, or seeking guidance. This form helps staff members of the ministry to gather relevant details, process the application efficiently, and follow up on any pending actions.
 
 This form has the following pages:

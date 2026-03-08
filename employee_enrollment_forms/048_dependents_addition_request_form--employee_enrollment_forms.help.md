@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request the addition of dependents to an employee's benefits. To ensure that you only submit the form for legitimate purposes, please confirm that you are requesting add dependents that are not already covered under your previous submissions. Double-check your previous submissions to prevent duplicate requests. This form can only be submitted by the employee themselves, as the addition of dependents requires their explicit consent and approval. Please fill out this form carefully and accurately, as any inaccuracies or omissions may delay or deny your dependent benefits.
-</thinking>
-
 # Dependents Addition Request Form - Help Guide
 ## Purpose
 The Dependents Addition Request Form is used to request the addition of dependents to an employee's benefits. This form allows employees to provide information about their dependents, including their name, date of birth, address, and relationship to the employee.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for an employee timesheet, likely used for tracking and recording work hours, breaks, and other relevant details. This form seems to be designed for an office or work environment where employees are required to log their work hours and activities. The form is relatively standard, with fields for work start and end times, dates, hours worked, breaks, and supervisor and manager information. There's also a field for notes and comments. This template likely serves as a base for generating timesheets for employees in this work environment.
-</thinking>
-
 # Employee Timesheet Template - Help Guide
 ## Purpose
 This form is designed for employees to track and report their work hours, breaks, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help small business owners assess their current cyber security posture. By completing this form, business owners can gauge their adherence to basic security controls and identify areas that need improvement.
-</thinking>
-
 # Small Business Cyber Security Checklist - Help Guide
 ## Purpose
 

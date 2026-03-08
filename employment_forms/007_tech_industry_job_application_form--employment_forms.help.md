@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from job applicants in the tech industry. The form is designed to gather relevant details about the applicant's work experience, education, skills, and job preferences. This information will be used to assess the applicant's suitability for potential job opportunities within the company. Before proceeding, please ensure you have the necessary permissions to complete this form and that you have not previously submitted this form.
-
-Please note that some fields may be optional, but providing accurate and complete information will help us better understand your qualifications and preferences.
-</thinking>
-
 # Tech Industry Job Application Form - Help Guide
 ## Purpose
 The Tech Industry Job Application Form is designed to collect information from job applicants in the tech industry. This form helps us understand your work experience, education, skills, and job preferences.

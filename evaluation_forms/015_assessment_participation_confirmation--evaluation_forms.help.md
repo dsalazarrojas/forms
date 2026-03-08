@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that all participants understand the purpose and importance of this form: it's used for Assessment Participation Confirmation, which gathers crucial information from individuals to prepare for and administer assessments. To prevent duplication of effort and ensure accurate data, it's essential to follow these steps carefully. Before proceeding, please review the form's purpose and ensure you have the necessary permissions to complete it.
-
-This guide will walk you through each field, providing a clear understanding of what's required for a smooth and accurate submission.
-
-</thinking>
-
 # Assessment Participation Confirmation - Help Guide
 ## Purpose
 The Assessment Participation Confirmation form is used to gather essential information from participants to prepare for and administer assessments. It confirms their participation, gathers details about their availability and requirements, and ensures they understand the assessment's format and content.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Emergency Medical Service Assessment Form. The form is designed to collect information about an individual's medical condition, symptoms, and emergency contact details. The form consists of multiple pages, each with its own set of fields. This guide will walk you through each field, explaining what it means and how to fill it out correctly. Please ensure that you read and understand the instructions thoroughly before completing the form. This is a general-purpose guide and should be used for reference only, not as an authoritative medical or professional advice.
-</thinking>
-
 # Emergency Medical Service Assessment Form - Help Guide
 
 ## Purpose

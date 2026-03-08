@@ -1,7 +1,3 @@
-<thinking>
-This form is used by managers and employees to provide feedback and evaluation on probationary tech startups. It's essential to ensure this form is used correctly and consistently to maintain accurate data and prevent duplication. This form should only be submitted for new feedback and evaluation, and not for updating existing records or duplicate entries. The fields should only be filled by authorized personnel, and any discrepancies should be reported and corrected.
-</thinking>
-
 # Tech Startup Probation Feedback Employment Form - Help Guide
 
 ## Purpose

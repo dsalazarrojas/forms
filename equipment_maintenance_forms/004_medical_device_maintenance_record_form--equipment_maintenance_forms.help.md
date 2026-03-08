@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to record maintenance history of medical devices, including medical device information, maintenance history, and other relevant details.
-The form can be used by medical professionals to document and track maintenance activities, ensuring that medical devices are properly maintained and repaired.
-The form is divided into sections, each focusing on a specific aspect of medical device maintenance. 
-
-This form is designed to be used in conjunction with other tools and processes to ensure accurate and efficient maintenance of medical devices.
-Please note that while this form is AI-generated, it has been adapted to be relevant to the medical field. It has been reviewed to ensure that it meets the requirements of the medical industry and does not include any proprietary or copyrighted content.
-It is recommended that users review this form carefully and provide feedback to help refine and improve it.
-</thinking>
-
 # Medical Device Maintenance Record Form - Help Guide
 ## Purpose
 The Medical Device Maintenance Record Form is a tool used to record and track maintenance history of medical devices. It is designed to help medical professionals document and track maintenance activities, ensuring that medical devices are properly maintained and repaired.

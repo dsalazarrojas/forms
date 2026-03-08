@@ -1,9 +1,4 @@
 >
-<thinking>
-The purpose of this form is to collect information about the frequency of recognition practices within an organization. This form is used to analyze the frequency of various recognition practices, such as employee surveys, manager surveys, and team surveys, to understand their impact on employee motivation and engagement. This information can help identify areas for improvement and inform decisions on how to implement recognition practices more effectively.
-To ensure the accuracy of the data collected, please note that this form should not be completed if you have already done so in the past month. Completing this form multiple times in a short period can skew the results and make it difficult to obtain reliable data.
-</thinking>
-
 # Recognition Frequency Analysis Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the frequency of recognition practices within an organization. It consists of various sections that ask you to select or input information about different aspects of recognition, such as employee surveys, manager surveys, and barriers.

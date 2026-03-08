@@ -1,5 +1,3 @@
-<thinking>...This form is intended to collect information from individuals who wish to become delegates in a specific event. The form captures essential details such as the event title, contact information, event date and time, event location, and other relevant details. It also asks about the delegate's experience, availability, and interests. This form will be used to filter and match delegates with potential event opportunities. It is recommended to fill out this form to increase the chances of being selected as a delegate...</thinking>
-
 # Delegate Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to become delegates in a specific event. Fill out this form carefully to increase your chances of being selected as a delegate.

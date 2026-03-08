@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information about students' concentration changes within the MPH (Master's in Public Health) program. The form is designed to help students and advisors track changes to their concentration and provide a record of their progress. 
-
-Before proceeding, please ensure you are completing this form for the correct purpose and not duplicating a previous submission. This form is intended for students who are changing their concentration and do not have any existing submission with the same student ID and date. If you are unsure, please check with the MPH administration team or your advisor.
-
-</thinking>
-
 # MPH Concentration Change Survey - Help Guide
 ## Purpose
 This form is used to collect information about students' concentration changes within the MPH program. Please fill out this form if you are changing your concentration and do not have any existing submission with the same student ID and date.

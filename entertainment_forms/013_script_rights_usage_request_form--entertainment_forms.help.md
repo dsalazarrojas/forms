@@ -1,6 +1,3 @@
-<thinking>
-We are creating a form for users to request script rights usage, which requires them to provide information about their request and the details of the script they are requesting usage rights for. This form is used by internal stakeholders to review and manage script usage requests. To ensure that this information is accurate and complete, users must fill out each field carefully. Please note that some fields are optional, but required fields are clearly marked as such. Before proceeding, ensure that you have all necessary information at hand.</thinking>
-
 # Script Rights Usage Request Form - Help Guide
 ## Purpose
 This form is used to request script rights usage for a specific script. To complete this form, please follow the instructions below.

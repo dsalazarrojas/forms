@@ -1,28 +1,3 @@
-<thinking>
-The purpose of this form is to collect bid information from potential buyers for an art auction. It gathers personal and contact details of the bidder, artwork specifics, and payment and shipping information. This form is meant for individuals or organizations that wish to place bids on artworks being auctioned. The information collected will be used to facilitate the bidding process, ensure accurate contact and payment details, and provide shipping and delivery services as per the buyer's preference. 
-
-The following fields are required and should be filled accordingly:
-
-- Bidder Name
-- Bidder ID or Number
-- Email Address
-- Phone Number
-- Artwork Lot Number
-- Artwork Title
-- Artist Name
-- Medium or Technique
-- Opening Bid Amount
-- Current Bid Amount
-- Your Bid Amount
-- Reserve Price Met
-- Preferred Payment Method
-- Payment Terms
-- Shipping Address
-- Delivery Preference
-
-Please ensure that all relevant fields are filled correctly and accurately to avoid any potential issues during the bidding process.
-</thinking>
-
 # Art Auction Form - Help Guide
 ## Purpose
 The Art Auction Form is a tool designed to gather information from potential buyers for an art auction. This form is used to collect personal and contact details of the bidder, artwork specifics, and payment and shipping information.

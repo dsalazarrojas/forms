@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help non-fungible token (NFT) marketplaces apply to be featured on a specific platform. The form is used to gather necessary information about the artist and their NFT marketplace in order to be considered for feature inclusion.
-
-The goal of this help guide is to ensure that applicants understand what information to provide and how to correctly fill out the form. 
-
-The following guide will walk you through each field and what you can expect to enter for each section.
-
-</thinking>
-
 # Non Fungible Tokens Marketplace Application Form - Help Guide
 
 ## Purpose

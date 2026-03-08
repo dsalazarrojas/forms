@@ -1,9 +1,3 @@
-<thinking>
-
-We need to create a help guide for the "Easter Egg Hunt Registration Form" to help end-users understand its purpose, how to complete it, and what each field means. The form is meant for registering participants in an Easter Egg Hunt event.
-
-</thinking>
-
 # Easter Egg Hunt Registration Form - Help Guide
 ## Purpose
 The Easter Egg Hunt Registration Form is meant for participants to register for an Easter Egg Hunt event. It collects the necessary information from participants to facilitate a fun and memorable experience during the event.

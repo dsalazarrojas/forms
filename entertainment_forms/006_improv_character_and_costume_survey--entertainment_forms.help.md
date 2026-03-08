@@ -1,7 +1,3 @@
-<thinking>
-This form is used for surveying the characteristics and needs of improviser's characters and their costumes. The purpose of this form is to gather information about the characteristics of the improviser's character, such as their name, age, experience level, and performance and show frequency. This will help the improv team better understand the needs and capabilities of the characters for future shows and performances. Before proceeding, please ensure this form is not for duplicate or test purposes.
-</thinking>
-
 # Improv Character and Costume Survey - Help Guide
 ## Purpose
 This form is used to collect information about your character and its needs for our improv performances and events.

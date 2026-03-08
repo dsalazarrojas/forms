@@ -1,8 +1,3 @@
-<thinking>
-This form is likely part of a larger educational project, and its purpose is to gather feedback and insights from educators on the impact of creative teaching practices on students' outcomes and engagement. The form might be used to collect data for research, evaluation, or quality improvement purposes within an educational institution. To ensure relevance and prevent duplication, it's essential to verify that the data collected is accurate and consistent with existing records.
-
-</thinking>
-
 # creative_teaching_practices_impact_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the impact of creative teaching practices on students' outcomes and engagement. This data will help educators and administrators evaluate the effectiveness of innovative teaching methods and identify areas for improvement.

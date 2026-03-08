@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for employees who need to complete the "Dispatch Availability Survey" form. This form is meant to gather information about an employee's work schedule and availability. Please make sure to complete the form accurately and thoroughly. If you have already completed this form, please ensure that your information has not changed since the last time you submitted it.
-</thinking>
-
 # Dispatch Availability Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your availability and schedule preferences for dispatching work. This information will help us better understand your work schedule and make more efficient dispatching decisions.

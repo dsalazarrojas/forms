@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a "Consulting Engagement Effectiveness Survey" designed to assess the success and effectiveness of a consulting engagement with a client. The purpose of this form is to collect feedback from the client on the quality of service provided, objectives met, stakeholder satisfaction, and other relevant aspects of the engagement. This form aims to gather insights that can be used to improve future engagements and enhance the client relationship.
-
-</thinking>
-
 # Consulting Engagement Effectiveness Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect data for employee motivation research. It is designed to gather information about an employee's job satisfaction, engagement factors, and other relevant metrics. This form should be filled out by employees to provide an honest assessment of their work experience and environment. 
 
 Before proceeding, please note that this form is for research purposes only and the data collected will be used to identify areas for improvement within the organization. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing tool used for ordering digital books (eBooks) from a platform. It allows users to input their contact information and book order details to place an order. It is crucial to ensure that the form accurately captures relevant details, as this information is used for order processing and customer communication. Please verify that this form is not a duplicate of any existing form and that its purpose aligns with your current business requirements.
-</thinking>
-
 # Ebook Order Form - Help Guide
 
 ## Purpose

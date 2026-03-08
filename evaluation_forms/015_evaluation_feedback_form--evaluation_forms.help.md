@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the Evaluation Feedback Form, a crucial tool for gathering valuable insights and feedback. It's essential to understand its purpose and complete it accurately to ensure the highest quality of feedback. Before proceeding, please ensure that you're familiar with the form's requirements and haven't submitted any similar feedback recently. The Evaluation Feedback Form is designed to collect specific details about an event, overall experience, evaluation date, evaluation time, notes, participant email, and participant phone. This form is used by participants to provide an unbiased evaluation of the event, helping us to refine our services and improve their overall quality.
-</thinking>
-
 # Evaluation Feedback Form - Help Guide
 ## Purpose
 This form collects feedback from event participants to help us better understand their experiences and identify areas for improvement.

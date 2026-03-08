@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the employment stressors and support resources available to law enforcement officers. It aims to identify areas of concern and provide support services to alleviate stress. This form will be used by supervisors or HR personnel to evaluate the officer's current situation and provide guidance on available resources.
-</thinking>
-
 # Law Enforcement Officer Employment Stress And Support Review - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the employment stressors and support resources available to law enforcement officers, providing an opportunity for supervisors or HR personnel to identify areas of concern and offer guidance on available resources.

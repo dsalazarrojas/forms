@@ -1,7 +1,3 @@
-<thinking>
-The Employee Communication Tools Satisfaction Questionnaire is designed to gather feedback from employees on their experience with communication tools used within the company. This form aims to measure the effectiveness of these tools in facilitating communication and collaboration among team members. The purpose of this form is to identify areas of improvement and make data-driven decisions to enhance the communication landscape within the organization. It's essential to complete this form accurately to provide actionable insights that will help shape the future of employee communication tools.
-</thinking>
-
 # Employee Communication Tools Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Employee Communication Tools Satisfaction Questionnaire is designed to gather feedback from employees on their experience with communication tools used within the company. This form aims to measure the effectiveness of these tools in facilitating communication and collaboration among team members. The purpose of this form is to identify areas of improvement and make data-driven decisions to enhance the communication landscape within the organization.

@@ -1,29 +1,3 @@
-<thinking>
-This form is used for employment lawyers to report their employment status and legal issues. It is intended for lawyers who are currently employed or have been employed in the past. This form should be used to report a lawyer's active or inactive status, any legal issues they are handling, and their preferences for representation. It is likely used for internal or administrative purposes, such as maintaining up-to-date information about lawyers' employment status and issues. It is possible that this form is used in conjunction with other forms or systems to track employment status and legal issues across multiple jurisdictions or regions.
-
-It is recommended to only fill out this form if you are a lawyer or if you have been asked to fill it out by a relevant authority.
-
-Please ensure that you are filling out the correct form, as this form is intended for employment lawyers.
-
-The form has the following fields:
-- Title: employment_lawyer_application_form
-- Pages:
-  - Applicant Details: This page is used to enter the applicant's details.
-  - Contact Details: This page is used to enter the contact details of the applicant.
-  - Employment Status: This page is used to select the employment status of the applicant.
-  - Legal Issue: This page is used to select the legal issue that the applicant is handling.
-  - Case Status: This page is used to select the current status of the case.
-  - Representation Preferences: This page is used to select whether you want to be represented by a lawyer.
-  - Communication Channels: This page is used to select the communication channels you are comfortable with.
-  - Contact Number: This page is used to enter the contact number of the applicant.
-  - Address: This page is used to select whether you want to provide your address.
-  - File Upload: This page is used to upload any relevant files.
-  - Email: This page is used to enter the email of the applicant.
-
-Note: The options selected on the Employment Status, Case Status, Communication Channels, and Address pages will be used to guide further actions or decisions.
-
-</thinking>
-
 # Employment Lawyer Application Form - Help Guide
 ## Purpose
 

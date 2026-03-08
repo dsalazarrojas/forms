@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # eyelash_extension_consent_appointment_form - Help Guide
 ## Purpose
 This form is used to obtain consent for a lash extension appointment. The form is designed to gather essential information from users, including their name, email, appointment date and time, and a statement of consent. It also allows users to provide additional notes and a signature.

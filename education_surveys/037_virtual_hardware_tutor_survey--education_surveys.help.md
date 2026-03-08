@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Hardware Tutor Survey - Help Guide
 
 ## Purpose

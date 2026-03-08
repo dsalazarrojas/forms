@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report marine wildlife sightings, allowing users to collect and record information about marine species sightings. The form is designed to be completed by researchers, conservationists, and other stakeholders to gather data on marine species occurrences. The form's purpose is to provide a standardized framework for reporting sightings, ensuring consistency and accuracy in data collection.
-
-</thinking>
-
 # Marine Wildlife Sighting Report - Help Guide
 ## Purpose
 This form is used to report marine wildlife sightings, allowing users to collect and record information about marine species occurrences.

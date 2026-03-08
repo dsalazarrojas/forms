@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from parents or guardians about their child's interests, academic and creative abilities, and preferences for an after-school program. The form aims to provide the program administrators with valuable insights to tailor the program to suit the needs and interests of the participating children. 
-</thinking>
-
 # After School Program Preferences Questionnaire - Help Guide
 ## Purpose
 The After School Program Preferences Questionnaire is a tool designed to collect information from parents or guardians about their child's interests, preferences, and requirements for an after-school program. This information will help the program administrators create a program that meets the needs of all participants.

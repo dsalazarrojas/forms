@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students about their skills, learning preferences, and goals. The purpose of this form is to understand students' strengths, weaknesses, and areas of improvement, as well as their learning preferences and goals for the upcoming school year. This information will help students and educators identify areas of support and resources needed.
-
-The form is intended to be completed by students of different grade levels, from Freshman to Post-grad, and will help in creating a comprehensive picture of students' skills and goals. Please note that some fields are optional, allowing students to choose what information they feel comfortable sharing.
-
-Before starting, please consider whether you have already completed a similar form in the past. If so, you may not need to complete this form again. If you are unsure about the purpose or relevance of this form, please feel free to ask your instructor or administrator for clarification.</thinking>
-
 # Student Skills And Goals Survey - Help Guide
 ## Purpose
 This form is designed to collect information about students' skills, learning preferences, and goals to help students and educators create a supportive and effective learning environment.

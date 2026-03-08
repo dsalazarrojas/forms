@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from film directors about their background, experience, and interests. The purpose of this form is to gather data for internal use in a film-related project or initiative. This form should not be used for external or public-facing purposes. Please ensure that you are familiar with the project's context and goals before proceeding. If you are unsure or have questions, consult with the project lead or internal stakeholders. 
-</thinking>
-
 # Film Director Interview Form - Help Guide
 
 ## Purpose

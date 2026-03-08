@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback and insights from employees about their engagement with the telecom team. This form is designed to collect information on various aspects of employee engagement, including feedback questions, comments, manager name, telecom department, job title, work hours, start and end dates, and work location. Before proceeding, please note that this form is meant to be filled out by telecom employees only. If you are not a telecom employee, your submission will not be processed.
-
-</thinking>
-
 # telecom_employee_engagement_insights - Help Guide
 ## Purpose
 The telecom_employee_engagement_insights form is designed to collect feedback and insights from telecom employees about their engagement with the team.

@@ -1,9 +1,3 @@
-<thinking>
-To prevent users from filling out this form unnecessarily, we should first check if the user is already logged in and has access to edit their contact information. If not, we should display a message indicating that the user needs to be logged in or doesn't have permission to edit their emergency contact information. 
-
-This form is used to update emergency contact information for a passport, which is a critical component of passport data. Emergency contact information is essential for the passport office to contact the applicant in case of an emergency or to provide updates on passport-related matters. 
-</thinking>
-
 # Passport Emergency Contact Information Update - Help Guide
 ## Purpose
 This form is used to update emergency contact information for a passport, allowing the passport office to contact the applicant in case of an emergency or to provide updates on passport-related matters.

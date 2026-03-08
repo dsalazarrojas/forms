@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect data from employees about their exposure to seasonal weather conditions over the last 7 days. The purpose of this form is to gather information about how many hours employees have spent outside in different weather conditions. This data can be used to understand employee exposure to various environmental factors and identify potential risks.
-
-Please note that this form is part of a larger initiative to track and analyze employee data. If you have already completed this form in the past, you might be able to skip it or access your previous responses. Please make sure to review your responses before submitting.
-
-</thinking>
-
 # Seasonal Weather Employee Survey - Help Guide
 ## Purpose
 The Seasonal Weather Employee Survey is a tool to collect data about employee exposure to seasonal weather conditions over the last 7 days.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recording Quality Assessment - Help Guide
 ## Purpose
 This form is designed to assess the quality of a recorded audio or video file. It helps to evaluate the overall quality of the recording, including its sound, clarity, and other relevant factors.

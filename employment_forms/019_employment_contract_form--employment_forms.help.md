@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect employment information from employees. It is used to document employment details for internal tracking and administrative purposes. The form should not be duplicated or filled out by employees who are already employed with the company.
-</thinking>
-
 # Employment Contract Form - Help Guide
 ## Purpose
 This form is used to collect employment information from employees, including name, contact details, employment type, and contract version. It is essential to fill it out accurately and completely to ensure correct record-keeping and administrative processes.

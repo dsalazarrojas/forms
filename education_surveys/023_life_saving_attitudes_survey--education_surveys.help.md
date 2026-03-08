@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help school administrators and staff complete the Life Saving Attitudes Survey form, a critical tool for assessing the school's emergency response readiness. The form is designed to collect information on various aspects of school safety programs, first aid confidence, CPR confidence, and other essential components of a school's emergency response plan. 
-
-To ensure accurate completion and minimize duplication, please review the form carefully before proceeding. Ensure that you have the necessary information and permissions to complete the form. If you are unsure about any question or option, please consult with your supervisor or the form's administrator.
-
-Please note that some fields may not be relevant to your school's specific situation, and you can skip those fields if they do not apply. However, please ensure that you have answered all the required fields and have not missed any critical information.
-
-The following guide will walk you through each field of the form, explaining what each field means and how to complete it accurately.</thinking>
-
 # Life Saving Attitudes Survey - Help Guide
 ## Purpose
 The Life Saving Attitudes Survey is a form designed to assess the school's emergency response readiness. It helps identify areas of strength and weakness in the school's safety programs, first aid confidence, and other essential components of the emergency response plan.

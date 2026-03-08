@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be a preliminary estimate for a client project. It gathers basic information about the client, the project details, and the services required. The purpose of this form is to facilitate the initial stages of the project by providing a comprehensive overview of the client's needs. The form should not be used to store sensitive or confidential information. It is recommended that the form is reviewed and revised before submission to ensure accuracy and completeness.
-
-Before filling out this form, please ensure that you have discussed the project details with the client and have their consent to proceed with the project.
-
-Please note that the form is divided into several sections, each with its own set of fields. This guide will walk you through each section and the corresponding fields to help you complete the form accurately.
-
-</thinking>
-
 # Pre Estimate Client Check Form - Help Guide
 ## Purpose
 The Pre Estimate Client Check Form is a basic form used to gather information from clients to facilitate the initial stages of a project. It captures details such as client contact information, project specifics, services required, and other relevant details.

@@ -1,11 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Non Compete Commitment Form" based on the provided YAML fields. The form is used for a non-compete agreement, which is a legal document that prohibits an employee from working with a competitor after leaving a company. This form helps to clarify the employee's commitment not to work with competing firms during and after the employment period.
-
-The non-compete agreement is a standard clause in many employment contracts, and this form serves as a template to standardize the process of getting employee consent. By completing this form, employees demonstrate their commitment to not working with competing firms during and after the employment period, ensuring that the company's intellectual property and trade secrets remain protected.
-
-To complete this form, employees need to provide their personal details and commitment dates. The form is designed to be simple and easy to use, with clear labels and instructions. Please note that some fields are optional, and the completion of this form is not a substitute for any other employment agreements or contracts.
-
-</thinking>
-
 # Non Compete Commitment Form - Help Guide
 ## Purpose
 The Non Compete Commitment Form is a legal document that confirms an employee's commitment not to work with competing firms during and after the employment period. This form is used to standardize the process of getting employee consent and ensure that the company's intellectual property and trade secrets remain protected.

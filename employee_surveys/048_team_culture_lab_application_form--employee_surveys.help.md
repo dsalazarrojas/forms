@@ -1,6 +1,3 @@
-<thinking>
-The Team Culture Lab Application Form is designed to gather information from employees to assess their team dynamics and cultural fit. This form is intended for employees who have been nominated for or have taken the initiative to join a Team Culture Lab program. The information collected will be used to facilitate a more efficient and effective team culture improvement process. Please ensure that you only complete this form once, as repeating the form will not affect the assessment results.
-</thinking>
 # Team Culture Lab Application Form - Help Guide
 
 ## Purpose

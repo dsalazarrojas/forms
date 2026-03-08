@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to collect information from participants of an online quiz competition. The purpose of this form is to gather details about the participants and their answers to a set of questions. The form will be used to track participant data and provide a fair chance for all participants to compete in the quiz.
 
 This guide is intended to ensure that participants understand what information is being collected and how to complete the form correctly. Please read this guide carefully before proceeding.

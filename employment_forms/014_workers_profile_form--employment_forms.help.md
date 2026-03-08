@@ -1,28 +1,3 @@
-<thinking>
-The Workers Profile Form is used by HR administrators to collect essential information about new or existing employees. It's essential to ensure accurate and complete records for each worker. To avoid duplication or errors, please ensure that the form is completed for each worker only once and that all required fields are filled in correctly.
-
-The form is divided into different pages for better organization and ease of use. You can navigate between pages using the "Next" and "Previous" buttons.
-
-This form is used to collect the following information:
-
-* First Name
-* Last Name
-* Job Title
-* Department
-* Supervisor Name
-* Supervisor Email
-* Supervisor Phone
-* Job Description
-* Job Type (Yes or No)
-* Job Category (Yes or No)
-* Hire Date
-* Termination Date
-* Reason for Leaving
-* Job Status (Active or Inactive)
-* Work Location (Yes or No)
-
-</thinking>
-
 # Workers Profile Form - Help Guide
 
 ## Purpose

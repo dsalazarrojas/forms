@@ -1,9 +1,3 @@
-<thinking>
-The simple_business_contact_form is designed to capture basic contact information from users, including first and last names, company name, email address, phone number, and a message. This form is intended for entrepreneurs who want to quickly and easily get in touch with us.
-
-Before completing this form, please check that you are not duplicating an existing contact form or submitting a similar inquiry that has already been resolved. If you are unsure, please contact us directly.
-</thinking>
-
 # simple_business_contact_form - Help Guide
 ## Purpose
 The simple_business_contact_form is a form designed to collect basic contact information from users, including first and last names, company name, email address, phone number, and a message.

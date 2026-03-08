@@ -1,5 +1,3 @@
-<thinking>... This form is designed to gather information about civic education awareness among individuals. We aim to collect data on respondents' self-assessed civic knowledge, interest in civic education, and preferred learning methods. The form is intended to be completed by individuals who have not participated in civic education programs before or are interested in learning more about civic engagement. We want to avoid duplication of efforts, so please ensure you only complete this form once. If you have already participated in similar surveys or activities, please do not proceed with this form... </thinking>
-
 # Civic Education Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gather information about civic education awareness among individuals. The goal is to collect data on respondents' self-assessed civic knowledge, interest in civic education, and preferred learning methods.

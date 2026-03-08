@@ -1,7 +1,3 @@
-<thinking>
-The "employment_support_service_referral_form" form is designed to gather information from job seekers who require employment support services. Before proceeding, please ensure that you are not submitting this form for a job seeker who has already been referred to or received support from the employment support service. This form must be completed for a new job seeker or for a job seeker who has not been previously referred to or received support. If you are unsure, please contact the employment support service administrator for guidance.
-</thinking>
-
 # employment_support_service_referral_form - Help Guide
 ## Purpose
 The "employment_support_service_referral_form" is a form used to gather information about job seekers who require employment support services. This form helps the employment support service provide the necessary resources and support to help job seekers find employment opportunities that match their needs and goals.

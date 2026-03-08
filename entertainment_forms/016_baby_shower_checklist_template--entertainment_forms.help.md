@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect data for organizing a baby shower, which is a fun celebration marking a new baby's arrival. The information collected in this form helps the event planner or host to gather essential details such as the event date, venue, number of guests, and other important logistics. This ensures that the event goes smoothly and the host can provide a memorable experience for the expectant mother.
-</thinking>
-
 # Baby Shower Checklist Template - Help Guide
 
 ## Purpose

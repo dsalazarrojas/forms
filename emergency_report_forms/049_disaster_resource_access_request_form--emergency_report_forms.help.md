@@ -1,14 +1,3 @@
-<thinking>
-To ensure we provide a user-facing help guide that is clear and accurate for the "Disaster Resource Access Request Form", we should first consider the purpose and context of the form. This form is likely used to request resources in response to a disaster, and it may be used by emergency response teams, aid organizations, or other stakeholders involved in disaster relief efforts. To avoid duplication of efforts and ensure relevance, we should verify that the form is not already being used for other purposes within the organization.
-
-Assuming the form is relevant and not duplicated, let's now create a user-facing help guide that covers the following points:
-
-1.  Purpose: This form is used to request resources in response to a disaster.
-2.  How to complete this form: Follow the step-by-step guide to fill out the form.
-3.  Field-by-Field Explanation: Explain each field in detail.
-
-</thinking>
-
 # Disaster Resource Access Request Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...The "Fire Modification Cert" form is used to report changes made to a fire in a fire modification process. This form helps ensure that all relevant information is collected and recorded accurately. To prevent duplication of effort, please only complete this form if you have made changes to a fire that meet the criteria outlined in your local fire department's procedures. If you are unsure about any aspect of the form, please consult with your local fire department or a colleague familiar with the process...</thinking>
-
 # Fire Modification Cert - Help Guide
 ## Purpose
 The "Fire Modification Cert" form is used to report changes made to a fire in a fire modification process.

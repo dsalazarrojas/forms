@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to collect information from individuals and businesses that are interested in setting up an account. It is meant to be a quick and easy way to submit information that will allow us to verify and set up a new account for you. Please note that if you are already an existing user, submitting this form will not create a new account. Also, if you have any issues with your current account, please contact our support team.
 
 # New Account Request Form - Help Guide

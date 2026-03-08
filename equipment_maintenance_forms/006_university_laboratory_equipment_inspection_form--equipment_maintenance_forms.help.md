@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for inspecting and maintaining the university laboratory equipment. It's meant to track the status of various pieces of equipment, including their maintenance needs, conditions, and inspection dates. The form is likely used by the facility's maintenance team or the equipment managers to monitor and update the equipment's status.
-
-To avoid duplication of effort and ensure data accuracy, it's essential to follow this guide closely when filling out this form.
-
-</thinking>
-
 # University Laboratory Equipment Inspection Form - Help Guide
 ## Purpose
 This form is used for inspecting and maintaining university laboratory equipment. It helps track the status of equipment, identify maintenance needs, and record inspection dates.

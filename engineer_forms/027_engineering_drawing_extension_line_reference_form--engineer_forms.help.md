@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be designed for engineers or technical professionals to document and track changes to engineering drawings, such as revisions, updates, or modifications. The form is likely used to maintain a reference system for engineers to keep track of drawing changes, revisions, and related files.
-
-The form seems to be focused on providing a structured and organized way to document changes, revisions, and updates to engineering drawings, which can help prevent errors, ensure consistency, and improve collaboration among team members.
-
-The form is composed of several fields that gather information about the drawing, including its ID, type, name, revision date, description of changes, supporting files, author of changes, and current status.
-
-To ensure the form is used correctly and effectively, it is essential to understand each field's purpose and requirements. 
-
-</thinking>
-
 # Engineering Drawing Extension Line Reference Form - Help Guide
 ## Purpose
 The Engineering Drawing Extension Line Reference Form is a tool for documenting and tracking changes to engineering drawings. It helps to maintain a reference system for engineers to keep track of drawing changes, revisions, and updates.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers about their liability and service release preferences for eyelash extension services. This form is likely used in a medical or aesthetic setting where customers may be receiving services that involve the use of eyelashes. The form likely aims to ensure that customers understand their responsibilities and release any potential liabilities related to the service.
-
-The form is divided into three fields: Customer Liability, Service Release, and Date of Service. Each field is designed to elicit specific information from the customer.
-
-This form is not required to be completed in a specific order, and customers can fill it out at their own pace. However, it is essential to fill out all the fields accurately to ensure that the customer's preferences and liabilities are properly recorded.
-</thinking>
-
 # Eyelash Extension Waiver - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their liability and service release preferences for eyelash extension services. This form is used to inform customers about their responsibilities and release any potential liabilities related to the service.

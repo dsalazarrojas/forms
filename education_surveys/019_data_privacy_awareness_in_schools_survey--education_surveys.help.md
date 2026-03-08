@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from various stakeholders in schools, including students, parents, staff, and teachers, regarding their awareness and concerns about data privacy in the educational setting. The primary goal is to gauge the level of knowledge and familiarity of each group with data privacy laws and best practices, as well as identify potential risks and training needs. This will help administrators and educators better understand the needs and concerns of their constituents and provide targeted support to enhance data privacy awareness and compliance within the school community.
-</thinking>
-
 # Data Privacy Awareness In Schools Survey - Help Guide
 ## Purpose
 This form is designed to collect information about data privacy awareness and concerns from various stakeholders in schools, including students, parents, staff, and teachers.

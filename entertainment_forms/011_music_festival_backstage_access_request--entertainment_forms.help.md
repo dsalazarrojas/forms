@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # music_festival_backstage_access_request - Help Guide
 
 ## Purpose

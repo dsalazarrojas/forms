@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended to gather feedback from graduates about their experience in a nutrition program? If so, we should ensure that the form is not already in use. If not, perhaps we're dealing with a different type of survey that happens to share some similarities with this one. Given the fields present, I suspect the form might be meant to assess the effectiveness of a nutrition program in terms of outcomes achieved by its graduates. I'm assuming it's an internal tool used for program evaluation and improvement purposes rather than an external-facing form designed for public consumption. Let's assume this is the case and create a user-facing help guide accordingly.
-</thinking>
-
 # Nutrition Graduation Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from graduates about their experience in a nutrition program. This feedback will help us evaluate the effectiveness of our program and identify areas for improvement.

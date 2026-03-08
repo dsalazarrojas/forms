@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect data on interactive media engagement surveys. 
-The Interactive Media Engagement Survey form is intended to be completed by users to provide information on engagement levels of media content. 
-This form will ask you questions about the media title, URL, and engagement level, among other fields. 
-Please fill out this form carefully, providing accurate information on each field, and follow the instructions carefully to ensure you complete it correctly. 
-Please ensure that you fill out all the necessary fields and do not leave any fields blank.
-</thinking>
-
 # Interactive Media Engagement Survey - Help Guide
 ## Purpose
 The Interactive Media Engagement Survey form is used to collect data on engagement levels of media content.

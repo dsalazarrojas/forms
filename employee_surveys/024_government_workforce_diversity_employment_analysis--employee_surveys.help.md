@@ -1,11 +1,3 @@
-<thinking>
-
-The Government Workforce Diversity Employment Analysis form is used to collect information and insights on employee demographics, diversity, and inclusion in the workplace. This form is essential for understanding the current state of diversity and inclusion in the organization and identifying areas for improvement. It is likely to be used by HR or Diversity and Inclusion teams to gather data for strategic planning and reporting purposes.
-
-Before filling out this form, please note that it is not a mandatory form and is intended for voluntary completion. The data collected will be used to improve workplace diversity and inclusion, and the responses will be kept confidential.
-
-</thinking>
-
 # Government Workforce Diversity Employment Analysis - Help Guide
 ## Purpose
 The Government Workforce Diversity Employment Analysis form is used to collect information and insights on employee demographics, diversity, and inclusion in the workplace. This form is essential for understanding the current state of diversity and inclusion in the organization and identifying areas for improvement.

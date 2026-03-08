@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skin Treatment Consent Form - Help Guide
 
 ## Purpose

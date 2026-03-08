@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to onboard new clients to your content generation services. This form is designed to collect essential information from clients to understand their business, social media goals, and content needs. By completing this form, you will be providing valuable details that will help us tailor our content creation services to meet their specific requirements. Please ensure that you fill out as much information as possible to ensure the best possible experience with our services.
-</thinking>
-
 # Client Onboarding Form - Help Guide
 ## Purpose
 The Client Onboarding Form is designed to collect essential information from clients to understand their business, social media goals, and content needs. This form helps us tailor our content creation services to meet their specific requirements.

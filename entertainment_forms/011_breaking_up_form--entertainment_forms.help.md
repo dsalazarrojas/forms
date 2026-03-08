@@ -1,15 +1,3 @@
-<thinking>
-This form is for individuals who want to break up with someone in a thoughtful and considerate way. It's designed to help them navigate the process by providing a structured format for expressing their feelings and intentions. The form will help them:
-- Identify the primary reason for breaking up
-- Anticipate and prepare for potential reactions from the other person
-- Plan the logistics of the breakup conversation
-- Develop a strategy for coping with emotions and finding support
-- Consider practical implications, such as shared assets or living situations
-
-The form should be completed by answering the questions truthfully, which will help individuals gather their thoughts and feelings and create a clear plan for the breakup. 
-
-</thinking>
-
 # Breaking Up Form - Help Guide
 ## Purpose
 This form is a tool to help individuals break up with someone in a thoughtful and considerate way. It provides a structured format to help navigate the process of ending a relationship.

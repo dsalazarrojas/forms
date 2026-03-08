@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about the learning environment of schools, focusing on how they support neurodiversity. Each field in this form has a specific purpose and should be filled out accordingly. Please ensure that you have the necessary permissions to complete this form on behalf of your school or organization. If you are not sure about the purpose of the form, please refer to your internal knowledge base or consult with your supervisor.
-</thinking>
-
 # Neurodiversity In Learning Environments Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the learning environment of schools, specifically focusing on how they support neurodiversity. It's essential to provide accurate and detailed information to help schools improve their services and support systems for students with neurodiversities.

@@ -1,9 +1,4 @@
-> <thinking>
-This form is designed to be used by sales candidates to provide information about themselves, allowing hiring managers to pre-screen them for potential roles within the company. The form aims to gather essential details about the candidate's basic information, contact details, sales experience, education background, availability, skills, references, work history, sales leadership, languages, and employment status. This pre-screening form is meant to streamline the hiring process and help identify candidates who are a good fit for the company.
-To ensure that this form is completed accurately and consistently, we recommend that candidates carefully review each field explanation below and take a moment to understand the purpose and requirements of each field.
-</thinking>
-
-# Sales Candidate Pre Screening - Help Guide
+> # Sales Candidate Pre Screening - Help Guide
 ## Purpose
 This form is designed to gather essential information from sales candidates, helping hiring managers to pre-screen them for potential roles within the company. This pre-screening form aims to streamline the hiring process and identify candidates who are a good fit for the company.
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expert Aplication - Help Guide
 
 ## Purpose

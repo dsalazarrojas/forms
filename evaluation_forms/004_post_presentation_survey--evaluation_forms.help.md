@@ -1,5 +1,3 @@
-<thinking>...this form is a post-presentation survey that is likely used to gather feedback from attendees after a presentation, allowing them to rate and comment on the presentation's quality, timing, and other relevant details... This form is a crucial tool for speakers to get an idea of the audience's perception of their presentation and for the event organizers to evaluate the overall success of the event...</thinking>
-
 # post_presentation_survey - Help Guide
 ## Purpose
 The post-presentation survey aims to gather feedback from attendees on the presentation's content, quality, and overall experience. 

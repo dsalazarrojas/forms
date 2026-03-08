@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tip_pool_agreement_form - Help Guide
 ## Purpose
 The "tip pool agreement form" is a document used to obtain employee consent and record tip-sharing policies and agreements. This form is typically used when a company has a tip-sharing program in place, and employees are required to sign an agreement to participate in it.

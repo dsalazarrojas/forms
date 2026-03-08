@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from teachers regarding their professional evaluations. The purpose of this form is to assess a teacher's performance, skills, and qualifications in the context of their subject matter expertise. The form will be used to gather data on teachers' abilities to effectively teach and manage their students, as well as their subject-specific knowledge and pedagogical skills.
-
-This form is designed to be completed by teachers themselves, and the information collected will be used to evaluate their performance and provide feedback for professional development.
-
-Before starting, please ensure that you are completing the form in the correct context and have a clear understanding of the evaluation criteria. If you have any questions or concerns, please contact form@gic.mx.
-
-</thinking>
-
 # stem_teacher_assessment_form - Help Guide
 ## Purpose
 The **Stem Teacher Assessment Form** is designed to collect information from teachers on their professional evaluations, assessing their performance, skills, and qualifications in teaching and subject-specific knowledge.

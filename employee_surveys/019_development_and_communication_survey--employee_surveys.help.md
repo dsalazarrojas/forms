@@ -1,5 +1,3 @@
-<thinking>As the expert form designer and technical writer, I will review this form to ensure it accurately captures the required information without introducing unnecessary complexity. After examining the form YAML, I see that it is designed to gather feedback and opinions from employees on various aspects of development and communication within a team or organization. I will create a comprehensive user-facing help guide to facilitate easy understanding of the form's purpose and field explanations.</thinking>
-
 # Development And Communication Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from employees on their experience with collaboration, communication, and growth opportunities within the team or organization. The survey aims to understand the effectiveness of current communication channels, methods, and tools, and to identify areas of improvement.

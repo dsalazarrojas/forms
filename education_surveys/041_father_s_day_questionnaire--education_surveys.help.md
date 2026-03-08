@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive questionnaire designed to gather information about a father's preferences, interests, and habits, potentially for a Father's Day celebration or gift-giving purpose. It seems to be used to capture various aspects of the father's personality, favorite things, and favorite activities. Before filling out this form, it is essential to ensure that you are not duplicating efforts and that the information gathered will be used for the intended purpose. It might be best to review the answers with the father in question or use this form as a starting point for further conversation. 
-</thinking>
-
 # Father's Day Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about a father's preferences, interests, and habits.

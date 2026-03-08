@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect beta product feedback from users. It is intended to gather information about their experience, opinions, and suggestions for improvement. The form consists of questions that cover various aspects of the product, including its usability, features, performance, and overall impression. The form will help the development team understand the users' needs and preferences, which will aid in the refinement and finalization of the product. This guide will walk you through each field and explain what is expected from you as a respondent.
-</thinking>
-
 # Beta Product Feedback Form - Help Guide
 ## Purpose
 The Beta Product Feedback Form is a collection of questions designed to gather information about your experience with our beta product. Your input will help us refine and finalize the product to better meet your needs and expectations.

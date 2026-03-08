@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from union representatives who are exiting their position. The purpose of this form is to gather data on the representative's last day of work, reason for leaving, and other relevant details. Completing this form helps the organization to accurately record and process the representative's exit. Please review the form carefully to ensure that all required fields are completed and that the information provided is accurate and complete. If you're unsure about any field, you can consult with the HR representative or supervisor for clarification.
-
-</thinking>
-
 # Union Representative Exit Offboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from union representatives who are exiting their position.

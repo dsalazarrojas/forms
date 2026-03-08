@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from employees. 
-The form is used to assess the understanding of the policy among employees.
-The fields in this form are used to capture information about the employee's department, date and time of the assessment, employee id, email, phone number, comments, company and manager. 
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to gauge employee understanding of the policy and capture various employee information.

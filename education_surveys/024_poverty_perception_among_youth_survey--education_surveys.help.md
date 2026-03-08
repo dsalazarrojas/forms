@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the "education_surveys" category and is used to gauge the perception of poverty among youth. The questions aim to gather information on demographics, income, employment status, and asset ownership to better understand the economic well-being of the respondents. The form is designed for respondents to provide detailed information about their demographic characteristics and financial situation. To avoid duplication, the form's data will be used to create a comprehensive report that highlights the economic struggles of the youth population.
-</thinking>
-
 # poverty_perception_among_youth_survey - Help Guide
 ## Purpose
 This form is part of the "education_surveys" category and is used to gather information on the economic well-being of the youth population. It aims to understand their perceptions on poverty and their demographic characteristics.

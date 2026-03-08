@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recruitment Application Form - Help Guide
 ## Purpose
 This form is designed for job applicants to provide information about themselves in order to be considered for a job opportunity. It gathers information about the applicant's personal details, professional experience, and skills.

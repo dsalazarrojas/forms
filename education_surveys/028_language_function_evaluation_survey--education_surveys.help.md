@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive evaluation survey for language functions, covering various aspects of language proficiency and skills. It is likely used in educational settings to assess students' language abilities. The form is divided into several sections, each focusing on different language functions such as vocabulary, grammar, reading, and writing. The purpose of this form is to provide a structured and systematic way to evaluate language skills in a student's language function.
-</thinking>
-
 # language_function_evaluation_survey - Help Guide
 ## Purpose
 This form is designed to evaluate language functions in students, covering various aspects of language proficiency and skills.

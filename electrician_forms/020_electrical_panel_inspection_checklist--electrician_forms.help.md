@@ -1,5 +1,3 @@
-<thinking>...This form appears to be an electrical panel inspection checklist, used for evaluating the safety and rating of electrical panels in various settings. The form has multiple fields covering various aspects of the panel, including its type, rating, location, accessories, and inspection notes. The fields are designed to gather information on the panel's characteristics and condition, which will help in determining its suitability for use. To avoid duplication and ensure accuracy, it is essential to fill out this form carefully and thoroughly. The form's fields are self-explanatory, but a brief explanation will be provided below for clarity and guidance...</thinking>
-
 # electrical_panel_inspection_checklist - Help Guide
 ## Purpose
 The electrical panel inspection checklist is used to evaluate the safety and rating of electrical panels in various settings, helping to ensure compliance with relevant standards and codes.

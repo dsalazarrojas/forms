@@ -1,5 +1,3 @@
-<thinking>As a business development application form, this tool is designed to help entrepreneurs and business owners assess their company's readiness for growth and expansion. This form guides users through a series of questions to understand their business development goals, target markets, potential partnerships, expansion timeline, resources and capabilities, budget, key strengths, and current challenges. The form aims to provide a comprehensive view of a company's business development situation, helping entrepreneurs and business owners identify areas for improvement and potential opportunities for growth.</thinking>
-
 # Business Development Application Form - Help Guide
 ## Purpose
 This form is designed to help entrepreneurs and business owners assess their company's readiness for growth and expansion. It guides users through a series of questions to understand their business development goals, target markets, potential partnerships, expansion timeline, resources and capabilities, budget, key strengths, and current challenges.

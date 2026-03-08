@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from trainees about their training experience. It's meant to be completed after a training session. The purpose of this form is to gather opinions on the session's content, presenter, and overall satisfaction. This form should only be completed by trainees who have attended the session. If you've already completed this form, please do not submit it again.
-</thinking>
-
 # Training Feedback Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture essential information from drivers who are part of a courier service. The form's purpose is to gather data from drivers for administrative and operational purposes. It is not intended for any other use, such as payment or tax purposes. The form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation of a form created using AI, based on public survey topic metadata.
-
-</thinking>
-
 # Courier Service Driver Agreement - Help Guide
 ## Purpose
 This form is used to collect information from drivers who work for a courier service. It helps us understand and track essential details about each driver, including their name, vehicle details, contact information, and agreement date.

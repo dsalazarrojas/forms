@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for corsage orders, which are decorative flowers for events and occasions. The form is intended to help customers order corsages with specific details such as customer information, corsage type, flower type, quantity, color, delivery date, and time of day. The form also includes fields for payment method, special requests, card information, and CVV/cvv/cvv confirmation. This form does not allow duplicate submissions.
-</thinking>
-
 # Corsage Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for corsage orders for events and occasions. Fill out this form to place an order with your preferred details.

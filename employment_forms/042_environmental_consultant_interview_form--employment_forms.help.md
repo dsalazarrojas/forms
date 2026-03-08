@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let me make sure I understand the form's purpose and fields. From the input YAML, it appears that this form is designed to collect information from job applicants or environmental consultants. The form asks for personal details, work experience, skills, education, and job-specific information.</thinking>
-
 # Environmental Consultant Interview Form - Help Guide
 
 ## Purpose

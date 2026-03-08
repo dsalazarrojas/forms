@@ -1,15 +1,3 @@
-<thinking>
-This form is used to assess the knowledge and skills of an employee in the beverage industry, specifically in the areas of wine, spirits, and cocktails. The form is designed to evaluate the participant's knowledge of various aspects of the beverage industry, including wine regions, grape varieties, wine and food pairing principles, and more. The goal of this form is to provide a comprehensive evaluation of the participant's expertise and identify areas for improvement.
-
-The form is divided into several sections, each covering a specific topic within the beverage industry. The participant will be asked to provide information about their name, department, years of service experience, and the date of the assessment. Then, they will be asked to answer questions related to wine knowledge, including the identification of major wine-producing regions, the names of five red wine grape varieties, and the principles of wine and food pairing.
-
-The participant will also be asked to demonstrate their knowledge of spirits, including the definition of major spirit categories, the names of three types of whiskey, and the differences between tequila and mezcal. Additionally, they will be asked to show their knowledge of cocktails, including the names and preparation methods of five classic cocktails, common bartending techniques, and the ability to prepare a standard cocktail on request.
-
-The form also includes questions related to beer knowledge, such as the listing of major beer styles and their characteristics, the brief explanation of the beer brewing process, and the proper serving temperature for different beverages. Furthermore, the participant will be asked to demonstrate their understanding of service and professional practices, including handling allergen information, responsible beverage service, and checking for proper identification.
-
-Finally, the participant will be asked to rate their overall assessment and provide any recommended areas for improvement or training.
-
-</thinking>
 # Beverage Knowledge Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the knowledge and skills of an employee in the beverage industry, specifically in the areas of wine, spirits, and cocktails.

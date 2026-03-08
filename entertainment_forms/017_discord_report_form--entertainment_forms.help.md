@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Discord Report Form. This guide will explain the form's purpose, how to complete it, and what each field means. I will base the explanation on the provided YAML fields and aim to be concrete, concise, and practical. I will also check for any internal reasoning that might be relevant or non-duplicating to the form's purpose.</thinking>
-
 # Discord Report Form - Help Guide
 ## Purpose
 The Discord Report Form is designed for users to report incidents, issues, or concerns they have experienced within the Discord community or platform. This form helps the community moderators and staff to address and resolve problems efficiently.

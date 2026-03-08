@@ -1,12 +1,3 @@
-<thinking>
-We're creating a New Hire Onboarding Report Form for employees. This form is used to collect information about new hires, including their name, department, job title, manager, date hired, job title, department, phone number, email, job location, shift schedule, and termination date. This form is likely used by HR or administrative teams to onboard new employees and keep track of their details.
-
-The form consists of 12 fields, each with a specific label, type, and options. The fields include text fields for the employee's first name, last name, manager, phone number, and email, as well as date fields for the date hired and termination date. There are also select options for the department, job title, job location, and shift schedule.
-
-The form is not strictly required, but its completion would likely be mandatory for new employees to ensure accurate and complete information is collected.
-
-The following are the fields with their explanations and instructions:</thinking>
-
 # New Hire Onboarding Report Form - Help Guide
 ## Purpose
 The New Hire Onboarding Report Form is a tool used to collect information about new employees and help them get started with their onboarding process.

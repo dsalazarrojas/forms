@@ -1,17 +1,3 @@
-<thinking> 
-This form is used to collect information about a wedding reception, including details about the wedding ceremony, guest information, and special requests. This guide will walk you through each page and field of the form to help you complete it accurately.
-
-Before proceeding, please ensure that you are filling out this form for a real wedding reception invitation. If you are a developer or tester, please be aware that this form is part of the `entertainment_forms` category and is not intended for general use. 
-
-This form is used to capture the essential details of a wedding reception, and its sections include:
-- Wedding Details
-- Guest Information
-- Special Requests
-- Reception Information
-- Parking Information
-
-To complete the form, please follow these steps:</thinking>
-
 # Wedding Reception Invitation Form - Help Guide
 ## Purpose
 This form is designed to collect essential details about a wedding reception, including the date, time, location, and other important information for the wedding guests. The form is divided into several sections to make it easier to fill out.

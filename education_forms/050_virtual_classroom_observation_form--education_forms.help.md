@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Classroom Observation Form - Help Guide
 ## Purpose
 The Virtual Classroom Observation Form is designed to help educators evaluate and improve their teaching practices in virtual classrooms. The form collects information on various aspects of teaching, including student engagement, participation, and learning, as well as teacher communication, classroom management, and assessment strategies. This form is intended to facilitate reflection and support professional development for educators.

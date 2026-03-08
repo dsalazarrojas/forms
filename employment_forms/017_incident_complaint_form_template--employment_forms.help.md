@@ -1,8 +1,4 @@
-> <thinking>
-This is a generated form based on public survey topic metadata from the "employment_forms" category, specifically "Incident Complaint Form Template". I will create a user-facing help guide for this form.
-</thinking>
-
-# Incident Complaint Form Template - Help Guide
+> # Incident Complaint Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about incidents that occurred on-site at your workplace. It is a template for recording incidents, gathering witness statements, and documenting resolutions. This form is meant to be completed by employees who have witnessed or been involved in incidents, as well as by management or HR personnel to document resolutions.
 

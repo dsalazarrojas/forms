@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from speakers for events, conferences, or presentations. The form will be used to capture essential details about the speaker, including their name, contact information, bio, and event-specific details such as event title, start and end time, and speaker type.
-To ensure data accuracy and consistency, please fill out this form carefully and only when necessary. If you are a speaker, please provide accurate information to ensure your profile is represented correctly.
-This guide is to help you navigate through the form and complete it efficiently.
-</thinking>
-
 # Speaker Information Collection Form - Help Guide
 ## Purpose
 

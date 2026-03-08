@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to create a user-facing help guide for the Employee Engagement Survey Request Form. This form is designed to gather information from employees about their engagement and experiences. Before I begin writing the help guide, let me think about the purpose and context of the form.</thinking>
-
 # Employee Engagement Survey Request Form - Help Guide
 ## Purpose
 This form is used to collect information from employees about their engagement and experiences. It is intended to help management and HR teams understand employee sentiment and make informed decisions to improve employee satisfaction and productivity.

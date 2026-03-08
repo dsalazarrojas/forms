@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-The purpose of this form is to help organizations assess their current status and progress in various areas of organizational feedback, action items, and focused actions. The survey is designed to gather information on the implementation status, effectiveness, and practices related to these areas, as well as identify common reasons for not being very effective in each area. This information will be used to guide the next steps and improvements in the organizational feedback system.
+# The purpose of this form is to help organizations assess their current status and progress in various areas of organizational feedback, action items, and focused actions. The survey is designed to gather information on the implementation status, effectiveness, and practices related to these areas, as well as identify common reasons for not being very effective in each area. This information will be used to guide the next steps and improvements in the organizational feedback system.
 
 </thinking>
 

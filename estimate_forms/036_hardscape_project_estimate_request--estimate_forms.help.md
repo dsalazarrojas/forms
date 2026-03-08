@@ -1,17 +1,3 @@
-<thinking>
-
-Before creating this help guide, I've reviewed the provided YAML fields to ensure the form's purpose and functionality are clear. The form's internal name is "estimate_forms" and its title is "Hardscape Project Estimate Request". This form appears to be designed for clients to provide project details, schedule a preferred date, and request various services for their landscaping projects. The form is structured with a clear categorization of pages and fields, indicating a logical organization.
-
-Upon analyzing the fields, I've observed that:
-
-- Required fields are marked as true (site location, preferred date, services, client email, and phone number).
-- Fields with a type of "select_multiple" imply that the user can select multiple options for the field (services).
-- The project budget field is not required, suggesting that the user may not need to provide a budget for the project.
-- The client details field is not required, but it might be a field for the user to provide more information about themselves or the project.
-- The additional comments field is not required, indicating that it's an optional field for users to provide extra information.
-
-</thinking>
-
 # Hardscape Project Estimate Request - Help Guide
 ## Purpose
 This form is designed to gather information for a hardscape project estimate. Please fill out this form to provide your project details, schedule a preferred date, and select the required services for your project.

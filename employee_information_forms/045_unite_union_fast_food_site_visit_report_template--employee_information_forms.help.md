@@ -1,11 +1,3 @@
-<thinking>
-A fast food site visit report template is used by union officials to document their site visits, including the site's name, address, and the union officials' attendance. This form helps union officials to record important details about the site visit, such as the site manager's name and contact information, and the union officials' notes and signature. The site visit date and time are also recorded to provide a clear understanding of when the visit occurred. This form is crucial for tracking and documenting union activities and interactions with sites.
-
-This form is intended for union officials to collect information about their site visits, and is not designed for general site managers or other personnel. Therefore, only union officials should be accessing and completing this form. Duplicate site visits should be avoided to ensure accuracy and consistency in the data collected.
-
-The form consists of several sections, each with specific fields that correspond to different aspects of the site visit. Each section has a specific label and description to guide the user on the purpose of the field. Below is a detailed guide on how to complete this form.
-
-</thinking>
 # Unite Union Fast Food Site Visit Report Template - Help Guide
 ## Purpose
 This form is used to document the details of a site visit by union officials.

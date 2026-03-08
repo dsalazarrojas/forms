@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to be used by employees to adjust their leave entitlements. It is intended for employees who need to make changes to their leave balance, such as adding or removing leave entitlements due to various reasons like leave adjustment, leave cancellation or leave carry forward. The form will help the administrator to process the leave entitlement adjustments accurately and efficiently.
-
-The form will be used by employees to provide necessary information about their leave entitlements and the reasons behind the adjustments.
-
-The form will only be used when the employee's leave balance needs to be adjusted and it is not a duplicate request.
-
-The form will only be used for single adjustments. If an employee needs to make multiple adjustments, they will need to submit multiple forms.
-
-The form should not be used to dispute or challenge existing leave balances.
-
-The form is designed to be completed by the employee themselves, and the information provided will be used to process the adjustment.
-
-The form will be reviewed and processed by the HR department.
-</thinking>
-
 # Leave Entitlement Adjustment Form - Help Guide
 
 ## Purpose

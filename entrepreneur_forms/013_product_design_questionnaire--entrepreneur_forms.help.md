@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a product or service from an entrepreneur. It appears to be a template for a product development or design project. The form asks for various details such as product name, description, target audience, design approach, features, and more. It also includes fields for uploaded images and videos, which suggests that the product may have a visual or video component. The purpose of this form is likely to gather all the necessary information for a product development or design project.
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

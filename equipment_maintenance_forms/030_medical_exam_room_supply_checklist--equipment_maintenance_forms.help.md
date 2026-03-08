@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Exam Room Supply Checklist - Help Guide
 ## Purpose
 This form is designed to ensure that the exam room is well-maintained and equipped for a smooth and safe medical examination process. The form helps staff to assess the current state of the exam room and identify any areas that require improvement.

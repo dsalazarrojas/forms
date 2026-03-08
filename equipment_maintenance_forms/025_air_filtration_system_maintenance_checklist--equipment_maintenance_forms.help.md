@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Air Filtration System Maintenance Checklist - Help Guide
 ## Purpose
 This is a comprehensive maintenance checklist for the air filtration system, designed to ensure that all necessary checks and inspections are performed during routine and emergency maintenance services. The form is divided into sections that cover various aspects of the system's condition, including filters, motors, and other critical components.

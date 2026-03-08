@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from drivers applying for a job. It appears to be a comprehensive form covering various aspects of a driver's personal and professional background, including contact information, employment status, experience, and vehicle-related details. Before proceeding, please ensure you have all the necessary information and permissions required for the fields below. Please note that some of these fields seem to be redundant or have unclear labels. For the purpose of this help guide, I'll be providing explanations based on the provided YAML fields without making assumptions about the business logic behind them.
-</thinking>
-
 # Driver Job Application Form - Help Guide
 ## Purpose
 This form is intended for drivers to submit their applications for a job position.

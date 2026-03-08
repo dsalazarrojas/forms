@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather consent from party attendees for various activities, events, or gatherings. It is intended to be used by event organizers to ensure that all attendees are aware of and agree to certain terms and conditions. The form is composed of multiple pages, each with its own set of questions or fields that need to be filled out. The form is not a mandatory part of the event registration process, meaning that attendees are not required to fill it out.
-
-The form's structure and questions are likely designed to be repeated for different events or gatherings, with some questions being repeated for each event. This form is likely used for events that require specific permissions or consents from attendees, such as parties or gatherings where attendees may need to provide emergency contact information or special instructions.
-
-When filling out this form, attendees should be aware that their responses will only be used for the specific event they are attending, and that the information will not be shared with third parties or used for marketing purposes.
-
-It's worth noting that the form has a large number of fields, some of which seem to be repetitive, which may be a result of the form being in early stages of development or due to some other internal requirements.
-</thinking>
-
 # Party Consent Form - Help Guide
 ## Purpose
 This form is used to gather consent from party attendees for various activities, events, or gatherings.

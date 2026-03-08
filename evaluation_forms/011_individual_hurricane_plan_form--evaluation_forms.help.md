@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals about their plans and preparations for a hurricane. The purpose of this form is to gather relevant details that will help emergency responders and authorities assess the individual's situation and provide assistance if needed. 
-
-The form is designed to be completed by individuals in the affected area and is meant to be a quick and easy way to collect critical information. It is not meant to be a comprehensive or exhaustive assessment, but rather a snapshot of the individual's plans and preparations. 
-
-It is crucial that the individual completes the form accurately and thoroughly, as the information collected will help emergency responders tailor their response efforts and provide effective assistance. 
-
-The form will not duplicate or replace existing emergency response processes, but rather support and augment them. 
-
-In filling out this form, the individual should ensure they have a clear and concise answer for each field, as this will help emergency responders quickly understand their situation and provide the necessary assistance. 
-
-</thinking>
-
 # Individual Hurricane Plan Form - Help Guide
 ## Purpose
 The Individual Hurricane Plan Form is designed to collect information from individuals about their plans and preparations for a hurricane. This form is meant to be completed by individuals in the affected area and is a quick and easy way to collect critical information that will help emergency responders and authorities assess their situation and provide assistance if needed.

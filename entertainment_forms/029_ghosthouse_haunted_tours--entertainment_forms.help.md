@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # GhostHouse Haunted Tours - Help Guide
 ## Purpose
 The GhostHouse Haunted Tours form is designed to help customers book and manage tour details for a spooky experience. This form collects essential information to tailor the tour to the customer's preferences and needs.

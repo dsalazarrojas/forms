@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to evaluate the quality of a business partner store, covering various aspects such as store appearance, customer service, product availability, and compliance with brand standards. The evaluation is conducted by an evaluator, who assesses the store's strengths and weaknesses, providing feedback that can help improve the store's performance. This form is used to collect data for internal evaluation purposes only.</thinking>
-
 # Business Partner Store Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the quality of a business partner store, covering various aspects such as store appearance, customer service, product availability, and compliance with brand standards. The evaluation is conducted by an evaluator, who assesses the store's strengths and weaknesses, providing feedback that can help improve the store's performance.

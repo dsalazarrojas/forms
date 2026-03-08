@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # RBT/BCBA Information Submission - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from students about their science study guides. This form is not meant for general inquiries or feedback, so please ensure that your submission is relevant to this specific form. Please note that some fields may be optional, but it's essential to fill out all required fields.
-</thinking>
-
 # Science Study Guide Form - Help Guide
 ## Purpose
 The Science Study Guide Form is a tool designed to collect information from students about their science study guides. This form is intended to gather essential details about a student's science study guide, and it's crucial to fill it out accurately to get the best results.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Outreach Impact Report Form - Help Guide
 ## Purpose
 The Educational Outreach Impact Report Form is designed to gather information about educational outreach initiatives and their impact. This form will help us track and analyze the progress of our educational outreach efforts.

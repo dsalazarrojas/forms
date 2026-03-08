@@ -1,9 +1,3 @@
-<thinking>... 
-
-The purpose of this form is to collect information from school administrators, teachers, and other relevant stakeholders about their perceptions of the school's leadership and facilities. This information will help in evaluating the effectiveness and effectiveness of school leadership, which is crucial for maintaining a positive school environment. This form should be filled out by school administrators, teachers, and other relevant stakeholders who are familiar with the school's leadership and facilities. To avoid duplication, please ensure that you are filling this form for the first time for your school. If you have already filled out this form for your school, do not fill it out again. If you are unsure whether you should fill out this form, please contact the relevant authorities to clarify.
-
-</thinking>
-
 # Educational Leadership Trust Index Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather data about the school's leadership and facilities from school stakeholders.

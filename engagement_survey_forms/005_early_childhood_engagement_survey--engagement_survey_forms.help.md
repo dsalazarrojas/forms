@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and engagement information from teachers, specifically regarding early childhood education and development. The form is meant to be a tool for understanding teacher engagement and to identify areas for improvement in early childhood education. It is likely intended for internal use within a school or educational institution to inform decisions and policies regarding teacher support and resources.
-
-</thinking>
-
 # Early Childhood Engagement Survey - Help Guide
 ## Purpose
 The Early Childhood Engagement Survey is a tool designed to gather feedback and engagement information from teachers regarding early childhood education and development. This survey will help the institution understand teacher engagement and identify areas for improvement in supporting teachers.

@@ -1,10 +1,3 @@
-<thinking>
-We want to ensure that all non-exempt employees accurately represent their work hours and shifts on the dual service request form. This form is a crucial document in our company's accounting and timekeeping system. The form must be completed correctly to avoid discrepancies and miscommunications between employees and management. We have to prevent duplicate requests and ensure that each form submission is properly reviewed and approved.
-
-To prevent duplicate requests, the form will only allow one submission per employee per date. Submissions will be reviewed by the designated approver (Manager Name, Email, and Phone) to prevent unauthorized approvals. 
-
-Please review the form carefully to ensure accuracy and clarity in your submissions.</thinking>
-
 # Non Exempt Employee Dual Service Request Form - Help Guide
 ## Purpose
 The Non Exempt Employee Dual Service Request Form is used to request dual service or overtime compensation for non-exempt employees. This form is essential for accurately recording employees' work hours and shifts to ensure compliance with labor laws and regulations.

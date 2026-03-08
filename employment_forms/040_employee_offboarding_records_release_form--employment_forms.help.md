@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to document the offboarding process for an employee. This process typically involves a series of steps that must be completed in order to ensure a smooth transition when an employee leaves the company. The form is meant to be completed in conjunction with the manager's knowledge and review to provide a comprehensive record of the employee's offboarding process.
-
-To confirm the form's purpose and to prevent duplication of effort, please ensure that:
-
-* You have obtained approval from the relevant manager or offboarding process owner before completing this form.
-* You have reviewed the company's offboarding process and policies to ensure you are completing all necessary steps.
-* You have obtained any required supporting documentation or information needed to complete the form.
-
-</thinking>
-
 # employee_offboarding_records_release_form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from school parents about their level of involvement in their child's education, their communication preferences with teachers, and any additional comments or notes they may have. The purpose of this form is to understand the parent's perception of their role in their child's education and gather feedback on how the school can improve communication and collaboration between parents and teachers.
-
-Before filling out this form, please note that it's designed to be completed by one parent per household. If you're not sure about any of the questions or have any concerns, please feel free to ask your school administration for clarification.
-
-Please be honest in your responses, and remember that all answers will be kept confidential. This form will help the school better understand your needs and improve its services for you and other parents.
-
-</thinking>
-
 # School Survey For Parents - Help Guide
 ## Purpose
 This survey is designed to gather information from parents about their involvement in their child's education, communication preferences, and any additional comments or notes they may have.

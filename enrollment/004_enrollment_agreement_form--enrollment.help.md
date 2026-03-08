@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for students to enroll in educational programs. It is a generic template and may require modifications based on the specific needs of your institution or organization. Please review the form carefully and make necessary adjustments before sharing it with your audience. The goal of this form is to gather information and agreements necessary for a student to enroll in a program.
-
-</thinking>
-
 # Enrollment Agreement Form - Help Guide
 ## Purpose
 This form is designed for students to provide necessary information and agreements for enrollment in educational programs. It collects details about school policies, student and parent information, and agreements related to student responsibilities and expectations.

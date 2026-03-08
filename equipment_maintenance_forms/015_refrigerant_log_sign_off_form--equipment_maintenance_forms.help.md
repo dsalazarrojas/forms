@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Refrigerant Log Sign Off Form - Help Guide
 ## Purpose
 The Refrigerant Log Sign Off Form is a document that records the status of refrigerant systems in your organization. It is used to track and document the sign off of refrigerant from various machines and equipment. The form is used to ensure that the refrigerant is properly signed off, which is an essential aspect of maintaining the safety and efficiency of your equipment and systems.

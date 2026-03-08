@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Curriculum Review Committee Observation Consent Form - Help Guide
 ## Purpose
 The Curriculum Review Committee Observation Consent Form is a document used to gather information from teachers regarding their consent to observe a student in a classroom setting. This form is used to ensure that all parties involved in the observation process are aware of and agree to the terms and conditions of the observation.

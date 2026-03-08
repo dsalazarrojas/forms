@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather information about a child, likely for educational or assessment purposes. The form is likely used by teachers, educators, or researchers to collect data about a child's school environment, characteristics, and other relevant factors. The form may also be used to collect data about the child's home environment, support systems, and collaboration with others.
-</thinking>
-
 # Tell Me About Your Child Form - Help Guide
 ## Purpose
 This form is designed to collect information about a child, including their school environment, characteristics, and home environment. It is intended to provide valuable data for educational or assessment purposes.

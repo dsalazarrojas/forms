@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect employee information for direct deposit purposes. Direct deposit is a convenient and efficient way for employees to receive their paychecks. By filling out this form, employees can provide their bank account information, choose their direct deposit frequency, and specify their fund type and amount. This form is a crucial step in setting up direct deposit for employees in our organization.
-
-The form has multiple pages, each collecting different types of information. The first page asks for basic employee information, including employee name and ID. The second page collects direct deposit frequency and fund type options. The third page gathers bank account information, including routing number and fund type. The remaining pages ask for additional fund details, such as fund start and end dates, and additional funds.
-
-Please note that some fields on this form are required for direct deposit setup. This form should only be filled out by authorized personnel to prevent duplication of effort and ensure accurate and secure employee data collection.
-
-</thinking>
-
 # Employee Direct Deposit Enrollment Form - Help Guide
 ## Purpose
 The Employee Direct Deposit Enrollment Form is designed to collect essential information from employees for direct deposit purposes. This guide will walk you through each page of the form to ensure a smooth and accurate completion process.

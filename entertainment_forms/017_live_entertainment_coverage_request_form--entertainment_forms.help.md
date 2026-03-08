@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for end users who will be filling out the "Live Entertainment Coverage Request Form". This form is used to request live coverage for an event, and the purpose of this guide is to ensure that users understand its usage and how to complete it correctly. To ensure this guide is helpful, we will review the form's YAML fields and provide a clear explanation of each field, its type, and its required status.
-
-The form's main goal is to collect relevant information about an event, including its details, media requests, dates, times, contact details, and more. By filling out this form correctly, event promoters can get the live coverage they need to share their event with a wider audience.
-
-To avoid any confusion, it is essential to review each field carefully and make sure to fill in all the required information to ensure that your event gets the coverage it deserves.</thinking>
-
 # Live Entertainment Coverage Request Form - Help Guide
 ## Purpose
 The Live Entertainment Coverage Request Form is used to request live coverage for events, allowing event promoters to share their event with a wider audience.

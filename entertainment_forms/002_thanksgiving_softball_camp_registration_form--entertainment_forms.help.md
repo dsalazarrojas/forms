@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in understanding the purpose and completion of the Thanksgiving Softball Camp Registration Form. This form is designed to collect information from participants, including their contact details, medical conditions, and special instructions. The form is used for registration purposes only and does not collect sensitive or financial information. Please ensure that you have the necessary permissions and consent to collect and process this data.
-
-</thinking>
-
 # thanksgiving_softball_camp_registration_form - Help Guide
 
 ## Purpose

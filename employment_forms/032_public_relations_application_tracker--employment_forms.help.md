@@ -1,13 +1,3 @@
-<thinking>
-
-The form "public_relations_application_tracker" is used to record and track public relations applications in a company or organization. The form likely serves to monitor and maintain a database of individuals who have interacted with the company's public relations department, facilitating better communication and management of these interactions. This could include tracking the contact information of individuals, the status of their job applications, and any follow-up necessary for future reference. 
-
-This form may be designed to be filled out by the public relations department, HR, or other relevant teams within the organization. Its purpose is to provide a centralized location for tracking and organizing public relations interactions, making it easier to identify trends, patterns, and areas for improvement in the department's communication processes.
-
-The form may not be intended for external use, such as by job applicants themselves, as the field types and structure suggest it is more geared towards internal tracking and management.
-
-</thinking>
-
 # public_relations_application_tracker - Help Guide
 ## Purpose
 

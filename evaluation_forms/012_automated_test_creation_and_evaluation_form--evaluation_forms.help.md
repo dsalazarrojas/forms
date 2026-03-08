@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the evaluation and creation of automated tests within a given system. It captures relevant information such as the title of the test, type of test, description, and other related details. The form is designed to ensure consistency and accuracy in recording the evaluation process, making it easier to track and reference later. It also serves as a checklist to guide the user through the evaluation process, preventing omission of important details.
-</thinking>
-
 # Automated Test Creation And Evaluation Form - Help Guide
 ## Purpose
 The Automated Test Creation And Evaluation Form is used to document the evaluation and creation of automated tests within a system, ensuring consistency and accuracy in recording the test evaluation process.

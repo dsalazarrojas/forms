@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees about any incidents or complaints they may have experienced in the workplace. This form is designed to gather details about the incident, including the description of the complaint, the action taken by the employee, any witnesses, the date and time of the incident, the location of the incident, the relationship between the employee and the person involved, the type of incident, and any additional details or supporting documentation.
-
-The form is intended to be completed by employees who have experienced an incident or complaint and need to report it to the relevant authorities or HR department.
-
-The form will likely be used by HR or a similar department to investigate and address the incident accordingly.
-
-Before filling out this form, please ensure that you are not duplicating a complaint that has already been reported. If you are unsure, please contact the relevant authorities or HR department for guidance.
-
-This guide is intended to assist employees in completing the form in a clear and concise manner.
-
-</thinking>
-
 # Employee Complaint Form - Help Guide
 
 ## Purpose

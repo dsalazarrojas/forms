@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information about the release of a podcast episode. It appears to be used to manage the release of new episodes, likely for a radio or media company, and gather data on various aspects of the release, such as title, date, audio files, release type, territories, and agreements. This form should be used for new podcast releases only, as there is no indication of a "release_form_2" field which would suggest a follow-up or updated release form. It is also likely that this form is for releases that are not already existing episodes or series, as there is no field for episode number or series title. 
-</thinking>
-
 # Sample Podcast Release Form - Help Guide
 ## Purpose
 This form is used to collect information about the release of a new podcast episode.

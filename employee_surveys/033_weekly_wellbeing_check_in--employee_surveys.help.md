@@ -1,5 +1,3 @@
-<thinking>...this form is designed to help managers and supervisors gauge the wellbeing of their employees, focusing on their emotional state, work-life balance, productivity, and support systems. This form aims to ensure employees feel supported and valued in their work environment. The form is divided into several sections, each focusing on a different aspect of wellbeing. Please ensure you complete this form carefully, as it will help inform management decisions and support initiatives to promote a positive work culture...</thinking>
-
 # Weekly Wellbeing Check In - Help Guide
 ## Purpose
 This form is designed to help managers and supervisors gauge the wellbeing of their employees, focusing on their emotional state, work-life balance, productivity, and support systems.

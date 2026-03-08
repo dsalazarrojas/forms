@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Festival Technical Rehearsal Booking Form - Help Guide
 
 ## Purpose

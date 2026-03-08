@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect feedback from customers about their engagement experience with the company. This form is used to gather information on different aspects of the customer service experience, including the level of satisfaction, communication effectiveness, responsiveness, and resolution of concerns. The form is meant to help the company understand how they can improve their customer service processes and provide better support to their customers.
-This form is intended for customers who have interacted with the company's customer service team. It is not intended for internal users or employees of the company.
-Please note that the form is not intended for customers who are currently experiencing an issue or concern. This form is for customers who have already had their issue resolved and are providing feedback on their experience.
-</thinking>
-
 # Customer Engagement Survey - Help Guide
 ## Purpose
 The Customer Engagement Survey is designed to collect feedback from customers about their experience with the company's customer service team. This form is meant to help us understand how we can improve our support processes and ensure that our customers have a positive experience.

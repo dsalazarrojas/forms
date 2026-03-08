@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Microneedling Consent Form - Help Guide
 ## Purpose
 This form is for patients undergoing microneedling treatments. Microneedling is a non-surgical skin treatment that uses a specialized roller device to stimulate collagen production, improve skin texture, and reduce fine lines and wrinkles. The form is used to gather information about the patient's medical history, contact details, and consent to the treatment. It is essential to fill out this form accurately and truthfully to ensure a safe and successful treatment experience.

@@ -1,7 +1,3 @@
-<thinking>
-We are implementing an Employee Recognition Nomination Form to facilitate the acknowledgment and appreciation of exceptional work done by our employees within the company. This form allows colleagues to nominate their peers for outstanding performance, teamwork, leadership, or other notable achievements. The purpose of this form is to provide a formal and structured way to recognize employee contributions, promoting a culture of appreciation, respect, and motivation among team members. By using this form, we aim to prevent duplicate nominations and ensure that recognition is given based on a clear understanding of an employee's contributions, rather than relying on informal discussions or personal connections. This form will help us to identify and reward outstanding employees in a fair and transparent manner.
-</thinking>
-
 # Employee Recognition Nomination Form - Help Guide
 ## Purpose
 The Employee Recognition Nomination Form is designed to help colleagues nominate their peers for outstanding performance, teamwork, leadership, or other notable achievements.

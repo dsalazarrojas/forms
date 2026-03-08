@@ -1,8 +1,3 @@
-<thinking>
-This is a form for evaluating the status of integrated coastal management assessment, likely used by professionals in the field of coastal conservation and management. This form appears to be designed to gather information about the presence or absence of various ecosystem services, human impacts, conservation measures, monitoring programs, and management authorities related to coastal areas. It's possible that this form is used for research, policy-making, or planning purposes. Before proceeding, I'll review the form fields to ensure I can create a clear and accurate help guide.
-
-</thinking>
-
 # integrated_coastal_management_assessment - Help Guide
 ## Purpose
 This form is designed to assess the status of integrated coastal management in various coastal locations. It gathers information on ecosystem services, human impacts, conservation measures, monitoring programs, and management authorities to provide a comprehensive picture of coastal area management.

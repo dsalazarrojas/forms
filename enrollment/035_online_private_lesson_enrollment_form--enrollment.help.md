@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to enroll in private online lessons. The purpose of this form is to collect information from both the instructor and the student, ensuring a smooth and successful lesson experience. To complete this form, users must ensure they have all necessary information ready for input.
-</thinking>
-
 # online_private_lesson_enrollment_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information necessary for online private lesson enrollment. The form is used by both instructors and students to input relevant details about the lesson, instructor, and student.

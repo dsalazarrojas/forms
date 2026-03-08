@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Student Motivation Survey" form. The purpose of this form is to gather information about a student's motivation levels, strengths, weaknesses, and needs to provide insight into their educational experience. This form may be used by school administrators, teachers, or other authorized personnel to gather data for student support and development initiatives.
-</thinking>
-
 # Student Motivation Survey - Help Guide
 ## Purpose
 The Student Motivation Survey is a tool used to assess a student's motivation levels, strengths, weaknesses, and needs. The survey is designed to collect information that can inform support and development initiatives for students.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data about a driver's performance on a test. It will help assess their skills and provide feedback for improvement. This form is not intended for use in high-stakes evaluations or as a substitute for professional assessments.
-
-Before proceeding, please ensure that the form is complete and accurate. If you have completed the form before, you may be able to use the "Auto-fill" feature to populate the form with your previous responses.
-
-</thinking>
-
 # driver_scoring_form - Help Guide
 ## Purpose
 The driver scoring form is used to evaluate a driver's performance on a test.

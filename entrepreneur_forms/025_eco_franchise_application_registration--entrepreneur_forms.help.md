@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from entrepreneurs who wish to register their new eco-franchise business. The form is designed to gather essential details about the business, its sustainability practices, and the contact information of the partner. It is crucial to ensure that the form is completed correctly to avoid any potential issues with the registration process.
-</thinking>
-
 # eco-franchise-application-registration - Help Guide
 ## Purpose
 This form is designed to collect essential information from entrepreneurs who wish to register their new eco-franchise business. It is a step-by-step guide to help you complete the form accurately.

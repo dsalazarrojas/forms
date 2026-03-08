@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to create a Terms of Service Agreement for a dance studio during social distancing measures. This form aims to outline the rules and guidelines for students and staff to follow in order to ensure a safe and healthy environment for everyone. The form should include the terms of the new services and conditions that the studio will be implementing to maintain social distancing. I will not create a duplicate of an existing form that I do not have access to, and I will create an original form based on the provided metadata. 
-</thinking>
-
 # MarShere Dance Studio Social Distancing Terms Of Service Agreement Form - Help Guide
 ## Purpose
 The MarShere Dance Studio Social Distancing Terms Of Service Agreement Form is designed to provide a safe and healthy environment for students and staff during social distancing measures. By filling out this form, you will be agreeing to follow the new terms and conditions implemented by the studio.

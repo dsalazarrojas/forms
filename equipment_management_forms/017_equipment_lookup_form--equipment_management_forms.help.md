@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to look up and retrieve equipment information. It ensures that users can efficiently search for specific equipment using various attributes such as equipment category, status, type, and description. This form reduces the need for manual searching through physical records, saving time and increasing productivity. To avoid duplication of effort, please only use this form to search for specific equipment and not for adding or editing existing records. Please ensure that you only fill in the required fields and select relevant options to get accurate results.
-</thinking>
-
 # equipment_lookup_form - Help Guide
 ## Purpose
 The equipment lookup form allows users to search for equipment information by various attributes.

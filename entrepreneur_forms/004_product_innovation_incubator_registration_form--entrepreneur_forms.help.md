@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_innovation_incubator_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to help potential applicants for the product innovation incubator program provide their information, ideas, and goals. This form gathers essential details to assess their application and determine the suitability of their project for the program.

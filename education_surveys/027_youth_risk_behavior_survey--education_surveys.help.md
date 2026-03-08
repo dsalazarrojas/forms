@@ -1,17 +1,3 @@
-<thinking>
-To confirm, you want me to create a user-facing help guide for a form titled "youth_risk_behavior_survey" in the "education_surveys" category. The form is used to gather data on risk behaviors among students, specifically regarding organized sports participation, substance use, driving habits, fighting, bullying, and other relevant topics. I will assume that the form is used to collect data that may be sensitive or personal in nature, and therefore, the guide should be concise, clear, and respectful of user privacy.
-
-This guide is intended to be used by end-users, such as students, educators, or administrators, who need to complete the form for data collection purposes.
-
-Before creating the guide, I have taken into account the following:
-
-* The form has multiple questions with select_one and select_multiple types, indicating a mix of single-choice and multi-choice questions.
-* Some questions are marked as required or optional, but there is no information about the consequences of not completing a required question.
-* The questions cover a range of topics, including sports participation, substance use, driving habits, fighting, and bullying.
-* The guide should be written in a neutral and objective tone, avoiding any language that may be perceived as judgmental or intrusive.
-
-</thinking>
-
 # youth_risk_behavior_survey - Help Guide
 
 ## Purpose

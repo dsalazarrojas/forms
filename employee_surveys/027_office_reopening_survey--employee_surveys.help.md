@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from employees about their expectations and concerns regarding the reopening of the office. This form is not intended to be a comprehensive survey, but rather a starting point for discussion and planning. It is recommended that employees complete this form to provide their honest feedback and suggestions. If an employee has already completed a similar form, please do not complete this form unless you have new information or changes in your expectations.</thinking>
-
 # Office Reopening Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees about their expectations and concerns regarding the reopening of the office.

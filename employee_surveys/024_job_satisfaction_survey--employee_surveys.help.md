@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees about their job satisfaction. The purpose of this form is to gather information that can be used to improve the workplace environment, management style, and overall employee experience. This form should not be filled out by employees who have recently had a change in job title, have been with the company less than 6 months, or have left the company. Please ensure you have filled out the previous survey before starting this one to avoid duplication of information.
-</thinking>
-
 # Job Satisfaction Survey - Help Guide
 ## Purpose
 This form is used to collect feedback from employees about their job satisfaction. It is designed to help the organization improve the workplace environment and overall employee experience.

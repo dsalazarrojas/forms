@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from teams participating in a trivia night event. The purpose of this form is to gather essential details about each team, including their name, team lead, phone numbers for team members, team size, and any special instructions or equipment they may need. The form is intended to be completed by team representatives, and the information collected will be used to facilitate communication and coordination during the event. It's essential to ensure that team members understand the importance of providing accurate and up-to-date information to ensure a smooth experience for all participants.
-</thinking>
-
 # trivia_night_sign_up_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a help guide for this form, we must first understand the form's purpose and the fields within it. 
 
 This form is called "new_vendor_setup_form" and seems to be used for setting up a new vendor, with various fields for collecting information about the vendor, its contact details, and other specific settings. The form is likely used in an internal system or application that deals with managing vendors.

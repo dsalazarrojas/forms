@@ -1,9 +1,3 @@
-<thinking>
-This form is used to assess a user's verbal reasoning abilities, likely in the context of a psychological or cognitive assessment. This form likely aims to evaluate a user's ability to make sound judgments, think critically, and communicate effectively. Please note that this form might be used in various settings, such as educational institutions, corporate training, or psychological evaluations. It's essential to complete this form accurately and honestly to ensure a reliable assessment.
-
-To complete this form, please follow the instructions below.
-</thinking>
-
 # Verbal Reasoning Assessment - Help Guide
 ## Purpose
 The Verbal Reasoning Assessment is designed to evaluate your verbal reasoning, critical thinking, and communication skills. This form is typically used in educational or professional settings to assess your ability to analyze and interpret information, make sound judgments, and convey your thoughts effectively.

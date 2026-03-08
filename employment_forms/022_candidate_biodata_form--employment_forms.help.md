@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Candidate Biodata Form - Help Guide
 
 ## Purpose

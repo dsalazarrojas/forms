@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a course, including its structure, format, and instructor's details. The form is likely to be used for administrative or organizational purposes, such as setting up a course catalog or managing course schedules.
-
-This form should only be filled out by authorized personnel, and it's essential to ensure that each field is filled out correctly to avoid duplication of effort and ensure consistency in the information collected. Please verify that you have permission to complete this form and that it's not a duplicate effort before proceeding.
-
-If you're unsure about any of the fields or have questions, please ask your supervisor or the relevant authorities for clarification.
-</thinking>
-
 # Course Structure Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a course, including its structure, format, and instructor's details.

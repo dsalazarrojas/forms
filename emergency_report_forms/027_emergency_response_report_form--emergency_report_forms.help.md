@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency_response_report_form - Help Guide
 ## Purpose
 The emergency_response_report_form is a document used to gather information about incidents that require immediate attention from emergency responders. This form helps to ensure that accurate and timely responses can be made to these events. By filling out this form, you can report incidents to our emergency response team.

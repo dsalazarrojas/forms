@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # salary_and_compensation_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees on their satisfaction with salary, benefits, and overall compensation. This survey aims to identify areas of improvement and contribute to increased employee engagement.

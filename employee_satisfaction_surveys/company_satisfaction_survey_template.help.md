@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a template for gathering employee feedback to understand and improve overall satisfaction and the work environment. The form is intended to be completed by employees of a company, and its purpose is to collect data on their opinions and experiences. Before proceeding, please ensure that this form is relevant to your organization's specific needs and goals. It is not a substitute for other forms or surveys that may already exist within your company.
-</thinking>
-
 # company_satisfaction_survey_template - Help Guide
 
 ## Purpose

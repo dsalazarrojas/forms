@@ -1,11 +1,3 @@
-<thinking>
-Is this form for internal use only, or can we share it with external parties? Are there any specific requirements or guidelines we need to follow while completing this form? 
-The form is used for onboarding new hires and capturing their personal and professional information. It's meant for internal use within the company, but it's possible that external parties may access it. 
-When completing this form, please provide accurate and complete information. If you're unsure about any field, please contact your manager or HR representative for clarification. 
-Please ensure that the date of birth is in the format MM/DD/YYYY. 
-The form is divided into several sections, and each field has a specific purpose. Please read each section carefully before starting to fill out the form. 
-</thinking>
-
 # New Hire Onboarding Form - Help Guide
 ## Purpose
 The New Hire Onboarding Form is used to capture personal and professional information from new employees. It helps the company to get to know the new hire better and ensure a smooth onboarding process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for reporting the results of pressure tests performed on equipment. This form might be used by maintenance or quality control personnel to log and document the test results, including any necessary signatures and comments. This could be a form used by a specific company or industry, possibly related to oil and gas, or any other industry that involves critical equipment that requires periodic pressure testing. This form may be part of a broader system for tracking and managing equipment maintenance and quality control. I'll make sure to provide a clear and concise explanation of the form's purpose and fields, without inventing unsupported business logic.
-
-</thinking>
-
 # equipment_pressure_test_report_form - Help Guide
 ## Purpose
 The purpose of this form is to document the results of pressure tests performed on equipment. This includes general information, pressure test details, equipment specifics, and test results. It also includes fields for comments, signature, and other relevant details.

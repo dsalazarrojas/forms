@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for documenting the R&D Testing and Repair process. It captures essential information about the equipment that was tested or repaired, including its condition, location, testing and repair dates, test and repair results, and any related notes. The form is used by R&D teams to track and analyze the performance of equipment, identify areas for improvement, and make data-driven decisions.
-
-</thinking>
-
 # R&D Testing And Repair Survey - Help Guide
 ## Purpose
 The R&D Testing and Repair Survey form is used to document the testing and repair process of equipment. This information is used to track the performance of equipment, identify areas for improvement, and make data-driven decisions.

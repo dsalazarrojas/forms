@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from students about their engagement with a course or class. This form will help instructors assess the effectiveness of their teaching methods and materials, as well as identify areas for improvement.
-
-Before proceeding, please ensure that you have not already filled out this form for this course or class. Duplicate submissions will not provide valuable feedback and may cause unnecessary work for instructors.
-
-</thinking>
-
 # student_engagement_survey - Help Guide
 ## Purpose
 The student engagement survey is a tool used to gather feedback from students about their experience with a course or class. This feedback is essential for instructors to understand their teaching effectiveness and make necessary adjustments to improve the learning environment.

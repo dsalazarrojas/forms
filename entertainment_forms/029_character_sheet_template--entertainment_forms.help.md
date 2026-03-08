@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for tracking core character details during gameplay, providing a template for players and game masters to quickly reference and update character information. It should be used to create a unique profile for each character, ensuring that all relevant details are easily accessible and updatable.
-</thinking>
-
 # Character Sheet Template - Help Guide
 ## Purpose
 The Character Sheet Template is used to create a comprehensive profile for each character, including their name, level, attributes, skills, equipment, backstory, and any temporary notes or changes. This template helps players and game masters quickly reference and update character information during gameplay.

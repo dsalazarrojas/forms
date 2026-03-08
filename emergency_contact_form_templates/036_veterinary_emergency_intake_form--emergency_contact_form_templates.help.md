@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an original creation based on public survey metadata, specifically designed for veterinary emergencies. The form's structure and field labels suggest it's intended to collect information from pet owners in emergency situations. The field labels are relatively clear and straightforward, but some could be improved for better user understanding. The required fields are not explicitly marked, so users might need guidance on which fields are essential to complete the form. The form's structure implies it's meant to be filled out by pet owners in emergency scenarios, possibly when a vet's staff member or assistant needs to quickly assess the situation and provide necessary care.
-</thinking>
-
 # Veterinary Emergency Intake Form - Help Guide
 ## Purpose
 This form is designed for veterinary clinics to quickly gather essential information from pet owners in emergency situations. Its purpose is to collect vital data to provide the best possible care for the pet.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Favorites Questionnaire - Help Guide
 
 ## Purpose

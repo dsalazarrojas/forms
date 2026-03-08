@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Self Appraisal Form - Help Guide
 
 ## Purpose

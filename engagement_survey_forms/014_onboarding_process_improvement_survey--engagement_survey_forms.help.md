@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback on the onboarding process for new hires. The purpose of this form is to gather information on how to improve the onboarding process, specifically on the experiences and challenges faced by new hires during their first week, two weeks, and three weeks of employment. This form will help managers and HR personnel understand the areas that need improvement, identify trends, and take data-driven decisions to make the onboarding process more effective. This form is not intended to be filled out by new hires themselves, but rather by their managers or HR personnel.
-</thinking>
-
 # onboarding_process_improvement_survey - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The provided YAML defines a form for collecting employee emergency contact information. This form is used to gather essential details about an employee's emergency contact list, which is likely used for internal purposes such as HR or benefits administration. The form has 9 fields, but none are marked as required, indicating that this is a supplementary or optional form.
-
-The form appears to be designed for capturing information about an employee's emergency contacts, such as their availability to be contacted in case of an emergency, phone numbers, email, and other contact details. It's possible that this form is used for HR or benefits administration, and the information collected is used to ensure that the right people are contacted in case of an emergency.
-
-</thinking>
-
 # Employee Emergency Contact List - Help Guide
 ## Purpose
 The Employee Emergency Contact List form is used to collect information about an employee's emergency contacts, including their availability to be contacted in case of an emergency, phone numbers, email, and other contact details.

@@ -1,13 +1,3 @@
-<thinking>
-**Form Designer's Internal Reasoning Block:**
-
-The "leadership-communication-consistency-survey" form is designed to gauge an individual's perception of leadership communication consistency within their team. The form aims to collect feedback on how well team leaders are seen to be communicating effectively with their team members. The questions cover various aspects of leadership communication, including the clarity of leadership messages, the frequency of leadership messages, and the alignment between team goals and objectives.
-
-Before proceeding, please note that you will only have access to this form if you have been granted access by your administrator. Also, please ensure that the data you enter is honest and accurate, as your input will contribute to a broader team evaluation.
-
-After submitting this form, your responses will be aggregated and analyzed to provide insights into the team's perception of leadership communication. This form is meant to be a collaborative tool for team improvement, so please answer with an honest and constructive mindset. If a question appears unclear or you're unsure of the answer, feel free to ask your team lead or admin for clarification.
-</thinking>
-
 # leadership-communication-consistency-survey - Help Guide
 ## Purpose
 The leadership-communication-consistency-survey form aims to assess an individual's perception of leadership communication within their team. It covers the clarity, frequency, and alignment of leadership messages to gauge the team's overall understanding of leadership communication.

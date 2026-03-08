@@ -1,5 +1,3 @@
-<thinking> This form is designed to be completed by artists who want to submit their records, including music, for approval and review by record label representatives. The form gathers information such as artist name, label name, record type, and other relevant details. It's used to streamline the submission process for artists and label staff, making it easier to track and manage record label applications. The form is not intended for repeated or duplicate submissions by the same artist. </thinking>
-
 # record_label_application - Help Guide
 ## Purpose
 This form is for artists to submit their record label applications. Please fill out the form completely to ensure that your submission is processed efficiently.

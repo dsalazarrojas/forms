@@ -1,8 +1,3 @@
-<thinking>
-To confirm, this form is intended to gather employment information from employees, such as their employer, job title, shift schedule, and manager's contact details. This form is likely used for administrative or regulatory purposes, such as health compliance or benefits tracking. I will now create the user-facing help guide for this form.
-
-</thinking>
-
 # Health Compliance Employment Form - Help Guide
 
 ## Purpose

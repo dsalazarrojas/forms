@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tool Life Tracking Report Request Form - Help Guide
 ## Purpose
 The Tool Life Tracking Report Request Form is used to request a tool life tracking report for equipment with specific status and usage details. This form is intended to be filled out by the equipment owner or authorized personnel to request a report on the tool's condition and usage history.

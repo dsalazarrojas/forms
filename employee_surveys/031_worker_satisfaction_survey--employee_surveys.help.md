@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Worker Satisfaction Survey" form. This form is used to gather feedback from employees on their job satisfaction, work environment, and overall well-being. It is essential to understand that the form is not a performance evaluation tool, but rather a tool to help managers and HR departments identify areas of improvement in the workplace. It is crucial to complete this form honestly, as the feedback will be used to improve the work environment and employee satisfaction. Please ensure you answer the questions accurately and truthfully, as it will help us make informed decisions to benefit the organization and its employees. This form should not be submitted multiple times, as it may lead to duplicate or misleading data. Please submit the form once you have completed it and are satisfied with your answers.
-</thinking>
-
 # Worker Satisfaction Survey - Help Guide
 
 ## Purpose

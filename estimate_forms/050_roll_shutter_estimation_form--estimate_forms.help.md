@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a roll shutter estimation project. The form is likely used to collect data from project managers or administrators to provide estimates for roll shutters. This form might be used in construction or architecture industries. It's possible that this form is used to gather data for project estimations, cost calculations, or other related purposes.
-
-The form consists of multiple pages with various fields to collect different types of information. It includes fields for project details, contact information, and roll shutter specifications. The form is likely used by project managers or administrators to quickly collect and review data.
-
-Before using this form, ensure that all relevant fields are populated with accurate information to ensure accurate estimations. The form's fields and options should be reviewed to understand their purpose and ensure consistency in data entry.
-
-</thinking>
-
 # Roll Shutter Estimation Form - Help Guide
 ## Purpose
 The Roll Shutter Estimation Form is designed to collect information about roll shutter projects for estimation purposes.

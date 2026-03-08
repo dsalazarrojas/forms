@@ -1,11 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "streaming_service_engagement_report_form" form.
-The form is designed to collect feedback from users on their streaming service engagement. Specifically, it is used to gather information on how often users consume streaming content, their overall user experience, content quality, and satisfaction with the service. This form should be completed by users who have used the streaming service and wish to provide feedback. 
-Before starting the form, users should confirm that they have used the streaming service and are providing feedback on their actual experience. If they have not used the service, they should not complete this form. 
-It is also essential to note that this form is intended for collecting quantitative data, not for sharing personal opinions or stories. If users want to share personal experiences or stories, there are other forms available for that purpose. 
-Finally, users should be careful when completing this form, as it may be used to improve the streaming service.
-</thinking>
-
 # streaming_service_engagement_report_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users on their streaming service engagement. It helps us understand how often you consume streaming content, your overall user experience, content quality, and satisfaction with the service.

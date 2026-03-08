@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Heavy Equipment Operator Estimate Form - Help Guide
 
 ## Purpose

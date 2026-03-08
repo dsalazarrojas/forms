@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from workers to ensure their safety and well-being in the workplace. The goal is to gather essential details about the worker's job, supervisor, and emergency contact information to help maintain a safe working environment. Before completing this form, please ensure you have reviewed and understood the relevant policies and procedures related to worker ergonomics safety in your organization. This form is intended to be completed by workers and their supervisors, and the information collected will be used to enhance worker safety and support any necessary corrective actions. Please ensure that the form is completed accurately and thoroughly, as the information collected will be used to make informed decisions about worker safety. To avoid duplication, please ensure that this form is not filled out multiple times, and that all required fields are completed accurately.
-</thinking>
-
 # Worker Ergonomics Safety Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from workers to ensure their safety and well-being in the workplace. The goal is to gather essential details about the worker's job, supervisor, and emergency contact information to help maintain a safe working environment.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to enroll an employee in the Voluntary Life Insurance plan, which provides employees with additional coverage in the event of death. This form is intended for employees who wish to participate in the plan on a voluntary basis. By enrolling in this plan, employees can choose the coverage they need, select the beneficiaries they want to protect, and provide their own plan specifics.
-
-To determine if an employee already has this form in their record, check their employee profile.
-
-If the form already exists in the employee's record and is up-to-date, do not reenroll the employee in the Voluntary Life Insurance plan.
-
-</thinking>
-
 # Voluntary Life Insurance Enrollment - Help Guide
 ## Purpose
 The Voluntary Life Insurance plan provides employees with additional coverage in the event of death. By enrolling in this plan, employees can choose the coverage they need and select the beneficiaries they want to protect.

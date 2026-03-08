@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a survey designed to gather information about digital teaching practices in educational settings. The form asks about various aspects of teaching, such as training programs, evaluation processes, and feedback mechanisms. The purpose of this form is likely to collect data on how well schools and teachers are implementing and evaluating digital teaching practices, which can help in informing future educational policies and programs. This form might be used by school administrators or educational institutions to assess the effectiveness of their current teaching practices and identify areas for improvement.
-
-This form has 25 fields, and each field type is clearly defined. However, there are a few fields that might benefit from more detailed explanations, such as "training_frequency" and "evaluation_frequency," which could be clarified as to the intended use of these questions. The form appears to be comprehensive and covers various aspects of digital teaching practices, including training, evaluation, and feedback.
-
-To ensure that users understand the context and purpose of the form, I will create a user-facing help guide that outlines how to complete the form and explains each field in detail.
-
-</thinking>
-
 # Digital Teaching Practices Assessment - Help Guide
 ## Purpose
 This form is designed to collect data on digital teaching practices in educational settings, including training programs, evaluation processes, and feedback mechanisms.

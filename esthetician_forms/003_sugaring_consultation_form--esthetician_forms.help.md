@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I would like to ensure that the form is being used correctly and not duplicating work. This Sugaring Consultation Form is intended for aesthetic professionals to gather information from clients about their preferences for sugar-related services, including sugaring, sugar peeling, and other options. The form should be used to determine the client's desired services, frequency, and availability for these services. This guide will walk the user through the form fields and their intended uses.</thinking>
-
 # Sugaring Consultation Form - Help Guide
 ## Purpose
 

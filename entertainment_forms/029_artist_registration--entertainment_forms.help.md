@@ -1,8 +1,3 @@
-<thinking>
-This artist registration form is designed to collect information about artists, bands, or groups looking to be registered in the entertainment industry. The form is intended for artists who are interested in showcasing their work, sharing their artistry, or seeking collaboration opportunities. To ensure accuracy and relevance, please note that this form is not meant for artists seeking to book performances, but rather for those who want to register their profiles for potential collaboration or promotion purposes. It is also essential to fill out the form accurately to avoid duplicates or misrepresentations. If you're unsure about the purpose or any field, please review the form carefully and contact the administrators for clarification. 
-
-</thinking>
-
 # Artist Registration - Help Guide
 ## Purpose
 The Artist Registration form is a tool to collect essential information about artists, bands, or groups to facilitate collaboration, promotion, and discovery in the entertainment industry. This form helps artists get their work noticed and potentially connect with other artists, promoters, or booking agents.

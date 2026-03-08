@@ -1,7 +1,3 @@
-<thinking>
-This form is used for contributors to release media to a magazine. The purpose of this form is to gather necessary information from contributors, including their name, email, and media institution details. The form is designed to be completed by contributors who have produced media (e.g., articles, photos, videos, etc.) that will be published in the magazine. The form asks for the contributor's name, email, and contact information for the media institution (if applicable), as well as details about the publication (title, date, and media type). The contributor must also acknowledge the use permissions and distribution rights of their media content. The form is a crucial step in the editorial process, ensuring that contributors understand their rights and responsibilities when publishing their work.
-</thinking>
-
 # Magazine Media Release Form - Help Guide
 ## Purpose
 The Magazine Media Release Form is a crucial document for contributors to release media to a magazine. This form helps ensure that contributors understand their rights and responsibilities when publishing their work.

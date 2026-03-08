@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to provide emergency contact information and authorization to be evacuated from the facility in case of an emergency. This form is used to ensure that employees have provided up-to-date contact information and authorization to facilitate a quick and safe evacuation process. Please make sure to complete this form accurately and submit it before an emergency situation arises. If you have already completed this form, there's no need to do so again unless your emergency contact information has changed.
-</thinking>
-
 # Emergency Evacuation Authorization Form - Help Guide
 ## Purpose
 The Emergency Evacuation Authorization Form is used to collect contact information and authorization from employees to be evacuated from the facility in case of an emergency.

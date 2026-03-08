@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Demon Summoning Request Form - Help Guide
 ## Purpose
 The Demon Summoning Request Form is a tool used by the Department of Magical Affairs to gather information for summoning requests from various departments. This form ensures that all necessary information is collected and submitted to the correct department for processing.

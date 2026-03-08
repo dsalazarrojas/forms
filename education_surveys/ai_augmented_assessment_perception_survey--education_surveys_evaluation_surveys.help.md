@@ -1,8 +1,3 @@
-<thinking> 
-This help guide is intended to be used for a user survey to gather feedback on the AI-augmented assessment experience. It will collect information from respondents about their perception of the assessment process, their satisfaction and rating of the AI-augmented assessment, their trust in the AI system, and their potential willingness to use it in the future. The form is designed to be completed by respondents who have taken or observed the AI-augmented assessment, and their feedback will help to improve the assessment process and the AI system used. Please note that the survey is anonymous, and responses will be aggregated and anonymized if consent is given. To ensure that the survey captures a comprehensive range of opinions, it is essential to complete all the sections. 
-
-</thinking>
-
 # AI Augmented Assessment Perception Survey - Help Guide
 
 ## Purpose

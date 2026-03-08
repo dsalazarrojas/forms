@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and instructions for completing the "Poverty Awareness Education Impact Survey" form. The form is designed to gather information on various aspects of a training session, including training session details, demographics, training attendance, knowledge gain, session quality, behavior intent, evaluation, follow-up support, next steps, and survey completion date. However, before proceeding, we must ensure that the user is aware of the form's purpose and that they have not already completed the form. If the user is aware of the form's purpose and has not previously completed the form, they can proceed with confidence. If they are not aware of the form's purpose, we will provide a brief introduction to help clarify their understanding. If they have already completed the form, they will be prompted to review the form and make any necessary changes before proceeding.
-</thinking>
-
 # Poverty Awareness Education Impact Survey - Help Guide
 ## Purpose
 The Poverty Awareness Education Impact Survey is designed to collect information about the impact of a training session on participants' knowledge and behavior. The survey aims to gather data on various aspects of the training, including session quality, knowledge gain, behavior intent, and evaluation.

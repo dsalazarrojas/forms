@@ -1,5 +1,3 @@
-<thinking>...this form is a tool used to evaluate the effectiveness of a Preventive Screening Program in a healthcare setting. It assesses participant and provider satisfaction, screening location, and other relevant factors to help improve the program. To ensure accurate and meaningful data collection, please ensure that only authorized personnel have access to this form and that the same form is not completed multiple times for the same individual. If you're unsure about any of the questions or fields, please refer to the help guide for further clarification. Please note that some fields are optional, but providing accurate and complete information will help us better understand the program's impact...</thinking>
-
 # Preventive Screening Program Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for travel purposes, likely for travel planning or travel-related services. This guide will help users understand what the form is for, how to fill it out, and what each field means. Please ensure that you're using the form for its intended purpose and not for duplicate or repetitive submissions.
-</thinking>
-
 # Travel Sign Up Form - Help Guide
 ## Purpose
 The Travel Sign Up Form is designed to collect essential travel-related information from users. This form is intended to be filled out by individuals planning trips, including travelers, employees, or anyone requiring travel assistance. Your submission will help us better understand your travel needs, allowing us to provide more effective services.

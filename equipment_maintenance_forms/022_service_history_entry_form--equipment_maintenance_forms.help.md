@@ -1,10 +1,3 @@
-<thinking>
-To create an effective help guide for the "Service History Entry Form", we must first understand its purpose. The form is designed to record the service history of an equipment asset, including details about the equipment itself, the revenue generated from its use, and the costs associated with its maintenance. This information helps in making informed decisions about the equipment's maintenance, upgrades, and replacement. 
-
-To prevent duplication of effort, users should only submit one entry per service event. If a service event requires multiple entries, ensure that each entry is submitted separately.
-
-</thinking>
-
 # Service History Entry Form - Help Guide
 ## Purpose
 The Service History Entry Form is designed to track the service history of equipment assets, providing essential information for maintenance planning and resource management.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_wellbeing_tool_requisition_form - Help Guide
 ## Purpose
 The employee wellbeing tool requisition form is a tool used to request access to wellbeing tools for employees. It is designed to help employees request wellbeing tools that they need to improve their physical and mental health. This form is meant to be completed by employees who require access to wellbeing tools such as exercise equipment, meditation rooms, or mental health services.

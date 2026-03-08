@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for real estate agents who have completed the onboarding process to provide feedback on their experience. The form helps us evaluate the effectiveness of our onboarding program, which includes training and support, and gather feedback on the overall experience, including the office location where the agent worked. This feedback is essential to ensure we improve our onboarding process and provide better support to our agents. To avoid duplicate submissions, please fill out this form only if you have already completed the onboarding process and have not previously provided feedback.
-
-</thinking>
-
 # Real Estate Agent Onboarding Employment Feedback Form - Help Guide
 
 ## Purpose

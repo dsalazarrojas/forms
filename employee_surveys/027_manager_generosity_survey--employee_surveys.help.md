@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from employees about their managers' generosity, which will help to identify areas of improvement in terms of leadership and employee well-being. This form will not ask questions that are already included in other surveys, and the information collected will be used to provide insights for management decisions.
-</thinking>
-
 # Manager Generosity Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from employees about their managers' generosity, with the goal of enhancing the work environment and employee well-being.

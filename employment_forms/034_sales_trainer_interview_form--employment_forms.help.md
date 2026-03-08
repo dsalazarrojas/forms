@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Trainer Interview Form - Help Guide
 
 ## Purpose

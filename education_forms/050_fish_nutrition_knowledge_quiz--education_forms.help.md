@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test the knowledge of fish nutrition in various areas such as aquaculture training and correct answers related to fish nutrition. It is a self-contained form with 5 fields, and users are expected to fill in the correct information in each field to complete the form. The purpose of this form is to assess the user's understanding of fish nutrition and provide a way to measure their knowledge in this area.
-</thinking>
-
 # Fish Nutrition Knowledge Quiz - Help Guide
 
 ## Purpose

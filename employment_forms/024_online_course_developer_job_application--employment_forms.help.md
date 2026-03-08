@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for an online course developer position. Its purpose is to assess their qualifications, skills, and experiences to determine suitability for the job. To avoid duplicate applications, we recommend that applicants submit their application only once, and not multiple times. 
-
-Before filling out this form, please ensure that the information provided is accurate and up-to-date. We will review and process your application in a timely manner.
-</thinking>
-
 # Online Course Developer Job Application - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants for the online course developer position. This form will help us assess your qualifications, skills, and experiences to determine your suitability for the job.

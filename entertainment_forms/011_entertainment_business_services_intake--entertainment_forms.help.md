@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from clients or users about their entertainment business services requirements. This could be for event planning, venue selection, or other related services. The form will help us understand their needs and preferences to provide better services. 
-
-To ensure that we provide accurate and relevant information, we'll review and verify the information collected through this form before proceeding.
-
-Please note that this form is not for immediate use. The information collected through this form will be used to discuss and follow up with the client for further details.
-</thinking>
-
 # Entertainment Business Services Intake - Help Guide
 ## Purpose
 The Entertainment Business Services Intake form is a tool used to collect information from clients about their entertainment business needs. This includes details about their events, budgets, contact preferences, and more.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from the household in case of a power outage. The form's purpose is to provide the necessary contact information and household details in case of an emergency. This form will help us gather the necessary information to respond quickly and effectively. Before filling out this form, please ensure that the information provided is accurate and up-to-date. You may need to fill out multiple sections if you have multiple emergency contacts or alternate contacts. Make sure to review each field carefully to ensure you fill out the correct information.
-
-</thinking>
-
 # power_outage_survival_guide - Help Guide
 ## Purpose
 This form is used to collect contact information and household details in case of a power outage. It will help us respond quickly and effectively in an emergency.

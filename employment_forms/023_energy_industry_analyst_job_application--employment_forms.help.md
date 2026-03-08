@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for an Energy Industry Analyst position. It is intended to gather personal, contact, employment, educational, and professional background information from candidates. The form is a comprehensive tool to help employers evaluate candidates for this specific role.
-
-To ensure the form's purpose is clear and relevant, let's review the provided schema. Each page is focused on a different aspect of the applicant's background:
-
-* Page 1: Personal Info likely includes general contact information and other personal details.
-* Page 2: Contact Info provides space for the applicant to input their contact information.
-* Page 3: Employment Info likely captures work history and current or previous employment details.
-* Page 4: Education focuses on educational background.
-* Page 5: Work Experience collects work history and experience.
-* Page 6: Skills lists the applicant's relevant skills.
-* Page 7: Certifications may be optional but provides a field for additional qualifications or certifications.
-* Page 8: Resume is likely a place to attach or upload a resume for further review.
-
-Before proceeding, it's essential to ensure that the information provided is accurate and relevant to the Energy Industry Analyst position, and that the form isn't being filled out for a different purpose. This form may not be suitable for other job applications or purposes.</thinking>
-
 # Energy Industry Analyst Job Application - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information from applicants for an Energy Industry Analyst position. It is intended to gather personal, professional, and background information from candidates to help employers make informed hiring decisions.

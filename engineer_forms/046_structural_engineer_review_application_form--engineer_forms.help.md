@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the structural engineer review application form, we must first consider the form's purpose and the fields it contains. This form appears to be used for the review and evaluation of a structural engineering project, gathering various details from the project manager, reviewer, and other stakeholders involved in the project.
-
-The form's purpose is to collect information about the project's structural design, building condition, address, and other relevant details. It also captures data about the reviewer's and project manager's contact information, as well as the structural engineer's design and supervision details. The form's fields are designed to guide the reviewer in collecting the necessary information for the review process.
-
-To determine if this form is relevant and not duplicated, we must consider its intended use and the potential duplication of effort or information. In this case, the form appears to be a comprehensive tool for collecting and organizing necessary information for the review process, reducing the likelihood of duplication.
-
-</thinking>
-
 # structural_engineer_review_application_form - Help Guide
 ## Purpose
 The structural engineer review application form is used to collect and evaluate information about a structural engineering project, gathering details from various stakeholders to facilitate a comprehensive review process.

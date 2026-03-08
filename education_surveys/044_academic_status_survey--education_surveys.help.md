@@ -1,10 +1,3 @@
-<thinking> 
-We are creating a user-facing help guide for the "Academic Status Survey" form. This form is used to gather information about a student's academic experience, including their overall satisfaction with their academic program, ratings of various aspects of their experience (such as course quality, faculty support, and campus resources), and their likelihood to recommend their program to others. This form is intended to provide valuable feedback for the institution to improve its academic programs and services.
-
-Before completing this form, please ensure that you have a clear understanding of the purpose and scope of the survey, and that you are not duplicating any existing surveys or evaluations. If you are unsure about any of the fields or questions, please ask your instructor or academic advisor for guidance.
-
-</thinking>
-
 # Academic Status Survey - Help Guide
 ## Purpose
 The Academic Status Survey is designed to gather information about your academic experience at our institution. This form is used to gather feedback on various aspects of your program, including course quality, faculty support, and campus resources. Your input will help us understand your needs and concerns and identify areas for improvement.

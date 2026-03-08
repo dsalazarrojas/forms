@@ -1,7 +1,3 @@
-<thinking>
-To prevent confusion, duplication, and misdirection for users, the form purpose is to gather relevant details about a job candidate's experience and qualifications. The form should only be filled out for candidates who have a direct request for an interview, or if a hiring manager has assigned it to a specific candidate. The form is designed to collect information that can be used to assess the candidate's suitability for a role. 
-</thinking>
-
 # Marketplace Performance Specialist Interview - Help Guide
 ## Purpose
 The Marketplace Performance Specialist Interview form is a document used to gather relevant details about a job candidate's experience and qualifications for the role of a Marketplace Performance Specialist. This form is only to be completed for candidates who have a direct request for an interview, or if a hiring manager has assigned it to a specific candidate.

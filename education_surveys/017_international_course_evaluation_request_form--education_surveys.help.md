@@ -1,5 +1,3 @@
-<thinking>What is the internal reasoning for this form? This form is designed for international course evaluation, allowing users to rate their overall satisfaction, session rating, and provide feedback on various aspects of the course, including materials, presentation, instructor, and more. This form aims to capture specific details about each session, such as session ratings and topics, to provide a comprehensive evaluation. It also includes contact information for follow-up purposes. The form is intended for users to express their opinions and feedback, which will help course organizers improve their international course offerings.</thinking>
-
 # International Course Evaluation Request Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from international course participants on their overall satisfaction and experience with the course. The feedback will help course organizers improve their international course offerings.

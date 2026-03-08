@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Exit Communication Form - Help Guide
 ## Purpose
 This form is designed to gather information from employees who are leaving the company. It helps in documenting the reasons for departure, any outstanding issues, and the employee's next steps. This form should be used by HR or management to understand the employee's perspective and to facilitate a smooth transition.

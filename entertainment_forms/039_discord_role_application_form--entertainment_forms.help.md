@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather information for role assignments on a Discord server. This form ensures that new users provide accurate and relevant details about themselves to determine their role within the community. The form is designed to be completed by users who are new to the server or are requesting a role change. This form will help the server administrators determine the best role for the user based on their provided information. It's crucial to fill out the form accurately to avoid duplication of efforts and ensure that the user gets assigned the correct role.
-</thinking>
-
 # Discord Role Application Form - Help Guide
 ## Purpose
 This guide is designed to help you complete the Discord Role Application Form with ease. The form is used to gather information for role assignments on our Discord server, ensuring that you get assigned the correct role based on your provided details.

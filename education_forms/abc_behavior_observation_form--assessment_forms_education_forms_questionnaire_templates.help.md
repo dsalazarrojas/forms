@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information on a specific behavior observed in an individual, typically in an educational setting. The form is meant to be completed by an observer who has witnessed the behavior, and it will help in documenting and recording the details of the observed behavior. 
-The form is used to gather data on the behavior, including the observer's information, subject's information, the antecedent (what happened before the behavior), the behavior itself, the consequence (what happened after the behavior), and additional context. 
-This form is a crucial tool for behavioral analysis, research, or intervention purposes. 
-It is recommended to ensure the form is filled out thoroughly and accurately to ensure reliable data collection. 
-It is also recommended to review and understand the form's sections carefully to ensure that all necessary information is gathered. 
-</thinking>
-
 # ABC Behavior Observation Form - Help Guide
 ## Purpose
 The ABC (Antecedent-Behavior-Consequence) Behavior Observation Form is designed to collect detailed information on a specific behavior observed in an individual, typically in an educational setting. The form helps in documenting and recording the behavior's antecedent (what happened before), behavior (what was observed), and consequence (what happened after).

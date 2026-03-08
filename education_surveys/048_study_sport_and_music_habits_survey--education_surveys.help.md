@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's study, sport, and music habits. The form is likely used in an educational context to help researchers understand how students manage their time and engage in activities that are important for their well-being and academic performance. The form is intended to be completed by students who are willing to share their habits and preferences. Please note that the form should not be used to target or track individuals who are not willing to participate or do not fit the specified demographics. Additionally, ensure that you are not duplicating data collection efforts, as this form is meant to provide a one-time assessment of a user's habits.
-</thinking>
-
 # study_sport_and_music_habits_survey - Help Guide
 ## Purpose
 This form is designed to gather information about your study, sport, and music habits. It is intended to help researchers understand how you manage your time and engage in activities that are important for your well-being and academic performance.

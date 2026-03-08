@@ -1,9 +1,3 @@
-<thinking>
-This form is a crucial tool in gathering information about potential customers or users of a business sign-up process. It is designed to collect essential details about the business, such as name, type, contact information, and industry. 
-The fields are divided into several sections, which can be navigated through by clicking on the next "Next" button. The form requires the completion of all the fields, except for the "Business Website" and "Annual Revenue" fields, which are optional.
-The form is intended to be completed by business owners or representatives who want to sign up for a service or product offered by the company.
-</thinking>
-
 # Business Sign Up Form - Help Guide
 
 ## Purpose

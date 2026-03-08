@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants for retail job openings at a new location. The form is designed to gather essential details about the applicant, their job applications, job title, job type, work location, job description, job requirements, application date, and resume. To ensure accurate completion, the form should be filled out by the correct individual applying for the retail job.
-</thinking>
-
 # Retail New Location Employment Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for retail job openings at a new location.

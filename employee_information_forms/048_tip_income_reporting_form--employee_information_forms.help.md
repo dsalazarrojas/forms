@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an employee's tip income, including details about their shift schedule and tips received. This form is intended for employees to report their tip income accurately and efficiently. Before filling out this form, please ensure that you have already submitted your tip income report for the relevant pay period. This form is to be filled out for each pay period, and should not be submitted if you have already done so.</thinking>
-
 # Tip Income Reporting Form - Help Guide
 ## Purpose
 This form is for employees to report their shift and workday information, as well as their tip income, for a given pay period.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Accommodation Request Form - Help Guide
 
 ## Purpose

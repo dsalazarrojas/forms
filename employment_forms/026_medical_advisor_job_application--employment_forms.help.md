@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Advisor Job Application - Help Guide
 ## Purpose
 The Medical Advisor Job Application form is designed to collect information from applicants who are interested in working as medical advisors. This form is used to assess the applicant's qualifications, work experience, and availability for the position.

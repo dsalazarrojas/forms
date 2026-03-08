@@ -1,18 +1,3 @@
-<thinking>
-This help guide is intended to ensure that end-users understand the purpose and requirements of the staff_longevity_and_attrition_survey form. Before proceeding, please ensure that you have not recently accessed this form, as duplicate submissions may affect data integrity.
-
-This form aims to gather valuable insights on employee satisfaction, retention, and attrition within the organization. It's essential to complete the form accurately and honestly to provide meaningful data for future improvement.
-
-The form is divided into three sections:
-
-1.  **Employee Demographics** (pages 1-2): This section collects information on employee longevity, job satisfaction, reasons for leaving, and manager satisfaction.
-2.  **Workplace Experience** (pages 3-6): This section inquires about the employee's satisfaction with various aspects of their work life, such as department satisfaction, work-life balance, company culture, communication, team support, benefits, and feedback.
-3.  **Manager Evaluation** (page 7): This final section assesses the employee's satisfaction with their direct manager, represented by another number value.
-
-Please complete the form carefully, as it's crucial for providing a comprehensive understanding of the employee's experience and perceptions.
-
-</thinking>
-
 # staff_longevity_and_attrition_survey - Help Guide
 ## Purpose
 This form is designed to collect information on employee satisfaction, retention, and attrition to help the organization improve its workplace policies and practices.

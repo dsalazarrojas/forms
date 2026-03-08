@@ -1,6 +1,3 @@
-<thinking>... 
-This form, "Professional Development Feedback Survey Template," is designed to gather feedback from employees on their current role, communication with management, and professional growth opportunities within the organization. The purpose of this form is to provide insights into employee satisfaction and identify areas for improvement. This form is meant to be used in-house, and its results should not be shared publicly without proper clearance. If you're unsure about sharing this survey, please consult with your HR department or supervisor...</thinking>
-
 # Professional Development Feedback Survey Template - Help Guide
 ## Purpose
 This form is designed to gather feedback on employee satisfaction and professional growth opportunities within the organization. It aims to provide valuable insights for management to make informed decisions about professional development initiatives and employee experience improvements.

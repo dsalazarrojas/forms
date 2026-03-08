@@ -1,13 +1,3 @@
-<thinking>
-
-As a retail inventory specialist, the purpose of this form is to collect information from candidates who are interested in working as a retail inventory specialist. The form is designed to gather basic contact information, employment details, and qualifications of the candidate. This information will help our team to determine the suitability of the candidate for the position and to process their application.
-
-Before proceeding, please ensure that you have all the necessary documents and information ready for submission. This form is not a replacement for in-person or phone interviews, so please provide as much detail as possible in the following fields.
-
-This form will guide you through the required fields to submit a complete application. Please fill out each section as described, and do not hesitate to ask for help or clarification if needed.
-
-</thinking>
-
 # Retail Inventory Specialist Employment Form - Help Guide
 ## Purpose
 

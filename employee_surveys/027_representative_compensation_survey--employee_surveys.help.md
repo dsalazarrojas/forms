@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to gather representative compensation data from employees. The purpose of this form is to assess the overall compensation and benefits package of an individual employee, including their base salary, bonus structure, health insurance, benefits package, retirement plan, and other perks. This information will help management make data-driven decisions to improve employee satisfaction and retention.
-
-The form should only be filled out by current or former employees of the company, and should not be duplicated for other purposes.
-
-</thinking>
-
 # representative_compensation_survey - Help Guide
 ## Purpose
 ## How To Complete This Form

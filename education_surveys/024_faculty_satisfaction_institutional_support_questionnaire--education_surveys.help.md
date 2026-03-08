@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from faculty members about their satisfaction with the institutional support provided by the institution. The purpose of this form is to identify areas of strength and weakness in the support system and to inform improvements. This information will help the institution make data-driven decisions to better support its faculty members.
-</thinking>
-
 # Faculty Satisfaction Institutional Support Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from faculty members about their satisfaction with the institutional support provided by the institution.

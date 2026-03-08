@@ -1,7 +1,3 @@
-<thinking>
-This form is used to enroll a child in the preschool summer camp. The goal of this form is to gather information necessary for enrollment. It is not a duplicate of existing forms, and it is not used for other purposes. The form is designed to be filled out by parents or legal guardians of the child.
-</thinking>
-
 # Preschool Summer Camp Enrollment Form - Help Guide
 ## Purpose
 The Preschool Summer Camp Enrollment Form is used to enroll a child in the preschool summer camp. This form collects information such as name, contact details, and enrollment dates to ensure a smooth enrollment process.

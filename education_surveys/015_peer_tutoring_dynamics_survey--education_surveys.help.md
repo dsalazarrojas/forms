@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from peer tutors and learners about the dynamics of peer tutoring services. The purpose of this form is to understand the frequency of peer tutoring roles, the effectiveness of services, and suggestions for improvement. This form will help the administration understand the strengths and weaknesses of the current peer tutoring system and make informed decisions to improve it.
-</thinking>
-
 # Peer Tutoring Dynamics Survey - Help Guide
 ## Purpose
 This form is a tool to collect feedback from peer tutors and learners about the peer tutoring services. It aims to gather information on the frequency of peer tutoring roles, the effectiveness of services, and suggestions for improvement.

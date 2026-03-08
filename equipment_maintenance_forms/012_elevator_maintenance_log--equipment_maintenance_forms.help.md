@@ -1,8 +1,4 @@
-# <thinking>
-This form is used to record and track maintenance activities for elevators in a facility. This form is designed to be completed by facility staff or maintenance personnel to provide a record of the last service date, next service due date, and any notes or observations related to the elevator's maintenance. It is essential to ensure that the form is completed accurately and thoroughly to provide a clear and up-to-date record of the elevator's maintenance history.
-</thinking>
-
-# elevator_maintenance_log - Help Guide
+# # elevator_maintenance_log - Help Guide
 ## Purpose
 The elevator_maintenance_log form is used to track maintenance activities for elevators in a facility. It collects information on the last service date, next service due date, and any notes or observations related to the elevator's maintenance.
 

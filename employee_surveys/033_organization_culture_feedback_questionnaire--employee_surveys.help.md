@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on the overall culture and values of their organization. It is intended to be a subjective assessment of the company's culture, team dynamics, and work environment. The form is divided into several sections, each focusing on a different aspect of the company culture. By providing feedback, employees can help shape the company's culture and values to better meet their needs and improve overall satisfaction.
-
-Note: This form does not collect sensitive or personal information that could identify individual employees. All responses will be aggregated and anonymized to provide a general overview of employee sentiment.
-
-</thinking>
-
 # organization_culture_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on the overall culture and values of their organization.

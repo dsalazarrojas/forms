@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from clients for a facial steaming treatment. This form is likely to be used in a spa or esthetician setting where clients are receiving a facial steaming treatment. The form is designed to gather information about the client's medical history, allergies, and medical conditions, as well as their consent to receive the treatment. This form is likely to be used by estheticians or spa staff to ensure that clients are properly informed and consenting to the treatment.
-</thinking>
-
 # Facial Steaming Treatment Consent Form - Help Guide
 ## Purpose
 The Facial Steaming Treatment Consent Form is used to obtain consent from clients for a facial steaming treatment.

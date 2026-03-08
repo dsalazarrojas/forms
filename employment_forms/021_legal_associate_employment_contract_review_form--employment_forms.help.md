@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used by hiring managers to review employment contracts submitted by new or existing employees. The purpose of this form is to gather information about the contract, including whether it's been reviewed, when it was reviewed, and any comments or concerns that have been raised during the review process. The form is meant to be a simple and efficient way to gather all necessary information in one place, making it easier for hiring managers to keep track of employment contracts and provide feedback to employees.
-
-</thinking>
-
 # Legal Associate Employment Contract Review Form - Help Guide
 ## Purpose
 This form is used by hiring managers to review employment contracts submitted by new or existing employees. It helps gather information about the contract, including whether it's been reviewed, when it was reviewed, and any comments or concerns that have been raised during the review process.

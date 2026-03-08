@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information about guests who are attending the Friendsgiving potluck event. This form likely serves as a registration tool for hosts to keep track of who is coming and their RSVP information. It's essential to ensure that the host knows how many guests to expect and what type of food to prepare.
-</thinking>
-
 # Friendsgiving Potluck Invitation Form - Help Guide
 ## Purpose
 This form is designed to collect information from guests about their attendance and preferences for the Friendsgiving potluck event.

@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a talent's appearance at an event, including the event name, date, time, location, and contact details. This form is used by the organization to gather necessary information for event management and to obtain consent from the talent for their appearance. 
-
-Before filling out this form, ensure that you have all the required information and that the form is being filled out correctly. If you are a representative of the event, please make sure to fill out the form accurately and thoroughly. 
-
-Please note that some fields are required, while others are optional. The required fields are marked as such in the form. 
-
-If you are unsure about any of the fields or their requirements, please contact the event organizers for clarification. 
-
-This guide is designed to help you complete the form efficiently and accurately. 
-
-</thinking>
-
 # Talent Appearance And Liability Form - Help Guide
 ## Purpose
 The Talent Appearance And Liability Form is designed to collect information about a talent's appearance at an event. This includes the event name, date, time, location, and contact details.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information about job openings in the organization's talent pool. This form helps to gather data on job titles, employee details, and job requirements. It's crucial to ensure that the information is accurate and up-to-date, as it will be used to manage the talent pool and make informed decisions about staffing needs. Please note that this form is not intended to replace other HR processes or systems, but rather to supplement them. Before filling out this form, please ensure that you're not duplicating information that already exists in other systems. If you're unsure, consult with your HR department or supervisor for guidance.</thinking>
-
 # Talent Pool Registration Form - Help Guide
 ## Purpose
 The Talent Pool Registration Form is a tool for collecting and managing job information in the organization's talent pool. It's essential to complete this form accurately and thoroughly to ensure that the data is up-to-date and reliable.

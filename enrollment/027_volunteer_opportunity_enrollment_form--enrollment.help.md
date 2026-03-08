@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to enroll volunteers for opportunities, likely within a volunteer management system or application process. 
-
-It's crucial to ensure that you fill this out accurately and without duplication, as enrolling in the wrong opportunity or misrepresenting information could result in misunderstandings or conflicts with the system.
-
-Please review this guide to help you complete the form successfully and avoid any potential issues.
-
-</thinking>
-
 # Volunteer Opportunity Enrollment Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>...
-Form purpose:
-The Employee Surveys form is intended to gather various information about employees' work experiences and perceptions. This form aims to understand how employees perceive their job satisfaction, work-life balance, and performance metrics. It's crucial to collect this data to improve the overall employee experience and make informed decisions about employee welfare.
-... </thinking>
-
 # <string> - Help Guide
 ## Purpose
 

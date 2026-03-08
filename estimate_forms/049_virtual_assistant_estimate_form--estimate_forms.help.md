@@ -1,5 +1,3 @@
-<thinking>...the form is designed to be used by users to estimate time and costs for projects that require virtual assistant services...it is intended to help users quickly and accurately calculate the estimated time and costs for a project, reducing the risk of under or over-estimation and enabling more efficient project planning and management...this form will be used by users with various levels of experience in project management and estimation, but it is not intended for users who need a comprehensive project management tool...the form is not meant to be a substitute for actual project planning and execution, but rather a tool to support the estimation process...</thinking>
-
 # Virtual Assistant Estimate Form - Help Guide
 ## Purpose
 The Virtual Assistant Estimate Form is designed to help users estimate the time and costs for projects that require virtual assistant services. It is intended to be a quick and efficient tool to reduce the risk of under or over-estimation and enable more accurate project planning and management.

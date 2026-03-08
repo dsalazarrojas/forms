@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form, "skin_care_pre_treatment_consultation_form", is to gather information about a client's skin health and care needs prior to any skin treatment or consultation. This form is likely used in a dermatology or esthetician setting to understand the client's skin type, skin conditions, medical history, and other relevant details that can inform treatment decisions. Before filling out this form, consider the following:
-
-*   If you are a client, ensure you answer these questions as accurately as possible to provide your esthetician or dermatologist with the necessary information to create a personalized treatment plan for you.
-*   If you are a provider, use this form to guide clients through their skin health and care needs, and to gather essential information for effective treatment planning.
-
-</thinking>
-
 # skin_care_pre_treatment_consultation_form - Help Guide
 ## Purpose
 The skin care pre-treatment consultation form is designed to gather essential information from clients about their skin health and care needs prior to any skin treatment or consultation.

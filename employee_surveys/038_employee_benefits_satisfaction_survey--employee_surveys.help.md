@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Employee Benefits Satisfaction Survey form. Please review this guide carefully before proceeding.
-
-The purpose of this form is to solicit feedback from employees on their satisfaction with the company's benefits package. This information will be used to identify areas of improvement and make informed decisions about future benefits offerings.
-
-Before starting the form, please ensure you have not already completed it. If you have previously submitted this form, your responses will not be recorded.
-
-</thinking>
-
 # Employee Benefits Satisfaction Survey - Help Guide
 ## Purpose
 The Employee Benefits Satisfaction Survey is designed to gather information from employees on their satisfaction with the company's benefits package. Your feedback is essential in helping us understand your needs and preferences, enabling us to make informed decisions about future benefits offerings.

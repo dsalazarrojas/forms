@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music DVDs Request Form - Help Guide
 
 ## Purpose

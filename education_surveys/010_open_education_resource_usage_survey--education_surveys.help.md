@@ -1,7 +1,3 @@
-<thinking> 
-**Internal Reasoning Block:**
-This form is a survey designed to gather information about how individuals perceive, use, and benefit from Open Education Resources (OER). The purpose of this form is to gather data that can help improve the implementation and promotion of OER within educational institutions. The survey will likely be completed by staff, faculty, or students from these institutions. It is recommended that this form be reviewed for duplication or relevance before submission. If a duplicate form has already been submitted, do not submit this form. If you are unsure about the relevance of this form, please reach out to the relevant department or team for clarification.</thinking>
-
 # Open Education Resource Usage Survey - Help Guide
 ## Purpose
 This survey aims to gather information about Open Education Resources (OER) usage and perception within educational institutions. The survey will help in understanding how individuals use, benefit from, and perceive OER.

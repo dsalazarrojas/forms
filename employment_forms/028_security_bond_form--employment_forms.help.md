@@ -1,7 +1,3 @@
-<thinking>
-The Security Bond Form is used to collect information from companies to ensure they are compliant with regulatory requirements. This form is intended to be filled out by companies to provide their security bond details. Before proceeding, ensure this form is relevant to your business needs and has not been previously completed.
-</thinking>
-
 # Security Bond Form - Help Guide
 ## Purpose
 The Security Bond Form is a tool for companies to submit their security bond details. It is used to gather information about the company's name, address, and employee information.

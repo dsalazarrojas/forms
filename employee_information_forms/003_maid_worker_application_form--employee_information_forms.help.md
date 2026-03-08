@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from maid workers who are applying for employment. The form is intended to be completed by the applicant, and the information gathered will be used for internal purposes, such as processing the application and communicating with the applicant. To ensure accurate and complete responses, please review each field carefully and provide the necessary information.
-
-Before starting, please note that this form is for maid worker applications only. If you're not applying for a maid worker position, please do not proceed.
-
-If you have previously submitted an application, please do not resubmit. We appreciate your understanding in this matter.
-
-</thinking>
-
 # Maid Worker Application Form - Help Guide
 ## Purpose
 The Maid Worker Application Form is designed to collect information from maid workers who are applying for employment. This form is intended to be completed by the applicant and will be used for internal purposes, such as processing the application and communicating with the applicant.

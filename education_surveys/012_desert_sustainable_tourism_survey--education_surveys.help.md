@@ -1,9 +1,3 @@
-<thinking>
-This is a form for collecting data from travelers about their experiences with desert sustainable tourism. The purpose of this form is to gather information on how travelers experience desert sustainable tourism. It is intended to help improve the understanding of the effectiveness of sustainable tourism practices in desert destinations.
-
-Before starting, please note that you do not need to provide any personal identifiable information that could be used to personally identify you. The questions are designed to be generic and do not require any sensitive or sensitive information.
-</thinking>
-
 # Desert Sustainable Tourism Survey - Help Guide
 ## Purpose
 The Desert Sustainable Tourism Survey is designed to collect feedback from travelers about their experiences with sustainable tourism practices in desert destinations. This will help us understand the effectiveness of these practices and improve the overall experience for future travelers.

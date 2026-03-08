@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_morale_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback on employee morale and engagement to foster a positive work environment. It will help management understand the overall satisfaction and engagement levels of employees, identify areas of improvement, and take steps to enhance the work experience.

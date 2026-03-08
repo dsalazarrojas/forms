@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organizational Culture Survey Template - Help Guide
 ## Purpose
 The purpose of this form is to gather insights on our organizational culture and employee engagement to foster a positive work environment. It aims to understand how employees feel about their role, communication from management, support for professional development, and their values within the organization.

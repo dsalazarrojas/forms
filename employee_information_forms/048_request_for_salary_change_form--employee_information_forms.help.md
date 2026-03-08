@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To prevent duplication, please note that this form is only for requesting salary changes and not for making any other type of request. This form should only be filled out by authorized employees and not by external users. If you're requesting a salary change, please fill out this form with the required information, including your employee ID, job title, and department. If you're unsure about any of the information required, please reach out to your HR department for assistance.
 
 </thinking>

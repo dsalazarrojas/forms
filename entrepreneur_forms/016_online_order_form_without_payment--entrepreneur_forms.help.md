@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users for an online order without payment. This form will likely be used in a B2B or B2C setting, where customers can select a service and provide additional details such as name, email, and date/time information. The form should be designed to be simple and easy to use, while also being clear and concise in its requirements.
-
-Before creating this form, it's essential to ensure that the form is not being used for a purpose that requires payment, as the form title and design suggest. If this is not the case, it's possible that the form is not correctly set up.
-
-It's also worth noting that this form appears to be part of a larger system, and understanding the context and integration with other forms will be crucial for a successful implementation. 
-
-</thinking>
-
 # online_order_form_without_payment - Help Guide
 ## Purpose
 This form is designed to collect information for an online order without payment from customers, allowing them to select a service and provide additional details.

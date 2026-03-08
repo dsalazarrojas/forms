@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Empowerment Evaluation Survey - Help Guide
 ## Purpose
 This form aims to evaluate how empowered employees feel in the workplace and identify areas for improvement. The survey is designed to gather feedback on various aspects of employee experience, including decision-making frequency, job satisfaction, and communication with management. This information will help the organization understand employees' perceptions and make informed decisions to enhance their well-being and productivity.

@@ -1,13 +1,3 @@
-<thinking>... 
-
-This form is used to record the equipment release process, which is used to release company equipment from an employee's possession after they have borrowed it for work-related purposes. The form ensures that the employee's equipment is properly accounted for, and that it is released back to the company with an update on its condition. The purpose of this form is to provide an official record of the equipment release process, reducing the risk of lost or misplaced equipment. 
-
-The form is typically completed by both the employee and their manager, with the employee filling in their information and the manager confirming and signing off on the release. 
-
-Please note that this form is not meant to be a comprehensive inventory management tool, but rather a simple record-keeping mechanism. If you need to track equipment more comprehensively, you may want to use a more robust tool.
-
-</thinking>
-
 # Equipment Release Form - Help Guide
 ## Purpose
 This form is used to record the equipment release process, which is used to release company equipment from an employee's possession after they have borrowed it for work-related purposes.

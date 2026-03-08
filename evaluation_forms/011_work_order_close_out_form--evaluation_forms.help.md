@@ -1,11 +1,3 @@
-<thinking>
-To determine the form's purpose and ensure non-duplication of effort, let's break down its fields and identify the underlying business logic. 
-
-*   "Work Order Close Out Form" likely involves closing out a work order, which means finalizing it by collecting relevant information about the project's completion. 
-
-This form seems to be used for tracking work orders' progress and ensuring that all necessary details are documented when a project is closed out. Each field has its own specific use case in this context.
-</thinking>
-
 # Work Order Close Out Form - Help Guide
 
 ## Purpose

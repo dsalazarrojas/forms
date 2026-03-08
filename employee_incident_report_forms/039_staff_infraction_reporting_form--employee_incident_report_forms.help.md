@@ -1,8 +1,3 @@
-<thinking>
-We need to consider that the form is likely intended for HR or management to report and document incidents or infractions involving employees. It might be a form for reporting workplace safety incidents, harassment, or other employee conduct issues.
-The form appears to be designed for capturing witness details and incident information. It's probably used to gather evidence and facilitate investigations.
-</thinking>
-
 # Staff Infraction Reporting Form - Help Guide
 ## Purpose
 The Staff Infraction Reporting Form is used to document and report incidents or infractions involving employees. This form is intended to capture witness details and incident information to facilitate investigations and ensure accurate documentation.

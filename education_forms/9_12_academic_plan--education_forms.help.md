@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # 9 12 Academic Plan - Help Guide
 ## Purpose
 This form is used to create a comprehensive 9-12 academic plan for a student. The plan outlines the student's academic goals, progress, and schedule for the upcoming year, including subject-specific credits, extracurricular activities, and accommodations required. This form is intended for students, parents, and educators to collaborate and ensure a smooth academic experience.

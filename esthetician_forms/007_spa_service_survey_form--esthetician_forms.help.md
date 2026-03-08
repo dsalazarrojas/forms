@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "spa_service_survey_form" form, which is used to collect feedback and ratings from spa customers. The form is designed to capture information about the customer's experience at the spa, including their name, email address, ratings for the service, staff, and overall spa experience, and any comments they may have. This form is intended to help spa management understand their services and staff performance, and identify areas for improvement.
-To ensure that the guide is relevant and not duplicated, we will cover the form's purpose, how to complete it, and what each field means in the user-facing help guide. This will provide clarity to end-users and help reduce support requests.
-</thinking>
-
 # spa_service_survey_form - Help Guide
 ## Purpose
 The "spa_service_survey_form" is used to collect feedback and ratings from spa customers to help management understand their services and staff performance.

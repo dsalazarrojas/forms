@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Managerial Communication Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gauge the effectiveness of managerial communication within an organization. It assesses the frequency of feedback, approachability, and communication skills used by managers to ensure clear and effective communication. This survey aims to identify areas of improvement in managerial communication.

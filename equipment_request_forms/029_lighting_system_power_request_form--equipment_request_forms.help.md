@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for a lighting system power request. The purpose of this form is to gather essential details about a project's power needs, such as project details, power requirements, and location information. This information will be used to assess and fulfill the power needs of the project.
-To ensure that your project's power needs are properly met, please fill out this form accurately and completely. Before proceeding, ensure that you have not already submitted a similar request. 
-</thinking>
-
 # Lighting System Power Request Form - Help Guide
 ## Purpose
 This form is used to collect information for a lighting system power request, enabling the efficient and accurate fulfillment of your project's power needs.

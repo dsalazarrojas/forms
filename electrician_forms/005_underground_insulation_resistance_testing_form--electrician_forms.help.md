@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on underground insulation resistance testing, a crucial process to evaluate the electrical safety and integrity of underground cables and pipes. This form is designed to capture information on various aspects of the testing process, including the type of insulation material, its resistance value, and the date and time of testing. The form is intended to be used by electricians and maintenance personnel to report their findings and ensure compliance with electrical safety standards.
-</thinking>
-
 # Underground Insulation Resistance Testing Form - Help Guide
 
 ## Purpose

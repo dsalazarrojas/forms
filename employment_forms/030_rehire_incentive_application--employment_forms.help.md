@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information for rehire incentive applications. A rehire incentive is a payment made to an employee who is being rehired after a certain period of time, typically as a one-time bonus or a sign-on bonus. This form is used to gather details about the employee, their job and rehire information, and the incentive payment they are eligible for. 
-
-The form will ask for fields such as employee name, job title, department, date of hire, rehire date, reason for rehire, and other relevant details. The form will also ask for the submission date, submitted by, and approved by information.
-
-Please ensure that you are using this form for its intended purpose and not to request incentives for employees who are not eligible. 
-
-Additionally, please note that some fields are required and others are optional. 
-
-</thinking>
-
 # Rehire Incentive Application - Help Guide
 ## Purpose
 This form is used to collect information for rehire incentive applications.

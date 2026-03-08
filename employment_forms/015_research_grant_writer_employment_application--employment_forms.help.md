@@ -1,16 +1,3 @@
-<thinking>
-This help guide aims to assist users in understanding the purpose and usage of the "research_grant_writer_employment_application" form. The form is used to capture information from writers who are applying for research grants, and it is essential to ensure that the application process is completed accurately and thoroughly.
-
-To confirm that the form is suitable for your needs, please review the following:
-
-* The form is designed for writers applying for research grants.
-* It collects essential information about the applicant, including employment status, contact details, and professional background.
-* The form is not intended for non-technical writers or other types of applicants.
-
-Please ensure that you meet the eligibility criteria before proceeding.
-
-</thinking>
-
 # Research Grant Writer Employment Application - Help Guide
 ## Purpose
 

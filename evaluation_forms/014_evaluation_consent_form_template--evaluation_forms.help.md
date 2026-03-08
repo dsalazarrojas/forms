@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form template is to collect information from participants, including their contact details, evaluation type, and agreement to participate in the evaluation process. This form is designed to be a starting point for evaluations, and its purpose may be used in various contexts, such as performance assessments, skill evaluations, or other types of assessments. To ensure that this form template is not duplicated, it is recommended to use it for its intended purpose and to customize it as needed to fit specific evaluation needs.
 
 </thinking>

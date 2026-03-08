@@ -1,9 +1,3 @@
-<thinking>
-
-We will create a help guide for the "Hybrid Work Experience Survey" form to assist end users in understanding its purpose and completion process. This form is intended to gather feedback on employee experiences, satisfaction, and perceptions of their work environment, collaboration, and other aspects of their job. We should ensure that the help guide is concise, clear, and easy to understand, and we should avoid any unnecessary duplication in explanations.
-
-</thinking>
-
 # hybrid_work_experience_survey - Help Guide
 ## Purpose
 

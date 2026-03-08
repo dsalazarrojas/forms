@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # covid_19_waxing_boutique_waiver_form - Help Guide
 
 ## Purpose

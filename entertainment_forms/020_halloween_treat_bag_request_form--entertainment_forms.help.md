@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Halloween Treat Bag Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # music_workshop_participant_recording_consent_form - Help Guide
 ## Purpose
 The music workshop participant recording consent form is used to obtain consent from workshop participants to record their music workshop sessions. This form is typically used to ensure that participants are aware of and agree to the recording of their workshop sessions, which may be used for educational or promotional purposes.

@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to assess the workplace inclusivity index, which measures how employees feel about their working environment. The purpose of this form is to collect data on various aspects of employee experience, including feelings of safety, value, inclusion, and confidence. This form is not intended to be a comprehensive measure of workplace culture, but rather a snapshot of current sentiment. 
-
-This form is not designed to collect data on demographics or personal identity information. All questions are self-report and anonymous.
-
-Please note that this form is a generated form and not a direct copy of any existing form platform. The form is intended for internal use and not for external sharing or commercial purposes.
-
-This form is part of the "employee_surveys" category, which suggests that it is part of a broader set of forms designed to collect employee feedback and sentiment.
-
-Before filling out this form, please make sure you have reviewed the provided instructions and understand the questions and their options.
-
-Please do not fill out this form if you are not an authorized employee.
-</thinking>
-
 # Workplace Inclusivity Index Survey - Help Guide
 ## Purpose
 This form is designed to assess the workplace inclusivity index, which measures how employees feel about their working environment.

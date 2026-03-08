@@ -1,5 +1,3 @@
-<thinking>This form is a template for a faculty job application form, designed to collect information from applicants for academic or professional positions within a faculty or educational institution. The form appears to be a general-purpose application form, intended to gather contact information, education and work experience, and other relevant details from applicants. However, some fields seem to be intended for uploading supporting documents, such as resumes, portfolios, and certificates. It is unclear if this form is part of a larger system or platform for managing faculty applications.</thinking>
-
 # Faculty Job Application Form - Help Guide
 ## Purpose
 This form is a template for applicants to provide information about themselves for a faculty job application. It is intended to collect contact details, education background, work experience, and other relevant information to evaluate candidates for a position.

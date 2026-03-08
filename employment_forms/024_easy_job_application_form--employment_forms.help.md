@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect personal and professional information from job applicants to facilitate the hiring process. It appears to be used for job postings and applications, with fields ranging from basic contact details to specific job-related preferences. The form seems to cover various aspects of an applicant's background, including their work experience, desired position, and salary expectations. Before filling out this form, please review it carefully to ensure the provided information is accurate and relevant... </thinking>
-
 # Easy Job Application Form - Help Guide
 ## Purpose
 This form is designed to collect personal and professional information from job applicants to facilitate the hiring process.

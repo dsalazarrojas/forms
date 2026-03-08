@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a cultural heritage performance event. This could be a traditional dance, music, or other cultural performance that needs to be registered with the organization managing cultural heritage events. The form is designed to be completed by the performer themselves, and it will be used to gather details such as their name, event name, date and time of the event, venue, performance length, performance type, and other relevant information.
-
-Before starting this form, make sure that you are not already a registered performer with our organization. If you are an existing performer, please contact us at [insert contact info] to update your information instead of filling out this form.
-
-This form is for new performers or those who have not previously registered with us. If you are unsure whether this form applies to you, please contact us at [insert contact info] for clarification.
-
-Please note that all fields are optional, but filling out as much information as possible will help us better understand and process your application.
-
-</thinking>
-
 # Cultural Heritage Performance Application Form - Help Guide
 
 ## Purpose

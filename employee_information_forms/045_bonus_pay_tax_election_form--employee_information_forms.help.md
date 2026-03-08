@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to elect their bonus pay tax withholding options. The goal of this form is to capture the employee's information and tax election details for payroll processing. This form is typically completed by employees when they are eligible for a bonus pay and need to make tax election selections. To ensure accuracy, employees should review this information carefully before submitting.
-</thinking>
-
 # Bonus Pay Tax Election Form - Help Guide
 ## Purpose
 

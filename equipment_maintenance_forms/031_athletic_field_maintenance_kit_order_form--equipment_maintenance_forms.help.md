@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to collect information for ordering athletic field maintenance kits, which are essential for ensuring the quality and safety of sports fields. This form will guide the user through the required fields to provide all necessary details for the order. Please review the form carefully to ensure you have all required information before submitting your order.
-</thinking>
-
 # Athletic Field Maintenance Kit Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for ordering athletic field maintenance kits. This form is used to ensure that we receive all necessary details for processing your order efficiently.

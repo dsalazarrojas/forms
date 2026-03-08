@@ -1,7 +1,3 @@
-<thinking>
-This form is used for analyzing digital skin conditions of clients. The purpose of this form is to collect information about a client's skin type, skin tone, preferred skincare products, and other relevant details. This data will be used to provide personalized skincare advice and recommendations. The form is designed to be completed by a client or an esthetician, and the questions are clear and concise to ensure accurate and comprehensive results. Before proceeding, please review the following guide to ensure you understand the form's purpose and how to complete it correctly.
-</thinking>
-
 # Digital Skin Analysis Survey - Help Guide
 ## Purpose
 The Digital Skin Analysis Survey is designed to collect information about a client's skin type, skin tone, and other relevant details. This data will be used to provide personalized skincare advice and recommendations.

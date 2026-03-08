@@ -1,5 +1,3 @@
-<thinking>...this form is for electricians to inspect and report on the neutral connection of a transfer switch. The form asks about the connection's security, inspection outcome, rating, and any comments related to the inspection. The goal is to gather relevant information for safety and maintenance purposes. The form's fields are designed to be filled out in a way that is easy to understand, and the options provided are clear and concise. To ensure consistency and accuracy, the inspection outcome should reflect a true outcome after inspecting the connection. Please ensure this form is not duplicated or filled out for any other purpose than its intended use...</thinking>
-
 # Transfer Switch Neutral Connection Inspection Form - Help Guide
 ## Purpose
 The Transfer Switch Neutral Connection Inspection Form is designed to gather information about the connection of a transfer switch, which is a crucial component in electrical systems. This form helps electricians inspect and report on the connection's security, inspection outcome, rating, and any comments related to the inspection.

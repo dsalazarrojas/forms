@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness For Duty Form - Help Guide
 ## Purpose
 The Fitness For Duty Form is used to report incidents or medical conditions that may affect an employee's ability to work safely and effectively. This form helps ensure that necessary medical clearance is obtained and that employees receive prompt guidance and support to prevent injuries and ensure the well-being of both the employee and their colleagues.

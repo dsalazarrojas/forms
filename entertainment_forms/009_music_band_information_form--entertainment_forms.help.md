@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect music band information, and it is likely used by music event planners or festival organizers to gather data on bands that will be performing at their events. This form is not meant to be filled out by music fans or individuals looking to purchase tickets.
-</thinking>
-
 # Music Band Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a music band, including their name, genre, and performance details. This information is likely used by music event planners or festival organizers to manage their event schedule.

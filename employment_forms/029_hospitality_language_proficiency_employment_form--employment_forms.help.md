@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about an individual's language proficiency and employment status. It appears to be a comprehensive form that covers various aspects of an individual's employment history, language skills, and contact details. 
 
 The form is likely used for administrative purposes, such as HR management, recruitment, or employee onboarding. It may be used to record and track an individual's employment status, language proficiency, and contact information. 

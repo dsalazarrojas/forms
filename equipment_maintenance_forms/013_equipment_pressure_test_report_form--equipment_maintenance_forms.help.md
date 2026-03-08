@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to report on the pressure test results of an equipment. The purpose of this form is to collect information about the equipment being tested, the test results, and any notes or comments about the test. This form is likely used in an industrial or commercial setting where equipment is regularly maintained and inspected for performance and safety.
-
-The form may be used by maintenance personnel, engineers, or operators to record the pressure test results and any issues or concerns that arise during the test. The form may also be used for record-keeping and reporting purposes, such as tracking equipment performance over time.
-
-Before completing this form, please ensure that you are authorized to do so and that you have the necessary information and resources to complete it accurately. If you are unsure about any part of the form, please consult with your supervisor or the equipment owner.
-
-</thinking>
-
 # Equipment Pressure Test Report Form - Help Guide
 ## Purpose
 The Equipment Pressure Test Report Form is used to record the pressure test results of an equipment and any notes or comments about the test.

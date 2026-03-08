@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting firmographics data about a company. Firmographics refers to a company's general characteristics, such as contact details, industry, number of employees, and revenue range. This form likely serves as a starting point for sales or marketing purposes, helping to gather basic information about a potential client or business partner. The fields are designed to be simple and easy to understand, with most being optional. It's possible that this form is part of a larger process, such as lead generation or customer onboarding.
-</thinking>
-
 # firmographics_survey - Help Guide
 ## Purpose
 The firmographics survey form is designed to collect basic information about a company, including contact details, industry, and company status. This form helps to gather data that can be used for sales or marketing purposes.

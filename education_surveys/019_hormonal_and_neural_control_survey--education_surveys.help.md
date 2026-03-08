@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their knowledge and attitudes towards hormones and neural control. It is intended to gather demographic information, education background, and other relevant details. Before filling out this form, please ensure you have not completed it before. If you have any issues or concerns, please do not hesitate to reach out to us.
-</thinking>
-
 # Hormonal And Neural Control Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information from individuals about their knowledge and attitudes towards hormones and neural control.

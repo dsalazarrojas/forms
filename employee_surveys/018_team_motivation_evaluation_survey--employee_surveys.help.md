@@ -1,11 +1,3 @@
-<thinking>
-The Team Motivation Evaluation Survey is a form designed to evaluate the motivation level of a team within an organization. This form is used to gather information about the team's morale, engagement, and overall performance. The survey questions are meant to help management understand the team's motivation level, which can aid in making informed decisions about team development and improvement plans.
-
-Before starting the survey, please ensure that you have not already completed a similar survey for the same team. If you are unsure, please consult with your supervisor or HR representative.
-
-The survey is a self-reporting form, so please answer based on your honest opinion. All answers are kept confidential and are not used to judge or rank individual team members. The purpose of this survey is to provide valuable insights to help the team grow and improve.
-</thinking>
-
 # Team Motivation Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the motivation level of a team, gathering information about their morale, engagement, and overall performance.

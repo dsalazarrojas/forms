@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect contact and team information from individuals wishing to join a junior cricket league. The purpose is to gather essential details to facilitate league organization and coordination. Please ensure you only fill out this form if you're a new participant; if you've already submitted information, please do not resubmit. 
-</thinking>
-
 # junior_cricket_league_entry_form - Help Guide
 ## Purpose
 The junior cricket league entry form is used to collect contact and team information from individuals or teams wishing to join the league.

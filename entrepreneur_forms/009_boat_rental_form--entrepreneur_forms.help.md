@@ -1,13 +1,3 @@
-<thinking>... internal logic checks: 
-- The form is designed to collect information about boat rental bookings.
-- The form asks for basic contact information of the renter.
-- The form asks for specific boat preferences, rental dates, and duration.
-- The form requires boating experience, captain request, and license verification.
-- The form also asks for additional information like insurance coverage, purpose of rental, and preferred payment method.
-- Each field is designed to be straightforward and easy to understand, with some fields being optional.
-- The form has a clear and simple layout, with each field having a distinct label and a brief explanation.
-... </thinking>
-
 # Boat Rental Form - Help Guide
 ## Purpose
 This form is designed to collect information from renters for booking a boat rental. It will help us understand your needs and preferences to provide a smooth and enjoyable rental experience.

@@ -1,9 +1,3 @@
-<thinking>...This form is designed to assist in the evaluation and interpretation of A/B testing results, specifically in the context of experimentation. It is meant to be used by analysts, researchers, or other stakeholders to calculate and compare the performance of different variants in an experiment. This form is a helpful tool for making data-driven decisions based on statistical significance.
-
-The form is composed of several sections, each asking for specific information related to the experiment. Please ensure that you have the necessary data and understand the context before filling out this form...
-
-</thinking>
-
 # A/B Testing Calculator - Help Guide
 ## Purpose
 The A/B Testing Calculator is a tool designed to help analysts evaluate and compare the performance of different variants in an experiment. It guides users through a series of questions to calculate and determine the significance of the results, providing valuable insights for decision-making.

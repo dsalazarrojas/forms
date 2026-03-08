@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this Spindle Maintenance Checklist form is to help users track the status of various maintenance checks for a spindle, likely a machine or equipment part. The form is designed to be a straightforward and easy-to-use tool for identifying and addressing potential issues. It's likely used in a production or workshop environment where regular maintenance is crucial for optimal performance.
-
-Before proceeding, ensure you're not duplicating efforts by checking if you've already completed this form. If you've done so recently, you might want to review the previous results to see if any issues have been addressed.
-
-Please note that this form is a simple text-based form with no options or multiple-choice questions. Each field is a text box for entering comments or notes.
-
-</thinking>
-
 # Spindle Maintenance Checklist - Help Guide
 ## Purpose
 The Spindle Maintenance Checklist is a tool for tracking and documenting the status of various maintenance checks for a spindle. It helps users identify potential issues and keep a record of completed tasks.

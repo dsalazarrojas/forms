@@ -1,18 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Video Submission Form", I will first analyze the form's purpose and required fields to provide a clear and concise explanation.
-
-This form is designed to collect information about a comedy video submission. It is likely used by event organizers, content creators, or platform administrators to gather data about uploaded videos for entertainment purposes. The form's simplicity and short length suggest it is intended for a specific, focused submission process.
-
-The form has six fields, but some of them are not required, which means they have a conditional presence. The form's structure is organized into one page with no conditional logic or branching.
-
-Given the form's purpose and simplicity, I assume the user is expected to fill out at least the "Submit A Comedy Video" field, and optionally, fill out any other fields they see fit. This form does not ask for sensitive or complex information.
-
-The form's layout, structure, and field types suggest it is designed for a quick and easy submission process. The user should be able to complete the form without needing extensive guidance or training.
-
-With this understanding, the user-facing help guide should be straightforward and to the point.
-
-</thinking>
-
 # Video Submission Form - Help Guide
 ## Purpose
 The "Video Submission Form" is designed to collect information about comedy videos for entertainment purposes.

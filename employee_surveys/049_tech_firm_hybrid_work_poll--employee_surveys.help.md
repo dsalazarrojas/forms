@@ -1,10 +1,3 @@
-<thinking>
-To create a help guide for the "tech_firm_hybrid_work_poll" form, I need to understand the purpose and requirements of the form. From the YAML provided, it appears that this form is designed to collect information about employees' hybrid work arrangements, preferences, and experiences. The form asks about company location, hybrid status, frequency of working from home, preferred hybrid model, work-life balance, work location, impact of hybrid work, feedback, contact information, and team details.
-
-Before creating the help guide, I need to confirm that the form is not intended to collect redundant or unnecessary information. The form fields seem to be a mix of required and optional questions, which is suitable for a hybrid work arrangement poll. The purpose of the form is likely to gather insights from employees on their hybrid work experiences and preferences, which can help the organization adjust its policies and practices to better support its employees.
-
-</thinking>
-
 # tech_firm_hybrid_work_poll - Help Guide
 ## Purpose
 The "tech_firm_hybrid_work_poll" form is designed to collect information about employees' hybrid work arrangements, preferences, and experiences. This form helps the organization understand how employees work and what they need to make hybrid work successful.

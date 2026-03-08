@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track equipment upgrade requests from users. It's intended to collect information about the user, the equipment to be upgraded, and the reason for the upgrade. Before proceeding, ensure that you're not duplicating a request that's already in progress or has been completed. If you're unsure, please contact the equipment management team.
-
-</thinking>
-
 # it_equipment_upgrade_request_form - Help Guide
 ## Purpose
 

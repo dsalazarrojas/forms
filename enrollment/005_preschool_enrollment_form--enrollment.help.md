@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information from families and parents for preschool enrollment purposes. It is intended to capture family and student details, payment methods, and contact information... ...</thinking>
-
 # preschool_enrollment_form - Help Guide
 ## Purpose
 This form is designed to collect information from families and parents for preschool enrollment purposes, including family and student details, payment methods, and contact information.

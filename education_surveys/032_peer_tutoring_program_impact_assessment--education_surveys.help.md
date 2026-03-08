@@ -1,11 +1,3 @@
-<thinking>
-The Peer Tutoring Program Impact Assessment form is designed to help program administrators and directors evaluate the effectiveness and areas of improvement for their peer tutoring programs. This form is part of an overall evaluation process that helps programs identify what's working well and what areas need attention. It's meant to be used by program staff to provide insights and data-driven recommendations for future program development.
-
-To ensure consistency, please only fill out this form once for each unique program. If you have multiple programs, please fill out a separate form for each.
-
-Please review the form carefully and make sure you're providing accurate and relevant information. If you're unsure about any field, please reach out to us for clarification.
-</thinking>
-
 # Peer Tutoring Program Impact Assessment - Help Guide
 ## Purpose
 This form is designed to help program administrators and directors assess the impact of their peer tutoring programs. Your input will help us better understand the effectiveness of your program and identify areas that need improvement.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture employee information and training details for the HR Policy Training Time Off Form. It is intended to be used by employees to request time off for training purposes. 
-
-The form is not meant to be completed for other purposes, such as reporting an absence or requesting a vacation. 
-
-This form is not designed to be used for emergency situations, such as an urgent need to report an incident or accident. 
-
-</thinking>
-
 # HR Policy Training Time Off Form - Help Guide
 ## Purpose
 The HR Policy Training Time Off Form is a document used by employees to request time off for training purposes. This form is used to collect information about the employee, the training details, and the status of the time off request.

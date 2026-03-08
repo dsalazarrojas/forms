@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for general contact purposes, intended for users to quickly provide their name, email, and a message to the form administrator. The form is meant to be a simple and straightforward way to collect basic contact information and any additional details users might want to share.
-
-</thinking>
-
 # Contact Form With Vanilla Theme - Help Guide
 ## Purpose
 This form is designed for users to quickly contact the administrator with their inquiries, suggestions, or messages.

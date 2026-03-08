@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a sexual harassment complaint from an employee. It is intended for use by employees to report incidents of sexual harassment that they have experienced or witnessed. The form should only be completed by employees who have experienced or witnessed such incidents. It is not intended for use by managers or other staff members to report incidents on behalf of employees. If you are a manager or staff member, please direct the employee to complete this form on their own. This form should only be completed once an incident has occurred. If you have already reported this incident, please do not complete this form again. If you are unsure whether the incident you have experienced or witnessed falls under this category, please consult with HR before completing this form.
 
 # Sexual Harassment Complaint Form - Help Guide

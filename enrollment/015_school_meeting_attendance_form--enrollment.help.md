@@ -1,12 +1,3 @@
-<thinking> 
-**Internal Reasoning and Duplication Check**
-
-This form is intended to record school meeting attendance. It is a general form and does not require any specific user authentication or identification. The form's main purpose is to gather information about a student's or staff member's attendance status during a school meeting. The form can be used for various types of meetings, such as staff meetings, parent-teacher meetings, or regular class meetings. The form will likely be used for internal purposes, such as reporting attendance to school administrators or management.
-
-Please ensure you have reviewed the form's requirements and only complete it if your school meeting attendance status meets the form's purpose and does not duplicate any existing records.
-
-</thinking>
-
 # school_meeting_attendance_form - Help Guide
 ## Purpose
 The purpose of this form is to record a user's attendance status during a school meeting. This form can be used to report attendance to school administrators or management.

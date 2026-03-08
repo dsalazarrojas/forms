@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for farmers to apply for the River Friendly Farm Certification, which is a program that promotes sustainable and responsible practices in riverine areas. The certification process evaluates a farm's adherence to best management practices, and this form is used to gather information from farmers about their farms and practices. The goal is to ensure that farms are using water resources effectively and responsibly.
-
-Before filling out this form, please note that each field is optional unless otherwise specified. Some fields have specific types or options that might not be immediately clear. If you're unsure about any field, please refer to this guide for help.
-</thinking>
-
 # River Friendly Farm Certification Application Form - Help Guide
 ## Purpose
 The River Friendly Farm Certification Application Form is used to gather information from farmers about their farms and practices, with the goal of promoting sustainable and responsible practices in riverine areas.

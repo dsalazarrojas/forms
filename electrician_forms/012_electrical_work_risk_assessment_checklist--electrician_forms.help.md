@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess potential electrical hazards on a project site, gathering crucial information for risk management. The form is likely intended for use by electrical professionals or project managers to identify, assess, and control electrical hazards on a construction or maintenance project.
-</thinking>
-
 # Electrical Work Risk Assessment Checklist - Help Guide
 ## Purpose
 

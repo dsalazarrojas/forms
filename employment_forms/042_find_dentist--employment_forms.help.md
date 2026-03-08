@@ -1,12 +1,3 @@
-<thinking>
-The form "Find Dentist" is designed to help users locate a dentist based on their specific needs. It is not intended for actual medical diagnosis or treatment. The form's purpose is to assist users in finding a dentist that matches their preferences, such as location, profession, or rating. 
-
-To avoid duplication, we will be checking for identical user input. If a user fills out the form with the same input data as someone else, it will be treated as an error, and the form will be resubmitted for review.
-
-The provided YAML fields are used to create the form's UI and functionality. It is an AI-generated form not affiliated with any form platform. It is released under CC BY 4.0 license, allowing free use, modification, and even commercial use, as long as credit is given.
-
-</thinking>
-
 # Find Dentist - Help Guide
 ## Purpose
 The "Find Dentist" form is designed to assist users in locating a dentist that matches their specific needs. It is not intended for actual medical diagnosis or treatment.

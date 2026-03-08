@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Reading Assessment Form" is to gather information about an individual's reading habits, preferences, and abilities. This form is likely used to assess or evaluate someone's reading skills, perhaps for educational, professional, or personal development purposes. It may be used to determine reading speed, comprehension, or interest in different genres or topics. To ensure the form is used correctly, please note that this form is not designed to be a comprehensive assessment tool but rather a general gauge of reading behaviors. It's essential to review each field carefully to understand its intended use and purpose. This form is not meant to be a duplicate or redundant assessment, so please only fill it out if you've not already completed a similar form for this purpose.
-
-</thinking>
-
 # Reading Assessment Form - Help Guide
 
 ## Purpose

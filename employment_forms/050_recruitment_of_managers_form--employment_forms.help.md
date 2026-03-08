@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for recruitment purposes, specifically for hiring managers. It's essential to ensure that the submitted data is accurate and relevant to the job posting. To avoid duplication of efforts, please check the existing job postings before filling out this form. Also, ensure that you have the necessary permissions and approvals to fill out this form. 
-</thinking>
-
 # Recruitment of Managers Form - Help Guide
 ## Purpose
 This form is designed to collect information about manager positions available for recruitment. It's essential to provide accurate and relevant details to help attract the right candidates for the job.

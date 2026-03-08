@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by a client or site owner to provide their consent for an electrical upgrade work to be performed at their site. This form is typically used when a client wants to request an electrical upgrade for their building or site, and the site inspector or electrical upgrade inspector needs to confirm that the client has given their consent. The form is usually completed in conjunction with other forms and documents required for the electrical upgrade work, such as the electrical upgrade work order.
-</thinking>
-
 # Electrical Upgrade Work Consent Form - Help Guide
 ## Purpose
 The electrical upgrade work consent form is a document that confirms a client's consent for electrical upgrade work to be performed at their site. This form is typically completed by the client or site owner to provide their consent and authorization for the work to proceed.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and assess the impact of a business or program on the environment, community, or other stakeholders. This helps organizations understand their effects and make informed decisions about resource allocation and strategic planning. This form should only be used for business or program impact assessments, not for other purposes such as general feedback or complaints.
-</thinking>
-
 # Business Impact Survey - Help Guide
 ## Purpose
 This form is used to evaluate the impact of a business or program on various areas such as Economic, Social, Environmental, and Educational.

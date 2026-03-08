@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers who need their Christmas lights removed. The purpose of the form is to gather essential details about the customer's property, including their contact information, property address, and specific details about the removal process. The form is intended for customers who are requesting Christmas light removal services, which is a seasonal service typically offered around the holiday season. 
-
-The form is likely to be used by customers who have previously installed Christmas lights on their properties and are now seeking assistance with removal. The information collected will help the service provider schedule and prepare for the removal process.
-
-To prevent duplication, this form is designed to be used for new customers only, and existing customers are encouraged to contact the service provider directly to request removal services.
-
-</thinking>
-
 # Christmas Light Removal Form - Help Guide
 ## Purpose
 

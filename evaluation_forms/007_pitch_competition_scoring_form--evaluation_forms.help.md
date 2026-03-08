@@ -1,14 +1,3 @@
-<thinking>
-This form is used for evaluating pitches in a pitch competition. The form helps judges score and provide feedback on each pitch, which is then used to rank the competing teams. The purpose of this form is to ensure consistency and fairness in the evaluation process. It is essential to fill out the form for every pitch, as it provides valuable feedback and helps the organizers to make informed decisions.
-
-Before starting, please make sure you have all the necessary information and materials ready. This form should be filled out for each pitch individually.
-
-Please note that this form is not intended for duplicate evaluations. If you have already filled out this form for the same pitch, do not fill it out again. If you are unsure about any of the fields or the evaluation process, please reach out to the organizers for guidance.
-
-The following guide will walk you through the process of filling out this form:
-
-</thinking>
-
 # Pitch Competition Scoring Form - Help Guide
 ## Purpose
 The Pitch Competition Scoring Form is a tool used by judges to evaluate and provide feedback on pitches presented in a pitch competition. The form ensures consistency and fairness in the evaluation process.

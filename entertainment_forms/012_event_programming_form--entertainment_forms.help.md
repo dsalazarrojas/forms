@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about events, such as events organized by an individual or team. The purpose of this form is to gather details about the event, including date, time, location, and any other relevant information. This form is typically used by event organizers to provide information about their events to participants or other stakeholders. It is not intended for events that have already occurred.
-
-Please note that this form is not meant to be used for duplicate events or events that are not relevant to the current context.
-
-</thinking>
-
 # Event Programming Form - Help Guide
 ## Purpose
 The Event Programming Form is used to collect information about events, such as events organized by an individual or team. This form helps event organizers provide details about their events to participants or other stakeholders.

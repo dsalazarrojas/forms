@@ -1,7 +1,3 @@
-<thinking>
-This is an evaluation form for an athlete's annual performance, designed to gather information on various aspects of their skills and abilities. The form aims to assess an athlete's technical, physical, and mental strengths and weaknesses, as well as their overall performance and potential areas for improvement. This form will help coaches, evaluators, or administrators to provide constructive feedback and guidance to athletes, aiding in their development and growth.
-</thinking>
-
 # Athlete Annual Performance Report - Help Guide
 ## Purpose
 The Athlete Annual Performance Report is a comprehensive evaluation tool used to assess an athlete's performance over the course of a season. This form helps to identify strengths and weaknesses, providing valuable insights for coaches, evaluators, or administrators to offer constructive feedback and guidance to athletes for improvement.

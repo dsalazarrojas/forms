@@ -1,13 +1,3 @@
-<thinking>
-This help guide is for the learning_planning_understanding_survey form, which is a form designed to gather information from students for education surveys. The purpose of this form is to collect demographic data and opinions from students to understand their learning goals, educational background, and preferences. This form should only be filled out by students who have completed their academic program of study and have some basic demographic information available.
-
-Note: This form is designed to be filled out by students who have already completed their education program of study. If a student has not yet completed their program, they may not have the necessary information to fill out this form accurately.
-
-Before filling out this form, please ensure that you have all the necessary information required for the form fields. Some fields require specific formatting or information, so please review the following instructions carefully.
-
-This form has 25 fields, including text fields, select_one and select_multiple fields, date fields, and email fields. Each field has a specific purpose and requires specific information. Please review the field-by-field explanation for more information.
-</thinking>
-
 # learning_planning_understanding_survey - Help Guide
 ## Purpose
 The learning_planning_understanding_survey form is designed to gather information from students for education surveys. This form is intended for students who have completed their academic program of study and have basic demographic information available.

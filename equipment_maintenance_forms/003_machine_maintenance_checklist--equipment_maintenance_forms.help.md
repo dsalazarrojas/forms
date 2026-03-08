@@ -1,7 +1,3 @@
-<thinking>
-This form is part of an internal equipment maintenance process. Its primary purpose is to ensure that maintenance personnel and supervisors have a clear and structured way to document and track the status of equipment maintenance. This form is likely to be used in industries where equipment requires regular maintenance, such as factories, construction sites, or transportation systems. It is crucial to fill out the form accurately and completely to avoid any potential errors or oversights.
-</thinking>
-
 # Machine Maintenance Checklist - Help Guide
 ## Purpose
 The Machine Maintenance Checklist is a form used to document and track the maintenance status of equipment. It ensures that maintenance personnel and supervisors can quickly identify any required maintenance actions and plan accordingly.

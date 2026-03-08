@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from clients on their coaching experience with their coach. The goal is to understand the effectiveness of the coaching services provided and identify areas of improvement. The questions cover various aspects of the coaching relationship, including client satisfaction, coach competence and knowledge, communication effectiveness, progress towards goals, coach professionalism, and overall feedback.
-
-To ensure that we are gathering accurate and comprehensive feedback, we kindly ask you to complete this form with attention to detail.
-
-This form consists of three main sections: Client Information, Coaching Quality, and Future Coaching. Each section is designed to capture specific aspects of your experience.
-
-**Please note that this form is anonymous, and all answers will be treated confidentially.**
-
-</thinking>
-
 # Coaching Evaluation Form - Help Guide
 ## Purpose
 The Coaching Evaluation Form is designed to collect feedback from clients on their coaching experience with their coach. This form helps us understand the effectiveness of our coaching services and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Worker Information Survey - Help Guide
 
 ## Purpose

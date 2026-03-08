@@ -1,10 +1,3 @@
-<thinking>
-The "Student Peer Collaboration Effectiveness Survey" form is intended to collect feedback from students regarding the effectiveness of peer collaboration in their learning environment. This form is likely used in educational settings to gather insights on how well students perceive their peers' ability to collaborate with each other during group projects or tasks. The purpose of this form is to understand the strengths and weaknesses of peer collaboration from the students' perspective, which can inform teachers and instructors on how to improve their teaching methods and create a more effective learning environment.
-
-To avoid duplication, please note that this form is designed to be completed by students, so it's essential to ensure that students are aware of the purpose and relevance of the survey.
-
-</thinking>
-
 # Student Peer Collaboration Effectiveness Survey - Help Guide
 ## Purpose
 The "Student Peer Collaboration Effectiveness Survey" is designed to gather feedback from students about the effectiveness of peer collaboration in their learning environment.

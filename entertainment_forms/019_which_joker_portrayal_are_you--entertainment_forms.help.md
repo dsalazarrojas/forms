@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the audience's preferences for the portrayal of the Joker character in various aspects, including comedic, dramatic, intensity, and other related aspects. This form is designed to gather feedback on how the audience perceives the Joker's character and what they would like to see in a portrayal. By analyzing the responses, creators can gain insights on how to develop the character in a more appealing way to their audience.
-</thinking>
-
 # Which Joker Portrayal Are You - Help Guide
 
 ## Purpose

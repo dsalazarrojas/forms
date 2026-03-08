@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for this form, ensuring that end users understand the form's purpose, how to complete it, and what each field means. I will base the explanation on the provided YAML fields, being concrete, concise, and practical. I will not output any YAML and will only output the final help document in Markdown format.</thinking>
-
 # Workstation Setup Feedback Questionnaire - Help Guide
 ## Purpose
 The Workstation Setup Feedback Questionnaire is a form used to gather feedback from employees on their workstation setup, allowing the organization to understand their comfort and productivity level. This form will help in identifying areas that need improvement and enable the organization to make necessary adjustments to create a more comfortable and productive work environment.

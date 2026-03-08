@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from participants in an activity or event, particularly in a rage room setting. The form aims to capture essential details about the participant, including their emergency contact information, waiver and risk disclosure, liability, and safety considerations. It also includes fields for confirming and signing off on the participant's information.
 
 ## Purpose

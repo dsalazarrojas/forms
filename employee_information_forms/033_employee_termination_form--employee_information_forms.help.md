@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Termination Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information related to employee termination. This form is used to record details about the reasons for termination, dates, and other relevant details that will be used for administrative and HR purposes.

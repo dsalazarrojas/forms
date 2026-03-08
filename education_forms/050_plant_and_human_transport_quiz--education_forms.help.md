@@ -1,7 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the "Plant And Human Transport Quiz" form.
-</thinking>
-
 # Plant And Human Transport Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about transport mechanisms in plants and humans. It consists of multiple questions related to the different transport mechanisms in these organisms.

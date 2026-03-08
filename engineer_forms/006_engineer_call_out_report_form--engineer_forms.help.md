@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Engineer Call Out Report Form - Help Guide
 
 ## Purpose

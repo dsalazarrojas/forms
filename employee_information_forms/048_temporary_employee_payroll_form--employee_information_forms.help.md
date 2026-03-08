@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for temporary employees who are being paid on a non-standard schedule. It is intended to be used by HR or payroll administrators to quickly and efficiently gather the necessary details for processing payroll for these employees. The form should not be used for permanent employees or for any other purpose not related to temporary payroll processing. Please ensure that the correct form is being used for the correct purpose to avoid duplication of effort or incorrect data collection.
-</thinking>
-
 # Temporary Employee Payroll Form - Help Guide
 ## Purpose
 This form is used to collect information for temporary employees who are being paid on a non-standard schedule.

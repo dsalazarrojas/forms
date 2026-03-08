@@ -1,17 +1,3 @@
-<thinking>**Form Purpose and Relevance Check**
-
-The purpose of this form is to collect feedback from employees on their Virtual Reality (VR) training experiences. This form is used to gauge the quality of the training sessions, identify areas for improvement, and gather suggestions for future training programs. To ensure this form is relevant to our training program, we will review and analyze the feedback to adjust our training content and approach to better meet the needs of our employees.
-
-Before we begin, we want to assure that the following conditions are met:
-
-* You have completed a Virtual Reality training session.
-* You are providing feedback on your experience.
-* You are an employee of our organization.
-
-If you are unsure about any of these conditions, please contact your supervisor or the training program administrator for clarification.
-
-</thinking>
-
 # employee_vr_training_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on your Virtual Reality (VR) training experience to help us improve our training program.

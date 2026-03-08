@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for new employee access, which is a crucial process for ensuring that new employees have the necessary access to company resources and systems. This form is intended to be filled out by the new employee, providing their details and preferences for access to various company systems and tools. It's essential to complete this form accurately to avoid duplication and to ensure that the new employee has the correct level of access. Before filling out this form, please review the fields carefully and ensure that you understand the purpose of each field. If you have any doubts or questions, please reach out to your HR representative.
-</thinking>
-
 # new-employee-access-form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for new employee access to company resources and systems.

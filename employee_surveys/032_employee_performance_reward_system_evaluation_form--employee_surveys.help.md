@@ -1,6 +1,3 @@
-<thinking>
-We're creating a form that's part of an employee performance reward system. The form is meant to evaluate an employee's performance based on their job title, type, and performance rating. It's likely used by HR or management personnel to assess and reward employees for their achievements. Let's make sure this form is completed accurately and correctly. We should double-check that each field is filled out correctly and consistently. We should also ensure that the options for performance rating and reward are used correctly. This form is probably used in conjunction with other performance management tools, so let's keep the explanations clear and concise.</thinking>
-
 # employee_performance_reward_system_evaluation_form - Help Guide
 ## Purpose
 The employee performance reward system evaluation form is a tool used by HR or management personnel to assess and reward employees for their achievements. This form helps evaluate an employee's performance based on their job title, type, and performance rating.

@@ -1,7 +1,3 @@
-<thinking>
-The Miscellaneous Reimbursement Form is used to track and verify reimbursable expenses for employees. It captures key information about the expense, such as the category, description, employer, insurance coverage, expense type, date, and amount. This form also allows employees to provide details about their expense and submit it for review. The purpose of this form is to ensure accurate and timely reimbursement of employee expenses.
-</thinking>
-
 # Miscellaneous Reimbursement Form - Help Guide
 ## Purpose
 This form is used to collect information about miscellaneous reimbursements for employees.

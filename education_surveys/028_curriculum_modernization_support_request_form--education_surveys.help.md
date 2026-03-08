@@ -1,7 +1,3 @@
-<thinking>
-This form is used by educators to request support for curriculum modernization initiatives. It is not intended for general feedback or support requests. Please note that only one submission is allowed per user. If you have already submitted a request, please do not submit again.
-</thinking>
-
 # Curriculum Modernization Support Request Form - Help Guide
 ## Purpose
 This form is designed for educators to request support for curriculum modernization initiatives. It's meant for specific, targeted requests for curriculum updates or changes.

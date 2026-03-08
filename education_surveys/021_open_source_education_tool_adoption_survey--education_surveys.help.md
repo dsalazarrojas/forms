@@ -1,9 +1,3 @@
-<thinking>Before designing the user-facing help guide, I need to ensure that I'm on the right track. Let me analyze the provided YAML to understand the form purpose and context.
-
-The form is titled "Open Source Education Tool Adoption Survey," which suggests that it's meant to collect information about users' adoption and usage of open-source education tools. Given the variety of fields presented, I will aim to create a comprehensive help guide that covers each field in detail.
-
-</thinking>
-
 # Open Source Education Tool Adoption Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your adoption and usage of open-source education tools. We're interested in understanding how you use these tools, your experience with them, and any comments or feedback you'd like to share.

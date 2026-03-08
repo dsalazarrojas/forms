@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information related to electric motor nameplates, which contain critical data about the motor's specifications, ratings, and other relevant details. This form will help ensure that the data is accurately and consistently recorded for reference and maintenance purposes. Before starting, review the form carefully to ensure that you are filling it out correctly and that your answers are accurate and complete. Ensure that you do not duplicate any entries, as this form is meant to capture a single set of data for each motor nameplate.
-</thinking>
-
 # Electric Motor Nameplate Data Log - Help Guide
 ## Purpose
 This form is designed to capture detailed information about electric motor nameplates, including specifications, ratings, and other relevant details.

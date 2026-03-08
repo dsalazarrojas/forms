@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from parents and students about their contact details, involvement in the school, and other relevant aspects of their relationship with the school. The purpose of this form is to help the school administration collect data that can inform decisions about parent-student interactions and school improvement. It's crucial to ensure that the form is filled out by a parent and their corresponding student to prevent duplication of efforts. The form has been designed to be easy to use and gather necessary information without overwhelming the respondents.
-
-</thinking>
-
 # public_school_parent_student_questionnaire - Help Guide
 ## Purpose
 This form aims to collect contact and demographic information from parents and students, as well as their involvement in the school and their goals. It is essential for the school administration to gather this data to make informed decisions about parent-student interactions and school improvement initiatives.

@@ -1,12 +1,3 @@
-<thinking>
-This form is meant for assessing the current stock levels and locations of various pieces of equipment across the company. It will help management track and report on the status of their inventory at the end of each month. This form is designed to be completed monthly to ensure that all equipment is properly accounted for and any issues or problems are identified and addressed.
-
-To complete this form, you will select all relevant options that apply to the current status of your equipment stock and locations. Please make sure to answer honestly and thoroughly to ensure accurate reporting.
-
-The purpose of this form is to provide an accurate assessment of your equipment stock and locations, and to report any issues or problems that may have occurred during the month.
-
-</thinking>
-
 # Monthly Inventory Assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the current stock levels and locations of various pieces of equipment across the company.

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's first understand the purpose of the "Job Offer Evaluation Checklist" form. This form is likely used to evaluate job offers received from employers, providing a structured way to assess the pros and cons of the offer. The form is likely used by hiring teams or recruiters to provide a clear and concise summary of the job offer, including its key details and evaluator comments. This form is probably intended to ensure fairness and consistency in the evaluation process.</thinking>
-
 # Job Offer Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to evaluate job offers from employers, providing a structured way to assess their pros and cons.

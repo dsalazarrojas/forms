@@ -1,7 +1,3 @@
-<thinking>
-  I will create a comprehensive and user-friendly help guide for the "New Year Party RSVP Form" in the "entertainment_forms" category. To start, I'll explain the form's purpose and relevance to ensure that end-users understand its importance. The form is designed to help users RSVP (Respond to Socially or RSVP) to the New Year party, which allows organizers to know how many guests will be attending the event and make necessary arrangements. It's crucial that end-users complete this form correctly to ensure a smooth and enjoyable experience for all party-goers.
-</thinking>
-
 # New Year Party RSVP Form - Help Guide
 ## Purpose
 The New Year Party RSVP Form is a simple form designed to help you let us know if you can attend the party. This information will help us make the necessary arrangements for the event.

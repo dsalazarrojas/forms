@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for organizations to provide information about themselves, such as their name, contact person, and category of research. The fields will guide the user through the essential details required for the Organizational Climate Research Application Form.
-</thinking>
-
 # Organizational Climate Research Application Form - Help Guide
 ## Purpose
 The Organizational Climate Research Application Form is designed to collect information from organizations regarding their climate and research needs. It will help us understand more about the organizations that are interested in our research and tailor our services to their needs.

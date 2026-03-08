@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate an economic course, gathering feedback and ratings from students. This form is designed to be completed by students after taking an economic course, and it should only be filled out once per student per course to avoid duplication of evaluations. The form is meant to be completed by the student who took the course, and it should not be filled out by anyone else, including course administrators or instructors.
-</thinking>
-
 # Economic Course Evaluation - Help Guide
 ## Purpose
 This form is used to evaluate an economic course and gather feedback from students. It is designed to be completed by students who have taken the course.

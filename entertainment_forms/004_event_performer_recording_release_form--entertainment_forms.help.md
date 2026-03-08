@@ -1,5 +1,3 @@
-<thinking>...To create this form, I will be using the provided YAML file to generate a user-facing help guide for the "Event Performer Recording Release Form". This form is used to record the consent of an artist for live events. The form has several fields including event title, event date, event type, artist name, recording permission, contact information, email, and event organizer. This form is intended for live event organizers to collect necessary information from event performers, ensuring they understand the scope of the event and their role in it... </thinking>
-
 # Event Performer Recording Release Form - Help Guide
 ## Purpose
 The Event Performer Recording Release Form is a document used to record the consent of an artist for live events. This form is used by event organizers to ensure that the artist understands the scope of the event and their role in it.

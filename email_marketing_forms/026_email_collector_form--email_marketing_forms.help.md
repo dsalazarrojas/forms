@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # email_collector_form - Help Guide
 ## Purpose
 The email collector form is designed to collect contact information from users. The form is typically used on a website or landing page to gather email addresses from visitors. This form can be used for various purposes such as newsletter sign-ups, event registrations, or survey responses.

@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Troupe Information Collection Form," let's first consider the form's purpose and how it will be used. This form appears to be designed to collect data about a troupe's information, likely for event management, marketing, or organizational purposes. The form seems to cover various aspects of a troupe, including contact information, social media links, and performance details. It's essential to ensure that the form is completed accurately and thoroughly to gather the required information.
-
-Before creating the guide, let's review the form fields to ensure there are no unnecessary or redundant fields. For example, it seems that the "Main Contact," "Contact EMail," "Contact Phone," "Troupe Website," "Troupe Facebook," "Troupe Twitter," "Troupe Instagram," "Troupe YouTube," and "Troupe Media" fields could be considered redundant, as they might cover similar information. The same applies to the "Troupe Image," "Troupe Video," and "Troupe Files" fields, which might be redundant with the "Troupe Media" field. The "Troupe Notes" and "Troupe Additional Notes" fields seem to be duplicates, as well as the "Troupe Performance Details" and "Troupe Performance Length" fields. The "Troupe Performance Location" field might be redundant with the "Troupe Venue" field.
-
-To avoid confusion and ensure accuracy, we should focus on the essential fields and provide a clear explanation for each one.
-
-</thinking>
-
 # Troupe Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a troupe for various purposes, such as event management, marketing, or organizational needs.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect data from participants in a singing contest, likely for the Popstar Singing Contest. The form is designed to gather information such as the participant's first name, email, birth date, name of their popstar name, song title, song link, and upload a song file. This form is intended for registration purposes only and does not imply any affiliation or endorsement from any form platforms.
-</thinking>
-
 # Popstar Singing Contest Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants in the Popstar Singing Contest. Please provide the required information to register for the contest.

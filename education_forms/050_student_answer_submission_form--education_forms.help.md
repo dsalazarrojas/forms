@@ -1,14 +1,4 @@
-> <thinking>
-The Student Answer Submission Form is a crucial tool for students to submit their answers to assignments. Its purpose is to ensure that students can effectively provide their responses to tasks and exams in a clear and organized manner. This form is designed to be easy to use and understand, with clear labels and concise instructions.
-
-Before starting, please ensure that you have read and understood the requirements for each field. If you're unsure about any field, please refer to this guide for clarification.
-
-This form is not designed for multiple submissions. Each submission will be considered a unique entry. If you need to resubmit or update an existing submission, please contact your instructor or support team for further assistance.
-
-Please fill in the form according to your knowledge and understanding of the subject matter.
-</thinking>
-
-# Student Answer Submission Form - Help Guide
+> # Student Answer Submission Form - Help Guide
 ## Purpose
 This form is designed for students to submit their answers to assignments and exams. It ensures that students can provide clear and organized responses to questions and tasks.
 

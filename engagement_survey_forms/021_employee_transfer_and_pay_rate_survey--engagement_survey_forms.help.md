@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about employee transfers and pay rate changes. It's used to track and document employee movement, pay changes, and associated details. To avoid confusion and ensure accurate data collection, please review this form carefully and only submit it when you're certain about the information being entered.
-
-This form is a critical part of the HR and administrative process, and its completion is often required for payroll processing, tax purposes, and employee records. Make sure to fill it out accurately and completely.
-
-This form can be used in various situations, such as when an employee is transferring to a new department or team, when their pay rate is changed due to a promotion or new responsibilities, or when they're being transferred to a different location. 
-
-Please ensure that the information you're entering is up-to-date and accurate. If you're unsure about any field, don't hesitate to ask for clarification.
-
-</thinking>
-
 # Employee Transfer And Pay Rate Survey - Help Guide
 ## Purpose
 This form is designed to collect information about employee transfers and pay rate changes. It helps track and document employee movement, pay changes, and associated details.

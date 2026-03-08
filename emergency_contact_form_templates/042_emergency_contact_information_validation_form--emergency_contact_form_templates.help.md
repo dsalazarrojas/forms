@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect emergency contact information for employees. This form is used to create a template for emergency contact forms that need to be completed by employees to provide their emergency contact information. This template is meant to be used as a starting point for creating custom emergency contact forms for specific use cases, such as when an employee needs to provide emergency contact information for their family members or for emergency situations. This template ensures that all necessary fields are included for a comprehensive emergency contact form.
-
-The purpose of this form is to validate and standardize the emergency contact information of employees, ensuring that all required fields are filled out properly.
-
-</thinking>
 # emergency_contact_information_validation_form - Help Guide
 ## Purpose
 The emergency_contact_information_validation_form is a template for collecting emergency contact information from employees. This form is designed to gather essential details that can be used in emergency situations.

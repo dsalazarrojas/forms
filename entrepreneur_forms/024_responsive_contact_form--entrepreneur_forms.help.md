@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to contact or provide information to the organization.
-The form includes fields for name, email, subject, message, phone, company, website, email address, location, attachments, date, time, comments, select one option, select multiple options, date/time, note, email, phone, website, location, file, comment, date, and email.
-The form does not include any fields that would require sensitive or personally identifiable information.
-The fields are designed to be filled out by a user in a step-by-step manner, with each field requiring a specific type of input or response.
-</thinking>
-
 # Responsive Contact Form - Help Guide
 ## Purpose
 This form is designed for users to contact or provide information to the organization. It is intended to gather relevant information from the user and provide a clear and concise way to do so.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information related to account management, specifically to track and manage accounts with their associated details. This form is essential for maintaining accurate records and facilitating the approval process for account-related decisions.
 
 Before filling out the form, ensure that you are authorized to access and modify account information. Double-check that the account details you are providing are up-to-date and accurate to avoid potential discrepancies. If you need help or clarification, consult with your supervisor or relevant personnel.

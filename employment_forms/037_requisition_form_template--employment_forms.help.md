@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let me just confirm that the form is intended for creating requisitions, which are formal requests for goods or services. This form template seems to be designed for various requisition-related fields such as the requisitioner's details, the item being requisitioned, and the status and approvals involved. I will make sure to cover all the required fields in the help guide. Also, it appears that all fields are optional, which means that users can fill out as much or as little information as they need to. I will be using the provided YAML fields to create a clear and concise help guide.</thinking>
-
 # Requisition Form Template - Help Guide
 ## Purpose
 The Requisition Form Template is used to create formal requests for goods or services. This form is intended for requisitioners to provide their details, the item they are requisitioning, and other relevant information related to the requisition.

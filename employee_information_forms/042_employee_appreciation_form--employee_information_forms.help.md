@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Appreciation Form - Help Guide
 ## Purpose
 The Employee Appreciation Form is used to show appreciation for an employee's hard work and dedication. It allows managers and supervisors to recognize and reward employees for their efforts. This form helps to boost employee morale, motivation, and engagement within the organization.

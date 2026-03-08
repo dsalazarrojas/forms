@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to record the results of a power amplifier unit inspection, including the identification of the unit, the location of the inspection, and the outcomes of the inspection. This form is used to ensure that all power amplifier units are properly maintained and functioning within safety and performance standards. 
 
 The inspection date and due date for follow-up actions are optional but can be useful for tracking progress and deadlines.

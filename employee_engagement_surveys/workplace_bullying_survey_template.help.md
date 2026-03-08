@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on the experiences of bullying and harassment in the workplace. This form is designed to improve workplace safety and culture by understanding the prevalence and forms of bullying and harassment, as well as the effectiveness of reporting and resolution processes. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI.
-
-Before proceeding, please ensure that you have not already completed this form for the same organization, as duplicate responses may not be submitted.
-</thinking>
-
 # Workplace Bullying Survey - Help Guide
 ## Purpose
 This survey aims to gather information on your experiences with bullying and harassment in the workplace, and your opinions on how the organization can improve its safety and culture.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist new agricultural workers in completing their onboarding process. The form is used to collect necessary information for employment verification, tax purposes, and other administrative tasks. It is essential to provide accurate and complete information to ensure a smooth onboarding experience. Before starting, review the form carefully to ensure you have all the required documents and information ready. If you have any questions or concerns, please reach out to your HR representative.
-</thinking>
-
 # Agricultural Worker Onboarding Form - Help Guide
 ## Purpose
 The Agricultural Worker Onboarding Form is used to collect information for employment verification, tax purposes, and other administrative tasks. It is essential to provide accurate and complete information to ensure a smooth onboarding experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Self Declaration Form - Help Guide
 
 ## Purpose

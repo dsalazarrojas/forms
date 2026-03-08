@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about an employee's health status regarding COVID-19, specifically their symptoms, travel history, contact with known positive cases, and test results. This form will help the employer to assess and mitigate the risk of COVID-19 transmission in the workplace.
-
-To prevent duplication of effort, this form should not be filled out by employees who have already completed a similar form in the past week. Please ensure you have not completed a COVID-19 screening form recently before starting this process.
-
-</thinking>
-
 # Covid Employee Screening Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hybrid Work Satisfaction Poll - Help Guide
 ## Purpose
 

@@ -1,14 +1,3 @@
-<thinking>
-The form "Scalp Treatment Herbal Blend Consent Form" is used for obtaining consent from clients before performing herbal scalp treatment. This form is not intended for internal use and should not be used for duplicate purposes.
-
-When a client arrives at a salon or spa for scalp treatment, the form is used to gather information about the client's history, allergies, and medical conditions. The form also asks for consent to perform the treatment, as well as the client's date of birth and contact information. The form is typically used by estheticians or spa professionals who are administering the treatment.
-
-The form is not intended for clients with a history of scalp conditions or medical conditions. The form does not collect sensitive information about clients who have previously undergone scalp treatments. The client's consent to perform the treatment is optional, but required for legal and professional purposes.
-
-This form should not be used for other purposes, such as client check-ins or appointment scheduling. The form is a specialized tool designed for scalp treatment consent purposes only.
-
-</thinking>
-
 # Scalp Treatment Herbal Blend Consent Form - Help Guide
 
 ## Purpose

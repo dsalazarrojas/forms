@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect operator contact information and equipment details for support purposes. The purpose of this form is to provide a structured way for operators to request support from the equipment management team. This form should only be used for legitimate support requests and not for other non-support related purposes.
-</thinking>
-
 # equipment_operator_support_contact_form - Help Guide
 ## Purpose
 

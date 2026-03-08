@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a multi-page form, likely designed for collecting feedback or opinions from employees. It consists of 25 pages, each named after a consecutive number. However, without additional information on the form's purpose, it's difficult to deduce its true intent. I assume it might be related to assessing employee capabilities or evaluating their skills and knowledge.
-
-To confirm, could you please provide more context about the form's purpose or any relevant business logic that would help me create an accurate help guide?
-
-</thinking>
-
 # Employee Capability Enhancement Survey - Help Guide
 ## Purpose
 

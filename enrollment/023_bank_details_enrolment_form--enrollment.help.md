@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive user-facing help guide for the Bank Details Enrolment Form. The form is used for customers to enroll in various bank accounts, providing crucial information for account setup and identification. To avoid duplicating existing records, the form will only be displayed to customers who do not already have an account at the bank. The form's purpose is to ensure accurate and secure account creation, while also complying with regulatory requirements. Before proceeding, please review the form carefully to provide accurate and complete information.</thinking>
-
 # Bank Details Enrolment Form - Help Guide
 ## Purpose
 The Bank Details Enrolment Form is a required step for customers who wish to open new accounts with our bank. This form helps us verify your identity and collect essential information for account setup, ensuring a smooth and secure onboarding process.

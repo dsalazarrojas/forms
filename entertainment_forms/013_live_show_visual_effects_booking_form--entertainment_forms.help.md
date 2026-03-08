@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information related to live show visual effects booking, including event details, performer availability, event type, start and finish times, venue information, contact details, and production team details. This form is likely used by a production company to gather information from event organizers or promoters to plan and execute live shows. Before filling out this form, please ensure that you have all necessary information readily available and that you are authorized to book the event.
-
-This form has multiple pages, each with different fields. Please review each field carefully to ensure you provide accurate and complete information.
-
-</thinking>
-
 # Live Show Visual Effects Booking Form - Help Guide
 ## Purpose
 This form is used to collect information related to live show visual effects booking.

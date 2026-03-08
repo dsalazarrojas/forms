@@ -1,5 +1,3 @@
-<thinking>...This form is used for regular performance reviews for employees at the 30, 60, and 90-day mark of their tenure. The goal of this form is to gather information about the employee's performance and progress during their time with the organization, and to provide a baseline for future evaluations. This form is designed to be completed by supervisors and managers who are familiar with the employee's work and performance, and to be filled out in conjunction with the employee's input and feedback. The form is divided into sections that cover various aspects of the employee's work and performance, and is meant to be a starting point for more in-depth discussions about the employee's development and growth within the organization...</thinking>
-
 # 30 60 90 Day Review Form - Help Guide
 
 ## Purpose

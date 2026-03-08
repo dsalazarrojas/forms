@@ -1,11 +1,3 @@
-<thinking>
-The Art Crawl Gallery Submission form is designed to collect information about galleries participating in an art crawl event. To ensure accurate and consistent submission, please review the following guidelines before completing the form.
-
-First, check that you are submitting for the correct event and that your gallery is not already listed. Duplicate submissions may cause confusion and delay processing. If you're unsure, contact event organizers for clarification.
-
-The form is divided into several sections, each with specific fields to help you provide detailed information about your gallery. Please fill out the form carefully and thoroughly, and use the help text for each field as a guide.
-</thinking>
-
 # Art Crawl Gallery Submission - Help Guide
 ## Purpose
 

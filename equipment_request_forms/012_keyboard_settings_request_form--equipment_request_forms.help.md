@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for keyboard settings requests, allowing them to specify their personal details, department, keyboard type preferences, and other relevant information. The form should only be filled out when a user has a legitimate reason for requesting keyboard settings, such as a specific keyboard type or configuration. Please ensure that you are not duplicating a request that has already been submitted. If you are unsure, contact your supervisor or IT department for guidance.
-</thinking>
-
 # Keyboard Settings Request Form - Help Guide
 ## Purpose
 This form is used to collect user information for keyboard settings requests. It helps us understand your keyboard needs and preferences, ensuring we can provide the right support and resources to meet your requirements.

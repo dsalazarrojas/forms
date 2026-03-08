@@ -1,9 +1,3 @@
-<thinking>Before we dive into the form guide, let's quickly review the form's purpose and ensure it's being used correctly. This form is designed to collect new agent information, which likely includes details about an individual's personal and professional background. It seems that the form is intended for agents who are new to the organization or require updates to their existing information.
-
-To prevent duplication, please note that this form should only be used to submit new or updated information. If you're looking for a form to edit or update existing information, you might want to consider a different form. Ensure that all required fields are filled in, as indicated by the "required" label in the form fields below.
-
-Now, let's move on to the guide!</thinking>
-
 # New Agent Information Form - Help Guide
 ## Purpose
 The New Agent Information Form is designed to collect and store information about new or updated agents in the organization. This form is meant to be used once for each new or updated agent, ensuring accurate and comprehensive data is recorded for reference and reporting.

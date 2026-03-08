@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Before we dive into the help guide, let's ensure that the form purpose is understood and that it's not a duplicate.
 
 This form is intended to collect information about job training referrals, which is a process to identify and document employee training needs and opportunities. The form is designed to help employees refer others for training programs that can help them develop new skills and enhance their job performance. It's essential to use this form correctly to avoid duplication of efforts and ensure accurate data collection.

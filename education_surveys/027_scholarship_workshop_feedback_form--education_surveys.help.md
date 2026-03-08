@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants who have attended a Scholarship Workshop. The purpose of this form is to gather information about the participant's experience, satisfaction, and any additional comments they might have. This form will be used to evaluate the effectiveness of the workshop and make improvements for future sessions. Please ensure that you only complete this form once. If you have already submitted feedback, do not fill out this form again.
-</thinking>
-
 # Scholarship Workshop Feedback Form - Help Guide
 ## Purpose
 The Scholarship Workshop Feedback Form is a tool used to collect feedback from participants who have attended a Scholarship Workshop. Your input will help us evaluate the effectiveness of the workshop and make necessary improvements for future sessions.

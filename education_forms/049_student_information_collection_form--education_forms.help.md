@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from students, specifically their first and last name, date of birth, contact information (email and phone number), student address, grade level (if applicable), and subject(s) of interest. The form is intended to be a comprehensive collection of data, ensuring that we can easily track and verify student details. 
-
-When designing this form, it's essential to ensure that each field accurately reflects the necessary information for our records and minimize any potential duplication or misinterpretation of data.
-
-</thinking>
-
 # Student Information Collection Form - Help Guide
 ## Purpose
 The Student Information Collection Form is used to collect essential details from students to ensure accurate records and effective communication.

@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for a healthcare therapist employment application form. This form is designed to collect information from individuals interested in applying for a job as a healthcare therapist. Our form will guide users through the process of providing essential details about their job title, job description, job requirements, resume, and cover letter.
-
-To ensure that our form meets the needs of both the employer and the applicant, we will focus on creating a clear and concise guide that explains each field's purpose and requirement. This guide will be useful for both internal users and external applicants.
-
-Before starting, please note that all fields are optional except for the "Job Title" field, which is not required but recommended. This form is intended to be used by healthcare professionals, and providing a job title will help us better understand your background and experience.
-
-</thinking>
-
 # Healthcare Therapist Employment Application - Help Guide
 ## Purpose
 

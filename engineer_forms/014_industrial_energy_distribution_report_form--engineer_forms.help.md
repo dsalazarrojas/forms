@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect information about industrial energy distribution. It's likely used by facility engineers or maintenance personnel to report on the status of energy distribution systems. To ensure this form is relevant and not duplicated in the organization, it's essential to review the existing forms and ensure this one is not a duplicate or unnecessary.
-
-Given the provided YAML, the form has multiple pages, each with various fields. Some pages are for general information, while others are for more specific data like energy sources, operational issues, and energy distribution details.
-
-The form appears to be designed for both human-readable and machine-readable data extraction, as it has a mix of text, select, and note fields. The "operational issues" field, for instance, is a select_one field, while the "comments" field is a note field.
-
-The form does not seem to require any mandatory fields, which may imply that the form is used for optional or supplemental reporting. However, this could also indicate a lack of strict validation or data validation checks.
-
-Given the form's complexity and the number of fields, it's likely that it would benefit from a clear user guide to help users understand its purpose and how to complete it efficiently.
-
-</thinking>
-
 # Industrial Energy Distribution Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about the industrial energy distribution system's status. It's intended to be used by facility engineers or maintenance personnel to report on the energy distribution system's operational issues, energy sources, and other relevant details.

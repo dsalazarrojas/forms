@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Examination Survey - Help Guide
 
 ## Purpose

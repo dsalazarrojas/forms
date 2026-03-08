@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to facilitate a year-end business review for employees, allowing them to provide feedback on various aspects of the company's performance, objectives, employee satisfaction, and other relevant topics. The form is meant to gather valuable insights from employees to help the organization identify areas of improvement and make data-driven decisions for the next year. 
-
-To complete this form, follow the instructions below. 
-
-</thinking>
-
 # Year End Business Review - Help Guide
 ## Purpose
 The Year End Business Review form is designed to collect feedback from employees on the company's performance, objectives, and overall experience. This feedback will help the organization identify areas for improvement and make informed decisions for the next year.

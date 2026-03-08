@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about Christmas gift-giving habits, preferences, and experiences. It asks users about their demographic information, shopping habits, preferred gift types, and more. This form will help retailers, marketers, or anyone interested in understanding consumer behavior around Christmas gift-giving. Please ensure you have read and understood the form's purpose before proceeding to answer the questions. If you have already taken a similar survey, please skip this one to avoid duplication of effort.
-</thinking>
-
 # Christmas Gift Survey - Help Guide
 ## Purpose
 This survey aims to gather information about Christmas gift-giving habits, preferences, and experiences. The data collected will help retailers, marketers, or anyone interested in understanding consumer behavior around Christmas gift-giving.

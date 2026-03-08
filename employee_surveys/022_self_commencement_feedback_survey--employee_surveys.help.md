@@ -1,5 +1,3 @@
-<thinking>Is the form purpose to gather feedback on the new employee's self-commencement experience, likely from the new employee themselves or their colleagues/manager? Are there any specific fields that have a clear, specific use case or are more open-ended? Does the form have any specific requirements or fields that require attention from the users?</thinking>
-
 # self_commencement_feedback_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the new employee's self-commencement experience. It is meant to be completed by the new employee, their colleagues, or manager, to provide valuable insights and suggestions for improvement.

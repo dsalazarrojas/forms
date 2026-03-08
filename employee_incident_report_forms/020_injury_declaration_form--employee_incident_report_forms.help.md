@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by employees to report incidents that occurred to them, whether they are injuries or other workplace hazards. This form is intended to gather relevant information about the incident, including the employee's details, the nature of the incident, and any medical attention that may be needed. The form is used to ensure that incidents are properly documented and reported to the appropriate authorities.
-
-</thinking>
-
 # Injury Declaration Form - Help Guide
 ## Purpose
 The Injury Declaration Form is used by employees to report incidents that occurred to them, whether they are injuries or other workplace hazards. The form is used to gather relevant information about the incident, including the employee's details, the nature of the incident, and any medical attention that may be needed.

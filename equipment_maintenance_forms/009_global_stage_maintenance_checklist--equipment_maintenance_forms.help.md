@@ -1,7 +1,3 @@
-<thinking>...This form is intended for use by venue staff or authorized personnel to perform regular maintenance and inspections of stage equipment, such as lighting, sound, and rigging systems, at various venues. The form is designed to help users record and report any issues or defects found during these inspections and provide follow-up information for subsequent actions taken. It is not intended for general audience, but for authorized personnel to maintain accurate and consistent records.
-
-Please note that this form is a part of the overall equipment maintenance process and is used internally within the organization.</thinking>
-
 # Global Stage Maintenance Checklist - Help Guide
 ## Purpose
 The Global Stage Maintenance Checklist is a form used by venue staff or authorized personnel to perform regular maintenance and inspections of stage equipment. It helps record and report any issues or defects found during these inspections and provides follow-up information for subsequent actions taken.

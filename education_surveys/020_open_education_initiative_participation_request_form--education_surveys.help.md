@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from users interested in participating in an open education initiative. This form is likely used by program administrators to collect contact information and other relevant details from potential participants. To prevent duplication, the form should not be filled out if the user has already submitted their information. The form is meant for individuals interested in the initiative, not organizations or businesses. This form is not intended for mass submissions or automated form-filling.
-</thinking>
-
 # open_education_initiative_participation_request_form - Help Guide
 
 ## Purpose

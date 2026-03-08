@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting employment verification for a specific period of time. The purpose of this form is to gather necessary information from employers or other relevant parties to verify an individual's employment status. Please ensure that the form is completed only once for each employment period that requires verification. If you are requesting verification for multiple periods, please complete this form multiple times.
-</thinking>
-
 # Employment Verification Request Form - Help Guide
 ## Purpose
 This form is used for requesting employment verification for a specific period of time. The goal of this form is to gather necessary information from employers or other relevant parties to verify an individual's employment status.

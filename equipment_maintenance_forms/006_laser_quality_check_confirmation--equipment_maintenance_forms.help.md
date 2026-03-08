@@ -1,7 +1,3 @@
-<thinking>
-This form is used to confirm the quality of laser equipment after an inspection. It's a simple tool to ensure that the equipment is in good working order. The form is not intended to be used for other purposes.
-</thinking>
-
 # Laser Quality Check Confirmation - Help Guide
 ## Purpose
 This form is used to confirm the quality of laser equipment after an inspection. It helps ensure that the equipment is in good working order.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## HR Case Note Submission - Help Guide
 
 ## Purpose

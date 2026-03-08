@@ -1,16 +1,3 @@
-<thinking>
-Internal reasoning and validation block: 
-
-This form is designed to collect information about potential members of the advisory board from the organization. The form is used to gather essential details about the individual's professional background, interests, and availability. The form's purpose is to identify qualified candidates who can offer valuable insights and support to the organization.
-
-To validate the form's relevance and prevent duplication, we will:
-
-1. Check if the individual has already been registered in the system before.
-2. Verify if the individual's interests and background align with the organization's goals and values.
-3. Ensure that the individual is not already serving on another advisory board that conflicts with the organization's interests.
-
-</thinking>
-
 # Advisory Board Registration Form - Help Guide
 
 ## Purpose

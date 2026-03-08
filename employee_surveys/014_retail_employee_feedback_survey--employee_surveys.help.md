@@ -1,5 +1,3 @@
-<thinking>... This form is designed to gather feedback from retail employees about their experiences and opinions about the store and management. This feedback will help the management team understand the strengths and weaknesses of the store, identify areas for improvement, and make data-driven decisions to enhance the overall employee experience. It is essential to complete this form carefully and honestly, as the information provided will be used to inform future store improvements and policies. Please ensure that you are not providing duplicate or redundant feedback. If you have already completed this form in the past, please do not submit a new form unless you have new and relevant feedback to share. ...</thinking>
-
 # Retail Employee Feedback Survey - Help Guide
 ## Purpose
 The Retail Employee Feedback Survey is designed to gather your thoughts and opinions about your experiences as a retail employee. Your feedback will help us understand what we do well and where we can improve, enabling us to create a better workplace for you and our customers.

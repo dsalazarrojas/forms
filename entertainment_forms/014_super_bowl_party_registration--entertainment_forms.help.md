@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register for a Super Bowl party hosted at the party location specified in the form. To avoid confusion, please review all fields carefully and ensure your answers are accurate. Duplicate registrations are discouraged to allow for fair and accurate guest headcount.
-</thinking>
-
 # Super Bowl Party Registration - Help Guide
 ## Purpose
 The Super Bowl Party Registration form is a collection of questions to gather information about you and your party plans for the Super Bowl party. By filling out this form, you will be able to:

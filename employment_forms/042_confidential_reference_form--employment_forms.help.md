@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an employee or candidate from a person who can vouch for their work performance and abilities. This form will be used for employment references, but can also be used for other purposes such as academic or professional certifications. It's essential to complete this form accurately and honestly, as it will be used to assess the candidate's qualifications and suitability for a position.
-</thinking>
-
 # Confidential Reference Form - Help Guide
 ## Purpose
 This form is used to gather information about an employee or candidate from a person who can vouch for their work performance and abilities. It's essential to complete this form accurately and honestly, as it will be used to assess the candidate's qualifications and suitability for a position.

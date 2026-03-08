@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Needs Assessment Form - Help Guide
 ## Purpose
 The Business Needs Assessment Form is a tool to help us better understand your business needs and provide personalized support to help you overcome operational challenges and achieve growth goals. Please answer the questions honestly, and we'll use this information to tailor our services to meet your specific requirements.

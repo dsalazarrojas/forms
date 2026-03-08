@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coaching Application Form - Help Guide
 
 ## Purpose

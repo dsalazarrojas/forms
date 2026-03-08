@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for documenting incidents or actions that need to be taken when an employee has been involved in an inappropriate behavior or action. The purpose of this form is to ensure that corrective actions are taken and documented in a standardized manner to maintain a fair and consistent work environment. It's essential to fill out this form accurately and thoroughly to ensure that all necessary steps are taken and recorded correctly.
-
-The form is divided into different sections for collecting employee information, incident details, corrective actions taken, and follow-up dates. Each section is designed to capture specific information related to the incident, ensuring that all relevant facts are documented and that corrective actions are properly recorded. It's crucial to fill out each section accurately and provide as much detail as possible, especially when selecting options from dropdown lists.
-
-To avoid duplication and ensure that the form is filled out correctly, please review the sections carefully and ensure that each field is completed with the most accurate information available.</thinking>
-
 # Corrective Action Form - Help Guide
 ## Purpose
 This form is used to document and track corrective actions taken when an employee has been involved in an incident that requires disciplinary action.

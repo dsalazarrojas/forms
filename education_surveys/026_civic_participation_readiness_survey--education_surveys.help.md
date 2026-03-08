@@ -1,10 +1,3 @@
-<thinking>
-We're creating this help guide to ensure that end-users understand the purpose and functionality of the Civic Participation Readiness Survey form. This form is designed to measure the level of civic participation among community members, aiming to identify areas of improvement for organizations and individuals involved in civic activities. The form's data will help track the readiness of community members to engage in different civic activities, such as organizing, advocacy, research, and communication. This information will be useful in developing targeted training programs and resources to support community participation.
-
-The form is divided into several sections, which will be explained in this help guide to facilitate accurate and efficient completion.
-
-</thinking>
-
 # Civic Participation Readiness Survey - Help Guide
 ## Purpose
 The Civic Participation Readiness Survey is a tool used to measure community members' willingness and ability to engage in various civic activities.

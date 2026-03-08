@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form, "leadership_check_in_form", is to collect feedback and ratings from team members about their leaders. The form likely aims to measure the leadership skills or qualities of the leaders within an organization. By using this form, leaders can receive constructive feedback that can help them improve their performance. It is crucial to ensure that this form is only used for its intended purpose and not for other types of evaluations or assessments, such as performance reviews or disciplinary actions.</thinking>
-
 # leadership_check_in_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and ratings from team members about their leaders. The information collected will help leaders develop and improve their skills.

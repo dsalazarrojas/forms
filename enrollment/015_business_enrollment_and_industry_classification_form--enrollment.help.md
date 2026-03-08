@@ -1,13 +1,3 @@
-<thinking> This form is intended to collect business information and industry classification data for internal purposes, such as data aggregation and analysis. 
-
-This form is used to collect detailed information about businesses, including their name, structure, industry classification, location, and other relevant details. The form is designed to be completed by business owners or representatives and is not intended to be filled out by individual customers or end-users of the business. 
-
-Before filling out the form, please ensure that the information provided is accurate and up-to-date. Duplicate entries or submissions with incorrect information may result in delayed or inaccurate data processing. 
-
-To ensure accurate and efficient processing, please fill out the form in one attempt, without errors or omissions.
-
-</thinking>
-
 # Business Enrollment And Industry Classification Form - Help Guide
 
 ## Purpose

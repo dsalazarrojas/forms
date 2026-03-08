@@ -1,5 +1,3 @@
-<thinking>As a content strategist, I'd like to ensure this form is used for its intended purpose: to submit new TV show ideas. This form should be used by individuals who want to share their original ideas for a TV show, including details about the series type, genre, main and supporting characters, production team, budget, and other relevant information. To avoid duplication of effort, please do not submit ideas that have already been pitched or are currently in development. This form will help our team review and potentially develop these ideas into a full-fledged TV show. We appreciate your creativity and contribution to our TV show lineup!</thinking>
-
 # TV Show Idea Submission Form - Help Guide
 ## Purpose
 The TV Show Idea Submission Form is designed for individuals to submit original and innovative ideas for new TV shows. This form allows you to share your ideas with our team, who will review and potentially develop them into a full-fledged TV show.

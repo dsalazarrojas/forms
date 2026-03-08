@@ -1,8 +1,3 @@
-<thinking>
-The Physician Onboarding Form is designed to streamline the process of onboarding new physicians into our organization. This form captures essential information about the physician's personal and professional details. It's crucial that you accurately and completely fill out the form to ensure a smooth onboarding process.
-Please ensure that you have all the necessary documents and information required for each field before starting to complete this form. If you're unsure about any section or field, please reach out to your supervisor for guidance.
-</thinking>
-
 # Physician Onboarding Form - Help Guide
 ## Purpose
 The Physician Onboarding Form is a crucial tool for new physicians to onboard into our organization. This form collects vital information about the physician's background, practice details, and onboarding dates.

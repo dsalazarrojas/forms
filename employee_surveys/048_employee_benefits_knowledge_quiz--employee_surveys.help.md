@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Benefits Knowledge Quiz - Help Guide
 
 ## Purpose

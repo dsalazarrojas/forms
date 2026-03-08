@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a checklist for commissioning HVAC systems, likely for use by HVAC technicians or engineers to assess the performance and safety features of a heating, ventilation, and air conditioning system. The form includes various fields for selecting the status of different safety controls, system operation, and test results. It also includes fields for providing a system description, contractor information, and any additional comments.
-
-This form seems to be designed for a one-time use case, and the repetition of many fields suggests that it may be intended for assessing multiple systems or multiple test results for the same system. The "System Description" field, for example, appears to be duplicated in two different forms, which may be unnecessary. The form does not include fields for collecting detailed information about the system's technical specifications, such as system size, type, or manufacturer, which may be useful for more in-depth assessments.
-
-Before using this form, please review and ensure it meets your specific needs. If you need more information or custom fields, consider using a more comprehensive form builder.
-</thinking>
-
 # HVAC Commissioning Checklist - Help Guide
 ## Purpose
 This form is designed to assess the performance and safety features of a heating, ventilation, and air conditioning (HVAC) system. It helps commissioning technicians and engineers evaluate the system's status and identify any issues that require attention.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from schools and parents on the communication channels they use to get updates. This form likely aims to understand how effectively schools communicate with parents, and which channels are most effective. This form should be filled out by schools to provide feedback on their communication strategies and help improve the communication process. This form will not be filled out by parents, as it's focused on school staff and administrators. It's essential to ensure that this form is filled out only by schools to provide relevant and accurate feedback.</thinking>
-
 # School Communication Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from schools on their communication channels and strategies. It's meant to help schools reflect on their communication effectiveness and identify areas for improvement.

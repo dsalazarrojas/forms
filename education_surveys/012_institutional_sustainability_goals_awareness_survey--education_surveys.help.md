@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an "Institutional Sustainability Goals Awareness Survey" form. This form is likely used to gather information from staff members on their awareness of the institution's sustainability goals. Before creating the form, let's check if there are any internal instructions or requirements that might impact the explanation. Since there are no specific internal instructions provided, we'll assume that the form is meant to gather general feedback and information from staff members. We'll aim to create a clear and concise guide that explains the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # Institutional Sustainability Goals Awareness Survey - Help Guide
 ## Purpose
 This guide will walk you through the Institutional Sustainability Goals Awareness Survey form. The purpose of this form is to gather information from staff members on their awareness of the institution's sustainability goals. By completing this form, you will be helping us better understand the current state of sustainability practices and goals within our institution.

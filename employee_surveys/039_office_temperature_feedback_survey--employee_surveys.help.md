@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Office Temperature Feedback Survey form. This guide will clearly explain the purpose of the form, how to complete it, and what each field means.</thinking>
-
 # Office Temperature Feedback Survey - Help Guide
 ## Purpose
 The Office Temperature Feedback Survey is designed to collect feedback from employees about the comfort and working conditions of the office. This survey aims to gather information about the temperature, air quality, humidity, and other factors that affect employees' work comfort. The feedback collected will help management make informed decisions to create a more comfortable and productive work environment.

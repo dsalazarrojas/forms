@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for collecting information related to the employment of a tea assistant, which is a common practice in the hospitality industry. The form likely aims to capture essential details for the agreement between the tea assistant and their employer, such as working hours, responsibilities, and contract terms. To ensure that this form is filled out correctly, it is essential to verify that the form is not a duplicate and that the employer has not previously created a similar form for the same purpose. This verification process will help prevent unnecessary duplication of effort and maintain data accuracy.
-</thinking>
-
 # Job Agreement For Tea Assistant - Help Guide
 
 ## Purpose

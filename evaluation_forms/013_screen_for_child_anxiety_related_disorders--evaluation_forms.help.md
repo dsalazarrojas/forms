@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to screen for child anxiety-related disorders, collecting information on various aspects of a child's life that may be affected by anxiety. This form is not a diagnostic tool, but rather a guide to help identify potential areas of concern that may warrant further evaluation or professional consultation. Please note that this form is not a substitute for professional medical or psychological evaluation.
-
-Before proceeding, please confirm that you are filling this form for a child under the age of 18 and that you have the necessary permissions to complete this assessment. Additionally, please be aware that some questions may be sensitive or uncomfortable to answer, and you may want to approach this form with caution and respect for the child's feelings and boundaries.
-
-To ensure that you are not duplicating effort, please review the questions carefully and answer them in a way that best reflects your observations and concerns about the child's behavior and well-being. If you are unsure about any question or feel that it is not relevant, please consult with a qualified professional before proceeding. You can always skip questions that are not relevant and come back to them later if needed.
-
-</thinking>
-
 # Screen For Child Anxiety Related Disorders - Help Guide
 ## Purpose
 This form is designed to help identify potential symptoms and areas of concern related to child anxiety disorders. It is not a diagnostic tool, but rather a guide to help you understand the child's behavior and identify potential issues that may warrant further evaluation or professional consultation.

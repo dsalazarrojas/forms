@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block**
-This form is intended to collect information from artists for a cultural festival performance slot request. The form has several fields that cover various aspects of the artist's performance, including schedule request, technical needs, additional information, contact details, confirmation, and preferred time slot. The "confirm_info" field is used to ensure that the artist has reviewed and confirmed the accuracy of the form. The "technical_requirements" field is used to determine the artist's technical needs for the performance. The form is not affiliated with, endorsed by, or derived from any form platform.
-
-</thinking>
-
 # cultural_festival_performance_slot_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from artists for a cultural festival performance slot request. It helps festival organizers understand the artist's requirements and preferences for a successful performance.

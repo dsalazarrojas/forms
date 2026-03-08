@@ -1,36 +1,3 @@
-<thinking>
-This form is likely used to track and manage equipment maintenance, where equipment owners or maintenance personnel can report on the condition of equipment, identify issues, and schedule follow-up checks or actions. The form might be used for regular equipment check-ups, troubleshooting, or maintenance scheduling.
-
-To confirm, I will review the fields and their possible uses:
-
-* Equipment Details: This could be a section to gather information about the equipment in question, such as make, model, and serial number.
-* Condition Rating: This might be used to report on the overall condition of the equipment, with ratings like "Good", "Fair", or "Poor".
-* Issue Description: This field could be for reporting any issues or problems found with the equipment, such as mechanical failure or maintenance needed.
-* Next Check Due: This would be for scheduling the next maintenance check or follow-up.
-* Issue Priority: This could be for determining the urgency or severity of the issue, with levels like "High", "Medium", or "Low".
-* Category: This might be used to categorize or group similar equipment or issues.
-* Equipment Condition at Last Check: This could be for recording the condition of the equipment at the last check or maintenance visit.
-* Equipment Condition: This field might be for reporting the current condition of the equipment.
-* Next Check Frequency: This would be for setting the schedule for future checks or maintenance.
-* Issue Status: This could be for tracking the status of the issue, such as "Open", "Closed", or "In Progress".
-* Issue Status Comments: This field might be for additional comments or notes about the issue.
-* Equipment Serial Number: This would be for recording the unique identifier for the equipment.
-* Equipment Model Number: This could be for recording the model number or specific type of equipment.
-* Equipment Asset Tag: This might be for recording any asset tags or tracking numbers assigned to the equipment.
-* Equipment Make: This field would be for recording the manufacturer of the equipment.
-* Equipment Type: This could be for categorizing or grouping similar equipment.
-* Location: This might be for recording the location where the equipment is used or stored.
-* Notes: This field could be for any additional comments or notes about the equipment or issue.
-* Category 2: This field might be for additional categorization or grouping.
-* Follow-up Frequency: This would be for setting the schedule for follow-up checks or actions.
-* Follow-up Due Date: This could be for scheduling a follow-up check or action.
-* Follow-up Completed: This field might be for recording whether the follow-up check or action was completed.
-* Follow-up Next Due Date: This would be for scheduling the next follow-up check or action.
-
-Based on this review, the form seems to be designed for comprehensive equipment maintenance management.
-
-</thinking>
-
 # Gear Check Form - Help Guide
 ## Purpose
 The Gear Check Form is used to track and manage equipment maintenance, including reporting on equipment condition, identifying issues, and scheduling follow-up checks or actions.

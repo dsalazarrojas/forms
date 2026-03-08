@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to be used by teachers to evaluate student progress. The form is used to document the progress of each student in various subjects, including grades and comments from teachers. The form should be completed by the teacher who is evaluating the student. The purpose of this form is to provide a clear and concise way to track student progress and identify areas that require improvement.
-
-This form will be used by teachers to evaluate student progress, so it is essential to ensure that the form is filled out correctly. Before filling out the form, review the fields below to understand what each one means and how to complete it correctly.
-
-</thinking>
-
 # Student Progress Evaluation - Help Guide
 ## Purpose
 

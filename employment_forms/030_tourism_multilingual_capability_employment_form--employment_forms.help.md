@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an employee's tourism-related job title, type, language skills, location, experience, availability, resume, contact number, and any additional information. This form is used to gather data for employment purposes, likely for HR or recruitment teams.
-</thinking>
-
 # tourism_multilingual_capability_employment_form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's tourism-related job title, type, language skills, location, experience, availability, resume, contact number, and any additional information. This form is used to gather data for employment purposes, likely for HR or recruitment teams.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from alumni about their participation in the college choir. The purpose of this form is to determine their interest in joining the choir, their availability for rehearsals, and any dietary restrictions they may have. This information will help the choir organizers coordinate events and ensure that all participants have a positive experience. Please note that this form is not intended to be a comprehensive survey of all alumni, but rather a means to gather information from those who are interested in participating. The form is designed to be completed by alumni who are already interested in joining the choir and have a basic understanding of the choir's activities and requirements.
-
-</thinking>
-
 # Alumni Choir Participation Survey - Help Guide
 ## Purpose
 The Alumni Choir Participation Survey is a form designed to gather information from alumni about their interest in joining the college choir. This information will help the choir organizers plan events and ensure that all participants have a positive experience.

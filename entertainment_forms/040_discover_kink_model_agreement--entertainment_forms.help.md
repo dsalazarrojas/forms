@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # discover_kink_model_agreement - Help Guide
 ## Purpose
 The discover_kink_model_agreement form is a tool used to collect information and agreements from users. The form is designed to be a public adaptation of an original form created using AI, and it is not affiliated with or endorsed by any form platform. The form is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.

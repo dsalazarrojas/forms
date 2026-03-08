@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to book a DJ booth for an event. It collects information about the event, including event details, dates, times, and contact information. This form is intended for booking a DJ booth for various types of events, such as music, dance, theatre, and others.
-Before filling out this form, ensure you are booking a DJ booth for an event that you are authorized to book on behalf of. This form is not intended for personal use.
-To prevent double bookings, please check the availability of the DJ booth before submitting this form.
-</thinking>
-
 # DJ Booth Rental Booking Form - Help Guide
 ## Purpose
 This form is designed to book a DJ booth for an event. It collects information about the event, including event details, dates, times, and contact information.

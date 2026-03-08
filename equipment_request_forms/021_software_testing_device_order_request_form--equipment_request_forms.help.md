@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to request the use of software testing devices from the company's inventory. To ensure accurate and efficient ordering, the form has been designed to gather necessary information for each request. This form is to be used only for internal purposes and should not be filled out if you are not affiliated with the company. Please note that each field is crucial for the proper processing of your request, and providing accurate information will help ensure timely and correct fulfillment of your request.
-</thinking>
-
 # Software Testing Device Order Request Form - Help Guide
 ## Purpose
 The Software Testing Device Order Request Form is a tool used to request the use of software testing devices from the company's inventory. This form is designed to gather necessary information for the proper processing of your request.

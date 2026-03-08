@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from trainees about a training session, course, or workshop. It aims to assess the effectiveness of the training experience, providing valuable insights for instructors, organizers, and future course developers. This form is a self-contained entity, not affiliated with, endorsed by, or derived from any existing form platforms. By using AI, it is an original adaptation of survey topic metadata, released under CC BY 4.0 for non-commercial use.
-</thinking>
-
 # Training Feedback Evaluation Form - Help Guide
 ## Purpose
 This guide explains how to complete the Training Feedback Evaluation Form, a tool designed to gather feedback from trainees and improve the training experience.

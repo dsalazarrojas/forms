@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the online education resource effectiveness poll form. The form is used to collect feedback and opinions from users on the effectiveness of online education resources.
-</thinking>
-
 # online_education_resource_effectiveness_poll_form - Help Guide
 ## Purpose
 The online education resource effectiveness poll form is used to gather feedback on the effectiveness of online education resources. The form is designed to be completed by users to rate and provide comments on the resources they have used.

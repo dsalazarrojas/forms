@@ -1,7 +1,3 @@
-<thinking>
-The CrowdStrike Global Threat Report Form is a tool used by organizations to report and track potential threats to their systems and networks. This form is designed to gather information about the nature, location, and impact of these threats, as well as the solutions and recommendations for mitigating them. 
-</thinking>
-
 # CrowdStrike Global Threat Report Form - Help Guide
 ## Purpose
 This form is used to report and track potential threats to your systems and networks. It helps gather information about the nature, location, and impact of these threats, and provides a platform to share solutions and recommendations for mitigating them.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form for collecting feedback and opinions from users about the Global Education Data Ethics Survey. The form is designed to gather information about the user's relationship with the education system, their experiences with various organizations, and their thoughts on the survey itself. This form will help us understand the user's perceptions and concerns about data ethics in education. Please ensure that the user understands the purpose of this form and is aware of the potential impact of their responses. This form is not intended to be a comprehensive survey, but rather a starting point for further discussion and improvement. It's essential to complete the form thoughtfully, and we encourage users to answer honestly and thoroughly.
-</thinking>
-
 # Global Education Data Ethics Survey - Help Guide
 ## Purpose
 The Global Education Data Ethics Survey is designed to collect feedback and opinions from users about the ethics of data in education. This survey aims to understand user perceptions and concerns about data ethics in education and gather information to improve the educational system.

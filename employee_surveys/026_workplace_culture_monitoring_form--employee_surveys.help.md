@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Culture Monitoring Form - Help Guide
 ## Purpose
 The Workplace Culture Monitoring Form is a series of questions designed to gauge employees' perceptions of their work environment, manager support, and other key aspects of their work experience.

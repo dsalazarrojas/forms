@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather nominations for team members to receive awards or recognition within their organization. It's meant to be completed by team members or team leads, and provides a range of categories to select from for the nomination. Each field in this form is meant to provide more specific details about the nominee and their qualifications for the award or recognition.
-The team can use this form to ensure that deserving team members are recognized for their achievements and efforts. The form will be reviewed and verified by a designated person to ensure that the nominations are accurate and fair. Nominations will not be duplicated or repeated to ensure that each team member is only nominated once per category.
-</thinking>
-
 # Team Superlative Nominations Survey - Help Guide
 ## Purpose
 This form is used to gather nominations for team members to receive awards or recognition within their organization.

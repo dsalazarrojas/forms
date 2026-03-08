@@ -1,12 +1,3 @@
-<thinking>
-This form is used to process employee shoe orders, capturing essential information about the employee, order type, status, and other relevant details. The purpose of this form is to ensure accurate and efficient processing of employee shoe orders, making it easier for managers and administrators to track and manage these orders.
-
-Before proceeding, please ensure this form is relevant to your specific use case. If you're looking for a general form for employee shoe orders, this might be the one.
-
-This form has multiple pages and fields. It's essential to fill out each page in order. Please take a moment to review the form structure and fields below to understand the process.
-
-</thinking>
-
 # crews_shoes_order_form - Help Guide
 ## Purpose
 This form is used to process employee shoe orders, capturing essential information about the employee, order type, status, and other relevant details.

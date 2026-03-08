@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that this form is used for its intended purpose and not for duplication. This form will be used to collect data for an elevator pitch generator, which is a concise summary of an individual's professional background, career, and goals. The form is meant to help users effectively communicate their value and qualifications to potential employers or partners. Before proceeding, please review the following guidelines:
-* The form should only be completed once per individual.
-* The information collected will be used for internal purposes only.
-* The form must be filled out in its entirety, with all required fields completed.
-</thinking>
-
 # Elevator Pitch Generator Form - Help Guide
 ## Purpose
 This form is designed to collect information about your professional background, career, and goals. This data will be used to generate a concise and effective elevator pitch that you can use to promote yourself to potential employers or partners.

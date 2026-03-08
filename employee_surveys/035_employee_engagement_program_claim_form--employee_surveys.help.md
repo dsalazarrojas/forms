@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Engagement Program Claim Form - Help Guide
 ## Purpose
 The Employee Engagement Program Claim Form is designed to collect information from employees about their participation in the Employee Engagement Program. This form helps to track and record employee claims, ensuring accurate and up-to-date data for management and decision-making purposes.

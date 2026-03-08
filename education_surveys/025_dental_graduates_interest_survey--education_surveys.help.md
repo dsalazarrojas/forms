@@ -1,5 +1,3 @@
-<thinking> This form is intended for dental graduates to share their interests and preferences regarding their education and career development. It is likely used by the institution or organization offering the survey to understand the demographics and interests of their graduates. The purpose is to gather information on the graduates' current location, years of work experience, practice setting, and other relevant details. This form may be used for internal reporting or research purposes, and it's essential to ensure that the responses are accurate and consistent. Before starting, please check if you have already completed this survey to avoid duplication. If you're unsure about any field or option, feel free to ask for clarification. </thinking>
-
 # Dental Graduates Interest Survey - Help Guide
 
 ## Purpose

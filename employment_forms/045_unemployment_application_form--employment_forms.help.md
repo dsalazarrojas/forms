@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Unemployment Application Form - Help Guide
 
 ## Purpose

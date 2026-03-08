@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain consent for entertainment industry campaigns. 
-The form is designed for campaigns that require publicity, which may include press releases, media interviews, and social media promotions. 
-To avoid duplication, ensure that you have not submitted this form for the same campaign in the past.
-</thinking>
-
 # entertainment_pr_campaign_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent for entertainment industry campaigns, which may involve publicity, promotions, or other forms of exposure.

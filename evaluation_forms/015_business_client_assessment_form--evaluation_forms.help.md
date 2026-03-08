@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the client's business, including their contact information, business assessment, and financial and operational details. To ensure accurate and comprehensive data, it is essential to complete this form for each client. Please make sure to fill out every required field, and provide as much detail as possible for optional fields. If you are unsure about any field, please contact the responsible party for guidance.
-</thinking>
-
 # Business Client Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information about your business clients, including their contact information, business characteristics, and financial and operational details. This data will help us better understand your business needs and provide tailored support and services.

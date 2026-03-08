@@ -1,7 +1,3 @@
-<thinking>
-...The form is designed to gather feedback from humanization specialists regarding their interactions with clients. This feedback is crucial in understanding the quality of services offered, areas of improvement, and client satisfaction. Before filling out this form, please ensure that you have not already provided feedback on this topic to avoid duplication. If you have any questions or concerns, feel free to contact <form@gic.mx>.
-</thinking>
-
 # Humanization Specialist Feedback Form - Help Guide
 ## Purpose
 This form is meant to collect feedback from humanization specialists, helping us understand their experiences and interactions with clients. Your input will aid us in refining our services and services' quality.

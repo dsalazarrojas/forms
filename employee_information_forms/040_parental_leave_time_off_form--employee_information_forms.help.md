@@ -1,11 +1,3 @@
-<thinking>
-The form "Parental Leave Time Off Form" is used to request and manage parental leave for employees. It collects necessary information from both the employee and their manager. The form is used internally by HR or department administrators to assess and process the leave request. This form should not be used for external purposes.
-
-Before filling out this form, please ensure you have all required information and approvals. The employee and manager sections must be completed by the respective individuals. The form should only be submitted once for each parental leave request.
-
-Please note that this form is not for external use, and all information collected is for internal use and processing only.
-</thinking>
-
 # Parental Leave Time Off Form - Help Guide
 ## Purpose
 The "Parental Leave Time Off Form" is used to request and manage parental leave for employees. It is designed to collect necessary information from both the employee and their manager for internal HR or departmental use.

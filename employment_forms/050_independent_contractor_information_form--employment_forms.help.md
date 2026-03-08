@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from independent contractors, including general information, contract details, and payment terms. The form is used to track and manage independent contractor relationships.
-
-Before filling out this form, please ensure you have all necessary documents and information ready. If you've filled out this form previously, you may be able to skip some sections or answer questions that you've already provided in the past.
-
-To avoid errors, double-check the accuracy of your responses and the information provided.
-
-Please note that this form is designed to collect sensitive information, so ensure your responses are accurate and complete.
-
-</thinking>
-
 # Independent Contractor Information Form - Help Guide
 ## Purpose
 This form collects information about independent contractors, including general information, contract details, and payment terms. It helps track and manage independent contractor relationships.

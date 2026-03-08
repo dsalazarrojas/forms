@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed to assess a user's knowledge about the colonial system, specifically its history, effects, and legacy. The form is divided into 11 questions, each focusing on different aspects of the colonial system, including its definition, major powers, periods of expansion, effects on colonized regions, and legacy.
-The questions cover a range of topics, from the Scramble for Africa to the legacy of colonialism today. The form also includes fields for users to express their confidence in their answers and to provide additional feedback.
-</thinking>
-
 # Colonial System Knowledge Assessment - Help Guide
 ## Purpose
 The Colonial System Knowledge Assessment form is designed to evaluate a user's understanding of the colonial system, its history, effects, and legacy.

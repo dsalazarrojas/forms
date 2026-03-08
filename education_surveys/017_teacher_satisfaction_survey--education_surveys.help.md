@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gauge the satisfaction of teachers in a school setting, likely as part of an employee engagement and satisfaction survey. The form asks about their feelings of being valued, receiving feedback, and work-life balance, as well as their willingness to provide feedback and recommend the school. The questions aim to collect qualitative feedback to inform school management and improve teacher satisfaction and engagement. Before starting this guide, please ensure that you have reviewed your school's specific policies and guidelines for completing this form, to avoid duplication of effort or conflicting responses.
-
-Note that some questions are designed to be multiple-choice (e.g., select one or select multiple), while others are open-ended and allow for free-text responses (e.g., note fields). Ensure that you answer each question truthfully and in the spirit of providing helpful feedback.
-</thinking>
-
 # Teacher Satisfaction Survey - Help Guide
 
 ## Purpose

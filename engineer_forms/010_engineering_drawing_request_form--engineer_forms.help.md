@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from users for an engineering drawing request. It is likely used by engineers or other technical teams within the organization to request drawings for specific projects or purposes. The form is designed to be flexible and allow users to provide details such as project location, type of drawing, size, and other relevant details.
-
-To determine if this form is relevant to a user's task, they should consider if they are asking for a drawing for an engineering project or related to a technical task. To avoid duplication, users can check if a similar request has been made previously, and if so, they can reference that instead of submitting a new request.
-
-The form itself is a multi-page form with various fields to input information about the drawing request. The form will likely be reviewed by engineers or technical teams to ensure the request is properly fulfilled.
-
-</thinking>
-
 # Engineering Drawing Request Form - Help Guide
 ## Purpose
 

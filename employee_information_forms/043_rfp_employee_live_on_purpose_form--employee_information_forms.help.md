@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about an employee's live on purpose, including their job title, department, job start date, job status, and various other details. This form is intended for employees who are currently working and provides a way for them to update their information or add new details about their job status. The form is likely used by HR or management to track employee information and updates.
-
-Before filling out this form, please ensure that you have all the necessary information required and that you are not filling out the same information twice. If you are unsure about any of the fields or questions, please ask your HR representative or manager for clarification.
-
-</thinking>
-
 # RFP Employee Live On Purpose Form - Help Guide
 ## Purpose
 The RFP Employee Live On Purpose Form is designed to collect information about an employee's live on purpose, including their job title, department, job start date, job status, and various other details.

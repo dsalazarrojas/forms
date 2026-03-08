@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Champion Recognition Form - Help Guide
 ## Purpose
 This form is designed to gather information for recognizing and showcasing the achievements of individuals within an organization or community. It helps to identify and celebrate outstanding contributions, leadership, and exceptional qualities of nominees. The form will be used to collect feedback and support from colleagues, supervisors, or other members of the organization or community.

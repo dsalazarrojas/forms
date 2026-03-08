@@ -1,5 +1,3 @@
-<thinking>...this form is used for a customer or company to rent a projector and related equipment from us. This form will be used to gather information for the rental agreement, which will include the customer's contact information, rental terms, equipment details, and payment details. The form is divided into several sections: Customer Information, Rental Terms, Equipment Information, Payment Details, Contact Information, Rental Schedule, Rental Price, Equipment Status, and Agreement. Each section is designed to collect specific information required for the rental process...</thinking>
-
 # Projector Rental Agreement Form - Help Guide
 ## Purpose
 This form is used for a customer or company to rent a projector and related equipment from us. The information collected from this form will be used to finalize the rental agreement.

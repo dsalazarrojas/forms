@@ -1,11 +1,3 @@
-<thinking>
-
-The Learning Management System (LMS) Survey is a crucial component in assessing the performance, usability, and user experience of our platform. It is used by platform administrators, instructors, and users to collect and analyze valuable insights that help us refine and improve our platform's features, user interface, and overall experience.
-
-This guide will walk you through the steps and fields required to complete the survey effectively.
-
-</thinking>
-
 # Learning Management System Survey - Help Guide
 
 ## Purpose

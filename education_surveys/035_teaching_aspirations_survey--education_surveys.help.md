@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help educators gather their teaching aspirations, experiences, and opinions on various aspects of their work and institution. It may be used by education administrators, researchers, or HR representatives to gain insights on educator satisfaction, professional growth opportunities, and support systems. Please ensure this form is filled out for a specific purpose and not duplicated for the same goal. Ensure you understand the survey's scope and focus.
-</thinking>
-
 # Teaching Aspirations Survey - Help Guide
 ## Purpose
 The Teaching Aspirations Survey is a tool designed to gather information from educators about their teaching aspirations, experiences, and opinions on various aspects of their work and institution.

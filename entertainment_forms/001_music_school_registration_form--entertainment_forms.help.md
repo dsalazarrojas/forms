@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by parents or students to register for music classes at a school. The form is meant to collect relevant information about the student, including their name, contact details, and class preferences. The form fields are designed to be straightforward and easy to understand.
-</thinking>
-
 # Music School Registration Form - Help Guide
 ## Purpose
 The Music School Registration Form is used to collect information from students and parents to register for music classes at the school. This form helps us understand the student's contact details, class preferences, and other relevant information needed to provide the best learning experience.

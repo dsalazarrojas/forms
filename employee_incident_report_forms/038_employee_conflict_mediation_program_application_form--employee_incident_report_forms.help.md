@@ -1,7 +1,3 @@
-<thinking>
-The form, "Employee Conflict Mediation Program Application Form," is designed to collect information from employees and their managers to facilitate the resolution of conflicts within the workplace. The form is used to gather details about conflicts, ensure both parties' consent, and track the outcome of mediation sessions. To use this form effectively, ensure that you are submitting your request for conflict mediation to your supervisor or HR representative before completing this form. This form should not be used in conjunction with any other conflict resolution processes; if you have already initiated conflict mediation through another process, do not complete this form.
-</thinking>
-
 # Employee Conflict Mediation Program Application Form - Help Guide
 ## Purpose
 This form is used to submit an application for the conflict mediation program. The program aims to resolve conflicts between employees in a fair and constructive manner.

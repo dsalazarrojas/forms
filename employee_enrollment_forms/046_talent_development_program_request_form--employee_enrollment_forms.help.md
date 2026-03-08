@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for requesting enrollment in the Talent Development Program. 
-This form helps to capture essential details about the employee and their training needs. 
-To avoid duplication, it is essential to ensure that the requested training has not been submitted before, and that the employee is not already enrolled in another training session. 
-The submitted form will be reviewed and evaluated based on the provided information. 
-</thinking>
-
 # Talent Development Program Request Form - Help Guide
 ## Purpose
 The Talent Development Program Request Form is a document that captures the necessary details for requesting enrollment in the Talent Development Program. This form is used to ensure that employees have a clear and structured way to request training and development opportunities that align with their interests and skills.

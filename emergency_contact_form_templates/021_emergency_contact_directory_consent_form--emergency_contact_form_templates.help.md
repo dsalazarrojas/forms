@@ -1,12 +1,3 @@
-<thinking>
-This form is used for emergency contact directory consent. The purpose of this form is to collect contact information for emergency purposes, such as in case of an emergency or crisis situation. This form is typically used by organizations to collect contact information for their employees, clients, or customers to ensure that they can be reached in a timely and efficient manner in case of an emergency. It's essential to ensure that this form is filled out accurately and truthfully to maintain the relationship and ensure that the contact can be reached in an emergency situation.
-
-Before proceeding, please ensure that this form is not being filled out as a duplicate. Ensure that you have not already submitted this form, or if you are an authorized representative, ensure that the individual has not already submitted this form.
-
-After reviewing the form, please proceed with filling it out accurately and truthfully.
-
-</thinking>
-
 # emergency_contact_directory_consent_form - Help Guide
 ## Purpose
 The emergency contact directory consent form is used to collect contact information for emergency purposes, such as in case of an emergency or crisis situation.

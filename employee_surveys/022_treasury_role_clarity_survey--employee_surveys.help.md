@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Treasury Role Clarity Survey" form, which is designed to gather information about employee roles and responsibilities within the treasury department. This form is likely created to help the treasury team better understand their roles and clarify any ambiguities or misconceptions that may exist within the department. It's a simple form with three pages, each containing a text field for users to provide their answers.
-</thinking>
-
 # Treasury Role Clarity Survey - Help Guide
 ## Purpose
 The Treasury Role Clarity Survey is a form designed to help the treasury department gather information about employee roles and responsibilities. It's intended to clarify any ambiguities or misconceptions within the department and help the treasury team better understand their roles.

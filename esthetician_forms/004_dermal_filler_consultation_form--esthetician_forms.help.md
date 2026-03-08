@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from patients about their medical history, skin conditions, and other relevant health factors to facilitate a dermal filler consultation. 
-This form ensures that the consultant has all necessary information to provide informed and personalized advice. 
-The form should only be filled out by patients who are preparing for a dermal filler consultation. 
-Please make sure to fill out this form accurately and completely as it will help the consultant provide the best possible results. 
-
-</thinking>
-
 # Dermal Filler Consultation Form - Help Guide
 ## Purpose
 

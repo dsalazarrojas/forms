@@ -1,8 +1,3 @@
-<thinking>
-We have an employee retention survey form used to gather data about employees' satisfaction and opinions on their job roles, work environment, pay, and company policies. This form is meant to improve employee satisfaction and identify areas for improvement in the company's policies and practices. Before completing this form, please ensure you're not already participating in a similar survey. If you're unsure, you can check with your HR department.
-
-</thinking>
-
 # employee_retention_survey_form - Help Guide
 ## Purpose
 The **employee_retention_survey_form** is a tool designed to collect employee feedback on various aspects of their job roles and work environment. By completing this form, you'll help the company understand your concerns, preferences, and suggestions for improvement.

@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended to provide end-users with a clear understanding of the Leadership Training Curriculum Evaluation Form. To confirm, this form is used to evaluate the effectiveness and quality of leadership training programs. Before proceeding, ensure that you have the necessary information and permissions to complete this form. Please note that this form is only for evaluating leadership training programs, and any incomplete or duplicate submissions will not be accepted.
-</thinking>
 # leadership_training_curriculum_evaluation_form - Help Guide
 ## Purpose
 The Leadership Training Curriculum Evaluation Form is designed to assess the effectiveness and quality of leadership training programs. This form helps participants evaluate and provide feedback on their experience, rating the overall and facilitator performance, and offering suggestions for improvement.

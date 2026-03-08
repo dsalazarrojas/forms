@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Battery Discharge Test Log - Help Guide
 
 ## Purpose

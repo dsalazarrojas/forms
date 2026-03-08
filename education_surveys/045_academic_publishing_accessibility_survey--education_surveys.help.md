@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to understand the current state of accessibility practices within the academic publishing industry. The form is designed to gather information from respondents about their role in publishing, familiarity with accessibility standards, barriers to accessible publishing, tools used to improve accessibility, institutional support, training needs, successful examples of accessibility practices, and willingness to adopt accessibility practices. This form is not affiliated with, endorsed by, or derived from any form platform, and is released under CC BY 4.0. Respondents are free to use, modify, and even sell forms derived from it, just give credit.
-
-</thinking>
-
 # Academic Publishing Accessibility Survey - Help Guide
 ## Purpose
 

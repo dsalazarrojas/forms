@@ -1,6 +1,3 @@
-<thinking> 
-This form was generated to collect information from customers interested in booking a fitting at a theater. The purpose of this form is to gather essential details for the customer to be matched with the best wardrobe options available for their event. Please note that the form is not a booking confirmation or payment form, but rather a request for wardrobe information. This form will help the theater staff to understand the customer's requirements and provide them with the most suitable wardrobe options.</thinking>
-
 # Theater Wardrobe Fitting Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in booking a fitting at a theater. Please fill out this form to provide the theater staff with the necessary details to find the best wardrobe options for your event.

@@ -1,5 +1,3 @@
-<thinking>This form is a tool for users to share their recipes with the community. The form is divided into three sections: User Info, Recipe Info, and Sharing Info. To complete this form, follow the steps below.</thinking>
-
 # Recipe Sharing Form - Help Guide
 ## Purpose
 The Recipe Sharing Form is designed to collect information from users about their favorite recipes. By filling out this form, users can share their recipes with the community and potentially gain access to a collection of shared recipes.

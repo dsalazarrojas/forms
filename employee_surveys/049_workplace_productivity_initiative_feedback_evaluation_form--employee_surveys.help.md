@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Productivity Initiative Feedback Evaluation Form - Help Guide
 
 ## Purpose

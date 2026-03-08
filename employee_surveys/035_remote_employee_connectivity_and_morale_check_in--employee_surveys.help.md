@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee feedback on the effectiveness of remote work arrangements and to improve remote connectivity and morale. It seems to be part of a larger effort to understand and address the challenges and opportunities related to remote work. I will assume that the goal of this form is to gather honest and constructive feedback from employees, and that it will be used by management or HR to inform decisions and improvements.
-</thinking>
-
 # Remote Employee Connectivity And Morale Check In - Help Guide
 ## Purpose
 

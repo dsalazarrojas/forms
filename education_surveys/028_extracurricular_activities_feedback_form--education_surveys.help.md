@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect feedback from participants in extracurricular activities or programs organized by the institution. The form is used to gather information on the program's quality, engagement, and overall experience. 
-
-The form should only be used for programs that are specifically designed to collect feedback, and it should not be used for duplicate or unnecessary feedback collection. 
-
-Please ensure that you are using the correct form for the intended purpose and that the feedback collected is relevant and accurate.
-</thinking>
-
 # Extracurricular Activities Feedback Form - Help Guide
 ## Purpose
 The Extracurricular Activities Feedback Form is designed to collect feedback from participants in extracurricular activities or programs. This form helps the institution to evaluate the quality and engagement of the programs and make necessary improvements.

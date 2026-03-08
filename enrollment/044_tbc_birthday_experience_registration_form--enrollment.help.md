@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # TBC Birthday Experience Registration Form - Help Guide
 ## Purpose
 

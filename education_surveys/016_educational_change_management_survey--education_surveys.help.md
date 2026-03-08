@@ -1,9 +1,3 @@
-<thinking> 
-
-This form is intended to collect information from educators about their experiences with and perceptions of the Educational Change Management (ECM) program. The form is designed to gather feedback and suggestions from end-users to help improve the program. Please ensure that you are completing this form only once, and that your responses are accurate and sincere. This guide will walk you through each step of the form.
-
-</thinking>
-
 # Educational Change Management Survey - Help Guide
 ## Purpose
 The Educational Change Management Survey is designed to collect feedback and suggestions from educators on their experiences with the Educational Change Management (ECM) program. Your input will help us understand your needs and improve the program.

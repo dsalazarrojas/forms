@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective help guide for this form, let's first analyze the form's purpose and structure.
 
 The Educational Content Creator Survey form is designed to gather information from educational content creators about their experiences, motivations, and workflows. The form aims to understand how creators produce content, what tools they use, and how they share it with others. This data can help the form administrators and users identify areas of improvement in the content creation process.

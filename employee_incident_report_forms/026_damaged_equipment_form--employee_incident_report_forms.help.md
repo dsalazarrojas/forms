@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Damaged Equipment Form is to report and document equipment malfunctions or damage that has occurred. This form aims to gather details about the damaged equipment, making it easier to report and track incidents. Ensure the correct form is selected when reporting an incident to guarantee the information is captured accurately. This form was created to assist in recording damaged equipment reports, please do not fill out if you are reporting other incident types.
-</thinking>
-
 # Damaged Equipment Form - Help Guide
 ## Purpose
 The Damaged Equipment Form is designed to record incidents of damaged equipment in the workplace. Please use this form when reporting any equipment damage that has occurred.

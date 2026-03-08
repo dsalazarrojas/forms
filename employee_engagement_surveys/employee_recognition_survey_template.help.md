@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to measure employee satisfaction and engagement, specifically in regards to recognition and communication. The goal is to assess the effectiveness of the company's current approach to recognition and gather feedback on potential areas for improvement. By understanding employee perceptions, the organization can refine its recognition strategy to boost morale and productivity. This form is a template for internal use and will not be used for any other purpose.
-
-</thinking>
-
 # employee_recognition_survey_template - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Full Time Employment Application - Help Guide
 
 ## Purpose

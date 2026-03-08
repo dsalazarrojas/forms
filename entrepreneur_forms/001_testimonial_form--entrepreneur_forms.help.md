@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting testimonials from clients or customers about their experience with a business or service. It aims to gather feedback, opinions, and stories that can be used to improve the business's reputation and customer satisfaction. This form will help gather testimonials that are either public or private, and allows users to submit written, image, or video content. The form's purpose is to capture a comprehensive and honest representation of the customer's experience.
-</thinking>
-
 # testimonial_form - Help Guide
 ## Purpose
 The testimonial form is a tool to collect genuine feedback and reviews from customers. It allows customers to provide a public or private testimonial, along with supporting media such as images or videos. This helps the business to understand its customers' opinions and improve its services accordingly.

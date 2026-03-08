@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect demographic and health-related information from users, aiming to promote global health equity awareness. This form is intended for individuals who want to participate in this survey and contribute to this important initiative. To ensure that you are eligible to take this survey, please review the questions carefully and answer truthfully. If you are unsure about any question, please consult with a healthcare professional or contact our support team.
-
-</thinking>
-
 # Global Health Equity Awareness Survey - Help Guide
 ## Purpose
 The Global Health Equity Awareness Survey is designed to collect demographic and health-related information from users, aiming to promote global health equity awareness.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to craft a clear and concise user-facing help guide that will assist end-users in navigating the Dance Industry Partnership Application Form. I will review the provided YAML fields and create a comprehensive guide that includes the form's purpose, steps to complete the form, and detailed explanations of each field. I will ensure that the guide is practical, concrete, and free of ambiguous information.</thinking>
-
 # Dance Industry Partnership Application Form - Help Guide
 ## Purpose
 

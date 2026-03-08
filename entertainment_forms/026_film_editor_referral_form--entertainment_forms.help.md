@@ -1,5 +1,3 @@
-<thinking> The purpose of this form is to collect information from a film editor. It appears to be a referral form used to gather details about the editor's experience, skills, and referrals. The form is not strictly bound to any specific industry or category, suggesting it may be a general form for editors in various fields. The form is quite extensive, with multiple fields for different aspects of a film editor's work. This form is likely used for professional purposes, such as job applications, freelance work, or other business-related activities. </thinking>
-
 # Film Editor Form - Help Guide
 ## Purpose
 The Film Editor Form is designed to collect information about a film editor's experience, skills, and referrals. This form is intended for professional use, such as job applications or freelance work.

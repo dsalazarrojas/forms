@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose of this form, I've analyzed the YAML fields. Based on the structure and options provided, it appears this form is for requesting an upgrade to a piece of equipment, likely for business or organizational use. The form likely serves as a way to gather information from end-users to assess the necessity of an equipment upgrade, identify the type and specifics of the equipment needed, and track the request's status.
-The fields provided seem to cover the basics:
-
-*   Form title and description
-*   Details about the equipment (type, reason for upgrade)
-*   Expected delivery date
-*   Assignee's contact information (phone number, email)
-*   Notes (for additional comments or details)
-To determine how to complete this form, it's essential to understand that it's a simple form with clear and self-explanatory fields. However, some fields have weak or missing labels. For example, the 'equipment_type' field has a label 'equipment_type' and options 'Equipment Type 1', 'Equipment Type 2', and 'Equipment Type 3'. Without additional context, it's difficult to determine the specific meaning of these options without making assumptions. The 'assigned_tool' field also has options 'chatjimmy' and 'Other', which could be a typo or an internal reference.
-</thinking>
-
 # IT Equipment Upgrade Request Form - Help Guide
 ## Purpose
 This form is used to request an upgrade to a piece of equipment for business or organizational use. Fill out this form to provide information about the type of equipment needed and the reason for the upgrade, as well as your contact details and expected delivery date.

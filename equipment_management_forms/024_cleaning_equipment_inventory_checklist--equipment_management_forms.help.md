@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a "Cleaning Equipment Inventory Checklist" designed to help facilities and cleaning staff track and maintain an up-to-date inventory of cleaning equipment. The form is used to gather information about the condition and quantity of various cleaning tools and supplies, as well as any equipment that may be in need of repair or replacement.
-
-The form has several sections: Location Information, Equipment Information, Equipment Issues and Notes, and Supervisor Review. 
-
-The form is intended to be completed by facilities staff or cleaning managers to ensure that the inventory is accurate and comprehensive.
-
-</thinking>
-
 # Cleaning Equipment Inventory Checklist - Help Guide
 ## Purpose
 The "Cleaning Equipment Inventory Checklist" is a tool designed to help facilities and cleaning staff maintain an up-to-date inventory of cleaning equipment. This form helps ensure that all equipment is accounted for, and that any issues or concerns are documented and addressed.

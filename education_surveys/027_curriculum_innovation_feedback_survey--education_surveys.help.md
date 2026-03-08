@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from various stakeholders, including students, teachers, and training providers, on new curriculum initiatives. This feedback will help inform future curriculum development and improvement. Please ensure you are completing this form for the correct initiative and that your feedback is honest and constructive. Note that some fields are mandatory, while others are optional, and are intended to gather more specific or detailed information. Please review each field carefully and answer only what you are certain about.
-</thinking>
-
 # Curriculum Innovation Feedback Survey - Help Guide
 
 ## Purpose

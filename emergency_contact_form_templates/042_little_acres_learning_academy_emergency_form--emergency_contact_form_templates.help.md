@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-This is the internal logic behind this form creation:
+# This is the internal logic behind this form creation:
 - It's for collecting emergency contact information from students' parents/guardians.
 - The form has two main sections: 
   1. Student Information

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the performance of contact data lookup tools. It assesses the user's experience and evaluation of the tool in various aspects, such as accuracy, completeness, ease of use, integration, search speed, API quality, pricing, vendor support, security, and overall recommendation.
-
-This form should only be used for internal, not public evaluation. If you are a vendor providing this tool, do not use this form for self-promotion. The data collected here will be used internally for improvement and decision-making. 
-
-This form is meant to be used by one person per tool evaluation. If multiple people have evaluated the same tool, use the "Final Decision" field to note any disagreements or differences in opinion.
-
-The form is divided into sections for ease of use. Please answer each section as thoroughly as you can, but feel free to skip any questions that do not apply to your experience.
-
-Please note that the API quality question is only relevant if the tool has an API. If the tool does not have an API, please answer "Not Applicable".
-
-</thinking>
-
 # Contact Data Lookup Tool Evaluation Form - Help Guide
 ## Purpose
 The Contact Data Lookup Tool Evaluation Form is designed to collect feedback on the performance of contact data lookup tools. It assesses the user's experience and evaluation of the tool in various aspects, including accuracy, completeness, ease of use, integration, search speed, API quality, pricing, vendor support, security, and overall recommendation.

@@ -1,6 +1,3 @@
-<thinking> 
-The form "virtual_reality_production_grant_application" is used for applying for grants for virtual reality production projects. It's essential to ensure that the form is filled out correctly to increase the chances of a successful grant application. This form should only be filled out by the correct type of organization and on the correct submission dates to be considered for funding. Please note that duplicate or incomplete applications will not be accepted.</thinking>
-
 # virtual_reality_production_grant_application - Help Guide
 ## Purpose
 The virtual reality production grant application form is designed to collect information from organizations seeking funding for virtual reality projects. This guide will walk you through each field of the form to ensure that you fill it out correctly and completely.

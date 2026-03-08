@@ -1,7 +1,3 @@
-<thinking>
-The form "Skincare Event Host Application Form" is designed to collect information from individuals or companies seeking to host their events in a skincare-related context. To use this form, you will need to ensure you have all the necessary information about your event, host details, company details, services provided, and other relevant information. Please review each field carefully to ensure accurate completion.
-</thinking>
-
 # Skincare Event Host Application Form - Help Guide
 ## Purpose
 The Skincare Event Host Application Form is used to collect information from individuals or companies seeking to host their events in a skincare-related context.

@@ -1,8 +1,3 @@
-<thinking> 
-The labour registration form is used to collect essential information about employees, including their basic details, employment status, job titles, and work schedules. This form is designed to be completed by employees or their representatives to provide accurate and up-to-date information for HR or management purposes. Please note that the completion of this form may be mandatory or optional, depending on the company's policies and procedures.
-
-</thinking>
-
 # labour_registration_form - Help Guide
 ## Purpose
 The labour registration form is used to gather and store important employee information for official records and purposes.

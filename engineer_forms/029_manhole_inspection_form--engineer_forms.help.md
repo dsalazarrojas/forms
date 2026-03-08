@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data on manhole inspections, and it's intended to be used by engineers or utility managers for inspection and maintenance purposes. The form will likely be used by utility companies to record the condition, location, and other relevant details of manholes inspected. To the best of my knowledge, this form does not duplicate any existing form and is a generated form with no affiliation or endorsement from any form creation platform. 
-
-</thinking>
-
 # Manhole Inspection Form - Help Guide
 ## Purpose
 The manhole inspection form is designed to collect data on the condition, location, and other details of manholes inspected.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be designed for verifying employee income information for HR purposes. The form may be used for payroll processing, benefits administration, or other HR-related functions. It's likely that this form is intended to gather specific details about an employee's income verification, such as the verification date, period, method, and by whom. However, the exact purpose and usage of the form might not be explicitly stated in the provided YAML. To provide accurate and helpful guidance, it's essential to confirm the form's intended use case with the relevant stakeholders.
-
-Given the YAML provided, it seems that the form is likely used in scenarios where an employee's income needs to be verified for a specific period, and the method and person responsible for verification are also important considerations. The verification period options (6, 12, 24 months) suggest that the form is used for periodic reviews or checks.
-</thinking>
-
 # Employment Income Verification Form - Help Guide
 ## Purpose
 This form is used to verify employee income information for HR purposes, such as payroll processing, benefits administration, or other related tasks.

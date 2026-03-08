@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to gather feedback from users about their online dating experiences and habits. The form is intended to understand users' demographics, preferences, and behavior patterns in relation to online dating. This form will help us understand how users perceive and interact with online dating platforms, which will aid us in improving our services and user experience. This is a one-time survey, and users' responses are anonymous and will be kept confidential. If you have filled out this form before, you can skip it, as your input is already recorded.</thinking>
-
 # Online Dating Survey - Help Guide
 ## Purpose
 This survey is designed to gather your feedback and experiences about online dating. Your responses will help us understand how to better serve you and improve our services.

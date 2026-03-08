@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a thorough business needs assessment, gathering key information about a company's internal and external factors, such as its size, industry, and financial management practices. This form serves as a tool to identify areas that require improvement and provide recommendations for future development. It is essential to ensure that this form is filled out accurately and in its entirety to get a comprehensive understanding of the business's situation.
-</thinking>
-
 # Business Needs Assessment Form - Help Guide
 ## Purpose
 The Business Needs Assessment Form is designed to evaluate a company's internal and external factors, helping identify areas that require improvement and provide recommendations for future development.

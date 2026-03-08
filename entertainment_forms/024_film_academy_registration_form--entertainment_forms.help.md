@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather contact information and interest level from potential Film Academy applicants.
-The main goal is to collect data for future reference and communication. 
-It is recommended that users do not submit the form more than once.
-</thinking>
-
 # Film Academy Registration Form - Help Guide
 ## Purpose
 This form is intended to collect personal and interest information from potential Film Academy applicants. 

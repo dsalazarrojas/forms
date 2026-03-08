@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from users about historical challenges they may have faced in their academic or professional experience. The goal is to understand the types of challenges that users have encountered and how they have overcome them. This information will be used to improve the development of educational resources and services. 
-
-Before proceeding, please ensure you have not filled out this form in the past or have not accessed a similar form. If you are unsure, feel free to ask.
-
-Please provide honest and accurate information about your experiences. Your responses will remain confidential.
-</thinking>
-
 # Historical Challenges Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about the historical challenges you have faced in your academic or professional experience. This will help us improve educational resources and services to better support you and others in similar situations.

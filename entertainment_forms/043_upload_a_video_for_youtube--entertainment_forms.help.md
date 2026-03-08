@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for uploading a video to YouTube. The form is meant to gather data about the video, such as the video URL, description, tags, public status, and any comments or public status associated with the video. This form is intended for use in an entertainment industry context, specifically for uploading videos to YouTube.
-</thinking>
-
 # Upload A Video For YouTube - Help Guide
 ## Purpose
 This form is used to collect information for uploading a video to YouTube, a popular video-sharing platform.

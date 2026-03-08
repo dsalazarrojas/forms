@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on their experience and opinions about the company's management, job satisfaction, company culture, and other aspects of their work environment. The form collects both numerical and text-based feedback, providing a mix of quantifiable and open-ended responses. This allows for both objective and subjective feedback, giving the company a comprehensive understanding of its strengths and weaknesses. To ensure accurate and relevant feedback, please complete the form with thoughtfulness and honesty.
-</thinking>
-
 # employee_opinion_survey - Help Guide
 ## Purpose
 The employee_opinion_survey form is designed to gather feedback from employees on their experience and opinions about the company's management, job satisfaction, company culture, and other aspects of their work environment.

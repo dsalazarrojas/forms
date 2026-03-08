@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate booking and scheduling meetings between teachers and parents for their children. This form is designed to gather essential details such as meeting date, time, and room, as well as student and parent information for the meeting. It also allows for teachers to add any relevant notes or comments for the meeting.
-The form is intended for use by parents, teachers, and school administrators to book and organize meetings in an efficient manner. It is not designed for students to use, as it requires specific information from students' parents or guardians.
-</thinking>
-
 # ET Parent Teacher Meeting Booking Form - Help Guide
 ## Purpose
 This form is designed to facilitate booking and scheduling meetings between teachers and parents for their children. It gathers essential details such as meeting date, time, and room, as well as student and parent information for the meeting.

@@ -1,7 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I need to understand the business logic and requirements behind this form to create an accurate and user-friendly help guide. Upon reviewing the YAML, I notice that this form is designed for estheticians, which are medical professionals who provide skin care and esthetic treatments. The form is titled "Esthetician Client Intake Form" and is divided into several pages, each with its own set of fields. The fields cover various aspects of the client's medical history, allergies, skincare concerns, and medical conditions. The form seems to be designed to gather essential information from clients before providing treatment, ensuring that the esthetician can provide safe and effective care. However, some fields have a required or optional status, indicating that the form is not just about gathering general information but also about filtering out critical medical conditions that may impact treatment. This form may be used by estheticians in spas, clinics, or other medical settings where client care is critical. The fields appear to be mostly self-explanatory, with some fields having a clear label, and others using a type to convey their purpose. I will now create a user-facing help guide for this form based on my understanding.
-</thinking>
-
 # Esthetician Client Intake Form - Help Guide
 ## Purpose
 

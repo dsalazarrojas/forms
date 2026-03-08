@@ -1,10 +1,3 @@
-<thinking>
-# Internal reasoning block: This form is designed to gather information about teaching methods and practices from teachers, which will be used to assess the effectiveness of these methods. This form is likely to be used by educators to identify areas for improvement and to inform professional development opportunities. Before filling out this form, please review the fields below to ensure you are aware of the purpose and scope of the assessment.
-
-This form has been designed to be completed by teachers, so it is assumed that the respondent has some level of knowledge about their teaching practices and methods. This form should only be filled out by people who have direct experience teaching.
-
-</thinking>
-
 # Education Teaching Method Effectiveness Assessment - Help Guide
 ## Purpose
 The Education Teaching Method Effectiveness Assessment is a tool used to gather information about teaching methods and practices from teachers. This assessment aims to help educators identify areas of strength and weakness in their teaching approaches, inform professional development opportunities, and support data-driven decision making.

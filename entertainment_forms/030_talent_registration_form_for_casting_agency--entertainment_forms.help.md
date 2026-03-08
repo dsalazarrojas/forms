@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Talent Registration Form For Casting Agency" to ensure that end-users understand its purpose, how to complete it, and what each field means. This form is designed for individuals to register their talent with the casting agency, providing necessary information for potential casting opportunities. Before proceeding, ensure that you have all required documents and media ready for upload, as some fields may require specific formats. Also, note that some fields may have upload limitations (e.g., file size or number). Review the form carefully to avoid errors or missing information.
-</thinking>
-
 # Talent Registration Form For Casting Agency - Help Guide
 ## Purpose
 This form is a registration platform for talent to share their profiles with the casting agency. It's used to submit your acting, modeling, or other performance-based experiences, skills, and credentials. By filling out this form, you'll increase your visibility to casting agents who may be interested in considering you for potential projects.

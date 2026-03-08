@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information for booking a film pitch presentation. It is used by staff to track and manage film pitch presentations, which are meetings between a production company and a potential client to pitch a film project. This form helps ensure that all necessary details are captured and that the booking status is up-to-date. 
 
 This form should be used by staff members to book and track film pitch presentations. If you are not a staff member, you should not use this form. 

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is used to gauge the level of awareness and engagement among employees with regards to company policies. It is also used to collect feedback and improvement suggestions from employees to help refine the policies.
-
-Before filling out this form, please be aware that the purpose of this survey is to help the organization understand the current state of policy awareness and engagement among its employees. This information will be used to improve the policies and make them more effective for everyone.
-
-Please fill out the form honestly and thoroughly. If you have any concerns or suggestions, feel free to express them.
-
-To ensure that your feedback is accurate and helpful, please be as specific as possible in your responses.
-
-After filling out the form, you will be able to see the results of the survey and how it can be used to inform policy changes.
-
-</thinking>
-
 # discipline_and_guidance_policy_survey - Help Guide
 ## Purpose
 The purpose of this form is to help the organization understand the current state of policy awareness and engagement among its employees, and to collect feedback and suggestions for policy improvements.

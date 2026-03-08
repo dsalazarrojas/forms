@@ -1,8 +1,3 @@
-<thinking>
-This form is used for evaluating the use of data analytics in medicine research. It is crucial to understand the purpose and relevance of this form in order to provide accurate and useful feedback. 
-The form is meant to gather information on various aspects of data analytics in medicine research, including its outcomes, challenges, improvements, data sources, and other supporting tools. It is essential to ensure that all fields are filled out correctly to avoid missing critical information.
-</thinking>
-
 # Data Analytics In Medicine Research Evaluation - Help Guide
 ## Purpose
 This form is designed to help assess the effectiveness and application of data analytics in medicine research. It collects feedback on various aspects of data analytics, including its outcomes, challenges, and improvements.

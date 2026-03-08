@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide users with a clear understanding of the "Animation Studio Behind The Scenes Consent Form". Before proceeding, let's confirm that the form is being used for its intended purpose. This form is used to obtain consent from individuals visiting the animation studio, allowing the studio to use their image and likeness in promotional materials. Ensure that you are using this form for this specific purpose and not for another type of consent or data collection. This form should only be used once for each individual participant, and responses should not be duplicated for multiple uses.
-</thinking>
-
 # Animation Studio Behind The Scenes Consent Form - Help Guide
 
 ## Purpose

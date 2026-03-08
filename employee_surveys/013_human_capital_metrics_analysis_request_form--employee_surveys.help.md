@@ -1,10 +1,3 @@
-<thinking> 
-
-This form is used to analyze and track various metrics related to human capital within the organization. It's essential to complete this form carefully to ensure that the information provided accurately reflects the current state of our employees' skills and performance. Please make sure you have reviewed the provided fields carefully and only fill in the information that is relevant to your current role or responsibilities. 
-
-To avoid duplication, please ensure that the submitted form does not contain any previously submitted forms with the same employee name. 
-
-</thinking>
 # Human Capital Metrics Analysis Request Form - Help Guide
 ## Purpose
 This form is designed to collect relevant metrics and feedback from employees and managers within the organization to help analyze and improve human capital metrics. 

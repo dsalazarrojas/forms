@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is used to verify maintenance records and gather additional information from the requester. The purpose of this form is to ensure that the maintenance record is accurate and complete. This form is typically used by facility management teams to verify the maintenance records for assets such as equipment, vehicles, and other equipment. The form should only be filled out by the person who made the maintenance request or has knowledge about the request.
-
-The form is divided into two pages: "Maintenance Request Details" and "Attachments" (for upload of documents).
-
-</thinking>
-
 # Maintenance Record Verification Request - Help Guide
 ## Purpose
 The Maintenance Record Verification Request form is used to verify the accuracy and completeness of maintenance records. It helps to ensure that the maintenance records are up-to-date, accurate, and complete.

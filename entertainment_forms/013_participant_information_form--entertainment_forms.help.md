@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Participant Information Form - Help Guide
 ## Purpose
 This form is intended to collect participant information for events, conferences, or meetings. It helps to gather details about the participant, such as their name, contact information, and on-site contact details. This information is crucial for event organizers to efficiently manage participant registration, communication, and on-site arrangements.

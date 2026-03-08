@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect employee feedback on their overall experience and satisfaction level at work, to help us improve our employee retention strategy. This form is not intended to be a comprehensive review, but rather a brief and concise way to gauge employee sentiment. Please ensure that each field is filled out according to your genuine feelings and experiences, and avoid duplicating answers as much as possible.
 
 # Employee Retention Strategy Questionnaire - Help Guide

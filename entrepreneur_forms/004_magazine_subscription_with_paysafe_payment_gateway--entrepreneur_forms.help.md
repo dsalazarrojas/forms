@@ -1,13 +1,3 @@
-<thinking>
-This form is likely used for subscription management, specifically for a magazine's subscription service that utilizes the Paysafe payment gateway. The form probably collects information for managing subscriptions, including customer details, payment methods, subscription terms, and billing information. 
-
-This form should be used for administrators to input data about a new subscription, or to update an existing one. However, it's unclear why some fields are not marked as required, such as "Order ID" or "Subscription Term", which might be a critical piece of information for a subscription. It would be a good idea to reconsider the "required" field labels for consistency.
-
-To ensure this form is used correctly, it's essential to have a clear understanding of each field's purpose and requirements. Let's review the form fields one by one to clarify the usage.
-
-The purpose of this form is to create or manage magazine subscriptions with the Paysafe payment gateway.
-</thinking>
-
 # Magazine Subscription With Paysafe Payment Gateway - Help Guide
 ## Purpose
 This form is used for managing magazine subscriptions with the Paysafe payment gateway.

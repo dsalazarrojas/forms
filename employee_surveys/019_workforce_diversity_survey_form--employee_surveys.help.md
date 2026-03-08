@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workforce Diversity Survey Form - Help Guide
 
 ## Purpose

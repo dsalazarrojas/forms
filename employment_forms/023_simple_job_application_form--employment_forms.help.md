@@ -1,5 +1,3 @@
-<thinking>...We should ensure that the end-users understand that this simple job application form is for users to submit their personal and professional information to apply for jobs they are interested in. This form is not a duplicate submission or a test submission, it's a real application, so the user should provide accurate and honest information...</thinking>
-
 # Simple Job Application Form - Help Guide
 ## Purpose
 This form is intended for individuals to submit their job applications for potential employment opportunities. It collects essential information about the applicant, including name, contact details, work experience, and any other relevant credentials.

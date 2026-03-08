@@ -1,15 +1,3 @@
-<thinking>
-
-The Matching Skills Assessment form is a tool designed to evaluate an individual's skills in specific areas. It is not a test, but rather a self-assessment tool to help users reflect on their own skills and abilities. This form is intended to provide a snapshot of a user's skills level, without any time constraints or scoring. Its main purpose is to help users identify areas where they may need further development or improvement. 
-
-This form is part of a larger evaluation process, and the information gathered from it will be used to identify training needs, create development plans, and track progress over time.
-
-When filling out this form, please ensure that your responses are honest and accurate, as this will impact the quality of the feedback and recommendations you will receive.
-
-Before proceeding, please take a moment to review this guide to ensure you understand the purpose and content of the form.
-
-</thinking>
-
 # Matching Skills Assessment - Help Guide
 
 ## Purpose

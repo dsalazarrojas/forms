@@ -1,5 +1,3 @@
-<thinking>...The Orientation Quiz form is designed to help employees understand their role within the organization and provide feedback on their initial experiences, ensuring a smooth transition into their new position. To ensure accurate completion, please only fill out the form once, as repeated submissions might lead to inconsistencies in the data collected. Ensure to complete the form in a way that accurately reflects your thoughts and experiences... </thinking>
-
 # Orientation Quiz - Help Guide
 ## Purpose
 The Orientation Quiz is a form designed to collect information from new employees about their understanding of the organization and their initial feedback on their onboarding experience.

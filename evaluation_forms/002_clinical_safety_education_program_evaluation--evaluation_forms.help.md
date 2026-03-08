@@ -1,25 +1,3 @@
-<thinking>
-Please note that this form is AI-generated and not affiliated with any form platform. It is a unique adaptation for the Clinical Safety Education Program Evaluation topic and category.
-
-The purpose of this form is to evaluate the clinical safety education program that participants attended. It's designed to gather feedback on various aspects of the program, including its content, instructor, and delivery. By filling out this form, participants can provide valuable insights to help improve future programs.
-
-To ensure the quality of the form and its responses, it's essential to fill it out thoroughly and accurately. Please answer each question based on your genuine experience and perceptions.
-
-Before starting to complete the form, make sure you have a good understanding of the following:
-
-* **Clinical Safety Education Program Evaluation**: This form is intended for attendees of the clinical safety education program.
-* **Your Role in Healthcare**: This field will help us understand your background and position in the healthcare industry.
-* **Program Date Attended**: Be sure to enter the date you attended the program.
-* **Program Topic**: Enter the name of the topic covered in the program.
-* **Program Content Evaluation**: Evaluate the quality of the program content, including its clarity, relevance, and depth.
-* **Instructor Evaluation**: Rate the instructor's knowledge, communication skills, and engagement.
-* **Program Delivery**: Feedback on the logistics and format of the program.
-* **Additional Feedback**: Share any additional comments or suggestions you may have.
-
-Please answer the questions honestly, and don't hesitate to add any additional comments or suggestions in the "Additional Comments or Suggestions" field.
-
-</thinking>
-
 # Clinical Safety Education Program Evaluation - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the clinical safety education program you attended. Your input will help us improve future programs.

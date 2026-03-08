@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "music_survey" form, which is part of the "entertainment_forms" category. The form collects user information about their music habits, preferences, and behavior. The purpose of the form is to gather data on user's music engagement, including their music genre, artists they like, frequency of use, age, favorite band, favorite song, preferred music format, social media preferences, user location, music streaming habits, music purchase behavior, and music sharing habits.
-
-The form has 15 fields, each with specific requirements and options. To ensure accurate and helpful information, it is essential to understand the meaning and purpose of each field before completing the form.
-
-Before proceeding, please ensure that you are familiar with the form's purpose and requirements. If you have any questions or need further clarification, please refer to the "Tips" section below.
-</thinking>
-
 # music_survey - Help Guide
 ## Purpose
 The music_survey form collects information on users' music habits, preferences, and behavior, helping us better understand your relationship with music.

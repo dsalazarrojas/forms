@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from buyers and sellers about a business acquisition. It is intended for use in business transactions, such as mergers and acquisitions, and is used to capture details about the buyer and seller entities, as well as the business being acquired. This form should not be used for other purposes, such as general business inquiries or other types of transactions. Before filling out this form, please ensure that you have all necessary information and approvals in place.
-</thinking>
-
 # Business Acquisition Form - Help Guide
 ## Purpose
 The Business Acquisition Form is designed to collect information from buyers and sellers about a business acquisition. It helps to gather details about the buyer and seller entities, the business being acquired, and the terms of the transaction.

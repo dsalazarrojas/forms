@@ -1,15 +1,3 @@
-<thinking>
-
-To avoid duplication and non-relevance, we should confirm that this form is intended for clients to provide information about a project they would like to commission from an artist, including project details, timelines, and budget expectations. This will help us understand the client's expectations and guide the artist in delivering the project accordingly.
-
-If this form is for internal use, please clarify whether the fields are for tracking and managing client projects, or for creating a proposal or agreement for the artist's services.
-
-Also, please review the fields and ensure that they are relevant and necessary for the intended use case. Some fields may be redundant or unnecessary, and removing them would improve the clarity and effectiveness of the form.
-
-Assuming this form is for client-facing purposes, let's move forward with creating a comprehensive help guide for the artist estimate form.
-
-</thinking>
-
 # Artist Estimate Form - Help Guide
 ## Purpose
 The Artist Estimate Form is designed to gather essential information from clients about their artistic project. This form helps artists understand the client's expectations, requirements, and budget constraints, ensuring a smooth collaboration and successful project delivery.

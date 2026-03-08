@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide for the "Reopening School Survey" form. Before diving into the guide, I'll clarify the purpose of the form and ensure that I'm not duplicating any existing documentation.
-
-The "Reopening School Survey" form is designed to collect information from schools and educators regarding their plans for reopening. The form helps administrators and decision-makers understand the current status of schools, their readiness for reopening, and potential challenges or concerns. This form is crucial for making informed decisions about school reopening policies, ensuring a smooth transition and minimizing disruptions.
-
-The purpose of this guide is to walk users through each field of the form, explain its meaning, and provide practical tips for completing it efficiently. By the end of this guide, users will be confident in their ability to fill out the form accurately and effectively.</thinking>
-
 # Reopening School Survey - Help Guide
 ## Purpose
 This form is used to collect information from schools and educators about their plans for reopening. It helps administrators and decision-makers make informed decisions about school reopening policies.

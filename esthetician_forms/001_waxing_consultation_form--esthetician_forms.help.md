@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to provide information for esthetician services, specifically waxing consultations. To ensure that the form is filled out correctly and accurately, please review each field carefully to provide the necessary information. The fields have been carefully selected to minimize duplication and ensure that you have all the required information for the consultation.
-</thinking>
-
 # Waxing Consultation Form - Help Guide
 ## Purpose
 This form is used to gather information from clients for waxing services, including their name, contact information, wax type, areas to be waxed, and appointment details.

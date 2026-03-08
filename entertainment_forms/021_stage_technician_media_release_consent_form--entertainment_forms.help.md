@@ -1,8 +1,3 @@
-<thinking>
-This form was generated using public survey topic metadata, and is an original adaptation. It is not affiliated with, endorsed by, or derived from any form platform. The purpose of this form is to collect information from stage technicians for media release consent. This guide will walk you through the process of completing the form. Please ensure you have read this guide before proceeding.
-
-</thinking>
-
 # Stage Technician Media Release Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from stage technicians for media release consent. It is a crucial document that helps production companies and teams manage media releases for their events, performances, or productions.

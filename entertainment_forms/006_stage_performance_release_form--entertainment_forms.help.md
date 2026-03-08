@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect information about a performer's performance, including contact details, email address, phone number, and permission date. The form also requires a description of the performance, the type of permission granted, and whether certain actions were taken (broadcast, photographs, recordings). The form aims to gather relevant information for future reference and to ensure that all necessary steps are taken for the performance.
-The form contains 14 fields:
-*   Title: The title of the performance.
-*   Performer: The name of the performer.
-*   Contact Information: A field to enter contact details.
-*   Email: The email address of the contact person.
-*   Phone: The phone number of the contact person.
-*   Date of Performance: The date of the performance.
-*   Type of Permission: A select option field to choose whether the permission was granted or not.
-*   Description: A field to enter a description of the performance.
-*   Permission Date: The date when the permission was granted.
-*   Assigned to: The person responsible for the performance.
-*   Notes: A field to enter any notes about the performance.
-*   Broadcast: A select option field to choose whether the performance was broadcast or not.
-*   Photographs: A select option field to choose whether photographs were taken or not.
-*   Recordings: A select option field to choose whether recordings were made or not.
-*   Report: A field to enter any report about the performance.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information about a performer's performance, including contact details, email address, phone number, and permission date. The form also requires a description of the performance, the type of permission granted, and whether certain actions were taken (broadcast, photographs, recordings). The form aims to gather relevant information for future reference and to ensure that all necessary steps are taken for the performance.

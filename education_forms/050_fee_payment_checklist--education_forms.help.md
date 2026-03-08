@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about the payment of fees from students. This form is meant to be used by staff or administrators to record and verify the payment details of students. It is essential to ensure that all required fields are filled out accurately to avoid any discrepancies or errors in the payment record.
 
 ## Fee Payment Checklist - Help Guide

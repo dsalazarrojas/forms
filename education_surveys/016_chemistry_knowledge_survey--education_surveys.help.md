@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a person's knowledge and interests in the field of chemistry. The form is meant to gauge the respondent's level of interest, experience, and understanding in various aspects of chemistry, including atomic structure, bonding, reactions, and applications. The form is likely used to gather data for educational or research purposes, such as to identify areas where students or professionals in the field need improvement or to develop targeted educational materials.
-</thinking>
-
 # Chemistry Knowledge Survey - Help Guide
 ## Purpose
 The purpose of this form is to assess your knowledge and interests in the field of chemistry. It will help us understand your background and preferences, and provide insights that will be useful for educational or research purposes.

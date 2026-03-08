@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to assess a ballet student's performance and progress in a class setting. The purpose of this form is to gather information about the student's technical skills, artistry, and overall development. By completing this form, the instructor or evaluator can provide a comprehensive evaluation of the student's strengths and areas for improvement. This information will help the student track their progress and set goals for the next evaluation period.
-
-This evaluation form will be completed by the instructor or evaluator, and it is essential to fill it out thoroughly and accurately. Please ensure that you provide clear and concise comments for each section.
-
-To complete this form, follow these steps:
-
-1.  Enter the student's full name.
-2.  Enter your name and title as the instructor or evaluator.
-3.  Choose the student's class level.
-4.  Rate the student's technical skills and artistry on a 1-5 scale.
-5.  Provide comments on the student's technique and performance.
-6.  Suggest goals for the next evaluation period.
-7.  Note any attendance issues and their impact on the student's progress.
-8.  Set a date for the evaluation.
-</thinking>
-
 # Ballet Student Evaluation Form - Help Guide
 ## Purpose
 The Ballet Student Evaluation Form is designed to assess a ballet student's technical skills, artistry, and overall development in a class setting. This form helps the instructor or evaluator to provide a comprehensive evaluation of the student's strengths and areas for improvement.

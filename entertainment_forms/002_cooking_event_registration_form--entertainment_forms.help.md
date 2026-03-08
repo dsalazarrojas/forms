@@ -1,5 +1,3 @@
-<thinking> This form is designed for users to register for a cooking event. The form will gather information about the attendee, including their name, email address, phone number, event date, event time, enrolled events, payment method, and any additional notes. The purpose of this form is to collect data for event organization and management. It is not necessary for users to fill out all the fields. </thinking>
-
 # Cooking Event Registration Form - Help Guide
 
 ## Purpose

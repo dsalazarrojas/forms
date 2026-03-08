@@ -1,5 +1,3 @@
-<thinking>Understanding the purpose and design of this form is essential to ensure that users complete it correctly and accurately. The "leadership_practice_inventory_questionnaire" form is a crucial tool for evaluating leadership practices and identifying areas for improvement. It is designed to collect data on various aspects of leadership, including categories, descriptions, assigned tools, and forms IDs. By completing this form, users will contribute to the development of a comprehensive leadership practice inventory, which can help organizations refine their leadership strategies and policies. Please ensure that you have understood the purpose and requirements of this form before proceeding. Duplicate entries must be avoided.</thinking>
-
 # leadership_practice_inventory_questionnaire - Help Guide
 ## Purpose
 The leadership_practice_inventory_questionnaire form is designed to collect data on various leadership practices, including categories, descriptions, assigned tools, and forms IDs. This data will be used to develop a comprehensive leadership practice inventory, which can help organizations refine their leadership strategies and policies.

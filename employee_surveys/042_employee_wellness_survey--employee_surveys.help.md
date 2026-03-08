@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Wellness Survey - Help Guide
 
 ## Purpose

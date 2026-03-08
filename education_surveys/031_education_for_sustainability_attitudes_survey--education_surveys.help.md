@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect feedback and perceptions from educators on their attitudes towards education for sustainability. The survey aims to gather information on how educators perceive the role of education in promoting sustainability and what challenges they face in teaching about sustainability. This form will help gather data to inform decisions and improve education for sustainability programs.
-The form will be used by educators who are interested in sharing their opinions and experiences. There is no duplication of the form, and it's only used for internal purposes to gather feedback.
-</thinking>
-
 # Education For Sustainability Attitudes Survey - Help Guide
 ## Purpose
 The Education For Sustainability Attitudes Survey is a form designed to collect feedback and perceptions from educators on their attitudes towards education for sustainability. This survey aims to gather information on how educators perceive the role of education in promoting sustainability and what challenges they face in teaching about sustainability.

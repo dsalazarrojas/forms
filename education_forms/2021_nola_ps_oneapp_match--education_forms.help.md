@@ -1,18 +1,3 @@
-<thinking>
-The form "2021 NOLA PS OneApp Match" is a tool designed to collect feedback and satisfaction data from students who have applied to New Orleans Public Schools (NOLA PS) through the OneApp platform. This form is meant to gather information about the user's experience with the OneApp process, including their satisfaction with the match outcomes, ease of use, and suggestions for improvement. To ensure accurate and comprehensive results, please complete the form truthfully and thoroughly.
-
-Before starting, please review the form carefully to avoid duplication of efforts. If you have already submitted feedback, please do not submit this form again. Your input is invaluable in helping us refine and improve the OneApp process.
-
-To complete this form, please follow the instructions below:
-
-1.  Fill in the required fields (indicated by a asterisk *).
-2.  Select all that apply for multiple-choice fields.
-3.  Provide specific suggestions for improvement in the "What would you improve or change about 2021 NOLA PS OneApp Match?" field.
-
-Please note that some fields may have specific hints or explanations that will help guide you through the completion process.
-
-</thinking>
-
 # 2021 NOLA PS OneApp Match - Help Guide
 ## Purpose
 The 2021 NOLA PS OneApp Match form is designed to gather feedback from students and families about their experience with the OneApp platform and the matching process.

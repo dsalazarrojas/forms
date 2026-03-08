@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Manager Accessibility Perception Survey - Help Guide
 
 ## Purpose

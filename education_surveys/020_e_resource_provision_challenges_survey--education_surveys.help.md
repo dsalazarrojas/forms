@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # E Resource Provision Challenges Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand the challenges you face when provisioning eResources in your library. Your feedback will help us improve our services and better support your needs.

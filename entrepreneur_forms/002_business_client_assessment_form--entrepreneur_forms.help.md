@@ -1,8 +1,3 @@
-<thinking> 
-We need to ensure that the form is used consistently to collect accurate and relevant information from business clients. This form is designed to gather essential details about the client's business, challenges, goals, and support needs. It will help us provide valuable insights and tailor our consulting services to meet their unique requirements. Please review each field carefully and answer accordingly. If you've filled out our form before, you might find some fields similar to what you completed previously. In that case, feel free to skip them or update your responses if necessary.
-
-</thinking>
-
 # Business Client Assessment Form - Help Guide
 ## Purpose
 The Business Client Assessment Form is designed to gather information about your business, challenges, goals, and support needs to help us provide tailored consulting services.

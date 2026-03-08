@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and usage of the Zoom Webinar Registration Form. 
-The form is intended to collect user information for a webinar hosted on the Zoom platform. 
-It is crucial that users complete the form accurately to ensure a smooth and enjoyable experience for all attendees. 
-Duplicate submissions may lead to unnecessary complications and should be avoided.
-</thinking>
-
 # Zoom Webinar Registration Form - Help Guide
 ## Purpose
 This form is designed to collect user information for a webinar hosted on the Zoom platform. Please fill out the form accurately to help us prepare for the event.

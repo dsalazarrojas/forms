@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the "Report Storm Drain Issues In Your Community" form to ensure that end-users understand its purpose, how to complete it, and what each field means.
-</thinking>
-
 # Report Storm Drain Issues In Your Community - Help Guide
 ## Purpose
 This form is designed to help report storm drain issues in your community, allowing you to notify facility managers and authorities about problems with storm drains in your area.

@@ -1,6 +1,3 @@
-<thinking>
-The form appears to be a survey focused on gathering feedback about procurement services. This form is likely used to gather information about the services provided to employees, such as purchasing frequency, quality, and overall satisfaction. The purpose of this form is to gather feedback from employees on their procurement experiences. I will now create the help guide for the end users.</thinking>
-
 # Procurement Survey - Help Guide
 
 ## Purpose

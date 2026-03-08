@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's analyze the form's purpose. This form is used for employee termination and discharge. The form's purpose is to collect necessary information from the employee and the manager to facilitate a smooth and legal termination process. It's essential that all the fields are filled out accurately and completely. To confirm, this form is not meant for other types of employee changes or updates. It's solely for termination and discharge purposes. Please make sure to complete this form with the correct information.</thinking>
-
 # Employee Termination Discharge Form - Help Guide
 ## Purpose
 The Employee Termination Discharge Form is used to document the details of an employee's termination, including the reason for termination, effective date, and manager approval. This form is essential for maintaining accurate records and ensuring a smooth transition process.

@@ -1,5 +1,3 @@
-<thinking>Understanding the form's purpose is a crucial step in completing it correctly. This form is used to provide an explanation for the negative feedback mechanism in place within the organization. It helps to document and track the reasons behind the negative feedback collection, which can aid in identifying patterns and addressing concerns in a constructive manner. Before proceeding, please ensure that the information being entered is relevant and accurate, and that you are not duplicating existing entries. This form should only be filled out when a new instance of negative feedback collection is being initiated or a review of existing feedback is being performed.</thinking>
-
 # Negative Feedback Mechanism Explanation Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a clear and concise explanation for the negative feedback mechanism in place within the organization. This includes details on who collected the feedback, for whom it was collected, and the frequency and type of feedback collected.

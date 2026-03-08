@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block is intended to check for form purpose, relevance, and non-duplication. It will help in creating a well-crafted help guide that addresses the needs of end-users.
 </thinking>
 

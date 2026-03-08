@@ -1,14 +1,3 @@
-<thinking>
-I've reviewed the provided YAML data for the "Warehouse Incident Report Form" and confirmed that it's a well-structured and organized form designed to collect information about incidents occurring in a warehouse setting. The form includes fields for date, description, time, location, incident type, investigation details, reported by, and status.
-
-The purpose of this form is to gather data on incidents that have occurred in the warehouse, allowing for swift incident reporting, investigation, and resolution. This form should not be used for any other purpose.
-
-The internal reasoning for requiring this form is to standardize incident reporting and improve response times. This form ensures that all incidents are reported and documented in a consistent and organized manner, facilitating efficient investigation and resolution.
-
-The form fields should not be duplicated or used for any other non-approved purpose.
-
-</thinking>
-
 # Warehouse Incident Report Form - Help Guide
 ## Purpose
 The Warehouse Incident Report Form is a standardized report used to document and investigate incidents occurring in the warehouse. Fill out this form to report any incidents that may have occurred, and ensure that they are properly investigated and resolved.

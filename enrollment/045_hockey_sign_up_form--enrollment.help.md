@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hockey Sign Up Form - Help Guide
 ## Purpose
 The Hockey Sign Up Form is designed to collect information from users to determine their eligibility and interest in participating in the hockey program. This form helps the program administrators to verify player details and track player enrollments for the current season.

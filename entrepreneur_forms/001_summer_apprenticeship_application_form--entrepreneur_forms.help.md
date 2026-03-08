@@ -1,5 +1,3 @@
-<thinking>...This form is intended for applicants who are applying for the Summer Apprenticeship program. The goal of the form is to gather essential information about each applicant, including their contact information, relevant skills and experiences, availability, and work preferences. The form is divided into multiple sections, each focusing on a different aspect of the application. It is essential that applicants fill out the form accurately and completely, as the information provided will be used to assess their eligibility for the program...</thinking>
-
 # Summer Apprenticeship Application Form - Help Guide
 
 ## Purpose

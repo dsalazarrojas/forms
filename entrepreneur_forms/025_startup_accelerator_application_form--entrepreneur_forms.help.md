@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a comprehensive application form for start-ups seeking funding or support from a startup accelerator program. The form is designed to gather various information about the start-up, its team, business model, and other relevant details. It seems like the form is intended for entrepreneurs or teams looking to apply for resources, funding, or mentorship from the startup accelerator. The fields included are a mix of text, select_one, select_multiple, select_one, and date/time fields, which suggests that the form is asking for a range of information from basic contact details to more specific business and team-related information. 
-
-Before proceeding, ensure that the fields are relevant and complete. Some fields like "Other Info" might not be necessary if the form is designed to gather specific and focused information. 
-
-This form is likely used by entrepreneurs or teams to showcase their start-up and seek support, and the form is designed to provide a clear and structured way to do so.
-</thinking>
-
 # Startup Accelerator Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from start-ups seeking support, funding, or mentorship from the startup accelerator program.

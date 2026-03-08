@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's Christmas plans and habits. It is meant to be a fun and non-intrusive way to capture data from respondents about their holiday season experiences. This form should only be used for entertainment purposes and not for any actual survey or data collection.
-</thinking>
-
 # Christmas Plans Form - Help Guide
 ## Purpose
 This form is a fun and non-intrusive way to gather information about an individual's Christmas plans and habits.

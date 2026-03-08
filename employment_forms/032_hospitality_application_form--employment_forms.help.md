@@ -1,5 +1,3 @@
-<thinking>This help guide is a companion document to the Hospitality Application Form. It assumes the user has accessed the form and is now looking to complete it. The form is designed to collect information from applicants applying for hospitality industry positions. Before proceeding, ensure you have a strong understanding of your qualifications and experience in the field. This guide will walk you through each section, explaining the purpose and requirements of each field. Please be sure to answer all fields as accurately as possible, but be aware that some fields are optional.</thinking>
-
 # Hospitality Application Form - Help Guide
 ## Purpose
 The Hospitality Application Form is designed to collect information from applicants applying for hospitality industry positions. This form will help us understand your qualifications, experience, and availability for work. Please answer each field carefully, as your submission will be reviewed for completeness and accuracy.

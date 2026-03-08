@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fence Estimation Form - Help Guide
 
 ## Purpose

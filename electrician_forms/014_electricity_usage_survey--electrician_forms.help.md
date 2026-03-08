@@ -1,7 +1,3 @@
-<thinking>
-The "electricity_usage_survey" form is used to track and record information about an electrician's usage and consumption habits. This form will help the users provide details on their electricity usage period, type of usage, the square footage of the building or area being used, and other relevant details about their electricity usage. This form will help in collecting relevant information that can help in understanding and managing electricity consumption better. This guide will help users understand how to fill up the form accurately and efficiently.
-</thinking>
-
 # electricity_usage_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an electrician's usage and consumption habits.

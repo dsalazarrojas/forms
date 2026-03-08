@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and survey information from users after a festival event. This form is designed to gather data about the user's experience at the festival. By completing this form, users will be able to provide their thoughts and opinions on various aspects of the festival, such as their personal details, interaction with festival staff and attendees, and overall impression of the event.
-Before completing this form, it's essential to ensure that you have not already submitted a survey for the same festival. Please check your email or messaging history for any previous submissions.
-</thinking>
-
 # post_festival_survey - Help Guide
 ## Purpose
 The post_festival_survey form is designed to collect feedback and survey information from users after a festival event.

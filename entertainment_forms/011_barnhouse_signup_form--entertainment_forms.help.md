@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my primary concern is making sure that end-users understand the purpose and functionality of this form, which is the "Barnhouse Signup Form". The form is for collecting information from individuals interested in joining the Barnhouse, a venue that hosts various events such as live music concerts, wedding receptions, private parties, and more. The form aims to gather essential details about the individual, including their name, contact information, event interests, group size, and other relevant details to tailor services and communication to their needs. I'll review each field carefully to ensure that I can create a comprehensive help guide for the end-users.</thinking>
-
 # Barnhouse Signup Form - Help Guide
 ## Purpose
 The Barnhouse Signup Form is used to collect information from individuals interested in attending or joining the Barnhouse events. This form is used to gather details about you, such as your contact information, event interests, and other relevant details to help us tailor our services and communication to your needs.

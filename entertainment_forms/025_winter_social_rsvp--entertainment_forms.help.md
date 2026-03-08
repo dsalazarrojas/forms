@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Winter Social RSVP - Help Guide
 ## Purpose
 This form is designed to collect information from attendees to a winter social gathering. It will help us get a headcount, track attendance, and understand which products people are bringing.

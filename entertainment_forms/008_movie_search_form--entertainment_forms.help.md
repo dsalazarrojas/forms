@@ -1,5 +1,3 @@
-<thinking>...this form is designed to help users find movies based on their search preferences...</thinking>
-
 # Movie Search Form - Help Guide
 
 ## Purpose

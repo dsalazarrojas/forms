@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for music rights management, where artists and rights holders can submit information about their music works, ownership status, and other relevant details. This form helps to streamline the process of applying for music rights management, ensuring that all necessary information is provided and reducing the risk of errors or missing data. By using this form, the artist and rights holders can ensure that their music works are accurately registered and managed, which can help to prevent copyright infringement and ensure fair compensation.
-</thinking>
-
 # Music Rights Management Application Form - Help Guide
 ## Purpose
 This form is used to provide information for music rights management. It includes fields for artist and music work details, ownership status, and other relevant information.

@@ -1,11 +1,3 @@
-<thinking>
-
-The Case Competition Application Form is designed to collect information from individuals or teams interested in participating in the Case Competition, a program aimed at developing innovative solutions for a specific challenge. This form is intended for both new and experienced competitors, and its completion is a necessary step to register for the competition. Please note that the form is not meant to be completed multiple times by the same individual or team.
-
-Before submitting your application, please ensure that you are not duplicating your entry, as this may lead to confusion and disqualification. If you have any questions or concerns, please don't hesitate to contact us.
-
-</thinking>
-
 # Case Competition Application Form - Help Guide
 ## Purpose
 The Case Competition Application Form is designed to collect information about your background, interests, and proposed solution for the competition. This information will be used to evaluate your eligibility and potential for participation.

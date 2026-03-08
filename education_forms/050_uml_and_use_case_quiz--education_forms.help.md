@@ -1,5 +1,3 @@
-<thinking>This form is intended to create a comprehensive understanding of Unified Modeling Language (UML) and use cases for users. The purpose of this form is to provide a series of multiple-choice questions and answer fields designed to assess the user's knowledge on the subject matter. This form can be used for educational purposes, research, or professional development. It is not affiliated with any specific product or platform, and its content is solely based on public survey topic metadata. The form is a part of the AI-generated form category and can be used as is or adapted for other purposes, as long as credit is given to the original creators. I will now provide a detailed help guide for this form.</thinking>
-
 # UML and Use Case Quiz - Help Guide
 ## Purpose
 The UML and Use Case Quiz form is designed to test your knowledge on Unified Modeling Language (UML) and use cases. This form is a series of multiple-choice questions and answer fields that aim to assess your understanding of UML and use cases.

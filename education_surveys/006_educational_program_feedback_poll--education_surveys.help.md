@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback on educational programs, allowing users to express their satisfaction with the program's content, organization, and overall experience. The form is intended to be filled out by participants after completing a session of the educational program.
-</thinking>
-
 # Educational Program Feedback Poll - Help Guide
 ## Purpose
 This form is a tool for gathering feedback from participants on educational programs.

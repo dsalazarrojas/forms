@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from the wedding coordinator about the details of the wedding event. The purpose of this form is to gather essential data for the coordinator to provide an accurate estimate for the wedding services. The form collects information such as the wedding date, location, number of guests, ceremony type, and other relevant details. 
-
-This form does not duplicate any other forms in the system. Each field is designed to capture specific and unique information about the wedding event. 
-
-</thinking>
-
 # Wedding Coordinator Estimate Form - Help Guide
 ## Purpose
 The Wedding Coordinator Estimate Form is a tool to gather essential information for wedding planning and budgeting. This form helps the wedding coordinator to provide accurate estimates for the wedding services by collecting details such as date, location, guest count, and vendor requirements.

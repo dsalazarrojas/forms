@@ -1,8 +1,3 @@
-<thinking>
-...the form is likely used to gauge the confidence level of employees in the financial governance of a company. This form is probably used to identify areas where the company's financial governance policies and practices need improvement. To ensure the survey is completed correctly, the responses should reflect an individual's honest opinions and experiences.
-...to prevent duplication of effort, make sure to complete the survey only once. If there are any questions or concerns, feel free to ask your supervisor or HR representative for assistance.
-</thinking>
-
 # Financial Governance Confidence Survey - Help Guide
 ## Purpose
 

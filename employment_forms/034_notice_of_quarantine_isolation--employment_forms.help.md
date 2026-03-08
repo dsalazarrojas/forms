@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Notice Of Quarantine/Isolation - Help Guide
 ## Purpose
 The Notice of Quarantine/Isolation form is used to document a situation where an individual has been exposed to or is currently under quarantine or isolation due to a positive test result. This form is used to provide a record of the exposure history and to notify relevant parties of the individual's status.

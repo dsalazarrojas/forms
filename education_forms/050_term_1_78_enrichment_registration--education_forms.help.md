@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is properly filled out for accurate processing. Please fill out the form in its entirety, ensuring all required fields are completed, and make sure to select the correct options when prompted. This form is designed to collect specific information for a "term 1-78 enrichment registration," which may involve a class or program. Please take the time to review each field carefully to ensure accuracy.
-</thinking>
-
 # term_1_78_enrichment_registration - Help Guide
 ## Purpose
 This form is used to register for the Term 1-78 Enrichment program. Please fill out the form accurately and completely to ensure that your application is processed correctly.

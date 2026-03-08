@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be designed to collect information from candidates for job opportunities in Europe. The form is likely used by employers or recruiters to gather relevant details from potential employees. Given the fields included, such as contact information, work experience, education, and social media links, it seems to be a fairly standard form for collecting candidate information. However, the exact use case and purpose might be more specific to the organization or industry the form is being used in.
-
-To confirm, can I ask if this form is intended for internal use within the organization or will it be shared publicly, such as on a website or job board?
-
-Assuming it's for internal use, I'd focus on creating a user-friendly help guide that walks the user through each field's purpose and expected input. If it's for public sharing, I'd emphasize the importance of accuracy and completeness in the form submission.
-
-Please let me know your preference.
-
-</thinking>
-
 # Work Opportunities In Europe - Help Guide
 ## Purpose
 This form is designed to collect information from candidates for job opportunities in Europe. Please fill out the form with your relevant details to help us get in touch with you.

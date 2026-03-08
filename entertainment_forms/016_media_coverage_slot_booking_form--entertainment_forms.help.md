@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users regarding media coverage bookings. This form is used to determine the availability of media slots for events or programs and to track the status of these bookings. Users are asked to fill out the form with relevant details about the media coverage they are interested in booking. The form is divided into multiple pages, each with different fields to collect specific information.
 
 </thinking>

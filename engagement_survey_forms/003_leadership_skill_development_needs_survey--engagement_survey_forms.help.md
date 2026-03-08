@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess the leadership skills and development needs of team members. It's essential to complete this form to help identify areas where team members need improvement and provide guidance on the next steps for development. Ensure that you're only submitting the form once, and it's not a duplicate or unnecessary submission, as it may lead to confusion and affect the team's development strategy.
-
-</thinking>
-
 # Leadership Skill Development Needs Survey - Help Guide
 ## Purpose
 This form is designed to help the leadership team understand the current leadership skills and development needs of its members. It will guide the team in identifying areas where members need improvement and provide guidance on the next steps for development.

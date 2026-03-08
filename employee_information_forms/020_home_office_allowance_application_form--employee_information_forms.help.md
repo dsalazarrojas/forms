@@ -1,14 +1,3 @@
-<thinking>
-To ensure that employees understand the purpose and process of filling out the Home Office Allowance Application Form, let's first consider why this form is being used and how it can be filled out correctly. This form is intended for employees to apply for home office allowances, which are financial benefits that help employees work from home due to special circumstances. To avoid any confusion or duplication of efforts, please review the following instructions before filling out the form.
-
-The form consists of several fields that need to be completed in order to process the application correctly. Here are some general guidelines on how to fill out the form:
-
-*   Ensure that all required fields are filled out.
-*   Be honest and accurate when providing information in each field.
-*   Review each field explanation below for specific guidance on how to fill it out.
-
-</thinking>
-
 # Home Office Allowance Application Form - Help Guide
 ## Purpose
 The Home Office Allowance Application Form is a form used by employees to apply for home office allowances. This form is designed to gather necessary information to process the application and provide employees with the financial benefits they need to work from home.

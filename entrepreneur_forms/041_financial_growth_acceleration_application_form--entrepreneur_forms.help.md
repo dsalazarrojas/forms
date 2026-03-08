@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from entrepreneurs and businesses to assess their financial growth acceleration needs. It's designed to help businesses understand their current financial situation, goals, and strategies for achieving growth. This form is likely used by entrepreneurs, small business owners, or growth-stage companies to get guidance on their financial growth acceleration process.
-This form may be part of a larger financial planning or advisory process, where an advisor or consultant will review the answers and provide personalized guidance on growth strategy, funding, and other financial matters.
-</thinking>
-
 # Financial Growth Acceleration Application Form - Help Guide
 
 ## Purpose

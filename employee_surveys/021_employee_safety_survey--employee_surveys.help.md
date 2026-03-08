@@ -1,6 +1,3 @@
-<thinking>
-This is a form for gathering feedback and suggestions from employees regarding the company's safety practices and culture. This form is designed to be a one-time or semi-regular survey to help the company identify areas of improvement. The form is likely to be distributed to employees at regular intervals, such as annually, semi-annually, or quarterly, depending on the company's specific needs. The purpose of this survey is to understand employee perceptions and concerns regarding safety and to gather suggestions for improvement. It's worth noting that the form has multiple pages with different questions and sections, indicating that it's a comprehensive survey.
-</thinking>
 # Employee Safety Survey - Help Guide
 ## Purpose
 The Employee Safety Survey is designed to gather feedback and suggestions from employees regarding the company's safety practices and culture. This form helps the company understand employee concerns and perceptions, and gather suggestions for improvement.

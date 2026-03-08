@@ -1,5 +1,3 @@
-<thinking>...The following is a guide for the "Remote Work Ergonomic Assessment" form, which aims to identify and assess potential ergonomic risks for employees working remotely. This form is designed to gather information on the employee's workstation setup, ergonomic risks, and solutions to mitigate them. It's intended for completion by employees and their supervisors to improve working conditions while working remotely. To avoid duplication of data, please ensure that this form is filled out only once for each employee. Please answer the questions accurately and to the best of your ability. You may need to refer to the company's policies on remote work or consult with your supervisor or HR department for guidance on certain questions.</thinking>
-
 # Remote Work Ergonomic Assessment - Help Guide
 ## Purpose
 

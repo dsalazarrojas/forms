@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We have created a form for users to collect information about ancient human sites. This form is designed to gather data that can be used for research and analysis. To ensure the quality and accuracy of the data, please complete the form carefully and truthfully. 
 
 Please note that each field is labeled clearly, and the form has been designed to be easy to navigate. If you have any questions or concerns, please contact us for assistance.

@@ -1,13 +1,3 @@
-<thinking>
-This help guide will assist users in understanding the purpose and requirements of the Automotive Sales Representative Interview Form. It is a form designed to assess the qualifications and abilities of potential candidates for sales positions in the automotive industry. The form is divided into sections that cover various aspects of a sales representative's skills and experience. The purpose of the form is to gather information that will help in making an informed decision about the candidate's suitability for the position.
-
-Before starting the form, it's essential to note that the candidate name, email address, phone number, and position applied for are required fields. Additionally, the candidate's knowledge of automotive products, features, and financing options, as well as their sales skills and objection-handling abilities, will be evaluated. The form's questions are designed to assess the candidate's experience and expertise in the automotive sales industry.
-
-The form consists of multiple sections, each covering a specific area of the candidate's qualifications. The sections include candidate information, interview details, sales background, product knowledge, sales skills, and an overall assessment. 
-
-Please refer to the guide below for a detailed explanation of each section and field.
-</thinking>
-
 # Automotive Sales Representative Interview Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a candidate's experience, skills, and qualifications for a sales position in the automotive industry.

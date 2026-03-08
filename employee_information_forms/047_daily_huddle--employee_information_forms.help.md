@@ -1,7 +1,3 @@
-<thinking>
-The Daily Huddle form is used to collect employee information. This form appears to be a comprehensive collection of various employee details, including contact information, work schedule, and notes. The fields seem to be a mix of single-value fields, multiple-value fields, and date/time fields. However, it's essential to review each field's purpose to ensure accuracy and relevance. Please verify that this form aligns with the actual use case and requirements.
-</thinking>
-
 # Daily Huddle - Help Guide
 ## Purpose
 The Daily Huddle form is used to collect and record employee information for daily operations. This form gathers essential details such as employee name, contact information, work schedule, and notes.

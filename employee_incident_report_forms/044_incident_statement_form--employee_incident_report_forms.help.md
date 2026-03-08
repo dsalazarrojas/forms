@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # incident-statement-form - Help Guide
 
 ## Purpose

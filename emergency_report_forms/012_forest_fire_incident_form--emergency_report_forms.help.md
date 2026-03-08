@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for reporting forest fire incidents. The purpose of this form is to gather information about forest fires in a structured way, making it easier for incident responders to quickly and accurately assess the situation. When filling out this form, please ensure that you are reporting the correct incident type and status to provide accurate assistance. Please do not report duplicate incidents unless the status has changed.
-
-</thinking>
-
 # Forest Fire Incident Form - Help Guide
 ## Purpose
 This form is used for reporting forest fire incidents.

@@ -1,5 +1,3 @@
-<thinking>As a science fair organization, this form is designed to gather feedback from participants, judges, and organizers on various aspects of the event. The purpose of this form is to collect ratings and comments on several key areas, such as the overall satisfaction, improvement areas, event team, event organization, faculty, and organizers. This form will help us identify areas of improvement and make necessary adjustments for future events. Please ensure that you have read the form carefully and answered all questions truthfully, as this will help us provide better services to our participants and improve the quality of our events.</thinking>
-
 # science_fair_organization_feedback_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from participants, judges, and organizers on various aspects of the science fair event. Your input will help us identify areas of improvement and make necessary adjustments for future events.

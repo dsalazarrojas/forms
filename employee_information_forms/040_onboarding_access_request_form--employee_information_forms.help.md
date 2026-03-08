@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate employee onboarding and grant access to specific resources. This process is typically required when an employee is starting a new role or joining a new department. The form is used to gather necessary information about the employee and their manager to determine the appropriate access level and resources needed for the new role. Please ensure that this form is completed accurately to avoid any potential issues with access levels or resources.
-</thinking>
-
 # Onboarding Access Request Form - Help Guide
 ## Purpose
 The Onboarding Access Request Form is used to grant access to new employees for their new role. It requests information about the employee, their job title, department, employee ID, manager's name, manager's title, manager's department, access level, resources, date, time, and reason for request.

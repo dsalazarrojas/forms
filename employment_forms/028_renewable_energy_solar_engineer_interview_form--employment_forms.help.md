@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for individuals seeking to provide information about themselves as part of the hiring process for a renewable energy solar engineer position. The form is likely used to gather data for resume screening, interview preparation, or other purposes. It may be used by HR personnel, hiring managers, or recruiters to evaluate candidates.
-</thinking>
 # Renewable Energy Solar Engineer Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information about your background, experience, and skills as a candidate for a renewable energy solar engineer position. Please fill in the form accurately and thoroughly to help us assess your qualifications.

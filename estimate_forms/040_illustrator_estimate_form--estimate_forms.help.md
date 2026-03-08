@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the form purpose, I'll analyze the fields. The form seems to be related to project management, specifically for estimating purposes. The fields include project details, client information, services offered, project status, budget, and notes. It appears to be designed for project managers or administrators to gather information about ongoing or upcoming projects. I'll assume the form is used to track and manage projects.
-
-To avoid duplication, I'll review the provided fields and ensure each one serves a distinct purpose.
-
-</thinking>
-
 # Illustrator Estimate Form - Help Guide
 ## Purpose
 The Illustrator Estimate Form is a project management tool designed to track and manage ongoing or upcoming projects. It gathers necessary information for project leaders and administrators to understand project scope, client details, and project status.

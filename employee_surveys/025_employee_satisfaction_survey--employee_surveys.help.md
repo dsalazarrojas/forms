@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed to collect feedback and satisfaction data from employees, likely to measure employee engagement, sentiment, and overall job satisfaction. The form consists of multiple pages with various types of fields, including text, select-one, select-multiple, number, email, note, and date fields. It seems that the form is meant to be completed by employees and is likely used for internal purposes, such as HR or management. It's possible that the form is used for regular check-ins, surveys, or employee feedback sessions.
-
-Please note that I'll assume this form is intended for internal use within an organization and is not intended for public use or external sharing. I'll also assume that the fields are designed to collect specific information for HR purposes and not for public consumption.
-
-If you'd like to clarify any of these assumptions, please let me know, and I'll adjust my response accordingly.</thinking>
-
 # Employee Satisfaction Survey - Help Guide
 
 ## Purpose

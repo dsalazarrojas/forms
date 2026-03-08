@@ -1,14 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the "Fortune Teller Feedback Form" to ensure that end-users understand the form's purpose, how to complete it, and what each field means. This form is part of the "entertainment_forms" category and appears to be a feedback mechanism for a tarot reading service. 
-
-The form likely aims to gather information about the experience of the tarot reading service, including the reading length, type, and overall experience, as well as feedback and suggestions. The rating system and comments fields suggest that the form is also meant to collect quantitative and qualitative feedback. 
-
-To avoid duplication, we should ensure that the form is not already covered by existing resources, and that the provided information is clear and concise. We should also consider that the form may have technical requirements such as email and phone number fields. 
-
-We need to carefully examine the schema to provide accurate and helpful explanations for each field.
-
-</thinking>
-
 # Fortune Teller Feedback Form - Help Guide
 ## Purpose
 The Fortune Teller Feedback Form is designed to gather information about your experience with the tarot reading service. This form aims to provide valuable insights to help us improve our service and provide better experiences for you and other customers. 

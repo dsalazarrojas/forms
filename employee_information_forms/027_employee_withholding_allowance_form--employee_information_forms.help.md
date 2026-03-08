@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Withholding Allowance Form - Help Guide
 
 ## Purpose

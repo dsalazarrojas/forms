@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to document and report incidents involving needle stick injuries in a hospital setting. The form is used to gather information about the incident, including the date, location, type of injury, and any necessary safety precautions. This information is vital for ensuring that the necessary steps are taken to address the injury and prevent future incidents. It is recommended that this form be completed as soon as possible after the incident to ensure accuracy and completeness of the record.
-
-</thinking>
-
 # Hospital Needle Stick Injury Incident Report Form - Help Guide
 ## Purpose
 The purpose of this form is to document and report incidents involving needle stick injuries in a hospital setting.

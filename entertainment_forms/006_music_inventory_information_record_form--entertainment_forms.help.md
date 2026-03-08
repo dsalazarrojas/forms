@@ -1,11 +1,3 @@
-<thinking>
-This form is used to record information about music records, including their artist, album, release date, and purchase details. It's likely used for inventory management in an entertainment-related setting, such as a record store or a music archiving service. This form is not intended for high-priority or time-sensitive submissions, and its main purpose is to provide a simple and easy-to-use interface for recording and managing music records.
-
-This form may be part of a larger system or database for tracking music-related data, and it's likely that the submitted data will be reviewed and edited by administrators before being finalized. Therefore, users should not rely solely on this form for accurate information.
-
-The form fields and their options are likely intended to be straightforward and easy to understand, but if you're unsure about any field, please review this help guide carefully before proceeding.
-</thinking>
-
 # Music Inventory Information Record Form - Help Guide
 ## Purpose
 This form is used to record and manage music records, including artist, album, release date, and purchase details.

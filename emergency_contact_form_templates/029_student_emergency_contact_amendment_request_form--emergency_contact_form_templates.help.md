@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request an amendment to a student's emergency contact information. It is intended for students who wish to update their emergency contact details, such as their guardians' addresses or phone numbers. This form helps ensure that the student's emergency contact information is up-to-date and accurate.
-
-Before completing this form, please ensure that you have not already submitted a request for an amendment to the same emergency contact information. If you have previously submitted a request, it is recommended to wait for the original request to be processed before submitting a new one.
-
-</thinking>
-
 # Student Emergency Contact Amendment Request Form - Help Guide
 ## Purpose
 This form is used to request an amendment to a student's emergency contact information.

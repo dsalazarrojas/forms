@@ -1,11 +1,3 @@
-<thinking>... internal reasoning and validation ...
-
-This form is designed to collect information about the user's background and experience with conditioning concepts. The form is meant to be completed by individuals who are taking part in a study or research project related to conditioning. The purpose of this form is to gather data on the user's understanding, experience, and interest in conditioning, which will be used to assess their qualifications and suitability for the study or project. 
-
-Please ensure that you complete this form accurately and honestly. The information collected will be used solely for the purpose of this research project. If you have any questions or concerns, please contact the research team.
-
-</thinking>
-
 # Conditioning Questions Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information about your background and experience with conditioning concepts. It will be used to assess your qualifications and suitability for a study or research project.

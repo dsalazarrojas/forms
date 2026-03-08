@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to register for a college event. The form asks for personal contact information, event details, and preferences such as workshop attendance and meal choices. This form is used for internal registration and planning purposes, and the data collected will be used to manage event attendance and accommodations. It is essential to fill out this form accurately and completely to ensure that you receive the necessary information and resources for the event.
-</thinking>
-
 # College Event Registration Form - Help Guide
 ## Purpose
 The College Event Registration Form is a crucial document that helps us manage event attendance, accommodations, and preferences.

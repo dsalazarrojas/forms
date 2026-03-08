@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect medical clearance information from employees to ensure that they are fit to work without posing any health risks to themselves or others. The form will help the HR department to assess whether an employee has any medical conditions that may need to be addressed before returning to work after a leave of absence or injury. This form will also be used as a reference for future medical clearance checks.
-</thinking>
-
 # Medical Clearance Form - Help Guide
 ## Purpose
 The Medical Clearance Form is designed to gather information about an employee's health status, including any medical conditions, clearance type, and details about their medical clearance. This form is essential for ensuring the employee's safety and well-being in the workplace.

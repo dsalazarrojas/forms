@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their preferences and priorities when it comes to choosing a baby name. The purpose of this form is to gather data that will help in generating name suggestions for new parents. The form is optional and does not require any information to be filled out. Users can choose to answer any or all of the questions to help us better understand their preferences. Please note that the form is not meant to be a comprehensive or definitive survey, but rather a starting point for generating name suggestions based on user input.
-
-The form consists of 9 fields, each asking a different question about baby naming preferences. Users should feel free to answer any or all of the questions to the best of their ability.
-
-This guide will help users navigate each field and provide context for their answers.
-
-</thinking>
-
 # Baby Names Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their preferences and priorities when it comes to choosing a baby name.

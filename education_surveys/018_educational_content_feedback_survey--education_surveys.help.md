@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to gather feedback from students on the educational content of a course. The purpose of this form is to improve the quality of the course content by getting an honest and constructive feedback from students. This feedback will help the course creators to identify areas of strength and weakness of the course content and make necessary adjustments to make it more engaging and effective for future students. 
-
-</thinking>
-
 # Educational Content Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from students on the educational content of a course. Your input will help course creators improve the quality of the course and provide a better learning experience for future students.

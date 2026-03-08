@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Work Experience Survey Form - Help Guide
 ## Purpose
 This form is designed to gather information from employees about their experiences with remote work. It is intended to help the company understand the benefits, challenges, and best practices related to remote work arrangements, ultimately informing decisions on implementing or optimizing remote work policies.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from job seekers who are applying for government initiatives. The purpose of this form is to ensure that job seekers provide accurate and relevant information about themselves, their qualifications, and their agency's details. This form will help government agencies to process the applications and make informed decisions.
-
-Please note that this form is designed for internal use and not for public display. The form is meant for government agencies to collect information for their internal use only.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to complete it. This form is not intended to be filled out by unauthorized individuals or for commercial purposes.
-
-</thinking>
-
 # Government Initiative Employment Application - Help Guide
 ## Purpose
 This form is used to collect information from job seekers who are applying for government initiatives. It is intended to help government agencies process applications and make informed decisions.

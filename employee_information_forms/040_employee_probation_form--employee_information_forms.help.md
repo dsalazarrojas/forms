@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the employee probation process. This process is used when a new hire is in a trial or test period where their performance is being closely monitored. The form helps to track and evaluate an employee's performance during this period, providing feedback and areas for improvement. This form is a critical component of the employee onboarding process and should be completed for all new hires entering a probationary period.
-</thinking>
-
 # Employee Probation Form - Help Guide
 ## Purpose
 The Employee Probation Form is used to document the employee probation process, tracking and evaluating an employee's performance during their trial or test period.

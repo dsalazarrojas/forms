@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect feedback from employees about their experience and opinions regarding employee resource groups within the organization. The primary goal of this form is to gather information on areas where employees feel supported or unsupported, where they have had success or challenges, and what they would like to see improved in the future. This form will help leadership understand the needs and concerns of their employees, providing valuable insights to make informed decisions. It is recommended that the form be completed honestly and thoughtfully, as it will help shape the future of employee resource groups within the organization.</thinking>
-
 # Employee Resource Group Feedback Evaluation Form - Help Guide
 ## Purpose
 The Employee Resource Group Feedback Evaluation Form is a tool designed to gather feedback from employees about their experiences with employee resource groups within the organization. This form helps leadership understand employee needs, concerns, and areas of improvement.

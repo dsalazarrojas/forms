@@ -1,15 +1,3 @@
-<thinking>
-The form is designed to gather feedback from users on their online popularity survey experience. This feedback will help in understanding user preferences, demographics, and engagement with the website.
-
-To ensure that this form is filled out correctly, we should make sure that the user has a clear understanding of what each field is for. This form is meant to be filled out by users who have visited the website and have a genuine interest in providing feedback.
-
-This form should not be filled out by users who have not visited the website or do not have any interest in providing feedback. 
-
-We should also make sure that this form is not a duplicate of any existing form that may be used for similar purposes.
-
-To fill out this form correctly, please follow the instructions below.
-</thinking>
-
 # Online Popularity Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their online popularity survey experience. Your feedback will help us understand how you engage with our website and what we can do better.

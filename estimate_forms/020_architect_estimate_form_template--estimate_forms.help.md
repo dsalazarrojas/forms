@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their architectural projects, including client contact details, project specifics, and timelines. The form has two main sections: "Client Information" and "Project Details". The form is designed to be completed by clients to provide accurate and relevant information about their projects, which will be used by architects to estimate the project's scope and timeline.
-
-This form has been designed to be completed by clients to provide accurate and relevant information about their projects. This form is intended to help architects estimate the project's scope and timeline, and ensure that they have all the necessary information to provide accurate and efficient services to the client. The form is not intended to be used for any other purpose.
-
-Before filling out this form, please ensure that you have all the necessary information about your project. The form fields are designed to guide you through the process of providing detailed information about your project. If you are unsure about any of the fields, please contact the architect or the project team for clarification.
-
-Please note that this form is for estimation purposes only, and the actual project scope and timeline may vary based on the project specifics and other factors.
-</thinking>
-
 # Architect Estimate Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their architectural projects. The information collected will be used by architects to estimate the project's scope and timeline.

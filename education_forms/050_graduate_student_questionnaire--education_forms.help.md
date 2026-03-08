@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about graduate students, specifically their demographics, satisfaction levels, and feedback on the quality of services provided. To ensure that this form is completed accurately and efficiently, please review the form carefully and make sure to follow these steps.
-</thinking>
-
 # Graduate Student Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from graduate students about their demographic information, satisfaction levels, and feedback on services provided.

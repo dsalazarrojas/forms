@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended for employees who are completing the "Organizational Trust And Transparency Survey" form. This form is a survey designed to gauge employee attitudes towards organizational trust, openness, and transparency. The form has multiple questions that cover various aspects of trust, such as employee trust in the organization, employee confidence in the organization, and employee feelings towards open discussions and decision-making. To ensure accurate results, please fill out the form carefully and honestly. Please note that this form is for internal use only, and your responses will be treated confidentially. If you have any questions or concerns, feel free to reach out to [insert contact information].</thinking>
-
 # Organizational Trust And Transparency Survey - Help Guide
 
 ## Purpose

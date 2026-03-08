@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for beta testing participants who want to provide feedback on our new educational platform. The purpose of the form is to collect demographic information and ensure the participant understands the terms and expectations of the beta testing process. Please note that this form is only for beta testing purposes, and the information collected will be kept confidential and will not be used for any other purpose without the participant's consent. Before proceeding, please make sure you haven't already filled out this form. If you're unsure, you can check your email or account history to verify.
-
-</thinking>
-
 # Educational Platform Beta Testing Consent Form - Help Guide
 
 ## Purpose

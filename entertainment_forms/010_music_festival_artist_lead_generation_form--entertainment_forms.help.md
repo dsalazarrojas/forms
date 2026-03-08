@@ -1,7 +1,3 @@
-<thinking>
-This form is used to generate artist leads for music festivals. It's a crucial step in the artist lead generation process, and its purpose is to collect relevant information about artists who want to perform at the festival. This form helps to ensure that all necessary details are captured accurately, reducing the likelihood of errors and making it easier for festival organizers to manage artist submissions. To avoid duplication, please ensure that each artist submission is unique.
-</thinking>
-
 # Music Festival Artist Lead Generation Form - Help Guide
 ## Purpose
 

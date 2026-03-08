@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be for a statistical association at Dar Es Salaam University, likely created for collecting information from students or staff involved in statistics-related activities. I assume it's designed to gather details on student persuasions, knowledge, and collected statistics, but without more context, I'm not certain about its specific purpose or target audience. I'll create a help guide based on my understanding, but if there's more information available about the form's purpose or intended use, it would be helpful to clarify.
-
-</thinking>
-
 # Dar Es Salaam University Statistician Association (DUSA) - Help Guide
 ## Purpose
 This form is designed to collect information from students or staff at Dar Es Salaam University who are involved in statistics-related activities. The collected data will help the association better understand the interests, skills, and statistics gathered by its members.

@@ -1,7 +1,3 @@
-<thinking>
-The form, titled "hr_career_growth_program_registration_form", is designed to collect information from employees for the purpose of enrolling them in a career growth program. To determine if this form is relevant, the form will be used for employees who are interested in career development and growth opportunities within their current organization.
-</thinking>
-
 # hr_career_growth_program_registration_form - Help Guide
 ## Purpose
 The hr_career_growth_program_registration_form is a tool used to collect information from employees for the career growth program. This program aims to support employees' career development and growth opportunities within the organization.

@@ -1,7 +1,3 @@
-<thinking> 
-  This form is used to assess an individual's historical position, taking into account various parameters such as role, responsibilities, dates, performance ratings, and other relevant details. The form is designed to be completed by someone familiar with the individual's work history and performance. This form should only be completed by authorized personnel to avoid duplication or irrelevant submissions. The form data is intended to be used for evaluation purposes only, and any other use of the data may be subject to applicable laws and regulations.
-</thinking>
-
 # Historical Position Assessment - Help Guide
 
 ## Purpose

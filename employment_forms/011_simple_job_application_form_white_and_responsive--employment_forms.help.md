@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist users in completing the Simple Job Application Form White And Responsive. The form is designed to collect information about job seekers and their preferences for employment. Each field is meant to be completed with accurate and relevant information to help us better understand your needs and provide the best possible matches for job openings. Please note that some fields are optional, and you can choose to leave them blank if you do not have the required information. Before starting, please make sure you have the necessary information ready to complete the form. This guide will walk you through each field, explaining what it means and how to complete it.</thinking>
-
 # Simple Job Application Form White And Responsive - Help Guide
 ## Purpose
 The Simple Job Application Form White And Responsive is designed to collect information about job seekers and their preferences for employment. This form is used to help us better match job openings with the right candidates.

@@ -1,16 +1,3 @@
-<thinking>
-This is a help guide for the Educational Sector Indicator Evaluation form. The form is designed to evaluate the educational sector, which is a crucial part of the education system. The evaluation process is used to assess the progress and performance of educational institutions in meeting their objectives.
-
-This form is meant to collect data on various aspects of the educational sector, including sectors, indicators, values, evaluation methods, evaluation dates, evaluation periods, form types, evaluation comments, assigned users, submitted dates, submitted users, submission types, and submission statuses. 
-
-The purpose of this form is to provide a structured way of gathering and documenting this data for future reference and analysis.
-
-The goal of this form is to ensure that the data collected is accurate, complete, and consistent. This is to support informed decision-making and improvement of the education system.
-
-Before starting, please ensure that you understand the purpose of this form and its relevance to your work. This form should not be used for any other purpose, and it is recommended to fill it out only once you have understood its intended use.
-
-</thinking>
-
 # Educational Sector Indicator Evaluation - Help Guide
 ## Purpose
 This form is designed to collect data on the educational sector, including its progress and performance. The data collected will help in evaluating the sector's performance and identify areas for improvement.

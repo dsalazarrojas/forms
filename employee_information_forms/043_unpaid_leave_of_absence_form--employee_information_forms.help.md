@@ -1,21 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of requesting an unpaid leave of absence from work. This form should only be filled out in situations where an employee is requesting time off without pay. Ensure that this form is filled out only when necessary and not for routine or recurring absences.
-
-To complete this form, start by entering the employee's information in the "Employee Information" page, including any necessary details as prompted.
-
-Next, move on to the "Reason" page and select a reason for the leave of absence. Please note that this field is mandatory.
-
-After that, move on to the "Start Date" and "End Date" pages, where you'll need to enter the dates of the leave of absence. Ensure that the start date is on or after the current date.
-
-On the "Reason For Leave" page, you may optionally provide a more detailed explanation for the leave of absence.
-
-On the last page, you'll be asked to sign and date the form as the employee and their manager. Please ensure that both the employee and the manager sign and date this form to validate the leave of absence request.
-
-The form requires the employee's signature and date, as well as the manager's signature and date, to confirm that the leave of absence has been approved and agreed upon.
-
-Please make sure to complete the form accurately and thoroughly, as this will help to process the leave of absence request efficiently.
-</thinking>
-
 # Unpaid Leave Of Absence Form - Help Guide
 ## Purpose
 This form is for requesting an unpaid leave of absence from work. Only fill out this form for non-routine absences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Course Participant Evaluation - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation from participants who have attended a film course session. The purpose of this form is to collect data on the participants' experience, satisfaction, and overall perception of the session.

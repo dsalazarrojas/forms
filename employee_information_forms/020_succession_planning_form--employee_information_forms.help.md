@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to help organizations manage succession planning and job openings within their teams. Succession planning involves identifying and developing future leaders and ensuring that the organization has a clear path for career advancement and leadership development. This form helps in collecting essential information about current employees, job openings, and job openings' details to facilitate effective succession planning and job matching.
 
 The form has 25 fields that cover various aspects of succession planning and job openings, including employee information, job opening details, and job opening requirements. Each field is carefully designed to collect relevant data that can help organizations make informed decisions about succession planning and job openings.

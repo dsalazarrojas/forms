@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect employee information for the purpose of onboarding new employees, particularly startup product managers. It is intended to gather essential details such as name, contact information, job title, department, and onboarding preferences. The form also includes fields for submission updates, route updates, date and time submitted, and notes. The goal is to streamline the onboarding process and ensure that all necessary information is collected efficiently. This guide will help users complete the form correctly and understand the purpose and requirements of each field.</thinking>
-
 # Startup Product Manager Onboarding Form - Help Guide
 ## Purpose
 The Startup Product Manager Onboarding Form is used to collect essential information for new startup product managers onboarding into the company. This form helps to standardize the onboarding process and ensure that all necessary details are collected in a structured and efficient manner.

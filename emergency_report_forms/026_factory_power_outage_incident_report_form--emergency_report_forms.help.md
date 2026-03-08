@@ -1,5 +1,3 @@
-<thinking>Form purpose is to collect information about a factory power outage incident, including its cause, duration, affected areas, and follow-up status. This form helps in tracking and reporting the incident, enabling prompt and effective response to minimize the impact. The form should only be filled out once the incident has occurred, and the information should be accurate and up-to-date. This form is not meant to be used as a template for general reporting, but for specific outages that have a direct impact on the factory operations.</thinking>
-
 # Factory Power Outage Incident Report Form - Help Guide
 ## Purpose
 This form is used to report and track factory power outage incidents. It provides information on the cause, duration, affected areas, and follow-up status of the incident.

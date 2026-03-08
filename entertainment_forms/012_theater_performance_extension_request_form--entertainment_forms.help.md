@@ -1,11 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Theater Performance Extension Request Form", we need to ensure that the form's purpose and requirements are clearly understood by the end-users.
-
-This form is used for requesting an extension to a theater performance, which can be either an additional date or an approval for a specific type of extension. The form requires information about the production company, production name, start and end dates, extension request type, approval date, and other specific details like production team, contact person, email, phone number, venue, and performance time. All of these details are crucial for the production team to review and approve the requested extension.
-
-Before filling out the form, please review the form's fields carefully to ensure that you do not duplicate any existing requests and to ensure that all required fields are filled out accurately. If you are unsure about any field, please contact the production team for clarification.
-</thinking>
-
 # Theater Performance Extension Request Form - Help Guide
 ## Purpose
 The Theater Performance Extension Request Form is a form used to request an extension to a theater performance. It is used for production companies to request additional dates or approval for a specific type of extension.

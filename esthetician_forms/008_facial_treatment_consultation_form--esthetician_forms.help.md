@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from clients to facilitate the consultation process for a facial treatment. The information collected will be used to understand the client's preferences, medical history, and skin concerns, allowing the esthetician to provide personalized advice and guidance.
-
-To ensure this form is used correctly, it is essential to verify that it is not already being used in another context within the organization. If so, it would be necessary to discuss with the original creator to avoid duplication of efforts.
-
-</thinking>
 # Facial Treatment Consultation Form - Help Guide
 
 ## Purpose

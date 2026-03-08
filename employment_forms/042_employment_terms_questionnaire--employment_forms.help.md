@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employment-related information from new employees. The purpose of this form is to gather necessary data for administrative and compliance purposes. It is intended for employees with a new job assignment or transfer, as well as those who require updates to their status or other employee details. This form should not be used for promotions or other changes to existing employment status. If you are unsure, please consult with a supervisor or HR representative before submitting this form.
-</thinking>
-
 # employment_terms_questionnaire - Help Guide
 ## Purpose
 This form collects employment-related information from new employees for administrative and compliance purposes.

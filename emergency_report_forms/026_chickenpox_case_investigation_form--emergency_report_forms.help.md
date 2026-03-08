@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for reporting and documenting details of a chickenpox case. The purpose of this form is to gather information about the case from the reporting agency, including the date of report, investigator's name, patient's details (name, address, date of birth, etc.), symptoms and treatment history, and follow-up actions needed. This form is meant to be completed by medical professionals, such as public health investigators, to facilitate the investigation and management of chickenpox cases. This information should only be filled out by authorized personnel and is subject to the relevant laws and regulations regarding data protection and patient confidentiality.
-</thinking>
-
 # Chickenpox Case Investigation Form - Help Guide
 ## Purpose
 This form is for reporting and documenting details of a chickenpox case.

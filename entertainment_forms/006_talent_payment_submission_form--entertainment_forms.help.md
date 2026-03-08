@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit payment information for talent-related expenses. The form will help the user to provide details about the talent, such as their name, payment choice, payment amount, payment date, payment time, any additional note, email address, and phone number. This information will be used to process and track payments made to talents for various events or activities. To ensure accurate tracking, please make sure to fill out all required fields. If a field is not required, you can still provide information if it's relevant to your situation, but it's not mandatory.
-</thinking>
-
 # Talent Payment Submission Form - Help Guide
 ## Purpose
 The Talent Payment Submission Form is used to submit payment information for talent-related expenses.

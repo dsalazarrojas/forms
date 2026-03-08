@@ -1,5 +1,3 @@
-<thinking>This form is designed to facilitate the equipment sanitization request process. This form is meant to be filled out by equipment users when they need to request equipment sanitization, which is an important part of maintaining a clean and safe environment. It's crucial to fill out this form accurately and completely to ensure that the request is processed correctly. Please make sure to review the fields carefully and provide all necessary information before submitting the form.</thinking>
-
 # equipment_sanitization_request_form - Help Guide
 ## Purpose
 This form is used to request equipment sanitization, which is the process of cleaning and disinfecting equipment to prevent the spread of germs and contamination.

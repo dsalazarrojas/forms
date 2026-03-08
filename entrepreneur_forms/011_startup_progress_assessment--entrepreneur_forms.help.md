@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Startup Progress Assessment" form. I'll ensure it's concrete, concise, and practical, while being clear about the form's purpose and each field's meaning. I'll base the guide on the provided YAML fields and explain any unclear labels best-effort without inventing unsupported business logic. I'll also follow the required Markdown structure.</thinking>
-
 # Startup Progress Assessment - Help Guide
 ## Purpose
 The "Startup Progress Assessment" form is designed to help entrepreneurs evaluate and track their startup's progress at different stages. It's essential to fill out this form to gain insights into your startup's current situation, identify areas of improvement, and make informed decisions for its growth.

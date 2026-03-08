@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees about their remote work conditions, allowing them to provide input on various aspects of their work setup. The information gathered through this form will help us identify areas for improvement and make data-driven decisions to better support our remote workers.
-Please note that this form is intended for employee feedback, and responses will be kept confidential and anonymous. This form should not be filled out by non-employees or for other purposes.
-
-Before starting, let's ensure that you have not already completed this form. If you have, please do not resubmit your responses, as it may cause data duplication and skew the results. Your feedback is valuable to us, and we want to make sure we're using it effectively.
-</thinking>
-
 # Remote Work Conditions Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather your thoughts and experiences about your remote work conditions. Your responses will help us better understand your needs and make data-driven decisions to improve your work environment.

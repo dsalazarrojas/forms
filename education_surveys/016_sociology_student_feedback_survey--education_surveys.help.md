@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students about a sociology course. The purpose of this form is to help the course administrators understand the students' overall impression and satisfaction with the course, as well as their feedback on specific aspects of the course, such as materials provision, course structure, instructor effectiveness, and more. The form is used to gather information that can be used to improve the course and provide better student experience in the future.
-
-Before proceeding, make sure to review this form's purpose and ensure that you have not submitted similar feedback previously. If you have already submitted feedback on the same course, your responses will be considered as duplicate and will not be processed.
-
-This guide will walk you through each step of the form to help you provide accurate and informative feedback.
-
-</thinking>
-
 # Sociology Student Feedback Survey - Help Guide
 ## Purpose
 The Sociology Student Feedback Survey is designed to gather your opinion and feedback on the sociology course you are taking. Your input will help us understand your experience and improve the course for future students.

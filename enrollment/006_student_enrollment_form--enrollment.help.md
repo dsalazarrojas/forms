@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from new students who are enrolling in an educational institution. This form is used to gather essential details such as name, email, date of birth, fee, and fee payment method from new students. It is essential to fill out this form accurately and completely to ensure that the student's information is correctly recorded in the institution's database. Please note that some fields are mandatory and must be filled out to submit the form.
-
-</thinking>
-
 # Student Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect information from new students who are enrolling in the educational institution. It is essential to fill out this form accurately and completely to ensure that the student's information is correctly recorded in the institution's database.

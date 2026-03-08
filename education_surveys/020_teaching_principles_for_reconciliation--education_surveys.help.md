@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Teaching Principles For Reconciliation - Help Guide
 ## Purpose
 This form is designed to gather information about your experiences with reconciliation practices in the context of teaching. The form will help us understand your teaching approaches, educator role, years of experience, and other relevant details. The information gathered will be used to improve teaching principles for reconciliation.

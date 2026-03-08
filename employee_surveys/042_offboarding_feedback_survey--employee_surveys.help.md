@@ -1,7 +1,3 @@
-<thinking>
-This form is used for end users to provide feedback and comments on the offboarding process of an employee. The form is meant to help the offboarding team gather information about the employee's last interaction, reason for offboarding, manager feedback, and any comments or concerns. This information will help the offboarding team improve the process and make it more efficient for future offboardings. It's essential to fill this form accurately and thoroughly to ensure the offboarding team receives the necessary data to make informed decisions.
-</thinking>
-
 # offboarding_feedback_survey - Help Guide
 ## Purpose
 The offboarding_feedback_survey form is used to gather feedback and comments on the offboarding process of an employee. This information helps the offboarding team improve the process and make it more efficient for future offboardings.

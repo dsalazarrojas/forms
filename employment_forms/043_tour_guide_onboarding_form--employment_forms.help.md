@@ -1,9 +1,3 @@
-<thinking>
-The "Tour Guide Onboarding Form" is used to track tour guides' applications and onboarding status. This form ensures that tour guides' onboarding process is completed accurately and efficiently. 
-The form should be used for tour guides who are applying to be part of a tour or travel agency. 
-It will help us understand the tour guides' onboarding status, which is essential for our internal tracking and management.
-</thinking>
-
 # Tour Guide Onboarding Form - Help Guide
 
 ## Purpose

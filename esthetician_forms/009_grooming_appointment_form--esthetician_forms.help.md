@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-The form purpose is to collect information from clients about their grooming appointments. This includes their name, contact email, preferred appointment date and time, and the type of service required.
+# The form purpose is to collect information from clients about their grooming appointments. This includes their name, contact email, preferred appointment date and time, and the type of service required.
 
 Before proceeding, ensure that the form has not already been filled out by the client, as this will help prevent duplicate appointments and improve the efficiency of the appointment process.
 

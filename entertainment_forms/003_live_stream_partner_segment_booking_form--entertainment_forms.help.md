@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Live Stream Partner Segment Booking Form - Help Guide
 
 ## Purpose

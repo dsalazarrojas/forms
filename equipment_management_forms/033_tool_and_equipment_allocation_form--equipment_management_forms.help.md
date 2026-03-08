@@ -1,7 +1,3 @@
-<thinking>
-This form is used to manage the allocation of tools and equipment in the company, allowing users to select which tools and equipment are currently being used on a project. This form is designed to be completed by project managers or team leads to keep track of which tools and equipment are required for each project, and to ensure that all tools and equipment are properly accounted for and maintained. Before filling out this form, please ensure that you have a clear understanding of the project requirements and that you are only selecting tools and equipment that are necessary for the project's success. It's also good practice to check the project's previous allocations to avoid duplicating efforts. This form should not be used for other purposes.
-</thinking>
-
 # tool_and_equipment_allocation_form - Help Guide
 ## Purpose
 This form is used to manage the allocation of tools and equipment for projects within the organization.

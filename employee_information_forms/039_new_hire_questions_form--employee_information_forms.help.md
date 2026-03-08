@@ -1,7 +1,3 @@
-<thinking>
-To confirm the form is designed for collecting information about new hires, ensuring we capture necessary details for employee onboarding and benefits enrollment. The form should not be used for any other purpose. Please review the form carefully to ensure you understand the required fields and optional fields to provide accurate information for your new hire.
-</thinking>
-
 # new_hire_questions_form - Help Guide
 ## Purpose
 The New Hire Questions Form is designed to collect essential information about new employees for onboarding and benefits enrollment purposes. It is crucial to complete this form accurately to ensure a smooth transition for the employee and to meet company requirements.

@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that our clients understand what the Sugaring Consent Form is for and how to complete it properly. This form is a crucial part of our sugaring services, and we want to make sure that our clients are aware of the importance of their consent. 
-The main purpose of this form is to gather the client's consent for sugaring services, which is a specialized skincare treatment. It's essential to understand that the form is not a duplication of other medical forms or consents, but rather a specific request for sugaring consent. 
-The form is divided into different fields that require specific information from the client. This information includes the client's informed consent, the service description, and their signature. 
-By completing this form, clients can provide their consent and ensure that they understand the services they are receiving. 
-It's also important to note that this form is not intended for internal use only, but rather as a means to obtain client consent. 
-The form is a critical part of our sugaring services, and we want to make sure that clients understand its purpose and how to complete it correctly. 
-</thinking>
-
 # Sugaring Consent Form - Help Guide
 ## Purpose
 The Sugaring Consent Form is used to obtain the client's consent for sugaring services. This form is a critical part of our processes and helps us ensure that clients understand the services they are receiving.

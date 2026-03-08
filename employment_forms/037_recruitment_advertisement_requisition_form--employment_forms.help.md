@@ -1,5 +1,3 @@
-<thinking>...This form is used to create and manage job postings for recruitment purposes. It captures various details about the job, including job title, description, department, job category, required skills, pay rate, and other relevant information. This form ensures that all required fields are filled out to avoid incomplete submissions. Before starting, please ensure that the job posting status is set to "Draft" or "Published" depending on your intention. Please fill in the form carefully, and if you're unsure about any field, refer to the field-by-field explanations below...)</thinking>
-
 # Recruitment Advertisement Requisition Form - Help Guide
 ## Purpose
 The Recruitment Advertisement Requisition Form is used to create and manage job postings for recruitment purposes. It captures various details about the job, including job title, description, department, job category, required skills, pay rate, and other relevant information.

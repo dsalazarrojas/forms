@@ -1,8 +1,3 @@
-<thinking>
-The form is intended for individuals to sign up for a community meetup event. The purpose is to collect information about attendees and their preferences. The form should only be filled out for events that have a defined start date and time, as indicated by the "Event date" field. This form will only be used for internal events within the community, so it's unlikely that attendees will be sharing information with external parties. The "Accessibility needs" field should only be filled out if the attendee has specific needs that require accommodations. The "Consent to be photographed" field indicates that attendees are aware that photos may be taken during the event and will be used for group purposes.
-
-</thinking>
-
 # Community Meet Up Form - Help Guide
 ## Purpose
 This form is used to collect information from attendees for a community meetup event. Fill out this form to sign up for the event and share your preferences with the organizers.

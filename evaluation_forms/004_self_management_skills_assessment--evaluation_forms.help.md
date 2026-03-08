@@ -1,5 +1,3 @@
-<thinking>... thinking about form design and user experience...</thinking>
-
 # Self Management Skills Assessment - Help Guide
 
 ## Purpose

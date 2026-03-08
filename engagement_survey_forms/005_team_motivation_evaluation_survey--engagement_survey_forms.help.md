@@ -1,5 +1,3 @@
-<thinking>Is the purpose of this form to evaluate the team's motivation and engagement level, specifically assessing various aspects such as morale, communication, and workload impact? Is it intended for a manager or team lead to use this form to gauge the team's sentiment? Is it a one-time assessment or meant to be used on a regular basis?</thinking>
-
 # Team Motivation Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to evaluate the motivation and engagement level of a team, assessing various aspects such as morale, communication, and workload impact.

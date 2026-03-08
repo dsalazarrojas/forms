@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To prevent duplication of effort and ensure this guide is relevant and helpful, let's assume that this form is intended for employees to report their absences due to an emergency or other unforeseen circumstances. This guide will cover the necessary steps to complete the form accurately and efficiently.
 
 </thinking>

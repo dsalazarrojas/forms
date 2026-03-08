@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from educators to better understand their knowledge and skills related to climate change and sustainability. This form is intended to gather data on their background, contact details, and specific areas of expertise. To ensure the integrity of the data, we will not allow duplicates. If you are an educator who has already submitted this form, you will not be able to submit it again.
-</thinking>
-
 # Educator Climate Change Literacy Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from educators to improve our understanding of their climate change literacy and skills. By completing this form, you will be helping us to better understand the state of climate change education among educators.

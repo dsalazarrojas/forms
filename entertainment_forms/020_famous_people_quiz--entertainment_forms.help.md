@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to test their knowledge about famous people. The purpose of this form is to collect information about users' knowledge of famous individuals in various fields such as history, entertainment, sports, and more. The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created using public survey topic metadata.
-</thinking>
-
 # Famous People Quiz - Help Guide
 ## Purpose
 This form is designed to test your knowledge about famous people. It's not affiliated with, endorsed by, or derived from any form platform.

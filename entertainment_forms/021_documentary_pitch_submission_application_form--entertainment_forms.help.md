@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help individuals and filmmakers submit their documentary pitches to a platform, likely for review and consideration. The form collects personal and project information, as well as supporting materials to aid in the review process. This form should help ensure that all necessary details are captured and presented correctly, making it easier for reviewers to assess each project. However, before proceeding, it's essential to confirm that this form is being filled out correctly to avoid duplication of effort or unnecessary processing time due to incomplete or incorrect submissions.
-
-</thinking>
-
 # Documentary Pitch Submission Application Form - Help Guide
 ## Purpose
 This form is for submitting documentary pitches to be reviewed and considered for collaboration or other opportunities.

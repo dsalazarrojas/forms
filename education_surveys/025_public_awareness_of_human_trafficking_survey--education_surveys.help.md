@@ -1,16 +1,3 @@
-<thinking>
-We need to ensure that this form is used effectively by the end-users to gauge public awareness of human trafficking. To do this, we must provide a clear and concise help guide that explains the purpose of the form, how to complete it, and what each field means. 
-
-The form is designed to collect information on public awareness of human trafficking, including knowledge, prevention methods, and the role of various entities in preventing human trafficking. The form is divided into several sections, each focusing on a specific aspect of human trafficking. We need to ensure that the end-users understand the significance of each section and how to answer the questions effectively.
-
-Before proceeding with the form completion, it's essential to note that the form is optional, and users can skip any questions they are not comfortable answering. However, providing accurate and honest responses will help in creating a better understanding of public awareness of human trafficking.
-
-To confirm that the form is relevant and not duplicating existing efforts, we should ensure that it's not being used for any other purpose other than gauging public awareness of human trafficking. The form's results will be used to inform education and awareness-raising efforts and to identify areas where more attention is needed.
-
-The form should be completed in a way that respects the end-users' privacy and personal boundaries. Any information collected will be used to inform general education and awareness-raising efforts and will not be shared or used for any other purpose without explicit consent.
-
-After confirming the form's purpose and relevance, we can proceed with creating the help guide.
-</thinking>
 # public_awareness_of_human_traffic - Help Guide
 ## Purpose
 This form is designed to gauge public awareness of human trafficking. It will help in understanding how much people know about human trafficking, its prevention, and the role of various entities in preventing it.

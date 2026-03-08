@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to gauge the mental wellness among staff members. The purpose of this form is to collect information about employees' work environments, stress levels, support needs, and other related aspects of their mental wellness. By understanding these factors, the organization can identify areas where employees may be struggling and provide targeted support to improve their mental wellness.
-
-</thinking>
-
 # Mental Wellness Among Staff Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about the mental wellness of staff members, aiming to identify areas where employees may be struggling and provide targeted support.

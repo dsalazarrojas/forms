@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for self-evaluation by employees within the Clean Team division, aiming to assess their performance over a specific review period. This guide will walk you through the form's purpose, how to complete it, and an explanation of each field to ensure a smooth and accurate submission.
-
-</thinking>
-
 # CLEAN TEAM Annual Performance Review Self Evaluation - Help Guide
 ## Purpose
 This form is designed for self-evaluation by employees within the Clean Team division. It will help you reflect on your key accomplishments, challenges faced, and goals for the next review cycle. Please complete this form honestly and thoroughly to ensure an accurate assessment of your performance.

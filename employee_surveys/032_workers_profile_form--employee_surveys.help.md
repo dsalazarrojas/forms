@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # workers_profile_form - Help Guide
 ## Purpose
 The workers_profile_form is a collection of fields designed to gather detailed information about an employee's personal and professional profile. This form is intended to help you understand an employee's work history, job status, and other relevant details. Please ensure that you have a valid reason for filling out this form, such as a change in job status or an update to personal contact information.

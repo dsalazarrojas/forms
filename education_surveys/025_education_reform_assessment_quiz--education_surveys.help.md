@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from schools and educational institutions about their assessment methods and practices. The form is intended to be used by school administrators, teachers, and other stakeholders to evaluate the effectiveness of their current assessment methods and identify areas for improvement. It is not intended for general public users, and responses should only be provided by authorized school personnel. Please ensure that you have the necessary permissions and authorization to complete this form. By completing this form, you will be providing valuable insights that will help shape education reform efforts.</thinking>
-
 # Education Reform Assessment Quiz - Help Guide
 
 ## Purpose

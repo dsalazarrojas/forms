@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather data on the impact of educational outreach programs, specifically on the effectiveness of a particular activity in reaching its target audience. It should only be completed by participants who have engaged with the educational outreach program. If you have already completed this form, please do not complete it again. This form is used for the purpose of evaluating and improving the educational outreach programs.
-</thinking>
-
 # Educational Outreach Impact Study - Help Guide
 ## Purpose
 The Educational Outreach Impact Study is designed to gather data on the effectiveness of a particular activity in reaching its target audience. This data will be used to evaluate and improve future educational outreach programs.

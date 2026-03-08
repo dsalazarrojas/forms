@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Employee Burnout Leave Of Absence Form - Help Guide
 
 ## Purpose

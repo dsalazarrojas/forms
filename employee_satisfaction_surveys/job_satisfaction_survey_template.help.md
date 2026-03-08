@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather feedback from employees on their job satisfaction, with the goal of identifying areas for improvement within the organization. The purpose of this form is to collect information about employee experiences, satisfaction, and perceptions of their work environment. By submitting this form, employees will be able to provide insights that can help the organization make informed decisions to better support their employees.
 
 # job_satisfaction_survey_template - Help Guide

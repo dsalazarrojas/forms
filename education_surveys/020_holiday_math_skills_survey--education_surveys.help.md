@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect end-user feedback on their holiday math skills, specifically in three areas: math practice during holidays, confidence in math, and math challenges faced. This guide is meant to help you complete the form accurately and understand its purpose.
-
-The form is part of a larger "education_surveys" category, indicating it is related to education and survey-style data collection. The survey's name is "Holiday Math Skills Survey", making it clear that the focus is on math skills assessment during holidays.
-
-The form has multiple pages and fields with different types and labels. This guide will help you navigate through each page and field to ensure you complete the form correctly.
-</thinking>
-
 # Holiday Math Skills Survey - Help Guide
 ## Purpose
 The Holiday Math Skills Survey is designed to help collect information on your math skills and experiences during holidays. It's essential to provide honest and detailed answers to help us improve math education.

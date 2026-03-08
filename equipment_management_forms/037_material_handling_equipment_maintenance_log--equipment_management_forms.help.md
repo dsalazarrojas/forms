@@ -1,5 +1,3 @@
-<thinking>...This form is used to log and track the status of Material Handling Equipment. It ensures that all maintenance activities are accurately recorded and reported. This form should only be used for recording maintenance activities related to Material Handling Equipment, and not for other types of equipment or activities. To avoid duplication, please ensure that all fields are filled in accurately and completely. Before submitting, review all information carefully to ensure it is correct and up-to-date... </thinking>
-
 # Material Handling Equipment Maintenance Log - Help Guide
 ## Purpose
 The Material Handling Equipment Maintenance Log is used to track and record maintenance activities related to Material Handling Equipment. It helps to keep accurate records of the equipment status and maintenance history.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about pet-related products, including product details, business contact information, and terms of service. The form is intended to be used for internal purposes, and the information collected will be used to manage and process pet-related products.
-
-To avoid duplication and ensure accuracy, please fill out this form only if you are a business owner or representative looking to register a pet-related product with us. Internal users, please note that duplicate submissions will be ignored.
-
-</thinking>
-
 # Pet Product Disclaimer Form - Help Guide
 ## Purpose
 

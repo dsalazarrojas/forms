@@ -1,21 +1,3 @@
-<thinking>
-We need to ensure the purpose of this form is clear to the end user. This form is for collecting data related to receptacle testing, which is an essential part of electrical safety in facilities. The form likely serves as a tool for electricians or facility managers to document the results of receptacle testing, providing a record of the testing process, any issues found, and the outcomes. This form should be completed by individuals responsible for maintaining electrical safety in facilities, ensuring that the data collected is accurate and actionable.
-
-To confirm, the form has the following fields:
-
-- Receptacle location: This field is likely used to indicate where the receptacle is located within the facility.
-- Receptacle identifier: This field is used to identify the specific receptacle being tested.
-- Test time: This field is used to record the date and time of the test.
-- Test result: This field is used to indicate whether the test result is positive (Yes) or negative (No).
-- Issues found: This field is used to identify any safety concerns or issues detected during the testing process.
-- Safety inspector: This field is used to record the name of the individual who performed the safety inspection.
-- Facility manager: This field is used to record the name of the facility manager responsible for maintaining electrical safety.
-- Electrician: This field is used to record the name of the electrician who performed the test.
-
-Before proceeding, please review the form carefully and ensure that you have all the necessary information to complete it accurately.
-
-</thinking>
-
 # Receptacle Testing Survey - Help Guide
 ## Purpose
 The Receptacle Testing Survey is a form used to document the results of receptacle testing in facilities. It is essential to accurately record the testing process, any issues found, and outcomes to ensure electrical safety.

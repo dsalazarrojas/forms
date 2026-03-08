@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Refugee Youth Education Barriers Survey" is designed to collect information about the education barriers faced by refugee youth. The survey is intended to understand the challenges and difficulties that refugee youth face in accessing education, as well as their expectations and support needs. This form is meant to be completed by refugee youth themselves, or by someone with knowledge of their situation, to gather accurate and sensitive information about their experiences.
-
-Before you proceed, please note that this form is not associated with any specific organization or platform, and the information collected will be used for research purposes only. You are free to use, modify, and share the form, giving credit to the original creators.
-
-</thinking>
-
 # Refugee Youth Education Barriers Survey - Help Guide
 ## Purpose
 The Refugee Youth Education Barriers Survey is designed to collect information about the education barriers faced by refugee youth. The survey aims to understand their experiences, challenges, and support needs in accessing education.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for emergency contact purposes. It is meant to be completed by individuals seeking to identify a contact person that will be contacted in case of an emergency. The information collected will be used to ensure that the right person is reached quickly and efficiently in case of an emergency. Please fill out this form accurately and completely, as this information will be used in a critical situation.
-</thinking>
-
 # Emergency Contact Authorization Form - Help Guide
 ## Purpose
 This form is used to collect the contact information for emergency situations. The information collected will be used to ensure that the right contact person is reached in case of an emergency.

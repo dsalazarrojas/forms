@@ -1,9 +1,3 @@
-<thinking> This form is designed to collect feedback and voting information for a television pilot episode. It seems that the form is used in a professional setting, possibly within an entertainment industry or production company. The purpose of the form is likely to gather opinions on the pilot episode, including the series concept, episode name, target audience, voting score, and other relevant information. The form is likely used by people involved in the production or development process of the TV show.
-
-Before proceeding, please ensure that you have filled out this form correctly and accurately, as it will be used to gather feedback and inform decision-making processes. Ensure that the information you provide is clear and concise. Please note that some fields are mandatory, while others are optional. If you have any doubts or concerns, please consult with the relevant personnel before submitting the form.
-
-</thinking>
-
 # Television Pilot Episode Voting Form - Help Guide
 ## Purpose
 This form is used to collect feedback and voting information for a television pilot episode. It is designed to help production teams and decision-makers gather valuable insights and opinions from relevant stakeholders.

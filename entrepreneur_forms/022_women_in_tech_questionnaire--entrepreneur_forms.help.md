@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to support users in completing the Women In Tech Questionnaire, a form designed to gather information about women in tech projects. It is crucial to ensure that the submitted data is complete and accurate. Please review the guide carefully to understand each section and its relevance to the project.
-
-Before proceeding with the form, consider the following questions:
-- Have you been involved in a tech-related project or initiative in the past?
-- Are you a member of the Women In Tech community or a supporter of the project?
-- Do you have experience with the required technologies or skills mentioned in the form?
-</thinking>
-
 # Women In Tech Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information about women in tech projects, including demographic details, project information, and contact preferences. The data collected will be used to support and promote women in tech initiatives.

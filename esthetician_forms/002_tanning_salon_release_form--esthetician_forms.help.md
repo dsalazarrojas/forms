@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide, let's break down the form purpose and ensure it's not a duplicate of an existing form. From the provided YAML, this form appears to be a release form for a tanning salon, likely used for clients to acknowledge and confirm their tanning sessions. This form seems to be a custom form, and I'll proceed with creating the help guide accordingly.</thinking>
-
 # Tanning Salon Release Form - Help Guide
 ## Purpose
 This form is intended for clients to confirm their tanning sessions, including their personal information, tanning details, and payment information. It helps the salon to keep track of client interactions and ensures that clients are aware of their commitments.

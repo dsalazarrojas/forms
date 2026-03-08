@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about property damage incidents. The purpose of this form is to provide a standardized way to document and report property damage incidents, ensuring that all relevant details are captured consistently. This form is intended for use by employees who need to report property damage to the facility or organization's management. Before completing this form, please ensure that you have already notified your immediate supervisor or manager about the incident. If you have already submitted a report, please do not submit another report as it may be considered redundant.
-</thinking>
-
 # Property Damage Report Form - Help Guide
 
 ## Purpose

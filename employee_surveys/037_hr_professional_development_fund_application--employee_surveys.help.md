@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Professional Development Fund Application - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The "education_sector_consulting_contact_form" form is designed to collect information from education sector consultants who are interested in contacting our organization. The purpose of this form is to gather contact details, consultation inquiries, and other relevant information to facilitate smooth communication and follow-up processes. 
-
-This form appears to be part of a business or service that provides education sector consulting services, likely for universities or educational institutions. The form may be used by these consultants to inquire about services, request assistance, or propose solutions. 
-
-Please ensure that you are using the correct form for your intended purpose, as it is specifically designed for education sector consultants. If you are unsure, refer to your organization's guidelines or contact your designated representative for further clarification.
-
-</thinking>
-
 # education_sector_consulting_contact_form - Help Guide
 ## Purpose
 The education_sector_consulting_contact_form is designed to collect information from education sector consultants. This form is intended for consultants who wish to inquire about, discuss, or propose services related to education consulting.

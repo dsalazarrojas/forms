@@ -1,5 +1,3 @@
-<thinking>Internal Process Friction Survey: a survey designed to collect feedback from employees on areas where internal processes cause difficulties and inefficiencies in their workflow, providing insights on bottlenecks, pain points, and potential solutions to improve processes and productivity.</thinking>
-
 # Internal Process Friction Survey - Help Guide
 ## Purpose
 This survey is designed to help identify and address internal process friction points that affect your daily work. Your responses will help us understand where and how we can improve our internal processes to make your work easier and more efficient.

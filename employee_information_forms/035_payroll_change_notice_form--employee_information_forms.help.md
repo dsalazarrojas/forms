@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report changes to an employee's job title, job classification, or other relevant information that may affect their pay. It is intended for employees, managers, and HR personnel to use in conjunction with other payroll documentation. The form should only be completed when there has been a change to an employee's job title or job classification, and should be submitted promptly to ensure accurate and timely updates to the employee's pay. Please ensure that the form is completed accurately and submitted only when a change has actually occurred, to prevent unnecessary paperwork and potential errors in the payroll process.
-</thinking>
-
 # Payroll Change Notice Form - Help Guide
 ## Purpose
 The Payroll Change Notice Form is used to report changes to an employee's job title, job classification, or other relevant information that may affect their pay.

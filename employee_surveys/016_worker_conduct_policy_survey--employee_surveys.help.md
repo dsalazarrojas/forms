@@ -1,6 +1,3 @@
-<thinking> 
-The "Worker Conduct Policy Survey" form is designed to gather feedback and information from employees on various aspects of the company's worker conduct policy. This includes assessing employee awareness of the policy, their ability to communicate with colleagues and leadership, and their willingness to participate in training programs. It also captures contact information and time spent on tasks. To avoid duplication, this form should only be completed by employees who have not already completed the same form previously. Please ensure you complete the form accurately and honestly, as the data collected will help us improve our work environment and policies.</thinking>
-
 # Worker Conduct Policy Survey - Help Guide
 ## Purpose
 The Worker Conduct Policy Survey is designed to gather feedback and information from employees on the company's worker conduct policy, ensuring we have a better understanding of your experiences and needs.

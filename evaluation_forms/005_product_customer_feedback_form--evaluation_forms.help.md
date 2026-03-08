@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer feedback on products used by our customers. Its purpose is to understand what customers like and dislike about the product, and to gauge the quality of our customer service. The form will help us identify areas for improvement and make informed decisions about product development and customer support. Please note that this form is not intended for customers to order products or request support, but rather to provide feedback on their experience with our products.
-</thinking>
-
 # Product Customer Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect customer feedback on products used by our customers.

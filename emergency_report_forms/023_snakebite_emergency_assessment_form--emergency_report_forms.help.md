@@ -1,37 +1,3 @@
-<thinking>
-This form is designed to collect information related to a snakebite incident, including patient information, incident details, and medical treatment. The form is intended for healthcare professionals to use in emergency situations. 
-
-To ensure accuracy and consistency in reporting, the form should only be filled out for new, unrelated incidents. Reusing this form for duplicate incidents may lead to confusion and incorrect data. 
-
-The form includes fields for collecting various types of information, including: 
-
-*   Patient Information (Patient's personal data and contact information) 
-*   Incident Information (Description of the incident, location, and time) 
-*   Medical History (Patient's pre-existing medical conditions) 
-*   Physical Condition (Description of the patient's current physical condition) 
-*   Wound Description (Description of the wound caused by the snakebite) 
-*   Snakebite Location (Location of the snakebite on the body) 
-*   Symptoms (Patient's symptoms after the bite) 
-*   Treatment (Any medical treatment received by the patient) 
-*   Medical Team (Type of medical professionals involved in the patient's care) 
-*   Patient Call (Time of patient's initial call to emergency services) 
-*   Time to Treatment (Time from snakebite to treatment) 
-*   Date of Injury (Date of the snakebite) 
-*   Snake Species (Type of snake involved) 
-*   Snake Color (Color of the snake) 
-*   Wound Depth (Depth of the wound) 
-*   Wound Width (Width of the wound) 
-*   Patient Status (Current status of the patient) 
-*   Vital Signs (Patient's vital signs, e.g., pulse rate, blood pressure) 
-*   Wound Care (Treatment and care given to the wound) 
-*   Medical History Additional (Any additional medical conditions the patient may have) 
-*   Patient Notes (Any additional notes or comments about the patient's condition) 
-*   Medication Administered (Any medication given to the patient) 
-*   Follow Up Scheduled (Schedule for follow-up care) 
-*   Form Completed By (Name of the person completing the form)
-
-</thinking>
-
 # Snakebite Emergency Assessment Form - Help Guide
 ## Purpose
 The Snakebite Emergency Assessment Form is designed to collect information related to a snakebite incident, including patient information, incident details, and medical treatment.

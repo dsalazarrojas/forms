@@ -1,5 +1,3 @@
-<thinking>This form is intended for employees to request the release and return of company equipment. The form helps to document the request and ensure that the equipment is properly released and returned to the correct department. The form is not intended to be used for other purposes and will not be accepted if the request is for non-approved purposes. Please ensure that you have the necessary approvals and clearance before filling out this form.</thinking>
-
 # Equipment Request And Release Form - Help Guide
 ## Purpose
 This form is used for employees to request the release and return of company equipment. It helps to document the request and ensure that the equipment is properly released and returned to the correct department.

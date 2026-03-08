@@ -1,14 +1,3 @@
-<thinking>
-This guide is designed to help employees provide feedback on our capped incentive program. The survey asks questions about employee awareness and knowledge of available programs, their satisfaction and perception of the program's fairness, adequacy, and motivation, as well as their suggestions for improvement. The goal is to collect honest and actionable feedback that can be used to refine and optimize the incentive program to better meet the needs and expectations of employees.
-
-Before proceeding, please ensure that you have reviewed the program rules and caps and are providing feedback based on your personal experience. If you are unsure about any aspect of the program, please consult with your HR representative or supervisor for clarification.
-
-Please note that this survey is completely anonymous, and your responses will be treated confidentially. Your feedback is invaluable in helping us improve the program, and we appreciate your honesty and cooperation.
-
-If you have any additional comments or suggestions that don't fit into the provided fields, please use the "Additional Comments or Suggestions" field at the end of the survey.
-
-</thinking>
-
 # Capped Incentive Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from employees on our capped incentive program. The goal is to understand your experiences, perceptions, and suggestions for improvement, which will help us refine the program to better meet your needs and expectations.

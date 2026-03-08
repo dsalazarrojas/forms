@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information on algae observations and preparations, likely for scientific research or monitoring purposes. The form is used to gather data on various aspects of algae, including observer and location information, environmental conditions, and algae characteristics. This guide will help users understand the purpose and process of completing this form accurately and efficiently.
-
-Before filling out this form, please ensure that you have all the necessary information and equipment ready. If you are unsure about any of the fields or options, refer to this guide for clarification.
-
-</thinking>
-
 # Algae Observation And Preparation Survey - Help Guide
 ## Purpose
 The Algae Observation And Preparation Survey is designed to collect information on algae observations and preparations for scientific research or monitoring purposes.

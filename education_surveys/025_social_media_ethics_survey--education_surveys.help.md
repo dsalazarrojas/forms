@@ -1,5 +1,3 @@
-<thinking>As the form is designed to gather feedback on social media ethics, a brief internal reasoning block is necessary to ensure the form's purpose is clear and relevant to the intended audience. The form's purpose is to collect opinions and insights on social media ethics, which is a topic of growing concern in today's digital landscape. By gathering input from users, the form aims to contribute to a more informed discussion on this topic and help identify areas of improvement. To ensure the form's relevance, the following questions should be reviewed: Is this form's purpose aligned with the company's mission and goals? Is the form's content accurate and up-to-date? Does the form's design and layout support clear and concise communication?</thinking>
-
 # social_media_ethics_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on social media ethics, aiming to contribute to a more informed discussion on this topic and help identify areas of improvement in the industry.

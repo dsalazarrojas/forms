@@ -1,13 +1,3 @@
-<thinking>
-This form is intended for registration of students in a virtual summer school program. 
-To be eligible for registration, students should be between 6 and 18 years old and should not be currently enrolled in any other summer program. 
-This form is designed to collect student information for the virtual summer school program. 
-
-Please fill out this form carefully and accurately. If you have any questions or need assistance, contact the program administrators. 
-
-The form consists of the following fields:
-</thinking>
-
 # Virtual Summer School Registration Form - Help Guide
 ## Purpose
 This form is designed for the registration of students in a virtual summer school program. Please ensure you are eligible to register before proceeding. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Grievance Form - Help Guide
 ## Purpose
 The grievance form is designed to collect information about incidents or issues that need to be reported and addressed. This form is used to gather details about the issue, the category of the issue, and the priority level of the incident. The information collected will help us to track and manage grievances efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-The Music Business Proposal Form is intended to be a tool for musicians, music producers, and other music industry professionals to submit proposals for music-related projects or business ideas. The form helps us understand their vision, goals, and strategies for their project, as well as gather contact information and necessary details for further discussion. This form is not meant to be a comprehensive application process for investors or funding, but rather a starting point for collaboration and potential partnership. Please make sure you're filling out this form with accurate and relevant information to help us better understand your proposal.
-</thinking>
-
 # Music Business Proposal Form - Help Guide
 ## Purpose
 This form is designed to help us understand your music business proposal, including your project type, goals, target market, and contact information. Please fill out the form with as much detail as possible to ensure we can effectively evaluate and discuss your proposal.

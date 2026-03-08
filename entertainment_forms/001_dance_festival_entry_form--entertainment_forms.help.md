@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals and their parents/guardians for a dance festival event. The form will be used to gather personal and relationship details for event planning and execution purposes. Please ensure that the form is filled out accurately and completely to avoid any issues during the event. This form should only be filled out once by each participant and their parent/guardian, and it is not intended to be used for any other purpose.
-</thinking>
-
 # Dance Festival Entry Form - Help Guide
 
 ## Purpose

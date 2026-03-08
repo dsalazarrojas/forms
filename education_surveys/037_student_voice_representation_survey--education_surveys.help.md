@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect student feedback and opinions on their experiences with their school's representation policies and practices. It is intended to gather information on students' perception of their school's representation and how it affects their learning experience. This form will help administrators and educators understand areas that need improvement and develop targeted strategies to promote a more inclusive and representative environment for all students.
-</thinking>
-
 # Student Voice Representation Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect students' thoughts, opinions, and experiences regarding representation at their school. It is a crucial instrument for educators and administrators to understand students' perspectives and develop a more inclusive and representative school environment.

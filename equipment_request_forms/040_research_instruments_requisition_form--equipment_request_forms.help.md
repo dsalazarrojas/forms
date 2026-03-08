@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is used by researchers and staff to request equipment or instruments for their projects or research activities. It serves as a formal channel for submitting and tracking requests, ensuring that the requested items are properly evaluated and approved before being requisitioned. The form helps streamline the process, reducing the risk of duplication of work and ensuring that all necessary information is provided for procurement and maintenance purposes.
-</thinking>
-
 # Research Instruments Requisition Form - Help Guide
 ## Purpose
 The Research Instruments Requisition Form is a tool to request and manage equipment or instruments needed for research projects. This form helps ensure that all necessary information is collected and approved before the procurement process begins.

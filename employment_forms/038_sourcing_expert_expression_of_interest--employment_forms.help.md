@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from sourcing experts who are interested in expressing their interest in potential job opportunities. This form is designed to collect relevant details about the expert's contact information, job information, skills, experience, and other relevant credentials. The form will help identify potential candidates for job openings that match their skills and experience.
-This form will help the employer's sourcing team to quickly assess the candidate's suitability for the job and ensure that they are a good fit for the position. The information collected will be used to filter and match candidates with job openings, reducing the time and resources required to find the right candidate.
-The form will not be used to collect sensitive or confidential information, and the data collected will be stored securely and used only for recruitment purposes.
-</thinking>
-
 # Sourcing Expert Expression Of Interest - Help Guide
 ## Purpose
 This form is designed to gather information from sourcing experts who are interested in expressing their interest in potential job opportunities. It will help the employer's sourcing team to quickly assess the candidate's suitability for the job and match them with job openings that fit their skills and experience.

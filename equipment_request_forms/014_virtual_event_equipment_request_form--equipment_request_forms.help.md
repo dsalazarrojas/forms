@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to request equipment for virtual events. It's designed to gather information about the event and the equipment needed for it, as well as the delivery and return details. 
-
-To prevent duplication, please check if a similar event is already listed in the event calendar before submitting this form.
-
-This form should only be used by authorized event teams to request equipment for virtual events.
-
-If you're not sure what type of equipment to request or have questions, please contact the event support team.
-
-</thinking>
-
 # Virtual Event Equipment Request Form - Help Guide
 ## Purpose
 This form is used to request equipment for virtual events. 

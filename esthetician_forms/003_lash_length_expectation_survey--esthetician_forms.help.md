@@ -1,7 +1,3 @@
-<thinking>
-The form "Lash Length Expectation Survey" is intended to collect information from users about their expectations regarding eyelash length and service. This form likely serves for market research or user feedback purposes. It's not a transactional or critical path form. The fields are mostly optional, which may imply it's meant for gathering opinions or preferences rather than required information. However, the required fields will likely be used as the primary data points for any decision making or reporting.
-</thinking>
-
 # Lash Length Expectation Survey - Help Guide
 ## Purpose
 The "Lash Length Expectation Survey" is a collection tool used to gather information about users' expectations concerning their lash length and services offered. It's not a mandatory form, meaning you can fill it in as you see fit. This guide will walk you through each field, so you can provide your insights without any worries!

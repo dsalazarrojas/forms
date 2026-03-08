@@ -1,9 +1,3 @@
-<thinking>
-
-The Mock Interview Evaluation Form is intended to gather feedback from candidates about their experiences during mock interviews. This form is used by recruiters to assess the quality and effectiveness of mock interviews, and the feedback collected will help improve the overall mock interview experience. To complete this form, please ensure you have participated in a mock interview and have thoughts about your experience. If you have already completed a similar form, please do not submit this one to avoid duplication of effort.
-
-</thinking>
-
 # Mock Interview Evaluation Form - Help Guide
 ## Purpose
 The Mock Interview Evaluation Form is a survey used to gather feedback from candidates about their experiences during mock interviews. Your feedback will help recruiters improve the mock interview process.

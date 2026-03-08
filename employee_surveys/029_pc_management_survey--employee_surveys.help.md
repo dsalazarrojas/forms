@@ -1,14 +1,3 @@
-<thinking>
-This is a form designed to collect feedback and information from employees about the management of personal computers in the workplace. The form should only be filled out by employees, and its purpose is to gather data on the quality of workplace computers, IT support, and other relevant metrics.
-
-Before filling out this form, please make sure to answer the questions truthfully and thoroughly. You do not need to fill out this form unless you have had a recent interaction with the IT support team, as the form is not meant to be a one-time obligation.
-
-This form has multiple pages, each with several fields. You must fill out all required fields to submit the form.
-
-Please note that this form is meant to be filled out by employees, not IT support staff or management.
-
-</thinking>
-
 # PC Management Survey - Help Guide
 ## Purpose
 This form is used to collect feedback and information from employees about the management of personal computers in the workplace.

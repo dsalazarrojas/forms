@@ -1,11 +1,3 @@
-<thinking>
-
-The executive director evaluation form is used to document the performance of an executive director within the company. It's essential for ensuring that executive directors are evaluated based on the company's expectations and guidelines. Before starting, please review the form's fields and requirements to ensure it meets your needs.
-
-Please note that this form is meant for internal use within the company, and responses will be reviewed by authorized personnel. 
-
-</thinking>
-
 # executive_director_evaluation_form - Help Guide
 ## Purpose
 The executive director evaluation form is used to assess the performance of executive directors within the company. It helps to provide an objective evaluation of their work, goals, and areas for improvement.

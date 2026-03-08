@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a Munitions Discovery Report, likely used for tracking and reporting on the discovery of potentially explosive or hazardous materials. The form's fields aim to capture the location, time, and description of the discovery, as well as whether photos were taken during the discovery process.
-</thinking>
-
 # Munitions Discovery Report - Help Guide
 ## Purpose
 The Munitions Discovery Report is used to document the discovery of potentially explosive or hazardous materials in the field. This report helps ensure accurate and efficient recording of incidents.

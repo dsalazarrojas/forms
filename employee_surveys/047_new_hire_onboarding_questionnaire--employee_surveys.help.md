@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that empowers end-users to complete the New Hire Onboarding Questionnaire form with confidence. To achieve this, I will carefully analyze the provided YAML schema and break down the explanation into three main sections: Purpose, How to Complete This Form, and Field-by-Field Explanation. I will ensure that each section provides clear and concise information, making it easy for users to understand the form's purpose, the steps involved in completing it, and the meaning behind each field.</thinking>
-
 # New Hire Onboarding Questionnaire - Help Guide
 ## Purpose
 The New Hire Onboarding Questionnaire is designed to collect essential information from new hires during their onboarding process. This form helps the HR department gather necessary data to create a smooth and efficient transition for the employee, ensuring a quick adaptation to the company culture and work environment. It's not intended to be a lengthy or complicated process, and it's meant to be completed by the new hire during their onboarding session.

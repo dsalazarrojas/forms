@@ -1,5 +1,3 @@
-<thinking>...The form is designed to gather information from potential hostesses, including their personal details, contact information, emergency contact information, experience, availability, and uploadable files. The form is intended to be completed by potential hostesses who are interested in working as hostesses. This information will be used by the hiring team to evaluate the suitability of each applicant... The form fields are mostly text-based and include some select_one options for hostess experience, as well as uploadable files for additional information. The hiring team will review the forms and contact the applicants for further discussions if needed...</thinking>
-
 # Hostess Registration Form - Help Guide
 
 ## Purpose

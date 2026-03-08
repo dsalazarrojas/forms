@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect employment information from employees, managers, or other relevant parties for employment-related purposes. This guide will walk you through each section of the form to ensure a smooth and accurate completion process.
-
-The form is likely used for HR or administrative tasks such as:
-* Employee onboarding
-* Performance evaluation and management
-* Career development planning
-* Compliance with organizational policies and regulations
-
-Before starting, make sure to review the form carefully to avoid duplication of effort and ensure accurate submission. If you're unsure about a field, please refer to the relevant section below for clarification.
-
-</thinking>
-
 # employment_information_request_form - Help Guide
 ## Purpose
 This form is designed to collect employment information from employees, managers, or other relevant parties for employment-related purposes, such as HR or administrative tasks.

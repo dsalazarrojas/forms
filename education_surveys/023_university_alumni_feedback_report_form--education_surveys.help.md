@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather feedback from university alumni to help the university better understand their experiences, satisfaction, and interests. This data will be used to improve the university's services and programs. Please note that each field is optional, but providing accurate and complete information will help the university tailor its services to the needs of its alumni.
-
-To complete this form, please select the corresponding page and follow the instructions on each page.
-
-</thinking>
-
 # University Alumni Feedback Report Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from university alumni to help us understand their experiences, satisfaction, and interests. Your input is valuable, and we appreciate your time to share your thoughts with us.

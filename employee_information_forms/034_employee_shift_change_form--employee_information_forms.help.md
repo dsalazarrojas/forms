@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from employees regarding their shift changes. The purpose of this form is to document and track employee shift changes in a centralized location.
-This form is intended for use by employees to notify their employer of their shift changes. It is likely to be used in industries such as healthcare, manufacturing, or retail where shifts and schedules are critical to operations.
-The form is designed to be completed by a single employee, and the information collected will be used by the employer to update employee schedules and ensure continuity of operations.
-</thinking>
-
 # employee_shift_change_form - Help Guide
 ## Purpose
 The employee_shift_change_form is designed to collect information from employees regarding their shift changes. It is intended for use by employees to notify their employer of their shift changes.

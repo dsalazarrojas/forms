@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Teaching Demonstration Evaluation Form is to allow educational institutions to gather feedback on teaching performances. The form is designed to help educators improve their skills and effectiveness in the classroom. Before filling out this form, please ensure that you have not already submitted feedback on this demonstration, as this form is for evaluations and not for new submissions.
-
-</thinking>
-
 # Teaching Demonstration Evaluation Form - Help Guide
 ## Purpose
 The Teaching Demonstration Evaluation Form is designed to help educational institutions gather feedback on teaching performances and allow educators to improve their skills and effectiveness.

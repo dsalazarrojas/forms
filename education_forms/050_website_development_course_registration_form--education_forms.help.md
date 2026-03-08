@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from users who want to participate in a website development course. The purpose of this form is to gather necessary details for course planning and organization, ensuring that everyone who joins is aware of the course's format, pace, and requirements. The form is divided into fields that cover basic contact information (First Name, Last Name, Email), personal project information (Website, Company), and specific course preferences (Role, Skills, Tools, Comments). By filling out this form, users will be able to provide their personal details and preferences for the course. Please fill in the form correctly and honestly for a smooth and successful course experience.
-
-</thinking>
-
 # Website Development Course Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from users who want to participate in a website development course. The form will help in planning and organization of the course, ensuring that everyone who joins is aware of the course's format, pace, and requirements.

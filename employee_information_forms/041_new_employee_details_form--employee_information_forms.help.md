@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee information for HR management purposes. It is recommended that only one employee fills out this form at a time. Please note that all fields are not required, but some fields like 'First Name', 'Last Name', 'Email', and 'Salary' are crucial for employee identification and payment purposes. 
-</thinking>
-
 # new_employee_details_form - Help Guide
 ## Purpose
 The new_employee_details_form is a form used to collect and store employee information for Human Resources management. This form is used to create a new employee profile, which includes personal details, job information, and emergency contact information.

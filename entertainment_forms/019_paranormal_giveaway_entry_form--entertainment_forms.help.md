@@ -1,14 +1,3 @@
-<thinking>
-This is a form for collecting information from users who want to participate in the Paranormal Giveaway Contest. The purpose of this form is to gather essential details from the users to determine their eligibility and tailor the experience to their preferences.
-
-The form is likely used in the entertainment industry for contests, sweepstakes, or promotions, where the goal is to collect demographic information and preferences from potential winners. This could be related to a contest hosted on a website or platform, and the form is likely used to verify the eligibility of participants, track engagement, and follow up on winners.
-
-This form is likely not meant for public consumption and the information collected will be stored internally to be used for follow-up actions or targeted marketing efforts.
-
-To avoid data duplication, a mechanism should be implemented to prevent multiple entries from the same user, possibly through a unique identifier or IP blocking.
-
-</thinking>
-
 # Paranormal Giveaway Entry Form - Help Guide
 ## Purpose
 The Paranormal Giveaway Entry Form is designed to collect essential information from users who want to participate in the Paranormal Giveaway Contest. This form helps us determine the eligibility and tailor the experience to their preferences.

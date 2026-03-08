@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect essential information about new employees, which will be used for employee access and management purposes.
 
 Before proceeding, please ensure that you are completing this form for a new employee. If you have already completed this form for this employee, please do not submit the form again. This form is designed to be completed once during the onboarding process.

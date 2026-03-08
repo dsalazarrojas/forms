@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Stress Management Feedback Evaluation Form - Help Guide
 
 ## Purpose

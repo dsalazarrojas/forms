@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Values_Review_Survey - Help Guide
 ## Purpose
 The Values_Review_Survey is a form designed to review and evaluate employee values, company values, and various other relevant details. This form is intended to help employees and managers provide a comprehensive assessment of an employee's performance and development needs.

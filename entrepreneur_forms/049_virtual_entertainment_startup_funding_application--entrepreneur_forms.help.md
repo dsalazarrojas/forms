@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for entrepreneurs to submit applications for virtual entertainment startup funding. It's intended to help investors and reviewers assess the feasibility and potential of each startup. The form is not affiliated with any proprietary form platforms and is released under CC BY 4.0. It's an original adaptation created using AI-generated form design, but not a copy or derivative of any existing form.
-</thinking>
-
 # Virtual Entertainment Startup Funding Application - Help Guide
 ## Purpose
 This form is for virtual entertainment startups to submit their applications for funding. It's a tool for entrepreneurs to provide detailed information about their startup, and for investors and reviewers to assess and provide feedback on these applications.

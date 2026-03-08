@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a DJ's entertainment services, likely for event planning or booking purposes. The form likely serves as a template for DJs to fill out their own details, such as their name, contact information, and event specifics. The form might be used by event planners or coordinators to gather relevant data from multiple DJs, ensuring they can efficiently compare and select the best fit for an event. Before starting, please review the form to ensure it aligns with your actual needs and that you're not already providing similar information elsewhere.
-</thinking>
-
 # DJ Entertainment Form - Help Guide
 ## Purpose
 This form is designed to collect information about a DJ's entertainment services, such as their name, contact information, and event specifics.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Payroll Tax Process Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the payroll tax process. It is intended to gather data on the frequency and payment schedule of payroll taxes, as well as other relevant aspects of the tax process. Please ensure that you understand the purpose of this survey and its relevance to your role in the organization.

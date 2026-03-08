@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gauge employee engagement with corporate initiatives. The purpose of this form is to collect information about what employees know about current initiatives, which department they're involved in, and how they receive communication about such initiatives. This information will help management understand the state of employee awareness and communication effectiveness. To ensure data quality, please complete the form only once per employee. If you've already completed this form, your responses will not be recorded.
-</thinking>
-
 # corporate_initiative_engagement_poll - Help Guide
 ## Purpose
 This form is designed to assess employee awareness and engagement with corporate initiatives. It aims to gather information about your level of knowledge, departmental involvement, and preferred communication channels for such initiatives.

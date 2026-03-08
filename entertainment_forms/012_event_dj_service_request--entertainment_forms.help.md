@@ -1,12 +1,3 @@
-<thinking>
-The internal reasoning block: This form is for event planners to request event DJ services. The goal is to gather information about an upcoming event, including its details, preferences, and requirements. The form should be used by event planners to ensure that they receive the necessary services for their event. The form's fields should be populated with as much detail as possible to provide the best service.
-
-The form is used to request an event DJ for a specific event, such as a wedding or corporate party. The event planner should enter the event type, date, time, number of guests, and venue details. The planner should also provide their contact information and any specific requests for the event, including the number of DJs they want and any additional information.
-
-The form should be filled out as accurately and completely as possible. If any of the fields are not relevant, they should be left blank. The event planner should be prepared to provide any additional information that may be requested by the DJ service.
-
-</thinking>
-
 # Event DJ Service Request - Help Guide
 ## Purpose
 The purpose of this form is to request event DJ services for a specific event, such as a wedding or corporate party. This form is used by event planners to provide the necessary information about their event to receive the best possible service from a DJ.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Incident And Improvement Report - Help Guide
 
 ## Purpose

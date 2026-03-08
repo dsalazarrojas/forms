@@ -1,13 +1,3 @@
-<thinking>
-
-This form is part of the "email_marketing_forms" category and is intended to facilitate contact and inquiries from customers or visitors interested in LimeTheme. Its primary purpose is to collect contact information and messages from users. 
-
-The form is designed to be simple and straightforward, with minimal fields to gather the essential information required for effective communication. The form's structure and content have been generated based on public survey data and are meant to be a practical and efficient way to gather contact details.
-
-Before proceeding, it is recommended to review the form's content and ensure it aligns with your organization's specific needs and requirements. 
-
-</thinking>
-
 # LimeThemeContactUsForm - Help Guide
 ## Purpose
 This form is designed to collect contact information and messages from visitors or customers interested in LimeTheme. It's a simple and efficient way to gather the essential details needed for communication.

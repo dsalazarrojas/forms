@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, my primary focus is on crafting a clear and concise user experience for the end user. To create an effective help guide, I'll carefully analyze the provided YAML structure and ensure that each field and its corresponding explanation provides value to the end user.
-
-Upon reviewing the provided YAML, I identify the form as "Invertebrate Classification Survey" which is likely used for classifying and documenting invertebrate species. The form has multiple pages with various fields, including select_multiple, select_one, number, text, and email fields. Each field is required or optional, and some have specific options or no options at all.
-
-To ensure the guide is relevant and not duplicated, I'll check for any existing guides or materials related to invertebrate classification and conservation. Given the form's specificity, I believe a well-crafted guide will provide a solid foundation for end users to navigate and understand the form's purpose and usage.</thinking>
-
 # Invertebrate Classification Survey - Help Guide
 ## Purpose
 This form is designed to collect data on invertebrates, their classification, habitats, and other essential characteristics. Fill out this form accurately to help document and conserve invertebrate species effectively.

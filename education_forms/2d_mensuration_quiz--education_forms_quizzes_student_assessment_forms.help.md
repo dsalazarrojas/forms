@@ -1,29 +1,3 @@
-<thinking>
-This form is designed to collect information from students who have taken a 2D mensuration quiz. The form's purpose is to gather data on students' performance, learning preferences, and feedback on the quiz's effectiveness. This form is intended for students of various age groups and educational levels. It is likely that schools or educational institutions will use this form to monitor and assess the effectiveness of the 2D mensuration quiz.
-
-To complete this form, please follow the instructions below:
-
-1.  Enter your full legal name as it appears on your identification or school records.
-2.  Provide your email address to allow us to send you the results of the quiz.
-3.  Specify your grade or year level (e.g., 10th Grade, Year 4).
-4.  Enter the name of your school or institution.
-5.  Select the main subject area you are studying.
-6.  Choose your preferred learning style (e.g., visual, auditory).
-7.  Enter the average number of hours you study per week.
-8.  Select the date you completed the quiz.
-9.  Indicate the number of attempts you made on the quiz.
-10. Enter the total number of questions on the quiz.
-11. Enter the number of questions you answered correctly.
-12. Enter your score as a percentage (e.g., 85.5%).
-13. Rate the difficulty of the quiz as it relates to your experience.
-14. Provide feedback on the quiz, including any challenges you faced.
-15. Specify your preferred study time (e.g., morning, afternoon).
-16. Enter any additional comments or suggestions you may have.
-17. Indicate whether you would recommend this quiz to others.
-18. If you are a teacher, provide your observations on the student's performance.
-
-</thinking>
-
 # 2D Mensuration Quiz - Help Guide
 ## Purpose
 This form is designed to collect information from students who have taken a 2D mensuration quiz. The form's purpose is to gather data on students' performance, learning preferences, and feedback on the quiz's effectiveness.

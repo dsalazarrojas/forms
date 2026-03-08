@@ -1,12 +1,3 @@
-<thinking> 
-This form template is a design contest form for the "Bag Design Contest" category in the "entertainment" industry. The form is used to collect information about a bag design from the designer, including their name, contact information, design details, and submission information. The form is meant to be filled out by the designer to showcase their bag design and participate in the contest. The fields in this form are designed to gather necessary information to judge and evaluate the design contest entries. The purpose of this form is to make it easy for designers to submit their designs and for the contest organizers to collect and review the entries. 
-
-This form template does not require any external integration or API connections, as it is a self-contained template designed to be filled out by the designers. It is recommended to review the form carefully before submitting, as incorrect or incomplete information may lead to rejection of the entry. 
-
-Please note that this is an AI-generated form template and does not copy or use proprietary content from any form platform. You are free to use, modify, and even sell forms derived from it, just give credit. For any issues or concerns, please contact form@gic.mx. 
-
-</thinking>
-
 # Bag Design Contest Form Template - Help Guide
 ## Purpose
 The Bag Design Contest Form Template is designed to collect information about a bag design from the designer. It is a self-contained template that allows designers to submit their designs and participate in the contest.

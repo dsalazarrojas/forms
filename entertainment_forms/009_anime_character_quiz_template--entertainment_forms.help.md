@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Anime Character Quiz Template - Help Guide
 ## Purpose
 The Anime Character Quiz Template is a form designed to help you explore the characteristics of anime characters. It asks for basic participant information and three questions to determine the preferred traits of the character being analyzed.

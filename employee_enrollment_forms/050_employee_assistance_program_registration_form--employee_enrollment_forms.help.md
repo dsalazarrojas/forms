@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # prophets_employee.registration_form - Help Guide
 ## Purpose
 This form is for employee registration purposes, allowing users to provide information about an employee. The form is designed to collect relevant details such as name, email, phone number, assistance programs, date of birth, start and end dates, and more. Please fill out the form accurately and completely to ensure your employee registration is processed correctly.

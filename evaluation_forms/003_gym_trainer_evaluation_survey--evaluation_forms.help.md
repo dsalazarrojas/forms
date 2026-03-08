@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gym Trainer Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from gym-goers about their experiences with trainers at the gym. The evaluation survey helps us understand how well our trainers are performing and identify areas for improvement.

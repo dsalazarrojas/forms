@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Conference Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students about their registration for a conference. The form includes fields for student selection of program, student details, and contact information, which will help the conference organizers plan and prepare for the event.

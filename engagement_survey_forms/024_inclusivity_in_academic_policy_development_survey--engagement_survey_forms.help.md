@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'd like to clarify the purpose and requirements for this form: The "Inclusivity In Academic Policy Development Survey" form is designed to gather feedback and insights from users on inclusivity aspects in academic policy development. This form is intended for academic and administrative staff to provide a comprehensive understanding of their perspectives on inclusivity in their institution. It's essential that users understand the purpose of the form and its implications to ensure accurate and reliable feedback. Before proceeding, please take a moment to review the form's content and ensure it's relevant to your role and responsibilities. Additionally, be aware that your input will be considered in the development and refinement of academic policies, so your responses will help shape the final product.</thinking>
-
 # Inclusivity In Academic Policy Development Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and insights from users on inclusivity aspects in academic policy development.

@@ -1,9 +1,3 @@
-<thinking>...checking that the form purpose and relevance, and making sure I'm not duplicating any information...
-
-The "Exponent Learning Survey" form is designed to gather participant feedback and ratings about a course, allowing course providers to understand the strengths and weaknesses of their program, make data-driven decisions, and improve future course offerings. This form aims to collect information on the overall quality of the course, suggestions for improvement, and contact details of the participants. It is likely that the form will be used by course administrators or coordinators to gather feedback and insights for course development and improvement.
-
-</thinking>
-
 # Exponent Learning Survey - Help Guide
 ## Purpose
 This form is used to gather participant feedback and ratings about a course, allowing course providers to understand the strengths and weaknesses of their program and make data-driven decisions to improve future course offerings.

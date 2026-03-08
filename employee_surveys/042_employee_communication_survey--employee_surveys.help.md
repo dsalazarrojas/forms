@@ -1,10 +1,3 @@
-<thinking> 
-To ensure that this form meets its intended purpose, we must first consider the following:
-This form is intended to gather information about the current state of communication within a team, including how often team members communicate with each other, their preferred method of communication, and challenges they face in communication. To avoid duplication, we should check if there are any overlapping questions or fields that ask for similar information. Upon reviewing the form, we see that there are indeed some fields that ask for similar information, such as "What is your preferred method of communication?" and "What method of communication do you use most often?" which both deal with the method of communication. We should consider merging or removing these fields to avoid confusion.
-We should also consider the order and flow of the form to ensure that it is logical and easy to follow. Upon reviewing the form, we see that it is a mix of multiple-choice questions, text fields, and note fields, which could be overwhelming for the user. We should consider reordering or reorganizing the form to make it more intuitive and easy to complete.
-Finally, we should consider adding more guidance or examples for the user to understand the expected format and tone for certain fields, such as the "Communication Survey Questions" and "Employee Communication Survey Questions" fields, which are text fields without any guidance.
-</thinking>
-
 # Employee Communication Survey - Help Guide
 ## Purpose
 This form is designed to gather information about the current state of communication within your team, including how often team members communicate with each other, their preferred method of communication, and challenges they face in communication.

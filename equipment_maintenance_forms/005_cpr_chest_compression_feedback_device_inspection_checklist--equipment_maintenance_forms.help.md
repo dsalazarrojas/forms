@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be completing a form to report on the inspection of a CPR Chest Compression Feedback Device. The purpose of this form is to collect data on the status of the device during regular maintenance checks, ensuring its continued functionality and effectiveness. This form is likely used within a healthcare or medical setting, possibly by medical professionals or equipment technicians.
-</thinking>
-
 # CPR Chest Compression Feedback Device Inspection Checklist - Help Guide
 ## Purpose
 

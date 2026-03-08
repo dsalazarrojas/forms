@@ -1,10 +1,3 @@
-<thinking>
-This form is for the Playwriting Program Application. 
-The purpose of this form is to collect information about the applicant's details, writing samples, and motivation for joining the playwriting program. 
-The form will be used to evaluate the eligibility of the applicant for the program. 
-Please note that the form is not mandatory, but it is recommended that all fields be completed for a complete evaluation.
-</thinking>
-
 # Playwriting Program Application - Help Guide
 ## Purpose
 

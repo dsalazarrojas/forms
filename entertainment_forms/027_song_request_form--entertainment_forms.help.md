@@ -1,7 +1,3 @@
-<thinking>
-The Song Request Form is designed to collect information from event organizers who want to request a specific song to be played at their event. This form will be reviewed by the team and a suitable song will be recommended or assigned to the event. The purpose of this form is to ensure that the correct song is requested for the event, and the event organizers and requester's information is collected for further communication. Before filling out the form, ensure that you have all the required information and are not duplicating a request that has already been submitted.
-</thinking>
-
 # Song Request Form - Help Guide
 
 ## Purpose

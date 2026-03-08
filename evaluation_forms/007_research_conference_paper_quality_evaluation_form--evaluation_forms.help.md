@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # research_conference_paper_quality_evaluation_form - Help Guide
 
 ## Purpose

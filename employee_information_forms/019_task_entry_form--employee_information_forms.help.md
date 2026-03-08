@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a new entry for a task, capturing essential details such as name, description, objectives, and deadlines. This information will be used for tracking and management of tasks across the organization. Before proceeding, make sure you have all the required information for the task at hand, as some fields may not be mandatory. Ensure you're filling out the form for a valid task and avoid duplication of work by confirming the task's existence and relevance in your project context.
-</thinking>
-
 # Task Entry Form - Help Guide
 ## Purpose
 The Task Entry Form is a simple form used to create new task entries with details such as title, description, objectives, deadline, and other related attributes. This form is essential for maintaining accurate task records and helping team members stay organized.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for obtaining consent from participants in a Brow Styling Gel trial. The form seems to collect information about the participant, their contact details, known allergies, and consent for the trial. It is likely used in a clinical or research setting to ensure the participant is aware of the potential risks and benefits of the trial. The form does not appear to be a duplicate or a copy of another form, but rather a unique form with its own specific requirements. It is reasonable to assume that this form is used for collecting consent from participants in a Brow Styling Gel trial.
-</thinking>
-
 # Brow Styling Gel Trial Consent Form - Help Guide
 
 ## Purpose

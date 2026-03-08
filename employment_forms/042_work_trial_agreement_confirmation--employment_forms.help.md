@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # work_trial_agreement_confirmation - Help Guide
 ## Purpose
 This form is used for the participant and recruiters to confirm the agreement of the work trial. It is a crucial document that ensures both parties are on the same page regarding the trial details and their roles. 

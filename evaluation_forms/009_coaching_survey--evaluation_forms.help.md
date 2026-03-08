@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a comprehensive coaching survey designed to evaluate a coach's performance, strengths, and areas for development. The form is meant to gather feedback from coaches, athletes, or other relevant individuals on various aspects of the coach's work, including their technical knowledge, effectiveness in developing athlete skills, ability to motivate and inspire athletes, quality of training planning and organization, communication skills, and more. The form will help to identify the coach's strengths and weaknesses, and provide valuable insights for their development and improvement.
-
-It is essential to note that this form is not affiliated with, endorsed by, or derived from any form platform, and its original creation and adaptation are based on the provided YAML fields. The form's purpose is to gather objective and honest feedback from individuals who have interacted with the coach, and it is not intended to be used for any other purpose.
-
-Before proceeding, please ensure that you have not already completed this survey. If you have, you can skip this form. If you are unsure, please consult with the form's administrator or the person responsible for the coach's evaluation.
-</thinking>
-
 # Coaching Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on a coach's performance, strengths, and areas for development. It is a comprehensive survey that will help to identify the coach's areas of improvement and provide valuable insights for their development.

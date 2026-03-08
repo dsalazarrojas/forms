@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect information from users about their math and AI experience. It will be used to gauge user proficiency in math and AI and to gather insights on how users utilize AI tools in their work. To ensure accuracy and consistency, please ensure that the information provided is up-to-date and relevant. Additionally, if you have already taken this survey in the past, please do not fill it out again.</thinking>
-
 # Math And AI Experience Survey - Help Guide
 ## Purpose
 The Math And AI Experience Survey is designed to gather information about your math and AI experience. This includes assessing your math proficiency, AI tool usage, and your background in math education. Your input will help us understand your skills and how you apply AI in your work.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about players' habits and preferences when it comes to opening preparation in chess. The goal is to understand how players approach opening study, what tools they use, and what challenges they face. This data can help improve the overall chess playing experience for users. It's essential to provide honest and accurate answers to help us better understand the current state of opening preparation.
-</thinking>
-
 # Chess Opening Practice Survey - Help Guide
 ## Purpose
 This form is designed to gather information about players' habits and preferences when it comes to opening preparation in chess. The goal is to understand how players approach opening study, what tools they use, and what challenges they face. This data can help improve the overall chess playing experience for users.

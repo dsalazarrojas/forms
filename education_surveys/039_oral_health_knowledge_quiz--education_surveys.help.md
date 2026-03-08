@@ -1,17 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and usage of the Oral Health Knowledge Quiz form. This form is designed to assess the knowledge of oral health concepts among users. The purpose of this form is to provide a self-assessment tool for individuals to evaluate their understanding of various oral health topics. This form is not intended for use in clinical or professional settings, but rather as a personal knowledge assessment tool.
-
-The form consists of 20 multiple-choice questions, each covering a different aspect of oral health. The questions are designed to be self-explanatory, with clear and concise language. The form also includes an option to select the level of knowledge: Very Low, Low, Medium, or High.
-
-To complete this form, simply follow the instructions below:
-
-1. Review each question carefully and select the most accurate answer.
-2. For multiple-choice questions, select one of the options provided.
-3. For open-ended questions, provide a brief written response.
-4. Once you have completed all 20 questions, review your answers and select the level of knowledge that best describes your understanding.
-
-</thinking>
-
 # Oral Health Knowledge Quiz - Help Guide
 
 ## Purpose

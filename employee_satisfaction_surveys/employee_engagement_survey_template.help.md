@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_engagement_survey_template - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on their overall satisfaction and engagement with their role and organization. It includes questions on their level of satisfaction, communication with management, support for professional development, and work-life balance. Additionally, it provides space for employees to suggest improvements and share any additional comments.

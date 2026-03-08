@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for evaluating seasonal collections, which can be collections of items or products that are related to a specific season. The form is used for assessing the quality or suitability of these collections. This form will help the evaluators provide their opinions and comments on the collections, which will aid in making informed decisions.
-
-To complete this form, the user must have a clear understanding of what a seasonal collection is and the importance of providing an honest and thorough evaluation. This form is designed to collect feedback on various aspects of the seasonal collection, including its seasonality, rating, and other relevant information.
-
-Before proceeding, make sure that the collection you are evaluating is indeed a seasonal collection and not another type of product or item. If you are unsure, please consult the original description or ask your supervisor for clarification.
-
-This form is not intended for evaluations that have already been completed. Please do not use this form for evaluations that have already been submitted or finalized.
-
-To complete the form, follow the instructions below.</thinking>
-
 # Seasonal Collection Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions on seasonal collections. It is used to evaluate the quality, suitability, and other relevant aspects of the collections.

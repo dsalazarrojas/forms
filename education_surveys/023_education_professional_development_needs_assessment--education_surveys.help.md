@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from teachers and staff about their professional development needs and interests, specifically in the context of education. This includes questions about their current school location, district, preferred training topics, delivery formats, barriers they face in participating in professional development, and additional notes. This form is intended to be a starting point for understanding the needs and preferences of education professionals and will help in planning relevant training and support initiatives.
-This form should be filled out by education professionals who need to assess their professional development needs.
-Before filling out this form, please make sure you have not already submitted it. If you have previously submitted this form, it is recommended to review and update your answers to reflect any changes.
-</thinking>
 # Education Professional Development Needs Assessment - Help Guide
 ## Purpose
 This form is used to collect information from education professionals about their professional development needs and interests. It helps in understanding the specific areas that require support and planning relevant training and initiatives.

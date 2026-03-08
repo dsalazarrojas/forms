@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to gauge nonprofit employee well-being, specifically burnout prevalence, among other aspects. It seems to cover a wide range of factors including demographics, job characteristics, burnout factors, wellbeing scales, work-life balance, job satisfaction, physical and mental health, and various scores related to burnout and wellbeing. To ensure data quality and accuracy, it's essential to guide users through each question clearly. The form is divided into several sections that aim to provide a comprehensive overview of employee well-being in a nonprofit setting. It is crucial to ensure that the explanations provided for each field are concrete, concise, and practical.
-</thinking>
-
 # Nonprofit Employee Burnout Study - Help Guide
 ## Purpose
 

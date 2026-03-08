@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used to collect opinions, awareness, and goals related to Irish culture awareness, which is a topic of interest in the context of social sciences, anthropology, or cultural studies. The goal of this form is to gather data on participants' level of awareness about Irish culture, traditions, language, and other related aspects. This data can be used to identify areas of interest and potential barriers to increasing awareness, as well as to develop recommendations to improve cultural understanding and appreciation. It is assumed that the form is part of a larger project or program aimed at promoting cultural awareness, understanding, or appreciation, and the data collected will be used to inform future initiatives and programs.
-</thinking>
-
 # irish_culture_awareness_survey - Help Guide
 ## Purpose
 This form is designed to help us better understand your level of awareness and knowledge about Irish culture. Your responses will be used to identify areas of interest and potential barriers to increasing awareness, and will inform future initiatives and programs aimed at promoting cultural understanding and appreciation.

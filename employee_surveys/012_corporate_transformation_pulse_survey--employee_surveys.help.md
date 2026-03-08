@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect feedback from employees on the state of the company's transformation, and their personal experiences and perceptions. The purpose is to gauge the effectiveness of our corporate transformation initiatives and identify areas of improvement.
-It's essential that you only fill out this form once, even if you've filled out previous versions. Your input will help shape the company's transformation strategy and make informed decisions.
-Before filling out this form, please ensure you have a clear understanding of your role in the company and the departments you're affiliated with.
-</thinking>
-
 # corporate_transformation_pulse_survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on the company's transformation progress, their role, department, and overall sentiment.

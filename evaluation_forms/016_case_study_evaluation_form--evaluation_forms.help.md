@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Case Study Evaluation Form - Help Guide
 
 ## Purpose

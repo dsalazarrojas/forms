@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to gather daily experience feedback from employees. The purpose of this form is to understand how employees perceive their daily work experience, allowing management to identify areas of improvement and make data-driven decisions.
-This form is a one-time submission form, meaning that employees will fill it out once for each day they want to provide feedback.
-This form does not store any information that can be used to identify individual employees, so employees can feel comfortable providing honest feedback without worrying about retribution.
-The feedback form is divided into several fields, each with a specific purpose. The fields are designed to be clear and concise, with optional fields that allow employees to provide additional context or comments.
-</thinking>
-
 # Daily Experience Feedback - Help Guide
 ## Purpose
 

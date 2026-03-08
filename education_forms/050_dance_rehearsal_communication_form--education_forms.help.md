@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information for dance rehearsals, which is an essential part of the educational process. This form allows users to communicate and organize the details of each dance rehearsal. It's likely that this form will be used to track and document the progress, schedule, and other relevant information about the dance rehearsals. Before proceeding, please ensure that you have all necessary information and permissions to complete this form accurately.
-</thinking>
-
 # Dance Rehearsal Communication Form - Help Guide
 ## Purpose
 The form is used for tracking and documenting dance rehearsals. This includes scheduling, attendance, notes, and other essential details.

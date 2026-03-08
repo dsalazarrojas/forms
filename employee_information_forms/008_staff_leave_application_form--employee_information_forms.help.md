@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their leave applications. It is intended for internal use within an organization and is not meant to be shared with external parties. Please fill out this form with accurate and clear information to ensure that your leave request is processed smoothly. This form is for individual use and is not meant to be used as a template for multiple employees at once.
-</thinking>
-
 # Staff Leave Application Form - Help Guide
 ## Purpose
 This form is used by employees to apply for leave from work. It helps the HR department process leave requests efficiently and accurately.

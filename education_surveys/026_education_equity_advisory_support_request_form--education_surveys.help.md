@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to request support or guidance from the education equity advisory team. This form is intended for school administrators, students, or parents to submit requests for support related to education equity. To prevent duplicate requests, please ensure that you have not submitted a similar request in the past and that your issue is not already being addressed by another team or department.
-
-</thinking>
-
 # Education Equity Advisory Support Request Form - Help Guide
 ## Purpose
 The Education Equity Advisory Support Request Form is designed to help school administrators, students, or parents request support or guidance from the education equity advisory team.

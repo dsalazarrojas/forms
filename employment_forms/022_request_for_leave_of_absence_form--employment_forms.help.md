@@ -1,7 +1,3 @@
-<thinking>As a form expert, I'll first provide an internal reasoning block for myself to understand the form's purpose and ensure I'm not duplicating any effort. I'll review the form's purpose, fields, and the YAML metadata to create a user-friendly guide.
-
-The form, "request_for_leave_of_absence_form", seems to be designed for an organization to request leave of absence for an employee. It collects personal and employment-related information, reason for leave, dates, status, and additional comments. The form appears to follow a standard structure, making it easy to understand. I'll create a concise guide based on this metadata.</thinking>
-
 # request_for_leave_of_absence_form - Help Guide
 ## Purpose
 The "request_for_leave_of_absence_form" is used to request a leave of absence for an employee. This form is essential for employees to notify their employer about their intention to take a leave of absence, providing them with necessary details to process the request.

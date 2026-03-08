@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for the installation of smart power outlets in a building or home. It is intended for electricians to request access to a smart power outlet installation project and provide details about the installation, including the type of power outlet, installation date, and status of the installation. The form is used by the maintenance team to track and manage smart power outlet installations.
-
-</thinking>
-
 # Smart Power Outlet Installation Request Form - Help Guide
 ## Purpose
 This form is a request form for electricians to request access to a smart power outlet installation project. It is used by the maintenance team to track and manage the installation process.

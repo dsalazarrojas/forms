@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for entertainment professionals, specifically face painters, to register their details and event information. It is intended for use by organizers of events such as schools, corporations, and festivals. 
-To use this form, the user should first review the fields below to ensure they understand the required and optional fields. 
-
-</thinking>
-
 # Group Face Painting Registration - Help Guide
 ## Purpose
 The "Group Face Painting Registration" form is intended for entertainment professionals to register their details and event information. This form helps event organizers gather necessary information from face painters to provide a smooth and enjoyable experience for all involved.

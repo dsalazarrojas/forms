@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used by employees to report incidents that may lead to a worker's compensation claim. The purpose of this form is to collect information from employees about the incident, including the employee's identity, details about the incident, and relevant contact information for the employee's employer. This form is not intended to be a substitute for medical documentation, but rather a supporting document for the worker's compensation claim process. 
-
-This form is designed to be simple and easy to use, and the fields are intended to provide clear and concise information about the incident. Each field is labeled clearly, and the form is organized in a logical way to make it easy for employees to fill out. 
-
-Before proceeding, it would be a good idea to review the form carefully and ensure that it meets the needs of the worker's compensation claim process in your organization. If you have any doubts or questions, please reach out to the relevant department or team responsible for worker's compensation. 
-
-Please note that this form was created with the intention of being a general template and may need to be customized or modified according to your organization's specific needs and regulations.</thinking>
-
 # Worker Compensation Claim Form - Help Guide
 ## Purpose
 This form is used to report incidents that may lead to a worker's compensation claim. It gathers information from employees about the incident, including their details and relevant contact information for their employer.

@@ -1,7 +1,3 @@
-<thinking>
-The "Benefit Change Communication Form" is designed to provide employees with a clear and structured way to communicate changes to their benefits. This form aims to ensure that employees are informed and understand the impact of these changes. By filling out this form, employees can provide feedback, express concerns, and request support. The form is divided into sections, each with specific fields that guide the employee through the process.
-</thinking>
-
 # Benefit Change Communication Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a clear and structured way for employees to communicate changes to their benefits. It helps ensure that employees are informed and understand the impact of these changes.

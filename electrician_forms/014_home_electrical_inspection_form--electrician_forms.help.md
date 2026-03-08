@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for electrical inspections in residential or commercial settings. The form likely aims to gather information about the electrical system, potential hazards, defects, repairs, and inspection results. To ensure consistency, the form should be filled out for every home or building inspection, and the same fields should be used across all inspections. This is to provide standardized data and facilitate comparison across different inspections.
-</thinking>
-
 # Home Electrical Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect data about the electrical system and potential hazards, defects, and repairs during a home electrical inspection. It is intended to be filled out by the inspector and used for documentation and record-keeping purposes.

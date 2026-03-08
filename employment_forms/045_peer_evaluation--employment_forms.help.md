@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed to collect information from evaluators regarding a peer's performance, behavior, or skills in a specific area. The goal is to gather feedback that can be used to support professional development, training, or personnel decisions. To ensure relevance, please fill out this form only when it's necessary and not as a formality or administrative task.
 
 ## Peer Evaluation - Help Guide

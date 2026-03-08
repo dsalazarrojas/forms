@@ -1,8 +1,3 @@
-<thinking>
-To ensure the form serves its purpose and to avoid duplication of work, this form should only be completed by those directly responsible for the sustainability index evaluation process and only when there is a valid request for an evaluation. Please confirm this before proceeding.
-
-</thinking>
-
 # Sustainability Index Evaluation Request - Help Guide
 
 ## Purpose

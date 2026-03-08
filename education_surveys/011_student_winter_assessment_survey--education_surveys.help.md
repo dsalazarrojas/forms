@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from students on their winter term experience, including their satisfaction with academic support, course materials, and instructor performance. The form is likely used by the education department to identify areas of improvement and make data-driven decisions. This form should only be completed by students who have participated in the winter term, as it is specifically designed to gather feedback on that term. Please do not complete this form if you did not participate in the winter term.
-
-</thinking>
-
 # Student Winter Assessment Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students on their winter term experience. It will help the education department understand what worked well and what did not, and make improvements for future terms.

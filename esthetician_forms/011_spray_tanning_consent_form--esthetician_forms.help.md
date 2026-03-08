@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to understand the context of the form and the purpose of each field before providing a user-facing help guide. Upon reviewing the provided YAML schema, I notice that this form appears to be for capturing client information and medical history related to spray tanning sessions. The form includes various fields for name, contact information (email and phone), medical conditions, medical clearance, medical history, allergies, consent, and session details (session type and duration). Each field seems to be related to the spray tanning service and its potential risks and considerations. I also see that there are multiple fields with similar names but with different IDs, which may indicate a possible duplication or repetition. However, I will proceed to provide a user-facing help guide based on the provided fields.</thinking>
-
 # Spray Tanning Consent Form - Help Guide
 
 ## Purpose

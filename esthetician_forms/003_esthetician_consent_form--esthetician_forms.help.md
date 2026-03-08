@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting client information and consent for esthetician services. It's possible that a client may not provide this information, which is why it's not required. The form seems to be focused on collecting binary answers (yes/no) for different aspects of esthetician services, with one field for free-form text input.
-</thinking>
-
 # esthetician_consent_form - Help Guide
 ## Purpose
 The esthetician_consent_form is used to collect client information and consent for esthetician services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from media operations coordinators regarding their work experience, challenges, usage and non-usage of specific tools, and other relevant feedback. It's essential to ensure that each field is completed accurately, as this information will contribute to the development and improvement of media operations processes.
 
 </thinking>

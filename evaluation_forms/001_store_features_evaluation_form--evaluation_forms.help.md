@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I understand the task at hand. I will create a user-facing help guide for the "Store Features Evaluation Form" that is clear, concise, and practical. This form is designed to evaluate stores and their features. Before starting, let's review the purpose and structure of this form to ensure we don't duplicate any effort or explanation.</thinking>
-
 # Store Features Evaluation Form - Help Guide
 ## Purpose
 The Store Features Evaluation Form is used to evaluate the features of a store. This form is designed to gather information about the store's features and assess their quality.

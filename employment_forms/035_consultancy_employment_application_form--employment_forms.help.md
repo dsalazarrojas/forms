@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from potential applicants for consultancy employment opportunities. It is intended to assess the candidate's qualifications, expertise, and availability for a position within the consultancy. The form is divided into several sections, each covering a different aspect of the candidate's profile.
-
-To ensure accurate and relevant data, it's crucial that applicants only fill out this form if they are genuine in their interest in joining the consultancy. Duplicate submissions from the same applicant should be avoided to prevent unnecessary administrative overhead.
-
-Before starting, review your profile to ensure you have the necessary information ready.
-</thinking>
-
 # Consultancy Employment Application Form - Help Guide
 
 ## Purpose

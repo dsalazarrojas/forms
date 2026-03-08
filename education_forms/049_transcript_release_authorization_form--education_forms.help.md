@@ -1,13 +1,3 @@
-<thinking>
-This form is used to obtain authorization for the release of a student's transcript. 
-It's used for the purpose of allowing schools to release information about a student's academic performance. 
-This information may be requested by a variety of entities, such as other schools, colleges, or future employers.
-A valid form submission requires the following: 
-- Student's grade level (9th, 10th, 11th, or 12th) 
-- The type of authorization granted (Parent, Guardian, School Counselor, or School Administrator) 
-This form will not be processed if the student's grade level or the type of authorization is not completed.
-</thinking>
-
 # Transcript Release Authorization Form - Help Guide
 ## Purpose
 This form is used to obtain authorization for the release of a student's transcript.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Feedback Release Form - Help Guide
 ## Purpose
 The Employee Feedback Release Form is designed to gather feedback from employees on various aspects of their work experience. This form is intended to be completed by employees to provide their suggestions, thoughts, and opinions on their work environment, management, and overall job satisfaction. Please complete this form only once, as it will help us understand your feedback and improve our services for you and your colleagues.

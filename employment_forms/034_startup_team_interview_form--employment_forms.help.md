@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from a candidate about their startup team for the purpose of conducting an interview. The form is intended to be completed by the candidate themselves, and it will be used to facilitate the interview process. Please ensure that you are completing this form only once for each candidate and that you are providing accurate information.
-</thinking>
-
 # startup_team_interview_form - Help Guide
 ## Purpose
 This form is used to collect information about a startup team for the purpose of conducting an interview.

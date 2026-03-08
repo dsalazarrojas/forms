@@ -1,5 +1,3 @@
-<thinking>...The HR Disciplinary Panel Hearing Request Form is a document used to initiate an official disciplinary hearing process in an organization. The form is meant to be completed by an employee or their representative when they wish to request a hearing to address a disciplinary matter. The form is not intended to be used for other purposes, such as submitting regular performance reports or requesting time off. It is also not a duplicate of other forms, but rather a specific instrument for initiating a formal hearing process. When filling out this form, please ensure you are providing accurate and relevant information for the intended use of the hearing...</thinking>
-
 # HR Disciplinary Panel Hearing Request Form - Help Guide
 ## Purpose
 This form is used to request an official disciplinary hearing. It is meant to be completed by an employee or their representative when they wish to address a disciplinary matter through a formal hearing process.

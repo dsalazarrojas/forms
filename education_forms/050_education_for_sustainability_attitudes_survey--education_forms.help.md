@@ -1,10 +1,3 @@
-<thinking> 
-**This form is intended to gauge the attitudes and perspectives of educators on sustainability in education. It is designed to collect feedback and insights that can help inform future educational initiatives.**
-
-This form is not a requirement for any specific program or certification, so you can submit it voluntarily.
-
-</thinking>
-
 # Education For Sustainability Attitudes Survey - Help Guide
 ## Purpose
 

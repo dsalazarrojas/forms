@@ -1,12 +1,3 @@
-<thinking>
-This form is used to coordinate and record fire drill information in an emergency situation. 
-The purpose of this form is to gather essential details such as the date, time, location, and contact information for emergency services. 
-The form is typically used by employees or management staff to request a fire drill, provide essential details, and ensure that the fire department is informed and prepared. 
-Please ensure that the form is completed accurately and thoroughly, and that all required fields are filled out. 
-If you are unsure about any information, please contact the relevant authorities or your supervisor for guidance. 
-Please note that this form is not intended to be used for actual emergency situations but rather for scheduled or planned fire drills. 
-</thinking>
-
 # Fire Drill Coordination Request Form - Help Guide
 ## Purpose
 The Fire Drill Coordination Request Form is a tool used to collect and record essential information for fire drills. It helps to ensure that all necessary details are captured accurately, and that the fire department is prepared and informed in case of an actual emergency.

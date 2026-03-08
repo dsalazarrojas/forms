@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the experience of a customer who has used an autonomous taxi service. The purpose of this form is to gather feedback on various aspects of the service, such as ride details, vehicle cleanliness, and overall experience.
-</thinking>
-
 # Autonomous Taxi Service Evaluation Form - Help Guide
 ## Purpose
 The Autonomous Taxi Service Evaluation Form is designed to gather customer feedback on their experience with the autonomous taxi service. By completing this form, you will provide valuable insights that will help us improve our service to better meet your needs.

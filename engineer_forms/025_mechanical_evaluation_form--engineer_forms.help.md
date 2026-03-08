@@ -1,19 +1,3 @@
-<thinking>
-
-The Mechanical Evaluation Form is used to gather information about a machine's mechanical condition and maintenance status. The form is designed to collect data on the user's identification, machine details, and maintenance history. 
-
-To ensure accurate completion of this form, please make sure to:
-
-- Enter all required fields.
-- Use the correct format for the date and time fields.
-- Select the relevant options for machine type, maintenance type, and other fields as required.
-- Enter any additional comments about the machine's condition.
-- Enter the name, email, and phone number of the mechanic performing the evaluation (if applicable).
-
-The purpose of this form is to standardize the mechanical evaluation process, making it easier for users to provide consistent and detailed information about machine conditions. This will help to improve the accuracy and efficiency of the maintenance work.
-
-</thinking>
-
 # Mechanical Evaluation Form - Help Guide
 
 ## Purpose

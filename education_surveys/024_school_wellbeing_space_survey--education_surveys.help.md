@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather feedback and input from staff, students, and other stakeholders on the school's wellbeing spaces, including their usage frequency, satisfaction, and support programs. It's essential to provide a clear and comprehensive guide for users to fill out the form accurately and efficiently. To avoid duplication, it's recommended that users only access this form during designated feedback periods.
-
-Please ensure you have reviewed this guide before proceeding to ensure you understand the form's purpose and requirements.
-
-This guide is designed to help users navigate the School Wellbeing Space Survey form effectively.
-</thinking>
-
 # School Wellbeing Space Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and input from staff, students, and other stakeholders on the school's wellbeing spaces.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used to help employees apply for the Employee Gamification Program, a program designed to boost employee engagement and motivation. 
-The form is a critical part of the program's application process, and it requires specific information from employees to ensure they are eligible. 
-
-This form should only be used by employees who are interested in participating in the Employee Gamification Program. 
-Employees who are not interested in the program or have already been selected for another program should not use this form. 
-
-The fields in this form are designed to collect necessary information to evaluate employee's fit for the program. 
-Duplicate applications will not be considered.
-</thinking>
-
 # Employee Gamification Program Application - Help Guide
 ## Purpose
 The Employee Gamification Program Application form is used to gather information from employees who are interested in participating in the Employee Gamification Program. 

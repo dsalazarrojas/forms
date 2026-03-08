@@ -1,7 +1,3 @@
-<thinking>
-The provided YAML is a form schema for an "employment separation form", likely used in HR or HR-related purposes. The form is likely used to collect information for an employee's separation from a company. The purpose of this form is to gather details about the employee's departure, including their personal information, reason for separation, dates, and manager's involvement. Before proceeding, please note that this form is AI-generated and does not have any direct affiliation or extraction from other platforms.
-</thinking>
-
 # separation_form - Help Guide
 ## Purpose
 The "separation_form" is a form used to collect information for an employee's separation from a company. It is intended for use by HR professionals to gather necessary details about an employee's departure.

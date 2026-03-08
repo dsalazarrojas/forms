@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information about an employee's worker certification completion status. It is used to track whether an employee has completed required training and certification programs. This information is important for HR and management to keep records and ensure that employees have the necessary skills and qualifications to perform their jobs. This form is likely used by HR departments to track employee progress and identify areas where additional support or training is needed.
-
-</thinking>
-
 # Worker Certification Completion Report Form - Help Guide
 ## Purpose
 The Worker Certification Completion Report Form is used to record an employee's status on required training and certification programs.

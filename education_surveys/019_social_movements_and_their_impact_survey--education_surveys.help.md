@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information about social movements and their impact. It appears to be a comprehensive survey that collects feedback and data from individuals with a potential interest in or association with nonprofit organizations, likely for research or study purposes. Before proceeding with this guide, it's essential to ensure that this is the intended use case. Please verify that this form is not used to collect data that is already available within your organization or through other means. Additionally, ensure that the collected data is not duplicated or redundant, as it might be unnecessary for your analysis or research.
-</thinking>
-
 # Social Movements And Their Impact Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect information about social movements and their impact. It is intended to gather data on various aspects of social movements, including awareness, participation, impact, and demographic information. The collected data will be used for research or analysis purposes, likely to better understand social movements and their effects.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about language roots and structures. It is used to gather data on whether a language has certain characteristics, such as language family tree, linguistic characteristics, language roots, and language structures. The form is primarily used for educational or research purposes, and it is intended to be completed by experts or individuals with some knowledge of language and linguistics. This form may be completed by users with varying levels of expertise, from students to professors, and it is expected that the form will help users to identify and explore language features and relationships. It is recommended that users familiarize themselves with the provided information before filling out the form.
-</thinking>
-
 # Language Roots And Structures Survey - Help Guide
 ## Purpose
 The Language Roots and Structures Survey is a form designed to collect information about language roots and structures. This form is used to gather data on various language features, such as language family tree, linguistic characteristics, language roots, and language structures.

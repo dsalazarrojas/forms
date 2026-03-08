@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, I'll aim to create a user-facing help guide that is concise, practical, and easy to follow. I'll base my explanation on the provided YAML fields and aim to avoid inventing unsupported business logic.
-
-First, let's clarify the purpose of this form: The Vendor Onboarding Application is designed to collect essential information from new vendors who are interested in partnering with our company. This form helps to streamline the onboarding process, making it easier for both our team and the vendor to understand each other's requirements and expectations.
-
-Before proceeding, I'd like to check that this form is not a duplicate of any other form in our system. If it is, we might need to merge or modify this form to avoid confusion.</thinking>
-
 # Vendor Onboarding Application - Help Guide
 ## Purpose
 The Vendor Onboarding Application is a form designed to collect essential information from new vendors who are interested in partnering with our company. This form helps to streamline the onboarding process, making it easier for both our team and the vendor to understand each other's requirements and expectations.

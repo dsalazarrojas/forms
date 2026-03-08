@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help employees report accidents or incidents that occur on company premises or during work-related activities. The form is intended to gather information about the incident, including its details, the employee involved, and witness information. It serves as a tool for the HR department to collect data and investigate incidents promptly.
-
-</thinking>
-
 # Employee Accident/Incident Report Form - Help Guide
 
 ## Purpose

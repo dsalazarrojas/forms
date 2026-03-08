@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to obtain a release from a subcontractor, typically in construction or other fields where liens are common. The form is intended to be completed by the subcontractor to release their lien on a property or project, usually as a result of payment or other settlement agreement. Before proceeding, please ensure that you have reviewed and understood the terms of the release and that it accurately reflects your situation. Ensure that you do not complete this form if you are unsure or if it does not apply to your situation. If you need help or clarification, please contact the relevant authorities or legal advisors.
-</thinking>
-
 # Subcontractor Lien Release Form - Help Guide
 ## Purpose
 This form is used to release a lien on a property or project, typically in construction or other fields where liens are common. The form is completed by the subcontractor to confirm that they have been paid or settled their outstanding claims and are releasing their lien.

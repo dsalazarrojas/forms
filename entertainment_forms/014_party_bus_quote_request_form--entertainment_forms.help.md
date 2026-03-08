@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users to create a quote for a party bus service. The form is likely intended for clients or customers who are interested in booking a party bus for a special event or celebration. This form will help the party bus company to get the necessary information about the event, such as date, time, location, and other relevant details. The form fields should align with this purpose and provide an efficient way for the company to receive the required information without overwhelming the user. It is essential to keep the form simple and intuitive to minimize the likelihood of users providing unnecessary information, which can lead to form duplication or errors.
-</thinking>
-
 # Party Bus Quote Request Form - Help Guide
 ## Purpose
 The Party Bus Quote Request Form is designed to gather information from customers interested in booking a party bus for a special event or celebration.

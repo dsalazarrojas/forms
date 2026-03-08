@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's Shopify website. The purpose of this form is to gather data on the client's business entity, website, and store details. This form will likely be used by a Shopify partner or representative to collect information for a new Shopify website setup.
-
-Before proceeding, ensure you have the necessary permissions to access and handle the client's data. Also, be aware that this form may collect sensitive information, so use it within your organization's guidelines and regulations.
-
-This guide is a step-by-step walkthrough to help you understand and complete the Shopify website intake form.
-
-</thinking>
-
 # Shopify Website Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's Shopify website. The purpose of this form is to gather data on the client's business entity, website, and store details.

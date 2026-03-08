@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be a survey designed for university career services to gauge their impact and usage. The form likely aims to collect data on students' experiences and perceptions of various career services offered by the university. The questions and fields are designed to gather information on users' interactions with these services, potentially informing improvements or future development of these offerings. This form's purpose seems to be focused on user feedback and satisfaction, rather than collecting personal identifying information or sensitive data.
-
-To verify, the form's title, "University Career Services Impact Questionnaire," supports this assumption. Additionally, the fields include a mix of text input fields and multiple-select questions, which suggests that the form aims to gather qualitative and quantitative data.
-
-Before proceeding, it's essential to ensure that this form has not been previously created or used by the target institution or similar organizations, as it's an AI-generated form based on public data. If the form is intended for internal use within the university, it may not be necessary to consider this factor.
-
-Given this context, the form's fields seem to be asking for feedback on various services provided by the university career services, with an emphasis on user experiences and suggestions for improvement.
-</thinking>
-
 # University Career Services Impact Questionnaire - Help Guide
 ## Purpose
 The University Career Services Impact Questionnaire is a survey designed to gather feedback from students on the impact and usage of university career services. This form aims to collect data on users' experiences and perceptions of these services, which will help inform improvements or future development of these offerings.

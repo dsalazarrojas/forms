@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # reduced_hours_agreement_form - Help Guide
 ## Purpose
 This form is intended to document and track employee agreements for reduced work hours, including the schedule start and end dates, approval and signing dates, and status updates from managers. It's a crucial tool for ensuring clear communication and compliance within an organization.

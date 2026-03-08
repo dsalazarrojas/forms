@@ -1,10 +1,3 @@
-<thinking>
-To determine whether this form is relevant and to prevent duplication, please consider the following:
-* Is this form part of an ongoing process to assess and evaluate the performance of veterinarians?
-* Has a similar form or assessment already been completed for this veterinarian in the past?
-* Is there a valid reason to reassess this veterinarian's performance, such as a change in role, significant new responsibilities, or exceptional circumstances?
-</thinking>
-
 # Annual Veterinarian Review 2 Years - Help Guide
 ## Purpose
 This form is designed to review and evaluate the performance of a veterinarian over a two-year period. It assesses key areas of practice, including clinical competency, diagnostic skills, animal handling, client communication, ethics and compliance, and professional growth and development. The purpose of this form is to identify strengths and areas for improvement, enabling veterinarians to focus on their professional growth and provide high-quality patient care.

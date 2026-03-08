@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data from music career guidance survey respondents. The purpose is to gather information on their education background, current occupation, instrument(s) played, years of experience, next steps, music career goals, contact details, program interest, and any additional comments or feedback. This form is likely to be used by music educators, administrators, or career counselors to gain insights on the respondents' music careers and preferences.
-
-Before filling out this form, please ensure that you are not duplicating a previously submitted survey. Please note that the provided options for each field are suggestions, and you may choose any option that best represents your response.
-
-Please provide honest and accurate information to help us better understand your music career goals and aspirations.
-
-</thinking>
-
 # music_career_guidance_survey - Help Guide
 ## Purpose
 The music career guidance survey aims to collect data on music career goals and aspirations from respondents.

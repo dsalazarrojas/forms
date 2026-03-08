@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Estimate Advertising Budget Form - Help Guide
 ## Purpose
 

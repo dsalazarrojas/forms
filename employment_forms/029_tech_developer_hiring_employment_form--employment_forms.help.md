@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from potential tech developers for hiring purposes. It is used to gather details about the applicant's contact information, employment status, skills, salary range, and other relevant details. This form is designed to streamline the hiring process for tech companies and recruiters.
-
-</thinking>
-
 # Tech Developer Hiring Employment Form - Help Guide
 ## Purpose
 The Tech Developer Hiring Employment Form is designed to collect information from potential tech developers for hiring purposes. It aims to gather relevant details that will help recruiters and tech companies make informed decisions during the hiring process.

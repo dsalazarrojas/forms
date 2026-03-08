@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about students and their recommenders for an honor society recognition process. The form is intended to gather details about the student's academic performance, institution type, and recommender's position. The form will help in evaluating a student's eligibility for an honor society membership. It is essential to ensure that the information provided is accurate and complete to avoid any confusion or misrepresentation. Please note that some fields are optional, and you should only fill in the necessary information to the best of your ability.
-
-Before filling out this form, please review the following guidelines:
-
-* Ensure that you are filling out the form for the correct student and institution.
-* Be accurate and honest when providing information.
-* Do not submit duplicate forms for the same student.
-
-</thinking>
-
 # Honor Society Recommendation Form - Help Guide
 ## Purpose
 The Honor Society Recommendation Form is designed to collect information from recommenders about students who have excelled academically and demonstrated excellence in their studies. This form helps to evaluate a student's eligibility for an honor society membership.

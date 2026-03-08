@@ -1,10 +1,3 @@
-<thinking>
-A Two-Way Radio Request Form is used to record information about equipment requests, including the requestor's name, email, role, start and end dates, duration, equipment description, equipment count, comments, assigned tool, and team lead status. To avoid duplication of requests, this form ensures that each request is unique, and the information provided is accurate and complete. 
-
-Before submitting the form, please review the fields carefully and ensure that you have filled in all required fields. 
-
-</thinking>
-
 # Two Way Radio Request Form - Help Guide
 ## Purpose
 The Two-Way Radio Request Form is designed to collect information about equipment requests in a structured and organized manner. This form helps to ensure that all necessary details are captured accurately and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear and the form is not duplicated. The "Virtual Basket Raffle Form" appears to be a form for organizing virtual events or activities. The form fields seem to be related to event details such as basket details, participant information, and event schedule. We will review the form fields and provide a clear and concise help guide for end-users. No form field is marked as required, which might mean that the form is intended to be optional or that some fields might be skipped if not applicable. We will provide guidance on the fields that are optional or have default values if applicable.
-</thinking>
-
 # Virtual Basket Raffle Form - Help Guide
 
 ## Purpose

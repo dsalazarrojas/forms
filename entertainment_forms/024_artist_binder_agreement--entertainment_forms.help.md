@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I'm going to create a comprehensive user-facing help guide for the "Artist Binder Agreement" form. This form is a crucial document that outlines the terms and conditions for artists or performers to agree on with their clients or venues. Its primary purpose is to ensure clarity and mutual understanding between the parties involved.
-
-To determine the best approach for this guide, I'll carefully analyze the form's structure and fields. I'll aim to create a clear and concise explanation of each section and field, making sure that end-users can easily understand the form's purpose and requirements.</thinking>
-
 # Artist Binder Agreement - Help Guide
 ## Purpose
 The Artist Binder Agreement is a critical document that outlines the terms and conditions for artists or performers to agree on with their clients or venues. This form ensures a clear understanding between the parties involved, including performance details, payment terms, and cancellation policies.

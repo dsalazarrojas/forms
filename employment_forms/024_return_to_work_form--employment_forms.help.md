@@ -1,7 +1,3 @@
-<thinking>
-This form was created by a machine using the metadata from the "employment_forms" category and "Return To Work Form" title. It aims to assist employees and managers in documenting the employee's return to work status after an absence.
-</thinking>
-
 # Return To Work Form - Help Guide
 
 ## Purpose

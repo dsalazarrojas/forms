@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide for the CDL Driver Pre-Qualification Form, let's analyze the provided YAML fields to understand the form's purpose and requirements.</thinking>
-
 # CDL Driver Pre-Qualification Form - Help Guide
 ## Purpose
 The CDL Driver Pre-Qualification Form is an initial screening process for commercial driver's license (CDL) drivers. This form is used to gather essential information about the driver's qualifications, including their full name, CDL number, license class type, years of commercial driving experience, and other relevant details.

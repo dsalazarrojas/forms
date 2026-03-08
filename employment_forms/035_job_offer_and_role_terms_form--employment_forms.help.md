@@ -1,13 +1,3 @@
-<thinking>
-This form was created to collect information about job offers and employment terms. To ensure you complete this form accurately, please review the fields and their labels carefully. If you're unsure about the purpose of this form or have already completed a similar form, please note that this is an original adaptation, not a copy of any existing form.
-
-When completing this form, please ensure you provide clear and concise information about the job offer, employment terms, and other relevant details. If you're not sure about any field, please refer to the field-by-field explanation below.
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and you can use, modify, and even sell forms derived from it under CC BY 4.0.
-
-If you have any questions or concerns, feel free to contact form@gic.mx.
-</thinking>
-
 # Job Offer And Role Terms Form - Help Guide
 ## Purpose
 This form collects information about job offers and employment terms to help you keep track of job details and employment status.

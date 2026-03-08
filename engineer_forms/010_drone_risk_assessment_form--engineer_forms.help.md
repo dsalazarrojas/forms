@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about drone risks, including risk level, category, and prevention measures. The form is used to assess and document risks associated with drones, which is an essential process for ensuring safety and compliance. Before proceeding, please note that this form should only be used for drone-related activities and not for other types of equipment or risks.
-
-This form is designed to be used by engineers and other stakeholders involved in drone operations. It's essential to understand that the information collected through this form will be used for risk management and safety assessment purposes.
-
-To avoid duplication, please ensure that the form is not completed for the same drone multiple times. If you've already completed this form for a drone, please do not submit it again.
-
-This form consists of multiple pages, each with its own set of fields. Please ensure that you complete the form in the correct order and provide accurate information for each field.
-
-Before we dive into the field-by-field explanation, please review the form's pages and fields to understand the overall structure and purpose.
-
-</thinking>
-
 # Drone Risk Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect information about drone risks, including risk level, category, and prevention measures, to ensure safety and compliance in drone operations.

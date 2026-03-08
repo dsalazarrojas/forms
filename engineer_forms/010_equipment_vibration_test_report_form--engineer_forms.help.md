@@ -1,5 +1,3 @@
-<thinking>As the form designer, I will create a user-facing help guide for the "Equipment Vibration Test Report Form" form, ensuring that end-users understand its purpose, how to complete it, and what each field means. I will base the explanation on the provided YAML fields.</thinking>
-
 # Equipment Vibration Test Report Form - Help Guide
 ## Purpose
 This form is used to document the results of equipment vibration tests. It captures essential information about the equipment's condition, test settings, and results, which is crucial for monitoring and maintaining the equipment's performance and lifespan.

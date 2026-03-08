@@ -1,10 +1,3 @@
-<thinking>
-The Nepotism Form is used to collect information about an employee's employment status and potential nepotism concerns. 
-The form will help identify potential nepotism instances within the company, which is defined as favoring relatives or family members in the hiring or promotion process. 
-The form is used by HR or other personnel department staff to gather accurate and complete information. 
-Please complete this form only for legitimate employment-related matters, as unnecessary submissions may result in unnecessary delays or even be considered as abuse.
-</thinking>
-
 # Nepotism Form - Help Guide
 ## Purpose
 The Nepotism Form is used to identify potential nepotism instances within the company. It helps HR or other personnel department staff gather accurate and complete information about an employee's employment status and relationships.

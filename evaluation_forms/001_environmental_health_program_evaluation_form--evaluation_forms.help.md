@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for evaluating the performance of an Environmental Health Program. It is used to collect information about the program's name, location, start and end dates, description, performance rubric, overall ratings, and any feedback or comments. The form is designed to be completed by program participants or evaluators, who need to provide information on their experience with the program. The form's sections and fields are designed to be self-explanatory, but this guide is provided to help users understand what each field means and how to complete the form accurately.
-
-Before starting the form, please make sure you have the necessary permissions and authorization to complete this form. This form should only be completed by authorized personnel, and the information provided should be accurate and relevant to the program being evaluated.
-
-To complete this form, please follow the steps outlined in the following sections:</thinking>
-
 # Environmental Health Program Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the performance of an Environmental Health Program. This form helps program participants or evaluators to provide feedback and comments on their experience with the program.

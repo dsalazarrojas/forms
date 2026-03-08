@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from students regarding their experience at the Student Transfer Fair. The event aims to connect students with colleges and universities, providing them with an opportunity to learn more about the institutions and their programs. The feedback collected through this form will help us understand the effectiveness of the event in meeting its objectives and identify areas for improvement. This form is designed to be completed by students who attended the event. To ensure data quality, please note that only one form per student should be submitted. If you have already completed a form, you do not need to do so again. If you have any questions or concerns, please contact us. ...</thinking>
-
 # Student Transfer Fair Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from students who attended the Student Transfer Fair. Your input will help us understand what worked well and what we can improve for future events.

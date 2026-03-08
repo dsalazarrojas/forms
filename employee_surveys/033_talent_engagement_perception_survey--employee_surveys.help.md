@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # talent-engagement-perception-survey - Help Guide
 ## Purpose
 This form is designed to gather information about your perception of your work environment, team, and management. Your feedback is crucial in helping us understand your needs and preferences, which will inform future initiatives to enhance employee engagement and retention.

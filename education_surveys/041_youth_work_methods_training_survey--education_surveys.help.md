@@ -1,7 +1,3 @@
-<thinking>
-The main goal of this form is to collect feedback, satisfaction, and suggestions from participants after a youth work methods training session. This form will help trainers and organizers of these sessions assess the quality and effectiveness of their training programs. By using this form, they can identify areas that need improvement and make data-driven decisions to enhance their programs. It's essential to ensure that participants have a positive experience and that the training sessions meet their expectations.
-</thinking>
-
 # Youth Work Methods Training Survey - Help Guide
 ## Purpose
 The Youth Work Methods Training Survey is a form designed to gather feedback from participants after a youth work methods training session. By completing this form, you will help us better understand your experience with the training session and provide valuable insights for future improvement.

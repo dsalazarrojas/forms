@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess the structure and quality of a story, specifically in the fiction genre. The purpose of this form is to provide a comprehensive evaluation of a story's plot, characters, and writing style. The form is meant to be used by writers, editors, or readers who want to improve their writing skills or provide feedback on a story.
-To ensure that this form is relevant to your needs, please consider the following questions:
-* Are you a writer, editor, or reader looking to assess a story's structure and quality?
-* Are you familiar with the fiction genre and its various sub-genres (e.g., fantasy, science fiction, romance, mystery, horror, historical fiction, young adult, thriller, comedy, drama)?
-* Do you have a story in mind that you would like to evaluate using this form?
-</thinking>
-
 # Fiction And Structure Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate the structure and quality of a story in the fiction genre. It assesses the plot, characters, and writing style of a story and provides a comprehensive evaluation of its overall structure and relevance.

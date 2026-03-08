@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate a coworking space, gathering information about its attributes and characteristics. This form is likely used by stakeholders or managers to assess the quality and suitability of the coworking space for future use or expansion.
-The form has multiple pages and various types of fields, including text, select one, select multiple, note, text, number, date, time, and email. Each field has a unique label and type, and some fields are required while others are optional. The form's pages are likely to be filled out by different stakeholders or users, and the information gathered will be used to make informed decisions about the coworking space.
-</thinking>
-
 # Coworking Space Evaluation Checklist - Help Guide
 ## Purpose
 The Coworking Space Evaluation Checklist is a form used to evaluate the characteristics and attributes of a coworking space. It gathers information about the space's features, amenities, and suitability for use.

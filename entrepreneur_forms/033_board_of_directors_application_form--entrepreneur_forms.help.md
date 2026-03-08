@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for applicants to the Board of Directors of an organization. It collects information about the applicant's personal details, professional background, and qualifications for board service. The form is used to assess the applicant's suitability for the board position and to help the selection committee evaluate their fit with the organization's goals and objectives.
-
-Before filling out this form, please note that:
-
-* You must provide accurate and honest information in your application.
-* The selection committee will review your application carefully to ensure a fair and unbiased evaluation process.
-* This form is not intended to solicit unsolicited applications, and the organization is not accepting duplicate applications from the same candidate.
-
-Please review the form carefully and complete it only if you have a genuine interest in joining the Board of Directors.
-
-</thinking>
-
 # Board Of Directors Application Form - Help Guide
 ## Purpose
 The Board Of Directors Application Form is a form used to collect information about applicants to the Board of Directors of an organization. It is designed to help the selection committee evaluate the applicant's qualifications, experience, and commitment to the organization's goals and objectives.

@@ -1,7 +1,3 @@
-<thinking>
-The goal of the Mid Semester Course Evaluation Form is to provide instructors with valuable feedback and insights from students, which will help them improve and refine their teaching methods and course content for the benefit of all students. By filling out this form, students will be able to share their thoughts, experiences, and suggestions about the course, allowing instructors to identify areas of improvement and create a more engaging and effective learning environment. To avoid duplication of similar forms, we encourage students to provide their feedback in the most recent instance of the form available, and not to fill out multiple forms.
-</thinking>
-
 # Mid Semester Course Evaluation Form - Help Guide
 
 ## Purpose

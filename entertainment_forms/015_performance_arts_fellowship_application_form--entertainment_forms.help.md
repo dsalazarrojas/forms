@@ -1,8 +1,3 @@
-<thinking>
-The performance arts fellowship is a grant program that provides financial support to artists and organizations to support the development of performances in the performance arts field. The purpose of this form is to collect information from applicants about their background, project proposal, resume, artist statement, project budget, and other relevant details. This form should only be completed by artists or organizations that are submitting a proposal for the grant, and not by internal staff members of the organization.
-The fields in this form are divided into several categories for clarity and organization. This form is intended to capture a comprehensive view of the applicant's background and project proposal.
-</thinking>
-
 # Performance Arts Fellowship Application Form - Help Guide
 ## Purpose
 This guide will walk you through the performance arts fellowship application form, step by step. The form is designed to be completed by artists or organizations that are submitting a proposal for the grant.

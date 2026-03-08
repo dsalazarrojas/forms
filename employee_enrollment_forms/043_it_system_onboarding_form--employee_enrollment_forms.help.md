@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for the IT System Onboarding process for new employees. The purpose of this form is to gather information from new employees to create their profile and grant them access to company IT systems. The form will be reviewed internally to ensure that the required information is accurate and complete. Please note that not all fields are required and you should fill them accurately based on your situation.
-
-</thinking>
-
 # IT System Onboarding Form - Help Guide
 ## Purpose
 This form is used for the IT System Onboarding process for new employees.

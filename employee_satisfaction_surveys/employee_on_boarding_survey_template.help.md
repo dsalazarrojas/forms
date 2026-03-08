@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from new employees to assess their on-boarding experience and help improve it in the future. The goal is to identify areas where the process can be enhanced to make the transition for new hires more efficient and effective. Please complete this form to provide your honest feedback and suggestions to help us refine our on-boarding process.
-</thinking>
-
 # Employee On-boarding Survey Template - Help Guide
 ## Purpose
 This form is designed to gather feedback from new employees on their experiences during the on-boarding process, with the goal of identifying areas for improvement.

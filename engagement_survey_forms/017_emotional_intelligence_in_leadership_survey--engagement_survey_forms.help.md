@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information on the Emotional Intelligence In Leadership Survey. Emotional Intelligence In Leadership Survey is a tool used to gauge a leader's ability to understand and manage their own emotions and the emotions of others. This survey is typically used in leadership development programs to assess an individual's emotional intelligence quotient (EIQ) and provide insights on how to improve their leadership skills.
-
-This form is designed to be a self-assessment tool, and it's recommended that the leader fills it out with honesty and authenticity. The survey is not a formal assessment, but rather a guidance tool to help leaders reflect on their abilities and areas of improvement.
-
-Please note that this is not a comprehensive emotional intelligence assessment tool, and this survey should not be considered as such. The questions are designed to be thought-provoking and self-reflection-oriented, rather than a scientifically validated assessment.
-
-Before proceeding, please make sure you're not duplicating efforts in other similar assessments or surveys.</thinking>
-
 # Emotional Intelligence In Leadership Survey - Help Guide
 ## Purpose
 The Emotional Intelligence In Leadership Survey is a self-assessment tool designed to help leaders reflect on their emotional intelligence and leadership abilities.

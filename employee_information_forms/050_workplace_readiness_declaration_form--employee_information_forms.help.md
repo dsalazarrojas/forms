@@ -1,13 +1,3 @@
-<thinking>
-Please note that the Workplace Readiness Declaration Form appears to be a form used to collect information from employees regarding their work readiness and other related details. The form includes fields for emergency contact information, work location, schedule, and health declarations. It also includes fields for travel restrictions, medical clearance, return to work status, and other work location information. 
-
-This form seems to be designed to help employers or HR representatives assess an employee's readiness to return to work, gather contact information, and collect other relevant details. The form is likely used to ensure the employee's health and work status are in order before allowing them to return to work.
-
-Before filling out this form, please ensure that you have all the necessary information and approvals before submitting it to your supervisor or HR representative.
-
-If you have any doubts or concerns, please consult your HR department or supervisor for clarification.
-</thinking>
-
 # Workplace Readiness Declaration Form - Help Guide
 ## Purpose
 The Workplace Readiness Declaration Form is a document used to collect information from employees about their work status, contact details, and other relevant information before returning to work.

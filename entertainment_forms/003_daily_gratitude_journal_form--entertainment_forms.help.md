@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Gratitude Journal Form - Help Guide
 ## Purpose
 The Daily Gratitude Journal Form is a tool designed to help you cultivate a positive and mindful attitude by recording your daily experiences and feelings of gratitude. This form is meant to be completed on a daily basis, helping you reflect on the good things that have happened in your life and appreciate the moments that bring you joy.

@@ -1,11 +1,3 @@
-<thinking>
-The form "Teacher Administrative Support Assessment Form" is designed to collect feedback from teachers regarding the administrative support they receive from the support team. This form is meant to be used by teachers to provide their perspective on the quality and frequency of the support they receive, which can help administrators and support teams identify areas of improvement.
-
-To ensure the relevance and accuracy of the feedback, it's crucial to review the form fields carefully and only complete it if you are a teacher. If you are not a teacher, your feedback will not be included in the assessment. 
-
-Please make sure to provide feedback on each field that you can answer, even if it's a simple "None" or "Not Applicable". This will help provide a more comprehensive understanding of the support provided.
-</thinking>
-
 # Teacher Administrative Support Assessment Form - Help Guide
 ## Purpose
 The Teacher Administrative Support Assessment Form is designed to collect feedback from teachers on the quality and frequency of administrative support they receive from the support team. This form will help administrators and support teams assess their support and identify areas for improvement.

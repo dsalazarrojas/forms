@@ -1,10 +1,3 @@
-<thinking>
-This is a help guide for an Event Registration Form. The purpose of this form is to collect information about an event that a user wants to register. The form is designed to be completed by the person registering for the event, providing details about the event such as date, time, venue, and type. This form may be used by event organizers to gather necessary information before the event takes place.
-
-To avoid duplication, we have implemented a check to ensure that the form is not submitted multiple times for the same event.
-
-</thinking>
-
 # Event Registration Form - Help Guide
 ## Purpose
 The Event Registration Form is designed to collect information about an event that a user wants to register. This form helps event organizers gather necessary details about the event before it takes place.

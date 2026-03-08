@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive user-facing help guide for the "Teamwork Project Advancement Survey" form. This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field, following the specified Markdown structure.</thinking>
-
 # Teamwork Project Advancement Survey - Help Guide
 ## Purpose
 The "Teamwork Project Advancement Survey" form is designed to gather feedback from team members about their experiences and perspectives on a specific project. This form aims to collect opinions on aspects such as collaboration, milestones, challenges, improvement ideas, project management, and overall project rating. The survey results will help project managers and the team identify areas of improvement and make data-driven decisions to enhance the project's progress and overall success.

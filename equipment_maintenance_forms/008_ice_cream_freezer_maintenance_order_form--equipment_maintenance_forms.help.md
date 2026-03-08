@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ice_cream_freezer_maintenance_order_form - Help Guide
 ## Purpose
 This form is designed to capture order details for maintaining the ice cream freezer equipment. It is intended for users to provide necessary information for the maintenance team to process and schedule the work required for the equipment's upkeep.

@@ -1,36 +1,3 @@
-<thinking>
-This form appears to be a comprehensive equipment management form designed to capture various details related to equipment breakdowns, including incident history, repair status, failure cause, and maintenance schedules. The form likely serves as a tool for tracking and analyzing equipment performance, identifying areas for improvement, and ensuring timely maintenance.
-
-To determine the form's purpose, I'll analyze the fields:
-
-* Equipment Breakdown Summary Form: This section likely captures general information about the equipment breakdown.
-* Equipment Details: This section may include specific details about the equipment, such as type, manufacturer, and model number.
-* Incident History: This section could contain a record of past incidents or issues related to the equipment.
-* Repair History: This section may document previous repair attempts or outcomes.
-* Repair Status: This field indicates the current status of the repair, which could be pending, completed, or cancelled.
-* Failure Cause: This field may capture the underlying reason for the equipment breakdown.
-* Repair Cost: This field likely tracks the cost associated with the repair.
-* Comments: This field allows users to add any additional comments or notes related to the equipment.
-* Contact Person: This field may be for designating a person responsible for addressing the issue.
-* Equipment Type: This field could categorize the equipment into different types (A, B, C, or D).
-* Location: This field may specify where the equipment is located.
-* Serial Number: This field captures the equipment's serial number.
-* Asset Tag: This field could contain an asset tag number.
-* Purchase Date: This field tracks the date the equipment was purchased.
-* Manufacturer: This field specifies the equipment's manufacturer.
-* Model Number: This field tracks the equipment's model number.
-* Maintenance Status: This field indicates the current maintenance status of the equipment.
-* Last Maintenance Date: This field records the date of the last maintenance.
-* Last Inspection Date: This field tracks the date of the last inspection.
-* Next Scheduled Maintenance Date: This field schedules the next maintenance date.
-* Equipment Condition: This field may describe the current condition of the equipment.
-* Notes: This field allows users to add any additional notes or comments.
-* Photos: This field may be used to attach photos related to the equipment.
-* Equipment Location: This field tracks the current location of the equipment.
-* Equipment Description: This field provides a detailed description of the equipment.
-
-The form appears to be designed for both general equipment management and specific breakdown analysis. To ensure that this form is not used for non-relevant or duplicated purposes, users should only complete the form when dealing with actual equipment breakdowns or maintenance schedules.</thinking>
-
 # equipment_breakdown_summary_report_form - Help Guide
 ## Purpose
 This form is designed to capture comprehensive information about equipment breakdowns, including incident history, repair status, failure cause, and maintenance schedules. It helps in tracking and analyzing equipment performance and identifying areas for improvement.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to measure the morale and overall well-being of employees within an organization. The purpose of this form is to collect subjective feedback from employees regarding their experiences and opinions on various aspects of the workplace, such as job satisfaction, communication, teamwork, work-life balance, company culture, job security, employee satisfaction, leadership, and company image.
-
-This form will help HR teams and managers to get insights into the strengths and weaknesses of the organization and identify areas for improvement.
-
-Before filling out this form, please ensure that you are not providing duplicate or redundant information as this form is meant for individual employee feedback.
-
-</thinking>
-
 # employee_morale_survey - Help Guide
 ## Purpose
 The "employee_morale_survey" form is designed to collect subjective feedback from employees regarding various aspects of the workplace. It is meant to provide insights to HR teams and managers to identify areas of improvement and enhance employee morale.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the participant's education equity attitudes. This form is used to gather data on various aspects of education, such as participation, institution type, education level, field, and demographics. It is essential to complete this form accurately and thoroughly to provide reliable data. Please ensure that the information you provide is up-to-date and reflects your current situation. If you have any doubts or questions, please review this guide before proceeding.
-</thinking>
-
 # Global Education Equity Attitudes Survey - Help Guide
 ## Purpose
 The Global Education Equity Attitudes Survey is a tool used to collect information about participants' attitudes towards education, covering various aspects such as institution types, educational fields, and demographics.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect weekly team reflections, allowing team members to share their experiences, challenges, and feedback. It is intended for the team members to provide a brief summary of their progress and any issues they encountered during the week. The manager can use this information to track team performance, address concerns, and provide guidance. The form does not duplicate other processes, and it is a new initiative to enhance team communication and transparency.
-</thinking>
-
 # Weekly Team Reflection - Help Guide
 ## Purpose
 The purpose of this form is to provide a platform for team members to reflect on their experiences, challenges, and feedback on a weekly basis. It helps the manager to track team performance and provide guidance.

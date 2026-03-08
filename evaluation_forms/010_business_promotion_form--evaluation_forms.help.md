@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to ensure that the form's purpose is clear to the end-user. After reviewing the inputSchema, I understand that this form is designed to gather business promotion information from customers. It collects various details such as customer name, contact information, shopping preferences, purchase interests, and feedback. The form aims to capture customer insights for marketing and promotional strategies. To avoid duplication, the form's unique ID should be taken into account when saving and retrieving data. This guide will walk the user through the form's purpose, completion, and field explanations.</thinking>
-
 # Business Promotion Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to aid our marketing and promotional strategies. By filling out this form, you'll help us understand your shopping habits and preferences, enabling us to tailor our offers to better serve you.

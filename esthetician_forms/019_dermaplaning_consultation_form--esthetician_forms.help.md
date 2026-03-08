@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for collecting information about patients for dermaplaning consultations. It includes personal details such as name, date of birth, and email, as well as medical information like medical practitioner, skin condition, hair type, and allergies. Some fields are optional, such as medical notes and expected outcome. The form is likely used in a dermatological setting to collect information for consultations and follow-ups. There should not be any duplication of information, and the form should only be filled out once a patient is being seen for dermaplaning consultations. The fields should match the provided YAML schema, but the explanations below should be written in a way that is clear and understandable for the end-users.
-
-</thinking>
 # Dermaplaning Consultation Form - Help Guide
 ## Purpose
 The Dermaplaning Consultation Form is designed to collect information about patients for dermaplaning consultations. This form will help gather all relevant details about the patient to provide the best service possible.

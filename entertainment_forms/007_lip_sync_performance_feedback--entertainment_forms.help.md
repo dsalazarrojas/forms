@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback on lip sync performances, likely for a dance or music-based application. The purpose of this form is to gather information about the synchronization and creativity of the performance, as well as any comments and ratings from users. This form is likely used by instructors or adjudicators to evaluate and improve the skills of performers in a dance or music competition. Before filling out this form, it's essential to review the provided instructions and ensure that you're submitting feedback on a single performance. If you're unsure about any part of the form, refer to the provided explanations below.
-
-</thinking>
-
 # lip_sync_performance_feedback - Help Guide
 ## Purpose
 The lip_sync_performance_feedback form is used to collect feedback on lip sync performances. It's used by instructors or adjudicators to evaluate and improve the skills of performers in a dance or music competition.

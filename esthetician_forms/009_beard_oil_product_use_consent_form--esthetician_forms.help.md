@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll review the form and create a user-facing help guide that explains each field and its purpose, making it easy for users to complete the form correctly and confidently. The form is for obtaining consent from clients for the use of a beard oil product. The form is divided into sections for client information, health and allergy history, product information, and consent and acknowledgment. Each section has its own set of questions and fields that require completion. I'll break down each field and provide explanations to help users understand the purpose and requirements of each.</thinking>
-
 # Beard Oil Product Use Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients to ensure their safety and consent to use a beard oil product. This form helps us understand your health history, product preferences, and consent status.

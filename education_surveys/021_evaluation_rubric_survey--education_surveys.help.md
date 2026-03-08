@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather feedback and opinions from users on the evaluation rubric survey, which is used to assess the quality and effectiveness of various educational programs, materials, and activities. The form is intended to be a useful tool for stakeholders to provide insights and suggestions for improvement. Before filling out the form, please take a moment to ensure that the questions and answers are relevant and applicable to your specific situation, and that the information provided is not a duplication of previously submitted answers.
 
 # Evaluation Rubric Survey - Help Guide

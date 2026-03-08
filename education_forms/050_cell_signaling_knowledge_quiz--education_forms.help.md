@@ -1,14 +1,3 @@
-<thinking>
-# The "Cell Signaling Knowledge Quiz" is a form designed to assess users' understanding of cell signaling concepts. This form should be used by students, researchers, or anyone interested in cell biology to gauge their knowledge on the subject. 
-
-Please note that this quiz is not affiliated with, endorsed by, or derived from any form platform. The form was created by AI using only public survey topic metadata as inspiration and is released under CC BY 4.0.
-
-Before filling out this form, ensure that you are not duplicating your effort or responding to a similar quiz. The form is designed to be a one-time assessment of your knowledge, so please be honest in your responses. 
-
-If you are unsure about any of the questions, you can refer to the provided explanations in this help guide for further clarification.
-
-</thinking>
-
 # Cell Signaling Knowledge Quiz - Help Guide
 ## Purpose
 The Cell Signaling Knowledge Quiz is a survey designed to evaluate your understanding of cell signaling concepts. It consists of a series of questions and explanations to help you gauge your knowledge in this area.

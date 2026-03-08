@@ -1,14 +1,3 @@
-<thinking>
-The form is designed for registration of a Halloween event, allowing participants to provide information about themselves and their plans to attend. The form should be filled out by each participant who wants to join the event. 
-
-The form will be used by event organizers to track participant information and ensure that everyone knows who is participating. This way, organizers can make sure to have enough treats and drinks for all participants.
-
-Please note that this form is only for participants who are willing to provide their information and attend the event. 
-
-Before filling out the form, please make sure you are comfortable with sharing your information and that it is accurate. If you are under 18, please ask a parent or guardian for permission before filling out this form. 
-
-</thinking>
-
 # curbside_halloween_event_registration_form - Help Guide
 ## Purpose
 The form is designed for registration of a Halloween event, allowing participants to provide information about themselves and their plans to attend.

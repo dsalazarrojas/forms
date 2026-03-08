@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information from clients about their hair toner mix application experience. The form is used to record the client's consent and details about their hair treatment. It is designed to be completed by salon staff, typically a hair stylist or esthetician, to collect data about the client's hair and skin characteristics prior to the application of a hair toner mix treatment. 
-
-The form is not used for other purposes such as scheduling appointments or managing client accounts. It is a specific form designed to collect sensitive information related to the client's hair and skin health. 
-
-Before proceeding, please ensure that this form is being used for its intended purpose and not for any other reason.
-
-</thinking>
-
 # Hair Toner Mix Application Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from clients about their hair toner mix application experience. It is intended to be completed by salon staff to collect details about the client's hair and skin characteristics prior to treatment.

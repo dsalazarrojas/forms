@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a partner for the Global Academic Alliance, which is a platform connecting educational institutions and organizations around the world. This guide will help you understand the purpose of the form and how to fill it out correctly.
-</thinking>
-
 # Global Academic Alliance Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about your institution or organization from the Global Academic Alliance. By filling out this form, you will be able to showcase your institution's details and connect with other educational partners worldwide.

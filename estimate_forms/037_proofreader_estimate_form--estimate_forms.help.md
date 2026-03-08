@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to gather information from clients for the project proofreading process, including details about the client, project, and project status. This form will help the proofreader understand the project requirements and create an accurate estimate for the project. It's essential to fill out this form accurately to ensure that the proofreader has a clear understanding of the project and can provide an accurate estimate.
-
-Before filling out this form, ensure that you have all the necessary information about the project and proofreading requirements. This will help prevent duplication of effort and ensure that the form is filled out correctly.
-
-Please review the following help guide to learn how to complete the form accurately and efficiently.
-</thinking>
-
 # Proofreader Estimate Form - Help Guide
 ## Purpose
 The Proofreader Estimate Form is a tool used to gather information from clients about their project proofreading needs. This form helps the proofreader understand the project requirements and create an accurate estimate for the project.

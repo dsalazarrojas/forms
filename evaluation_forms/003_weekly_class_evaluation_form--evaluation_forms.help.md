@@ -1,15 +1,3 @@
-<thinking>
-The form is designed to gather feedback from students after each weekly class session. It is meant to be completed by students to provide their thoughts and insights on what they learned, what they found useful, and areas where they need more practice or guidance. The form is intended to be used by teachers or instructors to gauge student understanding and adjust their teaching approach accordingly. This form is a self-contained entity and does not require any external data or references.
-
-This form is designed to be completed by students and does not require any external data or references. The form is meant to be a quick and efficient way to gather student feedback. The form is designed to be easy to understand and complete, and it is not meant to be a substitute for more formal evaluations or assessments.
-
-The form has 25 fields, each with a different label and purpose. The fields are all text boxes, and each one is meant to be used for a specific type of feedback or information. Please make sure to complete each field accurately and thoroughly.
-
-This form will be used to help the instructor understand student thoughts and insights. The form is not meant to be used for any other purpose. The form is not affiliated with, endorsed by, or derived from any form platform.
-
-The form is released under CC BY 4.0, which means you are free to use, modify, and even sell forms derived from it, just give credit.
-</thinking>
-
 # Weekly Class Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from students after each weekly class session. It is designed to help instructors understand student thoughts and insights, and adjust their teaching approach accordingly.

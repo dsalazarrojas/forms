@@ -1,10 +1,3 @@
-<thinking>
-This guide is designed for users who are submitting a band application for the HSGA Virtual Convention 2021. The purpose of this form is to gather essential information about the band, including band details, performance requirements, and technical capabilities, in order to create a compelling showcase for the virtual convention.
-
-This form is divided into several sections, each focusing on a specific aspect of the band's application. Please complete all required fields to ensure consideration for the virtual showcase.
-
-</thinking>
-
 # Band Application Form - Help Guide
 
 ## Purpose

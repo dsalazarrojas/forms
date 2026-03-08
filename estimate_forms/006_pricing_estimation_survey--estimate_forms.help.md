@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers provide pricing estimates for a product or service. The form collects demographic information about the customer, including their age, income, and frequency of purchasing, as well as their customer segment, to provide a more accurate estimate. This form is required for all customers, and the estimates provided will be used to determine the final price of the product or service.
-</thinking>
-
 # pricing_estimation_survey - Help Guide
 ## Purpose
 This form is designed to help customers provide pricing estimates for a product or service. The form collects demographic information about the customer, including their age, income, and frequency of purchasing, as well as their customer segment, to provide a more accurate estimate.

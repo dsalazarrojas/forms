@@ -1,7 +1,3 @@
-<thinking>
-The form is used to document non-solicitation agreements between employers and employees. Non-solicitation agreements are typically used to prevent employees from soliciting or recruiting former colleagues or clients for a new job or business opportunity. This form helps employers to ensure that employees understand and agree to this agreement before their employment begins. This form should only be used for internal purposes and not for external sharing or publication, as the information contained within is sensitive and should only be accessible to authorized personnel.
-</thinking>
-
 # Employee Non Solicitation Agreement - Help Guide
 ## Purpose
 The purpose of this form is to obtain an employee's agreement not to solicit or recruit colleagues or clients for a new job or business opportunity during their employment with the company.

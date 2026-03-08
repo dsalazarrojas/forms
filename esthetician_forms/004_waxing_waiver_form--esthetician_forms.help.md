@@ -1,7 +1,3 @@
-<thinking>
-The Waxing Waiver Form is used to obtain consent and signature from clients before proceeding with waxing services. This form is essential for legal and administrative purposes, ensuring that both the client and our team are aware of the terms and conditions of the service. Before filling out this form, please make sure to review our services and policies, as this form is not a substitute for our actual policies. This form should not be filled out by staff members for their own use, as it is intended for client interaction.
-</thinking>
-
 # Waxing Waiver Form - Help Guide
 ## Purpose
 The Waxing Waiver Form is a client-facing document used to obtain consent and signature for waxing services. It is essential for both legal and administrative purposes, ensuring that both the client and our team are aware of the terms and conditions of the service.

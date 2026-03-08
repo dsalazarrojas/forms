@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect employment background information from applicants, focusing on identification, contact details, driving history, and legal disclosures. The purpose is to verify the authenticity of the applicant's information and ensure a safe working environment. This form should not be used for external purposes, such as for personal gain.
-</thinking>
-
 # Construction Employment Background Check - Help Guide
 
 ## Purpose

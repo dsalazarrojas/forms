@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from applicants seeking to enroll in an account. This form should only be filled out by individuals or entities that need to create a new account. 
 
 To ensure you are in the right place, consider the following:

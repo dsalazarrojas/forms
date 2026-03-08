@@ -1,7 +1,3 @@
-<thinking>
-The Worker Language Delegation Form is used to delegate tasks to employees who require language proficiency in various languages, such as English, Spanish, or French. It is essential to accurately assign tasks to the right employee for efficient language translation and communication. This form helps to ensure that the task is delegated to the appropriate employee based on their language requirements and proficiency level.
-</thinking>
-
 # Worker Language Delegation Form - Help Guide
 ## Purpose
 The Worker Language Delegation Form is used to delegate tasks that require specific languages and to assign these tasks to employees who are proficient in those languages. It is a crucial tool for efficient communication and task completion.

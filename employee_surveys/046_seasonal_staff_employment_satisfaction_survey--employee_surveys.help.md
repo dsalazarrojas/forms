@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure this help guide is accurate and relevant, let's review the form purpose and content. The Seasonal Staff Employment Satisfaction Survey is designed to gather information from seasonal staff members about their experience and satisfaction with their job, manager, colleagues, and other aspects of their employment. This survey will help the organization understand areas of improvement and make informed decisions to enhance the working environment and employee satisfaction.
-
-Before filling out this form, please take a few minutes to reflect on your experience and satisfaction with your seasonal position.
-
-</thinking>
-
 # Seasonal Staff Employment Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from seasonal staff members on their experience, satisfaction, and engagement with their job, manager, and colleagues. Your input will help us understand your needs and make improvements to enhance your working environment.

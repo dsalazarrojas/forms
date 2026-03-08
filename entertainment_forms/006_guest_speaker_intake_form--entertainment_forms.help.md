@@ -1,8 +1,3 @@
-<thinking>
-The form "Guest Speaker Intake Form" is likely used for collecting information about potential guest speakers for events, conferences, or presentations. The purpose of this form is to gather relevant details about the speaker, including their name, contact information, and contract specifics. This form might be used internally to streamline the speaker selection and contract process.
-
-</thinking>
-
 # Guest Speaker Intake Form - Help Guide
 ## Purpose
 The Guest Speaker Intake Form is used to collect information about potential guest speakers for events, conferences, or presentations. This form helps to gather relevant details about the speaker, including their name, contact information, and contract specifics.

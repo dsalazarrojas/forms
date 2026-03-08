@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect submissions for digital teaching stories, which are personal anecdotes or stories about experiences or lessons learned from teaching or learning. The goal is to gather information about the category, title, description, attachment, and contact details of the submission. This form is likely used in an educational setting to collect stories for a portfolio or publication.
-The form is likely used by administrators or editors to collect and review submissions before publishing them.
-</thinking>
-
 # Digital Teaching Story Submission Registration Form - Help Guide
 ## Purpose
 The Digital Teaching Story Submission Registration Form is used to collect personal anecdotes or stories from educators about their experiences, lessons learned, or teaching practices.

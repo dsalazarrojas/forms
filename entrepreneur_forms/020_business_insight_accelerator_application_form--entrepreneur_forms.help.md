@@ -1,23 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I'll analyze the form's purpose and requirements.
-
-The form, "Business Insight Accelerator Application Form," is intended to capture information from entrepreneurs who are applying to the Business Insight Accelerator program. The form likely serves as an initial assessment or application process for potential participants in the program.
-
-The form has several fields, each with a specific purpose:
-- **Company name** (id: 2): The legal or trading name of the company.
-- **Founder name** (id: 3): The primary founder or CEO's name.
-- **Company stage** (id: 4): The current stage of the company, which is a selection of available options (Idea, Prototype, Revenue, or Scaling).
-- **Traction summary** (id: 5): A brief description of key metrics demonstrating the company's traction.
-- **Market size** (id: 6): The approximate total addressable market.
-- **Funding to date** (id: 7): The total funds raised to date.
-- **Goals for accelerator** (id: 8): The expected outcomes or goals from participating in the program.
-- **Team size** (id: 9): The number of full-time employees.
-- **Contact email** (id: 10): The email address for program communications.
-
-The form is likely used to gather essential information about the applicant companies, their growth stage, and their goals, to facilitate the review and potential acceptance into the program.
-
-</thinking>
 # Business Insight Accelerator Application Form - Help Guide
 ## Purpose
 The Business Insight Accelerator Application Form is used to gather information from entrepreneurs applying to the Business Insight Accelerator program. It helps our team understand your company's stage, growth, and goals, which is essential for the review and potential acceptance process.

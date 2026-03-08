@@ -1,16 +1,3 @@
-<thinking>
-
-# Purpose
-The ESL Teaching Availability Survey is used to gather information about the availability of teachers for teaching English as a second language. This form is designed to collect data on a teacher's available teaching days, preferred teaching times, and other relevant details.
-
-The purpose of this form is to determine which teachers are available to teach ESL classes and to collect information about their availability and preferred teaching times.
-
-The form is designed to be completed by teachers who are interested in teaching ESL classes and want to be considered for these opportunities.
-
-Before filling out this form, please ensure that you have not already completed it in the past. If you have any questions or concerns, please contact the relevant authorities.
-
-</thinking>
-
 # ESL Teaching Availability Survey - Help Guide
 ## How To Complete This Form
 

@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from campers and their parents/guardians to register them for a family camp session. This form is used to collect the camper's personal details, medical history, and any necessary contact information in case of an emergency. The form is designed to be completed by the parents or guardians of the camper and should be submitted before the start of the camp session.
-
-To ensure accuracy, please note that this form should only be completed by the authorized person (parent/guardian) of the camper. If you are not the authorized person, please do not submit this form.
-
-Before completing this form, please ensure that you have the necessary information and documents required to fill out the form accurately. If you are unsure about any field, please contact the camp administration for clarification.
-
-This form should not be duplicated or submitted multiple times for the same camper. Each camper should only be registered once for the camp session.
-</thinking>
-
 # Family Camp Registration Form - Help Guide
 ## Purpose
 This form is used to register a family camper for a camp session.

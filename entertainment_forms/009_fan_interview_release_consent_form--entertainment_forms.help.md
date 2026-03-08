@@ -1,10 +1,3 @@
-<thinking>
-This form is used for obtaining participant consent for an interview or recording. It is crucial to ensure that the participant is aware of and agrees to the terms of the interview or recording, including the date it will be released. This form is typically filled out by participants or their parent/guardian. 
-
-Before filling out this form, please make sure that you have not filled it out previously. If you have, please go back and review the previous form. This form is designed to be completed once. 
-
-</thinking>
-
 # fan_interview_release_consent_form - Help Guide
 ## Purpose
 The fan_interview_release_consent_form is used to obtain consent for an interview or recording, ensuring the participant understands and agrees to the terms, including release dates.

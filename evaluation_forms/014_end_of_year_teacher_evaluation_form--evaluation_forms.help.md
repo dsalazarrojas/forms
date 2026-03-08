@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to evaluate a student's performance at the end of the year. It's a comprehensive assessment tool used by teachers, parents, and school administrators to provide feedback and guidance to students. The form typically includes demographic information about the student, their performance during the year, areas for improvement, and comments from teachers, parents, and school administrators. It may be used as a basis for student progress monitoring and future planning. Ensure that all fields are relevant and not duplicated, as this may lead to confusion or unnecessary repetition of information. 
-</thinking>
-
 # End Of Year Teacher Evaluation Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the End Of Year Teacher Evaluation Form. This form is used to gather feedback and performance data about students at the end of the year.

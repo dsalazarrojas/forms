@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback and insights from educational leaders in an institution on the current state of their school culture, leadership, and communication. It will help us understand their perceptions of the school environment, leadership effectiveness, and collaboration among teachers and staff. This form is a self-assessment tool intended to provide an objective analysis of the school's current culture and identify areas for improvement.
-
-Before proceeding, ensure that you have completed this form for your specific context and not as a duplicate submission.
-
-</thinking>
-
 # educational_leadership_culture_survey - Help Guide
 ## Purpose
 The purpose of this form is to gather valuable insights from educational leaders in an institution to help improve the school culture, leadership, and communication.

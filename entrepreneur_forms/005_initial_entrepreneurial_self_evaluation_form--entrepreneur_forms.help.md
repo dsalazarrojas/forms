@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a business or project, likely for the purpose of evaluation or assessment. It seems to be a generic form used for various business-related purposes. The form includes fields for basic information such as name, category, description, and contact details like phone number, email, and date. Additionally, the form also asks for optional fields like whether the business is "yes" or "no" on a set of questions, and a note field for any additional information. The form does not appear to be specific to a particular business or project, suggesting it might be a template for a general entrepreneurial evaluation or assessment.
-</thinking>
-
 # Initial Entrepreneurial Self Evaluation Form - Help Guide
 ## Purpose
 The Initial Entrepreneurial Self Evaluation Form is a template designed to collect information about a business or project. It is intended to be used for general entrepreneurial evaluations or assessments.

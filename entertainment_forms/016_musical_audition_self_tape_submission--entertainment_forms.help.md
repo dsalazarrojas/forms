@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Musical Audition Self Tape Submission" form, which is designed for performers to submit their own auditions for musical performances. This form is typically used by talent agencies, casting directors, or other industry professionals to review and evaluate potential talent. The purpose of this form is to collect information and materials from performers to assess their suitability for upcoming projects.
-Before starting the form, please ensure that you are not duplicating an existing submission. If you have previously submitted an audition, please do not submit again.
-</thinking>
-
 # Musical Audition Self Tape Submission - Help Guide
 ## Purpose
 The "Musical Audition Self Tape Submission" form is a tool for performers to submit their own auditions for musical performances. This guide will walk you through the form fields and help you complete it successfully.

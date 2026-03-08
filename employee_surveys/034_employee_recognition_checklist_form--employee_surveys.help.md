@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Recognition Checklist Form - Help Guide
 ## Purpose
 The Employee Recognition Checklist Form is used to track and document employee recognition and appreciation within the organization. This form helps to identify and acknowledge employees' contributions, efforts, and achievements, fostering a positive and motivating work environment.

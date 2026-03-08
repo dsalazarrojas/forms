@@ -1,7 +1,3 @@
-<thinking>
-This form is for providing feedback on skill utilization in the company. To be eligible for this survey, the form must be filled out by employees, not managers or other roles with higher-level responsibilities. The purpose of this form is to gather information on the skills and abilities of individual employees and how often they are used, asked, or developed. This information will be used to track and analyze skill utilization across the company, ensuring that each employee's skills are effectively used and developed. To avoid duplication, this form should only be filled out once per employee, and it's recommended to fill it out regularly, ideally after a significant project or task completion.
-</thinking>
-
 # Skill Utilization Feedback Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback on the skills and abilities of individual employees and track their utilization across the company.

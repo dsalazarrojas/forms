@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to report any damage to a kite, which is a crucial process for kite maintenance and repair. This form is used by authorized personnel to report any issues with kites, ensuring that the correct information is documented and addressed promptly. Before proceeding, please confirm that this is the correct form for your specific situation and that you have not already reported this issue in the past.
-</thinking>
-
 # Kite Damage Report Form - Help Guide
 ## Purpose
 The Kite Damage Report Form is a tool used to document and report any damage to a kite. This form helps authorized personnel quickly and accurately gather the necessary information to address the issue.

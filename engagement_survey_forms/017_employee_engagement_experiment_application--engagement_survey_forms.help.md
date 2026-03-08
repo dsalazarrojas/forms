@@ -1,7 +1,3 @@
-<thinking>
-The form "Employee Engagement Experiment Application" is intended to collect information from employees about their engagement with their workplace. This form likely serves as a research tool for HR departments or management teams to gather feedback on various aspects of employee experience. Before proceeding, ensure you have permission to access and fill out this form. If you've already filled out this form, please note that this is an experiment to understand employee engagement, and your responses will be anonymized and not tied to your identity.
-</thinking>
-
 # Employee Engagement Experiment Application - Help Guide
 ## Purpose
 This form is designed to collect information from employees about their engagement with their workplace. It's likely a tool for HR departments or management teams to gather feedback on various aspects of employee experience.

@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that this form is only used for its intended purpose of collecting information for the workforce pipeline. Please do not complete this form if you are not submitting a job application, or if you have already applied for a role at this company. This form should not be used to submit resumes for non-workforce pipeline roles. If you are unsure, please ask your hiring manager or recruiter for guidance.
-</thinking>
-
 # Workforce Pipeline Intake Form - Help Guide
 ## Purpose
 The Workforce Pipeline Intake Form is a tool used to collect information from candidates for job openings within the workforce pipeline. This form is designed to gather essential details about the candidate's qualifications, availability, and job preferences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Exchange Performance Consent Form - Help Guide
 
 ## Purpose

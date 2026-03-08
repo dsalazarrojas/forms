@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for assessing the material hardness of a particular material. The purpose of this form is to collect relevant information from users to determine the hardness level of the material. This form is intended for users with the necessary permissions to complete it.
-
-It is expected that users filling out this form will only do so for the purpose of material hardness assessment and not for other purposes, such as creating fake or duplicate entries. Users who are unable to complete this form are encouraged to seek assistance from a supervisor or other authorized personnel.
-
-Before starting, please ensure you have all the necessary information and permissions to complete the form.
-
-</thinking>
-
 # Material Hardness Assessment - Help Guide
 ## Purpose
 The Material Hardness Assessment form is used to collect information about the material hardness of a particular material. This information is essential for various engineering and manufacturing purposes.

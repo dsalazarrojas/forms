@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a child's readiness for kindergarten based on their language, physical, and social-emotional development skills. The form asks parents or caregivers to evaluate the child's abilities in areas such as language skills, physical development, and social-emotional development. By answering the questions, users will be able to get a better understanding of the child's readiness for kindergarten and identify areas where they may need extra support.
-</thinking>
-
 # Kindergarten School Readiness Checklist Form - Help Guide
 ## Purpose
 This form is designed to help you assess your child's readiness for kindergarten by evaluating their language, physical, and social-emotional development skills.

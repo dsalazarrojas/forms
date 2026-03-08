@@ -1,11 +1,3 @@
-<thinking>
-Form purpose and non-duplication checks:
-* Form is a simple consent form for a salon or esthetician service, specifically for Lash Lift and Tint services.
-* Non-duplication checks: 
-  - Check if the form is being completed by a returning client, and if so, do not show the form.
-  - Check if the client has already provided this type of consent in the past, and if so, do not show the form.
-</thinking>
-
 # Lash Lift & Tint Consent - Help Guide
 ## Purpose
 The Lash Lift & Tint Consent form is a simple consent form that clients are required to fill out before receiving Lash Lift and Tint services.

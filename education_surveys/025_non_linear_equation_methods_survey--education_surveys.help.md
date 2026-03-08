@@ -1,5 +1,3 @@
-<thinking>Non Linear Equation Methods Survey is a form used to gather information about an individual's knowledge and experience with non-linear equation methods. This survey is used to assess the respondent's understanding of and comfort with non-linear equation methods, which are used to analyze and model complex relationships between variables. By completing this survey, the respondent's answers will be used to inform the development of educational materials and support services for non-linear equation methods.</thinking>
-
 # Non Linear Equation Methods Survey - Help Guide
 ## Purpose
 This survey aims to understand your knowledge and experience with non-linear equation methods.

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information on the perception of AI governance in the education sector. It aims to understand the capabilities, applications, benefits, challenges, current state, and future prospects of AI in this context. The form will help identify areas of improvement and provide recommendations for future AI development.
-
-This form was created using public survey topic metadata, and its purpose is to assist in understanding the perception of AI governance in the education sector. It is not affiliated with, endorsed by, or derived from any form platform.
-
-The following guide will help you complete the form and provide a clear understanding of each field.
-
-</thinking>
-
 # Educational AI Governance Perception Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information on the perception of AI governance in the education sector. It is designed to identify the capabilities, applications, benefits, challenges, and future prospects of AI in this context.

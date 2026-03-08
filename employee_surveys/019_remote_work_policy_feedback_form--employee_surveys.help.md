@@ -1,9 +1,3 @@
-<thinking>
-We're creating a form that captures feedback from employees on their remote work experience. This form is designed to gather information on their satisfaction with the remote work policy, challenges faced, and suggestions for improvement. This form will help us understand the needs and preferences of our remote workers, enabling us to create a more effective and supportive remote work environment.
-
-We've included various fields to collect feedback on different aspects of remote work, such as communication, time zone, challenges faced, manager support, resources, work-life balance, job satisfaction, and overall satisfaction. This form will help us identify areas of improvement and provide better support to our remote workers.
-</thinking>
-
 # Remote Work Policy Feedback Form - Help Guide
 ## Purpose
 The Remote Work Policy Feedback Form is designed to gather feedback from employees on their remote work experience. This form helps us understand their satisfaction with the remote work policy, challenges faced, and suggestions for improvement.

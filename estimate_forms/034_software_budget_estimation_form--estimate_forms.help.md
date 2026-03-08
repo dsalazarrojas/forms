@@ -1,9 +1,3 @@
-<thinking>
-We are creating a help guide for the "Software Budget Estimation Form" used for estimating software budget. This form is used to gather information about software projects, including general information, project details, software requirements, and budget estimation. It seems to be a comprehensive form that covers various aspects of software project budget estimation. We will break down the form into sections and fields to help users understand how to complete it effectively.
-
-The form has two main sections: General Info, Project Details, Software Requirements, and Project Status. The General Info section includes fields for project name, project manager, and contact person. The Project Details section includes fields for project start date, project end date, vendor information, and vendor address. The Software Requirements section includes fields for software requirements and budget owners' information. The Project Status section includes fields for project status and estimation method. The form also includes fields for budget estimation, estimation date, and notes.
-</thinking>
-
 # Software Budget Estimation Form - Help Guide
 ## Purpose
 This form is designed to help project managers and estimators gather and record information required for software project budget estimation. It includes fields to capture general project information, project details, software requirements, and budget estimation.

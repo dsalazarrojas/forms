@@ -1,5 +1,3 @@
-<thinking>This form is intended to gauge the happiness and well-being of users, covering various aspects of their life such as emotional state, relationships, and physical health. To ensure accurate completion, please carefully review each field to understand its purpose and provide honest responses. Note that some fields are required, meaning you must provide an answer to continue.</thinking>
-
 # Happiness Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Emergency Medical Services Field Report Form, we must understand the form's purpose, which is to gather information about a patient's medical condition, emergency services provided, and other relevant details in a structured and organized manner. This form will likely be used in emergency situations where medical professionals need to quickly collect data about a patient's condition, treatment, and response to care. 
-The form has 20 fields, which can be grouped into several categories: Patient Information, Medical Condition, Emergency Services, and Incident Details. 
-Before proceeding, let's review each field's type and required status to ensure that the form is filled out correctly. The form is not designed to be filled out in duplicate, as it's meant to capture a single incident's information. 
-</thinking>
-
 # Emergency Medical Services Field Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about a patient's medical condition and response to emergency services in a structured and organized manner. It is intended to be filled out once per incident, and any missing or incorrect information may lead to incomplete or inaccurate records.

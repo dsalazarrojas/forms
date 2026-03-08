@@ -1,9 +1,3 @@
-<thinking>
-This form was designed to help leaders and consultants assess their alignment with the organization's vision, mission, and values, and to identify areas of improvement. The purpose of this form is to gauge the level of alignment and understanding of the organization's strategic direction among its leadership team members. This can help in making informed decisions, setting goals, and taking corrective actions to bridge any gaps. 
-Before starting, please ensure that you have read the form instructions carefully and understand its purpose. If you've already completed a similar form, please be aware that this form might cover similar topics, but the questions and structure might differ. 
-Please provide thoughtful and honest answers to the questions, and try to keep your responses as concise as possible. Your input is valuable, and it will help us to better understand the current state of leadership alignment.
-</thinking>
-
 # leadership_alignment_consulting_survey - Help Guide
 ## Purpose
 The leadership alignment and consulting survey is a tool designed to help leaders assess their alignment with the organization's vision, mission, and values. It's a self-assessment instrument meant to help leaders identify areas of improvement and make informed decisions.

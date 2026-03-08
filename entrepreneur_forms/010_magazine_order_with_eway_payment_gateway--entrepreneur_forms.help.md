@@ -1,5 +1,3 @@
-<thinking>...This help guide is for the "magazine_order_with_eway_payment_gateway" form, which is used to create magazine orders with eWAY payment gateway integration. This form is designed to capture various details related to magazine orders, including order type, issue number, payment method, shipping address, and other relevant information. To ensure that you complete the form correctly, please follow the instructions below. Also, please note that this form is not a duplicate of any other form, and its purpose is to process magazine orders efficiently and securely....</thinking>
-
 # magazine_order_with_eway_payment_gateway - Help Guide
 ## Purpose
 This form is designed to process magazine orders with eWAY payment gateway integration. It captures details related to order type, issue number, payment method, shipping address, and other relevant information.

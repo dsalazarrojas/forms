@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about new hires within an organization. Its purpose is to gather essential details about the employee's entry into the company, including their job title, department, and date of hire. This form is likely to be used by HR departments or management to streamline the onboarding process and ensure that all necessary information is collected in a centralized location. It's essential to ensure that this form is filled out accurately and consistently to maintain data quality and prevent duplication of efforts.
-
-</thinking>
-
 # HR System Access Form - Help Guide
 ## Purpose
 This form is designed to collect information about new hires within an organization, including their job title, department, and date of hire.

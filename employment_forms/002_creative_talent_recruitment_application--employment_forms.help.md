@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from creative individuals who are looking to be recruited for a job or project. The form is intended for internal use within the organization, and its primary purpose is to provide a structured way to collect relevant details about the applicant's qualifications, experience, and availability. The form is likely to be used by HR or recruitment teams to screen and filter applicants based on their skills, work status, job type, and other relevant factors.
-
-Before filling out this form, please ensure that you are not a duplicate applicant. If you have previously applied for a job or project through this form, please do not resubmit your application. Resubmissions may lead to duplication of effort and wasted resources.
-
-</thinking>
-
 # Creative Talent Recruitment Application - Help Guide
 ## Purpose
 The Creative Talent Recruitment Application is a form designed to gather information from creative individuals who are looking to be recruited for a job or project. It is intended for internal use within the organization and helps to streamline the recruitment process by providing a structured way to collect relevant details about the applicant's qualifications, experience, and availability.

@@ -1,5 +1,3 @@
-<thinking>...This form is used to evaluate the effectiveness of a Preventive Medicine Training program. This form helps assess whether a user has completed a training program, and if so, how they rate its quality and usefulness. The form is meant to be filled out by trainees after completing a training session. It should only be filled out once for each training session, and should be completed by the trainee who participated in the session. If the user is unsure about what the form is for or if they have already filled it out, please stop reading and contact a trainer or administrator for clarification...</thinking>
-
 # Preventive Medicine Training Evaluation - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness of a Preventive Medicine Training program.

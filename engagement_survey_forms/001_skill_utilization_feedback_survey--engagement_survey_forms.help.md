@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the utilization of various skills in a given context. This survey helps to identify which skills are being effectively utilized and where there may be room for improvement. To ensure that the form is completed accurately, please note that the survey title and questions are meant to elicit honest and specific feedback.
-</thinking>
-
 # Skill Utilization Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on the utilization of various skills in a given context. It helps identify which skills are being effectively utilized and where there may be room for improvement.

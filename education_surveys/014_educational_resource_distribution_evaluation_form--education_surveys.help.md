@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Resource Distribution Evaluation Form - Help Guide
 
 ## Purpose

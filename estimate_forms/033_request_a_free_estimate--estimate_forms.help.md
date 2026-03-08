@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to first understand the context and purpose of this "Request A Free Estimate" form. The form seems to be designed to collect information from users about a construction project, allowing them to request an estimate for the work they need. This form appears to be part of a process where users can provide details about their project, and the form will guide them through the necessary steps to submit their request. I will now create a user-facing help guide for this form.</thinking>
-
 # Request A Free Estimate - Help Guide
 ## Purpose
 The "Request A Free Estimate" form is designed to help you request a free estimate for a construction project. Please use this form to provide detailed information about your project, and our team will be in touch to provide a quote for the work required.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about respondents' attitudes towards the ethical use of Artificial Intelligence (AI) in learning environments. The form is designed to gather both quantitative and qualitative data. The purpose of this form is to help researchers and stakeholders understand the public perception of AI in education and identify areas for further study.
-This form is not intended to be used for commercial purposes and is released under a Creative Commons Attribution 4.0 license. 
-</thinking>
-
 # Ethical Use Of AI In Learning Survey - Help Guide
 ## Purpose
 This guide explains how to complete the Ethical Use of AI in Learning Survey.

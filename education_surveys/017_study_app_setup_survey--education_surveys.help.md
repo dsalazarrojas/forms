@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to set up their study application preferences and provide information necessary for the application to function correctly. The form is designed to be a simple and efficient way for users to provide the required details, reducing the likelihood of errors and improving the overall user experience.
-</thinking>
-
 # Study App Setup Survey - Help Guide
 ## Purpose
 The Study App Setup Survey is a form designed to gather essential information from users to set up their study application preferences. This form helps us understand your study needs and requirements, allowing us to tailor the application to your needs and provide a better experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Yearbook Survey - Help Guide
 
 ## Purpose

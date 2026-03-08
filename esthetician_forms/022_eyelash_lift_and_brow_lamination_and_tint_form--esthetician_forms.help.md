@@ -1,7 +1,3 @@
-<thinking>
-The form "Eyelash Lift And Brow Lamination And Tint Form" is designed to collect information from clients who are seeking treatments for their eyelashes and eyebrows. The form aims to assess the risks and medical history of the client before proceeding with the treatment. It is intended to be used by estheticians who specialize in eyelash and brow treatments. This form should not be used in other contexts.
-</thinking>
-
 # Eyelash Lift And Brow Lamination And Tint Form - Help Guide
 
 ## Purpose

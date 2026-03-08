@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my first step is to understand the purpose and logic behind this form. The "Retail Employee Shift Satisfaction Poll" form is designed to collect data on an employee's satisfaction with their retail shift experience. This form likely aims to gather feedback on their shift hours, supervision, collaboration, and overall feelings during the shift. It's likely used to gauge employee engagement and help retail managers improve shift schedules, supervision, and team dynamics.</thinking>
-
 # Retail Employee Shift Satisfaction Poll - Help Guide
 ## Purpose
 This form is designed to help us understand your experiences and feelings during your retail shift. Your input will help us make adjustments and improvements to ensure you have a more positive and productive work environment.

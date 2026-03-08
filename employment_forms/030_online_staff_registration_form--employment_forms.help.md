@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Staff Registration Form - Help Guide
 ## Purpose
 The Online Staff Registration Form is designed to collect relevant information from staff members for administrative and management purposes.

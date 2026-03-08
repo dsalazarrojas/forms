@@ -1,10 +1,3 @@
-<thinking>
-This form is used to document an employee's acceptance of orientation policies, which is a crucial step in the onboarding process. The purpose of this form is to provide a record that an employee has read and understood the company's orientation policies, as well as to capture their signature and other relevant details. This form is used by HR teams and managers to ensure that all employees have a clear understanding of the company's policies and expectations.
-
-Before proceeding, please make sure that you have not already completed this form. If you have any questions or concerns, please don't hesitate to reach out to your HR representative.
-
-</thinking>
-
 # orientation_policy_acknowledgment - Help Guide
 ## Purpose
 This form is used to document an employee's acceptance of orientation policies, a crucial step in the onboarding process.

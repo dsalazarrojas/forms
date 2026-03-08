@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our Employee Diversity Workshop is effective and beneficial for all employees. This form is designed to gather feedback from participants to help us understand their experiences, opinions, and suggestions. This form is not meant to be a lengthy or time-consuming process, so please answer the questions briefly and honestly. Please complete the form only if you have attended the workshop and are providing feedback for the first time.
-</thinking>
-
 # Employee Diversity Workshop Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is a survey for employees who have attended the Employee Diversity Workshop. Your feedback will help us improve the workshop and make it more beneficial for everyone.

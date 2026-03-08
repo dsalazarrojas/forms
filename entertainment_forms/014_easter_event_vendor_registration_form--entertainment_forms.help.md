@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for vendors to register their easter events. It is likely to be used by event organizers or coordinators to collect information from vendors participating in Easter events. The purpose of this form is to ensure that all necessary information is collected in one place, making it easier for both the vendor and the event organizers to keep track of the event details. This form should not be filled out by anyone who is not a vendor participating in the Easter event.
-
-</thinking>
-
 # easter_event_vendor_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from vendors participating in Easter events. This information will help event organizers or coordinators to keep track of event details and ensure a smooth execution of the event.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from new employees about their onboarding experience, training, and access to equipment, and how they feel about the communication with their supervisor after their onboarding process. This form aims to provide actionable insights to improve the onboarding process for future employees.
-</thinking>
-
 # Employee Onboarding Survey - Help Guide
 ## Purpose
 The Employee Onboarding Survey is designed to measure the effectiveness of our onboarding process and gather feedback from new employees. This helps us identify areas for improvement and ensure that future employees have a smooth transition into their new role.

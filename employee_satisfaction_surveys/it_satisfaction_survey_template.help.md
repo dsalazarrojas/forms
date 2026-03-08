@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to collect feedback from employees on their experience with IT services and support. It helps to identify areas for improvement and provide insights for IT teams to make data-driven decisions. This form is not intended to be a formal assessment or evaluation, but rather a tool to gather open-ended and honest feedback from employees.
-  Before filling out this form, please ensure you haven't already provided feedback on this topic recently. Duplicate feedback will not be taken into account.
-</thinking>
-
 # it_satisfaction_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their experience with IT services and support.

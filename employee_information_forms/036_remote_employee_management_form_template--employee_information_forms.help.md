@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect information from remote employees for management and administration purposes. 
-The form is used to track and manage remote work arrangements for employees. 
-It helps to centralize and organize data on employee remote work status, contact details, work schedule, work location, and other relevant information. 
-This form is intended to be filled out by remote employees. 
-Please fill out this form accurately and completely to ensure that your remote work details are up-to-date and accessible to your manager.
-</thinking>
-
 # Remote Employee Management Form Template - Help Guide
 ## Purpose
 The Remote Employee Management Form Template is a tool used to gather and maintain information about remote employees. It helps managers and administrators keep track of employee remote work status, contact details, work schedule, and other relevant information.

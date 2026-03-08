@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from attendees on the quality and enjoyment of a stand-up comedy performance. It aims to gather specific details such as the quality of the performance, whether the performers were funny, and the date and time of the event. The form also asks for contact information to help follow up on the feedback. This form should only be filled out by people who have attended the performance and have a genuine opinion. Please note that the form is meant for entertainment purposes only and is not for soliciting or promoting the performance.
-</thinking>
-
 # stand_up_feedback_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from attendees on the quality and enjoyment of a stand-up comedy performance.

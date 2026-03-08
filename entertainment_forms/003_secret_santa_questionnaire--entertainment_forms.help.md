@@ -1,14 +1,3 @@
-<thinking>
-  This form is intended to gather information about participants' preferences for a Secret Santa gift exchange. The form is used to collect participants' names, the person they would like to give a gift to, and their gift preferences. This form will help the organizers of the Secret Santa event to match participants with suitable gift recipients and assign gifts that fit within the budget constraints of the giver.
-
-The form has 5 fields:
-* "What is your name" - This is a text field where the participant should enter their name.
-* "To whom would you like to give a gift" - This is a multiple-select field where the participant can choose one or more people they would like to give a gift to.
-* "What gift would you like to give" - This is a single-select field where the participant can indicate whether they would like to give a gift or not.
-* "Budget for the gift" - This is a number field where the participant can enter their budget for the gift.
-* "Message to include with the gift" - This is a text field where the participant can enter a message to include with their gift.
-
-</thinking>
 # Secret Santa Questionnaire - Help Guide
 ## Purpose
 This form is used to gather information about participants' preferences for a Secret Santa gift exchange.

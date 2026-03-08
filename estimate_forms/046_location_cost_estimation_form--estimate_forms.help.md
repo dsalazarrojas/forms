@@ -1,14 +1,3 @@
-<thinking>
-This form is a Location Cost Estimation Form, designed to help users gather information about event location details. The form collects data on the location where an event will take place, including the event's name, date, and any additional details about the location. This form is intended for users who want to estimate costs associated with a specific event location, such as catering, venue rental, or other logistics. Before filling out this form, please ensure you're filling it out for a valid event and location.
-
-To complete this form, simply follow these steps:
-
-1. Fill in the "Location" field with the address or name of the event location.
-2. Provide any additional "Event Details" that might be relevant to the cost estimation.
-3. Enter the "Event Name" in the designated field.
-4. Input the "Event Date" in the format of mm/dd/yyyy or any other accepted date format.
-</thinking>
-
 # Location Cost Estimation Form - Help Guide
 ## Purpose
 

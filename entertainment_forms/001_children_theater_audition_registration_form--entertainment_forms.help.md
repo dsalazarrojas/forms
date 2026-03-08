@@ -1,11 +1,3 @@
-<thinking>This help guide is designed to assist users in understanding and completing the Children Theater Audition Registration Form. It is recommended that users review this guide carefully before starting the form to ensure they provide accurate and relevant information. 
-
-This form is used to collect information from parents or guardians about their child's basic information, audition preferences, and other relevant details. The form is designed to be completed by parents or guardians who are interested in enrolling their child in a theater production. 
-
-Before starting the form, please note that some questions are required to be answered, and others are optional. Required fields are marked as "Required: true" in the form. It is essential to fill out the form accurately and truthfully to ensure a smooth and successful audition process for your child.
-
-If you have any questions or concerns while completing the form, please do not hesitate to contact us for assistance.</thinking>
-
 # Children Theater Audition Registration Form - Help Guide
 ## Purpose
 

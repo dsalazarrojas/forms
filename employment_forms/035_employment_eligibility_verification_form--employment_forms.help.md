@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to verify employment eligibility for an individual. The purpose of this form is to gather information about an employee's current or former employment status, including their job title, department, address, and termination date (if applicable). This form will help the user determine whether an individual is eligible for a particular benefit or privilege.
-
-Before filling out this form, please ensure you are filling it out for a specific employee and that you are not duplicating the form for the same employee.
-
-</thinking>
-
 # Employment Eligibility Verification Form - Help Guide
 ## Purpose
 This form is used to verify employment eligibility for an individual.

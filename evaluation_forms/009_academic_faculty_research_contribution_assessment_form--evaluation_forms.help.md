@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Faculty Research Contribution Assessment Form - Help Guide
 
 ## Purpose

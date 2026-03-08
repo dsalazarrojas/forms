@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect sweepstake entry information from users. This form likely serves a promotional or marketing purpose, such as for a contest or lottery. The goal is to gather relevant details from users, including their name, email, phone number, and selection preferences. It is essential to complete the form correctly to ensure accurate information collection.
-
-Before filling out the form, please note that it has several pages with multiple fields. The fields may appear to be duplicated, but they serve different purposes or are intended for various sections. Please review each field carefully to ensure you complete the correct information.
-
-Some fields have "select" types, which require choosing from a set of options. Be aware of these selections as they will be used to filter or categorize the data accordingly.
-
-</thinking>
-
 # Sweepstake Entry Form - Help Guide
 ## Purpose
 

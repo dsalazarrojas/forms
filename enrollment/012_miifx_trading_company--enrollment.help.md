@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who want to join a trading company. The purpose of this form is to gather the necessary details from potential investors or traders who are interested in joining the company. The form is designed to be simple and straightforward, making it easy for end-users to provide their information. Before proceeding, ensure that you're completing the form for the correct purpose and don't duplicate your efforts by filling out the form multiple times.
-</thinking>
-
 # miifx_trading_company_enrollment - Help Guide
 ## Purpose
 This form is designed to collect information from potential investors or traders who want to join a trading company. It's intended to gather the necessary details to process your registration.

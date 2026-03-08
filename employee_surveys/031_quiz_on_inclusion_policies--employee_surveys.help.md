@@ -1,5 +1,3 @@
-<thinking>Before proceeding, let's ensure this form is relevant to the task at hand. The form "Quiz On Inclusion Policies" appears to be a survey form designed to gather information from employees, likely for training or inclusion purposes. It consists of multiple questions with single-select, multiple-select, and text fields. This form is likely intended for employees to provide their feedback and opinions on various aspects of their work environment. We will proceed with creating a user-facing help guide for this form.</thinking>
-
 # Quiz On Inclusion Policies - Help Guide
 ## Purpose
 The "Quiz On Inclusion Policies" form is designed to gather feedback and opinions from employees on various aspects of their work environment, aiming to enhance the inclusivity and overall employee experience.

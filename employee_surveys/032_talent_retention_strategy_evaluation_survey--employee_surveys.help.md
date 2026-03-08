@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # talent_retention_strategy_evaluation_survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by ROV (Remotely Operated Vehicle) crew members to ensure that all necessary preparations are made before a mission. This form is part of a pre-launch checklist to guarantee that the crew and equipment are ready for a safe and successful operation. It is crucial to fill out this form carefully and accurately to avoid any last-minute issues during the mission. To avoid any confusion, please make sure to review each field carefully and fill it out according to the instructions. 
-</thinking>
-
 # ROV Pre Launch Checklist - Help Guide
 ## Purpose
 The ROV Pre Launch Checklist is a form designed to be used by ROV crew members to ensure that all necessary preparations are made before a mission. This form helps guarantee that the crew and equipment are ready for a safe and successful operation.

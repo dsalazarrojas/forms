@@ -1,12 +1,3 @@
-<thinking>
-The "Responsive Interview Questionnaire Form" is designed to gather feedback from users to help the company understand their thoughts, feelings, and experiences. This form will likely be used by HR or management teams to collect data on employee satisfaction, engagement, and retention. It's essential to complete this form thoughtfully, as the information collected can impact company policies, training, and future initiatives.
-
-Please ensure you have all the necessary information before proceeding. If you've already completed this form, please review the fields carefully to ensure you're answering accurately, as any duplication of effort or incomplete forms may be considered a waste of time.
-
-To confirm, are you ready to begin?
-
-</thinking>
-
 # Responsive Interview Questionnaire Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from users on their experiences and thoughts about the company.

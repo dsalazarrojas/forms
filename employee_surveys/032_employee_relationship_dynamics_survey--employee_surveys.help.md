@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect data about employee relationships within an organization, including reporting hierarchies, team structures, and supervisor relationships. The form is designed to gather information about each employee's direct and indirect reporting relationships, team size, and supervisor details. This data is intended to be used for organizational development, team-building, and performance evaluation purposes. It's crucial to ensure that the form is filled out accurately and consistently to maintain the integrity of the data collected.
-</thinking>
-
 # Employee Relationship Dynamics Survey - Help Guide
 ## Purpose
 The Employee Relationship Dynamics Survey is a tool used to collect data about employee relationships within an organization, including reporting hierarchies, team structures, and supervisor relationships.

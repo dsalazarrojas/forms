@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Ultrasound Cavitation Consent Form - Help Guide
 ## Purpose
 The Ultrasound Cavitation Consent Form is a document used to obtain informed consent from patients before undergoing an ultrasound cavitation treatment. It is used to ensure that the patient is aware of the treatment procedure, risks, and benefits.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting feedback and opinions on Islamic teachings and modernity. The purpose of this form is to gather anonymous and voluntary feedback from users on their perspectives on modernity and its relationship with Islamic teachings. This guide will walk you through each section of the form and explain each field to help you complete it effectively.
-</thinking>
-
 # islamic_teachings_and_modernity_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and opinions on Islamic teachings and modernity. This information will help us understand the community's views on how Islamic teachings relate to modern issues and trends.

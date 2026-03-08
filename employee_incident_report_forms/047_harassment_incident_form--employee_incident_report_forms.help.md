@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and report incidents of harassment that occur within the workplace. It's crucial to ensure that all incidents are accurately recorded to maintain a safe and respectful work environment. Please fill in the form as accurately and thoroughly as possible. To avoid duplicates, please only report incidents that have occurred recently, and ensure that you have not reported the same incident already.
-</thinking>
-
 # Harassment Incident Form - Help Guide
 
 ## Purpose

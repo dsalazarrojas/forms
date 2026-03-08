@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be filled out by individuals planning to visit a drive-in for a Halloween event. The purpose of this form is to collect information about the visitor(s) and their preferences for the event. This includes collecting data on the number of participants, their contact information (name, email, and phone number), and specific details like date of birth and time of visit. The form also allows visitors to select which tool they would prefer to be assigned for their visit.
-Please note that this form appears to be a duplicate or a variation of a form used for a different purpose. Reviewing the form design and fields carefully before proceeding will help ensure that the correct information is being collected. If you're unsure about any field or the overall purpose of the form, please seek clarification from the form owner or creator.
-</thinking>
-
 # drive_in_halloween_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from visitors planning to attend a Halloween event at a drive-in for the purpose of planning and organizing the event.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information from job applicants for paralegal job openings. The form has multiple pages, each containing various fields that the applicant must complete to provide their details. 
-
-The form's purpose is to gather necessary information to evaluate the applicant's qualifications, work experience, education background, language proficiency, job description, and other relevant details. This information will be used to determine the applicant's eligibility for the paralegal position. 
-
-This form should not be used for duplicate submissions. Each applicant should fill out the form once for each paralegal job they are applying for. 
-
-</thinking>
-
 # Paralegal Job Application Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect employee information for the team directory. It is intended for employees to submit their details, including their first name, last name, email, phone number, job title, department, position, location, profile picture, bio, job description, LinkedIn profile, resume, photo description, team lead status, manager status, director status, director title, director bio, team member status, reporting manager status, reporting director status, created by, created at, and submitted by. The form should only be completed once per employee and should not be resubmitted. The fields marked as required are essential for the submission and will be validated upon completion.</thinking>
-
 # Team Member Directory Submission - Help Guide
 ## Purpose
 This form is used to collect and store employee information for the team directory.

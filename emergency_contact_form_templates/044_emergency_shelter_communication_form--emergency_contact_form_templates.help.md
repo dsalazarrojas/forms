@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for emergency situations, where the goal is to collect information and track responses to emergencies in a shelter or facility. The form's purpose is to ensure that emergency contacts are registered and that staff can respond quickly and effectively in case of an emergency. It's likely used in a shelter or facility setting where staff need to know who to contact in case of an emergency and what services are available.
-
-Before using this form, please ensure that you have the necessary permissions and authorization to access and update emergency contact information. This form is not intended for duplicate or redundant entry, so please check for existing records before submitting new information.
-
-</thinking>
-
 # Emergency Shelter Communication Form - Help Guide
 ## Purpose
 

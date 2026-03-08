@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form is intended to be completed by an employee to provide necessary information for their employer to release them from work obligations. Please note that this form should only be used for genuine reasons and not for unauthorized absences.
-</thinking>
-
 # Work Release Form - Help Guide
 ## Purpose
 The Work Release Form is designed to be completed by an employee to provide necessary information for their employer to release them from work obligations.

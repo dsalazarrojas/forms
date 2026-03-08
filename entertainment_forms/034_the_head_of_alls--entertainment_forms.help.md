@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "the_head_of_alls" form is to collect information from users about their preferences and habits in the entertainment industry. This form will likely be used to gather insights for market research, customer feedback, or other business purposes. Before proceeding, let's ensure that the form is not being duplicated and that the information is relevant to the current research or project. If you're unsure, please double-check with your team leader or project manager.
-</thinking>
-
 # the_head_of_alls - Help Guide
 ## Purpose
 The "the_head_of_alls" form is designed to collect user data for market research, customer feedback, or other business purposes.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information from patients prior to a microdermabrasion treatment procedure. The goal is to collect relevant medical history, allergies, and current medications to ensure the patient's safety and well-being during the procedure. This information will be used by medical professionals to assess potential risks and take necessary precautions. 
-
-The form will ask for the patient's full name, date of birth, medical history, allergies, medical conditions, current medications, the specifics of the medical procedure, risk factors, and a signature indicating consent. This information will be stored securely and used to inform the treatment process.
-
-To avoid duplication, please ensure that the patient has not already provided this information and that the data is up-to-date.
-
-After filling out this form, the patient should be provided with a copy of the signed consent form for their records.
-</thinking>
-
 # Microdermabrasion Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from patients prior to a microdermabrasion treatment procedure. It is essential to provide accurate and up-to-date information to ensure the patient's safety and well-being during the treatment.

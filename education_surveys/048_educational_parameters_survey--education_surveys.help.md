@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Parameters Survey - Help Guide
 ## Purpose
 The Educational Parameters Survey is designed to gather information from users about their experiences with our school, department, and program. This feedback will help us understand how we can improve our services and provide better support to our students. Please ensure that you have completed all required fields before submitting the form.

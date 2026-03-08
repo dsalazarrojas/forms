@@ -1,11 +1,3 @@
-<thinking>
-
-To confirm, this help guide is for the "Academic Partnership Success Factors Survey" form, which is used to evaluate the effectiveness of academic-industry partnerships and identify areas for improvement. This form is designed to gather feedback from respondents representing various types of organizations, including universities, industry partners, government agencies, non-profit organizations, and research institutes. 
-
-The form has 15 questions, which are categorized into several sections. The purpose of this guide is to provide clarity on each question and help respondents understand how to complete the form accurately and effectively.
-
-</thinking>
-
 # Academic Partnership Success Factors Survey - Help Guide
 ## Purpose
 The Academic Partnership Success Factors Survey is designed to assess the effectiveness of academic-industry partnerships in achieving their goals and objectives. This form aims to identify areas of improvement and provide valuable insights for strengthening partnerships.

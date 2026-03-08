@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a health equity initiative evaluation. The form is used to ensure that all evaluations are completed correctly and thoroughly, reducing the risk of duplication or incorrect information being submitted. The evaluation will be reviewed internally to ensure that all required fields are completed and that the provided information is accurate and complete.
-</thinking>
-
 # health_equity_initiative_evaluation_form - Help Guide
 ## Purpose
 The health equity initiative evaluation form is used to gather information about health equity initiatives that have been implemented or are being planned. This information will be used to review and evaluate these initiatives to ensure that they align with the organization's goals and objectives.

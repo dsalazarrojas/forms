@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to enable employees to request and track equipment orders for their work needs. This form is intended for employees to submit their equipment orders, which will then be reviewed and processed by the relevant team or manager. It is crucial to ensure accurate and complete information is provided to avoid delays or mistakes in the order process. Please confirm that you have read and understood the form's purpose before proceeding.
-</thinking>
-
 # Equipment Order Form - Help Guide
 ## Purpose
 The Equipment Order Form is designed to enable employees to request and track equipment orders for their work needs.

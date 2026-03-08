@@ -1,10 +1,3 @@
-<thinking>
-The "Stage Video Screen Update Request Form" is a crucial tool for stakeholders to request updates to existing stage videos in the entertainment industry. It helps to gather necessary information for updates, ensuring that all stakeholders are aware of the changes and can collaborate effectively. Before proceeding, please ensure that you have the necessary permissions and approvals to submit this form. 
-
-To avoid duplication of effort, please check if there's a similar request already submitted by checking with your colleagues or our internal records.
-
-Please fill out this form carefully, providing accurate and relevant information. The form will help us to efficiently process and update the stage video screens.
-</thinking>
 # Stage Video Screen Update Request Form - Help Guide
 ## Purpose
 The Stage Video Screen Update Request Form is a tool used by stakeholders to request updates to existing stage videos in the entertainment industry. It ensures that all necessary information is gathered for efficient processing and updating of stage video screens.

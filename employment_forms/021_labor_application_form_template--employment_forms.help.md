@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Labor Application Form Template - Help Guide
 ## Purpose
 This form is designed to collect information from applicants applying for labor positions within our organization. It includes fields for basic contact information, job application details, and educational background. Please ensure that the information provided is accurate and complete to facilitate the hiring process.

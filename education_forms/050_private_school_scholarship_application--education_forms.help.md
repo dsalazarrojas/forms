@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for students or guardians to submit an application for a private school scholarship. The purpose of the form is to collect information about the applicant, their contact and education background, financial situation, and any additional information relevant to the scholarship application process. The form will guide you through the application process, ensuring that you provide all necessary details for a fair evaluation. Please note that this form is not affiliated with any specific private school or platform, and its purpose is to help you create a comprehensive application.
-
-</thinking>
-
 # Private School Scholarship Application - Help Guide
 ## Purpose
 This form is for students or guardians to apply for a private school scholarship.

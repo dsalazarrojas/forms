@@ -1,12 +1,3 @@
-<thinking>...
-The purpose of this form is to gather feedback and insights from employees on the effectiveness of the company's listening mechanism. This form is an opportunity for employees to share their thoughts, concerns, and suggestions on how the company can improve its communication and listening practices. By filling out this form, employees can help the company understand what's working well and what areas need improvement, ultimately contributing to a more empathetic and responsive work environment.
-
-Before starting the survey, please note that this form is anonymous and all responses will be treated confidentially. You can skip any questions that don't apply to you or that you're not comfortable answering.
-
-Please answer the questions to the best of your ability, and don't worry if you're not sure of your opinions or feelings. Your input is valuable and will help us improve our listening mechanisms.
-
-</thinking>
-
 # Employee Listening Effectiveness Survey - Help Guide
 ## Purpose
 ## How To Complete This Form

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from users about gearbox design. It seems to be a crucial step in understanding user experiences and perceptions, which is essential for improving design quality and user satisfaction. 
-</thinking>
-
 # gearbox_design_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about gearbox design. It helps us understand your opinions, suggestions, and experiences with our gearboxes, which is essential for us to improve our design quality and user satisfaction.

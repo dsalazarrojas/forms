@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Corporate Employee Benefits Voting Form" that explains its purpose, how to complete it, and what each field means. I'll follow the required Markdown structure and aim for concrete, concise, and practical guidance.</thinking>
-
 # Corporate Employee Benefits Voting Form - Help Guide
 ## Purpose
 This form is designed for employees to vote on the top corporate benefits that they value the most. It will help us understand the preferences and priorities of our team members, which in turn will inform our company's benefit offerings and resource allocation.

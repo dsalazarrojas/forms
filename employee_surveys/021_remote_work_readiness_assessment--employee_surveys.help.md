@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess an employee's readiness for remote work. It will help managers and HR personnel understand whether an employee is suitable for remote work arrangements, based on their personal preferences, skills, and circumstances. This form aims to gather information that will be used to make an informed decision about remote work arrangements.
-Before filling out this form, please ensure you have not filled it out before. Duplicate submissions will not be accepted. Please fill out the form carefully and accurately, and do not submit incomplete or inaccurate information.
-</thinking>
-
 # Remote Work Readiness Assessment - Help Guide
 
 ## Purpose

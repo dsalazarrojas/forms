@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to ensure that users understand the purpose and usage of the Hire Boat Agreement Form. The form is designed to collect information from users about the boat they are hiring, including its details, duration of hire, and total price. To prevent duplication, ensure that you are only submitting one agreement form per boat.
-</thinking>
-
 # Hire Boat Agreement Form - Help Guide
 ## Purpose
 The Hire Boat Agreement Form is a document that outlines the terms and conditions of hiring a boat. It is used to collect information from users about the boat they are hiring, including its details, duration of hire, and total price.

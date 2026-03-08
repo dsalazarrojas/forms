@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to measure the perception of managers within an organization, specifically regarding their approachability, responsiveness, communication, and overall accessibility. This survey is likely used to identify areas of improvement for individual managers and to develop strategies for enhancing their relationships with their teams.
-
-Before completing this form, ensure that you have not filled it out previously. If you're an employee, this survey is designed to help your organization understand your experiences with your manager's leadership style, communication, and availability.
-
-The responses provided will be anonymous and confidential.
-</thinking>
-
 # Manager Accessibility Perception Survey - Help Guide
 ## Purpose
 This survey aims to assess how employees perceive their manager's approachability, responsiveness, communication, and overall accessibility. Your feedback is crucial in helping us understand areas for improvement and provide better support for our team members.

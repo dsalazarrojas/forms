@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hvac_defrost_termination_fan_delay_wiring_checklist - Help Guide
 
 ## Purpose

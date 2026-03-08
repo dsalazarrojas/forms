@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for a financial services company to collect information about a candidate's background and experience before an employment decision. The form might be used in conjunction with other hiring processes, such as interviews or resume screening, to gather more detailed information about the candidate. Before filling out this form, make sure you are authorized to do so and that the information you provide is accurate and up-to-date. Please do not duplicate efforts or submit incomplete information.
-</thinking>
-
 # Financial Services Pre Employment Assessment Questionnaire - Help Guide
 ## Purpose
 This questionnaire is designed to collect relevant information from candidates before an employment decision. It covers various aspects of a candidate's background, experience, and preferences to help make informed decisions during the hiring process.

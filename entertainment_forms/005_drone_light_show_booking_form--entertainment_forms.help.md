@@ -1,13 +1,3 @@
-<thinking>
-
-To help me create the user-facing help guide for the "Drone Light Show Booking Form", I'll first need to understand the form's purpose and ensure that I don't duplicate any information. 
-
-The purpose of this form is likely to collect details about drone light shows, such as event information, drone specifications, and user contact information. This form will likely be used by event organizers to book and manage drone light shows.
-
-I'll now create the user-facing help guide based on the provided YAML fields.
-
-</thinking>
-
 # Drone Light Show Booking Form - Help Guide
 ## Purpose
 This form is used to collect and manage information about drone light shows, including event details, drone specifications, and user contact information.

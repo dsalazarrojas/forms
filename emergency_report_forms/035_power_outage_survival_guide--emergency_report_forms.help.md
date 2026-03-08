@@ -1,7 +1,3 @@
-<thinking>
-The Power Outage Survival Guide form is designed to help households prepare for and respond to power outages. This form is meant to be filled out by household members or building administrators to assess and record the household's readiness for an unexpected power outage. The form is divided into various sections, each addressing a different aspect of power outage preparedness. The purpose of this guide is to ensure that the form is completed accurately and effectively.
-</thinking>
-
 # Power Outage Survival Guide - Help Guide
 ## Purpose
 The Power Outage Survival Guide form is designed to help households prepare for and respond to power outages. This form assesses and records the household's readiness and preparedness for an unexpected power outage.

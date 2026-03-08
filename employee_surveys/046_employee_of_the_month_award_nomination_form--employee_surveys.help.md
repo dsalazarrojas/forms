@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Employee Of The Month Award Nomination Form", we must first consider its purpose and how users can complete it effectively. The form is designed to collect nominations for employees who deserve recognition and rewards for their outstanding work. This guide will walk you through each field and its explanation to ensure users understand the form's purpose and how to use it correctly.
-
-</thinking>
-
 # Employee Of The Month Award Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to submit nominations for employees who have demonstrated exceptional performance, skills, or contributions to the organization. The information collected will help the management team select the most deserving employee for the award.

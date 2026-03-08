@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a tooling audit and optimization request. It is typically used by maintenance teams to identify and report issues with tools and equipment, and to request assistance or resources for optimization and improvement. This form should only be used when there is a specific request for tooling audit and optimization, such as when a tool or equipment is not functioning correctly or is in need of maintenance. Filling out this form ensures that the maintenance team can quickly and efficiently identify and address the issue, reducing downtime and improving overall performance.
-
-Before starting, please ensure you have reviewed the form carefully to avoid duplicating work or providing unnecessary information. This form is designed to be completed in a step-by-step manner, and each field is intended to gather specific and relevant information.
-
-If you have any questions or concerns while completing this form, please don't hesitate to reach out to the maintenance team.
-
-</thinking>
-
 # Tooling Audit And Optimization Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a tooling audit and optimization request, used by maintenance teams to identify and report issues with tools and equipment, and to request assistance or resources for optimization and improvement.

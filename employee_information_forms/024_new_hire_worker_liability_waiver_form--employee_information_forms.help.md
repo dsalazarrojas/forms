@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain the personal and employment-related information of a new hire worker to ensure a smooth onboarding process. This form will be reviewed by HR and will not be used for any other purpose. To prevent duplication, the form should only be filled out once when the worker is initially onboarded. Please ensure all fields are accurate and complete before submitting the form to avoid any potential issues.
-</thinking>
-
 # New Hire Worker Liability Waiver Form - Help Guide
 ## Purpose
 This form is used to collect personal and employment-related information from new hires to ensure a smooth onboarding process.

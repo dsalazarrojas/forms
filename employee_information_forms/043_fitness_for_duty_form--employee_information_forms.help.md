@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather information about an employee's fitness for duty. Specifically, it aims to capture whether an employee has been assigned to a certain task or not. This information is crucial for resource allocation and planning within the organization. The form will only be used for active and inactive employees, and will not require any additional fields for employees on return dates. There is no duplication of effort with the current system as the form is used for specific instances of employee assignments.
-</thinking>
-
 # Fitness For Duty Form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's fitness for duty. It helps managers and administrators to track employee assignments and approvals.

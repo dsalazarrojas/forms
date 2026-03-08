@@ -1,7 +1,3 @@
-<thinking>
-This form is for the Global Strategy Innovation Fellowship application. The purpose of the form is to collect information from candidates who are interested in participating in the fellowship program. The form will be used to gather the necessary details from candidates, including their CV, experience, motivation statement, university affiliation, think tank affiliation, program participation, phone number, email, and date of birth. Before proceeding, please ensure you are eligible to apply and have not already submitted an application. If you have any questions or concerns, please reach out to the fellowship administrators.
-</thinking>
-
 # Global Strategy Innovation Fellowship Application - Help Guide
 ## Purpose
 The Global Strategy Innovation Fellowship is a program designed to support the next generation of global leaders and innovators. This form is used to collect information from candidates who are interested in participating in the fellowship program.

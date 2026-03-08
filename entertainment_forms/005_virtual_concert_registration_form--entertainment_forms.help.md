@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to gather information from users for virtual concerts. 
-This form collects user data for planning and execution purposes. 
-We want to avoid having multiple entries for the same concert. 
-</thinking>
-
 # Virtual Concert Registration Form - Help Guide
 
 ## Purpose

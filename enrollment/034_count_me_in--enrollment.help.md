@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "count_me_in" form, used for enrolling users in various programs or services. Before proceeding, please ensure that you are filling out this form for a valid purpose and that you are not duplicating your enrollment efforts. Make sure to fill out all required fields to ensure successful submission.
-</thinking>
-
 # count_me_in - Help Guide
 ## Purpose
 The "count_me_in" form is used to collect user information for enrollment purposes. This form is typically used for registration, membership, or other programs where user data is required.

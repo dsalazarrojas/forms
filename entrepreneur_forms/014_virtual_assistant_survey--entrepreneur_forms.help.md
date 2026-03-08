@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a comprehensive help guide that will help end-users understand the purpose and completion process of the Virtual Assistant Survey form. This guide will be structured in the following sections: Purpose, How To Complete This Form, and Field-by-Field Explanation.</thinking>
-
 # Virtual Assistant Survey - Help Guide
 ## Purpose
 

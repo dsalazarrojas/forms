@@ -1,8 +1,3 @@
-<thinking>
-The Employee Grievance Form is used by employees to report any issues or concerns they are experiencing within the workplace. This form is meant to be a safe and confidential space for employees to voice their concerns without fear of repercussions.
-Before filling out this form, please ensure that the issue you're reporting is not a duplicate of a previously reported incident. To do this, you can check the company's incident tracker system or discuss with your supervisor or HR representative.
-</thinking>
-
 # Employee Grievance Form - Help Guide
 ## Purpose
 The Employee Grievance Form is designed to provide a platform for employees to report any grievances or concerns they may be experiencing in the workplace. This form is intended to be a safe and confidential space for employees to voice their concerns without fear of repercussions.

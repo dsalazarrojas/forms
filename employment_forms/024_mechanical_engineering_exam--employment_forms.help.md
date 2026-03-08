@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture and process information related to mechanical engineering exams. It's essential to ensure that the form is filled out correctly to avoid any technical issues that may arise during the submission process. The form has four fields to gather information from the user. To avoid duplication and errors, users must understand the purpose and requirements of each field. This form is not meant for mass submission, and it's intended for individual users who need to complete it for personal purposes. Before starting, ensure that the user has a clear understanding of what information is required and that the form is filled out accurately.
-</thinking>
-
 # Mechanical Engineering Exam - Help Guide
 ## Purpose
 The Mechanical Engineering Exam form is designed to gather information related to mechanical engineering exams. It is intended for individual users who need to complete it for personal purposes.

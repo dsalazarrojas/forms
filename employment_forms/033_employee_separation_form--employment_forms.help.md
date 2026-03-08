@@ -1,11 +1,3 @@
-<thinking>
-
-The Employee Separation Form is used to document an employee's separation from the company. It's a necessary step for ensuring a smooth transition and proper closure of the employee's employment status. This form is often used by HR or administrative staff to collect information about the employee's departure, which is crucial for updating company records and providing necessary benefits or support to the departing employee. This form should only be used for genuine separation cases and not for test runs or practice purposes.
-
-Before proceeding with this guide, ensure that you have the necessary permissions and clearance to access and update employee information, and that you're not duplicating an existing employee separation record.
-
-</thinking>
-
 # Employee Separation Form - Help Guide
 
 ## Purpose

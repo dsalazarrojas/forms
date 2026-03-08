@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information on daren submissions, likely for some internal or public record-keeping purpose. However, without further context, it is unclear what a "dare" is or the specific requirements of the submission process. Please ensure that the form is only being used to collect relevant and accurate information and that the submission process is well-defined and communicated.
-
-Also, note that some fields seem to have identical labels and types but different options or hints. Please review and standardize these fields to avoid confusion.
-</thinking>
-
 # Dare Submission Survey - Help Guide
 ## Purpose
 The Dare Submission Survey form is designed to collect information on daren submissions for [insert purpose here, e.g., internal records, public display, etc.].

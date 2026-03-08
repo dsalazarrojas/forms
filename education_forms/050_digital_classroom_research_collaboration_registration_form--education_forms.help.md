@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is designed for registration and collaboration purposes between researchers in a digital classroom setting. It aims to facilitate communication and knowledge-sharing among researchers with similar research interests. The form collects information on the researcher's details, department, and collaboration preferences.
-
-</thinking>
-
 # Digital Classroom Research Collaboration Registration Form - Help Guide
 ## Purpose
 

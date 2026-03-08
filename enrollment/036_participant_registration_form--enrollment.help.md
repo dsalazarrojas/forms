@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information for registration and emergency contact purposes. The form is divided into two main sections: Participant Info and Emergency Contact Info. The participant is asked to provide their first and last name, email, phone number, address, city, state, and zip code. The emergency contact section is similar, but also includes additional fields for the contact's name, phone number, email, address, city, state, and zip code. The form also includes fields for medical information, such as conditions and allergies, and participant and emergency contact consent dates and times. Please ensure that you fill out the form accurately and completely to ensure your registration is processed correctly.
-</thinking>
-
 # Participant Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for registration and emergency contact purposes.

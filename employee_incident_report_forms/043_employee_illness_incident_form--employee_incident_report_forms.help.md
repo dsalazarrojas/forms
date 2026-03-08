@@ -1,7 +1,3 @@
-<thinking> This form is designed to collect information about employee illness incidents, including who reported the incident, the employee's name and contact information, the type of incident, start and end dates, and other relevant details such as cause, treatment, location, and witness. The form also captures follow-up information including follow-up date, follow-up note, and incident status. The purpose of this form is to track and manage employee incidents in a standardized way, facilitating effective communication and decision-making. This form is primarily intended for use by HR or management teams within a company or organization to document and report incidents. 
-
-</thinking>
-
 # Employee Illness Incident Form - Help Guide
 ## Purpose
 The form is designed to collect information about employee illness incidents and track and manage them in a standardized way, facilitating effective communication and decision-making within HR or management teams.

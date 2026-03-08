@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Experience Letter Request Form - Help Guide
 
 ## Purpose

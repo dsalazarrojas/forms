@@ -1,5 +1,3 @@
-<thinking>... This form is intended to assess the efficiency of delivery personnel in logistics-related tasks. It is likely used to evaluate their performance in tasks such as delivery scheduling, inventory management, and personnel management. This form is crucial in evaluating the performance of delivery personnel in order to identify areas of improvement and optimize logistics operations. It is also likely that the results of this form will be used to assign follow-up tasks and deadlines to ensure that the performance of delivery personnel is tracked over time... </thinking>
-
 # logistics_delivery_personnel_efficiency_assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the efficiency of delivery personnel in logistics-related tasks, such as delivery scheduling, inventory management, and personnel management.

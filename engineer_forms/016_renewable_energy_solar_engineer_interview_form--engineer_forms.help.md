@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for engineers involved in the design, development, and testing of solar energy systems. The purpose of this form is to gather relevant information from these engineers for further review and analysis. This form should only be completed by engineers who have a genuine interest in participating in the interview and not by anyone attempting to game the system. It is also essential to note that the submitted information will be reviewed for relevance and non-duplication. Please ensure that the provided information is accurate and up-to-date before submission.</thinking>
-
 # Renewable Energy Solar Engineer Interview Form - Help Guide
 ## Purpose
 The Renewable Energy Solar Engineer Interview Form is designed to collect relevant information from solar energy system engineers for further review and analysis. This information is crucial for the development and improvement of solar energy systems.

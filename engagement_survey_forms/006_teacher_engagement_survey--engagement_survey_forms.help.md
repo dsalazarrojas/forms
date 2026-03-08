@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and engagement metrics from teachers in the education sector. It is essential to provide accurate and clear information to help us understand the effectiveness of our tools and services. To ensure that we get the most out of this survey, please make sure to complete it thoroughly and accurately, and refrain from submitting duplicate or incomplete responses. 
-</thinking>
-
 # Teacher Engagement Survey - Help Guide
 ## Purpose
 The purpose of this Teacher Engagement Survey is to collect feedback and engagement metrics from teachers in the education sector. This information will help us understand how our tools and services are being used and how we can improve them to better support teachers like you.

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users about their leisure interests and potential barriers to participation. The purpose of this form is to understand users' preferences and obstacles in engaging in leisure activities. To determine the relevance and non-duplication of this form, let's consider the following:
-
-- The form is part of a larger project focused on education and surveys.
-- The form collects data on users' demographics, leisure interests, barriers, participation frequency, and motivation for participation.
-- This information will help in creating targeted interventions to support users' leisure engagement.
-
-The form does not appear to be a duplicate of other forms, and the data collected will provide valuable insights for the project's objectives.
-
-</thinking>
-
 # leisure_interest_and_barriers_survey - Help Guide
 ## Purpose
 This form is designed to collect information about your leisure interests, potential barriers to participation, and motivation for engagement. The data collected will help us better understand your preferences and needs, and inform targeted interventions to support your leisure engagement.

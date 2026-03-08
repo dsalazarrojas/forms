@@ -1,7 +1,3 @@
-<thinking>
-This form is for artists to submit their artworks for consideration in the Lemonade Art Program. The form is used to collect necessary information about the artwork, artist, and submission process. It is essential to complete the form accurately and comprehensively to ensure that the artwork is properly evaluated and considered for inclusion in the program.
-</thinking>
-
 # lemonade_artwork_submission_form - Help Guide
 ## Purpose
 The lemonade_artwork_submission_form is a user-facing form designed for artists to submit their artworks for consideration in the Lemonade Art Program. This form collects information about the artwork, artist, and submission process.

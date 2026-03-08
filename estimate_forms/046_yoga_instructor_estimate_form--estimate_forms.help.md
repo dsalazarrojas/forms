@@ -1,8 +1,3 @@
-<thinking>
-This form is used by yoga instructors to provide an estimate of their services and rates to clients. 
-The form is used to input information about the type of services offered, session lengths, pricing, and other details to help determine an estimate of their prices. This form is meant to be used by instructors to easily and quickly provide information to clients about their services.
-</thinking>
-
 # Yoga Instructor Estimate Form - Help Guide
 ## Purpose
 The Yoga Instructor Estimate Form is a tool used to provide an estimate of services and rates to clients.

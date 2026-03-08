@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about music distribution from musicians and music publishers. It is used to record the status of music distribution, including whether the music is distributed, the genre and license agreement details, and the agreement date and time. The form is intended to be used for internal purposes only and should not be used for external purposes without proper authorization.
-</thinking>
-
 # Music Distribution Form - Help Guide
 ## Purpose
 This form is used to record the status of music distribution, including whether the music is distributed, the genre and license agreement details, and the agreement date and time.

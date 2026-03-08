@@ -1,5 +1,3 @@
-<thinking>...This form is intended to screen visitors and employees for potential security risks. As an organization, it's crucial to ensure that all individuals entering the premises are thoroughly vetted before granting access. The purpose of this form is to gather essential information and screening results to make informed decisions about access control. It's crucial to fill out this form accurately and thoroughly to support the organization's security protocols. It's also necessary to check that the form doesn't get duplicated as it's a crucial part of the screening process for visitors and employees...)</thinking>
-
 # Screening Checklist For Visitors And Employees - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about emergency contacts and their status. The purpose of this form is to quickly provide essential details about the emergency contact person in case of an emergency. It is crucial to fill in the form accurately and thoroughly to ensure that the necessary information is collected.
-</thinking>
-
 # emergency_notification_form_template - Help Guide
 ## Purpose
 The emergency_notification_form_template is a form designed to collect information about emergency contacts and their status.

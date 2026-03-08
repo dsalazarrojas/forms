@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to request access to the Employee Assistance Program (EAP) for employees who need support with their well-being, finances, or other personal matters. The form helps ensure that all requests are reviewed and approved by the relevant department heads, and that employees are able to access the resources they need in a timely manner. Before completing this form, please note that the EAP is a confidential and supportive service provided by the company to its employees. It is not a substitute for medical or financial advice, but rather a resource for employees to seek guidance and assistance with personal issues.
-</thinking>
-
 # Employee Assistance Program Access Request Form - Help Guide
 ## Purpose
 The Employee Assistance Program (EAP) Access Request Form is designed to help employees request access to confidential support services, such as counseling, financial planning, and legal assistance. The form gathers necessary information to ensure that the employee's request is processed efficiently and effectively.

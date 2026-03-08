@@ -1,9 +1,3 @@
-<thinking>
-
-Before designing a user-facing help guide for this form, we should ensure we have a clear understanding of its purpose and the intended outcomes. This form is intended to assess the current state of team collaboration within the accounting team. It aims to gather information on communication effectiveness, task distribution fairness, and the tools used for collaboration. Additionally, it seeks to identify obstacles hindering teamwork and gather suggestions for improvement. This guide will help users fill out the form accurately and effectively.
-
-</thinking>
-
 # Accounting Team Collaboration Survey - Help Guide
 ## Purpose
 The Accounting Team Collaboration Survey is designed to evaluate the current state of teamwork and collaboration within the accounting team. This survey aims to gather feedback on communication, task distribution, and the tools used for collaboration.

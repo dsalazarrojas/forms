@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employees' perceptions on Diversity, Equity, and Inclusion (DEI) topics. The purpose of the form is to gather feedback and insights from employees on how they perceive their workplace environment and how DEI initiatives can be improved. It is crucial to ensure that all employees' voices are heard and valued in this process. Please ensure that you complete this form only once and do not duplicate your responses. Your input will help us better understand and address DEI concerns and opportunities in our organization.
-</thinking>
-
 # DEI Perception Employee Survey Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Audio Coordinator Staff Contract - Help Guide
 
 ## Purpose

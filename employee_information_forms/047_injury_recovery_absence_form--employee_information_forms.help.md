@@ -1,7 +1,3 @@
-<thinking>
-This form is for documenting an employee's injury recovery absence. It captures relevant information about the employee's medical condition, recovery status, and related details. Please ensure that you are using this form to report a legitimate injury-related absence and not for other purposes. If you've already submitted a similar form for the same reason, please refrain from resubmitting. The form is meant to be filled out by employees who are taking a recovery absence due to a workplace injury or illness.
-</thinking>
-
 # Injury Recovery Absence Form - Help Guide
 ## Purpose
 This form is designed to document an employee's injury recovery absence, providing essential information about their medical condition, recovery status, and related details. It helps management and HR to track and manage injury-related absences efficiently.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a doctor's personal details, including their name, contact information, professional credentials, and work experience. This form is likely used for administrative or HR purposes within an organization or medical practice.
-
-Before we dive into the details of the form, let's quickly validate its purpose. This form appears to be designed for data collection and record-keeping, which is a common use case for employee information forms. Given the fields included, it seems this form is intended for doctors working within the organization or medical practice, possibly for credentialing, billing, or other administrative purposes. There is no apparent redundancy or unnecessary fields in this form. Let's proceed with creating the user-facing help guide.
-</thinking>
-
 # doctor_information_form - Help Guide
 ## Purpose
 The doctor_information_form is used to collect and store information about doctors working within our organization or medical practice. This includes their personal details, contact information, professional credentials, and work experience.

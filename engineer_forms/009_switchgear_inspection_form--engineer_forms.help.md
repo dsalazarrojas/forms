@@ -1,14 +1,3 @@
-<thinking>
-The form "switchgear_inspection_form" is designed to collect information about the inspection of switchgear items. This form will help gather data on the name of the switchgear item, the location where it was inspected, the condition of the item during inspection, the type of inspection performed, the result of the inspection, and the status of the inspection. 
-
-The purpose of this form is to standardize and streamline the inspection process, ensuring that all relevant information is collected in a structured and organized manner. 
-
-This form should only be used for collecting information on switchgear items, and not for other purposes. 
-
-Please note that the form has multiple pages, and each page has different fields that need to be filled out.
-
-</thinking>
-
 # switchgear_inspection_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information on the inspection of switchgear items.

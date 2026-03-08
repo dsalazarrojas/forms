@@ -1,16 +1,3 @@
-<thinking>
-This form is likely designed to gather information about employees' work schedules, including their availability, preferences, and possibly even their schedule conflicts or availability. The form might be used by HR or management teams to collect data for scheduling, staffing, or other business purposes. It's possible that the form is used in conjunction with other forms or systems to provide a comprehensive view of employee work schedules.
-
-Before filling out this form, it's essential to review the instructions and understand the purpose of each page and field. Each page may have specific questions or options tailored to that section of the work schedule.
-
-Please note that this form appears to have multiple pages, which might be intended to segment the questions into more focused categories or sections. However, the exact purpose of each page and field may not be immediately apparent, so review them carefully to ensure accuracy.
-
-This form includes a variety of field types, such as select_one, select_multiple, text, time, date, and number. Some fields are marked as required, while others are not. Reviewing the required fields is crucial to ensure that the form is completed correctly.
-
-The form also includes hints for some fields, which might provide additional context or guidance on how to complete the field. Be sure to read these hints carefully for more information.
-
-Before starting, it's a good idea to review the form carefully and ensure that you have a clear understanding of each page and field. This will help you complete the form accurately and efficiently.</thinking>
-
 # Employee Work Schedule Survey - Help Guide
 ## Purpose
 The Employee Work Schedule Survey is designed to collect information about employees' work schedules. The form is used to gather data for scheduling, staffing, or other business purposes.

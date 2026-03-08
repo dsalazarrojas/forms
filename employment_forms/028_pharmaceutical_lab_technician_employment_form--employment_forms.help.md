@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals seeking employment as a pharmaceutical lab technician. The form is intended to be completed by candidates who are interested in working in this field and want to provide their qualifications and availability for potential employers. It's essential to fill out this form accurately to ensure that your application is considered.
-
-The form is divided into multiple sections, each designed to capture specific information about the candidate. Before filling out the form, please review the sections carefully to understand what each field is asking for.
-
-This form is not intended to be duplicated, and each candidate should only fill it out once.
-</thinking>
-
 # pharmaceutical_lab_technician_employment_form - Help Guide
 ## Purpose
 ## How To Complete This Form

@@ -1,15 +1,3 @@
-<thinking>
-... internal reasoning block ...
-
-This form is designed to collect attendance information from employees. It is used to record the time an employee starts and ends their workday, their employee ID, and other relevant details. This form should be filled out by the employee to ensure accurate and up-to-date attendance records. Please ensure that you are filling this form for your own shift and not for another employee.
-
-The form will be reviewed and updated as needed to reflect changes in the company's policies and procedures.
-
-Please note that this form is mandatory and is used for administrative purposes only. All the fields marked as required are essential for accurate processing.
-
-Please take a moment to review the form carefully and fill it out accurately. If you have any questions or concerns, please do not hesitate to reach out to your supervisor or HR representative.
-</thinking>
-
 # Work Day Sign In Form - Help Guide
 ## Purpose
 This form is designed to collect attendance information from employees, ensuring accurate and up-to-date records.

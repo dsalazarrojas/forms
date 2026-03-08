@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to guide users through the process of requesting maintenance for a beverage cooler. Before proceeding with completing this form, please ensure that:
-
-* The reported issue is related to the cooler's functionality or operation.
-* This is not a routine inquiry or a question, but rather a request for service or repair.
-* You have access to the relevant information and permissions to submit this request.
-
-If you're unsure or have questions, please reach out to your supervisor or the maintenance team before proceeding.
-
-</thinking>
-
 # Beverage Cooler Maintenance Request Form - Help Guide
 ## Purpose
 This form is used to report issues with a beverage cooler, ensuring that the necessary maintenance or repair is performed to minimize downtime and maintain the equipment's functionality.

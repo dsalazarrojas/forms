@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect basic information for emergency communication. The purpose of this form is to ensure that essential details are captured quickly and efficiently in case of an emergency situation. This form can be used in various industries such as healthcare, hospitality, or any other sector where emergency communication is crucial.
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using AI-powered form generation, released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.
-
-Before filling out this form, ensure that the information provided is accurate and up-to-date. Duplicate entries can lead to confusion and may not be accepted. Please fill out this form only once per incident or emergency situation.
-
-</thinking>
-
 # Emergency Communication Form - Help Guide
 
 ## Purpose

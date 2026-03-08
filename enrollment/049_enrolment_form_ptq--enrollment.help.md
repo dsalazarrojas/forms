@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for an enrolment or training session. To check if this form is relevant, ensure that the form is part of the PTQ (Programme of Training Qualification) process, which is used for training enrolments. 
-If it is for non-PTQ training, this form may not be the correct one.
-Ensure that the form is being used to collect actual enrolment data and not for other purposes.
-</thinking>
-
 # Enrolment Form PTQ - Help Guide
 ## Purpose
 This form is used to collect information for an enrolment or training session as part of the PTQ process.

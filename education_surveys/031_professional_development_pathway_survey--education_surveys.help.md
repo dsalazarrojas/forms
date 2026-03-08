@@ -1,8 +1,3 @@
-<thinking> 
-Please note that I will be creating a user-facing help guide for this form with the aim of making it as clear and concise as possible for end users to understand its purpose and how to complete it. I will also ensure that the explanations are practical and based on the provided YAML fields.
-
-</thinking>
-
 # Professional Development Pathway Survey - Help Guide
 ## Purpose
 

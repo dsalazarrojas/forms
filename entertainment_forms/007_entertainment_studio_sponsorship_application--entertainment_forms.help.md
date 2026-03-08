@@ -1,9 +1,3 @@
-<thinking>
-The entertainment studio sponsorship application form is designed to gather information about an event or project from a potential sponsor. This form is used to facilitate the submission of sponsorship requests to the entertainment studio. To ensure that each submission is relevant and meets the studio's guidelines, please note that the following conditions apply:
-- All submissions should be for projects that align with the entertainment studio's mission and objectives.
-- If a project has been previously submitted, please do not resubmit. This ensures that we can efficiently manage our submissions and avoid duplication of effort.
-</thinking>
-
 # Entertainment Studio Sponsorship Application - Help Guide
 ## Purpose
 The Entertainment Studio Sponsorship Application form is designed to help potential sponsors submit their requests for collaboration with the entertainment studio. This form serves as a central hub for gathering project details, sponsor information, and other relevant data.

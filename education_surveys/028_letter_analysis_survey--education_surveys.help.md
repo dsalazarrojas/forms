@@ -1,9 +1,3 @@
-<thinking>
-The Letter Analysis Survey is a form used to collect feedback and ratings about a letter. It's intended to assess the clarity, tone, and effectiveness of a letter. The form should only be used to evaluate letters in the education context. To ensure accurate and relevant feedback, please make sure to complete the form for each letter separately.
-
-This form is not intended to be completed by students. Only instructors or other educators who have reviewed or are familiar with the content of the letter are expected to use this form.
-</thinking>
-
 # Letter Analysis Survey - Help Guide
 ## Purpose
 The Letter Analysis Survey is used to collect feedback and ratings about a letter in the education context. It is designed to help instructors or educators evaluate the clarity, tone, and effectiveness of a letter.

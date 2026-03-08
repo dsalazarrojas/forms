@@ -1,7 +1,3 @@
-<thinking>
-This form is used to quiz the user about the hydrogenation process, likely related to a chemical process in the education or research context. The form likely assesses the user's understanding of the hydrogenation process, its categories, and the questions associated with it. This form should not be used for other purposes. The form does not require any information from external resources, so the user can complete it independently. This form is likely a part of a larger assessment or survey, and its results might be used for further analysis or to determine the user's knowledge about the hydrogenation process. To ensure the user can complete the form accurately, each field has a clear label and an explanation. This form should not be completed by a user who does not have basic knowledge of the hydrogenation process.
-</thinking>
-
 # Hydrogenation Process Quiz - Help Guide
 
 ## Purpose

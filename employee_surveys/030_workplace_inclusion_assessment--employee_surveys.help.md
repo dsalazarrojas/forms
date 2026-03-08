@@ -1,7 +1,3 @@
-<thinking>
-As a workplace inclusion assessment, this form aims to measure employees' perceptions of their own inclusion in the team, providing valuable insights for improving team dynamics and creating a more welcoming work environment. This form is intended to gather information on individual preferences, experiences, and suggestions, helping to identify areas of improvement and foster a culture of inclusivity. By completing this form, employees can provide honest and anonymous feedback, promoting a more open and respectful dialogue within the team.
-</thinking>
-
 # Workplace Inclusion Assessment - Help Guide
 ## Purpose
 The Workplace Inclusion Assessment is designed to gauge how well employees feel included in the team and identify areas for improvement. This form will help the management understand individual perspectives and create a more inclusive and welcoming work environment.

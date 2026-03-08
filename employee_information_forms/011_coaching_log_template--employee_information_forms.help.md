@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coaching Log Template - Help Guide
 
 ## Purpose

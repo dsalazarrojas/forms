@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about a job candidate's self-assessment. It's intended to gather details that can help assess the candidate's suitability for various roles within the organization. This form is not meant to be a comprehensive evaluation, but rather a brief self-assessment to provide insight into the candidate's background and preferences. It's crucial to complete the form accurately and thoroughly, as it will be used as a reference point in the hiring process.
-
-Please ensure you have the necessary information and permissions to complete this form. If you're unsure about any of the fields, please contact the relevant authorities or refer to the organization's internal documentation for clarification.
-
-</thinking>
-
 # Job Candidate Self Assessment - Help Guide
 ## Purpose
 The Job Candidate Self Assessment form is a self-reporting tool designed to collect information about your job candidacy. Please answer the questions accurately and to the best of your ability.

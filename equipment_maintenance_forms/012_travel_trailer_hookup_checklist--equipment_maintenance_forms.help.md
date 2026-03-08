@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Trailer Hookup Checklist - Help Guide
 ## Purpose
 This form is used to capture information about travel trailers and their hookups. It is used to ensure that all necessary details are recorded accurately and consistently.

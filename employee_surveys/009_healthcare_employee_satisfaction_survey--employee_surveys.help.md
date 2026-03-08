@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from healthcare employees on their job satisfaction, communication, management, workload, team collaboration, work-life balance, recommendations for the hospital, overall satisfaction, and other job-related aspects. This form is designed to help the hospital administration understand the employees' perceptions and concerns, which can inform decision-making and improve the work environment.
-
-To ensure the data collected is reliable and valid, it is essential to complete the form carefully. The form will be used to identify areas of improvement and provide a basis for making informed decisions.
-
-Before completing the form, ensure you understand the purpose and relevance of each question. If you are unsure, refer to the explanations below.
-
-</thinking>
-
 # Healthcare Employee Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from healthcare employees on their job satisfaction and other aspects of their work environment.

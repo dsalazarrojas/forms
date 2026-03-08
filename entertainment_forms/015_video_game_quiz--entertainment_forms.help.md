@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect information about video games. The form will be used to gather data for a survey or quiz related to video games. Please note that this form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using only public survey topic metadata.
-</thinking>
-
 # Video Game Quiz - Help Guide
 ## Purpose
 This form is designed to collect information about video games, including game name, player name, platform, genre, release date, game type, rating, and description.

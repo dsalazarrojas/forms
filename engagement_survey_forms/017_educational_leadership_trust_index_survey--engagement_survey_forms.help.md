@@ -1,5 +1,3 @@
-<thinking>This form is designed to measure the level of trust a school leader has towards their team, stakeholders, or peers, which is a crucial aspect of effective leadership in the education sector. The form assesses the level of trust in various areas, providing valuable insights into the leader's relationships and communication patterns. This information can help school leaders identify areas of improvement and develop strategies to enhance their leadership style and foster a positive school environment. It is essential to complete this form to ensure the accuracy of the results and to avoid duplication, as it is a critical step in understanding school dynamics. Please ensure you are familiar with the school you are evaluating before proceeding.</thinking>
-
 # Educational Leadership Trust Index Survey - Help Guide
 ## Purpose
 The Educational Leadership Trust Index Survey is designed to measure the level of trust a school leader has towards their team, stakeholders, or peers. This information is crucial in identifying areas of improvement and developing effective leadership strategies.

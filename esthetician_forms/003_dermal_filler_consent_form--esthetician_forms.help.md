@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from clients seeking dermal filler treatments. It includes fields for client demographics, medical history, allergies, medications, medical conditions, informed consent, signature, medical provider, procedure, consent date, signature date, and client signature date. The form aims to ensure that the client is aware of the treatment procedure, potential risks and benefits, and provides their consent before undergoing the treatment. This form is designed to be completed by clients before their first treatment or review of medical history, and it serves as a reference point for future treatments. The goal is to ensure that clients are fully informed and aware of all aspects of the treatment, while also providing necessary medical documentation for the medical provider.
-The form has been generated based on general survey topics and industry standards, and it is not affiliated with or derived from any specific form platform. The form is released under CC BY 4.0, allowing for modifications and use in various settings.
-The form's fields are designed to be easy to understand and complete. However, some fields may require clarification or explanation for non-medical professionals. The following guide is intended to help clients understand the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Dermal Filler Consent Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients before undergoing dermal filler treatments. It aims to ensure that clients are aware of the treatment procedure, potential risks and benefits, and provide their informed consent.

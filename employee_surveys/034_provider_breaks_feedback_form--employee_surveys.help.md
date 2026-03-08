@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by employees to provide feedback on their experience with their provider's break schedule. This feedback will help the provider to make adjustments to their break schedule, if necessary. 
-
-The goal is to gather information on how often the employee takes scheduled breaks, how long these breaks are, and the employee's experience with the breaks. The form should not be filled out by someone who has not been an employee of the provider in question.
-
-</thinking>
-
 # Provider Breaks Feedback Form - Help Guide
 ## Purpose
 

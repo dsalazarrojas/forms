@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information for revising voice dubbing files, ensuring that the requested revisions are accurately captured. The form is a crucial part of the project delivery process, and the goal is to collect all necessary details before assigning the revision task to the right person. 
-</thinking>
 # Voice Dubbing Revision Request Form - Help Guide
 ## Purpose
 The Voice Dubbing Revision Request Form is used to request revisions on voice dubbing files. This form helps to gather all necessary information to ensure that the revisions are properly handled and completed in a timely manner.

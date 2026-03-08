@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the entertainment platform, allowing users to provide input on their experience. The feedback form is meant to be completed by users to help improve the platform's content and services. To ensure accurate and relevant feedback, please make sure to only fill out the form when you have had a significant experience on the platform, and that the information you provide is specific to your own experience. If you're unsure about any of the fields, please refer to the field-by-field explanation below.
-</thinking>
-
 # Entertainment Platform Feedback - Help Guide
 ## Purpose
 This form is used to collect feedback on your experience with our entertainment platform. Your input will help us improve our content and services.

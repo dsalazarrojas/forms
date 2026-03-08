@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for students to register for a physics course. The form is designed to collect relevant information from students, including their name, address, parent information (if applicable), class ID, teacher name, student grade level, whether they have school information to provide, and the level of physics course they want to register for. This form will help the educational institution to efficiently and accurately collect and store student registration information. 
-
-Before you start, please ensure that you have the necessary information and authorization to complete this form. The form is not designed to be completed by students under 18 years old or without the consent of their parents or guardians. 
-
-Please review the form carefully before submission to ensure that all required fields are filled and the information provided is accurate and complete.
-</thinking>
-
 # physics_registration_form - Help Guide
 ## Purpose
 This form is designed for students to register for a physics course. It collects necessary information from students, including their name, address, parent information, class ID, teacher name, grade level, school information, and the level of physics course they wish to register for.

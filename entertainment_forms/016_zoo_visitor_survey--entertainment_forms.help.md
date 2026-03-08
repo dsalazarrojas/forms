@@ -1,7 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Zoo Visitor Survey" form, we must first understand the purpose of this form and the information it aims to collect. This form appears to be designed to gather feedback from visitors to the zoo, likely to improve the visitor experience and services provided by the zoo. The form might ask for basic contact information such as name and email to facilitate communication, but also collects data on the visitors' experience, including what animals they saw, their level of satisfaction, and whether they would visit again. This information would be valuable for the zoo's management to understand what to improve or maintain in terms of animal exhibits, services, and overall visitor experience.
-</thinking>
-
 # Zoo Visitor Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from zoo visitors to help us improve your experience and services. Please take a few minutes to answer the questions below to help us better understand your visit.

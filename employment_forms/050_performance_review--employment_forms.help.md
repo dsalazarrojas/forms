@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to assist employees in understanding the purpose and process of completing the Performance Review form. The form is designed to gather feedback and performance metrics from managers to evaluate an employee's performance during a specific period. This guide will walk through the purpose and process of completing the form, and provide a detailed explanation of each field's purpose.
-</thinking>
-
 # Performance Review - Help Guide
 
 ## Purpose

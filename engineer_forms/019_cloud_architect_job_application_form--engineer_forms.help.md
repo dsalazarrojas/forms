@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Cloud Architect Job Application Form", I will first analyze the form's purpose and relevance, and then break down the guide into sections that address how to complete the form, field-by-field explanations, and provide tips for the user.
-
-Given the form's purpose and the fields it contains, I will focus on explaining each field clearly and concisely, making it easy for users to understand and fill out the form correctly.
-
-</thinking>
-
 # Cloud Architect Job Application Form - Help Guide
 
 ## Purpose

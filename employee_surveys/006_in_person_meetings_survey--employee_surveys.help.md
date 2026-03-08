@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # In Person Meetings Survey - Help Guide
 ## Purpose
 The In Person Meetings Survey form is designed to collect information about in-person meetings, such as dates, times, and feedback. This form is intended for employees to report on meetings they have attended or plan to attend. The information collected will help the organization track and analyze meeting activity to improve communication and collaboration among employees.

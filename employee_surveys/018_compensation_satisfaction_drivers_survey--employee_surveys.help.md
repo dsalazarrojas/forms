@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to gain accurate and actionable insights into employees' compensation satisfaction. Before proceeding, let's confirm that this form is the right tool for the job and hasn't been replaced or modified recently.
-</thinking>
-
 # Compensation Satisfaction Drivers Survey - Help Guide
 ## Purpose
 The Compensation Satisfaction Drivers Survey is designed to gather feedback on what drives employees' satisfaction with their compensation package, helping HR teams better understand employee expectations and priorities.

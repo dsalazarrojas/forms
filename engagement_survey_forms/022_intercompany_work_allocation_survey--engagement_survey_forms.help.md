@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intercompany Work Allocation Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your role and tasks within the intercompany work allocation process. Your responses will help us identify areas for improvement and suggest potential changes to make the process more efficient and effective.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to allow employees to refuse medical treatment and acknowledge the associated risks. This form is typically used when an employee wishes to decline medical treatment, such as vaccinations or medications, due to personal beliefs or concerns. It's essential to complete this form carefully, as it's a declaration of refusal.
-Please ensure you've reviewed the relevant policies and protocols before completing this form. If you're unsure, consult with your supervisor or HR representative. This form is not a substitute for medical advice.
-To prevent duplication, please check with your supervisor or HR representative before filling out this form.
-</thinking>
-
 # Employee Refusal Of Medical Treatment Form - Help Guide
 ## Purpose
 The purpose of this form is to formally document an employee's refusal of medical treatment. It's essential to understand that refusing medical treatment can lead to health risks and potential complications.

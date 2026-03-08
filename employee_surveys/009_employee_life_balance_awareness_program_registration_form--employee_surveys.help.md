@@ -1,5 +1,3 @@
-<thinking>Employee surveys are an important tool for assessing employee engagement and satisfaction. This guide is intended for employees who are registering for the Employee Life Balance Awareness Program. Please complete this form carefully and accurately to ensure that your responses are recorded accurately. Note that only one registration per employee is permitted, and duplicates will be removed. Please ensure you have the necessary approvals and permissions before proceeding. You can register for the program as a team lead, member, or both. If you are registering as both, please ensure that your team members are also registered for the program.</thinking>
-
 # Employee Life Balance Awareness Program Registration Form - Help Guide
 ## Purpose
 The Employee Life Balance Awareness Program is designed to promote employee well-being and work-life balance. This form is used to register employees for the program and gather relevant information to tailor the program to their needs.

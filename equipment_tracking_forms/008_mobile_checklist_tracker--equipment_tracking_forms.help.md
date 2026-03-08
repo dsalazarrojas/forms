@@ -1,24 +1,3 @@
-<thinking>
-The Mobile Checklist Tracker form is designed to track and record information related to mobile devices, such as asset inspection results. This form is intended to gather detailed information about a mobile device, including its condition, status, asset tags, and other relevant details. It is not intended for general equipment tracking or other types of assets.
-
-This form should only be used for mobile devices, and users should not use it for other purposes.
-
-The purpose of this form is to ensure consistent and accurate tracking of mobile device inspections, which can help identify potential issues and prevent accidents or downtime.
-
-Before we continue, let's review the form's structure:
-
-This form consists of multiple pages with the following sections:
-1. User Input
-2. Asset Check
-3. Date and Time Submitted
-4. Contact Information
-5. Asset Details
-6. Additional Comments
-
-Please note that some fields are required (indicated by "required: true"), while others are optional and can be left blank.
-
-</thinking>
-
 # Mobile Checklist Tracker - Help Guide
 ## Purpose
 This form is designed to track and record information related to mobile devices, such as asset inspection results.

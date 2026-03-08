@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic and personal information from users related to their educational background, interests, and preferences regarding theology and history. This form is designed to gauge users' familiarity and engagement with various subjects, including theologies, church leadership, historical periods, artists, and composers.
-
-To ensure the accuracy of the data collected, it is essential to carefully complete this form. Please make sure to answer each question truthfully and provide the most relevant information possible. To avoid duplication of effort, this form will only be completed once.
-
-This guide will help you complete the form correctly and provide clarity on the purpose and meaning behind each field.
-</thinking>
-
 # Theology And History Survey - Help Guide
 
 ## Purpose

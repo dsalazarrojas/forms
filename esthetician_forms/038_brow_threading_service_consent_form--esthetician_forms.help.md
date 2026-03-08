@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brow Threading Service Consent Form - Help Guide
 ## Purpose
 This form is used to obtain a client's consent for a brow threading service. It captures essential information, such as the client's name, appointment date, and any skin sensitivities or reactions. Additionally, it includes a consent confirmation, photo release, and aftercare instructions to ensure a smooth and safe experience for both the client and the technician.

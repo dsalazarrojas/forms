@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's review the form purpose and content. This "Release Task Form" appears to be a form used to capture information related to task releases, likely in a project management context. It includes fields for various aspects of the task, such as status, due dates, assigned team members, release dates, and notes. To provide accurate guidance, let's ensure that our help guide covers all the essential fields and options in a clear and concise manner.</thinking>
-
 # Release Task Form - Help Guide
 ## Purpose
 The Release Task Form is used to collect information about a task release in a project management context. It provides a structured way to document key aspects of the task, including status, due dates, assigned team members, and other relevant details.

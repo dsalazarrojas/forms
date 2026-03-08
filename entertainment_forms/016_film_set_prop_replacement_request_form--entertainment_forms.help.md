@@ -1,8 +1,6 @@
 # Film Set Prop Replacement Request Form - Help Guide
 
 ## Purpose
-<thinking>This form is for requesting replacements for films sets, used by production staff to report issues with or requests for replacements of props and prop sets. When submitting this form, please provide as much detail as possible to ensure that your request is processed efficiently.</thinking>
-
 ## How To Complete This Form
 To complete this form, simply fill out the required information and submit it. If you need to provide more information, use the additional notes fields.
 

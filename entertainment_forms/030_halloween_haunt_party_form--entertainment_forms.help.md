@@ -1,7 +1,3 @@
-<thinking> 
-This help guide is intended for a form that gathers information about individuals attending a Halloween haunt party. The form is designed to collect various details about the partygoer, including their name, contact information, preferences, and experiences. The goal is to help party organizers understand the partygoer's needs and make their experience more enjoyable. This form should only be used for party planning purposes and not for any other use case.
-</thinking>
-
 # Halloween Haunt Party Form - Help Guide
 ## Purpose
 The Halloween Haunt Party Form is designed to collect information about partygoers attending a Halloween party. This information helps the party organizers create a better experience for all attendees. Please fill out the form accurately and honestly to ensure a safe and enjoyable night.

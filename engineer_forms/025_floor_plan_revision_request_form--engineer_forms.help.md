@@ -1,11 +1,3 @@
-<thinking>
-This form is a Floor Plan Revision Request Form, which is used to request revisions to a floor plan. The form collects information about the revision date, reason for the revision, and any additional change details. The form does not require any specific format or syntax, making it a simple text-based input form. It's likely used in an engineering or architecture context.
-
-Before proceeding, ensure that you haven't already submitted a similar request or have a related request pending. This will save time and avoid duplicate work.
-
-Form data will be used to update floor plans accordingly and notify relevant parties about the requested changes.
-</thinking>
-
 # Floor Plan Revision Request Form - Help Guide
 ## Purpose
 The Floor Plan Revision Request Form is a text-based input form used to request revisions to a floor plan.

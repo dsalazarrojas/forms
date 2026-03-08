@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used to record acknowledgement and contact information from electrical workers who have been exposed to or have come into contact with electrical hazards while performing their work. The form is designed to be filled out by electrical workers, but it may also be used by others who have come into contact with electrical hazards.
-The form is likely used in a workplace setting, such as in a construction site, manufacturing facility, or other environments where electrical workers are present. The form may be used to ensure that workers are aware of and acknowledge electrical hazards, and that contact information is collected for follow-up and emergency response purposes.
-</thinking>
-
 # Electrical Hazard Acknowledgement Form - Help Guide
 ## Purpose
 The Electrical Hazard Acknowledgement Form is used to record acknowledgement and contact information from electrical workers who have been exposed to or have come into contact with electrical hazards while performing their work.

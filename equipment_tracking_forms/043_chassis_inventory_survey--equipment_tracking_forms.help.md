@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chassis Inventory Survey - Help Guide
 
 ## Purpose

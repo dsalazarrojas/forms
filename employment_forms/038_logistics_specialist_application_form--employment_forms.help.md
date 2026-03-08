@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly review the purpose and requirements of the form. This form is designed for applicants to provide information about their logistics specialist job application, which includes details about their company, job position, job title, contact information, resume, job start and end dates, available hours, job type, job category, availability, job status, job description, job requirements, skills, education, work experience, salary, job location, job reference, and notes. The form should not be filled out if the applicant is not interested in applying for a logistics specialist position.</thinking>
-
 # Logistics Specialist Application Form - Help Guide
 ## Purpose
 The Logistics Specialist Application Form is designed to gather information from applicants who are interested in applying for a logistics specialist position. This form helps us understand your background, qualifications, and preferences for a logistics specialist role. Please fill out this form to help us assess your suitability for the position.

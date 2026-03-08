@@ -1,5 +1,3 @@
-<thinking>This form is designed to capture feedback on a science presentation, which is a critical component in the assessment and improvement of science education programs. The feedback collected from this form will help identify areas of strength and areas that need improvement in presentations, ultimately contributing to the development of more effective presentation strategies. To avoid duplication of effort, please review the fields below carefully and provide feedback only for those items that require attention. The form is divided into five sections, each with its own specific purpose. Please ensure that you complete all fields that are marked as required.</thinking>
-
 # Science Presentation Feedback - Help Guide
 ## Purpose
 The Science Presentation Feedback form is a tool used to collect feedback on science presentations. This feedback is essential for improving presentation strategies and providing valuable insights to presenters and educators.

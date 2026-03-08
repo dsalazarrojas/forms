@@ -1,5 +1,3 @@
-<thinking>Form "fort_unit_job_application" is used to capture information about individuals applying for various types of jobs within the entertainment industry. This form is likely used for HR purposes to collect data on job seekers, potentially for talent acquisition, job matching, or other related activities.</thinking>
-
 # fort_unit_job_application - Help Guide
 ## Purpose
 

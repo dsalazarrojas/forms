@@ -1,7 +1,3 @@
-<thinking>
-The Environmental Cleanup Equipment Request Form is used to request equipment for environmental cleanup projects. It should only be filled out by authorized personnel. If the form is submitted multiple times for the same project, please ensure that only one submission is made for each project. If you're unsure, please ask your supervisor for guidance.
-</thinking>
-
 # Environmental Cleanup Equipment Request Form - Help Guide
 ## Purpose
 This form is used to request equipment for environmental cleanup projects. Fill out this form to submit your request.

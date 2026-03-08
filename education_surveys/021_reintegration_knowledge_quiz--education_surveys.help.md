@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to gauge the user's knowledge about reintegration, which is a process or a phase of readjusting to a normal life after a traumatic event or a period of separation or confinement. The form is designed to be completed by individuals who have experienced such an event or have been part of a reintegration process. The form's purpose is to assess the user's understanding of reintegration concepts and processes.
 
 ## Reintegration Knowledge Quiz - Help Guide

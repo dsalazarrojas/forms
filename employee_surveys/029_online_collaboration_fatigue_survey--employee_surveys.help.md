@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to assess employees' feelings and experiences related to online collaboration and virtual meetings. It is designed to gauge the level of fatigue and stress caused by virtual meetings, as well as the effectiveness of collaboration and communication within teams.
-
-This form is intended to be completed by employees of the organization, and the answers will be used to identify areas that need improvement and inform strategies to reduce online collaboration fatigue and increase productivity.
-
-To avoid duplication of data and ensure accurate results, please do not complete the form multiple times.</thinking>
-
 # Online Collaboration Fatigue Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather information about your experiences and feelings related to online collaboration and virtual meetings. Your responses will help us identify areas for improvement and develop strategies to increase productivity and reduce fatigue.

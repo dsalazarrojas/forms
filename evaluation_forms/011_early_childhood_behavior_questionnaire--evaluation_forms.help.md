@@ -1,10 +1,3 @@
-<thinking>
-The Early Childhood Behavior Questionnaire is a form designed to gather information about the behaviors and characteristics of children in early childhood. This form is intended to be completed by caregivers or parents to assess the child's behavior and provide insights for further evaluation and support. The form is not meant to be a diagnostic tool, but rather a starting point for discussion and observation.
-
-To ensure that this form is completed accurately and thoroughly, it is essential to understand the purpose and content of each field. Please review this guide carefully before proceeding.
-
-</thinking>
-
 # Early Childhood Behavior Questionnaire - Help Guide
 ## Purpose
 The Early Childhood Behavior Questionnaire is a tool for caregivers or parents to report on a child's behavior, habits, and characteristics in early childhood.

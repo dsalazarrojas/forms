@@ -1,11 +1,3 @@
-<thinking>
-To determine if you should fill out this form, consider the following:
-
-- If you have experienced or witnessed any concerns that impact your workplace safety or overall well-being, fill out this form to report them.
-- If you have any questions or comments about the form, please refer to the "Tips" section at the bottom.
-
-</thinking>
-
 # Workplace Safety And Concerns Form - Help Guide
 ## Purpose
 This form is for reporting concerns or challenges that impact your workplace safety or overall well-being. It helps management and HR address these concerns and take steps to improve the work environment.

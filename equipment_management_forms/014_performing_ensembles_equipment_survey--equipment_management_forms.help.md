@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about the equipment used by performing ensembles, such as contact information, instrument details, condition, maintenance status, and inspection dates. The goal is to gather accurate and consistent data to help the ensemble management team make informed decisions and take necessary actions. This form is likely used by ensemble management personnel or administrators to gather information from various ensembles.
-
-To ensure that all relevant information is collected and duplicated efforts are avoided, it's essential to complete the form thoroughly and accurately. Please do not leave any fields blank if they are required.
-
-This guide will walk you through the fields and help you complete the form efficiently.
-
-</thinking>
-
 # Performing Ensembles Equipment Survey - Help Guide
 ## Purpose
 The Performing Ensembles Equipment Survey is a form used to collect information about the equipment used by performing ensembles. This information will help the ensemble management team make informed decisions and ensure the equipment is properly maintained.

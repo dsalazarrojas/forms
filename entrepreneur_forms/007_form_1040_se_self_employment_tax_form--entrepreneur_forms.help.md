@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Form 1040 SE Self Employment Tax Form - Help Guide
 
 ## Purpose

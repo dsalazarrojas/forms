@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Model Application Form - Help Guide
 
 ## Purpose

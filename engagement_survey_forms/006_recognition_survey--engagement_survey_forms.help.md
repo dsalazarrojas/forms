@@ -1,5 +1,3 @@
-<thinking>... (internal reasoning to determine the best course of action for creating a user-facing help guide)...</thinking>
-
 Based on the provided YAML, the Recognition Survey form is likely used to gather feedback and nominations for employee recognition programs within an organization. The purpose of this form is to collect information about employees who have made a positive impact, and to allow the nominator to provide details about the nominee's actions and how they have positively affected the team or organization. This form is probably used by HR or management teams to identify and reward employees who deserve recognition for their hard work and dedication.
 
 </thinking>

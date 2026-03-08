@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information from presenters and organizers about the audio-visual (AV) equipment needs for a tech conference. This form will help ensure that all equipment requests are properly reviewed and approved before the conference, avoiding duplication of requests and ensuring that presenters' needs are met. By filling out this form, presenters can provide accurate information about their equipment needs, and conference organizers can make informed decisions about AV equipment provision.
-</thinking>
-
 # Tech Conference AV Equipment Requisition Form - Help Guide
 ## Purpose
 The Tech Conference AV Equipment Requisition Form is designed to collect information from presenters and organizers about the audio-visual equipment needed for a tech conference. This form helps ensure that all equipment requests are properly reviewed and approved before the conference, reducing duplication of requests and meeting presenters' needs.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate job offers received by the company, taking into account various factors such as job details, salary, location, and job type. This form helps to gather information necessary for making informed decisions about which job offers to pursue.
-</thinking>
-
 # Job Offer Evaluation Checklist - Help Guide
 ## Purpose
 

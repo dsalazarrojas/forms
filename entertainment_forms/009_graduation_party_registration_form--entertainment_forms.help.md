@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who are planning to attend a graduation party. It is a simple and straightforward form designed to gather party details, attendee information, and contact information. 
-
-The form is not affiliated with any form platform, and the provided schema is an original adaptation. The form title is "graduation_party_registration_form". It appears to be a one-page form with three main sections: "Party Details", "Attendee Information", and "Contact Info". 
-
-The form does not have any specific options or dropdown menus, but rather simple text fields. This form seems to be designed for basic information collection and does not require any specific expertise or knowledge.
-
-Before proceeding, ensure that you are not duplicating the form, as it was created using public survey metadata and is an original adaptation of a form.
-
-</thinking>
-
 # graduation_party_registration_form - Help Guide
 ## Purpose
 The graduation party registration form is designed to collect basic information from attendees about their plans to attend a graduation party.

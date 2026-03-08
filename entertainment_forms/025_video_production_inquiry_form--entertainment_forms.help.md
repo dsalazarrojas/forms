@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for video production projects. This form is used to collect details about the project, such as its title, description, URL, contact information, production type, video format, budget, delivery date, and status. The form is designed to be completed by clients or project managers to provide a clear understanding of their video production project requirements. This form should only be used for video production projects, and not for other types of projects or inquiries.
-</thinking>
-
 # video_production_inquiry_form - Help Guide
 ## Purpose
 This form is used to gather information for video production projects.

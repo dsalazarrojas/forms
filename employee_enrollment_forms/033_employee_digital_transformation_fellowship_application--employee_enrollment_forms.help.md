@@ -1,14 +1,3 @@
-<thinking>
-
-**Purpose:** 
-The Employee Digital Transformation Fellowship Application form is designed to collect information and motivation from employees for potential participation in a digital transformation program. The form aims to gather relevant details that will be reviewed by the organization's management to assess the suitability of each applicant for the fellowship.
-
-**Please note that you are about to apply for the Employee Digital Transformation Fellowship. Before starting, ensure that you have all the necessary details and motivation ready.**
-
-**Before filling out this form, please make sure you haven't already submitted an application for the same fellowship program. If you have, you can update your application or withdraw the previous one before proceeding.**
-
-</thinking>
-
 # Employee Digital Transformation Fellowship Application - Help Guide
 ## Purpose
 The purpose of this form is to collect your application and motivation for the Employee Digital Transformation Fellowship program.

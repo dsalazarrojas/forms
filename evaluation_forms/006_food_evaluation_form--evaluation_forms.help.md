@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Food Evaluation Form is to gather feedback and data on food quality, service quality, and overall satisfaction of customers. This form is intended for internal use by the food service industry to understand how they can improve their offerings and customer experiences. This form will collect feedback on various aspects of the food, such as quality, price, and overall satisfaction. It also collects demographic information like name, email, and phone number. The form's results will be used by management to identify areas of improvement and make informed decisions. The form should be completed for every customer interaction, including takeout, dine-in, or delivery orders. Please ensure that this form is completed honestly, as the data collected will be used to improve the service. 
-
-</thinking>
 # Food Evaluation Form - Help Guide
 ## Purpose
 The Food Evaluation Form is designed to gather information from customers about their dining experience, including the quality of food, service, and overall satisfaction. This data will help the food service industry improve their offerings and customer experiences.

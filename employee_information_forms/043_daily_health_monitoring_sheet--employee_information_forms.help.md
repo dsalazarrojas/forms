@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about an employee's health status. It is used to monitor and track employee health conditions, medications, medical history, and other relevant details. The form is likely to be used by HR or management to keep track of employee health and well-being.
-This form is used for daily health monitoring and is intended to be filled out by employees. It is not a one-time form, but rather a recurring form that is to be filled out on a daily basis.
-</thinking>
 # Daily Health Monitoring Sheet - Help Guide
 ## Purpose
 The purpose of this form is to gather information about an employee's health status on a daily basis. This includes their current health conditions, medications, medical history, and other relevant details. The form is used to keep track of employee health and well-being.

@@ -1,10 +1,3 @@
-<thinking>
-We will create a help guide for the Referee Evaluation Form. To ensure the form's relevance, we need to understand its purpose. Based on the YAML, the form appears to be designed for evaluating a referee's performance during a game or competition. It includes fields for evaluating various aspects of the referee's behavior, such as dress and appearance, pre-game preparation, fitness, attitude, courage, character, consistency, position, mechanics, signals, accuracy of decisions, game control, and additional comments. We will assume this form is used by game officials or tournament organizers to assess a referee's performance and provide feedback for improvement.
-
-To create the help guide, we will follow the provided structure: # Referee Evaluation Form - Help Guide, ## Purpose, ## How To Complete This Form, ## Field-by-Field Explanation, and ## Tips.
-
-</thinking>
-
 # Referee Evaluation Form - Help Guide
 ## Purpose
 The Referee Evaluation Form is designed to help game officials or tournament organizers assess a referee's performance during a game or competition. The form is used to evaluate various aspects of the referee's behavior, providing valuable feedback for improvement.

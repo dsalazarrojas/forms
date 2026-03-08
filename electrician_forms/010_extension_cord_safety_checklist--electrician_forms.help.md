@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Extension Cord Safety Checklist" form is to gather information on the status and safety of extension cords used in a facility. This form is designed to be completed by inspectors or safety officers to ensure that extension cords are properly maintained and meet safety standards. The form will help identify potential hazards and provide a record of the cord's status. It's essential to fill out this form thoroughly and accurately to ensure the safety of personnel and equipment in the facility.
-</thinking>
-
 # Extension Cord Safety Checklist - Help Guide
 ## Purpose
 The "Extension Cord Safety Checklist" form is used to gather information on the status and safety of extension cords in a facility. This form is essential for inspecting and maintaining extension cords to prevent electrical hazards.

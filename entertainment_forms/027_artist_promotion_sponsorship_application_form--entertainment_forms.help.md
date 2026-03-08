@@ -1,7 +1,3 @@
-<thinking>
-This guide is for artists and bands applying for sponsorship through the "Artist Promotion Sponsorship Application Form". This guide explains each step and field in the form to help you complete it accurately. Please ensure that you are applying for the correct type of sponsorship and that your project meets the required criteria. If you have applied for sponsorship previously and are seeking to reapply, please note that you do not need to submit this form again. Please follow this guide carefully to ensure that your application is complete and meets the required standards.
-</thinking>
-
 # Artist Promotion Sponsorship Application Form - Help Guide
 ## Purpose
 The Artist Promotion Sponsorship Application Form is a tool used by artists and bands to submit their application for various types of sponsorships. By filling out this form, you can apply for different types of sponsorships, such as tour promotion, album release, festival appearance, equipment sponsorship, or marketing support. The form helps us to understand your project and determine whether it fits the criteria for sponsorship.

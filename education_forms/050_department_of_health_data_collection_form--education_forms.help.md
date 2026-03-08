@@ -1,6 +1,3 @@
-<thinking>
-The form is designed for the Department of Health to collect data from individuals regarding their education history, health status, contact information, and other relevant details. This form is intended to gather information in a structured manner, reducing the time and effort required to fill it out. To prevent data duplication, users should only submit the form once with the most up-to-date information. This form should be filled out by individuals who are required to provide their information for official purposes.</thinking>
-
 # Department Of Health Data Collection Form - Help Guide
 ## Purpose
 The Department of Health Data Collection Form is designed to collect essential information from individuals regarding their education history, health status, and contact details. This form helps the Department of Health to gather accurate and up-to-date information about individuals for official purposes.

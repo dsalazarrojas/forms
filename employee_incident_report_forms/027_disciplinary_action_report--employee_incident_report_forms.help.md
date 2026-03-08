@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and track disciplinary actions taken against an employee. The purpose of this form is to gather relevant information about the incident that led to the disciplinary action, the nature of the action itself, and the employee's demographic details. This information will help managers and HR personnel in making informed decisions and maintaining accurate records. Before proceeding, please ensure that you are filling out this form for a genuine reason and that the information is accurate and up-to-date. Also, please be aware that this form should not be used for duplicate reporting or as a template for other incidents.
-</thinking>
-
 # disciplinary_action_report - Help Guide
 ## Purpose
 The "disciplinary_action_report" form is used to document and track disciplinary actions taken against an employee. It helps managers and HR personnel to gather and store information about incidents that led to disciplinary actions, employee demographics, and details about the action itself.

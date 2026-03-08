@@ -1,7 +1,3 @@
-<thinking>
-This form is for reporting workplace harassment claims. It helps to collect detailed information about incidents of workplace harassment, including the incident details, witness information, and resolution status. It's essential to fill out this form accurately and thoroughly to ensure that the incident is handled correctly and thoroughly investigated.
-</thinking>
-
 # workplace-harassment-claim-form - Help Guide
 ## Purpose
 The Workplace Harassment Claim Form is designed to collect information about incidents of workplace harassment, allowing for a thorough investigation and resolution.

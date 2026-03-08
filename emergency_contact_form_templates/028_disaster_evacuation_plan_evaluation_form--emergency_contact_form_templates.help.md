@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for users to evaluate the effectiveness of a disaster evacuation plan in emergency situations. It's meant to be filled out by individuals who have participated in such plans, typically after a drill or actual event. The purpose of this form is to collect data on the quality of the evacuation plan and help identify areas for improvement.
-
-Before filling out this form, please note that:
-
-* You are expected to provide accurate and honest answers to the questions.
-* This form is designed to be completed by individuals who have participated in the evacuation plan, not by observers or third-party observers.
-* The form is meant to be submitted by a specific user, who is identified as "Assigned User".
-* The form has several required fields that must be filled out in order to be considered complete.
-
-If you are unsure about any of the questions, please don't hesitate to reach out to the form administrator for clarification.
-
-</thinking>
 # Disaster Evacuation Plan Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness of a disaster evacuation plan in emergency situations. It's meant to be filled out by individuals who have participated in such plans, typically after a drill or actual event.

@@ -1,6 +1,4 @@
-> # <thinking>This form is used to notify customers of business cancellations. The form is typically used in the entrepreneurship category and is intended to collect basic information about the cancellation. The form is not designed to be complex, as it only requires minimal user input, such as the date and reason for cancellation, along with any relevant agreements between parties. It is meant for internal purposes only, and the data collected will only be used to maintain records of cancellations for a business or organization. This form should not be used to collect sensitive or personal data of customers. When using this form, ensure that only authorized personnel can access the responses to ensure data privacy. The use of this form should not be duplicated or created as a separate form. The data collected through this form will be stored for as long as necessary for maintaining accurate records. The information provided in the form should only be for internal reference, and the response should not be shared publicly or sent to customers.</thinking>
-
-# Notice Of Cancellation Form - Help Guide
+> # # Notice Of Cancellation Form - Help Guide
 
 ## Purpose
 The Notice Of Cancellation Form is designed to collect information about business cancellations. It is used to maintain records of cancellations and should only be used for internal purposes.

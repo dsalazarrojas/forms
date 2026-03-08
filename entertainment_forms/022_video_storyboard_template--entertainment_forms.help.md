@@ -1,11 +1,3 @@
-<thinking> 
-  This form is designed to create a visual representation of a video storyboard template. 
-  The template is used to plan and organize the sequence of events in a video production.
-  The form collects information about the individual pages of the storyboard, including text, dates, times, and other relevant details.
-  This template is useful for filmmakers, animators, and other video production professionals to create a coherent and organized plan for their projects.
-  Please make sure to follow the provided instructions carefully to ensure that you complete the form accurately and effectively.
-</thinking>
-
 # video_storyboard_template - Help Guide
 ## Purpose
 This form is used to create a visual representation of a video storyboard template for planning and organizing the sequence of events in a video production.

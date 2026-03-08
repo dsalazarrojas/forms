@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Appraisal Dispute Form - Help Guide
 
 ## Purpose

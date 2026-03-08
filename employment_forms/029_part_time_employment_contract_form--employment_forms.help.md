@@ -1,11 +1,3 @@
-<thinking>
-The "Part-time Employment Contract Form" is used to capture and document the details of part-time employment arrangements. This form is likely to be used by HR departments to create and manage part-time employment contracts for employees.
-
-Before proceeding, ensure that this form is used when the employment arrangement is part-time in nature and not for full-time positions. Review the form for completeness and accuracy before submitting it for processing.
-
-When completed, this form serves as a reference document for the employment contract, outlining the terms and conditions of the part-time employment agreement.
-</thinking>
-
 # part_time_employment_contract_form - Help Guide
 
 ## Purpose

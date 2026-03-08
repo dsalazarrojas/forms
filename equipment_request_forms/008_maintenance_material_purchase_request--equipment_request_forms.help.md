@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # maintenance_material_purchase_request - Help Guide
 ## Purpose
 The "maintenance_material_purchase_request" form is used to submit a request for the purchase of maintenance materials or equipment. Fill out this form to submit a request to the responsible department or team.

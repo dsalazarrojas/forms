@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be a comprehensive survey designed to gather information about an employee's long service award recipient. The purpose of this form is to collect data on various aspects of employee awards, including the award issuer, award year, award length, employee name, department, recognition date, milestone celebration type, employee satisfaction, recognition type, feedback, suggestions, milestone celebration frequency, milestone celebration budget, employee satisfaction level, award frequency, milestone celebration budget amount, milestone celebration frequency employees, and award issuer satisfaction. It is likely that this form will be used by HR or management teams to gather insights on employee engagement, retention, and recognition programs.
-
-To avoid duplication of effort, ensure that the employee's award information is not already present in the database before creating a new entry. If the award information is already present, please do not submit this form.
-
-Please note that some fields may have multiple options or types, which will be explained below.
-</thinking>
-
 # long_service_award_recipient_survey - Help Guide
 ## Purpose
 The long service award recipient survey is a form used to collect information about an employee's long service award. This survey aims to gather insights on employee engagement, retention, and recognition programs.

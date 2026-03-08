@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about heat-related incidents in the workplace. The form is intended to be filled out by employees who have experienced heat stress or related issues. The purpose of this form is to gather data on the location, date, time, and other details of the incident. This information will be used to improve workplace safety and reduce the risk of heat-related incidents. 
-</thinking>
-
 # Heat Stress Survey - Help Guide
 ## Purpose
 The Heat Stress Survey is a form used to collect information about heat-related incidents in the workplace. The form is designed to gather details about the incident, including the location, date, time, and other relevant information. This data will be used to improve workplace safety and reduce the risk of heat-related incidents.

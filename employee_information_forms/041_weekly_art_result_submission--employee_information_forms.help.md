@@ -1,10 +1,3 @@
-<thinking>
-This form is used to submit the results of the weekly ART (Anti-Retroviral Therapy) test for employees. This form is intended to be completed by the employee themselves, and is used to track and manage the results of the test. The form will likely be used by HR or management to review and verify the results.
-
-Before completing this form, please ensure that you have the required information and documentation. If you have already submitted a result for this week, please do not resubmit. 
-
-</thinking>
-
 # Weekly ART Result Submission - Help Guide
 ## Purpose
 The purpose of this form is to submit the results of the weekly ART test. This form is required for all employees who are tested.

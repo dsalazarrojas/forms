@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's work availability. The form will likely be used by HR or managers to schedule work hours, meetings, or shifts for employees. This form might be used to gather data on employee work hours, availability, and preferences. It's likely that this form will be used in conjunction with other HR or management tools, so it's essential to ensure that the fields are filled in correctly. The fields should not be duplicated or filled in incorrectly, as this can lead to errors in scheduling or miscommunication with the employee. Ensure that the correct options are selected for each field, and double-check that the dates and times are accurate.
-</thinking>
-
 # work_availability_form - Help Guide
 ## Purpose
 The work availability form is a tool used to gather information about an employee's work hours, availability, and preferences. It is essential to fill in this form accurately to ensure correct scheduling and effective communication with the employee.

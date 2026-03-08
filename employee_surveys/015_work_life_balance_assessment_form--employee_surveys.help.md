@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees assess their work-life balance by providing a snapshot of their current work status, work habits, stressors, stress levels, support networks, and stress management strategies. This assessment will help identify areas of improvement and provide insights for employees to better manage their work-life balance. Please note that this form should only be completed if you have not done so recently or if your circumstances have changed significantly since your last assessment.
-</thinking>
-
 # Work Life Balance Assessment Form - Help Guide
 ## Purpose
 The Work Life Balance Assessment Form is a tool to help you assess your current work-life balance. It's a set of questions that will help you identify areas of improvement and provide insights for better managing your work and personal life.

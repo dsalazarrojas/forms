@@ -1,15 +1,3 @@
-<thinking>
-The "staff_information_collection_form" form is used to collect information about staff members, including their job titles, departments, contact details, supervisor information, and various status-related attributes. This form is likely used by HR departments or similar teams to gather relevant data for employee records or reporting purposes.
-
-To ensure this form is not a duplication, let's review the provided YAML fields to confirm its purpose and relevance to your organization's needs.
-
-Please note that the form contains a mix of personal contact information (e.g., email, phone number), supervisor details, and status attributes (e.g., job status, employee status). This form might be used for various HR-related tasks, such as data collection, reporting, or even compliance with regulatory requirements.
-
-Before proceeding, consider the following questions:
-* What specific use cases or tasks does this form support?
-* Are there any sensitive or personal data points that require special handling or protection?
-* Is this form part of a larger workflow or process that needs to be integrated with other systems or tools?
-</thinking>
 # staff_information_collection_form - Help Guide
 ## Purpose
 The "staff_information_collection_form" is used to collect and document information about staff members for HR-related purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Department Assessment Form - Help Guide
 
 ## Purpose

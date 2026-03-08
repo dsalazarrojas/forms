@@ -1,10 +1,3 @@
-<thinking>
-We will generate a concise user-facing help guide for the "thanksgiving_potluck_survey" form. This form is designed to gather information for a Thanksgiving potluck event, and we will break down its purpose, completion instructions, and field explanations to ensure users understand its usage.
-
-We will use the provided YAML fields to inform our explanations and maintain the format specified.
-
-</thinking>
-
 # thanksgiving_potluck_survey - Help Guide
 ## Purpose
 The "thanksgiving_potluck_survey" form is designed to collect information for a Thanksgiving potluck event. It helps organizers gather essential details about the event, including the host's contact information, event details, and potluck preferences. This form is meant to facilitate communication and ensure that guests with dietary restrictions are accommodated.

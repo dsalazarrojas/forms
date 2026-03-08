@@ -1,6 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the "Vehicle Cleaner Estimate Form", which helps estimate the cost and services offered for various vehicle types. The form is designed to gather relevant information to provide accurate estimates for vehicle cleaning services. This guide will walk users through the form's purpose, completion instructions, and a field-by-field explanation of each section. It's essential to complete this form accurately, as the estimate will be used to determine the cost and services for the vehicle cleaning process. Ensure that the form is filled out correctly to avoid any discrepancies or misunderstandings. Please review the form carefully before proceeding to ensure that you understand the purpose and requirements of this form.</thinking>
-
 # Vehicle Cleaner Estimate Form - Help Guide
 ## Purpose
 The "Vehicle Cleaner Estimate Form" is a tool used to estimate the cost and services offered for various vehicle types. It helps vehicle cleaners and owners accurately determine the cleaning needs and costs for their vehicles.

@@ -1,8 +1,3 @@
-<thinking>
-To confirm that this form is intended to collect information for nominating online series, and that no other form with the same purpose exists, we'll review the provided YAML form schema. The form collects personal and selection data from users, aiming to determine the best online series. We'll focus on providing clear and practical explanations for end-users.
-
-</thinking>
-
 # Best Online Series Nomination Form - Help Guide
 ## Purpose
 This form is for users to nominate their best online series. Please help us identify the best online series out there by submitting your personal information and selection.

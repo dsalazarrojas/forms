@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # event_rsvp_form - Help Guide
 ## Purpose
 The event rsvp form is a tool used to collect RSVP (response to an invitation) information from attendees for upcoming events. It helps event organizers manage their guest lists, ensure accurate headcounts, and communicate with attendees about event details.

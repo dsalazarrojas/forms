@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on student agency and empowerment. It is likely used by educators or administrators in educational institutions to gather opinions or feedback from students on various topics related to agency and empowerment. 
-This form appears to be used in an educational setting, possibly during the school year. It may be used to gauge student opinions on certain topics, such as course material, teacher-student relationships, or school policies. 
-The form is likely used by students who attend the educational institution, such as students in primary school, high school, or university. 
-There might be overlap between the form's questions and other surveys or evaluations used in the educational setting, but it is not immediately apparent. 
-It is recommended that the form be reviewed for any redundancy and potentially adjusted to avoid unnecessary duplication of questions. 
-It is also advised that the questions be validated with the students who would be answering them to ensure they align with the students' understanding and expectations.
-</thinking>
-
 # Student Agency And Empowerment Survey - Help Guide
 ## Purpose
 This survey is designed to help us understand how we can better support your student agency and empowerment. Your responses will help us tailor our educational environment to meet your needs.

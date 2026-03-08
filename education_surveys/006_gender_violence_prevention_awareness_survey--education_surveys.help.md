@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals about their experiences with gender-based violence or abuse. This form aims to raise awareness and gather data on the prevalence and nature of gender-based violence or abuse within the target population. The form asks a series of questions about the individual's experiences, including their demographic information, the nature of the violence or abuse they have experienced, and the frequency and duration of the abuse. The collected data will be used to inform educational programs and support services for individuals affected by gender-based violence or abuse.
-
-To avoid duplication, this form should not be filled out by individuals who have already completed a similar form in the past.
-
-</thinking>
-
 # Gender Violence Prevention Awareness Survey - Help Guide
 ## Purpose
 This survey aims to raise awareness and gather data on the prevalence and nature of gender-based violence or abuse within the target population.

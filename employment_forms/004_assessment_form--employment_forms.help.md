@@ -1,13 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze the provided YAML metadata. The form's title is "Assessment Form", which suggests it's used for evaluating and assessing employee performance. The "pages" section reveals a range of fields related to employee information, department, and various aspects of their work performance, which further supports this assumption. However, the form might be used for other purposes such as training, development, or even student assessments.
-
-The form appears to be designed for employees or individuals being assessed on their performance, skills, and behavior. This form could be used in educational institutions, corporate settings, or other environments where performance evaluations are necessary.
-
-Upon analyzing the fields, it seems this form is not designed for self-assessment, as some fields require input from the assessor (e.g., "Assessor Name", "Assessor Signature Date"). Thus, it's likely intended for a supervisor or evaluator to fill out the form.
-
-Before proceeding, please confirm that this form is indeed for assessing employee performance in your context.
-</thinking>
-
 # Assessment Form - Help Guide
 ## Purpose
 This form is designed to evaluate and assess employee performance, skills, and behavior in a specific assessment period.

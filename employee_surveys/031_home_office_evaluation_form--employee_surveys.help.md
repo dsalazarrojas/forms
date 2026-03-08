@@ -1,12 +1,3 @@
-<thinking>
-**Internal Reasoning**
-
-This form is intended to help evaluate an employee's work-from-home experience. The form includes a range of questions that cover various aspects of working from home, including frequency, communication skills, teamwork experience, feedback, and evaluation frequency. This form is meant to be completed by employees who work from home and is designed to gather valuable insights and feedback to improve the work-from-home experience. It is crucial to ensure that the form is not completed by employees who do not work from home, as it is not relevant to their work situation.
-
-Before filling out this form, please confirm that you have been working from home and are eligible to complete it. This will help us ensure that the feedback is accurate and relevant to the work-from-home experience.
-
-</thinking>
-
 # Home Office Evaluation Form - Help Guide
 
 ## Purpose

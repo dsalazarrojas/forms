@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to document the details of a dam inspection, including the type of dam, inspection date, inspector's information, and various conditions and status of the dam. The form aims to gather accurate and consistent data on dam inspections, which will help in making informed decisions for maintenance, operations, and future planning. This form should only be completed for actual dam inspections, not for test or hypothetical scenarios.
-
-</thinking>
-
 # Dam Inspection Form - Help Guide
 
 ## Purpose

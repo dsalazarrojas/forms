@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly confirm that the purpose of this form is to collect information from businesses to enroll them in the Chamber of Commerce. The form is designed to gather details about the business, including its type, address, contact information, and membership level preferences. The information collected will be used by the Chamber to manage memberships and provide relevant services to its members. Let's review the form fields to ensure we have accurate information and avoid duplication of effort.</thinking>
-
 # Chamber Of Commerce Enrollment Form - Help Guide
 ## Purpose
 The Chamber of Commerce Enrollment Form is designed to collect necessary information from businesses to enroll them in the Chamber's membership program. This form helps the Chamber understand the business's type, address, contact information, and membership preferences.

@@ -1,14 +1,3 @@
-<thinking>
-To confirm that the form is being used for employment applications, we should review the form's fields and determine if there's any overlap or redundancy. From the provided YAML, we notice that the form collects a variety of information about applicants, including personal details, job preferences, and professional experience. It seems like the form is designed for job seekers to apply for a job or position within an agency or company.
-
-Upon reviewing the form structure, we can see that there are fields for the applicant's first name, last name, email, job title, and contact number, which are all standard fields in an employment application form. Additionally, the form includes fields for job title description, work experience, and job preferences, which are also relevant for employment applications. However, some fields like "notice period" and "salary range" might be more suitable for internal use within the company or agency, and could potentially be removed or reworded for clarity.
-
-The form also includes fields for emergency contact information, which could be useful for internal use but might not be directly relevant for the applicant's personal information. The "assigned tool" field seems to be more related to internal processes or systems, and could also be considered for removal or rewording.
-
-The form appears to be comprehensive in terms of collecting relevant information for employment applications. However, some fields might be more suitable for internal use or could be reworded for better clarity and concision.
-
-</thinking>
-
 # Employment Application Form - Help Guide
 ## Purpose
 This form is designed for job seekers to apply for a job or position within an agency or company. It collects information about the applicant's personal details, job preferences, and professional experience.

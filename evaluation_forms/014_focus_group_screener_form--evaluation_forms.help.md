@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to provide instructions and explanations for users completing the Focus Group Screener Form. Before proceeding, it's essential to ensure that this form is relevant and suitable for the user's needs. The form is designed to collect demographic and employment information for focus group participants. It's essential to review and understand the form's purpose and scope before proceeding. Please verify that this form is the correct tool for your needs and that the information collected will be used for the intended purpose.
-
-</thinking>
-
 # Focus Group Screener Form - Help Guide
 ## Purpose
 The Focus Group Screener Form is designed to collect demographic and employment information from focus group participants. This form helps to gather relevant data to understand the characteristics of the focus group.

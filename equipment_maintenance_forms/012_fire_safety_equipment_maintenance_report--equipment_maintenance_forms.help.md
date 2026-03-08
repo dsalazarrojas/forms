@@ -1,8 +1,3 @@
-<thinking>
-This form is for documenting the maintenance of fire safety equipment in a site. I'm assuming it's for a facility or property manager to report on the status of fire extinguishers, sprinkler systems, or other equipment that requires regular maintenance to ensure they're in good working condition and compliant with safety regulations. The form likely has some overlap with other forms or systems already in use, but this AI-generated form is designed to be a simple and efficient tool for tracking fire safety equipment maintenance. I'll make sure to explain each field in a way that's clear and concise for the end-user.
-
-</thinking>
-
 # Fire Safety Equipment Maintenance Report - Help Guide
 ## Purpose
 This form is used to report the maintenance status of fire safety equipment in a site. It helps ensure that the equipment is properly maintained and compliant with safety regulations.

@@ -1,7 +1,3 @@
-<thinking>
-The form "A2P 10DLC Business Registration Support Request" is designed to gather information from businesses seeking support with their A2P (Application-to-Peer) 10DLC (10-digit Long Code) business registration. This form is intended to collect essential details about the business, such as its official registration, contact person, and primary use case for A2P traffic. The form also aims to understand the business's messaging needs, including estimated monthly volume, message types, and compliance concerns. By providing this information, the support team can better assist businesses with their registration and support requests.
-</thinking>
-
 # A2P 10DLC Business Registration Support Request - Help Guide
 ## Purpose
 This form is for businesses to request support with their A2P 10DLC business registration. It helps the support team understand your business's specific needs and provides the necessary information to assist with your registration.

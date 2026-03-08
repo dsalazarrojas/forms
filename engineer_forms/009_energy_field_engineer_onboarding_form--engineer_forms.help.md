@@ -1,8 +1,3 @@
-<thinking>
-This help guide will provide a step-by-step walkthrough of the Energy Field Engineer Onboarding Form, including its purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Energy Field Engineer Onboarding Form - Help Guide
 ## Purpose
 The Energy Field Engineer Onboarding Form is a comprehensive guide to help new hires get familiar with the company's safety procedures, onboarding process, and other essential information to ensure a smooth transition to their new role.

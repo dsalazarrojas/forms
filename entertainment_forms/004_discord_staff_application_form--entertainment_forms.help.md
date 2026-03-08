@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discord Staff Application Form - Help Guide
 
 ## Purpose

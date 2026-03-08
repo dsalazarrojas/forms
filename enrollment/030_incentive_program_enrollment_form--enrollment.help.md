@@ -1,5 +1,3 @@
-<thinking>...Internal reasoning: This form is intended to collect information for an incentive program, likely for employees or participants. The form has multiple pages with various fields, including text, select_one, select_multiple, date, time, note, email, text, and number fields. Some fields are required, while others are optional. The fields appear to be related to employee information, such as name, job title, department, date of birth, and job title ID. There are also fields for company and phone number. The form likely serves to capture data for program eligibility, enrollment, or other purposes. Please review the form carefully to ensure that each field is relevant and necessary for the program's goals...</thinking>
-
 # Incentive Program Enrollment Form - Help Guide
 ## Purpose
 The Incentive Program Enrollment Form is designed to collect information from employees or participants for the incentive program. This form helps to gather relevant details about the employee, including name, job title, department, date of birth, and other necessary information.

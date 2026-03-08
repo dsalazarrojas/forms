@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's break down the form purpose and relevance. This form is likely used for school withdrawal survey, a process where a student leaves the school or program. The fields are designed to collect personal information, thoughts, and reasons for withdrawal, as well as school and program details. This form is meant to be completed by students or school representatives, likely to help the school administration understand the reasons for the withdrawal and take necessary steps to improve the institution. To ensure accuracy, we will only collect responses from students or authorized school personnel.</thinking>
-
 # School Withdrawal Survey - Help Guide
 ## Purpose
 This form is designed to collect information from students or school representatives regarding their withdrawal from the school or program. This information will help the school administration understand the reasons for withdrawal and take necessary steps to improve the institution.

@@ -1,7 +1,3 @@
-<thinking>
-The Superhero Theme Song Feedback form is a data collection tool for gathering information about users' preferences for superhero theme songs. This form is used to capture details about users' first and last names, their email addresses, and their preferences for theme songs. Specifically, users are asked to suggest their favorite artist or band and provide a rating for a superhero theme song. They can also submit additional comments about the song.
-</thinking>
-
 # Superhero Theme Song Feedback - Help Guide
 ## Purpose
 The Superhero Theme Song Feedback form is designed to collect data from users about their favorite superhero theme songs. This information will be used to improve the overall experience of users with similar preferences.

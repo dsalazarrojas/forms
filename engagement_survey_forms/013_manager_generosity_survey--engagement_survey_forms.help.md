@@ -1,5 +1,3 @@
-<thinking>Is this form designed to measure the level of support, recognition, and opportunities provided by a manager in their team members, particularly in terms of feedback, development, and well-being? It appears to be a comprehensive survey aimed at understanding the manager-employee dynamics and identifying areas for improvement. The form covers topics such as recognition, feedback, communication, and opportunities for growth, which are all important aspects of a healthy work environment. I'll proceed to create the help guide for this form.</thinking>
-
 # Manager Generosity Survey - Help Guide
 ## Purpose
 This survey aims to assess the level of support, recognition, and opportunities provided by a manager to their team members. It consists of 25 questions, divided into several sections, each focusing on a specific aspect of a manager's behavior.

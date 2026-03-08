@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to collect data about the Prophecy and Authority Survey, a tool used to understand individuals' beliefs, experiences, and views on prophecy and spiritual authority. This form is intended to be completed by individuals who have participated in a prophecy and authority survey, and it's essential to ensure the responses are accurate and relevant. 
-  To avoid duplication of effort, please ensure that you are not completing this form if you have already participated in a similar survey. If you're unsure, please review your previous responses and ensure they are up-to-date before completing this form.
-</thinking>
-
 # Prophecy and Authority Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your beliefs, experiences, and views on prophecy and spiritual authority. The data collected will help us better understand your perspectives and inform our future initiatives.

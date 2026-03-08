@@ -1,9 +1,3 @@
-<thinking>
-The Music Submission Form is designed for artists and musicians to submit their music to a platform for review or consideration. This form is used to gather relevant information from the artist, including their name, genre, file upload, email address, phone number, date of birth, and event name. The form helps the platform's team to quickly and efficiently review and process music submissions. To avoid duplication, the platform uses a unique identifier for each submission, allowing multiple artists to submit music without worrying about overwriting each other's information.
-
-Before filling out this form, please make sure that you are submitting your own music and that you are not duplicating a submission. If you are unsure about any of the fields, please contact the platform's support team for assistance.
-</thinking>
-
 # Music Submission Form - Help Guide
 ## Purpose
 The Music Submission Form is used by artists and musicians to submit their music to our platform for review or consideration.

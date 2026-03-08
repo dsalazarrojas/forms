@@ -1,11 +1,3 @@
-<thinking>
-The Party Evaluation Form is designed to gauge the overall satisfaction and experience of attendees at a party or event. The form is intended to assess various aspects of the party, including the quality of the party, value, food, atmosphere, music, and overall satisfaction. 
-
-To avoid duplication and ensure accurate results, it is recommended that only one person completes this form per party, and ideally, the form should be filled out within 24 hours after the party.
-
-Please ensure that all required fields are filled out as this will provide more accurate results.
-</thinking>
-
 # Party Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a comprehensive evaluation of a party or event, helping you to identify its strengths and weaknesses and providing valuable feedback to the organiser.

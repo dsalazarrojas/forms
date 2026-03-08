@@ -1,8 +1,3 @@
-<thinking>
-To avoid confusion and duplication of data, please note that this form is intended for individuals who are not yet subscribed to our newsletters. If you're already subscribed, please do not fill out this form. If you're not sure, please check your email inbox for our previous newsletters.
-The form is designed to collect demographic information from companies or individuals who are interested in receiving our newsletters on a regular basis. The fields are meant to provide us with a better understanding of who our audience is and what they're interested in.
-</thinking>
-
 # paypal_email_subscription_form - Help Guide
 ## Purpose
 The purpose of this form is to collect demographic information from companies or individuals interested in receiving our newsletters on a regular basis.

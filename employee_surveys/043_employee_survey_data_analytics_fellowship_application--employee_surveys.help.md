@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for employees to apply to be part of a Data Analytics Fellowship program. The purpose of this program is to provide employees with the opportunity to develop and apply data analysis skills for their role or department. The fellowship aims to foster a culture of data-driven decision-making within the organization.
 
 The goal of this form is to collect information about the employee's background, experience, and motivations for joining the fellowship program. The program administrators will use this information to review and select suitable candidates for the fellowship.

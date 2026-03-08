@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect feedback and satisfaction ratings from customers. The form is used to gather information on customers' experiences with our company's service, and the data collected will be used to improve our service quality. The form is not required, but submitting the form will help us better understand your satisfaction level and provide a more personalized experience for you. Please ensure you fill in all relevant fields, especially the fields with a red asterisk (*) next to the label, which indicates that they are required fields. Note that some fields may have multiple options, but they are not mutually exclusive. Please select all that apply. Also, be specific and detailed in your comments and open comments, as they will be reviewed to make adjustments.</thinking>
-
 # Customer Satisfaction Survey Form - Help Guide
 ## Purpose
 This form is used to collect feedback and satisfaction ratings from customers.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for correcting errors or discrepancies in employee time clock records. It's an internal form used to review and validate changes made to time clock entries. The form is intended to be filled out by an employee who has noticed an error in their time clock record and is requesting to have it corrected. The form is used to collect information about the original time clock entry, the corrections made, and the reason for the correction.
 
 This guide will walk you through how to fill out the form correctly and explain each field in detail.

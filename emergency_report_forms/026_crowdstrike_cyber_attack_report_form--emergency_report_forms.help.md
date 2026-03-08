@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # CrowdStrike Cyber Attack Report Form - Help Guide
 
 ## Purpose

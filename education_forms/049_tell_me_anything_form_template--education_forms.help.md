@@ -1,7 +1,3 @@
-<thinking>
-The form "Tell Me Anything Form Template" is intended to gather information from users on various topics. It's likely used in customer feedback, user surveys, or other scenarios where collecting free-formatted text or structured data is required. To create the help guide, we'll focus on explaining each field in detail.
-</thinking>
-
 # Tell Me Anything Form Template - Help Guide
 ## Purpose
 The "Tell Me Anything Form Template" is a form designed to collect information from users on various topics. This guide will walk you through each field to help you understand what to expect when completing the form.

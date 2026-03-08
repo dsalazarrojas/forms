@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about inverter service visits, which is essential for tracking and maintaining accurate records of equipment maintenance and service history. This form ensures that each field is filled out correctly to provide a comprehensive overview of the service visit.
-
-</thinking>
-
 # Inverter Service Report - Help Guide
 ## Purpose
 The Inverter Service Report form is used to document the details of inverter service visits, including the service person's presence, completed work, and any additional notes. This form is essential for tracking and maintaining accurate records of equipment maintenance and service history.

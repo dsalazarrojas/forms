@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in filling out a form for reporting on skill development. It is essential to note that this form is for reporting on skills developed through evaluation forms, and users should only access it if they have been assigned a specific task related to this form. To avoid confusion, users should review their task assignments before starting the form. The form does not need to be filled out if the user has already completed a similar evaluation form in the past.
-</thinking>
-
 # Skill Development Report Form - Help Guide
 ## Purpose
 

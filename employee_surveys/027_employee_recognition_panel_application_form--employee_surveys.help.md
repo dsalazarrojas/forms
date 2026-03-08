@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit applications for the employee recognition panel. The panel consists of two types: Employee Surveys and Human Resources Forms. The purpose of this form is to provide a convenient way for employees to request inclusion in, or removal from, these panels. The form requires no specific criteria, such as time served or length of service, for inclusion. Therefore, it is not a request for promotion or advancement.
-</thinking>
-
 # Employee Recognition Panel Application Form - Help Guide
 ## Purpose
 The Employee Recognition Panel Application Form is used to submit applications for inclusion in the employee recognition panel, which consists of two types: Employee Surveys and Human Resources Forms.

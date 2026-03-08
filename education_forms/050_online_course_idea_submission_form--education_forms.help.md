@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect online course ideas from users, helping the course creation team understand what types of courses are of interest to learners and what topics they would like to learn. This information will be used to inform the development of future courses. 
-Please make sure you are a genuine individual with a legitimate interest in submitting a course idea and not a spammer. 
-To avoid duplication, please check if a similar course idea has already been submitted before filling this form.
-</thinking>
-
 # online_course_idea_submission_form - Help Guide
 ## Purpose
 This form is designed to collect online course ideas from users, helping the course creation team understand what types of courses are of interest to learners and what topics they would like to learn.

@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect client information and consent for beard color fade correction services. The form is divided into several sections, including client information, allergy information, medical conditions, current beard color, desired color after correction, and treatment consent.
-
-The form requires the client to provide their full name, phone number, email address, date of service, known allergies, scalp sensitivity, previous color treatments or fading issues, scalp conditions, recent scalp injuries or irritations, current beard color, areas with fading, desired color after correction, and signature consent.
-
-The form also asks the client to acknowledge potential side effects and consent to the patch test and treatment.
-
-It's essential that this form is completed correctly, as the information gathered here will be used to ensure a safe and effective service.
-
-Before starting, double-check that you have filled out all required fields correctly.
-
-Please note that some fields are optional, but it's crucial to provide as much detail as possible to ensure accurate service.
-
-Also, make sure to review all information carefully before submitting the form.
-
-</thinking>
-
 # Beard Color Fade Correction Consent Form - Help Guide
 ## Purpose
 This form is used to collect client information and consent for beard color fade correction services.

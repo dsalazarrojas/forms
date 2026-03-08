@@ -1,7 +1,3 @@
-<thinking>
-The form is used to onboard new network administrators into the system. This form is required to be completed by all new network administrators before they can access the system. Please note that this form should only be completed by new network administrators and not by existing users. It is essential to fill out the form accurately and completely to ensure a smooth and efficient onboarding process. Before filling out the form, ensure you have all the necessary information required for the fields. This form may not be suitable for all users, and it's recommended that you only access it if you have been explicitly invited to do so.
-</thinking>
-
 # Network Administrator Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from new network administrators to onboard them into the system. It's essential to fill out the form accurately and completely to ensure a smooth and efficient onboarding process.

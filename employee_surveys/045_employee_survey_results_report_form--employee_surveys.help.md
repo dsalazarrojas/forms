@@ -1,14 +1,3 @@
-<thinking>
-This is a form for collecting and reporting results from employee surveys. The form is used to gather feedback from employees on various aspects of their work, including their feedback, suggested improvements, action points, and employee satisfaction. The purpose of this form is to provide a structured way to collect and report on these results to management.
-
-Before filling out this form, please note that the form is not designed for real-time feedback, but rather for collecting and reporting aggregated results. The results will be used to identify trends and areas for improvement within the organization.
-
-The form consists of several sections, each focusing on a different aspect of employee satisfaction. 
-
-Please review the form carefully and ensure you are not duplicating any effort by providing information that has already been reported. 
-
-</thinking>
-
 # Employee Survey Results Report Form - Help Guide
 ## Purpose
 This form is used to collect and report results from employee surveys, providing a structured way to gather feedback on various aspects of employee satisfaction.

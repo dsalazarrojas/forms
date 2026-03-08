@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure that the form is completed accurately and effectively, let's consider the following internal reasoning:
-- The form is intended to assess the skills and competencies of a trustee.
-- The form should be completed by the trustee themselves, or by someone who is familiar with the trustee's abilities and characteristics.
-- The form should take into account the specific requirements and context of the board they are serving on.
-- The form will be used for internal evaluation purposes only.
-
-</thinking>
-
 # trustee_skills_self_assessment - Help Guide
 ## Purpose
 The "trustee_skills_self_assessment" form is designed to help a trustee evaluate their own skills and competencies in relation to their role on a board of directors. This form provides a comprehensive list of key skills and competencies, allowing the trustee to reflect on their own strengths and areas for improvement.

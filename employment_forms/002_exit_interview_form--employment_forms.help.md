@@ -1,5 +1,3 @@
-<thinking>By understanding the purpose and requirements of this form, I can create a comprehensive help guide to assist users in completing the Exit Interview Form correctly.</thinking>
-
 # Exit Interview Form - Help Guide
 ## Purpose
 The Exit Interview Form is a crucial tool for employees to provide feedback and insights about their departure from the company. It helps in understanding the reasons for leaving, gathering valuable information for future improvements, and ensuring a smooth transition. The form is designed to collect relevant details about the employee's last day of work, reasons for leaving, and feedback for improvements.

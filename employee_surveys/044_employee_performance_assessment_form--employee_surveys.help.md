@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help managers and HR personnel assess the performance of employees in a concise and structured manner. It is typically used during employee evaluations and reviews. The form asks the assessor to provide their evaluation on various aspects of the employee's performance, including skills, areas for improvement, and comments. The assessment is usually completed by a manager or HR representative, but can be filled out by the employee themselves as well, providing a self-assessment of their performance.
 
 Before starting, ensure you have a clear understanding of the performance areas to be assessed and the specific goals and objectives of the employee. This form is not a one-size-fits-all solution, and answers may vary depending on individual circumstances.

@@ -1,6 +1,3 @@
-<thinking>
-The team_collaboration_check_in_form is designed to be filled out by team members to evaluate their collaboration experiences, dynamics, and overall performance. This form is a self-assessment tool aimed at improving team collaboration quality and helping teams work more efficiently. Before filling this form, make sure you're evaluating a specific project or team you are currently or recently worked with, and not a hypothetical or past experience. Please note that some fields might not be applicable to your experience, but still, provide as much information as you can, as this form is for your personal reflection and will help in understanding your team's strengths and weaknesses.</thinking>
-
 # team_collaboration_check_in_form - Help Guide
 ## Purpose
 The team collaboration check-in form is designed to help teams assess and improve their collaboration quality, dynamics, and overall performance.

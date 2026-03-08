@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is for evaluating an employee's performance and attention level.
-</thinking>
-
 # Performance And Attention Evaluation - Help Guide
 ## Purpose
 The Performance And Attention Evaluation form is designed to assess an employee's performance and attention level, providing a structured framework for supervisors or evaluators to provide feedback and ratings.

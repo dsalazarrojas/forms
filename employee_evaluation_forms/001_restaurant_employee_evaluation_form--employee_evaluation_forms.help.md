@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect feedback and performance data from restaurant employees on their evaluation. It appears to be a comprehensive form covering various aspects of employee performance, including rating scales, overall score, feedback, and other relevant details. Before proceeding, please note that this form might be part of a larger system or process, and its specific implementation may depend on internal business logic or specific use case. Ensure you are using it correctly and in line with the intended purpose.</thinking>
-
 # Restaurant Employee Evaluation Form - Help Guide
 
 ## Purpose

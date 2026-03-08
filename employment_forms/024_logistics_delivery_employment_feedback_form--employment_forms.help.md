@@ -1,5 +1,3 @@
-<thinking>Logistics Delivery Employment Feedback Form is used to collect feedback from employees about their experience with our logistics delivery services. The form is designed to be completed by employees who have received a delivery and are willing to share their thoughts on the process. Please note that this form should only be completed once per delivery, as multiple submissions with the same Submission ID will be considered duplicate feedback. Please ensure that you have read and understood the guidelines below before proceeding.</thinking>
-
 # Logistics Delivery Employment Feedback Form - Help Guide
 ## Purpose
 The Logistics Delivery Employment Feedback Form is used to collect feedback from employees about their experience with our logistics delivery services. This form helps us understand how we can improve our services and provide better support to our customers.

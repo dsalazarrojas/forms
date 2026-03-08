@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Karaoke Request Form is used to request a specific song to be played during a karaoke session. To ensure accurate processing and efficient execution, please complete the form carefully and avoid duplicate requests. Duplicate requests may lead to delays or conflicts with other events. If you have already submitted a request for the same song, please do not resubmit it. If you need help or have any concerns, please contact the event organizers.
 
 ## Karaoke Request Form - Help Guide

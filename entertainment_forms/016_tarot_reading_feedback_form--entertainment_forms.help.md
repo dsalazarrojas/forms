@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to gather feedback from clients who have received a tarot reading. This form is designed to understand their experience with the tarot reading and collect any suggestions or improvements they might have. This information will help the service provider to improve their services and tailor them to the needs of their clients. 
-
-Please fill out the form only if you have received a tarot reading from us. If you have not received a reading, please do not submit the form.
-
-Before filling out the form, please review the following fields carefully to ensure you understand their purpose and requirements.
-
-</thinking>
-
 # Tarot Reading Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from clients who have received a tarot reading. Please fill out this form to provide your comments, rating, and other relevant details about your experience.

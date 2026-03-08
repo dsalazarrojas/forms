@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about external work performed by employees. It is intended for use cases where employees are working on projects or tasks outside of the company. The purpose of this form is to gather relevant details about the external work, including company, job title, location, start and end dates, work details, external work specifics, manager and client approvals, department, category, tags, notes, email, and phone number.
-</thinking>
-
 # External Work Information Submission - Help Guide
 ## Purpose
 The External Work Information Submission form is used to collect external work information from employees for projects or tasks performed outside of the company. This form provides a structured way to gather relevant details about the external work.

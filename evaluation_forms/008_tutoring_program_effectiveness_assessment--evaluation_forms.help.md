@@ -1,7 +1,3 @@
-<thinking>
-This form is a collection of questions aimed at measuring the effectiveness of a tutoring program. It should not be used to gather feedback on specific session experiences but rather to assess the overall impact of the program. The questions and fields should not overlap or be redundant. This form is meant to gather feedback from the users to help evaluate and improve the program's goals and outcomes.
-</thinking>
-
 # Tutoring Program Effectiveness Assessment - Help Guide
 ## Purpose
 This form is designed to help evaluate the effectiveness of a tutoring program. It asks for feedback on the overall experience, satisfaction with progress, and areas of improvement.

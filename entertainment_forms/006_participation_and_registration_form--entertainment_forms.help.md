@@ -1,20 +1,3 @@
-<thinking>
-
-We designed this "Participation And Registration Form" to gather essential information from individuals who want to participate in events, activities, or initiatives. This form is a crucial tool for organizers and administrators to understand the background, preferences, and conditions of potential participants. It helps streamline the registration process, ensuring that all required details are captured accurately.
-
-The form has 8 distinct fields, each with a specific purpose:
-
-1. **Event Participation** (required: false)
-2. **Participant Details** (required: true)
-3. **Fundraising** (required: false)
-4. **Past Experience** (required: false)
-5. **Medical History** (required: false)
-6. **Terms and Conditions** (required: true)
-7. **Confirm Terms** (required: true)
-8. **Participant Notes** (required: false)
-
-</thinking>
-
 # Participation And Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to participate in events, activities, or initiatives.

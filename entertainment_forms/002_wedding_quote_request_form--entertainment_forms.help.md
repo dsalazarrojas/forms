@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help Wedding Vendors collect quote requests from clients. 
-When you fill out this form, you will be helping the Wedding Vendor to better understand your wedding requirements. 
-Please note that some fields are optional. 
-The form is designed to be simple and easy to use. 
-Please ensure that the information entered is accurate and up-to-date. 
-This guide will walk you through each field to ensure you get the most out of this form. 
-
-</thinking>
-
 # Wedding Quote Request Form - Help Guide
 ## Purpose
 The Wedding Quote Request Form is a tool designed to help Wedding Vendors collect quote requests from clients. This form is meant to be simple and easy to use, ensuring that you can provide all the necessary information to get a quote that suits your needs.

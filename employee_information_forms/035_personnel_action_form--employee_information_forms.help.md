@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personnel Action Form - Help Guide
 ## Purpose
 This form is designed to collect employee information and details. It is intended for use in HR-related purposes such as employee records, performance evaluations, and other personnel actions.

@@ -1,7 +1,3 @@
-<thinking>
-This survey aims to gather information about students' preferences for their dormitory living arrangements. The form collects data on various aspects such as presentation, location, room type, roommate preferences, language, meal preferences, housing type, dorm size, room size, amenities, floor level, building type, building age, floor age, room orientation, accessibility features, building height, and dormitory name. This information will help in providing a better understanding of the students' needs and preferences for their dormitory living space.
-</thinking>
-
 # Dormitory Preference Survey - Help Guide
 
 ## Purpose

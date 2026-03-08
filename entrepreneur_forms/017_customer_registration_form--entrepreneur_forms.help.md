@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect customer registration information, which is a crucial step in the customer acquisition process for businesses. The form is intended to capture personal and business contact information, as well as demographic details that can help in understanding the customer base. 
-
-The form has 15 fields that can be filled by the customer, including first name, last name, email, phone, address, city, state, zip, country, business name, business type, and business category. 
-
-Each field is designed to be filled by the customer, and some fields are required while others are optional. 
-
-The purpose of this form is to streamline the customer registration process and ensure that customers can easily provide the necessary information required for further communication and business operations.
-
-</thinking>
-
 # Customer Registration Form - Help Guide
 ## Purpose
 The Customer Registration Form is designed to collect customer contact information and demographic details that can help businesses in understanding their customer base.

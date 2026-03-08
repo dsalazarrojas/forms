@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness and comfort of protective gloves. The purpose of this form is to collect feedback from users on their experience with the gloves, including how well they think the gloves protected them and how comfortable they were to wear. This form should only be used by individuals who have worn the gloves and have an opinion on their performance. Please ensure that the form is only completed by individuals who have relevant experience with the gloves.
-</thinking>
-
 # protective_gloves_evaluation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the effectiveness and comfort of protective gloves. This form is designed to help us understand how well the gloves protected you and how comfortable you found them to be.

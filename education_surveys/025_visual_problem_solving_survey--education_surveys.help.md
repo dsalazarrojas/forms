@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form, and why is it being requested for end users? This form is likely used to gather information from users about their experience with visual problem-solving, likely for research or analysis purposes. It is not a duplicate of existing forms, and it does not collect sensitive information such as passwords or payment details. The form will only ask questions that are relevant and clear to end users, providing an easy-to-use experience for users.</thinking>
-
 # Visual Problem Solving Survey - Help Guide
 ## Purpose
 The Visual Problem Solving Survey is a form designed to collect information from users about their experience with visual problem-solving.

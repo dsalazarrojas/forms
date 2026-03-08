@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Preparations Forum Registration Form - Help Guide
 
 ## Purpose

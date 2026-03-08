@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's outside employment, which is any work or business activity that is not directly related to their primary work at our organization. This form is used to ensure that employees are in compliance with our organization's policies and procedures regarding outside employment. It is essential to fill out this form accurately and truthfully to avoid any potential conflicts of interest or other issues that may arise from outside activities. Before filling out this form, please ensure that you are not duplicating any information that you have already provided in the past, as this may lead to errors or inconsistencies in your record.
-</thinking>
-
 # Outside Employment Form - Help Guide
 ## Purpose
 The Outside Employment Form is used to report outside employment activities that may potentially conflict with your work at our organization. It is essential to fill out this form accurately and truthfully to maintain compliance and avoid any potential issues.

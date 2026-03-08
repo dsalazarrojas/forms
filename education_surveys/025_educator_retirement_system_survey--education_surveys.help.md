@@ -1,13 +1,3 @@
-<thinking>
-
-This form is part of the "Educator Retirement System Survey" which aims to collect feedback and comments from educators about their experience with the retirement system. This form is designed to gather information on the educators' perceptions of the system's retirement benefits, communication, fairness, and submission agreements. The form's goal is to help the system's administrators understand the educators' concerns and needs, and to identify areas for improvement.
-
-The form will be used to collect both quantitative and qualitative feedback, with some fields requiring a yes/no answer, and others allowing for detailed explanations.
-
-Please note that this form is part of a larger system, and it's essential that the answers provided are accurate and complete, as they will be used to improve the system and provide better services to educators in the future.
-
-</thinking>
-
 # Educator Retirement System Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "Renewable Energy System Commissioning Form", which is used to collect information and documentation for renewable energy systems. This form is intended for engineers and other professionals to provide details about the system, testing results, and other relevant information.
-
-Before proceeding, please ensure that this form is not a duplicate and that you have all the necessary information required for completion. If you are unsure about any field or the purpose of this form, please review the fields and explanations below.
-</thinking>
-
 # Renewable Energy System Commissioning Form - Help Guide
 ## Purpose
 The Renewable Energy System Commissioning Form is a document used to collect and document information about renewable energy systems. This form is designed to gather essential details about the system's status, testing results, and other relevant information required for commissioning and certification.

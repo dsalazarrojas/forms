@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand and complete the Teaching Methods Quality Assessment Form. This form is used to assess the quality of teaching methods in various courses. It gathers feedback from students to understand their experiences, perceptions, and opinions about the course they took. This form will help instructors and course developers identify areas of improvement and develop more effective teaching methods. Please ensure that this is the correct guide for your specific form before completing it. If this form is not relevant to your needs, please stop here.
-</thinking>
-
 # Teaching Methods Quality Assessment Form - Help Guide
 ## Purpose
 The Teaching Methods Quality Assessment Form is used to gather feedback from students about their experiences and opinions on the teaching methods used in various courses.

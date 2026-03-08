@@ -1,18 +1,3 @@
-<thinking>
-This is a help guide for the Outside Sales Representative Application Form. The form is used to collect information from potential candidates for outside sales representative positions. The goal is to gather relevant details about the candidate's background, experience, and qualifications. The form is typically completed by candidates who are interested in applying for a sales role outside of an office setting.
-
-To complete this form, please follow these steps:
-
-1.  Enter your job title and current company name in the designated fields.
-2.  Provide your contact name, email, and phone number to ensure we can get in touch with you.
-3.  Describe your relevant experience in the experience field.
-4.  Specify the sales area you are interested in (e.g., medical devices, software, etc.).
-5.  Indicate the type of job you are looking for (e.g., sales representative, account manager, etc.).
-6.  If you have multiple job types, list them in the respective fields provided.
-7.  Attach your resume and list any relevant skills you have.
-
-</thinking>
-
 # Outside Sales Representative Application Form - Help Guide
 ## Purpose
 The Outside Sales Representative Application Form is designed to collect information from candidates interested in sales positions outside of an office setting. This form gathers essential details about the candidate's background, experience, and qualifications to determine their suitability for sales roles.

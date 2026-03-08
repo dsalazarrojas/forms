@@ -1,8 +1,3 @@
-<thinking> 
-  This form appears to be an employee information form for new staff members, likely part of the onboarding process. It's used to collect personal details and emergency contact information. The form is designed to capture the most critical information needed for HR purposes. 
-  Before proceeding, please note that this form is intended to be completed by new staff members during their induction process. If you're not a new staff member, please refrain from completing this form.
-</thinking>
-
 # Staff Induction - Help Guide
 ## Purpose
 This form is designed to collect essential information from new staff members as part of the onboarding process. It's a mandatory form that helps ensure all necessary details are captured accurately and securely.

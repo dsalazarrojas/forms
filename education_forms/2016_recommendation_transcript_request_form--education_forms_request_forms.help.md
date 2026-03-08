@@ -1,10 +1,3 @@
-<thinking>
-We will create a comprehensive help guide to explain the "2016 Recommendation Transcript Request Form" to end users.
-
-The form is used for requesting official transcripts from educational institutions. It is designed to collect essential information from applicants, such as their personal details, academic background, and preferences for transcript delivery. This guide will walk users through the form's purpose, how to complete it, and what each field represents.
-
-</thinking>
-
 # 2016 Recommendation Transcript Request Form - Help Guide
 
 ## Purpose

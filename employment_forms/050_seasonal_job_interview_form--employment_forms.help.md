@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for users to collect information about a seasonal job interview, allowing applicants to provide details about the job title, type, category, duration, shift times, available days, availability, email, and contact phone number. This form is likely used in hiring processes or internal HR processes within an organization. 
-
-The form is composed of 10 fields, all of which are optional. This suggests that the organization may be open to receiving additional information from applicants and that the form is primarily used for gathering supplementary details rather than as a rigorous evaluation tool. 
-
-</thinking>
-
 # Seasonal Job Interview Form - Help Guide
 ## Purpose
 The seasonal job interview form is used to collect information from applicants about a seasonal job opening. This form helps the hiring team to quickly and efficiently gather relevant details about the job and applicant's preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to submit a paternity leave application, providing relevant information about their leave, including dates and contact details. To ensure accuracy, it's essential to complete this form carefully, and only if you're applying for paternity leave. If you're unsure, please review the company's policy or consult with HR.
-</thinking>
-
 # Paternity Leave Application Form - Help Guide
 ## Purpose
 The Paternity Leave Application Form is a tool for employees to submit a formal application for paternity leave. This form is designed to gather the necessary information required to process your leave request.

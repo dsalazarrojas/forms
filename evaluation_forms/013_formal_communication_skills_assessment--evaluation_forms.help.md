@@ -1,12 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the "Formal Communication Skills Assessment" form. This form is used to evaluate an individual's formal communication skills, which are essential for effective communication in various professional settings. The form is designed to assess an individual's verbal, written, and nonverbal communication skills, as well as their ability to adapt to different communication styles. This evaluation form is a tool used by evaluators to provide feedback and support for personal and professional development.
-
-Before starting, please note that this form is not meant to be a comprehensive evaluation tool, but rather a starting point for discussion and growth. It's intended to be used by evaluators to provide guidance and feedback to help individuals improve their communication skills.
-
-Please ensure you are completing this form for the correct purpose and not duplicating efforts. If you're unsure, please reach out to your supervisor or the evaluation team for clarification.
-
-</thinking>
-
 # Formal Communication Skills Assessment - Help Guide
 ## Purpose
 The Formal Communication Skills Assessment is designed to evaluate an individual's ability to communicate effectively in formal settings. This form helps evaluators assess verbal, written, and nonverbal communication skills, as well as adaptability to different communication styles.

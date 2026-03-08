@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for tracking and monitoring the usage and condition of equipment. It is likely used by maintenance or asset managers to keep track of equipment usage history, issues flagged, next user, and other relevant details. To ensure accuracy and completeness, it is essential to review the form carefully before proceeding. Please note that some fields are optional, but it is still crucial to fill them out when necessary to provide a comprehensive record.
-</thinking>
-
 # hardware_usage_monitoring_checklist_form - Help Guide
 ## Purpose
 This form is designed for monitoring and tracking the usage and condition of equipment. It helps maintenance or asset managers to keep a record of equipment usage history, issues flagged, next user, and other relevant details.

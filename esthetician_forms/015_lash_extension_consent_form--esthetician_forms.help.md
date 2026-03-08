@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients to provide consent for a lash extension procedure. The form aims to gather essential information about the customer, including their medical conditions, allergies, and informed consent. This form should only be used for new customers. Please verify that this form is not duplicating an existing form for the same purpose.
-</thinking>
-
 # lash_extension_consent_form - Help Guide
 ## Purpose
 The "Lash Extension Consent Form" is a form used to gather information and obtain consent from customers before performing a lash extension procedure. It is designed to ensure that customers are aware of the potential risks and benefits associated with the procedure and provide their consent before the treatment begins.

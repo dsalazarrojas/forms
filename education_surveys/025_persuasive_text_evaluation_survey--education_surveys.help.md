@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Persuasive Text Evaluation Survey - Help Guide
 ## Purpose
 The Persuasive Text Evaluation Survey is designed to evaluate the strength and effectiveness of a given text, typically an argument or an article, based on several key factors. This survey will help you assess the persuasive power of the text and provide insights on how well it presents its argument and evidence. Your input will help us improve the quality of text presentation and provide more accurate assessments.

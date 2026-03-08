@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users who have received writing support from the service. It will help us understand the type of support received, areas of improvement, and overall satisfaction with the service. This survey is intended for users who have had at least one session with the service. The form is designed to be completed by users who want to provide their honest feedback and opinions about the service.
-</thinking>
-
 # Academic Writing Support Survey - Help Guide
 ## Purpose
 This form is designed to gather your feedback on the writing support service you received. It will help us improve our service to better meet your needs.

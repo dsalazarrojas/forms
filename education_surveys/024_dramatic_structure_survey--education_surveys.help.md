@@ -1,24 +1,3 @@
-<thinking>
-The "Dramatic Structure Survey" form is designed to gather information about a story or film's structure and composition. The form is meant to be used by writers, filmmakers, or other individuals interested in analyzing or creating dramatic structures. It's likely that this form will be used by educators, students, or industry professionals who need to evaluate or create stories with specific structures. To avoid duplication, please ensure that you're not already completing this form for the same story or film.
-
-The form consists of several sections, each focusing on a different aspect of dramatic structure. The sections include: 
-- intro: a brief note section for any general comments or observations.
-- dramatic_structure: a selection of possible dramatic structures, such as linear, non-linear, or episodic.
-- scene: multiple selections of possible scene types, such as indoor or outdoor scenes.
-- plot: a text input field for the plot synopsis.
-- character: multiple selections of possible character types, such as protagonist or antagonist.
-- dialogue: a selection of possible dialogue types, such as internal or external.
-- conflict: a selection of possible conflict types, such as internal or external.
-- resolution: a selection of possible resolution types, such as happy or sad.
-- theme: multiple selections of possible themes, such as love or betrayal.
-- story_telling: multiple selections of possible storytelling techniques, such as suspense or humor.
-- narrative_device: multiple selections of possible narrative devices, such as foreshadowing or symbolism.
-- feedback: a note section for any additional comments or feedback.
-
-Please keep in mind that some fields are not required, so it's up to the user to decide which information they want to provide.
-
-</thinking>
-
 # Dramatic Structure Survey - Help Guide
 ## Purpose
 This guide will help you complete the "Dramatic Structure Survey" form, which is designed to gather information about a story or film's structure and composition.

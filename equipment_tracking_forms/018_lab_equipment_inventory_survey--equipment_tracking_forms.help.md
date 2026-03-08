@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lab Equipment Inventory Survey - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's internship experience. It should only be used for evaluation purposes and not for personal or other non-relevant reasons. The form must be filled out for each unique internship experience.
-The goal of this form is to collect detailed data on past internships. This information will be used to create a comprehensive evaluation and analysis of the work performed during the internship. Each field should only be filled out once for each relevant internship experience.
-This form will be used internally and should not be shared or used for external evaluation purposes.
-</thinking>
-
 # internship_experience_evaluation_form - Help Guide
 ## Purpose
 The **Internship Experience Evaluation Form** is a tool designed to gather detailed information about an individual's past internship experience. This form helps to collect data on the company, department, dates, supervisor, work location, job title, evaluation score, and feedback provided.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hurricane Damage Assessment Survey - Help Guide
 
 ## Purpose

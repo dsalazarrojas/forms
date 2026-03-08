@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be filled out by film crew members to request film equipment. This form is used to ensure that all the required information is collected in a structured format, making it easier for the production team to coordinate and prepare the requested equipment. This form should be completed by film crew members to request equipment for a single shoot. If you have already submitted a request for equipment on the same shoot, please do not fill out this form again. 
-</thinking>
-
 # Film Equipment Setup Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from film crew members to request film equipment for a shoot.

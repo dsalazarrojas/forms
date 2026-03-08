@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning check: This form is intended to collect contact information from organizations in case of emergencies. It's crucial to provide clear instructions and explanations to ensure accurate and efficient completion of the form. The fields are designed to be straightforward, and the form should be easy to understand and fill out. No duplicate or unnecessary fields will be included to avoid confusing the user. Each field will be explained clearly and concisely.
-</thinking>
-
 # Crisis Management Preparedness Assessment Form - Help Guide
 ## Purpose
 The Crisis Management Preparedness Assessment Form is designed to collect contact information from organizations in case of emergencies. This information will help ensure that the organization can be contacted and assisted promptly.

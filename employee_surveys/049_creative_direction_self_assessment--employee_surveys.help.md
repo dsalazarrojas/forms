@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to help employees assess their creative direction and self-awareness in the context of their work. The form collects information on various aspects of an employee's performance, including their goals, team leadership, strategic planning, communication skills, project management, time management, leadership and management, communication skills awareness, self-assessment, performance conversations, next steps, and evaluation.
-
-To ensure that this form is relevant and useful, it's essential to confirm that the form meets the needs of the users who will be filling it out. Please review the form's questions and options to ensure they are accurate and applicable to your specific use case.
-
-If you're not sure about the form's purpose or questions, consider the following questions:
-
-* Does the form align with your organization's goals and objectives?
-* Do the questions and options accurately reflect the skills and abilities being evaluated?
-* Will the form provide actionable feedback for improvement and growth?
-
-If you answered "no" to any of these questions, it's possible that the form may not be the best fit for your organization. Consider revising or replacing the form to better suit your needs.
-
-If you're satisfied that the form is relevant and useful, proceed to complete it according to the instructions below.
-
-</thinking>
-
 # Creative Direction Self Assessment - Help Guide
 
 ## Purpose

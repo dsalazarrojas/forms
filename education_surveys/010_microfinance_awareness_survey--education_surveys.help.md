@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to measure microfinance awareness among users. It is used to collect information about their knowledge and experience with microfinance products and services. This form should only be filled out by users who have some basic understanding of microfinance concepts and terminology. Please do not fill out this form if you are not familiar with microfinance or if you have already filled it out in the past.
-</thinking>
-
 # microfinance_awareness_survey - Help Guide
 ## Purpose
 This form is designed to assess users' awareness and understanding of microfinance products and services. It is used to collect information that will help us better understand our users' knowledge and experience with microfinance.

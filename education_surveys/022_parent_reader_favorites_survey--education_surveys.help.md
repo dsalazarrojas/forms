@@ -1,7 +1,3 @@
-<thinking>
-The Parent Reader Favorites Survey is designed to collect information from parents or caregivers about their child's reading habits, favorite books, and other related activities. This form will help us understand how children are reading and what influences their reading habits. Please only fill out the survey once, and answer each question truthfully and accurately. If you're unsure about any question, please ask for help.
-</thinking>
-
 # Parent Reader Favorites Survey - Help Guide
 
 ## Purpose

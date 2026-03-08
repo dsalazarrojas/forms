@@ -1,19 +1,3 @@
-<thinking>
-This form is used for the Digital Cariyar Growth ILH (online workshop) enrollment process. It is designed to capture the commitment of participants to enroll in the workshop, which focuses on digital marketing and growth strategies. This form is intended for individuals interested in learning how to design and launch successful online programs. 
-
-Please note that the form is not a registration form for general attendees. Instead, it is a commitment form for a specific group of professionals, including teachers, trainers, speakers, and coaches. The form is meant to gauge the interest and commitment of these individuals to attend the exclusive workshop.
-
-Before filling out this form, please consider the following:
-
-* You are committing to a 90-day program, which may require a significant time investment.
-* You should have a genuine interest in digital marketing and growth strategies.
-* You should be willing to learn and implement new ideas and techniques.
-* You should be able to attend the entire program and participate in the activities and discussions.
-* You should not be using this form for spam or promotional purposes.
-
-If you are unsure about any of these points, please do not fill out this form.
-</thinking>
-
 # Commitment Form Digital Cariyar Growth ILH - Help Guide
 ## Purpose
 This form is used to capture your commitment to enroll in the Digital Cariyar Growth ILH (online workshop) program. The program focuses on digital marketing and growth strategies for professionals in the eLearning space.

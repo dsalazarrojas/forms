@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly to avoid miscommunication or errors. This form is for assessing and managing the licensing status of employees, including tracking their survey completion and renewal dates. The form must be filled out accurately and completely to ensure that employee information is up-to-date and reliable. Please review this help guide to understand how to complete the form correctly.</thinking>
-
 # Employee Assessment Licensing Form - Help Guide
 ## Purpose
 The Employee Assessment Licensing Form is a tool used to track and assess the licensing status of employees, including survey completion and renewal dates. It helps ensure that employee information is up-to-date and reliable.

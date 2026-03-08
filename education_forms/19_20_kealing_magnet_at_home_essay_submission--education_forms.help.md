@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to assist users in understanding the purpose and requirements of the "19 20 Kealing Magnet At Home Essay Submission" form. The form is designed to gather information from students who have submitted their essays for evaluation. It is essential to ensure that the form is completed accurately and comprehensively to facilitate a smooth evaluation process. Please take a moment to review the form carefully before proceeding.
-
-</thinking>
-
 # 19 20 Kealing Magnet At Home Essay Submission - Help Guide
 ## Purpose
 The 19 20 Kealing Magnet At Home Essay Submission form is used to collect information from students who have submitted their essays for evaluation. This form gathers personal details, essay submission information, and feedback from the students.

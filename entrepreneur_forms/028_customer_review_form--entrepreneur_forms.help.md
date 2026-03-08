@@ -1,24 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Customer Review Form", I will first outline the purpose and requirements of the form. This will help to ensure that the guide is relevant and effective in aiding the end user in completing the form properly. 
-
-The form is designed to collect feedback from customers about their experience with our company. The purpose of this form is to understand what customers think of our products or services and to identify areas for improvement.
-
-The form will collect the following information: 
-
-- Customer name
-- Rating of the service or product
-- Customer comment about their experience
-- Company name (if applicable)
-- Customer email address (for follow-up and communication purposes)
-- Phone number (for follow-up and communication purposes)
-- Date of the review
-- Time of the review
-
-This form is designed to be user-friendly, and the fields are self-explanatory. 
-
-However, I will review the fields and ensure that they are clear and concise in the guide to avoid any confusion.
-</thinking>
-
 # Customer Review Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their experience with our company. The information collected will help us understand what customers think of our products or services and identify areas for improvement.

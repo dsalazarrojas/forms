@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request songs to be played during a holiday party. The form allows users to select a song that fits the party vibe, choose a mood and style for the party, and submit their request. The form also asks for contact information (email and phone number) and event details (date, time, location). The form is designed to be completed by party attendees or organizers to ensure that their favorite songs are played during the event. This is a one-time form submission form, meaning that only the information provided in the current submission will be collected.
-
-</thinking>
-
 # Holiday Party Song Request Form - Help Guide
 ## Purpose
 The Holiday Party Song Request Form is a simple tool for party organizers to collect song requests from attendees. By filling out this form, you can help create a playlist that fits the party vibe and mood.

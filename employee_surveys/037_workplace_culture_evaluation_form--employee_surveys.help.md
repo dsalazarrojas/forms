@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to evaluate the workplace culture within a company, assessing various aspects such as company awareness, manager support, team collaboration, feedback mechanisms, and more. This form will help managers and HR representatives gauge the overall culture and make necessary improvements for employee satisfaction and engagement. The form should not be completed by employees with direct reports, as their responses may be biased.</thinking>
-
 # workplace_culture_evaluation_form - Help Guide
 ## Purpose
 The workplace culture evaluation form is designed to assess the culture within a company by gathering feedback on various aspects such as company awareness, manager support, team collaboration, feedback mechanisms, and more. This form will help managers and HR representatives gauge the overall culture and make necessary improvements for employee satisfaction and engagement.

@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Workplace Belonging Assessment Survey form, I'll analyze the provided YAML fields and create a comprehensive guide in Markdown format.
-
-</thinking>
-
 # Workplace Belonging Assessment Survey - Help Guide
 ## Purpose
 The Workplace Belonging Assessment Survey is designed to gather information about employee experiences and perceptions regarding their sense of belonging in the workplace. This survey aims to help organizations understand how well their employees feel connected to their team and the workplace as a whole.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure a smooth onboarding process and maintain accurate records, this form is designed to capture essential biodata from domestic workers. This form's primary purpose is to gather information about the worker, which will be used for internal purposes only. By filling out this form, you are providing crucial data that will aid our organization in managing our domestic worker database effectively. Please note that filling out this form is not a formal employment contract or commitment. 
-</thinking>
-
 # Domestic Worker Biodata Form - Help Guide
 ## Purpose
 

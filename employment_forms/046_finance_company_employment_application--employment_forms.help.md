@@ -1,7 +1,3 @@
-<thinking>
-This form is a general template designed to collect information from individuals applying for employment opportunities within a finance company. It is intended to gather contact details, employment history, and other relevant information from candidates. The form does not have any specific dependencies on external data sources, and its purpose is to serve as a general guide for users to provide their information. It's essential to review each field carefully to avoid missing any critical details.
-</thinking>
-
 # Finance Company Employment Application - Help Guide
 ## Purpose
 This form is designed to help you apply for employment opportunities within our finance company. It is intended to gather essential information about your background and qualifications for us to consider your application.

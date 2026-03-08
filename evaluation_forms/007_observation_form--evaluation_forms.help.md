@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback and evaluations from team leaders on their team members' performance, behavior, and overall quality of service. It appears to be used in a work-related setting, possibly for personnel evaluations or performance reviews. The form is divided into two categories: observed employee details and evaluation metrics. The form fields are fairly standard and cover various aspects of an employee's performance, such as name, date of observation, behavior, and overall impression. The fields are mostly text or number type, indicating that the form is likely used for qualitative and quantitative feedback. This form does not seem to be duplicated in the system and is likely a custom-made form for specific purposes.
-</thinking>
-
 # Observation Form - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluations from team leaders on their team members' performance, behavior, and quality of service.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's international study opportunities. It is intended for users who are interested in studying abroad or exploring education opportunities in different parts of the world. The purpose of this form is to help users identify their preferred study options and provide relevant information for further consideration. Please fill out this form carefully and accurately to help us get to know you better.
-
-Before starting to fill this form, please note that some fields are optional, and you can skip them if you do not have the relevant information. Also, some questions may seem similar, so please make sure to answer each question accurately and according to your actual preferences.
-
-This guide will walk you through each field in the form, so you can fill it out easily and confidently.
-</thinking>
-
 # International Study Opportunities Survey - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's international study opportunities. It is intended for users who are interested in studying abroad or exploring education opportunities in different parts of the world.

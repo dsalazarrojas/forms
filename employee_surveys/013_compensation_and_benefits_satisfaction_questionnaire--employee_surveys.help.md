@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Compensation And Benefits Satisfaction Questionnaire - Help Guide
 
 ## Purpose

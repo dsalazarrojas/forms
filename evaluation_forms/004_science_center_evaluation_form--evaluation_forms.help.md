@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Science Center Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from visitors to the Science Center. It aims to measure the quality of exhibits, programs, and overall experience provided by the Science Center. This form is not required but will help us improve the Science Center's offerings and services.

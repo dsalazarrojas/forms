@@ -1,11 +1,3 @@
-<thinking>
-
-We're designing a form for a Television Broadcasting Engineer Job Application, and we need to make sure it's clear and straightforward for our end users to complete it. To avoid duplication, we will make sure the form purpose is clearly stated and every field has a concise and practical explanation.
-
-The form purpose is to gather information from applicants who want to apply for a position of a Television Broadcasting Engineer. This includes their job preferences, contact details, work history, education, resume, and references. The form has 6 fields in total and will help us quickly and efficiently get the required information from the applicants.
-
-</thinking>
-
 # Television Broadcasting Engineer Job Application - Help Guide
 ## Purpose
 This form is for applicants who want to apply for a position of a Television Broadcasting Engineer. Please answer the questions to help us get to know you better and assess your qualifications.

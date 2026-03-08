@@ -1,5 +1,3 @@
-<thinking> We need to create a comprehensive help guide for the "Mnemonic Creation Survey" form, which is part of the "education_surveys" category. The form aims to collect user responses to understand their preference for memory aids, which can be used for education and learning purposes. The form consists of multiple pages with various fields, including select_one, select_multiple, text, and word_list_item fields. Users will need to navigate through the pages and fill in the required information to complete the form. Our goal is to ensure that users understand the purpose and functionality of each field, making it easier for them to provide accurate and relevant responses. We should also check for duplication and relevance of the form fields to prevent unnecessary complexity and confusion. </thinking>
-
 # Mnemonic Creation Survey - Help Guide
 ## Purpose
 The "Mnemonic Creation Survey" is a form designed to collect user preferences for memory aids in education and learning settings. By completing this form, you will help us understand how you use memory aids to aid your learning process.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's contact and employment status, personal details, job specifics, emergency contacts, and shift preferences. This form is used in an employment context, where the goal is to gather relevant data for administrative or managerial purposes.
-
-Before using this form, it is essential to ensure that all required fields are filled out accurately to avoid missing essential information. Duplicate submissions or incomplete data may lead to incorrect records or confusion in the system. 
-
-To avoid any confusion, please ensure that each field is filled out according to the instructions provided in this guide.
-
-</thinking>
-
 # Manufacturing Worker Employment Form - Help Guide
 
 ## Purpose

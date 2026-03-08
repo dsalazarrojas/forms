@@ -1,19 +1,3 @@
-<thinking>
-
-This form is designed for reporting fire hazards and incidents to the relevant authorities. It is intended for use in emergency situations where a fire has occurred or is suspected to have occurred. The purpose of this form is to gather information from the contact person in charge of reporting the incident and to provide a quick and efficient way to report the fire hazard. It is not intended for use in situations where a fire is actively burning or is a life-threatening emergency. In such cases, please call 911 or alert the local authorities immediately.
-
-To avoid duplication of efforts, please only submit this form if you have already reported the incident to the authorities and are following up on the status of the fire.
-
-This form will help us to:
-
-* Gather information about the contact person responsible for reporting the incident
-* Determine the type and size of the fire
-* Identify the location where the fire occurred
-* Receive contact information for further follow-up
-* Get a quick report of the fire status
-
-</thinking>
-
 # Fire Hazard Report Contact Form - Help Guide
 
 ## Purpose

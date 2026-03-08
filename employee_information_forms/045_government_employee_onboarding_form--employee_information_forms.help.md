@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information on government employees' details. As a government employee onboarding form, it's essential to ensure that new hires provide accurate and complete information to facilitate a smooth transition into the organization. This form will help gather information about the new hire, including their department, position, job title, manager, job type, job status, work location, emergency contact details, and manager contact details. Please review each field carefully and provide the necessary information to ensure accurate completion.
-
-</thinking>
-
 # Government Employee Onboarding Form - Help Guide
 ## Purpose
 The Government Employee Onboarding Form is designed to collect essential information about new government employees to facilitate their onboarding process.

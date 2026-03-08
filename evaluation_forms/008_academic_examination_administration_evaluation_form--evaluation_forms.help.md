@@ -1,15 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the purpose and process of completing the Academic Examination Administration Evaluation Form. 
-
-This form is designed to evaluate the administration of academic examinations, gathering feedback on key aspects such as evaluator name, examination date, location, proctoring effectiveness, materials availability, issues encountered, recommended actions, and overall rating. The form aims to ensure that the evaluation process is thorough and provides valuable insights for improvement.
-
-Before proceeding, ensure that you have a clear understanding of the form's purpose and the evaluation criteria. 
-
-Please note that this form is not intended to be a comprehensive evaluation of the entire examination process, but rather a focused assessment of specific aspects of the administration.
-
-</thinking>
-
 # Academic Examination Administration Evaluation Form - Help Guide
 ## Purpose
 The Academic Examination Administration Evaluation Form is designed to gather feedback on the administration of academic examinations, providing insights for improvement.

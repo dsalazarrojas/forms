@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about the maintenance history and upkeep of spectrophotometers. Spectrophotometers are scientific instruments used to measure the interaction between light and matter. Maintenance is crucial to ensure their accuracy and longevity. This form is intended to provide a structured way to document maintenance activities, which will help in tracking and evaluating the equipment's performance over time. 
-
-Before completing this form, please ensure that you have the necessary information and permissions to perform maintenance on the spectrophotometer. If this form is being completed for the same spectrophotometer, you may want to consider whether the previous maintenance log is up-to-date and relevant before continuing. 
-
-The following sections are designed to collect information in a way that is clear and easy to understand. Please refer to the field-by-field explanation for more details on what each section is intended for.</thinking>
-
 # Spectrophotometer Maintenance Log Form - Help Guide
 ## Purpose
 This form is used to record the maintenance history and upkeep of spectrophotometers. It is intended to be a structured and organized way of tracking the maintenance activities performed on these instruments.

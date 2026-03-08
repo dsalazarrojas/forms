@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a graphic configuration estimate request. The purpose of this form is to gather necessary details from clients to facilitate a smooth and efficient estimation process. It is crucial to ensure that all fields are accurately filled out to avoid any potential miscommunication or misinterpretation. Before proceeding, please review the form carefully to guarantee a correct submission.
-</thinking>
-
 # Graphic Configuration Estimate Request - Help Guide
 ## Purpose
 The Graphic Configuration Estimate Request form is a critical tool for clients to provide essential details about their project requirements. It helps us in preparing an accurate and reliable estimate for the project's graphic configuration.

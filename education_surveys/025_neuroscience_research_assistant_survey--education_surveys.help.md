@@ -1,10 +1,3 @@
-<thinking>
-# The purpose of this form is to collect information about candidates for neuroscience research assistant positions.
-This form helps the hiring team evaluate candidates' details, academic background, skills, and interests to assess their fit for the role.
-It is designed for candidates to provide accurate and concise information about themselves, making it easier for the hiring team to make informed decisions.
-To ensure accuracy, please review the form carefully before submitting your response.
-</thinking>
-
 # Neuroscience Research Assistant Survey - Help Guide
 ## Purpose
 This form is designed to collect information about candidates for neuroscience research assistant positions.

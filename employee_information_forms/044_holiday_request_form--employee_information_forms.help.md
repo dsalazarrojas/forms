@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for employees to submit holiday requests, including their start and end dates, job title, department, team, holiday type, reason for request, and other relevant details. The form is probably used to help managers or HR personnel to manage and track holiday requests within the organization. The form might be integrated with the company's internal systems to provide automatic reminders, approvals, or notifications. 
-Please ensure that you are submitting a valid holiday request form, as any duplicate submissions might cause confusion or lead to incorrect processing.
-</thinking>
-
 # Holiday Request Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from potential distributors who are interested in partnering with the company. It will help the company's team to assess their qualifications, products, and experience to determine if they are a good fit for their distributor network. This form will be used to create a new distributor record in the company's database. 
-
-Please note that this form is not intended for existing distributors, and if you already have a distributor agreement with the company, please do not fill out this form again. Also, be careful not to submit duplicate applications, as this will be considered as spam and may lead to your application being rejected.
-
-Before submitting this form, please make sure you have all the required information ready, and double-check your email address for correctness.
-</thinking>
 # Distributor Application Form - Help Guide
 ## Purpose
 The Distributor Application Form is designed to collect information from potential distributors who are interested in partnering with the company. This form helps the company's team to assess the qualifications, products, and experience of the applicant to determine if they are a good fit for their distributor network.

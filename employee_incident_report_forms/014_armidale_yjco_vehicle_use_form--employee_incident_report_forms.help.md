@@ -1,19 +1,3 @@
-<thinking>
-To ensure that the user can easily understand and fill out the form, it's essential to clarify the purpose and fields of the Armidale YJCO Vehicle Use Form. This form is designed to record information about a trip taken by an employee in a company vehicle. It's crucial to have accurate and detailed information about the trip to help with administrative and maintenance tasks.
-
-Before filling out the form, please make sure that you have all the necessary information and that it's correct. If you're unsure about any field, consult with your supervisor or the person who assigned you the vehicle for clarification.
-
-The form is divided into several sections, each with a specific purpose:
-
-* User Information: This section collects basic contact information about the employee, including name, employee ID, and email address.
-* Trip Details: This section contains information about the trip, including the date, purpose, destination, and start and end times.
-* Vehicle Information: This section provides details about the vehicle used for the trip, such as its registration number, type, and odometer readings before and after the trip.
-* Vehicle Inspection: This section asks about the condition of the vehicle before and after the trip, including its exterior and interior condition, and the fuel level at the start and end of the trip.
-* Damage or Incidents: This section reports any damage or incidents that occurred during the trip.
-* Submission: This section contains the date of submission and a confirmation that the information provided is accurate.
-
-Please make sure to fill out the form accurately and completely, as it's essential for administrative and maintenance purposes.</thinking>
-
 # Armidale YJCO Vehicle Use Form - Help Guide
 ## Purpose
 This form is designed to record information about a trip taken by an employee in a company vehicle. It helps with administrative and maintenance tasks by ensuring that accurate and detailed information is available about the trip.

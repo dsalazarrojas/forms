@@ -1,8 +1,3 @@
-<thinking>
-To provide an explanation for the non-technical aspects of this form, let's consider that this form is part of an initiative to gauge the effectiveness and engagement of the company's leadership network. The form is used to gather feedback from team members, managers, and other stakeholders on various aspects of the leadership programs, experiences, and communication. The purpose is to identify areas of improvement and make data-driven decisions to enhance the overall leadership network experience. This form is a survey, and its primary goal is to collect subjective feedback and opinions from participants. The feedback provided will help the leadership team understand what works well and what needs adjustment in their programs, communication, and engagement strategies. To avoid duplication, this form should not be filled by anyone who has already filled a similar form, ensuring that each response is unique and representative of individual opinions.
-
-</thinking>
-
 # Leadership Network Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from team members, managers, and other stakeholders on the effectiveness and engagement of the leadership network. The goal is to gather subjective opinions on various aspects of leadership programs, experiences, and communication to make data-driven decisions for improvement.

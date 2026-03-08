@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Small Business Fund Application Form - Help Guide
 ## Purpose
 The "Small Business Fund Application Form" is designed to help small businesses apply for funding. This form collects relevant information about the business, including its name, address, contact details, and funding requirements. To be eligible for funding, applicants must provide accurate and complete information.

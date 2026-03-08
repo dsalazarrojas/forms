@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Temporary Work Contract Extension Form. This form is designed to collect information about an employee's temporary work contract, including their personal details, contract terms, and employment status. The form is intended to be completed by employees to request an extension of their temporary work contract. The fields on this form are divided into several sections, each covering specific aspects of the employment contract. Before starting to fill out the form, ensure you understand the purpose and requirements of each section.</thinking>
-
 # Temporary Work Contract Extension Form - Help Guide
 ## Purpose
 The Temporary Work Contract Extension Form is used by employees to submit a request for an extension of their temporary work contract. The form collects information about the employee's personal details, contract terms, and employment status.

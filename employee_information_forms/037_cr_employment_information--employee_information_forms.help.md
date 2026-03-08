@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employment information about employees in the organization. The purpose of this form is to gather accurate and up-to-date information about an employee's employment status, including their job title, employment type, work location, and benefits enrollment status. This form will help ensure that employee records are accurate and consistent across the organization. It should only be used for employees who are currently employed by the organization, and not for former employees.
-</thinking>
-
 # CR Employment Information - Help Guide
 ## Purpose
 The CR Employment Information form is used to collect accurate and up-to-date employment information about employees in the organization. It's essential to complete this form for all current employees to ensure consistent and accurate records.

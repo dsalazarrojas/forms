@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block explains the form purpose and checks for relevance and non-duplication.
-This form is designed to collect information about photos taken by users in different cities, allowing them to share their experiences and connect with other users who have also visited the same places. This form is relevant to users who have taken photos during their travels and want to showcase their memories.
-</thinking>
-
 # photo_by_city - Help Guide
 ## Purpose
 This form is designed to collect information about photos taken by users in different cities, allowing them to share their experiences and connect with other users who have also visited the same places.

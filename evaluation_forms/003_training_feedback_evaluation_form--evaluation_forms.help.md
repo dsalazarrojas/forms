@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from trainees about their experience with a trainer, which will be used to evaluate and improve the quality of training sessions. This form should be completed by trainees to provide their honest opinion about the trainer and the session they attended.
-
-The form is split into several fields, each with its own purpose. To complete it, follow the instructions below.
-
-</thinking>
-
 # Training Feedback Evaluation Form - Help Guide
 
 ## Purpose

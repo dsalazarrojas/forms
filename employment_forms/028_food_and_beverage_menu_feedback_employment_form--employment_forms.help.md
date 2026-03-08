@@ -1,26 +1,3 @@
-<thinking>
-
-The purpose of the form is to gather feedback and information related to employment opportunities and job openings in the food and beverage industry. The form is likely used by management or HR personnel to collect data on job applicants, menu item popularity, and employment application status. It is possible that this form is part of a larger system for managing employment applications, job openings, and employee information.
-
-Before proceeding, please note that the form appears to be focused on collecting multiple types of data, which may include:
-
-* Employment application status (active/inactive)
-* Job openings (yes/no)
-* Menu item popularity (yes/no)
-* Candidate information (yes/no)
-* Job position (yes/no)
-* Work schedule (yes/no)
-* Job status (active/inactive)
-* Job location (yes/no)
-* Job description (yes/no)
-* Contact information (name, email, phone number)
-* Job opening details (text field)
-* Job start date (date field)
-
-Please ensure that this form is not a duplicate of other forms with similar purposes in your organization, and that you have a clear understanding of the form's intended use cases.
-
-</thinking>
-
 # Food And Beverage Menu Feedback Employment Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and information related to employment opportunities and job openings in the food and beverage industry.

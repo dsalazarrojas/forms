@@ -1,23 +1,3 @@
-<thinking>
-This form is used for technical skills assessment and should only be filled out once. Please do not complete this form if you have already been assessed previously.
-
-To fill out this form, follow these steps:
-
-1. Fill in your basic candidate information in the "Candidate Information" field.
-2. Choose your relevant technical skills from the "Skills" dropdown list.
-3. Enter your experience in the "Experience" field.
-4. Select your proficiency in programming languages from the "Programming Languages" dropdown list.
-5. Select your experience with operating systems from the "Operating Systems" dropdown list.
-6. List any relevant certifications you have earned in the "Certifications" field.
-7. Enter your educational background in the "Education" field.
-8. Upload your resume as a file.
-9. Rate your skill level in the "Skills Level" field.
-10. Rate your skills proficiency in the "Skills Rating" field.
-
-Please fill out this form carefully and accurately, as it will be used for assessment purposes.
-
-</thinking>
-
 # technical_skills_assessment_form - Help Guide
 ## Purpose
 The technical skills assessment form is used to gather information about your technical skills and experience. This form will help us assess your skills level and provide you with feedback and guidance.

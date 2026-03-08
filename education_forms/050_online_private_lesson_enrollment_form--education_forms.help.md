@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about students' private lessons with instructors. 
-The purpose of this form is to help us understand student preferences and schedule details for one-on-one instruction sessions. We kindly ask that you fill in as much accurate information as possible for us to best assist you with your instruction needs. To ensure that we can process your request efficiently, please do not submit duplicate or incorrect information. This form is intended for internal use and should only be filled out by students and instructors involved in private lesson sessions.
-</thinking>
-
 # Online Private Lesson Enrollment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from students and instructors about private lesson sessions.

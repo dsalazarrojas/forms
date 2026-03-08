@@ -1,10 +1,3 @@
-<thinking>
-This form is used to evaluate the medical data security program. The purpose of this form is to gather information about the program's scope, security measures, challenge areas, program goals, and other relevant details. The form is designed to help assess the effectiveness of the program in protecting medical data. 
-
-Before starting, ensure that the form is filled out completely and accurately, and that you have permission from your superiors to fill out the form. If you are unsure about any of the fields, please seek guidance from your program manager or the data security program team.
-
-</thinking>
-
 # Medical Data Security Program Evaluation Form - Help Guide
 ## Purpose
 The Medical Data Security Program Evaluation Form is used to evaluate the effectiveness of the medical data security program.

@@ -1,8 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the "employee_survey_pilot_application_form" form. This form is used for pilot applications, likely for testing or evaluating a program or service. The form is designed to gather information from employees about their participation in the pilot. The main goals of this form are to gather data about employee selection and program evaluation. This form will be completed by employees and will help to assess their suitability for the pilot program. To avoid duplication, we need to ensure that only employees who are not already selected or participating in the pilot can fill this form.
-
-</thinking>
-
 # employee_survey_pilot_application_form - Help Guide
 ## Purpose
 The "employee_survey_pilot_application_form" is used to gather information from employees about their participation in the pilot program. This form helps to evaluate employee suitability and assess their interest in joining the pilot.

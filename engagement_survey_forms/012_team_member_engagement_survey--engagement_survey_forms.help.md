@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gauge team members' engagement levels within the company, specifically in various aspects such as job satisfaction, communication with management, communication with colleagues, work-life balance, team satisfaction, company satisfaction, overall satisfaction, feedback, and action plan for the team member. The form's purpose is to provide the organization with valuable insights into the team members' thoughts and feelings about their work environment and experiences.
-
-Before filling out this form, please ensure that you have not already completed it, as it may have already been done. If you're unsure, you can check with your supervisor or HR representative for confirmation.
-
-</thinking>
-
 # Team Member Engagement Survey - Help Guide
 ## Purpose
 The Team Member Engagement Survey is designed to gather information about your feelings and perceptions regarding your work experience. The survey consists of multiple questions that cover various aspects of your role and the company.

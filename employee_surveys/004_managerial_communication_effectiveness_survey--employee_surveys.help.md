@@ -1,11 +1,3 @@
-<thinking>
-
-We need to create a help guide for the "Managerial Communication Effectiveness Survey" form. This form is intended to assess the effectiveness of a manager's communication skills, approachability, and overall performance in a work setting. To complete this form, participants are expected to evaluate their experiences with their manager. 
-
-We will be using a 5-point scale to measure the effectiveness of each aspect of a manager's performance. This guide will walk users through each page of the form and explain each field in concrete terms, so they can submit their ratings and comments accurately.
-
-</thinking>
-
 # Managerial Communication Effectiveness Survey - Help Guide
 
 ## Purpose

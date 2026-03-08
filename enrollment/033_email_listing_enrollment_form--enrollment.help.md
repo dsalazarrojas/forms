@@ -1,7 +1,3 @@
-<thinking>...This form is intended to collect information from users for the purpose of creating or updating email listings. It is essential to complete this form accurately to ensure that the email listings are up-to-date and relevant. Please note that the form will only allow you to submit one email listing at a time. To prevent duplicate submissions, we recommend that you check the email listings before enrolling or updating them, as the form will not automatically check for duplicates.
-
-</thinking>
-
 # Email Listing Enrollment Form - Help Guide
 ## Purpose
 The Email Listing Enrollment Form is designed to collect information for creating or updating email listings. This form helps ensure that the email listings are accurate and complete.

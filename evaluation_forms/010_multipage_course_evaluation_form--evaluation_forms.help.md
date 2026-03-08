@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and evaluation from users on a course evaluation form with multiple pages. The form is likely used in an educational setting to gather information on the effectiveness of a course, its materials, and the teaching methods used. This form is not intended for general user feedback, but rather for specific course evaluations. It's essential to fill out this form carefully and accurately to provide valuable insights for course developers and instructors.
-</thinking>
-
 # multiPageCourseEvaluationForm - Help Guide
 ## Purpose
 This form is used to collect feedback and evaluation from users on a course. It is divided into several pages, each focusing on different aspects of the course.

@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employers about their experiences working with our company. It is intended to be a survey that will help us understand how we can improve our services and provide better support to our employers. Before completing this form, please make sure that you have not already submitted a survey on this topic, as we want to avoid duplication of efforts.
-
-This form is divided into several sections, each designed to collect specific information about your experience. Please fill out the form carefully, and make sure to answer all required fields.
-
-The form includes the following sections:
-
-*   First name and last name
-*   Company and job title
-*   Contact information (email and phone)
-*   Working hours and experience
-*   Satisfaction level with the job and reasons for satisfaction or dissatisfaction
-*   Comments
-*   Employer information
-
-</thinking>
 # Employer Survey - Help Guide
 ## Purpose
 The Employer Survey is a form designed to collect feedback from employers about their experiences working with our company. This feedback will help us understand how we can improve our services and provide better support to our employers.

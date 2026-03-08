@@ -1,10 +1,3 @@
-<thinking>
-We should create a help guide that makes it easy for users to understand how to complete the Emergency Assembly Checklist form. The form is designed to collect information related to emergency situations, such as incidents or accidents that require a team's assembly. This form is likely to be used by emergency response teams, security teams, or first responders. The purpose of the form is to ensure that all necessary information is collected in a structured and organized manner, making it easier to respond to emergencies and prevent any potential harm. 
-
-Before proceeding with the form completion, ensure that you have the necessary information and permissions to collect. This form should not be used for duplicate reporting or unnecessary situations.
-
-</thinking>
-
 # Emergency Assembly Checklist - Help Guide
 
 ## Purpose

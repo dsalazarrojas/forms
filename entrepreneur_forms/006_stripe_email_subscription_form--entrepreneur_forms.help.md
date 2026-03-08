@@ -1,9 +1,3 @@
-<thinking>
-This guide explains the Stripe Email Subscription Form, used by entrepreneurs to capture relevant customer information, including email addresses, names, and business details.
-The form is designed to be filled out by customers who want to sign up for an email subscription service. The form collects data that will be used to provide targeted marketing campaigns and personalized content recommendations. To prevent duplicate entries, we recommend that customers fill out the form only once, with one set of data per business or individual.
-
-</thinking>
-
 # Stripe Email Subscription Form - Help Guide
 ## Purpose
 This form is for entrepreneurs to capture customer email addresses, names, and business details for targeted marketing campaigns and personalized content recommendations.

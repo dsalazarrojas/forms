@@ -1,14 +1,3 @@
-<thinking>
-  This form is used to gather information about a workers' compensation claim, 
-  including employee and injury details, medical provider information, 
-  claim status, and claim type. The form aims to collect relevant 
-  information to process the claim efficiently and effectively. 
-  Please ensure that you do not fill out this form if you have already 
-  submitted a claim or have an active claim pending resolution. 
-  If you are unsure, please contact your HR representative for 
-  clarification.
-</thinking>
-
 # Worker's Compensation Intake Form - Help Guide
 ## Purpose
 The Worker's Compensation Intake Form is used to gather information about a workers' compensation claim.

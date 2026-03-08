@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the evaluation of a youth sports coach. It's meant to gather feedback from players or parents about their experience with the coach. The form is likely used by sports organizations or programs to assess the effectiveness of their coaching staff. Before starting, please ensure you're not already familiar with this form, as it's intended for evaluation purposes only. This guide will walk you through each field, helping you understand what's expected and why. If you're unsure about any aspect, please let us know so we can clarify.
-</thinking>
-
 # Youth Sports Coach Evaluation Survey - Help Guide
 ## Purpose
 This form is designed to help sports organizations or programs evaluate their youth sports coaches, gathering feedback from players or parents about their experience with the coach.

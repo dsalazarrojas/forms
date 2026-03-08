@@ -1,17 +1,3 @@
-<thinking>
-We will use this form to gather information from students in need of emergency aid. 
-The form is designed to gather essential details about a student's emergency situation, including the type of aid they require, the amount of aid needed, and supporting documentation. 
-
-This form is only for emergency situations, not for general student inquiries or routine requests. 
-
-The student will provide personal details, such as their name, date of application, and contact information. 
-The form will also require information about the student's academic status, major field of study, and expected graduation date. 
-Finally, the form will ask for details about the student's financial situation, including their current GPA, financial aid status, and supporting documentation. 
-
-Before filling out the form, please ensure that the information you provide is accurate and up-to-date. 
-If you are unsure about any of the fields or have questions, please contact the emergency aid office. 
-</thinking>
-
 # Application For Emergency Aid - Help Guide
 
 ## Purpose

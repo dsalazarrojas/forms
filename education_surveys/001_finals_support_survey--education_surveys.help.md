@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from students about their experience with the support services provided during finals. The purpose is to understand what works well and what areas need improvement. This form is not intended for students who are currently experiencing finals support, but rather for those who have already completed the support process. To avoid duplication of effort, please only fill out this form if you have already received finals support and have some level of experience with the process.
-</thinking>
-
 # Finals Support Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from students about their experience with the support services provided during finals.

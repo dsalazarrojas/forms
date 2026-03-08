@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from employees about their satisfaction with IT resources and support. The goal is to gather information on the frequency and impact of technical issues, the effectiveness of IT support, and suggestions for improvement. This feedback will be used to identify areas of improvement for the IT department and inform decisions on resource allocation. Please ensure that you are only submitting this form once per employee, and that all answers are truthful and accurate.
-</thinking>
-
 # IT Tech Resources Satisfaction Employment Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees on their satisfaction with IT resources and support. Your input will help us understand areas for improvement and inform decisions on resource allocation.

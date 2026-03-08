@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help users judge and evaluate Trunk or Treat events. The form requires users to provide a name for the event, a category, and their overall score for different aspects of the event such as decorations, food, and entertainment. The form also asks for feedback and contact information. This form is used by event organizers and judges to record their scores and comments for Trunk or Treat events. To avoid duplicate entries, users can only submit the form once. This form will be used by event organizers and judges to evaluate events and provide valuable feedback to participants.</thinking>
-
 # Trunk Or Treat Judging Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from judges for Trunk or Treat events. Judges will use this form to score events based on categories such as decorations, food, and entertainment. The form will help event organizers and judges to provide valuable feedback to participants and improve future Trunk or Treat events.

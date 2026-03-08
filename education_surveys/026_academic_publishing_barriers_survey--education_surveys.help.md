@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather insights from academics on their experiences with and perceptions of academic publishing. It aims to collect information on various barriers they face in publishing their research, including financial, time, language, access to resources, and peer review process-related challenges. By understanding these barriers, the form's developers hope to identify areas where support can be improved to facilitate academic publishing. The form is intended for those with experience in academia, particularly those with research experience, who can provide valuable insights on the publishing process. 
-</thinking>
-
 # Academic Publishing Barriers Survey - Help Guide
 ## Purpose
 The Academic Publishing Barriers Survey is a tool designed to gather information on various challenges academics face in publishing their research. This guide will walk you through the form's purpose, how to complete it, and explain each field in detail.

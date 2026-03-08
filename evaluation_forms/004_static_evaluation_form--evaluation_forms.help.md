@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Static Evaluation Form - Help Guide
 
 ## Purpose

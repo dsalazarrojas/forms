@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demo submission data from entrepreneurs. The purpose of this form is to gather information about the entrepreneur's identity and preferences. This form will be used to analyze the data and provide valuable insights for the demo submission process. Please ensure that you are using this form for its intended purpose and not for any other reason.
-</thinking>
-
 # demo_submission_form - Help Guide
 ## Purpose
 This form is designed to collect demo submission data from entrepreneurs for the demo submission process.

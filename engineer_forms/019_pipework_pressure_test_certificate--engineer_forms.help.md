@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used for documenting and tracking pressure tests performed on pipeworks, which are crucial for ensuring the integrity and safety of piping systems in facilities or projects. The purpose of this form is to capture relevant information about the pressure test, including the test type, pressure device serial number, test medium, and test results, among other details. The form is likely used in the context of maintenance, testing, or quality control in the field of engineering, particularly in facilities or projects where pipeworks are a critical component.
-
-To avoid duplication of effort, this form is only necessary for original submissions of new data, and not for updating existing records.
-</thinking>
-
 # Pipework Pressure Test Certificate - Help Guide
 ## Purpose
 The Pipework Pressure Test Certificate form is designed to document and track pressure tests performed on pipeworks in facilities or projects. This form captures essential information about the test, enabling accurate record-keeping and facilitating the maintenance of high-quality pipeworks.

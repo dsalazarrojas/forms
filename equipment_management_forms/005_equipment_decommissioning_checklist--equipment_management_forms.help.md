@@ -1,16 +1,3 @@
-<thinking>
-To ensure the form purpose is clear, let's analyze the provided YAML fields. The form appears to be for equipment decommissioning, which involves removing or disabling equipment from service, typically after it has reached the end of its service life or is no longer needed. This form is likely used to document the decommissioning process, track the status of equipment, and maintain records.
-
-The purpose of this form is to gather information related to decommissioning a piece of equipment. This includes details about the type of equipment, its asset number, last in-use date, disposal date, and disposal method. Additionally, it captures information on who decommissioned the equipment, whether data wipe was completed, and the location where the disposal took place.
-
-The form likely aims to ensure a smooth and secure decommissioning process, and that relevant details are recorded accurately and thoroughly.
-
-This form seems to be used in an organizational setting, possibly in IT, facilities management, or asset management.
-
-Given this understanding, let's create a user-facing help guide for the form.
-
-</thinking>
-
 # Equipment Decommissioning Checklist - Help Guide
 ## Purpose
 

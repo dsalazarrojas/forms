@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather feedback and information from employees about the company's reward programs, employee engagement strategies, and retention strategies. This form is designed to help management understand what rewards and incentives are valued and appreciated by employees, what strategies are effective in boosting employee satisfaction and retention, and what feedback and improvements can be made to the current reward programs. It's likely that the company uses this data to inform changes and updates to their reward programs and employee engagement and retention policies. This form does not contain any personally identifiable or sensitive information that would require specific security considerations, and it's designed for internal use only...</thinking>
-
 # Employee Reward System Quiz - Help Guide
 ## Purpose
 This form is designed to help your employer understand your thoughts and opinions on their current reward and recognition programs. Your feedback will help shape the company's policies and improve employee experience.

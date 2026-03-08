@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-This form is designed to collect feedback and appreciation messages from employees for their colleagues, team members, or other employees. The purpose of this form is to facilitate a positive and appreciative work environment by allowing employees to express their gratitude and recognition for others' contributions. This form will not be duplicated if the employee has already submitted a message for the same recipient and message type in the past 30 days.
-
-</thinking>
 # Employee Appreciation Message Form - Help Guide
 ## Purpose
 

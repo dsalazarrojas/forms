@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to assess the safety and maintenance of lawn mowers and other outdoor power equipment. This form is used for internal purposes only, and it's not intended to be used for external users. The form is used to track and report the status of equipment, including blade wear, tension, cleaning frequency, and other critical parameters. Before proceeding, please note that the answers provided will be used for internal reporting and analysis.
-
-</thinking>
-
 # Lawn Mower Safety Assessment - Help Guide
 ## Purpose
 This form is designed to assess the safety and maintenance status of lawn mowers and other outdoor power equipment. Please fill out this form carefully and accurately to ensure the correct assessment of your equipment's condition.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information about the faculty employment workload at a university. The purpose is to collect data that can help administrators understand how faculty members are spending their time and resources. This form is designed to be completed by individual faculty members to provide a comprehensive picture of their workloads. To ensure that the data collected is accurate and relevant, it's essential to ensure that each faculty member completes the form honestly and thoroughly. If you're unsure about any of the fields or questions, please review the field-by-field explanation below.
-
-</thinking>
-
 # University Faculty Employment Workload Survey - Help Guide
 ## Purpose
 The University Faculty Employment Workload Survey is designed to gather information about the faculty workload at your institution. This survey will help administrators understand how faculty members are spending their time and resources, and will provide valuable insights to inform decisions about resource allocation and support.

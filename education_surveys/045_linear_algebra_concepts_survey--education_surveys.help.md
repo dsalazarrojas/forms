@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will now create a user-facing help guide for the Linear Algebra Concepts Survey form. The purpose of this form is to collect information on the user's understanding and perception of linear algebra concepts. The form is divided into multiple pages, each with different types of questions, including select multiple, select one, note, text, and number fields. The user will be asked to provide their opinions on various linear algebra concepts, such as their importance, scale, and rating. They will also have the option to provide explanations and justifications for their answers. This form will help us gather valuable insights on the user's thoughts and opinions on linear algebra concepts.</thinking>
-
 # Linear Algebra Concepts Survey - Help Guide
 ## Purpose
 This form is designed to collect information on the user's understanding and perception of linear algebra concepts.

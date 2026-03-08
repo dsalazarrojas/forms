@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users of computer labs on their experiences and perceptions of lab resources and services. This feedback will help lab management to identify areas of improvement and provide better services to users. Please ensure that you are filling out this form for the purpose of providing genuine feedback, and that you have used the lab facilities in the relevant timeframe (e.g., within the past month) to answer the questions accurately.
-</thinking>
-
 # Computer Lab Participation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users of computer labs on their experiences and perceptions of lab resources and services. Your input will help us improve the lab's facilities and services.

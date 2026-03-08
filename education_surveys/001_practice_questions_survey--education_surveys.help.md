@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect survey questions from students, and it's essential that each question is completed accurately and consistently. Before proceeding, please ensure that you have a valid student ID and are completing the form for the intended purpose. Please do not duplicate or submit the same survey questions multiple times.
-</thinking>
-
 # Practice Questions Survey - Help Guide
 
 ## Purpose

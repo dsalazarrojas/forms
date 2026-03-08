@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # After School Programs Enrollment Form - Help Guide
 
 ## Purpose

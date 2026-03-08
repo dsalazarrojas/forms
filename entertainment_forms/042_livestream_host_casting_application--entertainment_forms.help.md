@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from potential livestream hosts who are interested in working with the company. The goal is to gather relevant details about the host's background, experience, and availability to determine if they are a good fit for hosting livestreams. The company wants to avoid duplicate applications from the same host, so it's essential to ensure that each host only submits one application. This form will help the company streamline the hosting process and make it easier to manage multiple hosts.
-</thinking>
-
 # Livestream Host Casting Application - Help Guide
 ## Purpose
 This form is designed to collect information from potential livestream hosts who are interested in working with us. Please fill out this form to help us get to know you better and determine if you're a good fit for our livestream hosting needs.

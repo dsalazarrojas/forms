@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # equipment_maintenance_monitoring_form - Help Guide
 ## Purpose
 The purpose of the `equipment_maintenance_monitoring_form` is to collect data on the maintenance schedule, performance, cost, frequency, and duration of equipment. This form is used to monitor and track the maintenance activities of equipment to ensure they are running efficiently and effectively. 

@@ -1,5 +1,3 @@
-<thinking>...this form is likely used by educators or administrators to assess language skills of students or language learners. It's used to collect information about each student's language acquisition progress, style, and current level of language proficiency. This form might be part of a larger assessment process to monitor student's progress over time or to identify areas of improvement. This form should not be used for any other purpose...</thinking>
-
 # Language Acquisition Evaluation Form - Help Guide
 ## Purpose
 The Language Acquisition Evaluation Form is a tool used to assess and track language acquisition progress of students or language learners. It is used by educators or administrators to gather information about each student's language skills, learning style, and current level of proficiency.

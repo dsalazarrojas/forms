@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive user-facing help guide for the "Employee Team Collaboration Feedback Evaluation Form" that explains its purpose, how to complete it, and provides field-by-field explanations for each section. The form is designed to evaluate the collaboration level, communication, teamwork, problem-solving, leadership, initiative, feedback, and overall satisfaction of employees in a team setting. The form will help managers and team leaders to understand the team's dynamics and identify areas of improvement. The form is not mandatory, and users are free to fill it out as needed. The feedback will be anonymous, and the form will be used to gather insights for future team development and growth.</thinking>
-
 # Employee Team Collaboration Feedback Evaluation Form - Help Guide
 
 ## Purpose

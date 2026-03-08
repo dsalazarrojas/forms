@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registration to the VLSI (Very Large-Scale Integration) Training Program, which aims to provide participants with in-depth knowledge and hands-on experience in the field of Very Large-Scale Integration. The form is used to collect information from participants about their preferences and details for the training program. Before starting the form, please ensure you are registering for the correct institute and have a valid motivation for participating in the program.
-</thinking>
-
 # VLSI Training Program Registration - Help Guide
 
 ## Purpose

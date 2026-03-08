@@ -1,9 +1,3 @@
-<thinking>
-This form is used by management and HR to notify employees of pay rate changes, such as changes to their hourly rate, monthly rate, or salary. The form is used to track changes to an employee's pay rate, which may be affected by various factors, including promotions, job changes, or cost of living adjustments. To ensure accuracy and consistency, please use this form to document each pay rate change, providing all necessary information and approvals.
-
-Before proceeding, check if a similar form has already been filled out for this employee. If so, you may need to update or merge the existing form, or refer to it for reference.
-</thinking>
-
 # Pay Rate Change Notification - Help Guide
 ## Purpose
 This form is used to notify employees of pay rate changes, and to track changes to their hourly rate, monthly rate, or salary.

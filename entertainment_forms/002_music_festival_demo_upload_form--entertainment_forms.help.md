@@ -1,13 +1,3 @@
-<thinking>
-To create a help guide for the music festival demo upload form, we need to understand its purpose and relevance. This form is likely used by artists or bands to submit their demo music for evaluation or consideration by the music festival organizers.
-
-We'll assume that the form is meant to gather information from artists or bands that want to perform at the music festival, including their name, band name, genre, contact details, and uploaded music file. 
-
-This form is not a required form, meaning artists/bands can choose to submit or not. If submitted, it will provide necessary information to the organizers to assess and possibly consider the artist/band for the festival.
-
-We will now create a user-facing help guide to assist artists/bands in filling out this form.
-</thinking>
-
 # music_festival_demo_upload_form - Help Guide
 ## Purpose
 The music festival demo upload form is a tool for artists and bands to submit their music for evaluation by festival organizers. This form gathers essential information about the artist/band, their music, and contact details to consider their participation in the festival.

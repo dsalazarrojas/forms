@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Event Evaluation Form - Help Guide
 ## Purpose
 This Virtual Event Evaluation Form is designed to help evaluate the success of a virtual event. The form collects information on event details, speaker ratings, and overall satisfaction. The data collected will be used to improve future virtual events.

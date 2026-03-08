@@ -1,8 +1,3 @@
-<thinking>
-This form aims to collect information from employees about their personal and professional development needs, allowing HR or management to better understand employee requirements and preferences for growth opportunities. This helps organizations tailor their employee development initiatives to meet the unique needs of their workforce. The form will not replace or supplement any existing HR systems or processes. It is designed to be completed by individual employees and should only be used for internal employee development purposes within the organization.
-
-</thinking>
-
 # Employee Development Needs Survey - Help Guide
 ## Purpose
 The Employee Development Needs Survey is a form designed to help HR or management understand employee needs and preferences for growth opportunities.

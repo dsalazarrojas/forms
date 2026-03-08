@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the Digital Wellness Research Impact Evaluation project, aimed at gathering feedback on the impact of digital wellness programs on participants' habits, wellbeing, and experiences. It is crucial that the form is filled out by relevant stakeholders to ensure accurate and valuable insights for researchers.
-</thinking>
-
 # Digital Wellness Research Impact Evaluation - Help Guide
 ## Purpose
 This form is designed to assess the impact of digital wellness programs on participants' habits, wellbeing, and experiences.

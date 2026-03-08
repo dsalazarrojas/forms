@@ -1,11 +1,3 @@
-<thinking>
-This guide is for the end user to understand the "Productivity Assessment Form".
-The form is used to evaluate an employee's productivity.
-It's not a duplicate of any other form.
-The form has multiple pages.
-The form has fields for various productivity aspects.
-</thinking>
-
 # Productivity Assessment Form - Help Guide
 ## Purpose
 The Productivity Assessment Form is designed to evaluate an employee's productivity in the work environment. This form is used to track and assess an employee's work habits, time management, and other productivity-related aspects.

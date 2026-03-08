@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from customers about our services and products, aiming to improve their overall experience and satisfaction with our company. The purpose of this survey is to collect data on customer opinions and preferences, which will help us identify areas that need improvement and make informed decisions to enhance our services and products. By using this form, customers can provide valuable insights that will help us better understand their needs and expectations.
-</thinking>
-
 # Customer Development Survey - Help Guide
 ## Purpose
 The "Customer Development Survey" is a tool used to gather feedback from customers about our services and products. It helps us understand their opinions, preferences, and areas for improvement, ultimately leading to better services and products.

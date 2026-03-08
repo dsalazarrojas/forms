@@ -1,7 +1,3 @@
-<thinking>
-This form is used to determine the withholding allowance for employees. This form is relevant when an employee's withholding allowance needs to be calculated or reviewed. It is essential to fill out this form accurately to ensure that the employee's allowance is calculated correctly. This form should only be filled out by the employee, or the relevant department manager, or HR representative in charge of handling employee benefits.
-</thinking>
-
 # Employee Withholding Allowance Form - Help Guide
 ## Purpose
 This form is used to determine the withholding allowance for employees. It collects information about the employee's details, allowance, salary, address, and other relevant information to calculate their withholding allowance accurately.

@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure that the user understands the purpose of this form, which is to report on the results of a pressure test performed on equipment. This form is likely used for quality control or maintenance purposes.
-
-Before proceeding with the instructions, let's review the form fields. The form has multiple pages with a mix of select multiple, date, number, text, note, email, and other types of fields. Each page seems to be designed to collect specific information about the equipment being tested. The fields include selections for test status, test result, inspector's contact information, test frequency, test method, test duration, and so on.
-
-Let's make sure the form isn't used for any other purpose. Based on the fields, it seems like the form is only for recording pressure tests on equipment.
-
-With that clarity, we can proceed with writing the help guide.
-</thinking>
-
 # equipment_pressure_test_report_form - Help Guide
 ## Purpose
 This form is designed to collect information on the results of a pressure test performed on equipment. It's used to record the test status, test result, and other details about the test.

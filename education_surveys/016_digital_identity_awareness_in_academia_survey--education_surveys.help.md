@@ -1,15 +1,3 @@
-<thinking>
-
-This guide will help you navigate the Digital Identity Awareness In Academia Survey, a tool designed to gauge perceptions and concerns regarding digital identity and security within academic settings. 
-
-Please note that this survey aims to gather information from participants on their understanding and attitudes towards digital identity and security, as well as potential concerns and suggestions for improvement. Your responses will help create a comprehensive overview of the state of digital awareness in academia. 
-
-You can skip any questions you're not comfortable answering. Your participation is voluntary. The data collected will be used solely for the purpose of improving digital security awareness in academic settings. 
-
-Before answering, please read through the questions carefully, and take as much time as you need. If you're unsure about any question, try to provide your genuine response.
-
-</thinking>
-
 # Digital Identity Awareness In Academia Survey - Help Guide
 ## Purpose
 

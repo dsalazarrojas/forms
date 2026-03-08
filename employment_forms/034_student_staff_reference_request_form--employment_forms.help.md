@@ -1,8 +1,3 @@
-<thinking>
-The Student Staff Reference Request Form is intended to gather information from staff members about student staff references. This form is to be filled out by staff members who have been approached by a student for a reference. The form captures the details of the reference request, including the student's name, the staff member's name, department, reference request date, and the status of the reference request. This form is used to keep track of the reference requests and the status of the requests in order to ensure that students receive accurate and timely references from their staff members.
-Please ensure that you have permission to fill out this form before proceeding. This guide is intended for staff members who are requesting to fill out this form.
-</thinking>
-
 # Student Staff Reference Request Form - Help Guide
 ## Purpose
 The Student Staff Reference Request Form is a tool used to collect information from staff members who have been asked by students for a reference.

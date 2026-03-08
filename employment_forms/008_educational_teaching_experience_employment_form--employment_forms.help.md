@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-
-This form is intended to gather information about a user's educational teaching experience. It asks for details about the user's first, second, and third educational experiences, including start dates and descriptions. Additionally, it inquires about the upload of specific files related to these experiences. The form also includes a section for users to indicate whether they have any uploads. Please note that this form is not meant to be completed by users without relevant educational teaching experience. If a user has no such experience, please do not complete this form. 
-
-</thinking>
-
 # Educational Teaching Experience Employment Form - Help Guide
 
 ## Purpose

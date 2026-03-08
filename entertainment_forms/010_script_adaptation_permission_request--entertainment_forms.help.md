@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my approach will be to create a clear and concise guide that helps end-users understand the purpose and usage of the "Script Adaptation Permission Request" form. The form is meant to be used for requesting adaptation permissions for scripts in the entertainment industry. I'll carefully review the provided YAML fields to ensure that I cover all necessary aspects of the form and provide practical explanations for each field. I'll also aim to maintain a neutral tone, avoiding any assumptions or interpretations that may not be supported by the original data.</thinking>
-
 # Script Adaptation Permission Request - Help Guide
 
 ## Purpose

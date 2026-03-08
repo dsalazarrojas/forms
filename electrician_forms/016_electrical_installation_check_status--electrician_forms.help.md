@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # electrical_installation_check_status - Help Guide
 ## Purpose
 The Electrical Installation Check Status form is designed to gather information about the electrical installation status from users. This form is used to assess the status of electrical installations and ensure that all necessary checks are performed before proceeding with the installation. The form is divided into several sections, each focusing on different aspects of the installation.

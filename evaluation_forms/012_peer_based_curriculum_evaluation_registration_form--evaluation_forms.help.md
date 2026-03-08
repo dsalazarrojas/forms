@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to register a peer-based curriculum evaluation. The purpose of this form is to collect information about the institution, curriculum, and evaluator's role in the evaluation process. This form will be used to gather data for further analysis and evaluation of the curriculum. 
-
-To complete this form, follow these steps:
-
-1. Fill in your First Name and Last Name in the respective fields.
-2. Enter your Email address for contact purposes.
-3. Select your Role in the evaluation process from the dropdown menu:
-	* Chair: A chairperson or leader in the institution.
-	* Curriculum Developer: A person responsible for curriculum development.
-	* Curriculum Designer: A person involved in designing the curriculum.
-	* Evaluator: A person evaluating the curriculum.
-	* Reviewer: A person reviewing the curriculum.
-4. If applicable, enter your institution's name and address.
-5. If applicable, select the type of your institution.
-6. If applicable, enter the name of the curriculum being evaluated.
-7. Click "Submit" to complete the form.
-
-</thinking>
-
 # Peer Based Curriculum Evaluation Registration Form - Help Guide
 
 ## Purpose

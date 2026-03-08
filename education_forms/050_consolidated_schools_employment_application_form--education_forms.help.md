@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help Consolidated Schools Employment Application Form users understand their requirements for applying for employment at the school. This form is part of the hiring process, and it's essential to ensure all necessary information is provided accurately and completely.
-
-Before beginning, review the form's instructions to make sure the form is relevant and not duplicated for multiple positions or purposes. This form is intended for individual applicants, and it's not meant for multiple users or group applications.
-
-</thinking>
-
 # Consolidated Schools Employment Application Form - Help Guide
 ## Purpose
 This form is used for employment applications at Consolidated Schools. It helps the school's HR team assess your qualifications, experience, and availability for potential employment opportunities.

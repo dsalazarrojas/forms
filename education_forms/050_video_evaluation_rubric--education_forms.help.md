@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Video Evaluation Rubric" form is to evaluate the quality and criteria of a video submission in a formal review process. This form guides the reviewer through a set of criteria to assess the video's content, presentation, and submission details. This form aims to provide a consistent and structured evaluation process to ensure fairness and accuracy in the review process.
-
-The form is designed to collect information about the video's introduction, content, production value, creativity, storytelling, engagement, overall quality, audio quality, video length, submission details, and reviewer comments. The form is divided into several sections, each focusing on a specific aspect of the video.
-
-Before completing the form, please ensure that you have reviewed the video and have a clear understanding of its content and submission details.
-
-</thinking>
-
 # Video Evaluation Rubric - Help Guide
 ## Purpose
 The Video Evaluation Rubric form is designed to provide a structured and fair review process for video submissions.

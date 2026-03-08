@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to provide users with a clear understanding of the purpose and functionality of the "Organizational Awareness Survey" form. The form is designed to gather information from employees about their current and expected levels of awareness of the organization's values and objectives, as well as their perceptions of communication channels used to stay informed and feedback from managers. This information will help the organization better understand employee perspectives and make informed decisions about communication and awareness initiatives.
 
 # Organizational Awareness Survey - Help Guide

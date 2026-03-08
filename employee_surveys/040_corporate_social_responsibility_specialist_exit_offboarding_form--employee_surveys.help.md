@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate_social_responsibility_specialist_exit_offboarding_form - Help Guide
 
 ## Purpose

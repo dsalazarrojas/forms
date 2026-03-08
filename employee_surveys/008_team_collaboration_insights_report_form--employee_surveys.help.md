@@ -1,7 +1,3 @@
-<thinking>...this form appears to be designed to gather information about team collaboration insights from team members. It asks about team size, team name, team lead, team location, team collaboration frequency, collaboration experience, collaboration opportunities, communication channels, communication frequencies, work hours, reported time, collaboration challenges, team size impact, team lead impact, location impact, and team collaboration frequency impact. The form likely aims to provide insights on how teams collaborate and identify areas for improvement. To ensure accuracy, please fill out the form only if you are a team member or have relevant information about the team. If you're unsure, please reach out to your team lead or HR representative for clarification. 
-
-</thinking>
-
 # Team Collaboration Insights Report Form - Help Guide
 ## Purpose
 This form is designed to gather information about team collaboration insights from team members. It aims to provide insights on how teams collaborate and identify areas for improvement.

@@ -1,9 +1,3 @@
-<thinking>
-This is a form used to collect information about the factors that influence academic success. The form is used to gather data on various aspects of a student's educational experience, including their study habits, motivation, time management, and support systems. The form is designed to help identify the factors that contribute to a student's academic success or struggles. To complete this form, please ensure that you have provided the necessary information about your academic experience.
-
-Please note that some fields may have multiple selections or options, while others are single selection or text input fields.
-</thinking>
-
 # Factors Influencing Academic Success - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the factors that influence academic success.

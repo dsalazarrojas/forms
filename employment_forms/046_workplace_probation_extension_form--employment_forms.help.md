@@ -1,6 +1,3 @@
-<thinking>
-This guide is designed to help users understand the purpose of the Workplace Probation Extension Form and how to complete it. Before starting, please note that this form should only be filled out by employees who are currently on probation and need to extend their probation period. It is essential to ensure that you are eligible for the extension before completing this form, and that you have not already submitted a similar form. Please ensure that you have the necessary information and approvals before proceeding.
-</thinking>
 # Workplace Probation Extension Form - Help Guide
 ## Purpose
 This form is used to request an extension of your probation period. It is designed to gather the necessary information for managers to review and decide on your extension request.

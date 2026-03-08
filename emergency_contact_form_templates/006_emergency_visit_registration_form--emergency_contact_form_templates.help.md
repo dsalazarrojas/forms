@@ -1,7 +1,3 @@
-<thinking>
-**Form Purpose**: This form is used to register information about an emergency visit. It helps gather details about the visit, including whether it's an emergency visit, patient information, emergency contact details, medical history, and any allergies. This information will be used to provide appropriate care and services to the patient.
-</thinking>
-
 # Emergency Visit Registration Form - Help Guide
 ## Purpose
 The Emergency Visit Registration Form is used to gather information about an emergency visit to provide appropriate care and services to the patient.

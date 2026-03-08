@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Webhook Delivery Platform Evaluation Form - Help Guide
 
 ## Purpose

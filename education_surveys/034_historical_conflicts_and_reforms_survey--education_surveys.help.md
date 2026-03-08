@@ -1,12 +1,3 @@
-<thinking>
-We're creating a help guide for the "Historical Conflicts And Reforms Survey" form, which is a tool used to collect data on historical conflicts and reforms. This form is likely used in a research or academic setting to gather information on past conflicts and the reforms that followed them. The form is designed to gather data on specific conflicts and reforms, allowing users to provide detailed feedback and insights on these historical events. This guide will walk you through the form's structure and purpose, helping users understand how to complete it effectively.
-
-Before proceeding, please note that this form is intended for users who have some background knowledge of historical conflicts and reforms. The form assumes that the user has a basic understanding of the subject matter and can navigate the form's questions and fields accordingly.
-
-If you're unsure about any aspect of the form, please refer to this guide for clarification. If you're still unsure, feel free to reach out to the form's administrators or support team for assistance.
-
-</thinking>
-
 # Historical Conflicts And Reforms Survey - Help Guide
 ## Purpose
 

@@ -1,18 +1,3 @@
-<thinking>
-This form is used by employees to request an extension for a specific equipment, typically a table saw. The purpose of this form is to gather information about the equipment being requested, the supervisor's approval status, and other relevant details. 
-
-The form will be used to determine whether an equipment extension is granted or not. If the form is completed and submitted, it will be reviewed by the designated supervisors and they will decide whether to grant the extension or not. The decision will be based on various factors including the equipment's availability, department requirements and other considerations. 
-
-The form should not be completed for duplicate or duplicate requests. If a request is already approved or being processed, please do not submit this form. 
-
-Please ensure that you provide accurate and relevant information in each field to ensure timely processing of your request. 
-
-This form will automatically be populated with your department information. Please do not alter this field. 
-
-Please note that all field explanations below are based on the provided schema and are best-effort explanations.
-
-</thinking>
-
 # Table Saw Extension Request Form - Help Guide
 ## Purpose
 This form is used by employees to request an extension for a specific equipment, typically a table saw. 

@@ -1,8 +1,3 @@
-<thinking>
-This form is for submitting complaints about something funny that happened. The purpose of this form is to collect information about the incident in a way that is easy to understand and process. This form is not meant for general feedback or suggestions, but rather for specific complaints about humorous incidents. Please use this form to report only instances where someone did something funny or unexpected. 
-Please make sure to fill out this form accurately and honestly, and do not submit duplicate reports.
-</thinking>
-
 # Funny Complaint Form - Help Guide
 ## Purpose
 The "Funny Complaint Form" is used to collect information about humorous incidents that happened in our organization. This form is designed to be easy to fill out and will help us understand what happened, so we can take action to prevent similar incidents in the future.

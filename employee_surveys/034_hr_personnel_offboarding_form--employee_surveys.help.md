@@ -1,7 +1,3 @@
-<thinking>
-This form is used for offboarding a departing employee from the company. The goal is to collect information about the employee's departure, including their name, position, department, and termination date. The form also aims to gather details about the employee's company property returns, equipment returns, and other assets. Additionally, it captures the employee's exit interview response, reason for leaving, and final checklist completion status. All of this information is essential for a smooth and organized offboarding process. This form should not be filled out for employees who are not actually departing the company. Please ensure you are filling this form correctly before submitting it.
-</thinking>
-
 # HR Personnel Offboarding Form - Help Guide
 
 ## Purpose

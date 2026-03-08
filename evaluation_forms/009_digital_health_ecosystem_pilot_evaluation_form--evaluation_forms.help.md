@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_health_ecosystem_pilot_evaluation_form - Help Guide
 ## Purpose
 This form is designed to help evaluate the success and effectiveness of the digital health ecosystem pilot project. The goal is to gather feedback from participants on the project's benefits, challenges, and overall feel, as well as to provide an overall score and rating. This information will be used to refine and improve the project's development.

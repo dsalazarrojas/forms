@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain consent for an entertainment news interview. It's essential to understand that an interview may be recorded or broadcasted, and that the interviewee's responses will be shared publicly. This form will guide you through the necessary information and agreements to be filled out before an interview.
-</thinking>
-
 # entertainment_news_interview_consent_form - Help Guide
 ## Purpose
 The entertainment news interview consent form is used to obtain the necessary information and agreements from the interviewee before an interview can take place. This form ensures that both parties are aware of the terms and conditions of the interview, including what will be recorded and shared publicly.

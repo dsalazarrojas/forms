@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gauge employee satisfaction and experience with the company's leave management software. It is designed to gather feedback on various aspects of the software, including its usability, clarity, and overall experience. The form is meant to be completed by employees who use the software regularly and will help the company identify areas of improvement and provide a better user experience. Please ensure that you have used the leave management software before completing this form, as your feedback will be most valuable to us if you have hands-on experience with it. If you are unsure about any of the questions, please refer to your experience with the software in general and provide your honest opinion.
-</thinking>
-
 # Employee Leave Management Software Review Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback on employee satisfaction and experience with the company's leave management software.

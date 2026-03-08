@@ -1,7 +1,3 @@
-<thinking>
-To ensure the proficiency evaluation form is completed correctly, please review the fields below and ensure the form purpose is relevant to your evaluation needs. The form purpose is to collect relevant information about a student's proficiency level in a course. If the form is not relevant, please do not proceed. 
-</thinking>
-
 # Proficiency evaluation form - Help Guide
 ## Purpose
 The proficiency evaluation form is designed to collect information about a student's performance and progress in a course. This form helps instructors evaluate students based on their proficiency level, which is crucial for providing feedback and guidance to the students.

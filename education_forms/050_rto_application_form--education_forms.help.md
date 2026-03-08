@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be for an RTO (Residential Tenants Organization) application, likely for education-related activities, courses, or programs. This form is intended for individuals to provide personal information and details about their interest in these programs. 
-
-Before proceeding, please confirm that this form is indeed for a specific type of program or activity that matches the information you will input, as some fields seem redundant or unnecessary for this purpose.
-</thinking>
-
 # RTO Application Form - Help Guide
 ## Purpose
 This form is designed to collect personal information and details about education-related programs or activities, including courses, training, and other relevant details.

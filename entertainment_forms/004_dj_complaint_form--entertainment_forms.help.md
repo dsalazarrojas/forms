@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect complaints from clients related to disc jockeys or DJs who have worked for them. The purpose of this form is to gather information about the client's dissatisfaction or issues with a DJ's performance or service. The form will help in identifying areas of improvement for the DJ or the events they are booked for.
-
-This form will be used by event organizers to collect data on complaints, allowing them to address the issues and improve the quality of service provided by DJs. The form should not be used to duplicate or submit multiple complaints about the same issue. If the same complaint has already been made, please do not submit another form.</thinking>
 # dj_complaint_form - Help Guide
 ## Purpose
 This form is designed to collect complaints or issues from clients regarding DJs who have performed at events organized by the client. The form is intended to help event organizers identify areas of improvement and address the concerns of their clients.

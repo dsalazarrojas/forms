@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from managers on their responsiveness. The purpose of this form is to gauge how quickly managers are responding to team members' requests, which is essential for maintaining effective communication and collaboration within the team. This form will help managers provide feedback on their response time and any notes they may have about their interactions with team members. This form is intended for managers who are able to respond to requests within a reasonable time frame.
-</thinking>
-
 # Manager Feedback Responsiveness Survey - Help Guide
 ## Purpose
 The Manager Feedback Responsiveness Survey is designed to collect feedback from managers on their response times to team members' requests. This form helps gauge how quickly managers are responding, which is crucial for effective communication and collaboration within the team.

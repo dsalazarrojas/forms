@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from artists and production teams for documentary sound mixing requests. The purpose of this form is to gather details about the sound mixing services needed for a specific documentary project. The form will help us understand the project requirements, timeline, and budget constraints to provide the best possible sound mixing services. 
-</thinking>
-
 # Documentary Sound Mixing Request Form - Help Guide
 ## Purpose
 This form is meant to gather information from artists and production teams for sound mixing requests related to documentary projects. It will help us understand the project's requirements, timeline, and budget constraints to provide the best possible sound mixing services.

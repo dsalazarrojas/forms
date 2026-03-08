@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to measure employees' engagement in their current role and team. By answering the survey questions, respondents will be able to provide insights into their experiences, thoughts, and opinions on the team and company.
-The purpose of this form is to gather feedback and perceptions from employees. It is used to identify areas of improvement and measure engagement levels within the team and organization.
-Please make sure that you are not completing this form for the same purpose as another ongoing engagement survey. This will help ensure that your feedback is not duplicated and that we receive accurate and actionable data.
-</thinking>
-
 # Talent Engagement Perception Survey - Help Guide
 ## Purpose
 The Talent Engagement Perception Survey is a tool to measure employee engagement, gather feedback, and identify areas of improvement within teams and departments.

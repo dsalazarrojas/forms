@@ -1,27 +1,3 @@
-<thinking> 
-This form is part of the internal reporting and evaluation process within the organization, used to collect and assess the progress and outcomes of the Startup Mentorship Program. Please ensure that you are submitting this form in a way that aligns with the program's goals and objectives. Before proceeding, verify that you have completed any necessary preparatory work and have all required information at hand.
-
-To complete this form, refer to the following pages and fields for guidance. Please be as concise as possible while still providing accurate and comprehensive information.
-
-This form is divided into the following sections and fields:
-
-### Form Data
-### Start Date
-### End Date
-### Mentorship Program Name
-### Mentorship Program Description
-### Mentor
-### Mentee
-### Team Member Count
-### Program Duration
-### Program Outcome Rating
-### Program Quality Rating
-### Evaluation Notes
-### Form Completion Date
-### Submitter Comments
-
-</thinking>
-
 # Startup Mentorship Program Impact Evaluation Form - Help Guide
 ## Purpose
 The Startup Mentorship Program Impact Evaluation Form is used to evaluate the progress, outcomes, and quality of the mentorship programs implemented within the organization. This form gathers data on key aspects of the program, including its duration, quality, outcome, and the number of team members involved. It also allows mentors, mentees, and program managers to provide feedback and insights to improve future programs.

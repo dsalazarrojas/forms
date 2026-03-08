@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from students who are enrolling in the Flight School program. It is designed to collect personal details, course information, and other relevant data for administrative and logistical purposes. Before filling out this form, ensure that you have all the required information and that you have not already submitted an enrollment application for this course. Please check the form for any errors or inconsistencies before submitting.
-
-</thinking>
-
 # Flight School Student Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from students who are enrolling in the Flight School program. It collects personal details, course information, and other relevant data for administrative and logistical purposes.

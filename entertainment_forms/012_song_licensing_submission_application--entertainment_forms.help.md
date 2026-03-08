@@ -1,7 +1,3 @@
-<thinking>
-This form is for song licensing submissions. It is used by music industry professionals to collect information and agreements related to song licensing. To ensure that each submission meets the required guidelines, please review the form carefully before completing it.
-</thinking>
-
 # Song Licensing Submission Application - Help Guide
 ## Purpose
 The Song Licensing Submission Application is designed for music industry professionals to submit their songs for licensing and potential use in various media, such as films, television shows, commercials, and video games. This form helps to collect and store important information about the songs, artists, and submission process.

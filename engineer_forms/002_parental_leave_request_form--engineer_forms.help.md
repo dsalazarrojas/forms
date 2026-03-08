@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parental Leave Request Form - Help Guide
 
 ## Purpose

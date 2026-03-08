@@ -1,13 +1,3 @@
-<thinking>
-
-Before I begin, let me clarify the form purpose and context. The River Overflow Incident Form is designed to collect information about incidents that occur in a river or a water body. This form will help responders to report and document these incidents efficiently. 
-
-This form is intended to be used by response teams and incident commanders to report and track incidents such as overflows, flooding, or other significant water-related events. The purpose of this form is to collect relevant data and information about the incident to inform response and recovery efforts.
-
-To avoid duplication of efforts, please only submit one form per incident.
-
-</thinking>
-
 # River Overflow Incident Form - Help Guide
 ## Purpose
 The River Overflow Incident Form is designed to collect information about incidents that occur in a river or a water body. It is used by response teams and incident commanders to report and track incidents such as overflows, flooding, or other significant water-related events.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to provide a clear understanding of the juvenile rehabilitation attitudes survey form, ensuring that users can complete it accurately and effectively. The form is used to collect data on the attitudes and opinions of stakeholders towards juvenile rehabilitation, specifically in relation to facilities, programs, youth engagement, participation, satisfaction, and outcomes. It is not a required form, and users are free to choose the fields they wish to answer. The form's layout and design are intended to be straightforward and easy to follow, with each field labeled and described clearly for maximum understanding. Please take a moment to review the following guide to ensure that you complete the form accurately and effectively.
 
 # Juvenile Rehabilitation Attitudes Survey - Help Guide

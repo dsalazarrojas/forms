@@ -1,12 +1,3 @@
-<thinking>
-This form is used for evaluating the performance of janitorial services. It helps to assess the cleanliness, quality, timeliness, and overall performance of the service providers. 
-
-The form is designed to collect feedback from customers to help improve the janitorial services provided. By filling out this form, customers can provide their ratings and comments on the services received, allowing the service provider to identify areas of improvement.
-
-When completing this form, please ensure that you are providing accurate and honest feedback, as it will help to improve the services provided.
-
-</thinking>
-
 # Janitorial Services Performance Evaluation - Help Guide
 ## Purpose
 This form is used for evaluating the performance of janitorial services. It helps to assess the cleanliness, quality, timeliness, and overall performance of the service providers.

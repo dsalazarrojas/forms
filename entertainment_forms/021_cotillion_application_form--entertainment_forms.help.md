@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact and payment information from applicants for the Cotillion, which is likely a social event or a program for seniors. The form is designed to gather necessary details for the event organization and coordination. 
-
-The form is divided into several sections, each focused on a different aspect of the applicant's information. To avoid any duplication or misinterpretation, it's essential to understand the purpose and relevance of each field. The form is not intended to be filled out by people not attending the Cotillion.
-
-</thinking>
-
 # Cotillion Application Form - Help Guide
 ## Purpose
 The Cotillion Application Form is designed to collect contact and payment information from applicants for the Cotillion event. This form helps the event organization to gather essential details to ensure a smooth and successful event experience.

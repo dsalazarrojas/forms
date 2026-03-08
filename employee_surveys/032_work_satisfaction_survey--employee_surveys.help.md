@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from employees on their work satisfaction, which is essential for understanding employee sentiment and making informed decisions to improve work environment and employee well-being. This form will help managers and HR teams track and analyze employee satisfaction, identifying areas of improvement and potential issues that need to be addressed. To ensure that employees provide accurate and honest feedback, their responses will be kept confidential and anonymous.
-
-To confirm, the form is meant to be a tool for employee satisfaction surveys, and it's not for any other use. If you're unsure about filling out this form, please reach out to your supervisor or HR representative for clarification.
-
-</thinking>
-
 # Work Satisfaction Survey - Help Guide
 ## Purpose
 The Work Satisfaction Survey is designed to gather feedback from employees about their job satisfaction, providing valuable insights to help managers and HR teams make informed decisions to improve the work environment and employee well-being.

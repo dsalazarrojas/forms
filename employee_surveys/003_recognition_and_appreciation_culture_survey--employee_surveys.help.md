@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the recognition and appreciation culture within the company. It aims to collect information about employees' experiences and perceptions of recognition and appreciation practices. This form is intended to be completed by employees who have had an experience with recognition or appreciation, either positive or negative. Please ensure that this form is completed truthfully and with as much detail as possible to provide valuable insights for the company.
-</thinking>
-
 # Recognition And Appreciation Culture Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the company's recognition and appreciation culture. It's essential to provide honest and detailed responses to help improve the company's culture.

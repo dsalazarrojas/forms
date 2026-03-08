@@ -1,12 +1,3 @@
-<thinking>
-The internal reasoning block is used to determine the purpose and relevance of the form. In this case, the form "Fire Department Incident Report" is used to document incidents reported to the fire department, which can be used to gather information and take appropriate actions.
-
-Form "Fire Department Incident Report" can be used for various purposes. However, the fields and their types will help us understand the type of incident and the details about the incident.
-
-We should consider using this form for emergency reports, false alarms, or other types of incidents. This is important to prevent duplication of the form being used for different purposes than what it's designed for.
-
-</thinking>
-
 # Fire Department Incident Report - Help Guide
 ## Purpose
 The Fire Department Incident Report form is used to document incidents reported to the fire department.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are requesting a quote for custom embroidery services. The form is meant to be used by sales team members to gather necessary details about the customer's requirements and preferences for the quote. This form is not intended to be used for other purposes such as order fulfillment or payment processing. Please make sure to review the form carefully before proceeding with the submission. If you are unsure about the form's purpose or have any questions, please reach out to the sales team for clarification.
-</thinking>
-
 # Embroidery Quote Request Form - Help Guide
 
 ## Purpose

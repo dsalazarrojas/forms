@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Restoration Workroom Booking Form - Help Guide
 ## Purpose
 This form is used to book a workroom for film restoration services. It collects information about the customer, the booking dates and time, the desired restoration suite, and any additional services required. The form also includes fields for customer contact information and submission details.

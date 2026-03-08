@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Piano Festival Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information for the Piano Festival. This form is used to gather essential details from individuals who plan to attend the festival, ensuring a smooth and organized experience for all attendees. Please fill out this form carefully to ensure your accurate information is received.

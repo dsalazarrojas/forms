@@ -1,9 +1,3 @@
-<thinking>
-This help guide will explain the purpose and usage of the "Global Human Rights Awareness Survey" form, which appears to be a collection of questions and demographic information.
-The survey is designed to collect data on individuals' knowledge, awareness, and behaviors related to human rights, with a focus on global and regional human rights issues. It is intended for respondents to share their opinions, experiences, and attitudes on various questions, which will help to better understand human rights awareness and practices worldwide.
-Before proceeding, ensure that you have not already completed this survey to avoid duplication.
-</thinking>
-
 # Global Human Rights Awareness Survey - Help Guide
 ## Purpose
 

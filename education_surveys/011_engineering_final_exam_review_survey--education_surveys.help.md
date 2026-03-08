@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from students about their experience in an engineering exam session. The form aims to understand how effective the session was and what can be improved for future sessions. It also gathers contact information and instructor feedback for further communication. This form is not intended to be completed by instructors or administrators, but rather by students who have attended the exam session. Please ensure that you are taking this survey as a relevant student before proceeding.
-</thinking>
-
 # Engineering Final Exam Review Survey - Help Guide
 ## Purpose
 The Engineering Final Exam Review Survey is designed to gather feedback from students about their experience in an engineering exam session. It is used to understand how effective the session was, identify areas for improvement, and gather contact information and instructor feedback.

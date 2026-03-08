@@ -1,10 +1,3 @@
-<thinking>
-To provide clarity and guidance to users, let's first break down the purpose and requirements of this form. This form is for validating employee work hours, and it's essential to ensure that the information provided is accurate and complete. The form is likely used by HR or payroll departments to verify employee work hours, which can be critical for payroll processing, benefits, and tax purposes. 
-
-Before proceeding, let's check if the employee has already completed the form in the past or if there are any duplicate records. This is to prevent errors and ensure data consistency.
-
-</thinking>
-
 # work_hours_validation_form - Help Guide
 ## Purpose
 This form is used to validate employee work hours, ensuring accuracy and completeness of information for payroll processing, benefits, and tax purposes.

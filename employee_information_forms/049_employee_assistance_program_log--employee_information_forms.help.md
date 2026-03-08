@@ -1,11 +1,3 @@
-<thinking>... internal reasoning: The form "Employee Assistance Program Log" is likely used to record and track the progress and details of employee assistance programs, which are programs provided by employers to support the well-being and productivity of their employees. This form would allow employees to log sessions with a program provider, such as a counselor or coach, and record important information about each session, including start and end dates, topics discussed, and any notes from the session.
-
-The form likely aims to provide a clear and standardized record of employee sessions, which can be used for tracking progress, monitoring program effectiveness, and ensuring data consistency across sessions. The form structure suggests that it may be used for both individual and aggregate reporting on employee assistance programs.
-
-Before starting, ensure that the form is not being used for other purposes, and that the information collected is not already available through other means. For example, if the employee already has an existing record of sessions in their HR system, there may be no need to duplicate this information. Also, be aware that sensitive information such as session notes may require additional handling and security measures.
-
-</thinking>
-
 # Employee Assistance Program Log - Help Guide
 
 ## Purpose

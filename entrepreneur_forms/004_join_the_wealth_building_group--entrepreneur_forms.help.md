@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential members of the "Wealth Building Group", which is likely an online community or a business network that helps individuals achieve financial success. The form is designed to gather member details, goals, and consent for membership. 
-
-Before filling out this form, it's essential to understand that it's a generic form created by AI using public survey topic metadata, and it's not affiliated with any specific platform or business. The form can be used as is or modified, and users are free to sell or share it under CC BY 4.0 license. 
-
-If you're interested in joining the Wealth Building Group, please fill out this form to provide your details and express your consent for membership.
-
-</thinking>
-
 # join_the_wealth_building_group - Help Guide
 ## Purpose
 The "join_the_wealth_building_group" form is designed to collect information from potential members of the "Wealth Building Group" for membership purposes.

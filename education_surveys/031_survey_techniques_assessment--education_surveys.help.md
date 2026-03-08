@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Survey Techniques Assessment - Help Guide
 ## Purpose
 The Survey Techniques Assessment form is designed to collect feedback from participants and trainers about their experiences with survey techniques. This form helps us understand their preferences, pain points, and satisfaction levels regarding survey methods and formats. The information gathered will aid in improving the survey process and enhancing the overall quality of training services.

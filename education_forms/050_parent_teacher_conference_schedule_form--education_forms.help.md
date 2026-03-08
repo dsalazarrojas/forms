@@ -1,17 +1,4 @@
-## <thinking>
-This help guide is intended to ensure that users understand the purpose and requirements of the "Parent Teacher Conference Schedule Form." It is designed to be a simple, concise, and practical guide for end-users to navigate and complete the form. 
-
-The form is used to schedule a meeting between parents and teachers to discuss a child's educational progress. It is crucial to provide accurate and relevant information to facilitate a productive conversation. 
-
-This guide will walk users through the form's purpose, how to complete it, and a field-by-field explanation of each section. Please note that some fields' labels might be weak or unclear, but we will explain them in the context of the form's purpose. 
-
-This guide assumes that users are familiar with basic form completion concepts and do not require an in-depth explanation of form theory or technicalities. 
-
-If you are not familiar with the form's context or have questions, please refer to the provided form's metadata for more information.
-
-</thinking>
-
-# Parent Teacher Conference Schedule Form - Help Guide
+## # Parent Teacher Conference Schedule Form - Help Guide
 
 ## Purpose
 The "Parent Teacher Conference Schedule Form" is designed to schedule a meeting between parents and teachers to discuss a child's educational progress. This form gathers essential information from both parties, including scheduling preferences and contact details.

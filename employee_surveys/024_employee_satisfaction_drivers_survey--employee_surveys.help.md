@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from employees about what drives their motivation and satisfaction at work. This survey aims to understand what motivates employees, how often they experience a high level of challenge, and what factors contribute to their job satisfaction. It is designed to gather information that can help management understand the needs and preferences of their workforce.
-
-Before filling out this form, please ensure you have not already completed it, as this survey is intended for unique responses. Your responses will be kept confidential and used to improve working conditions and employee satisfaction.
-
-</thinking>
-
 # Employee Satisfaction Drivers Survey - Help Guide
 ## Purpose
 

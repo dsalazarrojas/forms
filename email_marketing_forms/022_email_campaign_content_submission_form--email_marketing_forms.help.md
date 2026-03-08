@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed for email marketing campaigns, allowing users to submit campaign content, such as a subject and body, and select the list(s) to which the campaign will be sent to. This guide is intended to provide users with clear instructions on how to complete the form accurately and effectively. 
-
-To ensure that users understand the purpose and scope of the form, it is essential to clarify each field's intention and requirements. By providing concise explanations of each field, users will be able to complete the form with confidence and precision. 
-
-The form is designed to be user-friendly, making it easier for users to submit the required information and campaign content. By following this guide, users will be able to submit the form correctly and efficiently. 
-
-</thinking>
-
 # Email Campaign Content Submission Form - Help Guide
 ## Purpose
 The Email Campaign Content Submission Form is designed for submitting campaign content, such as subjects and bodies, for email marketing campaigns. This form allows users to select the list(s) to which the campaign will be sent.

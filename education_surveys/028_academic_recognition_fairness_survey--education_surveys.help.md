@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding and completing the Academic Recognition Fairness Survey. Before creating this guide, I will review the form's purpose, structure, and fields to ensure that I provide accurate and relevant information.
-
-The Academic Recognition Fairness Survey is a tool used to gather opinions on the fairness of recognition processes within academic institutions. The survey aims to assess how fairly recognition is distributed, perceived, and experienced by various groups within the institution. This guide will walk users through each section and field of the survey, explaining their purpose and significance.
-
-</thinking>
-
 # Academic Recognition Fairness Survey - Help Guide
 ## Purpose
 The Academic Recognition Fairness Survey is designed to evaluate the perception and experience of fairness in academic recognition processes. It will help identify areas of improvement and provide insights into how recognition is distributed, decided, and perceived by different groups within the institution.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to evaluate the effectiveness of robotics training sessions. It is used to collect feedback and assess the performance of students in robotics training programs. This form should be completed by students who have attended a robotics training session to provide their honest feedback and rating on the session's quality, instructors, and materials.
 
 ## Purpose

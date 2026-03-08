@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to gather information and opinions about education policy awareness. The form appears to be designed to collect data on various aspects of education policy, including policy understanding, impact, and effectiveness. This type of data can be used to inform policy development, improvement, and evaluation. 
-The survey questions appear to be designed to gauge respondent's perception of education policy, with some questions aiming to measure the level of engagement and support for policy, while others aim to identify areas for improvement. The responses will likely be used to better understand the needs and concerns of educators, students, and other stakeholders. 
-
-Please note that the form does not appear to have any mandatory questions, which may indicate that it is meant to be a voluntary or optional survey. It's possible that the form is intended to be completed by educators, students, or other stakeholders with varying levels of involvement in education policy. 
-
-It's worth mentioning that the form's structure and content suggest a fairly comprehensive assessment of education policy awareness, which may cover different dimensions, such as policy understanding, impact, effectiveness, and sustainability. The form's questions also seem to be designed to elicit both qualitative and quantitative data.
-
-</thinking>
-
 # Education Policy Awareness Survey - Help Guide
 ## Purpose
 

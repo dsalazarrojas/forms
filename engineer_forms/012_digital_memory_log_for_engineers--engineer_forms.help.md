@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from engineers for a digital memory log. A digital memory log is a record of significant events or incidents that need to be documented for future reference. This is an internal tool used by engineers to report and track their experiences, tasks, and outcomes. This form aims to ensure accurate and comprehensive documentation of events, which can be later reviewed by managers or team leaders. Before filling this form, please ensure that the information provided is true and accurate.
-
-</thinking>
-
 # Digital Memory Log For Engineers - Help Guide
 ## Purpose
 This form is a digital memory log for engineers to record and track significant events or incidents that need to be documented for future reference.

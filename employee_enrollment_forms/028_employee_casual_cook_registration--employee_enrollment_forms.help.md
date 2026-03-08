@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to collect information from employees about their interest in being a casual cook for the company's cafeteria. This form is likely used to determine which employees are available to work in the cafeteria on a casual basis. The form is not a required field, but rather an optional way for employees to express their interest in this type of work arrangement.
-</thinking>
 # Employee Casual Cook Registration - Help Guide
 
 ## Purpose

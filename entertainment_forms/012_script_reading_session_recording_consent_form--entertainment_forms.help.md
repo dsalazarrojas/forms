@@ -1,17 +1,3 @@
-<thinking>
-This form appears to be designed for capturing information related to script reading session recordings. The form fields suggest that it may be used for capturing participant and production information, including agreements and approvals. This form is likely used in a context where recordings are made of script readings, such as for audio or video recordings. The form's structure also implies that it may be used for multiple participants and productions.
-
-To confirm, the form fields include:
-
-* Participant information (name, email, contact, phone)
-* Production information (production name, contact, notes)
-* Recording details (recording date, time, type, device, location)
-* Agreement and approval fields for both participants and productions
-
-The form's fields and options suggest that it may be used for capturing both audio and video recordings, as well as live streams. The form also appears to have fields for capturing alternative reasons for not giving approval or agreement.
-
-Before proceeding, please note that the form's purpose and structure are based on the provided YAML fields. If you have any further questions or concerns, please let me know!</thinking>
-
 # Script Reading Session Recording Consent Form - Help Guide
 
 ## Purpose

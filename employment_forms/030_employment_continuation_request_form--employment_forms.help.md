@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help employees request continuation of service, which means they can continue working for a certain period after their initial contract ends. The form will ask for some basic employee details and any supporting documents that are required for this request. This form should only be filled out by employees who are requesting to continue working, not by those who are just starting a new job or contract.
-To avoid duplication of work, make sure that you have not already filled out a request to continue your employment. If you are unsure, please contact your HR department for clarification.
-</thinking>
-
 # Employment Continuation Request Form - Help Guide
 
 ## Purpose

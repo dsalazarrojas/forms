@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the purpose of creating a meal kit delivery subscription. The form collects data on the user's subscription preferences, including the type of subscription plan, number of people being served, dietary preferences, delivery frequency, preferred delivery day, contact information, address, and payment details. This form will guide the user through the process of creating a subscription.
-
-Before proceeding, please ensure that you have a clear understanding of the form's purpose and requirements. This form is intended for users who are interested in creating a meal kit delivery subscription with BlueSnap. If you have already completed a similar form with BlueSnap in the past, please note that this form is for new subscriptions only.
-
-To complete this form, please follow the instructions below.
-</thinking>
-
 # BlueSnap Meal Kit Delivery Subscription Form - Help Guide
 ## Purpose
 The BlueSnap Meal Kit Delivery Subscription Form is designed to collect information for creating a meal kit delivery subscription with BlueSnap. This form is for new subscriptions only. Please ensure that you have read and understand the form's purpose before proceeding.

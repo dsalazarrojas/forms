@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for inspecting and reporting on employee shifts. The primary purpose of this form is to gather information about an employee's attendance and performance during their shifts. This form is used by management or HR personnel to evaluate and document an employee's work performance. The form will be used to record whether an employee has worked their first and second shifts, and their attendance and performance during those shifts. 
-
-</thinking>
-
 # shift_inspection_form - Help Guide
 ## Purpose
 The shift_inspection_form is used by management or HR personnel to record and document an employee's attendance and performance during their shifts.

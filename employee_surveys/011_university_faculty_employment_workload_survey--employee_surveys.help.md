@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning block to check for duplication and relevance:
-The purpose of this form is to collect data on the workload of university faculty members, including their teaching, research, and service activities, as well as their work hours, workload trends, and support requests. This form is designed to gather information that will help the university administrators understand the faculty workload and make informed decisions to support their work.
-
-To ensure that the form is not duplicating any existing information, it's essential to check if there are any similar forms or surveys being conducted within the university that may be covering similar topics. Also, verify that the form's purpose and scope are aligned with the university's strategic goals and priorities.
-
-After reviewing the form's purpose and scope, it's clear that the form is relevant and necessary for the university's operational and decision-making processes.
-</thinking>
-
 # University Faculty Employment Workload Survey - Help Guide
 ## Purpose
 The University Faculty Employment Workload Survey is designed to collect data on the workload of university faculty members, including their teaching, research, and service activities, as well as their work hours, workload trends, and support requests. The collected data will help university administrators understand the faculty workload and make informed decisions to support their work.

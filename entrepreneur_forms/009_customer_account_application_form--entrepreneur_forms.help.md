@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal Note:**
-
-The form, "Customer Account Application Form," is intended to gather information from customers who wish to create a new customer account. The form is likely to be used in a B2B or business-to-business setting where customers may not have a pre-existing relationship with the company. The purpose of the form is to collect necessary customer information, including contact details, account type, and other relevant data to create a new customer account. This form will likely be used by sales teams, customer service representatives, or other staff members responsible for account management. 
-
-To ensure accurate data and proper form completion, please review the fields and requirements below:
-
-</thinking>
-
 # Customer Account Application Form - Help Guide
 ## Purpose
 The Customer Account Application Form is designed to collect information from customers to create a new customer account. Please use this form to gather necessary data from customers who wish to establish a new relationship with your business.

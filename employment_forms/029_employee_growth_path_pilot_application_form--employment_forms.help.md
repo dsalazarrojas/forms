@@ -1,20 +1,3 @@
-<thinking>
-This form is for employees who want to apply for the Employee Growth Path Pilot program, a initiative aimed at supporting employee development and career growth within an organization. The form will help gather information about the employee's background, experience, and interests to tailor a personalized growth path.
-
-Please note that this form is not affiliated with any specific form platform, and the data collected will only be used for internal purposes.
-
-To avoid duplication, kindly ensure that you have not already submitted an application in the past.
-
-Before filling out this form, ensure that you have the necessary permissions and approvals from your supervisor or HR department.
-
-The form has [X] pages with [Y] fields. You can complete it in [Z] minutes.
-
-The form is designed to be completed by employees in [specific roles or departments] who are interested in participating in the Employee Growth Path Pilot program.
-
-If you have any doubts or concerns, please reach out to [support contact].
-
-</thinking>
-
 # Employee Growth Path Pilot Application Form - Help Guide
 ## Purpose
 

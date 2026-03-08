@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Accident Absence Form - Help Guide
 
 ## Purpose

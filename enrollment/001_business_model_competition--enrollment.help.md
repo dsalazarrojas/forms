@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Model Competition - Help Guide
 ## Purpose
 This form is designed to collect business model competition entries from teams. It captures essential information about each team, including team members, project title, project summary, and other relevant details. This guide will walk you through each field to help you complete the form accurately and effectively.

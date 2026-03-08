@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge employees' attitudes and opinions about the sick leave donation program. The survey will help identify areas of concern and overall support for the program. It's essential to complete this form to ensure that your opinions are counted and considered. Please note that this form should not be submitted more than once. If you have already submitted a survey, please don't proceed. If you're unsure about your department, don't worry; you can select multiple departments if you're in a hybrid or shared role.
-</thinking>
-
 # Sick Leave Donation Survey - Help Guide
 ## Purpose
 This form is designed to gauge your opinions and attitudes about the sick leave donation program. It will help us identify areas of concern and overall support for the program.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for employees to provide feedback on their managers or colleagues in the workplace. The form is intended to help employees express their thoughts and opinions about their work experience, which will be reviewed by HR or management to improve work environments and employee relationships. Before filling out this form, please ensure you are not duplicating feedback already provided or that you are not submitting feedback on someone currently in a conflict of interest situation with you. It is also recommended to keep your feedback constructive and respectful.
-</thinking>
 # Worker Feedback Summary Request Form - Help Guide
 ## Purpose
 This form is used to collect feedback from employees about their work experiences and interactions with their managers or colleagues. The feedback will be reviewed by HR or management to help improve work environments and relationships.

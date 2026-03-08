@@ -1,14 +1,3 @@
-<thinking>
-This form is meant to be a Non Compete And Non Solicitation Agreement Form, which is a legal document that an employee signs to confirm that they will not engage in any activities that could be considered competitive to the company during or after their employment. This form is designed to protect the company's interests and ensure that employees do not use company resources or confidential information for personal gain. 
-
-The form typically requires employees to confirm that they will not engage in direct or indirect solicitation of customers or employees, or any other activities that could be considered competitive to the company. The form also typically includes sections for employee and manager signatures, dates, and other relevant information.
-
-Before completing this form, make sure to review the company's policies and procedures related to non-compete and non-solicitation agreements.
-
-To confirm, the company has already reviewed and approved the form's content and structure, and it is not intended to be a duplicate or redundant document.
-
-</thinking>
-
 # Non Compete And Non Solicitation Agreement Form - Help Guide
 
 ## Purpose

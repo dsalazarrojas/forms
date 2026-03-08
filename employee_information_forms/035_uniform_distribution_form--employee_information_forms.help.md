@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information related to uniform distribution. It is used to track the distribution of uniforms to employees within an organization. The form is likely to be used by HR or management to keep track of who has received uniforms, when, and in which department. 
-
-The following fields are included in the form: employee name and ID, department, quantity, size, color, date of distribution, distribution type, status, staff name, staff ID number, and departmental information. Some fields are optional and may have been included for future use cases or to provide extra information.
-
-To ensure that all employees receive their uniforms, please complete the form accurately and thoroughly. Ensure that you enter the correct department and distribution dates.
-
-</thinking>
-
 # Uniform Distribution Form - Help Guide
 ## Purpose
 The Uniform Distribution Form is used to track the distribution of uniforms to employees within an organization.

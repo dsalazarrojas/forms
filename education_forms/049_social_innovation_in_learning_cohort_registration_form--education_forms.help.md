@@ -1,7 +1,3 @@
-<thinking>
-We need to determine the purpose and relevance of this form to ensure our guide is effective. The form seems to be used for registration, likely for a cohort or program related to social innovation in learning. It appears to be focused on collecting personal information, contact details, and other relevant details from applicants. This form may be used by administrators or staff members to collect and review applications. We will make sure to cover all the necessary fields and provide clear explanations to ensure users understand what is required and what is optional.
-</thinking>
-
 # social_innovation_in_learning_cohort_registration_form - Help Guide
 ## Purpose
 This form is used for registering applicants to a social innovation in learning cohort. It is intended to collect necessary personal and contact information from applicants.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for registering a Regional Brand Incubator and is part of the Entrepreneur Forms category. It appears to be a comprehensive form that captures various details about the incubator, including its name, address, industry, website, and more. The form has multiple pages with different types of fields, such as text, date, time, and select multiple options. Some fields are required, while others are optional. There are also confirmation fields for certain details, such as email, phone number, and date of registration. To avoid duplication, this form likely serves as a template for registering multiple Regional Brand Incubators. It is essential to review the form carefully and provide clear instructions to ensure that users complete it accurately and efficiently.</thinking>
 
 # Regional Brand Incubator Registration Form - Help Guide

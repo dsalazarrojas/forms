@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for franchise sellers to disclose information about their business, including details about the franchisor (the seller) and the franchisee (the buyer). The purpose of this form is to gather relevant information to assist with the sale process. 
-
-To ensure accuracy, we recommend that you review the form carefully before submitting it. If you're unsure about any of the fields, please contact us for clarification. 
-
-Note that some fields are optional, but providing accurate information helps us better serve you.
-
-</thinking>
-
 # Franchise Seller Disclosure Form - Help Guide
 ## Purpose
 This form is used to collect information about your business, which will be used to assist with the sale process.

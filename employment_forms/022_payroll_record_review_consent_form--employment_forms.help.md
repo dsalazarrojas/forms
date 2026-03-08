@@ -1,5 +1,3 @@
-<thinking>... this form is likely used by employees to request review and/or modification of their payroll records. The form may be submitted to HR or payroll department to process a request for reviewing a specific payroll record, perhaps to dispute an entry or request an amendment. To prevent duplication, ensure you have not submitted a similar request recently. If you are unsure, please contact HR or payroll department for guidance...</thinking>
-
 # Payroll Record Review Consent Form - Help Guide
 ## Purpose
 The Payroll Record Review Consent Form is used by employees to request review and/or modification of their payroll records. It is an internal form submitted to the HR or payroll department for processing payroll record requests.

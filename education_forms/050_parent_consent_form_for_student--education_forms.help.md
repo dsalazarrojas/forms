@@ -1,10 +1,3 @@
-<thinking>
-This form is used to obtain consent from a parent or guardian for their child to participate in extracurricular activities within a school. The form helps to establish a formal agreement between the school and the parent, ensuring that both parties are on the same page regarding the child's involvement in activities such as sports teams, clubs, or other programs. This form is used for internal purposes, and it's essential to understand its purpose to complete it correctly.
-
-This form will be used to collect information from parents and students to create a record of their participation in extracurricular activities. Therefore, it's crucial to fill out the form accurately and completely to ensure that all necessary information is captured.
-
-Before proceeding, ensure that you have all necessary information and authorization to complete this form. If unsure, consult with the relevant authorities or school administration.</thinking>
-
 # Parent Consent Form For Student - Help Guide
 ## Purpose
 This form is used to obtain consent from a parent or guardian for their child to participate in extracurricular activities within a school. The form ensures that both the parent and the school are in agreement about the child's involvement in activities such as sports teams, clubs, or other programs.

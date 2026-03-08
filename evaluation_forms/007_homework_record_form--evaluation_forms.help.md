@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Homework Record Form - Help Guide
 
 ## Purpose

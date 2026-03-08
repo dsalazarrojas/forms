@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the SAT Course Enrollment Form Template, we must first understand the purpose and requirements of the form. The form is used for enrolling students into a course, but its actual goal is to collect relevant information from users, including their contact details, course preferences, payment methods, and other essential details. 
-
-Before proceeding, we need to ensure this form is not intended for internal use or duplicate functionality. This form appears to be designed for external users to register for a course, possibly through an online portal or application process.
-
-</thinking>
-
 # SAT Course Enrollment Form Template - Help Guide
 ## Purpose
 This form is used to enroll students into a course, collecting essential information such as contact details, payment methods, and other relevant data.

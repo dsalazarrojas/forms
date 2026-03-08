@@ -1,7 +1,3 @@
-<thinking>
-This form is a part of the "entertainment_forms" category. It's used for requesting a talent to perform on a specific date and time. The form collects details about the talent's availability, fee, and other requirements. It's likely used by event organizers to manage talent bookings.
-</thinking>
-
 # Talent Performance Scheduling Request Form - Help Guide
 ## Purpose
 The Talent Performance Scheduling Request Form is used to request a talent to perform on a specific date and time. This form collects information about the talent's availability, fee, and other requirements to ensure a smooth event.

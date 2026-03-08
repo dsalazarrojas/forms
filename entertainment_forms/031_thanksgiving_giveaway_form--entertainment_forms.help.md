@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their Thanksgiving preferences, including what they are thankful for and what they would like to win in a giveaway. This form will help the event organizers to better understand their audience's interests and tailor their content accordingly. To ensure data accuracy, the form should not be completed more than once per user.
-</thinking>
-
 # Thanksgiving Giveaway Form - Help Guide
 ## Purpose
 This form is for gathering information from users about their Thanksgiving preferences and giveaway interests.

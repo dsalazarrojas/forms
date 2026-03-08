@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Compliance Employment Form - Help Guide
 ## Purpose
 The Health Compliance Employment Form is used to gather information about an employee's employment status, including their employment type, start and end dates, and any health risks or medical clearance requirements. This form is typically completed by employers to ensure compliance with health and safety regulations.

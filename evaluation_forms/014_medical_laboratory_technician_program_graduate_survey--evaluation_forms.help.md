@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Laboratory Technician Program Graduate Survey - Help Guide
 
 ## Purpose

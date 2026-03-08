@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will provide a detailed explanation of the form's purpose and each field's meaning to help end users understand how to complete it.</thinking>
-
 # Girlfriend Application Form - Help Guide
 
 ## Purpose

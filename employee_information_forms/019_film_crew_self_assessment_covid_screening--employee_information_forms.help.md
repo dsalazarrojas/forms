@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to be a self-assessment tool for film crew members to report their COVID-19-related health information. It is likely part of a larger effort to track and manage health and safety protocols within the film industry. The form appears to be focused on collecting information about an individual's health, travel history, and testing or vaccination status. The fields are mostly text-based, with some select-one and select-multiple fields for categorizing responses. This guide will help users understand the purpose and usage of each field in the form. If you have similar forms or tools for managing health and safety protocols, please let me know so we can consolidate efforts and avoid duplication of content.</thinking>
-
 # film crew self assessment covid screening - Help Guide
 ## Purpose
 This form is a self-assessment tool for film crew members to report their COVID-19-related health information.

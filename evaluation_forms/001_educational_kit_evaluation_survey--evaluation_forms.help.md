@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Kit Evaluation Survey - Help Guide
 ## Purpose
 The Educational Kit Evaluation Survey is a form designed to gather feedback from users about their experience with educational kits. It is meant to provide valuable insights and identify areas for improvement.

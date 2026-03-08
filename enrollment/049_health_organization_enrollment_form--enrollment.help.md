@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Organization Enrollment Form - Help Guide
 ## Purpose
 This form is used for enrolling health organizations into the system. Please ensure that you have the necessary permissions and authorization to create a new enrollment before proceeding. If you are unsure, please refer to your internal documentation or contact your supervisor.

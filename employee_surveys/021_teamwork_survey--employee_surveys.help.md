@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees about their team's performance and productivity. It is intended to be used by team members to self-evaluate their team's collaboration, communication, and overall effectiveness. The form is used to track and analyze team performance data over time, helping to identify areas of improvement and strengths. It is recommended to complete this form on a regular basis to ensure accurate and up-to-date data.
-
-This form is a critical component of the employee engagement and performance management process. Completing this form will help teams identify their own strengths and weaknesses, and provide valuable insights for team leaders to make informed decisions and develop targeted strategies for improvement.
-
-Please note that this form is designed to be completed by team members, and responses will be kept confidential and anonymous. It is essential to complete this form honestly and accurately, as it will help to ensure that the data collected is reliable and trustworthy.
-</thinking>
-
 # Teamwork Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from team members about their team's performance and productivity. It is used to track and analyze team performance data over time, helping to identify areas of improvement and strengths.

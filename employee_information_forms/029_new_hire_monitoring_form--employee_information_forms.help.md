@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information related to new hires, including their job details, employment status, and contact information. It is designed to be completed by the hiring team to keep track of new hires and their progress. This guide will walk you through the process of filling out this form. Please ensure that you are in the correct context to complete this form, and do not proceed if you have already completed this form for the new hire.
-</thinking>
-
 # new_hire_monitoring_form - Help Guide
 ## Purpose
 This form is used to capture information about new hires, including their job details, employment status, and contact information.

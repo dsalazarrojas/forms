@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for emergency reporting in a healthcare facility. The form is used to document the conditions and details of an incident that has occurred, such as an injury or a medical emergency. The purpose of this form is to ensure that the incident is thoroughly documented and communicated effectively to relevant personnel, including emergency teams and management. This form is not meant to be a comprehensive medical report or an official incident report, but rather a rapid assessment tool to help identify potential issues and trigger the necessary response.
-
-This form is likely to be used in a variety of contexts, such as in response to a patient falling, a medical equipment malfunction, or an environmental hazard. The information collected on this form will help the emergency team to determine the best course of action and provide necessary assistance to the affected individual.
-
-Please note that this form is not a substitute for proper medical treatment or a comprehensive incident investigation. It is essential to complete this form as accurately and thoroughly as possible to ensure that the emergency team has the necessary information to respond effectively.
-</thinking>
-
 # Healthcare Facility Emergency Assessment Form - Help Guide
 ## Purpose
 This form is used to document the details of an incident that has occurred in a healthcare facility. It helps the emergency team to assess the situation and provide necessary assistance.

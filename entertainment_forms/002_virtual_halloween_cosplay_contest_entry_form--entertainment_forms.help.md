@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users to submit their Virtual Halloween Cosplay Contest entries. The purpose of this form is to collect information about the user's character design, cosplay costume, and other relevant details for the contest. The form is designed to be completed by the user, and the information collected will be used to evaluate their entry for the contest.
-
-Before starting, please make sure you have not already submitted an entry for this contest. If you have already submitted an entry, you can edit or update your existing entry instead of creating a new one.
-
-</thinking>
-
 # Virtual Halloween Cosplay Contest Entry Form - Help Guide
 ## Purpose
 The Virtual Halloween Cosplay Contest Entry Form is designed to collect information about your character design, cosplay costume, and other relevant details for the contest.

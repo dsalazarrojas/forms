@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from new candidates registering for the Flexiforce PEP (Performance Excellence Program). The form is used to gather essential data about the employee, including their basic details, job title, and status.
-To ensure the form is filled out accurately, we recommend reading this guide carefully before proceeding.
-Ensure that you are filling out the form for a new candidate registration.
-Avoid filling this form if the candidate's status is already registered on the system.
-</thinking>
-
 # Flexiforce PEP Registration Form - Help Guide
 ## Purpose
 The Flexiforce PEP Registration Form is designed to collect information from new candidates registering for the Flexiforce PEP (Performance Excellence Program). This form is used to gather essential data about the employee, including their basic details, job title, and status.

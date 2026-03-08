@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and fields seem to be related to collecting information about products' prices. This form is likely used by entrepreneurs or business owners to gather data about the prices of their products or services. The form asks for product details, price, currency, tax, discount, comments, and category/subcategory information. The field labels seem clear, but some may be unclear or ambiguous without additional context. For example, "price_survey_category" and "price_survey_subcategory" both have the same options ("Yes" and "No"), implying that they might be related to categorization, but without more information, it's hard to say exactly what they represent.
-</thinking>
-
 # Price Survey - Help Guide
 ## Purpose
 This form is used to collect information about products' prices. As a user, you will be asked to provide details about the product, its price, and other relevant information.

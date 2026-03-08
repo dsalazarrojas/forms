@@ -1,7 +1,3 @@
-<thinking>
-The Ticket Verification Form is used to verify details about tickets sold or redeemed. It captures information from ticket buyers, sellers, or both, depending on the scenario. This form should only be filled out when a ticket has changed hands or ownership is disputed. If the ticket was previously filled out, it's best not to resubmit it, unless there's a valid reason to do so.
-</thinking>
-
 # Ticket Verification Form - Help Guide
 ## Purpose
 The Ticket Verification Form is used to verify details about tickets sold or redeemed. It captures information from ticket buyers, sellers, or both, and should only be filled out when a ticket has changed hands or ownership is disputed.

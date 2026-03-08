@@ -1,10 +1,3 @@
-<thinking>
-We need to create a help guide for a form called "rubric_evaluation_survey" which seems to be related to the evaluation process of student performances. I assume this form is used to assess how well students meet certain rubric criteria. To ensure we're on the right track, let's take a closer look at the form's fields and schema. It appears to have a mix of scale and criteria fields, which suggests that the form might be asking users to evaluate students on their performance in relation to a set of criteria or scales.
-
-Before proceeding, I'll make sure to cover all the required fields and options, and that the form is not duplicating any effort in evaluation. This seems like it should be a comprehensive guide for end-users to complete this form correctly and efficiently.
-
-</thinking>
-
 # rubric_evaluation_survey - Help Guide
 ## Purpose
 The rubric_evaluation_survey form is designed to evaluate student performance against a set of criteria. It provides a comprehensive framework for assessing students' work, projects, or presentations, helping to ensure consistency and fairness in evaluations.

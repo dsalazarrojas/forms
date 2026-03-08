@@ -1,8 +1,3 @@
-<thinking>
-A form designed for evaluating the strength of empires. This form likely pertains to a fitness-related assessment or evaluation, where users are required to provide personal information about their workout habits and goals. It's essential that this form is completed accurately to ensure a thorough assessment.
-To avoid duplication of efforts and ensure accurate evaluations, please fill out the form completely and accurately, and ensure that you have the permission of your participant to collect their data.
-</thinking>
-
 # **strength_empires_form - Help Guide**
 ## Purpose
 

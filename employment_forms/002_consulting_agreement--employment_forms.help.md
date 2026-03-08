@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the creation of consulting agreements between clients and consultants. It captures essential information such as the consultant's and client's details, agreement terms, and payment arrangements. The goal is to ensure both parties have a clear understanding of the scope of services, payment expectations, and termination conditions. The form should only be used for consulting agreements where the consultant is providing services to the client. If you have already created a consulting agreement with the same client, you may not need to fill out this form.
-
-</thinking>
-
 # Consulting Agreement - Help Guide
 ## Purpose
 This form is used to create a consulting agreement between you (the consultant) and your client. It ensures that both parties have a clear understanding of the scope of services, payment expectations, and termination conditions.

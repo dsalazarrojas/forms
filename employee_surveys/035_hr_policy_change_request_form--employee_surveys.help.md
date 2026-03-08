@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information about proposed changes to HR policies within an organization. The purpose of this form is to gather detailed descriptions of the changes, their effective dates, and the departments involved, as well as the status of departmental approvals. It also captures the date of submission and the status of comments and approvals. Before filling out this form, please ensure that the policy change is not a duplicate or already under review. If unsure, check with your HR department or refer to the company's internal knowledge base.
-
-</thinking>
-
 # HR Policy Change Request Form - Help Guide
 ## Purpose
 The HR Policy Change Request Form is designed to collect information about proposed changes to HR policies within the organization. The form is intended for HR staff, department teams, and employees to submit and manage policy change requests.

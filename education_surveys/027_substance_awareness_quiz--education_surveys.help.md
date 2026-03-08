@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the substance awareness knowledge, attitudes, and behaviors of the respondents, specifically in the context of schools, counselors, organizations, and their relationships with substance use. This form likely aims to assess the respondents' understanding and confidence in addressing substance-related issues.
-</thinking>
-
 # Substance Awareness Quiz - Help Guide
 ## Purpose
 The Substance Awareness Quiz is a tool designed to evaluate your knowledge, attitudes, and confidence regarding substance awareness in schools, counselors, and organizations.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for lift certification registration, which is an essential process to ensure that lifts are properly inspected and certified to prevent accidents and ensure compliance with safety regulations. 
-This form will be used to gather details about the lift's company, type, location, and other relevant information. 
-The form is intended to be used by individuals responsible for managing lift certification, but not to be completed by lift operators or other individuals who are not directly involved in this process. 
-This is the first of several forms that will be submitted for different aspects of lift certification.
-</thinking>
-
 # Lift Certification Registration - Help Guide
 ## Purpose
 The Lift Certification Registration form is designed to collect information necessary to ensure that lifts are properly inspected and certified to prevent accidents and ensure compliance with safety regulations.

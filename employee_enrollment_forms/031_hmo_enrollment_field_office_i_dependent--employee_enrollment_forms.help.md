@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HmoEnrollmentFieldOfficeIDependent - Help Guide
 
 ## Purpose

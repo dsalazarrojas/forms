@@ -1,17 +1,3 @@
-<thinking>
-
-The form is designed to test knowledge about ordinal numbers, specifically which numbers are greater or less than certain thresholds. To complete this form, the user will have to choose the correct numbers that meet the given criteria. The form is organized into several questions, each with its own set of options. 
-
-This form is a survey for users to demonstrate their knowledge about ordinal numbers. The questions are designed to test different aspects of this concept, such as numbers greater or less than certain values.
-
-The form does not require any specific background knowledge or prerequisites. However, it is recommended that users have a basic understanding of ordinal numbers, including their order and relationships.
-
-The purpose of this form is to gauge users' knowledge about ordinal numbers, not to collect their personal identifiable information. It is a public, educational tool and not intended to be used as a serious assessment or test.
-
-The form has a total of 9 fields: 4 fields for the correct answer to each of 4 questions, 4 fields for the answer to 4 questions, and 1 field for the ordinal number that is less than 5. 
-
-</thinking>
-
 # Ordinal Numbers Knowledge Survey - Help Guide
 ## Purpose
 The Ordinal Numbers Knowledge Survey is a public, educational tool designed to gauge users' knowledge about ordinal numbers. It is not a serious assessment or test.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a form to gather insights from employees regarding software updates. The purpose of this form is to collect feedback and suggestions from employees about their experience with the update, any issues they faced, and how they would like to be contacted in case they need to provide further information or have questions. This form is designed to be completed by employees who have experienced the software update and are interested in sharing their thoughts. It is not intended to be completed by non-employees or individuals who have not gone through the update process. We will ensure that the collected data is used to improve the software update process and make it more efficient and effective for everyone involved.
-</thinking>
-
 # software_update_employee_insights_report - Help Guide
 ## Purpose
 The software update employee insights report form is designed to gather feedback and suggestions from employees about their experience with software updates. Your input is valuable in helping us improve the update process and make it more efficient for everyone.

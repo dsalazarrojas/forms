@@ -1,7 +1,3 @@
-<thinking>
-The Accounting Course Waitlist form is designed to collect information from potential students interested in taking accounting courses. The form's purpose is to gather data about the student's background, goals, and preferences to provide personalized course recommendations. This form will help instructors and administrators understand the students' needs and tailor the course to meet those needs. By completing this form, students can express their interest in the course and provide essential details that will help them get the most out of the course.
-</thinking>
-
 # Accounting Course Waitlist - Help Guide
 ## Purpose
 The Accounting Course Waitlist form is a survey designed to gather information from potential students about their background, goals, and preferences for an accounting course. This information will be used by instructors and administrators to provide personalized course recommendations and tailor the course to meet the needs of students.

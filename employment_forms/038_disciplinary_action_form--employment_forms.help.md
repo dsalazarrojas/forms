@@ -1,12 +1,3 @@
-<thinking>
-The "Disciplinary Action Form" is used to document and manage disciplinary actions taken against employees. This form should only be used when a supervisor or manager has determined that disciplinary action is necessary and is intended to help track and record the details of the action.
-
-Before proceeding, please ensure that you have a clear understanding of the reason for the disciplinary action and have discussed this with the employee in question. This form is not intended for routine or non-disciplinary purposes; if you are unsure, please consult with your supervisor or HR representative.
-
-Please note that this form is for documenting serious incidents only and should not be used for minor or trivial matters. Additionally, please ensure that all necessary approvals and reviews are completed in the correct sequence and that all fields are accurately completed.
-
-</thinking>
-
 # Disciplinary Action Form - Help Guide
 ## Purpose
 The Disciplinary Action Form is used to document and manage disciplinary actions taken against employees. This form helps ensure that all necessary information is collected and that the action is properly recorded and approved.

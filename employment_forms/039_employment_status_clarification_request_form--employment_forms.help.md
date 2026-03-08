@@ -1,5 +1,3 @@
-<thinking>What is the purpose of the "Employment Status Clarification Request Form" used by HR teams in organizations? This form is intended to gather information from employees regarding their employment status, such as whether they are currently active, inactive, or in a different employment status. It may be used to clarify an employee's status in case of discrepancies or changes in their employment details. The form typically requires input from the employee and their manager, including the manager's email address and phone number. The form is used to ensure that employee data is up-to-date and accurate, and to prevent errors or miscommunications that can arise from unclear employment status.</thinking>
-
 # Employment Status Clarification Request Form - Help Guide
 
 ## Purpose

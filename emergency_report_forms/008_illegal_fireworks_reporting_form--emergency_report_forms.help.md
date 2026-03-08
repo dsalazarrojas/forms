@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about illegal fireworks incidents. The purpose of this form is to help gather data on the location, time, and description of the incident, as well as any witnesses who may have seen the incident. The form also asks about the suspect's description, age, gender, height, and weight. The information collected will be used to help identify and apprehend those responsible for the incident.
-
-Before proceeding, please confirm that you have not already reported this incident to authorities. If you have already reported it, please do not fill out this form.
-
-</thinking>
-
 # illegal_fireworks_reporting_form - Help Guide
 ## Purpose
 This form is designed to gather information about illegal fireworks incidents. The purpose of this form is to help gather data on the location, time, and description of the incident, as well as any witnesses who may have seen the incident.

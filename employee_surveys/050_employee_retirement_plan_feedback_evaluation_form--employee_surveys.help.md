@@ -1,9 +1,3 @@
-<thinking>
-Internal reasoning: This form aims to gather feedback on the employee retirement process, allowing the organization to identify areas for improvement and make data-driven decisions. The form is designed to capture a comprehensive picture of the employee's experience, from the retirement process itself to their overall satisfaction with the support team. By understanding both positive and negative aspects of the experience, the organization can refine the retirement process and create a more satisfactory experience for future employees.
-
-This form has been designed to ensure that every question is relevant and necessary for the organization to gather valuable insights. The form is not duplicated, and every question is carefully crafted to collect specific data points.
-</thinking>
-
 # Employee Retirement Plan Feedback Evaluation Form - Help Guide
 
 ## Purpose

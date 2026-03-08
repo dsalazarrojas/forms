@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to register collaboration details for digital research projects, aiming to gather information about researchers, collaborators, and collaborations. The purpose of this form is to ensure accurate and efficient tracking of research collaborations. By completing this form, users can provide necessary details about collaborations, researchers, and tools used. This form will be used to collect data for further analysis and reporting.
-
-</thinking>
-
 # digital_classroom_research_collaboration_registration_form - Help Guide
 ## Purpose
 The digital classroom research collaboration registration form is designed to collect necessary information about digital research collaborations, enabling accurate tracking and analysis of project details.

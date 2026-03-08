@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for documenting incidents or disciplinary actions taken against employees. It's crucial to ensure the information provided is accurate and thorough. Please ensure the form is used for its intended purpose and not for other uses. Also, be sure to complete it accurately and without duplicating efforts. This form will likely be used by HR or management personnel.
-</thinking>
-
 # Disciplinary Communication Form - Help Guide
 ## Purpose
 The Disciplinary Communication Form is used to document employee incidents or disciplinary actions taken against an employee. It helps to maintain a record of employee conduct and any actions taken by the management or supervisor.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Antenna Maintenance Checklist - Help Guide
 ## Purpose
 This form is used to document and track antenna maintenance activities. It gathers information on the technician performing the maintenance, the maintenance date, and the details of the work performed.

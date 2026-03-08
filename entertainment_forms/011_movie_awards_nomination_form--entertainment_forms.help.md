@@ -1,7 +1,3 @@
-<thinking>
-The Movie Awards Nomination Form is used by end-users to submit nominations for movies. The form is designed to gather information about the movie being nominated, including its title, genre, release year, and reasons for nomination. This form ensures that the nominations are submitted in a structured and consistent manner, making it easier for the organizers to review and process the submissions. To avoid duplication, nominations for the same movie are only accepted if they are submitted with a different reason or category.
-</thinking>
-
 # Movie Awards Nomination Form - Help Guide
 ## Purpose
 The Movie Awards Nomination Form is a tool for submitting nominations for movies. It helps ensure that all nominations are submitted in a consistent and structured format, making it easier for the organizers to review and process the submissions.

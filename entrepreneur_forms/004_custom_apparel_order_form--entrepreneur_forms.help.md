@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "custom_apparel_order_form", is designed for entrepreneurs to create custom apparel orders. To ensure the form is completed correctly and efficiently, it's essential to understand its purpose and each field's requirements. This guide will walk you through the form's structure and what each field means, making it easier for users to submit their custom apparel orders without any issues.
-
-The form has 25 fields in total, spread across multiple pages. Each page is designed to collect specific information for custom apparel orders. Before proceeding, please make sure you have the necessary information ready to fill out the form accurately.
-
-Please note that some fields are optional, so make sure to fill out only the necessary fields. This guide will help you navigate through each field and ensure you're submitting the correct information.
-
-</thinking>
-
 # custom_apparel_order_form - Help Guide
 ## Purpose
 The custom_apparel_order_form is designed for entrepreneurs to create custom apparel orders. It allows you to provide specific details about your order, including color, size, shipping date and time, and other customizations.

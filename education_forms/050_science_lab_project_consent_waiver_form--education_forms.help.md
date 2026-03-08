@@ -1,7 +1,3 @@
-<thinking>
-Please review the provided YAML for relevance and non-duplication.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to gather information about <string> projects, capturing key details such as title, project duration, and participant information. It helps in maintaining a clear and organized record of projects and their associated data.

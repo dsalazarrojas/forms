@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Chemical Peel Consent Form - Help Guide
 
 ## Purpose

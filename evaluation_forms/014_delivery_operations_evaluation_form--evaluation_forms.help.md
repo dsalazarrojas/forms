@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be designed to collect feedback and evaluations on various aspects of "Delivery Operations" within an organization. It appears to be a multi-page form that covers different dimensions of "Service Quality", "Document Issues", and other relevant topics. The form has been designed to allow users to provide detailed feedback, suggesting improvements and listing specific issues with document delivery. It also allows users to indicate if additional comments are required, which implies it may be used for some form of certification or verification process. However, further clarification on the actual use case and business requirements would help to confirm this assumption.</thinking>
-
 # Delivery Operations Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect evaluations on the delivery operations process, including service quality, document issues, and potential improvements.

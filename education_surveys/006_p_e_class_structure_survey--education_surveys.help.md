@@ -1,11 +1,3 @@
-<thinking>
-I will analyze the form purpose and design to create a user-facing help guide that is clear, concise, and practical. The form is designed to collect information about Physical Education (P.E.) class structure and student engagement. The purpose of this form is to gather opinions and suggestions from students, teachers, or other stakeholders about the P.E. class structure, size, type, and overall safety and engagement level.
-
-Before creating the help guide, I will review the provided YAML form schema to ensure that I understand the intent behind each field. The form consists of 9 fields across 2 pages, with a mix of select_one, select_multiple, and text fields, indicating a focus on collecting both quantitative and qualitative information.
-
-Given the form's purpose and structure, the help guide will aim to provide a clear and concise explanation of each field to help users complete the form accurately and effectively.
-</thinking>
-
 # P.E. Class Structure Survey - Help Guide
 ## Purpose
 The P.E. Class Structure Survey is designed to collect opinions and suggestions from students, teachers, or other stakeholders about the Physical Education class structure, size, type, and overall safety and engagement level.

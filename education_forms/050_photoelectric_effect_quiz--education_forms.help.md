@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Photoelectric Effect Quiz - Help Guide
 
 ## Purpose

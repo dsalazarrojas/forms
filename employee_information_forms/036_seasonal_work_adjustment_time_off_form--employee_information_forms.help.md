@@ -1,11 +1,3 @@
-<thinking>
-The Seasonal Work Adjustment Time Off Form is used to request time off for seasonal work adjustments, which is a type of leave that allows employees to take time off during periods of low business activity. This form is used to document and track requests for seasonal work adjustments, ensuring that all necessary information is collected and approved before the time off is granted. 
-
-This form is relevant to employees who need to take time off during seasonal periods, typically in retail or hospitality industries where business activity is typically lower during certain times of the year.
-
-This form is not intended to be used for other types of time off, such as vacation or sick leave.
-</thinking>
-
 # Seasonal Work Adjustment Time Off Form - Help Guide
 ## Purpose
 The Seasonal Work Adjustment Time Off Form is used to document and track requests for seasonal work adjustments, which allow employees to take time off during periods of low business activity.

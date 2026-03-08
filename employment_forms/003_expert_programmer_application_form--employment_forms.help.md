@@ -1,8 +1,4 @@
-# <thinking>
-This form is designed to collect information from potential expert programmers who are interested in applying for a position or collaboration. The form aims to gather relevant details about the applicant, including their contact and work information, educational background, and a portfolio of their work. The form also allows applicants to submit additional information and upload a file, if necessary.
-</thinking>
-
-# expert_programmer_application_form - Help Guide
+# # expert_programmer_application_form - Help Guide
 ## Purpose
 The "expert_programmer_application_form" is a tool for collecting information from potential expert programmers. It is intended for use by those who are interested in applying for a position or collaboration.
 

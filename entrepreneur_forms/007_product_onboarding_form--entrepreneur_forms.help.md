@@ -1,7 +1,3 @@
-<thinking>
-This form is used to onboard new customers and gather relevant information from them. The form will be used to populate customer data in our internal database. To prevent duplication, please only submit this form once per customer. If you are a repeat customer, do not fill out this form again. We will not use the information submitted in this form for any other purpose other than to onboard your account and provide you with our services.
-</thinking>
-
 # Product Onboarding Form - Help Guide
 ## Purpose
 The Product Onboarding Form is used to collect information from new customers to populate our internal database. This form will only be used once per customer, so please only submit it once.

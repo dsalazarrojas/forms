@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to collect information from editors who are interested in working with a content creation company. The purpose of this form is to gather essential details about the editor's experience, skills, and availability. The form will help the company to assess the editor's fit for potential projects and collaborations. Please note that this form does not store any sensitive information, and the company ensures the confidentiality and security of the submitted data. 
-</thinking>
-
 # Editor Application Form Template - Help Guide
 
 ## Purpose

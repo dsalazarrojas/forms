@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about an entrepreneur's experiences and perspectives on various aspects of their business. The form will help to identify areas where the entrepreneur may need support or resources to further stabilize their business. The purpose of this form is to provide a comprehensive understanding of the entrepreneur's challenges and strengths. 
-
-This form is a multiple-page survey that asks for numerical ratings and free-form text responses from the entrepreneur. It is likely intended to be completed by the entrepreneur themselves, possibly as part of an assessment or coaching process.
-
-There is no indication from the provided YAML that the form is being duplicated. However, it is possible that this form is a template or has been designed to be used as part of a larger assessment process. If that is the case, it would be best to check the specific context in which this form will be used to ensure that it is not being duplicated or used unnecessarily.
-</thinking>
-
 # Entrepreneurship Stabilization Survey - Help Guide
 ## Purpose
 The Entrepreneurship Stabilization Survey is designed to gather information about an entrepreneur's experiences and perspectives on various aspects of their business. The survey aims to identify areas where the entrepreneur may need support or resources to further stabilize their business.

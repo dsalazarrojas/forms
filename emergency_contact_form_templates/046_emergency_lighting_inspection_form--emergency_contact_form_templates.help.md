@@ -1,11 +1,3 @@
-<thinking>
-To create this form, I've analyzed the provided input schema for the emergency lighting inspection form. The purpose of this form seems to be related to inspecting emergency lighting systems in a workplace, such as emergency exit signs, emergency lighting fixtures, and other relevant equipment. The form may be used by facility managers, safety inspectors, or maintenance personnel to record observations, report issues, and provide necessary documentation for safety compliance. 
-
-This form is likely used in industries with a risk of workplace hazards, such as construction sites, industrial facilities, or healthcare settings. The form's purpose is to ensure that emergency lighting systems are functioning correctly and meet regulatory requirements. 
-
-This guide will explain the form's fields and how to complete it effectively.
-</thinking>
-
 # emergency_lighting_inspection_form - Help Guide
 ## Purpose
 The emergency lighting inspection form is designed to inspect and document the status of emergency lighting systems in a workplace. This form will help you identify any issues with emergency exit signs, lighting fixtures, and other safety-related equipment.

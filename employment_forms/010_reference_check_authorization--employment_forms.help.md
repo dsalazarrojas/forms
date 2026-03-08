@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "reference_check_authorization" is used to collect information for a reference check, which is a process used to verify an individual's employment history and qualifications. The form is designed to be completed by the individual themselves, and the information collected will be used by the employer or HR department to conduct a thorough background check. 
 
 To ensure that the form is completed correctly and efficiently, it's essential to understand each field's purpose and how it fits into the overall context of the reference check process. 

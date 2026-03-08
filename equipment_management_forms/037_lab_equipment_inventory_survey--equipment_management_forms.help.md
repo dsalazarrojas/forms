@@ -1,12 +1,5 @@
 <figure>
 
-<thinking>
-The purpose of this form is to collect information about the lab equipment in your organization, including its details, location, condition, quantity, responsible person, maintenance schedule, and any relevant notes. This form will help ensure that you have an accurate and up-to-date record of your lab equipment, which is essential for effective inventory management, maintenance, and budgeting.
-
-Before filling out this form, please review your lab's current inventory management system to ensure you are not duplicating data. If you have already completed a survey for this equipment, do not submit another one. This will help maintain data accuracy and avoid redundant entries.
-
-</thinking>
-
 # Lab Equipment Inventory Survey - Help Guide
 
 ## Purpose

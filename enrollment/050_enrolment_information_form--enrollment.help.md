@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students, parents, or guardians about the individual's enrolment in an educational institution. This form is meant to be filled out by those who want to take courses, register for classes, or seek other educational opportunities. To ensure accurate and complete records, please ensure that you only submit the form once for each person. If you have previously submitted this form and have new information, please do not resubmit, as this can cause duplication of records and potential issues with your educational status.
-</thinking>
-
 # Enrolment Information Form - Help Guide
 ## Purpose
 The purpose of this Enrolment Information Form is to provide the necessary information for educational institutions to process your admission or registration. This form is designed to collect essential details about you or the individual you are enrolling.

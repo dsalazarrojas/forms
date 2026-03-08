@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the effectiveness of faculty collaboration within the institution. It is intended to gather feedback on various aspects of faculty collaboration, including communication between colleagues, challenges faced, and suggestions for improvement. This form is likely used by faculty members or administration to evaluate and improve collaboration among faculty members. The responses will help identify areas of strength and weakness in the current collaboration environment, providing valuable insights for development of future initiatives.
-</thinking>
-
 # Faculty Collaboration Effectiveness Index Survey - Help Guide
 ## Purpose
 

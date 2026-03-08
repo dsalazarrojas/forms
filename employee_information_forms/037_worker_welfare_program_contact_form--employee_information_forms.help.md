@@ -1,11 +1,3 @@
-<thinking>
-
-This form is part of the Worker Welfare Program, which aims to provide support and resources to employees in need. The purpose of this form is to allow employees to report their concerns or requests to the management team. 
-
-To ensure that the form is completed accurately and consistently, it's essential that each employee understands what information is required and what kind of data is expected in each field. This guide will walk you through the purpose and completion process of the Worker Welfare Program Contact Form.
-
-</thinking>
-
 # Worker Welfare Program Contact Form - Help Guide
 
 ## Purpose

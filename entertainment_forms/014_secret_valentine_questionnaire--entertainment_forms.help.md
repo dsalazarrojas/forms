@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be a Secret Valentine's Day questionnaire. The purpose of this form is to collect information from the sender to create a personalized and surprise gift for their loved one. The form likely asks for the recipient's name, the sender's name, and a gift preference, allowing the sender to choose from a set of options, such as Gift Card, Chocolate, Flowers, or Candy. The form also provides a field for a personal message to make the gift even more special. 
-
-The form has 5 fields: Valentine Name, Sender Name, Gift Choice, Message, and Sender Message. To complete this form, the sender will fill out all the fields, providing the necessary information to create the surprise gift. 
-
-This form is designed to be completed by the sender, who will input their information and preferences to surprise their loved one.
-
-The sender is likely a person looking to surprise their partner or someone special on Valentine's Day. They will want to make this gift-giving experience personal and special, which is why they will be filling out this form. The information collected will be used to create a customized gift and message for the recipient.
-
-Given that the form is for a surprise gift, it is likely that the sender will want to keep their identity anonymous. The form's design should be user-friendly and straightforward, allowing the sender to quickly and easily input their information without any confusion or complexity.
-</thinking>
-
 # Secret Valentine Questionnaire - Help Guide
 ## Purpose
 The Secret Valentine Questionnaire is a form designed to collect information from the sender to create a personalized and surprise gift for their loved one on Valentine's Day.

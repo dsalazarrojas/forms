@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information about workplace safety incidents, including incident details, investigation status, and outcomes. It's crucial to ensure that each field is completed accurately to maintain a thorough record of incidents. Ensure that each field is filled out carefully and that there is no duplication of incidents. If there are multiple incidents, complete each one separately.
-</thinking>
 # Workplace Safety Incident Discharge Form - Help Guide
 ## Purpose
 The Workplace Safety Incident Discharge Form is used to document and track workplace safety incidents. This form is essential for maintaining a safe and healthy work environment, ensuring that incidents are reported and investigated thoroughly, and that corrective actions are taken to prevent similar incidents from happening again.

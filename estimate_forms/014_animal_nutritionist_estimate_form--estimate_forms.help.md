@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from animal nutritionists about their services and estimated costs for clients. The form is intended for internal use within a business or organization that offers animal nutritionist services. 
-
-The form's purpose is to collect data on client details, services provided, and estimated costs for consultations and follow-up sessions. It is not meant for public use, such as in a public-facing website or application. 
-
-This help guide will provide a clear understanding of how to fill out the form correctly and what each field represents.
-
-</thinking>
-
 # Animal Nutritionist Estimate Form - Help Guide
 ## Purpose
 The Animal Nutritionist Estimate Form is used to collect information about clients' services and estimated costs. It helps the nutritionist to provide accurate estimates and manage client expectations.

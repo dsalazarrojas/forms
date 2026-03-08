@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect medical information about students. The purpose of this form is to gather relevant medical information about students, which will be used to ensure their safety and well-being while on campus. This form must be completed by students to inform school administration and staff about their medical conditions, allergies, and emergency contacts.
-</thinking>
-
 # Student Medical Information Form - Help Guide
 
 ## Purpose

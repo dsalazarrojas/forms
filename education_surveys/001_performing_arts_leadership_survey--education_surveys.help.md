@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that we're only providing this form to relevant and eligible users. This form is designed to collect information from individuals in the performing arts leadership field, such as directors, producers, and administrators. We should only be providing this form to those who have been identified as part of this field and have been invited to complete it. Additionally, we need to ensure that users are not duplicating their efforts and have not already completed this form in the past.
-
-To check for duplication, we can use a combination of user identity and a unique identifier (e.g., a hash of their email address) to prevent multiple submissions from the same user.
-</thinking>
-
 # performing-arts-leadership-survey - Help Guide
 ## Purpose
 This form is designed to collect information from individuals in the performing arts leadership field, such as directors, producers, and administrators. It will be used to gather data for research and analysis purposes.

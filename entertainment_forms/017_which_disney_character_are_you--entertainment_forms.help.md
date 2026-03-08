@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help users identify which Disney character they are, based on their preferences and interests. The form is intended for entertainment purposes only and is not meant to be taken seriously. This form checks if the user is a duplicate, and the responses are not used for any commercial or marketing activities.
-
-The form is divided into several sections, each with a unique set of options. The sections are designed to be self-explanatory, but a brief explanation of each field is provided below for clarity.
-
-The form uses a mix of text and select_one fields to gather information about the user's preferences. The select_one fields allow the user to select one option from a list of choices.
-
-The form does not store any personal data and is intended for entertainment purposes only.
-
-</thinking>
-
 # Which Disney Character Are You? - Help Guide
 
 ## Purpose

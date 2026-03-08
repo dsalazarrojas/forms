@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about respondents' knowledge and opinions on metals and their properties. The purpose of this survey is to collect data on how well people are aware of different types of metals, their uses, and their characteristics. This form is likely to be used in educational settings or research projects to gather insights on metal properties and their significance.
-
-To ensure that the form is filled out correctly, please review the following fields and their explanations:
-
-Please note that this form has multiple pages, and the explanations below refer to each page in the order they appear in the form.
-
-</thinking>
-
 # Metals And Their Properties Survey - Help Guide
 ## Purpose
 This form is designed to collect information about respondents' knowledge and opinions on metals and their properties.

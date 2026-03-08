@@ -1,7 +1,3 @@
-<thinking>
-This form is used for making changes to an employee's payroll information. It is likely used by HR or payroll staff to update an employee's employment details, such as job category, dates, or contact information. To prevent duplication, ensure that the form is not used for creating new employee records. If you need to add a new employee, use the "New Employee Form" instead.
-</thinking>
-
 # Employee Payroll Change Form - Help Guide
 ## Purpose
 The Employee Payroll Change Form is used to update an employee's payroll information, including job categories, dates, and contact details.

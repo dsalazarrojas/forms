@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the Student Perception Survey, which is intended to gather feedback from students about their experiences with their classes and teachers. This survey aims to collect information about how students perceive their classes, teachers, and learning environment. 
-</thinking>
-
 # Student Perception Survey - Help Guide
 ## Purpose
 The Student Perception Survey is a tool designed to gather feedback from students about their experiences with their classes and teachers. This survey is used to collect information about how students perceive their classes, teachers, and learning environment.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used for model registration, which is the process of providing detailed information about a model, such as their name, contact details, and health status. The purpose of this form is to ensure that the model's details are accurately recorded and easily accessible for future reference.
-
-Before completing this form, please ensure that you are providing accurate and up-to-date information about the model. If you have registered the model before, please make sure to update their details if any of them have changed.
-</thinking>
-
 # Model Registration Form - Help Guide
 ## Purpose
 The Model Registration Form is used to gather detailed information about a model, such as their name, contact details, and health status. This form is essential for our team to accurately record and keep track of the model's data.

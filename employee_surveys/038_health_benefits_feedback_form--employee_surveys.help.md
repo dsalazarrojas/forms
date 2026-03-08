@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from employees on the health benefits program. This form is used to collect information on employee satisfaction, areas of improvement, and overall feedback. It is essential to ensure that the form is filled out by the correct employee and that the provided information is accurate and up-to-date. Please note that this form is only meant to be filled out by employees and is not intended for use by anyone else.
-</thinking>
-
 # Health Benefits Feedback Form - Help Guide
 ## Purpose
 The Health Benefits Feedback Form is designed to collect employee feedback on the current health benefits program. This form helps us understand the program's effectiveness and identify areas for improvement.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for distribution centers to report incidents that have occurred within their facilities or affecting their assets. The form should only be filled out for events that have not previously been reported.
-
-</thinking>
-
 # Distribution Center Incident Report Form - Help Guide
 ## Purpose
 This form is to be used by distribution centers to document and report incidents that have occurred within their facilities or affecting their assets. Please fill out this form to provide detailed information about the incident and help us track and manage incident reports.

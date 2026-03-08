@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hardware Dispatch Coordination Form - Help Guide
 
 ## Purpose

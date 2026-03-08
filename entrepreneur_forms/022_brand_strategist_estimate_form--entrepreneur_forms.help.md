@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information for estimating the cost and timeline of a project, providing key deliverables, and ensuring acceptance of the estimate. The form will be used for internal purposes, and the information collected will not be shared with external parties. Please fill out this form accurately and thoroughly to ensure that the project details are well understood and the estimate is accepted by the client.
-</thinking>
-
 # Brand Strategist Estimate Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for estimating the cost and timeline of a project, as well as ensuring the client's acceptance of the estimate.

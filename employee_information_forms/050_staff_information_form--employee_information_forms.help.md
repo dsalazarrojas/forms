@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect staff information. Before filling out this form, please ensure that you have the necessary permissions and approvals to do so. If you are unsure, please contact your supervisor or HR representative. This form should not be used to collect sensitive or confidential information.
-</thinking>
-
 # Staff Information Form - Help Guide
 ## Purpose
 The Staff Information Form is used to collect basic staff information for organizational purposes.

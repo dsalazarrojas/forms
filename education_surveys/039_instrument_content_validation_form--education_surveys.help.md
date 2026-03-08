@@ -1,7 +1,3 @@
-<thinking>
-The Instrument Content Validation Form is used to validate the content of an instrument, such as a survey or assessment, to ensure it meets certain criteria before it is used. This form is meant to be used by educators to validate the content of their instruments and ensure they are reliable and valid.
-</thinking>
-
 # Instrument Content Validation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an instrument's content to ensure it is reliable and valid.

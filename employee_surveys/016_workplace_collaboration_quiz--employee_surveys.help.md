@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a workplace collaboration quiz to assess the collaboration dynamics within an organization. The quiz aims to understand the team size, collaboration frequency, communication style, and barriers that hinder collaboration. By answering the questions, you will be able to identify areas for improvement to enhance teamwork and communication within your organization.
-
-Before starting the quiz, please note that the questions are designed to be completed individually, and you should answer as accurately as possible based on your personal experience. It is recommended to complete the form without discussing it with your colleagues to ensure your personal opinions and feelings are recorded accurately.
-
-Please review this help guide carefully before proceeding. If you have any doubts or concerns, feel free to ask your supervisor or HR representative for guidance.</thinking>
-
 # Workplace Collaboration Quiz - Help Guide
 ## Purpose
 This guide is designed to walk you through the Workplace Collaboration Quiz, a survey aimed at understanding collaboration dynamics within your organization. By completing this quiz, you will be able to:

@@ -1,13 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and requirements of the "Winter Break Transportation Survey" form. Please note that this form is used to collect information about your transportation plans during winter break, and it's essential to provide accurate and complete answers.
-
-Before proceeding, ensure that you have not completed this form before, as it may contain sensitive information about your travel plans. If you're unsure, please review your previous responses to ensure consistency.
-
-This form has 16 fields, each with specific requirements and options. Make sure to read each field carefully and select the correct options to provide accurate information.
-
-To complete this form, follow the instructions below:
-</thinking>
-
 # Winter Break Transportation Survey - Help Guide
 
 ## Purpose

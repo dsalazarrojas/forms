@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess an individual's credit aptitude, which is an essential aspect of a person's financial literacy. This form aims to gauge a person's understanding of credit concepts, such as interest rates, credit scores, and credit cards. The form typically consists of multiple questions and tests a person's ability to apply their knowledge to real-world scenarios. This form is designed to provide a comprehensive evaluation of a person's credit aptitude and help identify areas where they need improvement.
-</thinking>
-
 # credit_aptitude_test - Help Guide
 ## Purpose
 The credit aptitude test is designed to assess your understanding of credit concepts and evaluate your ability to apply this knowledge to real-world scenarios.

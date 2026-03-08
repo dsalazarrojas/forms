@@ -1,8 +1,3 @@
-<thinking>...
-We should first verify that we're not duplicating the form's purpose in existing documentation. After that, let's assume the goal of this form is to gather information from users looking to outsource jobs or tasks to our organization. This form will likely be used by potential freelancers, independent contractors, or external partners seeking to work with us on specific projects.
-We'll need to clearly explain each field in a way that's both concrete and practical for end-users. This might require some interpretation since some fields might not have clear labels or hints provided in the YAML.
-</thinking>
-
 # Outsourcing Job Application Form - Help Guide
 ## Purpose
 This form is designed to help us collect information from potential freelancers, independent contractors, or external partners who are interested in working with us on specific projects or jobs. Please fill out this form to provide us with your details and we'll review your application accordingly.

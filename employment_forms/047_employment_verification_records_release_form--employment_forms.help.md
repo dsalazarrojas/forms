@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employment Verification Records Release Form - Help Guide
 
 ## Purpose

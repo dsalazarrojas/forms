@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a school staff member's leave. This form is used to record a staff member's request for leave, including the start and end dates of their leave, the reason for their leave, and any relevant contact information. 
-This form is intended for staff members to submit their leave requests. If you are a staff member, you will likely need to complete this form to request leave. If you are a school administrator or HR representative, you will use this form to process and manage staff leave requests. 
-Please ensure that you have read and understand the instructions below before completing this form.
-</thinking>
-
 # School Staff Leave Form - Help Guide
 ## Purpose
 This form is used to request leave from school staff members.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their availability and preferences for attending theater events. It is likely intended for event organizers or theater staff to understand when and how many people are interested in attending events, and what accommodations may be needed. To ensure this form is filled out correctly, the user must be a person interested in attending a theater event, not just any random person. 
-</thinking>
-
 # Theater Availability Survey - Help Guide
 ## Purpose
 This form is designed to help the theater understand your availability and preferences for upcoming events.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Release Form - Help Guide
 ## Purpose
 The Work Release Form is used to document the official separation of an employee from their work. This form is used to collect information on the employee's name, ID, job title, date of separation, reason for separation, and expected return date. It also requires a signature from the employee, confirming their understanding of their separation.

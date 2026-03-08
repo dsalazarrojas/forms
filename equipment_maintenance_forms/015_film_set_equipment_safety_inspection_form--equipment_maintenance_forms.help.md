@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to conduct a safety inspection on film equipment on a set. The purpose of this form is to gather information about the condition and maintenance status of equipment, identify potential safety risks, and outline action items to address any issues found during the inspection. This form should be completed by the person conducting the inspection, and will help ensure that all equipment on the set is safe for use.
-
-</thinking>
-
 # Film Set Equipment Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to conduct a safety inspection on film equipment on a set.

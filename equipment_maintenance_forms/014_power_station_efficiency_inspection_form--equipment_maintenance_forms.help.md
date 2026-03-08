@@ -1,7 +1,3 @@
-<thinking>
-The Power Station Efficiency Inspection Form is a crucial tool used by maintenance personnel to assess the efficiency and condition of power stations within an organization. This form helps ensure that all critical equipment is properly maintained, and potential issues are identified and documented. It's essential to complete this form accurately to provide reliable information for future reference and planning. This form is not intended for general use but is a specialized tool for power stations, ensuring that each section is filled out carefully and accurately.
-</thinking>
-
 # Power Station Efficiency Inspection Form - Help Guide
 
 ## Purpose

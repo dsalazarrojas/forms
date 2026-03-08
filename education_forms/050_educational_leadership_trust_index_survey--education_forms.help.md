@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to gather feedback from educational leaders within institutions on their trust in school leadership, which is a crucial aspect of a productive and positive work environment. This form is designed to assess their levels of trust in various areas such as leadership, teachers, staff, facilities, communication, decision-making, and resources. Please note that this form is for internal use only and responses will be used to improve the institution's leadership and services. Please answer all questions truthfully and accurately as they pertain to your role and experience in the institution.
-</thinking>
-
 # Educational Leadership Trust Index Survey - Help Guide
 
 ## Purpose

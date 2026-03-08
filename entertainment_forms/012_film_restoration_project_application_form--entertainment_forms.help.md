@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose and context of this form before diving into its completion. This form is for individuals or organizations interested in applying for a film restoration project. The form's purpose is to gather information about their project, including the project's title, category, description, budget, location, start and end dates, contact details, and any additional information they want to provide. It's essential to fill out the form accurately and completely, as the information will be used to assess the project's eligibility and feasibility.
-
-To ensure that users don't submit duplicate applications, we must emphasize that each project submission should be unique and distinct from others. This form is meant for new projects only. Before filling out the form, users should review the submission terms to ensure they understand the project's requirements and expectations.
-
-Please review the submission terms carefully before proceeding.
-
-</thinking>
-
 # Film Restoration Project Application Form - Help Guide
 
 ## Purpose

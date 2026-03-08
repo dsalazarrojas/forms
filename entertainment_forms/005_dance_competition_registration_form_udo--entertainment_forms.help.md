@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from contestants for a dance competition. It's crucial to ensure that the form is filled out correctly and consistently to accurately process and manage registrations. To avoid duplication and ensure accurate records, please fill out the form carefully and thoroughly.
-
-The form is divided into several sections that gather personal details about the contestant, contact information, and dance school-related data.
-
-To ensure accurate completion, review each field carefully and make sure to fill out all required fields.
-
-Before submitting, review the form for any errors or missing information.
-
-If you're unsure about any field, refer to this help guide for clarification.
-
-</thinking>
-
 # Dance Competition Registration Form UDO - Help Guide
 ## Purpose
 The Dance Competition Registration Form UDO is designed to collect essential information from contestants for the dance competition. This form ensures accurate and consistent data for efficient processing and management.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from employees for the employee benefits pilot program. This program aims to provide various benefits to employees, and this form is used as an entry point to capture relevant details about each employee. To ensure accuracy, it is essential to fill out the form with the correct and complete information. Please note that you are not expected to answer this form if you have already completed it previously. If you have any questions or concerns, please reach out to your HR or management team.
-
-</thinking>
-
 # employee_benefits_pilot_application_form - Help Guide
 ## Purpose
 This form is designed to collect information from employees for the employee benefits pilot program, which aims to provide various benefits to employees.

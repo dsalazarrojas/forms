@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from researchers interested in conducting studies or research projects related to equity in education. To ensure that we can process your application correctly, please review this help guide carefully.
-
-Before starting, please note that we will check for duplication of applications and will only process unique submissions.
-
-</thinking>
-
 # Equity In Education Research Application Form - Help Guide
 
 ## Purpose

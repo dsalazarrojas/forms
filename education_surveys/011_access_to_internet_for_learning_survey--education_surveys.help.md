@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect data on students' and learners' experiences with internet access for online learning. The goal is to understand the effectiveness, accessibility, and challenges of using the internet for education purposes. The form will help identify areas of improvement to enhance the online learning experience.
-
-Before proceeding, please ensure that this form is relevant to your needs and not a duplicate. If you have any questions or concerns, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # Access To Internet For Learning Survey - Help Guide
 ## Purpose
 This form is a survey designed to collect information about your experiences with internet access for online learning. It will help us understand your needs and challenges to improve the online learning experience.

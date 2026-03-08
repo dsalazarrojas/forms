@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about the skills and job preferences of individuals in the energy sector. The purpose of this form is to help employers or recruiters match candidates with suitable job openings in the energy sector. The form asks for information about the candidate's skills, job type, job positions, locations, and contact details.
-
-The form is not meant to be a comprehensive job application form, but rather a supplementary tool to help match candidates with job openings that match their skills and preferences. It is not a replacement for a full job application or resume submission.
-
-Before filling out this form, please ensure that you are not already registered in our system or have previously submitted a similar form. If you have any doubts or questions, please contact our support team.
-</thinking>
-
 # energy_sector_skilled_employment_form - Help Guide
 ## Purpose
 The energy sector skilled employment form is designed to help employers or recruiters match candidates with suitable job openings in the energy sector.

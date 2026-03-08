@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Survey On Early Music Instruction" form. This form is designed to gather information on early music education, including the perceived benefits of different types of music education for students and educators. This guide will walk users through each field of the form, explaining their purpose and how to complete them correctly.
-</thinking>
-
 # Survey On Early Music Instruction - Help Guide
 ## Purpose
 The "Survey On Early Music Instruction" form is designed to collect data on the perceived benefits of different types of music education for students and educators. This form will help us understand how early music education impacts students' cognitive, social, and emotional development.

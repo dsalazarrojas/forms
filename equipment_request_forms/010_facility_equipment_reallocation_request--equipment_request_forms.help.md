@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Facility Equipment Reallocation Request" form, we need to understand that this form is used to request the reallocation of facility equipment from one location to another. This form should only be filled out by authorized personnel, and it should be done in accordance with existing facility equipment management policies and procedures. This form may need to be reviewed and approved by multiple parties before it is processed.
-</thinking>
-
 # Facility Equipment Reallocation Request - Help Guide
 
 ## Purpose

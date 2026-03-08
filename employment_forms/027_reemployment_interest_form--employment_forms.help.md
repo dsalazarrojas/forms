@@ -1,9 +1,3 @@
-<thinking>
-
-Internal reasoning: This form is used to collect information on a user's former employment history, their availability to be reemployed, role preferences, and job title. The form is meant to be used in a specific context, and we need to ensure that users understand its purpose and how to fill it out correctly. I will use the provided YAML fields to create a concise and practical user guide that covers the form's purpose, completion instructions, and field-by-field explanation.
-
-</thinking>
-
 # reemployment_interest_form - Help Guide
 
 ## Purpose

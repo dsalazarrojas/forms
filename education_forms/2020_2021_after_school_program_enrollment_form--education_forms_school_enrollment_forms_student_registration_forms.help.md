@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for parents or guardians to enroll their child in an after-school program, likely a program that provides additional support and activities for students who need them. This form will be used to gather information about the child, their parents or guardians, and their needs and arrangements for program participation. To use this form correctly, you will need to complete the entire form, including providing all required information for each section.
-</thinking>
-
 # 2020 2021 After School Program Enrollment Form - Help Guide
 ## Purpose
 This form is used to enroll your child in the 2020-2021 After School Program. Please complete this form to provide information necessary for the program staff to understand your child's needs and ensure a safe and enjoyable experience for them.

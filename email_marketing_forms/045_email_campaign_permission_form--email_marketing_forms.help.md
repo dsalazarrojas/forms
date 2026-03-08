@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect contact information and permission from users to receive marketing materials from us. The form is typically displayed on a website or landing page, and is designed to be completed by individuals who want to stay informed about industry news, promotional offers, or marketing information.
-Before completing this form, please ensure you are not already subscribed to our email list to avoid duplication of effort. If you are unsure whether you are already subscribed, you can check your email inbox for our previous communications.
-</thinking>
-
 # Email Campaign Permission Form - Help Guide
 ## Purpose
 

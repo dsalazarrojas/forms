@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to collect feedback from a subject representative about a specific subject, likely in the context of education surveys. It seems that this feedback is crucial for understanding the thoughts, concerns, and suggestions related to a particular subject. The form will help collect and categorize this feedback, which is essential for improvement and decision-making. To make sure that the data collected is relevant and accurate, it's crucial to avoid duplication and ensure that the form is filled out correctly. This guide will help users complete the form correctly and provide clear information about each field's purpose.
-</thinking>
-
 # Subject Representative Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from a subject representative about a specific subject. The feedback includes thoughts, concerns, and suggestions related to that subject.

@@ -1,11 +1,3 @@
-<thinking>
-The "employee_engagement_questionnaire" form is designed to collect feedback from employees on various aspects of their employment experience. This form is intended to help employers identify areas of improvement and provide opportunities for growth within the organization. To ensure the relevance and accuracy of responses, please note that this form should only be completed by current or former employees of the organization.
-
-Before starting, please check if you have already completed this form. Duplicate submissions can affect the validity of the survey results.
-
-Please ensure you have the necessary permission to complete this survey. If you're not an employee, your response will not be included in the survey results.
-</thinking>
-
 # employee_engagement_questionnaire - Help Guide
 ## Purpose
 The purpose of this employee engagement questionnaire is to gather feedback from employees on various aspects of their employment experience. This will help us identify areas of improvement and provide opportunities for growth within the organization.

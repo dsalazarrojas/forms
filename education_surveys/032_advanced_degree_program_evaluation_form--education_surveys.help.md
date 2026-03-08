@@ -1,8 +1,3 @@
-<thinking>
-We are creating a help guide for the Advanced Degree Program Evaluation Form. This form is designed to collect feedback from respondents about their experiences with an advanced degree program. The form aims to gather information on various aspects of the program, such as curriculum relevance, faculty quality, research opportunities, and overall satisfaction. The goal is to use this feedback to improve the program and provide better services to students. To ensure that the form is filled out correctly, we need to clearly explain the purpose and process of completing the form.
-
-</thinking>
-
 # Advanced Degree Program Evaluation Form - Help Guide
 ## Purpose
 The Advanced Degree Program Evaluation Form is designed to collect feedback from respondents about their experiences with an advanced degree program. The form helps us understand how well the program meets the needs of its students and identify areas for improvement.

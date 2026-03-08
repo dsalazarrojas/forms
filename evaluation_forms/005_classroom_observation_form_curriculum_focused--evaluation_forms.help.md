@@ -1,11 +1,3 @@
-<thinking>This guide is intended to help users complete the "Classroom Observation Form (Curriculum Focused)" accurately and efficiently. Before proceeding, please ensure you have a clear understanding of the form's purpose and are not duplicating observations from previous lessons or classes.
-
-This form is designed to evaluate the effectiveness of teaching and classroom management in a classroom setting, specifically focusing on curriculum delivery. It's essential to observe and report on various aspects of the teacher's performance, such as lesson planning, instructional strategies, classroom environment, and overall effectiveness of the curriculum.
-
-Please note that the observations made on this form should be based on your personal, unbiased experiences during the lesson or class you observed. It's crucial to provide constructive feedback that can help the teacher identify areas of improvement and areas of strength.
-
-To use this form effectively, please read each section carefully, and answer questions truthfully based on what you've observed. Don't hesitate to provide specific examples or anecdotes to support your answers, as this will help the teacher understand your observations better.</thinking>
-
 # Classroom Observation Form (Curriculum Focused) - Help Guide
 ## Purpose
 The Classroom Observation Form (Curriculum Focused) is designed to evaluate the effectiveness of teaching and classroom management in a classroom setting, specifically focusing on curriculum delivery.

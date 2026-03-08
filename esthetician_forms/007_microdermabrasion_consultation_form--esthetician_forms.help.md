@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, we first need to understand the purpose of this form and how it will be used. The Microdermabrasion Consultation Form appears to be a tool for gathering information from potential clients or patients before conducting a microdermabrasion treatment. It likely helps the practitioner to assess the client's medical history, skin type, and other relevant details to decide whether the treatment is suitable for them. It may also serve as a consent form for the client to agree to the treatment. This form is probably used by estheticians or medical professionals to collect data that will inform their decision-making process.</thinking>
-
 # Microdermabrasion Consultation Form - Help Guide
 ## Purpose
 The Microdermabrasion Consultation Form is a tool for gathering information from potential clients or patients before conducting a microdermabrasion treatment. This form helps the practitioner assess the client's medical history, skin type, and other relevant details to decide whether the treatment is suitable for them.

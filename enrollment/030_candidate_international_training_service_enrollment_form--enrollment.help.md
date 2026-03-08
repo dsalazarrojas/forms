@@ -1,5 +1,3 @@
-<thinking>Form purpose and requirements need to be checked for relevance and non-duplication before proceeding.</thinking>
-
 # Candidate International Training Service Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates for the International Training Service. It includes various sections to gather details about the applicant's profile, academic background, motivation, and logistical requirements.

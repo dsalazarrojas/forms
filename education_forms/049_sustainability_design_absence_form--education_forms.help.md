@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to record a project's sustainability design absence, which is an important aspect of project management and development. The form's purpose is to collect information about a project, its start and end dates, type, absence reason, impact, and status.
-To ensure the form's integrity and effectiveness, it is essential to review and understand its components before filling it out. This guide will provide a clear and concise explanation of each field to help you complete it accurately and efficiently.
-</thinking>
-
 # Sustainability Design Absence Form - Help Guide
 ## Purpose
 The Sustainability Design Absence Form is a tool used to document and report on the absence of sustainability design in a project. It is designed to collect relevant data on project characteristics, absence reasons, and status.

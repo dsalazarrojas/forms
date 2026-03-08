@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # lgbtq_allyship_in_nonprofits_survey - Help Guide
 ## Purpose
 

@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be a submission application form for live experiences and events. The form is likely used by artists or teams to provide details about their live experiences, including project details, main event description, team information, event location, and budget. Submissions will be collected for events that are festivals, events, activations, and installations. 
-
-To ensure accuracy and avoid duplicated submissions, this guide is intended to assist users in completing the form properly and thoroughly. If you're unsure about a specific field or have additional questions about the form, please refer to the internal documentation.
-
-This form consists of 20 fields, each containing unique information about live experiences. Users will navigate the form in sections, providing details from project basics to event specifics.
-
-To complete this form successfully, users must fill out the submission form completely and accurately.
-
-</thinking>
-
 # Live Experience Design Submission Application Form - Help Guide
 ## Purpose
 The Live Experience Design Submission Application Form is designed to collect essential information about live experiences, including festivals, events, activations, and installations. This form is intended to provide clear and concise details about a submission.

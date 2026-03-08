@@ -1,5 +1,3 @@
-<thinking>...We are creating a form to gauge employee satisfaction and engagement. The purpose of this form is to collect feedback from employees on their experience working with our organization. This form is meant to be completed by employees to provide their thoughts, opinions, and suggestions for improvement. To ensure a comprehensive feedback, we want to avoid duplication and overlap of similar responses. If you have already completed this form recently, please refrain from responding again, as your opinions and suggestions have already been taken into consideration...</thinking>
-
 # Excellence And Dedication Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on their experience working with our organization. It aims to identify areas of improvement, areas of strength, and suggestions for growth. Your honest opinions and suggestions are essential in helping us enhance our work environment and employee experience.

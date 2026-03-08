@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to report a medical emergency incident, allowing users to provide critical information about the incident, including patient details, contact information, and relevant context such as date, time, location, and medical conditions. This form is designed to be completed by users who have experienced or witnessed a medical emergency, and the information collected will help in responding to the incident.
-
-Before creating this guide, it's essential to check if you have already reported the incident or if the information is redundant. This will help streamline the process and prevent unnecessary duplication of effort.
-
-The form is divided into two main sections: Patient Information and Incident Details. Each section contains multiple fields that you will need to complete to provide a comprehensive report. Please follow the instructions below to ensure you provide all necessary information.
-</thinking>
-
 # Medical Emergency Incident Form - Help Guide
 ## Purpose
 The purpose of this form is to report a medical emergency incident, allowing users to provide critical information about the incident, including patient details, contact information, and relevant context such as date, time, location, and medical conditions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gauge employee engagement and loyalty within the organization. Its purpose is to collect information on how employees perceive their working environment, team collaboration, and managerial support. The survey helps to identify areas of strength and weakness, providing insights that can be used to improve employee experience and retention. Please ensure that you are not completing this form if you are not an employee of the organization or have already completed it in the past 30 days. If you are unsure about your role, please contact your HR representative for clarification.
-</thinking>
-
 # Employee Trust And Loyalty Survey - Help Guide
 ## Purpose
 The Employee Trust And Loyalty Survey is designed to gather information about your perceptions and experiences within our organization. Your responses will help us identify areas where we excel and areas that need improvement. Your input is invaluable in helping us create a more positive and inclusive work environment.

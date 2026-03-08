@@ -1,13 +1,3 @@
-<thinking>... (internal reasoning block)
-
-This form is designed to capture information for travel advance requests from employees. The form is used to gather details about the employee's travel plans, including their name, ID, business purpose, travel dates, destination, estimated expenses, department, form status, submitted and approved status, and any updates to the form status.
-
-The form is likely to be used by employees to request travel advances for business trips, and the information collected will be used by management or HR to review and approve or reject the requests.
-
-To avoid duplication of work and ensure that only one request is submitted per employee per trip, employees should check the form status before submitting their request and ensure that the request is not already in the 'Pending Review' status.
-
-</thinking>
-
 # travel_advance_request_form - Help Guide
 ## Purpose
 The travel advance request form is used by employees to request travel advances for business trips.

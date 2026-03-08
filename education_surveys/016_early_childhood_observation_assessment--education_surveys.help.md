@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for end-users who will be completing the Early-Childhood-Observation-Assessment form. Before proceeding, it's essential to ensure that this guide applies to your specific use case and that you have a basic understanding of the form's purpose. This form is meant to be used for observational assessments of children in educational settings, and it's crucial that the user completes the form with a clear understanding of the form's intent. If you're unsure about the purpose or any specific fields, please verify with your supervisor or colleague before continuing. 
-Please note that this form is not a one-size-fits-all solution, and some fields might be optional based on your specific context. If you have any questions or concerns, feel free to reach out for clarification.
-</thinking>
-
 # Early-Childhood-Observation-Assessment - Help Guide
 
 ## Purpose

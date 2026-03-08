@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees on various aspects of the workplace committee, including its decision-making processes, voting procedures, and overall engagement. It appears to be a general feedback form for employees to share their thoughts and opinions on the committee's effectiveness and efficiency. However, without further context, it's difficult to determine the exact purpose or specific requirements of the form. 
-
-To confirm that this form is suitable for your use case, please review the form's fields and compare them with your actual survey goals and needs. 
-
-If you're still unsure, consider consulting with the form's original creator or your organization's survey administrators to ensure you're using the correct form for your intended use case.
-</thinking>
-
 # Workplace Committee Voting Form - Help Guide
 ## Purpose
 The Workplace Committee Voting Form is designed to gather feedback from employees on their experiences and opinions regarding the workplace committee, including its decision-making processes, voting procedures, and overall engagement.

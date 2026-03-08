@@ -1,11 +1,3 @@
-<thinking>
-The Portfolio Feedback Form is a crucial tool to gather valuable insights from users on their experience with a portfolio of projects or services. This form is meant to collect feedback that can help us improve the quality and relevance of our portfolios. 
-
-To ensure that we only receive relevant and accurate feedback, we ask that users only fill out this form for specific portfolios that you have direct experience with. To avoid duplication of effort, please do not use this form for feedback on portfolios that you have already sent us feedback on before.
-
-This form will be submitted to our team, and we will use the responses to identify areas for improvement and make informed decisions to enhance our portfolio offerings.
-</thinking>
-
 # Portfolio Feedback Form - Help Guide
 
 ## Purpose

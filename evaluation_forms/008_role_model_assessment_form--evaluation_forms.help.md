@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to assess individual leadership qualities of a specific role model. The role model is likely a person in a leadership position or someone who has demonstrated exceptional leadership skills. The form aims to capture the respondent's evaluation of the role model's leadership qualities, such as their ability to provide direction, set clear goals, communicate effectively, and support others. The form is designed to be completed by someone who has observed the role model's behavior or has interacted with them. The purpose of the form is to gather feedback on the role model's leadership skills, which can be used for development, recognition, or other purposes.
-
-This form is not intended to be a comprehensive assessment of the role model's entire personality or character, but rather a focused evaluation of their leadership skills. Please ensure you have a good understanding of the role model's behavior and context before completing this form.
-
-Before proceeding, please review the form to ensure you are not duplicating an assessment and that your feedback is relevant to the role model. If you are unsure about any aspect of the form, please contact the form creators at form@gic.mx.
-</thinking>
-
 # Role Model Assessment Form - Help Guide
 ## Purpose
 The Role Model Assessment Form is designed to evaluate the leadership qualities of a specific role model.

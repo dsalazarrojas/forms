@@ -1,5 +1,3 @@
-<thinking>...The Construction Employee Evaluation Form is used to evaluate the performance of construction employees, providing a structured framework for supervisors to assess an employee's work quality, productivity, reliability, and other relevant factors. This form helps identify areas of strength and areas needing improvement, enabling employees to develop and grow in their roles. It is essential to complete this form accurately and honestly, as it serves as a critical component of the employee evaluation process... </thinking>
-
 # Construction Employee Evaluation Form - Help Guide
 ## Purpose
 The Construction Employee Evaluation Form is a tool used to assess the performance of construction employees, focusing on their work quality, productivity, reliability, and other relevant factors. This form helps supervisors evaluate employee strengths and weaknesses, providing a comprehensive picture of their performance.

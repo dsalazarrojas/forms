@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # e_learning_program_evaluation_questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluation of the e-learning program from participants. It helps us understand their experiences, perceptions, and opinions about the program's course learning objectives, instructor support, course satisfaction, organization, content, time spent, and overall value.

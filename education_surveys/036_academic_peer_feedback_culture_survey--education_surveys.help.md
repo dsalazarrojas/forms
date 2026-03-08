@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information on the peer feedback culture within an institution, specifically to understand the frequency and perceived value of feedback among staff, faculty, and students. This data will help identify potential barriers and suggest practical ideas for improvement. It is essential to fill this form out thoroughly and accurately to provide valuable insights for the institution.
-</thinking>
-
 # Academic Peer Feedback Culture Survey - Help Guide
 ## Purpose
 This form is designed to gather information on peer feedback culture within an institution, including the frequency and perceived value of feedback, as well as barriers and suggestions for improvement. It aims to provide insights that can be used to enhance the culture of peer feedback.

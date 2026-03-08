@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect evaluations of services provided to clients. This form helps to assess the quality and effectiveness of the services, identify areas for improvement, and inform future service development. The form is intended for clients to provide feedback on their experience with the service, including their name, company, course title (if applicable), contact information (telephone and email), and other relevant details. The goal is to gather comprehensive feedback to help the service providers refine their offerings and improve client satisfaction.
-</thinking>
-
 # Service Evaluation Form - Help Guide
 
 ## Purpose

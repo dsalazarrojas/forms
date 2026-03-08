@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to help individuals assess their understanding and behavior towards empathy and respect, particularly in difficult situations. This form is designed to elicit self-reflection and introspection from individuals on their ability to show and receive respect in various contexts. It is intended to be used for personal growth, team-building, or educational purposes. Please ensure that you have carefully reviewed the form contents before proceeding to fill it out.
-
-</thinking>
-
 # empathy_and_respect_self_assessment - Help Guide
 ## Purpose
 The purpose of this empathy and respect self-assessment form is to help you reflect on your understanding and behavior towards empathy and respect, particularly in difficult situations.

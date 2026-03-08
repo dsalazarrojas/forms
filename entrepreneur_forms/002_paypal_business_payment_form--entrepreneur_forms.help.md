@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "paypal_business_payment_form" form, I will consider the provided YAML fields and provide a clear and concise explanation of the form's purpose, how to complete it, and each field's meaning.
-
-The form appears to be a setup for creating a PayPal payment form for businesses. However, it seems that some fields might be confusing or redundant. Upon closer inspection, I notice that some fields, such as "form_button_label", "form_submit_button_label", "form_cancel_button_label", "form_button", "form_cancel_button", and "form_submit_button", seem to have similar functionality and might be causing confusion. I will address these fields accordingly.
-
-The form's purpose is to collect information for a PayPal payment form for businesses. It seems that the form is designed to capture basic information such as business name, email, and phone number, as well as more specific details like currency and amount. There might be some redundancy or inconsistencies in the form design, but I will provide a clear explanation of each field's intent and functionality.
-
-</thinking>
-
 # paypal_business_payment_form - Help Guide
 ## Purpose
 The "paypal_business_payment_form" is a setup form for creating a PayPal payment form for businesses. It collects information necessary for payment processing, such as business details, currency, and amount.

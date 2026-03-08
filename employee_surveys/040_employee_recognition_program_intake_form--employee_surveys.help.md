@@ -1,14 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose and requirements of the "Employee Recognition Program Intake Form". This form is used for nominating employees for recognition within the company's recognition program. It's essential to ensure that the nomination is accurate and complete to facilitate a fair evaluation process. To avoid duplications, please note that:
-
-* Only one nomination per employee per month is allowed.
-* Nominations should be submitted for current or past performance.
-* Nominations should include relevant details about the employee's achievements.
-* Multiple nominations for the same employee in the same month are not allowed.
-
-Before completing this form, make sure you have the required information and that the nomination is accurate and complete.
-
-</thinking>
-
 # Employee Recognition Program Intake Form - Help Guide
 ## Purpose
 The "Employee Recognition Program Intake Form" is designed to help employees nominate their colleagues for recognition within the company. This form captures essential details about the nominee, their achievements, and the recognition type. Please complete this form accurately to ensure a fair evaluation process.

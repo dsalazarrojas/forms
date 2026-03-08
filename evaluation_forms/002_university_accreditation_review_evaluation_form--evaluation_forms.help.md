@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to collect data for the purpose of evaluating the accreditation of a university. The form is intended to gather general information, institutional data, academic program data, faculty data, and assessment criteria for the evaluation process. The form does not duplicate any existing forms and is a unique creation using only public survey topic metadata (title + industry/category) as inspiration. This form is released under CC BY 4.0 and can be used, modified, and even sold freely, as long as credit is given.
-</thinking>
-
 # University Accreditation Review Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather data for the evaluation of a university's accreditation. It collects information from various categories to help assess the institution's quality and standards.

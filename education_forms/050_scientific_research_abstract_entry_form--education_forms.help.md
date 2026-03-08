@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from researchers about their scientific research. The purpose of this form is to provide a structured way for researchers to submit their abstracts and relevant contact information. The form is likely used by administrators or other stakeholders to gather data on research projects. This form should only be used for legitimate research abstracts and not for other purposes. It's possible that this form has been previously created in the system, so make sure to check if a form with the same title already exists before submitting.
-</thinking>
-
 # scientific_research_abstract_entry_form - Help Guide
 ## Purpose
 This form is designed to collect information from researchers about their scientific research. The purpose of this form is to provide a structured way for researchers to submit their abstracts and relevant contact information.

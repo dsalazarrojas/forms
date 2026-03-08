@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to provide a user-friendly interface for educators to request access to the Sustainable Teaching Toolkit. The form should be designed to be easy to use and understand by end-users, while also minimizing the risk of duplicated requests or requests that are not relevant to the toolkit.
-
-To create a form that meets these requirements, I'll analyze the provided YAML fields and provide a concrete, concise, and practical explanation of each field.
-
-</thinking>
-
 # Sustainable Teaching Toolkit Request Form - Help Guide
 ## Purpose
 The Sustainable Teaching Toolkit Request Form is designed to collect information from educators about their needs and preferences for access to the Sustainable Teaching Toolkit. This form helps the toolkit's administrators to understand the users' requirements and provide tailored support.

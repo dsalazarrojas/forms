@@ -1,7 +1,3 @@
-<thinking>
-The Team Trust Index Survey is a tool used to measure the level of trust within a team, evaluating how well individual team members collaborate, communicate, and support each other. This survey helps teams to identify areas of strength and weakness, allowing for targeted interventions to improve team cohesion and performance.
-</thinking>
-
 # Team Trust Index Survey - Help Guide
 ## Purpose
 This form is designed to gather input from team members on their perceptions of the team's dynamics, trustworthiness, and overall performance. The survey is used to generate a Team Trust Index score, which provides a numerical value representing the team's overall level of trust.

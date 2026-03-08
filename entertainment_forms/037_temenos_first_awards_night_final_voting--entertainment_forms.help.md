@@ -1,13 +1,3 @@
-<thinking>
-
-The form is used to collect feedback and preferences from attendees for the First Awards Night event. This form is meant to gather information to help with organizing and planning for future events. The answers provided will help the organizers to better understand the attendees' opinions and make informed decisions for future events.
-
-The form is not a mandatory requirement and is intended to be completed by attendees on a voluntary basis.
-
-To avoid duplication of effort, please only provide feedback or preferences if you have not already done so in previous years.
-
-</thinking>
-
 # Temenos First Awards Night Final Voting - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and preferences from attendees for the First Awards Night event. Your input will help us better understand your opinions and make informed decisions for future events.

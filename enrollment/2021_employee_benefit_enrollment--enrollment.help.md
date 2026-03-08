@@ -1,21 +1,6 @@
 # 2D Animation Course Feedback - Help Guide
 ## Purpose
 
-<thinking>
-This form is designed to collect feedback from students who have completed the 2D Animation Course. The feedback will help the course instructors and administrators to understand the strengths and weaknesses of the course, identify areas for improvement, and make data-driven decisions to enhance the learning experience. The form will help to gauge the student's perception of the course content, instructor effectiveness, and overall experience.
-
-The form is structured to gather both quantitative (numeric) and qualitative feedback from students. The quantitative feedback includes ratings on various aspects such as instructor effectiveness, relevance of course content, and quality of project assignments. The qualitative feedback is collected through open-ended questions that allow students to express their opinions and suggestions in detail.
-
-Please ensure that you are providing feedback for a course you have genuinely completed. If you have not completed the course, your feedback will be discarded.
-
-Please note that some fields are optional, and you can skip them if you do not want to provide feedback on that particular aspect.
-
-Before proceeding, ensure that you have completed the course and that your feedback is based on your actual experience.
-
-Please fill out this form honestly, and we appreciate your time and effort in helping us improve the 2D Animation Course.
-
-</thinking>
-
 ## How To Complete This Form
 
 1. Start by filling out the required fields, which are marked with an asterisk (\*).

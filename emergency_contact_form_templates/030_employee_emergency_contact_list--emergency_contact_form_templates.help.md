@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about the emergency contacts of employees. This form will help the organization to have a list of emergency contacts that can be reached in case of an emergency. Please ensure that this form is completed only once for each employee and that the information is accurate and up-to-date.
-</thinking>
-
 # Employee Emergency Contact List - Help Guide
 ## Purpose
 This form is used to collect information about the emergency contacts of employees.

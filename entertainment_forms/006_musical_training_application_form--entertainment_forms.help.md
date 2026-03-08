@@ -1,12 +1,3 @@
-<thinking>
-This form is for users to provide personal and contact information, musical skills, and appointment details for musical training. The form is not a mandatory form, but rather a way for users to express their interest in musical training. Users are not required to complete every field, but filling out all the fields will allow us to better understand their needs and preferences.
-
-Before filling out the form, please note that you can skip fields that you're not comfortable sharing, and you're not obligated to provide more information than you're willing to share.
-
-This guide is to help you understand the purpose and requirements of each field, and to ensure that you complete the form accurately and effectively.
-
-</thinking>
-
 # Musical Training Application Form - Help Guide
 ## Purpose
 The Musical Training Application Form is designed for users who are interested in musical training. The form helps us understand your needs and preferences for musical training, and we use the information provided to tailor our services to meet your requirements.

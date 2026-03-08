@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect self-employment records from individuals or businesses. It's essential to complete this form accurately to ensure that the submitted information is correct and up-to-date. Please ensure that the information provided is true and accurate to the best of your knowledge.
-</thinking>
-
 # self_employment_records_form - Help Guide
 ## Purpose
 The self-employment records form is used to collect information about your income and expenses for tax purposes. This form helps us to better understand your financial situation and ensure that your records are accurate and up-to-date.

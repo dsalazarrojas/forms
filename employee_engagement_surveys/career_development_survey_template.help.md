@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on their career development and overall satisfaction within the organization. 
-It is meant to improve employee experience and growth opportunities. 
-Before proceeding, please ensure that this form is not being used to duplicate or supersede any existing evaluation processes. 
-</thinking>
-
 # career_development_survey_template - Help Guide
 ## Purpose
 The "Career Development Survey" is designed to gather feedback from employees on their career development and overall satisfaction within the organization, aiming to improve employee experience and growth opportunities.

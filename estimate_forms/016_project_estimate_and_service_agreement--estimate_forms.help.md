@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a project's estimate and service agreement. This form will likely be used by project managers, clients, or customers to document and agree on the details of a project's scope, timeline, and costs. It's a crucial document that outlines the terms and conditions of the service provided, ensuring both parties are on the same page.
-Before filling out this form, please note that it's designed to gather information for a specific project. If you're unsure about the purpose or scope of the project, please contact the project manager or client representative to clarify.
-This form is not a standard contract or legal agreement. It's intended to provide a general outline of the project's terms and conditions, which can be used as a basis for a formal contract or agreement.
-</thinking>
-
 # Project Estimate And Service Agreement - Help Guide
 ## Purpose
 This form collects information for a project's estimate and service agreement. It's meant to outline the scope, timeline, and costs associated with the project, ensuring both parties are aware of the terms and conditions.

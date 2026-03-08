@@ -1,12 +1,3 @@
-<thinking>
-To determine whether this form is relevant to your work and not a duplicate, please consider the following:
-
-* If you are an employee or team member, you might have already completed this form in the past as part of your psychological safety feedback survey. 
-* If you're a manager or team lead, you might be receiving this form as a feedback submission from an employee. 
-* This form is intended to gather feedback on psychological safety in the workplace, and it's essential to ensure that you understand its purpose and relevance before proceeding.
-
-</thinking>
-
 # psychological_safety_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on psychological safety in the workplace. It helps employees provide their honest and confidential feedback to their managers, ensuring a safe and healthy work environment.

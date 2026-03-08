@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from clients to book spa appointments. It is intended for individuals to provide their personal and appointment details. This form should not be used to collect sensitive information that would require additional security measures.
-
-To avoid confusion, please note that this form is not intended for internal use only. It is designed to be user-friendly and easily accessible.
-
-Before proceeding, ensure you have the necessary permissions and follow any relevant company policies.
-
-</thinking>
-
 # Spa Appointment Form - Help Guide
 ## Purpose
 The Spa Appointment Form is designed to collect information from clients to book appointments at a spa. This form gathers details such as name, contact information, available dates, and services requested.

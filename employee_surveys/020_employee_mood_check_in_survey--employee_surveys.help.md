@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be an employee survey designed to gauge various aspects of employee sentiment and experiences within the organization. It includes questions about their mood, energy levels, stress, support systems, manager performance, team dynamics, company values, and other relevant factors. It's likely intended for managers and HR teams to understand employee perceptions and make informed decisions to improve workplace conditions.
-
-The form seems to be a comprehensive tool to collect data, but it may not be necessary for every employee. Some fields like "manager_survey" and "team_mood" might be more relevant for certain roles or departments. Additionally, some questions like "feedback" and "career_development" might be more suited for career-level employees or those with specific concerns. It is suggested that the form be used judiciously, perhaps for specific groups or roles rather than the entire team.
-
-</thinking>
-
 # employee_mood_check_in_survey - Help Guide
 ## Purpose
 The form "employee_mood_check_in_survey" is a comprehensive set of questions designed to gauge employee sentiment, experiences, and perceptions within the company.

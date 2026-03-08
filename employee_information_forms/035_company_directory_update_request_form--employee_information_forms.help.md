@@ -1,7 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Company Directory Update Request Form" that explains its purpose, how to complete it, and what each field means. This guide will help end users understand what they need to provide for a successful submission.
-</thinking>
-
 # Company Directory Update Request Form - Help Guide
 ## Purpose
 

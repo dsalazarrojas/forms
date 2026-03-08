@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an employer's job placement request, including the job title, description, location, and other relevant details. The form is divided into five pages, each focusing on a different aspect of the job placement request.
-</thinking>
-
 # employer_placement_intake_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employers about their job placement requests. This information will be used to manage and track job placements in the system.

@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the form is being used for its intended purpose, which is to collect information about toys for an entrepreneurship project. The form should only be used for toys, and not for other purposes such as collecting information about other products or non-toy related data. This form is designed for collecting detailed information about toys, including their characteristics, prices, and user experiences. Please do not duplicate the form for other purposes.
-</thinking>
-
 # toy_spring - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>... This form is part of the employee wellness program, a company initiative aimed at promoting employees' physical and mental well-being. This form is used to verify the status of employees' participation in the program, ensuring that all employees are accounted for and that the necessary steps are taken to support their well-being. Before filling out this form, please confirm that you are an authorized representative of the company and that you are not duplicating any existing records. ...</thinking>
-
 # employee_wellness_program_verification_form - Help Guide
 
 ## Purpose

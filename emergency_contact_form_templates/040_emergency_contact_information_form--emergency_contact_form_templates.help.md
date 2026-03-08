@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect emergency contact information for an individual, which can be used in case of an emergency. This form is likely used in a business or organization setting where it's essential to have a system in place for handling emergency situations. It's essential to fill out this form only once and ensure that the information is up to date. Please review each field carefully to ensure you have filled out the correct information.
-
-</thinking>
-
 # Emergency Contact Information Form - Help Guide
 
 ## Purpose

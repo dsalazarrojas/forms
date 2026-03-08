@@ -1,12 +1,3 @@
-<thinking>
-**Form Purpose:** This form is meant to gather information about projects, specifically the project details, requirements, and client information. It's a general form for collecting data about projects in the "entertainment" category.
-
-Before you start filling out the form, make sure you have all the required information about the project ready. You can fill out this form once for each project you want to create or update.
-
-The form fields below will guide you through the process, so make sure to read each section carefully to ensure you don't miss any important details.
-
-</thinking>
-
 # Yell Low Creative Request - Help Guide
 ## Purpose
 This form is used to collect information about projects in the "entertainment" category. It's meant for projects that are still in development or have already been completed.

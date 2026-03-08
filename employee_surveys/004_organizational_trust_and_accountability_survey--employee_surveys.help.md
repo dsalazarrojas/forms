@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather feedback from employees on their perceptions of the organizational culture, their relationship with their supervisor or manager, and their views on transparency and accountability within the organization. The form is meant to be a starting point for discussions and improvements in these areas, rather than a comprehensive assessment of employee satisfaction. 
 
 Please note that this form is not a formal performance review or evaluation tool, but rather a means to solicit employee feedback and insights. 

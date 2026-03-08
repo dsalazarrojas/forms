@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information about employee pay stubs. The purpose of this form is to gather data that will be used to process employee payments accurately and efficiently. This form is likely to be used by HR or payroll administrators to collect relevant details about employee job history, payment periods, and other relevant information.
-
-To ensure that this form is not being filled out unnecessarily, please consider whether your situation requires completing this form. For example, are you changing your job title or business unit? Or do you need to provide information for an upcoming payment period? If not, you can exit this form and return to it when you need to.
-
-This form is designed to be completed by employees who need to provide information about their pay stubs. The form is divided into two pages, each with a set of fields that need to be filled out.
-
-Before filling out this form, please make sure you have all the necessary information handy, as some fields may require specific details. If you are unsure about any of the fields, please don't hesitate to ask your HR or payroll representative for clarification.
-
-</thinking>
-
 # Pay Stub Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect accurate and complete information about your pay stubs. The information collected will help ensure that your payments are processed correctly and efficiently.

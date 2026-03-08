@@ -1,11 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I've encountered various surveys in my previous roles. This form's purpose is to gather employee feedback on their sense of belonging in the workplace. The goal is to understand how employees feel valued, included, and likely to recommend the organization to others. This form is not designed to be a comprehensive, scientifically valid instrument, but rather a simple, easy-to-use tool to gather general sentiment. 
-
-Before filling out this form, please ensure you have not already completed it. Your input is invaluable in helping the organization better understand employee needs and improve the work environment. 
-
-</thinking>
-
 # Employee Belonging Index Survey - Help Guide
 ## Purpose
 The Employee Belonging Index Survey is designed to measure employee perceptions of their sense of belonging in the workplace. It's a tool for the organization to better understand employee feelings and make informed decisions to improve employee well-being.

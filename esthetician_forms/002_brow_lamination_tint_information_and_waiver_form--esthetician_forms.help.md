@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is completed accurately and correctly, the purpose of this form is to gather essential information from clients before performing brow lamination and tint services. This includes collecting personal details, medical history, service preferences, and informed consent for the treatment. By following this guide, users will be able to complete the form in a way that ensures a smooth and safe experience for both the client and the esthetician.
-</thinking>
-
 # Brow Lamination and Tint Information and Waiver Form - Help Guide
 
 ## Purpose

@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about incidents that occur at the fitness center, such as injuries, accidents, or other events that require reporting. The form is designed to be completed by employees who have witnessed or reported an incident, and it will help the fitness center management to quickly and efficiently document the incident, identify the root cause, and take corrective action to prevent similar incidents in the future.
-
-To ensure the form is filled out correctly, please follow the steps below.
-
-The form will help the fitness center management to:
-
-* Identify the type of incident that occurred
-* Determine the cause of the incident
-* Document the location and time of the incident
-* Gather witness statements (if applicable)
-* Attach images or videos of the incident (if available)
-
-The form will be reviewed and acted upon by the fitness center management team.
-
-</thinking>
-
 # Fitness Center Incident Report Form - Help Guide
 ## Purpose
 The Fitness Center Incident Report Form is used to document incidents that occur at the fitness center, such as injuries, accidents, or other events that require reporting.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and easy to understand for end-users. Before we proceed, let's review the form's purpose and make sure it's not duplicating any other survey forms.
-</thinking>
-
 # Migrant Workforce Rights Awareness Survey - Help Guide
 ## Purpose
 This form is designed to gauge the awareness and understanding of migrant workers on their rights and the best ways to improve their engagement, well-being, and satisfaction.

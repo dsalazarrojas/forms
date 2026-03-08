@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from email subscribers who have shown interest in the company's products or services. The goal is to understand their demographics and preferences, which will help us tailor our communication and offer incentives that are relevant to their needs.
-We want to ensure that this information is collected in a way that is respectful of our subscribers' privacy and follows all applicable regulations.
-Before filling out this form, please make sure you haven't already provided us with this information. Duplicate entries can cause confusion and make it harder for us to provide personalized services.
-</thinking>
-
 # Email Subscription Incentive - Help Guide
 ## Purpose
 The Email Subscription Incentive form is used to collect demographic information from email subscribers, which will allow us to tailor our communication and offer incentives that match their interests.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for reporting unusual incidents that occur within a care setting, such as a nursing home or assisted living facility. The form is intended to collect detailed information about the incident, including the date, time, location, and type of incident. This information will help in investigating and addressing the incident.
-
-To ensure that only relevant information is collected, users will be asked to provide details about the incident, including the names and contact information of individuals involved, any injuries sustained, and what actions were taken after the incident. The form will also ask about any contributing factors that may have led to the incident and suggestions for preventing similar incidents in the future.
-
-This form is not designed to collect duplicate or redundant information, and users are encouraged to be as detailed and accurate as possible when filling out the form.
-
-</thinking>
-
 # Community Care Unusual Incident Report Form - Help Guide
 
 ## Purpose

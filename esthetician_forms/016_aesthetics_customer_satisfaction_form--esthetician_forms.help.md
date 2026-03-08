@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from customers about their experiences with the aesthetic services provided by your establishment. This data will help you understand how well you're meeting the needs and expectations of your customers, identify areas for improvement, and make informed decisions about future service offerings and marketing strategies.
-
-Before proceeding, ensure that this form is not being used as a duplicate or substitute for other customer feedback mechanisms, such as email or phone surveys, and that the feedback collected is kept confidential and anonymous to encourage honest feedback.
-
-</thinking>
-
 # Aesthetics Customer Satisfaction Form - Help Guide
 ## Purpose
 The Aesthetics Customer Satisfaction Form is designed to collect information about your experience with our aesthetic services. Your feedback will help us understand how we can improve our services and provide better experiences for our customers.

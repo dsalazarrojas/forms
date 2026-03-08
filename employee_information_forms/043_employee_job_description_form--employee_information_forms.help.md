@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and document an employee's job description, which is a fundamental component of employee management and performance evaluation. The purpose of this form is to gather essential information about an employee's job title, department, and working hours to help the organization understand their role and responsibilities, which is essential for employee development, performance assessment, and organizational planning. 
-</thinking>
-
 # employee_job_description_form - Help Guide
 ## Purpose
 The employee_job_description_form is a tool used to document an employee's job title, department, and working hours. This form is used to ensure that all employees have a clear understanding of their roles and responsibilities, which is vital for employee development, performance assessment, and organizational planning.

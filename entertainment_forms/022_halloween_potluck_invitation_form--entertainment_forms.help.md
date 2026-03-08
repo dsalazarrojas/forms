@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are invited to a Halloween potluck event. The form is intended to gather basic contact information (first name, last name, email), RSVP details (whether they will attend and how many guests they will bring), and information about the dish they will bring to the event (first and second dish).
-
-The form should only be used for the specific purpose of collecting RSVPs and dish contributions for a Halloween potluck event. Please note that this form does not have any internal logic for automatically sending notifications or reminders to users. The form's output should be reviewed and acted upon manually by the event organizers.
-
-This guide is intended to provide a clear understanding of how to fill out the form correctly and effectively. Please make sure to review each field carefully and fill it out accurately to ensure that the event organizers can plan the event correctly.
-
-The guide will cover the purpose of the form, how to fill it out, and what each field means in simple and concrete terms.
-</thinking>
-
 # Halloween Potluck Invitation Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals invited to a Halloween potluck event. It helps the event organizers gather the necessary information to plan and host the event.

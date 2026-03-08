@@ -1,5 +1,3 @@
-<thinking>As a designer, I'll review the provided YAML fields to craft a clear and concise help guide for the "Student Of Concern Form" that end users can easily understand. I'll focus on the form's purpose, how to complete it, and a detailed explanation of each field. I'll also provide internal reasoning for my design decisions.</thinking>
-
 # Student Of Concern Form - Help Guide
 ## Purpose
 

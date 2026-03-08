@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to estimate the coverage of paint for a given project. It's essential to fill out the form accurately to get an accurate estimate. Please ensure that you fill out all relevant fields and review the form before submitting it. The form will ask for details about the project, including the project area, number of rooms, walls height, and surface area. It will also ask for information about the paint coverage rate, color type, paint color, sheen, primer, finish, paint, finish type, paint brand, color match, notes, submission date and time, contact name, contact email, contact phone, submitted by, form submitted, and submitted from. Please fill out the form accordingly and provide all the required information.
-</thinking>
-
 # Paint Coverage Estimator - Help Guide
 ## Purpose
 The Paint Coverage Estimator form is used to estimate the coverage of paint for a given project. It collects information about the project details, paint coverage rate, color type, paint color, and other relevant factors to provide an accurate estimate.

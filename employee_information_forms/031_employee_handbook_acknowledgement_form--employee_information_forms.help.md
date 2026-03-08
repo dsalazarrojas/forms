@@ -1,7 +1,3 @@
-<thinking>
-This guide is being created to provide end-users with the information they need to properly fill out the "Employee Handbook Acknowledgement Form". This form is intended to be filled out by employees to acknowledge that they have read and understood the company's employee handbook. The form is designed to gather information such as the employee's name, employee ID, and acknowledgement of the handbook. It is also meant to capture the date and time the form was completed, as well as the acknowledgement and signatures from the employee's manager and supervisor.
-</thinking>
-
 # Employee Handbook Acknowledgement Form - Help Guide
 ## Purpose
 The "Employee Handbook Acknowledgement Form" is a form that requires employees to acknowledge that they have read and understood the company's employee handbook. This form is used to verify that employees have received and understood the handbook before starting work.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help employees assess the performance metrics and targets set by their supervisors, aiming to gauge the clarity of these metrics and targets in relation to their work. The form's purpose is not to evaluate individual employees, but rather to collect anonymous feedback on the clarity and understanding of performance metrics and targets. The form's results will be used to inform improvements to the performance management process within the organization.
-
-</thinking>
-
 # performance-metrics-clarity-survey - Help Guide
 ## Purpose
 This form is designed to help employees evaluate the clarity and understanding of performance metrics and targets set by their supervisors. The results will be used to inform improvements to the performance management process.

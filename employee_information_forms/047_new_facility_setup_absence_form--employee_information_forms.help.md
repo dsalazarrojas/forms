@@ -1,23 +1,3 @@
-<thinking>
-This form is used for setting up absences for new facilities. It's essential to have all the necessary information to ensure accurate and efficient processing of employee absences. Please fill out this form carefully and accurately to avoid any discrepancies or delays. Before starting, ensure you have all the required information readily available.
-
-This form is used to collect information from employees and facility managers for setting up absences. It is a multi-page form with several fields to capture specific details. 
-
-The form can be broken down into the following pages:
-- Page 1: employee_absence_form_details
-- Page 2: employee_absence_form_details_2 (additional comments)
-- Page 3: facility_setup_details
-- Page 4: absence_duration 
-- Page 5: facility_manager_approval
-- Page 6: facility_location
-- Page 7: manager_name
-- Page 8: manager_contact
-- Page 9: notes
-- Page 10: notes_2
-
-Please ensure that the form is filled out in the correct order and each field is completed accurately and thoroughly.
-</thinking>
-
 # new_facility_setup_absence_form - Help Guide
 ## Purpose
 The new_facility_setup_absence_form is used to collect information from employees and facility managers for setting up absences for a new facility.

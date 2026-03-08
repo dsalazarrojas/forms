@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this survey is to assess the knowledge and understanding of survey techniques and methods among users. It is intended to gather information on various aspects of surveys, including their purpose, methods, and analysis.
-The survey consists of 14 questions that cover key concepts and procedures related to surveys.
-</thinking>
-
 # Survey Techniques Assessment - Help Guide
 
 ## Purpose

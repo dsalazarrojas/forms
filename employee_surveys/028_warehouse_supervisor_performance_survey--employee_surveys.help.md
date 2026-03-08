@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on the performance of their warehouse supervisor. The form aims to gather information on leadership, communication, safety compliance, and overall satisfaction. It also asks for ratings on leadership, communication, and safety compliance, as well as comments and suggestions. The form includes fields for email and phone number, submission date and time, and assigned tool. It also captures information on form metadata such as form title, category, description, issuer, version, creation and update dates. This form is intended to be completed by warehouse supervisors and will help in evaluating their performance.
-</thinking>
-
 # Warehouse Supervisor Performance Survey - Help Guide
 ## Purpose
 The Warehouse Supervisor Performance Survey is designed to collect feedback on the performance of warehouse supervisors. It helps in evaluating their leadership, communication, and safety compliance skills, as well as overall satisfaction.

@@ -1,6 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is used correctly, this guide will be helpful in understanding the form's purpose and each field's meaning to ensure the intended audience is well-equipped to complete the form without errors or confusion.</thinking>
-
 # Podcast Guest Release Form - Help Guide
 ## Purpose
 This Podcast Guest Release Form is used to obtain the necessary release from a guest speaker before recording or publishing their podcast episode. The form helps to establish the terms and conditions of their appearance, including their name, contact information, and agreement to be recorded and published.

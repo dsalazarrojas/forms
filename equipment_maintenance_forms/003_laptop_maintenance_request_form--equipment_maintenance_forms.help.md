@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow end-users to submit a laptop maintenance request, specifying details such as the equipment type, serial number, and priority level. This form can be used by various teams within an organization to submit requests for laptop maintenance, and the submitted information will be reviewed and assigned to the appropriate team member for handling.
-This form does not require any specific data from the user, so it's suitable for users with varying levels of access.
-There is no duplication of effort, as the form is specifically designed for laptop maintenance requests.
-</thinking>
-
 # laptop_maintenance_request_form - Help Guide
 ## Purpose
 The laptop maintenance request form is used to submit a request for laptop maintenance.

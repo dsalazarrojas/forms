@@ -1,12 +1,3 @@
-<thinking>
-To provide a clear and concise help guide for the Forestry Survey Tools Requisition Form, we should consider the following:
-
-*   The form is used to request forestry survey tools, likely for use by field teams or researchers. It should be used to gather relevant information about the tools needed for a specific survey. 
-
-*   To avoid duplication, the form should only be filled out once per tool request, or for a specific set of tools for a particular survey.
-
-</thinking>
-
 # Forestry Survey Tools Requisition Form - Help Guide
 ## Purpose
 The Forestry Survey Tools Requisition Form is used to request forestry survey tools for use by field teams or researchers.

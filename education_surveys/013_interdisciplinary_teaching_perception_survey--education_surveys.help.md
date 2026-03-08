@@ -1,13 +1,3 @@
-<thinking>
-
-This guide is designed to provide an overview of the Interdisciplinary Teaching Perception Survey form. The purpose of this form is to collect information from educators on their perception of interdisciplinary teaching in their educational settings. The form is used to gather insights and opinions on the effectiveness, benefits, and challenges of interdisciplinary teaching. It is essential that the data collected is used to inform future educational practices and improve the overall quality of teaching.
-
-**Note:** To ensure that the data collected is accurate and relevant, please complete the form honestly and thoroughly. If you have already completed a similar form, please do not repeat your previous responses.
-
-Before starting the survey, ensure you have all the necessary information and resources ready. The form is designed to be completed in a single session, so please allocate sufficient time to complete it.
-
-</thinking>
-
 # Interdisciplinary Teaching Perception Survey - Help Guide
 ## Purpose
 This guide is designed to provide an overview of the Interdisciplinary Teaching Perception Survey form. The purpose of this form is to collect information from educators on their perception of interdisciplinary teaching in their educational settings. The form is used to gather insights and opinions on the effectiveness, benefits, and challenges of interdisciplinary teaching.

@@ -1,10 +1,3 @@
-<thinking>
-
-This form was created to help food safety inspectors or auditors evaluate a food defense system or process within a facility. This template is designed to be used by auditors, inspectors, and quality control personnel to collect information about the food item being assessed, the facility being inspected, and other relevant details such as location and date. It's intended to be a general template that can be customized or adapted to meet specific needs and regulatory requirements.
-
-
-</thinking>
-
 # Food Defense Assessment Template - Help Guide
 ## Purpose
 The Food Defense Assessment Template is designed to help food safety inspectors or auditors evaluate a food defense system or process within a facility. This form is intended to collect relevant information about the food item being assessed, the facility being inspected, and other details such as location and date.

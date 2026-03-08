@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect emergency contact information from employees. The purpose of this form is to gather critical contact details in case of an emergency or other urgent situations. It's essential for the HR or management team to have this information readily available to ensure the employee's well-being and facilitate communication with their emergency contacts. 
-
-Before proceeding, please ensure that you're not already filling out this form. If you've completed this form previously, you might be prompted to update or modify your existing information. 
-
-To provide accurate information, please review the fields carefully and fill them in accordingly. 
-
-This form is designed to be used by employees to provide their emergency contact details. If you're not an employee, you should not fill out this form.
-
-</thinking>
-
 # Employee Emergency Contact Form - Help Guide
 ## Purpose
 The Employee Emergency Contact Form is used to collect critical information from employees in case of an emergency or other urgent situations. This ensures that the HR or management team has the necessary contact details to reach out to the employee's emergency contacts.

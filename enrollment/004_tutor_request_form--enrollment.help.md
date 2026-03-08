@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tutor Request Form - Help Guide
 ## Purpose
 The Tutor Request Form is designed to help students seek assistance from tutors for specific subjects. By filling out this form, you can request help with a particular subject and receive guidance from experienced tutors.

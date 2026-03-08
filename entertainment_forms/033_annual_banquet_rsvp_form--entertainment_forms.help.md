@@ -1,21 +1,3 @@
-<thinking>
-To ensure that the form is filled out correctly and accurately, let's review the purpose and fields of the Annual Banquet RSVP Form. The form's primary purpose is to collect information from guests regarding their attendance, meal preferences, and other important details for the annual banquet event. 
-
-This form is designed to gather the following information: 
-* Guest's name and contact details
-* Attendance confirmation (will they be attending or not)
-* Number of guests in their party
-* Guest names (if any)
-* Meal preferences (entrée selection, additional entrée for guests, dietary restrictions, etc.)
-* Special accommodations (seating preferences, accessibility needs, etc.)
-* Transportation needs (parking assistance, etc.)
-* Event details (date and location)
-* Communication preferences (updates and reminders)
-
-Please ensure you review each field carefully and provide accurate information to help the banquet organizers prepare for the event.
-
-</thinking>
-
 # Annual Banquet RSVP Form - Help Guide
 ## Purpose
 The Annual Banquet RSVP Form is designed to collect information from guests to prepare for the annual banquet event. 

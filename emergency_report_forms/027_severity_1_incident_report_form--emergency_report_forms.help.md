@@ -1,7 +1,3 @@
-<thinking>
-This form is for reporting Severity 1 incidents, which are critical incidents that require immediate attention. It is essential to complete this form accurately and thoroughly to ensure that the incident is handled promptly and effectively. Before starting, please make sure you haven't already reported this incident. If you're not sure whether the incident you're reporting is a Severity 1, please consult with your team or supervisor before proceeding.
-</thinking>
-
 # Severity 1 Incident Report Form - Help Guide
 ## Purpose
 This form is used to report Severity 1 incidents that require immediate attention from the team. It helps to track and manage these critical incidents and ensure they are resolved promptly.

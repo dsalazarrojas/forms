@@ -1,9 +1,3 @@
-<thinking>
-
-This form aims to gather insight into the relationships between employees and their managers, specifically focusing on aspects such as job performance, communication, leadership, and overall satisfaction. It's essential to ensure that each participant understands the purpose and relevance of the survey to provide accurate and meaningful feedback. Duplicate responses from the same employee should be avoided to maintain data integrity.
-
-</thinking>
-
 # Manager Relationship Insight Survey - Help Guide
 ## Purpose
 The Manager Relationship Insight Survey is designed to gather information on the relationships between employees and their managers, focusing on various aspects such as job performance, communication, leadership, and overall satisfaction.

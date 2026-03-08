@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals about their background and experience with Latin American history. The purpose of this form is to collect data on the demographic characteristics and research potential of participants who might be interested in taking a more in-depth Latin American history survey. The form's fields aim to gauge the respondents' level of interest, knowledge, and experience with the region, as well as their education level and language skills. This information will help in creating a more accurate representation of the potential participants for future surveys. It is essential to fill out this form accurately and honestly to contribute to the research's reliability and validity.
-</thinking>
-
 # Latin America Historical Survey - Help Guide
 ## Purpose
 This form is designed to gather information from individuals about their background and experience with Latin American history. It will help in creating a more accurate representation of potential participants for future surveys.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by end users to provide information on digital ethics policies and practices within their institution. It will help ensure that all employees are aware of and compliant with digital ethics policies and best practices. It's recommended that institutions should only complete this form if they have already established a comprehensive digital ethics policy and program in place. 
-</thinking>
-
 # Institutional Digital Ethics Awareness Survey - Help Guide
 ## Purpose
 

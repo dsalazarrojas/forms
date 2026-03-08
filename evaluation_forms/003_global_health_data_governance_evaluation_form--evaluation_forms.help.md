@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to evaluate global health data governance practices. It is meant to be used by stakeholders in the health sector to assess their current state of data governance, identify areas of improvement, and track progress over time. The form is not affiliated with or endorsed by any specific form platform, but rather an original adaptation created using public survey topic metadata.
-
-The form has 5 pages with the following questions:
-
-* Introduction: This page is meant to be a brief overview of the purpose and scope of the form.
-* Data Quality: This page asks the user to indicate whether their data management practices prioritize accuracy, completeness, and consistency.
-* Stakeholder Involvement: This page asks the user to select which stakeholders are involved in their data governance process (Government, NGO, Research Organization, or Other).
-* Data Sharing: This page allows the user to report on whether data is shared internally or externally with others.
-* Challenges: This page lists five potential challenges the user may face with their current data management practices and asks the user to provide details about their challenges.
-* Conclusion: This page is meant for users to summarize their thoughts and provide recommendations for future improvements.
-
-The form is designed to be flexible and adaptable to the user's needs, but it is required for users to complete the "Stakeholder Involvement" page. This form is intended to be used by health sector stakeholders to assess and improve their data governance practices.
-
-Before starting, ensure you are not duplicating an existing evaluation. If you have previously completed this form, do not resubmit. If you have any questions or concerns, contact [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # global_health_data_governance_evaluation_form - Help Guide
 ## Purpose
 The global health data governance evaluation form is designed to assess and improve the practices of health sector stakeholders in managing their data.

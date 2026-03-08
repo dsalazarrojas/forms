@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help individuals and families prepare for hurricanes. The form is designed to collect information about emergency plans and inventory supplies in place, as well as contact information for an emergency contact. This form will help users to identify areas where they need to take action to be prepared for a hurricane.
-</thinking>
-
 # Hurricane Preparedness Checklist Form - Help Guide
 ## Purpose
 The Hurricane Preparedness Checklist Form is designed to help individuals and families prepare for hurricanes. It is a self-assessment tool that will help you identify areas where you need to take action to be prepared.

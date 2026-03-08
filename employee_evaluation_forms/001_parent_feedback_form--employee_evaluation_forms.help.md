@@ -1,12 +1,3 @@
-<thinking>
-The Parent Feedback Form is designed to collect feedback from parents or guardians on the progress and well-being of their child(ren) in the educational institution. This form is intended to be filled out by parents or guardians to provide their thoughts, concerns, and observations about their child's experience. 
-
-The form collects information on the student's name, email, grade level, class, feedback type, feedback details, urgency of feedback, parent signature, and student signature. The form is crucial for the institution to understand the parent's perspective and improve the overall experience of the students. 
-
-Before filling out this form, please ensure that you have all the necessary information and permissions required to complete it accurately. It is also essential to review the form carefully to understand what information is being requested and why.
-
-</thinking>
-
 # Parent Feedback Form - Help Guide
 ## Purpose
 

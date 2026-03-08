@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to have employees declare their understanding and compliance with HR policies and procedures. This declaration serves as a formal acknowledgement of the employee's acceptance of the policies, which can help prevent disputes and ensure a smooth work environment. The form should only be filled out once by each employee and should not be duplicated.
-</thinking>
-
 # HR Policy Compliance Declaration Form - Help Guide
 ## Purpose
 The HR Policy Compliance Declaration Form is used for employees to declare their understanding and compliance with HR policies and procedures. This form ensures that employees are informed about and agree to abide by these policies, preventing misunderstandings and disputes in the workplace.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for the FERPA (Family Educational Rights and Privacy Act) release process, which allows educational institutions to share student information with third parties. This form should only be completed by students or their authorized representatives. Please note that some fields are not required, but providing accurate and complete information will expedite the process. Ensure that the information you submit is up-to-date and accurate to avoid delays or re-submission requests.
-</thinking>
-
 # Ferpa Release Form - Help Guide
 ## Purpose
 

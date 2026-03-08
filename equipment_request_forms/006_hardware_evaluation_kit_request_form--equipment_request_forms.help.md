@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users regarding their requests for hardware evaluation kits. The form's purpose is to collect general information, user details, product information, request specifics, delivery details, contact information, and any additional notes the user may have. Before proceeding, ensure that you have a legitimate reason for requesting the hardware evaluation kit and that your request has not been previously submitted. This form is meant for individual requests, and any duplicate submissions will not be processed.
-</thinking>
-
 # Hardware Evaluation Kit Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users regarding their requests for hardware evaluation kits.

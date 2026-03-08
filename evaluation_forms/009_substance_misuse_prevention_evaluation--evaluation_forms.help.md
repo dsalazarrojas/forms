@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to evaluate the effectiveness and impact of a substance misuse prevention program within a school setting. It aims to assess various aspects of the program, including program information, participant goals, staff support, participant engagement, and program evaluation processes. The form is intended for use by school staff and administrators to gather data on program performance and identify areas for improvement.
-
-To ensure consistency and accuracy in completing this form, please note the following:
-
-* When answering questions about participant goals and support, please select all relevant options that apply.
-* When evaluating participant engagement and satisfaction, consider the overall experience and feedback from participants.
-* Be as specific as possible when describing program location and participant demographics.
-</thinking>
-
 # Substance Misuse Prevention Evaluation - Help Guide
 ## Purpose
 

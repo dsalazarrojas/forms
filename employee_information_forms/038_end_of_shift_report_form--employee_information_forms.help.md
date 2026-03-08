@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # End Of Shift Report Form - Help Guide
 ## Purpose
 The End Of Shift Report Form is used to document the end of a shift for employees. This form captures essential information about the employee's shift, including their name, shift duration, employee ID, shift end time, and any comments about their shift. The form helps ensure that accurate records are kept and that necessary information is reported.

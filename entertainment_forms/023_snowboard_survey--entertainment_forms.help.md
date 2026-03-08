@@ -1,10 +1,3 @@
-<thinking>
-The internal reasoning block to check form purpose and non-duplication:
-* The form "Snowboard Survey" is likely designed to gather data about snowboarding events. Snowboarding is a recreational activity that involves sliding on a snowboard, typically in snowy or icy conditions. The form's purpose is likely to collect feedback or opinions from users who have attended or participated in snowboarding events.
-* To avoid duplication, we should ensure that the form is not used for other purposes, such as gathering data for marketing or sales activities.
-* The form has multiple fields that ask about the user's experience with snowboarding events, including event satisfaction, event frequency, snowboarding type, and snowboarding interest. This suggests that the form is designed to collect data about the user's preferences and experiences.
-</thinking>
-
 # Snowboard Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from users about their experiences with snowboarding events. The survey aims to gather information on the user's satisfaction with snowboarding events, how often they participate in such events, the type of snowboarding they enjoy, and their level of interest in snowboarding.

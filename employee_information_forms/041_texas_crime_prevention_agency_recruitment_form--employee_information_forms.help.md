@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in working for the Texas Crime Prevention Agency. This form is used to gather contact information, employment details, and other relevant data from potential employees. It is essential to ensure that all fields are accurately filled out to avoid any potential issues during the hiring process. Before proceeding, please review the following sections carefully to ensure you have a clear understanding of the form's purpose and requirements.
-
-</thinking>
-
 # Texas Crime Prevention Agency Recruitment Form - Help Guide
 
 ## Purpose

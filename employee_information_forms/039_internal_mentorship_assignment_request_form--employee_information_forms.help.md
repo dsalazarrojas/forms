@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to request an internal mentorship assignment for an employee. The form is used to submit a request for a mentorship relationship between two employees, typically for growth and development purposes. This form is meant to help facilitate connections between team members who can support and guide each other in their professional careers. It's essential to ensure that each employee only has one active mentorship assignment at a time to prevent duplication of mentorship requests. Please review the current mentorship requests you have outstanding before submitting a new request.
-
-To complete this form, follow the steps below:
-
-</thinking>
-
 # Internal Mentorship Assignment Request Form - Help Guide
 ## Purpose
 ## How To Complete This Form

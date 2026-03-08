@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the mathematical abilities of students at the beginning of the year. The form has nine questions that test different math operations, such as addition, multiplication, and multiplication of single-digit numbers.
-To ensure that the form is being used correctly and to prevent duplication, it's essential to review each question carefully and ensure that the user has entered the correct answer. This form is designed for students and educators to assess mathematical abilities at the beginning of the year.
-</thinking>
-
 # Math Assessment Beginning Of Year - Help Guide
 ## Purpose
 

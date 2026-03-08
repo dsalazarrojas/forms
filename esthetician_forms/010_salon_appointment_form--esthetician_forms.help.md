@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Salon Appointment Form - Help Guide
 
 ## Purpose

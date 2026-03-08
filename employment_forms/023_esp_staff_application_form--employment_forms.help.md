@@ -1,5 +1,3 @@
-<thinking>Are you sure you want to create a help guide for the Esp Staff Application Form with 18 fields of "Upload Attachments" type? This form seems to be designed for uploading multiple files, but it's not clear what kind of documents or files are expected to be uploaded or what the purpose of the form is. Could you provide more context or information about the form's purpose and expected inputs?</thinking>
-
 # Esp Staff Application Form - Help Guide
 ## Purpose
 The Esp Staff Application Form is designed to collect information from potential employees, including personal details, work experience, and attachments. This form is used to evaluate applicants for available positions within the organization.

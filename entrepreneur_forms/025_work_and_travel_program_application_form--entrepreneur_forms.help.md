@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals interested in participating in a work and travel program. The purpose of this form is to collect basic contact and personal details, work experience, educational background, skills, references, and preferred work travel program options. This form is not intended for official program registration or confirmation; it's meant to provide a general overview of one's background and preferences. Please ensure that you are completing this form for the intended purpose and not as a duplicate application. 
-</thinking>
-
 # Work And Travel Program Application Form - Help Guide
 ## Purpose
 The Work And Travel Program Application Form is designed to collect information from individuals interested in participating in a work and travel program. The purpose of this form is to help us understand your background, skills, and preferences so we can better match you with suitable opportunities.

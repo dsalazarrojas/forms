@@ -1,10 +1,3 @@
-<thinking>
-The parent_engagement_survey form is designed to gather information from parents about their engagement with the school. This form likely aims to assess the frequency and method of communication between parents and teachers, as well as their preferred times for communication. It may also collect demographic information such as email addresses and phone numbers. The form could be used by school administrators to understand parent-teacher communication habits and tailor their communication strategies accordingly.
-The form is likely used by school administrators or teachers to collect data on parent engagement, which may inform their communication strategies and help them better understand the needs and preferences of parents.
-Before filling out this form, make sure you understand the context and purpose of the form, as well as the specific questions and fields that are being asked.
-Please note that some fields may have specific requirements for format (e.g., email addresses should be in a specific format).
-</thinking>
-
 # parent_engagement_survey - Help Guide
 ## Purpose
 The parent_engagement_survey form is designed to gather information from parents about their engagement with the school, including communication habits and preferences.

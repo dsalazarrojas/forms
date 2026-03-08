@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to request a permit for a music video shoot at a specific location. The form should only be completed by users who have a legitimate reason to do so. Please note that this form is used internally to process permit requests and is not a form for external users.
-</thinking>
-
 # music_video_location_permit_request_form - Help Guide
 ## Purpose
 This form is used to request a permit for a music video shoot at a specific location.

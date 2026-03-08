@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-This block of thoughts:
+> This block of thoughts:
 
 The form is intended to provide users with a tool to help them determine their preferences for a wedding dress style based on various factors such as style, color, neckline, sleeve, length, beading, sash, bodice, and hem.
 

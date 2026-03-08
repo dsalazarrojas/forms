@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure I provide a helpful and accurate user-facing help guide, I need to make a few assumptions about the form purpose and fields. Based on the provided YAML, I'm assuming that this form is designed to assess users' understanding of the water cycle, a crucial concept in environmental science and geography. The form likely aims to gauge users' knowledge on various aspects of the water cycle, including cloud formation, evaporation, condensation, precipitation, runoff, infiltration, and transpiration. 
-
-This form might be used in educational settings, such as schools or universities, to help instructors evaluate students' understanding of the water cycle. The form's purpose is to assess students' knowledge and identify areas where they need further instruction or clarification. 
-
-To avoid duplication, I will only include explanations for fields that are required or have options. I will also focus on providing concise and practical explanations for each field, avoiding unnecessary details or jargon.
-
-</thinking>
-
 # water_cycle_understanding_survey - Help Guide
 ## Purpose
 The **water_cycle_understanding_survey** form is designed to assess your understanding of the water cycle, a critical concept in environmental science. This form will evaluate your knowledge on various aspects of the water cycle, including cloud formation, evaporation, condensation, precipitation, runoff, infiltration, and transpiration.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # software_implementation_evaluation_form - Help Guide
 
 ## Purpose

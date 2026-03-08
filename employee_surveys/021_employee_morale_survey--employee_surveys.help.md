@@ -1,11 +1,3 @@
-<thinking>
-This form is an employee survey that aims to gather feedback from employees about their work experience and satisfaction with their job, employer, and work-life balance. It's essential to fill out this form accurately to help management understand your needs and improve the work environment.
-
-Before you start, please make sure you haven't filled out this survey before. If you have any concerns or questions, feel free to reach out to your HR representative.
-
-Please answer the questions honestly, and remember that all answers are anonymous.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to help employees feel heard and provide valuable insights to management about their work experience. Your responses will help us understand your needs and make informed decisions to improve the work environment.

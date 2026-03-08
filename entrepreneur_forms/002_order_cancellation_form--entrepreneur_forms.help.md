@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure relevance and non-duplication, I will carefully analyze the form purpose and content to create a comprehensive and concise user-facing help guide.
-
-Based on the provided YAML, the form is designed for order cancellation, which involves multiple steps and fields to gather relevant information from both customers and store representatives. The form likely exists to document and verify the cancellation process, including the reason for cancellation, order details, and confirmation of cancellation.
-
-I will break down the form into sections to explain each field and its intended purpose, making it easy for end-users to understand and complete the form accurately.
-
-</thinking>
-
 # Order Cancellation Form - Help Guide
 ## Purpose
 This form is used to document and verify the cancellation of an order. It collects information from both the customer and store representatives to ensure a smooth cancellation process.

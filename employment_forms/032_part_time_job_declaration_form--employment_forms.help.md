@@ -1,6 +1,3 @@
-<thinking>
-This form helps part-time employees report their current or expected work arrangements, such as working yes/no, work outside of the company, employer information, job title, work hours, work address, work zip, work phone, and work email. Please ensure that the information provided is accurate and up-to-date to help the HR department process your request efficiently. This form should only be filled out once for each employment period, so please do not fill out this form if you have already submitted one for the current period.</thinking>
-
 # Part Time Job Declaration Form - Help Guide
 ## Purpose
 This form is for part-time employees to declare their current or expected employment status.

@@ -1,8 +1,3 @@
-<thinking> 
-This form appears to be for obtaining consent from individuals for an eyelash extension procedure. It seems to be a medical or esthetician-related form. The purpose of this form is to inform the client about the eyelash extension procedure, its potential risks, and the equipment used. It also asks for their signature to indicate their consent.
-
-</thinking>
-
 # Eyelash Extension Consent Form - Help Guide
 ## Purpose
 The Eyelash Extension Consent Form is designed to inform clients about the eyelash extension procedure, its potential risks, and the equipment used. This form is intended to ensure that clients understand the procedure and give their consent before proceeding.

@@ -1,5 +1,3 @@
-<thinking> This form is intended to collect information for onboarding part-time employees. The form is likely used by HR or management to gather essential details about new part-time employees. The form's purpose is to streamline the onboarding process, ensuring that the employee has the necessary contact and emergency contact information on file. The repeated field names in "emergency_info" suggests a possible data collection issue or redundancy in the form design.</thinking>
-
 # part_time_employee_onboarding_form - Help Guide
 ## Purpose
 The **part_time_employee_onboarding_form** is used to collect and store information for new part-time employees. This includes contact and emergency contact details.

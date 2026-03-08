@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather opinions and preferences from employees regarding retail store amenities. It's essential to ensure that each employee's voice is heard and their needs are met. This form should not be completed by non-employees or managers. It's recommended to fill it out once a year, ideally at the start of the year to help in planning and budgeting for the upcoming year. The form will be reviewed by management, and the results will be used to make informed decisions about which amenities to prioritize.
-</thinking>
-
 # retail_employee_amenities_voting_form - Help Guide
 ## Purpose
 The purpose of this form is to gather opinions and preferences from employees regarding retail store amenities, helping management make informed decisions about which amenities to prioritize.

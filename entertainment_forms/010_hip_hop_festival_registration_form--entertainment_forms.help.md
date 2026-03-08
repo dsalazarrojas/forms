@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for registration purposes for attendees to the hip hop festival. It is used to gather information about the attendees, including their personal info, areas of interest, and contact details. It is not a required form, meaning that users do not need to fill it out if they don't want to. However, it's recommended for attendees who want to be informed about festival updates and offers.
-
-Before proceeding, please note that some fields are optional, and you can skip them if you're not comfortable providing the information. If you need help, you can contact our festival team at <contact_email>.
-
-</thinking>
-
 # hip_hop_festival_registration_form - Help Guide
 ## Purpose
 This form is for registering attendees to the hip hop festival, allowing us to gather contact and interest information to keep you updated about the event.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for actors seeking to apply for acting opportunities. The internal reasoning system will review the submitted information to verify if the applicant meets the basic requirements and has not already been submitted by the same individual. This guide will walk you through the steps to complete the form and explain each field in detail to ensure a smooth submission process.
-
-</thinking>
-
 # Actor Application Form - Help Guide
 ## Purpose
 

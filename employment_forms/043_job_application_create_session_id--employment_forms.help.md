@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to generate a unique session ID for a job application, which will be used for various purposes such as tracking, analytics, and linking related documents. To ensure that you're using the correct form, please ensure you have the necessary permissions to create job applications.
-
-To avoid creating duplicate session IDs, please make sure that the job application you're creating is not already in progress or has not been submitted previously.
-
-</thinking>
-
 # Job Application Create Session ID - Help Guide
 ## Purpose
 The Job Application Create Session ID form is used to create a unique session ID for a job application, allowing for tracking and linking related documents.

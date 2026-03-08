@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture relevant information for an employee transfer process, which typically involves moving an employee from one department to another within an organization. This form should only be used for legitimate transfer requests, and users should not duplicate existing requests.
-</thinking>
-
 # Employee Transfer Form - Help Guide
 ## Purpose
 The Employee Transfer Form is used to initiate an employee's transfer to a new department within the organization. This form gathers essential details about the employee's current and new departments, transfer date, reason, and other relevant information to facilitate a smooth transition process.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to request features of artists or bands for an entertainment segment. The form is intended to gather necessary information from the artist or band to facilitate the creation of a high-quality segment. The artist or band will be asked to provide their name, contact information, and details about their music or art. The form also asks for information about the type of feature segment they would like to create, the preferred duration of the segment, and other specifics about the filming process. By completing this form, the artist or band can provide the necessary information for a successful feature segment.
-
-To complete this form, follow the instructions below:
-</thinking>
-
 # Artist Feature Segment Request Form - Help Guide
 ## Purpose
 This form is designed to request features of artists or bands for an entertainment segment.

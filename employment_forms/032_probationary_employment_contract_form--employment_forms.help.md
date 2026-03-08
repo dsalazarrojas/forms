@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Probationary Employment Contract Form - Help Guide
 ## Purpose
 This form is designed to document the terms and conditions of a probationary employment contract, ensuring that all relevant details are captured accurately and efficiently. It's essential to fill out this form carefully and thoroughly to avoid any confusion or misunderstandings during the employment period.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to be used by employees to report incidents or accidents within the workplace. The purpose of this form is to collect information about the incident, including the actions taken during the investigation, the root cause of the incident, details about the employee's injury, and the current status of the investigation. This information will help management and HR to conduct a thorough investigation and take necessary actions to prevent similar incidents in the future. Before starting, make sure to review the entire form to ensure that you are providing all the necessary information. If you are unsure about any of the fields, you can always ask your supervisor or HR representative for guidance.
-
-</thinking>
-
 # Incident Investigation Checklist - Help Guide
 ## Purpose
 The purpose of this form is to guide employees in reporting incidents or accidents within the workplace, providing a structured approach to collecting and documenting necessary information for investigation and resolution.

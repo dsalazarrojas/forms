@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for users to report equipment breakdowns, providing a detailed summary of the incident. The purpose of this form is to collect information about the equipment's condition, the reason for the breakdown, the date and time of the incident, details about the repair, and any relevant history or notes. It's essential to ensure that all required fields are completed accurately to provide a comprehensive report. 
-
-Before starting, make sure you haven't already submitted a report for this incident, as duplicating reports can lead to confusion and unnecessary work.
-
-</thinking>
-
 # Equipment Breakdown Summary Report Form - Help Guide
 ## Purpose
 The Equipment Breakdown Summary Report Form is used to report and document equipment breakdowns, providing a detailed summary of the incident to help with repair, maintenance, and future reference.

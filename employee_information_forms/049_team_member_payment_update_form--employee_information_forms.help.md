@@ -1,7 +1,3 @@
-<thinking>
-This form is used to update the payment information of a team member. It is intended for use by authorized personnel within the organization. Please ensure you complete this form accurately and thoroughly to avoid errors and duplication of effort. Before proceeding, verify that there is no pending or pending update for the same team member.
-</thinking>
-
 # Team Member Payment Update Form - Help Guide
 ## Purpose
 The Team Member Payment Update Form is used to update the payment details of a team member. This form is intended for use by authorized personnel within the organization and is an essential tool for maintaining accurate financial records.

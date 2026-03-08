@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information about employee grievances. A grievance is a complaint or issue that an employee may have regarding their work environment, colleagues, or management. The purpose of this form is to gather details about the grievance, including the employee's contact information, a description of the issue, and any relevant circumstances surrounding the incident. This form will help HR or management teams to understand the nature of the issue and take appropriate action to address it.
-
-Before filling out this form, please make sure that you have not already reported this grievance and that you have the necessary information and authority to complete it.
-
-Please note that this form is not intended to be a formal report, but rather a way to gather information and start the process of addressing the issue.
-</thinking>
-
 # grievance_form - Help Guide
 ## Purpose
 The grievance_form is a tool for collecting information about employee grievances. It is used to gather details about the issue, the employee's contact information, and any relevant circumstances surrounding the incident.

@@ -1,10 +1,3 @@
-<thinking>
-The Emergency Preparability Drill Evaluation Form is used to evaluate the emergency preparedness drill, which is an important exercise to assess how effectively an organization or individual is prepared to respond to emergency situations. This form helps to gather information about the participant's experience, position, organization, and other relevant details. 
-Before filling out this form, please ensure that you have all the necessary information required to complete it accurately. 
-Please note that some fields are optional, and you can skip them if you don't have the necessary information. 
-Ensure that you have a clear understanding of the purpose of each field before proceeding.
-</thinking>
-
 # Emergency Preparability Drill Evaluation Form - Help Guide
 ## Purpose
 The Emergency Preparability Drill Evaluation Form is used to evaluate the emergency preparedness drill, which is an important exercise to assess how effectively an organization or individual is prepared to respond to emergency situations.

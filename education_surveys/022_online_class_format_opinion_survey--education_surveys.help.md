@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect opinions from users about the online class format, specifically to gather feedback on their preferences, experiences, and challenges. The purpose of this form is to gather information that can help instructors and administrators understand the needs and pain points of online students. The form is not meant to be exhaustive, and users are encouraged to provide as much detail as they feel necessary.
-</thinking>
-
 # Online Class Format Opinion Survey - Help Guide
 ## Purpose
 The Online Class Format Opinion Survey is designed to collect opinions from users about the online class format. This survey aims to gather feedback on their preferences, experiences, and challenges with online classes.

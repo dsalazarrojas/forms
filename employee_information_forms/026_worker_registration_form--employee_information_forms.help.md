@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about new employees. It is not for current employees or existing job postings. The fields provided are meant to capture details about the job title, job description, job status, supervisor, job category, job type, job level, job family, job group, work location, job hours, job date, job time, job note, email, phone number, job address, work status, job level note, job category note, supervisor note, job type note, job group note, job family note. 
-It is recommended that users complete the form in sections for the most efficient use of time. 
-It is suggested that users review the form carefully to ensure all information is accurate and up-to-date.
-</thinking>
-
 # Worker Registration Form - Help Guide
 ## Purpose
 The Worker Registration Form is a tool used for collecting information about new employees. It is a critical part of the hiring process and helps in maintaining accurate and up-to-date records of employees.

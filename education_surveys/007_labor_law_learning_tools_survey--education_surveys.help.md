@@ -1,8 +1,3 @@
-<thinking>
-The Labor Law Learning Tools Survey form is used to collect information on learning tools and resources used by employees in the context of labor law. This form will help gather data on the effectiveness and accessibility of these resources.
-Before filling out this form, ensure that you are providing accurate and relevant information. Please do not submit this form if you have already provided information on this topic in the past.
-</thinking>
-
 # Labor Law Learning Tools Survey - Help Guide
 ## Purpose
 The Labor Law Learning Tools Survey is a form designed to collect information on the learning tools and resources used by employees related to labor law. This information will help us better understand how employees learn and utilize these tools, allowing us to improve our resources and support.

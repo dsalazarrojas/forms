@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for candidates to submit their inquiries to the hiring team, providing essential details about their query. To ensure you receive the correct information and response, please make sure you're using this form for your actual purpose.
-
-Before filling out this form, check that you don't have any existing inquiries or open communications with the hiring team.
-
-</thinking>
-
 # Candidates Enquiry Form - Help Guide
 
 ## Purpose

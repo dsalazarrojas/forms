@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Disciplinary action form - Help Guide
 ## Purpose
 The Disciplinary action form is used to document and track disciplinary actions taken against employees. This form is essential for maintaining accurate records of incidents and actions taken, ensuring that disciplinary actions are properly addressed and resolved in a timely and fair manner.

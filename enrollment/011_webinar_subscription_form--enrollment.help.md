@@ -1,11 +1,3 @@
-<thinking>
-**Webinar Subscription Form: Purpose and Relevance Checking**
-This form is for users to subscribe to a webinar event. When filling out this form, please ensure that you meet the following criteria:
-- You have not previously filled out this form.
-- You are not already registered for the same webinar event.
-- You are an authorized representative of your company.
-</thinking>
-
 # Webinar Subscription Form - Help Guide
 ## Purpose
 The Webinar Subscription Form is designed for users to subscribe to a webinar event. This form allows you to provide your contact information and select your relevant role and events of interest.

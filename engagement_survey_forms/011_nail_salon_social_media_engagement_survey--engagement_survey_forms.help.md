@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended to gather information from nail salons about their social media engagement practices. The questions aim to understand how salons currently use social media, their preferred platforms, and their goals for social media engagement. This survey is designed to be user-friendly and easy to navigate. Please make sure to fill out the form accurately and thoroughly. If you have any questions or concerns, please don't hesitate to contact us.
-</thinking>
-
 # Nail Salon Social Media Engagement Survey - Help Guide
 ## Purpose
 This survey is designed to gather information from nail salons about their social media engagement practices. The questions aim to understand how salons currently use social media, their preferred platforms, and their goals for social media engagement.

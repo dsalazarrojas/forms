@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Skin Care Consultation Form - Help Guide
 
 ## Purpose

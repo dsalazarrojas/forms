@@ -1,12 +1,3 @@
-<thinking>
-To provide the best guidance on completing the Cosmetology School Application Form, let's first consider the form's purpose and any potential redundancy or duplication that may arise during the completion process.
-
-The Cosmetology School Application Form is a comprehensive document designed to gather information from applicants interested in pursuing a career in cosmetology. This form aims to collect detailed information about the applicant's background, education, and experience in the field, as well as their interests and goals for the program. The form's purpose is to assist the admissions team in assessing the applicant's suitability for the program and to provide a clear understanding of their qualifications and motivations.
-
-Considering the form's layout and fields, there is no apparent redundancy or duplication. Each field seems to contribute unique information that complements the others, allowing for a thorough evaluation of the applicant's profile.
-
-</thinking>
-
 # Cosmetology School Application Form - Help Guide
 ## Purpose
 The Cosmetology School Application Form is a detailed document designed to gather information from applicants interested in pursuing a career in cosmetology. The form is used to assess the applicant's background, education, and experience in the field, as well as their interests and goals for the program.

@@ -1,12 +1,3 @@
-<thinking>
-To ensure that users understand the purpose and requirements of the form, it's essential to check for relevance and prevent duplication of efforts. This form is intended for mechanical engineers who are applying for a job. The form collects basic information about the applicant, including their name, contact details, resume, experience, and qualifications. This guide will walk the user through each field, providing clarification on what to fill in and what it's meant to represent.
-
-Before proceeding, please review your eligibility and double-check that you're submitting a genuine application. Make sure to answer truthfully and accurately, as any misrepresentation may lead to further evaluation or disqualification.
-
-This guide is designed to support you in providing a complete and correct application. Please take a moment to review it carefully before submitting your application.
-
-</thinking>
-
 # mechanical_engineer_job_application_form - Help Guide
 ## Purpose
 The Mechanical Engineer Job Application Form is designed to help mechanical engineers submit applications for job openings. This form collects information about the applicant's basic details, experience, qualifications, and job preferences.

@@ -1,7 +1,3 @@
-<thinking>
-The Part Time Health Insurance Enrollment Form is designed to collect information from employees regarding their part-time health insurance enrollment. The purpose of this form is to help employees accurately enroll in the company's health insurance plan for themselves and their dependents. This form is intended for employees who work part-time and are eligible for the company's health insurance benefits. Please ensure that you are using this form for the correct purpose, and if you are unsure, please contact your HR representative for clarification.
-</thinking>
-
 # Part Time Health Insurance Enrollment Form - Help Guide
 ## Purpose
 The Part Time Health Insurance Enrollment Form is designed to collect information from employees regarding their part-time health insurance enrollment. This form is intended for employees who work part-time and are eligible for the company's health insurance benefits.

@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed to collect information from bands and artists applying to participate in the "Battle Of The Bands" competition. The form aims to gather essential details about the band, including their official name, primary musical genre, number of band members, hometown, contact person's name and contact information, online presence, and technical requirements for performance. This information will be used to evaluate and schedule their performance.
-
-</thinking>
-
 # Battle Of The Bands Application - Help Guide
 ## Purpose
 The Battle Of The Bands Application form is designed to collect essential details from bands and artists participating in the "Battle Of The Bands" competition. This form will be used to evaluate and schedule the performance.

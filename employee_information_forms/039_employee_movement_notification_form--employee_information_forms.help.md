@@ -1,9 +1,3 @@
-<thinking>
-We have a form for recording employee movements, which can be transfers, promotions, or separations. This form is used to document an employee's change in status, including their new or previous office, manager, position, and any other relevant details. 
-The form is designed to be completed by HR personnel, but it may also be used by employees themselves to provide information about their own movements. This form should not be used for routine personnel changes, but rather for significant changes that affect an employee's status or location within the company. 
-Please ensure that the completed form is accurate and complete before submission. 
-</thinking>
-
 # Employee Movement Notification Form - Help Guide
 ## Purpose
 The Employee Movement Notification Form is used to document an employee's change in status, including transfers, promotions, or separations. This form helps ensure that all relevant details are recorded and communicated to relevant parties.

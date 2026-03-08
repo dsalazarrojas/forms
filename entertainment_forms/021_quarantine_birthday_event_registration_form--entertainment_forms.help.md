@@ -1,7 +1,3 @@
-<thinking>
-The Quarantine Birthday Event Registration Form is a form designed for users to register and create new events to be held under quarantine due to the COVID-19 pandemic. It is not intended for events that are currently ongoing or already past their scheduled dates. Please ensure you are registering events that are future occurrences.
-</thinking>
-
 # Quarantine Birthday Event Registration Form - Help Guide
 ## Purpose
 The Quarantine Birthday Event Registration Form is a tool for users to register new events to be held under quarantine due to the COVID-19 pandemic. It allows users to provide details about the event, including name, date, time, location, and description.

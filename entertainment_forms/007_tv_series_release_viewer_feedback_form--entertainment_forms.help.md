@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is for viewers to provide feedback on TV series releases, such as new episodes, seasons, or genres. The form collects data on the release date, episode number, episode title, genre, season number, episode description, overall rating, and feedback from viewers. This form is used by the TV show's team to get an idea of what viewers think about the latest releases, whether it's a new genre, a new episode title, or a new season number.
-
-The goal of this form is to gather as much feedback as possible from viewers, including ratings, comments, and submission type. The submission type is crucial in categorizing the feedback, whether it's a review or feedback.
-
-Before filling out this form, make sure to check if you have already submitted feedback on the same episode, season, or genre. This will ensure that your feedback is not duplicated and is taken into account by the TV show's team.
-
-</thinking>
-
 # TV Series Release Viewer Feedback Form - Help Guide
 ## Purpose
 The TV Series Release Viewer Feedback Form is designed to collect feedback from viewers on new TV series releases. This feedback will help the TV show's team to understand what viewers think about the latest releases and make informed decisions on future content.

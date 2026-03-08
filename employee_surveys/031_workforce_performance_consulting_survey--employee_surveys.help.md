@@ -1,10 +1,3 @@
-<thinking>
-We're creating a help guide for the "Workforce Performance Consulting Survey" form to ensure end users understand its purpose, how to complete it, and what each field means. This form aims to collect information about contact details, job titles, departments, performance levels, and feedback from employees. Its purpose is to gather data to help organizations assess and improve their workforce performance.
-
-The form consists of five sections, each focusing on different aspects of employee information. We'll break down each section below, explaining the fields in a clear and concise manner.
-
-</thinking>
-
 # Workforce Performance Consulting Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees about their contact details, job titles, departments, performance levels, and feedback. This data will help organizations to better understand their workforce performance and identify areas for improvement.

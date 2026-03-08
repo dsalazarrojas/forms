@@ -1,5 +1,3 @@
-<thinking> This form is designed to gather information from students or participants who have undergone a cross-cultural learning experience, such as studying abroad or participating in an international project. This form aims to collect feedback and evaluations from participants, which will help improve the quality and effectiveness of these experiences. The form will be completed by the participant themselves, and it is essential to provide clear instructions to ensure accurate and complete data. To avoid duplication of effort, please ensure that this form is only completed once for each participant's unique experience. </thinking>
-
 # Cross Cultural Learning Experience Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback and evaluations from students or participants who have undergone a cross-cultural learning experience. This information will be used to improve the quality and effectiveness of these experiences.

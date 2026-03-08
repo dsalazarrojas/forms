@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Talent Management Strategy Effectiveness Poll - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness of your talent management strategy across three key areas: Recruiting, Onboarding, and Development. The purpose of this form is to help you understand your team's perceptions and experiences with these processes, identifying areas of improvement and opportunities for growth.

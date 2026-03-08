@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is for the "Barwis Methods Health Questionnaire" form, which aims to collect essential patient information for health and fitness programs. This form is designed to gather personal details, medical history, physical metrics, and goals related to health and fitness. Before completing this form, please ensure you have not already filled it out in a previous session. Completing this form multiple times without any changes may result in duplicate data entry.
 
 # Barwis Methods Health Questionnaire - Help Guide

@@ -1,9 +1,3 @@
-<thinking>Form purpose: The Talk Show Guest Questionnaire is designed for guests to be considered for appearing on a talk show. It helps the show producers to gather information about potential guests' availability, areas of expertise, and willingness to participate. This form will be reviewed by the producers to determine suitability and schedule guests accordingly.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and its use is released under CC BY 4.0. Please use it responsibly and give credit to the creators if you decide to modify or sell forms derived from it.
-
-Before filling this form, please make sure you have not already submitted the same information. Repeated submissions may cause confusion and affect your chances of being considered for the talk show.</thinking>
-
 # Talk Show Guest Questionnaire - Help Guide
 ## Purpose
 The Talk Show Guest Questionnaire is a form designed to help producers of a talk show gather information about potential guests. This information will be used to determine suitability and schedule guests accordingly.

@@ -1,12 +1,3 @@
-<thinking>
-We will create a help guide for users to understand the purpose of the form, how to complete it, and what each field means.
-
-This form is designed for dancers to register for a dance competition. It collects information from the dancer to help the competition organizers plan and execute the event. The form is divided into several sections, each with its own set of fields that the user needs to fill out.
-
-We will go through each field in detail to ensure users understand what information is being collected and why.
-
-</thinking>
-
 # Dance Competition Registration Form UDO - Help Guide
 ## Purpose
 The Dance Competition Registration Form is designed for dancers to register for a dance competition. This form collects necessary information from the dancer to help the competition organizers plan and execute the event.

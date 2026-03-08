@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for personal assistant time-in and time-out activities. The form should only be filled out for personal assistant work hours. If this form is already filled out, please do not fill it out again. This form is part of the employee information management system and is used for tracking and reporting personal assistant activities. 
-</thinking>
-
 # Personal Assistant Time InOut Form - Help Guide
 ## Purpose
 This form is used for collecting information about personal assistant time-in and time-out activities.

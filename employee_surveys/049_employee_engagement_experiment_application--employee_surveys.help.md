@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from employees on their engagement and participation in an experiment. The form is divided into four sections: "Employee Details", "Team Information", "Pilot Information", and "Additional Information". 
-
-This form is intended to be completed by employees, and the goal is to collect their feedback and experiences related to the experiment. The form may be used to track employee engagement, gather insights, and identify areas for improvement. 
-
-Before proceeding, please ensure that you are familiar with the experiment and its purpose. This form is not intended to be used for any other purpose other than the experiment.
-
-</thinking>
-
 # Employee Engagement Experiment Application - Help Guide
 ## Purpose
 This form is designed to collect information from employees on their engagement and participation in an experiment. Please complete the form carefully, providing as much detail as possible to help us understand your experiences and feedback.

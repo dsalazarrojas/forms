@@ -1,7 +1,3 @@
-<thinking>
-I must ensure that the form is used correctly and only for legitimate purposes, avoiding duplication and ensuring that all required information is submitted. This form is intended to collect information about equipment readers from users, specifically their contact details and payment information. I must clearly outline the steps and requirements to fill out the form to reduce errors and confusion. I will use the fields to explain each step of the form, using bullet points for each field for easier reading.
-</thinking>
-
 # Payment Card Reader Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about payment card readers, including contact details and payment information. It's essential to fill this form out accurately and truthfully to ensure that your request is processed correctly.

@@ -1,5 +1,3 @@
-<thinking>Performer check-in desk booking form is a form used to capture information from performers who are scheduled to perform at an event. This form is used to ensure that all necessary details are collected accurately, which helps the event management team to communicate with performers effectively and manage their check-in process efficiently. To avoid duplication, this form should only be filled out once per performer. Performers who have already completed this form for the same event should not fill it out again.</thinking>
-
 # Performer Check In Desk Booking Form - Help Guide
 ## Purpose
 The Performer Check In Desk Booking Form is used to collect information from performers who are scheduled to perform at an event. This form helps the event management team to gather essential details and manage the check-in process smoothly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their power line clearance application. The form will be used to capture details such as customer name, contact information, and work location to facilitate the clearance process. Please ensure that the customer has provided the correct information to avoid any delays in the clearance process.
-</thinking>
-
 # Power Line Clearance Application Form - Help Guide
 
 ## Purpose

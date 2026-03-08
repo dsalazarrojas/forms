@@ -1,8 +1,4 @@
-> <thinking>
-The form is used to extend a previously issued contract for an employee. It allows HR and management to gather information from employees and employers in order to make informed decisions about contract extensions. When filling out this form, please ensure that all fields are accurately filled out in order to avoid any miscommunication or errors. 
-</thinking>
-
-# Employee Contract Extension Form - Help Guide
+> # Employee Contract Extension Form - Help Guide
 ## Purpose
 This form is used for employees to extend their existing contracts. The information provided will be used to determine the status of the contract extension.
 

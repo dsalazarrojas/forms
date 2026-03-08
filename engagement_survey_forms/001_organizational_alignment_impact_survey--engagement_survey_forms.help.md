@@ -1,10 +1,3 @@
-<thinking>
-To ensure the form's purpose and relevance are checked for duplication or redundancy, I need to understand the context of the form and the business requirements it's supposed to cover. Based on the provided YAML, I can infer that this form is designed to gauge the level of alignment between the organization and various aspects, such as mission, objectives, leadership, and team roles, as well as other organizational characteristics like adaptability and collaboration frequency. This form likely aims to collect feedback on how well the team is aligned with the overall organizational vision and goals.
-
-The form appears to have a mix of multiple-choice and numerical fields, which suggests that it's intended to collect both categorical (select_one) and quantitative (number) data. This form is likely used for self-assessment or survey purposes, as some fields have hints indicating that respondents should answer based on their personal experiences or perceptions. The required fields indicate that this form is crucial in understanding the organization's alignment, adaptability, and collaboration frequency.
-
-I will now proceed with creating the user-facing help guide based on this analysis.</thinking>
-
 # organizational_alignment_impact_survey - Help Guide
 ## Purpose
 This form is designed to assess the level of alignment between the organization and various aspects, including mission, objectives, leadership, team roles, adaptability, and collaboration frequency. The form aims to gather feedback on how well the team is aligned with the overall organizational vision and goals.

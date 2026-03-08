@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to capture information about a person's career readiness and job preferences for a specific job opportunity. The form will help the applicant provide details about their background, skills, and experience that align with the job requirements.
-To avoid duplication of efforts, please ensure you fill out this form only once you have carefully read through the job description and requirements provided to you.
-</thinking>
-
 # MAM Career Readiness Application - Help Guide
 ## Purpose
 The MAM Career Readiness Application form is designed to help you showcase your career readiness and job preferences for a specific job opportunity. This form will guide you through a series of questions and fields to help you present your skills, experience, and background in the best possible light.

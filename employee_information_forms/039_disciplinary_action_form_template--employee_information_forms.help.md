@@ -1,12 +1,3 @@
-<thinking>
-A form used for documenting and managing disciplinary actions taken within the organization, ensuring that the process is consistent and fair for all employees.
-Disciplinary actions should be taken in a fair and consistent manner, considering factors like incidents, employee performance, and organizational policies.
-Please note that this form is a template, and specific details may vary depending on the organization's policies and procedures.
-Ensure you have the necessary authority and approval from the relevant authorities before proceeding with disciplinary actions.
-Make sure to keep records of all interactions and communication with the employee involved.
-Review the organization's code of conduct and policies before filling this form.
-</thinking>
-
 # Disciplinary Action Form Template - Help Guide
 ## Purpose
 The Disciplinary Action Form Template is a document used to record and manage disciplinary actions taken against employees within the organization. It's designed to provide a structured approach to documenting incidents, actions taken, and outcomes.

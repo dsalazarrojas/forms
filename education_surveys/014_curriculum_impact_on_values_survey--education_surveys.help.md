@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to assess the impact of various values on the curriculum, specifically to identify which values are most relevant and beneficial for students. This form is designed to be completed by students or educators to provide insights into the importance of certain values in the educational context. To ensure accurate results, please make sure to answer all questions based on your genuine experience and understanding.
-
-</thinking>
-
 # Curriculum Impact On Values Survey - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the impact of various values on the curriculum and to identify the most relevant and beneficial values for students.

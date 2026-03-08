@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our designers have a clear understanding of our clients' email design preferences and expectations to create effective and engaging emails. This form is designed to gather necessary information about the client's personal details, customer expectations, business details, email content, and design preferences. To avoid duplication and ensure accuracy, this form should not be filled out unless it's the first time we're working with a client. 
-</thinking>
-
 # Email Design Questionnaire - Help Guide
 
 ## Purpose

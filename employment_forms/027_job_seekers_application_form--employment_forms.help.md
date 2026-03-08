@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from job seekers about their contact details, work experience, education, skills, job seeker preferences, employment status, job requirements, job details, application history, attachments, references, notes, phone number, email, address, date of birth, nationality, language proficiency, residence, English proficiency, salary expectations, availability start date, and end date. The form is intended to be filled out by job seekers who are looking for employment opportunities, and the information collected will be used by hiring managers or recruiters to assess their candidacy. Please ensure that you fill out this form accurately and completely to maximize your chances of being considered for a job.
-
-Also, please note that some of the fields are optional, and you can skip them if they are not relevant to your situation. Additionally, please make sure to provide attachments and references as needed.
-
-</thinking>
-
 # Job Seekers Application Form - Help Guide
 ## Purpose
 The Job Seekers Application Form is designed to collect information from job seekers who are looking for employment opportunities. This form helps hiring managers and recruiters to assess your candidacy and determine whether you are a good fit for available job openings.

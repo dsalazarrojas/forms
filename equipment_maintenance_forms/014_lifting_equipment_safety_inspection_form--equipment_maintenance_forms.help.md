@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lifting Equipment Safety Inspection Form - Help Guide
 ## Purpose
 The Lifting Equipment Safety Inspection Form is designed to ensure that all lifting equipment is properly inspected and maintained to prevent accidents and ensure worker safety. This form is used to document the safety inspection of lifting equipment, including the type of equipment, safety features, and any issues or deficiencies that need to be addressed.

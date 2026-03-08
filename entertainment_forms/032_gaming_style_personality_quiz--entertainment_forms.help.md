@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to provide a brief and fun way to gauge a user's personality based on their gaming style. The form asks questions about the types of games they enjoy, how often they play, and how they feel while playing. The results will give a snapshot of their gaming personality, providing insights into their preferences and tendencies.
-</thinking>
-
 # PRAGaming Style Personality Quiz - Help Guide
 ## Purpose
 This form is a short, user-friendly way to discover your gaming personality. Answer the questions, and get a glimpse into your preferences for different types of games, playing habits, and emotional experiences while gaming.

@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer for the "Festival Headliner Poll" form, I need to ensure that users understand the purpose and functionality of this form. Upon reviewing the provided YAML fields, I notice that the form is designed to collect opinions and preferences from users regarding headliners for a festival. The form has multiple pages, each with various questions and select options. The form seems to be asking users about their favorite headliners, their preferences, and demographic information. I will create a user-facing help guide that explains the form's purpose, how to complete it, and a field-by-field explanation of each question.</thinking>
-
 # Festival Headliner Poll - Help Guide
 ## Purpose
 The Festival Headliner Poll is designed to collect opinions and preferences from users about the headliners for a festival. This form aims to gather information about users' favorite headliners, their preferences, and demographic information.

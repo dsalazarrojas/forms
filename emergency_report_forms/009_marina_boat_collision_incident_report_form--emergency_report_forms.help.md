@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Marina Boat Collision Incident Report Form". The form is designed to collect information related to boat collisions that occurred in the marina. To ensure accurate completion, please carefully review each field and provide the required information. This guide will walk you through each field and its purpose to help you navigate the form efficiently.
-</thinking>
-
 # Marina Boat Collision Incident Report Form - Help Guide
 ## Purpose
 The Marina Boat Collision Incident Report Form is a critical document used to report and document incidents involving boats, ensuring prompt response and resolution of incidents affecting marinas. It is essential to complete this form accurately, as it helps our team to investigate and address boat collisions efficiently.

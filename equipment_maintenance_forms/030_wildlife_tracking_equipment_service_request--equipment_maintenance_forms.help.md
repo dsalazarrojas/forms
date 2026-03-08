@@ -1,14 +1,3 @@
-<thinking>
-This form is used by wildlife conservation teams to report issues with tracking equipment. The purpose of this form is to gather information about the equipment issue, including the location, date and time of the issue, and a brief description of the problem. The form is used to track the status of equipment maintenance requests, assign them to team members, and keep records of maintenance notes and schedules.
-
-The form is not intended for use in other contexts, such as general equipment maintenance or issue tracking. If you're not a member of a wildlife conservation team, you may not have the necessary context or access to complete this form.
-
-Please ensure you have the necessary permission and access to complete this form.
-
-Before completing the form, ensure you have all the required information and attachments ready. This will save time and reduce errors during the completion process.
-
-</thinking>
-
 # Wildlife Tracking Equipment Service Request - Help Guide
 ## Purpose
 This form is used to report issues with wildlife tracking equipment, gather information, and track the status of maintenance requests.

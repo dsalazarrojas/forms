@@ -1,7 +1,3 @@
-<thinking> 
-  This guide will help you complete the Sugaring Waiver Form. This form is used for a specific type of service. The purpose of this form is to collect information from clients, including contact details and information about their services. Please ensure the details filled are accurate to ensure proper service handling and billing.
-  </thinking>
-
 # Sugaring Waiver Form - Help Guide
 ## Purpose
 This form is used to collect information for a specific type of service. Please fill in the required fields accurately to ensure proper service handling and billing.

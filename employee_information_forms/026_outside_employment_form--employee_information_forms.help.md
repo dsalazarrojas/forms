@@ -1,7 +1,3 @@
-<thinking>
-The "Outside Employment Form" is designed to collect information about an employee's external employment details. This form is likely used in HR or administrative settings to gather data on an employee's job position, employment status, and contact information for outside work. The form's purpose is to provide a clear and concise way to document an employee's external employment, helping to maintain accurate and up-to-date records. Before filling out this form, ensure that the employee's employment status and details are relevant to the current situation, and that the information being gathered isn't already documented elsewhere.
-</thinking>
-
 # Outside Employment Form - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's external employment details, helping to maintain accurate and up-to-date records.

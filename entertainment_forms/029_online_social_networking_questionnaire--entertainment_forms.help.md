@@ -1,8 +1,3 @@
-<thinking>
-This guide will help users understand and complete the online social networking questionnaire. The purpose of this form is to gather information about users' online habits and preferences, including their favorite social media platforms, online activities, and security concerns. This information will be used to understand user behavior and improve the overall online social networking experience.
-To ensure that users understand the purpose and relevance of this form, it is recommended that they read this guide before starting the questionnaire. Please note that this form is designed to gather anonymous and aggregated data and does not collect any sensitive or personal identifiable information.
-</thinking>
-
 # online-social-networking-questionnaire - Help Guide
 ## Purpose
 The online social networking questionnaire is designed to gather information about your online habits and preferences. This information will help us understand your behavior and improve the online social networking experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pronouns Quiz - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to be a Student Inclusivity Advocacy Survey for gathering information from students. It seems that this survey might be used for students to share their experiences, needs, and concerns regarding inclusivity and advocacy within the educational institution. I'm inferring that the survey aims to collect qualitative and quantitative data for this purpose. However, I need more information about the specific goals and objectives of this survey to provide a more accurate explanation.
-
-Assuming it's a general survey for students to express their feelings and opinions, I'll proceed with creating the user-facing help guide based on the provided YAML fields. If you have any additional context or details about the survey, please provide them so I can refine the explanation.
-
-</thinking>
-
 # Student Inclusivity Advocacy Survey - Help Guide
 ## Purpose
 

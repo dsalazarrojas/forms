@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from organizations, allowing them to register and be listed on the platform. The purpose of this form is to gather essential details about the organization, including their name, position title, department, email, phone number, and date of birth. This information will be used to create a profile for the organization on the platform. Before proceeding, please ensure that you are authorized to register the organization and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Organization Registration Form - Help Guide
 ## Purpose
 The Organization Registration Form is designed to collect information from organizations, allowing them to register and be listed on the platform. This form is essential for creating a profile for your organization on the platform.

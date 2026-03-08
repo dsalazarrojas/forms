@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees about their job importance ratings and related comments. This form is used to gather data for employee and manager evaluations, to help identify areas of improvement and provide feedback for growth opportunities. It is crucial to fill out this form carefully, ensuring that all fields are filled in as required and accurately reflecting individual perspectives. Please ensure that you are not submitting duplicate surveys, and if you're unsure about any questions, please review the help guide below for guidance.
-</thinking>
-
 # job_importance_rating_survey - Help Guide
 ## Purpose
 The job importance rating survey is used to gather information from employees about their job importance ratings and comments. This data is collected for employee and manager evaluations to help identify areas of improvement and provide feedback for growth opportunities.

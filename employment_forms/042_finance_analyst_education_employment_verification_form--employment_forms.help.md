@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to verify the employment information of a finance analyst. The purpose of this form is to collect relevant details about the candidate's education and employment history to validate their finance analyst role. 
-
-Before filling out this form, please ensure that the information you are providing is accurate and up-to-date. This form is not intended to be a comprehensive job application or resume, but rather a specific set of questions to validate your employment history as a finance analyst. 
-
-This form will not be used for any other purpose other than to verify your employment information.
-
-</thinking>
-
 # Finance Analyst Education Employment Verification Form - Help Guide
 ## Purpose
 The Finance Analyst Education Employment Verification Form is designed to collect specific details about your finance analyst employment history. This form helps to verify your credentials and validate your experience in the finance industry. Please fill out this form accurately and completely to facilitate a quick and efficient verification process.

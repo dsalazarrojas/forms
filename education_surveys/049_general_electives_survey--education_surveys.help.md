@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect data for a general electives survey, which likely refers to a list of elective courses that students can choose from in a educational institution. The form aims to gather information about the students' preferences and selections for these electives. The form has a mix of select-one, select-multiple, text, email, date, time, note, and number fields, suggesting that it is used to collect demographic information, course selections, and other relevant details about the students. Before proceeding, it is recommended to check if the form is being completed for a duplicate purpose or if the student has already been surveyed. This can be done by checking the form's title, the student's name, and other unique identifiers such as student ID and school year.
-</thinking>
-
 # General Electives Survey - Help Guide
 ## Purpose
 This form is designed to collect information about students' elective course selections. It will help the educational institution to gather data on student preferences and selections for electives.

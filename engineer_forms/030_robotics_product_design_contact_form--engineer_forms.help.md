@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for potential customers or clients to provide information to the product design team for robotics product design services. The form should be used for those who have a project idea in mind and want to inquire about the possibility of development. The form fields are designed to gather project description, project type, requirements, contact information, phone number, an opportunity to upload files related to the project, and the date of the project.
-</thinking>
-
 # Robotics Product Design Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to allow potential customers or clients to submit information about their project ideas and inquire about our product design services for robotics products.

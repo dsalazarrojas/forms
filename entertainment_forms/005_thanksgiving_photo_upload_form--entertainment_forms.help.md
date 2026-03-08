@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a Thanksgiving event or celebration. The user will be able to upload up to 4 photos, provide event details, date, time, location, and description, and choose event status and category. The form will also allow users to upload additional files and media, such as videos and audio files. All fields are optional except for the contact name and email, which are required to submit the form. This information will be used to record and display event details in the database.
-</thinking>
-
 # Thanksgiving Photo Upload Form - Help Guide
 ## Purpose
 This form is designed to collect and document details of a Thanksgiving event or celebration. Users are encouraged to upload relevant photos and provide information about the event, including date, time, location, and description. The form also allows users to choose a category for the event and set its status.

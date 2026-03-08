@@ -1,7 +1,3 @@
-<thinking>
-This form is used to apply for the FullStack Team Lead position within the organization. This form should only be completed by individuals who are genuinely interested in the role and meet the basic requirements. To ensure that only relevant and qualified applicants are considered, please refrain from submitting duplicate applications. Each field in this form is designed to gather specific information required to assess your suitability for the Team Lead position. If you are unsure about any field, please refer to this guide for further clarification.
-</thinking>
-
 # FullStack Team Lead Application - Help Guide
 ## Purpose
 The FullStack Team Lead Application form is a comprehensive online form used to gather information from interested candidates for the Team Lead position. This form helps our team to quickly and efficiently evaluate your qualifications and assess your suitability for the role.

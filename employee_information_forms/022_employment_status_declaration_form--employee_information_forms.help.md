@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Employment Status Declaration Form is a form used to declare one's employment status, including details such as first name, last name, email, phone number, job title, employment status (active, resigned, or retired), start date, end date (if applicable), manager's name, manager's title, and manager's email (if applicable). This form is likely used to keep track of employee information for administrative purposes.
 
 # Employment Status Declaration Form - Help Guide

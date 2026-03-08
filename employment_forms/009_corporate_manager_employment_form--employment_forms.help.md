@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for corporate settings, possibly for human resources or HR purposes. It appears to collect basic information about employees, including their details, contact information, onboarding details, and submission details. There might be some overlap with existing forms or templates on other platforms, but as it's AI-generated, it's an original adaptation.
-</thinking>
-
 # Corporate Manager Employment Form - Help Guide
 ## Purpose
 The Corporate Manager Employment Form is designed to collect and record essential details of corporate managers. This form aims to provide an accurate and comprehensive overview of the manager's employment, making it easier for the company to manage employee data and track progress.

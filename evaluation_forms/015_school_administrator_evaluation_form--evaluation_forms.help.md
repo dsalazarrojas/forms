@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Administrator Evaluation Form - Help Guide
 ## Purpose
 

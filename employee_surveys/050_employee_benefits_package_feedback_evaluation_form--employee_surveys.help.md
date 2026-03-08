@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to evaluate the effectiveness and overall satisfaction of the employee benefits package provided by the company. It is used to gather feedback from employees on their experience with the benefits package, which will help the HR department to identify areas of improvement and make necessary adjustments. This form is not meant to be a comprehensive survey, but rather a quick assessment to gather general feedback from employees. It is not meant to be taken as a formal evaluation, but rather as a helpful tool for the HR department to understand employee satisfaction and make data-driven decisions.
-</thinking>
-
 # Employee Benefits Package Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on their experience with the employee benefits package provided by the company. The goal is to understand overall satisfaction and identify areas of improvement.

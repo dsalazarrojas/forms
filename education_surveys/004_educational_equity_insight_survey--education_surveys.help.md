@@ -1,12 +1,3 @@
-<thinking>
-The form "Educational Equity Insight Survey" is designed to collect information about the educational experiences and challenges faced by students, teachers, and staff members in a particular school or district. This survey aims to gather feedback and insights on barriers and opportunities related to equity in education, such as language barriers, accessibility issues, and cultural and linguistic diversity. This form is not intended to replace any official school or district surveys but rather to provide a more comprehensive and specific look at educational equity.
-
-Before starting the survey, ensure that you have reviewed the school's internal policies and procedures related to educational equity and that the data collected will not duplicate existing information. This ensures that the data is accurate and reliable.
-
-Please note that this form will collect information about the experiences of students, teachers, and staff members. If you are unsure about what to report or have concerns about the survey, it is recommended to reach out to the school administration or district leadership.
-
-</thinking>
-
 # Educational Equity Insight Survey - Help Guide
 ## Purpose
 This survey aims to collect information about the educational experiences and challenges faced by students, teachers, and staff members in a particular school or district, focusing on barriers and opportunities related to educational equity.

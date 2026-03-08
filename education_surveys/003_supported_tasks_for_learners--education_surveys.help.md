@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from learners about their support needs and satisfaction levels while learning. This form is likely used to gauge the effectiveness of support systems in place for learners, such as instructors, peers, or online resources. To prevent duplication of effort, ensure that you have not completed this form previously.
-</thinking>
-
 # Supported Tasks For Learners - Help Guide
 ## Purpose
 This form is designed to collect information about the types of tasks that learners feel they need support with and their levels of satisfaction with these supports. The collected data will be used to understand areas where learners need improvement and inform support systems.

@@ -1,5 +1,3 @@
-<thinking>Engineer In Training (EIT) Certification Application</thinking>
-
 # Engineer In Training (EIT) Certification Application - Help Guide
 ## Purpose
 This form is designed for engineers to apply for certification as an Engineer In Training (EIT). The purpose of this form is to gather information about the applicant, including their name, contact email, and contact phone number.

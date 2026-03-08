@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for users to register for a virtual event. The form is divided into multiple pages, and it collects personal and contact information from users. Please note that this form does not collect payment information or event attendance preferences. Before filling out this form, please ensure you are registering for a valid event and have all necessary information readily available.</thinking>
-
 # Virtual Event Registration Form - Help Guide
 ## Purpose
 This form is for registering for a virtual event. It collects your name and contact information for event organizers to contact you.

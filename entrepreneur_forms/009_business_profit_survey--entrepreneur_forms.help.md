@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Profit Survey - Help Guide
 ## Purpose
 This form is designed to gather business profit data from business owners to help them analyze their financial performance. It's used for internal assessment and comparison of profit margins, growth, and trends. Please ensure you're filling this form if you're an actual business owner and not for demonstration or testing purposes.

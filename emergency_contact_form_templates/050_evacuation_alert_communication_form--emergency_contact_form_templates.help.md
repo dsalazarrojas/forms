@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for communicating evacuation alerts to emergency contacts. The purpose of this form is to collect and store information about the emergency contacts of employees or individuals who need to be notified in case of an emergency. This information will help emergency responders and management identify and respond to emergencies more efficiently. Before filling out this form, please ensure that you have already checked if the individual is already listed in the emergency contact directory, to avoid duplication of effort.
-</thinking>
-
 # Evacuation Alert Communication Form - Help Guide
 ## Purpose
 The Evacuation Alert Communication Form is a template used to collect and store information about emergency contacts of employees or individuals who need to be notified in case of an emergency.

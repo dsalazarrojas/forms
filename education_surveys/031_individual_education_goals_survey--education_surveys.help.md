@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to gather information from parents or guardians about their child's educational goals, including whether the child receives special education services, the student's demographic information, their needs, and educational objectives. The form is likely used by educators or administrators to assess the student's educational needs and develop individualized plans. To ensure accurate and relevant data, please confirm that you have the necessary authority to complete this form for the child, and that the information provided is up-to-date and accurate. Also, review the form carefully to avoid duplicating information already provided in other forms or documents... </thinking>
-
 # Individual Education Goals Survey - Help Guide
 ## Purpose
 The Individual Education Goals Survey is designed to gather information from parents or guardians about their child's educational goals, including whether the child receives special education services, demographic information, needs, and educational objectives.

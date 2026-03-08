@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # email_confirmation_request_form - Help Guide
 ## Purpose
 This form is used to request a confirmation of email address and optional additional details from the user. It is intended to be used for email marketing purposes, allowing the user to subscribe or unsubscribe from email communications.

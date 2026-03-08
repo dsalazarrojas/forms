@@ -1,13 +1,3 @@
-<thinking>
-
-The "Beard Growth Serum Patch Test Consent Form" is a document used to inform clients about the risks associated with using a beard growth serum patch test and to obtain their consent for the test. This form is designed to collect essential information about the client, including their contact details, medical conditions, and previous reactions to products. By filling out this form, clients will be asked to provide consent for the patch test, which will help the esthetician understand their skin sensitivity and allergies before administering the test.
-
-This form is intended for clients who have been recommended to undergo a patch test for a beard growth serum. The test is used to assess the client's skin sensitivity to the product and to prevent any adverse reactions.
-
-The information collected through this form will be used to ensure the client's safety and to provide a personalized treatment experience.
-
-</thinking>
-
 # Beard Growth Serum Patch Test Consent Form - Help Guide
 
 ## Purpose

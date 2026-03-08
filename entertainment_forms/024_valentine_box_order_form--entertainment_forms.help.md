@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for a Valentine's Day-themed product or service. The form is used to collect information about the customer, their order details, and payment methods. The fields are designed to be straightforward and easy to understand, with a mix of text, select, and date/time fields to accommodate various types of information. The form is meant to be completed by customers who wish to place a Valentine's Day order, either for themselves or as a gift for someone else. It's essential to fill out the form accurately to ensure that the order is processed correctly. Please ensure that you are using this form for its intended purpose and do not submit duplicate orders.
-
-</thinking>
 # Valentine Box Order Form - Help Guide
 ## Purpose
 This form is used to collect information for Valentine's Day orders, allowing customers to place orders for products or services with ease. Please fill out the form accurately to ensure a smooth order processing experience.

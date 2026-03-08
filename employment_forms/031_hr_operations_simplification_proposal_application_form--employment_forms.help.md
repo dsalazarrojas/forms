@@ -1,5 +1,3 @@
-<thinking>...this form is used to submit a proposal for the HR operations simplification project. The form is meant to capture all the necessary information for the proposal, including the name and contact details of the proposer, the problem statement and proposed solution, expected outcome, and submission details. To avoid duplication, please ensure you are submitting only new proposals that have not been previously submitted or approved. If you are revisiting an existing proposal, please make sure to indicate the version number...</thinking>
-
 # hr_operations_simplification_proposal_application_form - Help Guide
 ## Purpose
 

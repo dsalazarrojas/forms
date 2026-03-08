@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for entertainment professionals to report information about their upcoming talent gigs, providing a structured format for collecting and organizing data about events. The form aims to capture relevant details about each gig, such as the event name, performer's name, date, event type, performance time, location, event capacity, and any additional comments or feedback. This data will be used to create a record of upcoming events and facilitate communication between talent agencies and event organizers. It is crucial to ensure that the form is filled out accurately and completely, as this information will be used to plan and prepare for the events.
-
-</thinking>
-
 # Talent Gig Information Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed information about talent gigs, including event name, performer's name, date, event type, performance time, location, event capacity, and additional comments or feedback.

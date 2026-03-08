@@ -1,15 +1,3 @@
-<thinking>
-This form, "remote_employee_connectivity_and_morale_check_in", is designed to gauge remote employees' connectivity and morale. It collects information on their experience with remote work, communication preferences, and potential issues that may arise. This form is intended for HR professionals or team leaders to monitor and improve the remote work environment.
-
-The purpose of this form is to:
-- Assess remote employees' feelings of connection with their team members and the organization as a whole.
-- Gather feedback on the effectiveness of remote work arrangements.
-- Identify potential communication issues and areas for improvement.
-
-Before filling out the form, please review the following guidelines to ensure accurate and complete answers.
-
-</thinking>
-
 # remote_employee_connectivity_and_morale_check_in - Help Guide
 ## Purpose
 

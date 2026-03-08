@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "release_of_information_template" form, which is used to document the release of employment-related information. It's essential to review the form carefully before providing any information to ensure accuracy and completeness. If you're unsure about any field, please consult with your HR representative or the form's originator.
-</thinking>
-
 # release_of_information_template - Help Guide
 
 ## Purpose

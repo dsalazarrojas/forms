@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to check in students for their course load, which is a critical aspect of student engagement and progress tracking. This form is likely used by students, instructors, or academic administrators to verify student course enrollment and availability. The form should be completed for each student to ensure accurate data is collected and to identify any discrepancies or inconsistencies in course load. 
-Before starting the form, ensure that you have reviewed the course load for the relevant semester and student information. 
-Ensure that you have the necessary permissions or access rights to complete the form. 
-If the student has not been assigned a tool, you should not proceed. 
-If you are unsure about any field or the purpose of the form, please contact the designated authority for guidance. 
-This form should not be used for duplicate or redundant entries, as this will lead to data duplication and errors. 
-Please fill out the form accurately and completely. 
-</thinking>
-
 # University Student Course Load Check In - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # skin_moisture_infusion_treatment_consent_form - Help Guide
 
 ## Purpose

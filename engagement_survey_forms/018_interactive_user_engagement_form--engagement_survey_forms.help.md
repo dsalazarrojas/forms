@@ -1,14 +1,3 @@
-<thinking>
-
-To determine the form's purpose and create a relevant help guide, I'll analyze the provided YAML fields and infer the following:
-
-*   The form "interactive_user_engagement_form" likely aims to gather user feedback and engagement data, which includes information about the user's interaction experience, submission method, device, location, and other relevant details.
-*   The form's structure suggests that it is a complex form with multiple sections, each focusing on different aspects of user engagement.
-*   Some sections, such as "user_information" and "submission_rate", are straightforward and require simple input, while others, like "submission_method" and "submission_device", have more complex options.
-*   The form requires a mix of text, select_multiple, select_one, and date fields, indicating that it is designed to collect a variety of data types.
-
-</thinking>
-
 # interactive_user_engagement_form - Help Guide
 ## Purpose
 The interactive_user_engagement_form is designed to gather user feedback and engagement data, including information about the user's interaction experience, submission method, device, location, and other relevant details.

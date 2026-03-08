@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from students who have completed the Exercise Physiology Course. The form is meant to gauge the student's overall satisfaction with the course, including their rating of the course and their instructor. The form also allows students to provide comments on their experience and whether they would recommend the course to others. 
-The form will be completed by students who have taken the course and are providing feedback on their experience. The form's data will help to improve the course and make it more effective and engaging for future students. It's possible that this form might be used by multiple students, but that's okay. However, it's also important that each student provides unique and honest feedback, as that's what will help to improve the course the most. In that sense, if you've already provided feedback on this form, you might want to review your responses before resubmitting, to see if any new insights or opinions have arisen.
-</thinking>
 # Exercise Physiology Course Feedback - Help Guide
 
 ## Purpose

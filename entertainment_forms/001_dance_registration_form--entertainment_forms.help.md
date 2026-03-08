@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who want to participate in a dance-related event, such as a festival or contest. The purpose of this form is to gather basic registration information from participants, including their name, contact email, phone number, and dance category selection. This form will be used to streamline the registration process and ensure that all participants have a smooth experience. 
-</thinking>
-
 # Dance Registration Form - Help Guide
 
 ## Purpose

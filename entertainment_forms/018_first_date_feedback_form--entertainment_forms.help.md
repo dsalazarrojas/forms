@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about their experiences on a first date. The purpose of this form is to gather information about how the date went, what the user thought of the matchmaker, and their overall impression of the date. The form will help us understand what worked well and what didn't, and provide valuable insights to improve our match-making services. To avoid duplication, please only fill out this form once per date.
-</thinking>
-
 # First Date Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about their experiences on a first date. The purpose of this form is to gather information about how the date went, what the user thought of the matchmaker, and their overall impression of the date.

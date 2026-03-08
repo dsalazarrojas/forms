@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive employment interview form used for sales positions. It is designed to gather information from job applicants, covering various aspects of their employment history, skills, and personal details. To ensure that this form is being used correctly, please note that it is intended for sales employment purposes only and should not be used for other types of employment or non-employment related inquiries. Duplicate submissions may be discarded as they are not relevant to the intended use case.
-</thinking>
-
 # Sales Employment Interview Form - Help Guide
 ## Purpose
 This form is designed to gather information from job applicants for sales positions. It includes multiple pages that cover various aspects of employment history, skills, and personal details.

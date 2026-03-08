@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect employee feedback on their satisfaction with the current benefits package offered by the organization. The purpose of this survey is to gather information on what benefits are most valued by employees, their understanding of available benefits, and their experience with certain benefits. This feedback will help the organization identify areas for improvement and make data-driven decisions to enhance employee satisfaction and overall well-being.
-
-The survey will collect the following types of information:
-
-* Employees' level of satisfaction with the current benefits package
-* The importance of various benefits to each employee
-* Their understanding of available benefits
-* Their experience with certain benefits, such as paid time off
-* Additional benefits they would find valuable
-* Any further comments or suggestions
-
-Please note that the information collected will be used to improve the benefits package and create a more positive work environment.
-
-</thinking>
-
 # employee_benefits_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback on the current employee benefits package to improve satisfaction and offerings.

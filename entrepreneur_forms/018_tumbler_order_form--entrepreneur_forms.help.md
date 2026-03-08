@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about their tumbler order. The purpose of this form is to gather relevant details such as customer contact information, order specifics, and any special instructions. This form is likely to be used by sales or customer service teams to process and fulfill customer orders. Before proceeding, please ensure you have not filled this form in a different context, such as a duplicate order or a previous submission. Review the form carefully to ensure all required fields are filled in accurately and completely.
-</thinking>
-
 # Tumbler Order Form - Help Guide
 ## Purpose
 The Tumbler Order Form is designed to collect customer information and order specifications to process and fulfill customer orders.

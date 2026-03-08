@@ -1,8 +1,4 @@
-> <thinking>
-To confirm, the form is to be used for gathering user opinions and feedback on reception entertainment types. This form should be completed by users to express their favorite entertainment types, ratings, and feedback. Please ensure that each field is completed correctly and only select multiple options that apply to you. This form is intended for internal use only, so please do not share your responses with anyone outside the reception team. This form may be filled out multiple times, so please do not submit duplicate responses. If you have any questions or concerns about the form, please reach out to the reception team.
-</thinking>
-
-# Reception Entertainment Voting Form - Help Guide
+> # Reception Entertainment Voting Form - Help Guide
 ## Purpose
 The Reception Entertainment Voting Form is designed to gather user opinions and feedback on reception entertainment types. Your input will help us tailor our entertainment offerings to better meet your needs.
 

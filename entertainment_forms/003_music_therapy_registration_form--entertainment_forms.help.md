@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music Therapy Registration Form - Help Guide
 ## Purpose
 This form is designed to collect basic information from registrants (people seeking music therapy services) to provide an effective and safe music therapy experience. This form aims to gather contact and registrant information and session details.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to sign up for membership to the theater, providing necessary information for the subscription process. This form is designed to collect information for both the member and the payment method. To avoid duplication, we should only fill out this form once, as the information will be saved for future reference.
-
-</thinking>
-
 # Theater Membership Subscription Form - Help Guide
 ## Purpose
 The Theater Membership Subscription Form is designed to facilitate the membership sign-up process for users. This form will guide you through the necessary steps to provide your information and complete the subscription.

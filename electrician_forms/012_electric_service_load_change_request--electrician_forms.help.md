@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to allow users to request a change in service load for electrical, gas, or water services. It should be used by someone who wants to modify their service load, likely due to changes in their business or personal needs.
-Before filling out this form, please ensure that:
-- You have all the necessary documents to support your request.
-- You have the approval of all stakeholders involved (e.g., your landlord, business partner, etc.).
-- You have not submitted this request before. Duplicate submissions can cause delays and confusion.
-
-This form will collect information about your service type, location, address, and details about the change, as well as contact information for the submitter.
-
-Please make sure to fill out the form accurately and thoroughly.
-</thinking>
-
 # Electric Service Load Change Request - Help Guide
 ## Purpose
 This form is used to request a change in service load for electrical services.

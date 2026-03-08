@@ -1,11 +1,3 @@
-<thinking>
-This form is used by the citizens of Kenora City to report incidents or submit general inquiries to the police department. The form collects contact information and details about the incident or inquiry, which will be reviewed by the police department to determine the best course of action.
-
-To ensure the correct completion of this form, please verify that you are reporting a legitimate incident or inquiry and that you have not already submitted a report for the same reason. Duplicate reports can lead to unnecessary resource duplication and may delay the resolution of the issue.
-
-The form will be reviewed by the police department, and the provided information will be used to contact you for further clarification or action.
-</thinking>
-
 # kenora_city_police_department_application - Help Guide
 ## Purpose
 This form allows citizens of Kenora City to report incidents or submit general inquiries to the police department. It is an important tool for the department to stay informed and responsive to the needs of its community.

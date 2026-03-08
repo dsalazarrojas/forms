@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to be a tool for evaluating presentations. Presenters can use this form to get feedback on their presentation from evaluators. The form is designed to be completed by the evaluator, who will rate the presentation on various criteria such as content, organization, and overall effectiveness. The form is meant to help presenters identify areas of improvement and refine their skills.
-</thinking>
-
 # Historical Presentation Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate presentations and provide feedback to the presenter.

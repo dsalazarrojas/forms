@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # electrical_commissioning_checklist - Help Guide
 ## Purpose
 The electrical commissioning checklist is a guide for ensuring that all aspects of electrical systems commissioning are completed and verified. It helps ensure that electrical systems are properly installed, tested, and commissioned to meet required standards and specifications.

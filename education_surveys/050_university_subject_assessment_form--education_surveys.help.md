@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback and assessment from students about their university subject courses. This form will help instructors and administrators evaluate the effectiveness of the course and identify areas for improvement. To ensure that the form is used correctly, please note that:
-
-* Only one form submission per student is allowed.
-* The form should be filled out after completing the course.
-* The form's questions are designed to gather honest and constructive feedback.
-
-</thinking>
-
 # University Subject Assessment Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and assessment from students about their university subject courses. Your input is crucial in helping us evaluate the effectiveness of the course and identify areas for improvement.

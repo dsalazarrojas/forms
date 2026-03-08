@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and evaluation information from users. It is meant to be completed by evaluators who will score and provide comments on the submitted work. The purpose of this form is to ensure consistency and fairness in the evaluation process. The form is divided into multiple sections, each with its own set of questions or fields. Please ensure that each field is filled in with the correct information before submission. This form has been designed to be straightforward and easy to understand. 
-
-</thinking>
-
 # Evaluation Rubric Survey - Help Guide
 ## Purpose
 The Evaluation Rubric Survey is a form used to collect feedback and evaluation information from users. It is meant to be completed by evaluators who will score and provide comments on the submitted work to ensure consistency and fairness in the evaluation process.

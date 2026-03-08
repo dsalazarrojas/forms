@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from employees on their use and challenges with team messaging tools. The form is designed to be completed by employees who are familiar with the tools and have used them in their work. The goal is to gather information that will help the team improve the messaging experience.
-
-</thinking>
-
 # Messaging Coordination Survey - Help Guide
 ## Purpose
 The Messaging Coordination Survey is used to gather feedback from employees on their experience with team messaging tools. This information will help the team better understand how to improve the messaging experience for everyone.

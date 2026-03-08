@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Staff Supervision - Help Guide
 ## Purpose
 This form is used to manage employee supervision, gathering information about an employee's current status and any necessary comments or signoffs from their supervisor.

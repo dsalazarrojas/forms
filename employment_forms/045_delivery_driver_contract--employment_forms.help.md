@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect demographic information from delivery drivers, specifically their first and last names, address, phone number, and email address. This information will be used to create a driver contract, which outlines the terms and conditions of their employment. To avoid duplication, this form should only be completed by drivers who have not previously completed this form. This form will be used in conjunction with other forms to create a comprehensive driver contract.</thinking>
-
 # delivery_driver_contract - Help Guide
 ## Purpose
 The delivery_driver_contract form is used to collect demographic information from delivery drivers, which is used to create a driver contract that outlines the terms and conditions of their employment.

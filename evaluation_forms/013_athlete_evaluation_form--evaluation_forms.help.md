@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about an athlete's performance, skills, and overall evaluation. It is meant to be filled out by a coach, trainer, or evaluator to provide a comprehensive assessment of an athlete's abilities. Please ensure that you have a clear understanding of the athlete's performance during the evaluation period before filling out this form. The form is not intended to be filled out by the athlete themselves. This form is used to help coaches, trainers, and evaluators make informed decisions about an athlete's development and progress.
-
-</thinking>
-
 # Athlete Evaluation Form - Help Guide
 ## Purpose
 

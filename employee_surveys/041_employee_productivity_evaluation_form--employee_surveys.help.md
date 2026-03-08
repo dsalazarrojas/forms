@@ -1,11 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "Employee Productivity Evaluation Form" in the "employee_surveys" category.
-The form is designed to help evaluate an employee's performance, quality of work, collaboration skills, and time management. The form includes multiple pages with various fields that require the employee to provide self-assessment and feedback.
-The form has a mix of single and multiple-choice questions, rating scales, and open-ended text fields. The purpose of the form is to gather data that can be used for performance evaluations and professional development.
-We will ensure that the guide is clear, concise, and easy to follow, covering all the necessary steps and explanations for each field.
-
-</thinking>
-
 # Employee Productivity Evaluation Form - Help Guide
 ## Purpose
 The Employee Productivity Evaluation Form is a self-assessment tool designed to help employees evaluate their own performance, quality of work, collaboration skills, and time management. This form aims to gather data that can be used for performance evaluations and professional development.

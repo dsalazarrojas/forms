@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for wage deductions, which could be used for various purposes such as calculating taxes, benefits, or other financial purposes. To ensure the form is completed correctly, we should verify that it is not being duplicated or outdated. The fields should be filled in with accurate and up-to-date information to avoid errors or inconsistencies. This form is designed to be filled out by the employee or their representative, and it is essential to double-check the fields for accuracy before submission.
-</thinking>
-
 # Wage Deduction Form - Help Guide
 ## Purpose
 The Wage Deduction Form is used to collect information for wage deductions, which may be necessary for tax purposes, benefits, or other financial calculations.

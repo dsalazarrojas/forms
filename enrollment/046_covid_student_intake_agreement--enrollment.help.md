@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the COVID-19 Student Intake Agreement, which is necessary for students and their parents or guardians to provide important health and safety information for students returning to school after a break or joining the school. The form is intended to be completed by the student and their parent or guardian and will help the school ensure the student's health and safety while at school. This form should only be completed if the student is returning to school after a break or if they are new to the school. 
-
-Please review the form carefully and answer all questions truthfully. If you are unsure about any question, you may have the opportunity to ask for clarification or support. The form is intended to be used for informational and administrative purposes only.
-
-</thinking>
-
 # COVID Student Intake Agreement - Help Guide
 ## Purpose
 This form is used to collect health and safety information from students and their parents or guardians to ensure the student's health and safety while at school.

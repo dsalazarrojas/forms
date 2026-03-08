@@ -1,5 +1,3 @@
-<thinking>What if the employees don't understand the form's purpose and how to fill it out? Perhaps we can have a guide to help them understand its significance and what they should do with it?</thinking>
-
 # Employee Interest Survey - Help Guide
 ## Purpose
 This form, titled "Employee Interest Survey," aims to gather information about your interests, work preferences, and contact details from employees. This will help the organization better understand your needs and preferences, enabling them to make informed decisions for future projects and initiatives. Completing this form is an optional process, and your feedback will contribute to the growth and development of the company.

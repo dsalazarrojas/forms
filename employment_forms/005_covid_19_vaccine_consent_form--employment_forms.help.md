@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to be a comprehensive document that captures information about an employee's health and vaccination history, as well as their consent to receive the COVID-19 vaccine. This form is essential for employers to maintain accurate employee records and ensure the safe administration of vaccines. Before starting, please check if you have a similar form on file or if this one has been completed recently, as redundant submissions may cause confusion or create duplicate entries.
-
-Please note that the form has 20 fields and can be completed in several steps.
-</thinking>
-
 # COVID 19 Vaccine Consent Form - Help Guide
 ## Purpose
 This form is used to document employee consent and medical information to facilitate safe and proper administration of the COVID-19 vaccine.

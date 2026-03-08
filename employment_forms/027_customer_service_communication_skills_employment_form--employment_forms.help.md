@@ -1,11 +1,3 @@
-<thinking>
-This form is used to gather information from job applicants about their employment history, communication skills, and other relevant details. The form is designed to help employers assess a candidate's suitability for a position, particularly in customer service. This form is not intended to be a comprehensive or exhaustive application form, but rather a supplementary tool to help employers get a better understanding of a candidate's background and skills. To ensure accuracy, please fill out the form with as much detail as possible.
-
-Please note that some fields are optional, and you are not required to fill out every section. However, providing as much information as possible will help us get a better understanding of your qualifications and experience.
-
-Before proceeding, review each section carefully and ensure you are filling out the correct information for your current or previous employment history. If you have any doubts or concerns, please contact us.
-</thinking>
-
 # Customer Service Communication Skills Employment Form - Help Guide
 ## Purpose
 The Customer Service Communication Skills Employment Form is designed to help employers assess a candidate's communication skills and employment history, particularly in customer service roles.

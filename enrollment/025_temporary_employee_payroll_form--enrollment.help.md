@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about new hires for temporary employees, including their tax information, employment details, and emergency contact information. 
-This form is used for administrative purposes only and should be filled out for every temporary employee. 
-Please do not fill this form for existing employees or non-temporary employees. 
-</thinking>
-
 # Temporary Employee Payroll Form - Help Guide
 
 ## Purpose

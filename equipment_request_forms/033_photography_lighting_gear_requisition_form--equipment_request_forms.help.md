@@ -1,7 +1,3 @@
-<thinking>
-Photography lighting equipment is a specialized set of tools and equipment that is essential for professional photography sessions. This equipment can be rented for a short-term or long-term period to ensure that the desired results are achieved during the photo shoot. To use this form, you must be a registered photographer and have a legitimate reason for requesting the lighting equipment.
-</thinking>
-
 # photography_lighting_gear_requisition_form - Help Guide
 ## Purpose
 The "photography_lighting_gear_requisition_form" is a form used to request photography lighting equipment from a rental service. This form is for photographers who require specialized lighting equipment for a photo shoot and need to rent it for a short-term or long-term period.

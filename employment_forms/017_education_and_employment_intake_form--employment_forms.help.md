@@ -1,11 +1,3 @@
-<thinking> 
-We need to ensure that the form's purpose is clear to the end-users, and we need to check for any redundancy or duplication of fields that could cause confusion or errors. The form's main purpose is to collect education and employment information about an individual, which will be used for [briefly mention the intended use of the form]. We should verify that there is no duplication of fields or data redundancy, and make sure that the field options are clear and concise.
-
-The form is designed to collect information about an individual's education background, job title, work experience, employment status, employment history, education history, and job title history. We should review the fields carefully and ensure that each field is relevant and necessary for the intended use of the form.
-
-Let's review the form fields and provide clear explanations for each field to help end-users complete the form accurately and efficiently. 
-</thinking>
-
 # Education And Employment Intake Form - Help Guide
 ## Purpose
 The Education And Employment Intake Form is designed to collect information about an individual's education and employment background, which will be used for [briefly mention the intended use of the form].

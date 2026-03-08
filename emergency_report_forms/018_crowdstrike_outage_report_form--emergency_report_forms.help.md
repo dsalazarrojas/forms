@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crowdstrike Outage Report Form - Help Guide
 
 ## Purpose

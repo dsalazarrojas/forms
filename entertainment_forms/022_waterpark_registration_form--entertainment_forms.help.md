@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Waterpark Registration Form - Help Guide
 ## Purpose
 This form is designed to collect general, contact, visit, age verification, emergency contact, medical information, vehicle information, payment, and signature from waterpark visitors. The form is meant to be filled out by visitors to provide required information for registration purposes.

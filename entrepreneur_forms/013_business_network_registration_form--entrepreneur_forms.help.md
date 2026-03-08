@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that each business is properly vetted and registered in the network to provide accurate and efficient services. Before filling out this form, please review the following questions to ensure they apply to your business. This will help us understand your business needs and provide relevant information to network members. Please note that some fields are required, and some are optional. If you're unsure about any of the fields, refer to the field explanations below for more information.
-</thinking>
-
 # Business Network Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information about your business so we can provide you with the most valuable connections, insights, and opportunities to grow your business.

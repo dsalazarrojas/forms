@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from bands and artists seeking to be featured on a music platform. The purpose of this form is to gather essential details about the band, including their name, contact information, genre, and promotional materials. By filling out this form, bands can increase their visibility and potentially get more exposure on the platform. To ensure the form is filled out correctly, please make sure to complete all required fields and provide accurate information.
-
-This form will be used to review and verify the submitted information, so please make sure to double-check your answers before submitting.
-
-Before starting, please note that some fields are marked as required, which means they are necessary to proceed with the submission.
-
-Please also be aware that providing false or inaccurate information can lead to delays or rejection of your submission.
-</thinking>
-
 # Band Media Upload Form - Help Guide
 ## Purpose
 The Band Media Upload Form is designed to collect necessary information from bands and artists seeking to be featured on our music platform. This form will help us understand your band's profile, promotional materials, and requirements for performance.

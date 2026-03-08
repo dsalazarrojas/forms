@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by students to evaluate their own work on a specific assignment. It allows students to reflect on their effort level, challenges faced, outcomes, what they would do differently, next steps for improvement, and provide feedback to the teacher. This form aims to help students assess their performance and progress in the assignment.
-The purpose of this form is to encourage students to take ownership of their learning, identify areas of improvement, and develop strategies for self-reflection and growth.
-It is intended to be used for internal assessment purposes only, and should not be shared with others without permission.
-</thinking>
-
 # Homework Self Evaluation Form - Help Guide
 ## Purpose
 The Homework Self Evaluation Form is a tool for students to evaluate their own performance on an assignment. It helps students identify areas of improvement and develop strategies for growth.

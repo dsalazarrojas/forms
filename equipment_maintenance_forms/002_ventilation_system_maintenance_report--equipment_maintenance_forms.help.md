@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the maintenance visit of a ventilation system. The purpose of this form is to ensure that the ventilation system is properly maintained and records of the visit are kept. This form will be used by maintenance personnel to document the condition of the system, record the history of maintenance, and sign off on completion of the visit. Before filling out this form, please ensure that you are the authorized personnel for the maintenance visit and that you have access to the relevant system documentation and records.
-</thinking>
-
 # ventilation_system_maintenance_report - Help Guide
 ## Purpose
 The ventilation system maintenance report is used to document the maintenance visit of a ventilation system, ensuring that the system is properly maintained and records are kept.

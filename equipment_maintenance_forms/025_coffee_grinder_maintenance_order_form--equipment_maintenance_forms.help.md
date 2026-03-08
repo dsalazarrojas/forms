@@ -1,14 +1,3 @@
-<thinking>
-The Coffee Grinder Maintenance Order Form is a form used to gather information about a coffee grinder's maintenance and service needs. This form is used to ensure that the grinder is properly serviced and maintained to optimize its performance. The form is divided into sections for customer information, grinder information, issue and service needed, service schedule, backup solutions, additional contact info, and special instructions. 
-
-To prevent duplication, this form should not be filled out for a new grinder purchase or for a grinder that is still under warranty.
-
-Please ensure all required fields are filled out to ensure proper service. If a field is not applicable or not relevant, please leave it blank or select the corresponding "No" or "Not Applicable" option.
-
-To fill out the form, start by gathering the required information from the customer, then complete the grinder information section, and finally provide any relevant service schedule details. If any issues or problems with the grinder, describe them in detail and select the correct service options. Please also provide preferred service date and time, and select your preferred contact method and any special instructions.
-
-</thinking>
-
 # Coffee Grinder Maintenance Order Form - Help Guide
 ## Purpose
 This form gathers information needed for efficient and effective maintenance and service of your coffee grinder. Please fill out this form accurately and completely.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect employee preferences and feedback on team building activities. The form will be used to gather information about the team's preferences for events, their availability for upcoming events, and any feedback they may have on past events. This information will help the team lead to plan future team building activities that cater to the team's needs and interests.
-
-This form is intended to be completed by all employees in the team, so please ensure that you answer the questions honestly and accurately. If you have already completed this form, please do not submit it again. Your input is greatly appreciated and will help improve team building activities.
-
-If you have any questions or concerns about the form or the team building activities, please do not hesitate to reach out to the team lead.
-
-</thinking>
-
 # team_building_preference_survey - Help Guide
 ## Purpose
 The team building preference survey is designed to gather information about the team's preferences and feedback on team building activities.

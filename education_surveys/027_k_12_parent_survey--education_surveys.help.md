@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for K-12 parents to provide feedback and insights about their child's educational experience in the school. The purpose of this form is to gather information about the quality of education provided by the school, the communication between parents and teachers, and the overall satisfaction of parents with the school's offerings. Before filling out this form, please ensure that you are not a repeat respondent and are providing feedback for the current school year. This will help the school administration to better understand the needs and concerns of parents, and make informed decisions to improve the quality of education and parent-teacher relationships.
-</thinking>
-
 # K 12 Parent Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from K-12 parents about their child's educational experience in the school.

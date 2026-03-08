@@ -1,6 +1,3 @@
-<thinking>
-This is a form to gather information from users for a contest related to short movies. To ensure that users submit relevant and original content, this form will be reviewed for duplication and will only accept submissions that meet specific requirements. Please review the following help guide to understand the form's purpose and how to complete it correctly.</thinking>
-
 # Short Movie Contest Application Form - Help Guide
 ## Purpose
 The Short Movie Contest Application Form is used to collect information from users for a contest related to short movies. This form is designed to gather data required for submission, and all fields must be filled in correctly to be considered eligible for the contest.

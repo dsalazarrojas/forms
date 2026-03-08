@@ -1,7 +1,3 @@
-<thinking>
-The form is used to track and document electrical installations' periodic inspections. This form is part of a broader process to ensure that electrical installations in a site are safe and functioning correctly. This form will likely be used by electrical engineers or other site personnel responsible for maintenance and monitoring of electrical systems. It's essential to complete this form carefully and accurately, as it will serve as a historical record for any discrepancies or issues encountered during inspections.
-This form should only be used once every 12 months or as required by local regulations, whichever occurs first. If the form is duplicated, it would lead to outdated and incorrect records and unnecessary work being performed.</thinking>
-
 # Electrical Installation Periodic Inspection Checklist - Help Guide
 ## Purpose
 

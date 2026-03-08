@@ -1,26 +1,3 @@
-<thinking>
-
-This form is designed to gather information about recognition frequency analysis from employees, supervisors, team leaders, and other stakeholders. The purpose of this survey is to understand how often employees receive recognition, whether from their supervisors, team leaders, or other leaders. This information will help identify barriers to giving recognition and provide ideas to improve recognition processes.
-
-The main sections of this survey cover:
-- Employee giving recognition
-- Employee received recognition
-- Supervisor giving recognition
-- Barriers to giving recognition
-- Ideas to improve recognition
-- Frequency of recognizing employees
-- Manager's perception of recognition
-- Department recognition
-- Frequency of recognition by department
-- Employee input
-- Manager input
-- Team leaders input
-- Other notes
-
-Before starting the survey, please review each question carefully and answer all questions that apply to you.
-
-</thinking>
-
 # Recognition Frequency Analysis Survey - Help Guide
 ## Purpose
 The Recognition Frequency Analysis Survey is designed to gather information about how often employees receive recognition and the challenges that come with it.

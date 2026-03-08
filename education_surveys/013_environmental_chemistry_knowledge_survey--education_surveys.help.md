@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from educators about their knowledge and experiences in teaching environmental chemistry. This form will help us understand their level of understanding, experience, and teaching methods, as well as their needs for additional training and resources. By collecting this information, we can identify areas where educators may need support or training to improve their teaching of environmental chemistry. This form should only be completed by educators who have experience teaching environmental chemistry.
-</thinking>
-
 # Environmental Chemistry Knowledge Survey - Help Guide
 
 ## Purpose

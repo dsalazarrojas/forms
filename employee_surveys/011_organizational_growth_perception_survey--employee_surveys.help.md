@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Organizational Growth Perception Survey" form. To start, let's consider the purpose of this form. The form is designed to gather employee feedback on various aspects of the organization, such as leadership, employee engagement, team collaboration, decision-making, and more. This feedback will help management understand the employees' perceptions of the organization's growth and development. It's essential to ensure that employees understand the purpose of this form and can provide thoughtful and constructive feedback. Before starting, please review this guide to ensure you understand the form's purpose and how to complete it correctly.</thinking>
-
 # Organizational Growth Perception Survey - Help Guide
 ## Purpose
 The Organizational Growth Perception Survey is designed to gather employee feedback on various aspects of the organization, helping management understand the employees' perceptions of the organization's growth and development.

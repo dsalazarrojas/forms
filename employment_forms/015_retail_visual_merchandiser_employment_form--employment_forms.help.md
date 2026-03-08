@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by job applicants to provide information about their employment history and availability to start a new role. The form is designed to gather relevant details about the applicant's job title, job description, salary range, availability to start, and other relevant employment information. To ensure consistency, please only complete this form if you are applying for a retail visual merchandiser position. Please do not use this form for any other type of job application.
-</thinking>
-
 # Retail Visual Merchandiser Employment Form - Help Guide
 ## Purpose
 This form is used to gather information from job applicants for retail visual merchandiser positions. Please ensure that you only complete this form for a retail visual merchandiser job application.

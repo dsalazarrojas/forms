@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect feedback from end-users about their experience with the "Tea Day" event. The form will gather information on event details, satisfaction levels, and areas for improvement. This information will help us understand how to better serve our customers in the future.
-The form is designed to be completed by end-users, and the goal is to gather as much information as possible without overwhelming the user. The form will be available online, and users can access it through a link or a dedicated webpage.
-To avoid duplication of effort, please do not fill out this form if you have already provided feedback on the same event. If you have any concerns or questions, please contact us directly.
-</thinking>
-
 # Tea Day Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from end-users about their experience with the "Tea Day" event. This feedback will help us understand what worked well and what could be improved for future events.

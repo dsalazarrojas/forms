@@ -1,11 +1,3 @@
-<thinking>
-The goal of this form is to collect information about the Engine Intake Manifold Torque Sequence process. This form is likely used by technicians or maintenance personnel to record and track the steps taken during the process. The form might be used for quality control, auditing, or training purposes. 
-
-To ensure relevance, let's assume this form is used in a maintenance setting, such as a workshop or garage, where technicians perform routine checks on engine intake manifolds. The form's purpose is to document the correct sequence of torques applied to the manifold for future reference and potential improvements.
-
-To avoid duplication, let's assume that this form is meant to be filled out once per intake manifold check. If a technician needs to perform the same check multiple times, they should fill out a new form for each instance.
-</thinking>
-
 # Engine Intake Manifold Torque Sequence Checklist - Help Guide
 ## Purpose
 The Engine Intake Manifold Torque Sequence Checklist is a form used to document the steps taken during the Engine Intake Manifold Torque Sequence process. This process involves applying torques to specific parts of the engine intake manifold. By filling out this form, technicians can ensure they have followed the correct sequence and document any issues or comments that arose during the process.

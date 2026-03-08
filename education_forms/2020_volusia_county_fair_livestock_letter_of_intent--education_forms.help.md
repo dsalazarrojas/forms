@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from exhibitors participating in the 2020 Volusia County Fair Livestock Competition. The form is intended to gather essential details about the exhibitor, their livestock, and their participation goals. It is essential to fill out this form accurately and completely to ensure a smooth experience for the exhibitor and fair organizers.
 
 # 2020 Volusia County Fair Livestock Letter Of Intent - Help Guide

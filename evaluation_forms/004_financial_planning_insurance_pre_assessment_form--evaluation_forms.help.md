@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals seeking financial planning and insurance services. The purpose of this form is to gather demographic data, insurance details, and payment information to better understand the client's needs and provide tailored solutions. This form is not intended to be a comprehensive medical assessment, but rather a pre-assessment to initiate the financial planning and insurance process.
-
-To complete this form, please follow these steps:
-
-1. Select the appropriate application type.
-2. Choose the type(s) of insurance you are interested in.
-3. Provide your address information (street address, city, state, and zip code).
-4. Enter your date of birth.
-5. Enter your contact information (phone number and email).
-6. Specify your current insurance status.
-7. Describe your medical history.
-8. Enter your insurance company information (company name).
-9. Provide your policy number (if applicable).
-10. Enter your agent's information (ID and name).
-11. Enter policy details (start and end dates).
-12. Specify how often you pay premiums.
-13. Choose your preferred payment methods.
-14. Enter your payment details.
-15. Choose the type of policy you are interested in.
-
-</thinking>
-
 # Financial Planning Insurance Pre Assessment Form - Help Guide
 
 ## Purpose

@@ -1,18 +1,3 @@
-<thinking>
-This is a form for documenting employee absences, and it's intended for use by HR or other administrative personnel within the company. It's meant to be a general-purpose substitute form for various reasons, without any specific restrictions on who can fill it out or when. This form doesn't have any special conditions that prevent it from being filled out multiple times by different users, so it's suitable for general use.
-
-Please note that this form includes several fields that are meant to provide more detailed information about the employee's absence: their name, email, and reasons for absence. This form is designed to be easily fillable and editable, so users can quickly enter the necessary information and save it for reference later.
-
-Before filling out this form, please ensure that you have the necessary permission to document this absence, and that you're aware of your company's policies regarding absence reporting.
-
-Also, be sure to fill out all required fields to avoid any errors in processing.
-
-The form includes a mix of fields for general information (name and phone number) and specific details about the absence (reason, start and end dates, and start and end times).
-
-This form is designed to be easy to use, but if you're unsure about any field, please refer to the field-by-field explanation below for clarification.
-
-</thinking>
-
 # Substitute Form - Help Guide
 
 ## Purpose

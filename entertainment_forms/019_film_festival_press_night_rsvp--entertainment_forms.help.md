@@ -1,8 +1,3 @@
-<thinking>
-This form will be used by the festival team to gather information from press and media representatives about their intentions to attend the press night of a film festival. The form will help the team to confirm or cancel media presence and gather details about the guests. To avoid duplication, the form will be populated by people with a specific role (e.g., journalist, photographer, videographer, etc.) and a specific media outlet or organization.
-
-</thinking>
-
 # Film Festival Press Night RSVP - Help Guide
 
 ## Purpose

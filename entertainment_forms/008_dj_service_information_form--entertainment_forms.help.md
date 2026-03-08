@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a DJ service event. It's meant for users to provide details about the type of event they're hosting, the date and start and end times of the event, the contact phone and email, and any additional information they'd like to share. The fields are mostly optional, except for the event type, which is a single-select field asking if the event is yes or no. The form is not meant to be a comprehensive tool for planning a complex event, but rather a simple way to get basic information about the event.
-</thinking>
-
 # DJ Service Information Form - Help Guide
 ## Purpose
 This guide will walk you through the process of filling out the DJ Service Information Form. Please follow these steps to ensure you provide the necessary information about your event.

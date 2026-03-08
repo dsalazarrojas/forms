@@ -1,7 +1,3 @@
-<thinking>
-To check if this form is properly filled out, the customer must input their name, email, phone number, delivery address, bike brand, model, serial number, and bike color. They must also specify the bike type, frame size, and whether a warranty is included. Additionally, they must select the date and time of handover and the bike's condition. Finally, they must acknowledge receipt of the bike in the condition described.
-</thinking>
-
 # Bike Handover Form - Help Guide
 ## Purpose
 The Bike Handover Form is a form used to collect information from customers about a bike being handed over. This form is used to ensure a smooth handover process and to document the bike's details.

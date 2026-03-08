@@ -1,13 +1,3 @@
-<thinking>
-**Form Development Context Check**
-
-This form appears to be a participant evaluation form for the career services offered by an organization. The form likely aims to collect feedback from participants on their experience with the services, assessing the quality and usefulness of the service provided, the professionalism of the counselor, and their overall satisfaction. 
-
-The form has multiple pages with a mix of text, email, date, and select one options. It seems like the form is designed to get feedback on various aspects of the service, such as communication, personalization, and the overall experience. The form also has an option for specific strengths and areas for improvement, which suggests that the form wants to know what went well and what could be improved.
-
-To ensure the form is used correctly, it's essential to ensure that the participant understands the purpose and each field's relevance. This guide should help the participant complete the form accurately and effectively.
-</thinking>
-
 # Career Services Participant Evaluation - Help Guide
 ## Purpose
 

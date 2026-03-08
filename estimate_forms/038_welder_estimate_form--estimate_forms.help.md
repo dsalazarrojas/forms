@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive tool for welders to estimate the cost and details of their work. The purpose of this form is to collect information about upcoming projects, including project name, estimate date, and payment terms. The form is intended to be used by both welders and clients to facilitate smooth project communication and financial planning.
-</thinking>
-
 # Welder Estimate Form - Help Guide
 ## Purpose
 This form is designed to be a comprehensive tool for welders to estimate the cost and details of their work.

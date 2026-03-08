@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the purpose and requirements of the "Health Insurance Evaluation Survey" form. Based on the provided YAML fields, it appears that this form is designed to collect feedback and evaluations from policyholders about their health insurance plans. The form likely aims to gather information about the policyholders' overall satisfaction with their plans, including their experiences with the claims process and customer service. The form likely has five fields:
-
-1. Policyholder Information: This field likely collects basic details about the policyholder, such as name, email, or phone number. This field is not required, suggesting that it is optional and can be left blank if the policyholder does not wish to provide this information.
-2. Health Plan Information: This field likely collects details about the policyholder's health plan, such as plan name or ID. Like the first field, this is also optional.
-3. Overall Evaluation of Health Plan: This field is a numerical evaluation question, likely asking the policyholder to rate their overall satisfaction with their health plan on a scale of 1-5.
-4. What do you think of your health plan's claims process?: This field is a text-based question, likely asking the policyholder to provide a written evaluation of their experiences with the claims process.
-5. What do you think of your health plan's customer service?: This field is similar to the previous one, a text-based question asking the policyholder to evaluate their experiences with the customer service.
-
-Before creating the form help guide, I should verify that these assumptions are correct and that the form's requirements and purpose are clear.
-
-</thinking>
-
 # Health Insurance Evaluation Survey - Help Guide
 ## Purpose
 The Health Insurance Evaluation Survey is designed to collect feedback and evaluations from policyholders about their health insurance plans. This form aims to gather information about the policyholders' overall satisfaction with their plans, including their experiences with the claims process and customer service.

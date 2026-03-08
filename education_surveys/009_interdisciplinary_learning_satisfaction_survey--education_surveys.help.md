@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Interdisciplinary Learning Satisfaction Survey" form, we should first consider the purpose and structure of the form. The form is designed to collect feedback and ratings from users about a course they have taken. It has several sections that ask for the course title, description, and instructor name, as well as ratings and feedback about the course. There are also sections for additional notes and contact information.
-
-The form is structured into several pages, each with its own set of questions. The questions are generally straightforward, asking for information about the course and the user's experience with it. However, the multiple sections with similar questions may seem redundant or confusing for users who are not familiar with the form structure.
-
-To address this, we should aim to create a clear and concise guide that explains the purpose and structure of the form, as well as the specific questions on each page. We should also highlight any important details or instructions for each question.
-
-</thinking>
-
 # Interdisciplinary Learning Satisfaction Survey - Help Guide
 ## Purpose
 The "Interdisciplinary Learning Satisfaction Survey" is designed to collect feedback and ratings from users about a course they have taken. This form helps us understand the effectiveness and quality of the course, which informs our teaching practices and course development.

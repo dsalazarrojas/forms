@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and opinions from users about the learning analytics trust and transparency of educational data. This form is designed to collect information about users' trust levels, data usage, and demographic information such as education background, job function, and experience with data. The form is likely intended for use in educational settings, possibly for research or survey purposes. It's essential to ensure that users understand how to complete the form correctly and what each field is asking them to do or provide.
-</thinking>
-
 # Learning Analytics Trust And Transparency Survey - Help Guide
 ## Purpose
 

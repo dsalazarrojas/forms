@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the user's preferences regarding ice breaker activities, which are social exercises designed to break the ice and facilitate team building in educational settings. The purpose of this form is to collect data that can help educators and administrators tailor their ice breaker activities to best meet the needs and interests of their students. By completing this form, users will be able to provide their preferences and select from various options that suit their needs. To ensure consistency, please only complete this form if you are currently involved in the educational process. If you have completed this form before, please do not submit it again.
-</thinking>
-
 # Ice Breaker Activities Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your preferences regarding ice breaker activities, which are social exercises intended to facilitate team building and engagement in educational settings.

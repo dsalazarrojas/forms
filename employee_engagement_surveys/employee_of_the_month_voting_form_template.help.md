@@ -1,16 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-
-To prevent duplicate nominations, we've integrated a unique identifier for each nomination. If a nomination with the same name is submitted multiple times, only the first submission will be counted. This ensures a fair and transparent voting process.
-
-Before filling out the form, consider the following:
-
-* Ensure you're nominating a colleague who has demonstrated outstanding performance and contributions this month.
-* Be specific about the ways in which they've contributed outstandingly.
-* Select the options that best fit the nominee's behavior and performance.
-
-</thinking>
-
 # employee_of_the_month_voting_form_template - Help Guide
 
 ## Purpose

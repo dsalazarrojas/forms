@@ -1,8 +1,3 @@
-<thinking>
-This help guide is necessary because the form is intended for healthcare professionals to document patient information and treatment details. It's likely that the form will be used in a healthcare setting, such as a hospital or clinic, to record data on infusion therapy treatments. I'm assuming that the form is designed to be filled out by healthcare staff, not directly by patients. I'll focus on explaining the form's purpose and how to complete it in a way that's easy to understand for healthcare professionals. There's no obvious duplication or redundancy in the form fields, so I won't be addressing those issues in this guide.
-
-</thinking>
-
 # Infusion Therapy Form - Help Guide
 ## Purpose
 The Infusion Therapy Form is used to document patient information and treatment details for infusion therapy treatments. It's essential to fill out this form accurately and completely to ensure that patient records are up-to-date and treatment is properly administered.

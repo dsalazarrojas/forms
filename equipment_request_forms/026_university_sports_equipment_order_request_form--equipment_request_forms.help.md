@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the University Sports Equipment Order Request Form. The form is designed to collect information about the equipment requested for use in sports activities and events at the university. This guide will walk the user through the form's purpose, how to complete it, and explain each field in detail. To ensure accurate and efficient use of the form, it is essential to understand the form's purpose and the specific requirements for each field. 
-
-Before proceeding, please confirm that you are using the correct form for your equipment request and that you have reviewed the university's equipment usage policies. If you are unsure about any aspect of the form or need further clarification, please contact the relevant department or the form administrator.
-
-</thinking>
-
 # University Sports Equipment Order Request Form - Help Guide
 ## Purpose
 The University Sports Equipment Order Request Form is designed to collect information about the equipment needed for sports activities and events. This form helps the university to manage and allocate equipment effectively, ensuring that the right equipment is available for use when needed. 

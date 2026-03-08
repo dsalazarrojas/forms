@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create an unconditional waiver release on report, typically used in employment settings to document an employee's understanding and agreement to release their employment claims. This form is usually completed by the employee and serves as a formal agreement between the employer and employee. It is essential to ensure that the employee understands the purpose and implications of this form before proceeding.
-</thinking>
-
 # unconditional_waiver_release_on.report - Help Guide
 ## Purpose
 The Unconditional Waiver Release on Report is a form used to document an employee's understanding and agreement to release their employment claims. It's an essential document in employment settings, ensuring both the employer and employee have a clear understanding of their rights and responsibilities.

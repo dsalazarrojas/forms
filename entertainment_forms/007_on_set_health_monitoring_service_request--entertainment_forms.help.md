@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for submitting a request for on-set health monitoring services, which could be related to crew support, equipment maintenance, medical care, or other services. This form aims to gather information from the production company or contact person, including their name, email, phone number, and a detailed description of the request. The form also includes fields for service type, location, and schedule. The fields that are marked as "required" are mandatory and must be filled out.
-
-</thinking>
-
 # on_set_health_monitoring_service_request - Help Guide
 ## Purpose
 This form is for submitting a request for on-set health monitoring services.

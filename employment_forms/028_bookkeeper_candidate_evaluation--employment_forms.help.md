@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I need to understand the form's purpose and ensure it's not a duplication of effort. The form seems to be designed for evaluating bookkeeping candidates, likely for hiring or candidate selection purposes. The form appears to assess the candidate's technical and soft skills, experience, and background. I will proceed with creating the help guide while keeping in mind that this form is intended to guide the evaluation and decision-making process for hiring bookkeeping staff.</thinking>
-
 # Bookkeeper Candidate Evaluation - Help Guide
 ## Purpose
 The Bookkeeper Candidate Evaluation form is designed to help assess and evaluate bookkeeping candidates. It covers various aspects of a candidate's skills, experience, and background to make an informed decision for hiring or candidate selection purposes.

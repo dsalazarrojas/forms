@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # prophets_title - Help Guide
 
 ## Purpose

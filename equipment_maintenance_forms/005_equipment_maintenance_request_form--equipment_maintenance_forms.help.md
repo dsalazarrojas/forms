@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the form's purpose and requirements. This form is likely used for requesting maintenance services for equipment, and it's designed to collect user information, equipment details, and maintenance specifics. The form might be used in various industries such as manufacturing, healthcare, or construction, where equipment maintenance is crucial for smooth operations. To ensure that end-users understand its purpose and usage, we need to clearly explain each field's intent and requirement. The form's internal reasoning block will help identify if this form is relevant and not a duplication of any other form in our system.
-</thinking>
-
 # Equipment Maintenance Request Form - Help Guide
 
 ## Purpose

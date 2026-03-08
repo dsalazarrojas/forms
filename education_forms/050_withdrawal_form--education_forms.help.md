@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record a student's withdrawal from a program or course. The data collected on this form will be used to track and report withdrawal statistics. Please ensure that you have the necessary authority to complete this form. This form should not be completed for duplicate or redundant entries.
-</thinking>
-
 # Withdrawal Form - Help Guide
 ## Purpose
 The Withdrawal Form is used to document a student's withdrawal from a program or course. This form is necessary for administrative and statistical purposes.

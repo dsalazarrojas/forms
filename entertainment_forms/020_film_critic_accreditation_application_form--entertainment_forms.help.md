@@ -1,5 +1,3 @@
-<thinking>This form is intended for individuals who wish to become accredited members of the film community. The purpose of this form is to collect information about the applicant's background in the film industry, including their experience, roles, and any relevant media credentials. To ensure that the application process is efficient, we will only process this form once for each applicant, and any duplicate submissions will be automatically rejected. We recommend that applicants provide as much detail as possible in each field to increase their chances of being successfully accredited.</thinking>
-
 # Film Critic Accreditation Application Form - Help Guide
 ## Purpose
 The Film Critic Accreditation Application Form is designed to collect information about your experience, roles, and media credentials in the film industry. This information will be reviewed to determine your eligibility for accreditation as a film critic.

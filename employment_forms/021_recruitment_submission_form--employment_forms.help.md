@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from job applicants about their recruitment submission. The purpose of this form is to gather relevant details about the candidate's work experience, job title, job description, and other relevant information to help the hiring process. Please ensure that you are filling out this form for the correct purpose and not duplicating any previously submitted information.
-
-Before starting the submission process, please review the fields carefully and make sure you have accurate and complete information about your job application.
-
-This guide will walk you through each field in the form and provide explanations to ensure a smooth submission process.
-
-</thinking>
-
 # Recruitment Submission Form - Help Guide
 ## Purpose
 The Recruitment Submission Form is designed to collect essential information from job applicants to assist the hiring process. This form will help recruiters understand your work experience, job title, job description, and other relevant details.

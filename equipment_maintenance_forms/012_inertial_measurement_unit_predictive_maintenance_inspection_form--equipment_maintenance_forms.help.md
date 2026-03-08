@@ -1,7 +1,3 @@
-<thinking>
-The Inertial Measurement Unit Predictive Maintenance Inspection Form is used by equipment inspectors to record and report the status of inertial measurement units (IMUs) in a predictive maintenance program. This form is typically used by maintenance personnel to track and manage the condition, status, and maintenance history of IMUs in real-time.
-</thinking>
-
 # Inertial Measurement Unit Predictive Maintenance Inspection Form - Help Guide
 ## Purpose
 This form is used to capture and record information about the status and maintenance history of Inertial Measurement Units (IMUs). Completing this form will help ensure that the IMUs are properly maintained and updated in the database for future reference.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to document and report incidents that have occurred, including their details and the actions taken to address them. This form is used to gather information about the incident, including the date and time it occurred, its location, and the actions being taken to resolve it. The form also includes fields for tracking the status, urgency, and priority of the actions being taken, as well as the responsible parties involved. The goal is to ensure that incidents are documented accurately and thoroughly, and that relevant parties are informed and involved in the response process.
-
-To avoid duplication and ensure that the correct information is collected, please review this form carefully and only complete it for incidents that are not already documented. If an incident is already being tracked, please do not use this form.
-
-</thinking>
-
 # Incident Action Plan Form - Help Guide
 
 ## Purpose

@@ -1,19 +1,3 @@
-<thinking>
-This form is intended to gather information from businesses seeking to participate in the Paycheck Protection Program (PPP), a loan program designed to support small businesses through the COVID-19 pandemic. The form is for borrowers to provide details about their business and loan application. 
-
-The purpose of this form is to collect information about the business and its owner(s) for loan processing and administration purposes. 
-
-Each field must be filled out correctly to ensure accurate loan processing and to avoid delays in the loan approval process. Please note that some fields are optional and only required fields are marked as "required".
-
-This form has the following pages: 
-- Page 1: The title page which asks for the name of the borrower.
-- Page 2: The business category which asks for the business category of the borrower.
-- Page 3: The business details which includes business name, address, city, state and phone number.
-- Page 4: The owner details which includes name, title, address, phone number and website.
-- Page 5: The loan details which includes loan amount, start and end dates and loan use of funds.
-
-</thinking>
-
 # Paycheck Protection Program Borrower Application Form - Help Guide
 ## Purpose
 The Paycheck Protection Program (PPP) is a loan program designed to support small businesses through the COVID-19 pandemic. This form is for borrowers to provide details about their business and loan application.

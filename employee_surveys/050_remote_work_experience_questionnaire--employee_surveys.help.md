@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about employees' remote work experience, including their current job role, work schedule, productivity, and challenges faced while working from home. The form is intended to help managers and HR departments understand the impact of remote work on employee productivity, job satisfaction, and overall well-being. By analyzing this data, they can make informed decisions to improve remote work policies and procedures. This form should only be filled out by employees who have been working remotely for at least a few months, as some questions may not be applicable to short-term remote work experiences.
-</thinking>
-
 # Remote Work Experience Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your remote work experience. Please answer the questions honestly to help us understand your needs and challenges.

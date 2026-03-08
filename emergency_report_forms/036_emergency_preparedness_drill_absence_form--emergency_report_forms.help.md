@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about participants' attendance and participation in emergency preparedness drills. It is crucial to track the attendance and participation status of individuals in such drills to ensure the accuracy of safety records. Please ensure that you're filling out this form accurately and not duplicating or misrepresenting information.
-</thinking>
-
 # Emergency Prepd Drill Absence Form - Help Guide
 ## Purpose
 This form is used to report the absence of participants from emergency preparedness drills. It captures details such as date of absence, reason for absence, and other relevant information related to participant's status and involvement.

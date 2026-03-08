@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help event organizers and production teams book label printing services for their events. The purpose of this form is to collect necessary information from the client to provide a smooth and efficient label printing experience.
-The form will collect information about the event, including the event name, date, location, and contact details. It will also ask for the label type, quantity, size, material, and content template. Additionally, it will inquire about the client's color preferences, branding elements, and file format. Finally, it will ask for the client's delivery preferences, including rush delivery, delivery location, and special instructions.
-Please make sure to fill in the form accurately and completely, as the information provided will be used to create your labels.
-</thinking>
-
 # Backstage Label Printing Booking Form - Help Guide
 ## Purpose
 The Backstage Label Printing Booking Form is designed to help event organizers and production teams book label printing services for their events. This form helps us understand your printing requirements and ensure a smooth process.

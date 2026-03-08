@@ -1,7 +1,3 @@
-<thinking>
-To be honest, the form seems to be designed for a very specific use case, possibly for event planning or management roles. It's a long form with various fields, but I'm assuming it's for job applicants who want to showcase their skills and experience. The fields are quite comprehensive, covering job titles, descriptions, availability, work arrangements, and certifications. It's likely that the form is intended for internal or external job postings, or for event planning agencies or companies to collect applicant information. I'll do my best to break down each field in a clear and concise manner, making sure to provide explanations that are helpful for end-users.
-</thinking>
-
 # Event Planner Employment Application - Help Guide
 ## Purpose
 This form is designed to help event planning and management professionals showcase their skills, experience, and availability for potential job opportunities. It collects information about job titles, descriptions, availability, work arrangements, and certifications.

@@ -1,7 +1,3 @@
-<thinking>
-The "workforce_reintegration_plan_form" is a form used to collect information from employees returning to work after an absence. It is essential to ensure that employees have the necessary tools and support to smoothly re-enter the workforce. The form should only be completed by employees who are scheduled to return to work after a period of absence. If an employee has already submitted a reintegration plan, please do not fill out this form.
-</thinking>
-
 # workforce_reintegration_plan_form - Help Guide
 ## Purpose
 This form is intended to gather information from employees returning to work after an absence, to ensure a smooth reintegration into the workforce.

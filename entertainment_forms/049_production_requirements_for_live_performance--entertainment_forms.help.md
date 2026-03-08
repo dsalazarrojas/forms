@@ -1,9 +1,3 @@
-<thinking>
-To begin with, this form is designed to collect information related to production requirements for live performances. This form is intended for internal use within an organization, possibly for event coordinators, production managers, or similar roles. 
-The form is likely used to gather details about upcoming live performances, such as required skills, production dates, start times, notes, contact information, and additional production information. The form's purpose is to facilitate efficient communication and organization of production requirements among team members or stakeholders. 
-Before filling out this form, please make sure you're not duplicating existing work or filling out a similar form. This guide will help you understand each field's purpose and how to fill it out correctly.
-</thinking>
-
 # Production Requirements For Live Performance - Help Guide
 ## Purpose
 This form is designed to collect production requirements for live performances, including details about skills, dates, start times, and other essential information to ensure a smooth and successful production.

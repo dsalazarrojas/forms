@@ -1,13 +1,3 @@
-<thinking>
-
-To create this form, we should consider the following:
-- The form purpose is to collect the user's information, medical history, and the clinic's information for the purpose of electrolysis treatment.
-- We should ensure that all required fields are clearly identified and that the user understands the purpose of each field.
-- We should also consider the specific fields that are required for the clinic and the medical professional, as some fields may be more relevant than others.
-- We should also ensure that the date fields are correctly formatted.
-- We should consider adding additional instructions or hints to help the user understand the purpose of each field.
-</thinking>
-
 # ElectrolysisConsentForm - Help Guide
 ## Purpose
 The ElectrolysisConsentForm is a form designed to collect the user's information, medical history, and the clinic's information for the purpose of electrolysis treatment. This form is required for the treatment process and must be completed accurately and thoroughly.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Employee Laptop Agreement Form" is likely used to gather information from employees about their company-provided laptops, including the make and model of the laptop, the serial number, purchase and return dates, condition, and accessories. The fields may also inquire about the employee's name, department, laptop status, and other details related to the laptop's usage. This form could be used as a template for employee laptop management within an organization.
-</thinking>
-
 # Employee Laptop Agreement Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your company-provided laptop from you, the employee. This will help us manage the laptop inventory and ensure that the necessary steps are taken for its maintenance and repair.

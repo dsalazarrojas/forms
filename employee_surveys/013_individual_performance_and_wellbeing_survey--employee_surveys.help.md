@@ -1,5 +1,3 @@
-<thinking>... Checking if this form is being used for its intended purpose, ensuring that it's not being duplicated, and that its contents align with the provided YAML fields... It appears the form is designed to gather individual performance and wellbeing insights from employees, likely for manager or HR feedback, and is specific to a particular department or team...</thinking>
-
 # individual_performance_and_wellbeing_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on their individual performance and wellbeing, including job satisfaction, motivation, stress levels, and more. The information gathered will help managers or HR understand employee sentiments and make informed decisions to improve work environments and employee experiences.

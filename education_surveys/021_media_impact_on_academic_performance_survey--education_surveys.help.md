@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the impact of media consumption on academic performance of students. The purpose of this form is to gather data on how often students use media, their academic grade, and other relevant details. This form is intended for students who have been identified as needing to complete it. Please note that this form is a critical part of the data collection process and should be completed thoroughly and accurately.
-</thinking>
-
 # Media Impact On Academic Performance Survey - Help Guide
 ## Purpose
 The Media Impact On Academic Performance Survey is designed to collect information about the impact of media consumption on academic performance of students. It is intended for students who have been identified as needing to complete it.

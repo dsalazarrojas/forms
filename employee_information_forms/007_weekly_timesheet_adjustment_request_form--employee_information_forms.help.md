@@ -1,6 +1,3 @@
-<thinking>
-This guide helps ensure that employees understand the purpose and process for completing the Weekly Timesheet Adjustment Request Form, reducing errors and duplication of submissions. This form is used to request adjustments to timesheet entries for a specific period. To avoid misinterpretation of the form's purpose, it's essential to only submit this form if you have a valid reason for adjustment and have not already submitted an adjustment request for the same period. Please review the form carefully and ensure you're only requesting adjustments for which you have a clear explanation.</thinking>
-
 # Weekly Timesheet Adjustment Request Form - Help Guide
 ## Purpose
 This form is used to request adjustments to your timesheet entries for a specific period. Please submit this form if you need to make any adjustments to your hours worked or leave taken.

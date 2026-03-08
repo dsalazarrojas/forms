@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the payroll_upload_form is to collect and process payroll information for employees. This form is used to gather employee data for payroll purposes. To ensure that the form is completed correctly, please verify that the form is relevant to your specific needs and that the data collected is not already available elsewhere in the system. 
-</thinking>
-
 # payroll_upload_form - Help Guide
 ## Purpose
 The payroll_upload_form is a tool used to collect and process payroll information for employees.

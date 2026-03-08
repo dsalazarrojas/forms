@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help organizations understand and improve employee motivation and engagement within their company. The form will gather feedback from employees to identify areas of strength and weakness, allowing the organization to make informed decisions to enhance employee satisfaction and motivation. This form is intended for internal use only, within the organization, and is not affiliated with any specific survey platform.
-</thinking>
-
 # employee_motivation_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from employees on their motivation and engagement within the organization. This form will help identify areas of strength and weakness, allowing the organization to make informed decisions to enhance employee satisfaction and motivation.

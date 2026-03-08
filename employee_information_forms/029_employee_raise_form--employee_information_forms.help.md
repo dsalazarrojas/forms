@@ -1,7 +1,3 @@
-<thinking>
-The Employee Raise Form is used to request a salary increase for an employee. It is intended for employees to provide their own information and reasons for a potential raise. The supervisor and/or manager will review and approve or decline the request.
-</thinking>
-
 # Employee Raise Form - Help Guide
 ## Purpose
 The Employee Raise Form is used to request a salary increase for an employee. This form helps gather the necessary information for the review process.

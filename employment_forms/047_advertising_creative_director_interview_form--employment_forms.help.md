@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advertising Creative Director Interview Form - Help Guide
 
 ## Purpose

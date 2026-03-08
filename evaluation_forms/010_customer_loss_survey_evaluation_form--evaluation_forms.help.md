@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from customers who have experienced loss, which likely means that they did not purchase from the company or did not continue to use the company's products or services after a certain point. The purpose of this form is to understand the reasons behind this loss and provide an opportunity for the company to learn and improve. However, it's worth noting that the form does not seem to be designed to collect feedback from customers who have experienced loss, but rather to collect reasons why customers did not purchase from the company. This might be a case of a form that has been repurposed or not fully completed. The required fields should be reviewed to ensure that they accurately reflect the company's goals and priorities.
-
-</thinking>
-
 # Customer Loss Survey Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect reasons why customers did not purchase from the company. It is intended to help the company understand the causes of customer loss and make improvements to its products or services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Effort Estimation Form - Help Guide
 
 ## Purpose

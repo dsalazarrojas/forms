@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for industrial maintenance and troubleshooting tasks, providing a structured approach to documenting and addressing technical issues related to equipment in industrial settings. It covers various aspects of maintenance, including troubleshooting categories, equipment types, description of the issue, and relevant details such as start and end times, notes, and contact information. The form can be used for internal purposes, such as tracking maintenance activities, or for external communication with clients or vendors. It's essential to complete this form accurately and thoroughly to ensure that maintenance tasks are properly documented and addressed.
-</thinking>
-
 # industrial_maintenance_and_troubleshooting_checklist - Help Guide
 ## Purpose
 The industrial maintenance and troubleshooting checklist is a form designed for documenting and addressing technical issues related to equipment in industrial settings. It helps to ensure that maintenance tasks are properly recorded and communicated, promoting efficient and effective troubleshooting and maintenance activities.

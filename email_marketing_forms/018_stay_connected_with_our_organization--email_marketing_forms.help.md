@@ -1,20 +1,3 @@
-<thinking>
-This form appears to be a comprehensive collection of fields for user interaction. The form is likely used for capturing and processing user data for various purposes. The fields suggest that it's used for email marketing, perhaps for newsletter subscribers or contact list management.
-
-The fields can be broken down into several categories:
-
-* User information: `First Name` and `Last Name` for personal identification.
-* Contact information: `Email` address and `Phone` number for communication.
-* Subscription preferences: `Email Preferences` for choosing email frequency and `Updates` and `Events` for selecting specific notifications.
-* Additional details: `Note` field for any extra comments or notes.
-* Form metadata: `Assigned Tool`, `Assigned User`, `Assigned Date`, and `Assigned Time` for tracking and attribution.
-* Submission information: `Submitted By`, `Submitted Date`, and `Submitted Time` for tracking submissions.
-* Category selection: `Category` for selecting the form type or category.
-* Output file and form ID management: `Output File`, `Form ID`, `Form ID 2`, `Form Title`, `Form Title 2`, `Assigned Tool 2`, `Assigned User 2`, `Submitted By 2`, `Submitted Date 2`, `Submitted Time 2`, and `Assigned Date 2` for file and form tracking.
-
-It's essential to ensure that each field is filled in correctly and that the form is used for its intended purpose. This form might be used for both internal and external communication, so it's crucial to review and understand each field's meaning and relevance.
-</thinking>
-
 # Stay Connected With Our Organization - Help Guide
 ## Purpose
 This form is designed to help you stay connected with our organization. It captures user information, contact details, and preferences for our email marketing activities.

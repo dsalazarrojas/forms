@@ -1,12 +1,3 @@
-<thinking>
-The Skincare Questionnaire is a form designed to collect information about a customer's skincare habits, preferences, and experiences. This data will be used to provide personalized product recommendations and improve our understanding of customer needs. Please ensure that you are only completing this form once, as duplicate submissions may cause confusion in our analysis.
-
-To complete the form, please answer the questions accurately and to the best of your ability. If you have any questions or concerns, feel free to ask.
-
-Please note that the information you provide will be kept confidential and used only for internal purposes.
-
-</thinking>
-
 # Skincare Questionnaire - Help Guide
 ## Purpose
 The Skincare Questionnaire is designed to gather information about your skincare habits, preferences, and experiences. This data helps us provide personalized product recommendations and improve our understanding of customer needs.

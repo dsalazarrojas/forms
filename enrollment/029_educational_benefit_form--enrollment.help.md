@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about educational benefits that students receive from institutions or organizations. The form should only be filled out once for each educational benefit, to avoid duplicate entries. This form will be used to document and track educational benefits, so please ensure you fill it out accurately and completely.
-</thinking>
-
 # Educational Benefit Form - Help Guide
 ## Purpose
 The Educational Benefit Form is a tool for gathering information about educational benefits received by students. This form will help track and document these benefits, ensuring accurate and consistent recording.

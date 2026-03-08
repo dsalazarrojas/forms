@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting time slots for stage rehearsals. It ensures that the production team can plan and schedule rehearsals efficiently. The form is designed to collect information about the event date, time, duration, technical needs, rehearsal location, and preferred time slots. 
-</thinking>
-
 # Stage Rehearsal Time Request Form - Help Guide
 ## Purpose
 This form is used by production teams to request and schedule stage rehearsal times. It is essential to have accurate and timely information about the event to ensure a smooth production process.

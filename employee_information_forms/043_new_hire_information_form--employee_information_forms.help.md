@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the New Hire Information Form. This guide will explain the purpose of the form, how to complete it, and what each field means in a clear and concise manner. I'll make sure to cover all the required fields and options, while also highlighting any optional fields that can add valuable information. Before proceeding, I'll review the provided YAML fields to ensure I understand their intent and functionality.</thinking>
-
 # New Hire Information Form - Help Guide
 ## Purpose
 The New Hire Information Form is used to provide essential details about a new employee's job, responsibilities, and work environment. This form helps ensure that all necessary information is collected and recorded accurately for HR and management purposes.

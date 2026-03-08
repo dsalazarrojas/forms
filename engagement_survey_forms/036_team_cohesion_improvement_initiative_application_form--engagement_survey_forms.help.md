@@ -1,18 +1,3 @@
-<thinking>
-
-The Team Cohesion Improvement Initiative Application Form is designed to help project leads and teams submit applications for team cohesion improvement initiatives. This form is used to gather information about a team's goals, challenges, and proposed solutions to improve team dynamics. It's essential to fill out this form accurately and thoroughly to help the project team understand the team's needs and make informed decisions.
-
-The form is divided into several sections, each focusing on different aspects of team cohesion. To complete the form, follow these steps:
-
-1.  Start by filling out the team name, project lead name, and team size. The team name and project lead name are required fields, but the team size is optional.
-2.  In the team objectives, team challenges, and team success factors sections, describe the current state of the team and the objectives you aim to achieve.
-3.  In the team cohesion improvement initiative description, explain the reasons for submitting this application and how it will benefit the team.
-4.  In the team cohesion improvement initiative outcome, suggest the expected outcome or result of the initiative.
-5.  In the team cohesion improvement initiative suggestions, provide any additional comments or ideas you have for improving team cohesion.
-6.  In the team cohesion improvement initiative implementation plan, describe the steps to be taken to implement the proposed initiative.
-
-</thinking>
-
 # Team Cohesion Improvement Initiative Application Form - Help Guide
 ## Purpose
 The Team Cohesion Improvement Initiative Application Form is used to gather information about a team's goals, challenges, and proposed solutions to improve team dynamics.

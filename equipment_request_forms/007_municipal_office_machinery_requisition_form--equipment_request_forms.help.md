@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information for requesting equipment from the municipal office. It's essential that you understand the purpose and requirements before proceeding. Ensure you have the necessary permissions and approvals from your department head before submitting this form. Please review the form carefully to avoid duplication of requests.
-
-If you're unsure about any field or have a similar request already submitted, please review your previous requests or consult with your department head before filling out this form.
-
-This form is intended for requesting equipment from the municipal office. Please provide accurate and clear information to ensure a smooth process.
-
-Please fill out this form carefully, and if you have any questions or need further clarification, do not hesitate to contact the municipal office.
-</thinking>
-
 # municipal_office_machinery_requisition_form - Help Guide
 ## Purpose
 The municipal office machinery requisition form is a tool for requesting equipment from the municipal office. This form will guide you through the necessary steps to submit your request accurately and efficiently.

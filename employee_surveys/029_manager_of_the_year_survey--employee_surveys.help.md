@@ -1,7 +1,3 @@
-<thinking>
-This form is a survey aimed at recognizing and acknowledging the outstanding work and contributions of individual managers within the organization. It is intended to provide a platform for employees to express their opinions and preferences for who they believe deserves the title of "Manager of the Year". The form is designed to gather feedback on various aspects of the manager's performance, including managerial performance, leadership skills, and overall performance. It is crucial that the responses are genuine and based on the employee's personal experience and opinion. To ensure the accuracy and integrity of the feedback, please fill out the form thoroughly and honestly.
-</thinking>
-
 # Manager Of The Year Survey - Help Guide
 ## Purpose
 The Manager Of The Year Survey is a platform for employees to express their opinions on who they believe deserves the title of "Manager of the Year" based on the individual's managerial performance, leadership skills, and overall performance.

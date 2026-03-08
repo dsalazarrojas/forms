@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Competition Entry Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants for the Summer Competition. It is an original adaptation created using AI and is not affiliated with any form platform. You can use it freely, but please give credit to [form@gic.mx](mailto:form@gic.mx).

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the services provided by a vendor, assessing their quality, performance, and overall value. The form is meant for internal use within an organization and is intended to capture feedback from evaluators on their experiences with the vendor. The form should only be filled out by authorized personnel, and the responses will be used to inform future vendor selection and contract decisions.
-
-Before filling out this form, please ensure that you are familiar with the vendor's services and that you are authorized to provide feedback on their performance. The form should not be used for personal or non-business purposes.
-
-The form is divided into several sections, each with its own set of questions or fields. The sections are designed to gather specific information about the vendor's services and your experience with them.
-
-</thinking>
-
 # Building Service Vendor Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the services provided by a vendor, capturing feedback on their quality, performance, and overall value.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dermal_filler_client_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for dermal filler treatments. It is used by healthcare professionals to understand the client's needs and medical history before proceeding with the treatment.

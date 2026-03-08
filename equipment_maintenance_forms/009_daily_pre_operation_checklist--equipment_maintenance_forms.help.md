@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Pre Operation Checklist - Help Guide
 
 ## Purpose

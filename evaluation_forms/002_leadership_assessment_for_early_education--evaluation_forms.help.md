@@ -1,12 +1,3 @@
-<thinking>
-The form "Leadership Assessment For Early Education" is designed to gauge an individual's leadership abilities and characteristics in an educational context. This form is intended for use by early education professionals, such as teachers, administrators, or educators, to assess their leadership skills, strengths, and weaknesses. The form is likely used by educators to evaluate their own leadership abilities or to provide a tool for self-reflection and growth.
-
-This form does not appear to have any built-in validation or error checking, so please ensure you have read this guide carefully before attempting to complete it. The form consists of eight pages, each with a specific set of questions or prompts.
-
-Before you begin, please note that this guide assumes a good understanding of the form's content and purpose. If you are unsure about any aspect of the form or its requirements, please contact your administrator or technical support for clarification.
-
-</thinking>
-
 # Leadership Assessment For Early Education - Help Guide
 ## Purpose
 The purpose of this form is to assess an individual's leadership abilities and characteristics in an early education context.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect data on electrical injection testing for equipment, providing a structured format for recording and reviewing test results. The fields provided are meant to capture key details about the testing process, including the test date, equipment ID, location, parameters, and results. This form can be used by electrical professionals to record and analyze testing data for various equipment and locations.
-To determine if the form is being used for a specific use case, consider the following:
-* Is the form being used to record data for a single piece of equipment, or for multiple locations?
-* Is the form being used to capture specific parameters relevant to electrical injection testing, such as voltage or current levels?
-* Are there any specific requirements or regulations that must be followed during the testing process?
-</thinking>
-
 # Electrical Injection Testing Form - Help Guide
 ## Purpose
 The Electrical Injection Testing Form is designed to collect data on electrical injection testing for equipment, providing a structured format for recording and reviewing test results.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the purpose and instructions for completing the "Education Class Registration Form", as well as a detailed explanation of each field. The form's purpose is to collect information from students to facilitate their registration for an education class. It is essential to provide accurate and complete information to ensure a smooth registration process. This guide will cover all the fields on the form to help users understand what is required and what is optional.
-
-</thinking>
-
 # Education Class Registration Form - Help Guide
 ## Purpose
 The Education Class Registration Form is designed to collect information from students to facilitate their registration for an education class. This form helps gather personal details, contact information, and preferences for the class.

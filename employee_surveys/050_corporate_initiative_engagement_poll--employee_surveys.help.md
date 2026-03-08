@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate-initiative-engagement-poll - Help Guide
 
 ## Purpose

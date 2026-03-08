@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather critical information in the event of an emergency or incident, allowing teams to quickly assess and respond to the situation. This form is designed to be filled out by individuals who have witnessed or are affected by the incident, providing a clear and concise reporting process. To ensure accurate and efficient completion of the form, please review the following steps and explanations for each field.
-
-</thinking>
-
 # Crisis Communication Form - Help Guide
 ## Purpose
 The Crisis Communication Form is a tool used to report emergencies or incidents, providing essential details for swift response and resolution.

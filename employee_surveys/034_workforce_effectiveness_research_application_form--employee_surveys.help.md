@@ -1,8 +1,3 @@
-<thinking> 
-We need to ensure that the form is used for its intended purpose: to gather data about employees for workforce effectiveness research. This form should only be completed by employees, not by non-employees. It's essential to fill out all required fields, including email, employment status, and education. The date of submission and work hours fields are not required and can be left blank if not applicable. The form also asks for multiple job titles, which can be selected from a list of options. This form is not meant to be a comprehensive employment application, so employees should not include any confidential or sensitive information. If any field is left blank, it may impact the quality of the data collected for research purposes.
-
-</thinking>
-
 # Workforce Effectiveness Research Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about employees for workforce effectiveness research purposes. Please ensure that you are an employee of the organization before completing this form.

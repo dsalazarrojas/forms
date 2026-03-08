@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide a clear understanding of the High School Student Climate Change Awareness Survey form, which is used to gather information on high school students' knowledge, concerns, and actions related to climate change. This guide ensures that end-users understand the purpose and structure of the form, making it easier for them to complete it accurately and effectively. It is essential to review this guide before attempting to complete the form, especially if you are new to this type of survey.
-</thinking>
-
 # High School Student Climate Change Awareness Survey - Help Guide
 ## Purpose
 The High School Student Climate Change Awareness Survey is a tool designed to gauge high school students' understanding of climate change, their level of concern, and their willingness to take action on climate-related issues. This survey aims to provide insights into the students' knowledge, attitudes, and behaviors regarding climate change.

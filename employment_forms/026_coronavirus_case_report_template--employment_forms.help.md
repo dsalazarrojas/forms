@@ -1,9 +1,3 @@
-<thinking>
-A help guide for the Coronavirus Case Report Template form is necessary to ensure that end users understand its purpose and how to complete it correctly. This form is meant to collect information about reported cases related to the COVID-19 pandemic. Before diving into the guide, let's confirm that the form is designed to be used in a workplace setting, where employees can report cases they have experienced or witnessed.
-
-This guide assumes that the end user has access to the form through a web or mobile interface. Please make sure to review the entire guide to get the most out of this form.
-</thinking>
-
 # Coronavirus Case Report Template - Help Guide
 ## Purpose
 

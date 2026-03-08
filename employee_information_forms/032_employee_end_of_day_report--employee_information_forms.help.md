@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to report their end-of-day activities and progress. It is used by management to keep track of employee work hours and performance. The form is required for all employees who work on-site and is used for payroll purposes, time tracking, and performance evaluation. It is best to complete this form as soon as possible after the end of your workday.
-</thinking>
-
 # Employee End Of Day Report - Help Guide
 ## Purpose
 The Employee End Of Day Report form is used to report your end-of-day activities and progress. It is used by management to keep track of your work hours and performance.

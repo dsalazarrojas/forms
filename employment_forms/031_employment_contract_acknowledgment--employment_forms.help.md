@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employment_contract_acknowledgment - Help Guide
 ## Purpose
 This form is designed to acknowledge an employee's contract information, ensuring that their employment contract is properly recorded and verified.

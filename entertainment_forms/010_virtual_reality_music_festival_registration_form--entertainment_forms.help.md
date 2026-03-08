@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from users who are interested in attending the virtual reality music festival. It is used to collect personal data and preferences of the attendees. The form will help us to:
 
     - Verify the user's identity and check if they have provided correct information before attending the festival.

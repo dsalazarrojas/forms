@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Hire Onboarding Form - Help Guide
 ## Purpose
 The New Hire Onboarding Form is designed to collect essential information from new employees during the onboarding process. This form helps the HR team to quickly gather and process relevant data for smooth and efficient onboarding.

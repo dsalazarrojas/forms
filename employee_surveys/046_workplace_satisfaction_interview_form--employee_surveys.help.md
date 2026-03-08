@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information about employee satisfaction and work-life balance from employees. The purpose of the form is to collect feedback from employees about their experience at work, including their level of job satisfaction, work-life balance, and communication with management. This data will be used to identify areas of improvement and provide support to employees. **Please note that this form is not intended to collect sensitive or personal information, and all responses will be kept confidential.**
-
-</thinking>
-
 # Workplace Satisfaction Interview Form - Help Guide
 ## Purpose
 

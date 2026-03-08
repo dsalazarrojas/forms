@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is relevant and not duplicated. This form is designed for small businesses and individuals to contact us with inquiries about our services or products. It's meant for users to provide their name, email, and other details for us to get back to them efficiently. This form should help us understand their needs and respond accordingly.
-</thinking>
-
 # Contact Form With Wooden Theme - Help Guide
 ## Purpose
 This form is a contact form designed for small businesses and individuals to connect with us about our services or products. Fill in the form with your details and we'll get back to you as soon as possible.

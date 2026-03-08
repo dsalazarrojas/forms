@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the "Induction Checklist" form's purpose, how to complete it, and a detailed explanation of each field. The form's purpose is to gather information about an employee's status and relationships within the company. It's crucial to complete this form accurately to ensure that the employee's data is up-to-date and secure. Before proceeding, please ensure you haven't completed this form previously to avoid duplication of efforts.
-</thinking>
-
 # Induction Checklist - Help Guide
 ## Purpose
 The "Induction Checklist" form is designed to collect essential information about an employee's status and relationships within the company. This data will help ensure that their details are correctly recorded and easily accessible.

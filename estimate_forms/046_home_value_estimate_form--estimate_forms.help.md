@@ -1,7 +1,3 @@
-<thinking>
-The form "home_value_estimate_form" is a form used to estimate the value of a house. This form is designed to collect information from users, including their name, address, the estimated value of the house, the date viewed the property, and any notes they may have. The form is intended to provide an estimate of the house value, which can be useful for various purposes such as determining property taxes, assessing property values for resale or purchase, or other business purposes. The form is not intended to be used for official valuation purposes, but rather as a general guideline. Please ensure that the information provided is accurate and relevant to avoid any discrepancies or inaccuracies in the estimate.
-</thinking>
-
 # home_value_estimate_form - Help Guide
 ## Purpose
 The home value estimate form is used to collect information from users to estimate the value of a house. This form is designed to provide an estimated value of the house, which can be helpful for various purposes such as determining property taxes, assessing property values for resale or purchase, or other business purposes.

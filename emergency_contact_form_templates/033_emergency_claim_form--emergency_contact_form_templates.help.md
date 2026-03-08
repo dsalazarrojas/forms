@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information regarding an emergency claim, likely related to an incident involving a vehicle such as a car accident. The form is designed for end-users (likely individuals who are seeking compensation for damages or losses) to provide details about their situation, including their contact information, claim details, injury descriptions, and other relevant information. To ensure the form is used correctly, it's essential to avoid duplication of efforts and ensure all required fields are filled out thoroughly.
-
-</thinking>
-
 # Emergency Claim Form - Help Guide
 ## Purpose
 The Emergency Claim Form is designed to collect information about an emergency claim, typically related to a car accident or other incidents where compensation is being sought.

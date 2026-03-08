@@ -1,6 +1,3 @@
-<thinking>
-Internal reasoning block: This form is designed for employees to apply to the internal branding program, which aims to promote a positive and consistent image of the company among its employees. The purpose of this form is to collect information about the employees' interests, skills, and preferences to assign relevant tools and training programs. The program helps employees feel more connected to the company's mission and values.
-</thinking>
 # Employee Internal Branding Program Application Form - Help Guide
 ## Purpose
 The **Employee Internal Branding Program Application Form** is for employees to express their interest in participating in internal programs and activities designed to promote a positive company image.

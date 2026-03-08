@@ -1,9 +1,3 @@
-<thinking>
-Please ensure that the form is not being completed unnecessarily and that the user understands the context in which it is being used. The "Infectious Disease Report Form" is a tool to collect important information related to infectious diseases, such as symptoms, exposure, and severity. It is not a form for reporting non-infectious diseases or other types of incidents. Please fill out the form carefully and accurately.
-
-Also, please note that this form will only be used in the context of infectious disease reporting, and the submitted information will be reviewed and processed according to the relevant regulations and protocols.
-</thinking>
-
 # Infectious Disease Report Form - Help Guide
 ## Purpose
 The "Infectious Disease Report Form" is a tool used to collect information about patients suspected or diagnosed with infectious diseases. It is designed to help healthcare providers and reporting facilities report cases of infectious diseases in a timely and accurate manner.

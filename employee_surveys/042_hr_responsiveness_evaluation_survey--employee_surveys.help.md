@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure relevance, the form's purpose should be explained in the context of its use by the HR department. This form is likely used to collect feedback from employees on the responsiveness and effectiveness of the HR department. The form's purpose is likely to identify areas of improvement and provide valuable insights to HR to enhance their performance.
-
-To prevent duplication, I'll assume that this form is not meant to be a replacement for other HR feedback mechanisms, such as regular check-ins or one-on-one meetings, but rather a supplemental tool to gather general employee feedback.
-
-</thinking>
-
 # HR Responsiveness Evaluation Survey - Help Guide
 ## Purpose
 This survey aims to gather feedback from employees on the responsiveness and effectiveness of the HR department. Your input will help identify areas of improvement and provide valuable insights for HR to enhance their performance.

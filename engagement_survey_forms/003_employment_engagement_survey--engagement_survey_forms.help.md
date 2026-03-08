@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to measure employee engagement and satisfaction in the workplace. It is intended to be completed by employees to provide insights into their overall happiness, satisfaction, and perception of their work experience. The form is divided into two main categories: numerical ratings and text descriptions. Numerical ratings ask employees to rate their overall happiness, satisfaction level, and perception on a scale of 1 to 5, with 1 being the lowest and 5 being the highest. Text descriptions ask employees to provide more detailed descriptions of their overall happiness, satisfaction level, and perception.
-
-To ensure that employees are providing accurate and honest feedback, the form includes a variety of question types, including numerical ratings, select-one, select_multiple, and text descriptions. This variety of question types is intended to capture a range of information from employees.
-
-Before completing this form, please ensure that you have reviewed the instructions carefully and have answered the questions honestly and accurately. If you are unsure about any of the questions, please ask your supervisor or HR representative for clarification.
-
-</thinking>
-
 # employment_engagement_survey - Help Guide
 ## Purpose
 The employment_engagement_survey form is designed to measure employee engagement and satisfaction in the workplace.

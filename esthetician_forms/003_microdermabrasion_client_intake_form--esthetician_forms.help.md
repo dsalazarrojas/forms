@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for medical professionals or dermatological practitioners to collect client information and medical history prior to a microdermabrasion treatment. The purpose of this form is likely to gather essential information about the client, including their medical history, skin status, and any medical clearances or contraindications that may impact the treatment. This form appears to be a basic template with no conditional logic or complex rules, making it a simple and straightforward tool for collecting necessary information.
-</thinking>
-
 # Microdermabrasion Client Intake Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to notify personnel of personnel actions such as new hires, changes in job title, salary, status updates, or manager approvals. To ensure accuracy, please review this guide carefully before completing the form. This form is meant to be used for internal purposes only and should not be shared with external parties. Please note that this form is not intended for external use, but rather for internal record-keeping and communication within the organization. This form is designed to be completed by authorized personnel and should only be submitted with the intention of recording and tracking personnel actions within the company.
-</thinking>
-
 # personnel_action_notice_form - Help Guide
 ## Purpose
 The **personnel_action_notice_form** is used to record and track personnel actions, such as new hires, changes in job title, salary, status updates, or manager approvals. This form helps to keep track of important personnel information and ensure that necessary notifications are sent to the relevant stakeholders.

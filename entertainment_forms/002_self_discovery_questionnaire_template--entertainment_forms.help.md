@@ -1,13 +1,3 @@
-<thinking>
-
-The Self Discovery Questionnaire Template is a comprehensive guide that helps individuals explore their personal goals, motivations, strengths, and reflections. It's designed to facilitate self-awareness and introspection, allowing users to gain a deeper understanding of themselves and their desires. By completing this form, users can identify areas of personal growth, set realistic goals, and develop a plan to achieve them.
-
-This form is not a one-size-fits-all solution, and users are encouraged to answer honestly and authentically to get the most out of it. Each section is designed to spark reflection and exploration, and users can choose to answer as many or as few questions as they feel comfortable with.
-
-Before starting, take a few minutes to read through each section carefully and answer the questions that resonate with you the most.
-
-</thinking>
-
 # Self Discovery Questionnaire Template - Help Guide
 ## Purpose
 

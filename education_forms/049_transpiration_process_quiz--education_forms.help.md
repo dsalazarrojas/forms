@@ -1,11 +1,3 @@
-<thinking>
-
-The form "Transpiration Process Quiz" is designed to assess a user's understanding of the process of transpiration in plants. The form is used to determine the transpiration rate of a plant, which is an essential aspect of plant physiology. The quiz consists of multiple questions that cover different aspects of transpiration, including plant water absorption, stomata opening, xylem tissue, photosynthesis, respiration, and more.
-
-To prevent duplication of knowledge, this form should only be used by users who have a basic understanding of plant transpiration. This form is not a replacement for detailed scientific research or in-depth learning materials.
-
-</thinking>
-
 # Transpiration Process Quiz - Help Guide
 
 ## Purpose

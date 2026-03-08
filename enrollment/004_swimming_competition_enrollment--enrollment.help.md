@@ -1,5 +1,3 @@
-<thinking>...the form is designed to collect information for a swimming competition event. The purpose of the form is to register a swimmer for a specific event, including their name, school affiliation, event details, and demographic information. This form is likely used by event organizers or administrators to track and manage registrations for the competition. It's assumed that this form will be used for a specific event, and the fields are tailored accordingly. Please ensure that you're filling out this form for the correct event and competition type. Also, check that you're not duplicating an existing registration. If you're unsure or have any questions, contact the event organizers for clarification...</thinking>
-
 # Swimming Competition Enrollment - Help Guide
 ## Purpose
 This form is designed to collect information for a swimming competition event. Please fill it out carefully to ensure accurate registration.

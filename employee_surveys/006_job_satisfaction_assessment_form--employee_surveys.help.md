@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to assess a user's job satisfaction. It's intended for employees to provide feedback on their current work environment, team, and job overall. The purpose of this form is to collect data for internal use, likely for HR or management to understand employee sentiment and identify areas for improvement. This information will not be shared with external parties. It's essential to fill out this form truthfully to provide valuable insights for the organization. If you've already completed a similar form, please be aware that this form is a distinct instrument, and your responses should reflect your current experiences and perceptions. This form is designed to be completed by individual employees, and your responses will be kept confidential. 
-
-</thinking>
-
 # Job Satisfaction Assessment Form - Help Guide
 
 ## Purpose

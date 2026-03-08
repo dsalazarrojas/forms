@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals interested in collaborating with a film crew. It's meant to be a straightforward way to gather essential details about potential collaborators, such as their contact information, experience, skills, and availability. The form should help the crew identify suitable candidates for their projects and facilitate a smooth collaboration process.
-
-Before proceeding, please ensure you haven't filled out this form before. If you're a repeat applicant, you may be wasting your time and ours. Our goal is to find the best fit for our projects, and we can't do that if we receive duplicate applications.
-
-</thinking>
-
 # Film Crew Collaboration Application Form - Help Guide
 ## Purpose
 This form is designed to help us find the right talent for our film projects. By providing us with your contact information, experience, skills, and availability, you'll be helping us understand how you can best contribute to our crew.

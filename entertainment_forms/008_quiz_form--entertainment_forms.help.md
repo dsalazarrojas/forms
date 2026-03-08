@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the Quiz Form is to collect user input for a series of questions and demographic information.
-The form is designed to be completed by users who want to participate in a quiz.
-Each question has a different type and requires a specific type of response.
-The form should not be filled out more than once by the same user.
-</thinking>
-
 # Quiz Form - Help Guide
 ## Purpose
 The Quiz Form is a tool used to collect user input for a series of questions and demographic information.

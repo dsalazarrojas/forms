@@ -1,7 +1,3 @@
-<thinking>
-The "Emergency Claim Form" is a tool used for collecting information from customers or users regarding emergency situations. This form is designed to gather details about the incident, customer information, and contact details, as well as upload any supporting documents. The form is divided into several pages, each focusing on a different aspect of the information required. It's essential to understand that this form is not affiliated with any specific form platform and is created using AI-generated insights based on public survey topic metadata. The form is designed to be a helpful resource for users to provide necessary information in a clear and concise manner.
-</thinking>
-
 # Emergency Claim Form - Help Guide
 ## Purpose
 The Emergency Claim Form is designed to gather information from customers or users regarding emergency situations, making it easier to process and manage claims efficiently.

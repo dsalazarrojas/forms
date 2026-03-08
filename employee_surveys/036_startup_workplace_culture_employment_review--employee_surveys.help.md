@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback and insights from employees on the culture and work environment of the startup. The form should be completed by all employees to help the leadership team understand their perceptions and opinions on various aspects of the workplace culture, leadership, and overall work experience. It's essential to complete this form thoughtfully and honestly, as the feedback will be used to identify areas of improvement and make informed decisions for the betterment of the company.
-</thinking>
-
 # Startup Workplace Culture Employment Review - Help Guide
 ## Purpose
 The purpose of this form is to gather employee feedback on various aspects of the startup culture, leadership, and work environment.

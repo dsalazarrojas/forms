@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guess Who!! - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about a game they are familiar with. It is used to gather details about the game, such as its title, release year, genre, and player's name.

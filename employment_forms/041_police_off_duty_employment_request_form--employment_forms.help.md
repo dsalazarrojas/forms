@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a request for an officer to be granted permission to perform non-duty tasks, such as part-time work, freelance, or personal projects. The form is meant to be filled out by the officer and submitted to their superiors for approval. The form's purpose is to track and manage such requests, ensuring that they do not conflict with official duties or compromise officer's availability.
-
-Before filling out this form, ensure that you are eligible to request non-duty employment. If you have previously submitted a request and have not received an approval, please do not resubmit without consulting your superiors first.
-
-Please fill out this form carefully, as any incomplete or inaccurate information may delay or affect the approval process.
-</thinking>
-
 # police_off_duty_employment_request_form - Help Guide
 ## Purpose
 The police_off_duty_employment_request_form is a request form for non-duty tasks, such as part-time work, freelance, or personal projects. It helps track and manage such requests to ensure they do not conflict with official duties or compromise officer's availability.

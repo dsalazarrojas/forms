@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to create a casual employment agreement between an employer and an employee. Casual employment is a type of employment where the employee works on a regular and predictable basis, but does not have a firm contract or guaranteed hours. This form helps to establish the terms and conditions of casual employment, including pay rates, payment frequency, shift allocation, and notice periods. It is essential that both parties understand these terms to avoid any confusion or disputes in the future.
-
-Before proceeding, ensure you have the necessary information and approvals to complete this form accurately. This form should not be used for other types of employment, such as full-time or part-time employment. If you are unsure about the type of employment or the specific requirements, please consult the relevant legislation or seek advice from a relevant authority.</thinking>
-
 # Casual Employment Agreement Form - Help Guide
 
 ## Purpose

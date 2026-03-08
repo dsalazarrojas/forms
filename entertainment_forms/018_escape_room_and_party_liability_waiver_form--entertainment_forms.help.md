@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is used to collect information and liability agreements for individuals participating in escape room and party events. It's essential to fill out this form accurately to ensure a safe and enjoyable experience for all attendees. Please review each field carefully to provide the necessary information.
 
 **Escape Room And Party Liability Waiver Form - Help Guide**

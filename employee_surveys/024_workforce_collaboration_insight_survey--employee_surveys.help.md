@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for a company to gather insights into their workforce collaboration and dynamics. The purpose of this form is to collect information about the team, their leadership, collaboration, communication, and other aspects that are essential for effective team management. This form may be used by HR or management teams to identify areas of improvement and develop strategies to enhance team productivity and collaboration.
-</thinking>
-
 # Workforce Collaboration Insight Survey - Help Guide
 ## Purpose
 The Workforce Collaboration Insight Survey is designed to gather information about your team's collaboration, communication, and dynamics. This survey aims to help your team understand how you work together, identify areas of improvement, and develop strategies to enhance team productivity and collaboration.

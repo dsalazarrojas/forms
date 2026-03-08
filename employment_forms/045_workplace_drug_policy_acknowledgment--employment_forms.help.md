@@ -1,7 +1,3 @@
-<thinking>
-The form "Workplace Drug Policy Acknowledgment" is designed to ensure that employees understand and acknowledge their company's drug policy. This form is crucial for maintaining a safe and compliant work environment. By completing this form, employees confirm their understanding of the policy and provide their acknowledgment, which is essential for employee engagement and policy enforcement. It's essential that this form is completed carefully, as it's used to track employee acknowledgment and compliance with the workplace drug policy.
-</thinking>
-
 # Workplace Drug Policy Acknowledgment - Help Guide
 ## Purpose
 This form is used to ensure that employees understand and acknowledge their company's workplace drug policy. It's a crucial step in maintaining a safe and compliant work environment.

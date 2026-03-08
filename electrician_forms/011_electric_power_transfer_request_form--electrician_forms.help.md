@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the Electric Power Transfer Request Form is a form used by electricians to request and manage transfers of electric power services. It should only be used for new requests, not for existing or duplicate issues. The form will ask for details such as customer information, meter readings, and service type. It will also include fields for attachments and submitter information, which should only be filled in by authorized personnel. Please ensure that the form is filled accurately and completely before submission.
-</thinking>
-
 # Electric Power Transfer Request Form - Help Guide
 ## Purpose
 The Electric Power Transfer Request Form is a document used to request and manage transfers of electric power services. It is a vital tool for electricians and service providers to manage these requests efficiently.

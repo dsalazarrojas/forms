@@ -1,9 +1,3 @@
-<thinking>
-We've created this form to help content creators and marketers streamline the process of releasing newsletters to various channels. This form is designed to collect relevant information about a newsletter's title, issue details, publishing channels, and release schedule. It's crucial to ensure that only authorized personnel approve and publish the newsletter. Before filling out this form, please verify that you're submitting a new newsletter and not re-releasing an existing one to avoid duplication.
-
-Please fill out this form carefully and accurately to ensure the newsletter is released successfully.
-</thinking>
-
 # Newsletter Release Form - Help Guide
 ## Purpose
 This form is used to create and schedule a new newsletter release, specifying the title, issue details, publishing channels, and approval status.

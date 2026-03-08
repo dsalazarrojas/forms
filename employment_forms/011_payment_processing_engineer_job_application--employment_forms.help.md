@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be designed for a job application process, specifically for a Payment Processing Engineer position. It's likely used to collect information from candidates who are interested in working in this field. The form's purpose is to gather relevant details about the candidate's qualifications, experience, and availability, to determine their suitability for the position. 
-
-The form is structured into several sections, including contact information, job application details, and qualifications. The fields include contact info, resume upload, job title, job description, qualifications, availability, work experience, job location, skills, payment methods, education, employment status, employment length, previous employer, previous job title, previous salary, previous salary currency, previous work location, job references, available start date, available end date, available duration, available frequency, and job reference. 
-
-Each field is labeled with a clear description of what the candidate is expected to provide. This form appears to be comprehensive, covering various aspects of a candidate's background and experience.
-
-</thinking>
-
 # Payment Processing Engineer Job Application - Help Guide
 ## Purpose
 The Payment Processing Engineer Job Application form is designed to collect information from candidates interested in working as a Payment Processing Engineer. The form is used to gather relevant details about the candidate's qualifications, experience, and availability to determine their suitability for the position.

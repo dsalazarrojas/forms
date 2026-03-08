@@ -1,7 +1,3 @@
-<thinking>... internal reasoning about form purpose and duplication check ...
-The form is designed to collect information from job applicants. It is intended to be a simple and straightforward form that captures essential details about the applicant, such as job title, name, contact information, and address. This form does not require any complex calculations or conditional logic, making it easy to understand and fill out for the user. There is no specific duplication check or validation logic built into the form, so the user can fill it out without restrictions. The form is likely used for internal HR purposes, such as maintaining employee records or managing job openings.
-</thinking>
-
 # Employment Application Form - Help Guide
 ## Purpose
 The Employment Application Form is designed to collect information from job applicants. This form is intended to be a simple and straightforward way to capture essential details about the applicant, such as job title, name, contact information, and address.

@@ -1,9 +1,3 @@
-<thinking>
-We created this form to gather compensation data for an organization, and to provide a comprehensive guide on how to fill it out.
-We want to ensure that the person filling out this form understands the purpose of this data request, and to avoid duplication of work.
-Please read through this form carefully and ensure that your answers are accurate.
-</thinking>
-
 # Compensation Benchmark Data Request Form - Help Guide
 ## Purpose
 The Compensation Benchmark Data Request Form is designed to gather compensation data from an organization for the purpose of creating a comprehensive report on salary standards within a specific industry and geographic region. This form is intended to ensure that the data collected is accurate and up-to-date.

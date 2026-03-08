@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information about an employee's emergency exit planning, including their emergency contact information and exit times and locations. It's meant to be completed by employees when they are planning a personal emergency exit, such as a medical procedure or a family emergency. It helps ensure that the employee's emergency contact is informed and able to assist during the exit.
-
-</thinking>
-
 # Emergency Exit Planning Absence Form - Help Guide
 ## Purpose
 

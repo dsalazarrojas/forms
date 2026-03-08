@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # End Of Shift Report Form S&T Cover - Help Guide
 ## Purpose
 The End Of Shift Report Form S&T Cover is used to report the details of an employee's shift, including work summary, hours worked, overtime status, and other relevant information. This form is typically completed by the employee at the end of their shift and is used to ensure accurate record-keeping and reporting of work hours and activities.

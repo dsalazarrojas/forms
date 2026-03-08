@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Recognition Systems Survey - Help Guide
 
 ## Purpose

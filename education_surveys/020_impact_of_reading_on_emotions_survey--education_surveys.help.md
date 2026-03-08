@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect data on the impact of reading on emotions. It's designed to gather information on an individual's reading habits, frequency, and emotional state while reading. This form is likely used in a research or academic setting to gather data on the effects of reading on people's emotional well-being. Please review the fields below to understand how to complete this form accurately.
-</thinking>
-
 # Impact Of Reading On Emotions Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your reading habits and emotional state. Please answer these questions accurately to provide valuable insights into the impact of reading on your emotions.

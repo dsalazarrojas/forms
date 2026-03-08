@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Values Assessment - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to assess the current state of diversity and inclusion within an organization. It aims to gather data on employee perceptions of diversity practices, employee experiences, and other relevant aspects. This form is designed to be completed by employees to provide valuable insights for HR departments or Diversity and Inclusion teams to identify areas for improvement.
-
-The form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation created using public survey topic metadata as inspiration. It can be used, modified, and even sold, but proper credit must be given.
-
-Before proceeding, please review the form carefully to ensure that it accurately reflects your organization's needs and context. If you have any questions or concerns, feel free to contact us at form@gic.mx.
-
-</thinking>
-
 # Diversity And Inclusion Report Form - Help Guide
 ## Purpose
 The Diversity And Inclusion Report Form is designed to help organizations assess and improve their diversity and inclusion practices.

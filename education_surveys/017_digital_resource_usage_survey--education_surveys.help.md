@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect data on the types of digital resources (e.g., books, articles, videos, websites) used by users in an educational setting, including their frequency and duration of use, as well as the purpose and difficulty level of these resources. This information will help us better understand the needs and preferences of our users. To avoid duplicate entries, please fill out the form only once per user.
-</thinking>
-
 # Digital Resource Usage Survey - Help Guide
 ## Purpose
 The Digital Resource Usage Survey is designed to gather information about the types of digital resources you use in your educational activities. This will help us understand your needs and preferences, ensuring we provide you with the best possible resources to support your learning.

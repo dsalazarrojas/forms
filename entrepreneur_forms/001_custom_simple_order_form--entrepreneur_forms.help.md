@@ -1,5 +1,3 @@
-<thinking>As I review the provided YAML fields, I understand that this form is designed to collect order information for custom orders. It appears to be a simple form that allows users to input product IDs, quantities, and delivery instructions for multiple products. The form likely serves as a template for orders that require specific products and quantities. Before proceeding, I confirm that the form's purpose is to streamline the order-taking process and that this guide will cover how to complete it correctly.</thinking>
-
 # Custom Simple Order Form - Help Guide
 ## Purpose
 The Custom Simple Order Form is designed to collect order information for custom orders with multiple products. This form is used to take orders for products with specific IDs, quantities, and delivery instructions.

@@ -2,10 +2,6 @@
 ## Purpose
 The employee_data_sheet_form is designed to collect information from employees in an organization. It is intended to capture details about the employee's company affiliation, name, title, department, start and end dates, and job position. This form is useful for HR management, employee onboarding, and other related administrative purposes.
 
-<thinking>
-This form was created to support the "employee_information_forms" category, which suggests its primary focus on employee-related data collection. The fields included in this form seem to be a mix of basic employee details (name, title, job position) and more specific information (start and end dates, department name), which could be related to employee performance tracking or career progression. The required fields are "Employee Name" and "Start Date", indicating that these fields are crucial for identifying the employee and tracking their employment history. The optional fields might be used for additional context or administrative purposes. Overall, the form's structure appears to be well-suited for its intended use case.
-</thinking>
-
 ## How To Complete This Form
 To complete the employee_data_sheet_form, follow these steps:
 

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gauge the level of awareness, attitudes, and understanding of the youth regarding climate policy and its various aspects, including climate change, carbon reduction, energy sources, and transportation. This form aims to gather data on the youth's perceptions and opinions on these topics, which can be used to inform policy makers and educators to create more effective climate policy and education strategies.
-
-The form is designed to be completed by students and educators, and it should not be filled out by the same person more than once. This is to ensure that the results accurately represent the diverse opinions and perceptions of the youth population.
-
-The form has two main sections: awareness and attitudes, and policy understanding. The awareness and attitudes section asks about the youth's level of awareness and attitudes towards climate change, carbon reduction, and energy sources. The policy understanding section asks more specific questions about the youth's knowledge and opinions on climate policy.
-
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 This form aims to gauge the level of awareness, attitudes, and understanding of the youth regarding climate policy and its various aspects.

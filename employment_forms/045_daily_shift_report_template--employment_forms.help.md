@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to track an employee's daily shift schedule and activities. The purpose of this form is to ensure that employees can accurately report their work hours, locations, and any notable events that occurred during their shift. This form is meant to be filled out at the end of each shift, and it is intended for internal use only.
-
-The form will be reviewed by supervisors to ensure that employees are following the correct procedures and that their work hours and locations are accurate. This form will help to improve work efficiency, reduce errors, and increase transparency.
-</thinking>
-
 # Daily Shift Report Template - Help Guide
 ## Purpose
 The Daily Shift Report Template is a form designed to track an employee's daily activities and work hours. This form is meant to be filled out at the end of each shift and is used to ensure that employees are following the correct procedures.

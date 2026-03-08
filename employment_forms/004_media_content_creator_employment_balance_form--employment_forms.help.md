@@ -1,7 +1,3 @@
-<thinking>
-The form "media_content_creator_employment_balance_form" likely exists to track the employment details of a media content creator. This form is used to collect information about a person's role as a content creator, such as their name, job title, work hours, work-life balance, and contact information. This form may be used by HR, management, or administrative staff to assess a content creator's employment status and balance within their work environment. It is possible that this form is part of a larger HR system for tracking employee details and benefits. To ensure this form is filled out correctly, please make sure you're filling it out for the right purpose and not duplicating effort. If you're unsure about the form's purpose or have any questions, please reach out to the relevant personnel or consult the relevant policies.
-</thinking>
-
 # media_content_creator_employment_balance_form - Help Guide
 ## Purpose
 The "media_content_creator_employment_balance_form" is a form used to collect employment details of a media content creator. This form is essential for tracking and evaluating a content creator's work-life balance and employment status.

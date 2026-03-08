@@ -1,7 +1,3 @@
-<thinking>
-The form is used to obtain media consent from individuals, such as disaster response team members or participants, for various media-related activities. This form helps ensure that the individual's privacy and rights are respected and protected. It is essential to complete this form carefully and truthfully, as it may be used in official contexts, such as media releases or public events. Before filling out this form, please make sure that you have not already completed it in the past 12 months. If you have any questions or concerns, please reach out to the relevant authorities or personnel responsible for managing this form.
-</thinking>
-
 # disaster_response_team_media_consent_form - Help Guide
 ## Purpose
 The purpose of this form is to obtain media consent from disaster response team members or participants for various media-related activities.

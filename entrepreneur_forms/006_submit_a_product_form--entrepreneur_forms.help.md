@@ -1,12 +1,3 @@
-<thinking>
-This form is for submitting product information for review and reporting, allowing users to provide details about a product, including its name, description, category, price, and image URL. This form is likely used for quality control, product listing, or other similar purposes. It's essential to provide accurate and relevant information to ensure the product's listing meets the required standards.
-
-To avoid duplication, please ensure that you're not submitting the same product twice. If you're unsure about the form's purpose or have questions, contact your internal support team for assistance.
-
-This guide is designed to help you complete this form correctly. Please follow the instructions carefully to avoid errors.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This help guide is for the "<string>" form, a tool for submitting product information. The form collects detailed information about a product to help reviewers evaluate and review it.

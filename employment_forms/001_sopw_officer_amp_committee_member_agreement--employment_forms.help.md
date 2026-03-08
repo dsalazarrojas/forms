@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals who are officers and committee members of the SOPW organization. The form will be used to gather their personal and professional details, such as their name, email, phone number, and role within the organization. The form will also collect their agreement to certain terms and conditions, including a date and time for the agreement. The purpose of the form is to ensure that all officers and committee members are on record with the organization's information and have agreed to the terms and conditions.
-</thinking>
-
 # SOPW Officer & Committee Member Agreement - Help Guide
 ## Purpose
 This form is designed to collect information from officers and committee members of the SOPW organization.

@@ -1,38 +1,3 @@
-<thinking>
-
-To create an effective help guide for the Personnel Request Form, I'll need to understand the form's purpose and the fields included. Based on the provided YAML, it appears that this form is used for requesting new employment, including details about the job, employee, and manager. The form seems to be focused on collecting information from the requestor and the employee to facilitate the hiring process. I'll assume that the form is used by HR or personnel departments within an organization.
-
-The form includes fields for:
-
-* Department
-* Job Title
-* Reporting Manager
-* Department Manager
-* Job Start Date
-* Job End Date
-* Reason for Request
-* Job Type
-* Job Status
-* Employee Name
-* Employee ID
-* Department ID
-* Manager ID
-* Requestor ID
-* Request Date
-* Requestor
-* Request Date (again, possibly a duplicate field)
-* Requestor Title
-* Manager Request Date
-* Department Request Date
-* Job Request Status
-* Job Request Type
-* Employee Job Title
-* Employee Department
-
-Some fields seem to be duplicates or have similar purposes, which may cause confusion. I'll make sure to clarify these inconsistencies in the help guide.
-
-</thinking>
-
 # Personnel Request Form - Help Guide
 ## Purpose
 The Personnel Request Form is used to request new employment within an organization. It collects information from the requestor and the employee to facilitate the hiring process. This form helps ensure that all necessary details are collected and processed efficiently.

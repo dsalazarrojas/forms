@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended for individuals who have participated in a virtual mental wellness session and are being asked to evaluate their experience. The purpose of this form is to gather feedback from the user on their session, including details about the session itself, the type of session they attended, and their thoughts on the outcomes and objectives of the session. This form is designed to be completed by the user after the session has taken place, and will likely be used by the mental wellness organization or service provider to improve their services.
-
-</thinking>
-
 # Virtual Mental Wellness Session Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users on their virtual mental wellness session experience. This includes details about the session, the type of session attended, and the outcomes and objectives of the session.

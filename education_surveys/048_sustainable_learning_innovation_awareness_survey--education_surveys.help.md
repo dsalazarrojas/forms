@@ -1,10 +1,3 @@
-<thinking>
-We have a form called "Sustainable Learning Innovation Awareness Survey" in the category "education_surveys". This form is meant to collect information from users about their background, experience, and interests related to sustainable learning and innovation. We want to ensure that users understand the purpose and goals of this survey, so let's review the form to confirm its relevance and avoid any duplication of effort. This form collects data on user's education background, work experience, learning goals, interest in innovation, experience with innovation practices, experience with sustainable learning practices, and demographic information (email and phone number).
-
-To confirm that this form is correctly set up and that the fields are not duplicated, let's review the form structure. The form has 10 fields, each with a specific ID, name, label, hint, type, and optional/required status. The form is split into sections (or pages) for easier navigation. Each field is categorized as text, select_one, select_multiple, note, or email.
-
-</thinking>
-
 # Sustainable Learning Innovation Awareness Survey - Help Guide
 ## Purpose
 The Sustainable Learning Innovation Awareness Survey is designed to collect information from users about their background, experience, and interests related to sustainable learning and innovation.

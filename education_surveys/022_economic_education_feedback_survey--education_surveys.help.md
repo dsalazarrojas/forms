@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect feedback from end-users about the economic education programs they have attended. The purpose of this form is to understand the quality and effectiveness of these programs. This form is used by educators, program directors, and other stakeholders to evaluate and improve their educational offerings. It is essential that the feedback provided is genuine and reflects the attendee's actual experience. Please ensure that you complete the form carefully and accurately.</thinking>
-
 # Economic Education Feedback Survey - Help Guide
 ## Purpose
 The Economic Education Feedback Survey is a tool used to collect feedback from end-users about the economic education programs they have attended. This survey helps educators and program directors evaluate and improve their offerings.

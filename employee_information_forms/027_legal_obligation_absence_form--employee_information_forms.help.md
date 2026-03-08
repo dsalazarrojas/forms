@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Legal Obligation Absence Form" that explains its purpose, how to complete it, and what each field means. This form appears to be a structured template for documenting employee absences due to legal obligations, such as family or court obligations. The form likely serves as a formal process for employees to report and track their absences for HR and management approval. This guide will help end-users understand the form's requirements and ensure accurate data entry.
-
-Before we begin, let's review the form's purpose and ensure that it's not being duplicated or used for other purposes. This form is designed for employees to report their legal obligation absences, which may involve submitting supporting documentation and providing details about their absence. The form should not be used for casual or informal absences, but rather for formal, legal reasons that require HR approval.</thinking>
-
 # Legal Obligation Absence Form - Help Guide
 ## Purpose
 The Legal Obligation Absence Form is a formal template for employees to report and document their absences due to legal obligations, such as family or court obligations. This form helps ensure that all necessary information is collected and reviewed by HR and management for approval.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form, named "Coronavirus Case Report Template", seems to be a tool for reporting suspected or confirmed cases of COVID-19 in a workplace setting. The form appears to be designed for gathering information from employees, likely to aid in tracking and responding to potential outbreaks.
-
-Before we begin, I'd like to note that the form seems to have a high number of fields, which might make it confusing or overwhelming for users. I assume that some fields could be removed or merged for clarity.
-
-Let's start by breaking down the form into a concise and user-friendly help guide.
-
-</thinking>
-
 # Coronavirus Case Report Template - Help Guide
 ## Purpose
 The Coronavirus Case Report Template is a tool for reporting suspected or confirmed cases of COVID-19 among employees. This form helps in gathering essential information for prompt response and action.

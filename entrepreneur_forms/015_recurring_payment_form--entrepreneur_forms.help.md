@@ -1,9 +1,3 @@
-<thinking>
-
-The "recurring_payment_form" form is designed to collect information from users for recurring payments. To verify its relevance and prevent duplication, users are required to enter their email address and confirm their phone number before proceeding. The form is used to collect personal details, payment plan information, and payment method preference. It is essential to ensure that users understand how to fill out the form correctly to avoid any errors.
-
-</thinking>
-
 # Recurring Payment Form - Help Guide
 ## Purpose
 This form is used to collect recurring payment information from users for subscription-based services. It ensures that users provide accurate and consistent payment details for regular transactions.

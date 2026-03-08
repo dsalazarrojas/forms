@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for sports clinic enrollment. It's likely used by a sports center or organization to gather data from students or potential students. This form should only be filled out once per individual and not duplicated for the same person. 
-</thinking>
-
 # sports_clinic_enrollment - Help Guide
 ## Purpose
 The sports clinic enrollment form is used to collect information from students or potential students for sports clinic purposes.

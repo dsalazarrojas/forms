@@ -106,22 +106,6 @@ The International Exchange Program Impact Evaluation form is designed to collect
 
 * Select the participant status.
 
-<thinking>
-This form is intended to collect comprehensive feedback and data on the International Exchange Program. It is essential that the form is filled out in a way that reflects the actual impact of the program on the participants.
-
-Before starting the form, please ensure that you have all the necessary information and details about the program and the participant. The form is divided into several pages, each of which corresponds to a specific section of the evaluation.
-
-To fill out the form, you will need to navigate through each page and provide the requested information. Please make sure to answer all the questions and provide accurate details.
-
-Please note that some of the fields are not required, and you can skip them if they are not relevant to your experience or situation.
-
-Before submitting the form, please review the information you have entered to ensure that it is complete and accurate.
-
-The form can be submitted in the following languages: English, French, Spanish, German, and Chinese.
-
-If you have any questions or concerns about the form or the program, please do not hesitate to contact us.
-</thinking>
-
 **Tips:**
 
 * Please answer all the questions accurately and thoroughly.

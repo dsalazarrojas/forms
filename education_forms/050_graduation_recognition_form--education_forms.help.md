@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from graduates to acknowledge their achievement. The purpose of this form is to provide a structured way to capture relevant details about the graduate, such as their name, graduation year, and academic institution, to facilitate recognition and celebration of their academic milestone.
-
-To ensure the form is used correctly, it's essential to review the fields carefully and provide the requested information accurately. Please note that some fields are mandatory (required) and must be filled in to proceed with the submission. 
-
-Before starting, ensure you have all the necessary information ready. If you're unsure about any field, please refer to the explanations provided below.
-
-</thinking>
-
 # Graduation Recognition Form - Help Guide
 ## Purpose
 The Graduation Recognition Form is used to collect information from graduates to acknowledge their academic achievement. This form helps the institution to recognize and celebrate the graduate's accomplishment.

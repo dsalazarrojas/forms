@@ -1,7 +1,3 @@
-<thinking>
-This form is for individuals applying to the Financial Systems Analyst position within the company. It collects information about the candidate's personal details, education, experience, and other relevant data to be evaluated for the role. Before filling out this form, please ensure you have not already submitted a similar application for this position. 
-</thinking>
-
 # Financial Systems Analyst Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from candidates applying for the Financial Systems Analyst position within the company. It is used to evaluate your qualifications, experience, and fit for the role.

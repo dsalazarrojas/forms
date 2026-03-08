@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed to assess various aspects of environmental literacy among students. The purpose of this form is to gather information about students' attitudes, awareness, and behaviors related to the environment.
-
-To ensure this form is being used correctly, please double-check that you are on the right page and that you are not completing this survey multiple times. If you have any questions or concerns, please don't hesitate to reach out to the survey administrator.
-
-</thinking>
-
 # Environmental Literacy Among Students Survey - Help Guide
 ## Purpose
 This form aims to gauge students' environmental literacy, encompassing their attitudes, awareness, and behaviors related to environmental issues.

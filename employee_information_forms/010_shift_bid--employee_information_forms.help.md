@@ -1,9 +1,3 @@
-<thinking>**Internal Reasoning Block**
-
-The purpose of this form is to collect information related to an employee's shift preferences. It allows the employee to input their name, available start and end times, and preferences for shifts they have applied for, available shifts, and whether they are interested in bidding on a shift. The fields on this form are designed to be completed by employees, who can then submit their bids and comments for review by management. This form ensures that employees can communicate their availability and preferences in a clear and organized manner, making it easier for management to coordinate shifts and assign employees to work. 
-
-</thinking>
-
 # Shift Bid - Help Guide
 
 ## Purpose

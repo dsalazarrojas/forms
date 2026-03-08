@@ -1,5 +1,3 @@
-<thinking>This form is intended to assess the development and well-being of children in various aspects of their life, including physical, cognitive, social-emotional, and language development. It is designed to provide a comprehensive picture of a child's progress and identify areas that may require attention. The form is divided into several sections, each focusing on a different aspect of development. It is essential to complete all sections to get a comprehensive understanding of the child's overall development.</thinking>
-
 # Early Childhood Care And Development (ECCD) Checklist - Help Guide
 ## Purpose
 This form is designed to help assess the development and well-being of children in various aspects of their life. It is a comprehensive tool to identify areas that may require attention and provide a picture of a child's progress.

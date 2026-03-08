@@ -1,4 +1,3 @@
-<thinking>...an internal reasoning block to explain the form purpose and check for relevance and non-duplication...</thinking>
 # Employee Exit Offboarding Form - Help Guide
 
 ## Purpose

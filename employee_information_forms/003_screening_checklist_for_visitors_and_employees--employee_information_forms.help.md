@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect important information from visitors and employees to ensure their safety and well-being while on campus or in the workplace. The form is divided into sections that cover contact information, health declarations, medical histories, and screening results.
-</thinking>
-
 # Screening Checklist For Visitors And Employees - Help Guide
 ## Purpose
 This form is used to collect essential information from visitors and employees to identify potential health risks and ensure a safe environment.

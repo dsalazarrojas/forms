@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parents Evening Form Template - Help Guide
 ## Purpose
 This form template is designed to help parents and teachers document and organize information about parent-teacher meetings, making it easier to keep track of details and outcomes. It's a flexible tool that allows users to input various aspects of the meeting, from basic information like meeting date and time to more important details like meeting outcomes.

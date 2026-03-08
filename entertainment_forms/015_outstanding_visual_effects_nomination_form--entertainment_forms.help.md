@@ -1,11 +1,3 @@
-<thinking>
-
-The "Outstanding Visual Effects Nomination Form" is used to collect nominations for outstanding visual effects projects. This form is intended for users to provide details about a specific project they wish to nominate, including its name, description, URL, and other relevant information. 
-
-The purpose of this form is to ensure that all nominations meet certain criteria, preventing non-relevant nominations from being submitted. This form should only be completed by those who have a legitimate reason for nominating a project and are not submitting duplicate entries. Nomination decisions are typically made internally, without external influence or manipulation.
-
-</thinking>
-
 # Outstanding Visual Effects Nomination Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used for documenting emergency rescue procedures involving aerosolized procedures. It captures essential information about the patient, the crew involved in the rescue, and the incident details. This form is likely used by fire departments or emergency medical services for reporting and tracking purposes. It appears to be a comprehensive form that requires input from both medical crew members and their chief or supervisor. The form's structure suggests it is used to report on both the procedure and any follow-up or additional comments.
-
-</thinking>
-
 # fire_rescue_aerosolized_procedure_report_form - Help Guide
 ## Purpose
 The fire_rescue_aerosolized_procedure_report_form is used to document emergency rescue procedures involving aerosolized procedures. This form captures essential information about the patient, the crew, and the incident.

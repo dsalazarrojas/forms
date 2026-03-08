@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my approach is to create a user-facing help guide that clearly communicates the purpose and usage of the Psa Form. The form is designed to collect information for enrollment purposes, likely for a school or organization. It's essential to ensure that users understand how to complete it and what each field means, as each field serves a specific purpose in the enrollment process. I'll follow the provided YAML structure to craft a concise and practical help guide.</thinking>
-
 # Psa Form - Help Guide
 ## Purpose
 The Psa Form is used to collect information for enrollment purposes, such as collecting details about students or members enrolling in a school or organization. This form ensures that all necessary information is gathered to streamline the enrollment process.

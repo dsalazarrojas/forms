@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Open Ended Student Response Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-The form "On Boarding And Out Boarding Form" is designed to collect information related to employee onboarding and offboarding (outboarding). This form is intended for use within a company setting, such as HR departments, to streamline the process of welcoming new employees and bidding farewell to departing ones. The form should not be used for any other purpose, as it is not designed to be used in any other context. This form has been created using a combination of AI-generated insights and publicly available data, and its purpose is to provide a standardized and efficient way to collect necessary information.
-
-</thinking>
-
 # On Boarding And Out Boarding Form - Help Guide
 
 ## Purpose

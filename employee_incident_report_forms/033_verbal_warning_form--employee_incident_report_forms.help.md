@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to record and document employee incidents or warnings, providing a formalized process for management and HR teams to address such issues. The form's purpose is to ensure that incidents are thoroughly documented, and the necessary steps are taken to prevent similar incidents in the future. To ensure accuracy and completeness, please review each field carefully and ensure that all relevant information is provided.
-
-When submitting the form, please note that the following fields are marked as optional, but they are essential to providing a comprehensive incident report. The fields marked as required will be used as a minimum for the incident report, and the optional fields can be filled in if additional context or information is available.
-
-Before filling out the form, please ensure that you have discussed the incident with the employee and have agreed on the details of the incident. This will help in maintaining a fair and accurate record of the incident.
-
-Please note that all fields marked as "date" require a date in the correct format (DD/MM/YYYY or MM/DD/YYYY). If a date is not provided, it will be assumed to be the current date.
-
-To complete the form, please follow these steps:
-
-**Purpose**
-</thinking>
-
 # Verbal Warning Form - Help Guide
 ## How To Complete This Form
 

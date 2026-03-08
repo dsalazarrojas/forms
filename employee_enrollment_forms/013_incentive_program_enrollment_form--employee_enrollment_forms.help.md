@@ -1,11 +1,3 @@
-<thinking>
-To determine if the form purpose and fields are relevant and non-duplicative, let's analyze the form YAML. The form appears to be for employee enrollment in an incentive program. It includes fields for basic employee information (name, job title, job position, email, phone, address), work-related fields (date start, date end, department, manager name, manager email, manager phone), and a field for team affiliation. There is also a notes field for any additional information.
-
-It seems that all fields are optional, except for "form_title", which is likely a placeholder and not a required field. The form purpose is not explicitly stated, but based on the fields, it appears to be for employees to enroll in an incentive program.
-
-To provide a clear and concise help guide, we will explain each field and provide clear instructions on how to complete the form.
-</thinking>
-
 # Incentive Program Enrollment Form - Help Guide
 ## Purpose
 This form is for employees to enroll in the incentive program. Please complete this form to provide necessary information for your enrollment.

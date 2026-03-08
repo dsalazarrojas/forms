@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in purchasing a custom neon sign. The form is meant to capture necessary details about the customer, the sign they wish to order, and any additional order information. The form is not affiliated with any form platform, but rather an original adaptation created using public survey data.
-
-</thinking>
-
 # Custom Neon Sign Order Form - Help Guide
 ## Purpose
 This form is for customers who want to purchase a custom neon sign. It will help us gather the necessary information to create their sign.

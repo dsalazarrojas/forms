@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## event_request_form - Help Guide
 
 ## Purpose

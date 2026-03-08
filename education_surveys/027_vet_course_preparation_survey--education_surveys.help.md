@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants about their interest in a VET (Veterinary Education and Technology) course. The purpose of this survey is to understand their preferences and needs in order to tailor the course delivery to their requirements. The form should be completed by participants who are interested in taking the VET course, and it is not intended for course administrators or instructors.
-
-</thinking>
-
 # VET Course Preparation Survey - Help Guide
 ## Purpose
 This guide will help you complete the VET Course Preparation Survey, which is designed to gather information about your interests and preferences for the VET course.

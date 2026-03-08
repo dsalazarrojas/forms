@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # P11DSubmission - Help Guide
 
 ## Purpose

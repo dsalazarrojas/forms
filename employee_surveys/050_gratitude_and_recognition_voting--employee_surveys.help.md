@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Gratitude And Recognition Voting," is to facilitate employees and teams in acknowledging and showing appreciation for their peers' contributions, work, and achievements. This form allows users to nominate a deserving colleague for recognition and choose a category for the nomination, select a type of recognition, and optionally provide additional comments or feedback.
-</thinking>
-
 # Gratitude And Recognition Voting - Help Guide
 ## Purpose
 The Gratitude And Recognition Voting form enables employees to express their gratitude and appreciation towards their colleagues by nominating them for their outstanding work, service, or achievements. This form helps to foster a positive and supportive work environment by acknowledging and recognizing individual contributions.

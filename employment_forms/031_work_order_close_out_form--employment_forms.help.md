@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's examine its title and field names. The form's title is "Work Order Close Out Form", which suggests it's related to completing or finalizing work orders. The field names also point to this conclusion, as most of them are related to work order details, such as "Contract Number", "Job Number", "Work Order Close Out Date", "Total Cost", and "Materials Used". This form is likely used for administrative tasks related to work orders, possibly for accounting, billing, or project management purposes.
-</thinking>
-
 # Work Order Close Out Form - Help Guide
 
 ## Purpose

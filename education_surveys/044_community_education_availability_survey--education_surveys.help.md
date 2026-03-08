@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Education Availability Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your preferences and availability for education classes. Please provide your information accurately to help us tailor our services to meet your needs.

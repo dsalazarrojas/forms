@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Restaurant Food Photos" form, we need to consider the following:
-* The form is designed for capturing information related to restaurant food photos, which is a specific use case within the broader category of "enrollment."
-* The purpose of this form is likely to provide a platform for users to upload and manage restaurant food photos, making it easier for them to share information about their menus.
-* There is a risk that some users may find it confusing to fill out this form if not provided with clear guidance.
-</thinking>
-
 # Restaurant Food Photos - Help Guide
 
 ## Purpose

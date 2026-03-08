@@ -1,7 +1,3 @@
-<thinking>
-Please note that the following form is intended to gather data on the impact of the COVID-19 pandemic on businesses. The goal is to understand how businesses have been affected, what changes they made, and their recovery outlook. This form should not be filled out by individuals, only businesses. It is recommended that businesses with more than 100 employees fill out this survey, as they may have more complex and nuanced experiences. If a business has already filled out this survey in the past, please let us know so we can avoid duplication of effort. Please note that this form should take about 10-15 minutes to complete and is completely anonymous.
-</thinking>
-
 # COVID 19 Impact Survey For Businesses - Help Guide
 
 ## Purpose

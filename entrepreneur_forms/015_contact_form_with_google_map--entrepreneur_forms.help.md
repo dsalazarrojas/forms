@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather contact information and location data from users. It's likely intended for customers or visitors to get in touch with the business or schedule a visit. The form likely aims to capture essential details such as name, email, and message, as well as optional information like phone number and preferred visit date. The Google Map field may be used to provide directions or confirm location.
-</thinking>
-
 # Contact Form With Google Map - Help Guide
 ## Purpose
 This form is used to contact the business or schedule a visit. Please fill out the form to provide necessary information and help us understand your request.

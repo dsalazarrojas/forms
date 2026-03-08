@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm thinking... This form appears to be designed to collect demographic information and opinions from fans of the F1 racing series. It seems to gather data on the fans' preferences, habits, and behaviors, likely to better understand their engagement with the sport and identify trends. I also notice that there are questions about social media presence, which might be used to analyze the reach and effectiveness of the F1 community's online presence. I'll assume that this form is intended for fans who have expressed interest in F1, and it's not meant for non-fans or general audience. Before I proceed, I'd like to confirm that this form is not meant to collect sensitive or personal data, but rather to gather opinions and preferences.</thinking>
-
 # International Fan Survey - Help Guide
 ## Purpose
 This form is designed to collect information from F1 fans to help us better understand their engagement with the sport, their preferences, and their behaviors. We want to know about your interests, habits, and opinions to improve the F1 experience for you and your fellow fans.

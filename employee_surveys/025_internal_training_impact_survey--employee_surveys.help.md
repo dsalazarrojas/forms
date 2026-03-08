@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will provide an overview of the "Internal Training Impact Survey" form, its purpose, and the process to complete it. To ensure that you are viewing the most relevant and up-to-date information, please note that this form has been designed to gather feedback from employees on the impact of training programs. If you have already completed the survey previously, you might have already provided some answers that will be saved. Please review your answers before completing the form again.
 
 # Internal Training Impact Survey - Help Guide

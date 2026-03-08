@@ -1,7 +1,3 @@
-<thinking>
-This form is used to measure the pulse of the organization, specifically assessing how satisfied team members are with their work environment, the level of support provided by leadership, and the overall well-being of the team. It's essential to ensure this form is completed accurately and thoroughly to provide a representative snapshot of the team's feelings and experiences. Duplicate or inaccurate submissions can skew the results, so please ensure you complete this form once for each team member, or if your team member has left the company, complete it for the most recent team member.
-</thinking>
-
 # Organizational Health Pulse Survey - Help Guide
 ## Purpose
 The purpose of this survey is to collect feedback and insights from team members to identify areas for improvement in the organization. By participating in this survey, you will be contributing to a better understanding of your team's needs and helping to shape the organization's development.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for booking barrier details for festival stage. It is meant to be used by users who need to manage barrier booking for events. This form is part of the overall system for managing festival stage barriers.
-The following form fields are required: stage barrier details, barrier quantities, delivery timing, contact details, and barrier status.
-</thinking>
-
 # festival_stage_barrier_booking_form - Help Guide
 ## Purpose
 This form is used to book barrier details for festival stage and manage overall barrier bookings for events.

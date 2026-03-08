@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Succession Planning Feedback Survey Form - Help Guide
 
 ## Purpose

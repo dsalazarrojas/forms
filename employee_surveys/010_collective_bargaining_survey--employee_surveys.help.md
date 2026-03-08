@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from employees about their experiences and perceptions of the collective bargaining agreement. It will help us understand their level of satisfaction with various aspects of the current agreement, including wages, benefits, job security, and more. This information will be used to inform future negotiations and improve the agreement. Please ensure that your feedback is honest and accurate to help us make informed decisions.
-
-Before filling out this form, please make sure you have not already submitted your feedback. Duplicate submissions can lead to confusion and may not be reviewed.
-
-</thinking>
-
 # Collective Bargaining Survey - Help Guide
 ## Purpose
 The Collective Bargaining Survey is designed to collect feedback from employees about their experiences and perceptions of the collective bargaining agreement. The information gathered will help us inform future negotiations and make improvements to the agreement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to determine the readiness of a project for execution. The questions and fields are designed to gather information about the current status and potential challenges of the project. The goal is to provide a clear and objective assessment of the project's readiness, which can be used by the project team and stakeholders to make informed decisions.
 
 </thinking>

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a simple quiz that tests the knowledge of users on the basics of Chinese New Year traditions and symbolism. The form has four questions that cover different aspects of Chinese New Year, such as the animal representing the current zodiac year, the color associated with Chinese New Year, the common gift given in red envelopes, and the traditional food often served during Chinese New Year. To ensure the form is used correctly, we need to provide clear and concise instructions on how to complete it and what each field means.
-
-Form purpose is to assess the user's knowledge of Chinese New Year traditions and symbolism.
-Form questions are designed to be simple and easy to understand, with each question focusing on a specific aspect of Chinese New Year.
-</thinking>
-
 # Chinese New Year Quiz - Help Guide
 ## Purpose
 This form is designed to be a simple quiz that tests the knowledge of users on the basics of Chinese New Year traditions and symbolism.

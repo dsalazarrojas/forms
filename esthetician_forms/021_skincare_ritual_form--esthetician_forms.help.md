@@ -1,18 +1,3 @@
-<thinking>
-
-The form is designed to collect information about an individual's skincare routine, habits, and concerns. The form likely serves as a tool for professionals in the skincare industry to gather data for product development, customer insights, or research purposes. This form could be used to:
-
-* Identify common skincare concerns and habits among customers
-* Gather feedback on existing products
-* Gain insights into skincare routines and frequencies
-* Develop targeted product recommendations
-
-The form is composed of various fields, including text, select multiple, select one, date, time, and text fields. It's likely used for a specific business purpose and might be shared with customers to collect their input.
-
-To ensure the form is completed correctly, it's essential to understand each field's purpose and requirements.
-
-</thinking>
-
 # Skincare Ritual Form - Help Guide
 ## Purpose
 This form collects information about your skincare habits, concerns, and preferences to help us better understand your needs and provide personalized recommendations.

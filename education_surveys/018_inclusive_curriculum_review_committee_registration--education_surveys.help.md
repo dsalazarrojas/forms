@@ -1,8 +1,3 @@
-<thinking>
-This form is meant for registration of individuals to the Inclusive Curriculum Review Committee. The purpose of the committee is to review and provide feedback on the curriculum to ensure it is inclusive and representative of diverse perspectives. The form is intended to gather information about the registrants' names, contact information, roles, and areas of expertise. This information will be used to facilitate communication and collaboration within the committee.
-To complete this form, the user will need to provide their name, email address, selected role(s), institution, and areas of expertise in mathematics, biology, and chemistry. The user will also need to confirm their consent to participate in the committee.
-</thinking>
-
 # Inclusive Curriculum Review Committee Registration - Help Guide
 ## Purpose
 The Inclusive Curriculum Review Committee Registration form is a tool used to register individuals to the committee. The information collected will help to create a diverse and representative committee that can provide valuable feedback on the curriculum.

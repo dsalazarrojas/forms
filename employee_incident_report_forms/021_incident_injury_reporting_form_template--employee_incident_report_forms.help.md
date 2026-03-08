@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents or injuries that may have occurred during work hours. It's meant to be filled out by employees who have experienced an incident or injury, and is used to document the details of what happened. Before filling out this form, please make sure you have not already submitted a report for this incident, as duplicate reports may cause confusion and slow down the investigation process.
-</thinking>
-
 # incident_injury_reporting_form_template - Help Guide
 ## Purpose
 This form is used to report incidents or injuries that have occurred during work hours. It helps to document the details of what happened, which is used to ensure that proper steps are taken to prevent similar incidents in the future.

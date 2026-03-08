@@ -1,5 +1,3 @@
-<thinking>...I will now create a help guide for the "Business Card Order Form" in Markdown format...</thinking>
-
 # Business Card Order Form - Help Guide
 ## Purpose
 This form is designed to gather information for a business card order. It collects contact and shipping information, card design preferences, and payment details to facilitate the ordering process.

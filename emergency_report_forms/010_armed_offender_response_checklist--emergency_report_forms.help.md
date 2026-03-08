@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about incidents involving armed offenders. The purpose of this form is to provide an accurate and timely report of the incident, including details about the incident, immediate response actions, personnel and casualties, communication and coordination, and documentation. This form is intended to be completed by responding officers or other authorized personnel in emergency situations. Please ensure that you complete this form thoroughly and accurately, as it will help in the assessment and response to the incident.
-</thinking>
-
 # Armed Offender Response Checklist - Help Guide
 ## Purpose
 This form is used to gather information about incidents involving armed offenders. It is designed to be completed by responding officers or other authorized personnel in emergency situations.

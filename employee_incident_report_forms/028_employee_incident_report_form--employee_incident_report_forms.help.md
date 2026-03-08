@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about incidents reported by employees, likely for reporting and tracking purposes within an organization. The form should be used by employees to report any incidents that have occurred during their work hours or work-related activities. It is possible that this form may be part of a larger incident management system, and its completion may trigger further actions or notifications within the organization.
-</thinking>
-
 # Employee Incident Report Form - Help Guide
 ## Purpose
 The Employee Incident Report Form is designed to collect information about incidents that have occurred during work hours or work-related activities. This form will help the organization to track and manage incidents, ensuring a safe and incident-free work environment.

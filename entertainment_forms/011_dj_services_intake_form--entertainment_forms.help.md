@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a digital representation of a traditional paper form, used to collect information from users in an organized and efficient manner. The purpose of this form is to collect event details and client information for entertainment services, likely used by DJs or event planners. The form likely serves as a starting point for scheduling and planning services such as DJ sets, weddings, or other types of events. This form should only be used for legitimate purposes and not for spam or other malicious activities. Before proceeding, ensure that you are filling it out for a genuine reason and not duplicating the submission.
-
-</thinking>
-
 # DJ Services Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect event details and client information for entertainment services. This information will be used to schedule and plan events such as DJ sets, weddings, or other types of events.

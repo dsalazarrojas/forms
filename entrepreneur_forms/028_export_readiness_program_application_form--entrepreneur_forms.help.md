@@ -1,9 +1,3 @@
-<thinking>
-
-The Export Readiness Program Application Form is designed for entrepreneurs to apply for the Export Readiness Program. This form is used to gather information from entrepreneurs who are interested in participating in the program. To be eligible for the program, the entrepreneur must have a valid export business plan, a verified contact email, and an approved contact position. The application form will be reviewed and approved or rejected based on the information provided.
-
-</thinking>
-
 # Export Readiness Program Application Form - Help Guide
 ## Purpose
 The Export Readiness Program Application Form is a tool for entrepreneurs to apply for the Export Readiness Program. It is used to gather information required for eligibility assessment and program enrollment.

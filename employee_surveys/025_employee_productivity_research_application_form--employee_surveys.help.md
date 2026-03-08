@@ -1,5 +1,3 @@
-<thinking>As a form designer, I need to carefully review this form and understand its purpose and functionality. The form appears to be designed for collecting information from employees interested in participating in productivity research studies. It captures various details such as contact information, job title, availability, consent, and other relevant fields. This guide will outline how to complete this form and provide explanations for each field, making sure that end users understand the form's purpose and functionality.</thinking>
-
 # Employee Productivity Research Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from employees interested in participating in productivity research studies. It captures details such as contact information, job title, availability, and other relevant fields to help research teams identify potential participants.

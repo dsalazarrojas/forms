@@ -1,7 +1,3 @@
-<thinking>
-# Internal Note: This form is designed for registering events. It is meant to collect information from attendees, such as name, contact details, event details, and attendance preferences. This form is likely used in conjunction with an event management system to manage attendee records and event organization. Ensure that you're completing this form for the correct event and with the correct intentions. Please review the event details carefully before submission. This form should not be used for any other purpose than registering for events.
-</thinking>
-
 # Event Registration Form - Help Guide
 ## Purpose
 The Event Registration Form is a tool used to register attendees for events. It captures essential information such as contact details, event preferences, and other relevant details.

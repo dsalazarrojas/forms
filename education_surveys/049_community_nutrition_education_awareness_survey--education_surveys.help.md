@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather feedback on community nutrition education awareness, targeting the needs and preferences of its respondents. The survey aims to understand how people perceive and access healthy food options, their knowledge level about nutrition, and their interest in nutrition education programs. This data will help create more effective community nutrition programs that meet the actual needs of the community. 
-
-Before starting the survey, it is essential to note that all responses will be treated with confidentiality and used for data analysis purposes only. This form is a part of a larger initiative to gather insights from various stakeholders, and the collected data will be used to create more targeted and effective programs.
-</thinking>
-
 # Community Nutrition Education Awareness Survey - Help Guide
 ## Purpose
 This form aims to collect feedback on community nutrition education awareness, focusing on understanding the respondents' perceptions and needs regarding healthy food options, their nutrition knowledge level, and interest in nutrition education programs.

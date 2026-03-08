@@ -1,11 +1,3 @@
-<thinking>
-
-The "emergency_access_key_issue_request_form" form is a critical part of the emergency response process, allowing users to report access key issues in a structured and efficient manner. This form is used to report lost, stolen, or damaged access keys, and to track the status of these issues as they are resolved.
-
-Before filling out this form, please ensure that you are reporting a valid access key issue and that you are not duplicating a previously reported issue. If you are unsure, you can contact the support team for guidance.
-
-</thinking>
-
 # emergency_access_key_issue_request_form - Help Guide
 ## Purpose
 The emergency_access_key_issue_request_form is used to report lost, stolen, or damaged access keys. Fill out this form to report an issue and provide the necessary details for resolution.

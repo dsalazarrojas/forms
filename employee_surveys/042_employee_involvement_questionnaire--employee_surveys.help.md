@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather insights on employee involvement and satisfaction within the workplace. This questionnaire is meant to be completed by employees to provide honest and constructive feedback on their own job, manager, and team. The collected data will help managers and HR teams understand areas of improvement and areas of success. This form should not be completed by anyone other than the intended employee. Please make sure you have the necessary permissions and approvals before proceeding. It's essential to note that the completion of this form is not a mandatory requirement, so you can stop filling it out if you feel that it's unnecessary for your specific situation...</thinking>
-
 # Employee Involvement Questionnaire - Help Guide
 ## Purpose
 

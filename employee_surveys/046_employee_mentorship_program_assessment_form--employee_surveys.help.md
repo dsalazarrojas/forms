@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to be a simple assessment tool to gather feedback from employees who have participated in the mentorship program. The program aims to evaluate the effectiveness and overall satisfaction of the mentorship experience. This form will help the program administrators to identify areas of improvement and make data-driven decisions for future program development. It's essential that employees who have participated in the program take the time to provide honest and constructive feedback, which will be kept confidential and only used to improve the program. This feedback will not be used for any other purpose, such as for performance evaluations or promotions.
-
-</thinking>
-
 # Employee Mentorship Program Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from employees who have participated in the mentorship program. This feedback will help us identify areas of improvement and make data-driven decisions for future program development.

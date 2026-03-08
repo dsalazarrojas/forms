@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help project managers and team members quickly estimate project costs and timelines. The form should only be filled out for projects that are not already underway, as the actual price field will become relevant once the project is completed. To avoid confusion, please do not fill out this form for active projects. If you have already filled out this form for a project, please do not re-complete it. The form will be used to gather information to help with future project planning and budgeting.
-</thinking>
-
 # project_price_estimation_form - Help Guide
 ## Purpose
 The project price estimation form is a tool to help project managers and team members estimate project costs and timelines for future planning and budgeting.

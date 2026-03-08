@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from clients about their skincare needs and medical history for an esthetician to provide personalized consultation and treatment. The form is divided into sections that cover general contact information, medical history, and skincare-related details. This form should only be used for client consultations and not for general contact or appointment scheduling purposes.
-
-To avoid duplication, ensure that each client's consultation form is completed for the correct individual and not shared between multiple clients or used for internal purposes.
-
-</thinking>
-
 # Esthetics Client Consultation Form - Help Guide
 ## Purpose
 The Esthetics Client Consultation Form is a document designed to collect information from clients about their skincare needs and medical history. This form helps the esthetician understand the client's specific requirements and provide personalized consultation and treatment.

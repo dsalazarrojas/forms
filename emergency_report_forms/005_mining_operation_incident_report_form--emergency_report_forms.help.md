@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mining Operation Incident Report Form - Help Guide
 ## Purpose
 The Mining Operation Incident Report Form is designed to collect information about incidents or problems that occur during mining operations. This form is used to report incidents, such as accidents, injuries, or near-misses, to facilitate a prompt and effective response.

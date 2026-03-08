@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to request free content from the company, allowing them to specify their lead information, content preferences, industry, company size, and opt-in for marketing and newsletter updates. The form collects user data to ensure proper content delivery and to tailor marketing efforts. This form does not allow duplicate submissions. 
-
-</thinking>
-
 # Content Download Form - Help Guide
 ## Purpose
 The purpose of this form is to provide users with a straightforward way to request free content from the company. By filling out this form, users can specify their contact information, content preferences, and marketing preferences, ensuring they receive the right material and stay updated on marketing efforts.

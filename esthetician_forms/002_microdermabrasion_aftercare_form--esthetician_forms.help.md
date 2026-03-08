@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, the purpose of this form should be to gather information from customers about their microdermabrasion aftercare. The form's design should ensure that users understand what is expected of them and what information is required to be provided. This will help in reducing errors and increasing the efficiency of the form completion process. Before starting to fill out the form, ensure that you are not duplicating the process by checking if you have filled out the form before. If you have any issues, please contact [support email/number] for assistance.</thinking>
-
 # Microdermabrasion Aftercare Form - Help Guide
 ## Purpose
 The Microdermabrasion Aftercare Form is a tool used to collect information from customers about their microdermabrasion aftercare. This form will help us to provide you with the best possible aftercare advice based on your skin type, microdermabrasion products used, frequency, and any adverse effects experienced.

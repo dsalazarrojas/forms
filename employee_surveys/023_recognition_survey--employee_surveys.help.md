@@ -1,11 +1,3 @@
-<thinking>
-
-To create a help guide for the "recognition_survey" form, we need to understand the purpose and context in which it is being used. Let's assume it is used to recognize and appreciate employee contributions, efforts, or achievements within an organization. The form is likely used to gather information and feedback from employees on their experiences with the recognition program, and the responses will be used to improve the program and provide recognition to deserving employees.
-
-The form is divided into several sections, each focusing on different aspects of the recognition program. To ensure that the form is completed correctly, we need to break down each field and explain its purpose and requirements clearly.
-
-</thinking>
-
 # recognition_survey - Help Guide
 ## Purpose
 The "recognition_survey" form is used to gather feedback and information from employees on their experiences with the recognition program. This form helps the organization understand how the program is functioning and how to improve it. Please take a few minutes to answer the questions below.

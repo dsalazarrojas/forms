@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information for creating customized Fathers Day DIY Kits for customers. To avoid duplication, please make sure that the customer information is not already in our system before proceeding. 
-
-The form has multiple fields that require input from the customer to complete their order. Please fill out the fields accurately to ensure that their customized kit is created correctly.
-
-</thinking>
-
 # Fathers Day DIY Kits Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for creating customized Fathers Day DIY Kits. Please fill out the form accurately to ensure that their kit is created correctly.

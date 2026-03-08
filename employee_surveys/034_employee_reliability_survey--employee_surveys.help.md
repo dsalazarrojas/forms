@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the Employee Reliability Survey is clear and easy to understand for end users. The purpose of this form is to collect feedback from employees on the reliability of their colleagues, which is essential for maintaining a positive and productive work environment. This survey will help us understand how employees perceive their coworkers' trustworthiness, ability to handle merchandise, equipment, and money, as well as their attitude towards handling assigned tools. It's crucial to have a good understanding of this data to make informed decisions about team building and resource allocation. We should aim to minimize duplication of effort and ensure that the information gathered is accurate and actionable.
-
-</thinking>
-
 # Employee Reliability Survey - Help Guide
 ## Purpose
 The Employee Reliability Survey is a tool used to gather feedback from employees on the reliability of their colleagues. This information will help us better understand individual and group dynamics, enabling us to make informed decisions about team building and resource allocation.

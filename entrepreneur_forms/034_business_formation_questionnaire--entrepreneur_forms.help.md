@@ -1,5 +1,3 @@
-<thinking>...This form is designed for new business founders to gather information about their business idea and formation plans. It is intended for internal use, so please do not fill out this form if you are already a registered business in our database. The form has multiple sections and fields that cover essential aspects of a business, including founder information, business concept, target market, competitive advantage, business structure, location, and financial projections. Please fill out the form accurately and thoroughly to help us better understand your business needs...</thinking>
-
 # Business Formation Questionnaire - Help Guide
 
 ## Purpose

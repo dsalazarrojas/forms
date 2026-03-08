@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide detailed information about their job application, including their main contact information, work experience, education, personal details, contact details, references, and job requirements. To avoid duplication, users should not fill out this form if they have already submitted an application for the same job position. This form is not affiliated with or endorsed by any form platform and is a public adaptation created using AI.
-</thinking>
-
 # Detailed Job Application Form - Help Guide
 ## Purpose
 The Detailed Job Application Form is a comprehensive form designed to collect detailed information from job applicants. This form helps applicants showcase their skills, experience, and qualifications for a particular job position. By filling out this form, applicants can increase their chances of being considered for the position.

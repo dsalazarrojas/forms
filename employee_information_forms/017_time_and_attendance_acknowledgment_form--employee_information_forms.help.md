@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to acknowledge their time and attendance, providing necessary information for payroll and HR purposes. It is an essential document for employees to confirm their working hours, location, and other relevant details. Before filling out this form, please ensure you have all the required information and that you are not duplicating any existing submissions. This form is designed to be completed by employees, and the information collected will be used for internal purposes only.
-</thinking>
-
 # Time And Attendance Acknowledgment Form - Help Guide
 ## Purpose
 The Time And Attendance Acknowledgment Form is used to confirm an employee's working hours, location, and other relevant details for payroll and HR purposes.

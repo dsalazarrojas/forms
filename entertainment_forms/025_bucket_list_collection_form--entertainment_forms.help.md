@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a person's bucket list, which is a list of experiences and goals they want to achieve in their lifetime. This form is designed to help gather data on a person's preferences, interests, and priorities. It's likely intended for entertainment or recreational purposes, such as creating a character profile for a fiction story or a game.
-
-To ensure the integrity of the data collected, we've double-checked that each field is properly categorized and labeled to avoid confusion and duplication. We've also made sure that the form structure and field types are consistent and easy to understand.
-
-</thinking>
-
 # Bucket List Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a person's bucket list, which is a list of experiences and goals they want to achieve in their lifetime.

@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is likely to analyze a drama character's traits, motivations, and relevance to the theme of a piece of drama, such as a play, movie, or book. This form is probably used for academic or educational purposes, allowing users to assess the character's strengths, weaknesses, and potential impact on the story. This analysis is likely relevant for students, teachers, or researchers studying drama or literary analysis, and is likely not intended for general users. To avoid duplication of effort, users should not fill out this form unless they are genuinely analyzing a drama character and intend to use the analysis for study or research purposes.</thinking>
-
 # Drama Character Analysis Survey - Help Guide
 ## Purpose
 This form is designed to help you analyze a drama character's traits, motivations, and relevance to the theme of a piece of drama. It is intended for academic or educational purposes, such as studying drama or literary analysis.

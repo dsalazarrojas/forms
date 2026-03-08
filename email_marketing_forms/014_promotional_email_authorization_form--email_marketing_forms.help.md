@@ -1,7 +1,3 @@
-<thinking>
-The "promotional-email-authorization-form" is a form used to collect data from customers for email marketing purposes. It is intended to be used to obtain explicit consent from customers to send promotional emails to them. By using this form, we can ensure that customers have given their consent before sending them emails, which helps in maintaining a positive and compliant relationship with them. To prevent duplicate submissions, we will not allow customers to submit the form multiple times.
-</thinking>
-
 # Promotional-Email-Authorization-Form - Help Guide
 ## Purpose
 The promotional-email-authorization-form is a form used to collect data from customers for email marketing purposes. It is intended to be used to obtain explicit consent from customers to send promotional emails to them.

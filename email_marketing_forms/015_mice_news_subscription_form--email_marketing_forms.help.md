@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 We will be using the MICE News Subscription Form to collect information from users who are interested in staying updated on our news and events. This form will help us keep in touch with users who have shown interest in specific topics.
 
 Before filling out the form, please note that the information collected will be used solely for internal purposes and will not be shared with any third parties.

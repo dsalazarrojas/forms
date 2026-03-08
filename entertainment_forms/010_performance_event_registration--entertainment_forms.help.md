@@ -1,14 +1,3 @@
-<thinking>
-This form is used to register a performance event, such as a concert, dance recital, or other performance-based event. It's likely intended for event planners to provide information about the event, including details about the performers, the venue, and the event schedule.
-
-When filling out this form, ensure that the event is not already registered by checking the internal database or event calendar. To confirm, check the "Available Date" field for duplicate events. If the event is already listed, the form will be rejected to prevent double-entry errors.
-
-The form appears to be designed to gather essential information for event planners to register their events. It may be used by event organizers, promoters, or venue managers to streamline the registration process and ensure that the necessary details are captured.
-
-The following form is intended to be a user-friendly guide to help fill out the form correctly and efficiently.
-
-</thinking>
-
 # Performance Event Registration - Help Guide
 ## Purpose
 

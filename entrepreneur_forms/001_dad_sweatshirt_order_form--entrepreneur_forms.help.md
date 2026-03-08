@@ -1,6 +1,3 @@
-<thinking> 
-The goal of this form is to allow users to place an order for a customized "Dad" sweatshirt. The form gathers information about the customer, including their name, contact details, and preferences for the sweatshirt design. The fields are designed to guide the user through the ordering process, ensuring that all necessary information is provided for a smooth and accurate order placement. This form is intended for internal use within the organization and is not designed for public access or external sharing. Please ensure that users understand the purpose and requirements of this form before proceeding with the order placement process.</thinking>
-
 # Dad Sweatshirt Order Form - Help Guide
 ## Purpose
 The purpose of this form is to place an order for a customized "Dad" sweatshirt. Please fill out the form with your information and preferences to ensure a smooth and accurate order placement process.

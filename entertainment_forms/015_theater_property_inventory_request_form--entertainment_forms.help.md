@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information about theater property inventory requests. It captures details about the request, including the requestor's name, email, and phone number, as well as the submitter's name, title, email, phone number, and department. The form also includes fields for the request type, request description, and related properties. The purpose of this form is to gather all the necessary information for the theater property inventory team to process and manage requests efficiently.
-
-The form is designed to be completed by the requestor, who is the person submitting the request, and the submitter, who is the person submitting the form on their behalf. This form is likely used in an internal process within the organization, and the information collected will be used to track and manage requests.
-
-</thinking>
-
 # Theater Property Inventory Request Form - Help Guide
 ## Purpose
 The Theater Property Inventory Request Form is used to collect information about theater property inventory requests. It helps the inventory team to gather all the necessary details for processing and managing requests efficiently.

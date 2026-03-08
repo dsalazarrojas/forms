@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a livestream broadcast license application from a user, collecting details such as the broadcast date, location, description, content type, and target audience. However, upon reviewing the form structure, I notice some fields seem to be duplicates or have unclear labels, such as "content_target_audience" which seems to be a duplicate of "content_target_audience" in "content_target_audience" field. I'll do my best to provide a clear and concise explanation of the form's purpose and each field's meaning.
-</thinking>
-
 # Livestream Broadcast License Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about a livestream broadcast license application. It gathers details such as broadcast date, location, description, content type, and target audience to process the application.

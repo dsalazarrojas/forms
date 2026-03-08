@@ -1,10 +1,3 @@
-<thinking>
-The knowledge transfer offboarding form is intended to collect information about an employee's departure from the company. This form is used to document the details of the employee's offboarding process, including their reasons for leaving, the knowledge transfer date, and the status of the knowledge transfer process.
-
-To prevent duplication of effort, please ensure that the employee's information is not already recorded in the system before completing this form. If the employee's information is already present, please do not create a new record. If you are unsure, please consult with the relevant personnel.
-
-</thinking>
-
 # knowledge_transfer_offboarding_form - Help Guide
 ## Purpose
 The knowledge transfer offboarding form is used to document the details of an employee's departure from the company, including their reasons for leaving, the knowledge transfer date, and the status of the knowledge transfer process.

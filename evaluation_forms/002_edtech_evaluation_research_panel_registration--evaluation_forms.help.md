@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals interested in joining the EdTech Evaluation Research Panel. The panel is a group of experts who provide insights and guidance on the evaluation of educational technology products and services. By filling out this form, you will be able to register your interest in joining the panel and provide essential details about yourself and your areas of expertise.
-This form is for internal use within the organization, and the information collected will be reviewed and verified to ensure that the panel members are relevant and suitable for the EdTech Evaluation Research Panel.
-The form is split into multiple fields, and each field is designed to collect specific information about you as an individual. Please make sure to fill out all the required fields to ensure that your application is complete.
-</thinking>
-
 # EdTech Evaluation Research Panel Registration - Help Guide
 ## Purpose
 The EdTech Evaluation Research Panel is a group of experts who provide insights and guidance on the evaluation of educational technology products and services. By registering your interest in joining the panel, you will be able to contribute your expertise and participate in evaluations that shape the future of EdTech.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to record and track the remote monitoring data of a boiler. The form is used by maintenance teams to log temperature and pressure readings from the boiler system, ensuring that the equipment is properly maintained and operating within safe parameters. It's crucial for the maintenance teams to accurately report these readings to guarantee the reliability and efficiency of the boiler system.
 
 To complete this form, follow these steps:

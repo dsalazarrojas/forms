@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Power Socket Installation Request Form - Help Guide
 ## Purpose
 The Power Socket Installation Request Form is used to request the installation of a new power socket. This form is for electricians to gather the necessary information to schedule and complete the installation.

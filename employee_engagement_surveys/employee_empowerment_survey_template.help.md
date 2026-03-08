@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information on employee empowerment and engagement, aiming to create a more supportive work environment. This form will help the organization understand how employees feel about their role, decision-making power, support, and other factors influencing their sense of empowerment. It is essential to ensure that the form is not duplicated or used for other purposes.
-</thinking>
-
 # employee_empowerment_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to gather insights on employee empowerment and engagement to create a more supportive work environment.

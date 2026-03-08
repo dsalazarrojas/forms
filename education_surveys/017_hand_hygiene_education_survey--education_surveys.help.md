@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form, "Hand Hygiene Education Survey", is to gather information on an individual's or group's knowledge, attitudes, and beliefs about hand hygiene practices. This form is likely intended for educational institutions, healthcare settings, or similar environments where hand hygiene is crucial. The form seems to be designed to collect various types of data, including multiple-choice questions, free-text responses, and date/time inputs. Before filling out this form, ensure you're in the relevant environment and that the questions are applicable to your context. This form is likely meant to be completed by individuals who are familiar with the topic of hand hygiene, such as healthcare professionals or educators.
-
-</thinking>
-
 # Hand Hygiene Education Survey - Help Guide
 ## Purpose
 This form aims to collect information on your knowledge, attitudes, and beliefs about hand hygiene practices.

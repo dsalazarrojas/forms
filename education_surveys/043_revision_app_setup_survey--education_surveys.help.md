@@ -1,5 +1,3 @@
-<thinking>...The form "Revision App Setup Survey" is designed to collect information from users for the purpose of setting up a revision app. The form is intended to gather details about the subject of the revision, the device being used, the reminder frequency, any additional feature requests, and contact information. This information will help the development team tailor the app to meet the user's specific needs...!</thinking>
-
 # Revision App Setup Survey - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to promote music artists and their work. It's intended to collect information about the artist, their music, and their promotional materials. This form should only be filled out by authorized personnel, and users are asked not to duplicate entries for the same artist.
-</thinking>
-
 # Music Promotion Form - Help Guide
 ## Purpose
 The Music Promotion Form is used to provide information about music artists and their promotional materials. It's a crucial tool for authorized personnel to efficiently collect and manage music promotion data.

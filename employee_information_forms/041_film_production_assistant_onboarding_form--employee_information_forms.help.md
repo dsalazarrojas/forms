@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the onboarding of a Film Production Assistant. It is designed to collect essential information about the individual's production assistant details, availability, acknowledgments, contact details, and other relevant information. The purpose of this form is to ensure that the production assistant has the necessary information and documents required to perform their duties effectively and safely on set. Before filling out this form, please note that it is recommended that you have all necessary documents and information ready to complete the form accurately and efficiently.
-</thinking>
-
 # Film Production Assistant Onboarding Form - Help Guide
 ## Purpose
 

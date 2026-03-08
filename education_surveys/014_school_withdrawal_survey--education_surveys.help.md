@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who are withdrawing from a school. The purpose of this form is to understand their reasons for withdrawal, which can help the school administration to identify areas of improvement and make informed decisions. The form is intended for students who are leaving the school and their responses will be kept confidential. The school administration will use the information gathered from this form to better understand the reasons for withdrawal and make changes to improve the school's policies and practices. Before completing this form, please ensure that you are providing information that is relevant to your own withdrawal experience.
-</thinking>
-
 # School Withdrawal Survey - Help Guide
 ## Purpose
 This form is designed to collect information from students who are withdrawing from a school. The purpose of this form is to understand their reasons for withdrawal, which can help the school administration to identify areas of improvement and make informed decisions.

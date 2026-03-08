@@ -1,13 +1,3 @@
-<thinking>
-
-The Workforce Planning Tool Requisition Form is designed to gather information about employee requests for job changes within the organization. This form helps in documenting the necessary details for a smooth transition process, ensuring that all stakeholders are informed and on the same page. 
-
-Before proceeding, ensure that this form is not duplicated or outdated. If a form already exists for the same purpose, please refer to that form instead. This form is intended to be a comprehensive guide for employees who need to make requests for job changes. 
-
-Please note that this form is meant to be filled out for new job requests only and not for current job openings or existing positions. If you are looking for information on current job openings, refer to the Job Openings tab in the Workforce Planning Tool.
-
-</thinking>
-
 # Workforce Planning Tool Requisition Form - Help Guide
 ## Purpose
 The Workforce Planning Tool Requisition Form is designed to collect and document information for employee requests for job changes within the organization.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from collaborators on a jingle collaboration project. This project likely involves creating custom jingles for a client. The form is used to capture details about the project's title, description, timeline, deadline, composer, contact information, and any comments or notes related to the project.
-
-To avoid duplication of effort, this form should only be filled out when a new project is initiated, and not for ongoing or follow-up projects. This form is designed to be filled out by the collaborator, and the information collected will be used for project management and tracking purposes.
-
-Please ensure that the form is filled out accurately and thoroughly to avoid any confusion or misunderstandings. If you are unsure about any of the fields, please don't hesitate to reach out to the project manager for guidance.
-
-This form should not be used for internal tracking or management of internal projects. If you are working on an internal project, please use the internal tracking template.</thinking>
-
 # Custom Jingle Collaboration Form - Help Guide
 ## Purpose
 

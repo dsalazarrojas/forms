@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of the "Creative Educators Network Registration Form" is to collect information from creative educators to help them connect with each other, access resources, and find opportunities for collaborations, mentorship, and networking. This form is designed to be user-friendly, easy to complete, and adaptable to the diverse needs of its users. Before proceeding, please note that:
-
-- This form is not affiliated with, endorsed by, or derived from any proprietary form platforms.
-- It is an original adaptation using public survey metadata, and you are free to use, modify, and share it under CC BY 4.0.
-- Please provide accurate and detailed information to help us better understand your needs and provide you with the best possible services.
-
-</thinking>
-
 # Creative Educators Network Registration Form - Help Guide
 ## Purpose
 The "Creative Educators Network Registration Form" is a tool designed to help creative educators connect with each other, access resources, and find opportunities for collaborations, mentorship, and networking. This form helps us understand your education background, teaching experience, and preferences to provide you with tailored support.

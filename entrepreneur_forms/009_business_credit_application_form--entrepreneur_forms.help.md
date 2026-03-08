@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for business owners to apply for credit to be used for their business needs. By filling out this form, applicants will be able to provide essential information about themselves and their business. The form is divided into sections to make it easier to navigate and understand. Please ensure that the information provided is accurate and up-to-date to avoid any issues with the credit application process.
-</thinking>
-
 # Business Credit Application Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Business Credit Application Form. The form is used to gather essential information about the business owner and their business to help us assess their creditworthiness.

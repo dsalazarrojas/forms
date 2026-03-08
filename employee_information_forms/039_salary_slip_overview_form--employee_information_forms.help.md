@@ -1,14 +1,3 @@
-<thinking>
-This form is used to provide an overview of an employee's salary slip, which is a document that outlines the employee's salary details. The form aims to capture essential information about the employee, their job title, department, pay period, and other relevant details. To ensure accuracy and relevance, please review the form's content to ensure it aligns with your needs.
-
-This form is designed to be used by HR or payroll personnel to quickly gather and view salary information. If you are not authorized to access or complete this form, please refer to your organization's access permissions or contact your HR department for further assistance.
-
-Please note that this form is part of a larger system, and any changes made to this form may affect other related forms or processes. To avoid duplication or inconsistencies, ensure that this form is completed accurately and in accordance with organizational policies.
-
-Before completing this form, ensure that you have the necessary information and authorization to do so. If you are unsure about any field or requirement, please consult with your HR or payroll department for clarification.
-
-</thinking>
-
 # Salary Slip Overview Form - Help Guide
 
 ## Purpose

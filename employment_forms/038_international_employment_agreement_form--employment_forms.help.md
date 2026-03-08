@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the International Employment Agreement Form is properly utilized and to avoid duplication of efforts, please review this guide carefully before filling out the form. This form is designed to capture essential details about a job, including job title, description, location, and employment status. It is crucial that all fields are filled out accurately and completely to ensure that the information is up-to-date and reliable. Please note that some fields may be optional, but it is still necessary to fill them out when applicable.
-</thinking>
-
 # International Employment Agreement Form - Help Guide
 ## Purpose
 The International Employment Agreement Form is a document used to capture and record essential details about a job, including job title, description, location, and employment status. This form is intended to facilitate clear communication and ensure that all parties involved in the employment process have access to the necessary information.

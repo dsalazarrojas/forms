@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for artists, vendors, volunteers, and speakers to register for an art festival. It is designed to collect contact information, role, and other relevant details for festival organization and communication. This form helps festival organizers ensure accurate participant information and provide better service to attendees.
-</thinking>
-
 # Art Festival Registration Form - Help Guide
 ## Purpose
 The Art Festival Registration Form is a tool used by artists, vendors, volunteers, and speakers to register for a festival. By filling out this form, participants will provide necessary contact and logistical information to the festival organizers, which will be used for communication, booth allocation, and performance scheduling purposes.

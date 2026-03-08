@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the performance of the company's payroll system from the perspective of employees and other stakeholders. The survey aims to gather feedback on various aspects of the payroll process, including its performance, functionality, user satisfaction, and efficiency. This form is intended to be completed by employees to provide their honest opinion on how well the payroll system is serving their needs. By analyzing the responses, the company can identify areas of improvement and make data-driven decisions to optimize the payroll system. The form is not meant to be a formal evaluation or audit, but rather a tool for gathering feedback and suggestions from employees.
-</thinking>
-
 # Payroll System Performance Survey - Help Guide
 ## Purpose
 The Payroll System Performance Survey is designed to gather feedback from employees on the company's payroll system, its performance, functionality, user satisfaction, and efficiency. By completing this survey, you will help the company to better understand your needs and make informed decisions to optimize the payroll system.

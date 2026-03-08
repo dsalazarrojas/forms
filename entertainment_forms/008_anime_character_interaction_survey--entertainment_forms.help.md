@@ -1,9 +1,3 @@
-<thinking>
-We need to create a form that captures information about user interactions with anime characters.
-The goal of this form is to gather data on how often users interact with anime characters and how they prefer to engage with them.
-This form should not be completed if the user is under 18 years old, as it involves discussions or roleplaying with fictional characters. The form should not be completed if the user has already submitted the form before. 
-</thinking>
-
 # Anime Character Interaction Survey - Help Guide
 ## Purpose
 

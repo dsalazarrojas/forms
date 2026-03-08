@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll provide a clear and concise user-facing help guide for the provided form schema. This guide will help employees understand the purpose of the form, how to complete it, and what each field means.</thinking>
-
 # Salary Certificate Template - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are interested in becoming insurance agents. The form is likely used for internal HR or recruitment purposes to assess the qualifications and experience of potential candidates. The form is not intended for external use or public submission. This form should only be filled out by internal users or users with authorized access.
-</thinking>
-
 # Insurance Agent Employment Form - Help Guide
 ## Purpose
 The Insurance Agent Employment Form is designed to collect relevant information from individuals interested in joining our insurance agency as agents. This form helps us understand your background, qualifications, and experience to assess your fit for the role.

@@ -1,10 +1,3 @@
-<thinking>
-The Employment Form is intended for use by employees to provide information about their employment details. This form is typically used for internal record-keeping and reporting purposes, and its data might be used to populate other systems or reports. If you are not an employee, or if you already completed this form, you do not need to proceed.
-
-This form is designed to collect information from employees about their employment details, such as workplace location, work date, job title, and employment type, among other fields. Each field in this form has specific instructions and requirements for completion. Please read through this help guide carefully to understand the expectations for each field.
-
-</thinking>
-
 # Employment Form - Help Guide
 ## Purpose
 The Employment Form is a form for employees to provide information about their employment details for internal record-keeping and reporting purposes.

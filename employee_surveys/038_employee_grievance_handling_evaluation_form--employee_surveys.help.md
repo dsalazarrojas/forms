@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate grievances, this form is only accessible to authorized personnel. This form should not be used for anonymous complaints. The purpose of this form is to help managers evaluate and resolve employee grievances in a structured and thorough manner. The form is designed to be completed by employees after they have received a resolution to their issue, and it helps track progress and satisfaction throughout the grievance process.
-</thinking>
-
 # Employee Grievance Handling Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate and track the handling of employee grievances in the company.

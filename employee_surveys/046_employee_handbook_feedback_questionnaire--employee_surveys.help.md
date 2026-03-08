@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather feedback from employees on the clarity and effectiveness of the company's employee handbook. The form is designed to collect information on whether employees have read and understood the handbook, how clear the communication is, and if they have any feedback or suggestions. This form is intended to be completed by employees to help the company improve the employee handbook and provide better communication.
-
-</thinking>
-
 # Employee Handbook Feedback Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees on the clarity and effectiveness of the company's employee handbook.

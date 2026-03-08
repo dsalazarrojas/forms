@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from new employees who will be working as data analysts in a lab setting. It aims to ensure that all necessary details are captured for administrative and operational purposes, such as setting up their role and providing any internal acknowledgment or lab-specific information.
-It's crucial to ensure that the form is not duplicated, and that the information provided is accurate. The form should only be filled out once by each new employee.
-</thinking>
-
 # Lab Data Analyst Onboarding Form - Help Guide
 ## Purpose
 This form is a required part of the onboarding process for new employees joining the lab as data analysts. It helps us understand their role, lab-related details, and any necessary internal acknowledgments.

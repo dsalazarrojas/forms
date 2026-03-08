@@ -1,6 +1,3 @@
-<thinking>
-This is a guide for the "Digital Vs. Print Reader Preferences Questionnaire" form. This form is designed to collect information about an individual's reading habits, format preferences, and device usage to help inform decisions on content creation and distribution. Before proceeding, please ensure you have not completed this questionnaire previously. This guide will walk you through each question and provide an explanation of what each field means.</thinking>
-
 # Digital Vs. Print Reader Preferences Questionnaire - Help Guide
 
 ## Purpose

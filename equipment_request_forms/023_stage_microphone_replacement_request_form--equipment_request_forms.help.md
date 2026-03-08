@@ -1,12 +1,3 @@
-<thinking>
-To ensure accurate and efficient completion of this form, please take a moment to read this guide carefully before proceeding.
-
-The "Stage Microphone Replacement Request Form" is designed to facilitate the reporting and resolution of microphone issues affecting stage performances. This form is intended for stage crew members, technicians, or other staff to request assistance with microphone replacement due to technical difficulties or malfunctions. 
-
-Before filling out this form, please check if you have already submitted a request with the same issue and description. Duplicate requests may delay resolution and cause confusion among team members.
-
-</thinking>
-
 # Stage Microphone Replacement Request Form - Help Guide
 ## Purpose
 The Stage Microphone Replacement Request Form is a tool for reporting and addressing stage microphone issues that require replacement.

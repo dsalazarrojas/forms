@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to complete a quiz about shaft design, specifically evaluating their understanding of key concepts and calculations related to shaft design. The form's purpose is to assess the user's knowledge and identify areas where they may need further training or education. The form will guide users through a series of questions, including multiple-choice options and calculations, to collect relevant information about their understanding of shaft design concepts and calculations. 
-</thinking>
-
 # Shaft Design Quiz - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect essential information about an employee from an HR or personnel department. The form has the following fields for employee details such as employee name, job title, department, date hired, employee ID, manager name, employee email, job phone, employee address, manager phone, manager email, emergency contact, emergency address, and emergency phone.
-
-To avoid any overlap or duplication of effort, the form is organized into a logical structure, with clear labels and a straightforward layout, allowing users to quickly and easily gather the necessary information.
-
-The form includes fields for text, date, email, and multiple selection inputs, which are all well-defined and user-friendly.
-
-Before proceeding, ensure that the necessary data is complete and accurate to prevent any errors or delays in processing the form.
-
-</thinking>
-
 # Employee Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about an employee from an HR or personnel department.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to guide users through a valve inspection process, ensuring that each component of the valve is thoroughly examined and documented. The form's purpose is to standardize the inspection process, ensuring that all relevant details are captured and that users can track and compare inspection data over time.
-
-Form fields are carefully crafted to cover the entire inspection scope, from the condition of the valve to the presence of leaks, the date and time of inspection, and the collection of photo evidence. Each field plays a crucial role in providing a comprehensive overview of the inspection process, allowing users to make informed decisions regarding maintenance and repairs.
-
-The form is designed to be flexible, allowing users to add notes and photo evidence as needed, and to assign the inspection report to a specific individual or team member for follow-up actions. This form is an essential tool for equipment maintenance and upkeep, ensuring that valves are regularly inspected and any issues are promptly addressed.
-
-</thinking>
-
 # valve_inspection_checklist - Help Guide
 ## Purpose
 The valve_inspection_checklist form is designed to standardize the inspection process for valves, ensuring that all relevant details are captured and compared over time.

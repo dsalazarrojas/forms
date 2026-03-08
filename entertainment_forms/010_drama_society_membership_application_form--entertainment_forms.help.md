@@ -1,24 +1,3 @@
-<thinking>
-This help guide will guide users through the process of completing the drama society membership application form. 
-
-Before creating this form, it's essential to verify that you are eligible to join the drama society. Please ensure that you have the correct contact information for the drama society you're interested in joining. 
-
-To begin with, the form is divided into several sections. The first section is for personal information, where you will be asked to provide your first and last name, email address, and phone number. 
-
-The next section is for interests, where you can select up to one interest from the provided options: Acting, Singing, or Dancing. 
-
-After that, you will be asked to provide membership fees, which is a required field. 
-
-Following that, you will be asked to select the type of drama society you are interested in joining: Community Theater, Professional Theater, or School Drama Club. 
-
-The form also has additional fields for extra details about the drama society you're applying to, including the drama society name, description, address, contact person, website, and social media links. 
-
-Please note that some fields are not required, such as the message field, additional info, and the extra social media links. 
-
-It is crucial to ensure that all provided information is accurate and up-to-date to avoid any processing issues. 
-
-</thinking>
-
 # drama_society_membership_application_form - Help Guide
 ## Purpose
 The drama society membership application form is designed to collect personal and society information from potential members. This form helps the drama society to understand the applicant's interests, skills, and background, ensuring a proper fit for the applicant and the society.

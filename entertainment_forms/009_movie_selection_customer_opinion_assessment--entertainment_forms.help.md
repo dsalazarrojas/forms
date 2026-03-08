@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge customer opinions on their movie selections, gathering information on their ratings, comments, preferred genres, and contact information. The purpose of the form is to provide valuable insights to the entertainment company on customer preferences, helping them to tailor their content offerings and services better. This form will not collect any personally identifiable information (PII) and will be used for internal business purposes only.
-</thinking>
-
 # Movie Selection Customer Opinion Assessment - Help Guide
 ## Purpose
 The Movie Selection Customer Opinion Assessment form is used to collect customer opinions and feedback on their movie selections, helping the entertainment company to better understand customer preferences and create content that caters to their needs.

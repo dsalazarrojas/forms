@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "leadership_empathy_index_survey" form. After considering the purpose and context of this form, I'll provide the following guide in Markdown format.</thinking>
-
 # Leadership Empathy Index Survey - Help Guide
 ## Purpose
 The Leadership Empathy Index Survey is designed to assess leadership teams' ability to understand and respond to the needs and concerns of their team members. It helps leaders develop empathy and improve their relationships with team members.

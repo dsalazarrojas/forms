@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about your experiences and habits regarding educational technology. This includes how often you use digital tools, which tools you use most frequently, and your preferred method of communication. This information will help us better understand your interaction with educational technology, which will aid in making our services more accessible, user-friendly, and effective. Please ensure that you have the necessary permissions to complete this form, such as access to the required information or the approval from your department or institution.
 
 # Educational Technology Usability Survey - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from a customer to create a new cable TV account. It collects personal details, business information, service address, installation preferences, and payment method. This guide will walk the user through each field, ensuring they understand what is required for a seamless and accurate submission.
-</thinking>
-
 # Cable TV Registration Online Application Form - Help Guide
 ## Purpose
 The purpose of this form is to create a new cable TV account. Please fill out the form with accurate and complete information to ensure a successful registration.

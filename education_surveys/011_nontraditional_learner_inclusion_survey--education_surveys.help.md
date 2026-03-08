@@ -1,15 +1,3 @@
-<thinking>
-We need to ensure that this form is used by the right people and that the responses are not duplicated. This form is designed to collect data on non-traditional learners' experiences with campus climate, resources, and support services. Non-traditional learners are individuals who do not fit the traditional mold of full-time students, such as part-time students, adult learners, or students who have been away from education for a while. To ensure that only relevant and accurate data is collected, we need to ensure that only non-traditional learners are completing this survey.
-
-To do this, we will:
-
-* Only provide access to this form to non-traditional learners who have been identified as such in our database.
-* Use data from other sources to verify that the respondents are non-traditional learners.
-* Add a check to see if the respondent has already completed this survey to prevent duplication.
-
-This ensures that we get accurate and relevant data from the right individuals.
-</thinking>
-
 # Nontraditional Learner Inclusion Survey - Help Guide
 ## Purpose
 The Nontraditional Learner Inclusion Survey is a tool to collect data on the experiences of non-traditional learners on campus. This survey will help us understand their experiences with campus climate, resources, and support services.

@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect information about individuals who have completed their education during the post-war era (approximately 1945-1980). The purpose of this form is to gather demographic data on participants' personal and professional backgrounds, including their education, employment, and family information. This data will be used for research purposes to analyze trends and patterns among individuals from this era.
-
-To ensure that the data collected is accurate and relevant, it's essential to carefully complete each field. Please note that this form is not intended for individuals who did not complete their education during the post-war era.
-
-Before starting, it's crucial to check that you have not previously filled out this form. If you have any questions or concerns, please don't hesitate to ask.
-
-</thinking>
-
 # Post War Era Analysis Survey - Help Guide
 ## Purpose
 

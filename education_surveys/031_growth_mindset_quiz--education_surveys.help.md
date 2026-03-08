@@ -1,20 +1,3 @@
-<thinking>
-  This form is designed to assess an individual's growth mindset, self-awareness, and self-regulation skills. 
-  The purpose of the Growth Mindset Quiz is to help individuals understand their level of self-awareness, self-regulation, and personal growth. 
-  To avoid duplication and ensure accurate results, it is recommended that users complete the form only once. 
-  If you have already completed this form, please do not attempt to submit again. 
-  Please answer each question honestly and to the best of your ability. 
-  The form is divided into two sections: introduction and questions. 
-  The introduction provides a brief overview of the growth mindset concept. 
-  The questions assess the respondent's level of self-awareness, self-regulation, and personal growth in various areas, including motivation, self-control, resilience, growth mindset, success, self-reflection, self-mastery, self-motivation, self-control awareness, self-regulation, self-confidence, self-resilience, self-adaptability, self-openness, self-authoritiveness, self-consistency, self-pruficiency, self-advancing, self-advancement, self-progress, self-growth, self-expansion, and self-improvement.
-  This form is intended for entertainment purposes only and should not be used as a professional psychological evaluation or assessment tool.
-  Please note that the questions are designed to be answered subjectively, and the answers are not meant to be taken as a definitive measure of the respondent's abilities or qualities.
-  The form is not affiliated with, endorsed by, or derived from any form platform.
-  This form was created using only public survey topic metadata and is an original adaptation.
-  Released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it just give credit.
-  Contact: form@gic.mx
-</thinking>
-
 # Growth Mindset Quiz - Help Guide
 ## Purpose
 The Growth Mindset Quiz is a 25-question survey designed to measure an individual's growth mindset, self-awareness, and self-regulation skills. 

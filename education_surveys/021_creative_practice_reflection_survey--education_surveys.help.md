@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback and reflection from educators and project participants on the creative practice being conducted in the project. It is meant to be completed after the project has been completed, and it's essential to provide a thorough and honest evaluation of the project's progress, goals, and outcomes.
-
-To determine if this form is being filled out by the right person, please ensure that you are an educator or project participant directly involved in the project. If you're unsure, please contact your project lead or coordinator for clarification.
-
-Please note that the form will ask for information on various aspects of the project, including feedback, insights, and goals. Some fields are optional, and it's not necessary to fill them out if you're not sure or don't have the information. However, the more information you provide, the more valuable it will be for the project team.
-
-</thinking>
-
 # Creative Practice Reflection Survey - Help Guide
 ## Purpose
 The Creative Practice Reflection Survey is designed to collect feedback and reflection from educators and project participants on the creative practice being conducted in the project. This form is meant to be completed after the project has been completed, and it's essential to provide a thorough and honest evaluation of the project's progress, goals, and outcomes.

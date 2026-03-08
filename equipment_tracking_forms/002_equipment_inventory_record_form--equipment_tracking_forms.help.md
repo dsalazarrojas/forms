@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to record and track equipment inventory in an organization. 
-It is meant to be used by personnel who have access to the equipment and need to update its status, location, and other relevant details. 
-Before proceeding, please ensure you have the correct permissions and authorization to access this form. 
-If you are unsure, contact your supervisor or HR department for clarification. 
-This form is intended to prevent duplication of effort and ensure accurate and up-to-date information. 
-Before submitting, double-check that all required fields are filled out accurately. 
-This form is meant for equipment that belongs to the organization. 
-Please fill out this form for each piece of equipment that you have access to.
-</thinking>
-
 # Equipment Inventory Record Form - Help Guide
 
 ## Purpose

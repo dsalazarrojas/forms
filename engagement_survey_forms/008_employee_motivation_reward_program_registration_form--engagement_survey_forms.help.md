@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register employees for the motivation and reward program. This program aims to boost employee morale and motivation by recognizing and rewarding their achievements. Before completing the form, please ensure that you have the necessary permissions and approvals from your manager and HR department. This form should not be filled out for employees who are not eligible for the program or have already registered for it. Please review the form carefully to ensure that you are eligible and have all required information before submitting it.
-</thinking>
-
 # Employee Motivation Reward Program Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register employees for the motivation and reward program. The program aims to boost employee morale and motivation by recognizing and rewarding their achievements.

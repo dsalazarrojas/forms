@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather user feedback and assess their engagement with a new feature. It is intended to be filled out by users after experiencing the feature, and is used to inform product development and improvement decisions. The form is part of the company's product feedback process, and is meant to ensure that user voices are heard and their needs are addressed. This form will help us understand how users feel about the new feature, what they like or dislike about it, and how we can improve it based on their feedback.
-</thinking>
-
 # New Feature User Engagement Assessment - Help Guide
 ## Purpose
 This form is designed to gather user feedback and assess their engagement with a new feature. It is intended to be filled out by users after experiencing the feature, and is used to inform product development and improvement decisions.

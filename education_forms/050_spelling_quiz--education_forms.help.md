@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help students of different grade levels practice their spelling skills. The Spelling Quiz form allows them to take a quiz on words of different levels of difficulty. The form requires students to select their grade level, choose words related to their grade level, and submit their score at the end of the quiz. The form also collects student name and any other optional information. The word selection options are not explicitly stated, so I will provide a brief explanation of how to complete this field.
-</thinking>
-
 # Spelling Quiz - Help Guide
 
 ## Purpose

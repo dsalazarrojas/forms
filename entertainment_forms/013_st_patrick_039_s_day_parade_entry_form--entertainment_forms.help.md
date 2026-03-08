@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # st_patricks_day_parade_entry_form - Help Guide
 ## Purpose
 The st_patricks_day_parade_entry_form is a form designed for participants and performers to register for the St. Patrick's Day Parade. This form gathers essential information about the participant/performer, parade details, sponsor information, and other relevant details. Completing this form accurately and thoroughly will ensure a successful entry experience.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for individuals to register their hunter education information for a specific hunter education program. The form is used to capture personal details such as name, date of birth, phone number, and email. It also asks for optional information such as hunter number and certification details. This form is likely used by state wildlife departments or hunting organizations to manage hunter education programs.
-To prevent duplicate submissions, users are not allowed to submit the form multiple times. This form will check for existing records before accepting new submissions.
-</thinking>
-
 # hunter_education_registration_form - Help Guide
 ## Purpose
 The hunter education registration form is used to collect information from individuals who have completed a hunter education course. This form is required for hunter education program management and is used to verify completion status.

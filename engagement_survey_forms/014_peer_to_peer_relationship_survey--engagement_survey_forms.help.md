@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about your relationship with someone else, likely a romantic partner or close friend. It's meant to help you reflect on the dynamics of your connection, including how often you see and communicate with each other, the level of trust and conflict you experience, and the emotional intimacy of your relationship. This form is likely used for personal or professional development, research, or assessment purposes.
-To prevent duplication, please only fill out this survey once and for the correct relationship.
-</thinking>
-
 # Peer To Peer Relationship Survey - Help Guide
 ## Purpose
 This survey is designed to help you reflect on your relationship with someone else and gather information about your connection with them.

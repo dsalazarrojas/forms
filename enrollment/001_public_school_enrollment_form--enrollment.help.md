@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public School Enrollment Form - Help Guide
 
 ## Purpose

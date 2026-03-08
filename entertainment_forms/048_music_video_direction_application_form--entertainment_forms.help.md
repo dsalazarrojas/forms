@@ -1,12 +1,3 @@
-<thinking>
-We're designing a form that allows applicants to apply for music video director positions, and we want to ensure that the form is used correctly. Before we proceed, we need to double-check that this form is indeed for music video director applications and not for any other type of form that might be a duplicate. Let's review the fields to confirm.
-
-This form is meant to gather information from applicants who are interested in working as music video directors. The form will collect details about the applicant's personal contact information, work experience, and creative portfolio. To complete the form successfully, applicants will need to provide accurate and relevant information about themselves.
-
-Let's review each field to ensure we understand its purpose and how it contributes to the overall application process.
-
-</thinking>
-
 # Music Video Direction Application Form - Help Guide
 ## Purpose
 This form is for applicants to apply for music video director positions. It collects personal contact information, work experience, and creative portfolio to assess the applicant's suitability for the role.

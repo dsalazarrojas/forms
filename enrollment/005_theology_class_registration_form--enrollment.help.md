@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for the registration of students to a theology class. 
-It's a simple form with only a few required fields. 
-We will check if you're already registered in our class. 
-Please, only fill this form once per person. 
-We will be using the information you provide to create a list of registered students.
-</thinking>
-
 # Theology Class Registration Form - Help Guide
 ## Purpose
 This form is for students to register for a theology class. It will help us create a list of registered students for the class.

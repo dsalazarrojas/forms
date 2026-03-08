@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about an employee's leadership skills development needs. It is crucial to ensure that the form is completed by individuals who are directly involved in the leadership development process. To guarantee the accuracy and completeness of the data collected, it is essential to review the form's purpose and relevance to the individual's position and role within the organization before proceeding.
-</thinking>
-
 # leadership_skill_development_needs_survey - Help Guide
 ## Purpose
 This form is designed to help employees identify their leadership skills development needs. It is meant to be completed by leaders or individuals who are part of the leadership development program. This form will help to understand their current leadership skills, areas where they need to improve, and their preferences for training and coaching.

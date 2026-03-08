@@ -1,13 +1,3 @@
-<thinking>
-We're assuming the form is designed for a startup pitch judging platform, where users (entrepreneurs) can register to provide their pitch and receive feedback from judges. 
-The form collects information about the user's personal details, expertise, availability, and other relevant information. However, to ensure that only legitimate and unique pitches are submitted, the form likely aims to prevent duplication and non-genuine submissions by checking for duplicate email addresses or phone numbers.
-
-To complete this form, users must fill in their required fields, which are marked as such. The available fields allow users to provide more optional information about their expertise, availability, and other preferences.
-
-This form is likely to be used for internal purposes within an organization or platform, possibly for a judging competition or evaluation process.
-
-</thinking>
-
 # Startup Pitch Judge Registration - Help Guide
 ## Purpose
 This form is designed for startup pitches to be judged by registered judges. By providing the following information, you'll be able to participate in a judging round and receive feedback on your startup pitch.

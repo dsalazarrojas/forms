@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback from students on the modules they have taken. The purpose of this form is to help instructors and module developers understand the effectiveness and areas for improvement of their modules. Please note that you are not required to fill out this form if you have already provided feedback in the past.
-
-Before starting, make sure you have taken the module and have something to reflect on. This form is intended for students who have completed the module and are looking back on their experience.
-
-Please complete this form by answering the questions as honestly as possible, and provide specific examples or details when possible. Your feedback is invaluable in helping us improve our modules and provide better training experiences for everyone.
-
-</thinking>
-
 # Module Reflection Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on modules that you have taken, allowing us to improve and refine them for better learning experiences.

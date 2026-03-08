@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect data on the library's organizational structure, including its type, staff size, roles, management structure, administrative structure, technology usage, services offered, operating hours, and funding. The form may help librarians and library administrators to better understand the organizational complexities of their library system, identify areas for improvement, and make informed decisions about resource allocation and development. It may also be used to compare and contrast different library systems. To ensure the form's output is useful, it's crucial to fill it out accurately and thoroughly.
-</thinking>
-
 # Library Organization Structure Survey - Help Guide
 ## Purpose
 This form helps gather data about your library's organizational structure. Your responses will assist in better understanding the complexities of your library system and inform decisions about resource allocation and development.

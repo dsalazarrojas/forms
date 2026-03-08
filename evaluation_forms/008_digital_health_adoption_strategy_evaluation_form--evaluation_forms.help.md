@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate an organization's digital health adoption strategy. This form is intended to be completed by stakeholders who are familiar with the organization's current state of digital health adoption and are looking to assess its effectiveness and areas for improvement. The form is divided into several sections that cover different aspects of digital health adoption, including its current state, challenges, benefits, and future plans.
-
-Before completing this form, please ensure that you have a good understanding of the organization's digital health adoption strategy and are familiar with the relevant terms and concepts. If you are unsure about any of the questions or fields, please ask for clarification before proceeding.
-
-To avoid duplication of effort, please do not complete this form if you have already completed a similar form in the past or if you are not authorized to complete this form.
-
-</thinking>
-
 # Digital Health Adoption Strategy Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the effectiveness and areas for improvement of the organization's digital health adoption strategy. It is intended to be completed by stakeholders who are familiar with the organization's current state of digital health adoption.

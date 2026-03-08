@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the Executive Role Employment Form. Before filling out this form, please take a moment to ensure you're familiar with its purpose and requirements.
-This form is intended to collect application information from executives seeking employment. It's crucial to fill it out carefully, as it will be reviewed internally to assess your qualifications and potential fit for a role.
-Please note that this form is not to be used for duplicate applications or for positions that have already been filled. If you're unsure, please reach out to the contact person listed on the job posting to confirm.
-</thinking>
-
 # Executive Role Employment Form - Help Guide
 ## Purpose
 The Executive Role Employment Form is designed to gather essential information from executives interested in exploring new opportunities. Completing this form will help us assess your qualifications and potential fit for a position that suits your skills and experience.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dance_classes_registration - Help Guide
 ## Purpose
 This form is designed to collect information from students registering for a dance class. It is intended to be completed by students who want to enroll in a dance class and provide necessary details for the instructor and administration.

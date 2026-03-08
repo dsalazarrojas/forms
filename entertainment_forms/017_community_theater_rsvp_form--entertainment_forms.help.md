@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to RSVP (Respond to a Social Invitation or RSVP) for a community theater event. The form is used by the theater to gather attendee information and preferences so that they can prepare for the event. This is a one-page form that asks for basic contact and event information. It's meant to be used for a specific event and should be filled out by users in a timely manner so that the theater can accommodate their needs.
-
-</thinking>
-
 # Community Theater RSVP Form - Help Guide
 ## Purpose
 The Community Theater RSVP Form is a tool for guests to RSVP to a community theater event. Fill out this form to let us know if you can attend and make any necessary arrangements.

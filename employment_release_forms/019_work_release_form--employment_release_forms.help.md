@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to facilitate the employee's release from work, a formal process in which an employee formally indicates their decision to leave a work-related activity or employment. 
-The form typically serves as a legal document that acknowledges the employee's willingness to release the employer from any further responsibilities or obligations. The form is usually submitted by the employee themselves, and its content may be subject to certain requirements and regulations depending on local jurisdiction or company policies.
-
-To ensure accurate and compliant completion, it's essential to review the form carefully and address any questions or concerns with the relevant authorities or supervisors before submitting it. This form is designed to be completed by the employee, and the employer may request additional information or documentation to support the release.
-
-Please note that the form's content and requirements might vary based on the location, industry, or company. It is crucial to verify the accuracy and completeness of the information provided.
-
-Before proceeding, please ensure that you have the necessary authority to complete this form, and you have reviewed the relevant policies and regulations that apply to your employment.
-
-</thinking>
-
 # work_release_form - Help Guide
 ## Purpose
 The work release form is a formal document that allows an employee to indicate their intention to leave a work-related activity or employment. It serves as a legal document that acknowledges the employee's willingness to release the employer from any further responsibilities or obligations.

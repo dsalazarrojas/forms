@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a training or pre-test phase, which is likely used to gauge a trainee's readiness or performance before an actual training or assessment. This form is designed to collect relevant details such as training objectives, topics, dates, locations, and trainee information, which are essential for evaluating and improving the training process. Before starting, ensure that you have all the necessary information and that this form is not a duplicate of another similar form.
-
-</thinking>
-
 # Pre Test Phase Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about a training or pre-test phase, helping to evaluate and improve the training process.

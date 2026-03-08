@@ -1,5 +1,3 @@
-<thinking>... This form is a general-purpose report for Metro's security team to report and track incidents that occur on Metro premises. It's meant for reporting various types of incidents, including security threats, misconduct, and other incidents that need to be documented. To help the user complete the form correctly, please note that while some fields are not required, filling out as much information as possible will aid in efficient investigation and resolution of incidents. Please ensure you're reporting the incident that just occurred or is currently ongoing. If you need help or clarification on any of the fields, refer to the help guide below. Also, be aware that this form is not affiliated with or endorsed by any form platform, and it's a generated template for general use. ...</thinking>
-
 # Metro Security Report Form - Help Guide
 ## Purpose
 

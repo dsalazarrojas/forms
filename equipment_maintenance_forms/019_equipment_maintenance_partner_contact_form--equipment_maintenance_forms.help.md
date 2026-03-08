@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect contact information and details about maintenance partners for equipment maintenance. This form helps to streamline the process of maintaining communication with partners and ensures that all necessary contact information is collected for future reference. It is crucial to fill in the form accurately to avoid any potential miscommunication or missed opportunities.
-
-Before proceeding, please make sure to have the necessary information ready and that it aligns with your organization's internal policies and procedures.
-
-</thinking>
-
 # equipment_maintenance_partner_contact_form - Help Guide
 ## Purpose
 The equipment maintenance partner contact form is designed to collect contact information and details about partners for equipment maintenance. This form helps to ensure that all necessary contact information is collected for future reference and to streamline communication with partners.

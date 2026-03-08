@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # student_research_publication_consent_waiver_form - Help Guide
 ## Purpose
 The student research publication consent and waiver form is designed to obtain informed consent from students who are participating in research activities and to document their agreement to publish their research output. This form is typically used to ensure that students understand their rights and responsibilities when publishing research, and to obtain their permission to use their work in academic or commercial contexts.

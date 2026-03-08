@@ -1,7 +1,3 @@
-<thinking>
-This form is used to inspect skid steer equipment for various conditions that affect its performance and overall health. To ensure the form is completed accurately, it is recommended that the inspector has prior knowledge of the equipment's history and usage. Please note that this form should not be used for other types of equipment inspections.
-</thinking>
-
 # Skid Steer Equipment Inspection Form - Help Guide
 ## Purpose
 The Skid Steer Equipment Inspection Form is designed to assess the condition of skid steer equipment, including its general condition, tires, hydraulic pressure, hydraulic leakage, steering system, hydraulic system, oil level, oil color, engine condition, transmission condition, electrical system, electrical hazards, and other notable conditions. This form helps to identify areas that require attention and maintenance to ensure the equipment remains in good working order.

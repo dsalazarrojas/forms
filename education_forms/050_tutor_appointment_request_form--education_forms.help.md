@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students to request a tutoring session. The form is not affiliated with any form platform and is an original adaptation created using AI. The form is released under CC BY 4.0, allowing for free use, modification, and even sale, as long as credit is given. The form is intended for educational purposes and is likely to be used by schools, colleges, or universities to collect student information and schedule tutor appointments. This form is a basic template and might need to be customized based on the specific needs and requirements of the institution or organization using it.
-</thinking>
-
 # Tutor Appointment Request Form - Help Guide
 ## Purpose
 The Tutor Appointment Request Form is a simple, one-page form designed to collect basic information from students to request a tutoring session. This form is intended to be used by schools, colleges, or universities to collect student information and schedule tutor appointments.

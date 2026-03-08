@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess psychological safety at work, a critical component of employee well-being and engagement. This form is designed to gather information on various aspects of team and individual safety, including perceived safety, trust, and open communication. It is essential to understand this form's purpose and relevance to ensure accurate responses and prevent duplication of effort. Please complete this form carefully and honestly to provide valuable insights for your organization. If you have already completed this form, please disregard this prompt and proceed to review the guide below.
-</thinking>
-
 # Psychological Safety At Work Survey - Help Guide
 ## Purpose
 The Psychological Safety At Work Survey is designed to measure psychological safety, trust, and open communication among team members. It helps the organization understand the team's psychological safety climate, which is crucial for creating a healthy work environment. By providing accurate and honest responses, you contribute to the development of strategies and policies that enhance team safety and overall well-being.

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is being created to assist users in completing the "online_dance_class_registration_form" form. 
-The form is designed for users to register for a dance class, providing essential information about themselves and their preferences. 
-It should only be used for its intended purpose and not for any other use case.
-</thinking>
-
 # online_dance_class_registration_form - Help Guide
 ## Purpose
 The "online_dance_class_registration_form" is designed to gather information from users to facilitate the registration process for a dance class. 

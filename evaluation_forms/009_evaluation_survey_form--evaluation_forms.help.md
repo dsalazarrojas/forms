@@ -1,7 +1,3 @@
-<thinking>
-This form is for evaluating the quality of the educational experience. It captures information about the students' background, preferences, and thoughts on different aspects of the education system. The primary goal is to gather feedback from students on various pages of the evaluation system. This form is required for all students.
-</thinking>
-
 # Evaluation Survey Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from students on the quality of the educational experience.

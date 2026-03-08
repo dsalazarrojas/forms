@@ -1,8 +1,3 @@
-<thinking>
-The Teacher Nomination Form is used to collect information from students or colleagues about a teacher's performance and service. This form is intended for internal use within the institution and is not for public submission. Before filling out this form, please ensure that you have permission from the teacher and that the information provided is accurate and respectful. Please do not submit duplicate nominations. The form should be filled out by someone with a close relationship to the teacher, such as a student or a colleague.
-
-</thinking>
-
 # Teacher Nomination Form - Help Guide
 
 ## Purpose

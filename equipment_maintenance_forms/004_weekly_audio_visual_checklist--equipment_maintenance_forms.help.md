@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate a weekly checklist for audio-visual equipment maintenance. It's a straightforward form with fields focused on tracking issues, maintenance tasks, and signatures for equipment checks. This form is likely used in an industrial or technical setting where regular checks on audio-visual equipment are necessary to ensure optimal performance and address any potential issues. The form's layout and fields should be easy to understand and use, with clear labels and options for each field.
-The form is divided into sections, each with specific fields that cater to different aspects of the equipment's condition and maintenance. There are no complex calculations or conditional logic, making it a simple and efficient tool for users to record their findings and comments.
-</thinking>
-
 # weekly_audio_visual_checklist - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate completion of this form, please make sure you have not already filled out this form for the same collaboration or music project. If you are unsure about the form's purpose or requirements, please contact the music collaboration team.
-</thinking>
-
 # Music Collaboration Contract Request Form - Help Guide
 ## Purpose
 The Music Collaboration Contract Request Form is a crucial document for music collaborations, outlining the terms and conditions of each project. It helps ensure clarity, fairness, and respect for all parties involved in the collaboration. By filling out this form, you will be able to specify the details of your collaboration, including music license, payment terms, contract length, start and end dates, and more.

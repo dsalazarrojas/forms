@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diversity And Equity In Research Survey - Help Guide
 
 ## Purpose

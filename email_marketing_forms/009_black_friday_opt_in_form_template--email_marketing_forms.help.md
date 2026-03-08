@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture user information and preferences for a Black Friday opt-in campaign. The form is intended to be a template for users to provide their contact information, interests, and shopping behavior, with the goal of sending exclusive deals and promotional emails to those who opt-in.
-
-The form is likely to be used by a marketing team to gather data on potential customers and tailor their marketing efforts to specific interests and preferences. To ensure that the form is effective, it's essential to ensure that each field is correctly filled out and that the user's data is accurate and up-to-date.
-
-To avoid duplication of effort, it's recommended to check with the marketing team to see if a similar form is already in use or if there are any specific requirements or restrictions for this form.
-
-</thinking>
-
 # Black Friday Opt In Form Template - Help Guide
 
 ## Purpose

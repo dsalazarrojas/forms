@@ -1,26 +1,3 @@
-<thinking>
-This form is designed to help employees understand and participate in diversity programs and initiatives within the organization. The purpose of this form is to gather information on employees' awareness and participation in diversity programs, as well as their demographic background and experiences. This form will help management and HR teams identify areas for improvement and develop effective diversity programs that meet the needs of all employees.
-This form consists of several sections, each of which requires a brief explanation to ensure that employees understand its purpose and relevance. The sections are:
-* **Introduction**: A brief overview of the diversity program and its goals.
-* **Diversity Background**: A question asking if the employee has any background or experience related to diversity.
-* **Diversity Initiatives Participation**: A question asking if the employee participates in diversity initiatives.
-* **Diversity Participation Options**: A question asking for specific options related to diversity participation.
-* **Diversity Perceptions**: A question asking if the employee perceives diversity as important.
-* **Diversity Participation**: A question asking about the employee's participation in diversity activities.
-* **Demographic Background**: A question asking about the employee's demographic background.
-* **Demographic Background Options**: A question asking for specific options related to demographic background.
-* **Diversity Program Evaluation**: A question asking if the employee evaluates the diversity program positively.
-* **Diversity Program Evaluation 2**: A question asking if the employee evaluates the diversity program positively.
-* **Diversity Program Evaluation 3**: A question asking if the employee evaluates the diversity program positively.
-* **Diversity Program Improvement**: A question asking if the employee suggests ways to improve the diversity program.
-* **Demographic Background 2**: A question asking about the employee's demographic background.
-* **Demographic Background 2 2**: A question asking for specific options related to demographic background.
-* **Demographic Background 3**: A question asking about the employee's demographic background.
-* **Demographic Background 4**: A question asking about the employee's demographic background.
-* **Demographic Background 5**: A question asking about the employee's demographic background.
-* **Demographic Background 6**: A question asking about the employee's demographic background.
-</thinking>
-
 # Diversity Program Awareness Survey - Help Guide
 ## Purpose
 The Diversity Program Awareness Survey is designed to gather information on employees' awareness and participation in diversity programs, as well as their demographic background and experiences.

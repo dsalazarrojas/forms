@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees on their overall satisfaction with their role, communication with management, support for professional development, and most valued benefits. The form is a simple and efficient way to collect data and identify areas for improvement within the organization.
-</thinking>
-
 # employee_satisfaction_survey_template - Help Guide
 ## Purpose
 This form is designed to collect feedback on employee satisfaction, communication, and benefits to help identify areas for improvement within the organization.

@@ -1,7 +1,3 @@
-<thinking>
-The "environmental conservation project impact assessment" form is intended to evaluate the impact of a project on the environment. The form is designed to collect project information to assess its environmental conservation project impact. To complete this form, follow the guidelines below.
-</thinking>
-
 # environmental_conservation_project_impact_assessment - Help Guide
 ## Purpose
 This form assesses the impact of a project on the environment by collecting relevant project information.

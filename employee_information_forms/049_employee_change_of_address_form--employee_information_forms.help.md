@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to be used when an employee needs to update their address information. The form will be used to collect new address details and the reason for the move. It's essential to fill out the form accurately and completely to ensure that the update is processed correctly.
-</thinking>
-
 # Employee Change Of Address Form - Help Guide
 ## Purpose
 The Employee Change Of Address Form is used to update your address information with the company. This form is typically required when you have a change of address, such as moving to a new home or office.

@@ -1,18 +1,3 @@
-<thinking>
-The purpose of the form is to assess the condition and care needs of a patient in a hospice setting. This form likely collects information about the patient's medical condition, their current status, and any medications they are taking as well as care levels that are required.
-
-Before proceeding, please check if there is an existing form with this name and purpose, to avoid duplication. This form is intended for use in a hospice setting and may have specific requirements and fields that are not immediately apparent.
-
-Assuming this form has not been created before, please note that the fields are likely to be used to collect data for clinical use, such as patient assessment, care planning, and medication management. The form may be used by healthcare professionals, such as nurses or physicians, to evaluate and manage patient care.
-
-Before completing this form, please ensure you have the necessary permissions and clearance to access and modify patient data.
-
-If you are using this form for a purpose other than its intended one, please note that the field definitions and explanations provided below may not be applicable.
-
-If you are unsure, please reach out to the relevant authorities for further clarification.
-
-</thinking>
-
 # Hospice Nursing Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect clinical data about a patient in a hospice setting.

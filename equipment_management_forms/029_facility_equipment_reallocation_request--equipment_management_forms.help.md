@@ -1,11 +1,3 @@
-<thinking> 
-This form is used to submit a request for reallocation of facility equipment. 
-The form is used by facility managers to manage equipment relocation requests. 
-To complete this form, you will need to select the equipment you want to relocate and specify the new location of the equipment. 
-The form should only be used for valid requests as per the facility management policies.
-Before submitting the form, please make sure that the form is properly filled out and that you have the approval from the relevant authorities if necessary.
-</thinking>
-
 # Facility Equipment Reallocation Request - Help Guide
 ## Purpose
 The Facility Equipment Reallocation Request form is used to submit a request to relocate facility equipment to a different location within the facility.

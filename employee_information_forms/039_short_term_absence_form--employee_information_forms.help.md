@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Short Term Absence Form - Help Guide
 ## Purpose
 The Short Term Absence Form is used to report employee absences that last less than 5 days. This form is typically used for short-term absences such as vacation, personal, or family-related reasons.

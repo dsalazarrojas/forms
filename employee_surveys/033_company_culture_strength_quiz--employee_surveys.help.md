@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Company Culture Strength Quiz - Help Guide
 ## Purpose
 The Company Culture Strength Quiz is designed to help assess the strength of a company culture from the perspective of its employees. It's a self-assessment tool that gauges how well a company's communication, leadership, and values are aligned. By answering a few simple questions, you can gain insights into your company's culture and identify areas for improvement.

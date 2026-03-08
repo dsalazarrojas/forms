@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to be a checklist for electrical safety, allowing users to identify and address potential electrical hazards in a workplace or setting. The form is composed of five sections, each focusing on a different aspect of electrical safety: General Safety, Hazards, Safety Equipment, Safety Procedures, and Recordkeeping. Each section presents a list of options for the user to select from, allowing them to create a tailored checklist for their specific situation.</thinking>
-
 # Electrical Safety Checklist - Help Guide
 ## Purpose
 The Electrical Safety Checklist is a comprehensive tool designed to help users identify and address potential electrical hazards in a workplace or setting. It consists of five sections: General Safety, Hazards, Safety Equipment, Safety Procedures, and Recordkeeping.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect employee information for re-entry assistance applications, which is essential for HR departments to track and process employee re-entry requests. To ensure accuracy and efficiency, it is crucial that this form is filled out correctly. **Please make sure to complete this form carefully and truthfully, and do not duplicate existing records.**
-
-</thinking>
-
 # Employee Re Entry Assistance Application - Help Guide
 ## Purpose
 The Employee Re Entry Assistance Application form is a crucial tool for HR departments to collect and process employee re-entry requests. This form helps to gather essential information about the employee's return date, reason for return, and other relevant details.

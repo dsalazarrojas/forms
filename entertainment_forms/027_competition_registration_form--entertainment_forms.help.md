@@ -1,5 +1,3 @@
-<thinking>Internal reason for this form is to collect participant information for competition registration. Before filling out this form, please note that you must be at least 18 years old. You will be asked to agree to terms and conditions, liability waiver, and media consent. The form is intended for solo or team participation. If you are a team, please list all team members. Please fill out all required fields to complete the form accurately and truthfully.</thinking>
-
 # Competition Registration Form - Help Guide
 ## Purpose
 The Competition Registration Form is designed to collect necessary information from participants for competition registration. Please follow the guidelines below to ensure a smooth registration process.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an individual's employment history in healthcare nursing, including their general information, medical history, and work experience. This form is designed for the healthcare facility to evaluate the candidate's skills, certifications, and work history. It is intended for internal use by the facility and not for public display. Please ensure that you only fill out this form if you have a legitimate reason to do so.
-
-Before proceeding, ensure that you are not duplicating effort or attempting to submit this form for an individual who has already been evaluated or submitted this information previously.
-
-This guide is intended for users who need to fill out this form for their own employment evaluation. If you are a facility administrator, you may need to review and update certain fields, but this guide will focus on the user-facing aspects of the form.
-
-</thinking>
-
 # Healthcare Nursing Skills Employment Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect data for student experiential learning reports, which can be used to assess and improve the learning experience of students in various settings such as classrooms, labs, or other educational environments. This form is designed to be completed by a student or instructor to provide information about a specific learning activity or project. The data collected will be used to evaluate the effectiveness of the learning experience and identify areas for improvement.
- 
-Please note that this form is meant for student and instructor use, and responses should be honest and accurate to provide valuable insights for the educational institution.
- 
-Ensure that you complete the form for the relevant experience and that your responses are clear and concise.
-</thinking>
-
 # Student Experiential Learning Report Form - Help Guide
 
 ## Purpose

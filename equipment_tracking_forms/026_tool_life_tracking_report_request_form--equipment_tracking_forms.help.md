@@ -1,13 +1,3 @@
-<thinking>
-This form is used to request the generation of a tool life tracking report. This form is likely used by staff or department members who are interested in tracking the usage and status of company equipment, tools, and other assets. The form may be filled out by a staff member to request this information for the purpose of planning and organization, budgeting, and maintenance. 
-
-The form may help the user understand whether the tool is available for use, if a specific tool is not available and why, if it is scheduled for use or not scheduled for use, if the tool is awaiting repair, or if a tool life tracking report will be generated to provide more detailed information about the tool's usage history. 
-
-Before filling out this form, please ensure that the equipment or tool being requested has not already been previously requested in the past. This will help in avoiding duplication and saving time for the staff members involved in filling this form. 
-
-Please note that the form does not have a specific field for the equipment ID, it is assumed that the equipment ID is known to you, as it is likely a unique identifier for your tool or equipment.
-</thinking>
-
 # Tool Life Tracking Report Request Form - Help Guide
 ## Purpose
 The Tool Life Tracking Report Request Form is designed to provide staff and department members with information about equipment usage and status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Occupational Health Specialist Onboarding Form - Help Guide
 ## Purpose
 The Occupational Health Specialist Onboarding Form is used to collect information for new employees who are joining the company as Occupational Health Specialists. This form is used to gather personal details, job-related information, and administrative information to ensure a smooth onboarding process.

@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Payroll Transparency Perception Survey" form, I'll need to understand the context and purpose of the form. The purpose of this form seems to be to gauge the employees' perceptions of their organization's payroll transparency practices, specifically asking questions about their access to clear and concise payroll information, communication, benefits, and their overall satisfaction with the current payroll system.
-
-It seems that this form is designed to gather data about employee experiences and perceptions, aiming to identify areas of improvement in the organization's payroll practices. This data could be used to inform decisions and make adjustments to better support the employees' needs and expectations.
-
-After reviewing the form structure and field names, I assume that the survey will ask a mix of questions about payroll practices, benefits, and employee experiences. This form might be used for internal evaluation, employee feedback, and potentially to identify areas of improvement in the organization's payroll practices.
-
-The questions seem to cover a range of topics, from access to clear and concise payroll information to communication from managers and benefits offerings. It also touches on the importance of benefits, pay frequency, and the overall impact of payroll transparency on employee satisfaction.
-
-Before I start creating the help guide, I'd like to confirm that the questions cover all required aspects and no redundant information is requested.
-</thinking>
-
 # Payroll Transparency Perception Survey - Help Guide
 ## Purpose
 The Payroll Transparency Perception Survey is designed to gather employee feedback on their experiences and perceptions of the organization's payroll practices. The survey aims to understand how well employees are informed about their compensation and benefits, and to identify areas for improvement in the organization's payroll system.

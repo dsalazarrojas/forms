@@ -1,5 +1,3 @@
-<thinking>... This form is used to collect employment history information from users. Its purpose is to gather detailed information about an employee's past employment periods, roles, job locations, and benefits. The form should not be used in situations where employment history is not relevant or already known. Duplicate submissions from the same user should be avoided. </thinking>
-
 # employment_history_release_form - Help Guide
 ## Purpose
 

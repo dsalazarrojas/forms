@@ -1,12 +1,3 @@
-<thinking>
-This help guide aims to provide a clear understanding of the "Institutional Knowledge Sharing Culture Survey" form, ensuring that users can accurately complete it and gain valuable insights into the knowledge sharing culture within their institution.
-
-This form is designed to gauge the current state of collaboration, communication, and information sharing within the institution. By completing this survey, users will be contributing to a broader understanding of the strengths and areas of improvement in knowledge sharing.
-
-Please note that this guide is only for the institutional knowledge sharing culture survey. If you're unsure about any of the questions or fields, please consult the relevant teams or experts within your institution for further clarification.
-
-To ensure a smooth and accurate completion process, please review the fields carefully, and if you need any additional information, feel free to ask.</thinking>
-
 # Institutional Knowledge Sharing Culture Survey - Help Guide
 ## Purpose
 

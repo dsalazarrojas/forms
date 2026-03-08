@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect student enrollment information for a course or program. 
-The purpose of this form is to gather essential details about students who are enrolling in a course or program. This includes demographic information such as student name and email, payment details, and enrollment status.
-The form is designed to be completed by students or their authorized representatives. It is meant to be a straightforward and efficient way to gather necessary information for processing student enrollment.
-Please ensure that the required fields are completed accurately and thoroughly to avoid any confusion or delays in processing the enrollment.
-</thinking>
-
 # Student Enrollment Form - Help Guide
 
 ## Purpose

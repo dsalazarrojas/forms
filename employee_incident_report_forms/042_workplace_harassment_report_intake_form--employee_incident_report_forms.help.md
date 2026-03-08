@@ -1,18 +1,3 @@
-<thinking>
-The workplace_harassment_report_intake_form is a tool used to report incidents of harassment in the workplace. Its purpose is to collect and document information about reported incidents in a systematic and consistent manner.
-
-This form aims to ensure that all incidents are reported and addressed promptly, providing a clear and standardized framework for employees to share their experiences and concerns.
-
-When filling out this form, users should ensure that they have a clear understanding of the incident they are reporting, including the date, time, location, and details of what happened. They should also provide accurate contact information and confirm their agreement to the terms and conditions of the report.
-
-The form is designed to be completed by employees who have experienced or witnessed harassment in the workplace. It is crucial to report incidents promptly to ensure that the issue can be addressed and resolved as quickly as possible.
-
-Before filling out this form, users should review the fields carefully and ensure they provide accurate and detailed information. If any field is unclear or ambiguous, the user should not hesitate to reach out to the designated contact person for assistance.
-
-The form is designed to be completed in a few minutes, and users should not need to spend more than 10-15 minutes filling it out.
-
-</thinking>
-
 # Workplace Harassment Report Intake Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Annual Veterinarian Review - Help Guide
 ## Purpose
 The Annual Veterinarian Review form is used to assess the performance and growth of veterinarians, providing a comprehensive evaluation of their professional skills, areas for improvement, and goals for the next year. This form helps veterinarians reflect on their strengths, weaknesses, and areas for development, ultimately supporting their professional growth and improvement.

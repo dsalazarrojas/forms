@@ -1,11 +1,3 @@
-<thinking>... This form appears to be designed for editorial staff onboarding, which is a crucial process for new hires in the editorial department. The form is meant to collect essential information about the new hire, including their job title, job description, salary, and employment type. The form also includes fields for acknowledgement, submission status, and submission date/time.
-
-It's essential to ensure that the form is completed accurately and thoroughly to avoid any confusion or miscommunication during the onboarding process. Each field should be filled out correctly, and the user should carefully review the form before submitting it. 
-
-To confirm, the form appears to be designed for internal use within the editorial department, and the submission status comments and reason fields suggest that there may be a workflow involving approvals and review processes. If this is correct, it's crucial that the form is filled out correctly to avoid any delays or issues in the onboarding process.
-
-</thinking>
-
 # Editorial Staff Employment Onboarding Form - Help Guide
 ## Purpose
 The Editorial Staff Employment Onboarding Form is designed to collect essential information about new editorial staff members for the onboarding process.

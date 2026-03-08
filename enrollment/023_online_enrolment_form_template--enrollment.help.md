@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the online enrolment form template, let's briefly review its purpose and relevance. This form is designed to collect student information for online enrolment, including personal details, programme specifics, and programme status. It's essential to ensure that the form accurately and thoroughly captures the required data to facilitate efficient and organized enrolment processes.</thinking>
-
 # Online Enrolment Form Template - Help Guide
 
 ## Purpose

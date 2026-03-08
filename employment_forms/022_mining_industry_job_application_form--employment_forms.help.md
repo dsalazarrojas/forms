@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from job applicants in the mining industry. It will be used by mining companies to screen potential candidates for various job roles within the industry. 
-To ensure that the form is used correctly, please note that this is a template and you are free to customize it for your specific needs. However, do not use it for any other purpose than to apply for a job within the mining industry. Please make sure to only fill out the form once and do not attempt to create multiple applications using this form. This will help us to keep track of legitimate applications and prevent misrepresentation of information.
-</thinking>
-
 # Mining Industry Job Application Form - Help Guide
 ## Purpose
 

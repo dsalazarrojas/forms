@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for mechanical engineer positions. The purpose of this form is to assess the qualifications and experience of potential candidates for mechanical engineering roles. This form is intended for internal use, and the data collected will be used to evaluate the suitability of applicants for mechanical engineer positions within the company. To avoid duplication of effort, please fill out this form only if you are a genuine applicant or if you have been specifically invited to do so by the hiring team.
-
-Please note that this form is not a substitute for an actual job interview or a thorough assessment of a candidate's qualifications. The information provided will be reviewed and considered, but it is not an automatic qualification for a mechanical engineer position.
-
-Before starting, please ensure that you have all the necessary information and documentation ready, especially regarding your education, work experience, and relevant qualifications.
-</thinking>
-
 # Mechanical Engineer Application Form - Help Guide
 ## Purpose
 The Mechanical Engineer Application Form is designed to collect information from potential mechanical engineer applicants to assess their suitability for mechanical engineer positions within our company.

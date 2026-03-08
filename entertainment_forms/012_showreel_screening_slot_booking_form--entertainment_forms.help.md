@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Showreel Screening Slot Booking Form" that explains its purpose, how to complete it, and provides a field-by-field explanation. I'll focus on being concrete, concise, and practical in my explanation. I'll also ensure that I don't invent unsupported business logic and provide a clear and accurate representation of the form's fields and their intended use.</thinking>
-
 # Showreel Screening Slot Booking Form - Help Guide
 ## Purpose
 This form is designed to help users book a screening slot for a showreel. It gathers essential information from users to facilitate the booking process.

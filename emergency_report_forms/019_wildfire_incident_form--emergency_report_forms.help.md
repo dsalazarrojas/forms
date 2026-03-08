@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about wildfire incidents, including the type, location, and characteristics of the fire. The purpose of this form is to gather accurate and timely data to support decision-making and resource allocation for wildfire management. 
-
-This form is intended for use by individuals or agencies responsible for reporting wildfires, including firefighters, emergency responders, or incident commanders. 
-
-Before proceeding, please ensure that you are submitting a report for a legitimate wildfire incident, and not duplicating an existing report. 
-
-If you are unsure about any of the information or have questions, please contact your supervisor or incident management team for guidance.
-
-</thinking>
-
 # wildfire_incident_form - Help Guide
 ## Purpose
 The Wildfire Incident Form is used to collect information about wildfires, including the type, location, and characteristics of the fire, to support decision-making and resource allocation for wildfire management.

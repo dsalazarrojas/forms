@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # daily_engagement_challenge - Help Guide
 
 ## Purpose

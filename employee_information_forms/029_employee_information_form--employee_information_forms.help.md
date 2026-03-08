@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Employee Information Form is a general purpose form used to collect personal and professional information about employees. This form is typically used for HR purposes, such as updating employee records or creating reports. Before filling out this form, please ensure that you have the necessary permissions and approvals to do so.
 
 To complete this form, follow these steps:

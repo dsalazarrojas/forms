@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for engineers who are completing a geotechnical knowledge assessment form. The purpose of this form is to collect information about an engineer's geotechnical experience, education, skills, and other relevant details. Before starting, ensure you are familiar with the form's layout and requirements.
-This form is designed to collect a wide range of information, so please answer each field carefully, and do not leave any fields blank unless explicitly mentioned as optional.
-</thinking>
-
 # geotechnical_knowledge_assessment - Help Guide
 
 ## Purpose

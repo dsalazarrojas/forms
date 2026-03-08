@@ -1,6 +1,3 @@
-<thinking>
-This form seems to be designed for evaluating employee performance, likely used by managers or supervisors to assess an employee's progress and provide feedback. This form appears to be a general template, not specific to a particular company or department, so it's possible that it could be used in various contexts such as HR, talent development, or performance management. Given the fields provided, it seems that the form will help track employee performance over time, provide feedback and guidance for improvement, and allow for rating and evaluation. It is essential to review the form carefully and ensure it meets the specific needs and requirements of the organization using it.</thinking>
-
 # Employee Performance Evaluation Form - Help Guide
 ## Purpose
 The Employee Performance Evaluation Form is designed to help managers and supervisors assess an employee's progress, provide feedback and guidance for improvement, and evaluate overall performance. This form will help track employee performance over time, allowing for regular evaluations and adjustments.

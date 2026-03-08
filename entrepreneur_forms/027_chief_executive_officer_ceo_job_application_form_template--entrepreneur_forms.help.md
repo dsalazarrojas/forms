@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help applicants provide a comprehensive overview of their background and qualifications for the Chief Executive Officer (CEO) position. It is meant to guide the selection process by gathering information on the applicant's past experiences, skills, and achievements. Before filling out this form, please ensure that you have a genuine interest in the position and that you have taken the time to carefully review the requirements and qualifications listed.
-
-Note: This form will be reviewed for completeness and accuracy. Please be honest and thorough in your answers. This form is for the Chief Executive Officer (CEO) position, and your answers should reflect your qualifications for this role.
-
-Please ensure that you only apply once for this position. Duplicate applications will be considered invalid and may result in your application being discarded.
-
-</thinking>
-
 # Chief Executive Officer (CEO) Job Application Form Template - Help Guide
 ## Purpose
 This form is designed to help applicants apply for the Chief Executive Officer (CEO) position at our company. It is intended to gather information about the applicant's background, skills, and qualifications for the role.

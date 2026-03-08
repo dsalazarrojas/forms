@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shift Changeover Form - Help Guide
 
 ## Purpose

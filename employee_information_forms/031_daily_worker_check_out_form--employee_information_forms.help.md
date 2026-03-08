@@ -1,7 +1,3 @@
-<thinking>
-This form was created to help workers report their daily check-out time and date worked. It is likely intended for use in workplaces where employees need to keep track of their work hours, such as factories, construction sites, or other industries where workers' hours worked can impact productivity and labor costs. The purpose of this form is to ensure accurate recording of employee work hours, which is crucial for payroll processing, time tracking, and attendance management. Before proceeding, it is essential to review the form carefully to avoid duplication and ensure accuracy in reporting.
-</thinking>
-
 # Daily Worker Check-Out Form - Help Guide
 ## Purpose
 The Daily Worker Check-Out Form is designed to record the date and time worked by employees on a daily basis. This form helps ensure accurate reporting and tracking of work hours, which is vital for payroll processing, time tracking, and attendance management.

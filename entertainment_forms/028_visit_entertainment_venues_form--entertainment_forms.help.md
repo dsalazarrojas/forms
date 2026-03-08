@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from visitors about their experiences at various entertainment venues. It will likely be used by venue administrators to understand visitor preferences and feedback. Please ensure you are filling out this form for a specific purpose and are not duplicating efforts.
-
-To complete this form, simply fill in the required information and provide any additional feedback you may have.
-
-</thinking>
-
 # Visit Entertainment Venues Form - Help Guide
 
 ## Purpose

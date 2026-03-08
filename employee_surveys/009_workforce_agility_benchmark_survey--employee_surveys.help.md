@@ -1,8 +1,3 @@
-<thinking>
-To determine whether to include this form in the help guide, I need to understand its purpose, relevance, and potential duplication. After examining the form fields and labels, I assume that this form is a self-assessment tool designed to gauge the agility and adaptability of employees within an organization. The form is likely used to gather feedback on various aspects of team dynamics, communication, and development opportunities. Given this context, I will create a comprehensive help guide for end-users.
-
-</thinking>
-
 # Workforce Agility Benchmark Survey - Help Guide
 ## Purpose
 This guide will walk you through the purpose and completion instructions for the Workforce Agility Benchmark Survey.

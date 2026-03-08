@@ -1,5 +1,3 @@
-<thinking>...The form is used to collect information from employees who are requesting a religious exemption from the COVID-19 vaccine. The form is designed to gather details such as employee ID, name, date of birth, place of birth, religion, reason for exemption, exemption status, and other relevant information. This form is intended for employees who are not vaccinated against COVID-19 due to religious reasons. To ensure accuracy and clarity, please fill out the form carefully and thoroughly. If you have any questions or concerns, please reach out to your HR representative or supervisor...</thinking>
-
 # Religious Exemption For Covid Vaccine Form - Help Guide
 ## Purpose
 This form is used to request a religious exemption from the COVID-19 vaccine for an employee. It is designed to gather essential information for processing the exemption request.

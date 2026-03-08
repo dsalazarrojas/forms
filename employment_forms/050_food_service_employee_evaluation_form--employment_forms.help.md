@@ -1,7 +1,3 @@
-<thinking>
-Are you sure this form is not already available in your system? Did you check the forms catalog for a similar form with this title or content? This form seems to be quite generic, with fields that could be part of any employee evaluation form. Please clarify or provide more context about this form's purpose and relevance.
-</thinking>
-
 # Food Service Employee Evaluation Form - Help Guide
 ## Purpose
 This form is used to assess the performance of food service employees, including their overall performance, communication skills, time management, job knowledge, and other essential competencies.

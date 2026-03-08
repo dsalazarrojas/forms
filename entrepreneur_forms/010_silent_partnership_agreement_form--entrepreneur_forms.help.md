@@ -1,11 +1,3 @@
-<thinking>
-This form is used to create a silent partnership agreement between two parties. A silent partnership is an informal partnership where one or both partners are not actively involved in the daily operations of the business but still share in the profits or losses. This form is intended to outline the terms of the partnership, including the roles and responsibilities of each partner, profit shares, and other details.
-
-Before completing this form, please ensure that you are familiar with the basic principles of partnership agreements and understand the legal implications of creating a silent partnership.
-
-Note: The fields in this form are meant to be filled out by both parties involved in the partnership. Please ensure that both parties sign and date the form to confirm their understanding of the agreement.
-</thinking>
-
 # Silent Partnership Agreement Form - Help Guide
 ## Purpose
 This form is used to create a silent partnership agreement between two parties. It outlines the terms of the partnership, including roles, responsibilities, profit shares, and other details.

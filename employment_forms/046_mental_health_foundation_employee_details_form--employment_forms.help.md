@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended for employees of the Mental Health Foundation to provide details about their work-related information. This form is not intended for general public use and should only be filled out by authorized personnel within the organization. Please ensure that you are accessing this form through a legitimate and secure channel within the foundation.
-
-</thinking>
-
 # Mental Health Foundation Employee Details Form - Help Guide
 ## Purpose
 This form is used to collect and update employee information for administrative purposes. It is essential to fill this form accurately and completely to ensure that our employee database is up-to-date and accurate.

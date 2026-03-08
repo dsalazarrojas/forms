@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Educational Policy Sentiment Poll form, we first need to understand its purpose. This form is likely used to gather opinions and sentiments from users about the educational policy of an institution or organization. The form seems to be a survey with multiple select multiple-choice questions, asking users to express their sentiment about various aspects of the educational policy.
-</thinking>
-
 # Educational Policy Sentiment Poll - Help Guide
 ## Purpose
 This form is used to gather opinions and sentiments from users about the educational policy of an institution or organization.

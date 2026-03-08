@@ -1,5 +1,3 @@
-<thinking>Before completing this form, please ensure that you have a valid reason for requesting to stay on campus and that you have not already submitted a stay on campus request. If you are unsure about the purpose or status of your previous request, please contact the relevant department or authority for clarification.</thinking>
-
 # Stay On Campus Request Form - Help Guide
 
 ## Purpose

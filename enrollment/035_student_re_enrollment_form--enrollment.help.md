@@ -1,7 +1,3 @@
-<thinking>
-The Student Re Enrollment Form is used to re-enroll a student in the system, allowing them to update their information and confirm their re-enrollment details. This form should only be completed by students who are already registered in the system and need to re-enroll for the new academic year. Please ensure that you are re-enrolling for the correct academic year and that you are not re-enrolling multiple students at once.
-</thinking>
-
 # Student Re Enrollment Form - Help Guide
 ## Purpose
 The Student Re Enrollment Form is used to re-enroll a student in the system, allowing them to update their information and confirm their re-enrollment details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to log daily activities. It should only be filled out for each day, and users should not log the same day twice. The form is used for tracking and reporting purposes, and the data collected will be used to analyze and gain insights on user behavior.
-</thinking>
-
 # daily_activity_log_form - Help Guide
 ## Purpose
 The daily activity log form is used to record and track daily activities. This form should be filled out daily and only once for each day.

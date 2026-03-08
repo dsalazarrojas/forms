@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Text Interpretation Survey - Help Guide
 
 ## Purpose

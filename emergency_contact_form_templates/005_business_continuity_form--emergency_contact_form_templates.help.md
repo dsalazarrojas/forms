@@ -1,11 +1,4 @@
-# <thinking>
-  * This form is for organizations to provide information and planning for business continuity in the event of an emergency or disaster.
-  * Ensure that the form is only completed by authorized personnel within the organization.
-  * Please do not fill out this form if you are not authorized to represent your organization.
-  * Duplicate submissions will be rejected and may cause unnecessary work.
-</thinking>
-
-# Business Continuity Form - Help Guide
+# # Business Continuity Form - Help Guide
 ## Purpose
 This form is designed to capture essential information about your organization's business continuity and disaster recovery plan. It will help us understand how your organization prepares for and responds to emergencies, identify potential risks and threats, and provide necessary support and resources for recovery.
 

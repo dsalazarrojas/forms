@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to evaluate a blues musician's performance, providing a comprehensive assessment of their technical skills, musical expression, stage presence, repertoire knowledge, and professionalism. The form will help evaluators provide detailed and informed feedback to help the musician improve their craft and identify areas for growth. To avoid duplicate evaluations, the form is tailored to specific performance occasions, allowing evaluators to focus on the musician's unique qualities during each event.
-
-The form is divided into sections that cover various aspects of a blues musician's performance, including their technical skills, musicality, stage presence, repertoire knowledge, and overall professionalism. This structure enables a thorough evaluation of the musician's abilities and provides a clear and concise way to document their strengths and weaknesses.
-
-Evaluators will use this form to assess the musician's skills in different blues styles, such as Delta, Chicago, Texas, Electric, and Acoustic, as well as their overall musicality, stage presence, and professionalism. The form also provides space for the evaluator to offer constructive feedback and recommendations for improvement.
-
-This guide is designed to assist musicians, festival organizers, and music industry professionals in understanding how to complete the form accurately and effectively. The goal is to provide a comprehensive and unbiased assessment that will help musicians grow and develop their craft.
-
-</thinking>
-
 # Blues Musician Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate a blues musician's performance, providing a thorough assessment of their technical skills, musical expression, stage presence, repertoire knowledge, and professionalism.

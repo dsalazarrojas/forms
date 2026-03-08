@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to provide a contact point for users to reach out for support or inquire about specific services. The purpose is to gather contact information and the reason for the contact. This form will be used by support staff to respond to inquiries and provide assistance. It is not a transactional form for sales or payment processing. 
-</thinking>
-
 # Get In Touch Contact Form - Help Guide
 ## Purpose
 The Get In Touch Contact Form is a support-oriented form designed to facilitate communication between users and support staff. It is used to gather contact information and the reason for the contact, enabling support staff to respond to inquiries and provide assistance.

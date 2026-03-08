@@ -1,7 +1,3 @@
-<thinking>
-To ensure the Textbook Content Review Release Form is filled out correctly, the form must be completed by the correct personnel, typically a school administrator, and submitted after a review process has been completed. This form should only be used for textbooks that have been evaluated and released for use in the school district. The evaluation process involves selecting the appropriate options from the Evaluation field and making a release decision from the Release field. This form is not intended for general use and should only be filled out by authorized individuals.
-</thinking>
-
 # Textbook Content Review Release Form - Help Guide
 ## Purpose
 This form is used to officially release a textbook for use in the school district after it has been evaluated and deemed suitable.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from parents or guardians about their child's education. The purpose of this form is to gather essential details about the child's background, contact information, and education history. This form will be used to help schools or educational institutions assess the child's qualifications for preschool admission. To ensure that you complete the form correctly and do not duplicate any information, please only fill out this form once for each child. 
-</thinking>
-
 # preschool_initial_application_form - Help Guide
 ## Purpose
 The preschool_initial_application_form is a tool used to collect information from parents or guardians about their child's education and background. This form helps schools or educational institutions assess the child's qualifications for preschool admission.

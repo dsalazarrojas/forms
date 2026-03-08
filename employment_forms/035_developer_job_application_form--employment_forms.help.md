@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for developer job applicants to provide their contact information, skills, resume, and project details. It is intended for internal use by the development team to review and filter applicants based on their qualifications. Please note that not all fields are required, and applicants are free to provide as much information as they like. This guide will help you understand each field's purpose and requirement.
-
-</thinking>
-
 # Developer Job Application Form - Help Guide
 ## Purpose
 This form is used for developer job applicants to apply for a job position. It gathers essential contact information, skills, resume, and project details that help the development team to review and filter applicants.

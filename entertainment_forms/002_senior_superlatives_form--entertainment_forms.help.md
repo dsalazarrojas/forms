@@ -1,10 +1,3 @@
-<thinking>
-The Senior Superlatives Form is a tool for nominating and voting on superlatives, typically within a department or group of students. It allows users to indicate who will be attending the superlatives event, the name of the nominee, and the category they will be voting for. This form is crucial for organizing and conducting the superlatives voting process in an efficient and democratic manner. 
-The form's fields should be filled out accurately to ensure the correct data is collected and the event runs smoothly. Please review this guide to ensure you understand each field's purpose and requirements. 
-Please note that this form should not be filled out by anyone other than the intended nominator or nominator of the superlatives nominee. Filling this form without proper authorization may result in inaccurate data. 
-Also, please ensure that the form is submitted before the deadline to avoid last-minute rush and possible errors. 
-</thinking>
-
 # Senior Superlatives Form - Help Guide
 ## Purpose
 

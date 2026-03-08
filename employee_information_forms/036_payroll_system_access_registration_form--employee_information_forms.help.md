@@ -1,5 +1,3 @@
-<thinking>As a payroll system administrator, it's essential to understand the purpose and functionality of the Payroll System Access Registration Form. This form is used to register employees for access to the payroll system, ensuring that only authorized personnel can access sensitive financial data. Before filling out the form, please confirm that you have the necessary permissions to access the payroll system and that you are not duplicating existing registration efforts. Please review the form carefully to ensure you understand the requirements for each field.</thinking>
-
 # Payroll System Access Registration Form - Help Guide
 ## Purpose
 This form is used to register employees for access to the payroll system. It gathers essential information to determine the level of access each employee requires.

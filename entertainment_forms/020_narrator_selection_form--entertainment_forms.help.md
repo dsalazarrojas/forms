@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be a simple and straightforward tool for users to input information about a narrator's profile. The form aims to collect basic details about the narrator, including their role in the book (author, type of book, and language), their background information (narrator type, accent, experience level, education level), and contact information. The form is not intended for any specific business or organization but rather as a general tool for any individual to fill out and use.
-
-The form will not be shared or sold to any third party. The form's metadata is based on public survey topic information and is created using AI for convenience and efficiency. Feel free to use, modify, or distribute this form under the Creative Commons Attribution 4.0 license.
-
-</thinking>
-
 # Narrator Selection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a narrator's profile, including their role, background, and contact details.

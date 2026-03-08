@@ -1,9 +1,3 @@
-<thinking>
-
-To create an Employee Satisfaction Survey Workshop Registration form, we need to gather information from employees about their attendance and preferences. This form is meant to help organizers plan and execute a successful workshop that caters to the needs of all attendees. The form should not be used for duplicate or unnecessary registrations, and it's essential to fill it out accurately to ensure the correct information is recorded.
-
-</thinking>
-
 # Employee Satisfaction Survey Workshop Registration - Help Guide
 ## Purpose
 This form is designed to gather information from employees to plan and execute a successful workshop that caters to their needs and preferences.

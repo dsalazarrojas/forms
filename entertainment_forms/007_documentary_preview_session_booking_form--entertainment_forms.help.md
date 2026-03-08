@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book a documentary preview session for a user. The purpose of this form is to collect necessary information to schedule a session with a documentary expert. To avoid duplication, users are not allowed to book multiple sessions at the same time. This form is designed to be completed by one user at a time.
-</thinking>
-
 # Documentary Preview Session Booking Form - Help Guide
 ## Purpose
 This form is used to book a documentary preview session with a documentary expert. It collects necessary information for scheduling a session.

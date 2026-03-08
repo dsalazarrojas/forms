@@ -1,12 +1,3 @@
-<thinking>
-The project team has created this form to assess the project execution readiness. This form is used to evaluate projects and ensure they meet certain criteria before moving forward with their execution. The purpose of this form is to help project leaders and teams to evaluate if a project is ready to be launched, taking into account several key aspects. 
-
-To avoid duplication of effort, please ensure that this form is only filled out once for each project. 
-
-Before filling this form, please make sure you have all the necessary information and data about the project. 
-
-</thinking>
-
 # Project Execution Readiness Survey - Help Guide
 ## Purpose
 This form is designed to assess the project execution readiness by evaluating several key aspects of a project.

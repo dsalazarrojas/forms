@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about educational institutions, specifically about students and staff. It is intended to collect data on student and staff demographics, degree levels, department and position, and attendance records. This form is likely used to track and analyze data about students and staff within educational institutions.
-
-Before proceeding, please ensure that you have not completed this form previously. If you are unsure or have completed this form before, please review the following guide to determine the best course of action.
-</thinking>
-
 # Educational Institution History Survey - Help Guide
 ## Purpose
 This form is designed to collect information about educational institutions, specifically about students and staff. It is intended to track and analyze data about students and staff within educational institutions.

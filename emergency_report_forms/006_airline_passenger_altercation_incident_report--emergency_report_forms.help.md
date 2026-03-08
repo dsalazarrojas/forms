@@ -1,7 +1,3 @@
-<thinking>
-To check if the form is being filled out correctly and to prevent duplication or irrelevant reports, we should verify that the incident reported is not already being investigated by another staff member or that the incident is not already known to the airline. This can be done by checking the airline's internal database or by contacting the incident reporter directly. Additionally, ensure that the form is being filled out by the correct person, i.e., the person who witnessed or was involved in the incident, or the person who reported the incident.
-</thinking>
-
 # Airline Passenger Altercation Incident Report - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a passenger altercation incident that occurred on one of our flights. It is used to gather details about the incident, including the date, time, location, and parties involved. This information will help our team to investigate and respond to the incident properly.

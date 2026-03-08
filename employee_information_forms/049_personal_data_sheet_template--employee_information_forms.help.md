@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect various types of personal information from employees, including their name, contact details, department, position, job title, and manager details. The purpose of this template is to gather accurate and up-to-date employee information for HR or administrative purposes.
-
-The form will be used to collect information from employees, and it is essential to ensure that the data is filled in accurately and completely. This guide will walk you through each field and provide explanations to help employees understand what information is required and how to fill it in correctly.
-
-</thinking>
-
 # Personal Data Sheet Template - Help Guide
 ## Purpose
 This form is used to collect personal data from employees for HR or administrative purposes.

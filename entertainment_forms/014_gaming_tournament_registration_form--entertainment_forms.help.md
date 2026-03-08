@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # gaming_tournament_registration_form - Help Guide
 
 ## Purpose

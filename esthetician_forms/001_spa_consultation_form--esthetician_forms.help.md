@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-friendly help guide for the Spa Consultation Form, let's break down its purpose, how to complete it, and a field-by-field explanation of each section.
 
 ## Purpose

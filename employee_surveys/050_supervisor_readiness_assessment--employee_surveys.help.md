@@ -1,14 +1,3 @@
-<thinking>
-The form "supervisor_readiness_assessment" is used to assess a supervisor's preparedness and skills in leading their team. This assessment is typically used to identify areas of improvement and to provide guidance on how to increase leadership effectiveness. 
-
-This form is meant to be filled out by supervisors, and its purpose is not to assign or grade, but rather to provide an objective evaluation and guidance. 
-
-Please ensure that you only fill this form out once, and that you have read the instructions carefully to avoid any confusion. 
-
-This guide is intended for the user who will be filling out the form, so it is assumed that you are familiar with the basic concept of the form and its purpose. Please let us know if you need more information or assistance with understanding any of the questions.
-
-</thinking>
-
 # supervisor_readiness_assessment - Help Guide
 ## Purpose
 

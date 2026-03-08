@@ -1,10 +1,3 @@
-<thinking>
-The "Theater Showcase Highlight Consent Form" is used for obtaining consent from participants, parents/guardians, and other stakeholders involved in a theater performance or event. This form ensures that all parties involved are aware of and agree to the recording and sharing of their performance. It's essential to fill out this form accurately and truthfully to avoid any potential issues or misunderstandings.
-
-This form should only be filled out once per participant, and not for each performance or event. Please ensure that you have the necessary permissions and approvals before filling out this form.
-
-</thinking>
-
 # Theater Showcase Highlight Consent Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Theater Showcase Highlight Consent Form, ensuring you understand the form's purpose and how to fill it out correctly.

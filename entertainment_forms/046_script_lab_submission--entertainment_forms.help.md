@@ -1,6 +1,3 @@
-<thinking> 
-The form purpose is to submit a script for evaluation in a Script Lab environment. The form is used to collect information about the script, including its category, description, assigned tool, and output files. This form is a crucial tool for script development, and its submission process should be clear and efficient for users. Before starting, make sure you have all the necessary information and files ready to be uploaded. Also, note that some fields are required and should be filled in for the submission to be valid.</thinking>
- 
 # Script Lab Submission - Help Guide
 ## Purpose
 The Script Lab Submission form is used to submit a script for evaluation in a Script Lab environment. It collects information about the script, including category, description, assigned tool, and output files.

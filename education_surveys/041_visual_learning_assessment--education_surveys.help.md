@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess an individual's preferences for visual learning. It is intended to gather information about their learning style, preferred methods, and specific questions or concerns related to visual learning. 
-
-This form is meant to be completed by individuals who wish to provide their personal opinions and experiences regarding visual learning. The form consists of multiple pages with various questions and fields, including text fields, select one and multiple options, date and time fields, and numeric fields. 
-
-To prevent duplication and ensure accurate responses, please complete this form only once and do not attempt to re-complete it. 
-
-</thinking>
-
 # visual_learning_assessment - Help Guide
 ## Purpose
 This form is designed to assess an individual's preferences for visual learning, gathering information about their learning style, preferred methods, and specific questions or concerns related to visual learning.

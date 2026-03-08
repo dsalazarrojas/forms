@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for evaluating the prototype of a gadget. The goal is to gather feedback and data on its usability, user experience, and overall rating. This form is meant to be filled out by individuals who have interacted with the gadget, whether as part of a trial or testing phase.
-
-The form asks for a brief introduction, a description of the gadget, and then questions or statements about its usability, user experience, and rating. Some questions are multiple-choice, and the user can choose one or multiple options. The form also asks for any additional comments and the submitter's information, including their email and phone number.
-
-The form is designed to be filled out by those who have first-hand experience with the gadget, providing valuable insights for product development and improvement.
-
-</thinking>
-
 # Gadget Prototype Evaluation Form - Help Guide
 ## Purpose
 The Gadget Prototype Evaluation Form is used to gather feedback and data on the usability, user experience, and overall rating of a gadget prototype. This form is meant to be filled out by individuals who have interacted with the gadget, whether as part of a trial or testing phase.

@@ -1,11 +1,3 @@
-<thinking>
-
-The Adjunct Teaching Preference Form is designed to help faculty members who are interested in teaching adjunct positions share their teaching preferences with the institution. This form will be used for academic semester planning and scheduling purposes. The information collected through this form will be used to identify potential teaching opportunities that match the preferences of individual instructors. 
-
-Before starting, please ensure you are completing this form to provide accurate and relevant information. 
-
-</thinking>
-
 # Adjunct Teaching Preference Form - Help Guide
 ## Purpose
 This form is designed to collect teaching preferences from adjunct instructors for use in academic semester planning and scheduling.

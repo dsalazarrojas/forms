@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help us understand your perceptions and experiences with flexible work arrangements in your job. The results will be used to inform our company's policies and practices to better support employees' work-life balance and well-being. Please answer the questions honestly, and remember that all responses will be kept confidential.
-
-Before starting, ensure you haven't taken this survey recently. If you're unsure, please contact us for clarification.
-
-</thinking>
-
 # Job Flexibility Perception Survey - Help Guide
 ## Purpose
 This survey is designed to gather information about your experiences and perceptions with flexible work arrangements in your job. Your responses will help us understand what matters most to you when it comes to flexibility and inform our company's practices and policies.

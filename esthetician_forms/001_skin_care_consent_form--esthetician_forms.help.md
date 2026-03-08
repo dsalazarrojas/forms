@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # skin_care_consent_form - Help Guide
 ## Purpose
 The skin care consent form is a document used to obtain consent from clients for various skin care treatments. This form helps ensure that clients understand the procedures, risks, and benefits of each treatment and are able to make informed decisions about their care. It is an essential part of the skin care process to ensure client safety and satisfaction.

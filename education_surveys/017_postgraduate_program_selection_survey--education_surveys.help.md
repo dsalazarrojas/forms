@@ -1,9 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form used to gather information from students about their preferences for postgraduate programs. The purpose of this form is to collect general information, preferences, and interests from students to better understand their needs and provide guidance on suitable postgraduate programs. This guide will help ensure that users understand the form's purpose and are able to complete it accurately and efficiently.
-
-To create this guide, we will consider the provided YAML fields and create a clear, concise, and practical explanation for each section and field.
-</thinking>
-
 # Postgraduate Program Selection Survey - Help Guide
 ## Purpose
 The Postgraduate Program Selection Survey is a form designed to gather information from students about their preferences and interests to help identify suitable postgraduate programs. Please take a few minutes to complete this form, and it will help us understand your needs and provide you with guidance on the best program for you.

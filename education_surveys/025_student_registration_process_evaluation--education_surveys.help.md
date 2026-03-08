@@ -1,18 +1,3 @@
-<thinking>
-This form is likely designed to gather feedback or opinions from students about their experience with a particular aspect of the educational process, possibly related to the overall quality of service or the effectiveness of the registration process. The form might be used to identify areas for improvement, assess student satisfaction, or measure the quality of communication and support provided by the team.
-
-To determine the relevance of this form, consider the following:
-- Is the form being used for a specific project or initiative within the educational institution?
-- Are there any specific goals or objectives for the form, such as improving student satisfaction or reducing support requests?
-- Are there any existing forms or processes that cover similar topics or goals?
-
-To avoid duplication of effort, consider:
-- Are there any existing forms or processes that cover similar topics or goals?
-- Would filling out this form duplicate the effort of another process or form?
-- Are there any changes or updates needed to the existing process or form to make it more effective or efficient?
-
-</thinking>
-
 # Student Registration Process Evaluation - Help Guide
 ## Purpose
 The Student Registration Process Evaluation form is designed to collect feedback from students about their experience with the registration process. This form helps identify areas for improvement and measures the quality of communication and support provided by the team.

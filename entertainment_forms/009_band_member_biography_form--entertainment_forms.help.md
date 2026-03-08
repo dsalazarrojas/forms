@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Band Member Biography Form - Help Guide
 ## Purpose
 The Band Member Biography Form is used to collect information about each member of a band. This form is used to create a comprehensive profile of each band member, including their contact information, musical experience, and performance history. By filling out this form, you will be able to showcase your talents and experiences to potential collaborators, bookers, and other interested parties.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data on performance metrics clarity, which is a critical aspect of ensuring that employees understand and can effectively use performance metrics to drive business decisions. The goal of this form is to gather information on how employees perceive the clarity of performance metrics, their alignment with target goals, and the potential areas for improvement. This form is likely to be used by HR teams or managers to monitor and address potential issues with performance metrics clarity.
-The form is divided into several sections, each with its own specific questions. Before starting, please ensure you're familiar with the purpose of this form and haven't filled it before. 
-This guide will walk you through each section and explain what each question is asking.
-</thinking>
-
 # Performance Metrics Clarity Survey - Help Guide
 ## Purpose
 This survey is designed to gather information on how employees perceive the clarity of performance metrics and identify areas for improvement.

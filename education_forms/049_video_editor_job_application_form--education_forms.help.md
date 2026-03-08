@@ -1,14 +1,3 @@
-<thinking>
-This form was created to facilitate the application process for a Video Editor position. The purpose of this form is to gather information from applicants about their personal details, contact information, education background, experience, and video editing skills. The form aims to provide a clear and efficient way for applicants to showcase their qualifications and stand out as a candidate for the Video Editor role.
-
-Before proceeding, please note that this form is intended for applicants who have a genuine interest in a Video Editor position. If you're not sure about the position or the company, it's recommended to review the job description and requirements before filling out this form.
-
-Also, please be aware that this form does not collect any sensitive or financial information, so you can safely and confidently provide your details without worrying about your safety or security.
-
-This form is an original adaptation and not affiliated with, endorsed by, or derived from any form platform. You are free to use, modify, and even sell forms derived from it, just give credit where credit is due.
-
-</thinking>
-
 # Video Editor Job Application Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the client's skin and medical history, treatment acknowledgment, and other relevant details for a hydrodermabrasion facial treatment. This form likely serves as a template for esthetician services, where the esthetician needs to understand the client's needs and provide a safe and effective treatment.
-This form is designed to be completed by both the client and the esthetician. The client will provide their history, acknowledge the treatment, and sign off on the consent form. The esthetician will provide their name and signature.
-The form has multiple pages, including client history, treatment acknowledgment, signature, and other fields that are likely related to the details of the treatment.
-</thinking>
-
 # Hydrodermabrasion Facial Consent Form - Help Guide
 
 ## Purpose

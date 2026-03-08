@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by golf course staff to request equipment, such as golf carts, forklifts, or other specialized machinery, for use on the course. The form should be completed by the course staff member who is requesting the equipment and should not be used for other purposes. This form is used to streamline the process of requesting equipment and ensure that staff members are aware of what equipment is available and when it will be delivered.
-</thinking>
-
 # Golf Course Equipment Order Request - Help Guide
 ## Purpose
 The Golf Course Equipment Order Request form is a tool for golf course staff to request equipment for use on the course. This form is used to gather information about the equipment being requested, the preferred date for delivery, and other relevant details.

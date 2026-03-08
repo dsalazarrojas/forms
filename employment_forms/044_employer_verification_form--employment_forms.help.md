@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employers to verify their employees' information for payroll, tax, and benefits purposes. It is designed to gather essential details about the employee's job title, job description, work address, and employment status. Please ensure you only submit this form once for each employee and that you have the necessary permissions and approvals to do so. If you have already submitted this form for an employee, please do not resubmit it.
-</thinking>
-
 # Employer Verification Form - Help Guide
 ## Purpose
 The Employer Verification Form is used to gather essential details about an employee's job title, job description, work address, and employment status for payroll, tax, and benefits purposes.

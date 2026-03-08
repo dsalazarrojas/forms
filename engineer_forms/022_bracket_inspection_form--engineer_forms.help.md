@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect data for a bracket inspection, which includes information about the bracket's condition, type, and location, as well as its inspection date and time. The form also assesses the overall visual condition, presence of rust or corrosion, visible cracks or damage, fasteners condition, and weld quality. The purpose of the form is to provide a comprehensive evaluation of the bracket's condition, identify potential issues, and determine the necessary actions to take.
-</thinking>
-
 # Bracket Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about a bracket's condition and provide a comprehensive evaluation of its overall condition.

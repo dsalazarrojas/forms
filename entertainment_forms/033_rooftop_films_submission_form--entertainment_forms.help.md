@@ -1,9 +1,3 @@
-<thinking>
-The Rooftop Films Submission Form is designed to collect information about new film submissions for consideration for screening on the Rooftop Films platform. This form is used to gather essential details about each film, including title, genre, description, director, screening date and time, location, poster, and any additional notes or links related to the film. It is recommended that users only submit films that are not already listed on the platform to avoid duplication.
-
-This guide will walk users through the process of completing the form, explaining each field's purpose and requirements.
-</thinking>
-
 # Rooftop Films Submission Form - Help Guide
 ## Purpose
 The Rooftop Films Submission Form is a tool used to collect and manage film information for potential screening on the Rooftop Films platform. This form gathers essential details about each film and helps us to curate and select films for inclusion in our screenings.

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the "Post Training Feedback Employment Form" is to gather information from participants about their employment status after a training program. This form aims to collect feedback and details about their job status, training program participation, and any relevant comments or feedback.
-
-Before proceeding, please ensure that you are filling out this form in accordance with the training program's guidelines and that your responses are accurate and honest. If you have already submitted feedback through this form, please do not submit duplicate feedback.
-
-</thinking>
-
 # Post Training Feedback Employment Form - Help Guide
 ## Purpose
 The Post Training Feedback Employment Form is a survey designed to collect feedback from participants about their employment status after a training program. This form helps us understand their experiences, successes, and areas for improvement.

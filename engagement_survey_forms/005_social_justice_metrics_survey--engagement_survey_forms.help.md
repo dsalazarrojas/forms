@@ -1,7 +1,3 @@
-<thinking>
-This survey is designed to measure employee engagement with social justice metrics. The purpose of the survey is to gauge employees' levels of awareness, inclusion, and sense of belonging within the workplace. This data will help management identify areas of improvement and develop initiatives to promote a more inclusive and equitable work environment. Non-duplication of effort is ensured by only allowing one response per page.
-</thinking>
-
 # Social Justice Metrics Survey - Help Guide
 ## Purpose
 The Social Justice Metrics Survey is designed to measure employee engagement with social justice metrics, gauging awareness, inclusion, and sense of belonging within the workplace.

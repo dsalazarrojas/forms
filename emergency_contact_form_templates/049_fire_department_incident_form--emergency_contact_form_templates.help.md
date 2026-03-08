@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Department Incident Form - Help Guide
 
 ## Purpose

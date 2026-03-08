@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help public safety staff request equipment for their department. The form is meant to be used by public safety department employees to submit requests for various types of equipment. It's not meant for use by other departments or non-employees. It's also not meant to be used to request non-public safety equipment, so if you're not a public safety staff member, this form won't be useful to you.
-</thinking>
-
 # Public Safety Equipment Requisition Form - Help Guide
 ## Purpose
 This form is designed for public safety department employees to request equipment for their department. It allows you to specify the type of equipment you need, the quantity, and other relevant details.

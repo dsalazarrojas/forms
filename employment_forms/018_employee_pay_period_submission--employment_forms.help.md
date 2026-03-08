@@ -1,5 +1,3 @@
-<thinking>...The form "Employee Pay Period Submission" is designed to collect relevant information about an employee's pay period, including their regular and overtime hours, submitted date, submission date, pay cycle date, submitted by user, submission user, employee ID, and any additional notes. This form is intended to be completed by employees to provide accurate and timely data for payroll processing and other related purposes. To ensure accurate and non-duplicate submissions, please verify your employee ID and submission date before submitting this form...</thinking>
-
 # Employee Pay Period Submission - Help Guide
 ## Purpose
 The Employee Pay Period Submission form is used to collect information about an employee's pay period, which is essential for accurate payroll processing.

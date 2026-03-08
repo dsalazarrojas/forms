@@ -1,8 +1,3 @@
-<thinking>
-The Payroll Consultant Estimate Form is used for a consultant to provide an estimate to a client of the costs associated with a particular consulting project. The form is used for internal purposes by the company's payroll department to facilitate the estimation process. Before proceeding with this guide, please ensure that you have not created a similar form for this purpose in the past and that the consultant and client information is accurate to avoid duplication of work.
-
-</thinking>
-
 # Payroll Consultant Estimate Form - Help Guide
 ## Purpose
 The Payroll Consultant Estimate Form is used to provide an estimate to a client of the costs associated with a particular consulting project. This form is intended to be used by consultants to submit their estimates to the payroll department for processing.

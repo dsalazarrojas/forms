@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I will now create a user-facing help guide for the Opt In Form in Markdown format.
 
 # Opt In Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to onboard new employees into the customer service department. It captures essential information about the new hire, including job title, work start date, job status, reporting manager, department, job function, work location, manager's name and email, team members, team leader, job notes, employee ID, and hire date. This form is intended to be used by HR administrators to facilitate the onboarding process and ensure a seamless transition for new employees.
-</thinking>
-
 # Customer Service Onboarding Form - Help Guide
 ## Purpose
 The purpose of this form is to onboard new employees into the customer service department. It captures crucial information about the new hire, which is essential for their smooth transition into the team.

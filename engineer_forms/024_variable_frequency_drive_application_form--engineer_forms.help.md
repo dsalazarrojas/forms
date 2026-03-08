@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information related to variable frequency drive (VFD) applications for motor control. Variable frequency drives are used to control the speed of motor systems and are commonly used in industrial settings. This form might be used by electrical engineers or technicians to collect data for design, planning, or maintenance purposes. It's essential to note that some fields might be dependent on the selected options or answers in other fields.
-</thinking>
-
 # Variable Frequency Drive Application Form - Help Guide
 ## Purpose
 This form is used to collect information related to variable frequency drive (VFD) applications for motor control.

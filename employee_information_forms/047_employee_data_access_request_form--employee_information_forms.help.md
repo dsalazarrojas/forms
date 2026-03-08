@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request data access for employee data by an employee. The request must be approved by an authorized manager or supervisor. The form is used to ensure that the employee has the necessary permissions and categories of data access.
-
-To avoid duplicate requests, ensure that you have not previously submitted a similar request for the same data access category. If you are unsure, check the company's data access request history.
-
-The form consists of four fields, each with a specific purpose:
-</thinking>
-
 # Employee Data Access Request Form - Help Guide
 ## Purpose
 This form is used to request data access for employee data by an employee. The request must be approved by an authorized manager or supervisor. The form is used to ensure that the employee has the necessary permissions and categories of data access.

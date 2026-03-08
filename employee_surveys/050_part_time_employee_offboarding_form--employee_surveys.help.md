@@ -1,6 +1,3 @@
-<thinking> 
-The form "part-time-employee-offboarding-form" appears to be a structured document used for part-time employees to provide information about their departure from the company. It contains various fields that might be relevant for outplacement and other related purposes. Upon reviewing the form structure and fields, it seems to be intended for part-time employees who are leaving the company and need to provide some details about their last day of work and reasons for leaving. This form might be used by HR or management teams to gather necessary information for administrative or compliance purposes. However, further clarification on the form's exact purpose and use within the company is necessary to ensure accuracy and completeness of this guide.</thinking> 
-
 # part-time-employee-offboarding-form - Help Guide
 ## Purpose
 This guide is designed to help part-time employees complete the "part-time-employee-offboarding-form" correctly and effectively.

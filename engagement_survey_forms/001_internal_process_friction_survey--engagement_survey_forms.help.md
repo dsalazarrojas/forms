@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to identify and document process bottlenecks within the organization. It's designed to help teams and individuals gather information about the areas that are causing difficulties or hindrances in their processes. The goal is to help streamline and improve internal processes to make them more efficient and effective.
-
-Before filling out this form, please ensure that you're not duplicating an issue that's already been addressed. If you're unsure, check with your team or management to confirm.
-
-To fill out this form, answer the questions honestly and thoroughly, and provide as much detail as possible. The more information you provide, the better the analysis and potential solutions will be.
-</thinking>
-
 # Internal Process Friction Survey - Help Guide
 ## Purpose
 This form is designed to help identify and document process bottlenecks within the organization, allowing teams and individuals to gather information about the areas that are causing difficulties or hindrances in their processes.

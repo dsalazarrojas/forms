@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees on their current deployment status, job satisfaction, and overall wellbeing level. It is intended to be a quick and easy way for employees to provide their perspective on their work environment and wellbeing. This form is part of a regular check-in process for the management team to monitor and support employee wellbeing.
-</thinking>
-
 # Staff Deployment And Wellbeing Survey - Help Guide
 ## Purpose
 

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to assess functional behavior, which refers to the observable actions or behaviors that an individual exhibits. It's designed to gather information about an individual's behavior, such as observed actions, signs, and functional behavior scale. This form is likely used in clinical or psychological evaluations, research, or assessments.
-
-Please ensure that you are using this form in a context where it's relevant and not duplicating existing forms. If you're unsure, you can consider using this form as a template and adapting it to your specific needs.
-
-This form has multiple fields for capturing different aspects of functional behavior, including observed behaviors, signs, and a functional behavior scale. The form is designed to be flexible and allows for a large number of fields to be created to accommodate specific needs.
-
-Please note that this form was created using AI and is not affiliated with or endorsed by any form platform. It is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-
-</thinking>
-
 # Functional Behavior Assessment Form - Help Guide
 ## Purpose
 The Functional Behavior Assessment Form is designed to assess and document an individual's functional behavior, which refers to the observable actions or behaviors that an individual exhibits.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mining Excavation Tools Requisition Form - Help Guide
 
 ## Purpose

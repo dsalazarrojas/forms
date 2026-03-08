@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## off_site_equipment_condition_monitoring_request - Help Guide
 
 **Purpose:**

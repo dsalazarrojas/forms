@@ -1,7 +1,3 @@
-<thinking>
-This form purpose is to collect basic information from users, likely for membership purposes or sign-ups, and it is meant for a web or mobile application. It includes a "note" page for general information, an email field for contact, a phone number field for additional contact info, a select one option field for membership type, a select multiple option field for multiple options, and a date field for date information. There is no redundancy or duplication in the form fields provided, as each field is distinct and serves a unique purpose. The form does not require any of the fields, suggesting it is meant to be optional.
-</thinking>
-
 # membership_form_with_sofort - Help Guide
 ## Purpose
 The membership_form_with_sofort is a form used to collect basic information from users for membership purposes or sign-ups.

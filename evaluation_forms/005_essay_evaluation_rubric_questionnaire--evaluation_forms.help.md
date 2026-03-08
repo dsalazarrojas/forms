@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and scores on an essay evaluation rubric. The purpose of this form is to provide a structured way to assess the quality and effectiveness of an essay. Each field in this form is intended to gather specific information or input from the user, and the fields have been designed to be clear and concise in their purpose and labeling.
-
-The form can be completed by filling in the fields with relevant information, and it can be used by educators or evaluators to assess essays and provide feedback to students.
-
-To ensure the form is filled out correctly, it is recommended that the user reviews each field carefully before submitting the form. This will help to ensure that all relevant information is provided and that the feedback and scores are accurate and fair.
-
-</thinking>
-
 # Essay Evaluation Rubric Questionnaire - Help Guide
 ## Purpose
 This form is used to collect feedback and scores on an essay evaluation rubric. It is designed to provide a structured way to assess the quality and effectiveness of an essay.

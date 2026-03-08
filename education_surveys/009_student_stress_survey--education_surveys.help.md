@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help students assess their levels of stress, identify potential sources of stress, and provide insights into their overall well-being. It's meant to be a quick and easy way for students to reflect on their mental health and provide information that can help educators and school administrators better understand student stress levels and develop targeted support strategies. Please note that this form is intended for students to report on their personal experiences and feelings, and it's essential to ensure that students' answers are kept confidential and anonymous. This form does not aim to diagnose or treat any psychological conditions.
-</thinking>
-
 # Student Stress Survey - Help Guide
 ## Purpose
 The Student Stress Survey is designed to help students reflect on their levels of stress, identify potential sources of stress, and provide insights into their overall well-being. This survey is meant to be a quick and easy way for students to report on their personal experiences and feelings.

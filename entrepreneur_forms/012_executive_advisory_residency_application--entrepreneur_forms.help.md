@@ -1,9 +1,3 @@
-<thinking>
-The Executive Advisory Residency Application form is used by potential candidates for an executive residency program. To be eligible to apply, the candidate must be an active participant in the program and not have any outstanding application status. This form ensures that all necessary information is collected and properly formatted for review.
-
-To create a new application, click on "Start Application" or "New Submission" and follow the steps below:
-</thinking>
-
 # Executive Advisory Residency Application - Help Guide
 ## Purpose
 This form is designed to collect necessary information from potential candidates for an executive residency program. Please fill out the form accurately and completely to ensure a smooth review process.

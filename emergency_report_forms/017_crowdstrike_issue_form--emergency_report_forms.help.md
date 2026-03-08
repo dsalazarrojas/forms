@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to capture critical information about an issue that has been reported, allowing teams to quickly identify and address problems. This form should only be used for new issues, and not for updating or editing existing ones. Before proceeding, please ensure that you have not already submitted an issue report for the same problem, as this will help prevent duplicate reports and ensure that issues are properly tracked and resolved.
-
-</thinking>
-
 # CrowdStrike Issue Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the CrowdStrike Issue Form. The form is designed to collect information about new issues reported by users.

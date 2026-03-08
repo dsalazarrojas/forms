@@ -1,8 +1,3 @@
-<thinking>
-We're providing a form for gathering feedback from participants who have undergone cross-training programs. This form is designed to capture their overall satisfaction and feedback on various aspects of the program. Please fill in the form carefully, ensuring that you're providing honest and constructive feedback. If you have any concerns or doubts about this form, please contact us at form@gic.mx.
-
-</thinking>
-
 # cross_training_feedback_survey - Help Guide
 ## Purpose
 The cross-training feedback survey is designed to gather information from participants who have undergone cross-training programs. This feedback will help us improve our training programs to better meet your needs and expectations.

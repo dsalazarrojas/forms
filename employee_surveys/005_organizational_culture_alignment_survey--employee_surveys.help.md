@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist employees in completing the Organizational Culture Alignment Survey form. The purpose of this survey is to gather information about employees' perceptions of their departmentalization, cultural identity, manager and team support, and leadership. This data will be used to help the organization better understand the cultural alignment within teams and departments, and to identify areas where improvement is needed. It's essential that employees fill out this form accurately and truthfully, as their feedback will contribute to creating a more inclusive and supportive work environment. Before starting, ensure you have read the instructions carefully and are familiar with the survey purpose.
-
-</thinking>
-
 # Organizational Culture Alignment Survey - Help Guide
 ## Purpose
 The Organizational Culture Alignment Survey aims to understand the alignment between individual employees and their team or department's culture. This survey gathers information about employee perceptions of their departmentalization, cultural identity, manager and team support, and leadership.

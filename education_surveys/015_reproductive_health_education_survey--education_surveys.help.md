@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data on reproductive health education, likely for research or educational purposes. It appears to be a straightforward survey with a mix of demographic and health-related questions. To ensure accurate and relevant data is collected, it's essential to follow this guide carefully.
-
-Before proceeding, please note that this form is intended to provide a general understanding of reproductive health education, not a medical diagnosis or personal advice. It's a self-reporting tool, and responses are meant to be kept confidential.
-
-To avoid any confusion, please be aware that some questions might overlap or seem redundant; however, these are designed to gather comprehensive data without overburdening the respondent. If you have any doubts or concerns, please contact the survey administrator or the relevant department.
-
-</thinking>
-
 # Reproductive Health Education Survey - Help Guide
 
 ## Purpose

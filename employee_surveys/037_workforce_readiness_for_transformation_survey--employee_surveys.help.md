@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to ensure that users understand the purpose and process of completing the "Workforce Readiness For Transformation Survey". To confirm, the form is intended to gauge the readiness of the workforce to undergo transformation and identify areas for improvement. It is essential to avoid duplication of effort and ensure that users have a clear understanding of how to complete the form accurately and efficiently.
-</thinking>
-
 # Workforce Readiness For Transformation Survey - Help Guide
 ## Purpose
 The purpose of this survey is to assess the readiness of your workforce to undergo transformation. This transformation includes adapting to new changes, processes, and technologies that may be implemented in the organization. Your responses will help identify areas of improvement and provide insights for effective change management.

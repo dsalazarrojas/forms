@@ -1,11 +1,3 @@
-<thinking>
-The form "onboarding_signature_collection" is used to collect essential information about an employee's employment details, emergency contacts, and acknowledgments. Its main purpose is to ensure that employees understand and comply with company policies and procedures during the onboarding process.
-
-This form serves as a crucial document to track employee onboarding progress and maintain accurate records. Completing this form demonstrates an employee's willingness to abide by company policies, which is vital for a smooth integration into the workforce.
-
-Before filling out this form, ensure that you have all necessary documents and understand each section's requirements. This guide will walk you through each field's purpose and what information is expected.
-</thinking>
-
 # onboarding_signature_collection - Help Guide
 ## Purpose
 The onboarding signature collection form is used to collect information about an employee's employment details, emergency contacts, and acknowledgments. It's essential to understand the company's policies and procedures during the onboarding process.

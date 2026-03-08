@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the sales operations manager application form is only used for its intended purpose and not for other tasks or roles. This form is meant to collect specific information from candidates applying for sales operations manager positions in our company. We should verify that the candidate provides accurate and relevant information to avoid misrepresentation. We should also be cautious not to duplicate efforts or create unnecessary work for our team members. This form should be used for internal use only and not for external or public use. We should review and update this form regularly to adapt to changing business needs and ensure it remains relevant and effective.</thinking>
-
 # sales_operations_manager_application_form - Help Guide
 ## Purpose
 The sales operations manager application form is used for candidates to apply for sales operations manager positions in our company. It's essential to provide accurate and relevant information to increase your chances of getting hired.

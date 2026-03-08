@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on their cross-training experiences. The form is used to assess the effectiveness of training programs and identify areas for improvement. This guide will help you complete the form accurately and thoroughly.
-
-Before proceeding, please ensure that you have received the necessary permissions or clearance to access and fill out this form. Also, be aware of any potential duplicate entries. If you're unsure or have already filled out a similar form, please double-check with your supervisor or relevant authorities to avoid duplication of effort.
-
-</thinking>
-
 # Cross Training Feedback Survey - Help Guide
 
 ## Purpose

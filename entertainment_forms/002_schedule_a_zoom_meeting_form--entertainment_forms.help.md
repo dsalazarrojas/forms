@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule a new Zoom meeting, allowing users to set a meeting title, attendees, start and end times, timezone, location, and other relevant details. This form is designed for internal use within the organization, ensuring that meeting details are accurately recorded and easily accessible for attendees. To avoid duplication, users should check if a similar meeting has been scheduled before filling out this form. 
-</thinking>
-
 # schedule a zoom meeting form - Help Guide
 ## Purpose
 The schedule a Zoom meeting form is used to plan and schedule a new meeting with colleagues or clients. It collects essential details such as start and end times, attendees, and location to ensure a smooth and well-organized meeting.

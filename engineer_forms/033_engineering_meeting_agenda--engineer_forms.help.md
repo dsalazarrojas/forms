@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture information about upcoming engineering meetings, including the meeting agenda, participants, topics to be discussed, action items, notes, and other relevant details. The purpose of this form is to ensure that all necessary information is collected and recorded accurately, facilitating effective communication and organization among team members and stakeholders. This form is intended to be completed by engineers, project managers, or team members responsible for coordinating meetings.
-
-</thinking>
-
 # Engineering Meeting Agenda - Help Guide
 ## Purpose
 The Engineering Meeting Agenda form is used to collect information about upcoming engineering meetings, including the meeting title, participants, agenda topics, action items, and other relevant details.

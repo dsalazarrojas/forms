@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and fields. This form is designed for peer evaluation, where employees are rating and providing feedback on their colleagues. The form collects various pieces of information, including ratings, feedback, and other relevant details. To confirm, we'll make sure to cover all the necessary fields and provide a clear explanation for each.</thinking>
-
 # Peer Evaluation - Help Guide
 
 ## Purpose

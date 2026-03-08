@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Course Evaluation Form" to ensure end users understand its purpose, how to complete it, and what each field means. I'll use the provided YAML fields to explain each section and field in a clear and concise manner.</thinking>
-
 # Course Evaluation Form - Help Guide
 
 ## Purpose

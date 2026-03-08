@@ -1,16 +1,3 @@
-<thinking>
-This form appears to be a survey designed to gather information about individuals' social media usage habits. The purpose of this form is to collect data on how often people use social media, what type of social media they use, and other related questions. This information can help in understanding social media trends and behavior of individuals, which may be helpful for various purposes such as market research or social media marketing strategies. It is likely that the survey responses will be used for internal analysis and reporting.
-
-It is worth noting that the form has multiple fields related to social media usage, but some of the fields have unclear labels. For example, `social_media_usage_survey_form1` and `social_media_usage_survey_form5` have unclear labels and do not seem to follow the naming convention of the other fields. 
-
-The form has a mix of required and optional questions, which suggests that it is a comprehensive survey aimed at gathering various aspects of social media usage. There is also a mix of select_one, select_multiple, and text fields, which indicates that the form is designed to collect different types of information.
-
-In terms of the fields themselves, `gender` is a select_one field with two options, male and female, which is a common demographic question. `age` is a number field, which suggests that the survey is interested in the age of the respondents. `how often do you use social media` is a select_multiple field with three options, which is likely to gauge the frequency of social media usage. `what type of social media do you use` is a select_multiple field with four options, which is likely to understand which social media platforms respondents use.
-
-The other fields, such as `how much time do you spend on social media` and `social_media_usage_survey_form8` and others, seem to be related to social media usage patterns, which is a key aspect of this survey.
-
-</thinking>
-
 # Social Media Usage Survey - Help Guide
 ## Purpose
 This form is a survey designed to gather information about your social media usage habits. Your responses will help us understand social media trends and behaviors.

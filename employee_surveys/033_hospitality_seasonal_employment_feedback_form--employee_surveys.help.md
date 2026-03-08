@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from seasonal employees on their experiences with the hospital's employment practices. The purpose of this form is to help the hospital's management identify areas of improvement and ensure that seasonal employees have a positive experience. Before starting the form, please ensure that you are completing it for the correct purpose and not for a duplicate or outdated feedback session. 
-</thinking>
-
 # Hospitality Seasonal Employment Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from seasonal employees on their experiences with the hospital's employment practices. The goal of this form is to help the hospital's management improve the overall experience and satisfaction of seasonal employees.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from performers who want to showcase their talent at a jazz festival. This form will help festival organizers assess the suitability of each performer and decide on the schedule for the festival. The form should only be filled out by individuals who are interested in performing at the festival.
-</thinking>
-
 # Jazz Festival Performance Application - Help Guide
 ## Purpose
 This form is designed for jazz musicians who want to apply for a spot at the jazz festival. The festival organizers will use the information provided to review and select performers for the festival.

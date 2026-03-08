@@ -1,7 +1,3 @@
-<thinking> 
-The form "Calamity Response Assessment" is designed to collect information about emergency response efforts following a disaster or calamity. This form is intended to gather data on the severity of the event, the response efforts taken, and the needs assessment for the affected areas. The form is used to track and monitor response efforts, provide situational awareness, and help identify areas that require further assistance. The form may be used by emergency responders, disaster management teams, or local government officials to quickly and efficiently gather information in the aftermath of a calamity. To prevent duplication of efforts, please ensure that you are submitting this form only once for each unique calamity.
-
-</thinking>
 # Calamity Response Assessment - Help Guide
 ## Purpose
 The Calamity Response Assessment form is designed to collect information about emergency response efforts following a disaster or calamity. This form is intended to gather data on the severity of the event, the response efforts taken, and the needs assessment for the affected areas.

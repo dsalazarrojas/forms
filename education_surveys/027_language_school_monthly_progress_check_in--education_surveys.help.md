@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Language School Monthly Progress Check In - Help Guide
 ## Purpose
 This form is designed to help language school administrators track student progress in language programs on a monthly basis. It's used to gather information about student's language skills, progress notes, and any comments or feedback from students or teachers.

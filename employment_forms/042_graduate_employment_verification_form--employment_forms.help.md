@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Graduate Employment Verification Form," we need to understand that its primary purpose is to collect information from recent graduates. The form should be filled out by graduates as part of the alumni tracking process to keep the institution informed about their employment status. It's likely used internally by the institution to track graduates' career paths and monitor their progress after graduation. The form might also serve as a means to verify the employment status of graduates for various reasons such as alumni engagement, statistics, or follow-up surveys.
-The form is divided into multiple pages, and some fields might be required for the form to be complete, while others are optional. The first page might ask for general contact information of the graduate, and the second page could request employment details such as their current employment status. The alumni tracking page might include options to track graduates for further follow-up. 
-To determine the exact flow and purpose of the form without additional information, the structure of the form seems to be focused on collecting general data from graduates, and some fields allow for custom or other options to be filled in. This guide will aim to explain each field in a straightforward way, assuming that the form's design follows the provided YAML structure.
-</thinking>
-
 # Graduate Employment Verification Form - Help Guide
 
 ## Purpose

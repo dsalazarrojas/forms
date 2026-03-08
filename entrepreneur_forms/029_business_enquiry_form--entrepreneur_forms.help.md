@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Enquiry Form - Help Guide
 
 ## Purpose

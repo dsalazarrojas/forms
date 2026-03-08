@@ -1,18 +1,3 @@
-<thinking>
-To determine the form's purpose, I will examine the fields and options provided in the YAML schema.
-
-Upon analyzing the form's structure, I observe that it contains fields for "User Information", "Equipment Information", "Approval Information", "Review Information", and "Submit Information". This suggests that the form is designed to collect data related to equipment maintenance, management, or extension.
-
-The form has options for approval, which implies that the form may be used for requesting approval for some kind of equipment-related action. The "Submit Information" field suggests that the form may be used to track or submit updates on the equipment's status.
-
-However, without specific information on the business context, I will proceed under the assumption that the form is used for requesting equipment lifecycle extensions, which can include upgrading, replacing, or repurposing equipment.
-
-To confirm, the form's purpose should ideally be reviewed with the relevant stakeholders to ensure accuracy and relevance.
-
-Assuming the form is relevant and not a duplicate, I will proceed with creating the user-facing help guide.
-
-</thinking>
-
 # Equipment Lifecycle Extension Request Form - Help Guide
 ## Purpose
 The Equipment Lifecycle Extension Request Form is designed to collect information and request approval for equipment lifecycle extensions, which can include upgrading, replacing, or repurposing equipment.

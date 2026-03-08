@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about customers' purchases of homemade soap products. The fields are meant to gather data on the customer's contact information, purchasing details, and feedback. The form is likely used by a business or organization that sells homemade soap products online or in-person. To avoid duplication, the form should only be filled out for a new customer or a purchase that has not been previously recorded. If you have already filled out this form for a specific purchase, please do not resubmit it. If you are unsure about the form's purpose or have questions, please contact the relevant authorities for clarification.
-</thinking>
-
 # Homemade Soap Survey Form - Help Guide
 ## Purpose
 The Homemade Soap Survey Form is used to collect customer feedback and data on purchases of homemade soap products.

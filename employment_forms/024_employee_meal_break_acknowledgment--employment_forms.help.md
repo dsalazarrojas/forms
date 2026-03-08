@@ -1,7 +1,3 @@
-<thinking>
-The form "Employee Meal Break Acknowledgment" is used to document employee's meal breaks, which are breaks taken during the workday to recharge and refresh. The purpose of this form is to ensure that employees are taking their required meal breaks and to provide a record of their meal break duration, start and end times, and other relevant details. This form is also used to track whether employees are following the company's meal break policy, which is to take a certain amount of time off to rest and recharge. The form should only be filled out by employees who are eligible to take meal breaks and have been authorized to do so by their manager. The form should not be used for non-employees or those not authorized to take meal breaks.
-</thinking>
-
 # Employee Meal Break Acknowledgment - Help Guide
 ## Purpose
 The purpose of this form is to document and track employee meal breaks, ensuring that employees are following the company's meal break policy and taking required breaks to rest and recharge.

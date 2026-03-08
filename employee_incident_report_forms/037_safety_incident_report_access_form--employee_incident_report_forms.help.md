@@ -1,22 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about incidents that have occurred within the organization. This includes gathering details about the incident, such as its date and time, location, summary, type, cause, and any injuries sustained. Additionally, the form collects information about the person reporting the incident, including their department, role, and any actions they took or are taking to address the incident. The form also allows the reporter to indicate if they are reporting an incident that occurred on a reportable form.
-
-To complete this form, follow these steps:
-
-1. Fill in the incident date and time in the "Incident Date" and "Incident Time" fields.
-2. Enter a brief summary of the incident in the "Incident Summary" field.
-3. Select the type of incident that occurred from the "Incident Type" dropdown menu.
-4. Describe any injuries sustained in the "Injuries Description" field.
-5. Select the department and role of the person reporting the incident from the corresponding dropdown menus.
-6. Select the incident manager and investigator from the corresponding dropdown menus.
-7. Indicate if this is a reportable incident by selecting "True" or "False" from the "Incident Report Form" dropdown menu.
-8. Fill in the reporting date and time.
-
-The purpose of this form is to gather incident-related data in a structured and standardized way to improve incident reporting and management within the organization.
-
-</thinking>
-
 # safety-incident-report-access-form - Help Guide
 ## Purpose
 This form is designed to gather information about incidents that have occurred within the organization. Its main goal is to facilitate incident reporting and management for improved decision-making and response.

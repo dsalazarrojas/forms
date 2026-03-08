@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for booking stage power connections for events. The purpose of this form is to collect information about the event name, date, start time, total outlets, watts drawn, voltage, and other relevant details to facilitate the stage power connection process. This form will be used by event organizers to provide accurate and efficient stage power connection services.
-
-</thinking>
-
 # stage_power_connection_booking_form - Help Guide
 ## Purpose
 The stage_power_connection_booking_form is designed for event organizers to collect information about stage power connections.

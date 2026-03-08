@@ -1,11 +1,3 @@
-<thinking>
-We are going to create a help guide for the "Educational Support Assessment" form, designed to assist educators in identifying the challenges and needs of their students. This form is intended to be completed by educators to gather information about students' difficulties in a specific subject or skill, providing a foundation for providing targeted support. It is possible that educators may complete multiple instances of this form for different students, but it is not the primary goal of this form.
-
-The form has various fields, including text inputs (first name, age, email, phone number, any other information, date, time), select_one inputs (most significant challenge, primary goal of educational support), and select_multiple inputs (skills that require support, first, second, and third languages). This form aims to gather data on students' challenges, support needs, and language proficiency.
-
-Before proceeding, ensure that you have reviewed all the form fields and understand their purpose. This guide will walk you through each field in detail.
-</thinking>
-
 # Educational Support Assessment - Help Guide
 ## Purpose
 The Educational Support Assessment form is designed to gather information from educators about students' challenges and support needs. This form helps educators identify areas where students require additional support, allowing for targeted interventions and improved student outcomes.

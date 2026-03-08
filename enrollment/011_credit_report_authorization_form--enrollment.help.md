@@ -1,8 +1,3 @@
-<thinking>
-This form is used for credit reporting purposes, allowing users to authorize access to their credit report data. The form will ask for basic contact information, credit report details, and authorization preferences. The form is likely used in situations where a user needs to share their credit report information for employment, rental, or other purposes.
-The purpose of this form is to ensure that users understand what information is being requested and provide a secure and efficient way to obtain necessary documents, such as a credit report.
-</thinking>
-
 # Credit Report Authorization Form - Help Guide
 ## Purpose
 This form is used for credit reporting purposes, allowing users to authorize access to their credit report data.

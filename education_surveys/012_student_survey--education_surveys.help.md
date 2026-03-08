@@ -1,8 +1,3 @@
-<thinking>
-To prevent the form from being completed in error, this guide is intended for internal users. Please ensure this form is completed by students as part of the survey process.
-We have checked that there are no duplicate fields.
-</thinking>
-
 # Student Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students on their experience with the educational resources and services provided by the institution. The purpose of this form is to gather information that can be used to improve the quality of education and student life.

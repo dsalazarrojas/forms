@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form's purpose is to capture an Employee's acknowledgement and agreement to the company's non-disclosure requirements upon exit. It serves as a formal acknowledgement that the employee has not taken any confidential company information with them upon leaving.
 
 To complete this form, you will be asked to provide your acknowledgement of the agreement, sign the form, and optionally select whether you have taken any confidential company information with you.

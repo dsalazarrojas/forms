@@ -1,19 +1,3 @@
-<thinking>
-
-The purpose of this form, "Form I 9 Employment Eligibility Verification", is likely to verify employment information about an employee, particularly regarding their eligibility to work in the United States. This form is probably used by employers to comply with the requirements of the Immigration and Nationality Act (I-9), which regulates the verification of employment authorization for all employees. 
-
-This form is intended to be filled out by employees, and its completion is likely required for immigration or other employment-related purposes. The form might be part of the onboarding process for new employees or part of an existing employee's personnel file.
-
-Given the provided YAML fields, it seems that the form asks for basic employee information, such as name, employment status, and other details. It might be used as a template for a specific company or organization to create a custom form for their employees.
-
-The fields seem to be mostly optional, except for "Last Name" and "First Name", which suggests that these are essential details for identifying the employee. The other fields, like "Date of Hire", "Social Security Number", and "Employee ID" might be optional but useful for administrative purposes.
-
-It's also possible that the form is meant to be used in conjunction with other forms or processes, like an I-9 form that requires additional documentation or signatures.
-
-Please note that without further information about the form's specific usage, these assumptions are based on general knowledge of I-9 forms and employment verification.
-
-</thinking>
-
 # Form I 9 Employment Eligibility Verification - Help Guide
 
 ## Purpose

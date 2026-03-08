@@ -2,8 +2,6 @@
 ## Purpose
 The Workload Balance Evaluation Survey is designed to assess your experience with your workload balance. It's meant to gather information about your perceptions and opinions on your current workload, allowing us to better understand your needs and make necessary adjustments to promote a healthier work-life balance.
 
-<thinking>Before starting, please take a moment to review the form purpose and ensure it's relevant to your experience. This form is intended to evaluate your workload balance and is not a performance evaluation or any other type of survey. If you're unsure or have concerns, contact us for clarification.</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

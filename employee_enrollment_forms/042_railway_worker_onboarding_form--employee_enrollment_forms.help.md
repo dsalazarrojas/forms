@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to collect information about a new railway worker during the onboarding process. This form will serve as a template to be completed by the new employee during the initial steps of joining the railway workforce. Please note that this form will not be used for any other purpose than onboarding and will only be used internally within the organization.
-
-</thinking>
-
 # Railway Worker Onboarding Form - Help Guide
 ## Purpose
 The Railway Worker Onboarding Form is designed to collect essential information about new railway workers during the onboarding process. This form helps the organization to understand the worker's personal details, work experience, and other relevant background information.

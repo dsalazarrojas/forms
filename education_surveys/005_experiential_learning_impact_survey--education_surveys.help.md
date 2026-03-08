@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and data on the impact of experiential learning on students, which can be used to evaluate the effectiveness of experiential learning programs. This form is designed to gather information on the outcomes and skills gained by students, as well as any improvement ideas they may have. The form will help assess the quality and effectiveness of the experiential learning program, which can inform future program development and improvement.
-</thinking>
-
 # Experiential Learning Impact Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback and data on the impact of experiential learning on students. It will help evaluate the effectiveness of experiential learning programs and inform future program development and improvement.

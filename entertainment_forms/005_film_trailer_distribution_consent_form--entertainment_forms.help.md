@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by individuals who need to review and approve the distribution of films. The form is a collection of fields that ask about the details of the trailer distribution, including the trailer details, authorization, partner signature, distribution date, production company, rights holder, and distributor. This form is designed to be filled out by one person, but it can be reviewed and verified by multiple people. The form is not mandatory, but it is recommended to be completed for record-keeping purposes. It's also important to note that this form might be used in conjunction with other documents or forms, such as contracts or agreements, to ensure that all necessary information is captured. Please review the form carefully and ensure that all required fields are filled out correctly.
-</thinking>
-
 # film_trailer_distribution_consent_form - Help Guide
 ## Purpose
 This form is used to record the details of film trailer distribution. It's essential to fill out this form accurately to ensure that all necessary information is captured.

@@ -1,9 +1,3 @@
-<thinking>
-AI-generated forms are created using only public survey topic metadata as inspiration and do not copy, extract, or use proprietary content from any other form creation, data collection, or survey platform.
-Please note that the fields and their requirements are based on the provided YAML configuration.
-The following guide is for users who aim to provide their genuine feedback on AHP Questionnaire.
-</thinking>
-
 # AHP Questionnaire - Help Guide
 ## Purpose
 The AHP Questionnaire is designed to collect feedback from users about their experience with our application. Your input will help us improve and refine the questionnaire to better serve your needs.

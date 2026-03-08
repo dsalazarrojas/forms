@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a survey designed for students, likely used to collect data or feedback from Sunday school attendees. The form may be used to gather demographic information, feedback, or suggestions from students. However, I'll need to analyze the form structure and fields to better understand its purpose.
-
-Upon reviewing the form, it seems to be collecting general information about students, including their name, email, phone number, age, class, and subject of interest. The form also includes options for students to provide comments, ask questions, and suggest areas for improvement. 
-
-Please note that the form doesn't specify whether this data will be used for official records, feedback, or marketing purposes. It's essential to verify the form's actual purpose with the relevant stakeholders to ensure that users understand how their data will be used.
-
-To confirm the form's purpose, it would be best to review the form's usage context and the intended audience. Are these students participating in a class, workshop, or some other type of event? Are the collected data being used for official records, research, or other purposes?
-
-</thinking>
-
 # sunday_school_survey - Help Guide
 ## Purpose
 This form is designed to collect demographic information and feedback from Sunday school attendees.

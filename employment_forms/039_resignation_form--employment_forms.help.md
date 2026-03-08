@@ -1,12 +1,3 @@
-<thinking>
-This form is used for an employee to formally notify their supervisor that they are resigning from their position within the company. It is essential to complete this form accurately and thoroughly to ensure a smooth transition process.
-
-Before beginning, please ensure that you have read and understood your company's resignation policy. This form should only be completed by employees who are certain they are resigning and have discussed their plans with their supervisor.
-
-If you are unsure about any of the fields, it's best to reach out to your HR department or supervisor for clarification.
-
-</thinking>
-
 # Resignation Form - Help Guide
 ## Purpose
 The Resignation Form is used by employees to notify their supervisor of their intention to leave the company. This form is a formal record of the employee's resignation, including their reason for leaving, effective date of resignation, and other relevant details.

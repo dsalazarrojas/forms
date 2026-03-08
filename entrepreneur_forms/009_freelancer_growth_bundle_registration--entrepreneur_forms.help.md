@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Freelancer Growth Bundle Registration - Help Guide
 
 ## Purpose

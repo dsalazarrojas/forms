@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect business logo information for an entrepreneur or business owner, typically for design and approval processes. This form should only be used for submitting business logos and not for other types of logos or non-business related submissions. To ensure that this form is used for its intended purpose, please review the fields below and only enter information that is relevant to your business.
-</thinking>
-
 # Business Logo Submission Form - Help Guide
 ## Purpose
 This form is designed to collect business logo information for design and approval processes.

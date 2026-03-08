@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and agree upon the commission terms for a salesperson's services. The form outlines the details of the salesperson's remuneration for their work, including the commission structure, payment schedule, and effective date of the agreement. This form is essential for ensuring clear communication and avoiding misunderstandings between the salesperson and the entity engaging them.
-</thinking>
-
 # Commission Agreement Form - Help Guide
 ## Purpose
 The Commission Agreement Form is used to document and agree upon the commission terms for a salesperson's services. This form is essential for ensuring clear communication and avoiding misunderstandings between the salesperson and the entity engaging them.

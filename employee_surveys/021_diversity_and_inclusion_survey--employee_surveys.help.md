@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about employee experiences, perceptions, and preferences related to diversity and inclusion in the workplace. This form aims to collect data on various aspects of employee demographics, work environment, diversity practices, inclusion practices, training programs, communication, reporting, action items, follow-up, survey completion, contact information, and comments. The goal is to provide insights to improve diversity and inclusion initiatives within the organization.
-
-This guide is intended for employees who are completing the form as part of a survey. It is crucial to ensure that the form is filled out accurately and thoroughly, providing valuable feedback to support the organization's diversity and inclusion goals.
-
-Please review the form carefully and ensure that you provide thoughtful and honest responses.
-
-</thinking>
-
 # Diversity And Inclusion Survey - Help Guide
 ## Purpose
 The "Diversity And Inclusion Survey" is a form designed to gather information about employee experiences, perceptions, and preferences related to diversity and inclusion in the workplace.

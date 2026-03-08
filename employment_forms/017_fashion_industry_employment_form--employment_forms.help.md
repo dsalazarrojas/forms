@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for users who want to apply for a job in the fashion industry. The purpose of this form is to collect information about the applicant's details, contact information, portfolio, and job preferences. This form is likely used by hiring managers or recruiters to evaluate candidates for potential positions in the fashion industry.
-
-To avoid duplication, it's essential to ensure that the information provided is accurate and up-to-date. This form should only be filled out once the candidate has carefully reviewed and understood the requirements and guidelines set forth in the help guide.
-
-</thinking>
-
 # Fashion Industry Employment Form - Help Guide
 ## Purpose
 The purpose of this form is to provide essential information about your application for a job in the fashion industry. This form helps our team to get to know you better and understand how you can contribute to our team.

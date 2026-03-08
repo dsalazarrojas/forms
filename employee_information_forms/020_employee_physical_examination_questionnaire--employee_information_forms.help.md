@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for gathering information about an employee's physical health status. The purpose of the form is to collect data about the employee's medical history, allergies, medical conditions, and other relevant health-related information. This information can be used by HR or management for risk assessments, compliance, and other administrative purposes. It is essential to complete this form accurately and honestly to ensure the accuracy of the data. It is also recommended to check the form for any duplication or redundancy, as it might have been previously completed by the same employee.
-</thinking>
-
 # Employee Physical Examination Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about an employee's physical health status, medical history, and other relevant health-related information.

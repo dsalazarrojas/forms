@@ -1,10 +1,3 @@
-<thinking>
-This form is for documenting the health and maintenance status of industrial equipment. It captures information about the equipment's name, description, status, last inspection date, next inspection due date, any issues or problems, and other relevant details. This form is used to track and record the history of an equipment's maintenance and inspection cycles. 
-
-To confirm, this form should only be used for industrial equipment maintenance logs, not for other types of equipment or non-industrial purposes. Please use this form with caution to avoid duplication of work and ensure accurate and consistent data collection.
-
-</thinking>
-
 # industrial_equipment_health_log_report - Help Guide
 ## Purpose
 The industrial equipment health log report form is designed to gather and record information about the maintenance and inspection history of industrial equipment. This form helps track the status of equipment, identify potential issues, and schedule future inspections.

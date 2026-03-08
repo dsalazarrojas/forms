@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Direct Deposit Form Template - Help Guide
 ## Purpose
 The Direct Deposit Form Template is a tool used to collect information from employees about their direct deposit settings. This form is meant for employees who wish to set up or modify their direct deposit arrangements. It is an essential tool for HR administrators to process and manage direct deposit requests accurately and efficiently.

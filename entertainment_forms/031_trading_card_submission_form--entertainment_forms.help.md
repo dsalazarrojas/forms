@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trading Card Submission Form - Help Guide
 
 ## Purpose

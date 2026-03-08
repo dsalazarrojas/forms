@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for students to provide feedback on a geology course. The goal is to gather information about the student's experience and opinions about the course. This form has multiple pages, each with different fields that ask for specific types of feedback. 
-
-The form is designed to collect feedback on various aspects of the course, such as the rating of the course, evaluation of the instructor, and suggestions for improvement. The fields include rating scales, multiple choice questions, and text areas for students to provide additional comments. 
-
-Before proceeding, please make sure that this form is relevant to your specific situation and that you haven't already provided feedback on this course. If you have already submitted feedback, it's not necessary to fill this form again. 
-</thinking>
-
 # geology_course_feedback_survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on a geology course. It's meant to help us understand your experience and opinions about the course.

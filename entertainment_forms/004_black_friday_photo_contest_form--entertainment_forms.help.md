@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect entries for a Black Friday photo contest, where participants can submit their best Black Friday moments with prizes to be won. The form is intended for customers who want to participate in the contest, and the information collected will be used to review and potentially feature their photos on the company's website or social media channels. It's essential to ensure that all submitted photos meet the contest rules and are suitable for public viewing. The form requires accurate contact information, a clear photo title, description, and date taken, as well as permission to publish the photo and agreement to the contest rules. Please review the following help guide to understand the form's purpose and how to complete it correctly.
-</thinking>
-
 # Black Friday Photo Contest Form - Help Guide
 ## Purpose
 This form is for customers to submit their photos for the Black Friday photo contest. It's essential to fill out the form accurately and completely to be eligible for prizes and potential publication on the company's website or social media channels.

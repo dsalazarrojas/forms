@@ -1,7 +1,3 @@
-<thinking>
-This form is for selecting a direct deposit account for an employee. It is used to capture information related to the employee's direct deposit account, including their ID, account details, and authorization status. This form is likely used in a payroll or HR context. It is not a critical form that requires immediate attention, so it is not required for completion.
-</thinking>
-
 # direct_deposit_account_selection - Help Guide
 ## Purpose
 The direct_deposit_account_selection form is used to select a direct deposit account for an employee. It captures information related to the employee's direct deposit account, including their ID, account details, and authorization status.

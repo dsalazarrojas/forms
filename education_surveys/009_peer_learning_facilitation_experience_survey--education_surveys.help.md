@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Peer Learning Facilitation Experience Survey - Help Guide
 
 ## Purpose

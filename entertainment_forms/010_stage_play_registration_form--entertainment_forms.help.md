@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to gather registration information for stage plays. This form is used by entertainment industry professionals to collect data on stage plays being presented in a theater or production house. The form is designed to capture essential details about the stage play, including the team name and the script. 
-
-Before proceeding, please confirm that this form is relevant to your needs and not a duplicate. If you are unsure, consider the following questions:
-- Are you a theater or production house representative?
-- Are you seeking to register a stage play for presentation or production purposes?
-- Does your organization have a legitimate interest in collecting stage play registration data?
-
-If you answered "yes" to these questions, then proceed to complete the form below.
-
-</thinking>
-
 # stage_play_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to gather registration information for stage plays.

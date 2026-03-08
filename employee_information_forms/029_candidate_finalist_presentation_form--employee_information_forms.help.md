@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Candidate Finalist Presentation Form - Help Guide
 ## Purpose
 The Candidate Finalist Presentation Form is used by the recruitment team to evaluate and present the top candidates to the hiring organization. This form is a comprehensive guide to provide an in-depth analysis of the candidate's qualifications, fit, and potential as a future team member. It's essential to fill out this form accurately and completely to ensure that the client receives a well-rounded understanding of the candidate's strengths and weaknesses.

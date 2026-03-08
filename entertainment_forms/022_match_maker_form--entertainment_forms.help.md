@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a help guide for the Match Maker Form that explains its purpose, how to complete it, and what each field means. This guide will be in Markdown format, which is easy to read and understand. I will also include a brief internal reasoning block to explain the form's purpose and relevance, as well as ensure that the form is not duplicated.</thinking>
-
 # Match Maker Form - Help Guide
 ## Purpose
 The Match Maker Form is designed to collect information from clients about their personal details, contact information, and other relevant aspects. This form is meant to be completed by clients or users who are interested in getting matched with a partner or service provider.

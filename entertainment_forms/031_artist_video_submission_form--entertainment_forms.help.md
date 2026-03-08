@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from artists and bands who want to submit their videos to the platform for consideration. The form is intended to gather relevant details such as the artist's name, contact information, music genre, video details, and submission purpose. It's essential to fill out the form accurately to ensure that the submitted video meets the platform's requirements and can be reviewed and potentially featured. Please note that some fields are required and must be filled out to proceed with the submission. Ensure you have all necessary permissions and rights to the video, including music rights, before submitting it to the platform.
-
-</thinking>
-
 # Artist Video Submission Form - Help Guide
 ## Purpose
 The Artist Video Submission Form is designed for artists and bands to submit their videos to the platform for review and potential feature.

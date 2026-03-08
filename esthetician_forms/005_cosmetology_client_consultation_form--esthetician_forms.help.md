@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from cosmetology clients to facilitate a consultation session. The form is divided into three pages: "What is your hair type?", "Client Information", and "Services". The form is not affiliated with or endorsed by any form platform, and it is released under the Creative Commons 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # Cosmetology Client Consultation Form - Help Guide
 ## Purpose
 This form is designed to gather information from cosmetology clients to facilitate a consultation session. It helps the cosmetologist understand the client's hair type, personal details, and service preferences.

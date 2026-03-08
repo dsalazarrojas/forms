@@ -1,10 +1,3 @@
-<thinking>
-This form is used for consumer authorization, where the consumer is providing their personal and financial information for the purpose of authorizing a specific service or activity. This form is likely to be used in a business-to-consumer (B2C) context, such as in a retail setting. The form is designed to collect sensitive information from the consumer, including their name, address, contact details, and authorization type. The fields are organized in a logical and straightforward manner to ensure that the consumer can easily understand what is being asked of them and provide the necessary information.
-
-The form will be completed by the consumer, and the submitted data will be reviewed and processed by the relevant authority. It is essential that the consumer understands the purpose and implications of filling out this form.
-
-</thinking>
-
 # Consumer Authorization Form - Help Guide
 ## Purpose
 This form is used for consumer authorization in a business-to-consumer (B2C) context. It is designed to collect personal and financial information from the consumer to authorize a specific service or activity.

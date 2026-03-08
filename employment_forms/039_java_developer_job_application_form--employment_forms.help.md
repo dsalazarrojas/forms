@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for job applicants to apply for a Java Developer position. The form is intended to gather information about the applicant's contact details, education, job interests, skills, job experiences, and job expectations. This form will help the HR team to filter and shortlist the applicants for the Java Developer position. This form should not be completed by individuals who are not looking for a Java Developer position or who have already been hired for this position.</thinking> 
-
 # Java Developer Job Application Form - Help Guide
 ## Purpose
 This form is designed for job applicants to apply for a Java Developer position. The form is intended to gather information about the applicant's contact details, education, job interests, skills, job experiences, and job expectations. 

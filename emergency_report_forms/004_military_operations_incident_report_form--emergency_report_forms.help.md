@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block of code is used to generate a help document for a form. The form is used for reporting military operations incidents. The form purpose is to document and track incidents that occur during military operations. Each field is designed to gather specific information related to the incident.
 
 </thinking>

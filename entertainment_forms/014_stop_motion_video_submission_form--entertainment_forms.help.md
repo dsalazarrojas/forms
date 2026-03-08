@@ -1,8 +1,3 @@
-<thinking>
-This form is used for users to submit their stop motion videos for review and potential inclusion in a contest or festival. The purpose of this form is to collect relevant information about the user and their video submission. The form should only be filled out once per submission, and users should not submit multiple times with the same video. 
-
-</thinking>
-
 # Stop Motion Video Submission Form - Help Guide
 ## Purpose
 The Stop Motion Video Submission Form is a tool for users to submit their stop motion videos for review and potential inclusion in a contest or festival. This form collects information about the user and their video submission, including contact details and video metadata.

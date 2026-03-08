@@ -1,11 +1,3 @@
-<thinking>
-
-**Form Purpose:** The "New Product Order Form" is designed to collect information from customers about their product ordering needs. It will help businesses gather essential details about the customer, product, and order delivery requirements, as well as payment information.
-
-Before proceeding, please note that this form is a unique, AI-generated adaptation of a product order form and does not use content from any proprietary platforms.
-
-</thinking>
-
 # New Product Order Form - Help Guide
 ## Purpose
 The "New Product Order Form" is a tool designed to streamline the ordering process for businesses and customers alike. It collects essential information about the customer, product, and order details, ensuring accurate and efficient order processing.

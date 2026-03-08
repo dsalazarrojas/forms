@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a fun and interactive way for users to engage with the theme of Easter. The questions cover various aspects of the holiday, such as its meaning, traditions, and celebrations. This form is likely to be used by people interested in understanding what others think about Easter or by marketers to gather opinions on the holiday. To ensure a comprehensive understanding, this guide will cover each field and explain its purpose, making it easier for users to complete the form accurately and effectively.
-</thinking>
-
 # Easter Quiz - Help Guide
 ## Purpose
 The Easter Quiz is a set of questions designed to gather opinions and thoughts about Easter. It aims to explore different aspects of the holiday, from its meaning and traditions to its celebrations and activities. The goal is to collect data that will help users understand their own views on Easter and potentially provide insights for those who want to know what others think.

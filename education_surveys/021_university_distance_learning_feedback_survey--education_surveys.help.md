@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather feedback from students regarding their experience with the University Distance Learning program. The form aims to collect information on the quality of online learning, communication, support services, overall experience, and other feedback. The purpose of this form is to help the University Distance Learning program understand what aspects of the program need improvement and what they are doing well. The form is designed to be completed by students who have taken one of the programs offered by the University Distance Learning. 
-
-Please note that some fields may not be relevant to all users, and it's okay to leave them blank if not applicable. 
-
-This form is not intended to be a substitute for other methods of feedback, but rather a supplement to help identify areas of improvement.
-</thinking>
-
 # University Distance Learning Feedback Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback from students on their experience with the University Distance Learning program. We would like to know about your online learning quality, communication, support services, and overall experience. Your input will help us improve our program and make it better for future students.

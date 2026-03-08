@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess and document potential risks in the workplace. The form is designed to gather information on the type and severity of the risk, as well as any recommended controls or mitigations. This information can be used by the safety team to identify and prioritize risks, and to ensure that adequate measures are in place to mitigate them. It is essential to complete this form carefully and accurately to ensure that the safety team has a comprehensive understanding of potential risks. Please note that this form is not to be used for any other purpose than risk assessment, and any data collected through this form will be used solely for risk management purposes. Please ensure that the form is filled out correctly and thoroughly before submitting it to the safety team.
-
-</thinking>
-
 # Risk Assesment Form - Help Guide
 ## Purpose
 The Risk Assesment Form is used to identify and document potential risks in the workplace. It helps the safety team to assess the risk level, probability, and recommended controls or mitigations.

@@ -1,5 +1,3 @@
-<thinking>Screen Printing Order Form helps the customer to order a screen printing job with all relevant details. It should be used for any order that requires customer information, order details, shipping, and payment information. To prevent errors, please use this form for all screen printing orders, and avoid submitting duplicate orders or modifying existing ones.</thinking>
-
 # Screen Printing Order Form - Help Guide
 ## Purpose
 The Screen Printing Order Form is a comprehensive form used to capture all the necessary details for a screen printing order.

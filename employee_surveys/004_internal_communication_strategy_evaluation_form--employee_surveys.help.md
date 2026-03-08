@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the internal communication strategy of an organization. It is intended to gather feedback on the frequency and effectiveness of internal communication channels, as well as employee satisfaction with the current communication strategy. Before completing this form, please ensure that you have a clear understanding of the organization's internal communication channels and your personal experience with them. This form should not be filled out if you have already completed it in the past 30 days.
-</thinking>
-
 # internal_communication_strategy_evaluation_form - Help Guide
 ## Purpose
 The internal communication strategy evaluation form is a tool used to assess the current state of internal communication within an organization. It aims to gather feedback on the effectiveness and frequency of internal communication channels, as well as employee satisfaction with the current strategy.

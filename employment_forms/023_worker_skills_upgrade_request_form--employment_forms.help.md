@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees and managers about the upgrade of a worker's skills. This form will likely be used for administrative purposes, such as tracking the status of employee skill upgrades, and ensuring that upgrades are completed within a certain timeframe. To ensure that the form is filled out correctly, users should only fill it out once for each upgrade request, as duplicate requests may cause confusion and delays in the upgrade process.
-</thinking>
-
 # Worker Skills Upgrade Request Form - Help Guide
 ## Purpose
 The Worker Skills Upgrade Request Form is used to request an upgrade of an employee's skills.

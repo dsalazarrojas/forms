@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about students who wish to enroll in a gymnastics class. It's likely a form used by a gym or sports organization to register new students. Please fill out this form carefully to ensure accurate and complete information is collected for your records. 
-
-Before filling out this form, make sure to have the following information ready: first name, last name, email, phone number, date of the class you want to attend, time of the class, class days, and any relevant experience you may have. 
-
-</thinking>
-
 # Gymnastics Enrollment Form - Help Guide
 ## Purpose
 The Gymnastics Enrollment Form is a simple registration form designed to collect necessary information from students who wish to enroll in a gymnastics class. This form is intended for students to provide their personal details, class preferences, and any relevant experience they may have.

@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure that the form is being used for its intended purpose and not as a duplicate effort. Before proceeding, please confirm that you are taking the Termination Process Feedback Survey to provide genuine feedback about your experience with our termination process. This survey is designed to help us understand what we can improve to make our termination process more effective and fair for all employees. Please answer the questions truthfully, and if you have any concerns or questions, feel free to reach out to us.
-</thinking>
-
 # Termination Process Feedback Survey - Help Guide
 ## Purpose
 The Termination Process Feedback Survey is designed to gather your thoughts and opinions about our termination process. Your feedback is invaluable in helping us identify areas for improvement and enhance the experience for all employees.

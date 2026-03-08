@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about users' understanding of molecules and compounds in the context of educational surveys. This form was created using public data and is intended to help researchers and educators understand student's knowledge on this topic. Before proceeding, verify that you are filling this form for educational purposes and that the information is not used for commercial use. If you are looking for a form with similar intent, please check our other forms in the <a href='https://forms.gic.mx'>forms.gic.mx</a> platform.
-</thinking>
-
 # Molecules And Compounds Survey - Help Guide
 ## Purpose
 This form is designed to gauge users' understanding of molecules and compounds in an educational setting.

@@ -1,9 +1,3 @@
-<thinking>
-This is an evaluation form designed to help users select and evaluate ERP (Enterprise Resource Planning) platforms. The form will likely be used by business users or IT professionals to provide input on their experience with an ERP platform.
-This form should only be used to evaluate a specific ERP platform, and not for other types of systems.
-It's essential to fill out this form accurately, and not duplicate it for other platforms.
-</thinking>
-
 # erp_platform_selection_evaluation_form - Help Guide
 ## Purpose
 This form is designed to help users evaluate and compare different ERP platforms. The data collected through this form will be used to generate insights and reports that can help make informed decisions about which platforms to use.

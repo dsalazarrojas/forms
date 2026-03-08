@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and performance information from employees. It should only be filled out by employees, and not duplicated or repeated. 
-</thinking>
-
 # Performance Evaluation Survey - Help Guide
 ## Purpose
 The Performance Evaluation Survey is a form designed to collect feedback and performance information from employees. It is meant to be filled out by employees to provide valuable insights for their own performance evaluation and growth.

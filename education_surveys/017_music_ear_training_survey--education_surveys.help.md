@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a user's experience and thoughts on music ear training, a practice used by musicians to improve their ability to recognize and reproduce music. The form is designed to collect data on the user's skills and methods used in ear training, their music theory background, and their ideas for music-related apps. It is likely used in an educational or research setting to gather feedback from users and inform the development of music ear training resources.
-</thinking>
-
 # Music Ear Training Survey - Help Guide
 ## Purpose
 The Music Ear Training Survey is a form designed to gather information about your experience with music ear training, a practice used by musicians to improve their ability to recognize and reproduce music.

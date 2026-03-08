@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to RSVP to a fashion-related event. The form is not a part of a regular event planning process, so the user should be sure they are attending a fashion event before proceeding. The user should also be aware that the RSVP status and comment fields are optional and do not have any impact on their attendance confirmation.
-
-</thinking>
-
 # Fashion Label Launch RSVP Form - Help Guide
 
 ## Purpose

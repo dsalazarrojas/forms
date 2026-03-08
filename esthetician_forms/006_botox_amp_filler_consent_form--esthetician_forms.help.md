@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the Botox and Filler Consent Form is filled out correctly to gather essential information from patients. This form should only be used for patients who are scheduled for Botox or filler treatments. The form's purpose is to get patient consent for the treatments, understand their medical history, and ensure they are aware of the potential risks and side effects associated with these procedures.
-The form must be filled out by patients before their scheduled treatments.
-The form's fields are designed to gather specific information from patients. We need to make sure that the fields are filled out correctly and that patients understand their purpose.
-Let's review the fields one by one to ensure we understand what each one means and how to fill it out correctly.
-</thinking>
-
 # Botox and Filler Consent Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients before Botox and filler treatments. It is used to get patient consent, understand their medical history, and ensure they are aware of the potential risks and side effects associated with these procedures.

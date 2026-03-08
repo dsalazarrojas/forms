@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure this help guide is accurate and helpful, I'll first analyze the form fields and their purposes.
-
-The form appears to be designed for assessing groups, likely in a professional or educational setting. It gathers information on various aspects of the group, including their dynamics, participation, engagement, and areas for improvement. The form also captures feedback and recommendations from the facilitator.
-
-</thinking>
-
 # ChallengeGroupAssesment 1/16/2020 - Help Guide
 ## Purpose
 This form is designed to collect information about group assessments, providing a framework to evaluate their dynamics, participation, engagement, and potential areas for improvement. The goal is to gather data that can be used for further development or follow-up actions.

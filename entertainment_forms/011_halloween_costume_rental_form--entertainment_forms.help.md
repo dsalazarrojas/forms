@@ -1,7 +1,3 @@
-<thinking>
-We should verify that the form is intended for a specific use case and that its fields are well-suited for that purpose. Let's assume that this form is for an online Halloween costume rental service, where customers can submit their requests for renting costumes, and the service provider will process the requests and follow up with customers for more information if needed.
-</thinking>
-
 # Halloween Costume Rental Form - Help Guide
 ## Purpose
 This form is for customers who want to rent costumes for Halloween. Please fill it out to submit your requests for a costume rental.

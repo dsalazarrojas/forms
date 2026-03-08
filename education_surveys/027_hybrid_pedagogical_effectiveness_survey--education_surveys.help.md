@@ -1,5 +1,3 @@
-<thinking>Are you certain that the purpose of this form is to collect feedback on the effectiveness of a hybrid pedagogical approach? This form does not seem to contain any questions or fields related to pedagogy or education. It appears to be a general data collection form. Please confirm that you are aware that this form is being used for its intended purpose and that there is no risk of duplication or overlap with other forms.</thinking>
-
 # Hybrid Pedagogical Effectiveness Survey - Help Guide
 
 ## Purpose

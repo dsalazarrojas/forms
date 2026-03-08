@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering students for exams. It appears to be used to collect demographic information and exam scheduling data from students. The form is likely used by educational institutions to track student registration and exam scheduling data. It's possible that this form is used for multiple purposes, but based on the fields provided, it seems to be focused on student registration and exam scheduling. 
-</thinking>
-
 # Exam Registration Form - Help Guide
 ## Purpose
 The Exam Registration Form is used to collect demographic information and exam scheduling data from students.

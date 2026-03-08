@@ -1,9 +1,3 @@
-<thinking>
-
-The Cable Hauling Safety Assessment form is designed to help conductors and inspectors evaluate the safety of cable hauling operations on a particular project. The form collects relevant information about the project, including the project name, location, and assessment date. It also assesses site hazards, cable conditions, equipment usage, and personnel safety measures, allowing inspectors to determine the overall compliance status of the operation. The form should only be used for cable hauling operations that require a safety assessment, and any data entered into the form should accurately reflect the circumstances of the operation. Please ensure that each field is completed thoroughly and truthfully to provide an accurate assessment of the safety of the cable hauling operation.
-
-</thinking>
-
 # Cable Hauling Safety Assessment - Help Guide
 ## Purpose
 This guide provides step-by-step instructions and explanations for completing the Cable Hauling Safety Assessment form.

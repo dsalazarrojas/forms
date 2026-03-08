@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from vendors who want to participate in the "ประกashion" show. The form will help us assess their applications and potentially partner with them. Please fill in the form carefully to ensure that your application is complete and accurate. To avoid duplicates, please check if you have already submitted an application for this show.
-</thinking>
-
 # ประกashion Show Vendor Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from vendors who want to participate in the "ประกashion" show. Fill out the form to apply for a spot in the show, and our team will review your application carefully.

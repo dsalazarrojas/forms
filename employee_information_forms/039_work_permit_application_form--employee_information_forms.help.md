@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Permit Application Form - Help Guide
 ## Purpose
 This form is used to gather essential information for a work permit application. It collects details about the employee, their job title, reporting manager, department, work location, start and end dates of work, employee type (full-time, part-time, or contract), hours worked, pay rate, and emergency contact information.

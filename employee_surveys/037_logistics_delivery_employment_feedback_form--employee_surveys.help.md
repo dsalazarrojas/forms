@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from employees about their delivery experience, improvement areas, and other relevant information. The form is intended to be completed by employees who have had a recent delivery experience and are providing feedback on their experience. This form is meant to capture both qualitative and quantitative feedback, allowing for a well-rounded understanding of the employee's experience. Before proceeding, please ensure that you have not already provided feedback on this specific delivery experience, as this form is intended to be a one-time submission.
-</thinking>
-
 # Logistics Delivery Employment Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees about their delivery experience, improvement areas, and other relevant information.

@@ -1,5 +1,3 @@
-<thinking>What is the purpose of this form? It appears to be a tool for evaluating the alignment of performance goals between employees and their managers. It includes questions about goal clarity, support needs, and alignment with organizational objectives. To determine if the form is relevant, let's take a look at its fields: it has multiple survey questions, both for employees and managers, covering various aspects of performance goal alignment. To avoid duplication, I'll focus on explaining each field in a clear and concise way.</thinking>
-
 # Performance Goals Alignment Survey - Help Guide
 
 ## Purpose

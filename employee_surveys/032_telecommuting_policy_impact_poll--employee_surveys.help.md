@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # telecommuting_policy_impact_poll - Help Guide
 ## Purpose
 This form is designed to gather information about the impact of telecommuting policies on employees and teams. It's meant to be used by HR departments or managers to assess the effectiveness of their current telecommuting policies and to gather feedback from employees about their experiences with remote work arrangements.

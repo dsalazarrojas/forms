@@ -1,11 +1,3 @@
-<thinking>
-This form is used to conduct assessments of teacher aides, likely to evaluate their performance, strengths, and areas for improvement. This assessment can help identify areas where a teacher aide excels and areas where they need additional support or training. It's essential to complete this form thoroughly and honestly to get accurate and actionable feedback. 
-
-This assessment is used for general purposes and does not have specific requirements or restrictions on who can fill it out or when it can be submitted. 
-
-Please note that this form is for evaluating teacher aides and should only be filled out by those with the necessary context or experience to do so.
-</thinking>
-
 # Teacher Aide Conduct Assessment - Help Guide
 ## Purpose
 The Teacher Aide Conduct Assessment is a form used to evaluate the performance, strengths, and areas for improvement of a teacher aide. This assessment will help identify where a teacher aide excels and where they need additional support or training.

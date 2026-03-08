@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by artists and their representatives to book slots for live music performances at a venue. The form is used to provide information about the artist's details, technical requirements, venue preferences, and other relevant information. This form is not meant to be used for general inquiries or other purposes, so please ensure that you have the necessary authority to fill out this form on behalf of the artist. If you are not the artist or their representative, please do not fill out this form. 
-</thinking>
-
 # Music Label Showcase Slot Booking Form - Help Guide
 
 ## Purpose

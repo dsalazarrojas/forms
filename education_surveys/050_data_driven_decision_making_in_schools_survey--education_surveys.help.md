@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Driven Decision Making In Schools Survey - Help Guide
 ## Purpose
 

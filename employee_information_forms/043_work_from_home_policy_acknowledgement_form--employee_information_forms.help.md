@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a policy acknowledgement form for employees working from home. The purpose of this form is to gather acknowledgement from employees when they are working remotely or from home. It may be used to confirm that employees have received and understood the work from home policy and procedures.
-This form should not be used for other purposes such as performance evaluations, benefits enrollment, or any other non-relevant uses. Ensure that you are using this form for the intended purpose only.
-</thinking>
-
 # Work From Home Policy Acknowledgement Form - Help Guide
 ## Purpose
 The purpose of this form is to gather acknowledgement from employees when they are working remotely or from home. This form is used to confirm that employees have received and understood the work from home policy and procedures.

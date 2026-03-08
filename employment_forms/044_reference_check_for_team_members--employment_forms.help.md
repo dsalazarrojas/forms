@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by HR personnel or team managers to gather information about a team member's past employment history, professional behavior, and current performance. 
-This form should be filled out by team members themselves, and the data will be used to evaluate their performance and make informed decisions about their role or position within the organization. 
-Before starting, please check if there are any existing files or documents that have the same purpose as this form, to avoid duplicating efforts.
-</thinking>
-
 # Reference Check For Team Members - Help Guide
 ## Purpose
 This form is designed to collect information about a team member's past employment history, professional behavior, and current performance. The data collected will be used to evaluate their performance and make informed decisions about their role or position within the organization.

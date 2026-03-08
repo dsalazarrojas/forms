@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations requesting emergency medical aid. The purpose of this form is to provide a standardized way of collecting relevant details in a clear and concise manner. This form is intended to be used by individuals or organizations that require immediate medical attention or assistance. Please ensure that this form is completed accurately and thoroughly to ensure that the correct information is collected. This form is not intended for general information purposes, but rather for emergency situations only.
-</thinking>
-
 # Emergency Medical Aid Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from individuals or organizations requesting emergency medical aid. It is used to gather essential details to facilitate the provision of timely and adequate medical attention.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help end users understand the purpose and usage of the "Housekeeping Quick Estimate Template" form. This form is designed to gather information about housekeeping services, specifically for providing an estimate of the time required for a particular service. It is meant to be used by staff members to input information about the services needed at a site, which will help in generating an estimate of the time required for its completion.
-</thinking>
-
 # Housekeeping Quick Estimate Template - Help Guide
 ## Purpose
 The "Housekeeping Quick Estimate Template" form is used to estimate the time required for a housekeeping service at a site. This form is meant to be used by staff members to gather information about the services needed and generate an estimate for the time required.

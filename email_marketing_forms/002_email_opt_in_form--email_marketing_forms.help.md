@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # EMail Opt In Form - Help Guide
 
 ## Purpose

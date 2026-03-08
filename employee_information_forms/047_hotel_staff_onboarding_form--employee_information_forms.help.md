@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for new staff members to provide their information and availability for hotel shifts. The purpose of this form is to streamline the onboarding process and ensure that all new staff have the necessary details recorded in our system. Please note that this form is not meant to be duplicated. If you have already completed this form, there is no need to do so again.
-
-</thinking>
-
 # Hotel Staff Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from new staff members to facilitate their onboarding process.

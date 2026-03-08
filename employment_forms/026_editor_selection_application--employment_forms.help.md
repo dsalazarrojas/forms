@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture application information from candidates for an editor position. It's intended for internal use within the organization. The form is used to evaluate the eligibility and completeness of a candidate's application. Please review the form carefully before submitting it to ensure you have all required fields populated correctly.
-</thinking>
-
 # Editor Selection Application - Help Guide
 ## Purpose
 The Editor Selection Application form is used to collect relevant details about a candidate's application for an editor position.

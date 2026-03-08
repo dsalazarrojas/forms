@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to provide information about their safari experiences. It's used to gather feedback and insights about the user's interaction with a safari environment. To create this form, I'll assume that the purpose is to collect general user data for analysis and improvement purposes.
-
-This form seems to be a simple user input form with a mix of numerical, text, email, and date fields. The "user_input" field is likely intended to collect a numerical value (perhaps rating or score), while "safari_info" is a text area for users to provide comments or descriptions. "user_location" and "user_phone" seem to be related to user demographics (location and phone number), while "user_email" is for contact purposes. Lastly, "user_date" likely corresponds to the date of the safari experience.
-
-I won't duplicate effort in designing the guide, so I'll just aim to clearly explain the form fields and their intended usage.
-
-</thinking>
-
 # safari_survey - Help Guide
 ## Purpose
 This form is designed for users to provide information about their safari experiences. Your input will help us improve our services and better cater to your needs.

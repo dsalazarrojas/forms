@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to gather feedback from observers on teachers' performance, likely for evaluation or development purposes. The form has multiple sections, each focusing on different aspects of a teacher's behavior, such as overall impression, teaching practices, communication, organization, and patience. It also includes fields for observers' ratings and comments. This form appears to be part of a larger observation and feedback system used by administrators, teachers, or students to provide constructive evaluations of teachers' performance. Before filling out this form, ensure that you have a good understanding of the teacher's performance and have observed their behavior over a reasonable period. Please do not fill out this form without observing the teacher first. If you are filling out this form for the first time, please refer to the "How to Complete this Form" section for guidance. If you have used this form before, please review the "Tips" section for best practices.
-</thinking>
-
 # Teacher Observation Form - Help Guide
 
 ## Purpose

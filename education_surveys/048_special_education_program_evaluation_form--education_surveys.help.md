@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Special Education Program Evaluation Form", we need to understand the purpose of the form and how it will be used.
-
-The form is designed to evaluate the progress and effectiveness of a special education program in a school setting. It's likely used by educators or administrators to assess the program's strengths and weaknesses, identify areas for improvement, and make data-driven decisions to enhance student outcomes.
-
-We will create a help guide that outlines the steps to complete the form, explains each field, and provides tips for users to fill it out accurately.
-
-</thinking>
-
 # Special Education Program Evaluation Form - Help Guide
 ## Purpose
 The Special Education Program Evaluation Form is designed to assess the progress and effectiveness of a special education program in a school setting. It's used by educators or administrators to evaluate the program's strengths and weaknesses, identify areas for improvement, and make data-driven decisions to enhance student outcomes.

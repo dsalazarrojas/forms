@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for end-users to register for a Virtual Trick Or Treat Party. The party organizers will use the collected information to plan the party accordingly. The form is split into different sections, making it easy for users to fill out. Each section corresponds to different aspects of the party, such as party details, contact information, and preferences. Please ensure that you fill out all the required fields to provide accurate and complete information. Note that some fields are optional, but filling them out will help the party organizers get a better understanding of your needs and preferences.
-
-</thinking>
-
 # Virtual Trick Or Treat Party Registration Form - Help Guide
 
 ## Purpose

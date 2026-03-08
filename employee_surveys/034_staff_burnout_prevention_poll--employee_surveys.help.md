@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # staff_burnout_prevention_poll - Help Guide
 ## Purpose
 This form is used to gather information about burnout prevention strategies and resources available to employees. It aims to help identify potential risks and areas for improvement in staff burnout prevention.

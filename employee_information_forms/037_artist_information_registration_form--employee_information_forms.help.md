@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Artist Information Registration Form - Help Guide
 ## Purpose
 The Artist Information Registration Form is a tool for artists and bands to provide information about themselves and their performance capabilities. This form is used to gather essential details about the artist, such as their contact information, performance style, and availability for gigs. By filling out this form, artists can increase their chances of getting booked for events and performances.

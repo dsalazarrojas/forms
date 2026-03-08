@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # potential_candidate_information_form - Help Guide
 ## Purpose
 The "potential_candidate_information_form" is a form designed to collect information about potential candidates for employment opportunities. It is intended to help employers and hiring teams gather relevant details about candidates' work experience, qualifications, and personal details.

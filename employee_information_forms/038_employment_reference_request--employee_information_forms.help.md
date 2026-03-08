@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employment_reference_request - Help Guide
 ## Purpose
 This form is intended to gather information from employees for internal reference purposes. It collects essential details about an employee's employment status, job title, and manager's contact information. The collected data will be used to facilitate internal processes and communications within the organization.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for users who are tasked with completing the Organizational Trust And Accountability Survey. The form's purpose is to gather feedback and opinions from users on various aspects of the organization's leadership team, accountability, and communication.
-
-Before proceeding, please ensure you are familiar with the form's contents and understand its context within the organization. If you have any doubts or concerns, please clarify with the form administrator before initiating the survey.
-
-This guide will walk you through the form's structure, each field's purpose, and provide tips for successful completion.
-
-</thinking>
-
 # Organizational Trust And Accountability Survey - Help Guide
 
 ## Purpose

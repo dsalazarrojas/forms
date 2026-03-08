@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for employees to provide personal and employment information for enrollment in a Flexible Spending Account (FSA) program. The purpose of this form is to collect relevant details about the employee's personal info, employment status, and account preferences. This form is likely to be used by HR or payroll departments to process FSA enrollments and ensure accurate and up-to-date employee data.
-
-Before completing this form, please ensure that you are authorized to access and submit this form. If you are unsure, please reach out to your HR or payroll representative for assistance.
-
-To avoid duplication of effort, ensure that you have not already submitted this form in the past. If you are unsure, please review your employee records or check with your HR or payroll representative to confirm.
-
-</thinking>
-
 # navy_flexible_spending_account_fsa_enrollment - Help Guide
 ## Purpose
 This form is used to collect personal and employment information for enrollment in a Flexible Spending Account (FSA) program.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for entrepreneurs and business owners who want to apply for partnership with your company. It's a crucial step in the partnership process, and the information provided will be used to evaluate the applicant's eligibility and suitability for partnership. Before filling out this form, please ensure that you have not already submitted an application for this partnership opportunity. Duplicate applications may cause delays in the evaluation process.
-</thinking>
-
 # Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from entrepreneurs and business owners who are interested in applying for partnership with our company. It's essential to provide accurate and complete information to ensure a smooth evaluation process.

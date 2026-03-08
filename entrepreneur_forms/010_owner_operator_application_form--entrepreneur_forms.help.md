@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide assumes that the form is for an owner operator application, likely for a business or organization. The form is designed to collect personal data for a specific purpose, probably for registration, verification, or other internal purposes. To confirm, I'll review the form fields:
 
 - `first_name`, `last_name`, `address`, `email`, and `phone` are personal details.

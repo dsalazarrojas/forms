@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to record and log training sessions for plant root training. The purpose of the form is to gather information on when and for how long each training session takes place. This data is likely used to track progress and provide insights into training efficacy. 
-To avoid duplication, ensure that you've already completed the form for the same plant root before starting a new training session. 
-This form should not be used to record information on the plant's physical characteristics or any other data not directly related to the training session. 
-</thinking>
-
 # Plant Root Training Log Form - Help Guide
 ## Purpose
 The form is designed to record and log training sessions for plant roots. The information you provide will help track progress and evaluate the effectiveness of the training.

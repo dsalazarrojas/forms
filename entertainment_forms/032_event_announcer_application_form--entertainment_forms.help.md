@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for individuals interested in becoming an event announcer, and it's meant to collect their details for potential future collaboration. The form should be completed by event announcers to provide their contact information, work preferences, and experience in the event industry. The goal of this form is to streamline the collaboration process between the event announcer and the organization.
-
-</thinking>
-
 # Event Announcer Application Form - Help Guide
 ## Purpose
 This form is used to collect information from potential event announcers for collaboration and partnership purposes. It's a one-time form designed to provide the required details for event planners, production managers, and other stakeholders to find the best fit for their events.

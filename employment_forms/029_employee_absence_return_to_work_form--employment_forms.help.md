@@ -1,7 +1,3 @@
-<thinking>...This form is designed to document the return to work process for employees after an absence due to illness or injury. The purpose of this form is to collect information from the employee's physician, ensuring that the employee is fit to return to work and that all necessary precautions are taken to ensure a safe and healthy work environment. This form will help the HR department and management to assess the employee's status and make decisions regarding their return to work schedule.
-
-</thinking>
-
 # Employee Absence Return To Work Form - Help Guide
 ## Purpose
 The Employee Absence Return To Work Form is a document used to record an employee's return to work after an absence due to illness or injury. It provides essential information from the employee's physician, ensuring a smooth and safe return to work process.

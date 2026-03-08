@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Player Coaching Strategy Evaluation Form is to assess the effectiveness of coaching strategies employed during a player's session. This form helps the coaching staff evaluate their approach and identify areas for improvement.
-</thinking>
-
 # Player Coaching Strategy Evaluation Form - Help Guide
 ## Purpose
 

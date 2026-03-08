@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Service Review - Help Guide
 ## Purpose
 The Customer Service Review form is designed to gather feedback from customers on their experiences with our customer service team. This form is used to collect ratings and comments on various aspects of our customer service, helping us identify areas for improvement and provide better service to our customers in the future.

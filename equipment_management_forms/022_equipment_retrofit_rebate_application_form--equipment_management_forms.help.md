@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning: The purpose of this form is to gather information from applicants regarding equipment retrofitting. The form will collect details such as applicant information, contact info, project information, project location, the equipment being retrofitted, project details, project status, and agreement status. This form is likely used by a team or manager within an organization to review and process the applications.
-
-To ensure that applications are not duplicated, a check should be in place to verify if an application with the same equipment and project information has already been submitted. This will prevent unnecessary processing and duplicate efforts.
-
-Before filling out this form, please note that some fields are not required. However, please ensure that all necessary information is provided for a complete and accurate application.
-
-</thinking>
-
 # Equipment Retrofit Rebate Application Form - Help Guide
 ## Purpose
 The Equipment Retrofit Rebate Application Form is used to collect information from applicants regarding equipment retrofitting. It is essential to provide accurate and complete details to ensure a smooth review and processing of the application.

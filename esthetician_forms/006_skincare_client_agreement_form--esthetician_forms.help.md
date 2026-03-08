@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for clients to agree to terms and conditions before receiving services from a skincare business. It's essential to clarify that clients understand the services, payment methods, and any medical concerns related to the services. This form likely serves as a legal agreement between the client and the skincare business.
-</thinking>
-
 # Skincare Client Agreement Form - Help Guide
 ## Purpose
 This form is for clients to agree to the terms and conditions of services provided by the skincare business.

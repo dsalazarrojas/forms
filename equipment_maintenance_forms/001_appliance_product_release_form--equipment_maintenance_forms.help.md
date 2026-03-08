@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Appliance Product Release Form - Help Guide
 =====================================
 

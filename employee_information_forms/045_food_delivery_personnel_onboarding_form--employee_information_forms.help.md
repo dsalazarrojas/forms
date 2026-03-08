@@ -1,7 +1,3 @@
-<thinking>
-The Food Delivery Personnel Onboarding Form is used for collecting and documenting information on new employees who will be working on food delivery operations. This form is designed to gather essential details for administrative and operational purposes, ensuring a smooth integration process for the new employees. It captures various aspects of the employee's personal and professional history, including contact and medical information, vehicle details, and emergency contacts.
-</thinking>
-
 # Food Delivery Personnel Onboarding Form - Help Guide
 ## Purpose
 The Food Delivery Personnel Onboarding Form is used to collect and document essential information on new employees, ensuring a smooth integration process and providing necessary details for administrative and operational purposes.

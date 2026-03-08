@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect opinions and ideas on Mother's Day activities, gifts, and preferences. It will likely be used in the entertainment industry, where understanding audience opinions on Mother's Day celebrations can help inform content creation and marketing strategies.
-
-This form is designed to be completed by a single person at a time. The form has several fields to collect information about the person's name, favorite Mother's Day gift, what they would like to create for their mother, which mother they would like to create for, and other preferences.
-
-This form is not affiliated with any form platform, and the data collected will not be used to create any accounts or sign up for services. The form has been created using AI and is an original adaptation of public survey topic metadata.
-
-</thinking>
-
 # Mother's Day Questionnaire - Help Guide
 ## Purpose
 The Mother's Day Questionnaire is a form designed to collect opinions and ideas on Mother's Day activities, gifts, and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive tool for assessing and documenting the risks associated with LED retrofits. It is meant to be used by individuals responsible for evaluating and mitigating potential hazards in LED retrofit projects. Before proceeding, ensure this form is the correct template for your specific needs and not a duplicate or outdated version.
-</thinking>
-
 # LED Retrofit Risk Assessment - Help Guide
 ## Purpose
 

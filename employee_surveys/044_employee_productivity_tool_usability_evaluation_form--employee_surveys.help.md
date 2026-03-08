@@ -1,9 +1,3 @@
-<thinking>
-The form appears to be a collection of various fields for employee surveys and feedback on productivity tools. However, I would like to clarify that the form is not fully filled with concrete and practical explanations for each field. Some fields seem to be redundant or have unclear labels.
-For example, fields 3, 5, 10, 15, 17, and 20-25 are all "text" fields with unclear labels. Fields 4 and 14 have specific input types (email and select_one with "Yes" and "No" options), indicating they might have specific requirements or constraints. Field 6 is a "select_multiple" field, implying multiple selections are allowed. Field 7 is a "select_one" field, indicating a single selection is expected.
-To create a user-friendly help guide, I will strive to provide clear and concise explanations for each field, taking into account their types and requirements.
-</thinking>
-
 # Employee Productivity Tool Usability Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather employee feedback on productivity tools used in the workplace. It aims to collect information about the effectiveness, ease of use, and areas of improvement of these tools.

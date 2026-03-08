@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about a teacher's contact details, department affiliation, job role, and other relevant attributes. The purpose of this form is to ensure that the teacher's information is accurately represented and easily accessible for internal use. This guide will explain each field's purpose and required input to help you fill out the form correctly without duplication of data or omission of crucial details.
-
-</thinking>
-
 # Teacher Information Form - Help Guide
 ## Purpose
 This form is used to collect and record a teacher's personal and professional information for internal reference and use.

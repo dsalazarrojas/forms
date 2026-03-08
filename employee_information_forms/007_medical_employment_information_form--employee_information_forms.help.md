@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a general medical employment information form used to collect basic contact information and medical-related details from employees. It does not seem to be specific to any particular industry or organization, so it should be suitable for most medical employment situations. There is no overlap or redundancy in the form fields, and the required/optional status of each field is clearly defined in the input schema.</thinking>
-
 # Medical Employment Information Form - Help Guide
 ## Purpose
 The Medical Employment Information Form is designed to collect essential contact and medical-related information from employees. This form helps employers and HR teams to understand an employee's contact details and medical insurance, emergency contact information, and other relevant healthcare-related details.

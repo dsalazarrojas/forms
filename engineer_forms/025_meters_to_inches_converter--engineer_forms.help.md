@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning:
-The meters to inches converter form is likely used by users who need to convert measurements from meters to inches or vice versa. The form likely aims to facilitate this conversion process by providing input fields for both meters and inches, and displaying the converted value in both units. The form is likely used by individuals with technical or scientific backgrounds, such as engineers, scientists, or students.
-
-To confirm, I will now create the user-facing help guide.
-</thinking>
-
 # meters_to_inches_converter - Help Guide
 ## Purpose
 The meters to inches converter form is a tool used to convert measurements from meters to inches or vice versa.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Sizing Template - Help Guide
 ## Purpose
 The Market Sizing Template is a tool to help entrepreneurs estimate the size and potential of a market they aim to enter. This template is designed to provide a structured approach to gathering essential information about a market, including its current size, growth rate, and total potential. By using this template, entrepreneurs can get a better understanding of the market landscape and make informed decisions about their business plans.

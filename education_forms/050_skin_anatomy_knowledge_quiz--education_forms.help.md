@@ -1,8 +1,3 @@
-<thinking>
-This help guide is to assist end-users in completing the Skin Anatomy Knowledge Quiz form. The form's purpose is to test the user's knowledge on various aspects of skin anatomy. To ensure the guide's relevance and non-duplication, I will be referencing the provided YAML fields to create a comprehensive guide that explains each field's purpose and requirements.
-
-</thinking>
-
 # Skin Anatomy Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to evaluate your knowledge on various skin anatomy-related questions. Answer each question with either "Yes" or "No" to demonstrate your understanding of the subject matter.

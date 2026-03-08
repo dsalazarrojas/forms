@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_training_platform_usability_evaluation_form - Help Guide
 ## Purpose
 This form is designed to evaluate the usability and effectiveness of the employee training platform. It gathers feedback on various aspects of the platform, such as training content, navigation, and overall satisfaction. Your input will help us identify areas for improvement and provide a better experience for employees.

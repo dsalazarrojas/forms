@@ -1,12 +1,3 @@
-<thinking>
-To provide a helpful and clear user guide, I'll need to understand the internal reasoning behind this form's design. The "Damaged Equipment Form" likely serves a specific purpose within the organization, such as facilitating the reporting and tracking of damaged equipment. This form is probably intended to gather information from the employee who submitted the report, including their name, department, and contact details. The fields may be designed to cater to specific regulatory or business requirements, such as reporting physical or electrical damage, or tracking the equipment's location.
-
-The form's layout appears to be divided into two main sections: "Damaged Equipment Form" (which is the main form) and possibly additional fields for submitter information. The form asks for the equipment description, damage description, location, damaged equipment type, damage type, date, time, and submitter's details such as name, department, phone number, email, and notes.
-
-The form's fields are mostly required, except for a few optional ones like submitter's location and comments. This suggests that the submitter's information is crucial for the form's purpose.
-
-</thinking>
-
 # Damaged Equipment Form - Help Guide
 ## Purpose
 The "Damaged Equipment Form" is designed to report and track damaged equipment within the organization. It helps gather information about the damage, including location, type, and date/time. This form also collects submitter's information, such as name, department, and contact details, to facilitate proper reporting and follow-up.

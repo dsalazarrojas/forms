@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track employee daily check-ins for retail stores. The purpose of this form is to gather information about the employee's daily activities, including their location, shift start and end times, break times, and any notes or comments. This information helps managers and supervisors keep track of employee attendance and productivity. To use this form, employees will need to enter their name, ID, and location, as well as the date, start and end times of their shift, and any relevant notes or comments. This form is intended to be completed by employees on a daily basis and helps to ensure that accurate records are kept for administrative and reporting purposes. The form is designed to be simple and easy to use, with each field allowing employees to enter relevant information in a clear and concise way. This form will not duplicate existing records. Employees should only enter their information once for each day. 
-
-</thinking>
-
 # Retail Employee Daily Check In Form - Help Guide
 ## Purpose
 This form is used to track employee daily attendance and activity for retail stores.

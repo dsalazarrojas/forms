@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information on household characteristics and economic empowerment. It is intended to collect data on household income, employment status, financial inclusion, education level, and other socio-economic factors. The form is part of a larger study on the global economic empowerment of households.
-To ensure that this form is relevant and non-duplicative, it is essential to review the existing literature on household surveys and economic empowerment studies to avoid duplication of efforts and ensure that the questions align with the existing research objectives.
-</thinking>
-
 # Global Economic Empowerment Survey - Help Guide
 ## Purpose
 The Global Economic Empowerment Survey is designed to collect data on household characteristics and socio-economic factors to inform research on global economic empowerment.

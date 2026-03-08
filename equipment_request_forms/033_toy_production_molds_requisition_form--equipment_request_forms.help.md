@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form should be that it is used to collect information about toy production molds requests. This form is meant to be used internally, likely by production staff or management, to document requests for new or existing toy production molds. This form should not be used for external purposes or external communication. The form should only be completed by those with relevant permissions and access, and should be completed carefully to ensure accuracy and thoroughness of the requests being made.
-</thinking>
-
 # Toy Production Molds Requisition Form - Help Guide
 ## Purpose
 This form is used to collect information about toy production molds requests from internal personnel. It is meant to be used to document requests for new or existing toy production molds, and should only be completed by those with relevant permissions and access.

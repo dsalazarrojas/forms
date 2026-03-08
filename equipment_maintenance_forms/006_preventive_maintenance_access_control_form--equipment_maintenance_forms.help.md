@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to assist users in completing the Preventive Maintenance Access Control Form. This form is designed to track and record important information about maintenance access and schedules for equipment within facilities. The form serves as a centralized hub for collecting and managing data on access requests, maintenance types, and related details. The purpose of this guide is to ensure users understand how to properly fill out the form, which is crucial for maintaining accurate records and facilitating efficient maintenance operations.
-
-Before proceeding, please be aware that this form should not be duplicated or submitted multiple times for the same maintenance access. If you have already submitted a form for a specific maintenance access, please do not resubmit it. Duplicated submissions can lead to confusion and may cause discrepancies in the maintenance schedule.
-</thinking>
-
 # Preventive Maintenance Access Control Form - Help Guide
 ## Purpose
 The Preventive Maintenance Access Control Form is a critical tool used to manage and track maintenance access within facilities. It ensures that all necessary information is gathered accurately and efficiently.

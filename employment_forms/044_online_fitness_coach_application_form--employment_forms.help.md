@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "Online Fitness Coach Application Form" effectively. Before proceeding, ensure you understand that this form is meant for individuals interested in becoming a certified online fitness coach. This guide will walk you through each field's purpose, requirements, and best practices for completion. If you're unsure about any field, please refer to this guide for clarification.
-</thinking>
-
 # Online Fitness Coach Application Form - Help Guide
 ## Purpose
 The "Online Fitness Coach Application Form" is a comprehensive form designed to gather essential information from potential candidates interested in becoming certified online fitness coaches. This form helps us assess your qualifications, experience, and suitability for the role. Please fill out this form accurately and thoroughly to increase your chances of success in the application process.

@@ -1,5 +1,3 @@
-<thinking>Before we can help you understand the Eyelash Extension Appointment Form, let's break down the form's purpose. The form is designed to schedule and track appointments for eyelash extension services. It seems there is a mix of fields for client and service-related information, as well as configuration options. This form will guide you through each step to fill out the form and explain the purpose of each field. Please keep in mind this form might be a part of a larger system that requires configuration and specific settings, but we'll cover the form's main fields and their meanings.</thinking>
-
 # Eyelash Extension Appointment Form - Help Guide
 
 ## Purpose

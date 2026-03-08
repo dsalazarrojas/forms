@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect opinions and suggestions from various roles within the school community on the current phone policies. This form aims to gather feedback on the effectiveness and clarity of the policies, as well as identify any areas for improvement. Please note that this form is designed to be completed by students, teachers, and staff. Please ensure that you have read through the form carefully before providing any feedback, and that your answers are honest and relevant to the provided questions.
-
-</thinking>
-
 # Opinion Survey On School Phone Policies - Help Guide
 ## Purpose
 The purpose of this form is to collect opinions and suggestions from the school community on the current phone policies.

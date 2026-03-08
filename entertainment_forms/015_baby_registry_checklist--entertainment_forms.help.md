@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a tool for parents-to-be to create a personalized baby registry, listing the essential items they need for their new baby. The purpose of this form is to streamline the process of registering for gifts and making it easier for friends and family to give meaningful and practical presents. By filling out this form, parents can create a comprehensive list of must-have items for their baby's arrival, which can be shared with loved ones for their convenience. This ensures that the parents receive gifts that are truly appreciated and used, rather than duplicate or unnecessary items.
-
-</thinking>
-
 # Baby Registry Checklist - Help Guide
 ## Purpose
 This form is designed to help expectant parents create a tailored baby registry, making it easier for friends and family to give meaningful gifts.

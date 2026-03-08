@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Risk Evaluation Accelerator Application Form - Help Guide
 ## Purpose
 The Risk Evaluation Accelerator Application Form is a tool used to assess the risk level of various projects. It is designed to help project teams evaluate the potential risks associated with their projects and make informed decisions.

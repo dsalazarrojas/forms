@@ -1,17 +1,3 @@
-<thinking>
-
-This form is designed to evaluate the effectiveness of care coordination programs. The goal is to gather information on various aspects of the program's performance, including its goals, target population, staff adequacy, technology utilization, and overall effectiveness. This form will be used by program administrators to assess the program's strengths and weaknesses, identify areas for improvement, and make data-driven decisions.
-
-Before filling out this form, please note that:
-
-* All fields with a "Select all that apply" or "Select one" option are multiple-choice questions, where you can choose one or multiple options that best fit your answer.
-* Fields with a "Select multiple" type allow you to choose multiple options from the list.
-* Dates should be entered in the format "YYYY-MM-DD".
-* For fields with a "Hint" that says "Percentage", please enter the percentage value as a whole number (e.g., 80).
-* If you are unsure about any question, please provide a brief explanation in the "Additional Comments" field.
-
-</thinking>
-
 # Care Coordination Program Effectiveness Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the effectiveness of your care coordination program.

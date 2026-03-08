@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The purpose of the "Key Relationship Feedback Form" is to gather feedback on the key relationships within an organization, specifically on whether an employee has a relationship manager and if they are performing well in their role. This form is intended to be completed by employees to provide an honest and constructive evaluation of their relationships with others in the company. Before completing this form, please note that it is intended for internal use only and will not be shared externally. If you are not sure if you should complete this form, please reach out to your supervisor or HR representative for clarification.
+> The purpose of the "Key Relationship Feedback Form" is to gather feedback on the key relationships within an organization, specifically on whether an employee has a relationship manager and if they are performing well in their role. This form is intended to be completed by employees to provide an honest and constructive evaluation of their relationships with others in the company. Before completing this form, please note that it is intended for internal use only and will not be shared externally. If you are not sure if you should complete this form, please reach out to your supervisor or HR representative for clarification.
 
 ### How To Complete This Form
 

@@ -1,5 +1,3 @@
-<thinking>... internal logic check: Form is for AI consulting services, targeting businesses and entrepreneurs. The form aims to gather information about the client's project, including their industry, company size, project details, technical expertise, and expectations for the consultant. This information helps the consultant understand the client's needs and provide relevant services. The form is divided into sections: client information, project overview, AI requirements, timeline and budget, technical details, and outcomes and support. Each section guides the user through gathering essential project-related details. This form is not meant to collect unnecessary information, ensuring the consultant can focus on delivering the best possible service... </thinking>
-
 # Artificial Intelligence Consultant Quote Form - Help Guide
 ## Purpose
 The Artificial Intelligence Consultant Quote Form is designed to gather essential information from you as a client to better understand your project requirements and expectations. This form will help us provide you with a tailored quote for our AI consulting services.

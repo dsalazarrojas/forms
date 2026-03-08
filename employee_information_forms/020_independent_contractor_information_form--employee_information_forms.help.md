@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "independent_contractor_information_form" form, I will first provide an internal explanation of the form's purpose and how it is relevant to the organization.
-
-This form is used to collect information from independent contractors who work with the organization on various projects. The form is designed to gather specific details about each contractor, including contact information, tax identification, payment terms, contract details, and any other relevant details. The purpose of this form is to ensure that the organization has accurate and up-to-date information about each contractor and to communicate payment and contract terms efficiently.
-
-The form is also used to reduce the possibility of duplicated effort by allowing the organization to store all relevant information for each contractor in one place, making it easier for the accounting, human resource and management teams to refer to in the future. 
-
-The form also aims to be adaptable and scalable, allowing for changes in payment terms and other details to be easily updated in the future.
-</thinking>
-
 # independent_contractor_information_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and store information about independent contractors who work with the organization on various projects. This form helps ensure that all relevant details about each contractor are accurately and efficiently recorded and communicated within the organization.

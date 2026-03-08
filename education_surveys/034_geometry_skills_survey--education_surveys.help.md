@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to support end-users in understanding the purpose of the "Geometry Skills Survey" form and how to complete it. The form is designed to collect information on geometry skills and knowledge from students, and the guide should be clear and concise to ensure users understand the questions and fields they need to fill out.
-
-The form's primary purpose is to assess geometry skills and gather insights for educational purposes. It is not designed for any other purpose, such as entertainment or marketing.
-
-Before proceeding, please ensure that the form is being filled out for the correct purpose and that you are not duplicating the form for any other reason.
-
-</thinking>
-
 # Geometry Skills Survey - Help Guide
 ## Purpose
 The Geometry Skills Survey is a form designed to collect information on geometry skills and knowledge from students. This form will help us understand your geometry skills and knowledge, and will aid in providing better support and resources for you.

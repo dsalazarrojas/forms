@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Thanksgiving Lunch Sign Up - Help Guide
 ## Purpose
 This form is used to sign up for Thanksgiving lunch at the office. It will help us gauge the number of guests attending and assign the necessary tools and resources for the event.

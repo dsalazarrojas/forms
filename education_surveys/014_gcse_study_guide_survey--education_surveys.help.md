@@ -1,16 +1,3 @@
-<thinking>
-The form is for collecting feedback and suggestions from students who have used a study guide for their GCSE exams. The purpose is to understand what they found useful in the guide, what they struggled with, and how they used it to complete their exams. This feedback will be used to improve the guide for future students. 
-
-The form is designed to be completed by students who have used the guide, and the questions are intended to be answered from their personal experience. 
-
-This form should only be completed by students who have used the guide and should not be filled out by multiple people using the same account or device. If the form is completed multiple times, the responses will be considered invalid and will not be used in the analysis. 
-
-It's assumed that the students have some knowledge of the guide's purpose and functionality, so the questions are not overly explained, but rather, the answers should be based on their personal experience with the guide. 
-
-The student's email and phone numbers are optional and are not mandatory, but they are included in case the student would like to be contacted for further discussion or follow-up questions.
-
-</thinking>
-
 # GCSE Study Guide Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from students who have used the GCSE Study Guide. Your input will help us improve the guide to better support future students.

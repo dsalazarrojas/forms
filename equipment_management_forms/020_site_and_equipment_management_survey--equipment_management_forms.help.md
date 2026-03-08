@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Site And Equipment Management Survey - Help Guide
 ## Purpose
 This form is designed to gather information about a site and its associated equipment for management purposes. It will help to record and track the status of the equipment, maintenance needs, and other relevant details.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to document the transfer of devices between departments or locations within an organization. The form is intended to be a simple and straightforward way for users to record the essential details of the transfer, including equipment details and ownership information.
-To ensure that this form serves its purpose effectively, we should verify that the correct information is being captured. This means checking that each field is filled out correctly and accurately. To do this efficiently, we'll break down the form into its components and explain each field in detail.
-</thinking>
-
 # Device Transfer Log - Help Guide
 
 ## Purpose

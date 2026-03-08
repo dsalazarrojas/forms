@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the Employee Recognition Program, allowing employees to provide feedback on the effectiveness of the program. This form is designed to gather information on several key aspects of the program, including the type of recognition programs used, their descriptions, and the frequency of recognition. Additionally, the form allows employees to provide additional comments and feedback on the program. It is essential to ensure that the form is completed accurately and thoroughly to gain valuable insights into the program's strengths and areas for improvement.
-</thinking>
-
 # Employee Recognition Program Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from employees on the Employee Recognition Program. It helps the organization understand how the program is performing and identify areas that need improvement.

@@ -1,10 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Interdisciplinary Learning Barriers Survey" form. This form is likely used to gather information on the barriers that students encounter when learning in an interdisciplinary context. The form likely asks respondents to select or input various pieces of information to provide insights into these barriers. To confirm, we'll focus on providing clear explanations for each field to ensure users understand the purpose and requirements of each section.
-
-To prevent duplication, we'll check if a similar form already exists in the system. If it does, we'll modify this guide to accommodate the existing form's structure and content.
-
-Before proceeding, we'll review the form's properties to determine the best course of action for this help guide.</thinking>
-
 # Interdisciplinary Learning Barriers Survey - Help Guide
 ## Purpose
 

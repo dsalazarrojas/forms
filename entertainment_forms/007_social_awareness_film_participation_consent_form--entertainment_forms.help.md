@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the Social Awareness Film Participation Consent Form, we first need to understand the form's purpose. Based on the provided YAML fields, the form seems to be designed for participants in a film production, likely for a social awareness campaign or project. The form aims to collect information about the participants, their preferences for photo and video recordings, and emergency contact details. This form is intended for participants who want to be part of a social awareness film, which means it's likely a documentary-style or awareness-focused production. We can assume that the form will be used by film production teams or organizers to gather consent from participants before capturing any footage or photographs. This form is not explicitly stated to be part of a larger process or workflow, so it's reasonable to assume it's a standalone form for single participants.
-The form does not have any specific validation rules or dependencies between fields, so we can assume that each field is self-contained and independent of others.
-The form seems to be designed for individual participants, and there's no indication of any team or group registration. Therefore, each participant will need to fill out the form individually.
-The fields provided in the YAML seem to be a mix of basic information (name, email, phone number, address), consent fields (photo and video recording), and additional details (film description, contact method, and emergency contact).
-</thinking>
-
 # Social Awareness Film Participation Consent Form - Help Guide
 ## Purpose
 The Social Awareness Film Participation Consent Form is designed for participants in a film production, specifically for a social awareness campaign or project. This form gathers information about participants, their preferences for photo and video recordings, and emergency contact details.

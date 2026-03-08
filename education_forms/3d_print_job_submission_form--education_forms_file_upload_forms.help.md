@@ -1,38 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about a 3D print job, including personal details, job requirements, material preferences, shipping information, and additional notes. This form is likely used by a 3D printing service or a university's makerspace to gather information about incoming print jobs. The form is likely used to ensure that users meet the necessary requirements and guidelines for submitting a 3D print job.
-
-To ensure that the form is being used correctly, please verify that:
-
-* You are submitting a 3D print job and not a personal or non-related information.
-* You are using the correct email address associated with your university or affiliation.
-* You are selecting the correct shipping method and address.
-* You are confirming that the file is not copyrighted and meets the guidelines.
-
-The following fields must be filled out to complete the form:
-
-* Personal information:
-	+ Full name
-	+ Email address (institutional email)
-	+ Department
-* Job information:
-	+ Job title
-	+ Job description
-	+ Submission date
-	+ Estimated print time
-	+ Support needed
-	+ Print priority
-* Material preferences:
-	+ Material type
-* Shipping information:
-	+ Shipping address
-	+ Shipping method
-* Additional notes:
-	+ Comments
-
-Please fill out all required fields and ensure that you have read and confirm the guidelines.
-
-</thinking>
-
 # 3D Print Job Submission Form - Help Guide
 ## Purpose
 The 3D Print Job Submission Form is a form used by users to submit information about a 3D print job. This form is used to gather necessary details to ensure that the job meets the required guidelines and is properly processed.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that occurred in the energy sector. The energy sector includes industries such as utility companies, energy production, and other related businesses. This form will help you report incidents that have happened or are currently happening, and provide essential details for tracking and analysis. To ensure accurate reporting, please fill in all required fields.
-
-Before starting, please make sure you are not reporting the same incident multiple times. Each report should be a new, unique occurrence. If you need help or guidance, you can refer to this documentation.
-</thinking>
-
 # Energy Sector Incident Report Form - Help Guide
 
 ## Purpose

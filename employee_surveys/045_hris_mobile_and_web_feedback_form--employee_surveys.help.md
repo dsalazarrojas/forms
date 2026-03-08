@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and use of the HRIS Mobile And Web Feedback Form. Before proceeding, ensure that:
-The form is relevant to your work context. This form is designed for gathering feedback from employees. If you're not an employee, or not within the HRIS system, you may not have a need for this form.
-You have not completed this form previously. Duplicate feedback submissions are not necessary, and your feedback is more valuable if it's a new submission.
-This form is intended for gathering feedback on the HRIS system, mobile app, and web application. Feedback is crucial for improving the system's performance, user experience, and overall satisfaction.
-</thinking>
-
 # HRIS Mobile And Web Feedback Form - Help Guide
 ## Purpose
 The HRIS Mobile And Web Feedback Form is designed to gather feedback from employees on their experience with the HRIS system, mobile app, and web application. This form is crucial for identifying areas of improvement and making data-driven decisions to enhance the user experience.

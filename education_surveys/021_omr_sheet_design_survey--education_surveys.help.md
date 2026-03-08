@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # OMR Sheet Design Survey - Help Guide
 ## Purpose
 This form is designed to gather information about OMR (Optical Mark Recognition) sheet design requirements. The purpose of this form is to help us better understand your needs and preferences for designing OMR sheets. We will use this information to improve our design process and create more effective OMR sheets for you.

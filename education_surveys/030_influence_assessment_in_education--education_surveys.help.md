@@ -1,18 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from various stakeholders in education, including teachers, principals, school administrators, parents, and students. The form is designed to assess the influence and perceptions of these individuals on educational policies, procedures, and practices. It aims to collect data that will help educators and policymakers understand the diverse perspectives and needs of different groups within the education system.
-
-This form is intended to be a comprehensive assessment of influence within the education sector, with multiple sections covering different stakeholders and their roles. However, it's essential to note that some sections may have similar names or overlap in terms of content. To avoid confusion, it's crucial to carefully review each section and provide clear and accurate information.
-
-To ensure the quality of the responses, it's recommended to:
-
-* Review each section carefully and provide detailed answers.
-* Be honest and accurate in your responses.
-* Provide specific examples or examples from personal experience when possible.
-* Avoid generic or vague answers.
-
-</thinking>
-
 # Influence Assessment In Education - Help Guide
 ## Purpose
 The Influence Assessment In Education form is a comprehensive survey designed to gather information from various stakeholders in the education sector, including teachers, principals, school administrators, parents, and students. It aims to collect data on their influence and perceptions on educational policies, procedures, and practices.

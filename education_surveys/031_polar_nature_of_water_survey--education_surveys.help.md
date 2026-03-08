@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their perception of the polar nature of water, which is a subjective and multi-dimensional concept. The form will help us better understand how users think about water's polarities, such as its temperature, color, and more. Please note that this form is intended for users to provide their personal feedback and opinions about water, and it's not a scientifically-verified survey. If you have already completed this form in the past, please do not fill it out again as we are trying to avoid duplication of responses. 
-</thinking>
-
 # Polar Nature Of Water Survey - Help Guide
 ## Purpose
 The Polar Nature Of Water Survey is a form designed to collect users' subjective opinions and feedback about the polarities of water. It aims to understand how users perceive water's temperature, color, and other characteristics.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for patients to provide information required for the administration and management of COVID-19 vaccinations. The purpose of the form is to gather accurate and complete data to support the evaluation and administration of these vaccinations. 
-The form is designed to be completed by patients and their medical professionals to ensure that all necessary information is collected and recorded in a single platform. It is used in conjunction with other evaluation and administration processes to provide comprehensive care for patients. 
-To avoid duplication of effort, ensure that you are not completing this form if you are already registered with us. Please check our database before filling out this form.</thinking>
-
 # Covid 19 Questionnaire And Release Form - Help Guide
 ## Purpose
 This form is used to collect patient information and medical details required for COVID-19 evaluation and administration.

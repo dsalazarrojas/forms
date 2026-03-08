@@ -1,9 +1,3 @@
-<thinking>
-To prevent duplication, this form is only used to verify the employment status of existing employees. 
-It is used to confirm the current employment status, employer details, and verification method for a particular employee.
-This guide will walk you through the steps to complete the employment verification form for child care accurately and efficiently.
-</thinking>
-
 # Employment Verification Form For Child Care - Help Guide
 ## Purpose
 This form is designed to verify the employment status of existing employees, ensuring accuracy and consistency in child care services. It confirms the current employment status, employer details, and verification method for a particular employee, helping child care providers to provide accurate and secure services.

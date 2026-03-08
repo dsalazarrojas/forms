@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about incidents or injuries that occur within an organization, such as workplace accidents, illnesses, or other events that may cause harm to employees. The purpose of this form is to facilitate the collection of accurate and timely information about incidents, which can help the organization respond promptly and effectively to the incident, ensure employee safety, and comply with relevant laws and regulations.
-
-The form can be completed by anyone who has witnessed or been involved in the incident, including employees, managers, or other stakeholders. To complete the form, please follow the instructions below.
-
-</thinking>
-
 # Injury Incident Form - Help Guide
 ## Purpose
 The Injury Incident Form is designed to gather information about incidents or injuries that occur within an organization.

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check if the form purpose is relevant and not duplicated ...
-
-The form is for artists to apply to a Creative Residency Program, which likely provides funding and support for artistic projects. To ensure the form is filled out correctly, the internal reasoning block checks that the form is not being used for a duplicated purpose, such as applying for a residency program that is already being offered or has already been completed. If the form is filled out correctly, it will guide the user through the application process.
-
-</thinking>
-
 # Creative Residency Program Application Form - Help Guide
 ## Purpose
 

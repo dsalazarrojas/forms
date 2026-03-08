@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for healthcare professionals to request a gait training device for patients. It captures essential information about the patient, such as their name, date of birth, and contact details, as well as the type of gait device requested. The form also includes fields for the submitter's and reviewer's contact information, which is important for tracking and approval processes. To ensure that the form is completed correctly and to prevent duplication of requests, it is essential to follow the instructions and guidelines provided in this help guide.
-</thinking>
-
 # Gait Training Device Request Form - Help Guide
 ## Purpose
 This form is designed to streamline the process of requesting a gait training device. Please fill out the form accurately and completely to ensure that your request is processed efficiently.

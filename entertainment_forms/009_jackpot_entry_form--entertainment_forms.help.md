@@ -1,13 +1,3 @@
-<thinking>
-
-**This is an internal reasoning block to clarify the purpose and context of the form.**
-
-The purpose of this form is to collect information from users interested in participating in a jackpot contest or competition. This form is used to gather rider information, guesses (if any), and payment details from users who wish to take part in the contest. The form is designed to be user-friendly and straightforward, with fields that require only the necessary information to process their entry.
-
-**Internal context:** This form is part of a larger contest or competition setup, where users can submit their entries to win a prize or recognition. The form is not affiliated with any specific platform, and its original design is derived from public survey topic metadata.
-
-</thinking>
-
 # Jackpot Entry Form - Help Guide
 ## Purpose
 The Jackpot Entry Form is designed to collect information from users interested in participating in a jackpot contest or competition. This form helps to gather the necessary details to process their entry, ensuring a smooth and efficient experience for the user.

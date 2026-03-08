@@ -1,5 +1,3 @@
-<thinking>...To create an effective onboarding process for new employees, we need to collect relevant information about them. This form is designed to gather essential data that will help HR and management teams prepare for the new hire's integration into the organization. The form should be filled out in a clear and concise manner, ensuring that all required fields are completed accurately.</thinking>
-
 # Employee Onboarding Appointment Form - Help Guide
 ## Purpose
 This form is used to collect information about new hires, including their job title, date of birth, start date, email, phone number, availability, work location, manager's name, email, and phone number. This data will help HR and management teams prepare for the new hire's integration into the organization.

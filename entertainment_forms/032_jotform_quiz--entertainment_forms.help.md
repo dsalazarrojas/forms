@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a tool for users to input their information and answers to a quiz. The form is called "jotform_quiz" and it has three fields: "User Information", "Quiz", and "Submit Info". The "User Information" field is used to input personal details, the "Quiz" field is likely used to input answers to the quiz, and the "Submit Info" field is for submitting additional information. This form is designed to be used for entertainment purposes.
-</thinking>
-
 # jotform_quiz - Help Guide
 ## Purpose
 The jotform_quiz form is a tool for users to input their information and answers to a quiz. It's designed for entertainment purposes, such as surveys or quizzes on a specific topic within the entertainment industry.

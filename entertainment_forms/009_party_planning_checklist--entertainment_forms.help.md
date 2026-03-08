@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a party planning checklist, likely used to help individuals or organizations organize and prepare for a party or event. It may be used in various contexts, such as private parties, corporate events, or festivals. The form's structure suggests that it involves a series of tasks and activities related to party planning, including hosting, invitations, decorations, food, and entertainment. However, the field descriptions lack specific details about each field, so it is uncertain what exactly each field is intended to measure or accomplish.
-
-</thinking>
-
 # Party Planning Checklist - Help Guide
 ## Purpose
 This form is a comprehensive checklist for planning and organizing a party or event. It guides you through essential tasks to ensure a successful and enjoyable celebration.

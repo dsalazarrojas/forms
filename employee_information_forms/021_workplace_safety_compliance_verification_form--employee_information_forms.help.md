@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to ensure that employees have the necessary information and resources to perform their job safely. The form will help verify that employees are complying with workplace safety standards and procedures. By collecting this information, the form will help prevent accidents and injuries in the workplace. Before completing this form, please make sure you have the necessary information and resources to answer the questions accurately. If you're unsure about any of the questions, please reach out to your supervisor or HR representative.
-</thinking>
-
 # Workplace Safety Compliance Verification Form - Help Guide
 ## Purpose
 This form is designed to gather information about employee safety compliance in the workplace. It ensures that employees have the necessary knowledge, training, and resources to perform their job safely.

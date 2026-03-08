@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from employees about their interest in using nap pods, which are quiet, sleep-friendly spaces designed to help individuals recharge and focus. The form aims to capture their preferences regarding the frequency and location of nap pod usage, as well as their favorite time of day to use them. This data will help the organization understand how to better support employees' well-being and productivity.
-
-This form should be filled out by employees who are interested in using nap pods, and it is **NOT** mandatory to answer every question.
-
-Please make sure you are using the correct format for the answers. For example, if you choose "daily" as your preferred frequency, please select "daily" in the "nap_pod_frequency" field, not "daily" as a comment in the "nap_pod_frequency_comments" field.
-
-</thinking>
-
 # Nap Pod Usage Interest Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees about their interest in using nap pods.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payroll System Access Form - Help Guide
 
 ## Purpose

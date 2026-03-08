@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This form is for clients to schedule a free consultation with a consultant. It will ask for their name, email, phone number, service they require, schedule appointment, and other relevant details. The form is meant to gather necessary information for the consultant to prepare and provide the best service. The form is not intended for internal use, so it should be easy to understand and fill out.
-
-</thinking>
-
 # free_client_consultation - Help Guide
 ## Purpose
 This form is used to schedule a free consultation with a consultant. Fill out this form to provide your details and requirements, and a consultant will get in touch with you to schedule a suitable appointment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_motivation_survey_template - Help Guide
 ## Purpose
 The purpose of this survey is to measure employee motivation and satisfaction within the organization. It aims to identify areas of improvement to foster a more positive work environment.

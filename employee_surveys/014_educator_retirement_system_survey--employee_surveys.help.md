@@ -1,9 +1,3 @@
-<thinking>
-To ensure that the form is completed accurately and effectively, please read this help guide carefully before filling out the Educator Retirement System Survey. This form is designed to gather feedback from educators about their experiences and opinions on the current retirement system. Your input will help us understand the strengths and weaknesses of the system and identify areas for improvement. Please note that the form has two sections with multiple questions that ask you to rate or select your level of agreement, experience, or suggestions for improvement. Make sure to answer each question truthfully and provide specific examples or details whenever possible. This will help us to better understand your thoughts and feelings about the retirement system.
-
-Before starting, please ensure that you have reviewed the form carefully and understand the purpose and scope of each question. If you are unsure about any question or have questions about the form, please contact us for clarification.
-</thinking>
-
 # Educator Retirement System Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from educators about the overall experience of the current educator retirement system. We would like to understand how you feel about the system, what benefits you think are missing, and how the system could be improved.

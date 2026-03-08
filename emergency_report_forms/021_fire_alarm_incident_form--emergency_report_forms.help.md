@@ -1,10 +1,3 @@
-<thinking>
-This form is used to report incidents that have occurred on the premises. It is meant to be filled out by staff or individuals who have responded to an emergency situation. The form is designed to gather information about the incident, including the location, description, and any other relevant details. The information collected will be used to help assess and respond to the situation efficiently. Please ensure that you are submitting this form if you have responded to an emergency, but only once you have finished your incident report. Please do not submit this form multiple times for the same incident.
-
-Before filling out this form, please ensure that you have permission from the relevant parties before disclosing any information that may be sensitive or confidential.
-
-</thinking>
-
 # fire_alarm_incident_form - Help Guide
 
 ## Purpose

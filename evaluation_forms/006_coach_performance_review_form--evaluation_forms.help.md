@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate the performance of a coach in a specific sport, capturing information on their general details, technical skills, leadership qualities, and overall performance. It aims to assess their knowledge of the sport's fundamentals, ability to explain concepts, strategic management, professionalism, athlete motivation, fairness, and overall rating. This form will be useful for coaches, teams, and organizations to evaluate a coach's performance and provide feedback for improvement.
-
-</thinking>
-
 # Coach Performance Review Form - Help Guide
 ## Purpose
 This form is used to evaluate the performance of a coach in a specific sport, providing a comprehensive assessment of their technical skills, leadership qualities, and overall performance.

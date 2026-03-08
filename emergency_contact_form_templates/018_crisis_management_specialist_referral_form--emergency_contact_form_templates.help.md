@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect information about a crisis management specialist referral. The specialist referral is used to connect individuals or organizations with a crisis management specialist that can provide support and guidance during a crisis. The form is typically used by a crisis management team or a support staff to refer a client or individual to a specialist that can help address their crisis situation.
-
-This form is not intended to be a comprehensive crisis management plan, but rather a way to quickly gather information about a specialist that can be referred to in order to provide support.
-
-Before filling out the form, please ensure that you have the necessary information about the specialist and the crisis situation. This form is not meant to be a substitute for a thorough assessment or evaluation of the specialist's qualifications or experience.
-
-Also, note that the specialist referral form may be part of a larger process or system, and the information collected through this form may be used to make decisions or provide guidance to the specialist or the individual being referred.
-
-</thinking>
-
 # Crisis Management Specialist Referral Form - Help Guide
 ## Purpose
 

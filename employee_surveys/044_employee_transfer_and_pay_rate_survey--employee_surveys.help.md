@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Employee Transfer And Pay Rate Survey" is used to track employee transfers and changes in pay rates. Before filling out this form, please ensure that the necessary information is accurate and up-to-date. It's also a good idea to review the previous survey forms for the same employee to avoid duplicate entries.
 
 # Employee Transfer And Pay Rate Survey - Help Guide

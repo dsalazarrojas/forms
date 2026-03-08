@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users for the purpose of evaluation. It is intended for internal use within the organization. This form should only be completed by users who have a genuine reason to request an evaluation. Please ensure you only fill out this form once for each evaluation purpose.
-</thinking>
-
 # request_evaluation_form - Help Guide
 ## Purpose
 The request_evaluation_form is used to collect user information and feedback for internal purposes. Fill out this form when you need to request an evaluation from our team.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Short Application Form - Help Guide
 
 ## Purpose

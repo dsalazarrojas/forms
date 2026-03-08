@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Christmas Present Form - Help Guide
 ## Purpose
 This Christmas Present Form is designed to help you gather information and ideas for a thoughtful and personalized gift for a loved one. It guides you in understanding the recipient's preferences, interests, and needs, making the gift-giving process easier and more enjoyable.

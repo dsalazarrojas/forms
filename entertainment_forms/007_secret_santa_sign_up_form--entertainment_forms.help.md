@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I'll need to review the form and its fields to ensure I provide accurate and clear instructions for the end-users. The form appears to be for a Secret Santa gift exchange where participants can sign up to receive and give gifts within a certain budget. The form collects information from the participant, including their name, email, phone number, gift preferences, and other details.</thinking>
-
 # Secret Santa Sign Up Form - Help Guide
 ## Purpose
 This form is designed to allow participants to sign up for a Secret Santa gift exchange. The purpose of this form is to collect information about each participant, including their name, contact details, and gift preferences, which will be used to match participants with a gift-giver within their desired budget.

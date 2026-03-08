@@ -1,7 +1,3 @@
-<thinking>
-...the Adult Interaction Feedback Form is designed to gather insights on the quality of interactions between participants and facilitators/staff members in adult programs. This form is essential for identifying areas of improvement and ensuring that interactions are effective and satisfactory for all parties involved. Before starting, please ensure that you haven't already completed this form for the same interaction, as it may affect the accuracy of your feedback. If you're completing this form for a particular interaction, please ensure you have all the necessary information and details to provide accurate and constructive feedback...
-</thinking>
-
 # Adult Interaction Feedback Form - Help Guide
 ## Purpose
 The Adult Interaction Feedback Form is designed to gather insights on the quality of interactions between participants and facilitators/staff members in adult programs. This form helps to ensure that interactions are effective and satisfactory for all parties involved.

@@ -1,5 +1,3 @@
-<thinking>As an employee facing this form, you might wonder what it's all about. This is the "Employee Recognition Program Questionnaire", designed to gather insights into how you feel about the recognition program currently being implemented in your workplace. The purpose of this form is to understand your thoughts on the program's practices, types, frequency, leadership involvement, and areas for improvement. It's a crucial tool for your employers to get a better understanding of what you like, dislike, and would like to see changed in the recognition program. This form will ask you about various aspects of the program, such as the types of recognition you receive, how frequently you are recognized, and areas that could be improved. Don't worry, it's a quick and straightforward form, and it will help shape the future of your workplace recognition program. Please answer these questions to provide valuable feedback.</thinking>
-
 # Employee Recognition Program Questionnaire - Help Guide
 
 ## Purpose

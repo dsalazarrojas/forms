@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's briefly discuss the purpose of this onboarding feedback questionnaire. This form is designed to collect feedback from new employees on their experience with the onboarding process. The goal is to gather information that will help the company improve the onboarding process, making it more effective and efficient for future employees. This form is meant to be a concrete way to collect qualitative feedback, providing a clear structure and set of questions to guide the respondent in providing specific and actionable comments. This guide will explain each section and field in detail, helping users understand what to expect and how to complete the form correctly.</thinking>
-
 # Onboarding Feedback Questionnaire - Help Guide
 ## Purpose
 This onboarding feedback questionnaire is designed to collect your thoughts and experiences about the onboarding process. Your feedback will help us improve the process, making it more effective and efficient for future employees.

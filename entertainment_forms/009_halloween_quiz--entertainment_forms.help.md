@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their preferences during the Halloween season. It has five sections: What is your favorite Halloween movie, What is your favorite Halloween character, Which type of candy do you prefer, What is your age, and How much would you like to spend. The form is not required to be completed, as users can choose to skip any or all of the sections. The form will likely be used to understand user behavior and preferences during this time of year.
-</thinking>
-
 # halloween_quiz - Help Guide
 ## Purpose
 This form is used to gather information about users' preferences during the Halloween season.

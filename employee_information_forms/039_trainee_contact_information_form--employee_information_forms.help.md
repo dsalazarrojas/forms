@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trainee Contact Information Form - Help Guide
 ## Purpose
 This form is used to collect contact information from trainees for the purpose of establishing communication and sending relevant updates or notifications.

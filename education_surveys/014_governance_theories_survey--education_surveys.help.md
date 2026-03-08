@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Governance Theories Survey - Help Guide**
 
 ## Purpose

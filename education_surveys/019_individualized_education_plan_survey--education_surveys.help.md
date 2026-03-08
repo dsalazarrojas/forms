@@ -1,17 +1,3 @@
-<thinking>
-The form is designed to collect information from educators and parents to help create an individualized education plan for students. This form is likely used by schools or educational institutions to gather feedback and input from both educators and parents to tailor educational plans to the specific needs of each student.
-
-This form likely aims to collect data on the following topics: educator feedback, parent input, the effectiveness of tailored plans, student support needs, and feedback frequency.
-
-The goal of this form is to provide educators and parents with a platform to share their thoughts, ideas, and concerns about a student's educational progress. It's essential to ensure that this information is used to create a comprehensive and tailored plan for each student.
-
-Before filling out the form, please consider the following:
-
-* Ensure that you're not filling out the form for a student you've never interacted with before.
-* Be honest and thorough in your responses, as the information will be used to inform educational decisions.
-* If you have any questions or concerns, don't hesitate to reach out to the form creators or administrators.
-</thinking>
-
 # Individualized Education Plan Survey - Help Guide
 ## Purpose
 The Individualized Education Plan Survey is designed to collect information from educators and parents to help create tailored educational plans for students. This form helps gather feedback and input to support student success.

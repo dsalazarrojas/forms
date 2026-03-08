@@ -1,14 +1,3 @@
-<thinking>
-The form "online_learning_platform_questionnaire" is designed to collect feedback from users about their experience with an online learning platform. This form will be used to gauge the user's satisfaction with the platform, gather information about their enrolled courses, and identify areas for improvement.
-
-To ensure the form is filled out correctly and accurately, we will be checking for duplicate submissions, which will be prevented by IP address tracking and form submission time stamps. We also want to avoid duplicate or misleading entries, so we kindly ask that you fill out this form only once.
-
-This form is intended for users who have enrolled in at least one course. If you have not enrolled in any courses, please do not fill out this form.
-
-Please fill out this form carefully, ensuring that you answer all questions accurately and truthfully.
-
-</thinking>
-
 # online_learning_platform_questionnaire - Help Guide
 ## Purpose
 

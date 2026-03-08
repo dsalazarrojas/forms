@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal reasoning block:** This form is designed to capture essential information for an employee's time off request, including the employee's request and details of the leave, the dates of the leave, the reason for the leave, and the approval process. It is intended to be used by employees to submit their leave requests and by approvers to verify and approve the requests. This form ensures that all necessary information is provided and that the process is standardized and efficient.
-
-</thinking>
-
 # Public Utility Planning Leave Time Off Form - Help Guide
 
 ## Purpose

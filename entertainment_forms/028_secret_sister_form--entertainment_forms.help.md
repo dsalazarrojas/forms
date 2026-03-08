@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for an event related to an individual's Secret Sister, and it is likely part of a larger system for processing and organizing data for this event. To ensure that this form is filled out correctly, it would be best to check with the relevant stakeholders before filling out the form to confirm its purpose and ensure that it is not a duplicate effort. This form is designed to collect personal and contact information, as well as details about the relationship between the individual filling out the form and their Secret Sister. The information collected will be used to process and store in a database for future reference.
-</thinking>
-
 # secret_sister_form - Help Guide
 ## Purpose
 The secret_sister_form is a tool used to collect information for an event related to an individual's Secret Sister.

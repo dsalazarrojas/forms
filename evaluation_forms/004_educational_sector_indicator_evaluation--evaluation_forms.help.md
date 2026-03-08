@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect data for the evaluation of the educational sector. This form is likely used to gather information about the performance, quality, or progress of the educational sector, such as student enrollment, graduation rates, teacher qualifications, or facility condition. It might be used by administrators, policymakers, or researchers to assess the strengths and weaknesses of the sector and identify areas for improvement.
-
-Before filling out this form, please review the questions carefully to ensure you are answering the right questions for your context. If you have any questions or concerns, contact the form administrator. This form is designed to be completed by individuals with knowledge of the educational sector's performance and operations.
-
-To ensure accurate and meaningful data, please complete the form with the most up-to-date information available. If you are unsure about any of the questions, you can refer to relevant documents or experts in the field.
-
-</thinking>
-
 # Educational Sector Indicator Evaluation - Help Guide
 ## Purpose
 The Educational Sector Indicator Evaluation form is designed to collect data about the performance, quality, or progress of the educational sector. This data will be used to assess the strengths and weaknesses of the sector and identify areas for improvement.

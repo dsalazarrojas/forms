@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Information And Emergency Contacts Form - Help Guide
 ## Purpose
 This form is intended to gather important medical information and emergency contact details for individuals. The purpose is to provide a standardized and efficient way to collect this information, ensuring that you have the necessary data in case of a medical emergency.

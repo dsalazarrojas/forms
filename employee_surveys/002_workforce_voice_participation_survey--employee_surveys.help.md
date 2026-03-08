@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from employees about their experience with the company, focusing on engagement, communication, and overall job satisfaction. It is meant to be a confidential and anonymous survey to gather honest opinions from the workforce. Please ensure you're completing this form only once, and do not duplicate your response, as it may affect the reliability and accuracy of the results.
-</thinking>
-
 # Workforce Voice Participation Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback and suggestions from employees about their experience with the company, focusing on engagement, communication, and overall job satisfaction.

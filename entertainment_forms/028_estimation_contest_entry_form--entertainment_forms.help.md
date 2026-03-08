@@ -1,8 +1,3 @@
-<thinking>
-The "Estimation Contest Entry Form" is designed for contestants to submit their estimations for a contest. Contestants must provide their first name, last name, estimate value, estimate currency, guess date, contact email, and contact phone number. This form is part of a larger contest process where contestants submit their predictions on the value of a certain item.
-The form should only be filled out once by each contestant.
-</thinking>
-
 # Estimation Contest Entry Form - Help Guide
 ## Purpose
 The Estimation Contest Entry Form is used to submit estimations for a contest. Please fill out the form with your details to participate in the contest.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Father Son Learning Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the relationship between a father and his son. It aims to gauge how well the father is involved in his son's learning process, the quality of their communication, and other aspects that affect their relationship.

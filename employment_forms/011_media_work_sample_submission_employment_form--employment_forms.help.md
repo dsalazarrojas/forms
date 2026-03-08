@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning**
-This form is a tool used to collect and review work samples from job applicants. It's designed to help hiring managers and other staff evaluate a candidate's work samples and assess their fit for a position. The form is divided into several sections, each collecting specific information about the work samples, such as job application details, uploaded work samples, review notes, and more. The form is not a formal job application form, but rather a supporting document to aid in the hiring process.
-
-</thinking>
-
 # Media Work Sample Submission Employment Form - Help Guide
 ## Purpose
 The purpose of this form is to help hiring managers and staff evaluate a candidate's work samples and assess their fit for a position.

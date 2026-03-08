@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help users apply for a mechanical engineer position in a company. The form asks for contact information, resume, experience, qualifications, education, work history, skills, and references. The purpose of this form is to collect data for the hiring process, ensuring that applicants meet the necessary qualifications and requirements for the mechanical engineer position.
-
-To avoid duplication, the form is designed to be a one-time submission process. Users can review and edit their submissions before sending it to the company's hiring team.
-
-</thinking>
-
 # Mechanical Engineer Application Form - Help Guide
 ## Purpose
 This form is designed to help users apply for a mechanical engineer position in a company. It collects essential information about the applicant, including contact details, experience, skills, and qualifications.

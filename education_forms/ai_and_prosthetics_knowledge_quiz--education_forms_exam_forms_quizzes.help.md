@@ -1,18 +1,3 @@
-<thinking>
-This form is designed for assessing the user's knowledge and experience with AI and prosthetics, particularly for those working in the field of prosthetic technology and its applications. The form is meant to elicit information about the user's understanding of various concepts and technologies related to AI and prosthetics, as well as their confidence in using AI-powered prosthetics. The form's sections cover participant information, AI and prosthetics knowledge, and feedback. 
-
-Please note that this form does not copy or use proprietary content from other forms platforms and is an original adaptation created by AI.
-
-Before filling out the form, please make sure you're familiar with its sections and questions, as well as the types and options provided.
-
-Please also consider that all fields marked as "required" must be filled in for the form to be valid.
-
-This form is not meant to be filled out by anyone under 18, as it involves mature topics. 
-
-Please answer truthfully and thoroughly, and feel free to ask for help if needed.
-
-</thinking>
-
 # AI And Prosthetics Knowledge Quiz - Help Guide
 
 ## Purpose

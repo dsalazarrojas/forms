@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being generated based on the provided YAML structure. I'm checking for relevance and non-duplication of existing information.
-</thinking>
-
 # Cell Cycle Assessment Survey - Help Guide
 ## Purpose
 This form is designed to assess your understanding of the cell cycle, a fundamental concept in biology. It consists of multiple sections, each covering a different aspect of the cell cycle, including its basics, mitosis and meiosis, regulation and control, and assessment of your confidence and areas needing more help.

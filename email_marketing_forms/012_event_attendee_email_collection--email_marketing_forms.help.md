@@ -1,8 +1,3 @@
-<thinking>
-Event Attendee Email Collection is intended to gather information about attendees of an event, conference, or meeting for the purpose of organizing and sending them updates, notifications, or follow-up information via their preferred communication channel. This form is meant to collect relevant details such as attendee names, contact emails, phone numbers, and consent to share their information with the event organizer.
-Please ensure that this form is being used for its intended purpose and not for other non-relevant tasks to avoid data duplication and confusion.
-</thinking>
-
 # Event Attendee Email Collection - Help Guide
 ## Purpose
 This form is designed to collect essential information about attendees for event organization and communication.

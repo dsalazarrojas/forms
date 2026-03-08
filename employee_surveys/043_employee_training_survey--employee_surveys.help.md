@@ -1,14 +1,3 @@
-<thinking>
-This help guide will cover the "Employee Training Survey" form, which is used to gather feedback from employees regarding the effectiveness of training programs provided by the company.
-
-The purpose of this form is to collect data on employee participation and satisfaction levels for training programs. This information will help the management team assess the relevance and effectiveness of the training provided and make data-driven decisions for future training initiatives.
-
-To ensure that this data is reliable and actionable, please complete the form carefully and honestly. Each form page is designed to gather specific information, and skipping pages or providing incorrect information may compromise the accuracy of the results.
-
-Before proceeding, make sure you have all the necessary information and resources to complete the form accurately.
-
-</thinking>
-
 # Employee Training Survey - Help Guide
 ## Purpose
 The Employee Training Survey is designed to gather feedback from employees regarding the effectiveness of training programs provided by the company.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about booking requests for college equipment. The form is intended to be completed by users who need to request equipment for a specific purpose. The form's purpose is to gather relevant details such as the date of the booking request, the name and contact information of the person making the request, the type and quantity of equipment needed, and other relevant information to facilitate the booking process.
-The form will help to prevent duplication of requests for the same equipment, ensuring that equipment is not booked by multiple users at the same time.
-The form will also help to identify potential conflicts or issues with the booking request, such as equipment availability, location, and time constraints.
-</thinking>
-
 # College Equipment Booking Form - Help Guide
 ## Purpose
 The College Equipment Booking Form is designed to collect information about booking requests for college equipment. To complete this form, please follow the instructions below.

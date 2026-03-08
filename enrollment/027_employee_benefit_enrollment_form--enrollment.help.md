@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect employee information and benefit enrollment preferences for HR and Payroll purposes. The form is designed to gather essential data about employees' demographics, benefits, and job information. Please note that the form's fields are designed to collect data that will help with employee benefit administration and related tasks. This is not intended to be a comprehensive HR system or an employment application form. The form does not contain any sensitive or personal identifiable information that could pose a risk or concern. All fields are designed to be completed by the employee, and data will be used for internal purposes only.
-</thinking>
-
 # Employee Benefit Enrollment Form - Help Guide
 ## Purpose
 The Employee Benefit Enrollment Form is used to collect employee information and benefit enrollment preferences for HR and Payroll purposes. This form is designed to gather essential data about employees' demographics, benefits, and job information.

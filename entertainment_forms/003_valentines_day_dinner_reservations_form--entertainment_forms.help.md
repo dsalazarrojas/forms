@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for Valentines Day dinner reservations. It is used to gather details such as the customer's name, contact information, reservation date and time, number of guests, special requests, and payment method. To ensure that all fields are correctly filled out, check that all options and select_one options are selected and filled out where required. This form is intended for customers making reservations for two separate tables. 
-</thinking>
-
 # Valentines Day Dinner Reservations Form - Help Guide
 ## Purpose
 This form is used to collect information for Valentines Day dinner reservations.

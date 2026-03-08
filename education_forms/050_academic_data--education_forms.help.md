@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect academic data from students, faculty, or staff members in an educational institution. The form is used to record and maintain accurate records of academic information, such as degree programs, majors, enrollment years, and semester-wise performance. The form is crucial for administrative and statistical purposes, ensuring that data is collected and stored in a standardized format.
-To fill out this form, you will need to provide accurate and up-to-date information about your academic background. Please ensure that you complete all required fields, as they are marked as "required".
-</thinking>
-
 # Academic Data - Help Guide
 ## Purpose
 This form is used to collect and record academic data from students, faculty, or staff members.

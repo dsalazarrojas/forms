@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are interested in working as models, actors, singers, or dancers. This form will help us understand their availability, talent type, experience, and other relevant details. We want to ensure that we only receive relevant and accurate responses, so please take a few minutes to fill this form out carefully.
-</thinking>
-
 # Model Call Survey - Help Guide
 
 ## Purpose

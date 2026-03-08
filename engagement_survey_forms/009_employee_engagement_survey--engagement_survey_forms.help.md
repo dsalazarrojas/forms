@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to create a user-facing help guide for the Employee Engagement Survey form. This form aims to gather information about employee experiences and perceptions, helping management and HR teams understand the sentiment and opinions of the employees. To ensure that the form is completed accurately and meaningfully, I'll provide a step-by-step guide on how to complete it, highlighting each field's purpose and required information.</thinking>
-
 # Employee Engagement Survey - Help Guide
 ## Purpose
 The Employee Engagement Survey is designed to collect information about your experiences and perceptions as an employee. It will help us understand your opinions and sentiment, providing valuable insights to improve your work environment and overall well-being.

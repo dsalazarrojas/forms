@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the effectiveness of a training session focused on employee ownership mindset. This form is designed to gather feedback from participants on various aspects of the training, including the trainer's effectiveness, the confidence in applying ownership, content quality, and other relevant factors. It is essential to complete this form to ensure that the training is meeting its intended goals and objectives.
-
-</thinking>
-
 # employee_ownership_mindset_training_evaluation - Help Guide
 ## Purpose
 This form is used to gather feedback from participants on the effectiveness of a training session focused on employee ownership mindset.

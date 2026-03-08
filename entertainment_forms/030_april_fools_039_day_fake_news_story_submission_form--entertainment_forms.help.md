@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting fake news stories for the sake of April Fools' Day entertainment. The purpose of this form is to collect information about the person submitting the story, the story's details, and the submitter's consent to publish. This form is not intended for actual news articles. To be eligible for submission, the story must have a clear headline, be in one of the selected categories, and the submitter must consent to publication.
-</thinking>
-
 # April Fools Day Fake News Story Submission Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about employee benefits related to family leave, including the availability of such benefits, the quality of these benefits, and any feedback or comments about the leave policies in place. This information will be used to assess the effectiveness of current benefits and identify areas for improvement. It's essential to note that this form is not meant to be a comprehensive evaluation of all employee benefits, but rather a specific assessment of family leave benefits. It's also worth noting that some of the fields may be optional, which means that employees are not required to answer them.
-</thinking>
-
 # Family Leave Benefits Survey - Help Guide
 ## Purpose
 The Family Leave Benefits Survey is designed to gather information about employee benefits related to family leave. This form will help us understand which benefits are available to employees, their satisfaction with these benefits, and any feedback or comments about the leave policies in place.

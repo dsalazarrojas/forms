@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and functionality of the Pulse Survey form. The purpose of this form is to collect feedback from employees about their work environment, engagement, and overall satisfaction. This form is designed to be completed by employees to provide their honest opinions and suggestions to their managers and HR department.
-
-Before starting this guide, please ensure that you are familiar with the form's purpose and that it's not a duplicate effort to complete another related form. If you're unsure, please double-check with your manager or HR representative.
-
-</thinking>
-
 # Pulse Survey - Help Guide
 ## Purpose
 The Pulse Survey is a form designed to collect employee feedback about their work environment, engagement, and overall satisfaction. This form helps managers and HR understand employee concerns and preferences, allowing them to make data-driven decisions to improve the work environment and employee experience.

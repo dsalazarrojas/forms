@@ -1,7 +1,3 @@
-<thinking>
-Is this form intended to be used by employees for their own performance evaluation or by managers for reviewing employee performance? Is this form part of a regular performance management process that should be completed within a specific time frame (e.g., annually, quarterly)? Please verify that there are no duplicate fields or unnecessary data entry points for the end-user. I am assuming this form is used by managers to review employee performance and that it is a one-time assessment. 
-</thinking>
-
 # Annual Employee Review Form - Help Guide
 ## Purpose
 The Annual Employee Review Form is a tool used by managers to assess and document the performance of their employees. It is designed to provide a comprehensive evaluation of an employee's strengths and weaknesses, areas for improvement, and areas of growth.

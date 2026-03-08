@@ -1,7 +1,3 @@
-<thinking>
-This form is for educational technology prototype application. It's designed to be completed by users who want to propose a new educational technology idea. The form is used to gather relevant information to evaluate the proposal. It is expected that the information provided will be accurate and relevant. The form should not be used for commercial purposes.
-</thinking>
-
 # Educational Technology Prototype Application Form - Help Guide
 ## Purpose
 The Educational Technology Prototype Application Form is a tool to gather information from users who want to propose a new educational technology idea. This form will help us understand their idea, its potential, and feasibility.

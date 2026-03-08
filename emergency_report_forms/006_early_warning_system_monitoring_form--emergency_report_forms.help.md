@@ -1,11 +1,3 @@
-<thinking>
-The form "early_warning_system_monitoring_form" is designed to collect information on the status of the early warning system, which is a system used to provide alerts and notifications in emergency situations. This form is used to monitor the system's status and provide updates on its functionality and performance. The purpose of this form is to gather relevant details about the system's status, location, and other important information that can help in its proper functioning.
-
-Before filling out this form, please make sure you have the necessary information and permissions to do so. This form is not intended for duplication or unnecessary usage. Please ensure that the information provided is accurate and up-to-date.
-
-The form is divided into several sections, each with its own purpose and requirements. Please review each section carefully to ensure that you understand what is being requested.
-</thinking>
-
 # early_warning_system_monitoring_form - Help Guide
 ## Purpose
 This form is used to monitor the status of the early warning system, providing updates on its functionality and performance.

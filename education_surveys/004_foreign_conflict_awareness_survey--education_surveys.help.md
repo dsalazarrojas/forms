@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather information about respondents' awareness and perceptions of foreign conflicts, specifically regarding their sources of information, perception of conflict impact, and factors influencing conflict resolution. The form is used to gauge the level of public awareness about foreign conflicts and to identify areas where education and information may be needed to improve awareness and prevention of conflicts. 
-
-The form's structure is composed of multiple sections, each asking about different aspects of foreign conflicts, including public awareness, sources of information, perception of conflict impact, and factors influencing conflict resolution. 
-
-The form requires respondents to choose from predefined options for each section, with some sections having a "Other (please specify)" option for respondents to provide their own answer if it's not listed. 
-
-This form is not designed to be completed by individuals with direct involvement in conflict management or foreign policy-making, but rather to gather general public opinions and attitudes towards foreign conflicts.
-
-</thinking>
-
 # Foreign Conflict Awareness Survey - Help Guide
 ## Purpose
 

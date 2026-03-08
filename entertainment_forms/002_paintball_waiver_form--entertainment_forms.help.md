@@ -1,7 +1,3 @@
-<thinking> 
-We're creating a help guide for a Paintball Waiver Form, which is likely used for participants to provide necessary information and sign off on the terms of the event. This form is probably used for paintball games or events, and it's essential to ensure that participants understand the terms and conditions before participating. This guide will walk users through the form's purpose, how to complete it, and a field-by-field explanation of each section. We'll cover the required fields, optional fields, and any additional information needed for a safe and enjoyable experience. 
-</thinking>
-
 # Paintball Waiver Form - Help Guide
 ## Purpose
 The Paintball Waiver Form is a document that participants must complete before participating in a paintball game or event. It's a mandatory requirement to ensure that participants understand and agree to the terms and conditions of the event.

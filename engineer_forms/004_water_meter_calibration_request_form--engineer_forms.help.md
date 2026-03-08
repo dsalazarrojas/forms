@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Water Meter Calibration Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for water meter calibration requests. It's intended for water utility companies and their customers to submit calibration requests for meters installed on their properties. The form helps streamline the process, ensuring accuracy and efficiency in handling meter readings and calibrations.

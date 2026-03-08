@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to assess employees' perceptions on corporate ethics. It gathers information on various aspects related to ethics, such as reporting, ethics committees, feedback, and incentives. The form is part of a larger set of tools used to gauge the corporate culture and climate.
-</thinking>
-
-# corporate_ethics_perception_survey - Help Guide
+> # corporate_ethics_perception_survey - Help Guide
 ## Purpose
 This form is designed to gather information on employees' perceptions of corporate ethics. It aims to understand their views on reporting, ethics committees, feedback, and incentives in the workplace.
 

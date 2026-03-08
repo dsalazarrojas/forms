@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to help you identify the people who know you best, by asking a series of questions about your preferences, habits, and interests. The form includes fields for various aspects of your personality, such as your name, email, phone number, favorite food, favorite hobby, favorite color, favorite animal, and more. This form is meant to be completed by users who want to have fun and explore their relationships with others. Please note that while this form has many fields, you can choose to fill in any or all of them, depending on your willingness to share. If you're unsure about a particular field, feel free to skip it or provide a general answer. The form should take around 10-15 minutes to complete, and it's completely optional. 
-</thinking>
-
 # Who Knows Me Best Quiz - Help Guide
 
 ## Purpose

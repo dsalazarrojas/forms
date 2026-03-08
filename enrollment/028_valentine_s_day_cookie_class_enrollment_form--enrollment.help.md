@@ -1,6 +1,3 @@
-<thinking>
-This form is for participant enrollment for a Valentine's Day cookie class, typically used for internal purposes within the organization. This information will be used to identify and follow up with enrolled participants. Ensure that you are submitting the correct information for the participant you are enrolling. This form is not intended for public submission and should only be filled out by authorized personnel. 
-</thinking>
 # valentines_day_cookie_class_enrollment_form - Help Guide
 ## Purpose
 

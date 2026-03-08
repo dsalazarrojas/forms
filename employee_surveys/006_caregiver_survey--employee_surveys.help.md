@@ -1,9 +1,3 @@
-<thinking>
-  This form is used to collect feedback from caregivers, providing an opportunity for them to share their experiences, satisfaction, and concerns regarding their work environment, resources, and support. This helps the organization identify areas of improvement and address any concerns.
-  Before filling out this form, please ensure that you are a current or former caregiver within the organization, as the questions are designed to gather specific insights from those with direct experience in the care unit.
-  Please complete the form thoroughly, providing honest and sincere responses. Your feedback is crucial in shaping the organization's policies and practices.
-</thinking>
-
 # Caregiver Survey - Help Guide
 ## Purpose
 The Caregiver Survey is designed to gather feedback from caregivers about their work experience, satisfaction, and concerns. This will help the organization identify areas of improvement and make necessary adjustments to create a more supportive and efficient work environment.

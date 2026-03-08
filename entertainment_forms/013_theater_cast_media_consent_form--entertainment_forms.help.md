@@ -1,10 +1,3 @@
-<thinking>
-To create the best help guide for the "Theater Cast Media Consent Form," we must start by understanding its purpose and the technical details provided. The form is designed to capture relevant information from theater performers for media purposes. However, the exact nature of "media" is not specified, so let's focus on the most likely usage: capturing consent for media appearances, such as photos, videos, or live shows.
-
-Before creating the help guide, we need to ensure the form's purpose and fields are clear and well-represented. The form has fields for performer information, consent from guardians, media usage, photo and video shoots, additional details for these shoots, shows, and a note field for show details.
-
-</thinking>
-
 # Theater Cast Media Consent Form - Help Guide
 ## Purpose
 This form is used to capture media-related information from performers, including their details, consent, and media usage preferences. This information helps in organizing and planning media activities such as photo shoots, video shoots, and live shows.

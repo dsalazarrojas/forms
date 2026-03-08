@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from students after completing an exam. The purpose of this form is to gather information about the student's experience with the exam, including their name, ID, subject, and other relevant details. This form is intended to be completed by students after they have finished taking the exam, and the data collected will be used to inform future improvements to the exam process.
-</thinking>
-
 # Student Post Exam Feedback Check In Form - Help Guide
 ## Purpose
 This form is used to collect feedback from students after completing an exam.

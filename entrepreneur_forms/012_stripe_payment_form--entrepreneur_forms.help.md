@@ -1,7 +1,3 @@
-<thinking>
-The Stripe Payment Form is a versatile form designed to collect payment information from users. It can be used for a variety of purposes, such as requesting payment methods, collecting card numbers, expiration dates, and other relevant details. Before proceeding, ensure that this form is not already being used within your workflow, and review its purpose to avoid duplication of efforts.
-</thinking>
-
 # Stripe Payment Form - Help Guide
 ## Purpose
 The Stripe Payment Form is a versatile form designed to collect payment information from users. It is typically used to request payment methods, collect card numbers, expiration dates, and other relevant details.

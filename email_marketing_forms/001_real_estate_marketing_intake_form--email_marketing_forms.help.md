@@ -1,18 +1,3 @@
-<thinking>
-To determine the purpose and usage of the Real Estate Marketing Intake Form, I'll review its fields and options. This form appears to be for gathering information from real estate clients or leads, focusing on their marketing preferences and sources. The fields seem to be a mix of basic contact information (name, email, phone), property-related questions (property type, lead source), and marketing channel preferences.
-
-For the internal reasoning block, I'll assume the form is used to:
-
-* Identify potential customers or leads for real estate marketing efforts
-* Determine the type of properties or services the customers are interested in (residential, commercial, etc.)
-* Understand how they found the marketing efforts (online ads, social media, referrals, etc.)
-* Identify the marketing channels the customers are interested in or currently using (email, social media, print ads, etc.)
-* Gather feedback or comments from customers on their real estate agents or preferences
-
-Please note that this is a high-level assumption and may require further discussion with the development team or stakeholders to clarify the exact purpose and usage of the form.
-
-</thinking>
-
 # Real Estate Marketing Intake Form - Help Guide
 ## Purpose
 The Real Estate Marketing Intake Form is designed to collect information from potential customers or leads about their real estate marketing preferences and sources.

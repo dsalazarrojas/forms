@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Overtime_Request_Form - Help Guide
 ## Purpose
 This form is designed to request overtime from your supervisor or manager for a specific project. Please fill in your details to make a request.

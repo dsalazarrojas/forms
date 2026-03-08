@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for hosts to gather information from guests about their attendance status and preferences for a housewarming party. 
-
-The form is intended to collect basic contact information, including the host's name and email, the party date and time, the location, and the number of guests attending. It also includes fields for each guest to provide their name, email, and phone number, as well as a field to select which guests are attending. 
-
-The form's primary purpose is to help hosts keep track of who is coming to the party and can provide an easy way for guests to RSVP. 
-
-The form is suitable for both personal and professional use cases, such as a housewarming party for a new home or a networking event.
-
-</thinking>
-
 # Housewarming RSVP Form - Help Guide
 ## Purpose
 

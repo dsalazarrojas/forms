@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about a physical therapist's onboarding process, likely for administrative or regulatory purposes. The fields suggest a focus on identifying the individual, their credentials, and contact information. To avoid duplication, it's essential to ensure that this form is not used in conjunction with other forms that collect similar information, particularly the "employee_information_forms" category. A careful review of the form's purpose and the fields it contains will help in determining if it's a proper fit for the intended use.
-</thinking>
-
 # Physical Therapist Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from physical therapists during their onboarding process. The form includes fields for identifying the individual, their professional credentials, and contact information. It will help in maintaining accurate records and facilitating a smooth transition for the therapist.

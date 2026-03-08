@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Biotech Research Publication Employment Form", we need to understand the form's purpose and ensure that the provided YAML fields are correctly translated into a clear and concise guide. The form appears to be designed for individuals applying for a position in a biotech research setting, requiring personal and professional information, research experience, education, and technical skills. The form seems to be focused on capturing relevant details to assess an applicant's qualifications and fit for the position.
-
-Upon reviewing the YAML fields, the fields are grouped into several sections: Personal Information, Position Information, Education, Professional Experience, Research and Publications, Technical Skills, Credentials and Certifications, and References. This organization helps to categorize the form questions in a logical and easy-to-follow manner.
-
-To avoid duplication of information and ensure that the guide is comprehensive, we will review each field and provide a clear and concise explanation for each section.
-
-</thinking>
-
 # Biotech Research Publication Employment Form - Help Guide
 
 ## Purpose

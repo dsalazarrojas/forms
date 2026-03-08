@@ -1,5 +1,3 @@
-<thinking>Before proceeding with the help guide, I'd like to clarify the purpose and relevance of the form. The "Time Clock Correction Form Template" seems to be a form used for correcting errors in an employee's time clock record. It's designed to allow employees or their representatives to report and correct mistakes in their time clock entries. The form appears to be used for reporting various types of corrections, including clock-in errors, clock-out errors, late starts, early outs, and other discrepancies. The form also includes fields for submitting corrections, such as the date and time of the correction, and the individual who made the correction. This form is likely used for internal HR or payroll purposes.</thinking>
-
 # Time Clock Correction Form Template - Help Guide
 ## Purpose
 The Time Clock Correction Form Template is a document used to correct errors in an employee's time clock record.

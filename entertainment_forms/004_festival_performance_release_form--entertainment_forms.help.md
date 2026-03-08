@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to confirm form purpose and non-duplication ...
-
-This form is used to gather information about a performer's release preferences for a festival performance. It's crucial to understand that a festival performance can be released through various channels, including online, in-person, and possibly both. The form asks for the performer's contact information, release preferences (type, location, media types), agreement on certain conditions, and additional release notes. It's essential that this form is filled out correctly to ensure accurate and proper release processing. Please note that some fields are not required, but providing accurate and complete information will help in the smooth processing of the performer's release preferences.
-
-...</thinking>
-
 # Festival Performance Release Form - Help Guide
 ## Purpose
 The Festival Performance Release Form is used to gather information about a performer's release preferences for a festival performance.

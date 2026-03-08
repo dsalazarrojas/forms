@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Evolutionary Process Survey" form, we must first understand its purpose and the reasoning behind its fields. This form appears to be designed to gather feedback or opinions from course participants about their knowledge, understanding, and application of evolutionary processes in a specific course. The form asks about the course title, description, instructor, and various aspects of evolutionary processes, including their influence on public outreach and the instructor's confidence in using them.
-
-It's essential to ensure that this form is not completed by the same person more than once, as this could skew the results and make them less valuable for analysis. Therefore, we should implement a system to prevent duplication of responses. For instance, we could use a unique identifier or a token-based system to track user responses and prevent duplicates.
-
-</thinking>
-
 # Evolutionary Process Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and opinions from course participants about their knowledge, understanding, and application of evolutionary processes in a specific course.

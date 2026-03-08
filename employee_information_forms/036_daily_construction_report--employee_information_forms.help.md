@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a construction project's progress and status. This form likely serves as a daily report from an employee to their supervisor or team lead, detailing the work completed on a specific project. The form may be used to track progress, identify areas of improvement, and facilitate communication among team members. This form likely has a clear connection to the project_id field, which is a unique identifier for the project being reported on.
-
-Before creating this form, ensure you don't have a similar form or process in place to avoid duplication of effort.
-
-</thinking>
-
 # Daily Construction Report - Help Guide
 ## Purpose
 The Daily Construction Report form is used to record the progress and status of a construction project on a daily basis. It's an essential tool for tracking project completion, identifying areas of improvement, and facilitating communication among team members.

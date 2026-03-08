@@ -1,11 +1,3 @@
-<thinking>
-The form is intended to gather information from potential tech UX designers for hiring purposes. The form will be used to collect various details about the candidate's experience, skills, and availability. The form's purpose is to ensure that the candidates meet the necessary qualifications and requirements for the position. This form will be reviewed by the hiring team to assess the candidate's suitability for the role.
-
-Before filling out the form, please ensure that you have the necessary permissions to apply for this position and that you are not duplicating your application.
-
-Please fill out the form accurately and completely to ensure that your application is thoroughly reviewed.
-</thinking>
-
 # Tech UX Designer Employment Application - Help Guide
 ## Purpose
 The Tech UX Designer Employment Application is a form designed to collect information from potential tech UX designers for hiring purposes.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for educational institutions to gather feedback and suggestions from their faculty members about the teaching resources they need to improve their teaching practices. This form is used to collect information on faculty's preferences, interests, and challenges related to teaching resources. The data collected will help educational institutions better understand their faculty's needs and provide them with tailored support and resources.
-
-Before starting, please note that this form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created by AI using public metadata as inspiration. You can use, modify, and even sell the form, just give credit.
-
-To ensure that you're using the correct form for your purposes, please verify that your institution's needs align with this form's purpose and that you're not duplicating efforts.
-
-</thinking>
-
 # Faculty Teaching Resources Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback and suggestions from faculty members on their teaching resources needs.

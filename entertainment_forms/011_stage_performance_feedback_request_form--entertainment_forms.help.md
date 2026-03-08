@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from individuals who have attended a stage performance. The purpose of this form is to gather information about the audience's experience with the show, including their thoughts on the performance details, show name, date, time, location, and their contact information. This feedback will help the production team improve future performances and better serve the audience.
-
-The form is divided into sections, each with its own specific fields. Please make sure to fill out each field accurately and completely. If you are unsure about a particular field, refer to this guide for clarification.
-
-</thinking>
-
 # Stage Performance Feedback Request Form - Help Guide
 ## Purpose
 The purpose of this form is to provide feedback on a stage performance you have attended. Your input will help improve future shows and enhance the overall audience experience.

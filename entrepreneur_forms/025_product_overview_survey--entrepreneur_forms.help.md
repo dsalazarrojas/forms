@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect product information and details from users for the purpose of creating a comprehensive product overview. It's essential to fill out this form accurately to ensure that the product information is up-to-date and correct. Please note that this form may be used by multiple users, so please make sure to fill out the form only once for each product.
-</thinking>
-
 # Product Overview Survey - Help Guide
 ## Purpose
 This form is intended for creating a product overview by collecting essential details about the product, such as its title, name, description, price, and other relevant information. This form will help users provide a comprehensive view of the product for future reference.

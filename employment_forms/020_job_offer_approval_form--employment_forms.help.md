@@ -1,14 +1,3 @@
-<thinking>
-
-To create an effective help guide for the "Job Offer Approval Form", we must consider the following internal reasoning and checks:
-
-*   Ensure the form purpose is clear and concise, and that the form serves as a tool for approval and review of job offers.
-*   Verify that the form is not used for other purposes, such as job posting or candidate application.
-*   Check that the form is being used correctly, without duplication or redundancy.
-*   Confirm that the form's purpose aligns with company's hiring and approval processes.
-
-</thinking>
-
 # Job Offer Approval Form - Help Guide
 ## Purpose
 The "Job Offer Approval Form" is a document used for review and approval of job offers. It serves as a tool for departments and HR to verify job details and ensure that all necessary steps have been taken before proceeding with the hiring process.

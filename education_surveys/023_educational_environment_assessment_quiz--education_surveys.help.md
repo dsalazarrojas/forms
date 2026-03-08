@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Educational Environment Assessment Quiz" under the category "education_surveys". This form is meant to assess the educational environment and gather feedback from students on their experience in the classroom. The form should be filled out by students, and its purpose is to provide valuable insights to teachers and administrators on how to improve the educational environment. To avoid duplication, we need to check that the form is not already filled out by the same user. 
-</thinking>
-
 # Educational Environment Assessment Quiz - Help Guide
 ## Purpose
 This form is designed to gather feedback from students on their educational environment in the classroom. It consists of multiple sections that assess various aspects of the classroom, such as resources, teaching quality, safety, overall satisfaction, and comments. Your input will help teachers and administrators to understand your needs and improve the educational environment.

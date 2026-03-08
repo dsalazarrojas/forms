@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about team members, including their personal details, team affiliation, department, job title, and manager relationships. The purpose of this form is to facilitate the discovery of team members' data for various HR-related purposes. This form should only be completed by team members or authorized personnel.
-</thinking>
-
 # Team Member Discovery Form - Help Guide
 ## Purpose
 The Team Member Discovery Form is designed to collect information about team members' personal details, team affiliation, department, job title, and manager relationships. This form helps facilitate the discovery of team members' data for various HR-related purposes.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather feedback and evaluations from users regarding their experience with a public health response simulation exercise. The form aims to collect information on various aspects of the exercise, including its rating, difficulty, and overall experience. The questions are intended to be simple and straightforward, allowing users to provide their honest opinions and suggestions for improvement.
-
-</thinking>
-
 # Public Health Response Simulation Evaluation - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from users regarding their experience with the public health response simulation exercise.

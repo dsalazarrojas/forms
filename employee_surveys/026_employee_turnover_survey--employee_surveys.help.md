@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from employees who are leaving the company. The goal is to understand the reasons behind their departure and to gather feedback on their experience while working with the company. By completing this form, you will be helping us better understand how to improve our work environment and processes for future employees. Please note that this form is not a performance evaluation or a disciplinary action, but rather a tool to help us learn and grow as an organization.
-
-This guide will walk you through the form fields and provide explanations for each section. If you have any questions or concerns, please don't hesitate to reach out to your HR representative for assistance.
-
-</thinking>
-
 # Employee Turnover Survey - Help Guide
 
 ## Purpose

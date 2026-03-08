@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to gather information and feedback from employees on the casual conversion policy, which is a process for converting fixed-term employees to permanent employment status. The purpose of this form is to understand employees' experiences, challenges, and suggestions for improvement, ensuring that the conversion process is fair and efficient. This survey will help us:
-
-* Identify areas for improvement in the current policy
-* Gather feedback from employees who have undergone the conversion process
-* Make data-driven decisions to refine the conversion process
-
-This form is not intended to be time-consuming and is designed to be completed in a few minutes. Your responses will remain anonymous if you select the "Submit anonymously" option.
-
-</thinking>
-
 # Casual Conversion Policy Survey - Help Guide
 ## Purpose
 The Casual Conversion Policy Survey is designed to gather information and feedback from employees on the casual conversion policy. Your responses will help us refine the conversion process and make it fair and efficient for all employees.

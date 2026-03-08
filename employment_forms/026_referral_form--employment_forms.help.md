@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block: The form is designed to collect referral information from a user, which will be used to facilitate the hiring process. This form will be used by HR departments to gather information about referrals made by employees, including details about the referred individual, their job title, job type, company, industry, job location, job category, employment type, job status, job level, job description, job notes, and referral message. The form should be completed only once for each referral, and the user should not duplicate any information already submitted. Please ensure that all required fields are filled out accurately and thoroughly, as this information will be used to make informed hiring decisions.</thinking>
-
 # Referral Form - Help Guide
 ## Purpose
 The Referral Form is designed to collect information about referrals made by employees to support the hiring process.

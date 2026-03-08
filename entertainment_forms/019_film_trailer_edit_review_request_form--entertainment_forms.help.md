@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently for all film trailer edit review requests. To avoid duplicates, we should check that a similar form hasn't been submitted recently. This form is intended for film editors and stakeholders to review and edit film trailers in a timely manner. We should also verify that all necessary information is provided to facilitate the review process and ensure that the film trailer edit review request is handled correctly.
-</thinking>
-
 # Film Trailer Edit Review Request Form - Help Guide
 ## Purpose
 This form is used by film editors and stakeholders to review and edit film trailers for submission to film festivals, film markets, and other related events. The form is used to gather necessary information for review and feedback, ensuring that the trailer is edited and released on time.

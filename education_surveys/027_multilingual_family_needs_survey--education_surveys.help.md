@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a family's multilingual needs, covering language spoken at home, education level, household income and size, adult education and employment status, among other factors. This data will help us better understand the language needs of families in different socio-economic contexts. Please ensure you are completing this form for the right purpose and only once per family. If you're unsure, consult your internal guide or supervisor for further clarification.
-</thinking>
-
 # Multilingual Family Needs Survey - Help Guide
 ## Purpose
 The Multilingual Family Needs Survey is a tool designed to gather information about families' language needs. This data will help us identify and address the needs of multilingual families in various socio-economic contexts.

@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to gather information from project consultants to estimate the project details and ensure that all necessary information is collected for project planning and execution. This form will help project managers and consultants to gather relevant information and make informed decisions about projects. It is essential that the form is completed accurately and thoroughly to avoid miscommunication and project misunderstandings.
-
-The form is used to collect information for the following project-related tasks:
-
-*   Gathering information about project scope and scope-related tasks
-*   Collecting contact information and notes from project consultants and clients
-*   Estimating project duration, anticipated costs, and billing rates
-*   Monitoring and tracking project status
-
-It is essential to complete each field accurately and thoroughly to ensure that the project's progress is tracked correctly.
-
-</thinking>
-
 # Project Consultant Estimate Form - Help Guide
 
 ## Purpose

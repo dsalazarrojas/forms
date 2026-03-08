@@ -1,7 +1,3 @@
-<thinking>
-...the form is a checklist for performing functional tests on equipment. This checklist is used to collect information about the equipment's current status, its location, and test results. It ensures that equipment is properly maintained and functioning as expected. This form should only be filled out by personnel with the necessary knowledge and authority to perform these tests, and should not be filled out by non-maintenance personnel to avoid potential errors or misrepresentation of results. This form is part of a larger set of equipment maintenance documents and should be filled out consistently with other forms and procedures in the facility.
-</thinking>
-
 # equipment_functional_test_checklist - Help Guide
 ## Purpose
 The Equipment Functional Test Checklist is a form used to collect and record results of functional tests on equipment.

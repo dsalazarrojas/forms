@@ -1,7 +1,3 @@
-<thinking>
-We are collecting data on respondents' attitudes towards academic data sharing to better understand their willingness to share their research data and identify potential barriers. This form will help us gather information on the respondents' background, their past experiences with data sharing, and their opinions on what would make them more comfortable in sharing their data. Please ensure that you complete this form if you have any experience with academic data sharing or if you are a researcher who is likely to share data in the future.
-</thinking>
-
 # Academic Data Sharing Attitudes Survey - Help Guide
 
 ## Purpose

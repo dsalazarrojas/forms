@@ -1,13 +1,3 @@
-<thinking>
-This guide is intended to assist the user in understanding the purpose of the Knife Crime Awareness Survey and how to complete it effectively. The survey aims to gather information on the community's perceptions of safety, knowledge levels, and willingness to report crimes, as well as feedback on prevention efforts and contact information.
-
-The survey is designed to be completed by members of the community, and the responses will be used to inform the development of initiatives to improve safety and reduce crime. 
-
-The survey is divided into several sections, each with its own set of questions. The user should complete each section carefully, ensuring that they provide accurate and honest responses.
-
-This guide will walk the user through each section of the survey, explaining the purpose of each question and providing examples or explanations where necessary.
-</thinking>
-
 # Knife Crime Awareness Survey - Help Guide
 ## Purpose
 The Knife Crime Awareness Survey is designed to gather information on the community's perceptions of safety, knowledge levels, and willingness to report crimes. The survey aims to inform the development of initiatives to improve safety and reduce crime in the community.

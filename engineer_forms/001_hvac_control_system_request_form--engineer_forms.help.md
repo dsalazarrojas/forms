@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about HVAC control system issues from facilities. It is intended for use by facilities staff to report issues to the engineering team. The form should only be filled out once the issue has been verified and confirmed. Please ensure that the issue is properly categorized and prioritized before submitting. The fields marked as "optional" can be filled out if additional information is needed.
-</thinking>
-
 # HVAC Control System Request Form - Help Guide
 ## Purpose
 

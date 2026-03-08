@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to gather feedback from viewers of a television broadcast. It is meant to be a quick and straightforward way to collect opinions on the quality and content of the broadcast. This form should only be used for collecting feedback from viewers who have watched the broadcast. 
-
-Please ensure that the form is not used for other purposes, such as gathering feedback from non-viewers or for commercial purposes. Also, make sure to review the feedback collected through this form and respond to comments and concerns in a timely and professional manner.
-
-The form has 8 fields in total, and each field plays a specific role in the feedback collection process. Please read on for a detailed explanation of each field.
-</thinking>
-
 # television_broadcast_viewer_feedback_form - Help Guide
 ## Purpose
 This form is designed to gather feedback from viewers of the television broadcast, allowing us to understand their opinions on the quality and content of the broadcast.

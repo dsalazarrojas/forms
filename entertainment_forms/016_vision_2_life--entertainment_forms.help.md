@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "vision_2_life" form is designed to collect demographic information from users, specifically for entertainment-related purposes. This form is intended to be filled out by individuals interested in showcasing their experience and qualifications in the entertainment industry. The purpose of this form is to gather contact information and professional details from the users, which will be used to facilitate networking opportunities and potential collaborations.
 
 </thinking>

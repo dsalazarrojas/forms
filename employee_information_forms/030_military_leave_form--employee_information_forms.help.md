@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to provide their information for military leave, including their personal details, military status, and leave duration. This form is not intended for other purposes, and it's essential to complete it accurately to ensure that the information is captured correctly. The form should not be used to collect information on other topics or for other types of leave.
-</thinking>
-
 # military_leave_form - Help Guide
 ## Purpose
 This form is used to capture employee information for military leave purposes. It includes details such as employee ID, name, address, military status, and leave duration.

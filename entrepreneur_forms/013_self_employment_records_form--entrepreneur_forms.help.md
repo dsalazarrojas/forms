@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to help users understand the purpose and use of the Self Employment Records Form. Before proceeding, please ensure that you are accessing this form for the correct reason and that the information provided is accurate and up-to-date. This form is not intended to be used for duplicate or redundant reporting. If you are unsure about the purpose or usage of this form, please refer to your organization's policies and guidelines for more information.
 
 # Self Employment Records Form - Help Guide

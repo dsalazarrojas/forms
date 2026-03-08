@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Talent Optimization Impact Survey - Help Guide
 ## Purpose
 

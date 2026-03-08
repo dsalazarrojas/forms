@@ -1,10 +1,3 @@
-<thinking>
-The Disaster Recovery Check In Form is designed to help individuals or families affected by a disaster report their status and provide information to aid in the recovery process. This form is used to gather critical information about the individual's or family's location, condition, and needs during the disaster response and recovery phases. 
-
-The information collected on this form will be used to help emergency responders and recovery personnel to effectively provide aid and resources to those affected. It's essential to provide accurate and up-to-date information to ensure efficient response and recovery efforts. 
-
-Before submitting the form, please ensure that the information provided is accurate and relevant to the individual or family's current situation.</thinking>
-
 # Disaster Recovery Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about individuals or families affected by a disaster, enabling emergency responders and recovery personnel to provide aid and resources effectively.

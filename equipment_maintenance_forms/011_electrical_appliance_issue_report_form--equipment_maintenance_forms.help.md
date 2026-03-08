@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Electrical Appliance Issue Report Form - Help Guide
 ## Purpose
 This form is designed to report issues with electrical appliances. Please use this form to report problems with your electrical appliances, such as malfunctioning or faulty devices. This form will help us identify and address the issue promptly.

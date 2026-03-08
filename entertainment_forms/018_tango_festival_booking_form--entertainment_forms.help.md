@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to facilitate bookings for the Tango Festival, a platform for festival organizers to manage participant registrations and related information. 
-  The form collects basic contact information (name, email, phone), payment details, and participant preferences (dance category, tango level, and payment status). 
-  This form is intended for public use, so it's essential to ensure end users understand how to fill it out correctly to avoid any issues. 
-  To avoid duplication, please ensure that each participant submits their own form. 
-  If you're unsure about any field, refer to the explanation below.
-</thinking>
-
 # Tango Festival Booking Form - Help Guide
 ## Purpose
 This form is used to register participants for the Tango Festival. Fill out the form with accurate information to ensure a smooth booking process.

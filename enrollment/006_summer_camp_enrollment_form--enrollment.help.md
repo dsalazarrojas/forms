@@ -1,9 +1,3 @@
-<thinking>
-
-To begin with, this form is designed to gather information necessary for enrollment in a summer camp program. It's intended for parents or guardians to provide details about their child's personal and medical information, including the child's name, relationship with the parent, and medical history. The form also collects payment information, such as the payment method, payment date, and payment amount. This form is likely used in a camp or educational setting where children are enrolled in a summer program, and it's crucial to have accurate and up-to-date information on hand.
-
-</thinking>
-
 # Summer Camp Enrollment Form - Help Guide
 ## Purpose
 The Summer Camp Enrollment Form is a mandatory form used to gather essential information for your child's enrollment in our summer camp program. Please fill out this form carefully to ensure a smooth and safe experience for your child.

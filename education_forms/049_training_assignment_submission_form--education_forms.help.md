@@ -1,9 +1,3 @@
-<thinking>
-# To ensure that the "Training Assignment Submission Form" accurately captures the necessary information for training assignments, please consider the following guidelines when submitting your form:
-- The form is intended to collect data on training assignments from users.
-- To avoid duplicating efforts and ensure accurate submission data, please submit each form once per training assignment.
-</thinking>
-
 # Training Assignment Submission Form - Help Guide
 ## Purpose
 The Training Assignment Submission Form is designed to collect data on training assignments from users. This form helps us track and manage training assignments accurately.

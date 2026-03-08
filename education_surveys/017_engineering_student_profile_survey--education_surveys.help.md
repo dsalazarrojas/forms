@@ -1,7 +1,3 @@
-<thinking>
-The form "Engineering Student Profile Survey" is designed to collect demographic information and academic details from engineering students, likely to aid in research, program evaluation, or student outreach purposes. This form is not affiliated with any form platform, and its creation is based on public survey topic metadata. The form is intended for students to submit their profiles, and it is recommended to complete this form only once. Please fill out the form carefully, as it is a crucial part of the data collection process. Ensure that all required fields are filled out accurately. You can fill out this form multiple times if you're part of a study or project that requires it, but only if explicitly allowed by the form administrators.
-</thinking>
-
 # Engineering Student Profile Survey - Help Guide
 ## Purpose
 The Engineering Student Profile Survey is designed to collect demographic and academic information from engineering students for research, program evaluation, or student outreach purposes.

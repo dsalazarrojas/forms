@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information about an innovation strategy from applicants to the Innovation Strategy Advisory Program. This form is meant to help applicants provide a clear and concise overview of their innovation strategy, including its description, objectives, goals, status, budget, partners, timeline, and duration. 
-Please note that this form should only be completed by applicants who have not already applied to the program in the past two years. If you are unsure whether you are eligible, please contact the program administrators before filling out this form.
-</thinking>
-
 # Innovation Strategy Advisory Program Application Form - Help Guide
 ## Purpose
 This form is used to provide information about your innovation strategy to the Innovation Strategy Advisory Program. Your application will be reviewed by the program administrators to determine eligibility and potential fit with the program's goals and objectives.

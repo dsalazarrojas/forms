@@ -1,6 +1,4 @@
-# <thinking>...</thinking>
-
-This form is an evaluation tool for Continuing Medical Education (CME) programs. It aims to gather feedback on the clarity, relevance, and effectiveness of the learning objectives in a CME session. The form is designed to help program organizers and educators assess the quality of their programs and identify areas for improvement. To complete this form, please provide honest and constructive feedback on your experience with the CME program.
+# This form is an evaluation tool for Continuing Medical Education (CME) programs. It aims to gather feedback on the clarity, relevance, and effectiveness of the learning objectives in a CME session. The form is designed to help program organizers and educators assess the quality of their programs and identify areas for improvement. To complete this form, please provide honest and constructive feedback on your experience with the CME program.
 
 ## CME Learning Objectives Evaluation - Help Guide
 ## How To Complete This Form

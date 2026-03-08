@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be used for tracking and calculating commissions for sales agents. It seems to be designed to collect information about a specific transaction or policy sale, including the agent's name, employee ID, sales details such as transaction number, date, and amount, and commission-related data like commission tier, rate, and calculated commission amount. The form also asks for any deductions or adjustments and the approval status for management review. Before proceeding with this help guide, I need to ensure that I understand the requirements and that I'm not duplicating any existing knowledge.
-
-Form ID: 1 appears to be a header and doesn't require any input. Form ID 2 (agent_name) and 3 (employee_id) are both required fields. Form ID 4 (sales_header) is also a header and can be skipped. Form ID 5 (transaction_number), 6 (sale_date), and 7 (sales_amount) are all required fields for sales information. Form ID 8 (commission_tier) seems to be a select field with four options, indicating different commission tiers based on performance. Form ID 9 (commission_rate) is a required field for the applicable commission rate. Form ID 10 (calculated_amount) shows the calculated commission amount. Form ID 11 (deductions) is an optional field for any deductions or adjustments. Form ID 12 (net_payable) is the final amount to be paid, which is required. Form ID 13 (approval_status) seems to be a select field for management approval status.
-
-Based on this analysis, I will create a comprehensive help guide for the Agent Commission Form.
-
-</thinking>
-
 # Agent Commission Form - Help Guide
 ## Purpose
 The Agent Commission Form is used for tracking and calculating commissions for sales agents. It captures information about a specific transaction or policy sale, including the agent's name, employee ID, sales details, and commission-related data.

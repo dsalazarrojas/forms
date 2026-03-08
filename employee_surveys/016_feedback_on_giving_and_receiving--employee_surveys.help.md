@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from employees on the giving and receiving of feedback in the workplace. It will help to identify strengths and areas for improvement in the feedback process, ultimately enhancing the overall effectiveness and quality of feedback provided. 
-
-The form can be filled out by any employee who has given or received feedback, and is intended to be completed once per interaction (e.g. once per 1-1 meeting or regular check-ins).
-
-</thinking>
-
 # Feedback On Giving And Receiving - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect metadata and settings for an educational research panel evaluation, allowing users to easily create, manage, and customize their evaluation forms. This form is meant to be used by edtech professionals and researchers to gather information about their form metadata and settings, including categories, creators, owners, and submission formats. Please ensure that you fill this form accurately and correctly, and do not fill out any field without clear understanding its purpose and meaning.</thinking>
-
 # edtech-evaluation-research-panel-registration - Help Guide
 ## Purpose
 This form is designed to collect metadata and settings for an educational research panel evaluation, allowing users to create, manage, and customize their evaluation forms.

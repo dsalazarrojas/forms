@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and proper completion of the "Fire Call Report Sheet Form". This form is used for reporting incidents and gathering information about the incident response efforts. It is essential to ensure that all required fields are filled out accurately and thoroughly to provide a complete picture of the incident. Please review the form fields below to learn how to complete the form correctly. This guide is intended for users who may be reporting incidents for the first time or need a refresher on how to use the form. It is a good idea to review this guide and the form carefully before starting the reporting process.
-</thinking>
-
 # Fire Call Report Sheet Form - Help Guide
 ## Purpose
 The "Fire Call Report Sheet Form" is used to gather information about incidents, including fire response efforts, and is a crucial tool in the incident reporting process.

@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal note:** This form is designed to gather information from clients for a professional deep cleansing mask treatment. The form will help the esthetician understand the client's medical history, allergies, and potential risks associated with the treatment. Before proceeding, make sure to review the client's information carefully to ensure it's accurate and complete. If there are any concerns or discrepancies, please discuss them with the client before proceeding with the treatment.
-
-</thinking>
-
 # Beard Cleanse Mask Application Consent Form - Help Guide
 ## Purpose
 This form is designed for clients to provide their consent and information for a professional deep cleansing mask treatment. It will help the esthetician understand the client's medical history, allergies, and potential risks associated with the treatment.

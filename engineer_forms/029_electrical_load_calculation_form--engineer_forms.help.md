@@ -1,7 +1,3 @@
-<thinking>
-This form is used to calculate electrical loads for a specific purpose, likely for electrical engineers or professionals working with electrical systems. The purpose of this form is to collect necessary information to perform an electrical load calculation. It is likely used in conjunction with other forms or systems for more comprehensive analysis. Before proceeding, ensure this form is not a duplicate or redundant in your process. If you're unsure, please review your project's documentation or consult with your team.
-</thinking>
-
 # Electrical Load Calculation Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for electrical load calculations.

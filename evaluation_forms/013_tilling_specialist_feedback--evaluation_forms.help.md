@@ -1,8 +1,3 @@
-<thinking>
-We want to use this form to collect feedback from users about their experiences with tilling specialists. This feedback will help us understand the strengths and weaknesses of our tilling program, allowing us to improve the quality of our service and better meet the needs of our clients.
-We want to make sure that users don't provide redundant or biased feedback, so we'll be looking for responses that are specific to their own experiences.
-</thinking>
-
 # Tilling Specialist Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback about your experiences with tilling specialists. Your input will help us improve our tilling program and better serve our clients in the future.

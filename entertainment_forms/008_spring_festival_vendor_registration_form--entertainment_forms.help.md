@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # spring-festival-vendor-registration-form - Help Guide
 ## Purpose
 This form is designed for vendors to register for the Spring Festival, a popular entertainment event. It collects general information, vendor application details, and electronic signatures to confirm vendor participation.

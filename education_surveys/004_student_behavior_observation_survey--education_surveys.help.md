@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gather information about student behavior during observations. This form is designed for educators to report their observations of students' behavior. The form is part of a larger system for tracking and analyzing student behavior. This form must be completed for each student observation. If you have already completed a form for the same student, do not duplicate your efforts. If you are unsure about which form to complete, please ask your supervisor for guidance...</thinking>
-
 # Student Behavior Observation Survey - Help Guide
 ## Purpose
 The Student Behavior Observation Survey is a tool for educators to report their observations of students' behavior during class or other school activities. This form helps gather information about student behavior and provides valuable insights for educators to support student learning and development.

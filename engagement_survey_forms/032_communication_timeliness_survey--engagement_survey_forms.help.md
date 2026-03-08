@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information about communication timeliness in the workplace. It aims to understand the participant's experience with response times, satisfaction, and perceived impact of delays on work and projects. This form is not a duplicate of any existing form and is an original adaptation using AI-generated form design.
-
-The form is intended for employees to provide feedback on their experience with communication in the organization. It will help identify areas for improvement and best practices to increase communication timeliness. The responses will aid in assessing the current state of communication and making data-driven decisions for better communication.
-
-Please note that this form is for internal use within the organization and is not meant to be shared or used outside of it. Participants' responses will be kept confidential and used for internal improvement purposes only.
-
-</thinking>
-
 # Communication Timeliness Survey - Help Guide
 ## Purpose
 

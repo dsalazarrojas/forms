@@ -1,9 +1,3 @@
-<thinking>
-
-To ensure the form is completed correctly, I'll first review the form's purpose and the fields provided in the YAML schema. The Theater Direction Fellowship Application Form appears to be for applicants to apply for a direction position in a theater company or similar organization. The form collects various details including name, contact information, performance experience, availability, submission date and time, submitted by, references, and upload options for additional documents or media. This form is likely used for a formal application process where applicants need to provide accurate and comprehensive information about themselves. To avoid duplication and ensure correct completion, it's essential to review each field carefully and only fill in the required fields.
-
-</thinking>
-
 # Theater Direction Fellowship Application Form - Help Guide
 ## Purpose
 The Theater Direction Fellowship Application Form is a formal application process for applicants to apply for a direction position in a theater company or similar organization. The form is designed to collect various details about the applicant, including their contact information, performance experience, and other relevant details.

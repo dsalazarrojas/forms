@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information from team members who wish to apply for a team meeting. The form is used by the team lead or manager to collect and review meeting requests. The form is not intended for general public use, so it's only accessible to team members who have been granted access.
 
 </thinking>

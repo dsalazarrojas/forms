@@ -1,36 +1,3 @@
-<thinking>
-
-To ensure that dancers have a smooth and efficient enrollment process, it's essential to understand the purpose and requirements of this form. The Dance Competition Enrollment Form is designed to collect information from dancers participating in the competition. This form helps us to gather essential details such as name, contact information, event details, and dancer preferences. 
-
-The form is divided into several sections, each with a specific purpose:
-
-* **First Name**: This is the first name of the dancer.
-* **Last Name**: This is the last name of the dancer.
-* **Email**: A valid email address of the dancer or their guardian.
-* **Phone**: A contact phone number for the dancer or their guardian.
-* **Address**: The home address of the dancer or their guardian.
-* **City**: The city where the dancer lives.
-* **State**: The state where the dancer lives.
-* **Zip Code**: The zip code of the dancer's residence.
-* **Event Title**: Name of the event the dancer is participating in.
-* **Event Date**: The date of the event.
-* **Event Time**: The time of the event.
-* **Event Location**: The location of the event.
-* **Competition Type**: Select from a list of available competition types (Ballet, Hip-Hop, Contemporary, Jazz, Tap, Ballroom).
-* **Age Group**: Select from a list of age groups (5-8, 9-12, 13-16, 17-20).
-* **Gender**: Select from a list of available gender options (Male, Female, Non-binary).
-* **Emergency Contact Name**: Name of the emergency contact person.
-* **Relationship**: Relationship of the emergency contact person.
-* **Emergency Contact Phone**: Phone number of the emergency contact person.
-* **Guardian Name**: Name of the guardian.
-* **Guardian Phone**: Phone number of the guardian.
-* **Emergency Contact Message**: Additional message for the emergency contact person.
-* **Guardian Message**: Additional message for the guardian.
-* **Competition Type 2**: Select from a list of available competition types (Yes, No).
-* **Age Group 2**: Select from a list of age groups (Yes, No).
-
-</thinking>
-
 # Dance Competition Enrollment Form - Help Guide
 ## Purpose
 The Dance Competition Enrollment Form is designed to collect information from dancers participating in the competition. This form helps us to gather essential details such as name, contact information, event details, and dancer preferences.

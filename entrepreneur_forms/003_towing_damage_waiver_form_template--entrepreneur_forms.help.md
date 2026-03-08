@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is for collecting information from individuals who are seeking to claim a waiver for damages to their vehicle after a towing service has been provided. The purpose of this form is to gather essential details from the driver, such as vehicle and driver information, to assess the extent of the damage and determine if a waiver is warranted. This form is part of the standard process for towing services to manage risks and ensure that all parties involved are aware of the terms and conditions of the service. Please verify that you are not duplicating this form and that it is being used for its intended purpose. If you have any questions or concerns, please reach out to the relevant authorities for clarification.
 
 # Towing Damage Waiver Form Template - Help Guide

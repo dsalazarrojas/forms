@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Practice Test Creation Survey - Help Guide
 
 ## Purpose

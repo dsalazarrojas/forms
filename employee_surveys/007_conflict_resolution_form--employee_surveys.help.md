@@ -1,6 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to capture and resolve conflicts within the company. It's intended to be filled out by employees who have experienced a conflict or issue with a colleague, manager, or team member. The form is meant to help gather information and provide a clear channel for addressing the conflict in a constructive and respectful manner. By filling out this form, the employee is providing context and facts about the conflict, allowing for a more informed discussion and resolution. To avoid duplication, please ensure that you're not submitting multiple forms for the same conflict.</thinking>
-
 # Conflict Resolution Form - Help Guide
 ## Purpose
 The Conflict Resolution Form is a tool for employees to report and resolve conflicts that have arisen within the company. It's a way to document incidents, gather information, and facilitate constructive discussions to find mutually beneficial solutions.

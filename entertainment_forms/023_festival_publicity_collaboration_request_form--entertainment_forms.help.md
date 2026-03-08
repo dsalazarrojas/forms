@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be for requesting collaboration from a publicity team or media partner for a festival. The purpose of the form is to gather information about the festival, including the event title, dates, location, and description, as well as media and promotional proposals. The form also seeks feedback from the publicity team on collaboration requests and proposals.
-
-Please note that some fields are optional, and some require multiple select options. The form seems to be focused on gathering information and feedback rather than requesting a specific action or action plan.
-
-</thinking>
-
 # Festival Publicity Collaboration Request Form - Help Guide
 ## Purpose
 This form is designed to request collaboration with a publicity team or media partner for a festival. It gathers essential information about the event and seeks feedback on collaboration requests and proposals.

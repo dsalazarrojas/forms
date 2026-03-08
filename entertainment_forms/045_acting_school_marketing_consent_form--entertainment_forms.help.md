@@ -1,9 +1,3 @@
-<thinking>
-This form is used to obtain marketing consent from students or their guardians for the use of photos, videos, and other marketing materials by the Acting School. The form ensures that students or their guardians are aware of and agree to the terms of how their image and data will be used. This form is a necessary step before allowing students to participate in school activities that may be used for marketing purposes.
-
-Before filling out this form, please ensure that you are the student or guardian of the individual providing consent. If you are unsure about the purpose or usage scope of this form, please contact the Acting School's administration.
-</thinking>
-
 # Acting School Marketing Consent Form - Help Guide
 
 ## Purpose

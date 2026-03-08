@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to guide users through the Online Course Retention Factors Survey form. The form is meant to gather information from students or faculty about their experiences with an online course, specifically factors that contribute to retention or lack thereof.
-
-This form is intended for users who have taken or are teaching an online course. To ensure you're filling out the correct form, please confirm you're a student or faculty member with access to an online course.
-
-Before proceeding, please note that this guide explains each field in a way that's easy to understand. If you're unsure about any field, feel free to ask.
-
-</thinking>
-
 # Online Course Retention Factors Survey - Help Guide
 ## Purpose
 The Online Course Retention Factors Survey is designed to gather information from students or faculty about factors that contribute to or affect their online course experiences.

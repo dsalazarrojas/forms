@@ -1,13 +1,3 @@
-<thinking>
-
-The Employee Benefits Reform Committee Application form is used to collect information from employees who wish to participate in the Benefits Reform Committee. This form is essential for the committee to understand the applicant's background, experience, and availability to serve. It is crucial to ensure that the applicant has a thorough understanding of the committee's roles, responsibilities, and expectations. 
-
-The form consists of multiple sections that gather various details about the applicant, including contact information, relevant experience, and participation preferences. It also includes a participation agreement that outlines the applicant's commitment to serving on the committee.
-
-Before filling out the form, please ensure that you have reviewed and understand the information required and the commitment involved in participating on the committee.
-
-</thinking>
-
 # Employee Benefits Reform Committee Application - Help Guide
 ## Purpose
 The form is used to collect information from employees who wish to participate in the Benefits Reform Committee. It helps the committee understand the applicant's background, experience, and availability to serve.

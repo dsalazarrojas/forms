@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Study Environment Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your study environment. The purpose of this form is to help us understand your experience and satisfaction with your campus and study settings. Your responses will help us identify areas of improvement and provide better services to you and your peers.

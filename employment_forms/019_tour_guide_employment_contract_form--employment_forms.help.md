@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Tour Guide Employment Contract Form" to ensure that end-users understand the form's purpose, how to complete it, and what each field means. The form seems to be related to employment contracts for tour guides, and it appears to collect various information about the employee, such as contact details, employment details, and benefits. However, we should double-check that the form is indeed used for tour guides and not for other types of employment or contracts. Additionally, we should also verify that there aren't any similar forms used in the same context that could potentially duplicate the purpose of this form.</thinking>
-
 # Tour Guide Employment Contract Form - Help Guide
 ## Purpose
 The Tour Guide Employment Contract Form is used to gather information about the employee's personal and professional details for employment purposes.

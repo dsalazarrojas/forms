@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: The purpose of this form is to collect information about a graduate curriculum's relevance to education surveys, which is used to determine if the curriculum is useful and applicable for educational purposes. This form is designed to gather data on the curriculum's category, description, relationship to other templates, rating of relevance, and recommendation for use. The form ensures that the graduate curriculum meets the necessary criteria for use in education surveys, and the provided options are used to collect concrete and quantifiable data.
-</thinking>
-
 # graduate-curriculum-relevance-questionnaire - Help Guide
 ## Purpose
 

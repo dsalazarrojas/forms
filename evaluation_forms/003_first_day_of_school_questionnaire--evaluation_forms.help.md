@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from students on their first day of school. It is designed to help educators understand student demographics, previous school experiences, and any relevant contact information. 
-This form should only be completed by students and not by parents or guardians. If a student has attended a school previously, the form should only be completed once for each new school they attend.
-
-</thinking>
-
 # First Day Of School Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information from students on their first day of school to help educators understand student demographics and previous school experiences.

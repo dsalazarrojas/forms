@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about historical achievements from users. It is part of the "education_surveys" category, suggesting it is related to educational content or initiatives. The purpose of this form is to gather data from users, possibly for research, evaluation, or assessment purposes.
-
-To ensure relevance, the form's content and design should align with the category and title, focusing on gathering information about historical events, people, or processes.
-</thinking>
-
 # Historical Achievements Survey - Help Guide
 ## Purpose
 The Historical Achievements Survey is a form designed to collect information about historical events, figures, or processes from users. It is intended for educational research, evaluation, or assessment purposes.

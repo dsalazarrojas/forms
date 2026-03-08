@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the equipment management system, used to check the status of outdoor equipment. The form is designed to gather information about participants, contact details, gear readiness, hike dates, activity types, participant notes, activity locations, weather conditions, participant counts, guide information, emergency procedures, participant agreements, and equipment status. The purpose of this form is to ensure that all equipment is properly checked and accounted for before use. It is used to verify that all participants have the necessary information and equipment for a safe and successful outdoor adventure. This form does not duplicate any other forms, and its completion is mandatory for all outdoor activities.
-</thinking>
-
 # outdoor_equipment_check_list - Help Guide
 ## Purpose
 The outdoor equipment check list form is used to verify that all equipment is properly checked and accounted for before use in outdoor activities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sensitivity Toward Cultural And Ethnic Differences Assessment Form - Help Guide
 ## Purpose
 This form is designed to help users assess their sensitivity and awareness of cultural and ethnic differences. It aims to gauge their understanding and behavior in various situations related to cultural and ethnic differences.

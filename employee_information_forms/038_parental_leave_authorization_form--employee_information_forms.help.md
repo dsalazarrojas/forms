@@ -1,8 +1,3 @@
-<thinking>
-This is a form for capturing information related to an employee's parental leave authorization. The form is used to collect details about an employee's leave request, including their employee information, leave dates, reason for leave, department, job title, employee status, manager's contact information, and approval status. The form is likely used by HR or administrative staff to process and manage parental leave requests within the organization. Before completing this form, ensure you have the relevant permissions and approvals to access and submit this information.
-
-</thinking>
-
 # parental_leave_authorization_form - Help Guide
 ## Purpose
 The Parental Leave Authorization Form is used to collect and manage information related to an employee's parental leave request.

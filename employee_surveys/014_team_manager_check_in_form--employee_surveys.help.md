@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # team_manager_check_in_form - Help Guide
 ## Purpose
 The "team_manager_check_in_form" is a form designed for team managers to check in team members and gather important information for team updates and feedback. This form is intended for use by team managers to facilitate efficient and organized communication within the team.

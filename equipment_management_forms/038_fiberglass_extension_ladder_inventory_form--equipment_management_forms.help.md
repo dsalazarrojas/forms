@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to track the status of fiberglass extension ladders in inventory, including their location, inspection history, and maintenance schedules. This form is used for internal management and maintenance purposes within organizations that use fiberglass extension ladders. It aims to provide a structured and efficient way to collect data on the availability and maintenance of these specialized tools.
-
-To ensure accurate completion of this form, we must first check that the form is not a duplicate. 
-
-</thinking>
-
 # fiberglass_extension_ladder_inventory_form - Help Guide
 ## Purpose
 The fiberglass_extension_ladder_inventory_form is designed to track the inventory and status of fiberglass extension ladders within your organization. It helps in ensuring the efficient management of these critical equipment by collecting essential data on their location, inspection history, and assigned personnel.

@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to party bus rental services, possibly for entertainment purposes. I'm assuming it's used to gather information from customers or clients regarding the bus they are renting. I'm not aware of any specific business logic or internal processes that would make me duplicate any effort or information already provided. I'll proceed with creating a user-facing help guide based on the provided YAML.
-</thinking>
-
 # Party Bus Waiver Form - Help Guide
 ## Purpose
 This form is used to gather information from customers or clients about their party bus rental preferences and requirements.

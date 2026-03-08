@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from team members on their collaboration and communication experiences within teams. The main goal is to understand how teams are working together effectively and identify areas of improvement. This form is intended for team members to provide their honest feedback on their collaboration experiences with Team A and Team B, including their collaboration frequency, communication channels, and overall team dynamics. The form is not meant to be a comprehensive evaluation, but rather a starting point for discussions and improvements. It's recommended that team members answer this form honestly and thoroughly, providing specific examples or reasons for their answers. This form will be used to help teams become more effective and harmonious.
-</thinking>
-
 # Cross Team Collaboration Feedback Survey - Help Guide
 ## Purpose
 

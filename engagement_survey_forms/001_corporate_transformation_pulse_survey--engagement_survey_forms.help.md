@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to gauge the overall sentiment and confidence of employees regarding corporate transformation initiatives. This includes measuring their overall sentiment, confidence in change, confidence in change rating (optional), communication effectiveness, and confidence in change (a free-text field for employees to express their thoughts on the topic). The goal is to gather data to inform and improve the effectiveness of transformation initiatives...</thinking>
-
 # Corporate Transformation Pulse Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees on their sentiment and confidence towards corporate transformation initiatives. The data gathered will help inform and improve the effectiveness of these initiatives.

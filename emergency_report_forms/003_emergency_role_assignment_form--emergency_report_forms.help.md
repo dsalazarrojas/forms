@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Emergency Role Assignment Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who will be in a position of emergency contact. The purpose of this form is to gather essential details about the person, including their name, phone number, and contact information, so that they can be reached and informed during a crisis or emergency situation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a project manager's personal details, work history, and project-related information. It appears to be a general form for collecting data about project managers, but it's unclear what specific purpose this form serves or how it fits into the overall organizational structure. It's possible that this form is used for internal HR purposes, such as employee onboarding or performance evaluations. However, without further context, it's difficult to provide specific guidance.
-</thinking>
-
 # Project Manager Information Form - Help Guide
 ## Purpose
 This form collects information about project managers' personal details, work history, and project-related information. It appears to be used for internal purposes, such as HR-related activities.

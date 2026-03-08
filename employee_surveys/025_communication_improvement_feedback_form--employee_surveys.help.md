@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Communication Improvement Feedback Form - Help Guide
 
 ## Purpose

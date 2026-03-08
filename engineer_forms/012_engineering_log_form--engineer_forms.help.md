@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about engineering activities and events that occur during a project or task. The purpose of this form is to provide a standard and structured way to document and track engineering log entries. This form is not intended to be a substitute for other documentation processes, but rather a supplement to them.
-
-Form data will be stored in a database for future reference and analysis. Please note that this form is not meant to collect sensitive or confidential information. 
-
-</thinking>
-
 # Engineering Log Form - Help Guide
 
 ## Purpose

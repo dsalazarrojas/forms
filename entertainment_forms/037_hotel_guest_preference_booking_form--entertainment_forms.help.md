@@ -1,11 +1,3 @@
-<thinking>
-
-The "Hotel Guest Preference Booking Form" is used to gather information from guests about their preferences and requirements for their stay at the hotel. This form is typically used by hotels to ensure that they can accommodate the guests' needs and provide a comfortable stay. The information gathered in this form will help the hotel staff prepare for the guest's arrival and ensure that they can provide the best possible service.
-
-This form is not intended to be used for any other purpose other than booking a hotel room. Therefore, please do not complete this form if you are looking for information on how to book a hotel room in general.
-
-</thinking>
-
 # Hotel Guest Preference Booking Form - Help Guide
 ## Purpose
 This form is used to gather information from guests about their preferences and requirements for their stay at the hotel.

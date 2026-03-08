@@ -1,7 +1,3 @@
-<thinking>
-This form is for gathering employee preferences on rewards and communications. It should be used to collect information on employees' preferred name, department, and preferred methods of communication. This form does not need to be filled by new employees as it will only be used internally.
-</thinking>
-
 # employee_reward_preference_poll - Help Guide
 
 ## Purpose

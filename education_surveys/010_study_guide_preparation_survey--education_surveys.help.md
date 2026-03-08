@@ -1,6 +1,3 @@
-<thinking>
-The "study-guide-preparation-survey" form is designed to gather information from users about their preferences and requirements for a study guide. This form is meant to be completed by learners who are preparing for an educational program or course. The form is used to determine their preferred learning style, output format, and study duration, among other details. This form is likely to be used by educational institutions or instructors to tailor their study materials and resources to the needs of their learners. To confirm, let's check for duplication of similar forms. After review, it appears this form is specific to the study guide preparation survey, and there's no similar form with the same purpose.</thinking>
-
 # study-guide-preparation-survey - Help Guide
 
 ## Purpose

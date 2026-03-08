@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to request a family-related leave of absence from work. Before filling out the form, please ensure you are not already on an approved leave of absence and that you have not submitted this form previously. This form is for requesting a leave of absence that is related to a family member or a personal/family matter (e.g., family leave, bereavement, maternity/paternity leave, etc.). Please fill out this form carefully and accurately to ensure that your leave of absence is properly approved.
-</thinking>
-
 # film_production_family_leave_of_absence_form - Help Guide
 ## Purpose
 This form is used to request a family-related leave of absence from work. Please fill out the form carefully and accurately to ensure that your leave of absence is properly approved.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request a sentiment summary for an employee, likely from their manager. The purpose of this form is to gather information from managers to understand the sentiment and performance of their team members. The form is used to collect data on the sentiment summary request, including the employee's ID, name, reporting line manager's ID, name, and sentiment scores. The form may be used for performance evaluation, feedback, or other managerial purposes. It's possible that this form is used to prevent duplication or redundancy in sentiment requests, ensuring that only one request is made for each employee.</thinking>
-
 # Employee Sentiment Summary Request Form - Help Guide
 ## Purpose
 This form is used to request a sentiment summary for an employee from their manager.

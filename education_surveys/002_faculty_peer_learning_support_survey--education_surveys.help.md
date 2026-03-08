@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather feedback from faculty members on the peer learning support provided to them. It seems to be used to monitor and improve the effectiveness of peer learning activities and services. The form is likely used by administrators or support staff to collect data on how well these activities are received by faculty, which can help them make informed decisions on how to improve services.
-
-To avoid duplication, this form should be filled out only once per survey period, and it's recommended to save the form for reference or future surveys. It's also a good idea to keep the answers clear and concise, as they will be used to inform future improvements.
-
-</thinking>
-
 # Faculty Peer Learning Support Survey - Help Guide
 ## Purpose
 

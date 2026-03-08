@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about an employee's on-call availability, which is crucial for scheduling and managing work shifts. The form will be used by employees to provide their contact details, on-call schedule, and preferred contact methods, among other information. This form is a crucial tool for ensuring that all employees' on-call needs are accounted for, allowing for smooth and efficient scheduling processes. Before completing the form, please review your availability and schedule carefully, ensuring that you are providing accurate and up-to-date information.
-</thinking>
-
 # On Call Availability Survey - Help Guide
 ## Purpose
 This form is used to gather information about an employee's on-call availability to facilitate smooth and efficient scheduling processes.

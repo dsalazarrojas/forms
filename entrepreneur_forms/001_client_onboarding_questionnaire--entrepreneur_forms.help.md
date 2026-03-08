@@ -1,7 +1,3 @@
-<thinking>
-As a client onboarding questionnaire, this form is designed to gather essential information about the client's business, goals, and expectations from the consultant or advisor. The purpose of this form is to ensure that the consultant has a comprehensive understanding of the client's needs and can tailor their approach to provide effective support. By completing this form, the client can ensure that the consultant is equipped to address their specific requirements and deliver results that align with their business objectives. This form is not intended to be a one-time use case, but rather a starting point for an ongoing relationship between the client and the consultant. To avoid duplication of effort, please ensure that you have all necessary information available before starting this form.
-</thinking>
-
 # Client Onboarding Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather essential information about your business, goals, and expectations from the consultant. This information will help us better understand your needs and tailor our approach to provide effective support.

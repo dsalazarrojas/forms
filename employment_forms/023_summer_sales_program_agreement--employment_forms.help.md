@@ -1,16 +1,3 @@
-<thinking>
-This is a form for the Summer Sales Program Agreement, which is used to document the terms and conditions of a sales representative's participation in the summer sales program. The form is a critical component in ensuring that all parties involved are aware of their responsibilities and obligations throughout the program.
-
-The form will be used by sales representatives and their managers to:
-
-* Record participant information
-* Establish program dates and terms
-* Obtain sales representative and manager signatures
-
-The form will be used to ensure that all parties understand their roles and responsibilities and that the program will run smoothly.
-
-</thinking>
-
 # Summer Sales Program Agreement - Help Guide
 ## Purpose
 The purpose of this form is to document the terms and conditions of a sales representative's participation in the summer sales program.

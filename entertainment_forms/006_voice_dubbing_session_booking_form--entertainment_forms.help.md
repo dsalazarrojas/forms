@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to enable clients to book a voice dubbing session. It is likely intended for clients who want to book a session for a specific project or event. To ensure that the form is completed correctly and efficiently, it is crucial that users understand what each field means and how it affects the overall booking process.
-The form should not be used to book multiple sessions or for non-existent events. To prevent this, it is essential that users understand the implications of their inputs and the correct completion of the form.
-</thinking>
-
 # Voice Dubbing Session Booking Form - Help Guide
 ## Purpose
 The Voice Dubbing Session Booking Form is a tool used to book voice dubbing sessions for specific projects or events. This form ensures that clients can provide necessary information to complete the session booking process.

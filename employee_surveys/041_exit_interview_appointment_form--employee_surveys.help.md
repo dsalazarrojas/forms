@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for conducting exit interviews with employees who are departing the company. The purpose of this form is to gather information about the reason for their departure, the date of their expected departure, and other relevant details to facilitate a smooth transition. It is intended to be used by HR personnel to gather information to improve future employee experiences and reduce turnover. To fill out this form, please ensure that you are not already a former employee of the company, as you will be asked questions that are specific to your own experience. If you are already a former employee, please do not fill out this form.
-
-</thinking>
-
 # exit_interview_appointment_form - Help Guide
 ## Purpose
 The exit interview form is used to gather information from employees who are leaving the company. This helps the HR department to understand the reasons for their departure and to identify areas for improvement to reduce turnover in the future.

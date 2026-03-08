@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tuition Reimbursement Form - Help Guide
 ## Purpose
 This form is used to track employee tuition reimbursement requests. It helps to document and process reimbursement requests, ensuring that both employees and employers are aware of the status of each reimbursement. This form is essential for ensuring timely and accurate reimbursement processing.

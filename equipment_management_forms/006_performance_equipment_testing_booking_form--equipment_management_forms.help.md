@@ -1,5 +1,3 @@
-<thinking>This form was created to help users book performance equipment testing appointments. The form is intended to be used in an equipment management context, specifically for testing and maintaining performance equipment. The form's purpose is to streamline equipment testing requests, collect relevant data, and create a no-code form template for users to fill out.</thinking>
-
 # Performance Equipment Testing Booking Form - Help Guide
 ## Purpose
 The Performance Equipment Testing Booking Form is designed to help users book appointments for equipment testing and maintenance. This form guides users through a series of steps to provide relevant information for testing and troubleshooting purposes.

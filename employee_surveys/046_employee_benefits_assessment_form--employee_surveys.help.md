@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees about their satisfaction and priorities with various employee benefits. To ensure that this data is accurate and useful for management decisions, please fill out the form honestly and thoroughly. If you have already completed this form, please do not duplicate your responses.
-</thinking>
-
 # Employee Benefits Assessment Form - Help Guide
 
 ## Purpose

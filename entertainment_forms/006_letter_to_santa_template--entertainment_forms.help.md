@@ -1,32 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise explanation of the Letter To Santa Template form. The purpose of this form is to collect information from children to help Santa Claus understand their holiday wishes and preferences. The form is designed to be completed by children and is used to gather information about their favorite toys, hobbies, and other interests. It is likely to be used by parents or caregivers to provide input on behalf of children who may not be able to fill out the form themselves.
-
-Before starting the form, make sure you understand the purpose and are able to provide accurate and complete information. The form is designed to be completed in a straightforward and efficient manner. If you need help or clarification on any of the questions, please refer to this guide.
-
-Please note that the form is divided into 11 pages, each with its own specific question or set of questions. Each question is designed to gather relevant and useful information to help Santa understand you better. Please answer each question as accurately and truthfully as possible.
-
-Before starting, make sure you are familiar with the following pages and questions:
-
-* Page 1: What's your name? (Required)
-* Page 2: What's your favorite toy? (Required)
-* Page 3: Why do you want this toy? (Required)
-* Page 4: What's your favorite thing to do? (Select multiple options) (Required)
-* Page 5: How old are you? (Required)
-* Page 6: Do you want to share this letter with Santa? (Required)
-* Page 7: What's the best part about being a kid? (Select multiple options) (Required)
-* Page 8: Do you have any other questions for Santa? (Optional)
-* Page 9: Where are you from? (Required)
-* Page 10: Who is helping you write this letter? (Required)
-* Page 11: What's your favorite color? (Select one option) (Required)
-* Page 12: What's your favorite animal? (Select one option) (Required)
-
-Please follow these steps to complete the form:
-
-1. Start by answering the questions on each page, working from left to right.
-2. Read each question carefully and provide a clear and concise answer.
-3. If you have any questions or need help, please refer to this guide.
-</thinking>
-
 # Letter To Santa Template - Help Guide
 ## Purpose
 This form is designed to help Santa understand your holiday wishes and preferences.

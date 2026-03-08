@@ -1,15 +1,3 @@
-<thinking>
-
-To ensure that users understand the purpose and requirements of the Factory Design Architect Contact Form, let's clarify its purpose and relevance.
-
-The Factory Design Architect Contact Form is designed to collect information from potential or current clients who want to inquire about or collaborate on factory design projects. This form will help architects and designers gather essential details about projects, including project specifics, contact information, and files related to the project. It is intended to be used by those inquiring about custom-built factories or factory expansions, where design expertise is needed to meet their specific needs.
-
-Given the form's purpose and the fields it contains, we can assume that it is meant to be filled out by individuals or companies interested in collaborating with or inquiring about factory design services. We should also assume that the form will be filled out by those who are likely to have a legitimate need for such services.
-
-To prevent duplication of work, it would be beneficial to check if the same form has been filled out recently by the same person or entity.
-
-</thinking>
-
 # Factory Design Architect Contact Form - Help Guide
 ## Purpose
 The Factory Design Architect Contact Form is designed to collect project-specific information from potential or current clients for factory design projects, such as inquiring about custom-built factories or expansions.

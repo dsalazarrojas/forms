@@ -1,14 +1,3 @@
-<thinking>
-The form is used to update employee and family data. This form is likely used in HR or personnel management departments. It's designed to collect information about an employee's personal and family details, such as contact details and address. To ensure the form is filled out correctly, please review the following help guide carefully.
-
-The form has multiple sections with various fields, and each field has its own specific purpose. To update the form, follow these steps:
-
-1. Start by filling out the required fields (if any).
-2. Fill out the non-required fields as needed.
-3. Review each field's purpose below to ensure you understand its intent.
-
-</thinking>
-
 # Personal And Family Data Update - Help Guide
 ## Purpose
 The "Personal And Family Data Update" form is used to update employee and family details, including contact information, address, and other essential data.

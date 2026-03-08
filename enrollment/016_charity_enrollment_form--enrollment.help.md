@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'm assuming that the form is intended for individuals or organizations to enroll as charities or partners in a specific cause or program, and the form is used to collect information about them. This form may be used by charities or partners to register their interests, availability, and donation details. This form will help the organization to understand who they can count on for support and to tailor their communication and outreach efforts accordingly.</thinking>
-
 # Charity Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations interested in enrolling as charities or partners in a specific cause or program. The form collects personal and contact information, details about how they want to contribute (volunteer, donate, etc.), their availability and donation frequency, and agreement to terms and conditions.

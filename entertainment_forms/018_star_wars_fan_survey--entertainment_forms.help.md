@@ -1,19 +1,3 @@
-<thinking>...
-To provide an effective user-facing help guide for the Star Wars Fan Survey form, we need to consider the purpose and context of the form. The form appears to be designed to collect information about a fan's preferences and interests related to the Star Wars universe.
-
-The form seems to be a mix of multiple-choice and open-ended questions that aim to gather feedback on the fan's favorite characters, movies, books, games, comics, videos, and other media related to Star Wars. The "Yes" and "No" options suggest that the form is meant for users who have some level of interest or familiarity with the franchise.
-
-Based on the provided YAML, here is the internal reasoning:
-
-* The form is primarily focused on collecting feedback and preferences from Star Wars fans, likely to gain insights for marketing, audience research, or content creation purposes.
-* The "category" field is a crucial field, as it ensures that the fan's answers are categorized and can be further analyzed based on their preferences.
-* The "email" field is optional, which suggests that it might be used for follow-up communication or rewards purposes.
-* The "phone" field is also optional, which implies that it might be used for additional contact or survey follow-up.
-* The "date" and "time" fields are not commonly used for such a form, but they might be placeholders for potential future features or analytics.
-* The multiple "preference" fields (preference_01, preference_02, etc.) suggest that the form aims to gather a fan's favorite preferences or characteristics.
-
-</thinking>
-
 # Star Wars Fan Survey - Help Guide
 ## Purpose
 The Star Wars Fan Survey form is designed to gather information about your preferences and interests related to the Star Wars universe. This form will help us understand what makes you a Star Wars fan and how to better cater to your needs.

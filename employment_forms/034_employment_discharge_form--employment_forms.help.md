@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended for HR personnel and management staff who need to complete the employment discharge form for an employee. The purpose of this form is to document an employee's departure from the organization. To ensure the form is completed accurately and thoroughly, please review the following guide carefully.
 
 ## Employment Discharge Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed for internal use within an organization to gauge employee satisfaction and engagement. The form aims to collect feedback on various aspects of the work experience, including communication from management, support for professional development, and company culture. This template is an original creation, not affiliated with any form platform, and is released under CC BY 4.0 license.
-</thinking>
-
 # employee_engagement_survey_template - Help Guide
 ## Purpose
 The **Employee Engagement Survey Template** is a confidential tool for employees to provide honest feedback on their work experience and suggest areas for improvement.

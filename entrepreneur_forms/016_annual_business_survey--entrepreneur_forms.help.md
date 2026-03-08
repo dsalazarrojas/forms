@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about your business and its operations. Please fill out the form carefully, and make sure you have permission to complete it on behalf of your business. If you're not sure about any of the questions, feel free to ask for clarification. Please note that some fields may be marked as optional, but providing accurate and relevant information will help us better understand your business needs.
-</thinking>
-
 # Annual Business Survey - Help Guide
 ## Purpose
 The Annual Business Survey is designed to gather information about your business and its operations. This data will help us better understand your business needs and provide you with relevant insights and resources.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about students' experiences and perceptions of AI tools in their educational settings. The goal is to collect data on the types of AI tools students have used, their levels of satisfaction with these tools, and their future interest in using AI tools. By completing this form, you will be helping us gather valuable insights that can inform the development and improvement of AI tools for students.
-This form is intended for students who have experience with AI tools in their educational setting. If you have not used AI tools, you can still provide feedback on what you think would be useful or interesting features in AI tools for students.
-The form is not for collecting information on students' personal data or any sensitive data. All the information collected will be used for anonymous and aggregated analysis.
-</thinking>
-
 # Student AI Tools Survey - Help Guide
 ## Purpose
 This form is designed to gather information about students' experiences and perceptions of AI tools in their educational settings.

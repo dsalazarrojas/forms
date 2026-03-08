@@ -1,26 +1,3 @@
-<thinking>
-
-The purpose of the Medical Equipment Loan Request Form is to enable healthcare facilities to request the loan of medical equipment, such as Autoclaves, Defibrillators, ECG Machines, and Oxygen Tanks, from other facilities. This form allows borrowers to specify the type and location of the equipment they need, as well as the loan duration and reason for the request.
-
-When filling out the form, users should start by entering the request details, including their name and any necessary contact information. They will then select the specific piece of equipment they are requesting, along with its intended location. The borrower should also specify the loan duration and reason for the request, which will help the loaner understand their needs.
-
-Each field in the form serves a specific purpose:
-- **Request Details** (`request_details`): Enter a brief description of the equipment you are requesting to help the loaner understand your needs.
-- **Borrower Name** (`borrower_name`): Enter your name as the person requesting the loan.
-- **Loan Date** (`loan_date`): Enter the date on which you would like the loan to start.
-- **Equipment Requested** (`equipment_requested`): Select the type of equipment you need from the list of available options.
-- **Equipment Location** (`equipment_location`): If you need the equipment for use at multiple locations, select all relevant options.
-- **Loan Duration** (`loan_duration`): Enter the duration of the loan you are requesting in days.
-- **Reason for Loan** (`reason_for_loan`): Briefly explain why you are requesting the loan.
-- **Loaner Name** (`loaner_name`): Enter the name of the person or department responsible for the loan.
-- **Contact Details** (`contact_details`): Enter any contact information for the person or department requesting the loan.
-- **Comments** (`comments`): Add any additional comments or requests.
-- **Loan Status** (`loan_status`): Select the current status of your loan request.
-- **Loaned To** (`loaned_to`): Select who the equipment was loaned to (Borrower or Loaner).
-- **Loan Returned** (`loan_returned`): Select whether the loan was returned on time, late, or not returned.
-
-</thinking>
-
 # Medical Equipment Loan Request Form - Help Guide
 ## Purpose
 

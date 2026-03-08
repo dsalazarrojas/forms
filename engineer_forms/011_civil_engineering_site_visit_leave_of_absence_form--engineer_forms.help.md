@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from civil engineers for site visits, ensuring they have the necessary details for travel and accommodation arrangements. The form is meant to minimize duplication of requests and ensure that all necessary information is provided to make the site visit a success. This form should be filled out by civil engineers who are planning a site visit, and it is expected that the information provided will be accurate and up-to-date.
-
-</thinking>
-
 # Civil Engineering Site Visit Leave Of Absence Form - Help Guide
 
 ## Purpose

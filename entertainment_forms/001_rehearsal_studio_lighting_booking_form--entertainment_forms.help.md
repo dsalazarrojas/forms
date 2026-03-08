@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rehearsal Studio Lighting Booking Form - Help Guide
 
 ## Purpose

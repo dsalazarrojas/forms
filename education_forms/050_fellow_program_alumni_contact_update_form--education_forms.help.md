@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for fellow program alumni to update their contact information and preferences for receiving updates about the program. The purpose of this form is to ensure that the program has the most up-to-date and accurate contact information for its alumni. This form is not intended for general user input, but rather for program administrators to collect information from alumni who want to stay connected with the program. It is essential to fill out this form only once for each individual, to avoid duplicating entries. Please ensure that your information is accurate and up-to-date, as it will be used to contact you and keep you informed about the program's activities and developments.</thinking>
-
 # Fellow Program Alumni Contact Update Form - Help Guide
 ## Purpose
 The Fellow Program Alumni Contact Update Form is designed to collect and update contact information from fellow program alumni. This form will help us keep you informed about the program's activities, developments, and opportunities.

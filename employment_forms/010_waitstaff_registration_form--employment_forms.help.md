@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to assist users in understanding the purpose and functionality of the waitstaff registration form. The form is designed for waitstaff registration, allowing users to provide essential information about their availability and work preferences. Before proceeding, please review your role as a waitstaff and ensure you are authorized to use this form. This guide will walk you through each field in the form to help you fill it out correctly and efficiently.
-
-</thinking>
-
 # waitstaff_registration_form - Help Guide
 ## Purpose
 The waitstaff registration form is used to gather essential information from waitstaff members about their availability and work preferences for scheduling purposes.

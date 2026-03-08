@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to acknowledge that an employee has received and understands the company's policy handbook. This form helps to ensure that employees are aware of their responsibilities and expectations, and that they are willing to abide by the company's policies. By completing this form, employees are confirming that they have read and understood the policies, understand the at-will nature of their employment, and agree to maintain company confidentiality. This form is also an opportunity for employees to provide their electronic signature, acknowledging their agreement to the policies.
-</thinking>
-
 # Acknowledgment Of Policy Handbook - Help Guide
 ## Purpose
 This form is designed to be completed by employees to acknowledge that they have received and understood the company's policy handbook. By completing this form, employees are confirming that they are aware of their responsibilities and expectations as per the company's policies.

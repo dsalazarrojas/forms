@@ -1,5 +1,3 @@
-<thinking>As a technical writer and form designer, my task is to create a user-facing help guide for the "Global Learning Engagement Survey" form. This form appears to be designed to gather feedback from users about their engagement with a presentation or program. To ensure relevance and non-duplication, I will focus on explaining the form's purpose, how to complete it, and what each field means, based on the provided YAML fields. The form seems to be asking users about their experience with the program, including their feelings about the content, self-study, and overall design and user experience.</thinking>
-
 # Global Learning Engagement Survey - Help Guide
 ## Purpose
 This survey is designed to gather feedback from users about their engagement with a presentation or program. Your responses will help us understand your feelings about the content, self-study, and overall design and user experience of the program.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and evaluate the experience of nursing students in a class or course. It is used to assess the students' opinions on various aspects of the course, such as the instructor's performance, class work, and overall experience. This form is designed to be completed by students to provide valuable insights for the instructor to improve the teaching and learning process.
-The form should only be completed by nursing students who have taken the course.
-</thinking>
-
 # Nursing Student Evaluation Form - Help Guide
 ## Purpose
 This form is designed to gather feedback and evaluate the experience of nursing students in a class or course.

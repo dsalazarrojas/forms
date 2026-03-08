@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Initial Fire Incident Report Form - Help Guide
 ## Purpose
 This form is used to collect information and details about an incident involving a fire department. Please fill out the form accurately and thoroughly to ensure the incident is properly documented.

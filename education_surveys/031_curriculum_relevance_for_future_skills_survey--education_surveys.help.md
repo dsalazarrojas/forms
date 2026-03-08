@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from users on the relevance of a curriculum to future skills. This form is used to help educators, administrators, and other stakeholders understand whether the current curriculum is preparing students for future skills in their field of study. The form is designed to be completed by users in the "education_surveys" category.
-This form is meant to be used to gather feedback on the future skills and relevance of a curriculum. It is designed to be completed by users who are familiar with the curriculum and its contents.
-This form is meant to be completed by users who have some knowledge of the curriculum, but it is not meant to be filled out by users who do not know the curriculum. This form is meant to be completed only once by each user.
-This form should not be filled out by users who have already completed it in the past.
-</thinking>
-
 # Curriculum Relevance For Future Skills Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users on the relevance of a curriculum to future skills.

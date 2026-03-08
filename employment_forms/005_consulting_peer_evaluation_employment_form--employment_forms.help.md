@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to facilitate a constructive and fair evaluation of an employee by a peer or manager, providing a standardized framework to capture feedback on an individual's performance. This form aims to ensure that evaluations are comprehensive and consistent, and can be used as a basis for growth and development discussions with the employee. To ensure relevance and non-duplication, this form should only be used for its intended purpose and not for other evaluations such as performance reviews or disciplinary actions.
-
-</thinking>
-
 # Consulting Peer Evaluation Employment Form - Help Guide
 ## Purpose
 This form is designed to be a peer-based evaluation of an employee's performance, providing a comprehensive framework to assess their strengths, areas of improvement, and readiness for growth and development opportunities.

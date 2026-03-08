@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assess users' awareness and understanding of information accuracy, particularly in the context of education. The purpose of this form is to collect data on individuals' perceptions and knowledge about misinformation in the education field, aiming to identify knowledge gaps and areas for education and awareness initiatives. 
-
-As a user-facing help guide, the goal is to provide a comprehensive and clear explanation of the form's purpose and the fields within it to ensure a smooth and accurate completion experience.
-
-</thinking>
-
 # Quiz On Misinformation Awareness - Help Guide
 ## Purpose
 The "Quiz On Misinformation Awareness" form is designed to gauge users' understanding of information accuracy, with a focus on the education sector. This form is intended to help identify knowledge gaps and inform initiatives to address them.

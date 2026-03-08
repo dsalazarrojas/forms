@@ -1,11 +1,3 @@
-<thinking>
-**Internal reasoning:**
-This form is intended to collect information about an individual's participation in a fire drill, which is a safety exercise conducted to test emergency preparedness and response procedures. 
-The fire drill participation consent form is used to obtain consent from individuals participating in the drill, to ensure that they are aware of the risks involved and are willing to participate. 
-This form is not intended for general use cases, but rather for a specific emergency scenario. 
-
-</thinking>
-
 # fire_drill_participation_consent_form - Help Guide
 ## Purpose
 The fire drill participation consent form is a document that collects information about an individual's participation in a fire drill. It is essential for individuals participating in the drill to complete this form, which helps to ensure their safety and the effectiveness of the drill.

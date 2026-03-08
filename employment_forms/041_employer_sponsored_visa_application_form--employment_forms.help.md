@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employers for an employment-sponsored visa application. The purpose of this form is to capture the necessary details from the employer about the applicant and their employment status. It is a straightforward form with multiple fields to gather specific information. Before proceeding, ensure that you have the necessary documents and information about the applicant, as some fields may require supporting evidence. Please review each field carefully and fill out the form accurately. This guide will walk you through each field to help you complete the form efficiently. Please note that some fields may be optional or dependent on other fields, so be sure to review and adjust your answers accordingly. Also, this form does not collect sensitive or financial information, so you can fill it out with confidence. If you have any doubts or concerns, please contact the support team at form@gic.mx.
-</thinking>
-
 # Employer Sponsored Visa Application Form - Help Guide
 ## Purpose
 This form is for employers to provide information and documentation to support an employment-sponsored visa application. It is a straightforward form with multiple fields to gather specific details from you as an employer.

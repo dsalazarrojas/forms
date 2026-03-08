@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about an event. The purpose of this form is to gather details about the event date, time, location, and other relevant information. The form is not affiliated with any specific platform or service and is an original adaptation of public survey topic metadata.
-
-This form can be used by event organizers, promoters, or attendees to record information about upcoming or past events. The form's fields are designed to be simple and straightforward, making it easy to fill out for anyone who wants to provide information about an event.
-
-</thinking>
-
 # willy_wonka_golden_ticket - Help Guide
 ## Purpose
 This form is designed to collect information about an event.

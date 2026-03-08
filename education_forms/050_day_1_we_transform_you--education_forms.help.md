@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their educational background and preferences. This form is typically used by institutions or organizations that provide educational services, such as schools, universities, or online course platforms.
-
-When to use this form: This form is designed for users who are interested in transforming their skills or knowledge in some way. It is not intended for general user information gathering or for users who are not interested in education.
-
-To avoid duplicating user information, this form should not be used for users who have already answered similar questions in the past.
-
-</thinking>
-
 # Day 1 We Transform You - Help Guide
 ## Purpose
 This form is used to gather information from users about their educational background and preferences.

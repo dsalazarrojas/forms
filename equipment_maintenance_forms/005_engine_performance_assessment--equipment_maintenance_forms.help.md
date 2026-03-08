@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Engine Performance Assessment form efficiently and accurately. To ensure the form's purpose is clear, it's worth noting that this form is designed to gather crucial data about engine performance. The engine performance assessment form is used by mechanics and technicians to evaluate the overall condition and health of an engine. The form is composed of various fields that require specific information about engine performance, and the goal is to provide users with a comprehensive understanding of how to fill out this form correctly.
-</thinking>
-
 # Engine Performance Assessment - Help Guide
 ## Purpose
 The Engine Performance Assessment form is used to gather data about engine performance to evaluate the overall condition and health of an engine.

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to gather information about a job estimate, which is a document used to estimate the cost and duration of a project or service. This form is likely used by clients or customers to communicate their project requirements and expectations to service providers or vendors. The form is designed to be completed in two stages, with the first page asking about the overall project status and the second page gathering detailed information about specific services provided. The form asks for both text and numerical data, including select multiple, select one, and date fields. It also requires email and phone numbers, indicating that communication is a crucial aspect of this form.
-
-To ensure that this form is not duplicated, it's essential to have a clear and concise description of its purpose and use.
-
-This form is designed to be completed by clients or customers, providing them with a structured way to communicate their project requirements and expectations.
-
-The form fields should be self-explanatory, but if a field label is unclear or ambiguous, the description here will help clarify its intended use.
-</thinking>
-
 # Job Estimate Form - Help Guide
 ## Purpose
 The Job Estimate Form is a document used to estimate the cost and duration of a project or service. It is designed to be completed by clients or customers to communicate their project requirements and expectations to service providers or vendors.

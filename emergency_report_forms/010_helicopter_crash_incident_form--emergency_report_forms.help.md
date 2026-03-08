@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about helicopter crash incidents. The primary purpose of this form is to gather details about a helicopter crash, including general information, incident date and time, location, number of helicopters involved, incident type, incident description, witness statement, pilot and aircraft information, injury status, crash cause, investigation status, incident location, weather conditions, flight plan, flight recorder, and crash site details. This form should be completed whenever a helicopter crash incident occurs to ensure accurate and consistent reporting.
-
-To ensure the accuracy and consistency of reported incidents, this form should only be used for newly reported helicopter crash incidents. If an incident has been previously reported, please use the existing report instead of creating a new one.
-
-Please ensure that all required fields are completed accurately and thoroughly.
-</thinking>
-
 # Helicopter Crash Incident Form - Help Guide
 ## Purpose
 This form is designed to collect information about helicopter crash incidents to ensure accurate and consistent reporting.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Guild Application Form - Help Guide
 ## Purpose
 The Guild Application Form is designed to collect information about individuals applying to join a guild in the entertainment industry. This form is intended to gather personal and professional details, as well as additional information relevant to the application process.

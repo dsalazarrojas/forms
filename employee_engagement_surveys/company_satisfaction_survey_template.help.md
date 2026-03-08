@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather feedback from employees on their overall satisfaction and engagement with the company, with the goal of improving the work experience and fostering a positive company culture.
-The form is designed to be user-friendly and concise, covering various aspects of employee satisfaction, including communication from management, support for professional development, and valued company culture aspects.
-This form does not duplicate any existing form, and its purpose is to collect unique and valuable insights from employees.
-</thinking>
-
 # Company Satisfaction Survey Template - Help Guide
 ## Purpose
 This survey template is designed to help the company understand employee satisfaction and engagement. It collects feedback on various aspects of the work experience, including communication, support, and company culture.

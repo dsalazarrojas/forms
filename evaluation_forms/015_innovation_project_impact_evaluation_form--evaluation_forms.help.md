@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Innovation Project Impact Evaluation Form - Help Guide
 
 ## Purpose

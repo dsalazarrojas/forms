@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from candidates applying for a research scientist position. The form gathers data on the candidate's contact details, research experience, education, references, CV, employment status, and job title. The purpose of this form is to help the employer or hiring manager quickly and efficiently evaluate the candidate's qualifications and suitability for the research scientist role.
-
-To ensure that the form is being filled out correctly, please note that the following fields are optional. However, providing accurate and complete information will help the employer get a better understanding of the candidate's background and qualifications.
-
-</thinking>
-
 # Research Scientist Employment Application - Help Guide
 ## Purpose
 The Research Scientist Employment Application form is designed to collect information from candidates applying for a research scientist position. The form gathers data on the candidate's contact details, research experience, education, references, CV, employment status, and job title. This information will help the employer or hiring manager to quickly and efficiently evaluate the candidate's qualifications and suitability for the research scientist role.

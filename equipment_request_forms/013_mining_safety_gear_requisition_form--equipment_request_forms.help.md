@@ -1,9 +1,3 @@
-<thinking>
-The form is used by employees to request the use of specific safety gear for their work. This form is meant to be completed when an employee needs to use safety gear, such as a respirator or hard hat, for their work assignment. This form serves as an internal documentation and communication tool to ensure that the equipment is tracked and accounted for. Please only fill out this form if you have not already submitted one for this work assignment.
-
-Before filling out this form, ensure you have not already submitted a request for the same type of equipment and that you have checked that the equipment is not already available for use.
-</thinking>
-
 # Mining Safety Gear Requisition Form - Help Guide
 ## Purpose
 The Mining Safety Gear Requisition Form is used to request the use of specific safety gear for work assignments. This form ensures that the equipment is tracked and accounted for, and is a requirement for all work assignments that involve the use of safety gear.

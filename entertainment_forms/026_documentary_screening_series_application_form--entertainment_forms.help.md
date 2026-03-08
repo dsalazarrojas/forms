@@ -1,7 +1,3 @@
-<thinking>
-This form is used for documentary screening series applications. The purpose of this form is to help users submit a documentary series for screening at a cinema or other venue. This form is typically used by content creators, filmmakers, or event organizers to provide information about their documentary series, including the title, director, and screening details. To ensure the form is completed accurately, it is recommended to review the form carefully and fill in all required fields.
-</thinking>
-
 # Documentary Screening Series Application Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a documentary series for screening at a cinema or other venue.

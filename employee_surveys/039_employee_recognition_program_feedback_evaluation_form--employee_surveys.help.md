@@ -1,5 +1,3 @@
-<thinking>...The form is designed for employee feedback evaluation for the Employee Recognition Program. The Employee Recognition Program aims to recognize and reward employees' contributions and achievements. This form captures feedback on the program's effectiveness and suggests areas for improvement. The questions cover various aspects such as recognizing prophets, feedback frequency, quality, and rating, as well as demographic information about the employee and their manager. The form is meant to gather insights that will help refine and enhance the recognition program... </thinking>
-
 # Employee Recognition Program Feedback Evaluation Form - Help Guide
 
 ## Purpose

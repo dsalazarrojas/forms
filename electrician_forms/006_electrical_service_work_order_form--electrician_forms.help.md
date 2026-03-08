@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a new electrical service work order. The purpose of this form is to collect information about the job, including job details, customer information, and service company details. This form is designed to be completed by the service technician and is used to document the job details, customer interactions, and service technician's notes and signatures. This form is intended for internal use by the service company and is not intended for customer-facing use.
-</thinking>
-
 # Electrical Service Work Order Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from teachers regarding their professional development and evaluation of a training session. The form aims to gather information on the topics covered, session effectiveness, and suggestions for improvement.
-</thinking>
-
 # Teacher Professional Development And Evaluation Survey - Help Guide
 ## Purpose
 The purpose of this survey is to gather feedback from teachers on the effectiveness of a training session they attended. The data collected will help us evaluate the quality of our professional development programs and make necessary improvements for future sessions.

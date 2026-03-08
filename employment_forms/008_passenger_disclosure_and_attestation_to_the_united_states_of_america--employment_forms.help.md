@@ -1,34 +1,3 @@
-<thinking>
-This form is designed to collect information about passenger travel, including personal details, flight information, and travel agent contact information. The form is intended for passengers traveling to the United States and requires the following fields:
-- First Name: The passenger's first name.
-- Last Name: The passenger's last name.
-- Email: The passenger's email address.
-- Date Of Birth: The passenger's date of birth.
-- Citizenship Country: The country of citizenship of the passenger, with options to select multiple countries.
-- Flight Info: Briefly describe the passenger's flight information.
-- Flight Number: The flight number or ticket number of the passenger.
-- Flight Departure Airport: The departure airport of the passenger's flight.
-- Flight Arrival Airport: The arrival airport of the passenger's flight.
-- Flight Duration: The duration of the passenger's flight.
-- Flight Frequency: The frequency of the passenger's flight.
-- Flight Type: The type of flight the passenger is taking.
-- Travel Type: The type of travel the passenger is undertaking.
-- Destination: The destination of the passenger's flight.
-- Purpose: The purpose of the passenger's travel.
-- Country Visited: The country the passenger is visiting.
-- Airline: The airline the passenger is traveling with.
-- Passenger Type: The type of passenger, e.g. adult, child, infant.
-- Seat Number: The seat number of the passenger's seat.
-- Seat Class: The class of seat the passenger is traveling in.
-- Flight Boarding: The time of the passenger's flight boarding.
-- Travel Agent: The travel agent handling the passenger's travel.
-- Travel Agent Phone: The contact phone number of the travel agent.
-- Travel Agent Email: The email address of the travel agent.
-- Flight Boarding Time: The time of the passenger's flight boarding.
-
-This form is designed to be completed by passengers to provide their travel information to the relevant authorities in the United States.
-</thinking>
-
 # Passenger Disclosure And Attestation To The United States Of America - Help Guide
 ## Purpose
 This form is designed to collect information about passenger travel to the United States of America for the relevant authorities.

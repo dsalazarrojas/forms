@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Battery Discharge Test Log - Help Guide
 ## Purpose
 The Battery Discharge Test Log form is used to record the results of a battery discharge test. This form gathers information about the battery's performance, including its nominal voltage, test parameters, and final test results. The form helps to monitor the health of the battery and make informed decisions regarding its maintenance and replacement.

@@ -1,7 +1,3 @@
-<thinking>
-The "Payroll Adjustment Request Form" is used to request adjustments to an employee's payroll. This form should only be completed by employees themselves or their authorized representatives. Please ensure that you're not submitting a new request while an existing one is still pending. The form will ask for basic employee information, the pay period affected, the type of adjustment, the reason for the adjustment, the amount requested, and any additional comments.
-</thinking>
-
 # Payroll Adjustment Request Form - Help Guide
 ## Purpose
 This form is used to request adjustments to an employee's payroll. It helps the payroll team to track and process the changes effectively.

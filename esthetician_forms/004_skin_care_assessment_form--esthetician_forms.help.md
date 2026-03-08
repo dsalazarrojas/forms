@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's skin care concerns and medical history. Its purpose is to help medical professionals and estheticians provide personalized advice and treatment recommendations. The form is structured to collect input from the user on various skin-related topics, including skin care questionnaire, age, skin type, skincare products, medical history, medical conditions, medical treatments, notes, skin condition, medical professional, and treatment plan. This form is intended to be completed by individuals seeking skin care advice or treatment.
-</thinking>
-
 # Skin Care Assessment Form - Help Guide
 ## Purpose
 This form is designed to help medical professionals and estheticians provide personalized skin care advice and treatment recommendations by gathering information about your skin care concerns and medical history.

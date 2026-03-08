@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a team's leadership, communication, problem-solving, and other key aspects. This form is meant to help teams assess their strengths and weaknesses, identify areas for improvement, and provide a foundation for future team development and growth. It's essential to fill out this form honestly and thoroughly, as the feedback will be used to inform team development initiatives.
-</thinking>
-
 # Initial Team Assessment Survey - Help Guide
 ## Purpose
 This form is designed to help teams assess their performance and identify areas for improvement.

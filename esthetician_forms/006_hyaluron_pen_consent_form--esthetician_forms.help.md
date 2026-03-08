@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients regarding their consent to receive hyaluronic pen treatment. This includes demographic information (name and date of birth) and medical information (medical history, treatment consent, allergic reactions, medication use, and medical procedure consent). The form is intended for use in medical settings, such as a clinic or hospital. It is likely used by medical staff to document patient consent before proceeding with treatment. To avoid duplication of effort and ensure accurate completion, please ensure this form is completed by the client before proceeding with treatment.
-</thinking>
-
 # Hyaluron Pen Consent Form - Help Guide
 ## Purpose
 

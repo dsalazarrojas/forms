@@ -1,11 +1,3 @@
-<thinking>
-Please note that this form is designed to assess the impact of an Academic Exchange Program, which is a collaborative program that allows students, faculty, and staff from different institutions to exchange places for a specific period of time. The form is intended to gather information about the experiences and outcomes of participants in this program.
-The form is not a replacement for any existing program evaluation or assessment tool. If you are familiar with an existing form used to evaluate this program, please let us know so we can ensure that this form is not duplicating efforts.
-This form was created using AI-generated form design, which means it was created using only publically available information about the topic. If you are a developer, please be aware that this form may need modifications according to your specific needs.
-This form is released under CC BY 4.0, which means you are free to use, modify, and even sell it, just give credit.
-You can contact me at form@gic.mx for any further clarification.
-</thinking>
-
 # Academic Exchange Program Impact Assessment - Help Guide
 
 ## Purpose

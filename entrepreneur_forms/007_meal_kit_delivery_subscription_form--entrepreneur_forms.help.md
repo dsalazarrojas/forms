@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow customers to subscribe to a meal kit delivery service. This form collects customer information such as name, contact details, and address for delivery purposes. It's essential to complete the form accurately to ensure smooth subscription experience and timely deliveries. Please make sure to provide correct and complete information to avoid any issues during the subscription process.
-</thinking>
-
 # Meal Kit Delivery Subscription Form - Help Guide
 ## Purpose
 This form is designed for customers to provide their information for meal kit delivery subscription. It helps us to process their order and deliver meal kits to their desired address.

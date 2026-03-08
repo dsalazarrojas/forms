@@ -1,7 +1,3 @@
-<thinking>
-This form is used by HR or finance departments to collect information from employees when they request a breakdown of their salary. This form ensures that all necessary details are provided to process the request efficiently. Please note that this form is for employee use and is not intended for external or customer-facing purposes. Ensure you've checked with your HR or finance department to confirm their specific requirements and approval processes before submitting this form. It's essential to fill out this form accurately and completely to guarantee a speedy and successful request process.
-</thinking>
-
 # Salary Breakdown Inquiry Request Form - Help Guide
 ## Purpose
 This form is used by employees to request a breakdown of their salary. It will be reviewed and processed by the HR or Finance Department.

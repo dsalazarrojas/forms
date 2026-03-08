@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Culture Trends Report Form - Help Guide
 
 ## Purpose

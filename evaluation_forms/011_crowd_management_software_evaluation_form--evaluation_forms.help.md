@@ -1,20 +1,3 @@
-<thinking>
-This guide is intended to help users complete the Crowd Management Software Evaluation Form (CMSF) effectively and accurately. The form serves as a tool for assessing the performance and features of various crowd management software products. To ensure the evaluation is thorough, please follow the steps below.
-
-To complete this form, please ensure you are familiar with the software being evaluated and have a clear understanding of its features and performance.
-
-When filling out this form, please note that the software you are evaluating is the primary focus of the form. Ensure that you are providing honest and detailed feedback on its features, performance, and overall value.
-
-When answering questions, please provide specific examples or instances that illustrate your points, if possible. This will make your feedback more comprehensive and useful.
-
-Please ensure you fill out each section as completely as possible, taking into account the required and optional fields. Required fields are marked as "required" in the form and are essential for a thorough evaluation. Optional fields can provide additional insights but are not mandatory.
-
-This form contains multiple instances of similar fields (e.g., multiple "software name" fields). Please fill out each of these fields with different software names as needed, following their respective labels. For example, "software name", "software name 2", "software name report", etc.
-
-When providing feedback, please be detailed and specific about the software's performance, features, and value proposition.
-
-</thinking>
-
 # Crowd Management Software Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on crowd management software products, focusing on their features, performance, and overall value. Please fill out this form to provide detailed evaluations of the software you are currently using or considering for use.

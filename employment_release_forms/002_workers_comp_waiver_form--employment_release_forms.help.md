@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workers Comp Waiver Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to send a message to an unknown entity or individual. The purpose of this form is to gather contact information, such as names and email addresses, and other contact relevant details like location, phone, and website.
-It is assumed that this form is part of a website or application and will be used to allow users to send their contact information to the website owner or administrator.
-To confirm that this form will not be used for other purposes, we will make sure to keep the form as minimal as possible and only include the most important fields for contact information.
-</thinking>
-
 # Modern Contact Form - Help Guide
 
 ## Purpose

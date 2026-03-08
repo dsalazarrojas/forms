@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for evaluating the outcome of preventive care services. It's meant to be used by individuals or organizations providing care services to assess how their clients or patients are doing. This form is intended to measure the effectiveness of the care plan and identify areas for improvement.
-</thinking>
-
 # Preventive Care Outcome Measurement Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the outcomes of preventive care services. It helps care providers to assess how their clients or patients are doing and identify areas for improvement.

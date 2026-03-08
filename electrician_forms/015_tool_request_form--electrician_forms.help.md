@@ -1,34 +1,3 @@
-<thinking>
-This form is intended for Electricians to request tools for a specific job or project. This form will help to ensure that all relevant information is captured and communicated effectively for the Electricians team.
- 
-Before filling out this form, please make sure you have not already submitted a tool request for the same job or project. Duplicate requests can cause confusion and delays in the tool delivery process.
- 
-The form has multiple pages with various fields to gather necessary information. Please go through each field carefully to ensure accurate and complete submission.
- 
-The form is divided into the following sections:
- 
-Page 1: Job Details
-- This section is to capture the job ID number.
-- A job ID number is usually assigned by the customer or project manager and should be entered accordingly.
- 
-Page 2: Electrician Information
-- This section is to capture the Electrician's name.
-- Please enter your name as it appears on your identification documents.
- 
-Page 3: Tool Assignment
-- In this section, select the tool(s) that you require for the job.
-- Please select only the tool(s) that are necessary for the job, as excessive tool requests may cause delays in delivery.
- 
-Page 4: Additional Details
-- This section is for any additional information about the job or tool requirements.
-- You can use this space to provide more context or clarification about the job.
- 
-Page 5: Contact Information
-- This section is for capturing your contact information so we can reach out to you about the tool status.
-- Please ensure that your email and phone numbers are up-to-date and accurate.
- 
-</thinking>
-
 # Tool Request Form - Help Guide
 ## Purpose
 The Tool Request Form is designed to allow Electricians to request specific tools for a job or project. This form captures necessary information to ensure that the right tools are delivered to the right Electrician at the right time.

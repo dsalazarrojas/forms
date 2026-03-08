@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for users to request a refund for their e-learning subscription. The form is used to collect information from the user about their subscription details, reason for refund, and refund amount. The form is typically filled out by users who are experiencing issues with their subscription and are requesting a refund. To prevent duplication, the system checks if a user has already submitted a refund request. If a user has already submitted a refund request, they will not be able to access this form.
-
-</thinking>
-
 # e-learning-subscription-refund-form - Help Guide
 ## Purpose
 The e-learning-subscription-refund-form is used to request a refund for your e-learning subscription. Please use this form to provide necessary details for your refund request.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is likely related to obtaining consent from students and faculty to highlight and collaborate on a specific project. It could be part of a university or educational institution's workflow for managing projects and collaborations. This form likely needs to be filled out by students and faculty members to ensure that all parties are aware of and agree to the terms and conditions of the collaboration. This might include ensuring that students and faculty understand their responsibilities and expectations. The form should be filled out once for each project, and the required fields should be accurate and up-to-date. 
-
-It's essential to verify that this form is not being filled out multiple times for the same project, and that the required information is accurate and relevant.
-</thinking>
-
 # Student Faculty Collaboration Highlight Consent Form - Help Guide
 ## Purpose
 This form is intended to obtain consent from students and faculty to collaborate and highlight specific projects. It's designed to ensure that all parties are aware of and agree to the terms and conditions of the collaboration.

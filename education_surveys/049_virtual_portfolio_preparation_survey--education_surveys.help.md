@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to help administrators and instructors collect information from participants in a virtual portfolio preparation project, likely for evaluation and assessment purposes.
-It's best to ensure that each participant fills out the form thoroughly and correctly to provide accurate data for the project. To prevent duplication of effort, please fill out the form only once you've been asked to, or if you need to update your information, fill out the form again and note the changes you've made.
-</thinking>
-
 # Virtual Portfolio Preparation Survey - Help Guide
 ## Purpose
 This form is designed to collect relevant information from participants in a virtual portfolio preparation project.

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect feedback from candidates about their experience throughout the hiring process. This feedback is essential for us to identify areas of improvement and make necessary adjustments to our hiring process, ultimately providing a better experience for future candidates.
-
-Before we dive into the form's details, we want to emphasize that this form is designed to be user-friendly and straightforward. Please answer the questions based on your genuine experience, and don't hesitate to provide any comments or suggestions you might have.
-
-This form is composed of several sections, each focusing on a specific aspect of the candidate experience. Please complete the form by selecting or typing the relevant information, and feel free to skip any questions that don't apply to your situation.
-
-</thinking>
-
 # Candidate Experience Survey - Help Guide
 ## Purpose
 The Candidate Experience Survey aims to collect feedback from candidates about their experience throughout our hiring process. Your input will help us identify areas of improvement and make necessary adjustments to provide a better experience for future candidates.

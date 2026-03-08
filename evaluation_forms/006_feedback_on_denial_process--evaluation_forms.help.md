@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback on a denial process, likely related to an application or request for funding, loans, or other types of evaluations. It's meant to be filled out by individuals or organizations that have received a denial notice from the evaluator. The form's purpose is to gather information on the reason behind the denial, which could be useful for future improvements or adjustments.
-This form is not meant to be a duplicate of another form, but rather an original adaptation of a template based on public survey topic metadata.
-</thinking>
-
 # Feedback On Denial Process - Help Guide
 ## Purpose
 This form is designed to collect feedback on the denial process, allowing us to understand the reasons behind the denial and make improvements for future evaluations.

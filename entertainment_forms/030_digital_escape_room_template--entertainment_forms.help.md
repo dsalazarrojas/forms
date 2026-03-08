@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect data for a digital escape room template. This form will be used to gather information from users who want to create or manage an escape room experience. The fields included are meant to cover various aspects of the escape room, such as title and theme, puzzle description and media, player status, and submission details. This form is likely used within an internal tool or platform, and the fields have been designed with a mix of required and optional elements.
-
-</thinking>
-
 # Digital Escape Room Template - Help Guide
 ## Purpose
 This form is a template for creating and managing digital escape rooms. It's designed to collect relevant information from users, including the room title and theme, puzzle descriptions and media, player status, and submission details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process payroll information for temporary employees. It's essential for accurate tax calculation and compensation. Please ensure that each section is filled in with accurate information to avoid errors in payment processing. This form will not be used for permanent employees. If you're already filling this form for a permanent employee, please use the 'Employee Payroll Form' instead.
-</thinking>
-
 # Temporary Employee Payroll Form - Help Guide
 ## Purpose
 This form is used to collect and process payroll information for temporary employees to ensure accurate tax calculation and compensation.

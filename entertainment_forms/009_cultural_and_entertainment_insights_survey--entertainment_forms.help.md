@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect user insights on cultural and entertainment preferences, habits, and interests. The form is likely used to gather data for market research, audience analysis, or similar studies. To ensure the collected data is accurate and meaningful, please answer the questions honestly and to the best of your ability.
-
-Before starting, please note that this form is not designed to be time-consuming and should only take a few minutes to complete. If you have any questions or concerns, feel free to ask.
-
-Also, please ensure that you have provided consent to participate in this survey and that the answers are not shared without your permission.
-
-This form has 25 questions, and you will need to answer each one to the best of your ability. If you need help or clarification on any question, do not hesitate to ask.
-
-To ensure that your answers are accurate and consistent, please be as specific as possible when answering the questions.
-
-Now, let's proceed with the form.
-</thinking>
-
 # Cultural And Entertainment Insights Survey - Help Guide
 ## Purpose
 This form is designed to collect user insights on cultural and entertainment preferences, habits, and interests.

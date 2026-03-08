@@ -1,5 +1,3 @@
-<thinking>What this form is for, and why you might be looking at it, is likely to be a question for the facilities team or maintenance crew. It's a tool used to predict and document machine failures, and it seems to be used in a business or organizational context. The form's purpose might be to gather information on machines that are likely to malfunction or have already failed, and to assign tasks for maintenance. If this is not the right form, please let us know so we can correct this explanation.</thinking>
-
 # Machine Failure Forecast Report Form - Help Guide
 ## Purpose
 This form is used to record and forecast machine failures, helping the facilities team or maintenance crew to identify potential issues and schedule maintenance tasks.

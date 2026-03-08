@@ -1,12 +1,3 @@
-<thinking>
-The "Short Film Feedback Survey" form is designed to collect feedback from users about short films. 
-This form is intended for users who have watched short films and want to share their thoughts on the movies. 
-The form is meant to be completed by users who have watched a short film in a specific cinema location and want to provide feedback on their experience. 
-The purpose of the form is to gather information on the quality of the film, the director, the overall enjoyment of the film, and any additional comments or notes the user may have. 
-The form is not intended to be a substitute for formal evaluation forms, but rather a tool to help the organizers of film festivals or cinema events get a better understanding of their audience's experience. 
-This form will help the organizers improve the quality of the short films and events they offer. 
-</thinking>
-
 # Short Film Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about short films that they have watched in a specific cinema location. By completing this form, you will be able to share your thoughts on the quality of the film, the director, and your overall experience.

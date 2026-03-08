@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reimbursement Form Team - Help Guide
 ## Purpose
 This reimbursement form is designed for team members to submit reimbursement requests for expenses incurred during work-related activities. Please ensure that you have all necessary documents and receipts attached before submitting the form.

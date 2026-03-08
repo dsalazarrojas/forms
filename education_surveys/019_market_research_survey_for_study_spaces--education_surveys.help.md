@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for market research on study spaces, likely to understand user preferences and behaviors related to study areas. The form will help us gather data on specific characteristics of users who participate in online surveys. To avoid duplication, please make sure you haven't already filled out this form in the past 30 days. 
-</thinking>
-
 # market_research_survey_for_study_spaces - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your study space preferences for market research.

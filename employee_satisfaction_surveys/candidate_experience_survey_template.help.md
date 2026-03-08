@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # candidate_experience_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from candidates on their experience with our hiring process. Your input will help us improve the overall candidate journey and make it a more positive and efficient experience for everyone.

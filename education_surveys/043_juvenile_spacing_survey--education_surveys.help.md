@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is for the Juvenile Spacing Survey form. The form is used to collect information from end users, specifically to gather data on juveniles' spacing, which is an important aspect of their overall well-being. This form is designed to be completed by parents or guardians of the juveniles.
 
 The purpose of this form is to collect demographic information, spacing habits, and other relevant details that can help in understanding the juveniles' spacing patterns.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to submit their prank ideas for April Fools' Day. It's intended for those who want to share their creative and humorous ideas with others. The form is not affiliated with any form platform and is an original adaptation created by AI using public survey topic metadata. Before submitting, ensure that you're not submitting a prank that could cause harm or discomfort to others. If you're unsure about any field, please review this help guide carefully.
-</thinking>
-
 # April Fools Day Prank Submission Form - Help Guide
 ## Purpose
 This form is designed to collect prank ideas for April Fools' Day. It's meant for sharing creative and humorous ideas with others. Please ensure your prank idea doesn't cause harm or discomfort to others.

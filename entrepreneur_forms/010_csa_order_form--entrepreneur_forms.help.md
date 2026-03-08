@@ -1,8 +1,3 @@
-<thinking>
-We need to confirm that this form is designed to collect data for orders related to a CSA (Community-Supported Agriculture) program. The purpose of this form is to gather information from customers about their order preferences, including name, contact email, share type, pickup location, start date, payment option, dietary restrictions, and additional notes. This form will likely be used by farmers or administrators to process and fulfill customer orders.
-We should also consider that this form may be used in multiple contexts, such as farmers' markets, delivery services, or online platforms. To avoid duplication of efforts, we should ensure that the form fields are clear, concise, and accurately capture the essential information required.
-</thinking>
-
 # CSA Order Form - Help Guide
 ## Purpose
 The CSA Order Form is designed to collect data for orders related to a Community-Supported Agriculture program. It gathers information from customers about their order preferences, including name, contact email, share type, pickup location, start date, payment option, dietary restrictions, and additional notes.

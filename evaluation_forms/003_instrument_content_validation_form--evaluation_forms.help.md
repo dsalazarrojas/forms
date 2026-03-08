@@ -1,9 +1,3 @@
-<thinking>
-
-We will create a user-facing help guide for the Instrument Content Validation Form, which appears to be used in the context of evaluating musical instruments. This form likely helps to validate and document the content of an instrument, ensuring its quality and relevance. To avoid duplication, this form will be designed to collect unique and accurate information about each instrument.
-
-</thinking>
-
 # Instrument Content Validation Form - Help Guide
 ## Purpose
 The Instrument Content Validation Form is a tool for evaluating and validating the content of a musical instrument. It helps ensure that the instrument's content is accurate, complete, and meets the required standards.

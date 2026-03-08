@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user feedback on a festival through a people's choice voting system. It is likely used for a festival or event where attendees can vote for their favorite part or nominee. The form should only be filled out once per user. If a user has already filled out this form in the past, their response will not be accepted. This is to prevent duplicate submissions from the same user.
-</thinking>
-
 # Festival People's Choice Voting - Help Guide
 
 ## Purpose

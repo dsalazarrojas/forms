@@ -1,6 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "swimming_pool_rental_form" form, we'll need to follow the provided instructions. This form seems to be related to booking a swimming pool rental service. It's likely that the form is meant for customers to provide their personal details and payment information to make a booking. We'll focus on explaining the form's purpose, how to complete it, and the meaning of each field in a clear and concise way.</thinking>
-
 # swimming_pool_rental_form - Help Guide
 ## Purpose
 

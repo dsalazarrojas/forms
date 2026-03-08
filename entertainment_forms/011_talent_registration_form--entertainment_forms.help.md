@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for talent registration, allowing users to showcase their skills, experience, and contact information. This form aims to provide a comprehensive overview of a talent's qualifications and abilities. Before proceeding, please ensure that you have reviewed the required fields and have provided accurate information.
-</thinking>
-
 # talent_registration_form - Help Guide
 ## Purpose
 The Talent Registration Form is a tool used to collect essential information about a talent's qualifications, experience, and contact details. This form enables us to create a comprehensive profile for future reference and communication.

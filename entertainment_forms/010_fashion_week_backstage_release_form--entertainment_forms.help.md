@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Week Backstage Release Form - Help Guide
 ## Purpose
 The Fashion Week Backstage Release Form is a document used to obtain the necessary information from participants to grant permission for them to take part in backstage activities during Fashion Week. This form helps to ensure that all participants are aware of the rules and guidelines for backstage access and have provided their contact information for communication and follow-up purposes.

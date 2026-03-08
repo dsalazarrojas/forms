@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to create a checklist for assessing early childhood care and development. This form has 25 questions that cover various aspects of a child's development, including physical, cognitive, social-emotional, and language development. The form is designed to help parents or caregivers track the child's progress in these areas.
-It is essential to ensure the information is accurate and not duplicated. Before filling out this form, please review the child's relevant records and documents to ensure consistency with the information provided.
-</thinking>
-
 # early_childhood_care_and_development_eccd_checklist - Help Guide
 ## Purpose
 The early childhood care and development ECCD checklist is a tool used to assess a child's development in various areas, including physical, cognitive, social-emotional, and language development. This form is designed to help parents or caregivers track the child's progress and identify areas where they may need extra support.

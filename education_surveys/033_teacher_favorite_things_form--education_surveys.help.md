@@ -1,11 +1,3 @@
-<thinking>
-The form is intended to gather information about a teacher's personal preferences and interests. It is likely used to get to know them better in an educational or professional context. The form is structured around various categories of preferences, such as favorite subject, food, hobbies, music, movies, games, sports, and places. 
-
-Before filling out the form, please ensure you're not duplicating any information that already exists in your profile or other relevant databases.
-
-The form is not intended to be completed in a way that would compromise any sensitive or confidential information. If you're unsure about any field, please feel free to contact the relevant authorities or administrators for clarification. 
-</thinking>
-
 # Teacher Favorite Things Form - Help Guide
 ## Purpose
 The Teacher Favorite Things Form is designed to collect information about a teacher's personal preferences and interests. This data can be used for various purposes, such as understanding their strengths, weaknesses, and motivations in the educational or professional context.

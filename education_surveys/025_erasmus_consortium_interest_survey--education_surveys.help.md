@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to gather information from participants about their interest and involvement with the Erasmus+ Consortium. It is designed to collect demographic and professional data about the respondents, as well as their opinions and suggestions for the consortium. The form is intended to help the consortium better understand its members' needs and interests, and to identify areas for improvement.
 
 To complete this form, please follow these steps:

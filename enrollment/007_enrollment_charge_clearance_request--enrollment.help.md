@@ -1,12 +1,3 @@
-<thinking>
-To provide a clear and concise user-facing help guide for this form, we need to first understand its purpose, the steps to complete it, and a clear explanation of each field.
-
-The "Enrollment Charge Clearance Request" form is used to request clearance for enrollment charges, which is essential for students to enroll in classes or programs. It's crucial that users understand what each field means and how to fill out the form correctly to ensure accurate and efficient processing of their requests.
-
-To complete this form, users will need to provide general information about themselves, detailed fee information, payment details, signatures, comments, and submission metadata. Each field should be filled out accurately and thoroughly to avoid any issues during the clearance process.
-
-</thinking>
-
 # Enrollment Charge Clearance Request - Help Guide
 ## Purpose
 The Enrollment Charge Clearance Request form is used to request clearance for enrollment charges. It's essential for students to complete this form accurately to ensure timely and efficient processing of their requests.

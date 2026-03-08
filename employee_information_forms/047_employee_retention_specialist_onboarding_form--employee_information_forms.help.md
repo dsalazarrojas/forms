@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an employee's onboarding process, specifically for an Employee Retention Specialist. This form aims to gather key details about the employee's job, performance, and onboarding status. This information will be used by the Employee Retention Team to track and support employee growth and development within the organization.
-This form appears to be a comprehensive collection of various employee details and onboarding metrics, likely intended to be used within a HR or People Operations department. However, before proceeding, it is essential to ensure that this form is not duplicating information already collected elsewhere in the organization or that it serves a unique purpose in the current onboarding process.
-</thinking>
-
 # Employee Retention Specialist Onboarding Form - Help Guide
 ## Purpose
 The Employee Retention Specialist Onboarding Form is designed to collect information about an employee's job, performance, and onboarding status.

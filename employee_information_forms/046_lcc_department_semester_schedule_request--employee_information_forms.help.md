@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to request a semester schedule for the LCC (Lincoln County College) departments. This form is intended for employees to submit their schedule requests for a specific semester. The form is designed to gather information about the employee's department, schedule type, available dates, available times, and contact information. This form is likely used by department heads or administrators to manage employee schedules and coordinate with employees.
-
-Before filling out this form, please note that some fields are required, while others are optional. Ensure that you fill out all required fields to ensure that your request is processed correctly.
-
-When filling out this form, please be as specific as possible when providing your schedule requests, available dates, and available times. This will help the department head or administrator to better understand your needs and schedule your tasks accordingly.
-
-If you have any questions or concerns about the form, please don't hesitate to reach out to your department head or administrator for assistance.
-</thinking>
-
 # lcc_department_semester_schedule_request - Help Guide
 ## Purpose
 The purpose of this form is to request a semester schedule for the LCC (Lincoln County College) departments.

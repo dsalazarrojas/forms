@@ -1,7 +1,3 @@
-<thinking>
-The Abon Construction Bhd Interview Questionnaire Form is designed to collect information from candidates during an interview session with the company. The form is used to evaluate the candidate's suitability for a position within the company. It is crucial to ensure that each field is filled out accurately and completely to provide a comprehensive understanding of the candidate's qualifications and fit for the role.
-</thinking>
-
 # Abon Construction Bhd Interview Questionnaire Form - Help Guide
 ## Purpose
 The Abon Construction Bhd Interview Questionnaire Form is used to collect information from candidates during an interview session, which will help us determine their suitability for a position within the company.

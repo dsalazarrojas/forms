@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shift Close - Help Guide
 ## Purpose
 The Shift Close form is a critical documentation tool used to capture the details of each shift, including employee information, sales data, inventory management, and other relevant details. This form ensures that all necessary information is accurately recorded and stored for future reference.

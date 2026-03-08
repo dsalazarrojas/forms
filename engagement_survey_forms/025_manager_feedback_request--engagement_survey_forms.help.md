@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from team members about their manager's performance. This form allows team members to provide their manager's name, identify areas where they excel or need improvement, and give feedback on their performance in a specific category. The form is designed to gather anonymous feedback from team members, allowing for honest and constructive input without fear of retribution or repercussions.
-This form should only be used for feedback about managers and not for other team members or departments. Please ensure that you're not duplicating existing feedback forms or submitting redundant feedback. Your feedback will be reviewed by the appropriate personnel to help improve the manager's performance and the team's overall well-being.
-</thinking>
-
 # Manager Feedback Request - Help Guide
 ## Purpose
 This form is used to collect feedback from team members about their manager's performance, allowing for honest and constructive input to help improve the manager's skills and the team's overall well-being.

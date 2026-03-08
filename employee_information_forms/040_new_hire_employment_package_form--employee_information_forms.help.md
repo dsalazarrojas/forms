@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Hire Employment Package Form - Help Guide
 ## Purpose
 The New Hire Employment Package Form is used to collect and document essential information about a new employee's employment status, job title, supervisor, and other relevant details. This form helps to ensure that all necessary records are accurately and thoroughly completed, providing a comprehensive new hire package for the employee.

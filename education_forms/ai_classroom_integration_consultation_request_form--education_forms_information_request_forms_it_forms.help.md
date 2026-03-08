@@ -1,18 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users who are interested in integrating AI technology into their classrooms or educational institutions. The purpose of this form is to gather essential details about the user's role, grade level, subject area, and preferred learning style to provide tailored support and consultation on AI integration.
-
-To ensure that the form is filled out correctly, we need to consider the following factors:
-
-* The user's role is crucial in determining the type of support they require.
-* The grade level and subject area will help us understand the specific needs of the user's institution.
-* The preferred learning style can influence the type of AI tools and methods we recommend.
-* The availability of resources and budget will help us prioritize the integration process.
-
-We also need to consider that some fields are required while others are optional, such as the budget estimate and implementation start date. Users should be aware that providing accurate information in these fields will help us provide more personalized support.
-
-</thinking>
-
 # AI Classroom Integration Consultation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users interested in integrating AI technology into their classrooms or educational institutions. The form aims to gather essential details about the user's role, grade level, subject area, and preferred learning style to provide tailored support and consultation on AI integration.

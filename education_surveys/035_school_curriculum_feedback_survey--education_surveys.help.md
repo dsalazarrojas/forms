@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather feedback from parents, students, and teachers on the effectiveness and relevance of the school's curriculum. This feedback will help the school administration assess the strengths and weaknesses of the curriculum and identify areas for improvement. 
 
 To ensure that your feedback is accurate and helpful, please note that this form is for feedback on the current school year's curriculum only. If you are providing feedback on a previous year's curriculum, please do not complete this form.

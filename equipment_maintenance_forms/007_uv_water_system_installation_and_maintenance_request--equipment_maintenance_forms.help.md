@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow users to request installation and maintenance of UV water systems. This form is intended for users to provide essential information about the installation and maintenance of their UV water systems. Before proceeding, please ensure that this form is being used for the intended purpose and that a similar request has not already been made. If you are unsure, please verify with your supervisor or relevant personnel.
-</thinking>
-
 # UV Water System Installation And Maintenance Request - Help Guide
 ## Purpose
 This form is designed for users to request installation and maintenance of UV water systems. It helps the relevant team to gather essential information to process and attend to the request efficiently.

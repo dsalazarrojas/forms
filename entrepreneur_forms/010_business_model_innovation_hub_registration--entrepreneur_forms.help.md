@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential participants in the Business Model Innovation Hub, a platform designed to support entrepreneurs in developing and refining their business models. This form is meant to gather relevant details about the participant, their business, and their goals, interests, and expectations from the program. Before starting, ensure you have not already registered for this program and that you are not a duplicate entry.
-</thinking>
-
 # Business Model Innovation Hub Registration - Help Guide
 ## Purpose
 The Business Model Innovation Hub is a platform designed to support entrepreneurs in developing and refining their business models. This guide will walk you through the registration process and explain each field in detail.

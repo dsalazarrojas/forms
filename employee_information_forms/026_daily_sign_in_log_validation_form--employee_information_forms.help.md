@@ -1,7 +1,3 @@
-<thinking> 
-
-To validate the user's daily sign-in, this form collects essential details about the employee's attendance and work-related information. The form ensures that all mandatory fields are filled out accurately to prevent errors and ensure accurate records. Each field is designed to capture specific data, such as employee ID, date, in-time, out-time, comments, status, manager comments, employee name, department, employee type, location, IP address, user agent, OS version, browser, operating system, device, browser version, and user ID. By completing this form, employees can provide precise information about their work hours, attendance, and other relevant details, which can be used for reporting and monitoring purposes.</thinking>
-
 # daily_sign_in_log_validation_form - Help Guide
 ## Purpose
 This form is used to validate daily sign-in logs for employees. It gathers essential details about employee attendance and work-related information.

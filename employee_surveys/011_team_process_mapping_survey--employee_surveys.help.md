@@ -1,15 +1,3 @@
-<thinking>
-By analyzing the provided YAML, this form is designed to gather information about a team's processes, structure, and members. The form is intended to help teams reflect on their current workflows, identify challenges, brainstorm improvement ideas, and provide details about their team structure, size, location, and work hours.
-
-Upon reviewing the fields, it appears that the form is primarily focused on gathering text-based input, such as descriptions of the team's workflow, challenges, goals, and improvement ideas. The form also includes dropdown fields to select team structure, team location, team hours, and team lead or team member options. There are also fields for team email, phone numbers, notes, and specific information about the team lead, which suggests that the form may be used for HR-related or administrative purposes.
-
-The form has a total of 18 fields across 3 pages, with only one page being the "Introduction" page. The form does not appear to have any redundant or unnecessary fields, and the fields are well-organized into categories.
-
-Given the fields and the form's overall structure, it seems that the form is intended to be a comprehensive tool for teams to self-reflect and report on their processes and dynamics. It's possible that the form may be used for performance evaluation, team development, or other related purposes.
-
-However, without further clarification or additional context, it's difficult to determine the exact purpose and usage of this form. If you have any specific requirements or preferences for the help guide, please let me know and I will adjust the response accordingly.
-</thinking>
-
 # Team Process Mapping Survey - Help Guide
 ## Purpose
 This survey is designed to help your team reflect on their current processes, structure, and dynamics. It will help you identify areas for improvement and provide insights for team development. Please answer the questions honestly and thoroughly to get the most out of this survey.

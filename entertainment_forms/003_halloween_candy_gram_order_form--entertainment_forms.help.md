@@ -1,6 +1,3 @@
-<thinking>
-To ensure this help guide is accurate and relevant, let's first review the form purpose and content. The form is designed for customers to order Halloween candies, and we need to make sure we're covering all the essential information needed for a successful order. Let's review the form fields to identify the required and optional fields. The form has 11 fields, with 6 required fields: customer_name, email, phone, shipping_name, shipping_address, shipping_city, shipping_zip, and candy_type. The quantity field is also required but it's not immediately apparent what type of "quantity" is being asked for. The shipping_date field seems to be a date picker, but it's unclear what date is expected for, possibly shipping or order? Lastly, message and quantity fields seem to have no labels that indicate their purpose. This might indicate they are not immediately related to the main topic or are supplementary fields that could be added later. To be thorough, let's ensure we're covering all fields and their potential use cases.</thinking>
-
 # halloween_candy_gram_order_form - Help Guide
 ## Purpose
 This form is designed for customers to order Halloween candies. Please fill out the required fields to ensure your order is successful.

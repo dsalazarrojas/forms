@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from employees on the organizational structure of the company. It's a critical component of our internal operations, and your input will help us better understand your experiences and improve our organizational setup. Before you begin, please take a moment to review the form and make sure you don't duplicate any previous feedback. Your feedback will help us identify areas of improvement and make data-driven decisions.
-
-</thinking>
-
 # Organizational Structure Feedback Survey - Help Guide
 ## Purpose
 The Organizational Structure Feedback Survey is designed to collect information on the current organizational structure of the company, including the effectiveness of our roles and communication channels. Your feedback will help us understand your perceptions and experiences, and inform decisions to improve our internal operations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help maintenance personnel track and report the condition and life cycle of tools and equipment within an organization. The form captures key information such as the equipment ID, tool name, current condition, document wear, servicing plan, and dates for last serviced, last inspected, and next servicing. It also includes fields for comments and assignment of responsible personnel. The purpose of this form is to provide a standardized and structured way of collecting and storing data on the wear and life cycle of tools and equipment.
-</thinking>
-
 # Tool Wear And Life Cycle Report Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Form For Applicants - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants who are interested in applying for a job. The form is used to gather relevant details about the applicant, such as their job title, contact information, experience, and availability. This form is designed to be completed by the applicant, and the information collected will be reviewed for job suitability.

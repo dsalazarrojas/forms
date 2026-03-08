@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information on staff performance in emergency situations. It is likely used to evaluate a staff member's behavior during a critical incident or natural disaster. This form should not be completed for regular performance reviews or general staff evaluations.
-</thinking>
-
 # emergency_room_staff_recommendation_form - Help Guide
 ## Purpose
 The emergency room staff recommendation form is used to collect feedback on a staff member's performance during an emergency situation. It helps to document their ability to remain calm, provide clear communication, and take appropriate action in high-stress situations.

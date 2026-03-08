@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect job information from employees, allowing for the creation and updating of employee records and ensuring that all required fields are filled in for accurate job data management. This form is part of the overall employee information management system, ensuring that all relevant data is collected and up-to-date for employee records, reporting, and other related purposes.
-
-Before completing this form, please ensure you have reviewed the job details carefully and that all required fields are filled in accurately to avoid any potential issues with data entry or record discrepancies.
-
-</thinking>
-
 # Job Information Collection Form - Help Guide
 ## Purpose
 The Job Information Collection Form is designed to collect job information from employees, ensuring the creation and updating of employee records.

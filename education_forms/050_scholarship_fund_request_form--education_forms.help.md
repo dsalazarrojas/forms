@@ -1,7 +1,3 @@
-<thinking>
-The form is used to request funding from the Scholarship Fund. It is meant to be completed by a student to provide information about their scholarship request. Before filling out the form, please ensure that you have not already submitted a request for the same purpose, as duplicate requests will not be accepted. The fields are designed to be filled out in the following order: student information, scholarship type, purpose, amount requested, deadline, and submission date. This form is intended to be used for students who are affiliated with a specific organization.
-</thinking>
-
 # Scholarship Fund Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request funding from the Scholarship Fund for a specific purpose. This form is intended for students who are affiliated with a specific organization. Before submitting a request, please review the fields below to ensure you have provided all necessary information.

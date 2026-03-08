@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about an idea, allowing users to filter and categorize ideas based on various criteria. To prevent overloading the form, we've included a generous amount of space for notes and tags. We encourage users to provide as much detail as possible for each field, while keeping in mind that some fields may be optional. This form is meant to be a general tool for collecting and filtering ideas, and may not be specifically tailored to a particular industry or use case.
-Please note that some fields may be redundant or have overlapping information. If you're unsure about any of the fields, feel free to ask, and we can discuss further.
-Also, be aware that some fields are not yet filled with default values or examples. You may find it helpful to add a sample response or default values to each field for better clarity.
-</thinking>
-
 # The Idea Filter Form - Help Guide
 ## Purpose
 The Idea Filter Form is designed to collect and categorize ideas based on various criteria such as category, status, priority, and tags. It provides a simple and user-friendly way to filter and filter ideas for better organization and understanding.

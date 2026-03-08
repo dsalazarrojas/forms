@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urbanization And Agriculture Survey - Help Guide
 
 ## Purpose

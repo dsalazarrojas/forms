@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_referral_recommendation_form - Help Guide
 ## Purpose
 This form is intended to collect employee referrals for potential job openings within the company. It helps in identifying and tracking potential candidates for job openings, ensuring that referrals are submitted and managed efficiently.

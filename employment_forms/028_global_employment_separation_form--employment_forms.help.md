@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Global Employment Separation Form - Help Guide
 ## Purpose
 

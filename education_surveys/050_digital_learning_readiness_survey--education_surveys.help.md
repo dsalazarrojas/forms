@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assess an individual's digital learning readiness, which is their ability to effectively use digital technologies for learning. This includes evaluating their level of comfort and confidence in using digital tools, their familiarity with different devices, and their ability to access information online. The survey is not a formal assessment tool, but rather a guide to help us better understand your thoughts and experiences with digital technologies in an educational context. 
-
-This form will collect information on your thoughts, habits, and experiences related to digital learning, which will help us to improve our services and resources for education. Please answer the questions honestly, and if you have any questions or concerns, feel free to ask. 
-
-</thinking>
-
 # Digital Learning Readiness Survey - Help Guide
 ## Purpose
 This form is designed to help us understand your thoughts, habits, and experiences related to digital learning.

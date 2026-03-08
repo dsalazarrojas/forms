@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers requesting new widgets. It is crucial to ensure that only genuine requests are processed to prevent duplication. The customer's details, company information, and widget specifics should be accurately filled out to guarantee a smooth and correct fulfillment process. Ensure that the form is completed without any missing or incorrect information to avoid delays in the widget delivery process.
-</thinking>
-
 # New Widget Request Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information from customers requesting new widgets. It will help us process your widget request efficiently and accurately.

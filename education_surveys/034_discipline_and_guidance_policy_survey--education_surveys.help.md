@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # discipline_and_guidance_policy_survey - Help Guide
 ## Purpose
 The Discipline and Guidance Policy Survey is used to assess the effectiveness and awareness of the discipline and guidance policy in your institution. This form will help you gather feedback from different stakeholders, including parents, staff, and students, regarding the policy's implementation, effectiveness, and areas for improvement.

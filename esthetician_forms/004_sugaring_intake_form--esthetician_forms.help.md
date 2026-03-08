@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to collect information from clients seeking sugaring services. It will be used to identify potential medical concerns and ensure that the client is an appropriate candidate for sugaring treatments. This form may be used to assess a client's medical history, allergies, and medical conditions that may impact the services provided. It is crucial to complete this form thoroughly and accurately to ensure the best possible experience for the client.
-  To avoid duplication, please ensure you are not completing this form multiple times. If you are unsure about any questions or concerns, please do not hesitate to reach out to the technician or manager.
-</thinking>
-
 # Sugaring Intake Form - Help Guide
 ## Purpose
 The Sugaring Intake Form is designed to collect essential information from clients before undergoing sugaring treatments. This form helps identify potential medical concerns and ensures that clients are suitable candidates for the services provided.

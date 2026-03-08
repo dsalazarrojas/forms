@@ -1,9 +1,3 @@
-<thinking>...
-
-To create a user-facing help guide for the Psychological Safety At Work Survey form, we must first understand the purpose of the form. This guide will help users navigate through the form and complete it accurately, ensuring they understand each field's purpose and requirements. The form seems to be designed to assess psychological safety and trust within the workplace, including openness and support. The guide will cover the following topics: the form's purpose, how to complete it, a field-by-field explanation, and final tips.
-
-</thinking>
-
 # Psychological Safety At Work Survey - Help Guide
 ## Purpose
 The Psychological Safety At Work Survey is designed to help measure the level of psychological safety within the workplace. It's meant to gauge whether you, as an employee, feel safe and supported within the work environment. This survey will help management and HR understand where improvements are needed to create a healthier work atmosphere. Answer the questions honestly to ensure accurate results.

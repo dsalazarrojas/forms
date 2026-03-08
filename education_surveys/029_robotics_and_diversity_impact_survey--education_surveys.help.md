@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect data on the impact of robotics on diversity. The purpose of this form is to gather insights and information from respondents on how robotics affects different demographics. The form collects information on a variety of demographics, but it appears to be repetitive and may be a placeholder for additional fields or sections. 
-
-To ensure the accuracy and consistency of the data collected, it is essential to carefully complete this form. Before proceeding, ensure that you are answering the questions with the intention of providing accurate and honest information.
-
-Please note that the form is not affiliated with, endorsed by, or derived from any form platform, and it was created by an AI using public survey topic metadata. It is an original adaptation and does not copy or extract any proprietary content.
-
-</thinking>
-
 # robotics_and_diversity_impact_survey - Help Guide
 ## Purpose
 The "robotics_and_diversity_impact_survey" form is designed to collect information on the impact of robotics on diversity. This form aims to gather insights and data from respondents on how robotics affects different demographics.

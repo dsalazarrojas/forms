@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to track the monitoring data and comments related to hydraulic systems. It is used to document the status of the system, any issues or problems that have arisen, and the submitter's contact information for follow-up. This form is likely to be used by maintenance personnel, operators, or supervisors to record and report on the condition of hydraulic systems in their area of responsibility. 
-
-The form will be filled out on a page-by-page basis, with each page being a new set of questions or fields. The form is divided into several sections, each with its own set of fields. 
-
-</thinking>
-
 # Hydraulic System Monitoring Log Form - Help Guide
 ## Purpose
 The Hydraulic System Monitoring Log Form is used to track and report on the monitoring data and comments related to hydraulic systems. It helps maintenance personnel, operators, or supervisors document the status of the system, record issues or problems, and provide contact information for follow-up.

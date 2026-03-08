@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a job requisition for recruitment purposes. It is a form that captures essential information about a job opening in the company. The form is designed to be completed by the HR department or the hiring manager to provide accurate and detailed information about the job requirements, which is then used to advertise the job opening and attract suitable candidates. This form should not be used for other purposes. Please fill out the form carefully and ensure all required fields are completed before submitting.
-</thinking>
-
 # Recruitment Requisition Form - Help Guide
 ## Purpose
 This form is used to create a job requisition for recruitment purposes, capturing essential information about a job opening in the company. It is used to provide accurate and detailed information about the job requirements.

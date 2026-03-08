@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Research Development Evaluation Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking> 
-The purpose of this form is to gather feedback from employees about their experience with the intranet. The form aims to assess the usability, satisfaction, and functionality of the intranet, as well as identify areas for improvement. This information will help the organization better understand its employees' needs and make informed decisions about the intranet's development.
-This form is not intended to be a comprehensive assessment, but rather a starting point for discussion and improvement. Please answer honestly and provide specific examples when possible. The information collected will be used to make data-driven decisions to enhance the intranet and improve the overall employee experience.
-
-If you have already completed a similar survey, you may not need to take this one. However, your input is valuable, and your feedback will help shape the intranet's future development.
-
-If you're unsure about any question or have suggestions, please don't hesitate to reach out to the IT department or your supervisor.
-
-</thinking>
-
 # Administration Intranet Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from employees about their experience with the intranet.

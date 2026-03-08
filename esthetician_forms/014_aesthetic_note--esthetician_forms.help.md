@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Aesthetic Note - Help Guide
 ## Purpose
 

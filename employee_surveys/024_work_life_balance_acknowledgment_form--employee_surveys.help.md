@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about employees' work-life balance. It is meant to be completed by employees who are taking time off or need to adjust their work schedule. The form will help the organization understand how to best support employees in achieving a healthy balance between work and personal life. This form should only be completed by employees who are taking time off or requesting a schedule adjustment. 
-</thinking>
-
 # Work Life Balance Acknowledgment Form - Help Guide
 
 ## Purpose

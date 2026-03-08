@@ -1,5 +1,3 @@
-<thinking>...We are going to create a user-facing help guide for the "Lunar New Year Quiz" form, which is used for entertainment purposes. This form aims to educate users about the Lunar New Year by asking them questions about their knowledge of the holiday and traditions associated with it. The form will have multiple questions with different fields for users to input their answers... </thinking>
-
 # Lunar New Year Quiz - Help Guide
 ## Purpose
 The Lunar New Year Quiz is a form designed to test your knowledge about the Lunar New Year. It will ask you questions about your understanding of the holiday, its traditions, and related topics.

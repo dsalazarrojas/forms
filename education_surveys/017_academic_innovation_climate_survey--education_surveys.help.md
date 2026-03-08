@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gauge the respondent's perception of their institution's support for innovation, availability of resources, and potential barriers to innovation. This form is intended to collect data on the respondent's role in the institution, their perception of the institution's support for innovation, availability of resources, main barriers to innovation, and their willingness to participate in innovation initiatives. This data will help to identify areas where the institution can improve its support for innovation and provide insights for future policy or operational recommendations.
-
-This form has 9 fields, but some fields may not be required, so please fill out all fields, but only if you are able to.
-
-</thinking>
-
 # Academic Innovation Climate Survey - Help Guide
 ## Purpose
 This form is used to collect information about your experience with innovation in your institution. Your input will help us understand how we can improve our support for innovation.

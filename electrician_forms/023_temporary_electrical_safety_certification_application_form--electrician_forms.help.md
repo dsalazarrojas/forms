@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Temporary Electrical Safety Certification Application Form is a critical document used to verify the electrical safety of a project. This form is typically used by project managers, site managers, or electrical supervisors to ensure that electrical installations and systems meet the necessary safety standards. To prevent duplication of effort, please ensure that you are not submitting a duplicate request for the same project. If you are unsure whether this form is relevant to your project, please review the project's electrical plans and safety protocols before proceeding.
 
 # Temporary Electrical Safety Certification Application Form - Help Guide

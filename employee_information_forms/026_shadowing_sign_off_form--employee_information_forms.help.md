@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Shadowing Sign Off Form is to document the shadowing experience, including the title of the experience, location, date, start and end time, site visited, supervisor name, supervisor's title, and supervisor's specialty, to keep an accurate record for reference and potential future use. Please ensure you're filling out the form for a shadowing activity you've actually participated in, and not to misrepresent any information. 
-</thinking>
-
 # Shadowing Sign Off Form - Help Guide
 ## Purpose
 The Shadowing Sign Off Form is a form used to document shadowing experiences, providing essential information such as the title, location, date, and duration of the shadowing activity.

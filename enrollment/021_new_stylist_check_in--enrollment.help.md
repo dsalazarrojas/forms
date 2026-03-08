@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 # New Stylist Check In - Help Guide
 ## Purpose

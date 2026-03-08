@@ -1,14 +1,3 @@
-<thinking>
-The "New Business Venture Risk Assessment Form" is a tool to evaluate and assess the risks associated with a new business venture. It's essential for entrepreneurs to understand the potential risks involved in starting a new business to make informed decisions. This form is used to collect information about the venture, its risks, and the likelihood of success. 
-It's crucial to fill out this form carefully, and the answers provided will be used to inform decision-making processes. Make sure to answer each question according to your business needs and circumstances. This form can be completed multiple times to assess different ventures or updates to a venture's risk profile. It's a useful tool for entrepreneurs to evaluate and prioritize risks associated with their business.
-The form is divided into the following sections:
-- Venture Details: This section collects general information about the venture.
-- Risk Assessment: This section assesses the risk level of the venture.
-- Risk Factors: This section identifies specific risk factors that may impact the venture.
-- Decision: This section indicates whether the venture is a go or no-go.
-- Additional Comments: This section is for any additional comments or information.
-
-</thinking>
 # New Business Venture Risk Assessment Form - Help Guide
 ## Purpose
 The New Business Venture Risk Assessment Form is a tool to evaluate and assess the risks associated with a new business venture. It's essential for entrepreneurs to understand the potential risks involved in starting a new business to make informed decisions.

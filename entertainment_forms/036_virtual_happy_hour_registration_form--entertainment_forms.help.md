@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Happy Hour Registration Form - Help Guide
 
 ## Purpose

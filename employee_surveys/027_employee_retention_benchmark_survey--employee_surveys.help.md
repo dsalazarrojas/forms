@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees about their current job satisfaction, intentions to leave the company, and potential reasons for leaving. It will help management and HR understand the current state of employee retention and identify areas for improvement. This form is intended for internal use within the company, and the data collected will help shape company policies and decisions that promote employee satisfaction and retention. Please ensure that your answers are honest and provide as much detail as possible. Note that all information collected will be kept confidential and anonymous. If you have any questions or concerns, please reach out to your HR representative.
-</thinking>
-
 # Employee Retention Benchmark Survey - Help Guide
 ## Purpose
 

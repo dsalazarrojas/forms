@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate the effectiveness of an emergency preparedness drill. The purpose of this form is to collect feedback from participants and observers to improve future drills. This form should only be completed by participants and observers who have attended the emergency preparedness drill. Please note that this form is not intended for duplicate submissions. 
-</thinking>
-
 # Emergency Preparedness Drill Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback from participants and observers to evaluate the effectiveness of an emergency preparedness drill.

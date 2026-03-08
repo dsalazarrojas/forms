@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the reference checks for an employee. The purpose of this form is to gather details about the employee's current or past job references, including their name, contact information, and job title. The form is typically used during the hiring process to verify an employee's work history and experience. The form should only be completed by a supervisor or person authorized by the HR department. It's essential to ensure that the form is completed accurately and thoroughly to provide a complete picture of the employee's work history. Please make sure to fill out the form carefully and accurately, and do not duplicate any existing records. If you're unsure about any information, please check with the HR department before submitting this form.
-</thinking>
-
 # Reference Check Authorization Form - Help Guide
 ## Purpose
 The Reference Check Authorization Form is used to collect information about an employee's work history, including their reference checks. It's essential to complete this form accurately and thoroughly to provide a complete picture of the employee's work history.

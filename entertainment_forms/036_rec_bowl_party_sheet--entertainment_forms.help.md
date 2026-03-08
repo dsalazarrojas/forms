@@ -1,7 +1,3 @@
-<thinking>
-The RecBowlPartySheet form is used to collect party planning information from end-users. This form should only be used for parties hosted by the company, and not for external parties or events that are not company-related. If you are planning a party that is not company-related, please do not use this form. To ensure data consistency and accuracy, please do not submit duplicate party planning information.
-</thinking>
-
 # RecBowlPartySheet - Help Guide
 ## Purpose
 The RecBowlPartySheet form is designed to collect party planning information from users. This form helps the company's party planning team to efficiently gather all necessary details for a successful event.

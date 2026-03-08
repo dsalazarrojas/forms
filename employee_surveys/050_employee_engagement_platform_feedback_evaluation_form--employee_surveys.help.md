@@ -1,11 +1,3 @@
-<thinking>
-We will be using this form to collect feedback from employees on their overall experience with the Employee Engagement Platform. This form aims to understand their level of satisfaction with the platform, how frequently they use it, their interactions with the admin, and any additional feedback they may have. We will review this feedback to identify areas of improvement and implement changes to enhance the platform's usability and support.
-
-Before we begin, ensure that you have all the necessary information and permissions required to complete this form accurately. If you're unsure about any questions or options, please feel free to reach out to the admin for clarification.
-
-This guide will walk you through each field and its purpose to help you complete the form efficiently.
-</thinking>
-
 # Employee Engagement Platform Feedback Evaluation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from employees on their experience with the Employee Engagement Platform. It's essential to provide honest and constructive feedback to help us improve the platform and provide better support to all users.

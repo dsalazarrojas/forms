@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll consider the provided YAML fields. It appears to be a form for collecting feedback or evaluation data from users about a podcast topic. The form has various fields for assessing the topic's interest, engagement, satisfaction, relevance, recommendation, and potential comments. A unique identifier for the podcast session, if applicable, is also included. This form may be used by podcast administrators or moderators to gauge user interest and preferences in real-time.
-
-Given the fields, I'll assume the form's purpose is for users to provide their honest feedback about a podcast topic, helping the podcast team understand the audience's opinions and improve content offerings.
-
-To ensure no duplication, I'll check if similar forms exist in the same category. If a duplicate form with the same title exists, I'll add a version number to the title.
-</thinking>
-
 # Podcast Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about a podcast topic. It helps the podcast team understand audience interest, engagement, and satisfaction, enabling them to create content that resonates with their audience.

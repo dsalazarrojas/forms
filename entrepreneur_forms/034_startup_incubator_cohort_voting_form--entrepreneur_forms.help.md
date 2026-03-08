@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback from participants of the startup incubator program, specifically on the helpfulness of the mentors and review committee, the overall experience, and other relevant details. This form is intended for entrepreneurs who have participated in the incubator program and are providing their honest feedback. To ensure that the feedback is relevant and accurate, please review the form carefully and complete it with your honest assessment.
-</thinking>
-
 # Startup Incubator Cohort Voting Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from entrepreneurs who have participated in the startup incubator program. The goal is to understand their experiences, perceptions, and opinions on the helpfulness of the mentors and review committee, and to gather suggestions for improvement.

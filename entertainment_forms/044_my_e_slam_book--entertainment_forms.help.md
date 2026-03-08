@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a book, specifically a slam book, which is a book that contains notes, stories, or other personal reflections. The form is likely used to create or edit a slam book. This form is meant to be completed by the author or editor of the slam book.
-</thinking>
-
 # My E Slam Book - Help Guide
 ## Purpose
 This form is used to create or edit a slam book. It helps you to collect information about a book, including the title, author's name and email, phone number, note, book title, date, and time.

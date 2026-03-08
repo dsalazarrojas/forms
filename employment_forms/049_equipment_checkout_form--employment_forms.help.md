@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended for employees who need to fill out the equipment_checkout_form. The form is used to record equipment checkout information for employees. The form should only be used for actual checkout purposes and not for test or demo purposes.
-
-This guide will walk you through how to complete the form correctly. Please read each field explanation carefully before proceeding.
-
-</thinking>
-
 # equipment_checkout_form - Help Guide
 ## Purpose
 The equipment_checkout_form is used to record equipment checkout information for employees. This form ensures that all equipment checked out is accurately tracked and recorded.

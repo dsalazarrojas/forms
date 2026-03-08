@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll assume that the form is for employees to provide feedback about the workplace climate. The purpose of this form is to gather information about the overall sentiment of employees towards the workplace. The questions cover various aspects of the work environment, such as how employees feel about their work, their level of support, concerns, and demographic information. This form will help the management understand the climate of the workplace and make necessary adjustments to improve it. Please note that all fields are optional, and the form will allow employees to provide their feedback in a comfortable and open-ended way.</thinking>
-
 # workplace_climate_audit_form - Help Guide
 ## Purpose
 This form is designed to gather feedback from employees about their experiences and feelings towards the workplace climate. Your responses will help us understand the overall sentiment and make necessary improvements.

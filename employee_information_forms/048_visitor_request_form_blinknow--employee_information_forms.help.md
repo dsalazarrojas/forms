@@ -1,7 +1,3 @@
-<thinking>
-This form is used for visitors to BlinkNow to submit their requests, and it's meant to be filled out by visitors themselves. The form is likely meant to be used by employees in BlinkNow to manage and track visitor requests. It's not clear if this form is meant to be accessed by visitors after it's submitted or if it's an internal tool for BlinkNow staff. To prevent duplicate forms being filled out, it might be best to set up a unique identifier for each visitor in the form, such as a visit ID or username. This guide will cover the steps to complete this form and what each field is used for.
-</thinking>
-
 # Visitor Request Form BlinkNow - Help Guide
 ## Purpose
 This form is used by visitors to submit their requests to BlinkNow staff.

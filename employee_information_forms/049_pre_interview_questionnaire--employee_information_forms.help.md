@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from candidates applying for a job or a position, with the aim of helping them prepare for a pre-interview process. This form will guide the candidate through a series of questions to gather essential data about their contact information, employment status, work experience, skills, and qualifications. This form ensures that each question is clearly labeled and described, so the candidate understands what is expected from them.
-
-To avoid any confusion, this form has been designed with multiple options for candidates to select from, making sure they understand what they are choosing. This form does not aim at duplicating information already gathered, but rather provides another opportunity for candidates to express themselves.
-
-Each field has been crafted to be clear and concise. If a field's label is unclear, it's because we're trying to keep it simple and straightforward, without inventing unsupported business logic. This form's purpose is to gather information that will help in the interview process, making it essential to complete it accurately and thoroughly.
-
-</thinking>
-
 # pre-interview-questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from candidates applying for a job or a position, with the aim of helping them prepare for a pre-interview process.

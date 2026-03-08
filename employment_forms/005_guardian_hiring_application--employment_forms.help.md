@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used by hiring managers or HR personnel to collect information from candidates or new employees about their personal details, work experience, availability, skills, references, and other relevant documentation. It's possible that this form is part of a larger hiring process, and the collected information will be used to evaluate and shortlist or appoint new employees. It's essential to ensure that the form is filled out correctly, as incorrect or incomplete submissions may lead to delays or miscommunication in the hiring process. Before proceeding, please double-check that you have all the required information and that you're filling out the correct type of form.
-</thinking>
 # Guardian Hiring Application - Help Guide
 ## Purpose
 The Guardian Hiring Application form is used to collect personal and professional information from candidates or new employees as part of the hiring process.

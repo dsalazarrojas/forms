@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for reporting malfunctions that occur within a theme park ride, likely for incident reporting purposes. The fields suggest that the form is intended to collect information about the incident, including the category, description, date, and time of the malfunction, as well as the personnel assigned to address the issue. The presence of a "Follow-up Details" field implies that the form is also used to track progress or actions taken after the initial report is submitted. The "Form ID" and "Category ID" fields might be used for tracking and categorization purposes. Overall, it is essential to confirm the form's purpose and usage to avoid duplication or misinterpretation of its intended use.
-</thinking>
-
 # Theme Park Ride Malfunction Incident Report - Help Guide
 ## Purpose
 The Theme Park Ride Malfunction Incident Report form is a tool used for reporting and documenting malfunctions that occur within theme park rides. This form helps ensure that incidents are reported and addressed promptly, contributing to guest safety and ride operational efficiency.

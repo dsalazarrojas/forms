@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather feedback and opinions from users on various international relations theories, including neorealism, constructivism, and marxism. The form is intended to be completed by users with an understanding of these theories, and the questions are aimed at assessing their understanding of the primary goals and concepts associated with each theory. The form is not meant to be a comprehensive test, but rather a means to gauge the user's familiarity with these complex concepts. Please ensure you have a basic understanding of the theories before completing this form. Please note that some questions may have more than one correct answer, and you are free to provide multiple responses. If you are unsure about any question, please provide your best answer based on your understanding.
-</thinking>
-
 # International Relations Theories Survey - Help Guide
 ## Purpose
 This form is designed to assess your understanding of various international relations theories, including neorealism, constructivism, and marxism. The questions are meant to gauge your understanding of the primary goals and concepts associated with each theory.

@@ -1,7 +1,3 @@
-<thinking>
-The Performance Appraisal Form is a tool used to conduct regular performance reviews of employees. It assesses an employee's progress and provides feedback for growth and development. The form typically involves evaluating an employee's performance over a specific evaluation period, usually on a quarterly or yearly basis.
-</thinking>
-
 # Performance Appraisal Form - Help Guide
 
 ## Purpose

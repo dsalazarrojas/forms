@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Student Engagement Evaluation Form" that explains its purpose, how to complete it, and each field's meaning. I will use the provided YAML input schema to ensure that the guide is concrete, concise, and practical. After the internal reasoning block, I will output the final help guide in Markdown format.</thinking>
-
 # Student Engagement Evaluation Form - Help Guide
 ## Purpose
 The Student Engagement Evaluation Form is designed to assess the level of student engagement in a course. It collects information on individual students, such as their student ID, name, course ID, and course name, as well as their self-reported engagement level, learning goals, teaching method, and comments. This form is intended to help instructors and educators evaluate student engagement and identify areas for improvement in their teaching methods and course design.

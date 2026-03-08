@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the level of awareness and understanding of human rights among respondents. The purpose of this form is to collect data on human rights knowledge, attitude, and practices. This form should only be filled out by individuals who have a strong understanding of human rights principles and are willing to share their honest opinions. Please note that this form is not a duplication of any other form and is intended to provide unique insights into human rights awareness.
-</thinking>
-
 # Global Human Rights Awareness Survey - Help Guide
 ## Purpose
 This form is designed to assess the level of awareness and understanding of human rights among respondents.

@@ -1,6 +1,3 @@
-<thinking>
-The form "Faculty Student Partnership Attitudes Survey" is designed to collect feedback from students and faculty members on the effectiveness of their partnership. The purpose of this form is to gauge the satisfaction and perception of both students and faculty members towards each other's support, communication, and overall partnership. By understanding these attitudes, institutions can identify areas of improvement and develop strategies to enhance the faculty-student partnership.
-</thinking>
 # Faculty Student Partnership Attitudes Survey - Help Guide
 ## Purpose
 This survey aims to measure the attitudes and perceptions of students and faculty members towards their partnership. Your input will help us better understand the effectiveness of our partnership and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contingency Plan Report Form - Help Guide
 ## Purpose
 The Contingency Plan Report Form is used to document and review incidents that have occurred within your organization. This form helps in identifying the severity and impact of the incident, the effectiveness of the contingency plan, and any lessons learned. It is a crucial tool for improving response strategies and reducing risks.

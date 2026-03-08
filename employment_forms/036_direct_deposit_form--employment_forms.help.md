@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from employees regarding their direct deposit details, such as their direct deposit status, the name of their direct deposit bank, and the frequency of their direct deposit payments. Before filling out this form, please ensure that you are not already an administrator or manager, as these roles are not authorized to complete this form. Also, please note that this form is for informational purposes only and will not affect any direct deposit payment schedules. The form will collect data for the purpose of maintaining accurate employee records and facilitating direct deposit-related communications with employees.
-</thinking>
-
 # Direct Deposit Form - Help Guide
 ## Purpose
 The Direct Deposit Form is used to collect information from employees about their direct deposit details, including their direct deposit status and bank information. This form helps to maintain accurate employee records and facilitate direct deposit-related communications.

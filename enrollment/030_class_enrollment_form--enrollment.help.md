@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplicated enrollment forms, ensure you are not already enrolled in the class. This form is for students who want to enroll in a class. The class schedule and availability may vary depending on the course duration and preferred start date.
-</thinking>
-
 # Class Enrollment Form - Help Guide
 ## Purpose
 The Class Enrollment Form is a tool to help you enroll in a class. Fill out the form accurately to ensure your enrollment is successful.

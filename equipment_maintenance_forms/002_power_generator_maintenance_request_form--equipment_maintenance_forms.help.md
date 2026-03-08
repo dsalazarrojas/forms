@@ -1,7 +1,3 @@
-<thinking>
-Internal Note: This form is used to track and report generator maintenance requests. It helps the maintenance team to efficiently manage and prioritize generator maintenance tasks. Before filling out this form, please ensure that you have a legitimate reason for requesting maintenance and that you have consulted with the relevant stakeholders. It's a good practice to fill out this form only when necessary and not for routine or unnecessary tasks.
-</thinking>
-
 # Power Generator Maintenance Request Form - Help Guide
 ## Purpose
 The Power Generator Maintenance Request Form is designed to provide a structured format for reporting and tracking maintenance requests for the power generator equipment. This form helps the maintenance team to efficiently manage and prioritize maintenance tasks, ensuring that the equipment is properly maintained to function correctly.

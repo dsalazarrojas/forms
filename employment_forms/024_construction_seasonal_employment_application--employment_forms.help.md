@@ -1,13 +1,3 @@
-<thinking> 
-  **Form Purpose:** 
-  This form is designed to collect information from applicants interested in seasonal employment opportunities within the construction industry. 
-  We will use the information provided to determine eligibility and match applicants with suitable positions. 
-  Please ensure you have read and understood the form instructions before proceeding. 
-  Note: This form is intended for applicants who are new to the program or have not previously submitted an application. 
-  If you have previously submitted an application, please do not resubmit. 
-
-</thinking>
-
 # Construction Seasonal Employment Application - Help Guide
 ## Purpose
 The Construction Seasonal Employment Application form is a tool used to collect information from applicants interested in seasonal employment opportunities within the construction industry. The form is designed to help us determine your eligibility and match you with suitable positions.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about the user's favorite dance floor songs. The purpose of this form is to help event organizers and DJs understand what songs are popular among their attendees. The form is used to gather input on whether or not users have a favorite dance floor song, what music genres they like, and if they plan to plan any events.
-
-By completing this form, users will help us better understand their preferences and provide valuable feedback for future event organization. Please ensure that you are completing the form only if you have personal experience on a dance floor and enjoy the specified music genre.
-
-Before starting, please take note that you will be able to select multiple songs as favorites in this form. If you have completed this form in the past, please do not worry about filling it out again. Our system will not allow you to submit duplicate forms.
-</thinking>
-
 # Favorite Dance Floor Songs Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your favorite dance floor songs and provide valuable feedback for future event organization.

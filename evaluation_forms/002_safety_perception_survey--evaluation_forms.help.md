@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, we can infer from the field labels that it's a safety assessment survey to gather information about workplace safety incidents. This form likely aims to collect data on reported incidents, their severity, and the measures taken to address them. It may also help identify areas of concern and track the progress of incident resolution.
-
-To avoid duplication, we can ensure that users understand the form's purpose and only fill it out once for each incident.
-
-</thinking>
-
 # Safety Perception Survey - Help Guide
 ## Purpose
 This form is designed to gather information about workplace safety incidents, including their reporting, handling, and resolution.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create a mailing list subscription for the youth forum, allowing users to sign up with their first name, last name, email, select their interests, and provide additional information such as age, time, phone number, and notes. This form is not intended for internal use and is primarily for external users. It is recommended to review and verify the form submissions before using them for any purpose.
-</thinking>
-
 # youth_forum_mailing_list_signup - Help Guide
 ## Purpose
 The purpose of this form is to create a mailing list subscription for the youth forum.

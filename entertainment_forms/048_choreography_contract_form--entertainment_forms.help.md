@@ -1,7 +1,3 @@
-<thinking>
-The Choreography Contract Form is used to capture information about a dance performance, including client and choreographer details, project specifics, payment terms, and other relevant information. This form helps ensure that both parties are clear about the scope of work, payment expectations, and contract terms. By filling out this form, clients can ensure they have a clear understanding of what they need to provide and when they need to pay, and choreographers can protect their intellectual property and ensure timely payment. This form is not to be used to re-hire an existing agreement but for new project proposals or existing projects that have not been previously discussed or agreed upon.
-</thinking>
-
 # Choreography Contract Form - Help Guide
 ## Purpose
 The Choreography Contract Form is used to document the details of a dance performance project, including client and choreographer information, project specifics, payment terms, and other relevant details. This form helps establish a clear understanding between the client and choreographer about the scope of work, payment expectations, and contract terms.

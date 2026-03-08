@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information and documentation for a show or recording. The purpose of this form is to capture the necessary details about the show, including the participants involved, equipment used, and other relevant information. This form will be used by production teams to ensure that all required information is collected accurately and consistently.
-</thinking>
 # Show Preview Release Form - Help Guide
 ## Purpose
 The "Show Preview Release Form" is used to gather all necessary information about a show or recording. This information includes participant details, event details, and other required documentation.

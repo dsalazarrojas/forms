@@ -1,5 +1,3 @@
-<thinking>...this form is a quiz designed to help identify potential safety hazards in the workplace, particularly relevant to industries that require employees to work with electrical equipment or in environments where safety protocols are crucial. This form should not be used for any other purpose, and the questions it asks are intended to help employees think about their surroundings and identify potential hazards... </thinking>
-
 # Safety Hazard Identification Quiz - Help Guide
 ## Purpose
 This quiz is designed to help you identify potential safety hazards in the workplace and encourage you to think critically about your surroundings. Completing this quiz will help you recognize and assess potential hazards, and provide you with a better understanding of what can go wrong.

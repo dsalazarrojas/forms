@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive user-facing help guide for the Veterinary Staff Retention Insight Survey form, I need to first consider its purpose and ensure that the information collected is not already available within the organization. This survey aims to gather feedback from veterinary staff on their job satisfaction, reasons for leaving or staying, ideas for improving staff retention, and any additional feedback or comments they may have. The survey is designed to help the organization understand the perspectives and concerns of its staff, ultimately informing strategies to maintain a stable and motivated workforce.
 
 # Veterinary Staff Retention Insight Survey - Help Guide

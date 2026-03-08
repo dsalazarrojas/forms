@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from students on the effectiveness of a teacher in delivering course material, their teaching style, level of engagement, communication skills, classroom management, ability to adapt to student needs, and overall effectiveness. This form helps to identify areas of strength and weakness in a teacher's performance, which can be used to improve their teaching methods and provide support where needed. To avoid duplication of effort, please only complete this form for teachers who are currently active in your institution.
-</thinking>
-
 # Teacher Effectiveness Review Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from students on a teacher's performance in delivering course material, teaching style, engagement, communication skills, classroom management, adaptability, and overall effectiveness.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # International Progressing Student Application Form - Help Guide
 
 ## Purpose

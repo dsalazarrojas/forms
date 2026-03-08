@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to schedule a movie night event, collecting essential details about the movie and the host. This form aims to gather information about the movie's title, location, schedule, host's details, and any other relevant attributes. It is likely used by a community or a group to organize regular movie nights, ensuring that all attendees are aware of the event's specifics. To avoid duplication, consider checking with the organizers or existing event calendars before proceeding with this form.
-</thinking>
-
 # Movie Night Scheduling Form - Help Guide
 ## Purpose
 

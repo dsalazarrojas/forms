@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gauge an employee's job satisfaction, contentment, and perception of their manager's support. The form is meant to collect feedback from employees to help management understand their needs and areas for improvement. The form is split into two main pages, each with a set of questions that assess different aspects of job satisfaction. The questions are designed to be easy to understand and respond to. Please ensure you have completed this form for each of your employees, as it will help us better understand your job experiences and make informed decisions to improve our work environment. 
-
-Please note that some of the questions are similar in nature, but have different labels and purposes. It's essential to understand each question and answer honestly to get a comprehensive picture of your job satisfaction.
-
-If you are completing this form for the first time or if you are familiar with the form, please review the instructions and questions carefully before starting.
-</thinking>
-
 # Job Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed to gauge an employee's job satisfaction, contentment, and perception of their manager's support.

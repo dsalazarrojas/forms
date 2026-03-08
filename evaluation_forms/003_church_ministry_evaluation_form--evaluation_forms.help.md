@@ -1,8 +1,6 @@
 # Church Ministry Evaluation Form - Help Guide
 
 ## Purpose
-<thinking>This form is designed to help us better understand the effectiveness and areas of improvement for your church ministries. We value your honest feedback and it will help us refine our ministries to serve you better.</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 

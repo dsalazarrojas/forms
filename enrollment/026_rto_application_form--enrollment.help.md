@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for users to apply for Recognition of Prior Learning (RPL) and is designed to gather information about the applicant. This form should not be completed by those who have already filled it out in the past or are not eligible to apply. Please ensure you have read and understood the eligibility criteria before proceeding.
-</thinking>
-
 # RTO Application Form - Help Guide
 ## Purpose
 The RTO Application Form is a mandatory form to be completed by individuals who wish to apply for Recognition of Prior Learning (RPL) to enhance their skills and career development. This form will help us understand your background and preferences to assess your eligibility and guide you through the application process.

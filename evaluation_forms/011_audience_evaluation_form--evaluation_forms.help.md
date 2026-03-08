@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Audience Evaluation Form - Help Guide
 
 ## Purpose

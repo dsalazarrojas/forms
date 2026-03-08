@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals interested in becoming a farm equipment operator. This form will help us gauge their interest, experience, and qualifications for the job. Before completing this form, please ensure that the information you provide is accurate and up-to-date.
-The form is designed to be simple and straightforward, requiring minimal information from applicants. It is not meant for employment opportunities that are not related to farm equipment operation.
-Please do not submit this form if:
-- You are currently employed as a farm equipment operator and are not actively looking to transition to a new role.
-- You are interested in other types of employment opportunities.
-</thinking>
-
 # Farm Equipment Operator Application Form - Help Guide
 ## Purpose
 This form is for individuals interested in becoming a farm equipment operator. It is a quick and straightforward way to gauge your interest and qualifications for the role.

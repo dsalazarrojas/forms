@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help assess and improve the finance policy in our organization. The questions are designed to gauge policy awareness, clarity, and potential areas of improvement. The form should only be completed by those who have an understanding of our current finance policy guidelines and have suggestions or insights to share. If you're not familiar with our finance policy or have not been involved in its development, please do not complete this form.
-</thinking>
-
 # Finance Policy Understanding Survey - Help Guide
 ## Purpose
 This form is designed to help us better understand your thoughts and insights on our finance policy. Your input will help us identify areas of improvement and make informed decisions to strengthen our financial management practices.

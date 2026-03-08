@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from job applicants in a concise and efficient manner. The form is primarily intended for job seekers to provide details about themselves and their qualifications for a job position. The form fields are organized into categories, making it easy for applicants to navigate and fill out the form in a logical and methodical order. This guide will walk you through each field, explaining what each one is for and how to complete it correctly.
-</thinking>
-
 # Job Application Form In Chinese - Help Guide
 ## Purpose
 The Job Application Form is designed to collect relevant information from job applicants in order to assess their suitability for a job position. This form is intended for job seekers to provide details about themselves, their work experience, education background, and other relevant qualifications.

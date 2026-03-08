@@ -1,8 +1,3 @@
-<thinking>
-This form, "Workforce Engagement Questionnaire," aims to assess employees' satisfaction with their job and work environment. The goal is to understand their experiences, opinions, and feelings about their role, team, and work conditions. This survey is likely to be used within an organizational setting to gauge employee engagement and satisfaction to inform improvements and policy adjustments. 
-Please ensure this form is not completed if you're not an employee of this organization.
-</thinking>
-
 # Workforce Engagement Questionnaire - Help Guide
 ## Purpose
 

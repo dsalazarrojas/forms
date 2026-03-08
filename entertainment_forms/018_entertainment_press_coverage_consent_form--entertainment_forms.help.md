@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for entertainment press coverage purposes, where the user is asked to provide their consent for press coverage. This form will help in ensuring that the user's data is collected in a structured manner and that they are aware of what they are consenting to. The form includes fields for the user's name, organization, role, contact person, contact email, contact phone, consent given, consent date, notes, file upload, file type, file size, file name, and file description. The form is divided into two main sections: the first section asks the user if they accept press coverage, and the second section is for additional information. The fields in this section are optional and are used to gather more details from the user. The form is meant to be completed by users who are willing to provide their information for press coverage.
-</thinking>
-
 # Entertainment Press Coverage Consent Form - Help Guide
 ## Purpose
 The Entertainment Press Coverage Consent Form is used to collect information from users who are willing to provide their data for press coverage. This form helps in ensuring that users understand what they are consenting to and their data is collected in a structured manner.

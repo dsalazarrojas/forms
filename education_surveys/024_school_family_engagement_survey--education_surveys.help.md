@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Family Engagement Survey - Help Guide
 
 ## Purpose

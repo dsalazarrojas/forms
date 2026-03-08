@@ -1,7 +1,3 @@
-<thinking>
-...We've developed this form to help employees provide regular and constructive feedback about our workplace wellness program. By providing input through this form, employees can help us identify areas for improvement, suggest new ideas, and report any issues they've encountered. Please note that your responses will be kept confidential and only shared within the organization to improve the program's effectiveness. We kindly request that you only submit one set of responses per employee, as duplicate submissions can be overwhelming and reduce the form's overall value. Please take a few minutes to complete this form, and we appreciate your honest feedback!...
-</thinking>
-
 # Workplace-Wellness-Feedback-Form - Help Guide
 
 ## Purpose

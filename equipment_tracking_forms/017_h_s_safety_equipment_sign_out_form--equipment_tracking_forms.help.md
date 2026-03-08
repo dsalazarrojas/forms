@@ -1,5 +1,3 @@
-<thinking>...checking the form's purpose and relevance... The "H₂S Safety Equipment Sign Out Form" is used for tracking safety equipment use by staff members. It is intended to be used in industries where safety equipment is shared among staff, such as construction, oil and gas, or chemical plants. The form collects information about the equipment used, the staff member who used it, the duration of use, and any comments or notes. This form is likely used by safety coordinators or managers to keep track of who has used the equipment and for how long, which can help prevent equipment damage or misuse. It's also possible that this form is used for auditing or reporting purposes, such as for OSHA compliance. I will now output the help guide based on the provided YAML fields... </thinking>
-
 # H₂S Safety Equipment Sign Out Form - Help Guide
 ## Purpose
 This form is used for tracking and recording the use of safety equipment by staff members. It helps safety coordinators or managers keep track of who has used the equipment and for how long, which can prevent damage or misuse.

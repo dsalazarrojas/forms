@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an employee's motivation level and factors that motivate them to come to work. This information will be used to assess an employee's level of engagement and motivation in the workplace. It is recommended to complete this form only once a year or as per your manager's requirements. Please make sure that you don't complete the survey multiple times. The information collected will be stored for future reference and will not be shared with anyone outside of the organization.
-</thinking>
-
 # Employee Motivation Survey - Help Guide
 
 ## Purpose

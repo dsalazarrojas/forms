@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the user's historical knowledge and preferences. It is used to create a historical broadcasting quiz that can be used to educate and entertain users about historical events. This form is not meant to be used for any other purpose and should only be filled out once. The information collected from this form will be used to create a quiz that will be used to test the user's knowledge about historical events.
-</thinking>
-
 # Historical Broadcasting Quiz - Help Guide
 
 ## Purpose

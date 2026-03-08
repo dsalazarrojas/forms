@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about the maintenance status of soap dispensers in a facility. The form will be completed by maintenance personnel who will be reporting on the condition of each soap dispenser, including its functionality, soap level, restocking status, and any additional notes or comments. 
-
-To ensure that this form is completed accurately and efficiently, it's essential to have a clear understanding of each field and its purpose. This guide will walk you through each field on the form, explaining what to expect and how to complete it correctly. This will help maintenance personnel quickly and accurately report on the maintenance status of soap dispensers, reducing errors and ensuring that the correct information is captured.
-
-</thinking>
-
 # Soap Dispenser Maintenance Report - Help Guide
 ## Purpose
 The Soap Dispenser Maintenance Report is a form used to collect information about the maintenance status of soap dispensers in a facility. Maintenance personnel will complete this form to report on the condition of each soap dispenser, including its functionality, soap level, restocking status, and any additional notes or comments.

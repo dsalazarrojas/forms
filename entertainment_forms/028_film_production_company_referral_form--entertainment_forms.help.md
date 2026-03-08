@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect referrals from film production companies. Referrals are used to identify potential clients and partners for the company. To ensure that the referrals are accurate and useful, please fill out the form completely and truthfully. Please note that duplicates or incomplete submissions will not be processed.
-</thinking>
-
 # Film Production Company Referral Form - Help Guide
 ## Purpose
 The film production company referral form is used to collect referrals from film production companies. Referrals are used to identify potential clients and partners for the company.

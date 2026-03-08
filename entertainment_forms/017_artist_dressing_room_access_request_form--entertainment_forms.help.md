@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for artists, crew members, media, and other individuals to request access to the artist dressing room. It is essential to understand that this form is not for general admission or access to the venue. The purpose of this form is to provide the necessary information for the artist and their team to review and approve or deny access to the dressing room. This form is designed to be completed by the person requesting access, and it is crucial to provide accurate and complete information to ensure a smooth and secure process. To avoid duplication, please do not submit multiple requests for the same date and time. If you are unsure about any information or have specific requirements, please contact the artist or their management team for clarification.
-</thinking>
-
 # Artist Dressing Room Access Request Form - Help Guide
 
 ## Purpose

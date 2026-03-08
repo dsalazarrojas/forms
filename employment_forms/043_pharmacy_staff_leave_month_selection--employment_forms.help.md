@@ -1,7 +1,3 @@
-<thinking>
-This form is used to select a month for leave purposes, likely for pharmacy staff to report their absences or time off. To ensure accurate and relevant data collection, it is recommended to only use this form for leave purposes and not for other types of data entry. Please verify that the form is not being used for duplicate or unnecessary submissions.
-</thinking>
-
 # Pharmacy Staff Leave Month Selection - Help Guide
 ## Purpose
 The "Pharmacy Staff Leave Month Selection" form is used to report leave or time off for pharmacy staff. This form is intended to collect information about the month, leave type, and other relevant details related to staff absences.

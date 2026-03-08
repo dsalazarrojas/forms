@@ -1,6 +1,3 @@
-<thinking>
-We can generate a user-facing help guide for the Photo Contest Entry Form. Before we start, let's confirm the purpose and relevance of the form. The form is intended to collect contact information, photos, and other details from users participating in a photo contest. It's essential to ensure this form is accurate and meets the needs of the users who will be filling it out. If you're ready to proceed, let's review the form details and create the help guide.</thinking>
-
 # Photo Contest Entry Form - Help Guide
 ## Purpose
 The Photo Contest Entry Form is designed to collect contact information and photos from users participating in a photo contest. This form is intended for anyone interested in sharing their photos and participating in the contest.

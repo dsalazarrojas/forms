@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect basic employment application information from applicants, including personal details, address, job title and type, education level, skills, and other relevant background information. This form is intended to be a standard template and might not cover every possible scenario or job type. It's recommended that applicants carefully review the form instructions to ensure they provide accurate and complete information. Before completing this form, please ensure you have not previously submitted an application for this position or a similar one. 
-</thinking>
-
 # Basic Employment Application Form - Help Guide
 
 ## Purpose

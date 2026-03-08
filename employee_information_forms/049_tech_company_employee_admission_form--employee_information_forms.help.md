@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about new hires within a tech company. It captures the details of the employee's new hire process, including their personal and job-related information. This form is not intended for internal use only, and the information collected will be shared with relevant stakeholders. Please ensure that the information entered is accurate and up-to-date.
-</thinking>
-
 # Tech Company Employee Admission Form - Help Guide
 ## Purpose
 

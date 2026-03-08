@@ -1,20 +1,3 @@
-<thinking>
-To avoid duplication of effort and ensure consistency, let's first review the provided form design and determine the best way to create a user-facing help guide. This form appears to be for collecting contingent worker information, specifically for onboarding, employment, and contact data. The form seems comprehensive and well-structured. Before proceeding with writing the user guide, let's consider the following: 
-
-The form is divided into two main sections: Worker Identity and Contact and Employment and Assignment. This separation makes it clear that workers will be entering their identity and contact information first and then employment details. 
-
-The form requires several critical pieces of information, such as full name, date of birth, email address, phone number, employment agency name, job title, and supervisor's name. This suggests that the form is designed to ensure accuracy and thoroughness in collecting worker data. 
-
-However, there are some fields that may be considered optional or secondary, such as equipment requirements and emergency contact information. These sections should be highlighted as "optional" in the help guide to avoid confusion. 
-
-The form also has a digital signature field, which indicates that the worker must confirm the accuracy of the provided information. This is an important aspect of the form, as it ensures accountability and trust. 
-
-In writing the user guide, we should be concise, clear, and concrete, explaining each field's purpose and requirements. We should also highlight any optional or secondary fields to avoid confusion. 
-
-With this in mind, let's move on to the user-facing help guide.
-
-</thinking>
-
 # Contingent Worker Data Form - Help Guide
 ## Purpose
 This form collects essential information about contingent workers, including their identity, contact details, employment status, and onboarding requirements. Ensure you provide accurate and complete data to enable a smooth onboarding process.

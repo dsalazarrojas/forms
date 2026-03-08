@@ -1,6 +1,3 @@
-<thinking> 
-The form is intended for barber instructors who want to apply for certification to teach at a barber school or institution. To be eligible for certification, applicants must meet specific requirements such as having a valid barber license, relevant teaching experience, and passing a background check. This form will help the applicant provide necessary information about their qualifications, teaching experience, and motivation for applying for certification. Please ensure you meet the requirements and answer all questions accurately to ensure your application is complete and considered for certification. Note that fields marked as required must be completed, otherwise, your application will not be accepted.
-</thinking>
 # Barber Instructor Certification Application Form - Help Guide
 ## Purpose
 

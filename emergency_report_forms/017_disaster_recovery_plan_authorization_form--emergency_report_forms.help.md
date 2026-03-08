@@ -1,8 +1,3 @@
-<thinking>
-This form is part of the organization's disaster recovery process, used to obtain authorization for a contact person to act on behalf of the organization in emergency situations. This form helps ensure that the right person is authorized to take action and communicate with stakeholders during a disaster. It's crucial to provide accurate and complete information to ensure the correct response and resolution. Please review the fields carefully to provide the necessary details.
-
-</thinking>
-
 # Disaster Recovery Plan Authorization Form - Help Guide
 ## Purpose
 The Disaster Recovery Plan Authorization Form is a document used to confirm the authorization of a contact person to take action and represent the organization in the event of an emergency.

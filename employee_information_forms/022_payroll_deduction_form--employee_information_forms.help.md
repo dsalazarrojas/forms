@@ -1,12 +1,3 @@
-<thinking>
-The form is intended for payroll purposes, specifically for employees to submit their payroll deductions. 
-The form will likely be used by HR or finance teams to manage and track payroll deductions. However, without further context, it's impossible to determine if the form is for internal use or for external parties. 
-If the form is intended for external parties, the fields may require additional information or security settings. 
-This guide will assume the form is intended for internal use. 
-The fields on the form include employee information, deduction amount, payment frequency, and other meta data like submission and review timestamps. 
-The form is likely used for both employee data entry and administrative tasks. 
-</thinking>
-
 # Payroll Deduction Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to assess the level of threat posed by a particular threat to the organization. The threat assessment form is intended to help users identify and evaluate potential risks to the organization, and to provide a structured approach to determining the level of risk associated with a given threat. This form is not meant to be a comprehensive risk assessment tool, but rather a quick and easy way to identify potential threats and their associated risks.
-
-Before completing this form, please ensure that you have not already assessed this threat and that the information provided is up-to-date and accurate.
-
-Please note that the purpose of this form is to guide users through a structured process to identify and assess the level of threat posed by a particular threat. Each field is designed to help users gather relevant information about the threat and to provide a clear and concise way to communicate the level of risk associated with it.
-
-</thinking>
-
 # Threat Assessment Form - Help Guide
 ## Purpose
 The Threat Assessment Form is used to assess the level of threat posed by a particular threat to the organization.

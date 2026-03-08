@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to evaluate the Global Disease Prevention Program, a crucial initiative aimed at preventing and controlling the spread of diseases globally. To evaluate the effectiveness and impact of this program, we need to collect data from various stakeholders. This form serves as a crucial tool to gather feedback and insights from individuals who have participated in or been affected by the program. By filling out this form, you'll be helping us better understand the program's strengths, weaknesses, and areas for improvement.
-
-Before starting the evaluation, please ensure that you've participated in or been affected by the Global Disease Prevention Program and have all the necessary information required to complete the form. Some questions might be sensitive or require personal details, so please be honest and accurate in your responses.
-
-</thinking>
-
 # Global Disease Prevention Program Evaluation Form - Help Guide
 ## Purpose
 The Global Disease Prevention Program Evaluation Form is designed to gather feedback and insights from individuals who have participated in or been affected by the program. Your input will help us evaluate the program's effectiveness and identify areas for improvement.

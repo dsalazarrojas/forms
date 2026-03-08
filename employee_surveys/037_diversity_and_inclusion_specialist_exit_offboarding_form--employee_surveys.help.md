@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diversity And Inclusion Specialist Exit Offboarding Form - Help Guide
 
 ## Purpose

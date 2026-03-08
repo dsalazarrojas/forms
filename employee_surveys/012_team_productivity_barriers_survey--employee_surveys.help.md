@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Productivity Barriers Survey - Help Guide
 
 ## Purpose

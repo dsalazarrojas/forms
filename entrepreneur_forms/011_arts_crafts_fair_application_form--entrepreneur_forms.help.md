@@ -1,23 +1,3 @@
-<thinking>
-To determine the relevance and duplication of this form, we'll review the provided YAML fields. The form appears to be a standard application form for vendors to register and submit their information for the Arts and Crafts Fair. It requires basic vendor information, product description, and preferences for booth and electricity requirements.
-
-To avoid duplication, we'll review the fields for redundancy and ensure that each field provides a unique piece of information. 
-
-- **Pages 1: Vendor Information** - This page is a general information page for the vendor.
-- **Contact Name (2)** - This field is required and will likely be used for contact purposes.
-- **Business Name (3)** - This field is also required and will likely be used for branding purposes.
-- **Craft Category (4)** - This field helps categorize the type of craft being sold.
-- **Description of Products (5)** - This field provides a detailed description of the products being sold.
-- **Social Media or Website (6)** - This field allows vendors to provide links to their social media or website.
-- **Booth Type Preference (7)** - This field is used to determine the preferred booth size and type.
-- **Electricity Required (8)** - This field determines if the vendor requires electricity for their booth.
-- **Photo Upload Notice (9)** - This field is a note reminding vendors to prepare photos for upload.
-- **Agreement Terms (10)** - This field confirms the vendor's agreement to the fair rules and regulations.
-
-The form seems to be well-structured and doesn't contain any redundant fields. Vendors will need to complete the required fields and agree to the fair rules and regulations to complete the form successfully.
-
-</thinking>
-
 # Arts and Crafts Fair Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from vendors who wish to participate in the Arts and Crafts Fair. It is used to register and submit vendor information, product descriptions, and preferences for booth and electricity requirements.

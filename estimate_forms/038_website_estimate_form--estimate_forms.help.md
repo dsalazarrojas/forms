@@ -1,13 +1,3 @@
-<thinking>
-This form is used for creating estimates for website-related projects. It's a collection of information required to provide a detailed estimate for a website project. 
-
-The form is divided into several sections, each asking for specific information about the project, project owner, and submitter. 
-
-Please note that all form fields are optional unless specifically marked as required. A project status and project type are required fields as they are crucial for providing a proper estimate.
-
-This form will help the submitter to provide a well-informed and accurate estimate for the project.
-</thinking>
-
 # Website Estimate Form - Help Guide
 ## Purpose
 The Website Estimate Form is used to gather information required to create a detailed estimate for a website project.

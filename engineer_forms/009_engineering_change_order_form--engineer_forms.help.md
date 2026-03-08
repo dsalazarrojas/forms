@@ -1,14 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-This form is designed to collect information related to engineering changes, modifications, or updates to products or systems. It's intended to be used by engineers, technicians, or project managers to document and track changes, ensuring that all relevant details are captured and approved before implementation. The form will likely be used in industries such as manufacturing, construction, or software development.
-
-Before proceeding, please confirm that this form is relevant to your task or requirement. If you're unsure, consider consulting with the project lead or the relevant team to verify the form's applicability.
-
-To avoid duplication of effort, please review the form's content carefully and ensure you're not re-entering information that's already known or available elsewhere in the project documentation.
-
-</thinking>
-
 # Engineering Change Order Form - Help Guide
 ## Purpose
 The Engineering Change Order Form is designed to collect information about modifications, changes, or updates to products or systems. This form helps ensure that all relevant details are captured and approved before implementation.

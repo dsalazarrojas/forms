@@ -1,12 +1,3 @@
-<thinking>
-This form template is used for documenting and reviewing incidents that have occurred within the organization. Incidents can include accidents, near misses, or any other events that have caused or could cause harm to employees, customers, or property. The form is designed to gather information about the incident, including its date, time, location, description, cause, and effect. It also captures data on the incident reviewer's review status, review comments, and recommendations for next steps.
-
-To avoid duplication and ensure accurate incident reporting, please review the form carefully and ensure that all required fields are completed accurately and completely. If an incident has already been reviewed, please do not submit a new report.
-
-The form is divided into several sections, each focusing on a different aspect of the incident.
-
-</thinking>
-
 # Incident Review Form Template - Help Guide
 ## Purpose
 

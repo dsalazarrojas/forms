@@ -1,13 +1,3 @@
-<thinking>... This thought process involves several steps to create a user-facing help guide for the "Written Production Evaluation Rubric" form. The first step is to understand the form's purpose and the fields it contains, which will help in creating an informative and helpful guide... 
-
-The form seems to be designed for evaluating written productions, likely for educational or professional purposes. It contains fields for various aspects of the evaluation, such as rubric scores, feedback, submission details, and evaluator information... 
-
-The next step is to identify any potential redundancy or overlap in the fields, which could make the form clearer and more efficient... 
-
-Upon reviewing the form's fields, it appears that there are a few fields that could be combined or simplified, but they are still necessary for the evaluation process... 
-
-With this understanding, the thought process can now shift to creating the help guide based on the form's fields and purpose... </thinking>
-
 # Written Production Evaluation Rubric - Help Guide
 ## Purpose
 This form is designed to facilitate the evaluation of written productions, providing a structured way to gather feedback and scores for assessment and improvement purposes.

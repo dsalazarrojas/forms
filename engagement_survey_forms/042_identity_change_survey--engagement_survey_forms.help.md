@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from employees who are changing their identity. The form is designed to gather details about the change, including the old and new information, to ensure a smooth transition and maintain accurate records. This form is intended for employees who are undergoing an identity change, such as a name change, email change, or phone number change. It is recommended that employees complete this form carefully and accurately, as the information collected will be used to update relevant systems and records. Please note that this form may need to be completed multiple times if an employee has undergone multiple changes.
-</thinking>
-
 # Identity Change Survey - Help Guide
 ## Purpose
 The Identity Change Survey form is used to collect information from employees who are changing their identity, including name, email, phone number, and date of birth.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect data for the purpose of commissioning field equipment. The goal of this form is to gather information about a specific field equipment piece, including its name, tag ID, measurement point, measurement date and time, measurement value, measurement unit, and any relevant notes or comments. This form is intended for use by field staff to record data related to equipment commissioning, such as calibration, testing, or maintenance activities.
-
-To ensure that this form is used correctly, we must consider the following:
-
-*   This form should only be used for equipment commissioning purposes.
-*   The data collected in this form should be accurate and up-to-date.
-*   The form should not be used for other purposes, such as equipment maintenance or repair.
-*   The data collected should be reviewed and approved by authorized personnel before being recorded in the system.
-
-</thinking>
-
 # Field Commissioning Report Form - Help Guide
 ## Purpose
 The Field Commissioning Report Form is a tool for collecting data on field equipment commissioning activities. It is used to gather information about a specific piece of equipment, including its name, tag ID, measurement point, and other relevant details.

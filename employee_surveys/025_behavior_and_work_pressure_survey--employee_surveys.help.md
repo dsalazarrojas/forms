@@ -1,8 +1,3 @@
-<thinking>
-This form, titled "Behavior And Work Pressure Survey", is designed to gather insights from employees regarding their work experience and work pressure. The form consists of 26 questions, ranging from demographic information like employee name and department, to specific questions about job satisfaction, communication, and support from management and colleagues. The purpose of this form is to help management understand the current state of employee work pressure and suggest improvements to create a more positive work environment. Before proceeding, ensure that you are an authorized employee representative or have permission from your HR department to complete this form. Please note that responses will be kept confidential and anonymous, as specified in the "Full Name" field. If you are unsure about any question, please feel free to ask your HR representative for guidance.
-
-</thinking>
-
 # Behavior And Work Pressure Survey - Help Guide
 ## Purpose
 The Behavior And Work Pressure Survey aims to collect information about employees' experiences with work pressure and job satisfaction. This survey is designed to help management identify areas for improvement and create a better work environment.

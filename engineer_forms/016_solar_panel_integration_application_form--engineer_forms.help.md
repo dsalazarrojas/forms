@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Solar Panel Integration Application Form - Help Guide
 
 ## Purpose

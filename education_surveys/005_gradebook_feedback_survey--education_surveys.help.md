@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect feedback from teachers and staff on the performance of a teacher in a specific term. The form is designed to gather information on the teacher's feedback, rating, and follow-up actions. The goal is to ensure that teachers receive constructive feedback and guidance on their performance, which can help them improve their teaching skills. This form is likely used in an educational setting, such as a school or university, to support teacher development and evaluation.
-
-This form is designed for a specific purpose and should not be used as a generic feedback form. The fields and options should be specific to the context of teacher and staff feedback in an educational setting.
-
-Please let me know if this description is accurate. I will proceed with writing the user-facing help guide based on this description.
-
-</thinking>
-
 # Gradebook Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from teachers and staff on the performance of a teacher in a specific term. The feedback is used to provide constructive guidance and support to the teacher to help them improve their teaching skills.

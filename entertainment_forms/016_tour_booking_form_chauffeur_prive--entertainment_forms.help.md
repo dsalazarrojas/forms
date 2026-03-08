@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for booking tours, which is a crucial function for the Chauffeur Prive company. 
-This form is likely to be used internally within the company, possibly for the staff or administrators to create, manage, and monitor tour bookings. 
-However, I am unable to determine with certainty the purpose of this form or the users it is designed for without further information about this company and how it intends to use the form.</thinking>
-
 # Tour Booking Form Chauffeur Prive - Help Guide
 ## Purpose
 The Tour Booking Form Chauffeur Prive is used to book tours.

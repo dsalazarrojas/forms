@@ -1,17 +1,3 @@
-<thinking>
-A help guide for end-users should provide a clear understanding of the form's purpose, the steps to complete it, and a field-by-field explanation of each required and optional field. The form's purpose is to collect song submission information, which will be used for further processing, potentially including playtime scheduling and communication with the submitter. To prevent duplicate submissions, users should not submit the same information multiple times.
-
-To complete this form, follow these steps:
-
-1. Enter your song submission information in the fields provided.
-2. Select your preferred song genre from the options listed.
-3. Enter a valid email address in the email field to facilitate communication.
-4. Confirm your email address in the "Confirm Email" field to ensure accuracy.
-5. Optionally, provide additional information in the message field if needed.
-6. Ensure that all required fields are completed before submitting the form.
-
-</thinking>
-
 # Song Queue Submission Form - Help Guide
 ## Purpose
 

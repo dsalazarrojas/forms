@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from candidates for an open software QA tester position. The form is intended to collect basic contact information, skills, and a resume from potential candidates. The form should only be completed by individuals interested in applying for this position. To prevent duplication, please ensure that you have not already submitted an application for this position. If you are a returning candidate, please do not fill out the form again.
-</thinking>
-
 # software_qa_tester_employment_form - Help Guide
 ## Purpose
 This form is designed to collect information from potential candidates for the software QA tester position. It includes fields for contact information, skills, and resume upload.

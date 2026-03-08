@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Retail Employee Discharge Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to provide employment verification information for mortgage purposes. This form collects employment data about the employee, their employer, and their supervisor. This is a critical piece of information for mortgage underwriters, who use this information to assess creditworthiness. This form is usually submitted as part of the mortgage application process. It helps verify that the employee has a stable employment history, which can impact mortgage approval decisions.
-
-To prevent duplicate submissions, this form is meant to be submitted once for each employee. If there are multiple employees involved, please submit this form separately for each individual. 
-
-Please note that some fields may be required or optional, and it's crucial to fill it out accurately and completely to ensure a smooth and hassle-free mortgage process.
-
-</thinking>
-
 # Employment Verification Form For Mortgage - Help Guide
 ## Purpose
 

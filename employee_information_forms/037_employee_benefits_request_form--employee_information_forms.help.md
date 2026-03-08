@@ -1,7 +1,3 @@
-<thinking>
-To ensure the accuracy of the form's purpose and to prevent duplication, we must verify that the form is being used for its intended purpose and that the request hasn't already been submitted. The "employee_benefits_request_form" is designed to collect information from employees about their benefits requests. This form should only be used by employees to request benefits, such as paid time off, training opportunities, or other forms of support. Please ensure that you are an employee before submitting this form, and that you have not already submitted a benefits request in the past 30 days. If you're not an employee or have already submitted a request, please do not proceed with the form.
-</thinking>
-
 # employee_benefits_request_form - Help Guide
 ## Purpose
 The employee_benefits_request_form is a tool for employees to request benefits such as paid time off, training, or other forms of support. It is intended to be used by employees to submit their requests in a structured and organized manner.

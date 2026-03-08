@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information about a company seeking accreditation. This is likely a regulatory requirement for companies operating in a particular industry or category. The form aims to collect basic contact and company information, as well as details about the level of accreditation being requested. It's likely used to validate the legitimacy and credibility of a company within the industry.
-The form will be completed by a company representative or primary contact person.
-The form's fields are likely to be used to determine eligibility or compliance with industry standards.
-This form appears to be used internally within an organization or for initial registration purposes.
-The fields requested are comprehensive and should cover the necessary information for accreditation.
-The form's simplicity and structure suggest it's intended for ease of understanding and completion.
-</thinking>
-
 # Company Accreditation Form Template - Help Guide
 ## Purpose
 

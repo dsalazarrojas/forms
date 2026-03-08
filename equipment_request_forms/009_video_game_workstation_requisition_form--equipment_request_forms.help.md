@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Video Game Workstation Requisition Form" is used to submit a request for equipment related to video game workstations, such as video game consoles, chairs, and other gaming accessories. This form is a mandatory part of the equipment request process, and all fields must be filled out accurately for the request to be processed.
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to collect information from participants for an international dance competition. This form is likely used by event organizers or coordinators to gather essential details about each participant, including contact information, emergency contacts, and participant specifics. Before proceeding, please ensure that you are using this form for its intended purpose and that you have the necessary permissions and approvals to collect and process this data.
-</thinking>
-
 # international_dance_competition_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from participants for an international dance competition. It is intended for use by event organizers or coordinators to gather essential details about each participant.

@@ -1,6 +1,3 @@
-<thinking>
-This form will serve as an initial contact and onboarding process for new franchisees, providing essential information about themselves and their background. It helps to collect details that are crucial for the franchise management team to better understand their experience, skills, and expectations. This form is essential to create a personalized onboarding process and establish a connection with the new franchisees.
-</thinking>
 # Franchise Onboarding Survey - Help Guide
 ## Purpose
 This form is designed to gather information about new franchisees, helping the franchise management team create a tailored onboarding process and build a strong relationship with them.

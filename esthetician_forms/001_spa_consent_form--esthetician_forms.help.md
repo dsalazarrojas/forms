@@ -1,5 +1,3 @@
-<thinking>... (Internal reasoning: The "spa_consent_form" is designed to collect information from clients about their upcoming spa treatments, including procedure descriptions, client names, dates, and times. This form is meant to be a general, industry-standard template and not affiliated with any specific platform. The form's design and content are generated using AI, making it an original adaptation without copying or extracting content from other platforms. The form's purpose is to streamline communication and ensure clients provide necessary information for their treatments...)</thinking>
-
 # spa_consent_form - Help Guide
 ## Purpose
 The spa_consent_form is a template designed to collect essential information from clients about their upcoming spa treatments. This form helps facilitate clear communication and ensures clients provide necessary details for their appointments.

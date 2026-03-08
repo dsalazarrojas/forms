@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Designer Entry Form Fashion Show - Help Guide
 
 ## Purpose

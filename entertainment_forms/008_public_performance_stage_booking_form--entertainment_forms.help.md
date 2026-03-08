@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to create a user-facing help guide for the "public_performance_stage_booking_form" form. This form is used for booking a performance stage for events. The purpose of this form is to gather information from users about their preferred date and time for a performance, as well as any technical needs and contact information. This form should be filled out by users who want to book the performance stage for their event.
 
 # public_performance_stage_booking_form - Help Guide

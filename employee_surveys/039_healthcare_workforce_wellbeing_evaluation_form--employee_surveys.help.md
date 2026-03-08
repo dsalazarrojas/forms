@@ -1,9 +1,3 @@
-<thinking>
-The form is meant to evaluate the well-being of the healthcare workforce. It's a self-assessment tool for healthcare workers to gauge their current state of well-being, burnout, compassion, compassion fatigue, self-care, and workload. This form is likely used by healthcare organizations to monitor the well-being of their employees and identify areas that need improvement. It's possible that this form is part of a larger initiative to promote employee well-being and address burnout in the healthcare industry.
-Before starting, please note that this form is a template and may not be a real, live assessment tool. It's essential to review the form's purpose and questions carefully and ensure it aligns with your organization's specific needs and goals.
-This help guide is meant to be a starting point for end-users. If you have any questions or concerns about the form's purpose, please contact your supervisor or HR department.
-</thinking>
-
 # Healthcare Workforce Wellbeing Evaluation Form - Help Guide
 ## Purpose
 The Healthcare Workforce Wellbeing Evaluation Form is designed to help healthcare workers assess their current state of well-being, burnout, compassion, compassion fatigue, self-care, and workload. This form is meant to be a self-assessment tool to help workers identify areas that need improvement and provide insights for their organizations to address.

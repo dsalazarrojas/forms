@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to record attendance of students and faculty members. It is intended to be used to track whether they are present or absent on a particular date, with options to note the reason for their absence or late arrival. The form will help in maintaining accurate records of attendance, which is crucial for various administrative and academic purposes.
-
-It is essential to fill out the form correctly to avoid duplication or incorrect data entry. Please ensure that you are filling out the form for the correct purpose and date.
-
-Before you begin, please review the form carefully to understand each field's requirements and options.
-</thinking>
-
 # Students And Faculty Attendance Record Form - Help Guide
 ## Purpose
 This form is used to record the attendance of students and faculty members, including their attendance status (Present, Absent, Late, or Excused) and any notes or reasons for their absence.

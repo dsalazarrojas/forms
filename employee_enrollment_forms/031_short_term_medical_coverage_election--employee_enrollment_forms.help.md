@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow employees to elect their short-term medical coverage options. It is intended for internal use within an organization and should not be used for external purposes. The form is not affiliated with any form platform and is an original adaptation created using AI. It is released under a Creative Commons BY 4.0 license, allowing for modification and sharing of derived forms. The form's purpose is to collect information on an employee's short-term medical coverage choices. The fields included in this form are designed to gather specific information to facilitate the coverage election process. Please review the form carefully to ensure you have the necessary information to complete it accurately.
-</thinking>
-
 # Short Term Medical Coverage Election - Help Guide
 ## Purpose
 The Short Term Medical Coverage Election form is used by employees to choose their short-term medical coverage options. This form is designed to collect information on an employee's coverage choices, effective date, time of year, medical group, medical provider, and medical plan.

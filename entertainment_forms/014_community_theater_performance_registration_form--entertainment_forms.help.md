@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information from participants and crew members for a Community Theater Performance event. This form helps the event organizers to collect relevant details about each participant, including their name, role, contact information, availability, and any special requirements they may have. This information will be used to facilitate communication and organization during the event.
 
 The form is designed to be completed by participants and crew members themselves, and the information collected will be used to create a schedule and notify participants about casting, rehearsals, and other important event details.

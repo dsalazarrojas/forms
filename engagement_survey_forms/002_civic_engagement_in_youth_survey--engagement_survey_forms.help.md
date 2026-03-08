@@ -1,17 +1,3 @@
-<thinking>This form, "Civic Engagement In Youth Survey," is designed to gather information on the civic engagement habits and attitudes of young people. The form aims to collect data on various aspects of civic participation, including age, education level, community involvement, volunteer experience, and attitudes towards civic issues. This data will be used to inform civic education programs and resources.
-
-This form is intended for young people to provide their honest and personal responses. All answers will be kept confidential, and no identifying information will be collected. If you have any concerns or questions, please contact us.
-
-Before starting the survey, we kindly request that you do not answer this form if you have already completed it in the past 12 months. This will help us to avoid duplicate responses and ensure that the data collected is accurate and up-to-date.
-
-Please note that this form is only for informational purposes. The information collected will not impact your eligibility for civic programs or services.
-
-Please ensure that you answer the questions honestly and to the best of your abilities. If you need help or assistance, feel free to ask our support team.
-
-With that being said, let us begin the survey! Please follow the instructions below to complete this form.
-
-</thinking>
-
 # Civic Engagement In Youth Survey - Help Guide
 ## Purpose
 

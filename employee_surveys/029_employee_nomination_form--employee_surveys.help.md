@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Nomination Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees about their nominations for outstanding performance, dedication, or other notable achievements. This form helps to recognize and reward employees who have made significant contributions to the team or organization.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this Dental Estimate Form is to gather patient information and procedure details for the dental clinic. This form is designed to be completed by patients or their caregivers to provide necessary information for the dentist to estimate costs and procedures for their treatment. It should not be used for actual billing or payment processing.
-</thinking>
-
 # Dental Estimate Form - Help Guide
 ## Purpose
 The Dental Estimate Form is a document used to collect patient information and procedure details from patients or their caregivers for the dental clinic.

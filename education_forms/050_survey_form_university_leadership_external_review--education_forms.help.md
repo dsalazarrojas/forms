@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the university leadership from external entities, such as partners, alumni, or industry experts. It is crucial to understand the perspective of these external stakeholders in evaluating the effectiveness of the university leadership. This form should not be completed by university staff or students, as their input may be biased. Please ensure that you are not duplicating a submission, as this form is meant to collect unique and diverse perspectives. Completing this form will help the university leadership understand how they are perceived by external parties and make informed decisions to improve their leadership.
-</thinking>
-
 # Survey Form University Leadership External Review - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on the university leadership from external entities. It helps the university leadership understand their perception in the eyes of external parties, enabling them to make informed decisions to improve their leadership.

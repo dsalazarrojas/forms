@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help users prepare for disaster situations by providing a checklist to ensure they have taken necessary steps to be ready in case of an emergency. To ensure the form is completed correctly, users should be familiar with the provided options and have an understanding of the context in which the form is being used.
-
-The purpose of this form is to guide users in identifying and selecting the necessary emergency contact information and planning relevant to their situation. It will likely be used by individuals who are preparing for disasters such as hurricanes, floods, or wildfires, or for people who need to be prepared for unexpected events such as medical emergencies or power outages.
-</thinking>
-
 # disaster_preparedness_checklist_form - Help Guide
 ## Purpose
 The disaster preparedness checklist form helps individuals prepare for disasters and unexpected events by providing a comprehensive list of emergency contact information and plans.

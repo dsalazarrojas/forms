@@ -1,7 +1,3 @@
-<thinking>... the form "website_maintenance_cost_estimator" is a tool to estimate the maintenance costs of a website. It is intended to be used by non-technical users to provide information about the website they are responsible for and to estimate the potential maintenance needs and associated costs. To avoid duplication, this form is only accessible to authorized users.
-
-</thinking>
-
 # website_maintenance_cost_estimator - Help Guide
 ## Purpose
 The website_maintenance_cost_estimator is a form designed to help non-technical users estimate the potential maintenance needs and associated costs of a website. It is intended for users who are responsible for website maintenance.

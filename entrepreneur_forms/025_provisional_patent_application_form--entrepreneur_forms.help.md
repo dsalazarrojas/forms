@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from applicants interested in filing a provisional patent application. This form captures essential details about the invention, the applicant, and the application type to streamline the patent application process. It is used for internal purposes only and does not serve as a legal document. By completing this form, applicants can get a head start on their patent application and ensure all necessary information is collected and reviewed before proceeding further. 
-
-Please note that this form is not a substitute for actual legal advice and should not be relied upon as the sole means of filing a patent application. The information collected through this form will be used to initiate the patent application process, and the applicant will need to provide further details and documentation as required by applicable laws and regulations.
-
-Before proceeding, ensure that the applicant has the necessary rights and permissions to file the patent application, and that the information provided is accurate and up-to-date. 
-
-</thinking>
-
 # Provisional Patent Application Form - Help Guide
 ## Purpose
 The Provisional Patent Application Form is designed to collect essential information from applicants interested in filing a provisional patent application. This form helps to streamline the patent application process by gathering details about the invention, the applicant, and the application type.

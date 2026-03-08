@@ -1,9 +1,3 @@
-<thinking>
-To ensure that the CV application form is used correctly, please note that this form is designed for applicants to provide information about themselves for the purpose of applying for a job or position within the company. This information will be reviewed and considered as part of the application process. Please ensure that the information you provide is accurate and up-to-date. Also, note that some fields are not required, but it's still recommended to fill them out for a more comprehensive application.
-
-This form is intended for one-time use and is not designed for ongoing or repeated use. Please do not submit the same application multiple times.
-</thinking>
-
 # CV Application Form - Help Guide
 ## Purpose
 The CV Application Form is a tool for applicants to provide essential information about themselves for the purpose of applying for a job or position within the company. This information will be reviewed and considered as part of the application process.

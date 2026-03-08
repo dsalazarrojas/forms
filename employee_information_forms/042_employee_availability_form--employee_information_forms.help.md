@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect employee availability information for work purposes. It's likely used for scheduling meetings or assigning tasks to employees. The purpose of this form is to capture the employee's name, availability dates, start and end times, and any other relevant details such as the tool assigned to them and contact information.
-</thinking>
-
 # employee_availability_form - Help Guide
 ## Purpose
 This form is used to collect employee availability information for work purposes.

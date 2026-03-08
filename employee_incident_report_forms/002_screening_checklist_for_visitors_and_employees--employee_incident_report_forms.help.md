@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be completed by employees and visitors to ensure that they are properly screened before entering a secure facility or accessing certain areas of the facility. It is essential to fill out this form accurately and truthfully to maintain the safety and security of the facility. This form is intended to be used for routine screenings, but if there are any concerns or questions, please reach out to the relevant authorities.
-
-Before completing this form, please ensure that you have reviewed the provided options carefully and answered all the questions to the best of your ability. If you are unsure about any of the questions, please consult the relevant guidelines or regulations.
-
-This form is not intended to be used for any other purpose than as a routine screening tool. Any misuse or misrepresentation of the information provided will be taken seriously and may result in consequences.
-</thinking>
-
 # Screening CheckList for Visitors and Employees - Help Guide
 ## Purpose
 This form is designed to screen visitors and employees before they enter a secure facility or access certain areas of the facility. It is essential to fill out this form accurately and truthfully to maintain the safety and security of the facility.

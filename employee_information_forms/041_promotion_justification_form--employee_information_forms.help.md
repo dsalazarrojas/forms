@@ -1,5 +1,3 @@
-<thinking>Before creating this user-facing help guide, I would like to clarify the purpose of the "Promotion Justification Form" and check for potential duplicates or unnecessary information. This form appears to be used for documenting and justifying promotions within an organization. It seems to be a form for employees to provide information about their promotions, including dates, justification, and other relevant details. I'm assuming this form is used by employees or HR staff to track and review promotions within the organization. I'll create the help guide based on this understanding.</thinking>
-
 # Promotion Justification Form - Help Guide
 ## Purpose
 The Promotion Justification Form is used to document and justify promotions within the organization. It provides a standardized structure for employees to provide information about their promotions, ensuring consistency and accuracy in tracking and reviewing promotions.

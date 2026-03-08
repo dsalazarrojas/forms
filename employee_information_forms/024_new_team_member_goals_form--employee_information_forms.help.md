@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect information about new team members, focusing on their goals, progress, and performance. It's likely intended for team leads or managers to track the goals and achievements of new team members, ensuring that they are on track and meeting their objectives.
-
-Before filling out this form, ensure you have all the necessary information and permissions to complete it. If you're unsure about any field, please clarify with the relevant team member or manager. This form might be part of a larger process used for performance evaluations or goal setting within a team. Please make sure you're not duplicating efforts or providing redundant information already collected elsewhere.
-
-The form might be used in different contexts such as onboarding new team members, performance reviews, or progress tracking.
-
-</thinking>
-
 # new_team_member_goals_form - Help Guide
 ## Purpose
 The new_team_member_goals_form is designed to gather information about new team members, helping team leads and managers track their progress and performance.

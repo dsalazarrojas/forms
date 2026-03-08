@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information about a value proposition, which is a statement that communicates the value a product or service offers to its customers. The purpose of this form is to help entrepreneurs and business owners understand their product's value proposition and identify key elements that make it unique and valuable to customers. By completing this form, users will be able to:
-
-* Identify their product's value proposition and key partners
-* Understand how their product addresses customer pain points and benefits
-* Develop a clear and concise business model
-* Gather insights on revenue models and key moments that drive sales
-
-This form is part of a larger series of forms designed to help entrepreneurs and business owners develop a comprehensive business strategy. By filling out this form, users will be able to create a clear and compelling value proposition that resonates with their target audience.
-
-</thinking>
-
 # value_proposition_survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect user information for the purpose of enrollment. It is intended to be completed by users who wish to register for a tropical art program or class. The form is divided into four sections: User Information, Name, Email, and Phone. Each section is designed to collect specific information from the user. The form is not required, but it is recommended that users complete it to ensure accurate and complete information collection. Please note that this form is not intended to be used for any other purpose other than enrollment. If you are not enrolling for a tropical art program or class, please do not fill out this form.</thinking>
-
 # the_tropical_art_registration_form - Help Guide
 ## Purpose
 The the_tropical_art_registration_form is designed to collect user information for the purpose of enrollment in a tropical art program or class.

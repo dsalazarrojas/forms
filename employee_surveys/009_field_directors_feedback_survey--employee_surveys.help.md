@@ -1,7 +1,3 @@
-<thinking>
-This form is a feedback survey designed to collect input from directors on their experiences and perceptions about their managers, organization, and overall work environment. The goal is to gather valuable insights and suggestions for improvement. This form is a tool for collecting feedback and suggestions from directors, allowing the organization to identify areas for growth and development.
-</thinking>
-
 # field_directors_feedback_survey - Help Guide
 
 ## Purpose

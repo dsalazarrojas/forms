@@ -1,6 +1,3 @@
-<thinking>
-This form is used to modify an employee's benefit coverage details. It is meant to be filled out by the employee or their authorized representative when they need to request changes to their health, dental, or life insurance coverage. The form should only be filled out by employees who are already enrolled in the benefit program, and not by external users. This form should be submitted to the Benefits Team to process the requested changes. Please ensure that you have the necessary permissions to access this form.</thinking>
-
 # Benefit Coverage Modification Form - Help Guide
 ## Purpose
 The Benefit Coverage Modification Form is used to request changes to an employee's benefit coverage details. This includes modifying their health, dental, or life insurance plans, adding or removing dependents, and requesting changes to their coverage levels.

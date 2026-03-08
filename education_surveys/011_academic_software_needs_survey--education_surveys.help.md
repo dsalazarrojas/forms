@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from academic users about their current software usage, satisfaction with existing tools, and identification of new software needs. The goal is to help the institution's IT department understand the needs and requirements of users when it comes to academic software, ensuring that resources are allocated effectively to support teaching and learning activities.
-This form will help the IT department to:
-- Identify the most commonly used software tools among academic users
-- Understand the satisfaction level of users with current software offerings
-- Determine the types of software that are in high demand or need to be replaced
-- Gather input on potential new software needs and requirements
-- Provide insight on training and support needs for new software
-- Identify the primary hardware devices used to access academic software
-
-Before completing this form, please ensure that you have not already filled it out. If you are unsure about any question or need clarification, please ask your department's IT representative for guidance.
-
-Please note that some questions may have multiple answers selected, which is allowed and expected.
-</thinking>
-
 # Academic Software Needs Survey - Help Guide
 ## Purpose
 
