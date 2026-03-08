@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be for reserving a spot at a planetarium show. It likely collects information from customers or visitors to the planetarium, such as the desired show date and time, their contact information, the number of guests they are reserving for, any additional notes, and other relevant details.
-Before starting, please note that this form does not seem to have a specific limit on the number of fields, but some fields like "Customer Name", "Customer Email", "Customer Phone", "Planetarium Name", "Planetarium Location", and "Planetarium Phone" could potentially be redundant or not applicable depending on the actual use case of the planetarium.
-</thinking>
-
 # Planetarium Show Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect reservation information from customers or visitors to the planetarium for a specific show. Please fill out the form below to reserve a spot at the desired show date and time.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Recycled Packaging Certification Application Form - Help Guide
 
 ## Purpose

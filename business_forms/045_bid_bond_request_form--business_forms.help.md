@@ -1,5 +1,3 @@
-<thinking>Is the form purpose to gather information related to a bid bond request, specifically for a company to provide details about their business, contact information, project details, and bond requirements? Are there any specific fields that require clarification or have ambiguous labels?</thinking>
-
 # Bid Bond Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from companies that are requesting a bid bond. It covers various aspects of a company's business, contact information, project details, and bond requirements. This form will help ensure that all necessary information is provided to facilitate a smooth bid bond process.

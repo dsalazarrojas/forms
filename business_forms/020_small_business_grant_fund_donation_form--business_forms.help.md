@@ -1,10 +1,3 @@
-<thinking>
-This form is used for businesses to apply for the small business grant fund. 
-The purpose of this form is to gather necessary information from the business owner or representative to process their application. 
-The business owner should only submit one application per business. 
-Please note that the form is not a substitute for actual payment, this form is only for informational purposes.
-
-</thinking>
 # small_business_grant_fund_donation_form - Help Guide
 ## Purpose
 This form is used for businesses to apply for the small business grant fund.

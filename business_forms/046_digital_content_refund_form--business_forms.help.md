@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process refunds for digital content. The form is meant for customers to provide information about their purchase, including the product ID, reason for refund, and other relevant details. This form will be used to verify the refund request and process it accordingly. Please ensure that you are filling out this form for a legitimate refund request and not for any other purpose. Before filling out this form, check if you have already submitted a refund request for the same product to avoid duplication of efforts.
-</thinking>
-
 # Digital Content Refund Form - Help Guide
 ## Purpose
 The Digital Content Refund Form is used to submit a refund request for digital products purchased from our platform. This form gathers essential information to verify and process your refund request efficiently.

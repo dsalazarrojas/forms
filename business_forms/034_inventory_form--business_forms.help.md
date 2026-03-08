@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inventory_form - Help Guide
 ## Purpose
 This form is intended to collect information about products in inventory, including products and their quantities at various locations. The form will help to manage and track inventory levels.

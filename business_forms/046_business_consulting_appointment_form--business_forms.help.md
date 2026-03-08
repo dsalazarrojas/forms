@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from potential clients who are interested in seeking business consulting services. This form will help the consulting firm understand their needs and preferences for a potential engagement. The goal is to provide a clear and concise way for the client to provide their details, goals, and expectations, allowing the consulting firm to tailor their services accordingly.
-</thinking>
-
 # Business Consulting Appointment Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from potential clients to better understand their needs and preferences for a potential business consulting engagement.

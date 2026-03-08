@@ -1,7 +1,3 @@
-<thinking>
-This guide assumes the form is used for internal communication within the organization, specifically for reporting and documenting emergency situations. The purpose of the form is to gather information about the emergency status, contact information, and other relevant details. The goal is to ensure that the organization can respond effectively and efficiently in case of an emergency. This guide is for end-users who need to fill out the form to report an emergency.
-</thinking>
-
 # crisis_communication_form - Help Guide
 ## Purpose
 The crisis communication form is used for internal reporting and documentation of emergency situations within the organization.

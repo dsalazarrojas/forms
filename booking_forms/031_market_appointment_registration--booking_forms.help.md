@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from market appointment registrations, likely used for events, trade shows, or other business meetings. It's crucial to ensure that the correct vendor is listed, and the contact person's email address and phone number are accurate. The form's primary goal is to gather the essential details about the registration process, including the vendor's name, their contact information, and the person submitting the registration.
-This form will be used by internal staff for processing appointments, so it's essential to provide correct and consistent data to avoid any confusion or miscommunications. 
-Before proceeding, make sure the vendor has been previously registered, and the email and phone number are accurate to avoid any potential issues in the contact process.
-</thinking>
-
 # Market Appointment Registration - Help Guide
 ## Purpose
 The Market Appointment Registration form is used to register vendors for a market appointment, gathering essential details about the vendor, their contact information, and the person submitting the registration.

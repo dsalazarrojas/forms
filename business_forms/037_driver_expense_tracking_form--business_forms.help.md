@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to track expenses related to driving activities, such as fuel costs, tolls, and parking fees. It is intended to provide a simple and organized way for users to log their expenses, making it easier to keep track of business-related driving costs. 
-
-Before filling out this form, please ensure that you are using it for your business expenses and not for personal expenses. This will help in maintaining the accuracy and relevance of the data collected.
-
-Also, ensure that you are filling out the form for the correct expense category. The fields are designed to be straightforward, and you should not have any difficulty in identifying the correct category for each expense.
-
-</thinking>
-
 # Driver Expense Tracking Form - Help Guide
 
 ## Purpose

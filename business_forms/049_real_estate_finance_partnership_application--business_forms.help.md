@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help real estate finance partners gather information about potential partnership opportunities. The form is used to assess the capacity and goals of potential partners, their expected return on investment, and the terms of their partnership. This guide will walk you through each field in the form to help you complete it accurately and efficiently.
-</thinking>
-
 # Real Estate Finance Partnership Application - Help Guide
 ## Purpose
 The Real Estate Finance Partnership Application form is used to collect information from potential partners about their capacity, goals, investment terms, and expected return on investment. This form helps us understand their needs and requirements, enabling us to tailor our services to their needs.

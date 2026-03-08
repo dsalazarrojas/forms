@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the fuel reimbursement claims process for employees who use company vehicles for business purposes. The form is typically completed by the employee, submitted to the designated person or department, and then reviewed and approved by a higher-level individual or entity based on the submitted claim. This process ensures that all relevant information is recorded and verified before processing the claim for reimbursement.
-To avoid duplication of efforts, please verify that this form has not been completed for the same claim period before submitting it.
-</thinking>
-
 # Fuel Reimbursement Claim Form - Help Guide
 ## Purpose
 The Fuel Reimbursement Claim Form is used to document and process fuel claims for employees who use company vehicles for business purposes. It gathers essential information about the claim, including the employee's details, trip dates, mileage, fuel cost, and business purpose.

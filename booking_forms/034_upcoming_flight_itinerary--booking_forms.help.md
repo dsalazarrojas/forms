@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Upcoming Flight Itinerary - Help Guide
 ## Purpose
 This form is designed to collect information about your upcoming flights, including passenger details, flight numbers, departure airports, and flight times. It helps to keep track of your travel schedule and ensures that you don't miss any important flights.

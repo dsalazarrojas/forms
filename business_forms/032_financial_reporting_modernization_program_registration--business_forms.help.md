@@ -1,7 +1,3 @@
-<thinking> This form is for enrolling in the Financial Reporting Modernization Program, a program aimed at helping organizations streamline their financial reporting processes. This guide will walk you through the form to help you complete it accurately and efficiently. Please read this guide carefully before proceeding. If you're not sure about any field, feel free to ask for clarification.
-
-</thinking>
-
 # Financial Reporting Modernization Program Registration - Help Guide
 ## Purpose
 This form is designed to gather information from participants enrolling in the Financial Reporting Modernization Program. The program aims to modernize financial reporting processes, making it easier for organizations to manage and report their financial data.

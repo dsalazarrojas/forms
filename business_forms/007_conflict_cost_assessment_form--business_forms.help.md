@@ -1,5 +1,3 @@
-<thinking>Assessment date should be in the format "YYYY-MM-DD". Ensure that only one type of conflict is selected. If you have already filled out this form, please do not fill it out again. This form is used to assess the cost of conflicts in the workplace. Please ensure that all required fields are filled out, otherwise, the form will not submit.</thinking>
-
 # Conflict Cost Assessment Form - Help Guide
 ## Purpose
 This form is used to assess the cost of conflicts in the workplace. It helps in identifying the financial impact of conflicts on a business and provides a recommended investment in resolution.

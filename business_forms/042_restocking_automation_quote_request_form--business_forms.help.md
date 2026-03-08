@@ -1,5 +1,3 @@
-<thinking>...This form is designed to gather information for a quote request from a customer. The purpose of this form is to collect relevant details about the customer and their quote requirements. To avoid duplication, ensure you are not submitting duplicate quote requests for the same customer. Before proceeding, please review the information you have entered to ensure it is accurate and up-to-date. Please note that some fields are not required, but it is recommended to fill them out for a more comprehensive quote request...</thinking>
-
 # Resticcing automation quote request form - Help Guide
 ## Purpose
 The Resticcing automation quote request form is designed to collect information from customers for quote requests. This form helps us understand their needs and provide an accurate quote.

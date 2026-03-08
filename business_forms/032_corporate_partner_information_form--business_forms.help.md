@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a corporate partner's details. The purpose of this form is to gather essential information about the partner's company, including its name, establishment year, and contact details. This information will be used to create a comprehensive record of our corporate partners. 
-The form is likely to be used by our internal teams to verify the accuracy of the partner's information and ensure that our records are up-to-date.
-
-To avoid duplication, please ensure that you do not submit this form if you have already submitted it before.
-</thinking>
-
 # corporate_partner_information_form - Help Guide
 ## Purpose
 The corporate_partner_information_form is designed to collect essential information about a corporate partner's details.

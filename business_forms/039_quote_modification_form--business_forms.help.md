@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow customers to submit modifications to quotes, which are offers or proposals for goods or services. This form can be used by customers to inform the business of any changes they would like to make to a quote, providing a clear and structured way to communicate their needs and requests.
-
-Before completing this form, please ensure that you have the necessary information and permissions to make the modifications. This form may not be necessary if the modification can be easily resolved through other channels, such as direct communication with the customer or a different quote form. To avoid duplicating effort, please make sure that the modification request has not already been addressed.
-
-</thinking>
-
 # Quote Modification Form - Help Guide
 ## Purpose
 The Quote Modification Form is used to submit modifications to quotes, allowing customers to communicate their needs and requests clearly and efficiently.

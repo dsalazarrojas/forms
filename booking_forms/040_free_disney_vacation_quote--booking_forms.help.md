@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to gather information for booking a Disney vacation package, likely for a travel agent or a customer service representative to assist with planning a trip. This form is likely used to collect details about the customer's preferences and needs for their trip. To avoid duplication, it's likely that the form should be accessible only to authorized personnel, such as travel agents, and not directly accessible to customers.
-</thinking>
-
 # free_disney_vacation_quote - Help Guide
 ## Purpose
 The free_disney_vacation_quote form is designed to collect information about a customer's preferences and needs for a Disney vacation package. This information will be used by travel agents or customer service representatives to assist with booking and planning the trip.

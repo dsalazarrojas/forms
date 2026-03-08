@@ -1,14 +1,3 @@
-<thinking> 
-The purpose of this form is to help you organize your files in a systematic and structured way. This form will guide you in creating a checklist for your folder organization, including selecting the types of files you have, their formats, and their locations. It's essential to have a clear system for organizing your files to save time and reduce confusion.
-
-This form is not meant to be filled out by multiple users simultaneously, so there's no need to worry about conflicts or overwriting each other's work. Each field in this form has a specific purpose, and filling it out correctly will help you create a comprehensive folder organization system.
-
-You can fill out this form at your own pace, and it's okay to take a break and come back to it later. The form is designed to be user-friendly, and each field has been carefully crafted to help you get the most out of it.
-
-This form is not a time-consuming task, but rather a helpful tool to improve your file organization system. Please take your time and fill it out carefully.
-
-</thinking>
-
 # Folder Organization Checklist - Help Guide
 ## Purpose
 ## How To Complete This Form

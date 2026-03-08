@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to support employees returning to work after an illness, injury, or other absences. The purpose of this form is to collect information on the employee's status and provide a smooth transition back to work. It ensures that all necessary steps are taken to ensure the employee's well-being and productivity. Before filling out this form, consider the following:
-
-*   This form is meant to be used by employees who have been absent due to an illness or injury that has affected their ability to work.
-*   The information collected here will be used by HR and management to ensure a safe and healthy work environment for all employees.
-*   Please answer all fields honestly and thoroughly, as this information will be used to assess your current status and needs.
-*   If you have any doubts or concerns, please reach out to your HR representative for guidance.
-
-</thinking>
-
 # return_to_work_form - Help Guide
 ## Purpose
 This form is designed to help employees return to work safely and efficiently after an absence due to illness, injury, or other reasons.

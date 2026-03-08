@@ -1,8 +1,3 @@
-<thinking>
-This form is used to place orders with manufacturers for components. It is meant to gather detailed information about the order, including the order details (Order ID, Order Date, Customer information), component details (Component Category, Component Part Number, Description), shipping information (Shipping Address, City, State/Province, Postal Code, Country), and other details such as quantity, unit price, and specifications. This form is used by customers (or customers' representatives) who need to place an order with a manufacturer for specific components. It's assumed that the customer has an existing account with the manufacturer.
-Please ensure that the customer's account information is correct before proceeding with this form. If you have any existing orders or quotes, please refer to the corresponding order ID to avoid duplicate orders.
-</thinking>
-
 # Component Order Form For Manufacturers - Help Guide
 
 ## Purpose

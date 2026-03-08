@@ -1,11 +1,3 @@
-<thinking>
-This form, called "cost_audit_support_request_form", is designed to help users request support for cost audits in their organization. The form will likely be used by employees who need assistance with the cost audit process, such as requesting guidance on cost classification or help with tracking costs. The form's purpose is to collect necessary information from the user, including their request type, organization name, cost category, cost estimate, and contact information. This form will likely be used internally within the organization, so the submitted information will likely be reviewed by internal staff who will provide support for the cost audit process.
-
-Before filling out this form, please ensure that you are not duplicating a request that has already been submitted. If you are unsure, you can check with the relevant department or team to confirm.
-
-This form has multiple pages. Please complete each page thoroughly and accurately.
-</thinking>
-
 # cost_audit_support_request_form - Help Guide
 ## Purpose
 The cost audit support request form is used to request support for the cost audit process. It helps gather necessary information from users who need assistance with cost classification or tracking.

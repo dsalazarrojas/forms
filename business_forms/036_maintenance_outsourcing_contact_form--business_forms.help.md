@@ -1,13 +1,3 @@
-<thinking>
-
-Maintenance outsourcing is a process where a company hires external personnel or services to perform certain tasks or functions on their behalf. This form is used to collect contact information and scheduling preferences from customers or clients who are interested in outsourcing their maintenance tasks. By filling out this form, users can provide the necessary details to discuss their maintenance outsourcing needs with our team.
-
-The purpose of this form is to gather relevant information about the user's contact and scheduling preferences so that our team can effectively communicate and schedule meetings accordingly.
-
-Before filling out this form, please ensure that you have not filled out this form previously, and that the information you provide is accurate and up-to-date.
-
-</thinking>
-
 # Maintenance Outsourcing Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact and scheduling information from users who are interested in outsourcing their maintenance tasks.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for capturing the key details of a joint venture agreement. A joint venture agreement is a legal document that defines the terms and conditions of a partnership between two or more parties. This form will help ensure that all parties involved are on the same page and understand their roles, responsibilities, and obligations.
-
-To avoid duplication and ensure that all necessary information is captured, please make sure to fill out this form carefully and thoroughly.
-</thinking>
-
 # Joint Venture Agreement Form - Help Guide
 ## Purpose
 This form is designed to capture the essential details of a joint venture agreement, including the project name, partner participation, agreement terms, and other relevant clauses. By filling out this form, all parties involved can refer to it for a clear understanding of their mutual obligations and responsibilities.

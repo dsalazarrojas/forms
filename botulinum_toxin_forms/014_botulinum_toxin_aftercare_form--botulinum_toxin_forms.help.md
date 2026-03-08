@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's first confirm the purpose and scope of this form. This form is for aftercare procedures following botulinum toxin treatments. It's essential to ensure that patients understand the necessary precautions and guidelines for recovery. This form is a crucial tool for healthcare providers to assess the patient's understanding and adherence to aftercare instructions.</thinking>
-
 # Botulinum Toxin Aftercare Form - Help Guide
 ## Purpose
 The Botulinum Toxin Aftercare Form is designed to help patients understand and follow the necessary guidelines after receiving botulinum toxin treatments. This form will guide patients in understanding the aftercare instructions, expected side effects, and necessary precautions to take during the recovery process.

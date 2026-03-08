@@ -1,11 +1,3 @@
-<thinking>
-
-The form's purpose is to collect data for communication and planning with clients regarding paid advertisements, such as marketing campaigns or business promotions. This form is intended for clients to provide their details, including contact information and campaign specifics, which will help the business prepare and execute the paid advertisement effectively.
-
-Before proceeding with this form, please ensure that you are filling it out with the correct information and that you have not previously filled out this form for a similar purpose, to avoid duplication of effort and maintain accurate records.
-
-</thinking>
-
 # Paid Advertisement Communication Form - Help Guide
 ## Purpose
 The Paid Advertisement Communication Form is used to collect information from clients about their paid advertisement requirements, enabling us to provide accurate and efficient communication and planning.

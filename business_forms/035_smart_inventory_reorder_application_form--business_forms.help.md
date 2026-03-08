@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help businesses reorder their inventory in an efficient and organized manner. It is meant to gather necessary information from the end user to ensure that the reorder process is accurate and up-to-date. 
-The form will be used to input information about products that need to be reordered, including product ID, quantity, reorder frequency, and shipping method. This form will not be used for any other purpose.
-</thinking>
-
 # Smart Inventory Reorder Application Form - Help Guide
 
 ## Purpose

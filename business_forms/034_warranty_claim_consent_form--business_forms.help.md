@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers who are submitting a warranty claim. This form is used by the company to process and handle customer claims efficiently and effectively. Please ensure that this form is completed accurately and only once a claim is made to avoid duplication of efforts. Before filling out this form, please review the product information to ensure it is correct and the issue is genuine. If the customer has already submitted a claim, do not resubmit. This form is used for warranty claims only and not for other purposes. Please fill out the form with the required information to help us process your claim as soon as possible.
-</thinking>
-
 # Warranty Claim Consent Form - Help Guide
 ## Purpose
 The Warranty Claim Consent Form is a document that you'll need to fill out to submit a warranty claim to us. This form is used to gather essential information from you, our customer, to process and handle your claim efficiently.

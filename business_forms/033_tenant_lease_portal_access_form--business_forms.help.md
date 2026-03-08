@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to provide an easy way for tenants to request access to the portal, which is a centralized platform for managing lease-related documents and communications. This form will help identify which tenants are requesting access and what type of access they need.
-The form is used in an organizational setting where tenants may need to access certain features of the portal, and the form will help determine whether or not to grant access.
-The form does not require any specific information that is not already in the tenant's possession, as the purpose is to confirm the tenant's identity and access preferences.
-</thinking>
-
 # Tenant Lease Portal Access Form - Help Guide
 ## Purpose
 The Tenant Lease Portal Access Form is used to request access to the portal by tenants.

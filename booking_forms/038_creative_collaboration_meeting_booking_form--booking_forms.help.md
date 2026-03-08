@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to book a creative collaboration meeting with a clear and concise set of details. The form is likely used to facilitate planning and organization of such meetings within a company or organization. To ensure consistency, it's essential to use this form to book meetings across different teams or departments, avoiding confusion and miscommunication.
-
-It's essential to check for any existing form submission that has a similar meeting description, title, date, and location to prevent duplicate bookings. Ensure all required fields are completed to ensure accurate meeting booking.
-</thinking>
-
 # Creative Collaboration Meeting Booking Form - Help Guide
 ## Purpose
 This form is designed to book a creative collaboration meeting with essential details. Fill out the form to ensure accurate planning and organization of meetings across different teams or departments.

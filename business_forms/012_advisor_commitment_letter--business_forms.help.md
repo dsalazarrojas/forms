@@ -1,7 +1,3 @@
-<thinking>
-The "Advisor Commitment Letter" form is a crucial document used to establish a formal commitment from an advisor to a project or organization. This form is essential for ensuring that the advisor is aware of their roles and responsibilities, which helps in maintaining a smooth and effective working relationship between the advisor and the project team. Before proceeding, ensure that you have not completed this form previously, and it is not a duplicate submission. This form is designed to capture the advisor's details, commitment term, and roles and responsibilities.
-</thinking>
-
 # Advisor Commitment Letter - Help Guide
 ## Purpose
 The "Advisor Commitment Letter" is a formal agreement between the advisor and the project team, outlining the terms and expectations of the advisor's involvement. By completing this form, you will provide essential information that helps the project team understand your role, responsibilities, and commitment.

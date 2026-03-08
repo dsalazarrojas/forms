@@ -1,9 +1,3 @@
-<thinking>
-This form is likely for reporting incidents that resulted in injuries. The fields will guide users to provide essential information about the incident, including the date and time it occurred, the location, the details of the incident, the injured person, witnesses, and other relevant parties involved.
-
-To determine whether to use this form, consider whether it's relevant to your organization's incident reporting needs. If you're already using a similar form, there might be redundancy. Before using this form, review its fields and adapt them to your organization's specific requirements, if necessary.
-</thinking>
-
 # incident_injury_reporting_form_template - Help Guide
 ## Purpose
 This form is designed to gather information about incidents that resulted in injuries, allowing for a structured reporting process and facilitating communication among relevant parties.

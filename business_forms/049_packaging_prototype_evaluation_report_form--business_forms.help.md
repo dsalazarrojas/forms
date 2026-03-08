@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback and opinions from users on packaging prototypes. The form's purpose is to gather data on the overall impression, ease of use, and visual appeal of the packaging prototypes. This form is meant to be completed by three signers, who will provide their individual opinions and comments on the prototypes.
-</thinking>
-
 # Packaging Prototype Evaluation Report Form - Help Guide
 ## Purpose
 The Packaging Prototype Evaluation Report Form is designed to collect feedback and opinions on packaging prototypes. This form will help users evaluate and compare different packaging prototypes, providing valuable insights for product designers and developers.

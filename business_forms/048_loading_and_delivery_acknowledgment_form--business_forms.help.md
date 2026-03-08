@@ -1,9 +1,3 @@
-<thinking>
-This form is used to record and document the acknowledgment of a loading and delivery process. The form will be used by delivery personnel to report on the status of goods or materials being loaded and delivered to customers or sites. This form may be used for various types of deliveries, including loading, delivery, pickup, and other types of deliveries. It is essential to complete this form accurately to ensure that delivery information is up-to-date and consistent across all departments.
-
-Before completing this form, ensure that you are not duplicating any existing records. Check the delivery status to see if the delivery has already been reported or acknowledged. If the delivery has already been acknowledged, do not create a duplicate entry.
-</thinking>
-
 # Loading And Delivery Acknowledgment Form - Help Guide
 ## Purpose
 The Loading And Delivery Acknowledgment Form is used to document the status of goods or materials being loaded and delivered to customers or sites.

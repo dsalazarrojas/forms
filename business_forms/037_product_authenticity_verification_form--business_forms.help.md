@@ -1,23 +1,3 @@
-<thinking>
-The form appears to be designed for verifying the authenticity of products, likely for use within a business setting. The purpose of this form is to collect information about products, their types, and the details of their purchases or sales. It's possible that this form is intended for use in a B2B or B2C sales context, where product authenticity is a concern. I'll need to review the fields and their labels to better understand the form's purpose and ensure the explanations are accurate.
-
-The form contains the following fields:
-- User Information: This field likely collects contact details of the person filling out the form.
-- User Type: A select field that asks the user to categorize themselves as either 'business' or 'consumer', implying different types of customers.
-- Product Information: This field is for describing the product, likely for the user to provide a detailed description.
-- Product Type: A select field that asks the user to choose the type of product (electronic or physical).
-- Purchase Date: A date field for recording the date of purchase.
-- Purchase Time: A time field for recording the time of purchase.
-- Product Authenticity Verification: A select field to verify if the product is authentic or not.
-- Verification Date: A date field for recording the date of verification.
-- Verification Time: A time field for recording the verification time.
-- Product Image: A field for noting any images related to the product.
-- Business Information: This field is for the business information about the product's origin or seller.
-
-Given the structure and fields of the form, it seems to be designed for a specific use case within the business industry. If this form is to be used in other contexts, additional fields might need to be added or modified to suit the needs of those contexts. The form does not appear to contain any sensitive or personal data collection that would raise serious concerns under most general data protection regulations.
-
-</thinking>
-
 # product_authenticity_verification_form - Help Guide
 ## Purpose
 This form is designed to collect information and verify the authenticity of products, likely for use in B2B or B2C sales contexts.

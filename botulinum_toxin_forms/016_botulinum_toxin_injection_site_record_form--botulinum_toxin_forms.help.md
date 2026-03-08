@@ -1,9 +1,3 @@
-<thinking>
-This help guide will walk through the process of completing the Botulinum Toxin Injection Site Record Form, which is used to record information about a patient's botulinum toxin injection procedure.
-To complete this form, please make sure to follow the instructions and select all required fields. This form is used to record treatment details and is intended for medical providers and staff. Please do not attempt to complete this form if you are not authorized.
-Before filling out this form, please check if you have already recorded the patient's information in the same form in the past. This will ensure you're not duplicating information and wasting time.
-</thinking>
-
 # Botulinum Toxin Injection Site Record Form - Help Guide
 ## Purpose
 The Botulinum Toxin Injection Site Record Form is used to document the details of a patient's botulinum toxin injection procedure. This form helps providers track and record treatment information, including patient demographics, injection sites, dosages, and post-treatment instructions.

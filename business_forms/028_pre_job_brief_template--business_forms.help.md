@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for job-related activities, and it serves as a template for creating pre-job briefs in the business domain.
-</thinking>
-
 # pre_job_brief_template - Help Guide
 ## Purpose
 This form is intended to be used to collect key information about job-related activities, including company details, project descriptions, job status, job type, and assigned personnel.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Infrastructure Maintenance Tracking Form - Help Guide
 ## Purpose
 The **Infrastructure Maintenance Tracking Form** is used to collect information about maintenance tasks, schedules, and costs related to the upkeep of infrastructure. This form helps track and record essential details to ensure that maintenance activities are completed on time and within budget.

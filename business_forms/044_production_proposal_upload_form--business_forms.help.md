@@ -1,7 +1,3 @@
-<thinking>
-This form is used to upload and manage production proposals for a business or organization. It's a critical part of the project management process. Before starting, please make sure you're not duplicating work by checking if a similar proposal has already been uploaded. If you're looking to upload a proposal for a new project, please ensure that you have the necessary permissions and approvals before proceeding.
-</thinking>
-
 # Production Proposal Upload Form - Help Guide
 
 ## Purpose

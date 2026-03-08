@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to create a user-facing help guide for a form titled "Todays Mortgage Rates" that explains the form's purpose, how to complete it, and what each field means. The form collects information about a lead's mortgage preferences and details.
 
 The form's purpose is to gather information about a lead's mortgage needs and preferences. This information will be used by mortgage professionals to better understand the lead's requirements and provide personalized guidance.

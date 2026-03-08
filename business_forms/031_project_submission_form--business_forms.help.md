@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for submitting projects, likely in an educational or business setting. The form asks users to provide a title for their submission, their ideas, the project's name, a description of the project, materials used, and supplies required. This form might be used in a context where students, researchers, or professionals are submitting project ideas, proposals, or reports. To ensure consistency and quality in the submissions, it's essential that users complete this form carefully, avoiding duplication of ideas and submissions.
-</thinking>
-
 # Project Submission Form - Help Guide
 ## Purpose
 The Project Submission Form is a tool designed to collect project-related information from users. This form gathers essential details about a project, including its title, ideas, name, description, materials, and supplies required.

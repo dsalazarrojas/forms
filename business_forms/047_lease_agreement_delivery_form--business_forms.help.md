@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for a lease agreement delivery, likely for a property or rental situation. Before proceeding, please note that this form is not affiliated with any specific form platform and is an original creation based on public survey topic metadata. It is designed to be completed by a landlord or property owner to share key details about a lease agreement with a tenant or renter. The form is not intended to be a legally binding contract, but rather a template for collecting and sharing essential information.
-</thinking>
-
 # lease_agreement_delivery_form - Help Guide
 ## Purpose
 This form is designed to collect and share key information about a lease agreement, typically for a landlord or property owner to provide to a tenant or renter.

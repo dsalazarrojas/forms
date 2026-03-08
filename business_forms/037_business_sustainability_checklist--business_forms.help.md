@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll make sure to carefully read and understand the form's purpose, the fields, and the instructions provided. I'll aim to create a concise and practical guide that effectively communicates the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Business Sustainability Checklist - Help Guide
 ## Purpose
 This form is designed to assess a company's business sustainability practices across various categories. It's meant to be a self-assessment tool for companies to evaluate their own sustainability performance, identify areas for improvement, and make informed decisions to reduce their environmental, social, and governance (ESG) impact.

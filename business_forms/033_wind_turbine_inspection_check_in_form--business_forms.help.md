@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the status of a wind turbine, including its location, current condition, last maintenance date, next scheduled maintenance date, and performance. This form is designed to be completed by wind turbine operators or maintenance personnel to provide accurate and up-to-date information about the turbine's status. The form is used for internal record-keeping and to facilitate communication between teams or departments within an organization.
-
-Before completing this form, please ensure that you have the necessary permissions or access rights to access and update the turbine's information. The information collected will be used to track the turbine's status and maintenance history, and may be used for future planning and decision-making.
-
-This form should not be used for duplicate entries. If you have previously submitted a form for this turbine, please do not resubmit. Instead, update the existing record with new information.
-
-</thinking>
-
 # Wind Turbine Inspection Check In Form - Help Guide
 ## Purpose
 This form is used to record the current status of a wind turbine, including its location, condition, maintenance history, and performance.

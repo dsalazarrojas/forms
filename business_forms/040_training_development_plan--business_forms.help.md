@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I will analyze the fields and labels provided in the input YAML. The form is called "Training Development Plan" and has a series of fields that suggest it is used to plan and document training programs for organizations. The fields include sections on training goals, objectives, target audience, training period, duration, schedule, methods, evaluation, and cost. This form is likely used by trainers, training managers, or human resources professionals to create a comprehensive plan for training programs.
-
-This form does not appear to be a duplicate of other forms in the organization, as the fields and labels are unique and specific to the topic of training development. However, further verification would be necessary to confirm this assumption.
-
-</thinking>
-
 # Training Development Plan - Help Guide
 ## Purpose
 The "Training Development Plan" form is used to create a comprehensive plan for training programs, including details on goals, objectives, target audience, and resources.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for corporate housing lease booking, used for managing reservations for short-term or long-term corporate housing. It's likely used in industries such as real estate, hospitality, or travel management. Ensure the form is not duplicated in the help guide, and that users understand the purpose and fields.
 
 </thinking>

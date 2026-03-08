@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information from users about software requisitions, which are formal requests for software or IT solutions within an organization. The form helps ensure that all relevant details are captured, making it easier to evaluate and fulfill the request. 
-</thinking>
-
 # recruitment_software_requisition_form - Help Guide
 ## Purpose
 The recruitment_software_requisition_form is a tool used to gather information about software or IT solutions needed within an organization. It helps to clarify and document the requirements, making it easier to find the right solutions and allocate resources effectively.

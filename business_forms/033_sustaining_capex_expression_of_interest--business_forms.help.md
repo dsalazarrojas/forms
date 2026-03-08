@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Sustaining Capex Expression Of Interest" form, I'll need to understand the form's purpose and the fields it contains. The form seems to be related to project management and investment, likely for a business setting. The fields suggest that the form is for submitting project ideas, justifications, and budget information for potential investments.
-
-The form contains multiple fields, including text fields for project idea, justification, and project rationale; select fields for department, business case, cost centre, project team, project location, project status, budget category, and project rationale; and note fields for project justification and cost centre justification. The form appears to be used for submitting proposals or ideas for new projects or investments within the company.
-
-To create a user-facing help guide, I'll focus on explaining each field's purpose, ensuring that users understand the form's overall purpose and how to complete it accurately.
-
-</thinking>
-
 # Sustaining Capex Expression Of Interest - Help Guide
 ## Purpose
 This form is for submitting project ideas, justifications, and budget information for potential investments within the business. It's a means to propose new projects or initiatives that can benefit the company.

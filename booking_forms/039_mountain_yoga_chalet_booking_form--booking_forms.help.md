@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This form is intended to be used by customers to book a mountain yoga chalet, which suggests a unique and potentially complex environment that requires specific arrangements and preparations. To ensure the form is being used correctly, the internal reasoning block checks for relevance and non-duplication.
-The form is used to collect booking information for the Mountain Yoga Chalet, a specific type of venue that requires special arrangements. The form should only be used for this purpose to avoid confusion and potential misbooking.
-</thinking>
-
 # Mountain Yoga Chalet Booking Form - Help Guide
 
 ## Purpose

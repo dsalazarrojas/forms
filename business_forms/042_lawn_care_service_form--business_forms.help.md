@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is for recording and managing lawn care services provided to customers. It will collect information on customer details, service type, dates, times, and payment details, which will be used for internal record-keeping and billing purposes.</thinking>
-
 # Lawn Care Service Form - Help Guide
 ## Purpose
 This form is designed to collect information about the lawn care services provided to customers, including customer contact details, service type, dates, times, payment details, and notes. The information collected will be used for internal record-keeping and billing purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to track the daily attendance of visitors at the library. This form is designed to collect information about visitors, their attendance, and any additional comments or notes.
 
 To complete this form, follow these steps:

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be an Annual Compliance Review for Brokers. The purpose of this form is to gather information from brokers on their compliance status. This includes reviewing their registration status, licenses held, continuing education completed, regulatory disclosures, customer complaints, outside business activities, financial disclosures, criminal disclosures, compliance training, policy acknowledgment, and attestation.
-
-The form will help in identifying potential issues and risks that need to be addressed, and will aid in ensuring that brokers are meeting all regulatory requirements.
-</thinking>
-
 # Annual Compliance Review For Brokers - Help Guide
 ## Purpose
 This form is designed to gather information from brokers on their compliance status and ensure they are meeting all regulatory requirements.

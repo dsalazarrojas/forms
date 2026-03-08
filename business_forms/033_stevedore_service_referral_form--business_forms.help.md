@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # stevedore_service_referral_form - Help Guide
 ## Purpose
 The stevedore_service_referral_form is a form used to refer a service to other businesses or organizations. It is designed to collect relevant information about the service provided and the contact person or organization involved. This form helps in maintaining a database of services and contacts for future reference.

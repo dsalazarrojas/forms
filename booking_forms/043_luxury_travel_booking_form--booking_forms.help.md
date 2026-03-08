@@ -1,6 +1,3 @@
-<thinking> 
-We should confirm that the form's purpose is to collect information from customers for luxury travel booking, and that this form is not a duplicate of any other form. This form is intended for users who have already selected a travel agency, and are now able to provide more detailed information about their travel preferences, such as destination, travel type, and budget. We will not be collecting any redundant data. This form is a crucial part of the travel booking process and must be completed accurately and thoroughly. We are confident that the form's fields are well-structured and logical.</thinking>
-
 # Luxury Travel Booking Form - Help Guide
 ## Purpose
 The luxury travel booking form is designed to collect detailed information from customers about their travel preferences and requirements. This information is essential for booking their luxury travel experience.

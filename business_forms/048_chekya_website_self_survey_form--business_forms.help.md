@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help potential clients assess their needs and preferences for a website. The form is meant to gather information about the client's business, such as its industry, primary purpose, expected website traffic, and budget. The form also includes questions about the client's needs and preferences for features like e-commerce, blogging, and customer portals. The purpose of this form is to ensure that Chekya can tailor their website design and development process to meet the client's specific needs and expectations. This form will help us understand the client's goals, budget, and requirements so we can provide an accurate assessment of which Chekya version (Starter, Pro, or Enterprise) is the best fit for their needs.
-
-</thinking>
-
 # Chekya Website Self Survey Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Schedule C Form For Business - Help Guide
 ## Purpose
 The Schedule C Form For Business is a form designed to collect important information about your business. This form is used for [insert business purpose here, e.g., tax purposes, business registration, etc.]. Please ensure you have all necessary information before completing this form.

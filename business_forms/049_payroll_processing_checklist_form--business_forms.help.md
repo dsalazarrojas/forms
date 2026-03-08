@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # payroll_processing_checklist_form - Help Guide
 
 ## Purpose

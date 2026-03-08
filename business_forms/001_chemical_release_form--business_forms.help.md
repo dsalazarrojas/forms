@@ -1,5 +1,3 @@
-<thinking>... This form is intended to collect information about chemical releases that have occurred at a facility or business site. It is used by the facility's safety team to report incidents and ensure that necessary actions are taken to contain and mitigate the effects of the release. This form should only be used for reporting new incidents, and not for revising or editing existing ones. Before completing this form, please ensure that you have reported all necessary information accurately and thoroughly. If you need assistance or have questions, please reach out to the safety team. ...</thinking>
-
 # Chemical Release Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about chemical releases that have occurred at a facility or business site, allowing the safety team to respond promptly and effectively.

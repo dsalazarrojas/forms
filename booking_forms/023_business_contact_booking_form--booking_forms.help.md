@@ -1,7 +1,3 @@
-<thinking>
-This form is used for booking a meeting or contact with a business contact. The purpose of this form is to gather necessary information to facilitate a successful meeting. This form is meant to be filled out by business contacts who wish to schedule a meeting or discussion. Please do not submit this form if you are an internal user.
-</thinking>
-
 # Business Contact Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from business contacts who wish to schedule a meeting or discussion with your team.

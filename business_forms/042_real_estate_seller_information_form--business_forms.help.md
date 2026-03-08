@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_seller_information_form - Help Guide
 ## Purpose
 This form is used to collect information about a real estate seller, including contact details, listing details, and property specifics. It is intended for use when listing a property for sale or rent.

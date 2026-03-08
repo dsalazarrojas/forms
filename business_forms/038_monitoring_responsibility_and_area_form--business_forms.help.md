@@ -1,10 +1,3 @@
-<thinking> 
-This form is used to track and monitor responsibilities and areas within an organization. The form is designed to capture various details about monitoring responsibilities, such as the ID of the monitoring zone, the start and end dates, and the name and type of the monitoring responsibility. It also captures details about the assigned user, including their email and phone number. The form is used to ensure that monitoring responsibilities are accurately recorded and tracked.
-
-This form is part of a larger system for monitoring and managing responsibilities within the organization.
-
-</thinking>
-
 # monitoring_responsibility_and_area_form - Help Guide
 ## Purpose
 The "monitoring_responsibility_and_area_form" is used to track and monitor responsibilities and areas within an organization. It captures various details about monitoring responsibilities, including zones, start and end dates, responsibility name, and type, as well as the assigned user's name, email, and phone number.

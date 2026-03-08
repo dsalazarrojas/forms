@@ -1,7 +1,3 @@
-<thinking>
-This form is a collection of fields that are used to gather information for evacuation routes in a building. The purpose of this form is to gather data on the building inspector's role and the efficiency of the evacuation routes. The building inspector forms are used for data collection and reporting, and the form is designed for the building inspector to efficiently collect and report data. This form is part of the larger category of building inspector forms, and it is not a duplication of other forms, as it serves a specific purpose. The form has multiple fields that ask the building inspector to select multiple options, select a single option, enter text, or leave a note. Each field has a specific label and description that guides the inspector to provide accurate and relevant information. The building inspector forms are used for data collection and reporting, but they are not a substitute for other forms that serve different purposes. This form is a tool for the building inspector to efficiently collect and report data on evacuation routes in the building.
-</thinking>
-
 # Emergency Evacuation Route Audit Application Form - Help Guide
 ## Purpose
 The Emergency Evacuation Route Audit Application Form is a tool for building inspectors to collect and report data on evacuation routes in a building.

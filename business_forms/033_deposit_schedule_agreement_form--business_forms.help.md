@@ -1,7 +1,3 @@
-<thinking>
-This form is a Deposit Schedule Agreement Form, which is a document used to establish a schedule for deposits to be made towards a specific financial goal. It appears to be designed for multiple participants, each with their own signature block and options for payment terms and frequency. This form likely serves as a contract between parties to agree on a schedule for deposit payments, with the option to specify different types of deposits and payment terms. This is likely used in business or financial settings. Before creating this guide, we will review and refine the form's fields to ensure clarity and accuracy.
-</thinking>
-
 # Deposit Schedule Agreement Form - Help Guide
 ## Purpose
 This form is used to establish a deposit schedule agreement between participants. It outlines the terms and frequency of payment, as well as the type of deposit and other relevant details.

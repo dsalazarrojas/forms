@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a supplier's credit assessment request for business purposes. This form is designed to collect data related to the supplier's contact details, credit limit, payment terms, bank account, and bank routing number. This information is likely to be used by the buyer or procurement team to evaluate the supplier's creditworthiness and assess their potential for payment and delivery. The form is structured to gather specific information, such as address, contact person, contact number, and contact email, to ensure accurate communication and identification of the supplier. The form also aims to capture the supplier's type, which can be local, international, or both, to categorize their scope of business. The form is intended to be used by business users to request credit assessments and evaluate potential suppliers.
-
-This form is not a formal credit application or a financial assessment tool. It is an informal request for credit assessment, used for general business purposes. The buyer or procurement team will use this information to make a decision on whether to grant or deny credit to the supplier. The form is designed to be simple and easy to fill out, and all fields are required to ensure that the information is comprehensive and accurate.
-
-Before filling out this form, please ensure that the information provided is accurate and up-to-date. The form should not be used for any other purpose than credit assessment. Please note that the supplier type field is crucial in categorizing the supplier's scope of business and should be filled out accordingly.
-
-</thinking>
-
 # Supplier Credit Assessment Request Form - Help Guide
 ## Purpose
 The Supplier Credit Assessment Request Form is a tool designed to collect information about a supplier's credit assessment request for business purposes. This form is used to gather data on the supplier's contact details, credit limit, payment terms, bank account, and bank routing number.

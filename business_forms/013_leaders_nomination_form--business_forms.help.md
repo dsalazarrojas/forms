@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for nominating leaders within an organization. Nominations can be for any individual, but typically it's for individuals in leadership positions within the organization. The form collects information about the nominee, nominator, and details about the nomination itself. Please make sure to provide the correct information for each field and ensure the form is not used to nominate individuals multiple times. Nominate only individuals you are aware of and have a reasonable understanding of their qualifications. Please do not self-nominate or nominate individuals you do not know or have a personal relationship with.
-</thinking>
-
 #ประก Leaders Nomination Form - Help Guide
 ## Purpose
 This form is used to collect nominations for leaders within an organization. It helps recognize and appreciate individuals who have made significant contributions to the organization's success.

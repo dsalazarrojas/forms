@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for advertising agreements between aesthetics clinics and their respective publishers/agents. This document outlines the terms and conditions for a campaign, including the parties involved, campaign duration, ad format, and payment terms. The form aims to ensure that both the clinic and the publisher understand their responsibilities and obligations. Before proceeding, verify that this form accurately reflects your specific agreement and circumstances. This document is a general guide and may require modifications to fit your unique needs.
-</thinking>
-
 # Aesthetics Advertising Agreement - Help Guide
 
 ## Purpose

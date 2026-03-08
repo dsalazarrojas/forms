@@ -1,11 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to help sports organizations conduct a SWOT analysis, which is a framework used for strategic planning and decision-making. SWOT stands for Strengths, Weaknesses, Opportunities, and Threats. This form guides you through identifying your organization's internal and external strengths, weaknesses, opportunities, and threats, which are essential inputs for developing effective strategies.
-
-Please ensure that you're not already familiar with the SWOT analysis, as this form is not a duplicate or a copy of any other form.
-
-Before proceeding, take a moment to review each field and understand what you'll need to fill out. This will ensure that you provide accurate and relevant information, which will help you get the most out of this analysis.
-</thinking>
-
 # SWOT Analysis For Sports Organizations - Help Guide
 ## Purpose
 The SWOT analysis is a strategic planning tool that helps sports organizations identify their internal and external strengths, weaknesses, opportunities, and threats. By filling out this form, you'll be able to:

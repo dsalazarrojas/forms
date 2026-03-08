@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for the purpose of processing insurance claims. It is meant to gather relevant details from both the claimant and the agent involved in the claim, including contact information, claim details, and supporting documents. The form's purpose is to provide a comprehensive overview of the insurance claim, making it easier for the processing and evaluation process. This form is a critical component in the insurance claim processing workflow, and accuracy in filling it out is crucial to ensure a smooth and efficient handling of the claim.
-
-Please note that this form may be used in conjunction with other forms or documents in the insurance claim process. It is essential to ensure that you are filling out the correct form and providing accurate information to avoid duplication of effort and potential errors.
-
-Before proceeding, please review the form carefully and ensure that you understand what each field represents. If you have any questions or concerns, do not hesitate to reach out to the relevant authorities or support personnel for clarification.
-
-</thinking>
-
 # Insurance Claim Processing Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information for the purpose of processing insurance claims, gathering relevant details from both the claimant and the agent involved in the claim.

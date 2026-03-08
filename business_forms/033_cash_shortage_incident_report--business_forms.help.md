@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to report a cash shortage incident in a business setting. It is used to document the details of the incident, including the date and time it occurred, the location where the shortage happened, the employee responsible for the register, and the details of the shortage, such as the expected and actual cash balances. The form is typically completed by the employee who reported the shortage and is used to investigate and resolve the issue.
-
-Before completing this form, please note that it is a mandatory field and is required for all cash shortages. If this is a recurring incident, please ensure that this is a new entry and not a duplicate of a previously reported incident.
-
-</thinking>
-
 # Cash Shortage Incident Report - Help Guide
 ## Purpose
 This form is used to document a cash shortage incident in a business setting, ensuring that the necessary information is collected and recorded accurately and promptly.

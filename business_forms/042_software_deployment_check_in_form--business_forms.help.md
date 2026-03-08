@@ -1,5 +1,3 @@
-<thinking>Software deployment check-in forms are crucial for businesses to stay organized and up-to-date with their IT infrastructure deployments. This form ensures that all necessary details are captured and documented for the deployment process. The following guide will walk you through how to complete this software deployment check-in form, ensuring that you have a clear understanding of the current deployment status, onboarding date, user impact, and other relevant information. Please ensure you are using this form for its intended purpose and in accordance with your business's standard operating procedures.</thinking>
-
 # software_deployment_check_in_form - Help Guide
 ## Purpose
 This form is designed for documenting and tracking software deployment information, including current deployment status, onboarding date, user impact, and other relevant details. It helps maintain transparency and organization within your organization.

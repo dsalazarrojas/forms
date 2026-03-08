@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tip Pool Agreement Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to track and manage inventory levels for subscription-based products or services. The form will help users set up and maintain inventory tracking parameters for their products, including the stock level, quantity, reorder level, lead time, ordering schedule, reorder frequency, reorder point, reorder quantity, unit price, reorder level type, and reorder level value.
-
-This form should only be used to create or update inventory tracking subscriptions for products. Please ensure that all required fields are filled in accurately to avoid errors.
-
-</thinking>
-
 # inventory_tracking_subscription_form - Help Guide
 ## Purpose
 This form is used to track and manage inventory levels for subscription-based products or services.

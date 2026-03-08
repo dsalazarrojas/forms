@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by building inspectors for the purpose of creating inspection reports. The inspector will need to provide information about the inspected building/structure, such as its location, condition, and any issues or problems found during the inspection. The form will have multiple sections that cover different aspects of the inspection, including general information, detailed descriptions, and specific findings. This form is intended to be used for internal tracking and reporting purposes and will not be shared externally.
-</thinking>
-
 # Inspection Report Form - Help Guide
 ## Purpose
 This form is designed to help building inspectors collect and document information about buildings and structures during inspections. The information gathered will be used to track and report findings, issues, and other relevant details.

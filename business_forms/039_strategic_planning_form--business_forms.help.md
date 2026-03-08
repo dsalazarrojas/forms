@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to help business stakeholders create a comprehensive strategic plan. This form captures long-term goals, strategies, goals and objectives, target audience, and timeline for the strategic planning process. 
-Before creating this form, ensure that you are familiar with our organization's existing strategic plans and goals. This will help you align your answers with the overall organizational goals. 
-</thinking>
-
 # Strategic Planning Form - Help Guide
 ## Purpose
 The Strategic Planning Form is designed to help business stakeholders create a comprehensive strategic plan for our organization.

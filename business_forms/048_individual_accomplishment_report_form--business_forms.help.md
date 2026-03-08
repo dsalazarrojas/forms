@@ -1,19 +1,3 @@
-<thinking>
-The "Individual Accomplishment Report Form" is a tool used to document and showcase an employee's accomplishments and progress in their work. It is a key component of the performance evaluation and development process. Before filling out this form, ensure that you have reviewed your work progress and are prepared to provide a detailed account of your achievements, challenges, and lessons learned during the reporting period.
-
-This form is designed to gather information on various aspects of your work, including projects you've worked on, your job title, and your manager's contact information. Please note that some fields are optional, but providing as much detail as possible will help create a comprehensive report.
-
-Before starting, make sure to have the following information ready:
-
-* Your current and past work units
-* Project IDs and codes
-* Accomplishments and key results achieved
-* Challenges and obstacles faced
-* Lessons learned and recommendations for improvement
-* Manager's contact information
-
-</thinking>
-
 # Individual Accomplishment Report Form - Help Guide
 
 ## Purpose

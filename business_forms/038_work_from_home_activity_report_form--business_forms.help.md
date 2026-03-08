@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture an employee's work from home activity report, which includes business trips, work from home status, personal notes, date, time worked, total work hours, number of breaks, and business meetings. The goal of this form is to gather essential information from employees for HR or management to review and track their work-from-home activities. Before you begin, please ensure that you are using this form for its intended purpose and not duplicating other reports or forms. Ensure that you are using the "Work From Home Activity Report Form" for the correct date range, as it might not cover all your work-from-home activities in the specified period.
-</thinking>
-
 # Work From Home Activity Report Form - Help Guide
 ## Purpose
 The Work From Home Activity Report Form is designed to collect information from employees about their work from home activities, allowing HR or management to track and review their work from home status, meetings, and work hours.

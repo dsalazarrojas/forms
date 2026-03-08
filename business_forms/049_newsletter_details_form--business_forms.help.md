@@ -1,7 +1,3 @@
-<thinking>
-The Newsletter Details Form is a tool used to collect information about an individual or organization interested in receiving a newsletter. It is likely to be used in a business setting, such as when a company or organization is sending out a periodic newsletter to subscribers. The form collects personal and company information to better understand who the newsletter is being sent to, and what they are interested in.
-</thinking>
-
 # Newsletter Details Form - Help Guide
 ## Purpose
 The Newsletter Details Form is a tool used to collect information about an individual or organization interested in receiving a newsletter. It is used to gather personal and company information to better understand who the newsletter is being sent to, and what they are interested in.

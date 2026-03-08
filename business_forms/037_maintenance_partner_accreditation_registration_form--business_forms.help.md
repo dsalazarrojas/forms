@@ -1,5 +1,3 @@
-<thinking>...This form is designed to register a maintenance partner with our organization for the purpose of maintaining our facilities. This form is not intended for emergency repairs or urgent maintenance requests. Please ensure that you have a valid email address and phone number to facilitate communication with our team. To avoid duplication, please check our list of registered maintenance partners before submitting this form. If you are already registered, you will not need to complete this form again. If you are unsure about your registration status, contact our team to verify. Please complete all required fields to ensure successful submission... </thinking>
-
 # Maintenance Partner Accreditation Registration Form - Help Guide
 ## Purpose
 The Maintenance Partner Accreditation Registration Form is used to register a maintenance partner with our organization for the purpose of maintaining our facilities. This form is not intended for emergency repairs or urgent maintenance requests.

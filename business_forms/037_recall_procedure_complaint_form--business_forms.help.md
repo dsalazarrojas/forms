@@ -1,15 +1,3 @@
-<thinking>...I'll create a comprehensive help guide for the "recall-procedure-complaint-form" based on the provided YAML fields. To ensure the form's purpose and context are understood, let's first consider the internal reasoning behind this form... 
-
-The "recall-procedure-complaint-form" is designed to collect information about product returns and complaints from customers. The form likely aims to facilitate efficient handling of return requests, ensuring that customers' queries are addressed and products are processed correctly. By analyzing the form fields, it's clear that the primary goals are:
-
-1.  To gather essential customer information and return details.
-2.  To determine the reason for return and resolve the issue promptly.
-3.  To track the status of the return and update customers on the process.
-
-The form also appears to be designed for both in-store and online returns, with options for customers to select the method of return. This form should cater to various scenarios and provide customers with a structured way to communicate their issues.
-
-</thinking>
-
 # recall-procedure-complaint-form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about product returns and complaints from customers to facilitate efficient handling of return requests and resolve issues promptly.

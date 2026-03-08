@@ -1,9 +1,3 @@
-<thinking>Here's a brief internal explanation of the form purpose and checks for relevance and non-duplication:
-
-This form is designed to collect contact information and project details from customers who are interested in researching market entry opportunities. The form is not intended for internal employees or partners, but rather for external individuals or companies looking to enter new markets. To ensure that the form serves its purpose and does not get filled out by non-relevant users, we will review submissions based on the provided project status and project type. We will also check for duplicates to avoid sending the same information to the wrong people.
-
-</thinking>
-
 # Market Entry Research Consulting Contact Form - Help Guide
 ## Purpose
 The Market Entry Research Consulting Contact Form is designed to collect contact and project information from customers interested in researching market entry opportunities.

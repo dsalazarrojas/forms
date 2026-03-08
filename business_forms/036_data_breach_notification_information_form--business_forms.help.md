@@ -1,11 +1,4 @@
-### <thinking>... 
-This form is likely designed for organizations to report incidents of data breaches or unauthorized access to sensitive information. The form collects information about the incident, including details about the affected individuals, systems, and methods of notification. The primary goal of this form is to gather essential data to facilitate the investigation and resolution of these incidents. 
-
-The form appears to be structured for a specific business process within the organization, and each field has a distinct label and type that corresponds to a particular aspect of the data breach incident. For example, fields for individual names, dates, and social security numbers are likely intended to collect specific information about the affected individuals. Fields for categories and methods of breach notification suggest that the organization is tracking the type and scope of the incident.
-
-</thinking>
-
-# Data Breach Notification Information Form - Help Guide
+### # Data Breach Notification Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about data breaches or unauthorized access to sensitive information, helping to facilitate investigation and resolution.
 

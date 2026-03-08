@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect individual information from program management office members. This form ensures that each member can provide an accurate and up-to-date self-assessment. Please note that this form is for internal use within the program management office, and responses will only be shared within the organization. Ensure that you provide accurate and complete information to avoid duplication of effort.
-
-</thinking>
-
 # Individual Self-Assessment Form For Program Management Office - Help Guide
 ## Purpose
 

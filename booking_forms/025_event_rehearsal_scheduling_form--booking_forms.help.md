@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help event coordinators schedule a successful event. It captures essential information about the event, including the date and time it will take place, the duration, participants, and a description of the event. This form reduces the likelihood of duplicate events being scheduled on the same date and time, and ensures that all relevant details are captured.
-
-</thinking>
-
 # event-rehearsal-scheduling-form - Help Guide
 ## Purpose
 The event-rehearsal-scheduling-form is designed to collect information about an event's date, time, duration, participants, and description. This form helps ensure that all necessary details are recorded accurately and reduces the chance of scheduling conflicts.

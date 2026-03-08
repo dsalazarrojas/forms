@@ -1,9 +1,3 @@
-<thinking>
-
-The Customer Check In Form is intended to gather basic information about customers visiting a business. This form helps the business to understand who is checking in, why they are visiting, and how to follow up with them after the visit. It is likely to be used at the entrance of a business, such as a restaurant, hotel, or retail store. 
-
-</thinking>
-
 # Customer Check In Form - Help Guide
 ## Purpose
 This form is used to collect information about customers checking in at your business. It includes fields for reservation information, reason for visit, name, and email. The form is designed to be quick and easy to complete, and the information collected can be used to improve customer service and follow-up interactions.

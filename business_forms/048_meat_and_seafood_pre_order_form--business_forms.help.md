@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Meat And Seafood Pre Order Form - Help Guide
 ## Purpose
 The Meat And Seafood Pre Order Form is used to collect information from customers for their meat and seafood pre orders. This form helps to gather the necessary details such as customer information, delivery date, order details, contact phone number, email, and order total.

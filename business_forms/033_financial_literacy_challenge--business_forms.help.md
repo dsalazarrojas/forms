@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess financial literacy among users by gathering information on their personal and financial background. The form is part of a broader financial education program aiming to improve users' financial knowledge and decision-making skills. 
-
-The form collects data on the user's name, email, phone number, date of birth, income, savings, financial knowledge areas of interest, and a note for any additional information. The data collected will be used to provide personalized financial recommendations and guidance to users.
-
-The form will be completed by users who are interested in improving their financial literacy and knowledge. It is essential to ensure that the form is filled out accurately and completely to get the most relevant information and personalized advice. If users have any questions or concerns about the form, they can reach out to the support team.
-
-</thinking>
-
 # Financial Literacy Challenge - Help Guide
 ## Purpose
 The Financial Literacy Challenge is a form designed to help users improve their financial knowledge and decision-making skills. It collects personal and financial information to provide users with personalized financial recommendations and guidance.

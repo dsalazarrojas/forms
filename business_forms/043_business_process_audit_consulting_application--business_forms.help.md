@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for businesses to submit an application for a business process audit consulting service. The form gathers information about the company requesting the audit, including their name, size, primary contact, and industry sector. It also collects details about the audit scope, specific challenges, and expected outcomes. The form is intended to help the consulting service understand the company's needs and provide tailored services. To ensure accuracy, please fill out this form carefully and thoroughly. You are not required to fill out all fields, but please provide as much information as possible.
-</thinking>
-
 # Business Process Audit Consulting Application - Help Guide
 
 ## Purpose

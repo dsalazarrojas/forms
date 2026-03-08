@@ -1,8 +1,3 @@
-<thinking>
-This form is used to submit a request for reprinting a team media kit.
-The form is part of the Business Forms category. It is used for internal purposes and not intended to be publicly available. The form should only be accessible to authorized personnel. 
-</thinking>
-
 # teamMediaKitReprintOrderForm - Help Guide
 ## Purpose
 This form is designed to request a reprint of a team media kit for internal use. It is essential to ensure that the form is completed accurately and thoroughly to facilitate the reprinting process.

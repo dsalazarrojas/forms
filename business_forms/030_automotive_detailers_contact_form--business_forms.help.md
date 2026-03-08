@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be designed for customers to provide information about their vehicle, including contact details, vehicle specifics, and service preferences. The form includes several sections, including customer information, vehicle details, vehicle condition, vehicle appointment, and pricing and special requests. The required fields seem to be focused on capturing essential contact details, vehicle specifics, and basic service preferences.
-
-It's worth noting that the form does not include any fields for payment or payment method, which might be an oversight in terms of capturing necessary payment information. However, this form does collect a wide range of data that can be used to provide personalized services to customers.
-
-Some fields, such as "Specific Services Requested" and "Additional Notes" allow for free-text input, which could be beneficial for capturing custom requests or special instructions from customers. However, it might be worth considering adding more specific fields for capturing additional services or requests, such as a checkbox for "Free Pickup and Delivery" or a dropdown for "Special Requests".
-
-Upon reviewing the form, it seems like it is comprehensive in its scope and covers most aspects of what a customer might need to provide to receive detailing services. 
-
-</thinking>
-
 # Automotive Detailers Contact Form - Help Guide
 
 ## Purpose

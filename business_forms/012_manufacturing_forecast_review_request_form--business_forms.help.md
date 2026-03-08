@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is used to collect data for the manufacturing forecast review process. It is essential to ensure that the form is completed correctly to avoid duplication of effort and minimize errors. Please review the form fields carefully and make sure to complete each field with the correct information to ensure that the review process is efficient and accurate.</thinking>
-
 # Manufacturing Forecast Review Request Form - Help Guide
 ## Purpose
 The Manufacturing Forecast Review Request Form is a tool used to collect data for the manufacturing forecast review process. It helps the team to efficiently gather and review data for the production planning and management process.

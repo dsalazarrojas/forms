@@ -1,11 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information for the Quarterly Schedule Submission. 
-It is designed to gather data from employees for their quarterly plans and schedules. The form may be used internally within the organization to monitor and manage employee workload and progress.
-It is recommended to complete this form accurately and thoroughly to ensure that the submitted information is correct and up-to-date. 
-
-If you have previously submitted a Quarterly Schedule Submission form, please ensure that you are using the correct version. If there are any changes, please make the updates in this new version.
-</thinking>
-
 # Quarterly Schedule Submission - Help Guide
 
 ## Purpose

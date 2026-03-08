@@ -1,10 +1,3 @@
-<thinking>
-This form is for capturing information for a participant in a Zoom meeting or other Zoom-related activity. The purpose of this form is to collect contact information and emergency contact information for the participant, as well as to get their signature of acknowledgment. This form is likely to be used for compliance, liability, or legal reasons.
-
-Before we begin, we should check if this form is relevant to the current task at hand and not a duplicate of another form that is already being used for the same purpose.
-
-</thinking>
-
 # zoom_liability_waiver - Help Guide
 ## Purpose
 This form is used to collect information for a participant in a Zoom meeting or other Zoom-related activity, including contact information and emergency contact information.

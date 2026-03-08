@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Survey Form - Help Guide
 ## Purpose
 

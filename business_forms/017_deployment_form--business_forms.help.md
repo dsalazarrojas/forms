@@ -1,15 +1,3 @@
-<thinking>
-
-To create a helpful and user-friendly deployment form, we need to ensure that the form's purpose and requirements are clearly understood by the end-users. This form appears to be designed for collecting information related to deployment, but the specific context and business logic might not be immediately apparent. Let's review the form's structure and fields to identify the key components and any potential areas of confusion.
-
-Upon reviewing the form's YAML schema, it appears that the form has a mix of text fields, number fields, select options, and date/time fields. Some fields have required attributes, while others are optional. This mix of fields might indicate that the form is designed to collect both specific deployment-related information and potentially some background details.
-
-Key fields to focus on include the various select_one, select_multiple, and date/time fields, as they might be crucial for capturing relevant information about the deployment. The text fields, on the other hand, might be more free-form and open-ended, collecting additional context or comments.
-
-Given this analysis, I'll create a user-facing help guide that clearly outlines the form's purpose, how to complete it, and what each field means. This guide will be concise, practical, and easy to follow.
-
-</thinking>
-
 # Deployment Form - Help Guide
 
 ## Purpose

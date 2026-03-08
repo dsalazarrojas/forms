@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who require replacement of street signs in a specific area. This form will likely be used by municipalities or property owners to gather details about the signs that need replacement, such as the street name, address, and the reason for replacement.
-
-Before completing this form, consider the following:
-- Have you obtained the necessary authorization to collect and process this data?
-- Does the form already exist in your organization or has it been duplicated elsewhere? Please refer to your internal documentation or search for duplicates before proceeding.
-
-If you're still unsure, feel free to contact our support team for further assistance.
-
-</thinking>
-
 # street_sign_replacement_order_form - Help Guide
 ## Purpose
 The street_sign_replacement_order_form is designed to collect information about street signs that require replacement. This form will aid in gathering details that will help municipalities or property owners to efficiently manage sign replacement requests.

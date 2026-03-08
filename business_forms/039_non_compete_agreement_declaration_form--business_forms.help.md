@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Non Compete Agreement Declaration Form - Help Guide
 
 ## Purpose

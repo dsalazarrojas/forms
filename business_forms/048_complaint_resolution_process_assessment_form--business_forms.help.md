@@ -1,5 +1,3 @@
-<thinking>... This form is designed for customers who have completed the complaint resolution process to provide feedback on their experience. This feedback is crucial for us to identify areas of improvement and make adjustments to our procedures to better serve our customers in the future. It is essential to ensure that the complaint handling process is efficient, effective, and satisfactory for all customers. Please fill out this form only if you have already had your complaint resolved and have received a resolution email with a unique case reference ID. Please note that this form is not intended for ongoing complaints or unresolved issues... </thinking>
-
 # Complaint Resolution Process Assessment Form - Help Guide
 ## Purpose
 This form is for customers who have completed the complaint resolution process to provide feedback on their experience.

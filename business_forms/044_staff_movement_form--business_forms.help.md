@@ -1,9 +1,3 @@
-<thinking>
-This help guide will assist end users in understanding the purpose, completion, and fields of the "Staff Movement Form".
-The form is designed to facilitate the process of staff movement, which is a crucial aspect of staff administration. It allows staff members to be moved between different sites within the organization. 
-To prevent duplication of effort, it is essential to ensure that the form is filled out correctly and thoroughly.
-</thinking>
-
 # Staff Movement Form - Help Guide
 ## Purpose
 The Staff Movement Form is used to record the movement of staff members between different sites within the organization. This form captures essential information about the movement, including the date of the movement, the staff member involved, and the reason for the movement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a detailed guide for life designers to assess their personal and health information. The purpose of this form is to gather data to better understand the individual's well-being and design tailored life solutions. To ensure the form is used correctly, please note that it is not affiliated with, endorsed by, or derived from any form platform, but rather an AI-generated form based on public survey topics.
-</thinking>
-
 # life_design_detailed_information - Help Guide
 ## Purpose
 This form is designed to aid life designers in assessing their personal and health information for providing personalized life solutions.

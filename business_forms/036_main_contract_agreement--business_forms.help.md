@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about a main contract agreement between two or more parties. It is meant to be used in business settings where a contract is being established or modified. The form is intended to gather details such as contract terms, dates, and parties involved.
-
-Before filling out this form, ensure that you have the necessary information and approval to complete it accurately. Review the contract terms and conditions carefully to ensure that you understand the scope and implications of the agreement.
-
-This form is designed to be filled out by authorized individuals or parties involved in the contract. If you are unsure about any of the fields or have questions, consult with your supervisor or the relevant parties involved.
-
-Please note that this form is not a substitute for legal advice. In case of disputes or ambiguities, consult with a legal expert to ensure that your interests are protected.
-
-</thinking>
-
 # Main Contract Agreement - Help Guide
 ## Purpose
 The Main Contract Agreement form is designed to gather essential information about contracts between parties in a business setting.

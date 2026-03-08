@@ -1,6 +1,3 @@
-<thinking>
-This form is for clients to provide payment information for SEO services they have opted for. The purpose of this form is to collect relevant details such as the client's name, services they are paying for, payment method, payment date, payment amount, email, phone number, address, and any additional notes. The fields are designed to be filled out in a way that allows for efficient and accurate processing of payment information. It's essential to ensure that all required fields are completed accurately to avoid any issues with payment processing.
-</thinking>
 # seo_services_payment_form - Help Guide
 ## Purpose
 The seo_services_payment_form is designed for clients to provide payment information for SEO services they have opted for. This form ensures that all necessary details are collected accurately and efficiently, allowing for smooth payment processing.

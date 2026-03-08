@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect requests for intercultural competence training from employees. The form is designed to gather information about the training requests, including the type of training, preferred format, start and end dates, training provider, preferred language, and any special requests. It is recommended that only one request is submitted per form. Please ensure that the form is filled out completely and accurately to ensure that the training needs are met.
-</thinking>
-
 # Intercultural Competence Training Request Form - Help Guide
 ## Purpose
 This form is designed to collect requests for intercultural competence training from employees, ensuring that the training needs are accurately met.

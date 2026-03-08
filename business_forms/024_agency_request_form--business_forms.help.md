@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Agency Request Form. The form is designed to gather information from potential clients about their agency request, including their company name, contact person, business email, preferred services, project scope, business goals, target audience, estimated budget, key competitors, proposed start date, and the source of their referral. The form is intended to be a straightforward and efficient way to submit a request for agency services.
-</thinking>
-
 # Agency Request Form - Help Guide
 ## Purpose
 The Agency Request Form is designed to help our agency understand your business needs and provide the best possible services to meet your expectations. By filling out this form, you will be able to submit a request for agency services, and our team will be able to get in touch with you to discuss further.

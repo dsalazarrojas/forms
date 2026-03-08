@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Construction Project Discharge Form, we need to consider the form's purpose, how end-users can complete it, and what each field represents. This form seems to be used for discharging a construction project, which involves closing out the project's administrative and financial aspects after its completion. The purpose of the form is to ensure that all necessary steps and checks are completed before officially discharging the project, thus preventing potential issues and disputes with the client.
-
-</thinking>
-
 # Construction Project Discharge Form - Help Guide
 ## Purpose
 The Construction Project Discharge Form is used to document the completion of a construction project and ensure that all necessary steps and checks are completed before officially discharging the project. This form is essential for closing out the project's administrative and financial aspects, ensuring that the project is fully settled and completed.

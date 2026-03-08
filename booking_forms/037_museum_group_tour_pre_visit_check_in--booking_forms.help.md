@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from groups visiting the museum before their visit, ensuring that the museum staff is prepared for their group's arrival and can provide an efficient and enjoyable experience. This includes gathering details about the group's name, size, planned visit date and time, type of tour, and any additional comments or contact information that may be relevant to the visit.
-</thinking>
-
 # Museum Group Tour Pre Visit Check In - Help Guide
 
 ## Purpose

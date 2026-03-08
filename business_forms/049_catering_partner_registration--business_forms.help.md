@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form is for "Catering Partner Registration", indicating that it's designed for catering businesses to register themselves with the platform. This form likely aims to collect necessary information about the business, including its name, contact person and title, address, email, phone number, and other compliance and service-related details.
-</thinking>
-
 # Catering Partner Registration - Help Guide
 ## Purpose
 This form is for catering businesses to register themselves with the platform.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information and preferences for the Miifx Trading Company. The form is used to gather data on the user's investment interests, goals, and risk tolerance. The data collected will be used to provide personalized investment recommendations to the user. To ensure that each user's data is accurate and relevant, it is essential to complete the form attentively and without duplication.
-</thinking>
-
 # Miifx Trading Company - Help Guide
 ## Purpose
 

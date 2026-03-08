@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data about database administrators' (DBAs) work habits, preferences, and experiences. The purpose of this form is to gather information about the respondents' average work hours per week, their favorite database management system (DBMS), how often they attend training sessions or workshops, their preferred work time, and whether they have experience with cloud-based services for database management. This form is intended to be filled out by DBAs to provide valuable insights into their work habits and preferences.
-
-</thinking>
-
 # marketing_survey_dba - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to capture information required for the commercial space leasing license process. It includes fields for the license holder and licensee details, premises description, permitted use, license term, and financial information. The form aims to collect all necessary information for a comprehensive commercial space leasing license.
-
-Please review this form carefully and ensure that you understand its purpose and required fields before proceeding. This form should be used by authorized personnel only. If you're not authorized to complete this form, please do not proceed.
-</thinking>
-
 # Commercial Space Leasing License Form - Help Guide
 ## Purpose
 The Commercial Space Leasing License Form is used to document the commercial space leasing agreement between the licensor (the owner of the premises) and the licensee (the renter or user of the premises). This form captures essential information to ensure a smooth and lawful leasing process.

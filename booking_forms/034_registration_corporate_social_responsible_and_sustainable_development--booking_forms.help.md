@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a corporate social responsible and sustainable development event. The form is used by staff or administrators to create a new booking form. The purpose of this form is to provide a structured way of collecting information about an event, such as its title, category, description, categories, booking forms, date, time, file, email, phone, and note.
-</thinking>
-
 # Registration Corporate Social Responsible And Sustainable Development - Help Guide
 ## Purpose
 This form is used to create a new booking form for corporate social responsible and sustainable development events.

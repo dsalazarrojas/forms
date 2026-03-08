@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Request Form - Help Guide
 
 ## Purpose

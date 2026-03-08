@@ -1,7 +1,3 @@
-<thinking>
-This form is used to extend the contract between a client and a freelancer. It is essential to understand the current contract status and the terms for extension. Before filling out this form, ensure that the current contract has not been completed or cancelled. If the client has not accepted the extension terms, this form should not be used. The form must be completed carefully, and the client and freelancer both need to sign it.
-</thinking>
-
 # Freelancer Contract Extension Form - Help Guide
 ## Purpose
 The Freelancer Contract Extension Form is used to extend the existing contract between a client and a freelancer. This form ensures a smooth transition of the agreement's duration, value, or status when needed.

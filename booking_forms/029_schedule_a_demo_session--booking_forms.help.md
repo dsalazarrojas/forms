@@ -1,10 +1,3 @@
-<thinking>
-**Purpose:**
-This form is used to schedule demo sessions with the company. 
-To ensure that each user only fills out the form once, we'll ask you to verify your email address. 
-If you've filled out this form before, you'll be shown this page to prevent duplicate submissions.
-</thinking>
-
 # Schedule A Demo Session - Help Guide
 ## Purpose
 The "Schedule A Demo Session" form is used to schedule demo sessions with the company. Please fill out the form below to request a meeting with a demo session.

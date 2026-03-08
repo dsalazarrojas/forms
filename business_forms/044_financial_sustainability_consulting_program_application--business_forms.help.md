@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses that are interested in applying for the Financial Sustainability Consulting Program. The purpose of this form is to gather essential details about the business and its needs. Before starting, please make sure this is the correct form for your business and that you haven't already submitted an application.
-
-The form is divided into several sections that cover various aspects of your business. Each section has been designed to collect relevant information to help us assess your needs and provide appropriate support.
-
-This guide will walk you through each section and explain what information is required or optional.
-</thinking>
-
 # Financial Sustainability Consulting Program Application - Help Guide
 ## Purpose
 The Financial Sustainability Consulting Program is designed to support businesses in achieving their financial sustainability goals. This program aims to provide businesses with expert advice and resources to help them navigate financial challenges and achieve long-term success.

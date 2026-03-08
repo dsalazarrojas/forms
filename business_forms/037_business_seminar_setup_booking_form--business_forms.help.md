@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Seminar Setup Booking Form - Help Guide
 
 ## Purpose

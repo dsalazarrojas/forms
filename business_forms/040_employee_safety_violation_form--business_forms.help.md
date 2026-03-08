@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Safety Violation Form - Help Guide
 ## Purpose
 The Employee Safety Violation Form is used to document incidents of employee safety violations or near misses in the workplace. This form helps gather information about the incident, including the date, location, and details of the incident, as well as the type of safety violation that occurred. The information collected will help management track and analyze safety incidents, identify areas for improvement, and take corrective action to prevent future incidents.

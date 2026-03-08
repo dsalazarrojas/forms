@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Unauthorized Access Incident Form - Help Guide
 
 ## Purpose

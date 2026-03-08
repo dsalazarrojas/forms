@@ -1,12 +1,3 @@
-<thinking>
-The Covid Customer Reg Form is designed to collect customer registration information in the context of a healthcare setting, specifically to track interactions with individuals who have been in contact with someone with Covid-19. This form ensures that the necessary information is collected for contact tracing and follow-up purposes.
-
-This form is not intended for customers who have been diagnosed with Covid-19 themselves, but rather for those who may have come into contact with someone who has been diagnosed with the virus. The information collected will be used to provide support and guidance to customers and to aid in contact tracing efforts.
-
-Please ensure that you have not already submitted this form before attempting to complete it again. Duplicate submissions may cause confusion and hinder contact tracing efforts.
-
-</thinking>
-
 # Covid Customer Reg Form - Help Guide
 ## Purpose
 This form is designed to collect customer information for contact tracing purposes in a healthcare setting.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form for potential business partners to get in touch with the Co-Working Partner Network team. Before completing this form, we want to ensure that you have a clear understanding of our network's purpose and how we can assist you in achieving your business goals. This form will help us assess your partnership potential and provide a more informed response to your inquiry. If you have already submitted a similar request, please check your previous messages to see if we've already addressed your question or concern.
-</thinking>
-
 # Co-Working Partner Network Contact Form - Help Guide
 ## Purpose
 The Co-Working Partner Network Contact Form is designed for potential business partners to get in touch with our team, inquire about possible collaboration opportunities, and initiate a partnership discussion. The form helps us understand your business needs, interests, and goals, enabling us to provide more informed guidance on how we can support you.

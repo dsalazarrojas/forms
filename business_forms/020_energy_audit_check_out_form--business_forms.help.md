@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information about an energy audit check out, which is a process to identify and implement energy efficiency improvements in a building or home. The form is typically completed by the energy auditor after conducting an energy audit, and it captures key information about the audit results, energy usage, and contact details. This form helps to ensure that all necessary information is collected and recorded accurately, which can inform future energy-saving efforts and optimize building performance.
 
 # Energy Audit Check Out Form - Help Guide

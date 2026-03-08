@@ -1,11 +1,3 @@
-<thinking>
-This form is a Partnership Agreement Release Form used to document the terms and conditions for the release of a business partner. The form captures information on the business partner's details, the release reason, responsibilities, rights, and obligations, as well as the notice period and termination details. This form is likely used in the context of a business partnership where one partner wishes to exit the partnership and release their responsibilities and obligations. It's essential to complete this form accurately to ensure a smooth transition and to protect the interests of both parties involved.
-
-Before filling out this form, ensure you have the necessary information and approvals from all parties involved. If you're unsure about any field or requirement, please consult with the relevant personnel or stakeholders.
-
-This form is a part of a larger system, and any changes made here might have implications for other parts of the system. Therefore, please review the form carefully and ensure you've filled out all required fields accurately.
-</thinking>
-
 # partnership_agreement_release_form - Help Guide
 ## Purpose
 This form is used to document the terms and conditions for the release of a business partner.

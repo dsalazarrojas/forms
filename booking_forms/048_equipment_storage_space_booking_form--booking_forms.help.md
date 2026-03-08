@@ -1,11 +1,3 @@
-<thinking>
-This guide is for the Equipment Storage Space Booking Form, a tool used to reserve and manage storage space for equipment and other assets. The form is typically used by staff members or authorized users to request a booking of a storage unit for a specific duration. 
-
-Before proceeding, ensure that the form is not a duplicate request. If you're unsure about the storage unit or duration, please contact the storage administrator or the asset owner for clarification.
-
-This guide will walk you through the steps to complete the form and understand each field's purpose.
-</thinking>
-
 # Equipment Storage Space Booking Form - Help Guide
 ## Purpose
 The Equipment Storage Space Booking Form is used to request and manage bookings of storage units for equipment and other assets. It's a crucial tool for staff members or authorized users to reserve a storage unit for a specific duration.

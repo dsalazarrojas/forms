@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate payment authorization for suppliers. The form is designed to gather necessary information from suppliers to process payments. It's meant for internal use within the organization and should only be filled out by authorized personnel.
-</thinking>
-
 # Supplier Payment Authorization Form - Help Guide
 ## Purpose
 The Supplier Payment Authorization Form is used to provide payment authorization to suppliers. This form is a requirement for processing payments to suppliers.

@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: A laptop computer agreement form is used to record and agree upon the terms of a laptop computer loaned or issued to an employee. It's a crucial document for both the employee and the company to acknowledge responsibilities, usage, and return procedures of the laptop.
-
-This form helps ensure that both parties are on the same page regarding laptop usage, maintenance, and return policies. The agreement form typically includes fields for employee and IT department details, laptop specifications, and signature sections for both the employee and the IT representative.
-
-To create a duplicate-free and efficient process, please review our internal documentation and ensure that this form is not already filled out. If it's a duplicate, do not proceed with filling out this form. 
-
-</thinking>
-
 # Laptop Computer Agreement - Help Guide
 ## Purpose
 The Laptop Computer Agreement form is used to record and agree upon the terms of a laptop computer loaned or issued to an employee.

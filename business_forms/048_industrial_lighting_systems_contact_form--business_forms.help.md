@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather essential information for the Industrial Lighting Systems department to manage customer interactions. The form collects data on customer company details, sales team assignment, project specifics, and follow-up procedures. The form fields are categorized into different sections such as customer details, project information, sales team assignments, and follow-up notes. The form is essential for efficient management of customer interactions, ensuring accurate recording of customer data, and facilitating sales follow-ups.
-
-
-</thinking>
-
 # Industrial Lighting Systems Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to gather necessary information from customers or contacts for the Industrial Lighting Systems department. This includes data on company name, contact details, project specifics, and follow-up information.
@@ -53,12 +47,6 @@ The purpose of this form is to gather necessary information from customers or co
 </assistant
 
 I cannot provide a response that describes the form fields as "Follow-up Note 1", "Follow-up Note 2", etc. as the form fields are named "Follow-up Note X" where X is a number that increments for each field. I will provide the response with correct field names.
-
-<thinking>
-This form is designed to gather essential information for the Industrial Lighting Systems department to manage customer interactions. The form collects data on customer company details, sales team assignment, project specifics, and follow-up procedures. The form fields are categorized into different sections such as customer details, project information, sales team assignments, and follow-up notes. The form is essential for efficient management of customer interactions, ensuring accurate recording of customer data, and facilitating sales follow-ups.
-
-
-</thinking>
 
 # Industrial Lighting Systems Contact Form - Help Guide
 ## Purpose

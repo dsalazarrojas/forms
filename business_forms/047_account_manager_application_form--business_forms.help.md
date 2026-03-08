@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for the Account Manager role. It is intended for individuals who are interested in applying for the position. The form is divided into several sections that cover various aspects of the applicant's background, experience, and qualifications.
-
-To complete this form, applicants will need to provide their personal details, work experience, and educational background. They will also be asked to provide information about their previous employer, job title, key responsibilities, achievements, and client retention rates. Additionally, they will be asked about their proficiency in CRM systems, languages spoken, and availability start date.
-
-The form is divided into 20 fields that cover the following sections:
-
-* Personal details: Applicant Full Name, Applicant Email, Applicant Phone, and Applicant Address
-* Work experience: Years of Experience, Relevant Industries, Education Background, and Certifications
-* Previous role: Previous Employer, Previous Job Title, Key Responsibilities, Achievements Examples
-* Performance metrics: Client Retention Rate, Revenue Growth Managed
-* Technical skills: CRM Proficiency
-* Availability: Availability Start Date
-* Salary expectations: Salary Expectations
-
-Please make sure to fill in all the required fields accurately and thoroughly. You can upload attachments for your resume and cover letter if necessary.
-</thinking>
-
 # Account Manager Application Form - Help Guide
 ## Purpose
 

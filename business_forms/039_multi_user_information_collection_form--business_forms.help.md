@@ -1,7 +1,3 @@
-<thinking>Here is the internal reasoning behind the form purpose:
-
-The "Multi User Information Collection Form" is intended to collect information about users, including their basic contact details (first name, last name, email, phone, etc.) as well as more specific role and purpose-related data. The form is designed to gather a comprehensive profile of each user and provide an easy way to input and update their data. It's essential to ensure the form is filled out accurately and thoroughly to prevent duplicate or incorrect information from being saved. This form is meant for general data collection purposes, and users should not fill out this form if they are not comfortable with sharing their information or if they are not intended to be part of the collection.</thinking>
-
 # Multi User Information Collection Form - Help Guide
 
 ## Purpose

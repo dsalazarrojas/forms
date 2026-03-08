@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather contact information from visitors, allowing them to express their interest in working with the company. It's a general contact form, not specific to any particular department or project. The fields are minimal and straightforward, designed to provide essential details for follow-up conversations. Before proceeding, please ensure you're not duplicating your efforts or sending unnecessary messages to the company. If you're unsure, consider whether you've already contacted the company in the past. With this form, you're initiating a new conversation.
-</thinking>
-
 # digital_ecosystem_strategy_contact_form - Help Guide
 ## Purpose
 The digital ecosystem strategy contact form is a general contact form used to gather information from visitors who are interested in collaborating with the company. It's a minimal form that collects essential details for follow-up conversations.

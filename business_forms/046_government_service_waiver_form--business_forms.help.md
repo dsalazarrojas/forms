@@ -1,6 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the Government Service Waiver Form to ensure end-users understand its purpose, how to complete it, and what each field means. This will help them provide accurate and comprehensive information, reducing errors and increasing form completion efficiency.</thinking>
-
 # Government Service Waiver Form - Help Guide
 ## Purpose
 

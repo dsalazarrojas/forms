@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information about an investor's financial situation and status, with a focus on verification processes. This form is likely used in the context of investment or banking institutions to verify the identity and account status of investors. The purpose of this form is to ensure that investors' accounts are properly verified and their statements are accurate and up-to-date. This form is meant to be completed by the investor themselves or by an authorized representative on their behalf. It's essential to ensure that the investor's information is accurate and complete to avoid duplication or errors in the verification process.
-</thinking>
-
 # Investor Statement Verification Form - Help Guide
 ## Purpose
 The Investor Statement Verification Form is used to gather information about an investor's financial situation and status. This form helps the investor or their representative to provide accurate and up-to-date information about their accounts and verification status.

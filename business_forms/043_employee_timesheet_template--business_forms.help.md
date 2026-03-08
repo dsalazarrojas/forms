@@ -1,7 +1,3 @@
-<thinking>
-This form template seems to be for recording employee work hours, including a start date, end date, total hours worked, and any additional notes. The form likely aims to help employees accurately track their work hours for payroll, time-off tracking, or other business purposes. To confirm, is this form intended for tracking work hours for a specific employee or for multiple employees? Are there any specific requirements or constraints for filling out this form, such as a required minimum or maximum number of hours worked?
-</thinking>
-
 # Employee Timesheet Template - Help Guide
 ## Purpose
 The Employee Timesheet Template is a form designed to record employee work hours for accurate tracking, payroll, or time-off purposes.

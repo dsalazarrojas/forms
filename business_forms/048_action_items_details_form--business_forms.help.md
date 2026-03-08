@@ -1,12 +1,3 @@
-<thinking>
-The goal of this form is to collect details about action items, which are essential tasks or tasks that need to be completed for a specific project or project. This form is used to gather information about each action item, including its title, description, owner, priority, status, due date, estimated effort hours, related project, dependencies, tags, progress update, and closure notes. This form is meant to be completed by the project team members or managers to ensure accurate and up-to-date information about the action items.
-
-This form does not require a specific workflow or process, and the fields can be filled in based on the project's specific needs and requirements. 
-
-The fields are self-explanatory, but a brief explanation of each field is provided below to ensure clarity.
-
-</thinking>
-
 # Action Items Details Form - Help Guide
 ## Purpose
 The purpose of this form is to collect details about action items to ensure accurate and up-to-date information about projects and tasks.

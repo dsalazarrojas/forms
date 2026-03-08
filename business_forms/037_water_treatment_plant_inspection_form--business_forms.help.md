@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal reasoning:**
-The form purpose is to provide a standardized structure for water treatment plant inspections, enabling inspectors to gather and record necessary information in a uniform manner. This form is designed to be completed during or after an inspection, and it will serve as a central document for tracking and maintaining the status of water treatment plants. It is crucial to ensure that all required fields are filled out accurately and thoroughly for effective record-keeping and compliance with regulatory standards.
-
-</thinking>
-
 # Water Treatment Plant Inspection Form - Help Guide
 ## Purpose
 This form is designed to guide inspectors through the process of collecting and recording data during a water treatment plant inspection. It ensures that all necessary information is gathered and documented consistently.

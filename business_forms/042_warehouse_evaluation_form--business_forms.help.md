@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to evaluate the quality of the warehouse services, gathering feedback from users about their recent visit. The form aims to collect ratings, comments, and contact information to help the warehouse management assess their services and identify areas for improvement.
-
-The evaluation form is designed to be completed by customers who have visited the warehouse, and it's meant to be a simple and straightforward process. The form is not intended for internal use only, and the data collected will be used to improve the overall customer experience.
-
-Before proceeding, please ensure that you have not already completed this form for the same visit, as this will prevent duplication of evaluations.
-
-</thinking>
-
 # warehouse_evaluation_form - Help Guide
 ## Purpose
 The warehouse_evaluation_form is designed to gather feedback from customers about the quality of the warehouse services.

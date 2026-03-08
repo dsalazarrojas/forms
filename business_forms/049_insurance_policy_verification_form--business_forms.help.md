@@ -1,14 +1,3 @@
-<thinking>
-**Form Purpose**
-
-The purpose of this form is to help users verify insurance policies, allowing them to collect relevant information about their policies, such as policy numbers, types, start and end dates, status, coverage, and coverage areas. This form is a tool for data collection and record-keeping, intended to streamline the verification process for users.
-
-**Checking for Relevance and Non-Duplication**
-
-Please note that this form is designed to be a general-purpose form for insurance policy verification and may not cater to specific industry or company needs. If you require customizations or more specific features for your organization, consider modifying or creating a new version of this form.
-
-</thinking>
-
 # insurance_policy_verification_form - Help Guide
 ## Purpose
 

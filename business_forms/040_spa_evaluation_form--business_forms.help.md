@@ -1,7 +1,3 @@
-<thinking>
-This form is used for evaluating spas (Spas, or spas-related services) and its purpose is to collect information about the experience of the user. This form is likely used within an internal application or system, and the fields should be filled in accordingly. There is no specific context or business logic mentioned in the form schema that suggests it's being used for a specific project or purpose. The form seems to be a generic form designed to collect a variety of data types. I'll create a help guide for the form below.
-</thinking>
-
 # spa_evaluation_form - Help Guide
 ## Purpose
 The spa_evaluation_form is used to evaluate spas and collect information about the experience of the user.

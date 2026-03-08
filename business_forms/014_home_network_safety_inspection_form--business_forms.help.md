@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # home_network_safety_inspection_form - Help Guide
 ## Purpose
 The home network safety inspection form is designed to help you assess and identify potential safety risks and vulnerabilities associated with your home network. This form helps you evaluate the safety of your network and its impact on your home and family. By completing this form, you will be able to identify areas of concern and take necessary steps to mitigate them.

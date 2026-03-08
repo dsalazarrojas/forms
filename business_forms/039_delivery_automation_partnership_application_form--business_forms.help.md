@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from potential partners interested in forming a business partnership with us. The form is used to gather contact and partnership details to help us assess potential partnership opportunities.
-To avoid duplication of effort, please do not submit this form if you have already been in touch with our team regarding partnership opportunities.
-</thinking>
-
 # Delivery Automation Partnership Application Form - Help Guide
 ## Purpose
 The form is used to collect information from potential partners interested in forming a business partnership with us. It will help us understand your background, goals, and interests to assess potential partnership opportunities.

@@ -1,24 +1,3 @@
-<thinking>
-
-The Entertainment Standards Acknowledgment form is designed to gather information about a project, including its title, description, roles involved, partner and client contact information, and acknowledgement of entertainment standards. The form is likely used in the entertainment industry to track and document projects.
-
-To complete this form, follow these steps:
-
-1. **Project Title**: Enter the title of the project.
-2. **Project Description**: Provide a brief description of the project.
-3. **Roles**: Select the roles involved in the project, such as Client, Casting Director, or Crew.
-4. **Partner Name**: Enter the name of the partner involved in the project.
-5. **Partner Contact Info**: Enter the contact information for the partner.
-6. **Dates**: Enter the dates for the project.
-7. **Signatures**: Enter the signatures for the project.
-8. **Client Signature**: Enter the signature of the client.
-9. **Client Contact Info**: Enter the contact information for the client.
-10. **Acknowledge**: Enter an acknowledgement message.
-11. **Client Acknowledgement**: Select whether you have read and agreed to the entertainment standards.
-12. **Cast Credit**: Enter any credits for the cast members.
-
-</thinking>
-
 # Entertainment Standards Acknowledgment - Help Guide
 ## Purpose
 The Entertainment Standards Acknowledgment form is used to gather information about a project in the entertainment industry, including its title, description, roles involved, partner and client contact information, and acknowledgement of entertainment standards.

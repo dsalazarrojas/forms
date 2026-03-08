@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information about cases within an organization. Each case represents a specific situation or issue that requires attention or resolution. The form helps to standardize data collection and improve the overall case management process.
-
-To ensure that you're using this form correctly, please check if you're filling it out for a purpose that aligns with its intended use. If you're unsure, contact your organization's case management team for guidance.
-
-Additionally, please be aware that this form is not connected to any proprietary form platforms, and its data won't be shared or sold to any third parties without your consent.
-
-To avoid duplication of effort and confusion, please fill out the form only once. If you need to submit multiple cases, create new instances of this form for each case.
-</thinking>
-
 # Case Mapping Survey - Help Guide
 ## Purpose
 The Case Mapping Survey is designed to collect structured and relevant information about cases within an organization. This data will help case managers and stakeholders track and analyze cases efficiently, identify trends, and make data-driven decisions.

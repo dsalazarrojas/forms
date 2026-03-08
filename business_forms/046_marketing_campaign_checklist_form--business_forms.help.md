@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about marketing campaigns. Its purpose is to help marketing teams assess the readiness of a new campaign by evaluating key factors such as marketing objectives, target audience, marketing channels, content strategy, and content distribution channels. This form is meant to be used by marketing teams to ensure that all necessary details are considered before launching a campaign.
-</thinking>
-
 # Marketing Campaign Checklist Form - Help Guide
 ## Purpose
 The Marketing Campaign Checklist Form is a tool to evaluate key factors before launching a marketing campaign to ensure success.

@@ -1,21 +1,3 @@
-<thinking>
-
-This form is intended for customers to provide their information and place a pre-order for Valentine's Day gifts or cards. The purpose of the form is to collect customer data for shipping and contact purposes. 
-
-The form is a simple, multi-page form designed for end-users. 
-
-The form fields are: 
-
-  - "Customer Information" 
-  - "Order Information"
-  - "Shipping Address"
-
-The form does not collect sensitive information, such as financial data, and does not have any conditional or complex logic based on the fields. 
-
-Each field is required for the form submission to be successful. 
-
-</thinking>
-
 # Scentsy Valentine Pre Order Form - Help Guide
 ## Purpose
 The Scentsy Valentine Pre Order Form is a simple form designed to collect customer information and order details for Valentine's Day gifts or cards. The form is intended for customers to place a pre-order and provide their shipping address for delivery purposes.

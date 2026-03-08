@@ -1,20 +1,3 @@
-<thinking>
-The Gate Pass Form is used for tracking and managing gate pass-related information. This form is likely used in a security or access control context, such as in a restricted area like a construction site, a military base, or a government facility. The form is used to record the details of a gate pass, which may include information about the organization or individual requesting access, their contact details, and any relevant dates or statuses related to the gate pass.
-
-Before creating this guide, I've reviewed the form's YAML metadata and considered the following:
-
-* The form is designed to collect information about gate passes, which are likely used for access control or security purposes.
-* The form has multiple pages, but the page structure and field layout are not specified, so I assume that each page will be explained separately.
-* Some fields are of type 'text', 'email', 'select_one', and 'select_multiple', which suggests that the form requires some level of data input and selection from predefined options.
-* The form includes fields for organization name, contact number, email, and visitor details, which implies that the form is for recording visitor or access information.
-* There are multiple date fields, which might indicate that the form is for tracking dates related to gate pass issuance, renewal, or expiration.
-
-Please review and validate these assumptions before proceeding further.
-
-The form is designed to be completed by end-users, and the goal is to provide clear and concise guidance to help them understand the form's purpose, how to complete it, and what each field represents. I'll proceed with the guide below.
-
-</thinking>
-
 # Gate Pass Form - Help Guide
 ## Purpose
 The Gate Pass Form is used for tracking and managing gate pass-related information. This form is completed to record details of a gate pass, which may include information about the organization or individual requesting access, their contact details, and relevant dates or statuses.

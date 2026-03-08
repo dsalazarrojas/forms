@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # project_approval_form - Help Guide
 ## Purpose
 

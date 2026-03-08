@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, the form is designed to collect information from customers or companies requesting telecommunications services, such as installation, repair, or maintenance. This form should only be used for service requests, not for general contact information or other types of inquiries. 
-
-The form should not be filled out in duplicate, meaning that only one instance of the form should be used per service request. Repeatedly filling out the form for the same reason will cause confusion and may lead to delays or mistakes in addressing the customer's needs. 
-
-Before filling out this form, make sure to review the available fields and ensure that you have all necessary information to complete it accurately.
-
-</thinking>
-
 # Telecommunications Service Request Form - Help Guide
 ## Purpose
 The Telecommunications Service Request Form is designed to collect information from customers or companies requesting telecommunications services such as installation, repair, or maintenance. 

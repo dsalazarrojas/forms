@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about a retail store's setup, including its name, address, contact email, contact person's details, and store hours. It's essential to fill out this form correctly to ensure that the store's information is accurately represented in the system.
-Before proceeding, please ensure that you have all the necessary information about the store ready. It's also a good idea to review the form carefully to avoid any mistakes.
-To prevent duplication, please check the system to see if the store is already registered before submitting this form.
-</thinking>
-
 # Retail Store Setup Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information about a retail store's setup. It's essential for ensuring that the store's information is accurately represented in the system.

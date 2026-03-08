@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are experiencing an emergency or have an emergency situation that requires attention. The form is intended to provide a structured way to gather essential details from the individual, including their personal and emergency contact information. This form will be used by the internal teams to address the emergency situation efficiently and effectively. It's assumed that the form will be filled out by individuals who are in a situation where they need assistance, and the information provided will be reviewed and addressed accordingly. The form is not intended for general inquiries or routine requests. It's a critical form that requires the user to provide accurate and detailed information to ensure prompt and adequate support.
-</thinking>
-
 # Digital Emergency Contact Form - Help Guide
 ## Purpose
 The Digital Emergency Contact Form is designed to collect essential information from individuals who are experiencing an emergency or have an emergency situation that requires attention from our internal teams. This information will be reviewed and addressed promptly to ensure adequate support.

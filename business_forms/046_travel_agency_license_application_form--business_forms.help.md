@@ -1,17 +1,3 @@
-<thinking>
-**Form Design Reasoning Block**
-This form is designed to collect information for a travel agency license application. The form is intended for travel agencies to provide their details, including agency and owner information, contact details, and license information. The purpose of this form is to gather essential data for the processing and evaluation of the travel agency license application. 
-
-This form does not contain any complex or conditional logic, and every field is required/optional for general information collection purposes.
-
-**Form Design Considerations**
-
-*   All fields are text-based, which is sufficient for general information collection purposes.
-*   The form structure is organized into clear and concise categories (Agency Details, Contact Details, License Info).
-*   Each field has a clear label and a brief description to help the user understand the purpose of the field.
-
-</thinking>
-
 # travel_agency_license_application_form - Help Guide
 ## Purpose
 The travel agency license application form is designed to collect information from travel agencies applying for a license. This form gathers essential data on agency and owner details, contact information, and license specifics.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Supplier Survey" form, I'll need to break down the form's purpose, completion instructions, and field explanations in a clear and concise manner. Here's a brief internal reasoning block to consider:
 
 The Supplier Survey form is designed to collect information about suppliers, including their contact details, supplier ID, and other relevant business information. This form helps us gather data for future business decisions and ensures that we have a record of all our suppliers. It's essential to complete this form accurately and thoroughly to maintain accurate supplier records.

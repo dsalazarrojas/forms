@@ -1,9 +1,3 @@
-<thinking>**Form Purpose: ** This form is used to record and document fees collected and retained by the company. The purpose of the form is to ensure accurate and transparent accounting of these funds. It helps to keep track of the amount of fees collected, the reason for retention, and the date received. This form will also help in maintaining the authorized personnel accountable for the collection and retention of fees.
-
-**Checking for Duplication: ** Please note that this form is only intended for recording new transactions. If you are revising or updating a previous fee retention record, please use the corresponding "Edit Fee Retention Record" form. If you need to add or modify any existing fields, please use the "Add/Modify Fee Retention Records" function in the system. 
-
-</thinking>
-
 # fee_retention_record_form - Help Guide
 ## Purpose
 The fee_retention_record_form is used to record and document fees collected and retained by the company.

@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to recognize and reward exceptional employees within the organization, highlighting their outstanding performance and contributions to the company. Its purpose is to create a certificate for the selected employee, acknowledging their efforts and dedication. This form will be used by managers or HR personnel to submit a nomination for an employee of the month award. 
-
-Before proceeding, ensure that the form is not being completed for an employee who has already received the award in the past six months, as the purpose is to recognize continuous outstanding performance and not a one-time achievement.
-
-Please note that this form is a template and the information collected will be used for internal purposes only.
-</thinking>
-
 # Employee Of The Month Certificate Form - Help Guide
 ## Purpose
 The Employee Of The Month Certificate Form is used to recognize and reward exceptional employees for their outstanding performance and contributions to the company. Managers or HR personnel use this form to submit a nomination for an employee of the month award.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather contact information and operational strategy planning details from users. To ensure that the provided information is accurate and relevant, please review each field carefully. If you need help with any field or have questions, feel free to reach out to the form administrators. 
-The form has been designed to be completed in a sequential manner, with each field building upon the previous one. Please do not skip fields or leave any field empty unless specifically instructed. 
-This form has a total of 25 fields, each with its own specific purpose. Please review the following sections to learn more about each field and how to complete it successfully.
-</thinking>
-
 # Operational Strategy Planning Contact Form - Help Guide
 ## Purpose
 This form is designed to gather contact information and operational strategy planning details from users. It is used to collect relevant data for business planning purposes.

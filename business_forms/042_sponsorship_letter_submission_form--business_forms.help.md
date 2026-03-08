@@ -1,8 +1,3 @@
-<thinking>
-To ensure that our internal teams understand the purpose and requirements of this form, let's quickly go through it. This form is used for submitting sponsorship requests, which is an essential process for organizations or individuals looking to receive funding or support for a specific event, project, or non-profit initiative. The purpose of this form is to gather all necessary information about the sponsor, the requester, and the sponsorship request details, making it easier for our internal teams to evaluate and process the request efficiently. It's crucial to note that this form is designed to be completed by the requester, not the sponsor, and the submission process should be as straightforward as possible to avoid confusion and duplication of efforts. By following this guide, you'll be able to complete the form accurately and effectively.
-
-</thinking>
-
 # Sponsorship Letter Submission Form - Help Guide
 ## Purpose
 The Sponsorship Letter Submission Form is used to request funding or support for a specific event, project, or non-profit initiative.

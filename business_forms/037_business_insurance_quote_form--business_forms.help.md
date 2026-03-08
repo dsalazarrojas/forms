@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from business prospects who are interested in obtaining insurance quotes for their business. The purpose of this form is to collect relevant details about the prospect's business, including contact information, business details, insurance needs, and preferences for quote delivery and policy start dates.
-
-To avoid duplication, this form should only be filled out once per prospect. If a prospect has already filled out this form, they should not be asked to fill it out again.
-</thinking>
-
 # Business Insurance Quote Form - Help Guide
 
 ## Purpose

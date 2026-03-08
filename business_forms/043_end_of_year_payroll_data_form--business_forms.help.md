@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect End of Year payroll data for employees. The form is intended to gather information about an employee's monthly salary, insurance premiums, and other relevant details. This form will likely be used by HR or accounting departments within a company to track and calculate payroll expenses and taxes for the year. The goal is to provide a structured and organized way of collecting and storing this information.
-
-To determine if this form is relevant for you, please note that:
-
-*   It requires a valid employee name and company name.
-*   It asks for the year of service, which is optional but can be useful for tracking employee tenure.
-*   It includes various premium fields for insurance, vision care, dental care, and long term care, which are likely related to health benefits provided to employees.
-*   It requires the date of last payroll and date of this payroll, which are crucial for tracking payment schedules and deadlines.
-
-If you're looking for a form to collect End of Year payroll data for your employees, this form should be a good fit.
-</thinking>
-
 # End Of Year Payroll Data Form - Help Guide
 ## Purpose
 The End Of Year Payroll Data Form is designed to collect information about employees' salaries, benefits, and payroll data for the year. This form will help HR or accounting departments track and calculate payroll expenses and taxes for the year.

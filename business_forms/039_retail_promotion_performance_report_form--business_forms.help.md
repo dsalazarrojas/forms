@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect information about retail promotion performance, likely for analysis or evaluation purposes. The form might be used by marketing or sales teams to gather data on the success of retail promotions, including campaign results, budget, and other relevant details. Ensure that you only fill out the form if you are a relevant business user, and not duplicate entries are made for the same campaign or promotion.
-</thinking>
-
 # Retail Promotion Performance Report Form - Help Guide
 ## Purpose
 This form is used to collect data on the performance of retail promotions, including campaign results, budget, and other relevant details.

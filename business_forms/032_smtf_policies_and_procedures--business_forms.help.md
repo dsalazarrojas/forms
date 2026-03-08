@@ -1,9 +1,3 @@
-<thinking>
-This form is used to document and track policies and procedures within an organization. It ensures that all relevant information is recorded and up-to-date, making it easier to manage and implement policies and procedures. This form should only be filled out when a new policy or procedure is created, updated, or modified. 
-
-To prevent duplication, ensure that the form is not filled out for the same policy or procedure multiple times. If a policy or procedure already exists, use the "Update" option to make changes. 
-</thinking>
-
 # Smtf Policies And Procedures - Help Guide
 ## Purpose
 This form is used to document and track policies and procedures within the organization. It ensures that all relevant information is recorded and up-to-date, making it easier to manage and implement policies and procedures.

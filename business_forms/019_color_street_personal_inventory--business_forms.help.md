@@ -1,7 +1,3 @@
-<thinking>**This form is designed to collect information about an individual's Color Street jewelry inventory, specifically their personal collection of items. It is intended for use by Color Street employees to track and manage personal inventory levels. To ensure accurate and efficient completion of this form, please follow the steps outlined below.**
-
-</thinking>
-
 # Color Street Personal Inventory - Help Guide
 ## Purpose
 This form is used to collect information about your personal jewelry inventory, including the quantity of each type of item you have in your collection. This will help us track and manage your inventory levels.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by building inspectors to conduct a thorough inspection of a property during the move-in and move-out process. It is intended to ensure that all essential systems and features are functioning properly and meet safety and regulatory standards. The form is divided into several sections, each covering a different aspect of the property, such as electrical systems, plumbing, heating and ventilation, exterior, interior, appliances, fixtures, and safety. This form is not intended to be a comprehensive inspection checklist, but rather a tool to help inspectors identify potential issues and areas that need attention. Before filling out this form, make sure to review the property's systems and features thoroughly and answer questions based on your observations.
-
-Please note that this form is a generated form and does not necessarily reflect the exact requirements or guidelines of any specific jurisdiction or organization. It is recommended that you verify the accuracy and completeness of this form with local authorities or experts before using it in any official capacity.
-</thinking>
-
 # Move In Move Out Inspection Form - Help Guide
 ## Purpose
 This form is designed to assist building inspectors in conducting a comprehensive inspection of a property during the move-in and move-out process.

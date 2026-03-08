@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a facility's capabilities, including its type, production capacity, contact information, and location. The goal is to gather details that will help the organization assess and understand the facility's capabilities.
-The form will be used to provide a structured and standardized way of collecting information from various facilities. By using this form, the organization can ensure consistency in the data collected and reduce the likelihood of missing information.
-To confirm, this form is intended to collect facility-specific information and will not be used to collect personal or sensitive data.
-</thinking>
-
 # Facility And Production Capabilities Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a facility's capabilities, including its type, production capacity, contact information, and location. The goal is to gather details that will help the organization assess and understand the facility's capabilities.

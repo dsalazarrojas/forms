@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect complaints or issues related to housing. This form is designed to be completed by individuals who need to report a problem or concern about their housing. The form should only be filled out by people with relevant issues, and not used for duplicate or redundant complaints.
-
-</thinking>
-
 # Housing Complaint Form - Help Guide
 
 ## Purpose

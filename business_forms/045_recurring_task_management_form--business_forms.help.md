@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for managing recurring tasks, which are tasks that need to be performed regularly or on a specific schedule. The purpose of this form is to provide an overview of all the tasks that are recurring, including their due dates, assigned users, and other relevant details. This form is typically used by task managers and administrators to track and manage recurring tasks in their workflows.
-
-Before filling out this form, please ensure you have the necessary access rights and permissions to view or edit recurring tasks. If you have any questions or concerns about the form or its usage, please reach out to your supervisor or the system administrator.
-
-This form has multiple pages with various fields that require input from you. Please make sure to fill out all the required fields accurately and thoroughly to ensure the form is completed correctly.</thinking>
-
 # Recurring Task Management Form - Help Guide
 ## Purpose
 The purpose of this form is to provide an overview of all recurring tasks, including their due dates, assigned users, and other relevant details.

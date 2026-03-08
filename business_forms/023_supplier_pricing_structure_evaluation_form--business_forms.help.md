@@ -1,9 +1,3 @@
-<thinking>
-
-The goal of this form is to evaluate the supplier's pricing structure, which includes assessing the overall pricing score, structure score, and evaluation score. The form is divided into several pages, each with different sections focused on pricing structure, overall assessment, comparison and evaluation, and final comments. The form will help suppliers evaluate their pricing structure, provide feedback on areas for improvement, and track progress over time. This form should only be used for suppliers who are already registered and have a valid contract in place with the company.
-
-</thinking>
-
 # Supplier Pricing Structure Evaluation Form - Help Guide
 
 ## Purpose

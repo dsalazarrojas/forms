@@ -1,7 +1,3 @@
-<thinking>
-This guide is to help users understand the purpose and usage of the travel insurance renewal form. The purpose of this form is to collect and update travel insurance policy information for users. It is required to be completed by users with active travel insurance policies to ensure their coverage is up to date.
-</thinking>
-
 # Travel Insurance Renewal Form - Help Guide
 ## Purpose
 The Travel Insurance Renewal Form is a form used to update and manage travel insurance policies for users. This form helps users to provide and verify necessary details about their travel insurance policies, ensuring they are covered and up-to-date.

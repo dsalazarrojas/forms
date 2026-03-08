@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users who have experienced a privacy violation. The purpose of the form is to gather relevant details and context to aid in resolving the issue and prevent similar incidents in the future. To ensure that the form is used correctly, we'll need to confirm that the user understands the form's purpose and how to complete it accurately.
-
-This form is not intended to be a duplication of existing forms, and the information collected will be used to address the specific issue at hand.
-
-</thinking>
-
 # Privacy Violation Complaint Form - Help Guide
 ## Purpose
 The Privacy Violation Complaint Form is designed to collect information from users who have experienced a privacy violation. This form helps to gather relevant details and context to aid in resolving the issue and prevent similar incidents in the future.

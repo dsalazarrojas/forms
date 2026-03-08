@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tree_trimming_equipment_inspection_form - Help Guide
 ## Purpose
 This form is designed to help inspect and track the condition of tree trimming equipment. It collects information about the equipment, its status, and the results of the inspection. This form is intended to be completed by the user who performs the inspection.

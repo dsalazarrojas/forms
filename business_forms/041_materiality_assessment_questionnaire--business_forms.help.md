@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Materiality Assessment Questionnaire - Help Guide
 
 ## Purpose

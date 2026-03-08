@@ -1,6 +1,3 @@
-<thinking>
-This form is used by Parent-Teacher Association (PTA) members to request a debit card for a specific purpose. It is intended for PTA members who need to make purchases on behalf of the school or PTA. This form ensures that the PTA has a record of who is making purchases, for what purpose, and how the funds will be used. It also helps the PTA to track and manage its expenses.
-</thinking>
 # PTA Debit Card Request Form - Help Guide
 
 ## Purpose

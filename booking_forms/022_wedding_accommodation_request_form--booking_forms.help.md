@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect information from guests about their upcoming wedding, specifically their accommodation requests for the event. The form is designed to be filled out by the guests themselves, and the information collected will be used to ensure that their accommodation needs are met during the wedding. The form should only be used for this specific purpose and should not be used for other types of bookings or requests.
-
-The form is designed to be filled out by the guests, and the information collected will be used to provide them with the necessary accommodation information. This form is an important part of the wedding planning process and should be completed as accurately and completely as possible.
-
-Before filling out this form, guests should ensure that they have provided all necessary information about their accommodation needs, including their arrival and departure dates, accommodation type, and any special requests they may have. This will ensure that their needs are met and that they have a successful and enjoyable experience.
-
-Each field in the form has a specific purpose, and the explanations below will provide further information on what each field is for and how to complete it.
-
-</thinking>
-
 # wedding_accommodation_request_form - Help Guide
 
 ## Purpose

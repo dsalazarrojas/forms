@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect authorization from users to use intellectual property, ensuring that individuals or organizations have permission to use or share proprietary information. This form is typically used internally within the company to streamline the process and maintain consistency in usage permissions. Before filling out this form, please ensure you have the necessary approvals and permissions from the relevant stakeholders. Also, note that the fields in this form should match the exact requirements of the company's intellectual property usage policy.
-</thinking>
-
 # Intellectual Property Use Authorization Form - Help Guide
 ## Purpose
 The Intellectual Property Use Authorization Form is used to collect permission from users to use or share the company's intellectual property. This form ensures that individuals or organizations have the necessary authorization to use or share the company's proprietary information.

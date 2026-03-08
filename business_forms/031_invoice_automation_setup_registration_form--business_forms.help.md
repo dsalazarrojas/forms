@@ -1,7 +1,3 @@
-<thinking>
-This form is primarily used for users to create and manage automated invoices. It's essential to fill this form out accurately to ensure proper invoice automation setup and avoid any potential issues. Before proceeding, please ensure you have all necessary information ready for each field. Please review the field-by-field explanations below.
-</thinking>
-
 # Invoice Automation Setup Registration Form - Help Guide
 ## Purpose
 The Invoice Automation Setup Registration Form is used to create and manage automated invoices for your business. It's crucial to fill out this form correctly to ensure that invoices are generated and processed accurately.

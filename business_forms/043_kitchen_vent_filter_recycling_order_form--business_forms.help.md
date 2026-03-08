@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block is designed to ensure the form is correctly filled out with accurate data, and the information is properly recorded in our database. This form is used for customers to report their kitchen vent filter recycling orders. Each field has been carefully designed to collect necessary information for processing and delivering the order.
 
 </thinking>

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about construction building code compliance, including the date of the compliance audit, the details of the project, and the auditor's credentials. It is used for tracking and reporting on code compliance status. The form is meant to be completed by the auditor who conducts the compliance audit, and it requires the completion of all required fields. This is to ensure consistency in the collection of data and to avoid any discrepancies that might arise from incomplete or inaccurate information.
-
-To complete this form, start by selecting the "Project Type" field, where you can choose between residential single-family, residential multi-family, commercial, industrial, institutional, and mixed-use projects. Then, select the current project phase from the "Current Project Phase" field, which should match the actual stage of construction. Next, for each of the code compliance fields, select whether the project meets the code requirements or not. Finally, provide any additional comments or observations in the "Auditor Comments" field.
-
-Please note that some fields are required, and you must ensure that you complete all required fields before submitting the form. Additionally, the "Reinspection Required" field should be selected if follow-up inspection is needed, and the "Reinspection Date" field should be completed if a scheduled date is applicable.
-
-Before proceeding, ensure that you have all necessary information and documentation required to complete this form accurately and thoroughly. If you have any questions or concerns, please reach out to your supervisor or the project manager for guidance.
-</thinking>
-
 # Construction Building Code Compliance Audit Form - Help Guide
 ## Purpose
 This form is designed to collect information about construction building code compliance.

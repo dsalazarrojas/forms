@@ -1,8 +1,3 @@
-<thinking> 
-This form is for the referral of potential carpentry projects to a pool of potential clients, such as architects, contractors, or interior designers. It's meant to provide detailed information about the referral, including the referrer, the client, and the project scope, so that the carpenter can follow up and provide services. This form should not be filled out for every potential client, only those with a clear need for carpentry services. It's also important to note that referrals should not be used for self-promotion or to solicit work from the same client multiple times. 
-
-</thinking>
-
 # Carpenter Referral Form - Help Guide
 ## Purpose
 The Carpenter Referral Form is a tool used to collect information about potential clients and their projects, so that carpenters can follow up and provide services.

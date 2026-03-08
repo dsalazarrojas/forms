@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for individuals or businesses that are interested in applying for a franchise. The purpose of this form is to collect relevant information about the applicant, their business, and their financial status. The form is designed to guide the applicant through the process of providing necessary details about themselves and their business. This form is not intended for internal use within the company, but rather for external users who are interested in applying for a franchise. The information collected will be used by the company to assess the applicant's eligibility for a franchise. 
-
-Please review the form carefully and provide the necessary information to increase the chances of a successful application. 
-
-Note: The fields are not required, but providing all the required information will help the company assess the applicant's eligibility more effectively.
-</thinking>
-
 # Franchise Application Form - Help Guide
 ## Purpose
 The Franchise Application Form is designed for individuals or businesses that are interested in applying for a franchise. The form collects relevant information about the applicant, their business, and their financial status to help assess their eligibility for a franchise.

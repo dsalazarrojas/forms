@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to support end-users in completing the Beauty Color Match Questionnaire form. Before proceeding, it's essential to understand the form's purpose. The form is intended to gather information about a client's beauty preferences, color goals, and lifestyle factors that influence their color palette. This information will help our team to create a personalized color match plan for the client. 
-
-The form is divided into three main sections: "Client Information", "Color Goals and Preferences", and "Skin Analysis and Color Scheduling". 
-
-Please ensure that you have all necessary information about the client before starting the form. This includes their full name, email address, phone number, and desired appointment date. If you're unsure about any field, please refer to the field explanations below for clarification.
-
-</thinking>
-
 # Beauty Color Match Questionnaire - Help Guide
 ## Purpose
 The Beauty Color Match Questionnaire is designed to gather information about a client's beauty preferences, color goals, and lifestyle factors that influence their color palette. This information will help our team to create a personalized color match plan for the client.

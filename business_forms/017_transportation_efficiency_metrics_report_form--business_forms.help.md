@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect data on transportation efficiency metrics for vehicles. The purpose of this form is to gather essential information on vehicle usage, fuel consumption, route efficiency, travel distance, fuel type, vehicle capacity, start and end dates, travel time, fuel level, vehicle status, comments, notes, email address, phone number, vehicle ID, assigned user, route ID, vehicle type, location, department ID, employee ID, vehicle driver, and vehicle model.
-
-This form seems to be designed for fleet management or logistics purposes, where the collected data can be used to optimize transportation routes, monitor vehicle performance, and identify areas for improvement. The form's structure suggests it's intended for both administrative and analytical use cases.
-
-Before completing this form, ensure that you have all the required information and that it's relevant to your transportation efficiency metrics analysis. If you're unsure about any field, please ask your supervisor or the form's administrator for clarification.
-
-</thinking>
-
 # transportation_efficiency_metrics_report_form - Help Guide
 ## Purpose
 

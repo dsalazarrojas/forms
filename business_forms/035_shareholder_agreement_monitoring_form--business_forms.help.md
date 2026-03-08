@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shareholder Agreement Monitoring Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture key information about the completion of a job or task, including the completion date, time, and details about the work performed. It's essential to complete this form accurately to ensure that all necessary steps are taken and that the employer is informed about the job's status.
-The form serves as a template for both the employee and the employer to record their respective parts of the job completion process. This form should only be used for the actual completion of a job, not for test purposes. Ensure that you are filling out this form for an actual job completion.
-To avoid duplication, please ensure that each form is unique and not duplicated for the same job.
-</thinking>
-
 # Job Completion Form Template - Help Guide
 ## Purpose
 This form is used to document the completion of a job or task, ensuring accurate and timely recording of key details.

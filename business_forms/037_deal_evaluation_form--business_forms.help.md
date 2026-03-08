@@ -1,6 +1,3 @@
-<thinking>
-The deal evaluation form is a tool used to assess the potential of a business deal. It is crucial to complete this form accurately to ensure that all relevant information is considered in the evaluation process. This form should be used for each new business opportunity, and its use should not be duplicated or redundant. The form should only be used when evaluating new deals to avoid confusion and ensure consistent results.</thinking>
-
 # Deal Evaluation Form - Help Guide
 
 ## Purpose

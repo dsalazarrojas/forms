@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture patient information for Botox treatments, including patient name, date of birth, medical history, treatment areas, medications, and other relevant details. This form aims to ensure that patients understand the risks and alternatives associated with Botox treatments and provide informed consent for the procedure. It also captures provider information for documentation and follow-up purposes. This guide is intended to help patients complete the form accurately and understand their role in the treatment process.
-</thinking>
-
 # Botox Consent Form - Help Guide
 ## Purpose
 This form is used to gather patient information and ensure informed consent for Botox treatments.

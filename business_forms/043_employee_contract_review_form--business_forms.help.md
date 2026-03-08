@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Contract Review Form - Help Guide
 
 ## Purpose

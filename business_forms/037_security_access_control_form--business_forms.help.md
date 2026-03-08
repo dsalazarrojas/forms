@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users requesting access to security areas within an organization. The purpose of this form is to gather data for security access requests, which will be reviewed and processed internally. The form fields are designed to capture essential details about the user's request, such as their employee ID, role, and access level, which will help in making informed decisions about access approval.
-This form is a collection of multiple fields, but it's essential to ensure that all relevant fields are filled out accurately. Please review each field carefully before proceeding.
-</thinking>
-
 # security_access_control_form - Help Guide
 ## Purpose
 The security_access_control_form is designed to collect information for security access requests. Please provide accurate details to ensure your request is processed efficiently.

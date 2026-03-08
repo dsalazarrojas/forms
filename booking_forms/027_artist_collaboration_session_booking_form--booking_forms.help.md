@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the "Artist Collaboration Session Booking Form" that explains its purpose, how to complete it, and each field's meaning to ensure end users understand the form's intent and requirements.</thinking>
-
 # Artist Collaboration Session Booking Form - Help Guide
 
 ## Purpose

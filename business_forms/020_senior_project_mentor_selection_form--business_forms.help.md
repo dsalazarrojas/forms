@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Senior Project Mentor Selection Form" form. This guide should cover the form's purpose, how to complete it, and explain each field in a concrete and concise manner.
-
-To determine the form's purpose, we need to analyze the input schema. The form consists of multiple pages with various fields, including text inputs, select options, and notes. Based on the schema, it appears that the form is used to collect information about a senior project mentor. The form likely asks for demographic information, such as name, email, phone number, and date of birth, as well as other relevant details. The form might also include notes for additional comments or references.
-
-To ensure relevance and non-duplication of information, it's essential to review the form's fields carefully. We will make sure to provide clear explanations for each field, avoiding any confusion or overlap.
-
-</thinking>
-
 # Senior Project Mentor Selection Form - Help Guide
 ## Purpose
 The Senior Project Mentor Selection Form is designed to collect demographic and other relevant information about a senior project mentor. This form helps to streamline the mentor selection process, ensuring that all necessary details are gathered in a structured and efficient manner.

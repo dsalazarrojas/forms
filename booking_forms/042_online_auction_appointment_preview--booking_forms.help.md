@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose:**
-The purpose of this form is to help users preview and customize their online auction appointment experience. It is used to gather information about the user's preferences and requirements for an online auction appointment.
-The form is not a mandatory form, and it seems that it's used for optional purposes, such as providing additional information or preferences for the appointment.
-Please make sure that you are filling out this form intentionally and not by mistake.
-If you are unsure about any of the fields, please review the field explanations below.
-</thinking>
-
 # Online Auction Appointment Preview - Help Guide
 ## Purpose
 The Online Auction Appointment Preview form is used to gather information about the user's preferences and requirements for an online auction appointment.

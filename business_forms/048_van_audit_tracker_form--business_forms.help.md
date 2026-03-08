@@ -1,9 +1,3 @@
-<thinking>
-This form is used to track and record important information related to a van's maintenance and inspection schedule, including the frequency of van audits, standards met, maintenance schedules, driver information, and other relevant details. 
-The purpose of this form is to ensure that all necessary information is recorded and easily accessible for reference. It's designed to be completed by van drivers, fleet managers, or audit trackers. To avoid any duplication of effort, please only complete this form once for each van. 
-Before starting, please check that all the required fields are complete and accurate. If there are any missing or duplicate entries, please review and correct them before proceeding.
-</thinking>
-
 # Van Audit Tracker Form - Help Guide
 ## Purpose
 The Van Audit Tracker Form is used to track and record important information related to a van's maintenance and inspection schedule. This form helps to ensure that all necessary information is recorded and easily accessible for reference.

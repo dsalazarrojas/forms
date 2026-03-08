@@ -1,29 +1,3 @@
-<thinking>
-The purpose of this form is to collect data storage billing information for a business, specifically for a company or organization. This form is designed to gather details about the billing, client, and payment information, as well as confirmations of payment method, subscription status, email, phone number, date, and time of service. This form is likely used for internal billing and accounting purposes within the company. It's essential to ensure that each section is correctly filled out to maintain accurate and reliable data.
-
-When designing this form, it's crucial to consider the following:
-
-*   The "Billing Details" section (id: 1) is a required field that should be filled out with relevant billing information, such as the billing name and address.
-*   The "Client Details" section (id: 2) is optional, but it's still a good idea to fill it out for additional context.
-*   The "Payment Method" section (id: 3) is a critical field that requires selecting at least one payment method from the options provided, which includes Visa, Mastercard, Amex, Diners, and JCB.
-*   The "Amount" field (id: 4) is also a required field where the user needs to enter the amount of the service or product.
-*   The "Date of Service" field (id: 5) is a required field for entering the date of service.
-*   The "Time of Service" field (id: 6) is a required field for entering the time of service.
-*   The "Email" field (id: 7) is a required field for entering the email address of the client or billing contact.
-*   The "Phone Number" field (id: 8) is a required field for entering the phone number of the client or billing contact.
-*   The "Confirm Payment Status" field (id: 9) is a required field that requires selecting the current payment status, which is either Active or Inactive.
-*   The "Subscription Status" field (id: 10) is a required field that requires selecting the subscription status, which is either Active or Inactive.
-*   The "Confirm Phone Number" field (id: 11) is a required field that requires confirming the phone number entered in the "Phone Number" field.
-*   The "Confirm Email" field (id: 12) is a required field that requires confirming the email address entered in the "Email" field.
-*   The "Confirm Date of Service" field (id: 13) is a required field that requires confirming the date of service entered in the "Date of Service" field.
-*   The "Confirm Time of Service" field (id: 14) is a required field that requires confirming the time of service entered in the "Time of Service" field.
-*   The "Confirm Payment Method" field (id: 15) is a required field that requires confirming the payment method selected in the "Payment Method" field.
-*   The "Confirm Subscription Status" field (id: 16) is a required field that requires confirming the subscription status selected in the "Subscription Status" field.
-*   The "Confirm Amount" field (id: 17) is a required field that requires confirming the amount entered in the "Amount" field.
-*   The "Confirm Note" field (id: 18) is a required field that requires confirming any additional note entered.
-
-Before proceeding, make sure to review all the fields and confirm the accuracy of the information entered. This form is a critical part of the business process, and it's essential to get it right.</thinking>
-
 # data_storage_billing_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...the form is used to verify an expense report submitted by an employee, ensuring that all necessary information is accurate and complete. This form is typically filled out by a designated approver or supervisor to review and confirm or reject the submitted report... </thinking>
-
 # Expense Report Verification Form - Help Guide
 
 ## Purpose

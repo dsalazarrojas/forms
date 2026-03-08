@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Real Estate Contract Specialist Application Form", I first need to understand the form's purpose and how it will be used. From the provided YAML, the form is likely used to collect information from individuals applying to be a real estate contract specialist. The form appears to be a general application form for such a position, asking for personal details (like name and contact information), experience, and job specifics (like contract type and desired start date). To avoid duplication, it's likely that this form is used for initial applications or for new applicants. The form does not appear to have any sensitive or highly technical information required, making it a straightforward application process. Given the options available, it seems that this form is meant to be completed by someone with basic computer skills and is likely used for an initial assessment or as a pre-screening tool.
-</thinking>
-
 # Real Estate Contract Specialist Application Form - Help Guide
 ## Purpose
 This form is used for individuals to apply for the position of a real estate contract specialist. To provide an effective and efficient application process, please carefully complete each section as described below.

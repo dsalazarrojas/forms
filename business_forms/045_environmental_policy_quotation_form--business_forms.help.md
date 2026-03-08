@@ -1,7 +1,3 @@
-<thinking>
-This form is used for environmental policy quotations, which are quotes or estimates provided by a contact (individual or company) for a specific policy. The form captures information about the policy type, contact details, quote currency, quote terms, and other relevant information. The form is designed to gather comprehensive data for quoting and managing environmental policies. 
-</thinking>
-
 # Environmental Policy Quotation Form - Help Guide
 ## Purpose
 This form is used to gather information for environmental policy quotations. It is meant to be completed by contacts who provide quotes or estimates for policies.

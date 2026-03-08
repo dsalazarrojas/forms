@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Point Of Sale Agreement Extension Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for booking experiences at a safari lodge. The purpose of this form is to collect guest details, activity preferences, and payment information for the stay. This form is used for internal purposes and does not need to be completed multiple times for the same user. Please fill out this form accurately and completely to ensure a smooth and enjoyable stay at the safari lodge.
-</thinking>
-
 # safari_lodge_experience_booking_form - Help Guide
 ## Purpose
 The safari_lodge_experience_booking_form is a booking form used to collect information for guest stays at a safari lodge. It gathers details about guests, their activity preferences, and payment methods.

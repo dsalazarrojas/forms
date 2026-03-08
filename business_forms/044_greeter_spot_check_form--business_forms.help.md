@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Greeter Spot Check Form - Help Guide
 ## Purpose
 The Greeter Spot Check Form is designed to collect information from greeters about their spot checks, which are informal meetings or interactions with guests in a facility, such as a hotel or resort. The form is used to gather data on whether guests have been greeted correctly, efficiently, and in a friendly manner. This information helps the facility to evaluate the effectiveness of their greeter services and make improvements as needed.

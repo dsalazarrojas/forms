@@ -1,11 +1,3 @@
-<thinking>
-This help guide is being generated to assist end-users in completing the Quality Benchmark Pilot Application Form.
-
-The Quality Benchmark Pilot Application Form is intended to collect information from potential participants in a quality improvement pilot program. The form will help in assessing whether a participant is suitable to join the program based on their application details.
-The form collects general participant details such as name and address as well as contact information for both the participant and an optional contact person.
-The form does not require the participant to be a part of the existing participant pool, it only requires the application type. This makes it suitable for both new and existing participants to apply for the program.
-</thinking>
-
 # Quality Benchmark Pilot Application Form - Help Guide
 ## Purpose
 The Quality Benchmark Pilot Application Form is used to collect participant information and assess their suitability for joining the quality improvement pilot program.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to create a service proposal for an on-call service visit to a client's premises. The on_call_service_proposal form gathers essential details about the client, the service type, and other relevant information. 
-The form is designed to be completed by the on-call service team members, typically during an emergency or urgent situation where immediate action is required. It's essential to ensure all necessary information is collected accurately and efficiently.
-Before starting, review the form's purpose and requirements to avoid duplicating efforts or missing critical details.
-</thinking>
-
 # on_call_service_proposal - Help Guide
 ## Purpose
 The on_call_service_proposal form is used to create a service proposal for an on-call service visit to a client's premises.

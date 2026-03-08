@@ -1,11 +1,3 @@
-<thinking>...The purpose of the Site Visit Checklist form is to gather information about the site visit, including general information, building details, safety hazards, inspection comments, and the inspector's notes and signature. This form is likely used to document and track site visits for maintenance, inspection, or other purposes.
-
-The form has 25 fields, but only 9 of them are user-facing fields that require input. The remaining fields are metadata fields that track the form's version, creation and update information, and IDs.
-
-To ensure accurate and efficient completion of the form, it's essential to understand each field's purpose and requirements. This guide will walk you through the form's structure and each field's explanation.
-
-</thinking>
-
 # Site Visit Checklist - Help Guide
 
 ## Purpose

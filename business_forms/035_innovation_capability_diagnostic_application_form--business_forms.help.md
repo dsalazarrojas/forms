@@ -1,9 +1,3 @@
-<thinking>
-
-Internal reasoning: This form is used to collect information about a company, its address, employee or representative contact information, and any additional comments or feedback. It is designed to be completed by a representative of the company or individual. The form is used in a business context to gather data for innovation capability diagnostic applications.
-
-</thinking>
-
 # Innovation Capability Diagnostic Application Form - Help Guide
 ## Purpose
 

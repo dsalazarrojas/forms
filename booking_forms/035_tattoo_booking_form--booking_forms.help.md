@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain how to fill out the "Tattoo Booking Form" for customers. Please make sure you're familiar with the form's purpose and requirements before proceeding. The form is designed to be completed by customers who want to book an appointment with a tattoo artist. It will ask for some basic information to schedule a tattoo booking and provide contact details in case there's a need to follow up on the booking.
-</thinking>
-
 # Tattoo Booking Form - Help Guide
 ## Purpose
 The "Tattoo Booking Form" is a form designed to help customers book an appointment with a tattoo artist. It's a simple form that collects some basic information to schedule a booking.

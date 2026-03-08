@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from requestors who need data on agriculture activities. The purpose of this form is to gather details on the requestor's identity, organization, and specific needs, such as the type of data required, region of interest, and preferred format for delivery. This form helps ensure that the requestor's requirements are accurately captured and communicated to the relevant stakeholders. By using this form, the organization can efficiently and effectively provide the requested data while upholding confidentiality agreements.
-</thinking>
-
 # Agriculture Activities Information Request Form - Help Guide
 
 ## Purpose

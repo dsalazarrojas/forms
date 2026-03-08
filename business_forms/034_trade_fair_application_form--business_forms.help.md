@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information for a trade fair application. The form is divided into several sections, each with specific fields that need to be filled out in order to complete the application. It's essential to fill out the form accurately and comprehensively to ensure that your trade fair application is approved.
-
-To prevent duplicate applications, please ensure that you are not filling out the form multiple times. If you need to make changes to an existing application, please reach out to our team to discuss the options.
-
-Before filling out the form, please have all necessary documents and information ready, including product images, business hours, and contact information. This will save time and ensure that you can fill out the form smoothly.
-
-</thinking>
-
 # Trade Fair Application Form - Help Guide
 
 ## Purpose

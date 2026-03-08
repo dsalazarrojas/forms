@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback and opinions from users on their perception of feminism. The fields are categorized into introduction, identity, knowledge, beliefs, social influence, actions, next steps, and demographics. The form is meant to be a self-assessment tool, where users can express their views and provide information that can help in the development and understanding of feminist theories and practices. This form is intended for personal use, and the information collected will not be shared or used for any commercial purpose.
-</thinking>
-
 # feminism_survey - Help Guide
 ## Purpose
 The feminism survey is a tool designed to collect feedback and opinions on one's perception of feminism. It is meant to be a self-assessment tool to help users understand their views and provide information that can be used to develop and improve feminist theories and practices.

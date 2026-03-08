@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information related to an intern's shift work, specifically their start and end times, shift hours, task name, progress, comments, supervisor name, assigned tool, and their own name. This form is likely used to track and record the details of an intern's work schedule and performance during their shifts. Before proceeding, ensure that you have reviewed the shift schedule and have all the necessary information required to complete the form accurately.
-</thinking>
-
 # intern_shift_report_form - Help Guide
 ## Purpose
 The intern_shift_report_form is used to collect information related to an intern's shift work, which includes start and end times, shift hours, task name, progress, comments, supervisor name, assigned tool, and their own name. This form helps track and record the details of an intern's work schedule and performance during their shifts.

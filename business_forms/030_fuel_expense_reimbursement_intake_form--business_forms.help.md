@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and process fuel expense reimbursements within an organization. This form captures necessary information for processing expense claims, such as employee details, trip dates, mileage, fuel prices, and submission status. This form is not intended to be used for duplicate submissions; only one submission per employee will be processed.
-</thinking>
-
 # Fuel Expense Reimbursement Intake Form - Help Guide
 
 ## Purpose

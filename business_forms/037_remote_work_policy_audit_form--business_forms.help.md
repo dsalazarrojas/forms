@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the remote_work_policy_audit_form form, I need to review the provided YAML fields and ensure the form's purpose and each field's functionality are clearly explained. 
-
-The form is designed to assess the remote work policies of an organization, gathering information on various aspects of remote work, including policy conformance, risk, confidence, and approval status. 
-
-The main goal of this form is to collect data on the current state of remote work policies, which will help in making informed decisions and improving policy effectiveness.
-
-Before proceeding, I will review the fields to ensure that each has a clear and concise explanation to assist end-users in completing the form accurately and effectively.
-
-</thinking>
-
 # remote_work_policy_audit_form - Help Guide
 ## Purpose
 The remote_work_policy_audit_form is designed to assess the remote work policies of an organization. It gathers information on various aspects of remote work, including policy conformance, risk, confidence, and approval status. This form helps in making informed decisions and improving policy effectiveness.

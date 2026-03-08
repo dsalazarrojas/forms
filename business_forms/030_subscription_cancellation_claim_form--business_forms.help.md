@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for customers who wish to cancel their subscriptions. The purpose of this form is to gather information to process the request and ensure a smooth cancellation process. Before proceeding, please ensure that you have not already submitted a cancellation request or that your subscription is not currently in the process of being cancelled. Duplicate requests may cause unnecessary delays or confusion. 
-</thinking>
-
 # subscription_cancellation_claim_form - Help Guide
 ## Purpose
 The subscription cancellation claim form is used to request the cancellation of a subscription. This form will gather necessary information to process the cancellation and ensure a smooth transition for the customer.

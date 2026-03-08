@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by online store business owners to apply for certification. The certification process is likely to involve reviewing the store's online presence, security practices, and customer service. The form is likely to be used by the certification authority to assess the store's compliance with relevant standards and regulations. Please ensure that you are filling out this form for the right reason and do not resubmit it unnecessarily. 
-
-This guide is designed to walk you through the online store audit certification application form. Please follow it carefully to ensure you complete the form correctly.
-</thinking>
-
 # Online Store Audit Certification Application - Help Guide
 ## Purpose
 The online store audit certification application form is designed to help online store business owners apply for certification. The certification process is a review of the store's online presence, security practices, and customer service to ensure compliance with relevant standards and regulations.

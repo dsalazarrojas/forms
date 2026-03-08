@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about incidents reported by customers. It is designed to be a comprehensive tool for tracking and documenting incidents, and it is intended to be used by customers to provide details about an incident they have experienced. This form is likely used by business or technical teams to monitor and address customer complaints.
-
-Before starting to fill in this form, please make sure you have not reported the same incident multiple times. If you are unsure whether you have already reported an incident or not, please contact us to check the status of your previous reports.
-
-The following guidelines are in place to help ensure that you report incidents effectively and efficiently:
-
-*   Please provide detailed descriptions and as much information as possible about the incident.
-*   Be as specific as you can when filling in the fields below.
-*   Use the available options to categorize and prioritize incidents accurately.
-
-</thinking>
-
 # Customer Incident Reporting Form - Help Guide
 ## Purpose
 The Customer Incident Reporting Form is a tool designed to collect detailed information about incidents reported by customers. This form helps business or technical teams to track and address customer complaints efficiently.

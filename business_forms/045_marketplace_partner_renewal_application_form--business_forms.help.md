@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to facilitate the renewal of partnerships with marketplaces, allowing partners to submit their application for renewal. The form is intended for partners that already have an existing partnership with the marketplace. 
-
-The form fields are structured to gather essential information such as contact details, renewal specifics, and partner information. To prevent duplication, this form will only allow a single submission per partner. 
-
-Please ensure to fill out the form accurately and completely, especially when submitting for renewal. This will ensure a speedy and successful review process. 
-
-</thinking>
-
 # Marketplace Partner Renewal Application Form - Help Guide
 ## Purpose
 The Marketplace Partner Renewal Application Form is used by existing partners to submit their application for renewal. This form is only intended for partners that already have an established partnership with the marketplace.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for uploading embroidery files for embroidery-related tasks such as creating custom designs, editing customer orders, and managing embroidery production. The form requires users to provide specific information about the file they're uploading, including the file type, size, customer details, and upload date and time. This ensures that the uploaded files are correctly categorized, sized, and attributed to the right customers. Please note that the form is not intended for uploading any other type of file, and the customer information is optional but recommended for accurate tracking and billing purposes. Also, the uploaded file size should be within a reasonable range to avoid overwhelming the system. This form will only process files that meet these criteria.
-</thinking>
-
 # Embroidery Upload Form - Help Guide
 ## Purpose
 This form is used for uploading embroidery files for various tasks such as creating custom designs, editing customer orders, and managing embroidery production. It ensures correct file categorization, sizing, and customer attribution.

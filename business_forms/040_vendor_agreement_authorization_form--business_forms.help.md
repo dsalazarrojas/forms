@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain vendor agreement information. Before creating the form, ensure that the purpose is relevant and no duplicate forms exist. If the form is intended to be used for another purpose or is a duplicate, do not proceed. The form has multiple pages, but only one page is presented in this help guide.
-</thinking>
-
 # Vendor Agreement Authorization Form - Help Guide
 ## Purpose
 The Vendor Agreement Authorization Form is used to collect information about a vendor's agreement with the company. This form is designed to gather essential details such as the vendor's name, agreement type, start and end dates, and other relevant information.

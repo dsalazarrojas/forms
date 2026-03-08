@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gauge the satisfaction and concerns of employees regarding their collective bargaining agreement (CBA) with their employer. The purpose of this form is to collect information on various aspects of the CBA, including union membership, job title, department, years of employment, awareness and satisfaction with current CBA, wages and benefits, working conditions, safety measures, grievance process, union representation, priority issues for next negotiation, importance of wage increase, opinion on strike action if needed, satisfaction with union communication, meeting attendance, interest in more union involvement, and additional comments or suggestions. 
-Please ensure you are filling this form in a work environment where you have the necessary time and focus to answer these questions accurately. 
-This form does not collect any personal data that could be used to identify individual employees. All responses are collected for internal analysis and improvement purposes only. 
-</thinking>
-
 # Collective Bargaining Survey - Help Guide
 ## Purpose
 The Collective Bargaining Survey is designed to gather information on employees' opinions and experiences with their current Collective Bargaining Agreement (CBA). The survey aims to collect data on various aspects of the CBA, including union membership, job satisfaction, and concerns about working conditions, wages, benefits, and more.

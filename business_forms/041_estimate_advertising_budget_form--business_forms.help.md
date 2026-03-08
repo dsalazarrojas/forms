@@ -1,7 +1,3 @@
-<thinking>
-This form is for estimating an advertising budget for a specific period. It's used to gather information about the budget's details, such as the start and end dates, ad budget, frequency, channels, budget type, allocation, target audience, location, and language. The purpose of this form is to streamline the process of estimating and tracking advertising budgets within an organization. It helps ensure that all necessary details are captured accurately and consistently. This form does not appear to be a part of a larger application or project, so it does not require any specific user authentication or session management logic.
-</thinking>
-
 # estimate_advertising_budget_form - Help Guide
 ## Purpose
 The estimate_advertising_budget_form is a template for estimating an advertising budget. It's a collection of fields that gather information about the budget's details, such as duration, budget amount, and allocation.

@@ -1,9 +1,3 @@
-<thinking>
-The "smart_home_system_access_request_form" is an internal form used by employees of an organization to request access to the smart home system for a specific reason. This form is meant to be completed by users who need access to the system for various purposes such as troubleshooting, maintenance, or testing. 
-The form is designed to be straightforward, with clear and concise fields that guide users through the required information. The purpose of this form is to ensure that access to the smart home system is granted with the right permissions and security protocols in place, which is crucial for maintaining the system's integrity and preventing unauthorized access. 
-To ensure that the form is completed correctly, please review the following steps and explanations for each field.
-</thinking>
-
 # smart_home_system_access_request_form - Help Guide
 ## Purpose
 The "smart_home_system_access_request_form" is an internal form used to request access to the smart home system. This form is required for all users who need access to the system for various reasons such as troubleshooting, maintenance, or testing.

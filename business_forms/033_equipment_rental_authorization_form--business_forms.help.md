@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # equipment_rental_authorization_form - Help Guide
 
 ## Purpose

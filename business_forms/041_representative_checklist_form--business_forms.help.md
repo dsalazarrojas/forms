@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a general business form designed to gather information about a representative, including their contact details, job information, and employment status. The form likely serves as a data collection tool for HR or administrative purposes. It seems to be used to collect information about a representative, which may include their name, contact details, job role, company address, and employment status. However, some fields appear to be optional, suggesting that the form may be adaptable for different use cases.
-</thinking>
-
 # Representative Checklist Form - Help Guide
 ## Purpose
 The Representative Checklist Form is a data collection tool used to gather information about a representative, including their contact details, job information, and employment status.

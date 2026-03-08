@@ -1,13 +1,3 @@
-<thinking>
-This form is a Digital Transformation Readiness Assessment Form, which aims to evaluate an organization's readiness for digital transformation. It's designed to help businesses identify areas of strength and weakness in their digital transformation journey. 
-
-The purpose of this form is to assess the level of alignment between an organization's current state and the required characteristics of a digitally transformed business. This assessment will help business leaders and decision-makers make informed decisions about where to focus their efforts for digital transformation initiatives. 
-
-Before proceeding, please ensure that you're completing this form in the context of your organization's current state and goals. This form is not meant to be a one-time assessment but rather a recurring exercise to monitor progress and identify areas for improvement. 
-
-Please review the following pages to ensure that you're not duplicating efforts or skipping important steps.
-</thinking>
-
 # Digital Transformation Readiness Assessment Form - Help Guide
 ## Purpose
 This form is designed to help businesses assess their readiness for digital transformation by evaluating various aspects of their current state and identifying areas of strength and weakness.

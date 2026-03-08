@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Permission To Trade Vehicle Form" which is used by <business> to manage the trade of vehicles with their customers. The form is not intended for general public use and is specific to the <business> internal processes. It's essential to fill out the form accurately and completely to ensure that the <business> can process the trade request correctly. Before completing the form, please review the following guide to understand the purpose and requirements of each field.
-</thinking>
-
 # Permission To Trade Vehicle Form - Help Guide
 ## Purpose
 This form is used to request permission to trade a vehicle with a customer. It's designed to gather essential information about the vehicle and the customer's request.

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to be used in a business setting to collect information from users regarding declinations. A declination is a formal rejection or cancellation of an event, meeting, or request. The form is used to gather details about the reason for the declination, the event date, and other relevant information.
-
-To prevent duplication, this form is designed to be used in a specific context and should not be used outside of that context.
-
-The form will be used by business stakeholders to gather information and make informed decisions.
-
-The form will be reviewed by the business team to ensure consistency and accuracy of the data entered.
-
-The form fields are designed to be simple and straightforward, with clear labels and instructions for users to follow.
-
-The form will be reviewed periodically to ensure that it continues to meet the needs of the business stakeholders.
-
-</thinking>
-
 # declination_response_form - Help Guide
 ## Purpose
 This guide is designed to help users complete the declination_response_form.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Nail Preorder Form CS - Help Guide
 =============================
 

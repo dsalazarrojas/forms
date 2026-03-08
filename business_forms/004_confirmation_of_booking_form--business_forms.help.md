@@ -1,13 +1,3 @@
-<thinking>
-
-**Purpose:**
-The Confirmation of Booking Form is used to record and confirm details of a booking made by a customer. This form serves as a reference point for both the business and the customer, ensuring all essential information is gathered and stored accurately. 
-
-**Relevance Check:**
-Before completing this form, ensure you've already made a booking and are ready to submit details specific to that booking. Duplicate bookings cannot be confirmed using this form. If you've lost your booking reference number or need to create a new booking, please contact us directly.
-
-</thinking>
-
 # Confirmation Of Booking Form - Help Guide
 ## Purpose
 ## How To Complete This Form

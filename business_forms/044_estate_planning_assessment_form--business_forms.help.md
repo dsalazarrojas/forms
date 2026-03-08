@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help individuals or organizations assess their estate planning needs. The form is designed to gather information on various aspects of estate planning, including goals, wills, trusts, asset distribution, beneficiaries, and real property ownership. To ensure the form is relevant and effective, it's essential to understand the purpose and structure of each field.
-</thinking>
-
 # estate_planning_assessment_form - Help Guide
 ## Purpose
 The estate planning assessment form is a tool to help individuals or organizations gather and organize information about their estate planning needs. This form is meant to be a comprehensive assessment of the user's goals, assets, and relationships to determine the best course of action for their estate planning.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to inspect the road condition, which involves checking for defects, rating the condition, and commenting on the overall state of the road. The purpose of this form is to collect data that will be used to assess and potentially address any issues found during the inspection. This form will be used to guide the inspector through the process of evaluating the road's condition, ensuring consistency and thoroughness in the data collected.
-</thinking>
-
 # Road Condition Inspection Form - Help Guide
 ## Purpose
 The Road Condition Inspection Form is used to assess and document the overall condition of a road, including its defects, rating, and comments. This form helps to ensure that the road's condition is thoroughly inspected and recorded accurately.

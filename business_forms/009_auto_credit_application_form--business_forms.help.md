@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect personal and financial information from customers who are applying for auto credit. This form is designed to help the dealership evaluate the customer's creditworthiness and determine whether they are eligible for credit. The form is used to gather detailed information about the customer's identity, employment, income, and credit history. By completing this form, the customer is providing the necessary information to enable the dealership to make an informed decision about their credit application.
-</thinking>
-
 # Auto Credit Application Form - Help Guide
 ## Purpose
 This form is used to collect personal and financial information from customers who are applying for auto credit. The form is used to evaluate the customer's creditworthiness and determine whether they are eligible for credit.

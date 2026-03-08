@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the offboarding process of analysts. It is a critical step in ensuring that all necessary information is collected and tasks are assigned to the right team members for the offboarding process to be completed successfully. This form should only be filled out for analysts who are leaving the company, and not for other types of employees.
-</thinking>
-
 # venture-capital-analyst-offboarding-form - Help Guide
 ## Purpose
 This form is used to collect information and assign tasks for the offboarding process of analysts who are leaving the company.

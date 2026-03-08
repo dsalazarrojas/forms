@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from a technician or engineer regarding the status of a work order or project. The form is intended to be completed by the technician/engineer themselves, and the data collected will be used to update the project status and facilitate communication with the team or client. To ensure that the form is used correctly, the following guide will walk you through each field and provide clear explanations to help users understand the purpose and requirements of each field.
-</thinking>
-
 # Technician Signoff - Help Guide
 ## Purpose
 The purpose of this form is to capture information from a technician or engineer regarding the status of a work order or project. This includes selecting the correct work status, providing contact information for on-site visits, confirming whether the technician has signed off on a particular task, recording the date and time of sign off, specifying the method used for signing off (e.g., digitally, with a signature pad, or with ink), and leaving any additional comments.

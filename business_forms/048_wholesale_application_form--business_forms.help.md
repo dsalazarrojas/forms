@@ -1,7 +1,3 @@
-<thinking>
-This form, "wholesale_application_form," is likely used within a business or organizational setting for wholesale applications, which could be for partnerships, collaborations, or other business-related purposes. This form is probably used to gather information from applicants, such as store names, addresses, and contact details. Before proceeding, please ensure you have not completed this form before, as it may be unnecessary to do so.
-</thinking>
-
 # wholesale_application_form - Help Guide
 ## Purpose
 This form is designed for wholesale applications, gathering information from applicants such as store names, addresses, and contact details.

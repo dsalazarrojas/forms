@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information about an HVAC system, including its location, type, and inspection date. This form will likely be used by maintenance personnel or inspectors to gather data on the system's status. Ensure this form is only used for HVAC system inspections and not for other types of system inspections (e.g., electrical systems). Duplicate submissions are likely not to be allowed as this form is designed to collect new information on each system inspected.
-</thinking>
-
 # hvac_system_inspection_form - Help Guide
 ## Purpose
 This form is used to collect information about an HVAC system's location, type, and inspection date. It is designed to gather data on the system's status and help maintain accurate records.

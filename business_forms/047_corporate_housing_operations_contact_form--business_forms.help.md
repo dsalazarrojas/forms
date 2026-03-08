@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to allow Corporate Housing Operations team members to collect contact information and inquiries from clients. This form is typically used for internal purposes and is not intended for public use. To ensure accurate and efficient data collection, it's essential to complete this form accurately and thoroughly.
-</thinking>
-
 # Corporate Housing Operations Contact Form - Help Guide
 ## Purpose
 The Corporate Housing Operations Contact Form is a tool used by the Corporate Housing Operations team to collect contact information and inquiries from clients. This form is essential for our team to understand client needs and preferences.

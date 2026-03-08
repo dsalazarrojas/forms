@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to contact the supply chain automation department at your company. To ensure that you get the most accurate and timely assistance, please only fill out this form if you are a legitimate customer looking for help with supply chain automation-related matters. If you have already contacted us previously, please do not fill out this form again.
-</thinking>
-
 # Supply Chain Automation Contact Form - Help Guide
 ## Purpose
 The Supply Chain Automation Contact Form is a tool used by customers to reach out to the supply chain automation department for assistance. Customers can use this form to inquire about various topics such as automation level, industry, company size, lead type, lead status, and lead source related to their supply chain operations.

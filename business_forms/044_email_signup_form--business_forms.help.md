@@ -1,7 +1,3 @@
-<thinking>
-This form is a business form designed to collect contact information and preferences from potential customers or leads. It is intended to gather data on how users wish to be contacted, which will allow the business to tailor its communication and provide relevant information to the user. The purpose of this form is to streamline the process of capturing and organizing user data. This form is an original adaptation of a public survey topic metadata, released under a Creative Commons license. 
-</thinking>
-
 # Email-Signup-Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and preferences from potential customers or leads.

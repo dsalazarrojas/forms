@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for documenting and tracking the results of sewer testing, which is crucial for identifying potential issues and improving the overall quality of the sewage system. The purpose of this form is to provide a standardized way to collect and store data about the testing frequency, location, type, and results of the tests.
-The form is divided into several sections, each designed to capture specific information related to the testing process. The required fields are marked as "required", but in practice, it's likely that most fields will be optional, as this form is intended to be a comprehensive record of events.
-
-The form is designed to be completed by the inspectors who perform the tests, but it's also useful for other stakeholders, such as maintenance personnel and system administrators.
-</thinking>
-
 # Sewer Testing Log - Help Guide
 ## Purpose
 The Sewer Testing Log is a form for documenting and tracking the results of sewer tests. Its purpose is to provide a standardized way to collect and store data about the testing frequency, location, type, and results of the tests.

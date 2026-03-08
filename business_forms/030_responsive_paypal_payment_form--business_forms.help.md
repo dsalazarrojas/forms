@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: This form is intended for customers to complete a payment for a product or service using PayPal or other payment methods. The form should be used to collect payment information from the customer, including product selection, contact details, and payment method preferences. The form is designed to be responsive, meaning it will adapt to the screen size and orientation of the device used to access it.
-
-To ensure that the form is completed accurately and efficiently, please follow the instructions below.
-
-Before filling out the form, please note that the form has multiple pages. Each page is dedicated to a specific set of fields. You can navigate between pages using the navigation buttons.
-
-</thinking>
-
 # Responsive Paypal Payment Form - Help Guide
 ## Purpose
 The form is designed for customers to complete a payment for a product or service using PayPal or other payment methods.

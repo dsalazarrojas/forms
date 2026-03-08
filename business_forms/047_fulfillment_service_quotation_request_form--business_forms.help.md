@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by customers to request quotations for fulfillment services. The form is designed to collect relevant information from the customer, including service requirements, pricing information, and contact details. The purpose of this form is to provide a clear and concise way for customers to communicate their needs to the fulfillment team, allowing for efficient and accurate quotation preparation. It's essential to complete this form accurately and thoroughly to ensure that the fulfillment service quotation meets the customer's requirements.
-</thinking>
-
 # Fulfillment Service Quotation Request Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The Preventive Maintenance Scheduling Form is designed to collect information for scheduling preventive maintenance on vehicles. It is intended for use in various industries where regular checks and maintenance are crucial for vehicle health and overall performance. This form can be used in the transportation, manufacturing, or logistics sectors, among others.
-To prevent unnecessary duplication of effort and ensure accurate data collection, it's essential to review the form thoroughly before completion to understand the context and the purpose behind each section. Please ensure that you're providing accurate and relevant information for the intended purpose of this form.
-</thinking>
-
 # Preventive Maintenance Scheduling Form - Help Guide
 ## Purpose
 This form is designed to collect information for scheduling preventive maintenance on vehicles.

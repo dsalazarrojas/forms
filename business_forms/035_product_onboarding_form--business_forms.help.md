@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive onboarding form for a product, likely used for customer or user registration. The form is designed to collect various types of information, including contact details (first name, last name, email, phone number), dates and times, notes, and multiple-choice options. The form has a mix of required and optional fields, indicating that some fields are necessary for processing while others are optional for providing more context or additional information. This form may be used for internal purposes, such as customer support or sales, or for external purposes, like public-facing registration forms. 
-</thinking>
-
 # product_onboarding_form - Help Guide
 
 ## Purpose

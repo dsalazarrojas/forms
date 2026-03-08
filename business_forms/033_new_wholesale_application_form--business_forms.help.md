@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_wholesale_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from businesses that wish to become wholesale customers. This form will help us to understand your business details and evaluate your application for our wholesale program.

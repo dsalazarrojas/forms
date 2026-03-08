@@ -1,7 +1,3 @@
-<thinking>
-We will be creating a help guide for the "Online Summit Videos Purchase Form". This form is likely used to collect information from users who want to purchase online summit videos. The form is likely used by a company or organization that offers video content, and the form is used to gather details from customers, such as their name, email, phone number, and other relevant information. The form also includes fields for terms and conditions, agreement, and other video-specific details such as price, duration, format, resolution, and quality. The purpose of this form is to facilitate the purchase process for online summit videos, ensuring that customers can easily provide their information and agree to the terms and conditions of the purchase. Before filling out this form, please make sure you are not duplicating a previous purchase or submission. If you have any doubts, please contact our support team.
-</thinking>
-
 # Online Summit Videos Purchase Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who wish to purchase online summit videos. Please fill out this form accurately and completely to facilitate the purchase process.

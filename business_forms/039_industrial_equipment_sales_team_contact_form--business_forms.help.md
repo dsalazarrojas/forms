@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # industrial_equipment_sales_team_contact_form - Help Guide
 
 ## Purpose

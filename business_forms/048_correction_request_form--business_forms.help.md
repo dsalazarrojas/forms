@@ -1,7 +1,3 @@
-<thinking>
-Checking the provided YAML fields to understand the form purpose and ensure it's not a duplicate effort.
-</thinking>
-
 # Correction Request Form - Help Guide
 ## Purpose
 The Correction Request Form is a tool used to request corrections or resolutions for issues or problems encountered in the business process. This form is designed to gather information about the problem, the expected resolution time, and any comments that may be relevant to the request. It's an essential tool for stakeholders to provide input and feedback on areas that need improvement.

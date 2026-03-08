@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for the purpose of creating a requisition request, which will be reviewed and approved by the relevant department heads before proceeding with the request. This form is primarily used for internal use within the organization. The fields are designed to collect necessary details such as department and location information, equipment description, and other relevant data.
-
-</thinking>
-
 # prophets - Help Guide
 ## Purpose
 This form is used to create a requisition request for internal use within the organization.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used for requesting software and related resources. The form is used to gather information about the software requested, including the type of software, department, and reason for the request. The information is used by the IT department to process and fulfill software requests.
-The form also includes fields for contact information, software description, version, and category, as well as status and assignment details. This form is designed to help the IT department track and manage software requests efficiently.
-It is assumed that the user filling out this form is either from the IT department or has been authorized to access the form by them.
-It is also assumed that the user is familiar with the options provided in the select fields and will be choosing the correct one for their request.
-</thinking>
-
 # Software Request Form - Help Guide
 ## Purpose
 This form is used to request software and related resources from the IT department.

@@ -1,7 +1,3 @@
-<thinking>
-The Intent To Vacate Form is a crucial document used to notify a tenant that their lease agreement will be ending, and they will need to vacate the premises on a specified date. This form is essential for property managers, landlords, and tenants to formalize the termination of the lease agreement and ensure a smooth transition. Before proceeding, please confirm that this form is relevant to your situation and not a duplicate effort. If you've already submitted a similar form, you may not need to complete this one.
-</thinking>
-
 # Intent To Vacate Form - Help Guide
 ## Purpose
 The Intent To Vacate Form is a document used to notify a tenant that their lease agreement will be ending, and they will need to vacate the premises on a specified date. It's essential to complete this form accurately to avoid any confusion or disputes regarding the lease termination.

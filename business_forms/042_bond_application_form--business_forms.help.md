@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an individual's bond application, including their personal details, employment status, housing status, family ties, and substance abuse and mental health history. The form is intended for use in a legal or court context, such as for a bond application or court proceedings. It is not for personal or non-business use. This form is meant to be filled out by the individual or their representative, and should only be filled out once for each individual.
-</thinking>
-
 # Bond Application Form - Help Guide
 
 ## Purpose

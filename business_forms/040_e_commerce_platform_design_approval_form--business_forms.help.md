@@ -1,7 +1,3 @@
-<thinking>
-This form is for designers and stakeholders to request approval for e-commerce platform designs. The form should be used by designers to submit their e-commerce platform designs for approval. The form will be completed by designers to ensure that the design meets the requirements and expectations of the stakeholders. Reviewers will be selected from the stakeholders to review the design and provide feedback. The form should not be used to request approval for designs that are already approved or rejected. 
-</thinking>
-
 # e-commerce_platform_design_approval_form - Help Guide
 ## Purpose
 The e-commerce platform design approval form is designed to facilitate the approval process for e-commerce platform designs. It ensures that the design meets the requirements and expectations of the stakeholders and provides a clear and transparent process for approval.

@@ -1,7 +1,3 @@
-<thinking>
-The custom_furniture_maker_referral_form is a form designed to collect information from individuals who are referring business partners or potential partners to a custom furniture making business. The form is used to gather details about the referrer and the referred business or individual. This form is used to assess potential partnerships and collaborations with businesses or individuals in the custom furniture making industry. To ensure that this form is filled out by the correct individuals and businesses, please verify that the referrer is indeed representing the referred business or individual before submitting the form. This form is a one-time submission form and should not be filled out by individuals or businesses that have already been referred in the past. 
-</thinking>
-
 # Custom Furniture Maker Referral Form - Help Guide
 ## Purpose
 The custom_furniture_maker_referral_form is used to collect information from business partners or potential partners to a custom furniture making business. It is used to assess potential partnerships and collaborations in the custom furniture making industry.

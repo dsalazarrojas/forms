@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to evaluate the governance and review process of corporate requests, ensuring that all necessary information is collected and tracked correctly. This form will help users understand what fields are required and what information is needed to complete it correctly. Please review the following help guide to ensure you complete the form accurately.
-</thinking>
-
 # Corporate Governance Evaluation Request Form - Help Guide
 ## Purpose
 The Corporate Governance Evaluation Request Form is used to collect and track information related to corporate governance and review requests. This form will help you to understand the status and progress of your review requests.

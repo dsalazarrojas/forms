@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to create a new holiday bundle order. The business logic behind this form is to collect information from the user for the holiday bundle order. This form will be used for both internal and external purposes such as for the company's internal order processing and customer service. To avoid duplication of information, the system may prevent the user from submitting the same bundle_id for the same customer or order status. 
-
-This form has multiple fields to collect relevant details. The user needs to fill in the bundle details, shipping address, order notes and other required and optional details as per the form structure. 
-
-This form may be used by both internal and external stakeholders such as customers, sales team, and customer service team. The information collected through this form will be used to process and follow up the order status with the customers. 
-
-</thinking>
-
 # Holiday Bundle Order Form - Help Guide
 ## Purpose
 This form is used to create a new holiday bundle order. Fill in the required and optional fields to provide detailed information for order processing and follow-up.

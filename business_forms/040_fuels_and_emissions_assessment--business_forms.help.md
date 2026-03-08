@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: The "fuels_and_emissions_assessment" form is used to assess a vehicle's emissions and fuel type, providing a structured way to collect relevant information for business purposes. This form ensures consistency and accuracy in data collection, which is essential for business analysis and decision-making. To maintain data accuracy, users should only fill out this form for vehicles that are within their company's scope of operations or business interests.
-
-Form fields should not be duplicated or filled out unnecessarily, as this can lead to inaccurate or redundant data.
-
-</thinking>
-
 # fuels_and_emissions_assessment - Help Guide
 ## Purpose
 The "fuels_and_emissions_assessment" form is designed to collect detailed information about a vehicle's characteristics, including its fuel type, emissions level, and other relevant attributes. This form helps ensure that accurate and consistent data is collected, which is vital for informed business decisions.

@@ -1,11 +1,3 @@
-<thinking>
-
-We're creating a user-facing help guide for a green building certification inspection form. The purpose of this form is to facilitate the process of evaluating and certifying buildings based on their environmental sustainability and efficiency. This form is likely used by building inspectors or auditors to assess various aspects of a building, such as its size, type, and energy usage, and provide a comprehensive report on its sustainability and efficiency ratings.
-
-Before we dive into the help guide, let's ensure that this form is not redundant or duplicative. A quick review of the YAML schema reveals that the form is focused on collecting data for green building certification, which is a relatively specific and niche topic. There are no obvious areas where this form overlaps with other forms or processes. So, we can proceed with creating the help guide.
-
-</thinking>
-
 # Green Building Certification Inspection Form - Help Guide
 ## Purpose
 The Green Building Certification Inspection Form is used to evaluate and certify buildings based on their environmental sustainability and efficiency. This form collects data on various aspects of a building, including its size, type, energy usage, and sustainability and efficiency ratings.

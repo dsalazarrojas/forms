@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to provide clear and concise instructions on how to complete the team leader feedback form, which is a crucial tool for facilitating open communication within the team and promoting a culture of constructive feedback. Before diving into the guide, it's essential to ensure that the form is being used for its intended purpose and not for other unrelated activities. This guide is designed to be a one-time reference for end-users, so they can quickly understand how to complete the form without requiring additional support.
-
-</thinking>
-
 # team_leader_feedback_form - Help Guide
 ## Purpose
 The team leader feedback form is a tool designed to facilitate feedback and communication within the team, allowing team members to provide constructive feedback to their colleagues, team leads, and management. This form is meant to be used when a team member wants to express their thoughts, ideas, or concerns to their team lead or management.

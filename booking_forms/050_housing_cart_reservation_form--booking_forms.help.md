@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the housing_cart_reservation_form is to collect information from guests who are making a reservation for a housing cart. The form is likely used by hospitality or hotel management teams to gather details about the guest's stay, including their name, email, reservation dates and times, and any equipment or facilities they may require during their stay. This form helps the team to efficiently manage reservations and provide excellent customer service.
-</thinking>
-
 # housing_cart_reservation_form - Help Guide
 
 ## Purpose

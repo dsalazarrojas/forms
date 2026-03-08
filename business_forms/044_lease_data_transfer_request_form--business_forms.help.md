@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request the transfer of lease data between teams or departments within the same organization. The form is designed to facilitate the submission of a lease data transfer request, providing the ability to specify the category, description, lease data, and other relevant details. The form is not intended to be used for external data transfer or external parties. Please ensure that the category and property team selections are accurate and relevant to the transfer request.
-
-</thinking>
-
 # lease_data_transfer_request_form - Help Guide
 ## Purpose
 This form is used to request the transfer of lease data between teams or departments within the same organization. It helps facilitate the submission of a lease data transfer request, providing the ability to specify the category, description, lease data, and other relevant details.

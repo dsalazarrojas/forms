@@ -1,9 +1,3 @@
-<thinking>
-This form is for email submission, used to collect customer or user information.
-We need to ensure that each submission is unique and not duplicated.
-This form will be used by customers or users to provide their contact information.
-</thinking>
-
 # e_mail_submission_form - Help Guide
 ## Purpose
 This form is used to collect customer or user information through email submission. It is intended to gather essential details such as name and contact information to improve communication and service quality.

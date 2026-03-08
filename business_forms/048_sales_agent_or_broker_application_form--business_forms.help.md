@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To avoid duplication, we'll be using a form for Sales Agents or Brokers to apply or renew their licenses, which is a critical part of maintaining accurate records in our database. This form will be completed by the sales agents or brokers themselves, and it ensures that all required information is provided, including contact details, broker information, and license specifics, as well as agency specifics, and termination or renewal information. This form will be used for both application and renewal purposes, and it's essential that all fields are filled out accurately to avoid delays in the process.
 
 # sales_agent_or_broker_application_form - Help Guide

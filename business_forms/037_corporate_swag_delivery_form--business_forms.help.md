@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Swag Delivery Form - Help Guide
 
 ## Purpose

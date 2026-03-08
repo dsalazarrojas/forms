@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather feedback on time management habits and systems from employees. It assesses their self-assessed work habits, time spent in work, work breaks, work hours, and other relevant skills and systems. The form also evaluates their perceived effectiveness of time management systems, support systems, and suggestions from managers and employees. The survey is intended to help managers and HR teams make data-driven decisions about employee support and time management training.</thinking>
-
 # Time Management Survey - Help Guide
 ## Purpose
 This form is designed to help employees provide feedback on their time management habits and perceived effectiveness of time management systems and support. The information gathered will be used by managers and HR teams to make data-driven decisions about employee support and time management training.

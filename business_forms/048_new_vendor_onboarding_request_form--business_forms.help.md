@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting new vendor onboarding, which is the process of adding a new vendor to your organization's system. To ensure that we don't onboard the same vendor twice, please review the vendor list before submitting this form. Please note that this form is a formal request and requires accurate information for efficient processing.
-</thinking>
-
 # New Vendor Onboarding Request Form - Help Guide
 ## Purpose
 The New Vendor Onboarding Request Form is used to request the addition of a new vendor to your organization. This form helps us gather all necessary information for successful onboarding.

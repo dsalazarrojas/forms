@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and requirements of the F1 Grand Prix Ticket Booking form. The form is designed to collect information necessary for booking tickets for the F1 Grand Prix, allowing users to specify their personal details, ticket type preferences, and payment methods. 
-
-Before proceeding, we should confirm that this form is not a duplicate and that the user has not already been booked for the same event. This will ensure accurate and efficient data collection.
-
-</thinking>
-
 # F1 Grand Prix Ticket Booking - Help Guide
 ## Purpose
 The F1 Grand Prix Ticket Booking form is designed to allow users to book tickets for the F1 Grand Prix event. Users can provide their personal details, ticket preferences, and payment information to complete the booking process.

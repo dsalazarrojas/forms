@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users to authorize and manage port access. This form is used internally within the organization to verify the identity and credentials of users requesting port access. It is crucial to provide accurate and complete information to ensure the correct and secure management of port access.
 
 </thinking>

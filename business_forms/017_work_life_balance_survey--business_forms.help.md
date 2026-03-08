@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help employees and managers better understand and balance their work-life balance. The form will collect information on various aspects of work life balance such as job satisfaction, work and life satisfaction, time spent working and outside work, and personal comments. The form will be completed by employees and managers to provide insights that can be used to inform company policies and initiatives to improve work life balance.
-
-To ensure that the form is completed correctly and efficiently, we will check for duplication and relevance before submitting.
-</thinking>
-
 # Work Life Balance Survey - Help Guide
 ## Purpose
 This form is designed to help employees and managers better understand and balance their work-life balance.

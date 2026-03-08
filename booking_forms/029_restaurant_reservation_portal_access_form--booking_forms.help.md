@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Reservation Portal Access Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to establish a contract with an ensemble coordinator for a specific job or project. The form is divided into several sections, including form title, category, description, dates, compensation, and contact information for both the ensemble coordinator and client. It is essential to fill out this form accurately to ensure a smooth and successful working relationship. Please ensure that you complete this form with the correct information and sign it when finished.
-
-</thinking>
-
 # Ensemble Coordinator Contract Form - Help Guide
 ## Purpose
 The Ensemble Coordinator Contract Form is used to establish a contract with an ensemble coordinator for a specific job or project. This form outlines the terms and conditions of the agreement, including the category, dates, compensation, and contact information for both parties involved.

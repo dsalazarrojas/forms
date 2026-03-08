@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate an employee's workplace productivity. It collects feedback from the employee, their manager, peers, and themselves, providing an overall evaluation of their work hours, productivity levels, and rating from different perspectives. This form is meant to be filled out periodically, such as at the end of each month or quarter. The evaluation will help identify areas of improvement and suggest ways to enhance productivity.
-</thinking>
-
 # Workplace Productivity Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and information from employees, managers, peers, and the employees themselves to evaluate their workplace productivity.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a chimney's condition and structure. It's designed to be filled out by a building inspector or chimney technician who has performed a verification check on a chimney. The form is used to collect data on the inspector's information, property details, and the chimney's specifications, as well as the results of the verification check.
-This form is likely to be used for regulatory or insurance purposes, such as verifying that a chimney meets certain standards or codes. It may also be used for maintenance or repair records.
-The form is quite extensive and covers various aspects of the chimney's condition, from its construction type to its integrity and flue condition. It's possible that not all fields will be applicable to every situation, so users should fill out only the relevant sections.
-</thinking>
 # Chimney Verification Form - Help Guide
 ## Purpose
 This form is designed to collect information about a chimney's condition and structure, used for regulatory, insurance, or maintenance purposes.

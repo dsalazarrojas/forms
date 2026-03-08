@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about digital signatures, specifically for business forms, legal forms, contracts, agreements, and documents. It asks users to indicate their authorization status for these types of forms, upload related documents, enter signatures, and provide details about the signature status, type, and level. The form also collects information about the expiration date and time for the signatures. This form is likely used in a business setting to manage and track digital signatures for various business purposes. 
-
-Please ensure this form is not duplicated or redundant, and that you understand the specific requirements and constraints of your organization before filling it out.
-
-</thinking>
-
 # Digital Signature Authorization Form - Help Guide
 ## Purpose
 The Digital Signature Authorization Form is designed to collect information about digital signatures for various business forms, legal forms, contracts, agreements, and documents. This form helps to track and manage digital signatures, ensuring that all necessary information is recorded accurately and consistently.

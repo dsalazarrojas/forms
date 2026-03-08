@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be a registration form for potential partners to partner with a business. The form asks for basic contact information and business details to help the company evaluate potential partnerships. The main goal is to create a comprehensive understanding of the partner's identity, location, and capabilities. This information will be reviewed internally to assess compatibility and potential for collaboration. To avoid duplication, please ensure you have not previously submitted a registration form for your business. If you're unsure about the purpose of this form or have questions, reach out to your account manager or support team for clarification.
-</thinking>
-
 # Machine Health Tracking Partner Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to provide your business information for potential partnership opportunities. This information will be reviewed internally to assess compatibility and potential for collaboration.

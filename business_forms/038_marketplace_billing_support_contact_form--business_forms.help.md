@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers or clients to contact the marketplace's billing support team for assistance with their invoices. The purpose of this form is to gather information from the user about their issue and provide a way for them to communicate with the billing team. This form will be used to ensure that the support team has all the necessary information to help resolve the issue promptly and effectively. Before filling out this form, please make sure you have not already contacted the billing team or submitted a similar issue in the past. This will help us to avoid duplication of efforts and ensure that your issue is addressed quickly and efficiently.
-</thinking>
-
 # Marketplace Billing Support Contact Form - Help Guide
 ## Purpose
 The Marketplace Billing Support Contact Form is used to gather information from customers or clients about their issues with invoices and provide a way for them to contact the billing team for assistance.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an SP Minecraft Group APPS. The purpose of this form is to collect data on the group's characteristics, such as its name, description, category, visibility, and tags. This form is intended for general use, but its purpose is not explicitly stated, so I will assume it's for internal use within an organization or community related to Minecraft groups. I will provide a comprehensive help guide to ensure end-users understand how to complete it correctly.
-</thinking>
-
 # SP Minecraft Group APPS - Help Guide
 
 ## Purpose

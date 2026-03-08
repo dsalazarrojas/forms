@@ -1,9 +1,3 @@
-<thinking>
-
-...This form is designed for customers or employees to contact the Property Automation Team with questions, issues, or other inquiries related to property automation. The form should only be filled out for new, unique, and non-duplicate requests. If you've submitted this form recently, it's likely that your issue has already been addressed. In that case, please reach out to the team member directly who dealt with your previous issue.
-
-</thinking>
-
 # Property Automation Team Contact Form - Help Guide
 ## Purpose
 The Property Automation Team Contact Form is a contact form for customers or employees to send messages, questions, or issues related to property automation to the Property Automation Team.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect data related to cold storage audits, specifically for food supply chain management. The purpose of this form is to ensure that products stored in cold storage facilities are maintained at safe storage conditions, which is critical for food safety and quality. The form requires information about user input, date, temperature, humidity, storage location, and any notes or comments related to the audit. This data will help in identifying areas of improvement and ensuring consistent storage conditions across the facility.
-
-</thinking>
-
 # Food Supply Cold Storage Audit Order Form - Help Guide
 ## Purpose
 The Food Supply Cold Storage Audit Order Form is designed to collect data on cold storage audits for food supply chain management. This form will help in ensuring that products stored in cold storage facilities are maintained at safe storage conditions, which is critical for food safety and quality.

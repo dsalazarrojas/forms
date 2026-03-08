@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to upload project plans. It is intended for project team members or stakeholders to provide project plans, including descriptions, files, and status updates. This form is likely used in business settings where project managers need to track and manage projects. Please ensure you only submit this form if you have been asked to do so by a project manager or team member, and only if you have a valid project plan to share. Please do not use this form for general purposes, such as testing or experimenting. If you've already uploaded a project plan, please do not submit this form again.</thinking>
-
 # project_plan_upload_form - Help Guide
 
 ## Purpose

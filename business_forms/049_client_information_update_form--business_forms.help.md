@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to update client information, allowing users to input new details such as contact information, address, and insurance provider. The form is designed to accommodate a wide range of updates, from minor changes like phone numbers to more significant updates like address changes or insurance information. It is essential to ensure that all inputted information is accurate to avoid any discrepancies or issues downstream. Please confirm that all provided information is correct before submitting the form.
-</thinking>
-
 # Client Information Update Form - Help Guide
 ## Purpose
 The Client Information Update Form is used to update client information, including contact details, address, insurance provider, and other relevant data.

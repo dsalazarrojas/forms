@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will now create a user-facing help guide for the "Corporate Transparency Consulting Application Form".
 
 # Corporate Transparency Consulting Application Form - Help Guide

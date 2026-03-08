@@ -1,10 +1,3 @@
-<thinking>
-...I'll create a comprehensive help guide for the Service Refusal Documentation Form. This form is designed to document a service refusal, which likely refers to a situation where a service or request is declined or not provided. The form aims to gather information about the reason for the refusal, the details surrounding it, and any relevant context. The goal is to provide a clear and concise record of the service refusal, which can be useful for future reference and analysis.
-
-Before proceeding, please review the form carefully to ensure you understand what it's used for and how to complete it. You can refer back to this guide if you have any questions or need clarification on specific fields.
-
-</thinking>
-
 # Service Refusal Documentation Form - Help Guide
 ## Purpose
 The Service Refusal Documentation Form is designed to document a service refusal, which can occur due to various reasons. By filling out this form, you'll be able to record the essential details of the refusal, including the reason, staff confirmation, and any relevant context.

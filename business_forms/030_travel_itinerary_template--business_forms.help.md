@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "Travel Itinerary Template" form, which is used to create a standardized template for travel itineraries. The form is intended to gather essential information for travel agency management and provide a structured format for planning and executing trips.
-The travel agency section of the form is optional but recommended for travel agencies to provide their contact information and details about their agency. The form is primarily used to gather information about the trip, including the travel dates, destination, and payment method. The travel dates field is a date field with a specified range of from 1-9-2015 to 1-1-2023, indicating that this is a fixed range of dates for the trip. The payment method field is a select one field with options for Credit Card, Bank Transfer, and Check, indicating that users must select one of these options for payment.
-Each field is designed to provide a clear and organized way to collect travel information, making it easier to manage and execute trips.
-</thinking>
-
 # Travel Itinerary Template - Help Guide
 ## Purpose
 The Travel Itinerary Template form is used to create a structured template for travel itineraries, helping travel agencies and planners to gather and organize essential information about trips.

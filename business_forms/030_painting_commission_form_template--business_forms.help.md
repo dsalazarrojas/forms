@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for artists to commission a painting service or similar creative work. The form likely serves as a template for artists to provide necessary information about their work, including details about the artwork, commission type, and payment preferences. However, I will wait for further clarification or confirmation before making any assumptions.
-</thinking>
-
 # painting_commission_form_template - Help Guide
 ## Purpose
 The painting commission form is designed for artists to provide detailed information about their commissioned works. It helps to efficiently collect relevant data for the production process.

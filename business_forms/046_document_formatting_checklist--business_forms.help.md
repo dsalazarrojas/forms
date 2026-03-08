@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help users ensure that their documents are properly formatted and visually appealing. This includes checking the layout, header section, and footer section to ensure they are correctly configured. This guide will walk you through each field to help you complete the form correctly.
-</thinking>
 # Document Formatting Checklist - Help Guide
 ## Purpose
 This form is used to verify that documents are formatted correctly to meet company standards.

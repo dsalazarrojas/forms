@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from potential suppliers of men's dress shoes. The purpose of this form is to gather details about the supplier, including their name, contact information, and product specifics such as style and product IDs, prices, and delivery details. 
-
-This form will likely be used by business stakeholders to source and purchase men's dress shoes from suppliers. 
-
-Please ensure that you're completing this form for the correct purpose and with relevant information. If you have already completed this form, you may not need to do so again. 
-
-The form is designed for new inquiries, not follow-up or duplicate requests.
-</thinking>
-
 # Men's Dress Shoes Supplier Inquiry - Help Guide
 ## Purpose
 This form is used to collect information from suppliers of men's dress shoes for business purposes.

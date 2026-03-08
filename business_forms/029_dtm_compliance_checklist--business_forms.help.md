@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a checklist designed to aid users in monitoring and maintaining compliance with various sections and regulations. It is likely intended for use within a business or organization, possibly in industries that require strict adherence to regulations and standards. The purpose of the form is to ensure that all necessary steps and actions are taken to maintain compliance, possibly for audit or reporting purposes.
-
-Before proceeding, ensure that you have the necessary permissions and access to complete this form, as some sections may be restricted or sensitive. The sections and questions within this form should be filled out by authorized personnel only.
-
-</thinking>
-
 # dtm_compliance_checklist - Help Guide
 
 ## Purpose

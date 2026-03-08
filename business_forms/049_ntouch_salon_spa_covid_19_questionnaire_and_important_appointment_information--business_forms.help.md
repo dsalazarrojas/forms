@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals visiting a salon and spa during the COVID-19 pandemic. This form is designed to gather essential details about each person's appointment, including their name, contact information, and preferences. It also includes sections for selecting specific services or options for customized experiences. This form is meant to be used as a general template, and users should only fill it out if necessary, as all fields are currently optional.
-</thinking>
-
 # ntouch_salon_spa_covid_19_questionnaire_and_important_appointment_information - Help Guide
 ## Purpose
 The form is designed to collect information from individuals visiting a salon and spa during the COVID-19 pandemic.

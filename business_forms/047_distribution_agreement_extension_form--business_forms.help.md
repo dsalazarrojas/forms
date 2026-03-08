@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for business stakeholders to request an extension to an existing Distribution Agreement. The extension might be due to some unforeseen circumstances or to accommodate changes in the business environment. This form is used by authorized personnel to review and possibly approve or deny the extension request. It is a simple form that requires minimal information for approval purposes. Please make sure to check if this form is not already being used for the same purpose before submitting the request.
-</thinking>
-
 # Distribution Agreement Extension Form - Help Guide
 ## Purpose
 The Distribution Agreement Extension Form is used to request an extension to an existing Distribution Agreement. It is a straightforward form used to provide essential information about the extension request.

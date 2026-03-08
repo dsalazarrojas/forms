@@ -1,17 +1,3 @@
-<thinking>... (checking relevance and duplication)
-
-This form appears to be designed for reporting or documenting non-conformances or issues within a business setting. It's likely used for quality control, regulatory compliance, or similar purposes.
-
-The form has three fields:
-
-*   A non-conformance topic field (page 1)
-*   A comments field (page 2)
-*   A files field (page 3) with options to upload or link files
-
-Based on the provided YAML, it seems that users must submit at least one file as part of the form. This form might be used to report non-conformances and attach relevant files for further review or reference.
-
-</thinking>
-
 # Non Conformance Notice Form - Help Guide
 ## Purpose
 The Non Conformance Notice Form is designed to document issues or non-conformances within a business setting. This form is used to report and track non-conformances, and it's essential to complete it accurately and thoroughly for proper review and reference.

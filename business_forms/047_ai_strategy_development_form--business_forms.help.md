@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AI Strategy Development Form - Help Guide
 ## Purpose
 This form is designed to help organizations assess and develop their AI strategy. It's a comprehensive survey aimed at understanding the current state of AI adoption and planning for its future integration in the organization. By completing this form, you'll be able to identify areas of improvement, prioritize AI initiatives, and develop a clear strategy for AI-driven innovation.

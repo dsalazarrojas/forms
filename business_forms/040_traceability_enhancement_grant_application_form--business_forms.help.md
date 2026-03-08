@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help businesses apply for a traceability enhancement grant. The purpose of this form is to gather information about the business and its project in order to determine the suitability of the grant. Please ensure that you have a clear understanding of the form's purpose and that you are not duplicating an existing application. This form is only for new applications.
-</thinking>
-
 # Traceability Enhancement Grant Application Form - Help Guide
 ## Purpose
 The Traceability Enhancement Grant Application Form is a tool used to help businesses apply for a grant to enhance their traceability. This form is used to gather information about the business and its project, and will help determine the suitability of the grant.

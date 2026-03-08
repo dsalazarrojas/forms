@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about businesses operating in the skincare industry, facilitating collaboration and partnerships. It appears to be designed to collect details about the business, such as its name, description, website, social media presence, contact information, and business type. This form likely aims to establish connections and partnerships between businesses, potentially for networking, trade, or other business-related purposes.
-
-To ensure accuracy, this form should only be completed by businesses operating within the skincare industry. Please ensure that you are entering information about a legitimate business in this field.
-
-If you are unsure about any of the fields, please reach out to the form administrators for clarification.
-
-</thinking>
-
 # Skincare_Business_Collaboration_Application_Form - Help Guide
 ## Purpose
 The Skincare Business Collaboration Application Form is designed to facilitate collaboration and partnerships between businesses operating in the skincare industry. This form collects information about businesses, their operations, and contact details to establish connections and facilitate networking.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by insurance companies to document the release of an insurance policy. It captures information about the policyholder and the agent involved in the release process. This form is intended for internal use and may not be intended for external use. It is not intended for use in conjunction with other forms that have the same purpose.
-</thinking>
-
 # insurance_policy_release_form - Help Guide
 ## Purpose
 This form is used to document the release of an insurance policy. It captures information about the policyholder and the agent involved in the release process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine the purpose of this form, we need to analyze the fields it contains. From the input schema, we can see that the form is related to production line communication and has fields for issue reporting, status tracking, team involvement, and comments. This suggests that the form is used for teams to report and track issues related to production lines, such as delays, errors, or other production-related problems. The form is likely used for internal communication and tracking within the production team.
 
 Upon closer inspection, we can see that the form has fields for issue description, issue category, issue priority, resolution, comments, team members involved, production status, production line, issue date, issue time, and comments for team leads and managers. This suggests that the form is a comprehensive tool for production teams to document and track issues, assign priorities, and communicate with team members.

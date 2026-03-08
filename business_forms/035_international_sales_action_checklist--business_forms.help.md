@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # international_sales_action_checklist - Help Guide
 
 ## Purpose

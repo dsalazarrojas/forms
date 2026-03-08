@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll need to ensure that the form's purpose and functionality are well understood by the end users. This guide will cover the "Taxi Online Booking" form's purpose, how to complete it, and each field's meaning, providing users with a clear understanding of what they need to do and what each field is for. I'll base the explanation on the provided YAML fields, being concrete, concise, and practical, and I'll avoid inventing unsupported business logic.
-
-</thinking>
-
 # Taxi Online Booking - Help Guide
 ## Purpose
 The "Taxi Online Booking" form is designed to let users book taxi services for a specific journey. The form allows users to input details such as pickup and dropoff locations, journey type (one-way, return, one day, or multiple), taxi type, and other relevant information to schedule their taxi ride.

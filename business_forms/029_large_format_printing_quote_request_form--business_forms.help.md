@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to be a general guide for users to submit their requests for large format printing services. The purpose of this form is to collect information from the user about their project details, print requirements, and other necessary information for the printing process. The form should be completed by the user to ensure that the printing company can accurately estimate and prepare for their printing needs. The fields should not be filled out if the information is already known or available from other sources (e.g. previous projects or previous communications with the client). Please note that the information submitted is for internal use only and will not be shared with any other parties.</thinking>
-
 # Large Format Printing Quote Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from the user about their project details and print requirements for the large format printing services.

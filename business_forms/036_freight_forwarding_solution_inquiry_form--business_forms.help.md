@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from potential customers or clients who are interested in freight forwarding solutions. The purpose of this form is to gather relevant details about their shipping needs, such as the type of service they require (domestic, international, or both), their preferred delivery timelines, and their contact information for follow-up inquiries.
-The form will not be used for duplicate inquiries, and all information collected will be treated confidentially.
-</thinking>
-
 # Freight Forwarding Solution Inquiry Form - Help Guide
 ## Purpose
 This form is intended to gather information from potential customers or clients about their freight forwarding needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather user information for real estate investment purposes. The form asks users to provide their investment preferences, financial status, investment goals, income, investment amount, risk tolerance, and time frame. This information can be used to generate a real estate investment guide or provide users with investment recommendations. I will make sure to cover all the fields and provide a comprehensive guide for the end-user.
-</thinking>
-
 # real_estate_investment_guide - Help Guide
 ## Purpose
 This form is designed to gather information about users' investment preferences and financial details to generate a real estate investment guide or provide personalized investment recommendations.

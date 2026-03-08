@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to test an electric shuttle. The purpose of this form is to gather relevant details from applicants to facilitate the electric shuttle testing process. This form should only be used by those who have a genuine interest in testing the electric shuttle, and not for other purposes such as soliciting business opportunities or marketing purposes. Please fill out this form carefully and accurately to ensure that your electric shuttle testing application is processed efficiently.
-</thinking>
-
 # Electric Shuttle Testing Application Form - Help Guide
 
 ## Purpose

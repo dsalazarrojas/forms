@@ -1,10 +1,3 @@
-<thinking>... internal reasoning to explain purpose and check for non-duplication:
-
-* Intern surveys are a valuable tool for gathering feedback from interns and improving the internship experience. They help to identify areas where the company can improve and provide opportunities for interns to suggest changes and ideas.
-* The survey is designed to be completed by the intern supervisor and is used to gather feedback on the intern's performance, strengths, and areas for improvement.
-* The survey is typically completed at the end of the internship and serves as a record of the intern's experience.
-</thinking>
-
 # intern_survey - Help Guide
 ## Purpose
 The Intern Survey is a tool used by intern supervisors to gather feedback from interns about their performance, experiences, and suggestions for improvement.

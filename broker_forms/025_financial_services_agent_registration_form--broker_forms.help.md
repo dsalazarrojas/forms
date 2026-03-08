@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register an agent for financial services. It is a crucial step for agents to provide their necessary information to be recognized and authorized as a financial service provider. This guide will walk you through the form fields and their explanations to ensure you complete the form accurately. Please note that all fields are optional unless specified as required. Before starting, ensure you are familiar with the form's purpose and required fields to avoid any confusion or missing information. Review the form carefully to ensure you are submitting accurate and complete information.
-
-</thinking>
-
 # financial_services_agent_registration_form - Help Guide
 ## Purpose
 The financial services agent registration form is designed to gather essential information from agents who want to be recognized and authorized as financial service providers. This guide will walk you through the form fields and their explanations to ensure accurate completion.

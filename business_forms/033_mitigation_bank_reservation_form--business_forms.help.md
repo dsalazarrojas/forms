@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a specific project in the mitigation bank, including details such as project name, credit type, start and end dates, credit amount, consultant and developer comments, project status, credit reserved by, assigned tool, email address, phone number, notes, reserved date and time, project ID, credit ID, creation and update dates, deletion date, assigned to, form ID, creation by, project name, and reserved by. This form is essential for tracking and managing projects in the mitigation bank efficiently.
-
-Before filling out this form, please ensure that you are only filling out the form once for each project. Duplicate entries can cause confusion and lead to incorrect information.
-
-To complete this form, please follow the instructions below.
-</thinking>
-
 # Mitigation Bank Reservation Form - Help Guide
 ## Purpose
 The Mitigation Bank Reservation Form is a crucial tool for collecting and tracking project information in the mitigation bank. This form helps to ensure that all necessary details are recorded accurately and efficiently.

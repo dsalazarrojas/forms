@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the current status of a company's inventory, gathering information on stock counts, locations, issues, and other relevant data. The form will be used to track and analyze inventory levels, identify potential problems, and inform decision-making processes.
-</thinking>
-
 # Monthly Inventory Assessment - Help Guide
 
 ## Purpose

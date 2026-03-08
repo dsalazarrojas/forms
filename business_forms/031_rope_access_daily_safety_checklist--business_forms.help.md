@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on the daily safety checklists required for rope access work. The purpose of this form is to ensure that all necessary safety protocols are in place and followed during rope access operations. The form should be completed by rope access workers and supervisors to verify that all necessary precautions and procedures are being taken to prevent accidents and injuries.
-</thinking>
-
 # rope_access_daily_safety_checklist - Help Guide
 ## Purpose
 This form is designed to gather information on the daily safety checklists required for rope access work. The purpose of this form is to ensure that all necessary safety protocols are in place and followed during rope access operations.

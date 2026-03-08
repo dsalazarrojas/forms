@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect utility billing information for customers. The purpose of this form is to ensure accurate and efficient billing for services provided by the utility company. The form is intended to gather information from customers regarding their account details, billing addresses, payment information, and account status. To ensure that this guide is relevant, I will review the form fields carefully and provide concrete explanations for each field. I will also check for any duplication of fields and provide unique explanations for each field.
-</thinking>
-
 # Utility Billing Form - Help Guide
 ## Purpose
 This form is intended to collect utility billing information for customers, ensuring accurate and efficient billing for services provided by the utility company.

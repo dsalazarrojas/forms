@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a youth entrepreneurship event registration. It is not directly affiliated with or endorsed by any specific form platform. The form is generated using AI and public survey topic metadata as inspiration.
-It's essential to review the form's purpose and fields to ensure it is relevant to your specific use case and not a duplication of effort.
-</thinking>
 # youth-entrepreneurship-event-registration - Help Guide
 ## Purpose
 This form is for registering participants for a youth entrepreneurship event. It collects information on participant details, contact info, and event-related topics.

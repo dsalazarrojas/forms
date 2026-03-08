@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We'll create a user-facing help guide for the Brand Strategy Advisory Contact Form.
 
 # Brand Strategy Advisory Contact Form - Help Guide

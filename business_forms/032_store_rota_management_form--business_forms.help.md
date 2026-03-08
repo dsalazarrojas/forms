@@ -1,6 +1,3 @@
-<thinking>
-We need to determine if this form is relevant to business operations and not a duplication of effort. We have a Store Rota Management Form with various fields such as store rotas, shifts, start and end dates, store managers, collectors, and more. This form seems to be related to managing store rotas, which is likely a part of operational management in a retail or business setting. We also see fields for store shift start and end times, which could be used to schedule employee shifts. This form appears to be designed for data collection and tracking purposes, possibly for reporting or analysis. Let's assume this form is a necessary tool for store rotas management and proceed with creating the help guide.</thinking>
-
 # Store Rota Management Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for the Ambers Color Street Sample Request Form, which is used to request samples from a company. This form is intended for customers who want to receive free samples of products from the company. The form's purpose is to gather information about the customer, their product preferences, and their contact details.
-Before proceeding, ensure that you have a valid reason for submitting this form, and that you have not already requested samples through other means. This will save both you and the company time and resources.
-</thinking>
-
 # Ambers Color Street Sample Request Form - Help Guide
 ## Purpose
 The Ambers Color Street Sample Request Form is designed to allow customers to request free samples from the company. This form helps us understand your product preferences and ensures that we get the correct samples to you.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about potential partners that are interested in global expansion. It helps us understand their company details, expansion plans, and interests. This form is not meant to be filled out by internal employees or partners that are already established with us. Please ensure that you are not completing this form if you have already been contacted by one of our representatives or if you are already a partner. If you are unsure, please reach out to our support team for clarification.
-</thinking>
-
 # global_expansion_consulting_partner_contact_form - Help Guide
 ## Purpose
 This form is designed to collect information from potential partners that are interested in global expansion.

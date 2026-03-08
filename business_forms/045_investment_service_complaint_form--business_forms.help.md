@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the Investment Service Complaint Form is used correctly to capture essential information from clients. This form is intended for clients to report any issues or concerns they have with our investment services. To confirm, this form is not for general inquiries or sales-related purposes. 
-
-We should check if similar forms exist in the current system, and if so, we can reuse and refine those to avoid duplication.
-</thinking>
-
 # Investment Service Complaint Form - Help Guide
 ## Purpose
 The Investment Service Complaint Form is designed to gather information from clients about any issues or concerns they have with our investment services. This form will help us understand the problem and resolve it promptly.

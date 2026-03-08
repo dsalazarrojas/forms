@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for service migration quote requests. The form should be completed by customers who are interested in migrating their existing IT infrastructure. This form is likely to be used by sales and technical teams to gather necessary information for the quote generation process. To avoid duplication of quotes, please ensure that you only submit one quote per service migration request. If a quote is already in place for this customer, please do not submit another one.
-</thinking>
-
 # Service Migration Quote Request - Help Guide
 ## Purpose
 The Service Migration Quote Request form is designed to collect relevant information from customers interested in migrating their IT infrastructure. This form helps the sales and technical teams to generate accurate quotes for the migration process.

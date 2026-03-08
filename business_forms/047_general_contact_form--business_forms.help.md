@@ -1,5 +1,3 @@
-<thinking>...this form is designed to collect general contact information from users. It's intended to be used by customers or business partners to reach out to us with questions, requests, or comments. I'm checking if this form will be used in conjunction with other contact methods or if it's a standalone solution... It looks like it's just a single form, so there's no duplication of effort.</thinking>
-
 # General Contact Form - Help Guide
 
 ## Purpose

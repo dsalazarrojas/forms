@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for businesses to apply for a loan from the PPP (Paycheck Protection Program) through the Small Business Administration (SBA). This guide is to ensure that users understand how to complete the form accurately and efficiently. Please review and verify that you are eligible for a loan and understand the requirements before proceeding.
-
-The form collects necessary business and owner information to process the loan application. The fields are categorized into two main sections: Business Information and Owner Information. This guide will walk users through each field's purpose and requirements.
-
-</thinking>
-
 # ppp_loan_application_form - Help Guide
 ## Purpose
 The Paycheck Protection Program (PPP) is a loan program offered by the Small Business Administration (SBA) to provide financial support to small businesses affected by the pandemic. This form is designed to collect necessary business and owner information for the loan application process.

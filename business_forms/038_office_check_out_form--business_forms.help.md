@@ -1,6 +1,3 @@
-<thinking>
-The office check out form is used for checking out offices. It is intended for use after the office has been occupied and the user needs to report the office usage status. This form helps in keeping a record of office usage and also provides an accurate account of when the office was checked out, staff involved, reason for check out, check out time, and other relevant details. This form should be completed for each office check out instance.</thinking>
-
 # office_check_out_form - Help Guide
 ## Purpose
 This form is used to record office check out information, including office check out date, staff involved, reason for check out, check out time, and other details.

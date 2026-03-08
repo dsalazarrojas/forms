@@ -1,11 +1,3 @@
-<thinking>
-
-We're creating a form for documenting product data flow. This form is used to gather information about how data is being transferred between systems. It's intended for internal use within a company and is meant to be a helpful resource for understanding data flow and potential issues that may arise. This form should not be used for external purposes or for sharing sensitive information.
-
-To ensure consistency, this form will only be used for documenting data flows that have been approved by the relevant stakeholders. Before proceeding, please verify that the data flow you're documenting has been reviewed and approved by the relevant teams and stakeholders.
-
-</thinking>
-
 # Product Data Flow Documentation - Help Guide
 ## Purpose
 This form is used to document the data flow of products within the company. It provides a clear and concise record of how data is being transferred between systems, which is crucial for identifying potential issues and ensuring data integrity.

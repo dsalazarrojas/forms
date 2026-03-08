@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to book a car wash appointment with a car wash service provider. It is a crucial part of the car wash service's operations, as it allows the service provider to understand the customer's needs, vehicle details, and preferences for the wash service. Ensuring the customer provides accurate and complete information is essential to provide the best possible service. The form should be filled out carefully, and customers should not attempt to book appointments without filling out the form completely. Please note that the form's purpose is to gather information for the car wash service, so please answer all questions truthfully and to the best of your ability.
-</thinking>
-
 # Car Wash Appointment Form - Help Guide
 ## Purpose
 The Car Wash Appointment Form is designed to help customers book a car wash appointment with the service provider's team. It helps the service provider understand the customer's vehicle details, preferred wash date and time, and other essential information to provide a quality service.

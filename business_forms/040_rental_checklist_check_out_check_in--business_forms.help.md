@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rental_checklist_check_out_check_in - Help Guide
 
 ## Purpose

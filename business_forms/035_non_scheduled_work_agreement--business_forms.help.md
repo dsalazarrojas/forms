@@ -1,15 +1,3 @@
-<thinking>Non Scheduled Work Agreement
-
-This form is used to document agreements between employees and management for non-scheduled work. It captures relevant details about the work, the client, and the agreement terms.
-
-The form is used to track non-scheduled work agreements, which are agreements that are not part of a regular work schedule. It is used to capture the details of the work to be done, the client's details, and the agreement terms.
-
-This form is not intended to be a substitute for regular work schedules, but rather a supplement to document non-scheduled work.
-
-Please review this form carefully to ensure that you are capturing all the necessary information.
-
-</thinking>
-
 # Non Scheduled Work Agreement - Help Guide
 ## Purpose
 The purpose of this form is to document non-scheduled work agreements between employees and management. It captures relevant details about the work, the client, and the agreement terms.

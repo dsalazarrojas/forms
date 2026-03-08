@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the purpose and context of the "Video To Text Conversion Request" form. Based on the provided YAML fields, it appears that this form is used to request a video-to-text conversion service, where users can upload a video file, select language details, and specify output preferences and format options. The form may be used by users who want to convert video files into text format for accessibility reasons or other purposes. The form does not require any specific input fields to be filled in, as most fields are optional. However, the form might not be suitable for users who are not familiar with uploading video files or do not have the necessary technical knowledge to fill out the form accurately.
-</thinking>
-
 # Video To Text Conversion Request - Help Guide
 ## Purpose
 The Video To Text Conversion Request form is used to request a video-to-text conversion service, where users can upload a video file and specify language details, output preferences, and format options to convert the video into text format.

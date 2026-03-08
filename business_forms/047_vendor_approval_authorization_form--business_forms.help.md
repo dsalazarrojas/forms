@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Approval Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information about a vendor, including their name, address, and contact details. It also captures contract-related information, such as contract type, terms, and date. The form is typically used for internal approval and management purposes.

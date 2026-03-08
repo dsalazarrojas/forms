@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect and document general work orders for employees and customers. The form's purpose is to provide a standardized way to capture essential information about a work order, including task details, deadlines, and contact information. This guide will walk you through each field of the form to ensure you complete it accurately and efficiently.
-
-</thinking>
-
 # General Work Order Form - Help Guide
 ## Purpose
 The General Work Order Form is used to document and track general work orders for employees and customers. It provides a structured way to capture essential information about a work order, including task details, deadlines, and contact information.

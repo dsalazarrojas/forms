@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record and track suspicious calls made to a business, presumably for security or customer service purposes. To avoid duplicating effort, the form is designed to be simple and straightforward. Its fields are minimal, focusing on essential details. The fields are also labeled with clear and descriptive titles to facilitate understanding. This form is intended to be a template, allowing modification and adaptation according to the user's specific needs. It is essential to ensure that the form is filled out with accurate and relevant information to maintain the integrity of the data.
-</thinking>
-
 # Suspicious Call Log Form Template - Help Guide
 ## Purpose
 The Suspicious Call Log Form Template is designed to record and track suspicious calls made to a business, such as harassment, threats, or other concerning incidents.

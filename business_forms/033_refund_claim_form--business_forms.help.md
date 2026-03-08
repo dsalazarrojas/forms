@@ -1,15 +1,3 @@
-<thinking>... Internal reasoning block to determine form purpose and fields relevance...
-We need to ensure this form is for customers to request a refund for their order. The form should only be filled out if a customer is requesting a refund for a specific order. The fields are:
-- Customer name: for the customer's name
-- Order ID: the ID of the order the customer is requesting a refund for
-- Reason for refund: a brief explanation for the reason the customer is requesting a refund
-- Amount claimed: the amount the customer is requesting as a refund
-- Date and time refund was requested: the date and time the customer is requesting the refund
-- Contact number: an alternative contact method for the customer
-- Email address: an alternative contact method for the customer
-
-</thinking>
-
 # refund_claim_form - Help Guide
 ## Purpose
 The refund claim form is used by customers to request a refund for their order. Fill out this form if you are a customer who has an issue with your order and would like to receive a refund.

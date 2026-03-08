@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report and document server downtime incidents that occurred during the operational hours. The purpose of this form is to gather information in a standardized format to help IT staff quickly identify and resolve issues. Before filling out this form, please ensure you have checked with your team leader or supervisor to confirm that the incident has not already been reported. Also, make sure you are reporting the correct incident.
-</thinking>
-
 # Server Downtime Incident Form - Help Guide
 ## Purpose
 

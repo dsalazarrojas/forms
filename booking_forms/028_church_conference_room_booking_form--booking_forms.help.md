@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the Church Conference Room Booking Form is a critical tool for scheduling and planning events within the church. Before proceeding, please note that this form is designed to gather detailed information about the event, and each field is crucial in ensuring a smooth and successful event. Please ensure that the information provided is accurate and complete to avoid any issues during the event. If you have any questions or concerns, please reach out to the relevant authorities for assistance.
-</thinking>
-
 # Church Conference Room Booking Form - Help Guide
 ## Purpose
 The Church Conference Room Booking Form is a crucial tool for planning and scheduling events within the church. This form is used to gather essential information about the event, ensuring that your event runs smoothly and efficiently.

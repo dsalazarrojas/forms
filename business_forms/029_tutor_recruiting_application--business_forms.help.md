@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential tutors who want to get hired for tutoring services. The form asks for personal details like first name, last name, email, and phone number, which are essential for communication and contact purposes. It also inquires about the student's goal, which helps the tutoring service understand their needs and match them with the right tutor. The form asks for information about the tutor's experience level, available days of work, preferred time, and preferred duration, which enables the tutoring service to determine their suitability for the position. All fields are carefully designed to provide a comprehensive understanding of the potential tutor.
-</thinking>
-
 # Tutor Recruiting Application - Help Guide
 ## Purpose
 The Tutor Recruiting Application form is designed to collect information from potential tutors who want to get hired for tutoring services. Fill out this form to apply as a tutor and get started with our tutoring service.

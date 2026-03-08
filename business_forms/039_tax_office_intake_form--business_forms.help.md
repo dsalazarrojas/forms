@@ -1,7 +1,3 @@
-<thinking>
-This form is for businesses to intake their information with the Tax Office. It is used for businesses to provide their office details to the Tax Office for official purposes. This form should only be completed by authorized business representatives. Please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Tax Office Intake Form - Help Guide
 ## Purpose
 The Tax Office Intake Form is a crucial document that helps the Tax Office gather essential business details for official purposes. Businesses are required to complete this form to provide their office information, ensuring that their records are accurate and up-to-date.

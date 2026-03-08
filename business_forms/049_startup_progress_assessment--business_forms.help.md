@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to assess the progress of a startup company. It is likely intended for use by business owners or stakeholders to evaluate the current stage and milestones of a startup, as well as identify any challenges or short-term goals. This form could be used by entrepreneurs, business advisors, or investors to gain insight into a startup's development and make informed decisions.
-
-It's worth noting that the form does not have any fields that are marked as "required", which means that users are not obligated to fill out any fields. However, this form does ask for multiple fields that are meant to provide context and insights, making it more likely that users will complete it in full. If a user is already familiar with the startup, it's possible that they may not need to fill out the entire form. On the other hand, if they have little to no knowledge of the startup, it's likely that they will need to fill out the entire form to get a complete picture of its progress and goals.
-
-Given the lack of requirements, this form could be used in a variety of scenarios, such as:
-
-* Quarterly or semi-annual progress reports
-* Business planning and strategy sessions
-* Investor or advisor meetings
-* Team progress updates
-
-It's worth noting that the form's design suggests that it's focused on the early stages of a startup, but it could still be used to assess progress for more established companies.
-
-The form does not seem to be duplicating any existing forms, as it's an original adaptation using only public survey topic metadata. The fact that it's open-sourced under CC BY 4.0 license means that users are free to use, modify, and even sell forms derived from it, as long as they give credit.
-
-</thinking>
-
 # startup_progress_assessment - Help Guide
 ## Purpose
 The purpose of this form is to assess the progress of a startup company, allowing users to evaluate its current stage, milestones, challenges, and short-term goals.

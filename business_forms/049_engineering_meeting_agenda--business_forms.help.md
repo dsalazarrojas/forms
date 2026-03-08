@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for creating an engineering meeting agenda. Its purpose is to help teams and individuals plan and document the key elements of a meeting, including the date, time, topics, and action items. This form is intended for use in a business or professional setting, and is meant to be a useful tool for ensuring that meetings are well-structured and productive.
-
-When creating a meeting agenda, it's essential to avoid duplication and ensure that all relevant information is captured. To this end, this form provides a clear and concise format for gathering the necessary details.
-
-</thinking>
-
 # engineering_meeting_agenda - Help Guide
 ## Purpose
 The purpose of this form is to create a meeting agenda for engineering meetings, capturing key details such as date, time, topics, and action items.

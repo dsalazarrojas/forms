@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from small business owners who are seeking development support from the Small Business Development Center. The purpose of this form is to gather essential details about the business, including its name, type, industry, address, and contact information. This information will be used to provide tailored support and resources to help the business grow and develop. 
-
-The form has multiple pages with various fields to collect different types of information. This guide will walk you through each field, making sure you understand what to expect and how to complete each section accurately.
-
-Before starting, make sure to review the form carefully and fill out any required fields to ensure you can submit your application successfully. This guide will cover all the fields in the form, from the required fields like First Name, Last Name, and Business Name, to the more specific fields like Industry and Time Zone.
-
-</thinking>
-
 # Small Business Development Center Intake Form - Help Guide
 ## Purpose
 The Small Business Development Center Intake Form is a critical document that helps us understand your business needs and provide you with the right support. Please answer all the questions accurately to help us tailor our assistance to your specific requirements.

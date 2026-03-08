@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in an event. The purpose of this form is to gather necessary details for waiver and release purposes. This form should only be used for events where a waiver and release is required. Ensure that the form is completed by a parent or guardian if the participant is a minor. Ensure that the participant understands the waiver and release terms before completing this form.
-</thinking>
-
 # Participation Waiver And Release Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in an event where a waiver and release is required.

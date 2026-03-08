@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly and informative help guide that explains the purpose and usage of the CV Creation Checklist form. I will carefully read through the provided YAML fields and ensure that each field label is clear and concise. I will also provide concrete, practical explanations for each field, taking care to not invent unsupported business logic. My final guide should be easy to follow, with each section and explanation designed to help users complete the form effectively and efficiently. I will output the guide in the required Markdown structure, making it easy for users to scan and understand the form's purpose, completion instructions, and field-by-field explanations.</thinking>
-
 # CV Creation Checklist - Help Guide
 ## Purpose
 The CV Creation Checklist is designed to help you ensure your CV is complete, professional, and tailored to the target job role. This form guides you through a series of checks to guarantee that your CV is in top condition before submitting it to potential employers.

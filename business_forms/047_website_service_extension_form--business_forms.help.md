@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be a generic form for users to submit website service extension requests. The purpose of this form is to gather relevant information from users to assess their website service extension needs. It is essential to ensure that users complete the form accurately and thoroughly to help our team understand their requirements effectively. To prevent duplication, please do not submit multiple requests for the same service type or with minor variations in the service type. Please review your selection carefully before submitting the form.</thinking>
-
 # Website Service Extension Form - Help Guide
 ## Purpose
 The Website Service Extension Form is designed to gather information from users about their website service extension needs. This form is used to understand users' requirements and to guide our team in providing the best possible service. 

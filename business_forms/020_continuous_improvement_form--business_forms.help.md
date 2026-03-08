@@ -1,5 +1,3 @@
-<thinking>As a continuous improvement form, the main purpose of this form is to collect ideas and proposals from employees for improving various aspects of the organization. This form is designed to help employees submit suggestions for process improvements, quality enhancements, cost reductions, and other areas where they believe the organization can be better. The form is meant to be a channel for employees to share their ideas and insights, which can help drive positive change and growth within the organization. It's essential to complete this form carefully, providing as much detail as possible, as it will help the organization better understand the submitted ideas and their potential impact.</thinking>
-
 # Continuous Improvement Form - Help Guide
 ## Purpose
 The purpose of this form is to collect continuous improvement ideas from employees for process, quality, cost, and other areas where they believe the organization can be better.

@@ -1,5 +1,3 @@
-<thinking>As a customer success application form, this form is designed to collect information about customers who are applying for a specific service or product. It appears to be used by a business organization to manage customer relationships and track customer data. The form includes fields for personal details such as name, email, phone number, and company information, as well as fields for role, location, onboarding date and time, and notes. It also includes fields for assigning a tool, category, description, tags, and creation details. This form is likely used by customer-facing teams or departments within the company to manage customer interactions and provide a smooth onboarding experience.</thinking>
-
 # Customer Success Application Form - Help Guide
 ## Purpose
 This form is used to collect information from customers applying for a specific service or product.

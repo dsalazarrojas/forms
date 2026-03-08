@@ -1,5 +1,3 @@
-<thinking>This form is used for evaluating a photovoltaic system, likely for quality control, certification, or regulatory purposes. The form is intended to gather information about a site, its photovoltaic system, usage, and other relevant details. This form was not created with any specific survey platform, but rather generated using AI to create an original adaptation of a general survey form. The form asks for general information, which may include site details, roof details, and contact information. The form has multiple fields, some of which are required and others that are optional. The fields include site details, roof details, usage details, contact details, solar provider details, system details, submission, review, certification, notes, and submitter.</thinking>
-
 # Photovoltaic System Evaluation - Help Guide
 ## Purpose
 This form is designed to gather information about a photovoltaic system, which can be used for quality control, certification, or regulatory purposes.

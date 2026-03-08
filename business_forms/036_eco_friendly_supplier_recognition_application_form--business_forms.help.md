@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used to collect information from suppliers about their sustainable practices and certifications. The form's purpose is to recognize and reward eco-friendly suppliers who have implemented sustainable practices and have relevant certifications.
-
-To complete this form, follow these steps:
-
-</thinking>
-
 # Eco Friendly Supplier Recognition Application Form - Help Guide
 
 ## Purpose

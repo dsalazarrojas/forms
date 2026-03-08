@@ -1,10 +1,3 @@
-<thinking>
-This form is used to process material orders from customers. It captures information about the materials being ordered, the customer's details, and the order status. This guide will walk you through the fields and their purpose, so you can fill out the form accurately.
-
-Before proceeding, please note that all fields are optional unless otherwise specified. The form will automatically save the input values upon submission.
-
-</thinking>
-
 # material_order_form - Help Guide
 ## Purpose
 The material_order_form is used to capture information about material orders from customers. It contains fields for customer details, material specifications, and order status.

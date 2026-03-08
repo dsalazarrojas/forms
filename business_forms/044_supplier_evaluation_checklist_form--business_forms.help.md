@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplier Evaluation Checklist Form - Help Guide
 ## Purpose
 This form is used to evaluate and document the quality and performance of a supplier. It helps to identify areas of improvement and maintain a record of evaluations for future references.

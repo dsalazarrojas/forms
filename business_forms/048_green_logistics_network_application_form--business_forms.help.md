@@ -1,12 +1,3 @@
-<thinking>
-This form is part of the Green Logistics Network Application Form, a document used to collect information from businesses seeking to join the Green Logistics Network. The form is designed to gather essential details about the business, including its name, contact information, and sustainability policies. 
-
-Before proceeding, ensure you are completing this form for the purpose of joining the Green Logistics Network and that you have the necessary authority to represent the business. The information provided will be used to create a company profile within the network.
-
-Please review the form carefully and ensure that all required fields are filled out accurately. If you have any questions or concerns, please do not hesitate to contact us.
-
-</thinking>
-
 # Green Logistics Network Application Form - Help Guide
 ## Purpose
 The Green Logistics Network Application Form is used to collect information from businesses that wish to join the Green Logistics Network. This information will be used to create a company profile within the network.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us collect feedback and testimonials from our clients. We want to hear about their experience with our services, what they liked or disliked about it, and how it helped them achieve their goals. This form will help us understand what we're doing well and what we can improve on. Please fill out the form carefully and honestly, and let us know if you're willing to share your story and photo/LinkedIn profile with us.
-</thinking>
-
 # Client Stories Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and testimonials from clients who have used our services. We want to hear about their experience, what we did well or poorly, and how we helped them achieve their goals.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sustainable_travel_cottage_booking_form - Help Guide
 
 ## Purpose

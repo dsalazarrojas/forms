@@ -1,10 +1,3 @@
-<thinking>
-...The form purpose and context are relevant and non-duplicitious in this scenario, as it is a simple and standard form for a Family Friendly Dinner Reservation.
-...The form purpose is to gather information for reservations at Family Friendly Dinner.
-...The form will not be duplicated as it serves a single, unique purpose.
-...The form has no dependencies, so the instructions will focus on explaining each field's purpose and usage in isolation.
-...</thinking>
-
 # Family Friendly Dinner Reservation - Help Guide
 ## Purpose
 This form is designed to allow you to reserve a table at Family Friendly Dinner by providing necessary information about your reservation.

@@ -1,7 +1,3 @@
-<thinking>
-To be honest, this form seems like a standard invoice review form that's used to track and manage invoices from subcontractors. It's likely part of a business process for reviewing and approving payments or requests from external contractors. This form might be used by accounting or finance teams to assess and verify the accuracy of invoices before processing payments. I'm assuming the form is used to ensure transparency and accountability within the company's financial dealings with external partners.
-</thinking>
-
 # Subcontractor Invoice Review Form - Help Guide
 ## Purpose
 This form is used to review and manage invoices from subcontractors. It helps the review team to assess and verify the accuracy of invoices before processing payments.

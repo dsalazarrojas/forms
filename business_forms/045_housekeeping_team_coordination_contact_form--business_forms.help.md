@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the Housekeeping Team to coordinate and communicate with team members, management, and other stakeholders about various issues and requests. It ensures that team members can effectively report and request help with their tasks, and that management can stay informed and respond to these requests in a timely manner. This form helps to prevent duplication of work and ensures that all necessary information is captured for reference and follow-up actions. It's essential to fill out this form accurately and completely to ensure that the issue is properly understood and resolved.
-</thinking>
-
 # Housekeeping Team Coordination Contact Form - Help Guide
 ## Purpose
 The Housekeeping Team Coordination Contact Form is a tool for team members, management, and stakeholders to communicate and coordinate on housekeeping-related issues. It helps to prevent duplication of work and ensures that all necessary information is captured for reference and follow-up actions.

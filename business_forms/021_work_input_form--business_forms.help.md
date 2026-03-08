@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Input Form - Help Guide
 ## Purpose
 The Work Input Form is designed to collect relevant information about employee work inputs. This form is used to record updates and activities related to projects, allowing for easy tracking and management.

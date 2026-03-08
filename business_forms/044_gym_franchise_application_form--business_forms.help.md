@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by individuals interested in becoming a gym franchisee. To confirm its relevance and prevent duplication, a potential user should first check if they have any existing relationships with the company or have previously submitted this form. 
-This form will guide users through a series of questions to collect necessary information for the application process. 
-</thinking>
-
 # Gym Franchise Application Form - Help Guide
 ## Purpose
 The Gym Franchise Application Form is a tool used by the company to collect information from individuals interested in becoming a gym franchisee. This form is essential in the application process, ensuring that the company receives all necessary details to review and consider the application.

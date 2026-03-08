@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to SEO (Search Engine Optimization) services quotations. This form is likely used to gather details about clients' expectations, services offered, and other relevant information to facilitate the quotation process.
-
-Before proceeding, ensure that this is the correct form for your purpose and that you're not duplicating efforts. Review the form's purpose and content carefully to avoid any potential issues.
-
-</thinking>
-
 # seo_optimization_quotation_form - Help Guide
 ## Purpose
 The seo_optimization_quotation_form is a business form used to collect information about SEO services quotations.

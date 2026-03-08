@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is for water recycling system quotations, and not for other types of quotations. This form should be used to request a quotation for a water recycling system installation project. It's crucial to check that this form is not being used for other purposes, such as general customer inquiries or support requests. This guide will explain how to complete this form correctly.
-</thinking>
-
 # water_recycling_system_quotation_form - Help Guide
 ## Purpose
 The water recycling system quotation form is used to request a quotation for a water recycling system installation project. This form helps us understand your requirements and provides us with the necessary information to create an accurate quotation for your project.

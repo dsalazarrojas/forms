@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for digital delivery partners to register their information for collaboration and partnership opportunities. This form collects contact information, vehicle details, and insurance information from the partner. The goal is to ensure accurate and up-to-date information is collected to facilitate a smooth partnership experience.
-
-To prevent duplication, this form has a unique ID for each section, which will help us track and manage individual partners' information.
-
-The fields are designed to collect necessary information for partnership purposes, and some fields are optional for partners to provide additional context or information.
-
-To complete this form, please follow the instructions below:</thinking>
-
 # Digital Delivery Partner Registration Form - Help Guide
 ## Purpose
 This form is designed for digital delivery partners to register their information for collaboration and partnership opportunities with our organization.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Bid Template - Help Guide
 ## Purpose
 This form is designed to assist contractors in submitting their construction bids to clients. It provides a structured and organized format for presenting bid details, ensuring that all necessary information is included and easily understood by the client.

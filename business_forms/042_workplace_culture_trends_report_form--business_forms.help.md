@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is likely used for assessing different aspects of workplace culture, such as employee satisfaction, engagement, communication, teamwork, diversity and inclusion, leadership, and work-life balance. The form may be used by HR or management teams to gather feedback and insights on these areas of workplace culture. It's possible that the form is part of a larger initiative to improve workplace culture, or to benchmark against industry standards.
-</thinking>
-
 # workplace_culture_trends_report_form - Help Guide
 ## Purpose
 This form is designed to help you provide feedback on various aspects of your workplace culture. It will help us understand your experiences and perceptions on different areas of workplace culture, including employee satisfaction, engagement, communication, teamwork, diversity and inclusion, leadership, and work-life balance.

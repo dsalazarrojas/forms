@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book a group for a team within an organization. The form is likely intended for use within a business or organization to manage bookings for team activities or events. Before proceeding, ensure that you are authorized to book a group and that the activity you are booking is not already scheduled.
-
-</thinking>
 # journeys_team_group_bookings_form - Help Guide
 ## Purpose
 This form is used to create a new group booking for a team within the organization. It is intended for booking team activities or events, such as meetings, workshops, or training sessions.

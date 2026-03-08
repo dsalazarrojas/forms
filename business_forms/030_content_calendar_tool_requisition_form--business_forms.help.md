@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Content Calendar Tool Requisition Form - Help Guide
 ## Purpose
 

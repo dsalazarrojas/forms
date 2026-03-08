@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect business proposal information from clients. It is intended for internal use and should be completed by authorized personnel only. The form is divided into sections that gather essential details about the proposal, including company information, proposal status, and finalization details. 
-
-The form will be used to generate a comprehensive business proposal, which will serve as a foundation for further discussions and agreements between the client and the company. 
-
-Please ensure that only authorized personnel complete this form to avoid duplication of effort and maintain data consistency.
-
-</thinking>
-
 # free-business-proposal-template - Help Guide
 ## Purpose
 The free-business-proposal-template is designed to collect business proposal information from clients.

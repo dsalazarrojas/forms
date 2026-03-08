@@ -1,8 +1,3 @@
-<thinking>
-To determine the purpose and correct implementation of this form, I'll analyze the provided YAML fields. 
-The form appears to be a simple form for buyers to provide their information related to an item order. This form likely serves for data collection purposes, such as customer service or sales departments.
-</thinking>
-
 # Item Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from buyers related to an item order. It helps our customer service or sales team to understand the buyer's needs and preferences.

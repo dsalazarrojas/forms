@@ -1,10 +1,3 @@
-<thinking>
-
-This form is designed to collect medical diagnostic test booking information. The form allows patients to provide their personal details, test preferences, and test results, while also capturing the doctor's signature and other relevant medical information. 
-
-The form's fields should not be duplicated, and the information is intended to be used for the purpose of booking medical diagnostic tests, hence it is a relevant form.
-
-</thinking>
 # medical_diagnostic_test_booking_form - Help Guide
 ## Purpose
 This form is designed to collect medical diagnostic test booking information from patients, including their personal details, test preferences, and test results.

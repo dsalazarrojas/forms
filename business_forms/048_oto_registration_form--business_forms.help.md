@@ -1,5 +1,3 @@
-<thinking>As a seasoned expert in form design and technical writing, I'll assume this form is intended for users to input personal details, such as contact information and demographic data. I'll review the form fields and provide a user-friendly help guide, focusing on clarity, conciseness, and practicality.</thinking>
-
 # Oto_registration_form - Help Guide
 ## Purpose
 This form is designed for users to input personal details, including contact information and demographic data. Please follow the instructions below to complete the form accurately.

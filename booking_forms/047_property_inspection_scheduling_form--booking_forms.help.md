@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule a property inspection. Property managers and inspectors can use this form to book inspections for specific properties, selecting the inspection type, inspector name, and inspection date and time. The form ensures that all necessary information is captured, including the property address, inspector contact details, and notes for the inspection. This form is intended for property managers to submit inspection requests and inspectors to receive notifications.
-</thinking>
-
 # Property Inspection Scheduling Form - Help Guide
 ## Purpose
 The Property Inspection Scheduling Form is used to schedule a property inspection. Property managers can use this form to request inspections for specific properties, while inspectors can use it to receive notifications and prepare for their inspections.

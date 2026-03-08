@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is intended for businesses or organizations to apply for a warehouse safety license. The form collects general information, safety details, emergency contact information, and declarations about the facility's safety status. It also inquires about facility details, license information, and other related aspects.
 
 # Warehouse Safety License Application Form - Help Guide

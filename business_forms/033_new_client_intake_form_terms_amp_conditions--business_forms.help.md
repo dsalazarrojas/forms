@@ -1,17 +1,3 @@
-<thinking>...
-This form is designed to collect information from new clients, specifically focusing on terms and conditions that apply to their use of services. The purpose of this form is to ensure that clients understand and agree to the terms and conditions before they can proceed with our services. 
-
-To determine if this form is the correct one for your situation, please consider the following:
-- Is this form intended for new clients, and do you need to collect terms and conditions information from them?
-- Have you already created a similar form or survey that targets the same purpose and audience?
-- Can you use this form as is, or do you need to make adjustments to fit your specific use case?
-
-If you've answered "yes" to the first question and determined that this form is indeed the correct one for you, then you can proceed with filling it out.
-
-If you answered "no" to the first question or need adjustments, please review the form fields and their explanations below to see if you can adapt it to your needs.
-
-</thinking>
-
 # new_client_intake_form_terms_amp_conditions - Help Guide
 ## Purpose
 This form is designed to collect information from new clients about the terms and conditions that apply to their use of services. This form ensures that clients understand and agree to these terms and conditions before proceeding with our services.

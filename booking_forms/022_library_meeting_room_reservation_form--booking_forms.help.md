@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Library Meeting Room Reservation Form". This guide will help end-users understand the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Library Meeting Room Reservation Form - Help Guide
 ## Purpose
 The Library Meeting Room Reservation Form is designed to help library staff reserve meeting rooms for events and activities. This form allows users to provide details about the meeting room, event, and attendees to ensure smooth and efficient reservation management.

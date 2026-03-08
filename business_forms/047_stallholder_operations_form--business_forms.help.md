@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and manage operations performed on stallholders. It is intended for internal use within an organization and is not meant for external parties. This form should only be completed by authorized personnel. The form has eight fields: event name, operation type, operation date, operation time, notes, email, phone, and assigned tool. Each field has a specific purpose and requirement for completion. Please ensure that you have the necessary permissions and follow the proper procedures before completing this form.
-</thinking>
-
 # Stallholder-operations-form - Help Guide
 ## Purpose
 This form is used to record and manage operations performed on stallholders.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture requests for content creation from team members within the organization. It will ask for basic information about the requester, the type of content needed, and the desired outcome. This will help the content team to create the right content for the right audience at the right time.
-The form will ensure that the content team is aware of the requester's requirements and can work efficiently to deliver high-quality content that meets the expectations of the requester. This will also help in avoiding duplication of efforts and ensuring that the content created aligns with the company's overall strategy and goals.
-</thinking>
-
 # Content Request Form - Help Guide
 
 ## Purpose

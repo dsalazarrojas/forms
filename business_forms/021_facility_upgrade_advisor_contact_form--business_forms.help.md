@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in upgrading their facility. The purpose of this form is to gather essential details about the user and their facility in order to provide personalized guidance and advice on upgrading their facility. Before proceeding, please ensure that this is the correct form for your needs and that you have not already submitted an inquiry. If you have any questions or concerns, feel free to reach out to us.
-</thinking>
-
 # facility_upgrade_advisor_contact_form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are interested in upgrading their facility. It will guide the user through a series of questions to gather essential details about their facility and provide personalized guidance and advice on upgrading it.

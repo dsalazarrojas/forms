@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the publishing agreement between the publisher and the author. This form helps ensure that all necessary information is collected and that the terms of the agreement are clearly understood by both parties. This form should only be used for new publishing agreements, and not for revising or updating existing ones. 
-</thinking>
-
 # Publishing Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information about a publishing agreement between the publisher and the author. It includes fields for author information, publisher information, agreement terms, electronic and print pricing, publishing date, and signatures from both the publisher and the author.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for weddings and other events. The Wedding Day Questionnaire will help event planners, organizers, and sponsors manage ceremony and reception details, contact information, and other essential aspects of the event. To ensure accuracy, it's crucial to complete the form carefully and thoroughly.
-</thinking>
-
 # Wedding Day Questionnaire - Help Guide
 ## Purpose
 The Wedding Day Questionnaire is a form used to gather essential details for wedding ceremonies and receptions.

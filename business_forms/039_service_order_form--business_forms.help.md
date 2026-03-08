@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from customers about their service order. It is designed to be completed by customers who want to request service from our organization. The form asks for details such as service type, start and end dates, service location, and contact information. The form is not a mandatory requirement, but it is helpful for us to better understand the customer's needs and provide accurate quotes or services.
 
 # Service Order Form - Help Guide

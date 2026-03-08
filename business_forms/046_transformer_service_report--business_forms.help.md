@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a transformer service report, which is likely used in the context of power distribution systems or electrical engineering. The purpose of this form is to gather details about the maintenance activity, including the transformer type, location, and duration of the service. The form is intended to be completed by a user with relevant knowledge and experience in this field. To avoid duplication, this form should not be used for general or unrelated purposes. If you are unsure or need to use this form for a different purpose, please reconsider your choice or contact us at form@gic.mx.
-</thinking>
-
 # Transformer Service Report - Help Guide
 ## Purpose
 The Transformer Service Report is a form used to document and report maintenance activities related to transformers in power distribution systems. It collects information about the transformer type, location, start and end dates, and other relevant details.

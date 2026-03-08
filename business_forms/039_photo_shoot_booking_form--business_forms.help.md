@@ -1,18 +1,3 @@
-<thinking>
-
-To determine the form's purpose, let's analyze the provided YAML schema. The form is designed for customers to book a photo shoot, which implies that it's intended for clients or customers looking to capture specific moments or events. The form collects various pieces of information, such as customer details, photo shoot preferences (session, type, date, start time, duration), contact information, and any additional messages. This form likely serves as a booking system for a photo studio or service provider.
-
-To check for relevance and non-duplication, let's examine the form's structure:
-
-* The form has two sections for customer details (Customer Details and Contact Information) with fields for name, email, phone, and additional notes. This suggests that the form is designed to collect both personal and contact information for the customer.
-* The form has two photo shoot sections (Photo Session and Photo Session 2) with fields for session preferences (type, date, start time, duration), which implies that the form allows customers to book multiple photo shoots with different preferences.
-* The form has a contact information field for each photo shoot, which suggests that customers may have different contact details for each shoot.
-* The form has a submit button for each photo shoot, which indicates that customers can submit separate booking requests for each shoot.
-
-Upon reviewing the form structure, it appears that the form is designed for customers to book multiple photo shoots with different preferences and contact information. The form's purpose is to collect relevant information for the photo studio or service provider to fulfill the customer's booking requests.
-
-</thinking>
-
 # Photo Shoot Booking Form - Help Guide
 ## Purpose
 The Photo Shoot Booking Form is designed for customers to book multiple photo shoots with different preferences and contact information.

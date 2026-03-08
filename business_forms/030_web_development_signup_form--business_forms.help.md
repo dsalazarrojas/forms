@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the "web_development_signup_form" form. This form is designed to collect information from developers who are interested in participating in web development projects. The form should only take a few minutes to complete and will ask for some basic details about the developer's name, email, website, phone number, date of availability, time of availability, and any notes they may have. This form is intended for internal use within our organization, and the information collected will be used to facilitate collaboration and project planning.
-
-Please note that the fields marked as "required" are mandatory and must be filled out for the form to be submitted.
-
-</thinking>
-
 # web_development_signup_form - Help Guide
 ## Purpose
 The web development signup form is used to collect information from developers who are interested in participating in web development projects.

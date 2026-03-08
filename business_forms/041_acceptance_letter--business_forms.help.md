@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to generate a formal acceptance letter, which is a legal document that confirms that an agreement or contract has been accepted by one party. The form is likely used in business settings to confirm the acceptance of job offers, project proposals, partnerships, or other agreements. To ensure the correct usage and completion of this form, please review the fields and instructions below.
-</thinking>
-
 # Acceptance Letter - Help Guide
 ## Purpose
 The purpose of this form is to generate a formal acceptance letter that can be used to confirm the acceptance of an agreement or contract. The letter serves as a legal document that acknowledges the terms and conditions of the agreement.

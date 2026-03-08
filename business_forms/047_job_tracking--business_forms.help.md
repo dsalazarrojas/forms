@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Job Tracking - Help Guide
 
 ## Purpose

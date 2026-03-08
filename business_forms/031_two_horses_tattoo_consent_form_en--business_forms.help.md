@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information for a two horses tattoo consent form, which is an agreement or acknowledgement that a client has given their consent for a tattoo to be administered. This form is meant to be completed by clients, and it's essential to ensure that all necessary information is filled out accurately to facilitate a smooth and safe tattooing experience. It's crucial to complete this form before starting the tattooing process. Please review the fields carefully to ensure you're providing the correct information. If you're unsure about any field, refer to the field-by-field explanation below.</thinking>
-
 # Two Horses Tattoo Consent Form (EN) - Help Guide
 ## Purpose
 The Two Horses Tattoo Consent Form is a document that confirms a client's consent for a tattoo to be administered. This form is used to gather essential information from the client, including their name, contact details, and consent for the tattoo.

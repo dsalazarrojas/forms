@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block: The purpose of this form is likely to collect information related to interior design material deliveries from suppliers. It may be used to track supplier details, delivery specifics, order information, items being delivered, shipping details, delivery status, and any relevant order notes. This form likely serves as a tool for administrators or managers to record and manage deliveries with suppliers for the interior design business or organization. To ensure relevance, this form should be used in the context of managing deliveries for the interior design business. To avoid duplication, ensure that this form is used for its intended purpose and not used for other non-related tasks.
-
-</thinking>
-
 # interior_design_material_delivery_form - Help Guide
 ## Purpose
 

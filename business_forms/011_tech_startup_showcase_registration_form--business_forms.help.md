@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Tech Startup Showcase Registration Form", a user-facing form designed to collect information about tech startups and their events. Before we dive into the guide, let's ensure the form is being used for its intended purpose and not being duplicated for the same use case. This form is meant to be used by tech startups to showcase their presence at events, conferences, and meetups. If you're reading this guide, it's likely that you're either a tech startup representative or an event organizer looking to register your startup for an event. 
-</thinking>
-
 # Tech Startup Showcase Registration Form - Help Guide
 ## Purpose
 The Tech Startup Showcase Registration Form is a simple form designed to collect information about your tech startup and its upcoming events. This form is used by tech startups to register for events, conferences, and meetups, and to showcase their presence in the industry.

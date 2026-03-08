@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a wholesale account application form. The form is likely used by customers or businesses to apply for wholesale accounts with a company. To ensure that users fill out the form correctly, we need to make the purpose and usage clear. We should also review the provided YAML fields and make sure the explanations are concrete, concise, and practical. Let's get started!
-
-</thinking>
-
 # wholesale_account_application_form - Help Guide
 ## Purpose
 This form is designed to help customers or businesses apply for wholesale accounts with our company. To complete this form, please provide us with your contact information and account details. We will use this information to review your application and get back to you soon.

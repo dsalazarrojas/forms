@@ -1,12 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the Community Association Candidate Nomination Form. This form is used for nominating individuals for various positions within the community association. The form collects information about the nominee, their background, and their qualifications for the desired position. The fields are structured to gather essential data that will aid in the selection process. It is essential to ensure that all fields are filled out accurately to ensure a smooth and fair nomination process.
-
-When filling out the form, please ensure that all required fields are completed, and any additional comments or information can be provided in the additional comments section. The form's fields will be reviewed and evaluated as part of the selection process.
-
-This guide will walk you through each field on the form, providing explanations and examples to help with the completion of the form.
-
-</thinking>
-
 # Community Association Candidate Nomination Form - Help Guide
 
 ## Purpose

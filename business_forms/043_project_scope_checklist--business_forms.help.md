@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for capturing project scope details, including description, objectives, deliverables, timeline, budget, team members, location, status, and other relevant information. It is meant to provide a comprehensive overview of the project, ensuring that all critical aspects are considered and understood by all stakeholders involved. To avoid duplication or irrelevant information, it is recommended to only fill in fields that are relevant to the specific project.
-</thinking>
-
 # Project Scope Checklist - Help Guide
 ## Purpose
 The Project Scope Checklist is a tool for project managers and team members to document and review project scope details. It ensures that all stakeholders have a clear understanding of the project's objectives, deliverables, timeline, budget, and other relevant information.

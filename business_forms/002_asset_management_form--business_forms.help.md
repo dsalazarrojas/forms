@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to manage assets within the organization, tracking their lifecycle stages, ownership, location, and other relevant details. This form is crucial for ensuring that assets are properly accounted for, audited, and disposed of when necessary. 
-</thinking>
-
 # Asset Management Form - Help Guide
 ## Purpose
 This form is designed to collect and track information about company assets, ensuring accurate records and effective asset management.

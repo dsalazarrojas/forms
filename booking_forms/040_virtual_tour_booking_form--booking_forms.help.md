@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for booking virtual tours, allowing users to provide information about the tour they want to book. The purpose of this form is to gather details about the tour, including its name, provider, start and end dates and times, type, duration, price, contact email and phone number, and any additional notes. This information will be used to facilitate the tour booking process.
-
-The form is likely to be used by customers or users who want to book a virtual tour with a provider, and the form will help the provider or tour operator to understand the customer's requirements and preferences.
-
-Before proceeding, please ensure that you have read and understood the form instructions and the information that needs to be provided.
-
-</thinking>
-
 # Virtual Tour Booking Form - Help Guide
 ## Purpose
 This form is designed to assist customers in booking virtual tours with providers. It requires information about the tour, such as its name, provider, start and end dates and times, type, duration, price, contact email and phone number, and any additional notes.

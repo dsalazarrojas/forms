@@ -1,14 +1,3 @@
-<thinking>
-This form is intended for wind turbine maintenance and inspection purposes. It's a simple form to collect general information about a wind turbine, its details, maintenance schedule, and any issues reported. It's likely used by wind farm maintenance personnel or wind turbine technicians. The form is meant to be filled out on a regular basis to track and document the status of wind turbines. 
-
-This form may be used in conjunction with other forms for more comprehensive maintenance and inspection processes. The fields included in this form are basic and straightforward, suggesting that the form is meant for simple, on-the-spot reporting. It's possible that the form is used as a starting point for more detailed documentation or as a precursor to more in-depth inspections.
-
-The form's fields are not very complex, suggesting that the form is not meant for collecting sensitive data or for use in high-stakes decision-making. The form's simplicity also suggests that it's intended for easy, frequent use, rather than for collecting data for research or scientific analysis. 
-
-Given the form's purpose and fields, it's likely that the form will be used in an industrial or commercial setting, such as a wind farm or a maintenance department. 
-
-</thinking>
-
 # Wind Turbine Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information for the maintenance and inspection of wind turbines. It helps track and document the status of wind turbines, ensuring they are properly maintained and inspected on a regular basis.

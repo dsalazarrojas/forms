@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Media Interview Room Request Form, I need to ensure that end-users understand the purpose of the form and how to complete it accurately. The form's purpose is to allow users to request access to a media interview room, which likely requires coordination with other teams or individuals. To prevent duplicate requests, the form should be submitted only once per user. This means that if a user already submitted a request, they should not be able to submit another one until the previous request is resolved. This form should be used for requesting media interviews, and the information collected will help in scheduling and coordinating these interviews.
-</thinking>
-
 # Media Interview Room Request Form - Help Guide
 
 ## Purpose

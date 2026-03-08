@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the COVID-19 Impact Survey For Businesses form, we will first consider the purpose and relevance of the form. This form is designed to assess the impact of the COVID-19 pandemic on businesses, gathering information on their operational, workforce, financial, and customer and market impacts. The survey aims to understand how businesses are faring during this crisis and what kind of support they might need to recover. It is essential to ensure that the survey is completed accurately and relevantly to the business operations.
-
-To avoid duplication, we should consider that the survey is intended for businesses that are still operational or those that have been impacted by COVID-19. We should also note that the responses will be used to inform support and resource allocation decisions.
-
-</thinking>
-
 # COVID 19 Impact Survey For Businesses - Help Guide
 ## Purpose
 This form is designed to help assess the COVID-19 impact on businesses, gathering information on operational, workforce, financial, and customer and market impacts. This will help in understanding how businesses are faring during this crisis and what kind of support they might need to recover.

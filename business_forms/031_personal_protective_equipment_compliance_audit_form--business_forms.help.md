@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to help businesses and employees ensure that personal protective equipment (PPE) is being used and inspected regularly. The form is used to document and track compliance with PPE usage and inspection requirements. It aims to promote a safe work environment by monitoring the use and inspection of safety equipment such as safety helmets, safety glasses, safety gloves, and safety goggles.
-</thinking>
-
 # Personal Protective Equipment Compliance Audit Form - Help Guide
 ## Purpose
 The Personal Protective Equipment Compliance Audit Form is a tool for tracking and monitoring the usage and inspection of personal protective equipment (PPE) in the workplace. This form helps ensure that employees are using the required PPE and that it is being inspected regularly to maintain workplace safety.

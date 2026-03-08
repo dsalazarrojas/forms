@@ -1,7 +1,3 @@
-<thinking>
-To confirm, you are seeking a user-facing help guide for a "Bakery Unsold Items Report" form. This form appears to be used by bakery staff to track and report unsold items on a daily basis, providing information on quantities and dispositions of unsold bread, pastries, cakes, and other items. The form includes fields for reporting dates, staff names, shift times, and various items sold or unsold. It seems that this form is intended to help the bakery monitor and manage waste, identify contributing factors, and suggest improvements. I will ensure that the help guide accurately reflects this purpose and functionality.
-</thinking>
-
 # Bakery Unsold Items Report - Help Guide
 ## Purpose
 This form is used by bakery staff to report unsold items on a daily basis. The report helps the bakery track inventory, manage waste, and identify contributing factors to unsold items.

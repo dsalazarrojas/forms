@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used by business users to request the conversion of PDFs to Word documents. This conversion might be necessary for various reasons such as editing, modification, or sharing the content of the PDFs. I will assume that the form is used within a business setting, possibly for official documents, contracts, or other business-related purposes.
-To ensure the form is not being used for duplicate submissions, I will also assume that some business logic may be in place to prevent or flag duplicate requests.
-</thinking>
-
 # pdf_to_word_conversion_request - Help Guide
 ## Purpose
 This form is used to request the conversion of PDF files to Word documents. The converted Word document can be used for editing, modification, or sharing of the PDF content.

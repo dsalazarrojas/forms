@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to request travel authorization for employees to facilitate their business trips or personal travel. It's designed to gather necessary information about the trip, including travel dates, type, purpose, destination, and employee details. To ensure that the form is completed accurately and efficiently, review the fields carefully and provide truthful information. Please note that this form has multiple optional fields, but providing detailed information in all fields will help with the processing of your request.
-</thinking>
-
 # Travel Authorization Request Form - Help Guide
 
 ## Purpose

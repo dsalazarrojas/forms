@@ -1,10 +1,3 @@
-<thinking>
-To ensure that the Artist Dressing Trailer Booking Form is used correctly and efficiently, let's first clarify its purpose. This form is designed to collect essential information from event organizers and artists to facilitate the booking of dressing trailers for various events, such as concerts, theater productions, and corporate events. The form will help streamline the process of understanding the event details, trailer requirements, and logistical needs.
-
-Before starting, please ensure that you're filling out this form for a legitimate booking request. If you're not sure what type of trailer is needed or if you have any specific requirements, please contact us to discuss further.
-
-</thinking>
-
 # Artist Dressing Trailer Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information about your event and trailer needs to ensure we provide the correct trailers for your artist or performers.

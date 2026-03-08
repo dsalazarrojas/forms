@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help business users calculate the return on investment (ROI) of a screening application. The purpose of this form is to input specific financial metrics related to the screening process, including screen time savings, implementation expenses, and expected and actual savings. The form is intended to be simple and user-friendly, allowing business users to quickly input and calculate their ROI.
 
 # Screening App ROI Calculator - Help Guide

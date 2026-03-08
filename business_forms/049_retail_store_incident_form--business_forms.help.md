@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## retail_store_incident_form - Help Guide
 
 ## Purpose

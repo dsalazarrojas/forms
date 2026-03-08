@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the current state of assets within a specific location or facility. The form is intended to be used by surveyors or assessors to collect data on the condition, location, and utilization of assets, as well as any maintenance or security concerns. This data will help asset managers and administrators make informed decisions about asset allocation, maintenance, and disposal. It's essential to complete this form accurately and thoroughly to ensure that the data collected is reliable and useful for decision-making.
-
-Please note that this form should not be filled out multiple times for the same location or facility. If a survey has already been conducted, please do not duplicate the form. Instead, update the existing survey record.
-
-Before starting the survey, make sure you have the necessary information and permissions to complete the form. If you are unsure about any of the fields or questions, refer to the instructions below or consult with a team member for clarification.
-
-</thinking>
-
 # Asset Survey - Help Guide
 
 ## Purpose

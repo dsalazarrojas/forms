@@ -1,9 +1,3 @@
-<thinking>
-This form is used for retail media network partners to register their information and propose a partnership. This form is used to gather data about the partner's business, including their contact information, business type, company size, and industry sector. The form also includes fields for social media links and communication channels. This form is only for retail media network partners, so if you are not a retail media network partner, please do not fill out this form.
-
-This form checks for non-duplication by checking if the user's company email is already registered in the system. If it is, they will be notified and not allowed to proceed. 
-</thinking>
-
 # retail_media_network_partner_registration - Help Guide
 ## Purpose
 The purpose of this form is to register retail media network partners and gather information about their businesses.

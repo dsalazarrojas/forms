@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a driver's performance, including scoring, comments, and incident details. The form is likely used by trainers or evaluators to assess a driver's ability to operate a vehicle safely and effectively. It is not clear from the provided YAML if the form is used for a specific business or industry, but its purpose is likely to provide data for training, coaching, or performance evaluations. There may be other similar forms used in various contexts, but the Driver Scoring Form is a unique tool for assessing driver performance.
-</thinking>
 # Driver Scoring Form - Help Guide
 ## Purpose
 The Driver Scoring Form is a tool used to collect data on a driver's performance, including scoring, incident details, and comments.

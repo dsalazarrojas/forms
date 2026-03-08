@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for rebooking gym classes, allowing students to provide information about their next term, rebooking preferences, and other details. The form likely aims to facilitate smooth rebookings and minimize misunderstandings. The fields appear to be for general rebooking purposes, possibly for students rebooking into new classes or adjusting their current ones. I'll create a user-facing help guide based on the provided YAML fields.
-</thinking>
-
 # Gym Class Rebooking Form - Help Guide
 ## Purpose
 This form is designed to assist students in rebooking their gym classes. It collects information about their rebooking preferences and other relevant details to facilitate a smooth rebooking process.

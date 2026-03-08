@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help businesses and organizations assess their facilities' accessibility features for individuals with disabilities. The public_accessibility_checklist_form checks for various aspects of public accessibility, including entrance and pathway accessibility, seating and dining areas accessibility, accessible toilets and showers, and more. This form will help you evaluate and document the accessibility features of your facility to ensure it meets accessibility standards and is welcoming to everyone.
-
-Before filling out this form, please make sure that you have reviewed your facility's accessibility features thoroughly, as this form is not meant to be a comprehensive audit but rather a quick checklist to help you identify areas that need improvement.
-
-</thinking>
-
 # public_accessibility_checklist_form - Help Guide
 ## Purpose
 The public_accessibility_checklist_form is designed to help businesses and organizations assess their facilities' accessibility features for individuals with disabilities.

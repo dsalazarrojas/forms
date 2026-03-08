@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to be used for customers to order spa products, such as facials, massages, or other services offered by a spa. To determine if this form is relevant to your business, consider the following:
-
-* Is your business a spa or wellness center?
-* Do you offer a variety of spa products and services?
-* Are you looking for a way to collect customer information and preferences for orders?
-
-If the answer is yes, proceed with the guide below.
-
-</thinking>
-
 # Spa Products Order Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect business information from users. It is intended for internal use within the company, and the data collected will be used to tailor our services and offerings to meet the needs of our business customers. Please note that this form should not be used to collect personal information about individuals, and all fields are marked as required or optional depending on their relevance and necessity for the business information collection purpose. To ensure a complete and accurate submission, please fill out each required field. If you are unsure about any field or its purpose, please contact us for assistance.
-</thinking>
-
 # Business Sign Up Form - Help Guide
 ## Purpose
 This form is designed to gather information about your business, including contact details and company specifics. This information will help us provide you with the best possible services and support.

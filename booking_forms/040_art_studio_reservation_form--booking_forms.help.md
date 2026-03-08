@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, I'll ensure that this help guide covers the essential information for end-users. The Art Studio Reservation Form is designed to collect necessary details for a successful art studio reservation. It's essential to complete this form accurately to ensure a smooth experience for both the customer and the studio staff. I'll focus on explaining each field clearly and concisely, following the provided YAML fields for guidance.
-
-</thinking>
 # Art Studio Reservation Form - Help Guide
 ## Purpose
 This form is used to book a reservation for an art studio session. It collects essential information such as date, time, session duration, and other relevant details required for a successful reservation.

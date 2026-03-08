@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for verifying an employee's travel policy adherence. The purpose of this form is to gather information about an employee's business travel habits to ensure they are following the company's travel policy. The form is likely used by HR or management to review and verify an employee's travel activities to prevent any potential issues or misuse of company funds. This form is likely not intended for use by employees to request travel approval, but rather to provide a structured and standardized way to verify compliance.
-
-To avoid duplication, this form likely doesn't contain fields for employees to request new travel approvals, and instead focuses on gathering information about existing travel activities.
-
-The form appears to be divided into sections, likely representing different aspects of travel activities.
-
-The form is intended for use by HR, management, or other authorized personnel.
-
-To ensure correct completion, please refer to the provided field-by-field explanation below.
-</thinking>
-
 # corporate_travel_policy_verification_form - Help Guide
 ## Purpose
 The purpose of this form is to verify an employee's adherence to the company's travel policy. It is used to gather information about business travel habits to ensure compliance.

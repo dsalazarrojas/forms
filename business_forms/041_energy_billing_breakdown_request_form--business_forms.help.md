@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Energy Billing Breakdown Request Form" to ensure end users understand the purpose and requirements of the form, how to complete it, and what each field means. This form likely deals with energy billing breakdown requests, which involves providing information about energy consumption or billing inquiries. To ensure clarity, we'll focus on explaining each field in a concise and practical manner.
-</thinking>
-
 # Energy Billing Breakdown Request Form - Help Guide
 ## Purpose
 The Energy Billing Breakdown Request Form is designed to provide detailed information about energy consumption or billing inquiries. This form helps users submit their energy billing breakdown requests, allowing the energy provider or billing manager to address their concerns efficiently.

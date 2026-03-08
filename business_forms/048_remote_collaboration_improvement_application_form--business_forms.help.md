@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users about their remote collaboration improvement needs and preferences. It is intended to be used by business stakeholders to gauge the effectiveness of current collaboration tools and identify areas for improvement. The form is not meant to be used for any other purpose.
-
-Please note that this form is optional and its completion will help the business stakeholders to better understand the needs and requirements of their employees when it comes to remote collaboration. If you're unsure whether you should fill this out, please contact your supervisor or HR representative.
-
-Also, please note that the form will only be used for internal purposes and the data collected will not be shared outside the organization.
-
-</thinking>
-
 # Remote Collaboration Improvement Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their remote collaboration improvement needs and preferences.

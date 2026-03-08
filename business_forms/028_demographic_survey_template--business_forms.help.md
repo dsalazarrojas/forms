@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Demographic Survey Template - Help Guide
 ## Purpose
 

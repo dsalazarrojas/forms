@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Growth Consulting Partnership Contact Form - Help Guide
 
 ## Purpose

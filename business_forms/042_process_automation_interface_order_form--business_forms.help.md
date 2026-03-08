@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Process Automation Interface Order Form - Help Guide
 ## Purpose
 The Process Automation Interface Order Form is a tool used to manage and track orders for automation and integration solutions within your organization. This form collects information about the business, solution, and customer details to ensure efficient order processing and assignment of tasks to the correct team members.

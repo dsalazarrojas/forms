@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that your local partnership proposal request form is completed accurately and efficiently, please take a moment to review the form's purpose and fields.
 
 This form is designed to gather information about your local partnership proposal, including business details, contact information, proposal title, and submission details. The form is intended to be completed by businesses or organizations seeking to establish a partnership with our company. We kindly request that you complete the form accurately and thoroughly, ensuring that all required fields are filled in.

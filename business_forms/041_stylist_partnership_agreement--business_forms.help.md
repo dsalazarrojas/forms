@@ -1,7 +1,3 @@
-<thinking>
-This form is for documenting and formalizing a partnership between a salon and a stylist. The form captures key information to establish a partnership agreement, including details about the salon, the stylist, and terms and conditions. To avoid duplication, make sure to review and understand the context before filling out the form. 
-</thinking>
-
 # StylistPartnershipAgreement - Help Guide
 ## Purpose
 The StylistPartnershipAgreement form is designed to document and formalize a partnership between a salon and a stylist. This form captures the necessary details to establish a comprehensive partnership agreement.

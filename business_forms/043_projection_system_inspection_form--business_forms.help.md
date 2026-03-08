@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback and insights about a projection system, allowing users to report any issues or concerns they encounter during the system's usage. It is meant to be completed by users who have experience with the projection system, likely project managers or team members. The fields in this form are intended to gather information about various aspects of the system's performance, including any technical issues, functionality concerns, and overall user experience.
-
-</thinking>
-
 # projection_system_inspection_form - Help Guide
 ## Purpose
 The projection system inspection form is used to collect feedback and insights about the projection system, helping to identify areas for improvement and ensure the system meets user needs.

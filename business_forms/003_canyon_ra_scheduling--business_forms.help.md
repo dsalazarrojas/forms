@@ -1,10 +1,3 @@
-<thinking>
-We will be using this form to collect information from residents to schedule meetings with their Resident Director (RD). 
-The form will be used to gather details about the resident's availability, preferred date and time, and any specific needs or requests they may have.
-This form is designed to be completed by residents who need to schedule meetings with their RD. The purpose of this form is to streamline the meeting scheduling process and ensure that both the resident and RD are aware of the meeting details.
-The form will be reviewed and approved by the RD before sending a meeting invitation to the resident.
-</thinking>
-
 # Canyon RA Scheduling - Help Guide
 ## Purpose
 This form is used to schedule meetings between residents and their Resident Director (RD) for various purposes such as initial check-ins, roommate mediations, community concerns, personal support, event planning, policy questions, and emergency meetings.

@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure this form is for the right purpose and that you haven't already completed it. The Ministry Partnership Form is a document used to establish partnerships between ministries and external organizations. It helps to formalize the relationship, outline expectations, and define the scope of work. Please ensure you have a legitimate reason to fill out this form and haven't already done so. If you're unsure or have already completed it, please revisit your workflow or contact your supervisor for clarification.</thinking>
-
 # Ministry Partnership Form - Help Guide
 ## Purpose
 The Ministry Partnership Form is a document used to establish partnerships between ministries and external organizations. It helps to formalize the relationship, outline expectations, and define the scope of work.

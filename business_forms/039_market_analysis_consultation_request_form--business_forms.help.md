@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from companies seeking market analysis consultation services. Market analysis is a process of evaluating a company's current market position, identifying areas for improvement, and developing strategies to increase market share. By completing this form, companies can request a consultation tailored to their specific needs, providing the necessary information for our team to offer valuable insights and recommendations. Please ensure you're filling out this form only once to avoid duplication of requests. This form is not affiliated with or endorsed by any form platform, and the data collected will be used solely for the purpose of providing consultation services.
-
-</thinking>
-
 # Market Analysis Consultation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from companies seeking market analysis consultation services. By completing this form, companies can request a consultation tailored to their specific needs.

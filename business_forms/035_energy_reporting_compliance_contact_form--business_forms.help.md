@@ -1,9 +1,3 @@
-<thinking> This help guide is intended to guide end-users on how to complete the "Energy Reporting Compliance Contact Form" which is used to collect information from clients and customers about their energy-related concerns, questions, or issues. The form is designed to capture relevant data such as contact information, type of energy, company details, location, and other relevant fields.
-
-Before starting, please note that you will be filling out this form for each type of energy and company separately. This means you will be completing the form once for each category and not for all categories at once. Also, the fields may vary depending on your selected options, so please read each section carefully to avoid missing out on any important information.
-
-</thinking>
-
 # Energy Reporting Compliance Contact Form - Help Guide
 
 ## Purpose

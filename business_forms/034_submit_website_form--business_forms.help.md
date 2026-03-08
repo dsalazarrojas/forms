@@ -1,8 +1,3 @@
-<thinking>
-  This form is a tool for users to submit their website information to our system. The purpose of this form is to collect essential details about the website, allowing us to analyze and process the data for various business purposes. When submitting a website form, please make sure that your entry is original and not a copy-paste from existing sources, as this may be considered a duplication.
-  Before proceeding, ensure that you have not submitted this form previously or that the website information submitted is up-to-date and accurate.
-</thinking>
-
 # Submit Website Form - Help Guide
 ## Purpose
 The Submit Website Form is a tool for users to submit their website information to our system. This form is designed to collect essential details about the website, which will then be analyzed and processed for various business purposes.

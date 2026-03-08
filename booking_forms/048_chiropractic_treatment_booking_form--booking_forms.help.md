@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from patients who wish to book a chiropractic treatment session. This form serves as a crucial step in the booking process, ensuring that the patient's needs and preferences are captured accurately. It's crucial to complete this form carefully, as it will help the healthcare provider understand the patient's requirements and schedule the appointment accordingly. 
-
-Before proceeding, please ensure that you have all the necessary information ready and that you have not already submitted a booking form for the same patient. If you have any questions or concerns, contact the relevant personnel for assistance.
-
-This form is a critical component of the booking process, and its accuracy is essential for providing the best possible care and service to the patient. Please take the time to fill it out correctly and thoroughly.
-</thinking>
-
 # Chiropractic Treatment Booking Form - Help Guide
 ## Purpose
 The Chiropractic Treatment Booking Form is a crucial step in the booking process for patients seeking chiropractic care. It gathers essential information about the patient's preferences and needs, ensuring that the healthcare provider can schedule an appointment that suits their requirements.

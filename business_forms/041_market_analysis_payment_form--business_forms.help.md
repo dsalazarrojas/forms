@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Analysis Payment Form - Help Guide
 ## Purpose
 The Market Analysis Payment Form is a tool used to gather information from customers and vendors. This form is used to analyze market trends and payments made in the market. Fill out this form to provide valuable insights to our team.

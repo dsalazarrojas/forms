@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for requesting cloud service subscription approval from management. The purpose of this form is to ensure that cloud service subscriptions are properly reviewed and approved before being set up, to prevent unnecessary expenses and align with organizational policies. This process helps management to make informed decisions about which cloud services to subscribe to, and ensures that the requester provides sufficient justification and justification for the subscription.
 
 # Cloud Service Subscription Approval Form - Help Guide

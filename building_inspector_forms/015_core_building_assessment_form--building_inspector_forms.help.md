@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for assessing the safety and compliance features of a building, likely for a building inspector or auditor's use. The form has multiple sections, including building assessment, safety features, compliance checks, and equipment checks. Some sections allow for the selection of multiple options, while others are single-answer questions. This form may be used to gather information on the condition and safety of a building, possibly for insurance or regulatory purposes. There is no apparent overlap or duplication of questions, and the form covers a wide range of topics related to building safety.
-</thinking>
-
 # Core Building Assessment Form - Help Guide
 ## Purpose
 This form is designed to help building inspectors and auditors assess the safety and compliance features of a building. It is used to gather information on the presence or absence of various safety features, such as exit signs, fire suppression systems, and sprinkler systems.

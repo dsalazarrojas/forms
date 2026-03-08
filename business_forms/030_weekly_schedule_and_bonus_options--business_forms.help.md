@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information and bonus preferences from users. It is not designed to be filled out daily or for frequent use. The purpose of this form is to gather relevant details about the user's contact information and bonus preferences for administrative and accounting purposes. This form is meant to be completed by employees or users who need to declare their contact and bonus information. The form fields should not be completed multiple times, as this form is intended for a one-time use. If completed multiple times, it may lead to duplicate or irrelevant information. It's recommended to review the form and ensure that all necessary fields are filled out correctly. Please ensure that the contact information is accurate and up-to-date to avoid any issues with communication. This form is for internal use only and not for external sharing or public distribution.
-</thinking>
-
 # weekly_schedule_and_bonus_options - Help Guide
 ## Purpose
 This form is designed to collect contact information and bonus preferences from employees or users for administrative and accounting purposes.

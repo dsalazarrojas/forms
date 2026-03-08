@@ -1,5 +1,3 @@
-<thinking>This form is designed to help users book a UI/UX mentoring session with our team. It will guide them through the necessary steps to provide the required information to schedule a session that suits their needs and preferences. The form is used to collect information on the user's background, experience, and goals, as well as their availability and preferred session format.</thinking>
-
 # Book Your UI/UX Mentoring Session - Help Guide
 ## Purpose
 This form is intended to help you book a UI/UX mentoring session with our team. It will guide you through the necessary steps to provide the required information to schedule a session that suits your needs and preferences.

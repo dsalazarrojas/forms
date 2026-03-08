@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # funding_request_form - Help Guide
 ## Purpose
 This form is designed to collect information about potential funding requests. It gathers details such as company name, individual's name, email, address, a brief description of the project, the amount of money requested, the expected date of the project, and the time frame for completion. The form is intended to help assess and process funding proposals.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Barn Venue Rental Application Form - Help Guide
 
 ## Purpose

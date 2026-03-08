@@ -1,7 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the "Arcade Complaint Form" that explains its purpose, how to complete it, and the meaning of each field. This will ensure that users understand what is required of them and what information is needed to fill out the form accurately.
-</thinking>
-
 # Arcade Complaint Form - Help Guide
 ## Purpose
 The Arcade Complaint Form is a tool used to document and report issues or incidents that occurred during a visit to our arcade. The form helps us understand and resolve customer complaints efficiently, ensuring that we can address the issues and improve our services for future visits.

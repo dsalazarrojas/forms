@@ -1,8 +1,3 @@
-<thinking>
-The form is designed for a technician to report their daily activities and tasks. This form likely serves as part of the business' operations and maintenance process. However, I will refrain from making assumptions about the inner workings of the business, and only provide concrete, practical guidance on how to complete the form.
-
-</thinking>
-
 # Daily Technician Report - Help Guide
 
 ## Purpose

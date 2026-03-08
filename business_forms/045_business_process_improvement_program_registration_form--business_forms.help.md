@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for participants to register for the Business Process Improvement Program. It is meant to collect information about the participant, their company, and their expectations and needs for the program. This form should only be filled out once by each participant. 
-</thinking>
-
 # Business Process Improvement Program Registration Form - Help Guide
 ## Purpose
 This form is used to collect information about participants registering for the Business Process Improvement Program. It is essential to fill out this form accurately and completely to ensure your participation in the program.

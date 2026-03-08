@@ -1,7 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the Workplace Safety Inspection Checklist form. This form is designed to help building administrators or safety officers inspect and document the safety status of the workplace in various aspects, including general hazards, fire protection, and emergency procedures. The form is divided into multiple sections, each covering specific areas of safety inspection. Users should answer "Yes" or "No" to each question based on their observations and findings during the inspection. This form is meant to be used for regular safety checks and can be completed by authorized personnel, and its purpose is to help identify and address any safety concerns.
-</thinking>
-
 # Workplace Safety Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to help building administrators or safety officers inspect and document the safety status of the workplace in various aspects, including general hazards, fire protection, and emergency procedures. 

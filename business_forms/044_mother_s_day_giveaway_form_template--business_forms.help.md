@@ -1,11 +1,3 @@
-<thinking>
-This guide is for users who want to create a "Mother's Day Giveaway Form Template" to help them complete the form efficiently and effectively. The form is meant to collect user information, gift preferences, and any additional details that may be relevant to the Mother's Day giveaway.
-
-To complete this form, users should follow the steps outlined in this guide.
-
-This form is a template, so users can customize it as needed for their specific purposes.
-</thinking>
-
 # Mother's Day Giveaway Form Template - Help Guide
 ## Purpose
 The Mother's Day Giveaway Form is a template designed to collect user information for a giveaway event on Mother's Day. It is meant to be filled out by users interested in participating in the giveaway.

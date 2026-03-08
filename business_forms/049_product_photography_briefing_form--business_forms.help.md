@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers about their product photography needs. The purpose of this form is to gather essential details about the product, including its category, name, description, and other specific requirements such as photography type, target audience, product images count, shoot location, product date, size, color, finish, material, weight, contact person, company, shoot date, shoot time, shoot location details, photo shoot notes, photo shoot requirements, photography equipment, image capture, retouching, retouching notes, and review date. This form will help the customers to communicate their needs and requirements to the photography team, ensuring that the photo shoot is done correctly and efficiently.
-
-</thinking>
-
 # Product Photography Briefing Form - Help Guide
 ## Purpose
 This form is used to collect detailed information about a product from a customer. It ensures that the customer's photography needs are met by providing essential details about the product and the photo shoot.

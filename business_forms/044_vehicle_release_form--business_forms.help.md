@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document the release of a vehicle from an organization, which is a crucial process for various business and regulatory reasons. The form should be used when a vehicle is being sold, leased, or transferred to another party. This form ensures that all relevant information is accurately recorded, and the release is properly documented.
-</thinking>
-
 # Vehicle Release Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form's purpose is understood correctly, let's clarify the form's intent and the reasoning behind its creation. This form is designed to collect contact information from users interested in smart process automation solutions. The form's purpose is to gather essential details from users, such as their name, email, and a brief description of their inquiry. This information will help the form's administrators understand the user's needs and provide personalized support. Please note that this form has four fields in total.
-</thinking>
-
 # Smart Process Automation Contact Form - Help Guide
 ## Purpose
 The Smart Process Automation Contact Form is designed to collect contact information from users interested in smart process automation solutions.

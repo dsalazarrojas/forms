@@ -1,11 +1,3 @@
-<thinking>
-
-As a form designer and technical writer, I must emphasize that this form is designed to gather information for a Predictive Reordering Pilot Registration process. The form is intended to be completed by companies interested in participating in the pilot program. The purpose of this form is to collect essential details from companies, which will be used to evaluate their suitability and readiness for the pilot program. The form is not meant to be a lengthy or complex process, but rather a concise and straightforward way to gather necessary information.
-
-To prevent duplication, we will only allow companies to be registered once, and our team will review the form submissions carefully to ensure that the information provided is accurate and complete.
-
-</thinking>
-
 # Predictive Reordering Pilot Registration - Help Guide
 ## Purpose
 The Predictive Reordering Pilot Registration form is designed to help us understand your company's goals, needs, and suitability for our Predictive Reordering Pilot program. Please complete this form to express your interest in participating in the pilot program.

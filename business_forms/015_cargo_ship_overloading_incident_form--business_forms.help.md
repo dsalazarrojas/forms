@@ -1,7 +1,3 @@
-<thinking> 
-
-To confirm the form's purpose, the form appears to be designed for reporting and documenting cargo ship overloading incidents. The fields are categorized into several sections, including Vessel and Voyage Details, Incident Summary, Incident Details, Impact and Actions, and Regulatory and Reporting. This form likely serves as a tool for the shipping industry to record and report instances of cargo ships exceeding their permissible draft, which can lead to significant safety and structural concerns. The form's structure suggests that it is intended to be used by shipping personnel or authorities to gather and document data on overloading incidents, which is essential for maintaining the safety and integrity of cargo ship operations. I will now provide a clear and concise user guide for this form.</thinking>
-
 # Cargo Ship Overloading Incident Form - Help Guide
 ## Purpose
 This form is designed to document and report incidents of cargo ship overloading, which is critical for ensuring the safety and integrity of cargo ship operations. Overloading can lead to significant risks, including hull stress, structural damage, and stability concerns.

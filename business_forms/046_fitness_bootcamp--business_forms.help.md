@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fitness Bootcamp - Help Guide
 ## Purpose
 This form is used to collect information from participants for the Fitness Bootcamp program. It is essential to provide accurate and complete information to ensure a successful and enjoyable experience for all attendees.

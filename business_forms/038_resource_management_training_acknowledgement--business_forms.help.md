@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a straightforward way for users to acknowledge their participation in Resource Management Training. The purpose of this form is to collect essential information about the training session, including the Session Id, Date, Topic, Name, Signature, Role, and Feedback. This form is not intended to be a comprehensive resource management system, but rather a simple acknowledgement tool.
-
-Before filling out this form, please make sure that you have attended the relevant Resource Management Training session. The fields in this form are not meant to be filled out without proper understanding and experience of the topic.
-
-The feedback section is required to be filled out, as it is an essential part of the acknowledgement process.
-
-</thinking>
-
 # Resource Management Training Acknowledgement - Help Guide
 ## Purpose
 The purpose of this form is to provide a simple way for users to acknowledge their participation in Resource Management Training sessions.

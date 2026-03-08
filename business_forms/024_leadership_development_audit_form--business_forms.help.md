@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to conduct an audit of leadership development within an organization. This form is used to evaluate the effectiveness of leadership within the organization and identify areas for improvement. It is likely used to inform decisions on leadership development initiatives, training programs, or other related business actions. This form is likely not part of a standard, everyday workflow, so it is possible that end users may not be familiar with it. To avoid duplication of effort and ensure that the form is filled out correctly, it is essential to understand its purpose and the expected outcome of completing it.
-</thinking>
-
 # leadership_development_audit_form - Help Guide
 ## Purpose
 The purpose of this form is to conduct an audit of leadership development within an organization. It is used to evaluate the effectiveness of leadership within the organization and identify areas for improvement.

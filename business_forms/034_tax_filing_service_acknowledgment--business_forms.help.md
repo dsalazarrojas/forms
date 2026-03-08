@@ -1,18 +1,3 @@
-<thinking>
-This form is used to acknowledge the client's understanding and consent of the tax filing services provided by a tax professional. The purpose of this form is to ensure that the client understands the terms of the service and has given their consent for the tax professional to proceed with the filing process. This form is not intended to collect sensitive personal or financial information from the client, and it serves as a legal record of the client's understanding and consent.
-
-To complete this form, follow these steps:
-
-1.  Enter the client's name in the Client Name field.
-2.  Select the service year for which the tax filing service is being provided.
-3.  If the tax professional is providing service for a business, select "Business Income Tax" as the Service Type. If the tax professional is providing service for an individual, select "Individual Income Tax". Other options are available for non-standard tax services.
-4.  Enter the date and time the client gave their consent for the service to proceed.
-5.  Enter any additional notes or comments about the client's service.
-6.  Enter the client's email address.
-7.  Enter the tax professional's phone number.
-8.  Select the status of the client's consent (Active or Inactive).
-</thinking>
-
 # Tax Filing Service Acknowledgment - Help Guide
 ## Purpose
 This form is used to acknowledge the client's understanding and consent of the tax filing services provided by a tax professional.

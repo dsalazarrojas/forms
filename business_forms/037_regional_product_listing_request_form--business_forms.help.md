@@ -1,5 +1,3 @@
-<thinking>... This form is designed for business-to-business (B2B) customers to request a product listing from our company. The form will be used by regional customers to provide information about a product they wish to list, including its name, description, tags, price, region, product image, date, contact email, contact phone, and any additional information. Before submitting the form, please ensure that the product is not already listed in our catalog and that you are not submitting duplicate requests. This form is intended for new product listings only. Please do not use it for other purposes, such as updating or removing existing listings. ...</thinking>
-
 # Regional Product Listing Request Form - Help Guide
 ## Purpose
 The Regional Product Listing Request Form is a tool for B2B customers to submit a request for a new product listing in our catalog. This form is designed to gather essential information about the product, allowing our team to efficiently review and process the request.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for residents to request a visitation at a facility when they have a visitor coming. This form is primarily used for booking visits, which includes specifying details of the visitor and the resident, such as name, phone number, email, and the reason for the visit. This form also captures information about the visitation date and time, including the duration of the visit. It's used by both residents and facility staff to ensure that the necessary approvals and permissions are in place for the visit. It's essential to complete this form accurately and thoroughly to ensure a smooth and safe visitation process for both the resident and the visitor.
-</thinking>
-
 # Resident Visitation Booking Request Form - Help Guide
 
 ## Purpose

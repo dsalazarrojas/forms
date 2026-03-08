@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users track and manage seasonal maintenance tasks for their properties. The form is intended to be used by property owners or managers to keep track of tasks that need to be performed during different seasons. The form is meant to be used to identify what tasks need to be completed, when they should be completed, and to store notes and status updates for each task.
-</thinking>
-
 # Seasonal Maintenance Checklist Form - Help Guide
 ## Purpose
 This form is used to track and manage seasonal maintenance tasks for properties. It helps users keep track of tasks that need to be performed during different seasons and store notes and status updates for each task.

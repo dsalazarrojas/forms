@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from employees or job seekers about their part-time job preferences, schedules, and availability. This information will help employers or HR managers understand the needs and constraints of potential employees, making it easier to match them with suitable job opportunities. To ensure that your responses are accurate and relevant, please fill out the form carefully. Please note that this form is for gathering general information only and does not guarantee any job offers or interviews.
-</thinking>
-
 # Part Time Job Survey - Help Guide
 ## Purpose
 This form is designed to gather information from employees or job seekers about their part-time job preferences, schedules, and availability.

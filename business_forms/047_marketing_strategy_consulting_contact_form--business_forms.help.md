@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture contact information and message from visitors to the business who are looking to inquire about marketing strategy consulting services. The purpose of the form is to allow the business to respond to these inquiries in a timely and personalized manner. This form should only be used for business-to-business (B2B) purposes and not for any other kind of communication. Please make sure to check if similar forms already exist before filling this one.
-</thinking>
-
 # marketing_strategy_consulting_contact_form - Help Guide
 ## Purpose
 This form is meant to be used by visitors to the business who are interested in inquiring about marketing strategy consulting services.

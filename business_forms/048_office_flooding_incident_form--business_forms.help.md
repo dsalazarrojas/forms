@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about office flooding incidents, which can help the maintenance team identify the cause and take corrective actions to prevent future occurrences. The form is meant to be completed by the person who reported the incident, and it should only be filled out once for each incident. Please ensure you are not submitting duplicate reports for the same incident.
-</thinking>
-
 # Office Flooding Incident Form - Help Guide
 ## Purpose
 This form is used to report office flooding incidents. Please fill out this form to provide detailed information about the incident, including the date, time, location, and cause.

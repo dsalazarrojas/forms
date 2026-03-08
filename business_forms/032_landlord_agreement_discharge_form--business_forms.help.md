@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to document the discharge of a rental agreement between a landlord and a tenant. It is designed to collect information from both parties regarding the agreement, including the reason for discharge, dates of signing, and any notes or comments. This form may be used in a variety of situations, such as ending a lease, evicting a tenant, or amending a rental agreement. It is not affiliated with any specific form platform and is an original adaptation of publicly available information.
-
-Before completing this form, please ensure that you have not already submitted a similar form for the same purpose. If you have any questions or concerns, feel free to contact form@gic.mx.
-
-</thinking>
-
 # Landlord Agreement Discharge Form - Help Guide
 ## Purpose
 The Landlord Agreement Discharge Form is designed to document the discharge of a rental agreement between a landlord and a tenant. This form is used to collect information from both parties regarding the agreement, including the reason for discharge, dates of signing, and any notes or comments.

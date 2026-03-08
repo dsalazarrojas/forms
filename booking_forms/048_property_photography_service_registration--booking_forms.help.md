@@ -1,7 +1,3 @@
-<thinking>
-To ensure we're using the correct form for the intended purpose, let's review the form details. The form is called "Property Photography Service Registration" and it's a part of the "booking_forms" category. This form likely aims to collect information from clients or customers interested in a property photography service. The form has 11 fields, each with a specific label and type. We should verify that each field is correctly filled out according to its type and that the form is not being used for other purposes than its intended use.
-</thinking>
-
 # Property Photography Service Registration - Help Guide
 ## Purpose
 The Property Photography Service Registration form is designed to collect information from clients or customers interested in a property photography service. This form helps us understand their contact details, property requirements, and preferred service dates and times.

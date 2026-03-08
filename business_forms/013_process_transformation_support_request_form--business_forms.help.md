@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Process Transformation Support Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about a specific event. The form is meant to be used by Julie Potts and is intended to gather information about the event in a structured and organized way. Before proceeding, please make sure that you are not duplicating effort and that this form is relevant to your specific situation.
-</thinking>
-
 # Pop Up Feedback Form By Julie Potts - Help Guide
 ## Purpose
 This form is used to collect feedback from users about a specific event, allowing Julie Potts to gather valuable insights and follow up on any necessary actions.

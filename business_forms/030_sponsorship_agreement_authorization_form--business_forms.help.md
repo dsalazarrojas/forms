@@ -1,15 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Sponsorship Agreement Authorization Form" which seems to be used for managing sponsorship agreements within an organization. This form likely involves collecting information about the organization, the sponsor, the type of agreement, and the terms of the sponsorship.
-
-The form is structured in a way that suggests it's meant to be completed by someone with some level of authority or knowledge within the organization. The fields are mostly optional, which might indicate that the form is meant to be used for planning or proposal purposes rather than for actual agreement signing.
-
-To determine the purpose and scope of the form, it's essential to consider who would be using this form and for what reason. If this form is meant for internal use, it might be used for planning purposes or for creating a template for future agreements. On the other hand, if it's meant for external use, it might be used for actual agreement signing or for communication with sponsors.
-
-Given the options available in the form, it's likely that the form is meant for both internal and external use. The fact that "Agreement Type" has options suggests that the form is not just for information collection but also for agreement signing. Therefore, the form's purpose is likely to create a template or a proposal for a sponsorship agreement, which can be used internally or externally.
-
-To ensure the form is used correctly, it's essential to create a user-facing help guide that explains each field's purpose and required fields.
-</thinking>
-
 # Sponsorship Agreement Authorization Form - Help Guide
 
 ## Purpose

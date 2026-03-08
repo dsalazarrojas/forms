@@ -1,5 +1,3 @@
-<thinking>As a business process, this form serves as an intake for patients, allowing them to provide personal and contact information, as well as schedule and preferential details for their massage therapy appointments. This form aims to streamline the booking process and ensure that both the patient and the business have a clear understanding of the appointment parameters. It's essential to complete this form accurately to ensure that the massage therapist is aware of any medical history, contact preferences, and scheduling constraints, thereby providing a more personalized and efficient experience. This form should only be completed once per appointment.</thinking>
-
 # soothing_oak_intake - Help Guide
 ## Purpose
 This form is designed to collect patient information for massage therapy appointments.

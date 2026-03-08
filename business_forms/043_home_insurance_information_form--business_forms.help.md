@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a person's home insurance details. The form likely aims to provide a standardized way of capturing data on home insurance policies, including address, coverage provider, policy start and end dates, and other relevant details.
-
-This form should only be used by individuals who need to report or update their home insurance information for official purposes. 
-
-Please note that the fields are mostly optional, and the user should only provide information when required or necessary.
-
-</thinking>
-
 # Home Insurance Information Form - Help Guide
 
 ## Purpose

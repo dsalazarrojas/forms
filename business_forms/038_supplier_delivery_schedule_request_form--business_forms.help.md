@@ -1,7 +1,3 @@
-<thinking>
-We are designing a help guide for the Supplier Delivery Schedule Request Form. The purpose of this form is to collect information about the supplier's delivery schedule requests. This form will help customers or internal stakeholders to create and manage their delivery schedules with suppliers. The form should be used for internal purposes only, such as tracking and managing delivery schedules for a company or organization. There may be other forms with similar purposes or names, but this form is a unique adaptation designed for this specific use case.
-</thinking>
-
 # Supplier Delivery Schedule Request Form - Help Guide
 ## Purpose
 The Supplier Delivery Schedule Request Form is a tool used for managing and scheduling delivery requests with suppliers. This form is designed to collect essential information that helps in planning and coordinating deliveries with suppliers.

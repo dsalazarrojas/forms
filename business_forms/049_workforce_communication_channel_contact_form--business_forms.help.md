@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a contact form designed to gather information from employees or contacts for various communication channels and purposes. It is likely used to streamline internal communication and organization-wide processes. The form has several fields that ask for contact information, communication channels, and other details, but it seems that some fields are duplicates or have weak labels. For instance, 'contact_request', 'email_hint', and 'phone_hint' are not clearly explained in the form's metadata. I will assume that they are related to providing hints or options for users when entering their contact and request information. I will focus on explaining each field as simply and concretely as possible.
-
-</thinking>
-
 # Workforce Communication Channel Contact Form - Help Guide
 ## Purpose
 

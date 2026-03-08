@@ -1,18 +1,3 @@
-<thinking>
-The package delivery authorization form is designed to gather information about the package delivery process, ensuring that all necessary details are captured and recorded accurately. This form is typically used by shipping teams, logistics experts, or administrators to document the delivery status, recipient information, and shipment details.
-
-To prevent duplication, ensure that the same form is not filled out for the same package more than once. If a package has already been authorized, do not attempt to fill out this form again.
-
-Internal stakeholders, including shipping coordinators, logistics teams, and customer support, rely on this data to track package progress, identify potential issues, and provide updates to customers. The accuracy and completeness of the form data are crucial in ensuring efficient and effective package delivery.
-
-When filling out this form, be precise and thorough in providing the necessary information. Each field has been designed to collect specific details that aid in the package delivery process. Failure to provide accurate data may lead to delays, miscommunication, or package loss.
-
-This form may be used in conjunction with other tools and systems, such as tracking numbers, shipment schedules, or customer contact information. Always review and validate information with relevant stakeholders before submitting the form.
-
-Internal systems, like the package tracking system, may rely on this data to update customer information, package status, or shipment schedules. The more accurate and up-to-date the form data, the more efficient the package delivery process will be.
-
-Before completing this form, please ensure that you have the necessary permissions and approvals to access the package and shipping information.</thinking>
-
 # package_delivery_authorization_form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the form's purpose and ensure it's not being duplicated, we'll need to understand the context in which this form is being used. Based on the provided YAML, this form is likely used to collect information for a finance application, possibly for a loan or other financial purposes. The presence of fields like "Loan Amount," "Loan Term," "Loan Type," and "Loan Terms Accepted" suggests that it's related to loan applications. Additionally, fields like "Employment Status," "Income," and "Credit Score" indicate that the form may be used to assess the applicant's financial standing. To ensure this form isn't duplicated, we should check for existing forms with similar fields and purposes within the organization.
-
-</thinking>
-
 # Finance Application Form - Help Guide
 ## Purpose
 The Finance Application Form is used to collect information for finance applications, such as loan requests, from individuals. This form gathers personal and employment-related information, financial data, and loan-specific details.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for customers to request the activation of a return label. The form is used to provide information about the return process and to track the status of the return label. It is likely used by customers who have purchased products online and want to return them due to various reasons such as product not as described, item missing, or defective product. The form is probably used by customer service teams to manage return requests and ensure efficient communication with customers.
-
-When completing this form, customers are asked to provide information about the order details, reason for return, and return label status. This information is essential for the customer service team to process the return request and keep the customer updated on the status of their return label.
-
-This form is not intended for internal employees, and it's essential to ensure that the form fields and options are clear and concise to prevent duplication of work or incorrect information.
-
-</thinking>
-
 # Return Label Activation Request Form - Help Guide
 ## Purpose
 The Return Label Activation Request Form is used by customers to request the activation of a return label for products that do not meet their expectations.

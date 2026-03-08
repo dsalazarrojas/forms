@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure the form is filled out correctly for the correct purpose to avoid duplication and ensure relevant information is captured. Please fill out this form only if you are a registered supplier. If you are not a registered supplier, please do not fill out this form as it may cause unnecessary work for our team. This form is used to register a supplier for payment optimization and to capture necessary information to facilitate payment processing. 
-</thinking>
-
 # Supplier Payment Optimization Registration Form - Help Guide
 ## Purpose
 This form is designed to register a supplier for payment optimization and capture necessary information to facilitate payment processing. Please fill out this form if you are a registered supplier. 

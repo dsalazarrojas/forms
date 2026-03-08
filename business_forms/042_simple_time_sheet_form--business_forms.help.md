@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I understand that the purpose of this form is to collect employee time sheet information, likely for payroll or time tracking purposes. It appears to be a simple form with a mix of text, date, time, and select fields. To confirm, I will review the fields and provide a help guide that is concise and practical.</thinking>
-
 # Simple Time Sheet Form - Help Guide
 ## Purpose
 The Simple Time Sheet Form is designed to collect employee time sheet information, including employee name, working hours, and other relevant details. This form aims to provide a quick and easy way to track work hours and notes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vacation rental inquiry form - Help Guide
 
 ## Purpose

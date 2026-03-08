@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Department and Doctor Selection Form - Help Guide
 ## Purpose
 This form is designed to allow users to select a department and doctor for a medical consultation or appointment. The form consists of four fields: department selection, doctor selection, date and time, and time selection. Users are required to select a department and choose a doctor, as well as input a date and time for the appointment.

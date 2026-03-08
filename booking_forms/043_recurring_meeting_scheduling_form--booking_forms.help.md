@@ -1,7 +1,3 @@
-<thinking>
-The Recurring Meeting Scheduling Form is designed to help you schedule meetings that repeat at regular intervals. This form captures essential details such as meeting frequency, duration, and attendees. It's crucial to ensure that the form is filled out accurately, as it will affect the scheduling of recurring meetings.
-</thinking>
-
 # Recurring Meeting Scheduling Form - Help Guide
 ## Purpose
 This form is used to schedule recurring meetings, allowing you to specify the frequency, duration, and other relevant details.

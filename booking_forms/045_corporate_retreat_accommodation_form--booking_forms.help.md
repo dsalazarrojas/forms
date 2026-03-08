@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from corporate clients about their preferences and details for a corporate retreat accommodation. The form will likely be used by the accommodation provider to tailor their services to the client's needs. It's crucial to fill this form accurately to ensure that the client's requirements are met.
-
-Before proceeding, please review the form carefully to ensure you haven't filled it out before. If you've already submitted this form, there's no need to fill it out again.
-
-Please refer to this guide for a clear understanding of each field and how to complete it correctly.
-</thinking>
-
 # Corporate Retreat Accommodation Form - Help Guide
 
 ## Purpose

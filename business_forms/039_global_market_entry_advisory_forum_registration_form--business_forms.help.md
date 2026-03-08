@@ -1,28 +1,3 @@
-<thinking>
-
-This form is used to register participants in the Global Market Entry Advisory Forum. The form collects information from participants about their interests, preferences, and submission acknowledgments. The form is designed to be completed by participants who are interested in joining the Global Market Entry Advisory Forum.
-
-The form has 14 fields, each with a specific purpose:
-
-*   Participant Information: This field is used to collect basic participant information, such as name and email.
-*   First Name: This field is used to collect the participant's first name.
-*   Email: This field is used to collect the participant's email address.
-*   Phone: This field is used to collect the participant's phone number.
-*   Participant Preferences: This field is used to determine the participant's preferences, such as whether they will participate in the forum.
-*   Topic Interest 1: This field is used to determine the participant's interest in a specific topic.
-*   Topic Interest 2: This field is used to determine the participant's interest in another specific topic.
-*   Topics of Interest: This field is used to collect any additional topics of interest the participant may have.
-*   Additional Comments: This field is used for any additional comments or information the participant may want to provide.
-*   Submission Acknowledgement: This field is used to determine whether the participant has acknowledged their submission.
-*   Submit and Participate: This field is used to submit the participant's registration.
-*   Submit and Preview: This field is used to preview the participant's submission.
-*   Cancel: This field is used to cancel the participant's registration.
-*   Other: This field is used for any additional information the participant may want to provide.
-
-Before submitting the form, make sure to review the participant information field to ensure it is accurate. If you have any additional comments or preferences, use the Additional Comments and Participant Preferences fields. Finally, submit the form and review it before finalizing your registration.
-
-</thinking>
-
 # Global Market Entry Advisory Forum Registration Form - Help Guide
 ## Purpose
 This form is used to register participants in the Global Market Entry Advisory Forum. The form collects information from participants about their interests, preferences, and submission acknowledgments.

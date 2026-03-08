@@ -1,7 +1,3 @@
-<thinking>
-The w4_form.report form is designed to collect information about employees and their employers. The form is likely used for tax purposes or other HR-related activities. Please ensure you have the necessary permissions and approvals to create and submit this form. This form is not a real-world template, so please do not use it for actual business transactions. Before using this form, review its contents with your colleagues or superiors to ensure it aligns with your company's policies and procedures.
-</thinking>
-
 # w4_form.report - Help Guide
 
 ## Purpose

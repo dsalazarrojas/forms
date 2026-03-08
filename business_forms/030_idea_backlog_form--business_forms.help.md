@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Idea Backlog Form - Help Guide
 ## Purpose
 The Idea Backlog Form is a tool used to collect and organize ideas, tasks, and other relevant information related to business operations. It helps track and manage ideas from their inception to completion.

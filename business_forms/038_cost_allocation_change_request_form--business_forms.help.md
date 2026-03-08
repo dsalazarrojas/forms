@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request changes to cost allocations for various business activities. This form will help employees and managers track and approve such requests.
-Before completing this form, please make sure you have a clear understanding of what you need to change and why. This form should not be used to duplicate requests that have already been approved.
-</thinking>
-
 # Cost Allocation Change Request Form - Help Guide
 
 ## Purpose

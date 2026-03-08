@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect feedback from users about the operational tool. The purpose of this form is to provide an opportunity for users to share their thoughts, suggestions, or questions about the tool, which will help improve its functionality and user experience.
-
-To ensure that the form is completed accurately, we should confirm that the form is not a duplicate. If you have already submitted feedback for this tool, please do not submit again.
-
-The feedback form collects information in the following fields:
-
-</thinking>
-
 # operational_tool_feedback_form - Help Guide
 ## Purpose
 The operational tool feedback form is used to collect suggestions, questions, and feedback from users about the operational tool.

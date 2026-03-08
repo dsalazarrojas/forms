@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # NEW Client App - Help Guide
 
 ## Purpose

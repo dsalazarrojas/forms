@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for booking and management of gaming tournaments streams. It collects information about the event, stream, and booking process. This guide will walk through the form's fields and purpose, to ensure that users understand its intent and usage.
-
-</thinking>
-
 # Gaming Tournaments Stream Booking - Help Guide
 ## Purpose
 The purpose of this form is to collect and manage booking information for gaming tournaments streams. It is used by administrators to record and track event and stream details, as well as the status and history of bookings.

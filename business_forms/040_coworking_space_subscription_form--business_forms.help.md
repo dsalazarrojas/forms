@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is completed correctly, please review the following form guide to help you complete the "Coworking Space Subscription Form" accurately.
-</thinking>
-
 # Coworking Space Subscription Form - Help Guide
 ## Purpose
 The Coworking Space Subscription Form is designed for individuals or businesses looking to book a private coworking space for a specific term. This form will gather essential details about your subscription preferences, which will be used to provide a personalized experience tailored to your needs.

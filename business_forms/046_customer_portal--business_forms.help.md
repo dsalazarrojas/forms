@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers through a secure and user-friendly interface. The form is intended for general use and does not require specific business logic or complex conditional fields. The form will be used to collect various types of data from customers, including text, numbers, and dates. The form will be accessible on a public-facing portal, and users will be able to fill it out online. This form should not be used for sensitive or confidential information as it is not encrypted. Please ensure that the fields provided are relevant to your business needs and do not overlap with existing forms. This form should be reviewed and tested for accuracy before being shared with customers.
-</thinking>
-
 # customer_portal - Help Guide
 ## Purpose
 The customer portal form is designed to collect information from customers through a secure and user-friendly interface. It is intended for general use and does not require specific business logic or complex conditional fields.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be a template for a Supplier Financing Application Form, which is used to collect information from suppliers who wish to apply for financing. The purpose of this form is to gather essential details from the supplier, including their contact information, financing requirements, and order details. It is intended to help suppliers apply for financing in an organized and efficient manner.
-This form has four different sections:
-- Supplier Information (page 1),
-- Contact Details (page 2),
-- Financing Requirements (page 3),
-- Order Details (page 4).
-This form does not require any specific knowledge or technical expertise, making it accessible to a wide range of users.
-</thinking>
-
 # Supplier Financing Application Form - Help Guide
 ## Purpose
 This form is used to collect information from suppliers who wish to apply for financing. It is designed to gather essential details to facilitate the financing application process.

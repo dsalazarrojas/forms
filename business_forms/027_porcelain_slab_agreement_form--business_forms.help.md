@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information related to the delivery and agreement details of porcelain slabs. It appears to be a comprehensive form for capturing general information, contact details, delivery dates and times, terms and conditions, signature, delivery addresses, customer comments, and other relevant information. To ensure that this form is relevant and not duplicating any existing form, it is essential to verify if there are similar forms used internally or externally for the same purpose. 
-</thinking>
-
 # Porcelain Slab Agreement Form - Help Guide
 ## Purpose
 The Porcelain Slab Agreement Form is designed to gather crucial details about the delivery and agreement of porcelain slabs with customers. This includes general information, contact details, delivery dates and times, terms and conditions, signature, delivery addresses, and other essential data.

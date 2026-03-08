@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from two parties (Party One and Party Two) regarding the authorization and effective dates of a joint assignment. The form aims to document the consent of both parties and their signatures, if applicable. The purpose of this form is to establish a clear understanding of the assignment's terms and ensure that both parties are aware of their responsibilities.
-</thinking>
-
 # Joint Assignment Authorization Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect business-related information for the purpose of assessing and implementing corporate well-being innovation applications. The form will be reviewed and evaluated by the relevant authorities to ensure that it aligns with the company's goals and objectives. Before proceeding, please ensure that this form is relevant and necessary for your business needs. Duplicate submissions will not be accepted.
-</thinking>
-
 # Corporate Well Being Innovation Application Form - Help Guide
 ## Purpose
 The Corporate Well Being Innovation Application Form is designed to collect business-related information for the purpose of assessing and implementing corporate well-being initiatives. This form will be reviewed and evaluated by the relevant authorities to ensure that it aligns with the company's goals and objectives.

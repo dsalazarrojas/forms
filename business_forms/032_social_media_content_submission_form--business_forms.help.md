@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # social media content submission form - Help Guide
 ## Purpose
 This form is designed to collect information about social media content submitted by users. It's meant to be filled out by clients or users who want to share their social media content, such as posts, photos, or videos, with your team or organization.

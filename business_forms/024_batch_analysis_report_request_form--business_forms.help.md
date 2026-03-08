@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to help requesters report specific batches of products or samples for analysis. It asks for basic information about the requestor, the batch details, and the type of analysis required. This form is used to ensure that the correct analysis is performed on the correct batch and that the client's needs are met. 
-
-Please note that this form is a simple, text-based form and not a full-fledged analysis request form. It is intended to be a starting point for more information and details that will be added during the analysis process. 
-
-The form is not meant to be used for duplicate or non-relevant requests. Please ensure that you have the necessary information and approval before submitting this form.
-
-</thinking>
-
 # Batch Analysis Report Request Form - Help Guide
 ## Purpose
 The Batch Analysis Report Request Form is used to request analysis on specific batches of products or samples. This form collects necessary information about the batch and the analysis required.

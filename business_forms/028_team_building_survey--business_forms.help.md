@@ -1,5 +1,3 @@
-<thinking>Is the goal of this form to gather information about team building dynamics and effectiveness, with a focus on communication, leadership, and team satisfaction? Are there any duplicate fields that could be merged or consolidated for better data quality and user experience?</thinking>
-
 # Team Building Survey - Help Guide
 
 ## Purpose

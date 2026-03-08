@@ -1,7 +1,3 @@
-<thinking>
-A Step By Step Company Information Form is used to collect essential information about companies, including their contact details, address, and business preferences. This form is typically used for business registration, company profile creation, or any other business-related purposes. To avoid duplication of data, please ensure that you are not submitting the form for the same company or entity multiple times.
-</thinking>
-
 # Step By Step Company Information Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about companies, which can be used for various business purposes such as registration, profiling, or other corporate needs. Fill out this form to provide accurate and up-to-date information about your company.

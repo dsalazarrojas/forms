@@ -1,6 +1,3 @@
-<thinking>
-The form is likely used for gathering information from content creators or project managers to create content for a project. The form asks for project details, content objectives, target audience, content format, deadline, budget, and confirmation of information provided. This form aims to ensure that all necessary information is collected for the content creation process. It is essential to complete this form accurately to avoid any potential issues or miscommunication during the content creation process. The form fields seem to be comprehensive, covering all the necessary aspects for a content creation project. Before proceeding, the form should be reviewed for any missing or redundant sections to prevent duplication of work and ensure that all essential information is included.</thinking>
-
 # Content Creation Guide - Help Guide
 ## Purpose
 This form guides content creators and project managers to provide necessary information for content creation projects.

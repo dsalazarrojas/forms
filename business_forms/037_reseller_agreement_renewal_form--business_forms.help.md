@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out by resellers when their agreement is up for renewal. The purpose of this form is to gather information about the reseller's current agreement, including details about the term length, last renewal date, and status of the last renewal. The form is intended to be completed by resellers to facilitate the renewal process and ensure that all necessary information is gathered. It's likely that this form is used in a business setting, such as a sales or customer service department.
-</thinking>
-
 # Reseller Agreement Renewal Form - Help Guide
 ## Purpose
 This form is used by resellers to provide information about their agreement renewal.

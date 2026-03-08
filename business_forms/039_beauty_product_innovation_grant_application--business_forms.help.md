@@ -1,24 +1,3 @@
-<thinking>
-This form is intended for businesses or individuals seeking to apply for a grant for a beauty product innovation. The purpose of this form is to collect information about the applicant, their company or project details, product innovation, financial information, and team and expertise. This form is not intended for general inquiries, feedback, or other purposes. Please make sure you are eligible to apply and that your application is not a duplicate before proceeding.
-
-Please note that this form requires the following fields to be completed to be considered a valid application:
-
-* Company or Project Name
-* Full Name or Business Name
-* Email Address
-* Phone Number
-* Organization Type
-* Grant Amount Requested
-* Total Project Budget
-* Team Size
-* Expected Market Impact
-* Expected Sustainability or Social Impact
-* Agreement to Grant Terms and Conditions
-
-The form is divided into five sections: Applicant Information, Company or Project Details, Product Innovation, Development Stage, and Financial Information.
-
-</thinking>
-
 # Beauty Product Innovation Grant Application - Help Guide
 ## Purpose
 The Beauty Product Innovation Grant Application is designed for businesses or individuals seeking funding for their beauty product innovation projects. This form collects information about the applicant, project details, product innovation, financial information, and team and expertise.

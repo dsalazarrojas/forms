@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect and display user story item data. It's intended for team members and project managers to input and review user stories. Each field is categorized into different types (text, date, select one, select multiple, etc.) for easy understanding and completion. Please ensure that you understand the purpose and relevance of this form before proceeding. Note that most fields are optional and allow for flexibility in input and data entry. Ensure that you're inputting valid and accurate data to maintain data consistency and integrity.
-
-</thinking>
-
 # User Story Item Entry Form - Help Guide
 ## Purpose
 The User Story Item Entry Form is designed to collect and display user story item data for team members and project managers to input and review.

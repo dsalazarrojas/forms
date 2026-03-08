@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for booking a web development consultation. It's used to gather information from clients about their name, contact details, preferred time, appointment date, required services, any additional notes, the tool assigned to their consultation, and finally, a submit button to confirm their booking. The form ensures that clients provide accurate and complete information to facilitate a smooth and effective consultation process.
-
-</thinking>
-
 # web_development_consultation_booking_form - Help Guide
 
 ## Purpose

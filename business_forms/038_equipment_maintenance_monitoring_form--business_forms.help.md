@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on equipment maintenance monitoring. It is intended for internal use within the organization and is not meant to be filled out by external users. This form is a part of a larger system for tracking and managing equipment maintenance activities. Before filling out this form, ensure you have the necessary permissions and access to the equipment being reported on.
-</thinking>
-
 # equipment_maintenance_monitoring_form - Help Guide
 ## Purpose
 This form is used to track and report on equipment maintenance activities, including schedules, performance, downtime, status, and other relevant information.

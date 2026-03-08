@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Milk Distribution Tracker" form, we must first understand the purpose of the form and its intended use. The form appears to be designed for tracking the distribution of milk products, which could be used in various contexts such as dairy farms, logistics, or NGOs. Given the form's structure, it seems to gather information about the delivery of milk products, including details about the milk itself, the location where it's distributed, and the team or organization responsible for the delivery. We will create a guide that assumes this is the case and focuses on providing clear and concrete instructions to help users navigate the form effectively.
-</thinking>
-
 # Milk Distribution Tracker - Help Guide
 ## Purpose
 The "Milk Distribution Tracker" form is designed to track the distribution of milk products from a central hub or source to various locations, such as farms, NGOs, or other organizations. This tool helps in maintaining records of milk deliveries, including the amount, temperature, price, and location details.

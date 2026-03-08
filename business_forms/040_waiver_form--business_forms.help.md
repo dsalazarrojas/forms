@@ -1,7 +1,3 @@
-<thinking>
-This form is used for recording and maintaining information about jumpers. It is essential to fill out this form accurately to ensure that we can provide the best possible service to the jumper. Before proceeding, please ensure that the jumper is aware of the form's purpose and is able to provide the required information. It is recommended to fill out the form once the jumper has consented to the activity. Please note that this form should not be used for any other purpose or for any individual who has not provided consent.
-</thinking>
-
 # Waiver Form - Help Guide
 ## Purpose
 The Waiver Form is used to collect information about jumpers, including their name, date, age, guardian's name and email, to ensure proper identification and service provision.

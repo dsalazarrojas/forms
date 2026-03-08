@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture details about a specific work item in an Agile project management context. It is designed to provide a structured way of collecting and organizing information about the work item, including its title, type, description, priority level, and status. The form is essential for team members and project managers to track and manage work items effectively. Before filling out this form, ensure that you are not duplicating information already available in the system. If you are updating an existing work item, make sure to review the current status and progress before making changes.
-</thinking>
-
 # Agile Work Item Details Form - Help Guide
 ## Purpose
 The Agile Work Item Details Form is used to collect and track information about specific work items in an Agile project management context.

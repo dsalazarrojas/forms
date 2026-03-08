@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to vehicle maintenance schedules. It is likely used for maintenance planning and tracking within a business organization. To avoid duplication, ensure that you are filling out this form for a specific vehicle's maintenance schedule check-in process.
-</thinking>
-
 # vehicle_maintenance_schedule_check_in_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information related to vehicle maintenance schedules for tracking and planning within a business setting.

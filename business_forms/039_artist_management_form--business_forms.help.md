@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect detailed information about an artist or performer, including their professional name, contact details, artistic profile, management team, and agreement terms. The form is divided into sections to help guide the user through the different aspects of an artist's management. The form is likely used by management teams or organizations to gather information for administrative purposes or for contractual agreements. 
-
-This form appears to be a comprehensive collection of fields that cover various aspects of an artist's management, including contact details, artistic profile, management responsibilities, commission rates, and agreement terms. It is crucial to ensure that the form is completed accurately and consistently to avoid any miscommunication or errors. 
-
-Upon reviewing the form structure, it seems that most fields are required, which suggests that this form is a critical document that requires careful attention to detail. 
-
-</thinking>
-
 # Artist Management Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about an artist or performer, including their professional name, contact details, artistic profile, management team, and agreement terms.

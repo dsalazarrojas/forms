@@ -1,7 +1,3 @@
-<thinking>
-Production Cost Adjustment Request Forms are used to request adjustments to production costs. To avoid submitting multiple forms for the same cost adjustment, please only submit one form per adjustment. Before submitting, ensure the form's fields are correctly filled in and that any attachments are included if necessary.
-</thinking>
-
 # Production Cost Adjustment Request Form - Help Guide
 
 ## Purpose

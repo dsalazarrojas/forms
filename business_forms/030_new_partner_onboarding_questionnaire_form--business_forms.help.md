@@ -1,8 +1,3 @@
-<thinking>
-This form is a New Partner Onboarding Questionnaire Form, designed to collect information from new partners during the onboarding process. This form is intended to be used internally within an organization to gather necessary details about the partner's business information, contact person, and integration status.
-To avoid duplication and ensure accurate information is collected, it is essential to review the form and the provided instructions before completing it.
-</thinking>
-
 # New Partner Onboarding Questionnaire Form - Help Guide
 ## Purpose
 This form is used to collect information about new partners during the onboarding process. It is essential to provide accurate and complete details to ensure smooth integration and a successful partnership.

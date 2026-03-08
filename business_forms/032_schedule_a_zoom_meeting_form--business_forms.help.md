@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used to schedule a meeting using Zoom, likely for business or professional purposes. 
-The form is designed to collect information from the meeting organizers and attendees. 
-Before using this form, ensure that you have already checked if a meeting with this person/company is already scheduled or if there is any other way to reach them. 
-</thinking>
-
 # Schedule A Zoom Meeting Form - Help Guide
 
 ## Purpose

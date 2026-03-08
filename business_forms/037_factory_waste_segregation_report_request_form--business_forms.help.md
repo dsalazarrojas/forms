@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning and checks for relevance and non-duplication)
-
-This form is designed to collect information from factory workers to report waste segregation incidents during their shifts. The form is intended to ensure that all waste segregation incidents are documented accurately and efficiently. It is essential to fill out this form completely and honestly to help management monitor and address potential waste management issues.
-
-</thinking>
-
 # Factory Waste Segregation Report Request Form - Help Guide
 ## Purpose
 This form is used to report waste segregation incidents that occur during factory shifts. It helps management keep track of and address these incidents, ensuring a clean and efficient working environment.

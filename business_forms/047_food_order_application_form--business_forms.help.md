@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML, this form is designed to collect customer data and order details for food orders. It seems the form is meant to gather information from customers, possibly for restaurants or food delivery services, but I do not have specific knowledge about the business logic behind this form. I will aim to create a help guide that is clear and concise, based on the YAML fields provided. I will also ensure that my explanation is concrete and practical, avoiding unsupported business logic. If any field label is unclear, I will provide a best-effort explanation without inventing unsupported business logic.</thinking>
-
 # Food Order Application Form - Help Guide
 ## Purpose
 This form is designed to collect customer data and order details for food orders, allowing businesses to gather necessary information for processing and fulfilling customer requests.

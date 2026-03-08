@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for a corporate credit review. The purpose of this form is to gather data from companies and their executives to conduct a credit review. This form has multiple pages, each with different fields to collect specific information. 
-
-The form is not affiliated with, endorsed by, or derived from any form platform. It is an original creation using public survey topic metadata as inspiration. The form is released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-Before filling out this form, please ensure that you are not duplicating existing records. If you are not sure, please check with the relevant authorities to confirm your company's status.
-
-</thinking>
-
 # Corporate Credit Review Registration Form - Help Guide
 
 ## Purpose

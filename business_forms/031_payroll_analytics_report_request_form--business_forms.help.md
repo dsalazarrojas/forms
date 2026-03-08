@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payroll Analytics Report Request Form - Help Guide
 ## Purpose
 The Payroll Analytics Report Request Form is designed to collect information from employees to request a payroll analytics report. This report provides insights into the company's payroll data, helping management to make informed decisions about employee compensation and benefits. To avoid duplicate requests, please note that if you have already submitted a similar report in the last 6 months, this form will not be processed.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # interview_request_form - Help Guide
 ## Purpose
 This form is used to collect information from candidates for a job interview. It is essential that the form is completed accurately and thoroughly to ensure that the interview process goes smoothly.

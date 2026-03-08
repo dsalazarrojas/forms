@@ -1,13 +1,3 @@
-<thinking>
-This form is for booking a photographer's accommodation. It is intended for individuals who are booking a room for their photography-related purposes. The form will ask for details about the accommodation preferences and special requests, if any.
-
-Before filling out this form, please ensure that you are booking for a photography-related purpose and that you have not already submitted a similar booking request.
-
-To avoid any issues with your booking, please provide accurate and complete information.
-
-The form will not be considered complete until all required fields are filled out, and the submission is confirmed by a system administrator.
-</thinking>
-
 # wildlife_photographer_accommodation_form - Help Guide
 ## Purpose
 This form is for booking a photographer's accommodation for your specific photography-related needs. Please fill out this form carefully to ensure that your requirements are met.

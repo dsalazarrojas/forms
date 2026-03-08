@@ -1,8 +1,3 @@
-<thinking>
-This form is for requesting corporate social responsibility (CSR) events. The form is likely used for internal purposes within a company to collect requests for corporate-sponsored events such as charity fundraising, team-building activities, or volunteer opportunities. It's possible that the form is used to track and manage these requests efficiently.
-To avoid duplication, please ensure you're not submitting multiple requests for the same event. If you're unsure about the purpose of this form or have any questions, please reach out to your internal stakeholders or administrators.
-</thinking>
-
 # Corporate CSR Event Request Form - Help Guide
 ## Purpose
 The Corporate CSR Event Request Form is designed to collect information about corporate social responsibility events, such as charity fundraising, team-building activities, or volunteer opportunities. This form will help you gather the necessary details about your event, including the options you'd like to offer, dates, and other relevant information.

@@ -1,7 +1,3 @@
-<thinking>
-The primary reason this form has been designed is to provide users with an accessible platform to book budget-friendly accommodation. This form aims to gather essential information from guests in a structured and efficient manner, ensuring that the guests’ booking process is streamlined and their needs are well-catered to.
-</thinking>
-
 # Budget Friendly Accommodation Form - Help Guide
 ## Purpose
 The Budget Friendly Accommodation Form is designed for users to provide information necessary for booking budget-friendly accommodations. This form collects details such as guest names, contact information, and accommodation preferences to ensure a smooth booking process.

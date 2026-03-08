@@ -1,11 +1,3 @@
-<thinking>
-# Check if the form is relevant to the user's current task.
-# Verify if a custom solar system inquiry form has been previously opened or submitted.
-# This form is for creating a custom solar system inquiry, which is likely used in a business context.
-# Ensure that the user has the necessary permissions to access and submit this form.
-
-</thinking>
-
 # custom_solar_system_inquiry - Help Guide
 ## Purpose
 The custom solar system inquiry form is used to collect information from prospects about their solar system requirements. This form is designed to be completed by sales or business development teams to gather insights into a prospect's needs and preferences.

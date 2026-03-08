@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a gun's details. The purpose of this form is to gather accurate and comprehensive data about a gun, including its general information, description, serial numbers, condition, materials, caliber, features, manufacturer, model, year of manufacture, approximate age, approximate value, working status, completeness status, type (firearm or replica), and collection status. It will help in maintaining accurate inventory and records for gun-related activities. It's essential to fill out this form carefully and accurately to ensure that the gun's details are recorded correctly.
-
-</thinking>
-
 # gun-appraisal-form - Help Guide
 ## Purpose
 The gun-appraisal-form is designed to collect comprehensive data about a gun, including its general information, description, and other relevant details. This form is crucial for maintaining accurate records and inventory of guns in various collections or stores.

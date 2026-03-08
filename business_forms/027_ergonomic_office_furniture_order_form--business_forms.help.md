@@ -1,7 +1,3 @@
-<thinking>
-The ergonomic office furniture order form is intended to be used by employees of the company for ordering office furniture. It is a crucial tool for ensuring that office supplies and furniture are delivered to the correct addresses and quantities. The form helps to minimize errors and miscommunication during the ordering process. Please check that this form is not being used for other purposes and that you are not duplicating efforts.
-</thinking>
-
 # Ergonomic Office Furniture Order Form - Help Guide
 ## Purpose
 The ergonomic office furniture order form is a tool used by employees to order office furniture. It is essential for ensuring accurate delivery of supplies and furniture to the correct addresses and quantities.

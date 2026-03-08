@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Stylist Contract Form - Help Guide
 
 ## Purpose

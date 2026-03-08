@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Angie S S Mores Usborne Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and interest from guests at a book-themed party, hosted by Angie S S Mores Usborne. The form is intended to capture overall party satisfaction, favorite book flavors, book interests, and potential future opportunities for collaboration, including hosting parties and joining a book team. The purpose of this form is to help Angie identify areas of improvement and tailor future events to her guests' preferences.

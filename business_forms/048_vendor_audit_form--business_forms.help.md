@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a generic "Vendor Audit Form" for collecting and documenting information about vendors and their activities. The form has fields for vendor details, audit date and time, location, and notes. This form is intended to be used by internal staff or auditors to gather relevant information about vendors in a structured and organized way.
-
-This form should only be used for internal purposes and not for external sharing or distribution. The "Vendor Audit Form" is not affiliated with, endorsed by, or derived from any form platform. It's a custom creation designed to meet the specific needs of the business.
-
-To avoid duplication of efforts, please ensure that this form is not used in conjunction with other forms with similar purposes. If you're unsure about the purpose or usage of this form, please contact "form@gic.mx".
-</thinking>
-
 # Vendor Audit Form - Help Guide
 ## Purpose
 The Vendor Audit Form is a tool for collecting and documenting information about vendors and their activities. This form is intended to be used by internal staff or auditors to gather relevant information about vendors in a structured and organized way.

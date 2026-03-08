@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide end-users with a clear understanding of the Distribution Group Request Form. This form is used to collect information from team leads or team members to request the creation of a new distribution group. The purpose of this form is to gather details about the team, such as department, team size, product, and distribution location. This information will be used to determine the feasibility and requirements for creating a new distribution group.
-</thinking>
-
 # Distribution Group Request Form - Help Guide
 ## Purpose
 The Distribution Group Request Form is used to collect information from team leads or team members to request the creation of a new distribution group. This form will help the distribution team understand the needs and requirements of the team, ensuring that the new distribution group is created efficiently and effectively.

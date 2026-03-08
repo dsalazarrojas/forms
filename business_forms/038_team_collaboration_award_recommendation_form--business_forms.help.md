@@ -1,7 +1,3 @@
-<thinking>
-The Team Collaboration Award Recommendation Form is intended to recognize outstanding team performance and contributions to the organization. This form is usually filled out by team members or managers to nominate their colleagues for a team award. It's essential to ensure that the nominated team member's contributions are genuinely valued and acknowledged within the team. Please note that only one form should be submitted per team member being nominated, to avoid duplication and ensure accurate evaluation. If you're unsure about the form's purpose or have questions, please reach out to your supervisor or HR representative for guidance.
-</thinking>
-
 # Team Collaboration Award Recommendation Form - Help Guide
 ## Purpose
 The Team Collaboration Award Recommendation Form is designed to collect information about a team member's outstanding collaboration contributions. This form helps to identify and recognize team members who excel in collaboration, teamwork, and performance. 

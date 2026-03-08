@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Elevator Inspection Form - Help Guide
 ## Purpose
 This form is used to record information related to the inspection of elevators, including the status, date, and other relevant details. It is designed for building inspectors to provide accurate and comprehensive records of elevator inspections.

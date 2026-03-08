@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creator Payment Setup Questionnaire - Help Guide
 
 ## Purpose

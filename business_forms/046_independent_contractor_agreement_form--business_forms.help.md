@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture the essential details of an independent contractor agreement between two parties. The purpose of this form is to outline the terms and conditions of the contract, including the contractor's name, the length of the contract, and any payment terms that need to be adhered to. This form helps ensure that both parties are on the same page and have a clear understanding of their obligations and expectations.
-
-Before proceeding, please check that a contract with the same terms has not already been created in the past. If a contract with the same terms exists, do not create a new one, as this may cause confusion and duplication of effort.
-</thinking>
-
 # Independent Contractor Agreement Form - Help Guide
 ## Purpose
 The Independent Contractor Agreement Form is used to document the terms and conditions of an independent contractor agreement between an employer and a contractor. This form helps ensure that both parties understand their obligations and expectations.

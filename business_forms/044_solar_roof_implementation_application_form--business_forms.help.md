@@ -1,31 +1,3 @@
-<thinking>
-This form is intended to gather information about a solar roof implementation project, including project details, customer information, site details, and other relevant data. The form is likely used by a solar panel installation company or a similar business to collect data about ongoing or completed projects. It's essential to ensure that the form is completed accurately and thoroughly to avoid errors in project management and reporting.
-
-To use this form effectively, please review the following instructions:
-
-1. **Project Details**: Provide a brief description of the project, including its name and any relevant details.
-
-*   **Project Location**: Select the city or location where the project is being implemented (e.g., New York City, Los Angeles, Chicago).
-*   **Project Status**: Indicate the current status of the project (e.g., In Progress, Complete, Inactive).
-*   **Date Opened**: Enter the date the project was initiated.
-*   **Date Closed**: Enter the date the project was completed.
-*   **Date Completed**: Enter the date the project was completed, if applicable.
-
-2. **Customer Info**: Provide the customer's name, contact information, and any other relevant details.
-*   **Contact Person**: Enter the name and title of the person responsible for the project.
-*   **Email**: Enter the customer's email address.
-*   **Phone**: Enter the customer's phone number.
-*   **Address**: Enter the customer's address.
-*   **Site Area**: Enter the area of the project site.
-*   **Roof Type**: Select the type of roof associated with the project (e.g., Flat Roof, Pitch Roof, Gable Roof).
-*   **Roof Material**: Indicate the material used for the roof (e.g., Asphalt Shingle, Metal, Clay Tile).
-*   **Building Type**: Specify the type of building associated with the project (e.g., Residential, Commercial, Industrial).
-*   **Project Notes**: Add any additional comments or notes about the project.
-*   **Solar Installers**: Select one or more solar panel installation companies that will be working on the project.
-*   **Site Details**: Provide a brief description of the project site.
-
-</thinking>
-
 # Solar Roof Implementation Application Form - Help Guide
 ## Purpose
 This form is designed to gather information about solar roof implementation projects for accurate project management and reporting.

@@ -1,5 +1,3 @@
-<thinking>As I read through the form's YAML, I understand that this form is designed to allow users to order safety gear, such as helmets and hard hats, for a customer. The form's main fields are for selecting the type of safety equipment to order, the quantity, the delivery date, customer information (including name, contact number, and email), and a message. The form does not appear to have any specific requirements for completion, except for the type of safety equipment selected, which I assume is only required because it's a crucial piece of information.</thinking>
-
 # Safety Gear Order Form - Help Guide
 ## Purpose
 The Safety Gear Order Form is designed to collect information for ordering safety gear for customers. This form is intended for users to select the type and quantity of safety equipment, provide delivery date and customer information, and include any additional message.

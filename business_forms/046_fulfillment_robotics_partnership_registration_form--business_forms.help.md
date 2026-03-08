@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is to be used for partners or potential partners of Fulfillment Robotics to register their interest in collaborating with our company. We want to make sure that only unique and relevant partnerships are created, hence the form purpose is to gather the right information to assess the partnership's suitability. We need to avoid duplicate registrations from the same contact person/company, hence the internal checks for this field will be in place to prevent this. This guide will help end-users understand the form and its requirements to fill it accurately and efficiently.
-</thinking>
-
 # Fulfillment Robotics Partnership Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential partners or partners of Fulfillment Robotics to assess their interest in collaborating with our company. The gathered data will be used to evaluate the suitability of potential partnerships.

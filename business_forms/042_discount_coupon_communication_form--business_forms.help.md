@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate communication between businesses and customers about discounts or promotions. It is intended for use by business employees to send targeted communications to customers regarding special offers or deals. The form will help gather necessary information from the business to effectively communicate with customers.
-</thinking>
-
 # discount_coupon_communication_form - Help Guide
 ## Purpose
 This form is used to send targeted communications to customers regarding special offers or deals from businesses.

@@ -1,8 +1,3 @@
-<thinking>... internal reasoning and non-duplication checks ...
-Form purpose: This form is used to collect information about prophetic events, specifically the company name, start and end dates, auditor details, findings, comments, status, and assigned tool for a particular quarter or period. This form is designed to be completed by internal stakeholders.
-Non-duplication checks: The form is not intended for multiple submissions from the same user, and the data collected is meant for internal use only.
-...</thinking>
-
 # prophets - Help Guide
 ## Purpose
 The "prophets" form is used to gather information about prophetic events, which can be completed by internal stakeholders. The form is not intended for external use, and multiple submissions from the same user are not allowed.

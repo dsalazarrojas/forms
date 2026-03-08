@@ -1,8 +1,3 @@
-<thinking>
-The form is for users to input information about a honey order. This form likely belongs to a business that sells honey products, and the purpose of this form is to gather relevant information from the customer before processing the order.
-It would be best to confirm whether this form has a clear and concise purpose, and that it's not a duplication of another form. This form seems to be a comprehensive order form for customers, and all the fields appear to be relevant.
-Let's create a help guide that explains each section of the form in a clear and concise manner, making it easy for end-users to understand how to fill out the form correctly.</thinking>
-
 # Honey Order Form - Help Guide
 
 ## Purpose

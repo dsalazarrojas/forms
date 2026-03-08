@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users, likely for business or survey purposes. Before filling out this form, please ensure you have a clear understanding of the information being requested and that you have not filled out this form previously.
-</thinking>
-
 # pre_survey - Help Guide
 ## Purpose
 The pre_survey form is designed to collect general information from users, including their name, contact details, and other relevant data.

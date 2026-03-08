@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a collection of notes and bookmarks, designed for business use. It captures various information related to form creation, management, and organization. The form is likely used for creating and tracking notes and bookmarks across different categories, tags, and priority levels.
-</thinking>
-
 # notes_and_bookmarks_collection - Help Guide
 ## Purpose
 This form is used to collect and organize notes and bookmarks for business purposes. It captures essential information such as title, category, description, links, and tags to help in effective note-taking and bookmark management.

@@ -1,9 +1,3 @@
-<thinking>
-
-We are trying to determine if the "What If Scenario Analysis Form" is relevant and not a duplicate for the user, before providing help documentation. The form is meant to be used to analyze and document scenarios that are used for risk management and mitigation. Each field is essential for understanding the impact and mitigation of a specific scenario. We will now proceed to provide a comprehensive help guide for the form.
-
-</thinking>
-
 # What If Scenario Analysis Form - Help Guide
 ## Purpose
 This form is used to analyze and document scenarios that are used for risk management and mitigation. It is a crucial tool for identifying potential risks and developing effective mitigation strategies.

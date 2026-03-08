@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect business information and credit request details from applicants for cold logistics equipment. It will help us understand the applicant's company, the type of equipment they need, and their credit requirements. This form is a critical component of our credit application process and ensures that we can assess the applicant's credibility and provide accurate quotes. To ensure accuracy and efficiency, please fill out this form carefully and thoroughly. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # Cold Logistics Equipment Credit Application Form - Help Guide
 ## Purpose
 The Cold Logistics Equipment Credit Application Form is a tool used to gather information from businesses applying for cold logistics equipment credit. This form helps us understand the company's needs and requirements, ensuring we can provide accurate quotes and services.

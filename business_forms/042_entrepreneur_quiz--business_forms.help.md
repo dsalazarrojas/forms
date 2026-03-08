@@ -1,7 +1,3 @@
-<thinking>
-This form is a self-assessment quiz designed to help entrepreneurs evaluate their skills, experience, and background. The form consists of a series of questions about your goals, skills, and background, with corresponding answer fields for you to provide more detailed information. This form is for internal use only, and the answers you provide will be kept confidential and used to support decision-making within the company. Please answer each question as honestly and thoroughly as possible, and be sure to provide specific examples or anecdotes to support your answers. Please review each question carefully to ensure you're providing the best response possible. If you're unsure about any question, please ask your supervisor or manager for clarification.
-</thinking>
-
 # Entrepreneur Quiz - Help Guide
 ## Purpose
 This form is designed to help entrepreneurs evaluate their skills, experience, and background.

@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to gather information from the user to determine their loan requirements for a real estate transaction. It's designed to help identify the type of loan they are seeking, the properties involved in the transaction, and any specific requirements such as prepayment options. The form will be reviewed for completeness and correctness before being used to inform a loan decision.
-We'll be checking for the following fields being filled in, in order to proceed:
-
-* First and Last name in the Contact Information field
-* A valid email address in the Email field
-* A correct property type in the Property Type field
-* Correct loan term in the Loan Term field
-* Correct loan amount in the Loan Amount field
-* A valid interest rate in the Interest Rate field
-</thinking>
-
 # real_estate_buyer_consultation_checklist_sarah_desamours - Help Guide
 ## Purpose
 This form is designed to gather information from the user to determine their loan requirements for a real estate transaction.

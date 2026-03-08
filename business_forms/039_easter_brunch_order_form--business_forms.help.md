@@ -1,20 +1,3 @@
-<thinking>
-This form is intended to capture information from customers who want to order Easter brunch for their guests. The form is used to gather the category of the order, the guest's name, the quantity of items ordered, the order time, the date, phone number, email, and any special requests the customer may have. The form also allows customers to choose the color and size of the Easter eggs they want to order. The form's purpose is to make it easy for customers to provide the necessary information in one place, making the ordering process more convenient and efficient.
-
-The form does not require any fields to be filled, as the 'required' field in the YAML is set to `false` for all fields. This means that customers can choose to fill in as much or as little information as they want.
-
-The form's layout consists of two pages, but the second page only includes a category field and a submit button. The form will not be completed until the user clicks on the submit button.
-
-The form fields are as follows: category, guest_name, quantity, order_time, date, phone, email, special_requests, easter_egg_color, and easter_egg_size.
-
-This form is used to order Easter eggs, which are a key component of the Easter brunch menu.
-
-The form will be filled out by customers who want to order Easter eggs for their guests.
-
-The form fields are all optional, except for the category field on the second page, which is required.
-
-</thinking>
-
 # Easter Brunch Order Form - Help Guide
 ## Purpose
 This form is used to capture information from customers who want to order Easter brunch for their guests.

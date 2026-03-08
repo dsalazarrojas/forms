@@ -1,5 +1,3 @@
-<thinking>... The BP MINI FUNKO POP Order Form is a critical component of our business processes, and it's essential to ensure that end-users understand its purpose and function. This form collects customer information, order details, and payment preferences, which are vital for processing and fulfilling orders efficiently. To confirm, this form is specifically designed for ordering Mini Funko Pops, a popular collectible item. By completing this form, customers will be able to specify their order requirements accurately, which will enable our team to process their orders correctly and provide an exceptional customer experience. Let's review the form's structure to avoid duplication of effort and to guarantee a smooth experience for our customers. ...</thinking>
-
 # BP MINI FUNKO POP Order Form - Help Guide
 ## Purpose
 The BP MINI FUNKO POP Order Form is designed for customers to place orders for Mini Funko Pops, collectible items, by providing us with essential information for order fulfillment.

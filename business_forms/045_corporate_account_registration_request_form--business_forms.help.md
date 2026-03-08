@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather essential information for the registration of a corporate account. It is intended for companies interested in establishing a business relationship with our organization. The form fields are meant to capture relevant details about the company, its representatives, and its business operations. It is crucial to ensure that the information provided is accurate and complete to ensure smooth communication and collaboration.
 
 # Corporate Account Registration Request Form - Help Guide

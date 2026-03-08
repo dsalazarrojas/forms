@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to guide the user through a risk assessment and control evaluation. It's essential to understand that this form is for internal business use and is not intended for external submission. Please note that this form may need to be reviewed and approved by relevant stakeholders before submission.
-</thinking>
-
 # swms_form_template - Help Guide
 ## Purpose
 The "swms_form_template" form is an internal business form used to assess and evaluate controls, ensuring compliance with relevant regulations and standards. It provides a structured approach to identifying potential risks and hazards and documenting controls to mitigate them.

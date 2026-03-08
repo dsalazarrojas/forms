@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expense Reimbursement Audit Form - Help Guide
 ## Purpose
 This form is used to audit and verify the accuracy of expense reimbursement claims submitted by employees. It helps ensure that expenses are properly recorded, categorized, and approved in accordance with company policies.

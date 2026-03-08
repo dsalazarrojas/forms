@@ -1,9 +1,3 @@
-<thinking>
-
-The "Fuel Expense Validation Form" is a tool used to validate fuel expenses submitted by users for reimbursement. This form is designed to collect and review essential information about fuel expenses, ensuring that all required data is accurate and complete. The form is intended for use by authorized personnel within the company to review and approve or reject fuel expense claims. Before using this form, ensure that you have the necessary approvals and permissions to access this data.
-
-</thinking>
-
 # Fuel Expense Validation Form - Help Guide
 ## Purpose
 The "Fuel Expense Validation Form" is a tool used to validate fuel expenses submitted by users for reimbursement.

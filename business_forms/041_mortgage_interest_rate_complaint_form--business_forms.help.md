@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mortgage Interest Rate Complaint Form - Help Guide
 
 ## Purpose

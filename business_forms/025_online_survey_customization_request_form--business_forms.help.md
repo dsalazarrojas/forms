@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Survey Customization Request Form - Help Guide
 
 ## Purpose

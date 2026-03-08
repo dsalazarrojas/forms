@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to assess an organization's readiness for the future, specifically in key areas such as strategic direction, market changes, innovation, talent, financial resilience, risk, and compliance. This form is designed to help business leaders and professionals identify areas of strength and weakness, providing insight for prioritizing areas of focus to drive future success.
-</thinking>
-
 # Business Future Readiness Survey - Help Guide
 ## Purpose
 The Business Future Readiness Survey is designed to evaluate an organization's preparedness for future challenges and opportunities. This form assesses key areas such as strategic direction, market changes, innovation, talent, financial resilience, risk, and compliance.

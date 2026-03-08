@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contract Request Form - Help Guide
 ## Purpose
 The Contract Request Form is a tool used to collect information about contracts that are being created, modified, or terminated within the company. This form helps to ensure that all necessary parties and stakeholders are informed and involved in the contract process. It is essential to fill out this form accurately and thoroughly to facilitate a smooth and efficient contract process.

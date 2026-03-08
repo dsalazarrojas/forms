@@ -1,8 +1,3 @@
-<thinking> 
-This form is for users to provide information about their online forms, and its purpose is to collect and organize details about the form's title, target audience, data collection methods, form submission, analytics, and integration. It is designed to be a helpful guide for users to get started with creating and using online forms. 
-
-</thinking>
-
 # Guide For Using Online Forms - Help Guide
 ## Purpose
 The guide is a tool to help users understand the process of creating and using online forms. It is designed to collect information about online forms, including their title, target audience, data collection methods, form submission, analytics, and integration.

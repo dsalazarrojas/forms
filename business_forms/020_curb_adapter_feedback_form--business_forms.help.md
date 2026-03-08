@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Curb Adapter Feedback Form - Help Guide
 
 ## Purpose

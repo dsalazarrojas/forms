@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to aid in procurement planning for a business by allowing users to track progress and ensure that all necessary steps are taken for a successful procurement process. This form serves as a checklist to help users confirm that they have completed key activities and tasks required for procurement planning. It may seem like a straightforward form, but it's meant for a more structured and methodical process.
-
-</thinking>
-
 # procurement_planning_checklist_form - Help Guide
 ## Purpose
 This form is designed to guide users through the procurement planning process, ensuring that all key steps and activities are completed to ensure a successful procurement process.

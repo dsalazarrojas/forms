@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about projects, including project details such as name, start and end dates, status, resources, and project manager contact information. This form is likely used by internal teams to track and manage projects within the organization.
-The form does not appear to have any duplication of fields, but a double-check would be necessary to ensure that the same field is not being used to collect the same information twice.
-</thinking>
-
 # Project Management Form - Help Guide
 ## Purpose
 The Project Management Form is used to collect and track information about projects within the organization. This form helps the project team to have a centralized view of all ongoing and upcoming projects, allowing them to better manage resources, priorities, and deadlines.

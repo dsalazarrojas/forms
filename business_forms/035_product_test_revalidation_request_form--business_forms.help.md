@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from users when they want to revalidate a product test. The purpose of this form is to gather necessary details to facilitate the revalidation process. Before filling out this form, please ensure that:
-- You have the necessary permissions and approvals to revalidate a product test.
-- The test has not been previously revalidated.
-</thinking>
-
 # Product Test Revalidation Request Form - Help Guide
 ## Purpose
 This form is used to collect information from users to revalidate a product test.

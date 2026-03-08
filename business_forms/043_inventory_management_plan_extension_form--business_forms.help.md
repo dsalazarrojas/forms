@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory Management Plan Extension Form - Help Guide
 ## Purpose
 This form is designed to help you extend and manage your inventory. It will guide you in making the right decisions for your business form's management.

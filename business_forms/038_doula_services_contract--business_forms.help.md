@@ -1,10 +1,3 @@
-<thinking>
-The "doulas_services_contract" form is designed to capture information from clients or customers who are seeking doula services. This form aims to gather essential details such as contact information, date of birth, and the specific services they are interested in. It's possible that this form might be used in a healthcare or wellness setting. To ensure that the form is completed accurately and effectively, the following steps should be taken:
-
-1.  First, ensure that the form is filled out for the correct purpose, i.e., for a doula services booking or inquiry.
-2.  The form should not be duplicated for the same individual without a valid reason.
-</thinking>
-
 # doula_services_contract - Help Guide
 ## Purpose
 The "doulas_services_contract" form is designed to capture information from clients or customers who are seeking doula services.

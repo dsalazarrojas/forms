@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This will be a comprehensive guide to help users understand the **mortgage_renewal_notification_form**. Below is the help document:
 
 # mortgage_renewal_notification_form - Help Guide

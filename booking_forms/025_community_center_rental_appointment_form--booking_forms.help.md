@@ -1,5 +1,3 @@
-<thinking>This is a user-facing help guide for the "Community Center Rental Appointment Form". I will create a clear and concise guide to help end-users understand the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Community Center Rental Appointment Form - Help Guide
 ## Purpose
 This form is designed for individuals or organizations interested in renting a space at the community center. By submitting this form, you will be able to request a rental appointment for your event or activity. Please fill out all required fields to ensure that your request is processed efficiently.

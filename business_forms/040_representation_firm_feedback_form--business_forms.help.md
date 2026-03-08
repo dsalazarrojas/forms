@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Representation Firm Feedback Form is designed to collect feedback from firms regarding the representation of certain events or services. It is meant to be used to understand the firms' satisfaction and concerns about the representation.
 
 This form will be used by internal personnel to gather insights that can be used to improve the representation firm experience and services. Before completing this form, please make sure that you have not already submitted feedback on the same topic, as it is not necessary to duplicate efforts.

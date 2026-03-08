@@ -1,8 +1,3 @@
-<thinking>
-The form is used to declare ownership of a trademark. This form will help determine the current status of a trademark, its type, and other relevant details such as registration date and country. It should be completed by the trademark owner or their representative to provide accurate and up-to-date information.
-This form is a crucial document in the trademark registration process, and it's essential to fill it out accurately to avoid any potential issues or discrepancies. The form should be filled out once a year, or as required.
-</thinking>
-
 # Trademark Ownership Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and verify information about trademark ownership. It's used to declare ownership of a trademark, providing details such as registration date, country, and status.

@@ -1,5 +1,3 @@
-<thinking>This form is intended to help users book practice tests for students. The form should be used to collect relevant information from students and teachers about a practice test, including the schedule date, select time, practice test name, student name, student phone number, student email, and other relevant details. This form should not be used for any other purpose, such as booking a regular test. It's essential to fill out this form accurately and completely, as any missing or incorrect information may lead to misunderstandings or missed appointments. Please review each field carefully before submitting the form.</thinking>
-
 # GED Practice Test Booking Form - Help Guide
 ## Purpose
 The GED Practice Test Booking Form is used to collect information from students and teachers about a practice test, including the schedule date, select time, practice test name, student name, student phone number, student email, and other relevant details.

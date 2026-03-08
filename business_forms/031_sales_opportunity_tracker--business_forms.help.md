@@ -1,33 +1,3 @@
-<thinking>
-
-We need to ensure that the Sales Opportunity Tracker form is used consistently and effectively across the company. This form is designed to track sales opportunities from lead generation to close. It's essential to understand its purpose and how to fill it out correctly. Let's make sure to review the form's fields and their explanations to avoid confusion and duplication of work.
-
-The form is used to record and track sales opportunities, from initial contact to close. It's crucial to fill it out accurately to maintain a clear and up-to-date record of sales progress.
-
-Let's break down the form into sections to make it easier to understand:
-
-*   **Sales Opportunity**
-*   **Contact Information**
-*   **Sales Stage**
-*   **Next Action**
-*   **Sales Probability**
-*   **Follow-up Details**
-*   **Pipeline**
-*   **Assigned To**
-*   **Sales Notes**
-*   **Customer Notes**
-*   **Follow-up Notes**
-*   **Follow-up Details**
-*   **Sales Stage Change**
-*   **Follow-up Method Change**
-*   **Follow-up Frequency**
-*   **Last Follow-up Time**
-*   **Close Reason**
-
-By understanding the purpose and structure of the form, we can use it effectively and efficiently to track sales opportunities.
-
-</thinking>
-
 # Sales Opportunity Tracker - Help Guide
 
 ## Purpose

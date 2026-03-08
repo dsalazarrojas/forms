@@ -1,8 +1,3 @@
-<thinking> 
-This form is a Webinar registration form, designed to collect information from users who wish to attend or participate in a web-based event or seminar. This form is likely used to gather contact and demographic information from registrants, as well as their preferences and interests. It seems to be a general-purpose form for collecting various types of information, but without specific context or business logic. The fields include text inputs for user information, phone number, date of birth, time, notes, and required information; select_one and select_multiple options for multiple-choice questions; and email inputs. The goal of this form is to provide a structured way for users to provide their details for a web-based event or seminar.
-
-</thinking>
-
 # webinar_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from users who wish to register for or participate in a web-based event or seminar.

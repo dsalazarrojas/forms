@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the observation form is to capture specific, actionable information from observers or reviewers, usually used in a business setting. The form aims to collect personal details, dates, and times of observations, along with feedback, suggestions, and action items. This data can help teams, managers, or departments to track and improve their processes, communication, and performance.
-
-To avoid duplication, it's essential to ensure that the form is filled out for each unique observation or event.
-
-</thinking>
-
 # observation_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Design Studio Contact Form - Help Guide
 ## Purpose
 This form is intended to be used for project inquiries and facility design studio submissions. The form is used to collect information about a project and gather contact details from the user.

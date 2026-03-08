@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that the form is for requesting a quote for an embroidery service. This form will help us understand the client's needs and provide a accurate quote. It should not be used for other purpose, and if someone wants to request a quote for a different product/service, they should use a different form to avoid confusion and ensure correct processing. The form fields are designed to gather the necessary information to provide a quote, and each field is labeled to explain what it represents.
-</thinking>
-
 # Embroidery Quote Request Form - Help Guide
 ## Purpose
 

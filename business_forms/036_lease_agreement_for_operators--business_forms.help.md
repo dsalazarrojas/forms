@@ -1,7 +1,3 @@
-<thinking>
-The form is used to capture information about a lease agreement for operators. This form is likely used in a business context, such as in real estate or property management, to document the terms of a lease between a landlord and an operator. The form should only be used for operators, not for regular tenants or other types of users. To ensure accuracy, please verify that you are eligible to use this form before proceeding.
-</thinking>
-
 # lease_agreement_for_operators - Help Guide
 ## Purpose
 This form is used to collect information about lease agreements for operators. It is essential to provide accurate and relevant details to ensure that the lease terms are clearly understood by all parties involved.

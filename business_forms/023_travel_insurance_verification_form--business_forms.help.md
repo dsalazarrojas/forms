@@ -1,8 +1,3 @@
-<thinking>
-This form is for verifying travel insurance information. The form is used to collect details about a customer's travel insurance policy, including policy type, status, coverage start and end dates, and customer contact information. This form is likely used in a business setting to verify customer's travel insurance policies for various purposes, such as processing claims or updating customer records. The form is designed to be simple and easy to fill out, with clear labels and explanations for each field. Please note that this form is not intended for general public use and is likely used internally within a company or organization.
-
-</thinking>
-
 # travel_insurance_verification_form - Help Guide
 ## Purpose
 The form is used to collect and verify travel insurance information, primarily for business use.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help manufacturing companies or organizations get in touch with a manufacturing technology advisor who can help them identify and implement technologies that suit their needs.
-It's likely that this form will be filled out by business users who have specific problems or pain points in their manufacturing operations and are seeking outside help. Therefore, the form should be straightforward and user-friendly to facilitate a clear understanding of their needs and preferences.
-</thinking>
-
 # Contact A Manufacturing Technology Advisor - Help Guide
 ## Purpose
 

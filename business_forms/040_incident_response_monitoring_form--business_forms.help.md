@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect and track information related to an incident that has occurred in the organization. This includes details about the incident itself, the response efforts undertaken, and the status changes made along the way. The form is designed to be comprehensive, yet concise, and should be used to monitor and report on incidents in a standardized manner.
-
-To prevent duplication and ensure accuracy, please review the following:
-
-* Make sure to fill out only one instance of the form per incident.
-* Use the correct incident type, status, and priority to ensure accurate tracking and reporting.
-* Enter detailed descriptions and descriptions where applicable.
-* Use the correct escalation and resolution processes.
-* Ensure that the status comments and last updated fields are used consistently and accurately.
-
-</thinking>
-
 # Incident Response Monitoring Form - Help Guide
 ## Purpose
 This form is used to track and monitor incidents that have occurred in the organization. It helps to gather information about the incident, the response efforts, and the status changes made along the way.

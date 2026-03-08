@@ -1,14 +1,3 @@
-<thinking>
-To provide a user-friendly help guide for the Travel Request Form, we should consider the following steps:
-
-1. Define the form's purpose and scope.
-2. Identify the form's key fields and their relationships.
-3. Determine the most critical information to include in the help guide.
-4. Write clear and concise explanations for each field.
-5. Organize the guide using the specified Markdown structure.
-
-</thinking>
-
 # Travel Request Form - Help Guide
 
 ## Purpose

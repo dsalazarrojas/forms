@@ -1,7 +1,3 @@
-<thinking>
-This self-evaluation form is designed for employees to assess their performance and satisfaction in their role. The form helps employees reflect on their strengths and weaknesses, satisfaction levels, and areas for growth and development. This form is intended to promote self-awareness, identify areas of improvement, and facilitate ongoing career growth and development. This form should only be used for personal reflection and not for formal evaluation or performance management purposes. It's essential to ensure that the form is filled out honestly and objectively, as it will help employees and the organization understand their performance and identify areas for improvement.
-</thinking>
-
 # self-evaluation - Help Guide
 ## Purpose
 The self-evaluation form is designed to help employees assess their performance and satisfaction in their role. It's meant to be a personal reflection tool for employees to identify their strengths and weaknesses, and areas of satisfaction and dissatisfaction.

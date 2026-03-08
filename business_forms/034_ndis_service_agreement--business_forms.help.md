@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a comprehensive documentation of the service agreement for participants in the National Disability Insurance Scheme (NDIS) in Australia. The form is likely used to capture information and details about the service provided, the participant's needs and preferences, and the communication and support arrangements between the participant and the service provider. This form may be used by service providers to document their agreements with participants, ensuring that both parties have a clear understanding of the services, communication channels, and support requirements. The purpose of this form is to facilitate effective communication, ensure transparency, and maintain a record of the agreement.
-
-Before proceeding, please ensure that you have not completed this form for the same participant/service provider previously, as duplication of effort may cause unnecessary confusion and potential conflicts of interest.
-
-</thinking>
-
 # ndis-service-agreement - Help Guide
 ## Purpose
 The "ndis-service-agreement" form is used to document the service agreement between the National Disability Insurance Scheme (NDIS) participants and their service providers.

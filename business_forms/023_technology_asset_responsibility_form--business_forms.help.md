@@ -1,7 +1,3 @@
-<thinking>
-This form is used to categorize and document a technology asset's responsibility. It is meant to be used by asset owners and administrators to track and update asset information. Please ensure that you are filling this form for an asset that does not already exist in the system or has not been updated recently.
-</thinking>
-
 # technology_asset_responsibility_form - Help Guide
 ## Purpose
 The Technology Asset Responsibility Form is used to document and track information about technology assets, including their type, status, ownership, location, and other relevant details.

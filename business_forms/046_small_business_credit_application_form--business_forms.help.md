@@ -1,7 +1,3 @@
-<thinking>
-This form is for small business credit applications. It's intended for small business owners who want to apply for credit from our institution. The form is used to gather information about the business and the owner. The form's purpose is to collect necessary details for the credit assessment process.
-</thinking>
-
 # small_business_credit_application_form - Help Guide
 ## Purpose
 This form is for small business credit applications, gathering information about the business and owner for credit assessment.

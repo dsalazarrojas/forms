@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Maintenance Claim Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for vehicle maintenance claims. This form is designed to gather essential details from the customer and claimant to process their claim efficiently.

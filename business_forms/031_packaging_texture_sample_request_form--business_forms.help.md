@@ -1,7 +1,3 @@
-<thinking>
-This form is for customers or internal teams to request a sample of a specific packaging texture. This form is used to gather essential information for the purpose of preparing and sending the requested sample. Please make sure to fill in the form carefully, as the information collected will be used to ensure that the correct sample is prepared and shipped to the customer. If you're unsure about what information is required or need help, please ask for assistance. This form has been designed to gather the following information:
-</thinking>
-
 # Packaging Texture Sample Request Form - Help Guide
 ## Purpose
 This form is used to collect information from customers or internal teams requesting a sample of a specific packaging texture. The information collected will be used to prepare and send the correct sample to the customer.

@@ -1,13 +1,3 @@
-<thinking>
-To create a help guide for the Parapet Inspection Checklist form, I need to understand that this form is used by building inspectors to document information about a parapet's condition, photos, and any findings or comments. The form will likely be used to track and report on the condition and status of parapets. I will need to review the provided YAML fields to ensure that the help guide accurately and concisely explains the form's purpose, fields, and requirements.
-
-The parapet inspection checklist appears to be a straightforward form designed to gather basic information about a parapet's condition, with fields for general information, condition, photo location, photo comment, findings, and notes.
-
-Upon reviewing the fields, I will need to clarify that the photo location field might be better described as "Where was the photo taken?" to ensure the user understands what the field is asking for. Similarly, the findings field could be described as "When were the findings observed or recorded?" to provide clarity.
-
-With this understanding, I will create the help guide as required, using the provided YAML structure as a base.
-</thinking>
-
 # Parapet Inspection Checklist - Help Guide
 
 ## Purpose

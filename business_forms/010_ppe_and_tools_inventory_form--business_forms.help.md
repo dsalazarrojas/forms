@@ -1,11 +1,3 @@
-<thinking>
-This form is a tool for tracking the inventory of PPE (Personal Protective Equipment) and tools within an organization. The form should be used to collect information about each tool, such as its category, name, quantity, description, serial number, manufacturer, location, asset value, and whether it is assigned to a specific person or group. This form should not be used for other purposes, and users should only fill out the fields that are relevant to the information they are tracking.
-
-The form has 11 fields, including text fields for form details, tool name, description, serial number, manufacturer, and location. It also has select fields for PPE category, quantity, location, and assignment status. The asset value field is a number field, and the notes field is a free-text field for additional comments.
-
-Before filling out this form, please review the fields below and only fill out the fields that are relevant to the information you are tracking.
-</thinking>
-
 # ppe_and_tools_inventory_form - Help Guide
 ## Purpose
 This form is used to track the inventory of PPE and tools within an organization.

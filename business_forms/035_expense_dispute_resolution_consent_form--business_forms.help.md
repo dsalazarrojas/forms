@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information related to an expense dispute. This form will help to track and document the process of resolving the dispute between the employee and the management. It's essential to complete this form accurately to ensure that all necessary details are captured correctly.
 
 </thinking>

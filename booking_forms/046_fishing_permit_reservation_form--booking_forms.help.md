@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to create a fishing permit reservation, and I will ensure that the form is correctly implemented and meets the requirements. I will review the provided YAML fields to provide a clear and concise help guide for end-users. I will not include any internal logic that is not explicitly defined in the YAML fields. I will also ensure that the explanations are concrete and practical. The form is used for making a fishing permit reservation, and it seems to be a simple and straightforward process.
-</thinking>
-
 # Fishing Permit Reservation Form - Help Guide
 ## Purpose
 This form is used to create a reservation for a fishing permit. It will help you reserve a spot for a specific fishing trip by providing necessary information such as customer name, contact details, and type of fishing trip.

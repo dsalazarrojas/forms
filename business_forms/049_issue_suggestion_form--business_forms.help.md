@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect suggestions and ideas related to issues or problems that users may be experiencing in their daily work or personal life. It aims to gather detailed descriptions and relevant information to help address these issues. To ensure the quality and usefulness of the collected data, please do not submit duplicate or unrelated submissions. Only submit one issue suggestion per form.
-</thinking>
-
 # issue_suggestion_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document issue suggestions for further review and resolution.

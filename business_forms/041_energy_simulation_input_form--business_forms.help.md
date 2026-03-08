@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be using the "Energy Simulation Input Form" to input data for energy simulation purposes. This form is likely used by professionals such as engineers, architects, or energy analysts who require specific data inputs to run energy simulations. The form is designed to collect data on various aspects of a building's characteristics and simulation settings. Before proceeding, please ensure that you are familiar with the simulation process and the purpose of the form. If this is a duplicate submission, please be aware that any changes made will overwrite previous submissions.
-
-</thinking>
-
 # Energy Simulation Input Form - Help Guide
 ## Purpose
 The "Energy Simulation Input Form" is used to input data for energy simulations. This data is likely used to analyze and predict energy consumption, production, or other relevant outcomes for a building or location.

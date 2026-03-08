@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather suggestions from employees, customers, or other stakeholders to improve the company's products, services, or processes. The form is designed to be flexible and have multiple pages, allowing users to provide detailed suggestions for different aspects of the company's operations. Before proceeding, please ensure that you have a clear suggestion in mind and that it has not already been proposed or addressed in previous rounds of feedback.
-</thinking>
-
 # Suggestion Box Template - Help Guide
 ## Purpose
 The Suggestion Box Template is a form designed to collect suggestions from employees, customers, or other stakeholders to enhance the company's products, services, or processes.

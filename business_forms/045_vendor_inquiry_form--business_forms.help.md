@@ -1,7 +1,3 @@
-<thinking>
-This form is used for inquiring about a vendor. Vendors are individuals or organizations that provide goods or services. To ensure that this form is used for its intended purpose and that the same vendor is not inquired about more than once, please verify that you are inquiring about a specific vendor and that you are not submitting duplicate requests.
-</thinking>
-
 # Vendor Inquiry Form - Help Guide
 ## Purpose
 The Vendor Inquiry Form is used to gather information about a vendor. This form helps you to quickly and easily collect the necessary details about the vendor.

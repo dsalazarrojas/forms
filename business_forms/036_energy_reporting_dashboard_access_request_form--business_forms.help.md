@@ -1,5 +1,3 @@
-<thinking>As a help guide, this form is designed to be used as a template for creating energy reporting dashboards. Users will need to select multiple options to provide a thorough explanation of their energy reporting system requirements, including energy reporting systems, reporting tools, and user access levels. The form is not meant to be completed without careful consideration of each field to ensure accurate and efficient data collection. This form should not be used in duplicate, and users are required to fill it out only once. The form purpose is to gather information for setting up and maintaining a proper energy reporting dashboard that meets the user's needs.</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to gather information for setting up and maintaining a proper energy reporting dashboard that meets the user's needs.

@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to ensure form purpose and non-duplication checks ...
-
-The primary care appointment request form is designed to collect patient information for scheduling appointments with primary care doctors. This form is used to gather essential details from patients before their visit, such as their name, contact information, and medical history. It also allows patients to provide additional information and specify their reasons for visiting. The form is typically filled out by the patient prior to their appointment and is reviewed by the medical staff to ensure accurate processing.
-
-</thinking>
-
 # primary_care_appointment_request - Help Guide
 ## Purpose
 The purpose of this form is to gather information from patients for scheduling appointments with primary care doctors. It is used to collect essential details, including patient name, contact information, medical history, and any additional information the patient wants to provide.

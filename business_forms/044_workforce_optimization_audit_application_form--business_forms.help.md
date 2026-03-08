@@ -1,6 +1,3 @@
-<thinking> 
-This form is meant to collect information from employees for the purpose of a workforce optimization audit. This process is usually conducted to identify areas where improvements can be made to enhance work efficiency and reduce workloads. The goal is to understand the work schedules and preferences of employees to propose adjustments that can lead to more productive work hours. This form is intended to collect data from individual employees, and the information provided will be used to inform future decisions regarding work optimization. Please ensure that you have reviewed the instructions carefully before completing the form to ensure you are providing accurate and relevant information.</thinking>
-
 # Workforce Optimization Audit Application Form - Help Guide
 ## Purpose
 The Workforce Optimization Audit Application Form is a data collection tool used to gather information from employees to inform decisions regarding work schedule optimization and efficiency.

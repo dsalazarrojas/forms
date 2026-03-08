@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in filling out the "Warehouse Storage Referral Form" with accuracy and completeness. Please note that this form is designed to collect information about warehouse storage facilities and their characteristics. Ensure that you have all necessary information about the referral before proceeding, and that the form is not being submitted for the same facility or client multiple times.
 
 # Warehouse Storage Referral Form - Help Guide

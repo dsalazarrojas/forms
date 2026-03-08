@@ -1,7 +1,3 @@
-<thinking>
-This help guide is being written to explain the user_request_form form. This form is used to create a new event request, which is a crucial process for the organization's event management system. It's essential that users understand the purpose and correct usage of this form to avoid errors and duplication. Before proceeding, ensure that you have a clear understanding of the event you want to request and that you're not already working on an identical request.
-</thinking>
-
 # event_request_form - Help Guide
 ## Purpose
 The event request form is used to create a new event request, which is a crucial process for the organization's event management system. It allows users to input details about the event, including event type, date, time, venue, and other relevant information. This form is designed to guide users through the process of submitting a complete and accurate event request.

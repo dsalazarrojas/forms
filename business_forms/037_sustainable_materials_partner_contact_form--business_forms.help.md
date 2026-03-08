@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and preferences from partners who are interested in sustainability materials. The form asks for partner contact details such as name, email, and phone number, as well as their role, job title, and department. It also asks about their job functions and location. The form also includes sections for a brief description of their company, their job responsibilities, and any other contact preferences they may have. Additionally, it includes fields for follow-up frequency and next steps, allowing the partner to indicate whether they would like to be followed up on and how often they would like to be contacted. The purpose of this form is to facilitate communication and build relationships with partners who are interested in sustainability materials. This form is likely to be used by the sustainability department or team within a company to gather information about their partners and tailor their communication strategy accordingly.
-</thinking>
-
 # Sustainable Materials Partner Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and preferences from partners who are interested in sustainability materials. It helps us understand their contact details, role, job functions, and location, allowing us to tailor our communication strategy and build relationships with them.

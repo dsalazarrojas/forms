@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information for credit strategy sessions, which are meetings or discussions focused on developing and implementing credit strategies for a particular project or initiative. This form serves as a centralized location for capturing relevant details about each session, including session details, participant information, and credit strategy specifics. To ensure accurate and thorough completion, please review each field carefully and fill in all required and optional fields as needed.
-
-This form is a part of a larger process, and it's essential that the information collected here is consistent with other forms and data sources. If you have any questions or concerns, please refer to the project documentation or seek guidance from your team.
-
-</thinking>
-
 # credit_strategy_session_registration - Help Guide
 ## Purpose
 The credit strategy session registration form is used to register and gather information about credit strategy sessions. This form helps ensure that all relevant details are captured accurately and consistently.

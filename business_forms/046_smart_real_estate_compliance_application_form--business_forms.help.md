@@ -1,7 +1,3 @@
-<thinking>
-This form is for real estate agents or brokers to apply for a smart real estate compliance application. This form should only be completed by authorized users within the company. Please ensure that you are filling out the form for a genuine reason and not simply experimenting or testing the form.
-</thinking>
-
 # Smart Real Estate Compliance Application Form - Help Guide
 
 ## Purpose

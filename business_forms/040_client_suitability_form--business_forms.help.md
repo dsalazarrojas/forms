@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess the suitability of a client for investment purposes. It's essential to understand that this form is not a comprehensive financial planning tool but rather a starting point for further evaluation and consultation with a financial advisor. The information gathered from this form will help the investment advisor to get a general idea of the client's financial situation, investment goals, and risk tolerance, which will guide their recommendations. 
-</thinking>
-
 # Client Suitability Form - Help Guide
 ## Purpose
 The Client Suitability Form is a questionnaire designed to gather information about your financial situation, investment goals, and risk tolerance. This information will help your investment advisor provide personalized recommendations tailored to your needs.

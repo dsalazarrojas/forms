@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advisory Board Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Work Method Statement Form - Help Guide
 ## Purpose
 The Work Method Statement Form is designed to collect information about a project's work method, risks, and controls. It's intended to be filled out by project managers, supervisors, or team leads to provide a comprehensive overview of the project's work approach, potential hazards, and risk management strategies.

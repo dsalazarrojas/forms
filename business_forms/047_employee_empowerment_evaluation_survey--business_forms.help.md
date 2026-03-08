@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended for end-users to understand the purpose and process of filling out the "Employee Empowerment Evaluation Survey". The form is designed to gather information about team leads and their team members, assessing their level of empowerment, communication style, and job satisfaction. The survey is crucial for the organization to identify areas of improvement and implement changes to create a more positive and productive work environment.
 
 </thinking>

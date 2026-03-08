@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's clarify the purpose and scope of the Workplace Entry Screening Form. This form is designed to gather essential information from employees for workplace screening purposes. It aims to identify potential risks and ensure a safe working environment. The form is meant to be completed by employees who are returning to or entering the workplace after certain events or experiences. The questions and sections of this form are intended to be comprehensive, yet not overly invasive, to help HR and management teams make informed decisions about employee safety and well-being. By answering these questions, employees can demonstrate their understanding of the workplace policies and procedures and ensure they're compliant with them.</thinking>
-
 # Workplace Entry Screening Form - Help Guide
 ## Purpose
 The Workplace Entry Screening Form is a crucial tool for employees to ensure their safety and compliance with workplace policies upon re-entry or entry into the workplace.

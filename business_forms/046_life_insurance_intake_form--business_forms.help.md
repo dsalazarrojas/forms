@@ -1,5 +1,3 @@
-<thinking>Before diving into the form's inner workings, let's clarify the purpose and relevance of this form. The Life Insurance Intake Form is designed to collect information from customers who are applying for life insurance policies. The form is intended to be used by insurance agents, agents' offices, or companies to gather essential data from customers before issuing or modifying a policy. To ensure a smooth experience, please review the form fields carefully and ensure you provide accurate and complete information. This form is not meant to be a substitute for a thorough conversation or consultation with an insurance expert. If you're unsure about any field or have questions, don't hesitate to reach out to the relevant party for clarification.</thinking>
-
 # Life Insurance Intake Form - Help Guide
 ## Purpose
 The Life Insurance Intake Form is a crucial document used to gather information from customers who are applying for or modifying life insurance policies. This form helps insurance agents, agents' offices, or companies to collect essential details about the customer and the policy they are interested in.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Process Workflow Analyst Contact Form - Help Guide**
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture information about personnel activities related to federal grants. It's essential to ensure that the correct category is selected, as it will affect the subsequent questions and calculations. Please verify that the category is "Business Forms" as this is the correct category for federal grants. If you're unsure, please contact your supervisor for clarification.
-
-This form is used to report personnel activities related to federal grants. It's crucial to complete this form accurately to ensure that your organization receives the correct funding and reimbursement.
-
-</thinking>
-
 # personnel_activity_report_form_for_federal_grants - Help Guide
 ## Purpose
 This form is used to report personnel activities related to federal grants. It helps ensure that your organization receives correct funding and reimbursement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for the management of smart queue applications. It captures information about each queue application received from customers. The form is structured to help collect relevant details to process and follow up on queue management efficiently. 
-</thinking>
-
 # Smart Queue Management Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for the management of smart queue applications. It includes details about the customer, their visit date and time, and any other relevant information to facilitate the process.

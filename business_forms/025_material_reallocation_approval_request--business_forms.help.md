@@ -1,10 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Material Reallocation Approval Request" form, we need to consider the following:
-
-* The form is used for requesting approval for the reallocation of materials. This could be due to various reasons such as stock update, inventory management, or production planning.
-* To ensure relevance and non-duplication, users should only access this form when they need to request material reallocation. They should also be aware of any ongoing or pending reallocation requests for the same material.
-</thinking>
-
 # Material Reallocation Approval Request - Help Guide
 ## Purpose
 The "Material Reallocation Approval Request" form is used to request approval for the reallocation of materials from one location to another. This form helps to formalize the process, ensuring that all necessary details are documented and reviewed by the relevant stakeholders.

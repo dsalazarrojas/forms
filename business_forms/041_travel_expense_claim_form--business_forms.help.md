@@ -1,9 +1,3 @@
-<thinking>
-This is a form for employees to claim travel expenses. 
-The purpose of this form is to collect information about a travel expense, including the date, employee name, department, and expense details. It is essential to fill out this form accurately to ensure that all necessary information is captured for reimbursement purposes. Please note that you must be an authorized user to access and submit this form. 
-Ensure you only submit one form per travel expense claim. If you have multiple expenses to claim, please submit separate forms for each expense. 
-</thinking>
-
 # Travel Expense Claim Form - Help Guide
 ## Purpose
 The Travel Expense Claim Form is a tool for employees to claim travel expenses for reimbursement. This form is used to capture essential information about the travel expense, including the date, employee name, department, and expense details.

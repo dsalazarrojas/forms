@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Meeting Feedback Survey form is designed to gather feedback from meeting participants on various aspects of the meeting, including overall satisfaction, meeting content, organization, presentation, materials, objectives, goals, outcomes, participation, duration, frequency, effectiveness, engagement, and any additional feedback. The form is intended to help meeting organizers and facilitators understand the effectiveness of the meeting and make informed improvements for future meetings.
 
 ### Meeting Feedback Survey - Help Guide

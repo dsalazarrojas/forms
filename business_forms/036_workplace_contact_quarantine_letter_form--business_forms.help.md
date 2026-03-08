@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information for a workplace contact quarantine letter, which is a document used to inform an employee that they have been quarantined due to potential exposure to COVID-19. The form includes various fields to capture employee and employer information, including contact details, symptoms, and quarantine procedures. The purpose of this form is to ensure that the employee and employer are aware of the necessary steps to be taken during the quarantine period, and to facilitate clear communication between them. 
-The form fields are designed to gather relevant information that will be used to create a comprehensive quarantine letter. The fields are organized into different sections for employee and employer information, as well as for specific dates and contact information. 
-It's essential to complete this form accurately and thoroughly to ensure that the quarantine letter is effective in keeping both the employee and employer informed. 
-This form will help to streamline the process of creating a quarantine letter, reducing errors and increasing efficiency. 
-</thinking>
-
 # Workplace Contact Quarantine Letter Form - Help Guide
 ## Purpose
 The Workplace Contact Quarantine Letter Form is a document used to inform employees who have been quarantined due to potential exposure to COVID-19. This form provides a template for gathering essential information to create a comprehensive quarantine letter that can be used to communicate with the employee and the employer.

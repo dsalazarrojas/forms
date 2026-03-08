@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to refer a vehicle to a transmission specialist for services such as repair, maintenance, or replacement. This form will help streamline the process of sending a referral to a specialist, ensuring that the necessary information is provided and the specialist has a clear understanding of the client's needs. To ensure the highest chance of a successful referral, the form should be completed thoroughly and accurately. Please ensure that all required fields are filled in and that the client's information is correct.
-</thinking>
-
 # transmission_spezialist_referral_form - Help Guide
 ## Purpose
 The "transmission_spezialist_referral_form" is used to refer a vehicle to a transmission specialist for services such as repair, maintenance, or replacement. This form ensures that the client's information is provided accurately and efficiently.

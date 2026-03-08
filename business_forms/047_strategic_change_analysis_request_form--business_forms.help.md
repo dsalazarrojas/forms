@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect and analyze requests for strategic changes within a project. This form is used for the following reasons:
-
-* The project team can track and manage requests for changes
-* Approvers can review and approve or deny changes
-* The form helps to keep a record of all changes made and their impact on the project
-
-Before filling out this form, please ensure that your request is not a duplicate and that you have discussed it with the project team first. If you are unsure about any of the fields or have questions, please reach out to the project lead or approver.
-
-</thinking>
-
 # Strategic Change Analysis Request Form - Help Guide
 ## Purpose
 The Strategic Change Analysis Request Form is used to collect and analyze requests for strategic changes within a project.

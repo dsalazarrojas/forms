@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used by sales teams to submit daily reports. The purpose of this form is to capture relevant information about the sales team's activities and performance on a daily basis. The form is likely to be used by sales managers to track and review the progress of their sales teams. 
-
-Before we dive into the form details, let's clarify the relevance and duplication checks:
-- The form is relevant for sales teams to report their daily activities and progress.
-- The form does not seem to have any redundant or repetitive fields that would cause information duplication.
-
-</thinking>
-
 # Sales Team Daily Report Form - Help Guide
 ## Purpose
 The Sales Team Daily Report Form is a tool for sales teams to submit their daily reports, allowing sales managers to track and review the team's progress.

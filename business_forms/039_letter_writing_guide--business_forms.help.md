@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information for letter writing purposes, likely for a business or official context. It appears to be a standardized form for generating letters, which could include templates, templates with specific formatting, or other types of letters. The form seems to be used for internal purposes within the organization, and its purpose is likely to ensure uniformity and consistency in letter writing.
-
-The form collects various types of information, including personal details (first name, last name, email, phone), physical address (street, postal code), and other relevant data. Some fields are specifically designed to collect date and time information, possibly for scheduling or appointment purposes.
-
-Some fields seem to be optional and allow users to input additional information or select options for specific categories.
-
-To avoid duplication, it is essential to review this form carefully to ensure you fill it out correctly, following the exact guidelines and providing the required information. Please make sure to fill out each field accurately and completely.
-
-</thinking>
-
 # Letter Writing Guide - Help Guide
 
 ## Purpose

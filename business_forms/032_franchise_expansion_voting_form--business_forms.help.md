@@ -1,14 +1,3 @@
-<thinking>
-To create a help guide for the "Franchise Expansion Voting Form", I'll need to analyze the provided YAML fields and infer the purpose and requirements of the form.
-
-The form appears to be designed for stakeholders to vote on proposed markets for franchise expansion. The fields suggest that users will be selecting multiple proposed markets, providing feedback, casting votes as numbers, and inputting team names and locations.
-
-The form seems to be optional, as most fields are not marked as required. This implies that users can complete the form with minimal input, and the form's purpose is not necessarily to gather comprehensive data but rather to facilitate voting and feedback.
-
-Given this analysis, I'll create a help guide that assumes users are familiar with the concept of franchise expansion and voting. The guide will explain the form's purpose, how to complete it, and each field's purpose in a concise and practical manner.
-
-</thinking>
-
 # Franchise Expansion Voting Form - Help Guide
 ## Purpose
 The Franchise Expansion Voting Form is designed for stakeholders to vote on proposed markets for franchise expansion. This form allows you to weigh in on the potential expansion opportunities and provide feedback for the team.

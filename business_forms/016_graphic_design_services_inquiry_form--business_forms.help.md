@@ -1,7 +1,3 @@
-<thinking>
-This form is for inquiring about graphic design services. The form will likely be used to gather information from potential clients who are interested in seeking design services. The purpose of this form is to collect relevant details about the project and the client, such as project requirements, budget, and contact information. 
-</thinking>
-
 # Graphic Design Services Inquiry Form - Help Guide
 ## Purpose
 This form is used to gather information from potential clients who are interested in seeking graphic design services. It helps us understand their project requirements, budget, and contact information to provide them with the most suitable design solutions.

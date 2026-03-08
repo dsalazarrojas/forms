@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect contact information from companies interested in learning more about our corporate citizenship strategy. It is not intended to be used for marketing or sales purposes. Please ensure that you have already established a relationship with the company before filling out this form.
-</thinking>
-
 # Corporate Citizenship Strategy Contact Form - Help Guide
 ## Purpose
 This form is designed to gather contact information from companies interested in learning more about our corporate citizenship strategy. It will help us understand your company's needs and preferences, allowing us to provide more tailored support and resources.

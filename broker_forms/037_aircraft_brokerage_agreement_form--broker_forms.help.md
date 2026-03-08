@@ -1,11 +1,3 @@
-<thinking>
-This form is used to document agreements between an aircraft broker and a client for the purchase or sale of an aircraft. The form is intended to outline the terms and conditions of the agreement, including details such as the brokerage's responsibilities, fees, and commission structures. It is essential to have a clear understanding of these terms to ensure a smooth and successful transaction.
-
-To complete this form, please follow the instructions below.
-
-The form is divided into sections, each covering a different aspect of the agreement. Please ensure that all required fields are completed accurately and thoroughly.
-</thinking>
-
 # Aircraft Brokerage Agreement Form - Help Guide
 
 ## Purpose

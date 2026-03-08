@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Blood Test Booking Form - Help Guide
 
 ## Purpose

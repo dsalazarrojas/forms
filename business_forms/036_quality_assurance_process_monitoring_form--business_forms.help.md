@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to monitor and track the quality assurance process, allowing users to provide updates on the status of ongoing or completed processes, identify areas for improvement, and record relevant actions taken. This form is designed to be used by business users to collect and organize data on process progress, quality standards, and improvement areas and actions. The form's structure and field options are intended to facilitate clear and accurate reporting, making it easier for users to assess and improve processes over time. To ensure the form meets your needs, please review the field explanations below and adjust according to your specific business requirements.
-</thinking>
-
 # Quality Assurance Process Monitoring Form - Help Guide
 ## Purpose
 This form is used to track the status of quality assurance processes, identify areas for improvement, and document process changes.

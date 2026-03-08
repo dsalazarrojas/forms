@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information and other relevant details from individuals or organizations that may require the services of a financial planner. This form helps to facilitate referrals and follow-ups to ensure that the planner is in touch with the referred party and can provide their services effectively. It's essential to review the form carefully to ensure that the information is accurate and complete before submission. Please note that some fields are marked as required, which means they must be filled out for the form to be considered complete and valid.
-</thinking>
-
 # Financial Planner Referral Form - Help Guide
 ## Purpose
 This form is used to gather contact details and other necessary information from individuals or organizations that may require the services of a financial planner.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help operational risk management teams assess and document potential risks that may impact business operations. It is not intended to be a comprehensive risk assessment tool, but rather a simple and straightforward way to report potential risks to the management team. Before filling out this form, please review the categories and questions to ensure you are addressing the specific risks relevant to your area of responsibility. If you have already submitted a similar risk assessment, please review the previous form and ensure that you are not duplicating your effort.
-
-</thinking>
-
 # operational_risk_management_contact_form - Help Guide
 ## Purpose
 The operational risk management contact form is designed to help assess and document potential risks that may impact business operations.

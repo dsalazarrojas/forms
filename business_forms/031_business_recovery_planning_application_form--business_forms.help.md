@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to help businesses affected by a significant disruption or impact recover and rebuild. The purpose of this form is to gather information about the business, its impact, and its recovery needs. The form is divided into several sections to make it easier for the business owner or representative to provide the necessary information. This form should only be completed if the business is eligible for support and has been affected by a disruption or impact that meets the criteria for support.
-
-Before starting, please ensure that you have the necessary information and permissions to complete this form. If you are unsure about any of the information or have questions, please contact your support team for clarification.
-
-This form is not meant to be duplicated or completed by multiple individuals. Each business should only complete one form per disruption or impact.
-
-Please ensure that you have all the necessary information and documentation ready before starting. Completing this form can help you and your business recover and rebuild after a disruption or impact.
-
-Please note that some fields are required for your application to be considered for support. If a field is marked as required, please ensure that you provide the necessary information.
-
-If you are unable to complete this form due to a language barrier or other accessibility issues, please contact your support team for assistance.
-
-If you have any questions or concerns about the form, please contact your support team for help.
-
-Now, let's move on to the form instructions.</thinking>
-
 # Business Recovery Planning Application Form - Help Guide
 ## Purpose
 The Business Recovery Planning Application Form is designed to help businesses affected by a disruption or impact recover and rebuild. The form gathers information about the business, its impact, and its recovery needs.

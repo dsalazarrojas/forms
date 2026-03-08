@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about insurance policies, including policy types, dates, contract numbers, and other relevant details. The purpose of this form is to request a new insurance binder, which is a document that outlines the terms and conditions of an insurance policy. The form is likely to be used by insurance agents or brokers to gather information from policyholders or customers to create or update an insurance binder.
-
-The form is not intended to collect information on existing policies, rather it is used for new policies or updates to existing ones. It is likely used in conjunction with other forms or systems that manage insurance policies and their associated data.
-
-The fields on this form are mostly dates and numbers, and they appear to be related to the creation, contract, and policy periods of insurance policies. Some fields have specific labels such as "Policy Type", which suggests that the form is trying to categorize the policy in some way. The form may be used for both creating new policies and updating existing ones.
-
-To avoid duplication of effort, the form should be used to gather new information only, and not to update existing policies.
-</thinking>
-
 # Insurance Binder Request Form - Help Guide
 ## Purpose
 The Insurance Binder Request Form is used to collect information for new insurance policies or updates to existing policies. It helps gather details such as policy types, contract numbers, and dates associated with the policy.

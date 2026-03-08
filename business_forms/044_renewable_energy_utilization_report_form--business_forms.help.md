@@ -1,18 +1,3 @@
-<thinking>
-The form purpose is to collect information from companies about their utilization of renewable energy sources in their operations. This information will be used to assess the company's sustainability efforts and identify areas for improvement. Before filling out this form, please ensure that you have reviewed and understood the company's current renewable energy utilization practices.
-
-To complete this form, follow the steps below:
-
-1.  Review the company's current energy usage and identify areas where renewable energy sources can be utilized.
-2.  Select the specific renewable energy sources that the company is currently using (e.g., solar, wind, hydro, etc.).
-3.  Describe the company's sustainability initiatives, such as reducing greenhouse gas emissions, using renewable energy sources, and implementing sustainable practices.
-4.  Specify the company's goals and objectives related to renewable energy utilization.
-5.  Provide contact information for the person completing the form, as well as their title and department.
-6.  Confirm that the information provided is accurate and up-to-date.
-7.  Review and submit the form.
-
-</thinking>
-
 # Renewable Energy Utilization Report Form - Help Guide
 ## Purpose
 The Renewable Energy Utilization Report Form is designed to gather information from companies about their use of renewable energy sources in their operations. This information will be used to assess the company's sustainability efforts and identify areas for improvement.

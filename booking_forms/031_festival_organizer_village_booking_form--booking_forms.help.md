@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from festival organizers for booking purposes. It's intended for village administrators to collect details about potential guests' needs and preferences. The form should only be filled out by authorized personnel, and it's not meant for general public use.
-
-</thinking>
-
 # Festival Organizer Village Booking Form - Help Guide
 ## Purpose
 This form is used by village administrators to collect information from festival organizers for booking purposes. It helps to streamline the process of understanding the needs and preferences of festival organizers.

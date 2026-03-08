@@ -1,10 +1,3 @@
-<thinking>
-  The form is designed to help employees access company transaction records, which is a key component of employee benefits, performance management, and business development. This form allows employees to request access to a specific transaction record, providing relevant details about the transaction. The goal is to ensure that employees can access the necessary information to complete their work tasks efficiently, while also maintaining data accuracy and integrity.
-  It's essential to fill out the form correctly to avoid duplication and ensure that your request is processed promptly. Please review the form carefully and ensure that all required fields are completed accurately.
-  Before starting, ensure that you have the correct information and authorization to access the records you're requesting.
-  The form is divided into sections for easy navigation, and each field has a clear label and explanation to guide you through the process.
-</thinking>
-
 # transaction_record_access_application_form - Help Guide
 ## Purpose
 The transaction record access application form is designed to request access to specific company transaction records. This form helps employees access the necessary information to complete their work tasks efficiently and maintain data accuracy and integrity.

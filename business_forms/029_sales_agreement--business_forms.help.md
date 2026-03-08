@@ -1,13 +1,3 @@
-<thinking> 
-This form is a sales agreement form designed for businesses to capture essential information from customers, including contact details, purchase details, and payment terms. It's likely used in sales or commerce-related activities. Before proceeding with this guide, ensure that you are familiar with the business context and that the information provided aligns with your current sales agreements.
-
-To verify, the form has the following properties:
-- The form is not required by default.
-- There is no specific mention of a signature process or legal binding.
-- Multiple sections are available for inputting different kinds of information.
-
-This guide will be focused on helping users navigate and understand each field of the form without delving into any business-specific logic not explicitly mentioned.</thinking>
-
 # sales_agreement - Help Guide
 ## Purpose
 The sales agreement form is designed to capture necessary information for sales-related activities. It covers contact details, purchase details, payment terms, and signatures.

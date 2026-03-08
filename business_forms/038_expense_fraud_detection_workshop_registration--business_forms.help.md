@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the "Expense Fraud Detection Workshop Registration" form, which is used for users to register for an expense fraud detection workshop. The form is designed to collect information from users about their job titles, companies, and other relevant details to ensure they are eligible to attend the workshop.
-</thinking>
-
 # Expense Fraud Detection Workshop Registration - Help Guide
 ## Purpose
 The "Expense Fraud Detection Workshop Registration" form is used to register users for an expense fraud detection workshop. This form is intended for users who are interested in learning about fraud detection techniques and how to improve their company's internal controls.

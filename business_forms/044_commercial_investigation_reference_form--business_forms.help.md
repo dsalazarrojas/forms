@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for a commercial investigation, gathering data about the subject of the investigation. The form is used to assess the subject's professional conduct, performance, and any known issues. The form aims to provide a comprehensive evaluation of the subject, which can be used as reference for future commercial investigations. This form is not designed for general feedback or opinions but for specific, data-driven assessments. Please ensure that the information provided is accurate and relevant to the commercial investigation.
-</thinking>
-
 # Commercial Investigation Reference Form - Help Guide
 
 ## Purpose

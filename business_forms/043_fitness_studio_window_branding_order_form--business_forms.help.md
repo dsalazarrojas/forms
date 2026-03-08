@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from fitness studio window branding requests. This form will help us understand the client's preferences and needs for customizing their fitness studio window branding. To avoid duplication, please fill out the form only once per request.
-
-The form is divided into several fields that will guide you through the process of ordering custom branding for your fitness studio window. Please take your time to read each section carefully before proceeding.
-
-The fields on this form are designed to be easy to understand and fill out. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # Fitness Studio Window Branding Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from you to create custom branding for your fitness studio window. Please fill out this form to help us understand your preferences and needs.

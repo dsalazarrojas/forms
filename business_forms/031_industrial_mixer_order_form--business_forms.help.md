@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect order details from customers who are interested in purchasing industrial mixers from a supplier. The form asks for customer contact information, preferred mixer type, size, order quantity, shipping details, any special customer requirements, and payment terms. This form is intended for customers who are familiar with the supplier's products and are ready to place an order.
-</thinking>
-
 # industrial_mixer_order_form - Help Guide
 ## Purpose
 This form is designed to help you place an order for industrial mixers from our company. Please fill out the form with your contact information, order details, and any special requirements you may have.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # nonprofit_outreach - Help Guide
 ## Purpose
 The Nonprofit Outreach form is used to gather information about nonprofit organizations' outreach efforts, including categories, descriptions, dates, and contact details. This form is typically used for internal tracking and communication purposes within the organization.

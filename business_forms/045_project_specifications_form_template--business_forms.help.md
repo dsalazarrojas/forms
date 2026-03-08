@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect project specifications for various types of projects. The form is structured into multiple pages, each with a specific set of questions or fields. Before proceeding, make sure you are familiar with the project and its details to provide accurate and relevant information.
-
-To ensure you don't need to complete the form multiple times, please only proceed if you have a solid understanding of the project.
-
-The form consists of several pages with various types of fields, including text, date, select, and more. Each field is designed to collect specific information about the project. Please review each field carefully and provide accurate answers to move forward.
-
-</thinking>
 # project_specifications_form_template - Help Guide
 ## Purpose
 The project specifications form is designed to collect detailed information about a project. This form will help you to provide necessary details about the project's timeline, team members, budget, and more.

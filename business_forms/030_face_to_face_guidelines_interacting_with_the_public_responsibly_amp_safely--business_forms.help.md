@@ -1,8 +1,4 @@
-> <thinking>
-We need to create a help guide for the "face_to_face_guidelines" form. This form is used to collect information about employees, specifically their face-to-face interactions with supervisors, such as job title, contact email, job performance ratings, and other relevant details. This guide will help users understand the form's purpose and how to complete it correctly.
-</thinking>
-
-# face_to_face_guidelines - Help Guide
+> # face_to_face_guidelines - Help Guide
 ## Purpose
 The face_to_face_guidelines form is used to collect information about employees' face-to-face interactions with supervisors. This form helps to track and document important details about employee attendance, job status, and performance.
 

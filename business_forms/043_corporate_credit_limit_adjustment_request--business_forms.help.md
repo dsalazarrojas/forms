@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for requesting adjustments to a company's corporate credit limit. The purpose of this form is to provide a systematic and transparent process for requesting changes to the credit limit, ensuring that all necessary information is collected and reviewed before making any changes. This form is designed to be completed by employees who require an adjustment to the company's credit limit, and the information collected will be reviewed by relevant stakeholders within the company.
 
 </thinking>

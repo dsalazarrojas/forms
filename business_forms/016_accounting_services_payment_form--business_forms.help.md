@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accounting Services Payment Form - Help Guide
 ## Purpose
 The Accounting Services Payment Form is used for clients to make payments for various accounting services provided by the firm. This form is essential for processing payments securely and accurately.

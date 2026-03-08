@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <figure>
 
 # Guest Access Restriction Request Form - Help Guide

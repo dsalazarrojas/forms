@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect business-related data, specifically for the "Herbalife" organization. The purpose of this form is to gather essential information from users, ensuring that it is completed by a legitimate contact person from the company and has a valid email address. The form is not designed for general public use, but rather for internal purposes. To prevent duplication, we should ensure that the form is only accessible to authorized users and that the submitted data is reviewed and validated before being used.
-</thinking>
-
 # Herbalife - Help Guide
 ## Purpose
 This form is designed to collect business-related data from authorized representatives of the Herbalife organization. It is essential to ensure that the contact person and email address are valid to guarantee that the submitted data is legitimate and can be properly used by the organization.

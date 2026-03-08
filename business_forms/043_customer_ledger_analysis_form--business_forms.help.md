@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Ledger Analysis Form - Help Guide
 ## Purpose
 The Customer Ledger Analysis Form is used to collect information about a customer's outstanding balance and transaction categories. This form helps to track and analyze customer transactions and identify any discrepancies. By providing accurate and detailed information, you can use this form to perform a thorough analysis of a customer's ledger.

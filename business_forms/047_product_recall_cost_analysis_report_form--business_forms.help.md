@@ -1,8 +1,3 @@
-<thinking>
-As I analyze the provided YAML, I understand that this form is intended to be a template for product recall cost analysis reports. The form's primary purpose is to collect information related to product recalls, which likely involves assessing the financial and operational impact of a product recall event. This form will help users provide data on product recall details, costs, and analysis.
-Before creating the help guide, I'll review the form schema to ensure that I understand each field's purpose.
-</thinking>
-
 # Product Recall Cost Analysis Report Form - Help Guide
 ## Purpose
 The Product Recall Cost Analysis Report Form is designed to collect data and information related to product recalls, helping you to understand the financial and operational impact of the event.

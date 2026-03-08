@@ -1,7 +1,3 @@
-<thinking>
-We've designed this form to assist you in requesting removal of duplicate invoices. A duplicate invoice is an issue that can cause confusion and errors in your financial records. This form is intended to gather information to review and remove such duplicates.
-</thinking>
-
 # Invoice Duplication Removal Request Form - Help Guide
 ## Purpose
 To report and request removal of duplicate invoices that have been incorrectly processed or mistakenly created.

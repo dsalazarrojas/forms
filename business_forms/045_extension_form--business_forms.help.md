@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to gather information from users for extensions related to business operations. The form is likely used in a business setting to collect details about an extension, such as its title, business information, and date of extension. To ensure this form is not duplicated, it's essential to verify that the user has not already submitted an extension with the same title. This guide will walk you through how to complete the Extension Form, explaining each field in detail to help users understand what information is required and what they should input...</thinking>
-
 # Extension Form - Help Guide
 ## Purpose
 The Extension Form is designed to collect information for extensions related to business operations. This form is intended for users to provide details about an extension, which is likely used for business purposes.

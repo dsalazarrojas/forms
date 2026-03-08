@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning:**
-This form is designed for users to sign up for credit repair services. The fields are a combination of personal information and business details that will be used to create an account for the user. This form is intended for internal use within the company, and it is crucial to ensure that all required fields are completed accurately to avoid delays in the processing of the form. The purpose of this form is to collect data that will be used to create a user profile for credit repair services. The form should not be reused or filled out multiple times, as it may result in duplicate records and cause confusion. 
-</thinking>
-
 # credit_repair_sign_up - Help Guide
 ## Purpose
 The credit_repair_sign_up form is designed to collect personal and business information from users who want to sign up for credit repair services.

@@ -1,5 +1,3 @@
-<thinking>Before generating the user-facing help guide for the "production_equipment_check_out_form" form, I will analyze the provided YAML fields to understand the form's purpose and structure.</thinking>
-
 # production_equipment_check_out_form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to record the details of a real estate sale, including the sale details, seller and buyer information, property address, mortgage details, discharge information, and signature of the individual responsible for discharging the property. The form is designed to be completed by the real estate agent or attorney handling the sale.
-
-The purpose of this form is to provide a standardized way of documenting the sale details, ensuring that all relevant information is captured accurately and consistently. This information will be used to update the property records and provide a record of the sale for future reference.
-
-This form should not be used for multiple sales, as it is designed to capture the details of a single sale.
-
-</thinking>
-
 # Real Estate Sale Discharge Form - Help Guide
 ## Purpose
 The Real Estate Sale Discharge Form is used to record the details of a real estate sale, including sale details, seller and buyer information, property address, mortgage details, and discharge information.

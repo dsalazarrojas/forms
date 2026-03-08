@@ -1,15 +1,3 @@
-<thinking>
-This form is used for documenting and verifying modifications made to a building. The purpose of this form is to ensure that all modifications are properly documented and approved, and that all necessary checks and inspections have been completed. This form should only be completed by authorized personnel who have been assigned to oversee the modification process. 
-
-Before completing this form, ensure that you have the necessary permissions and approvals to do so. If you are unsure about any part of the process, consult with your supervisor or the project manager.
-
-This form is not intended for completion by the contractor or other personnel involved in the modification process. They should be focused on completing their tasks and providing documentation as required. This form is for the inspection and verification of modifications.
-
-Before starting, review the form carefully to ensure that you have all the necessary information and that you are aware of any specific requirements or deadlines. If you encounter any issues or concerns during the process, contact the project manager or your supervisor for assistance.
-
-When completed, this form should be reviewed and approved by the project manager or other authorized personnel to ensure that all necessary checks and inspections have been completed and that all modifications are properly documented and approved.
-
-</thinking>
 # Building Modification Checklist - Help Guide
 ## Purpose
 The Building Modification Checklist is a form used to document and verify modifications made to a building. The form ensures that all modifications are properly documented and approved, and that all necessary checks and inspections have been completed.

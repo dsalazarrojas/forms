@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their supply chain traceability contact information. The form is likely used for tracking and monitoring purposes within a business supply chain management system. This form's purpose is likely to gather data on the user's contact details, company information, and product specifics.
-</thinking>
-
 # Supply Chain Traceability Contact Form - Help Guide
 ## Purpose
 The Supply Chain Traceability Contact Form is used to collect contact information and other relevant details from users, which can be used for tracking and monitoring purposes within a supply chain management system.

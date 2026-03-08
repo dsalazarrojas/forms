@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their experience with a specific loyalty program. The form is intended to gather data on user preferences, program details, and feedback on the program's effectiveness. This form is likely used by program managers to track user engagement and satisfaction, which can inform future improvements to the program. This form is not intended for general user registration or account creation purposes.
-</thinking>
-
 # Loyalty Program Impact Report Form - Help Guide
 ## Purpose
 The Loyalty Program Impact Report Form is a tool to collect user feedback on their experience with a specific loyalty program. This form helps program managers understand how well the program is performing and identify areas for improvement.

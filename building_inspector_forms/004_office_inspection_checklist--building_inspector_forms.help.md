@@ -1,13 +1,3 @@
-<thinking>
-
-The "Office Inspection Checklist" form is designed to collect and document the status of various office-related systems and facilities. Its purpose is to help users assess the condition and functionality of different areas of an office space, ensuring compliance with safety and regulatory standards. 
-
-This form can be used by office managers, administrators, or facility maintenance staff to conduct regular inspections and audits of an office's infrastructure. By using this form, these individuals can identify areas that require attention or improvement, and implement changes as needed to maintain a safe and healthy office environment.
-
-Given the form's focus on office infrastructure, it's unlikely that users would need to create multiple copies of this form, as it's designed to be a one-time or occasional use tool. Therefore, users are free to use, modify, and distribute this form as needed, with proper credit to the original creator.
-
-</thinking>
-
 # Office Inspection Checklist - Help Guide
 ## Purpose
 The Office Inspection Checklist form is a tool used to assess and document the condition and functionality of various office-related systems and facilities. It's designed to help users identify areas that require attention or improvement, and ensure compliance with safety and regulatory standards.

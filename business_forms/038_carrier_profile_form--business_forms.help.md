@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from carriers about their company profile, which is used for various business purposes such as risk assessment, compliance, and relationship management. This form is not intended for personal use and should only be completed by authorized representatives of the carrier. It is essential that you have the necessary permissions and authority to complete this form on behalf of your company.
-</thinking>
-
 # Carrier Profile Form - Help Guide
 ## Purpose
 The Carrier Profile Form is a critical document used by carriers to provide information about their company. It is essential to complete this form accurately and thoroughly to ensure that we have the correct information about your company.

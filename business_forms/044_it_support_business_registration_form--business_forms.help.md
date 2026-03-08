@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed for businesses to register their information with the IT department. It's meant for businesses to provide their name, contact details, and description of their IT services. This form will help the IT department understand the services provided by each business and ensure that they are correctly listed in the IT inventory. This form should not be used for non-business entities or personal registrations.
-
-</thinking>
-
 # it_support_business_registration_form - Help Guide
 ## Purpose
 The it_support_business_registration_form is a registration form for businesses to provide their details to the IT department. This form will help us understand the services provided by your business and ensure correct listing in our IT inventory.

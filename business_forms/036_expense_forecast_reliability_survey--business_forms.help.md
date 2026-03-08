@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information from users about their expectations and concerns regarding the reliability of expense forecasts. It's intended for businesses and organizations to gather insights from their team members, stakeholders, or customers. The form has 23 sections, each representing a page with a unique section label. The form's primary function is to collect feedback and opinions on the reliability of expense forecasts, which can help businesses better understand their users' needs and improve their forecasting processes.
-
-Before proceeding, please ensure that you are filling out the form for the purpose it was designed for, and not for any other reason. This will help maintain the integrity of the data collected and ensure that the results are accurate and reliable.
-
-The form is designed to be completed by one person per submission. If you're a representative of a team or organization, please ensure that each team member completes their own submission.
-
-</thinking>
-
 # Expense Forecast Reliability Survey - Help Guide
 ## Purpose
 This form is designed to capture insights from users about the reliability of expense forecasts in their organizations or teams.

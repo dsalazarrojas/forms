@@ -1,11 +1,3 @@
-<thinking>
-To ensure that the form is used correctly and consistently, we must consider the following:
-- Is the form being filled out for a vehicle that has been owned or hired for the company, or for a non-owned vehicle that the company has coverage on?
-- The form should only be filled out once for each vehicle, to avoid duplication of effort.
-- The form is used to collect information about vehicle coverage, including whether the vehicle is covered, its usage and frequency, its value, and any prior insurance details.
-- The form should be filled out by someone with knowledge of the vehicle's usage and any prior insurance coverage.
-</thinking>
-
 # Hired And Non Owned Auto Application - Help Guide
 ## Purpose
 The Hired And Non Owned Auto Application form is used to collect information about company vehicles that are owned or hired by the company, and non-owned vehicles that have coverage. This form helps ensure that all relevant details about vehicle usage, coverage, and prior insurance are accurately and consistently recorded.

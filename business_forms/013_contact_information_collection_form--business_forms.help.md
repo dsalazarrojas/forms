@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from users, which will be used for various business purposes such as sending newsletters, granting website access, and providing resource downloads. The form is required for certain types of registrations (e.g. Upcoming Event, Resource Download). Please ensure you fill it out correctly to avoid duplicate submissions, which may cause unnecessary processing and potential confusion in the back-end. Please be accurate when entering your information as this may be used to tailor communication methods to your preference, such as email, SMS, or phone calls.
-</thinking>
-
 # Contact Information Collection Form - Help Guide
 ## Purpose
 The Contact Information Collection Form is a crucial step in our registration process that provides us with essential details about you, allowing us to tailor our communication and services to your specific needs and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for submitting maintenance requests for facilities and equipment within an organization's premises. The form allows users to select the type of maintenance required and the facilities affected, providing a clear and structured way to communicate maintenance needs. Before proceeding, please ensure you have a valid reason for submitting this form, as duplicate requests may cause unnecessary work and confusion. Please review your submission carefully to ensure all relevant fields are filled out correctly.
-</thinking>
-
 # Facility Management Application Form - Help Guide
 ## Purpose
 This form is used to submit maintenance requests for facilities and equipment within your workplace. Please use this form to provide accurate and complete information to help the maintenance team understand your needs.

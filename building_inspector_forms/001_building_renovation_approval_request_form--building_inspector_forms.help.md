@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather information from property owners or managers who are planning a building renovation project. The purpose of this form is to collect details about the property, the type and scope of the renovation, the estimated cost and timeline, and the contractor's information. This information will help the relevant authorities or decision-makers to assess and approve the renovation project. To ensure that the form is properly filled out, please review each field carefully and ensure that all required fields are completed before submitting the form.
-</thinking>
-
 # Building Renovation Approval Request Form - Help Guide
 
 ## Purpose

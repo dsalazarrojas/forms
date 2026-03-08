@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for an outdoor seating safety test application from restaurants. The form should only be completed by authorized personnel from restaurants that need to conduct a safety test for their outdoor seating areas. Please ensure you are eligible to fill out this form before proceeding.
-</thinking>
-
 # outdoor_seating_safety_test_application_form - Help Guide
 ## Purpose
 This form is designed to collect information for an outdoor seating safety test application from restaurants. It is intended for authorized personnel from restaurants that need to conduct a safety test for their outdoor seating areas.

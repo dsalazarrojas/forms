@@ -1,7 +1,3 @@
-<thinking>
-The Recruitment Requisition Form is a tool used to create and manage job openings within the organization. It is essential to use this form to ensure that job postings are accurately and completely filled out, which will help streamline the hiring process and reduce errors. Before starting, please make sure that you have a clear understanding of the purpose and scope of the form, and that you have not recently completed this form for the same job. 
-</thinking>
-
 # Recruitment Requisition Form - Help Guide
 ## Purpose
 The Recruitment Requisition Form is a tool used to create and manage job openings within the organization. This form is essential for ensuring that job postings are accurately and completely filled out, which will help streamline the hiring process and reduce errors.

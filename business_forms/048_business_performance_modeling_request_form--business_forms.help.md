@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help the business requestor provide information about their performance modeling needs, allowing the business modeling team to create an accurate and effective model that addresses their specific requirements. This form should only be completed by requestors who are authorized to initiate performance modeling projects. Please check with the business modeling team if you are unsure. This form should not be completed if you have already submitted a similar request in the past few months, as it may not be necessary to re-submit a new request.
-
-</thinking>
-
 # Business Performance Modeling Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from business requestors to create a business performance model that addresses their specific needs and requirements. The model will help requestors make data-driven decisions and improve business performance.

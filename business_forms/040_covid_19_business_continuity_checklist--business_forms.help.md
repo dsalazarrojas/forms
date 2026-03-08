@@ -1,5 +1,3 @@
-<thinking>As this form is designed to help businesses assess their readiness in the event of a pandemic, the purpose of the COVID 19 Business Continuity Checklist is to gather information about a business's preparedness and response strategies to the pandemic. This form will help businesses determine their overall readiness and identify areas that need improvement.</thinking>
-
 # COVID 19 Business Continuity Checklist - Help Guide
 ## Purpose
 The COVID 19 Business Continuity Checklist is designed to help businesses assess their readiness and response strategies to the pandemic, ensuring they are well-equipped to maintain continuity and minimize disruptions in the event of a pandemic.

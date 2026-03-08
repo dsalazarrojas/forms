@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the Covid 19 Safety Survey form, we need to clearly explain the purpose of the form, how to complete it, and what each field means. The form's purpose is to gather information about an individual's health and safety concerns, specifically in relation to the Covid 19 pandemic. This form will be used to identify potential risks and take necessary precautions to ensure the individual's safety.
-
-We will assume that the form will be completed by individuals who are either vaccinated or unvaccinated and have or have not experienced any medical conditions or medication side effects. The form will also collect information on medical specialties, hospitalization history, symptoms, treatment, follow-up visits, and next visit dates.
-
-Before starting the form, please ensure that you are completing it for the correct purpose and not duplicating the effort. If you're unsure about the form's purpose or have already completed it, please do not proceed further.
-
-</thinking>
-
 # Covid 19 Safety Survey - Help Guide
 
 ## Purpose

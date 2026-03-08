@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow customers to purchase tickets for events or products. It is crucial for customers to complete this form accurately to ensure that their order is processed correctly. Before proceeding, please check that you haven't already completed this form as the information may still be saved in your system.
-
-</thinking>
-
 # Ticket Purchase Form - Help Guide
 ## Purpose
 The Ticket Purchase Form is designed to collect necessary information from customers to process their ticket purchase orders accurately and efficiently.

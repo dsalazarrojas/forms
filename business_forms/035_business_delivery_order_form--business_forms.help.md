@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for business delivery orders. It is intended for customers to provide their contact and delivery details, product information, and payment information. This form should be used for business purposes, such as delivering products to customers or clients. The form is likely used in a B2B (Business-to-Business) or B2C (Business-to-Consumer) setting.
-
-To prevent misuse, this form should not be used for personal or consumer-to-consumer transactions.
-
-This form is likely used in a professional setting, where businesses need to manage their orders and deliveries efficiently. It is crucial to fill out this form accurately and completely to ensure timely and correct delivery of products or services.
-
-</thinking>
-
 # Business Delivery Order Form - Help Guide
 ## Purpose
 This form collects information for business delivery orders, ensuring accurate and timely delivery of products or services.

@@ -1,5 +1,3 @@
-<thinking>Medical Academy Admission Form is designed to collect information from applicants to the Medical Academy. This form is not intended to be filled out by medical professionals or Academy staff. Ensure you only fill out this form once you have been accepted into the Medical Academy. Please do not submit this form if you have already been issued a Medical Academy ID. Ensure you provide accurate information in the required fields.</thinking>
-
 # Medical Academy Admission Form - Help Guide
 ## Purpose
 

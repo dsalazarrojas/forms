@@ -1,5 +1,3 @@
-<thinking>Before creating this user-facing help guide, let's break down the purpose and requirements of the form. The "Incomplete Work Items Report Form" is designed to report on incomplete work items that need attention. It seems that the form is meant to capture various details about these incomplete work items, including the work items themselves, the tools assigned to fix them, and the reporting and updating information. The fields are mostly about boolean flags, dates, and notes. It's not clear if all fields are mandatory, as some have `required: false` in the YAML.</thinking>
-
 # Incomplete Work Items Report Form - Help Guide
 
 ## Purpose

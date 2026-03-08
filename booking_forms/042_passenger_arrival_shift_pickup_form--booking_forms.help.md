@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect information from passengers who are arriving at a location and need to be picked up. The form is likely used by staff or transportation services to ensure that the passenger's arrival details and preferences are recorded accurately. This form should only be used for passengers who are arriving at the location, not for those who are already there or departing. Please ensure you are filling out this form for the correct purpose.
-</thinking>
-
 # Passenger Arrival Shift Pickup Form - Help Guide
 ## Purpose
 This form is used to collect information from passengers who are arriving at a location and need to be picked up.

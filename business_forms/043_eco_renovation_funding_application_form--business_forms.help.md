@@ -1,10 +1,3 @@
-<thinking> 
-The form is designed for businesses to submit an application for eco-renovation funding. The purpose of the form is to collect information about the project's details, funding requirements, and supporting documents. This form is used to ensure that all necessary information is collected in a structured and consistent manner, making it easier for the business to provide accurate and complete application. It is essential to fill out the form thoroughly and accurately to avoid any potential issues with the application. 
-
-Please note that this is a general guide for end-users, and specific business logic or rules might not be covered in this guide. If you are unsure about any field or requirement, please consult the business guidelines or contact the business owner for clarification. 
-
-</thinking>
-
 # Eco Renovation Funding Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about your eco-renovation project to support your application for funding. Please fill out the form accurately and completely to ensure your application is processed efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for nonprofits to renew their partnership with our organization. Nonprofits must provide accurate and up-to-date information to facilitate the renewal process. Please ensure you only submit the form once, as duplicate submissions will not be processed.
-</thinking>
-
 # Nonprofit Partnership Renewal Form - Help Guide
 ## Purpose
 The Nonprofit Partnership Renewal Form is designed to help you renew your partnership with our organization. This form ensures that we have accurate and up-to-date information about your nonprofit, which is essential for maintaining our partnership and providing ongoing support.

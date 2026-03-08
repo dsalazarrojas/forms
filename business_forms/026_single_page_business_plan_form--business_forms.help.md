@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to guide entrepreneurs, startups, or small business owners in outlining their one-page business plans. The purpose of this form is to provide a concise and structured approach to defining their business goals, target industry, location, and team composition in a single page. This form will help users to effectively communicate their business idea, identify potential opportunities, and make informed decisions. It ensures that all necessary information is captured in a clear and organized manner, making it easier for users to review, refine, and execute their business plan.
-
-</thinking>
-
 # single_page_business_plan_form - Help Guide
 ## Purpose
 This form is designed to help entrepreneurs, startups, or small business owners create a one-page business plan that outlines their business goals, target industry, location, and team composition.

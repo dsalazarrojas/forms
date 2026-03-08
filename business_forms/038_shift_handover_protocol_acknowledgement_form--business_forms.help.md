@@ -1,13 +1,3 @@
-<thinking>... 
-
-The purpose of the Shift Handover Protocol Acknowledgement Form is to document the handover process between shifts. This form ensures that the employee handing over the shift acknowledges that the handover protocol has been followed, and that necessary information has been communicated. The form is used to record the employee's name, the shift handover date, and the details of the handover protocol. It also includes fields for the employee's name and contact details of the next shift, as well as the start and end times of the shifts.
-
-This form is used to prevent misunderstandings and errors that can occur during the handover process, and to provide a clear record of what was handed over and to whom.
-
-Before filling out this form, please make sure that you have followed the correct handover protocol and have all the necessary information. If you have any questions or concerns, please reach out to your supervisor or HR representative.
-
-</thinking>
-
 # Shift Handover Protocol Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to document the handover process between shifts, ensuring that the employee handing over the shift acknowledges that the handover protocol has been followed.

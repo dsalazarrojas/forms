@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to log duties that are carried out or observed, which is crucial for monitoring progress and accountability within the organization. This form is a straightforward and efficient tool for recording and documenting duties.
-</thinking>
-
 # Duty Log Form - Help Guide
 ## Purpose
 This form is designed to record details about duties that are carried out or observed. Filling out this form helps to ensure that progress and accountability are maintained within the organization.

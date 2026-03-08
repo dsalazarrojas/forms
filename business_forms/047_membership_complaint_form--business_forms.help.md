@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a membership complaint, likely used to track and address issues reported by members within a business or organization. This form should be filled out by a member who wishes to submit a formal complaint, providing details about the issue and any related categories or subcategories. The form is likely part of a larger process for handling and resolving member grievances. 
-
-To avoid duplication, ensure that the same form is not submitted multiple times for the same issue.
-
-</thinking>
-
 # membership-complaint-form - Help Guide
 ## Purpose
 This form is designed to collect information about a membership complaint, allowing members to report issues and provide details for resolution.

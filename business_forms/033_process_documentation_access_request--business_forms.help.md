@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I'll review the provided YAML fields to ensure I fully understand the form's purpose and requirements. This form appears to be a comprehensive request form for process documentation access, which involves specifying various details such as document details, reasons for access, intended use, and approval processes. The form seems to be used by users to request access to specific documents, and the approval process involves selecting an approver and specifying the access level, expiration date, and other relevant details.</thinking>
-
 # Process Documentation Access Request - Help Guide
 ## Purpose
 This form is used to request access to process documentation. Fill out this form to specify the document details, reasons for access, intended use, and approval processes.

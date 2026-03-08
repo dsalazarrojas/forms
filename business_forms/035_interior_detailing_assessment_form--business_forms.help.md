@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information about a vehicle's interior detailing assessment. It is intended for use by business users to collect data on the vehicle's make, year, mileage, condition, and detailing services required. The form is likely used in a business setting, such as an auto detailing service provider or a dealership, to estimate the cost and time required for interior detailing services. It may also be used to assess the value of a vehicle based on its condition and type.
-To ensure the form is being used correctly, please consider the following guidelines:
-- Only select one make from the provided list.
-- Enter a numerical value for the vehicle year.
-- Only select one condition for the vehicle's interior and exterior.
-- Select one or multiple services required for interior and exterior detailing.
-- Enter numerical values for estimated costs and times.
-- Select one type of vehicle from the provided list.
-</thinking>
-
 # interior_detailing_assessment_form - Help Guide
 ## Purpose
 The interior detailing assessment form is used to gather information about a vehicle's interior detailing needs. It is designed to be completed by business users to estimate the cost and time required for interior detailing services.

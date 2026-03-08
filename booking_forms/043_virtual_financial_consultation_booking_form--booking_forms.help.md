@@ -1,7 +1,3 @@
-<thinking>
-To ensure accurate and relevant information is captured in the "virtual_financial_consultation_booking_form", we'll verify that users are booking a virtual financial consultation and gather all required details for the appointment. We'll also prevent duplication of existing consultations with the same client.
-</thinking>
-
 # virtual_financial_consultation_booking_form - Help Guide
 ## Purpose
 This form is used to book a virtual financial consultation with a client. Please fill out the form to schedule a meeting with a financial professional and provide all necessary details.

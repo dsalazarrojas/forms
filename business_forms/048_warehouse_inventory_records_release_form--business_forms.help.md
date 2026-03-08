@@ -1,9 +1,3 @@
-<thinking>
-This form is used by warehouse staff to document the release of items from stock. It provides a way to report on the release date, item number, current item status, the person releasing the item, and any relevant release notes. 
-This form should be used when an item is no longer needed or when its status is to be updated from "Available" to "Reserved" or "Released". 
-The goal of this form is to accurately track and record inventory releases for inventory management and tracking purposes. 
-</thinking>
-
 # warehouse-inventory-records-release-form - Help Guide
 ## Purpose
 This form is used to document the release of items from stock in the warehouse. It is designed to provide a clear and concise record of the release date, item number, current item status, the person releasing the item, and any relevant notes related to the release.

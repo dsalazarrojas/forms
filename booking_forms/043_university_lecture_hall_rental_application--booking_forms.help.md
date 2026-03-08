@@ -1,12 +1,3 @@
-<thinking>
-We need to make sure that this form is being used correctly by users before we proceed. The purpose of this form is to help users rent out university lecture halls, so we should ensure that the form is being used for its intended purpose. We don't want to end up with duplicate submissions or miscommunication with the event organizers. Let's take a quick look at the form fields and understand what kind of information users need to provide to fill out this form.
-
-This form is used to collect application details, event details, rental details, and other relevant information from users. The fields are mostly text fields, which means users will be providing brief descriptions or answers to specific questions. The "Review and Signature" field is a bit different, as it will likely be used to confirm the user's agreement or declination of some terms or conditions. 
-
-We'll break down each field and provide explanations for users to understand what's expected of them.
-
-</thinking>
-
 # University Lecture Hall Rental Application - Help Guide
 
 ## Purpose

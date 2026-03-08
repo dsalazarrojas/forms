@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Location Map Submission - Help Guide
 
 ## Purpose

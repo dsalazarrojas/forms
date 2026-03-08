@@ -1,17 +1,3 @@
-<thinking>
-
-We want to ensure that the end users understand the purpose of the Stakeholder Registration Form and what information is required from them. Let's think about how to present the form in a clear and concise way that guides them through the registration process without overwhelming them with unnecessary details.
-
-To start, the form is designed to collect information about stakeholders involved in events, meetings, or conferences. This includes their personal details, company information, and roles within the organization. The form is essential for keeping track of stakeholders, assigning tasks, and setting priorities.
-
-Before we begin, let's clarify that the form is divided into two main sections: "Personal Details" and "Event Details". The "Personal Details" section asks for information about the stakeholder, such as name, email, phone number, address, and job title. This information is crucial for contacting the stakeholder and ensuring they receive updates.
-
-The "Event Details" section is where you can provide more specific information about the event, such as the date, time, type, and location. This section is also where you can assign attendees, event organizers, and event types.
-
-Now, let's go through each field in the form to ensure we understand its purpose and requirements:
-
-</thinking>
-
 # Stakeholder Registration Form - Help Guide
 ## Purpose
 The Stakeholder Registration Form is designed to collect information about stakeholders involved in events, meetings, or conferences. This includes their personal details, company information, and roles within the organization. The form is essential for keeping track of stakeholders, assigning tasks, and setting priorities.

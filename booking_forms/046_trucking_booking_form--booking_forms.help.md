@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for users to book a truck for various purposes. It is essential to understand the form's purpose and how to complete it correctly to avoid any issues or errors. This form is used to record and manage truck bookings, which are critical for logistics and delivery operations. It is likely used by trucking companies, freight forwarders, or other organizations in the transportation industry.
-</thinking>
-
 # Trucking Booking Form - Help Guide
 ## Purpose
 The Trucking Booking Form is used to book and manage trucking services for customers. It captures essential information for efficient and secure booking processes.

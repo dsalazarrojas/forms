@@ -1,7 +1,3 @@
-<thinking>
-This is a form for creating a litigation checklist. It seems to be a general template for gathering various details related to a litigation matter. The form fields are quite extensive and cover multiple aspects of the litigation process, such as party involvement, case details, legal representation, and financial information. Upon analyzing the fields, it appears that the form is designed to collect data on both the plaintiff and defendant parties, including their contact information, attorneys, and fees. The form also collects data on the case's start and end dates, location, and status. It's possible that this form is intended for internal use within an organization, perhaps for case management or reporting purposes.
-</thinking>
-
 # Litigation Checklist Template - Help Guide
 
 ## Purpose

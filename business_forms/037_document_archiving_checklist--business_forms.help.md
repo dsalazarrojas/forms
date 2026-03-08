@@ -1,7 +1,3 @@
-<thinking>
-The document archiving checklist form is used to ensure that all documents are properly archived and meet the required archiving standards. This form is a critical step in maintaining the integrity and security of company records. Before completing this form, please ensure that you have read and understood the archiving policies and procedures. It is essential to be accurate and thorough when filling out this form to avoid any potential issues or discrepancies.
-</thinking>
-
 # document_archiving_checklist - Help Guide
 ## Purpose
 This form is used to record and verify the archiving of documents according to company standards.

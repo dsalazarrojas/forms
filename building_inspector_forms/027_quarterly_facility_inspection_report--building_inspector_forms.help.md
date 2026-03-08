@@ -1,8 +1,3 @@
-<thinking>
-...The quarterly Facility Inspection Report form is designed to collect information about a facility's condition and status. This form is typically used by building inspectors to document their findings after inspecting a facility. The form is meant to be completed quarterly to ensure that facilities are regularly evaluated and maintained to meet regulatory and safety standards. This form is not intended to be used for other purposes, such as facility management or maintenance scheduling. Please ensure that only authorized personnel complete this form to maintain the accuracy and consistency of the data collected.
-
-</thinking>
-
 # quarterly Facility Inspection Report - Help Guide
 ## Purpose
 The quarterly Facility Inspection Report form is designed to document the condition and status of a facility. It is used by building inspectors to collect information on a facility's safety and regulatory compliance.

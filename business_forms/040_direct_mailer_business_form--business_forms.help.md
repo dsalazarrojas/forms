@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for businesses to provide their information for direct mailer services. The form is divided into four pages: Company Information, Mail Details, Shipping Address, and Additional Information. This form aims to gather essential details from businesses for the direct mailer service. 
-
-Before proceeding, ensure that the form is not being filled out for an already existing business in the system. 
-
-To start, ensure that the business name and contact email is correctly filled out, and then proceed to complete the form accordingly.
-
-</thinking>
-
 # Direct Mailer Business Form - Help Guide
 ## Purpose
 This form is for businesses to provide their information for direct mailer services. It is used to gather essential details from businesses for the direct mailer service.

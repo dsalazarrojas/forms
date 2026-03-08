@@ -1,6 +1,3 @@
-<thinking>
-This form was created to gather information from partners interested in collaborating with the company. It aims to streamline the partnership application process, ensuring all necessary details are collected in a structured and organized manner. By filling out this form, partners will be able to showcase their capabilities and availability for collaboration.
-</thinking>
 # Partner Commission Program Application Form - Help Guide
 
 ## Purpose

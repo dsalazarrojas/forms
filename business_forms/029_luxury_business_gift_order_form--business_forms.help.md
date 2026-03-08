@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for businesses to place orders for luxury gifts. It's likely used by corporate or business accounts. There is no indication that this form is for personal use or non-business purposes. The form likely requires information from the business to place the order, such as business name, order specifics, and contact details.
-
-The form structure suggests that it's designed for multiple business processes, including gift orders, which could be used for employee appreciation, client gifts, or other business-related occasions. This form might be used to streamline the process of placing orders for luxury gifts, which can be time-consuming and require specific details.
-
-Before filling out this form, the business should have a clear understanding of what luxury gifts they want to order and the process they want to follow for these orders. This form is likely used in conjunction with other business systems or processes.
-
-</thinking>
-
 # Luxury Business Gift Order Form - Help Guide
 ## Purpose
 This form is designed for businesses to place orders for luxury gifts. It gathers information about the business, the gift order process, and other relevant details to facilitate the placement of the order.

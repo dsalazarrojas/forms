@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for the "Anna Pugh Made To Match Hire Wish List". The purpose of this form is to gather details about the customer's event, including personal information, event details, and specific items they wish to hire for their event. 
-
-The form is structured to guide the customer through two main sections: Personal Information and Event Details. The customer is required to provide their full name, email address, phone number, event date, and event location. They also have the option to add items to their wish list from a pre-defined list of options and provide any custom requests or additional comments.
-
-To ensure that the form is completed accurately and efficiently, it is recommended that the customer carefully reviews and updates their information before submitting the form. 
-
-This form is not intended for duplicate submissions, and any duplicate submissions will be considered invalid.
-</thinking>
-
 # Anna Pugh Made To Match Hire Wish List - Help Guide
 ## Purpose
 The "Anna Pugh Made To Match Hire Wish List" form is designed to collect information from customers about their event, including personal details and specific items they wish to hire.

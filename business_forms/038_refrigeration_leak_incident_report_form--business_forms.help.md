@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to report incidents involving refrigeration leaks. It ensures that all necessary information about the leak is collected accurately, so that it can be reviewed and addressed efficiently. This form is intended for employees to report refrigeration leaks in a structured manner. Please ensure you are filling out this form for actual leaks, and not as a prank or test. If the leak is not reported and documented, it may cause confusion and hinder the ability to properly address the issue.
-
-</thinking>
-
 # Refrigeration Leak Incident Report Form - Help Guide
 ## Purpose
 The Refrigeration Leak Incident Report Form is a standardized tool used to report incidents involving refrigeration leaks. This form helps to gather critical information about the leak, including the date, location, description, and cause. Reporting leaks in a consistent and thorough manner ensures that maintenance and repairs are addressed promptly and effectively.

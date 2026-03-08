@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to record the temperature and time of thawing for various types of food in the kitchen. It's meant for use in food service settings, such as restaurants, cafes, or catering services. The form will help ensure that food is thawed to a safe temperature and for the correct amount of time to prevent spoilage and maintain food quality. 
-
-Please note that this form is not meant to record the actual cooking or serving of food, but rather the controlled thawing process. It's essential to follow proper food safety guidelines to avoid contamination and foodborne illnesses. 
-
-Before completing this form, ensure that you have the necessary information and follow the recommended guidelines for food thawing. If you're unsure about any aspect of the form or the thawing process, please consult with your supervisor or a food safety expert.
-
-</thinking>
-
 # food_thawing_temperature_log - Help Guide
 ## Purpose
 

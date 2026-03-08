@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to facilitate the rental application process for an event space in a vineyard. The purpose of this form is to gather necessary information from event planners or coordinators to ensure a smooth and successful event. This form should be completed by the person in charge of organizing an event, whether it is a private or corporate function. This information will help us assess the feasibility of the event and prepare for potential logistical arrangements.
-
-The form does not require any additional information beyond what is provided, so we can confidently assume that the form will not be duplicated or have any internal inconsistencies.
-
-The fields in this form are designed to be user-friendly and clear. The following guide will help users understand how to complete the form and what each field is used for.
-</thinking>
-
 # vineyard_event_space_rental_application - Help Guide
 ## Purpose
 The vineyard_event_space_rental_application form is designed to gather necessary information for the rental of an event space in a vineyard.

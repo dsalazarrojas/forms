@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Detailed Resume Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about an individual's work experiences, education, and skills. It is intended to be used by businesses and organizations to create a comprehensive resume.

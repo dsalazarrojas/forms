@@ -1,14 +1,3 @@
-<thinking>
-To avoid duplication, please review the form before completing it to ensure that you have not already submitted a similar request. This form is used to submit enhancement requests for organizational capabilities. 
-
-The purpose of this form is to gather information from submitters about the enhancements they would like to request for the organization. This information will be used to assess and prioritize the enhancements.
-
-Please ensure that you have read and understood the form before submitting it. 
-
-This form has multiple pages. Please ensure that you complete each page before submitting it.
-
-</thinking>
-
 # Organizational Capability Enhancement Request Form - Help Guide
 ## Purpose
 The Organizational Capability Enhancement Request Form is used to gather information from submitters about enhancements they would like to request for the organization.

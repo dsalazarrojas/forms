@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users regarding their application status, contact details, and other relevant data. The form is structured into two main sections: User Input and Contact Details. The User Input section consists of multiple select options, text inputs, and date/time inputs, while the Contact Details section includes text, email, and phone inputs. Each field has been carefully designed to gather specific information to support the application process.
-</thinking>
-
 # expert_aplication - Help Guide
 ## Purpose
 This form is a comprehensive tool for collecting user information and application details for expert purposes. It is essential to fill out the form accurately to ensure that your application is processed efficiently.

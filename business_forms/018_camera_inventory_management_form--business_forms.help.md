@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Camera Inventory Management Form, we need to ensure that each field is explained clearly and concisely, so that end users understand the form's purpose and the required information to complete it correctly. This guide is designed to be practical and easy to follow, helping users navigate through the form and its various fields with ease.
-
-</thinking>
 # Camera Inventory Management Form - Help Guide
 ## Purpose
 The Camera Inventory Management Form is a tool used to track and manage camera assets within the organization. It helps ensure that cameras are accurately accounted for, their condition and status are monitored, and essential information is documented for future reference.

@@ -1,37 +1,3 @@
-<thinking>
-This is a form design project that requires creating a user-facing help guide for a form called "new_lead_form" with various fields. The form is used for capturing lead details, potential behavior, and other related information. 
-
-The form is composed of multiple pages with different types of fields such as text, select_one, select_multiple, and note. Each field has a unique ID, name, label, hint, type, and options. Some fields are required while others are optional. 
-
-The fields are: 
-- Lead Details (text)
-- Reference (text, required)
-- Location (text)
-- Potential Behavior (select_one)
-- Prophets (select_multiple)
-- Notes (note)
-- Assigned Tool (select_one)
-- Assigned Tool Id (number)
-- Lead Status (select_one)
-- Lead Status Id (number)
-- Form Ids (select_multiple)
-- Form Id (number)
-- Lead Source (text)
-- Lead Type (select_multiple)
-- Customer (text)
-- Customer Id (number)
-- Contact (text)
-- Contact Id (number)
-- Company (text)
-- Company Id (number)
-- Lead Owner (text)
-- Lead Owner Id (number)
-- Created By (text)
-- Created By Id (number)
-
-I will ensure that the guide is concise, practical, and follows the provided YAML structure.
-</thinking>
-
 # new_lead_form - Help Guide
 ## Purpose
 The "new_lead_form" is used for capturing lead details and other relevant information. It is a comprehensive form with multiple fields that helps users provide a complete picture of a lead.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to aid businesses in renewing their licenses, and it will guide you through the process of completing it. Before proceeding, check if the license renewal form is relevant to your needs and that you're not duplicating your efforts by filling out multiple forms. If you're still unsure, consider reaching out to the form's administrator or your business for clarification.
-</thinking>
-
 # Licence Renewal Form - Help Guide
 
 ## Purpose

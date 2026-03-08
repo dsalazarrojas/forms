@@ -1,7 +1,3 @@
-<thinking>
-This form is a checklist for new items to be added to the organization's catalog. It's meant to ensure that each item meets the required standards and is ready for launch. The form is designed to guide the project lead through a series of questions and prompts to gather information about the item's progress, specifications, and readiness for launch. 
-</thinking>
-
 # Checklist For New Items - Help Guide
 ## Purpose
 This form is used to collect information about new items being added to the catalog. It helps ensure that each item meets the required standards and is ready for launch.

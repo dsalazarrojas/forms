@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll provide a user-facing help guide for the "Gift Progress Record Form" to ensure end-users understand its purpose, how to complete it, and each field's meaning. I'll draw from the provided YAML fields to create a clear and concise guide.</thinking>
-
 # Gift Progress Record Form - Help Guide
 ## Purpose
 The Gift Progress Record Form is designed to track and record progress on gifts, allowing users to monitor and manage their gift-giving activities efficiently. This form helps to gather detailed information about gifts, including progress updates for each gift.

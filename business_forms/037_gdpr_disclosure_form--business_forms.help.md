@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that this GDPR Disclosure Form is used correctly and consistently across all users. Before we create the user-facing help guide, let's review the form's purpose and ensure it's only used when necessary.
-The form appears to be intended for collecting information related to the use of personal data under the General Data Protection Regulation (GDPR) and other privacy regulations. It asks questions about the use and handling of personal data, including data collection, storage, retention, and transfer. It's likely meant to be used for transparency and compliance purposes, allowing organizations to provide clear and concise information about their data handling practices.
-We should verify that this form will not be used for other purposes, such as data collection for marketing or other non-GDPR related activities. It's also essential to ensure that the language and options used are clear, concise, and understandable for non-technical users.
-Let's review the form structure and fields to create a comprehensive help guide for end-users.
-
-</thinking>
-
 # gdpr_disclosure_form - Help Guide
 ## Purpose
 This form is designed to help your organization provide transparency about how personal data will be collected, used, stored, and protected.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the purpose of this form: the Briefing Form is designed to gather necessary information for effective briefings, meetings, and presentations. This form ensures that all participants are well-informed and prepared for the briefing, and that all relevant details are considered to ensure a productive and efficient discussion. It's essential to use this form only for business purposes, such as team meetings, strategy sessions, or client meetings.</thinking>
-
 # Briefing Form - Help Guide
 ## Purpose
 The Briefing Form is a tool to help you prepare for business briefings, meetings, and presentations by gathering essential information in one place. This guide will walk you through each section of the form to help you complete it efficiently.

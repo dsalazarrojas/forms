@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from employers about their company and job postings. It is crucial to ensure the accuracy and relevance of the data collected. Before completing this form, please review the following guidelines to understand the purpose and fields involved.
-
-This form is part of a larger business process, and ensuring that it is filled out correctly and consistently will help in maintaining the integrity of the data. Please note that this form is not intended for personal or resume-building purposes. It is for business use only. 
-
-Please do not fill out this form if you are not an employer or if your company has already been previously surveyed. Duplicate entries may be discarded to maintain data accuracy.
-
-</thinking>
-
 # Employer Survey - Help Guide
 ## Purpose
 The Employer Survey form is a data collection tool designed to gather information about your company and job postings. This form is used by our organization to better understand your business needs and requirements.

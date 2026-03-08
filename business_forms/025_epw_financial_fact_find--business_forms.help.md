@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "EPW Financial Fact Find" form. This form is designed to gather information about businesses and their financial facts. To determine if a business is relevant for the EPW Financial Fact Find, we first need to check if the business type is "Yes". If the business type is "Yes", we then proceed with collecting financial facts. The form is split into different pages, each with its own set of questions. We need to ensure that the user completes each page accurately and in the correct order. If a business is not relevant for the EPW Financial Fact Find, we will not proceed with the fact finding process.
-
-To avoid duplication, we will only proceed with the fact finding process if the business does not already exist in our database.
-
-We need to make sure that the user provides accurate information about the business, and that the user understands the purpose and relevance of each field in the form.
-
-</thinking>
-
 # EPW Financial Fact Find - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tian_fu_form - Help Guide
 
 ## Purpose

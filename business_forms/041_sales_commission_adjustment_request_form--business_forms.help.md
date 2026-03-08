@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Commission Adjustment Request Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>As an expert form designer and technical writer, my thought process for creating a user-facing help guide for the "Accountant Estimate Form" goes as follows:
-
-The Accountant Estimate Form is designed to gather essential information from clients to provide an accurate estimate of accounting services needed. To ensure accuracy and efficiency in completing this form, I will clearly explain each field's purpose, type, and requirements.
-
-First, I will review the form's overall structure, noting that it consists of sections for client information, service request, timeline and budget, and additional details. This structure is intuitive and allows clients to navigate through the form in a logical manner.
-
-Next, I will analyze each field within these sections, ensuring that the labels, hints, and options are clear and consistent. I will also identify any fields with special requirements or constraints, such as mandatory fields like "client_name", "email", "phone_number", and "preferred_start_date".
-
-</thinking>
-
 # Accountant Estimate Form - Help Guide
 ## Purpose
 The Accountant Estimate Form is designed to gather essential information from clients to provide an accurate estimate of accounting services needed. This form is divided into sections for client information, service request, timeline and budget, and additional details.

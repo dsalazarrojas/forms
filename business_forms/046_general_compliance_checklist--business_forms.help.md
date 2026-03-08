@@ -1,7 +1,3 @@
-<thinking>
-The General Compliance Checklist form is intended to help users review and confirm compliance with various aspects of business operations. It appears to be a comprehensive list of sections, with each section representing a different area of compliance. The form is designed to allow users to input responses to each section, indicating whether compliance has been met or not. This form is likely used for regular auditing and review of business practices to ensure adherence to relevant regulations and standards.
-</thinking>
-
 # General Compliance Checklist - Help Guide
 
 ## Purpose

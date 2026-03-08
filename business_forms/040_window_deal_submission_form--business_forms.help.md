@@ -1,7 +1,3 @@
-<thinking>Form purpose: This form is designed for submitting information about window deals. It helps to collect property details, deal type, window specifications, and supporting documents related to a window deal. Before filling out this form, please ensure that you are submitting a new deal and not an existing one. Also, ensure that all fields are filled out correctly to avoid errors in the processing of your submission.
-
-</thinking>
-
 # window_deal_submission_form - Help Guide
 ## Purpose
 This form is designed for submitting information about window deals. It helps to collect property details, deal type, window specifications, and supporting documents related to a window deal.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_production_coordinator_contact_form - Help Guide
 
 ## Purpose

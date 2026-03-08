@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about a market research project, including customer details, research objectives, methods, and contact information. 
-The purpose of the form is to provide a standardized way of gathering all the necessary data in one place, making it easier for researchers to quickly get started with the project.
-To avoid duplication of effort and ensure accurate data collection, it's essential to complete the form carefully and thoroughly.
-</thinking>
-
 # marketResearchIntakeForm - Help Guide
 ## Purpose
 This form is used to collect information about a market research project. It's essential to complete it accurately to ensure that the project starts on the right foot.

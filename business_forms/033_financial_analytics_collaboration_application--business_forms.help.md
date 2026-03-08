@@ -1,9 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that explains the purpose and usage of this form in a clear and concise manner. I will carefully review the provided YAML fields to ensure that the explanations are accurate and relevant. To avoid duplication, I will focus on creating a comprehensive guide that covers all the essential aspects of the form.
-
-After reviewing the YAML fields, I will create a well-structured help guide in Markdown format that includes an introduction, instructions on how to complete the form, and a field-by-field explanation of each form element. I will also include tips for users to get the most out of the form.
-
-Here is the resulting help guide:</thinking>
-
 # Financial Analytics Collaboration Application - Help Guide
 ## Purpose
 The Financial Analytics Collaboration Application form is designed to gather and analyze data on team collaboration requests, team member evaluations, and project ideas. This form helps teams evaluate and refine their collaboration processes, identify areas for improvement, and develop effective project ideas.

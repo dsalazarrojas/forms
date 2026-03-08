@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be a template for businesses to acknowledge the receipt of goods. 
-The form will likely be used to track and document the status of deliveries and goods receipt in a business setting. 
-The fields and structure of this form will guide users in providing accurate and relevant information for this purpose.
-</thinking>
-
 # Goods Receipt Acknowledgement Form - Help Guide
 ## Purpose
 This form is used to document the receipt of goods in a business setting, enabling accurate tracking and recording of deliveries.

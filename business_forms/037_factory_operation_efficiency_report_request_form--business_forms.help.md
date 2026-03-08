@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request efficiency reports from factory operations. It is intended for employees who need to provide information about their shifts, including start and end times, equipment used, and production metrics. This form will help gather data on various aspects of factory operations, such as equipment type, shift duration, and total production.
-</thinking>
-
 # Factory Operation Efficiency Report Request Form - Help Guide
 ## Purpose
 The Factory Operation Efficiency Report Request Form is designed to gather information about various aspects of factory operations. This form is intended for employees who need to report on their shifts, including start and end times, equipment used, and production metrics. The data collected from this form will help factory managers and supervisors understand how to optimize factory operations for improved efficiency.

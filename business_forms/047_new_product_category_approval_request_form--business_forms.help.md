@@ -1,5 +1,3 @@
-<thinking>...The New Product Category Approval Request Form is used to request approval for new product categories in your business. This form is used by product owners to submit their product category requests, and approvers to review and approve or reject these requests. It is essential to ensure that you fill out all required fields to submit a valid request. Before proceeding, make sure that you are not duplicating a request that has already been submitted. If a similar product category has been requested, you may want to review the existing request to see if any changes have been made before submitting a new request...</thinking>
-
 # New Product Category Approval Request Form - Help Guide
 
 ## Purpose

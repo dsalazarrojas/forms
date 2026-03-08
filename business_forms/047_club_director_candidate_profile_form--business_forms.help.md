@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Club Director Candidate Profile Form - Help Guide
 
 ## Purpose

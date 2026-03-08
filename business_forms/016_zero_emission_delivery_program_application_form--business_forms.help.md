@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to help applicants apply for the Zero Emission Delivery Program, a initiative aimed at promoting environmentally friendly transportation methods. To qualify for this program, applicants must provide their contact and fleet information, as well as their motivations for participation. The program is open to all types of delivery services, including but not limited to logistics companies, courier services, and transportation providers. It is essential to fill out the form accurately and thoroughly to ensure a smooth application process. Please note that if you're an existing participant in the program, filling out this form again will not result in your application being processed multiple times. The form is a one-time application submission.
-</thinking>
-
 # Zero Emission Delivery Program Application Form - Help Guide
 ## Purpose
 The Zero Emission Delivery Program Application Form is designed to help delivery services apply for participation in the program. The program aims to reduce carbon footprint and promote environmentally friendly transportation methods. All delivery services are encouraged to apply to contribute to this initiative.

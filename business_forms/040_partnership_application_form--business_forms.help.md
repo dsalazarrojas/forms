@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for businesses to apply for partnership opportunities with our company. It is not intended for personal use or for other purposes not related to partnership applications. To avoid duplication, please do not submit the same application multiple times.
-</thinking>
-
 # Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from businesses interested in exploring partnership opportunities with our company. It will help us understand your business needs, interests, and requirements, allowing us to evaluate potential partnerships.

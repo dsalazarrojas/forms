@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect weekly feedback from users on their experiences with our services. Its purpose is to gather information on topics, satisfaction, and areas for improvement. This form is intended for internal use only and is not intended to be shared with external parties. Please ensure that you are using this form within the scope of its intended purpose and not duplicating efforts with other similar forms.
-</thinking>
-
 # weekly_feedback_collection - Help Guide
 ## Purpose
 

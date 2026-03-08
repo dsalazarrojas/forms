@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect design upload information from users. It's a general form template that can be used for a variety of purposes, such as uploading designs for marketing materials, product packaging, or other business-related visual content. The form is not affiliated with any form platform and was created using AI for inspiration from public survey topic metadata.
-</thinking>
-
 # design upload form template - Help Guide
 ## Purpose
 The purpose of this form is to collect information about uploaded design files, including project details and file specifications.

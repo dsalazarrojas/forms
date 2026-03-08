@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conference Room Subscription Form - Help Guide
 ## Purpose
 This form is designed to allow users to subscribe to the conference room facilities. The form collects information about the subscriber's contact details, subscription preferences, and payment information to provide a tailored experience.

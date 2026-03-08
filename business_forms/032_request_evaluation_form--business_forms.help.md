@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or stakeholders about their evaluation requests. It's a structured form with a variety of fields to gather relevant details. Before starting, please ensure you have all necessary information ready. This form should only be filled out once for each specific evaluation request.
-</thinking>
-
 # Request Evaluation Form - Help Guide
 
 ## Purpose

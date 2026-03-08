@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bingo Party In Your VIP Group - Help Guide
 ## Purpose
 The "Bingo Party In Your VIP Group" form is designed to gather information from customers interested in participating in a private online bingo party, hosted by a specific VIP group. The form helps in creating a list of attendees and their contact information, which will be used to send sample packs and offer exclusive deals to the members.

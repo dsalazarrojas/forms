@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to book a live interview session, which is a crucial step in the hiring process. The form is designed to collect relevant information from candidates and hiring managers to schedule a live interview. It's essential to fill out this form accurately to ensure a smooth and efficient booking process. Please ensure you're using this form for its intended purpose and not for duplicate or redundant bookings.
-
-</thinking>
-
 # Live Interview Stage Booking Form - Help Guide
 ## Purpose
 The Live Interview Stage Booking Form is designed to collect information from candidates and hiring managers to schedule live interviews. It's an essential step in the hiring process, ensuring that all necessary details are exchanged and appointments are set correctly.

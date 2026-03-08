@@ -1,11 +1,3 @@
-<thinking>...Internal reasoning block to determine the purpose and relevance of the form... 
-
-Based on the provided YAML, this form appears to be for risk monitoring and assessment, likely used in a business or organizational context. The form likely aims to collect information about the effectiveness of risk monitoring processes within an organization. The "risk_monitoring_effectiveness_survey" title suggests that the form is used to evaluate the success or effectiveness of risk monitoring activities. The fields and sections within the form seem to cover various aspects of risk monitoring, including contact details, risk type, impact, and mitigation strategies. 
-
-This form may be used by risk management teams, auditors, or other stakeholders to assess and improve the organization's risk management processes. The form's purpose is likely to provide a structured framework for evaluating the effectiveness of risk monitoring activities and identifying areas for improvement.
-
-... </thinking>
-
 # risk_monitoring_effectiveness_survey - Help Guide
 ## Purpose
 The risk monitoring effectiveness survey is a tool used to evaluate the success or effectiveness of risk monitoring activities within an organization. It collects information about contact details, risk types, impact, and mitigation strategies to provide a comprehensive assessment of risk monitoring processes.

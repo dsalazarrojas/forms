@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to document instances of hosting service downtime, including the service's intermittent nature, the duration it was down, the reason for the interruption, and any supporting files or comments. This form is typically filled out by a service owner or representative to report the downtime to the appropriate teams or stakeholders. It is an optional form and not required for the majority of users.
-To fill out this form, start by selecting the "Hosting Service Downtime Claim Form" page. You will see several fields to input information about the service interruption. Each field is used to capture a different aspect of the incident.
-</thinking>
-
 # Hosting Service Downtime Claim Form - Help Guide
 ## Purpose
 The Hosting Service Downtime Claim Form is used to document and report instances of hosting service downtime. 

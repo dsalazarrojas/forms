@@ -1,16 +1,3 @@
-<thinking>
-
-The Wig Contract Form is a document that outlines the terms and conditions of a wig purchase agreement between a customer and the seller. This form is designed to capture essential information from the customer and ensure a clear understanding of the agreement.
-
-To confirm that this form is relevant and not a duplicate, let's consider the following:
-* The form is used to capture contact information from the customer, which is a common requirement in sales agreements.
-* The form includes fields for contract terms and conditions, which is a crucial aspect of any business agreement.
-* The form has fields for dates and agreements, which is typical in contract documentation.
-
-Based on the above analysis, it is likely that this form is relevant and does not duplicate any existing forms.
-
-</thinking>
-
 # Wig Contract Form - Help Guide
 ## Purpose
 The Wig Contract Form is a document that outlines the terms and conditions of a wig purchase agreement between a customer and the seller. This form is used to capture essential information from the customer and ensure a clear understanding of the agreement.

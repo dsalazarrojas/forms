@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users, likely for business purposes. Please ensure that you are completing this form for a legitimate reason and that you are not submitting duplicate or redundant information. Review each field carefully before submitting to guarantee accuracy and completion.
-</thinking>
-
 # denver_multi_page - Help Guide
 ## Purpose
 The purpose of this form is to collect various pieces of information from users for business purposes.

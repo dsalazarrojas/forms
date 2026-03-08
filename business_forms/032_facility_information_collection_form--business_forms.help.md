@@ -1,11 +1,3 @@
-<thinking>
-The Facility Information Collection Form is a crucial tool used to gather and store information about various facilities, including hotels, resorts, motels, and other establishments. The purpose of this form is to collect detailed information about each facility's name, address, location, contact information, type, size, opening date, rating, description, owner, manager, operating hours, website, social media links, and other relevant details. This information will help us to create a comprehensive database of facilities, enabling us to provide better services and support to our users.
-
-Please note that this form is a one-time collection of information, and the data will be stored securely for future reference. We will not collect duplicate information, so please ensure that you only submit new or updated information for each facility.
-
-This form is designed to be easy to fill out, and you can submit it by following the instructions below.
-</thinking>
-
 # Facility Information Collection Form - Help Guide
 ## Purpose
 The Facility Information Collection Form is used to collect and store information about various facilities, including hotels, resorts, motels, and other establishments.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for job applicants to apply for professional services, such as consulting or contract work. It is meant to gather information about the applicant's experience, skills, and job preferences. Please ensure you are applying for a job that matches your experience and skills before submitting this form. If you are not sure which job to apply for, please contact us to discuss your options. Also, make sure to check the job requirements before filling out this form to avoid duplicating your application.
-
-</thinking>
-
 # professional_services_application_form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way for applicants to submit their application for professional services. Please use this form to provide accurate and detailed information about your experience, skills, and preferences.

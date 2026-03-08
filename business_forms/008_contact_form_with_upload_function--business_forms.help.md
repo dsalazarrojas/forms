@@ -1,5 +1,3 @@
-<thinking>...The form is used for clients to inquire about professional services such as graphic design, copywriting, web development, or consultation. It captures essential information including the client's name, email, service required, project description, and other relevant details such as a project brief, estimated deadline, budget estimate, preferred communication method, and how they found the service. This form does not require a login or registration, making it easily accessible for potential clients who are interested in the services offered...</thinking>
-
 # Contact Form With Upload Function - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from business owners who are looking to refer their R&D project to an external consultant. The form is intended for internal use within the company, and the data collected will be used to assess the consultant's suitability for the project. The form should only be completed by business owners who have been authorized to refer projects to external consultants.
-
-Each field in this form has been designed to capture specific information about the consultant and the project. Here's a brief explanation of each field and its purpose:
-
-</thinking>
-
 # R&D Consultant Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information from business owners who are looking to refer their R&D project to an external consultant. The data collected will be used to assess the consultant's suitability for the project.

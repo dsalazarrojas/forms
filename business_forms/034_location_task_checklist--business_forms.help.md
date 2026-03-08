@@ -1,12 +1,3 @@
-<thinking>
-This form is used to track location-specific tasks and activities. The purpose of the form is to gather information about different locations, contacts, managers, dates, times, tasks, and notes related to those tasks. This form is not intended to be a comprehensive task management solution, but rather a simple checklist to help users keep track of their tasks and activities.
-
-This form is likely used in business settings where users need to manage tasks and activities related to different locations.
-
-The following guide will help users understand how to complete this form and what each field is intended to represent.
-
-</thinking>
-
 # location_task_checklist - Help Guide
 ## Purpose
 This form is designed to help users track location-specific tasks and activities.

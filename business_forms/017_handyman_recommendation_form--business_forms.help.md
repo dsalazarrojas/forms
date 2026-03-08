@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Handyman Recommendation Form - Help Guide
 
 ## Purpose

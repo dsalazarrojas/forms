@@ -1,8 +1,3 @@
-<thinking>
-This form is used to book library equipment for a specific duration, and is intended to be used by library staff or authorized users. 
-To avoid any confusion or misuses, this guide will cover the form's fields and their respective requirements. 
-</thinking>
-
 # Library Equipment Rental Booking Form - Help Guide
 ## Purpose
 This form is used for booking library equipment for a specific duration. It's essential to fill out this form accurately to ensure that the equipment is available for use during the requested period. 

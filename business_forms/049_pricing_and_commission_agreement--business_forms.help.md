@@ -1,8 +1,3 @@
-<thinking>
-The form "Pricing And Commission Agreement" appears to be a comprehensive document designed to outline the terms of a business agreement between a business and an agency. It involves defining pricing and commission structures, outlining payment terms, and establishing other essential details. This form seems to be relevant for business-to-business (B2B) transactions or partnerships. I will create a user-friendly guide to help users understand the form's purpose and usage.
-
-</thinking>
-
 # Pricing And Commission Agreement - Help Guide
 ## Purpose
 The Pricing And Commission Agreement form is designed to document the terms of a business agreement between a business and an agency. It includes essential details such as pricing and commission structures, payment terms, and other necessary conditions.

@@ -1,13 +1,3 @@
-<thinking>
-
-As a form expert, I'll create a comprehensive help guide for the "Safety Harness Inspection Checklist" form. This form is designed to help safety inspectors assess the condition and status of safety harnesses and related equipment. 
-
-This form is intended for use by safety inspectors in the workplace, particularly in industries where safety harnesses are used, such as construction, manufacturing, and warehousing. The goal of this form is to provide a systematic and structured way to evaluate the condition and status of safety harnesses, lanyards, and other related equipment to ensure that they are safe for use.
-
-Upon reviewing the provided YAML fields, I notice that this form has multiple sections for various aspects of safety harnesses, including inspection date, location, equipment condition, user name, and certification. The form also includes fields for specific conditions and statuses of safety harnesses, lanyards, and ropes, as well as fields for taking notes and recording certification dates and tags. Each section is designed to gather specific information that will aid in the inspection process.
-
-</thinking>
-
 # Safety Harness Inspection Checklist - Help Guide
 ## Purpose
 The Safety Harness Inspection Checklist is designed to provide a structured and systematic way to evaluate the condition and status of safety harnesses and related equipment. This form is intended for use by safety inspectors to ensure that safety harnesses are safe for use in the workplace.

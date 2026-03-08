@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help users book a room at a hotel or resort. The form gathers information on the user's personal details, accommodation preferences, and payment information. This form is intended for end-users who are interested in booking a room and would like to provide the necessary information to make the booking process efficient. This form should only be filled out once to complete the booking process.
-
-</thinking>
-
 # Book A Room Form - Help Guide
 ## Purpose
 Book a room at our hotel by providing your personal and accommodation preferences.

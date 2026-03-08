@@ -1,6 +1,3 @@
-<thinking>
-This form is used for documenting delivery information for various business purposes. It is a crucial process for ensuring accurate tracking and communication of delivery details within the organization. Before proceeding, ensure that you understand the form's purpose and requirements to avoid duplication of effort. This form should only be used for the intended purpose of documenting delivery information.
-</thinking>
 # Document Delivery Form - Help Guide
 ## Purpose
 The Document Delivery Form is used to document delivery information for various business purposes. It captures essential details about the delivery, including address, contact information, delivery date and time, delivery method, and other relevant comments.

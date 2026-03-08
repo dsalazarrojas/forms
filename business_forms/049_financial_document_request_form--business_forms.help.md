@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for requesting financial documents, which may be required for various business or personal reasons. The purpose of this form is to collect relevant information from the employee, including the document type, employee name, company name, document date, second document type, document number, requestor name, and requestor phone number. This form is meant to be completed by the employee or their representative when requesting financial documents, and its completion should be thorough to ensure accurate processing and handling of the request.
-</thinking>
-
 # Financial Document Request Form - Help Guide
 ## Purpose
 The Financial Document Request Form is used to request financial documents for business or personal purposes.

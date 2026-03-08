@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from hotel guests at the time of check-out. It is intended to be completed by the guests themselves, providing a convenient way to collect their feedback, comments, and any additional information about their stay. The form's purpose is to ensure a smooth and efficient check-out process, allowing hotel staff to review the guest's comments and feedback. The form is not intended to be a comprehensive survey, but rather a quick and simple way to gather essential information from guests.
-</thinking>
-
 # Hotel Guest Check Out Form - Help Guide
 ## Purpose
 This form is designed to gather information from hotel guests at the time of check-out. It is intended to be completed by the guests themselves, providing a convenient way to collect their feedback, comments, and any additional information about their stay.

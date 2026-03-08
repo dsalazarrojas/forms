@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to a job's invoice, providing a structured way to gather data on job details, payment terms, and payment schedules. The form is intended for use by business users, and its purpose is to streamline the process of capturing and tracking job invoice data. Before proceeding with this guide, ensure that the information presented is not a duplicate or unnecessary, as this form is specifically tailored for the job_invoice context.
-</thinking>
-
 # job_invoice - Help Guide
 ## Purpose
 The job_invoice form is designed to collect necessary details about a job's invoice, which is used to communicate payment terms and schedules to clients. This form will help you accurately capture the required information for smooth and timely processing of payments.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Dysfunction Assessment Form - Help Guide
 
 ## Purpose

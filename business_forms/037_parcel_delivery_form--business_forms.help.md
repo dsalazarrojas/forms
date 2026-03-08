@@ -1,9 +1,3 @@
-<thinking>
-The form "parcel_delivery_form" is designed to collect information for parcel delivery purposes. This form is likely used by businesses for internal tracking and management of delivery operations. The fields included in this form cover various aspects of parcel delivery, including contact information, delivery details, and payment options. This form might be used in scenarios such as customer service, logistics management, or order fulfillment. There is a mix of required and optional fields, ensuring that users can provide relevant details when needed.
-The form is structured across multiple pages, with some pages focused on specific topics like address, contact information, and delivery specifics. Users should be able to navigate through the form with a clear understanding of what's required and what's optional. Each field label should provide a clear explanation of its purpose.
-Before proceeding, it's essential to verify that this form is not a duplicate and is relevant to the specific business use case.
-</thinking>
-
 # parcel_delivery_form - Help Guide
 ## Purpose
 The parcel delivery form is designed to collect information for efficient management and tracking of parcel delivery operations. It covers various aspects of delivery, including contact details, delivery specifics, and payment options.

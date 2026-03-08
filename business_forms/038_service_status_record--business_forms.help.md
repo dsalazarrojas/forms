@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # service_status_record - Help Guide
 ## Purpose
 The Service Status Record form is used to track and manage the status of services provided to customers. It helps to keep a record of requests, their corresponding status updates, and other relevant details. This form is essential for maintaining an accurate and up-to-date record of service requests and their resolutions.

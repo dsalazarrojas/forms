@@ -1,7 +1,3 @@
-<thinking>
-I'm checking the provided YAML fields to understand the form's purpose and structure. The form is called "welding_inspection_form" and it has several fields, including fields for inspection date, time, welder's information (name, number, ID number), production process, welder's type, rating, and comments. I notice that the form is not required to be completed, which means users can fill it out optionally. I also see that the form has several signature fields, which suggests that this form is likely used for inspecting welds or welders. Based on this information, the form's purpose is likely to inspect welds or welders and provide a report of the inspection. I will create a help guide that explains the form's purpose, how to complete it, and what each field means.
-</thinking>
-
 # welding_inspection_form - Help Guide
 ## Purpose
 The welding inspection form is used to inspect welds or welders and provide a report of the inspection. This form is optional and allows you to record information about the weld or welder, including inspection date, time, welder's name, number, and ID number. The form also includes fields for production process, welder's type, rating, and comments.

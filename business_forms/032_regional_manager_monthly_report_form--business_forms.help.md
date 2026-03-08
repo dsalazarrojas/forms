@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Regional Manager Monthly Report Form - Help Guide
 ## Purpose
 The Regional Manager Monthly Report Form is a tool for Regional Managers to report on their monthly performance, customer count, and success rate. This form will help management track the progress of each region and identify areas for improvement. Please ensure you are using this form to report on your own region only.

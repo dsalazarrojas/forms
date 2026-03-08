@@ -1,16 +1,3 @@
-<thinking>
-This form is for businesses looking to expand their fulfillment network. The goal is to provide a comprehensive application form to collect relevant information from interested parties. To avoid duplication, we will review each application carefully, and the decision to proceed will be made on a case-by-case basis.
-
-Please ensure that the information provided is accurate and up-to-date, as this form will be used to make decisions regarding expansion of our network.
-
-Before starting, review the form carefully to ensure you have all necessary information and attachments ready. If you have any doubts or questions, please contact us for clarification.
-
-When filling out this form, be sure to answer the questions truthfully and thoroughly, as they are essential to our review process.
-
-This form has multiple pages, and some fields may seem repetitive or similar. Please do not worry; each field has a specific purpose, and we will review each section carefully.
-
-</thinking>
-
 # Fulfillment Network Expansion Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from businesses seeking to expand their fulfillment network with us. It helps us understand your company's needs and goals, ensuring we can provide the best possible support and services.

@@ -1,11 +1,3 @@
-<thinking>
-To provide a clear and concise user-facing help guide for the "Commission Statement Template" form, let's break down the form's purpose and how to complete it, along with a field-by-field explanation.
-The purpose of this form is to generate a commission statement for sales representatives, which outlines their commissions earned during a specific period. This statement includes detailed calculations and authorizations, ensuring accuracy and transparency.
-
-This guide will walk you through each section and field in the form, helping you understand what to input and how it contributes to the overall commission statement.
-
-</thinking>
-
 # Commission Statement Template - Help Guide
 
 ## Purpose

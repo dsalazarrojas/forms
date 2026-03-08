@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Performance Metrics Audit Form, I will first analyze the provided YAML structure to ensure I understand the form's purpose and the fields that need to be explained. The form is designed to collect performance metrics from different areas of the business, including company, team, employee, customer, and process performance. Each section is meant to assess the level of performance, with options ranging from Good, Fair, to Poor. The form is intended to help businesses evaluate and improve their performance.
-</thinking>
-
 # Performance Metrics Audit Form - Help Guide
 ## Purpose
 The Performance Metrics Audit Form is designed to help businesses evaluate and improve their performance across various aspects, including company, team, employee, customer, and process performance. This form provides a structured way to collect and review metrics, allowing you to identify areas that need attention and work towards improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for collecting contact information from customers, staff, or other stakeholders related to safety protocol development, such as reporting incidents or requesting support. To prevent duplicate submissions, please ensure that your browser's back button is disabled while filling out this form. If you're experiencing issues with the form, please contact your IT department or reach out to the form administrators for assistance.
-</thinking>
-
 # Safety Protocol Development Contact Form - Help Guide
 
 ## Purpose

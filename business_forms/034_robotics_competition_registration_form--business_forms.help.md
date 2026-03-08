@@ -1,20 +1,3 @@
-<thinking>
-
-To ensure that the form is filled out correctly, we need to check if the form is being used for its intended purpose. In this case, the "robotics_competition_registration_form" is meant for registering participants in a robotics competition. To confirm, let's check the form structure and required fields. 
-
-The form has the following sections:
-- Registration Info (page 1): This section likely collects general information about the participant.
-- Team Members (page 2): This section is likely used to list the members of the team participating in the competition.
-- Competition Details (page 3): This section probably contains information about the competition itself.
-- Robot Description (page 4): This section is probably used to describe the robot being registered.
-- Additional sections (pages 5-25): These sections seem to be optional and might be used for additional information about the robot or team.
-
-Since the required fields are "Team Members", "Competition Details", "Robot Description", "Date of Competition", "Time of Competition", "Robot Category", "Robot Weight", "Robot Dimensions", "Robot Cost", "Competition Judges", "Competition Outcome", and "Competition Outcome Details", this form is likely being used for robotics competition registration.
-
-However, it is essential to check the actual data and context to confirm this assumption.
-
-</thinking>
-
 # robotics_competition_registration_form - Help Guide
 ## Purpose
 The "robotics_competition_registration_form" is a form used for registering participants in a robotics competition. It collects information about the participants, the competition, and the robot being registered. 

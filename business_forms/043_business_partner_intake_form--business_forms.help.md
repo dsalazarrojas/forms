@@ -1,5 +1,3 @@
-<thinking>As a business partner intake form, this form is designed to collect information from potential business partners about their company, challenges, and expectations. Its purpose is to facilitate the discovery process and assess compatibility with potential partners. To avoid duplication and ensure accurate information collection, please fill out this form carefully and thoroughly.</thinking>
-
 # Business Partner Intake Form - Help Guide
 ## Purpose
 The Business Partner Intake Form is designed to help us better understand your company and its needs, so we can assess compatibility and provide relevant support.

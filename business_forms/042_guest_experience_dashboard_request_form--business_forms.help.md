@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's break down the purpose of this form and ensure we're on the right page. This form, titled "Guest Experience Dashboard Request Form," seems to be designed for collecting guest information, possibly for event planning or customer feedback purposes. We'll go through each field carefully to clarify what's required and what's optional, and ensure we're not duplicating any fields that serve the same purpose. Let's start with the assumption that this form is meant to collect basic guest demographics and preferences for events or experiences.</thinking>
-
 # Guest Experience Dashboard Request Form - Help Guide
 ## Purpose
 The Guest Experience Dashboard Request Form is used to collect information from guests for event planning or feedback purposes. This form helps us understand your preferences, needs, and interests for a smoother and more enjoyable experience.

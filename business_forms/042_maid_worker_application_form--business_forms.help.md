@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maid Worker Application Form - Help Guide
 ## Purpose
 

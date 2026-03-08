@@ -1,7 +1,3 @@
-<thinking>
-This form is for employees to request time off from work. It should only be used to request time off for legitimate reasons, such as medical appointments or vacation days. Please ensure that you've discussed your request with your manager before submitting this form.
-</thinking>
-
 # Time Off Request Form - Help Guide
 ## Purpose
 The Time Off Request Form is used by employees to submit requests for time off from work.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Enquiry Form - Help Guide
 
 ## Purpose

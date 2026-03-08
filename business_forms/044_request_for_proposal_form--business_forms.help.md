@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by clients and partners to provide information about a project they are looking to develop with our team. The purpose of the form is to gather project details, such as project name, type, and description, as well as contact information and any required documents or submission requirements.
-
-The form is used internally to assess the project proposal and determine the best fit for our team. The form should only be used to provide information about projects that our team is interested in working on, not for projects that are not a good fit or for proposals that are duplicate or already being worked on. Please make sure to submit the correct information to ensure a timely and accurate review process.
-
-</thinking>
-
 # Request For Proposal Form - Help Guide
 ## Purpose
 The Request For Proposal Form is used by clients and partners to provide information about a project they are looking to develop with our team. It is used internally to assess the project proposal and determine the best fit for our team.

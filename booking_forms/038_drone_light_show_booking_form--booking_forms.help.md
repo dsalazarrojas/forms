@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # drone-light-show-booking-form - Help Guide
 ## Purpose
 The drone light show booking form is used to book a drone light show for a specific date and time. It gathers essential information from the customer, such as show details and contact information, to ensure a smooth and efficient booking process.

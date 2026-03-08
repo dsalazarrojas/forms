@@ -1,11 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "sustainability_policy_review_request_form". To begin with, I'll provide a brief internal reasoning block that explains the purpose and checks for relevance and non-duplication of the form.
-
-This form is designed to collect information for requesting a review of a sustainability policy. The form ensures that all necessary details are captured, including the organization's name, policy type, priority level, deadline, and contact information. It also allows for the selection of relevant departments, document type, and policy status. The form's fields are designed to be clear and concise, making it easy for users to understand and complete.
-
-To ensure that the form is not duplicated, we'll implement a unique identifier for each submission, which will be checked against a database to prevent identical submissions.
-
-</thinking>
-
 # sustainability_policy_review_request_form - Help Guide
 ## Purpose
 The sustainability policy review request form is designed to collect information for requesting a review of a sustainability policy. This form helps ensure that all necessary details are captured to facilitate the review process.

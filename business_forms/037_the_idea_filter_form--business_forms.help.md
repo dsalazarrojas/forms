@@ -1,13 +1,3 @@
-<thinking>
-
-This form is an AI-generated tool designed to gather information about ideas from the "business_forms" category. It is an original adaptation of public survey topic metadata and does not use proprietary content from any form creation platform. By completing this form, users will be able to express their ideas and provide relevant details to help identify solutions to a given problem.
-
-The form will be used to filter and categorize ideas based on their priority level, date, and other relevant details. This will enable users to quickly and efficiently identify the most relevant ideas and solutions to their problems.
-
-This guide will help users understand the purpose and usage of the form, ensuring that users complete it correctly and effectively.
-
-</thinking>
-
 # The Idea Filter Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about in-person meetings between employees and their managers. The purpose of this form is to gather information about the frequency, length, and other aspects of these meetings. The form is intended to be completed by employees and managers after each meeting, and the data collected will be used to identify trends and areas for improvement in the meeting process.
-</thinking>
-
 # In Person Meetings Survey - Help Guide
 ## Purpose
 The In Person Meetings Survey form is designed to collect data about in-person meetings between employees and their managers. This data will be used to identify trends and areas for improvement in the meeting process.

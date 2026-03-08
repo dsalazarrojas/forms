@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record information about a Variable Set of Movement (VSM) item. VSM items are key components of your organizational processes, and this form is intended to gather data on each item's unique characteristics. Before filling out this form, ensure that you're not duplicating efforts by checking if the item already exists in your VSM repository. This form is meant to be a one-time entry point, and subsequent updates can be made using the 'Update' feature.
-</thinking>
-
 # VSM Item Record Form - Help Guide
 ## Purpose
 The VSM Item Record Form is used to create a new VSM item or update an existing one. This form collects essential details about an item, including its ID, name, description, category, tags, status, and priority.

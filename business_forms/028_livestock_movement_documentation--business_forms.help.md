@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the movement of livestock, including the origin and destination locations, dates and times of departure and arrival, mode of transport, type of livestock, and other relevant details. The form is intended for use by farmers, ranchers, or other individuals involved in the livestock industry to document and record the movement of their animals.
-
-Before completing this form, ensure that you are only submitting it for the intended purpose and that you have already submitted a similar form for the same movement if it has occurred before. Re-submission of forms for the same movement is not allowed.
-
-</thinking>
-
 # Livestock Movement Documentation - Help Guide
 ## Purpose
 This form is used to document the movement of livestock from one location to another, including the origin and destination locations, dates and times of departure and arrival, mode of transport, type of livestock, and other relevant details.

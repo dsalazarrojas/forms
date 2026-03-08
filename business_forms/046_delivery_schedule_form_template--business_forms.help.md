@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # delivery_schedule_form_template - Help Guide
 ## Purpose
 This form template is used for creating and managing delivery schedules. It provides a basic structure for capturing essential information related to deliveries, such as delivery date, time, status, customer details, and more. The goal is to ensure consistent and accurate data entry for easy tracking and reporting.

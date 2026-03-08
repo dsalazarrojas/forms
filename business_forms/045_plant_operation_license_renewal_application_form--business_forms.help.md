@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help plant operations renew their licenses. The business process for this form is part of the company's regular maintenance and compliance process. The form should only be used for this purpose and not for other business processes. This form's fields are designed to collect information that is necessary for the license renewal process.
-</thinking>
-
 # Plant Operation License Renewal Application Form - Help Guide
 ## Purpose
 The Plant Operation License Renewal Application Form is designed to help plant operations renew their licenses. This form is part of the company's regular maintenance and compliance process.

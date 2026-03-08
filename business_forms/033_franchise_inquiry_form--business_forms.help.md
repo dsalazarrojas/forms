@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in franchising with our company. The purpose of this form is to gather contact and business information from potential franchisees, allowing us to follow up and provide more information about our franchise opportunities. We will not use this information for any other purpose than to contact and communicate with the inquirers.
-</thinking>
-
 # Franchise Inquiry Form - Help Guide
 ## Purpose
 This form is for individuals who are interested in learning more about our franchise opportunities. It allows us to collect their contact information and understand their reasons for inquiring about our franchise.

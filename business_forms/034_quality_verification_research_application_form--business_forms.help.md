@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information about research projects and their participants. It is intended for internal use within the organization and helps to ensure that all necessary details are collected accurately. 
 
 To complete this form, please follow the steps below:

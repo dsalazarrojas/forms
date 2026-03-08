@@ -1,9 +1,3 @@
-<thinking>
-I need to create a user-facing help guide for this form to help end-users understand its purpose, how to complete it, and what each field means. The form is called "Fleet Management Assessment Form". The form appears to be designed to assess the performance and efficiency of various aspects of a fleet, including the fleet manager, vehicle performance, vehicle maintenance, and driver efficiency. However, I don't see any fields indicating that this form is specifically for internal use, external use, or both. I will assume it's for internal use based on the "business_forms" category.
-
-To ensure that end-users complete the form correctly, I will provide a brief overview of the form's purpose and then walk them through each field, explaining what each one means and how to fill it out.
-
-</thinking>
 # Fleet Management Assessment Form - Help Guide
 
 ## Purpose

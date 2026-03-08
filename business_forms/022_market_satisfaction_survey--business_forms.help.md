@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gauge the overall satisfaction of customers with their experience at the store, market, or business. The form is designed to collect feedback on various aspects such as customer support, customer satisfaction level, product quality rating, time spent in store, overall satisfaction, customer satisfaction note, store visit frequency, employee friendliness, and other notes or product price range note. This form will help the store to identify areas of improvement and provide better customer experience.
-
-</thinking>
-
 # Market Satisfaction Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from customers about their experience at our store, allowing us to identify areas of improvement and provide better customer service.

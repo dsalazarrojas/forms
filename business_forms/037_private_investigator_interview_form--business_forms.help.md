@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for private investigators to collect and document crucial information about their cases, clients, and investigations. The form aims to standardize the data collection process, ensuring consistency and accuracy across all cases. Private investigators can use this form to gather contact information, case details, services needed, and billing information, among other relevant data.
-
-Before filling out this form, ensure you have the necessary permissions and approvals to collect and store this data. Also, verify that you are not duplicating data collection efforts, as this form is meant to be a standardized template for your team.
-
-</thinking>
-
 # private_investigator_interview_form - Help Guide
 ## Purpose
 The private investigator interview form is designed to collect and document information about a case, including client details, services needed, and investigation status.

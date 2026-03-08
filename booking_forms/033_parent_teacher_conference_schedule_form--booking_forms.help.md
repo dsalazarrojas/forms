@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to schedule a parent-teacher conference. The form gathers information about the parent's and student's attendance, conference details, and contact information.
-
-This form is designed to be completed by parents or guardians to schedule a meeting with the teacher to discuss a student's progress or any other matters. It is likely to be used in an educational setting, such as a school or university.
-
-It's worth noting that the form fields are self-explanatory, and the required fields are those that are marked as "required" in the YAML specification.
-
-The form fields are organized in a logical order, starting with the parent's information, then moving on to the conference details and location, and ending with the contact information.
-
-This form should not be duplicated or used for other purposes, as it is intended for scheduling a specific type of meeting between parents and teachers.
-
-</thinking>
-
 # Parent Teacher Conference Schedule Form - Help Guide
 
 ## Purpose

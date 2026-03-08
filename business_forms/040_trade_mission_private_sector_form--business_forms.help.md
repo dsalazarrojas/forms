@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from private sector businesses that are planning or have trade missions to our organization. The purpose of this form is to collect details about the company, its type, and contact information, in order to facilitate communication and cooperation during the trade mission. This form is not intended for government agencies or other types of organizations. Please ensure that you only fill out this form if your organization is a private sector business.
-
-</thinking>
-
 # Trade Mission Private Sector Form - Help Guide
 ## Purpose
 This form is designed to gather information from private sector businesses that are planning or have trade missions to our organization. The purpose of this form is to collect details about the company, its type, and contact information, in order to facilitate communication and cooperation during the trade mission.

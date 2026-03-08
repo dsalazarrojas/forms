@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to conduct safety inspections on forklifts used in various environments, primarily in warehouses and construction sites. The form is used to collect information about the company's address, contact person, and the specific details of each forklift, including its status, last inspection date, and next inspection due date. This form is essential for maintaining the safety and well-being of employees and visitors on the site.
-
-To ensure that the form is being used correctly, we should check that it is not being used for other purposes, such as general maintenance or inventory tracking, that are not related to forklift safety inspections. This form is specifically designed for safety inspections and should only be used for this purpose.
-
-</thinking>
-
 # Forklift Safety Inspection Form - Help Guide
 
 ## Purpose

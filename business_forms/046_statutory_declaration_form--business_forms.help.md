@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Statutory Declaration Form - Help Guide
 ## Purpose
 This Statutory Declaration Form is used to collect personal information, typically from individuals who are required to declare their personal details for a particular purpose. The form helps to verify and confirm the identity of the individual. It is essential to fill this form accurately and completely to ensure that the information provided is correct and up-to-date.

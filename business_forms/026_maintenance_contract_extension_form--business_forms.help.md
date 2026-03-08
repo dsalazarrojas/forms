@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information about maintenance contracts and their extensions. It is used for updating or modifying existing contracts. The form is typically used by authorized personnel in a business setting. It's assumed that the user is familiar with the basics of maintenance contracts and their extensions...</thinking>
-
 # maintenance_contract_extension_form - Help Guide
 ## Purpose
 This form is used to update or modify existing maintenance contracts, including their extensions. It's essential to ensure accurate and up-to-date contract information.

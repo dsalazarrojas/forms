@@ -1,12 +1,3 @@
-<thinking>
-  This help guide is intended for users who need to complete the "Legal Document Delivery Form". 
-  The form is used to deliver legal documents to clients or other stakeholders. 
-  The form is used for internal purposes and does not collect or store any sensitive data. 
-  This form should only be used for legitimate legal document delivery purposes. 
-  Please ensure that you only enter information that is relevant and accurate. 
-  Do not enter any sensitive or confidential information.
-</thinking>
-
 # Legal Document Delivery Form - Help Guide
 ## Purpose
 This form is used to deliver legal documents to clients or other stakeholders.

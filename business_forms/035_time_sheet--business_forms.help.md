@@ -1,9 +1,3 @@
-<thinking>
-
-The form is intended to capture information for time sheet submissions from employees. It likely serves as a means for employees to record their work hours, breaks, and other relevant details for the purpose of time tracking and payroll management. This form may be used by both employees and their managers to monitor work hours, breaks, and submitted tasks. 
-
-</thinking>
-
 # Time Sheet - Help Guide
 ## Purpose
 The Time Sheet form is designed to collect information for time tracking and payroll management purposes. It's used to record work hours, breaks, and other details related to employee work activities.

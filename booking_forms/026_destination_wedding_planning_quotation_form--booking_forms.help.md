@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for destination wedding planning and quotation services, likely for wedding planners, photographers, and videographers. The form is not explicitly limited to any specific region or location, suggesting it's a general template for various destinations. There is no clear indication of any internal logic or business rules, so it seems to be a basic form for gathering information from couples about their wedding plans and requirements. The fields suggest a form that collects basic information about the destination wedding, services required, accommodations, food and drink options, and budget constraints.
-</thinking>
-
 # Destination Wedding Planning Quotation Form - Help Guide
 ## Purpose
 This form is designed to help couples plan their destination wedding by providing essential information about their requirements and preferences. It guides wedding planners, photographers, and other service providers in offering tailored quotations and services.

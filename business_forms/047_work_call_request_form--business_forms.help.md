@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from employees about their work calls. A work call is a meeting with an employer or client that an employee may need to attend. This form is used to gather relevant details about the call, including the employer's name, job title, date, start and end time, meeting location, purpose, employee's information, and other details about the meeting. The form is used to ensure that all relevant information is collected and recorded, making it easier for employees to manage their work calls effectively.
-
-The form will be reviewed and validated for relevance and non-duplication before it is completed.
-
-</thinking>
-
 # work_call_request_form - Help Guide
 ## Purpose
 The work_call_request_form is used to collect information from employees about their work calls.

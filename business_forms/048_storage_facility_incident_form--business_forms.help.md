@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about incidents that occur within storage facilities. It captures details about the incident, including the date, location, type, and description of the incident. The form also includes fields for reporting and reviewing the incident, allowing for clear communication between parties involved. To ensure accuracy and completeness, it's crucial to fill out this form carefully and thoroughly, and not to duplicate efforts. This form is primarily used for reporting and review purposes within the internal operations of the facility.
-</thinking>
-
 # Storage Facility Incident Form - Help Guide
 ## Purpose
 This form is used to collect information about incidents that occur within storage facilities.

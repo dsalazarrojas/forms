@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for SME (Small and Medium Enterprises) borrowers and investors. It is designed to collect information about SMEs that are interested in borrowing or investing. This form is likely used for internal purposes within an organization, and its completion is mandatory. There might be duplicate forms for the same entity, but filling out this form ensures that the information is up-to-date and accurate. The form is divided into several sections, each of which corresponds to a specific field in the form. The fields in the form are all optional, but filling them out provides more complete and accurate information about the SMEs.
-</thinking>
-
 # SME Borrowers And Investors Registration - Help Guide
 ## Purpose
 This form is designed to collect information about SMEs (Small and Medium Enterprises) borrowers and investors. Its primary purpose is to gather relevant data for internal purposes within an organization.

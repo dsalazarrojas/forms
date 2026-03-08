@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remit Form - Help Guide
 
 ## Purpose

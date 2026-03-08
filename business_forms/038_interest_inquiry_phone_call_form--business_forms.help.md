@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential customers or partners who are interested in inquiring about business opportunities. The purpose of this form is to gather necessary contact information and details about their interest. To avoid duplication of effort, please ensure that you have not already contacted the relevant parties before submitting this form. If you have already reached out to us, please do not resubmit this form as it will not be processed.
-</thinking>
-
 # Interest Inquiry Phone Call Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential customers or partners who are interested in inquiring about business opportunities. The form helps us understand their interest and contact details to follow up with them accordingly.

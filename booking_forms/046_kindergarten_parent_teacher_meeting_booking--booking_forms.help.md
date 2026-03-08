@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kindergarten Parent Teacher Meeting Booking - Help Guide
 ## Purpose
 This form is designed for parents to book a meeting with their child's kindergarten teacher. The purpose of this form is to collect the necessary information from parents to schedule a meeting at a convenient time for both parties.

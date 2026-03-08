@@ -1,8 +1,3 @@
-<thinking> 
-  This form is designed to collect bug reports from users, gathering information about the bug's category, severity, and priority levels. It also captures detailed information about the bug, including its title, description, steps to reproduce, and expected behavior. The form is intended to help developers identify and fix the issue efficiently.
-  To determine if this form meets the specific requirements of your project, please review its fields and options carefully. Note that some fields are optional, allowing you to provide additional context or details as needed.
-</thinking>
-
 # Bug Report Feedback Form - Help Guide
 
 ## Purpose

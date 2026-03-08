@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, let's first consider the form's purpose and the information it aims to collect. This form appears to be a template for creating a sales-related document, likely for recording and tracking sales transactions involving weights. The form has various fields for collecting customer, product, and sales information, as well as fields for signatures and comments. 
-
-The purpose of this form is to standardize the process of generating sales-related documents, such as scale tickets, and to collect necessary data for administrative and analytical purposes. The form is likely used by sales personnel to record sales transactions, including weights, prices, customer details, and other relevant information.
-
-Before using this form, ensure that you are creating a scale ticket for the correct transaction, and that all relevant information is accurate and complete. If you've already created a scale ticket for this transaction, do not duplicate the effort by re-opening this form.
-
-</thinking>
-
 # Scale Ticket Form Template - Help Guide
 ## Purpose
 This form is designed to create a standard template for generating scale tickets, used to record and track sales-related transactions involving weights.

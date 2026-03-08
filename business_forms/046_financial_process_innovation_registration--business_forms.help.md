@@ -1,10 +1,3 @@
-<thinking>
-Is this form purpose and fields relevant to the provided form YAML? No duplicate or unnecessary fields should be registered.
-Is this form purpose and fields aligned with business process improvement, challenge, or internal improvement initiatives? 
-Are there any missing fields that are required for the form to function correctly?
-Please verify that all fields are correctly categorized and have suitable input types.
-</thinking>
-
 # Financial Process Innovation Registration - Help Guide
 ## Purpose
 This form is intended to register financial process innovation programs, initiatives, or challenges within the organization. It captures information from the project lead and their contact details to track and follow up on these innovations.

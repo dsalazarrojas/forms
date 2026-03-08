@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used by employees to request a follow-up on an expense claim. It's intended for situations where an employee needs to follow up with their manager or a team member about the status of an expense claim. The form is used to provide relevant information about the claim, including details about the claim itself, the follow-up request, and any necessary dates and times. This form is not meant to be used for general inquiries or requests not related to expense claims.
-
-Before filling out this form, please ensure that you have a valid reason for requesting a follow-up and that you're not duplicating efforts. If you're unsure about whether you need to fill out this form, please reach out to your manager or the relevant team member for guidance.
-
-This form should only be used for expense claims that require follow-up. If you're submitting a new expense claim, please use the expense claim form instead.
-</thinking>
-
 # Expense Claim Follow Up Request Form - Help Guide
 
 ## Purpose

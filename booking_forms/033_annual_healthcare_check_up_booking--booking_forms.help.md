@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form designed for booking an annual healthcare check-up appointment. The purpose of this form is to gather information from patients to schedule appointments and ensure they receive the necessary care. This form is intended for new and returning patients alike. It is not meant to be completed multiple times for the same patient; each patient should only fill out the form once, and it will be stored for their future reference.
 
 </thinking>

@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to be a subscription list form for users to subscribe to a list of categories and tools. The form is designed to collect basic user information such as name, email, and phone number, as well as more specific details like date of birth and description. The purpose of this form is to gather necessary data for subscription purposes. It's essential to ensure that users fill out the form correctly to avoid duplication and ensure their subscription is accurate. Please review the following guide to help you complete the form successfully.
-
-</thinking>
-
 # Subscribe To My List - Help Guide
 ## Purpose
 The "Subscribe To My List" form is a simple subscription form designed to collect user information for the purpose of subscribing to a list of categories and tools.

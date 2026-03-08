@@ -1,13 +1,3 @@
-<thinking>
-
-The form is intended to gather information from vendors, specifically artisans, to be stored in a database. This information will be used to populate a directory of artisans on a business's website, enabling users to easily find and connect with local artisans. The form should be completed by artisans themselves to provide an accurate and up-to-date representation of their business. 
-
-This form appears to be a basic information-gathering form for artisan vendors, and it should be completed by the artisan vendor who is providing the information. 
-
-The artisan vendor form should not be a replacement for existing vendor management systems, but rather a supplement to enhance the online presence of vendors.
-
-</thinking>
-
 # craftsartisan_vendor_form - Help Guide
 ## Purpose
 

@@ -1,16 +1,3 @@
-<thinking>
-To determine the form's purpose, we need to consider the context in which it's being used. Given the title "Shareholder Agreement Compliance Audit Form" and the input fields, it seems that the form is designed to collect information from shareholders about their agreement status, compliance issues, and other relevant details. This form is likely used in an organizational or corporate setting to ensure that shareholders are in compliance with certain agreements or regulations. The field types, such as "date", "text", "email", and "select_multiple", suggest that the form is intended to gather both general and specific information from shareholders.
-
-Upon reviewing the fields, it appears that the form is not overly complex, with most fields being optional. This might indicate that the form is used for general information gathering and compliance checks rather than a comprehensive audit.
-
-Given the form's simplicity and the fields included, it's likely that the form is used within a company or organization to ensure that shareholders are in compliance with certain regulations or agreements. The form could be used by internal personnel to verify that shareholders' information is up-to-date and in compliance with relevant laws or guidelines.
-
-Before creating the help guide, let's confirm that the form's purpose and fields align with the organization's requirements and regulations. If there are any discrepancies or clarifications needed, they should be addressed accordingly.
-
-With this understanding, we can now proceed to create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Shareholder Agreement Compliance Audit Form - Help Guide
 ## Purpose
 This form is used to ensure that shareholders are in compliance with certain agreements or regulations. It collects information about the shareholder's agreement date, contact details, and compliance status.

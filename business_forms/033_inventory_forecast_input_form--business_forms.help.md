@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to input and record forecast data for inventory management. This form will likely be used by inventory managers, purchasing agents, or other stakeholders to predict and track inventory levels. It is possible that this form will be used in conjunction with other forms or systems to ensure accurate and up-to-date forecasting.
-This form has several fields that need to be completed for accurate forecasting. It is likely that not all fields will be required for every instance of the form.
-The form will be used in conjunction with other system features and reports to analyze and present forecasting data in a meaningful way.
-</thinking>
-
 # Inventory Forecast Input Form - Help Guide
 
 ## Purpose

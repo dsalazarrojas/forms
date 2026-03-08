@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to assess the safety compliance of an automotive shop, ensuring the shop meets all necessary standards and regulations for a safe working environment. This form will help identify potential safety hazards and provide a rating of the shop's overall safety level. 
-
-Please note that this form is an original adaptation of the provided input schema and is not affiliated with any form platform. It is released under CC BY 4.0 and can be used, modified, and even sold with proper attribution.
-
-The form consists of multiple sections that cover various safety aspects, including inspection details, general safety areas, floor and walkway safety, equipment safety, personal protective equipment, hazardous materials, and overall assessment. Each section will have a brief explanation of its purpose and fields. 
-
-Before proceeding with the actual form completion, it is essential to note that this form is designed to assess the safety level of the shop, and it's not intended for other use cases, such as creating a new form from scratch or adapting to different industries.
-
-The overall structure of the form is designed to be simple, user-friendly, and easy to understand. Each question is straightforward, and the options are clearly defined, ensuring that the user can complete the form with ease.
-</thinking>
-
 # Automotive Shop Safety Checklist - Help Guide
 ## Purpose
 The Automotive Shop Safety Checklist is designed to help assess the safety compliance of an automotive shop, ensuring a safe working environment for employees and customers.

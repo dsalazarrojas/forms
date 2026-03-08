@@ -1,5 +1,3 @@
-<thinking>Designing a process assessment form requires identifying the key components and stakeholders involved in the design process, and ensuring that all relevant information is gathered and documented in a clear and consistent manner. This form aims to collect data about the design process, including the design team, team lead, stakeholders, and any feedback or comments received. The form should be designed to be user-friendly, with clear instructions and minimal complexity. Before filling out this form, ensure that you have a clear understanding of its purpose and are aware of the options and fields that are relevant to your specific use case. If you have filled this form before, you can skip this introduction and proceed to the instructions.</thinking>
-
 # design_process_assessment - Help Guide
 ## Purpose
 This form is designed to collect information about the design process, including the design team, team lead, stakeholders, and feedback or comments received.

@@ -1,5 +1,3 @@
-<thinking>...This guide is intended to help users understand the purpose and usage of the Construction Site Safety Inspection Form. This form is used to assess the safety conditions of a construction site and to identify any hazards or issues that require attention. This form will help site supervisors and inspectors to ensure that the site meets all safety regulations and to identify areas that need improvement. This form is not intended to be used in place of a comprehensive site safety plan, but rather as a tool to supplement it. This form should be used in conjunction with other safety measures and protocols already in place on the site... </thinking>
-
 # Construction Site Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to assess the safety conditions of a construction site and to identify any hazards or issues that require attention. It is intended to ensure that the site meets all safety regulations and to identify areas that need improvement.

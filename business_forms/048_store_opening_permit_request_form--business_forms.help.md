@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "store_opening_permit_request_form" that explains its purpose, completion process, and each field's meaning. This guide will be based on the provided YAML fields and aim to be concrete, concise, and practical. The form is designed to collect information for a store opening permit request, which typically involves gathering details about the store's operational hours, address, and owner's information. I will review the form fields and explain them in a way that is easy to understand for end-users.</thinking>
-
 # store_opening_permit_request_form - Help Guide
 ## Purpose
 The store opening permit request form is designed to collect information for a store opening permit request. This form is used to gather details about the store's operational hours, address, and owner's information, which will be reviewed and verified by the relevant authorities to ensure compliance with local regulations.

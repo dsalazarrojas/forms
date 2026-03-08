@@ -1,7 +1,3 @@
-<thinking>
-This form is for the purpose of establishing a legally binding agreement between a buyer and a seller for the purchase of a pet. The form should be used to ensure both parties understand the terms and conditions of the sale, including payment details, ownership transfer, and any other relevant information. Before continuing, please ensure that this form is not already in use for a different purpose and that you have the necessary approvals and authority to create and use this form.
-</thinking>
-
 # Pet Purchase Agreement - Help Guide
 
 ## Purpose

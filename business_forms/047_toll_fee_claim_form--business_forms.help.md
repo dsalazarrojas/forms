@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to claim toll fees for various business operations. The form is intended to capture information about the claimant, their business, and the details of the toll fee claim. It is used by businesses to submit claims for toll fees that they have incurred. This form is typically used in conjunction with other forms and systems to track and process toll fee claims.
-
-</thinking>
-
 # Toll Fee Claim Form - Help Guide
 ## Purpose
 This form is used by businesses to claim toll fees for various operations. Please submit your claim with accurate and relevant information to ensure timely processing.

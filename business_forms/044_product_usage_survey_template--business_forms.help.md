@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "product_usage_survey_template" form. This form is used to collect user information and feedback about their product usage. It appears to be part of a product feedback system, and its purpose is to gather data about how users interact with a product. The form consists of several fields that ask for personal and product-related information, as well as feedback on the product's usage frequency and satisfaction. The form is likely used by product managers or support teams to analyze user data and make informed decisions about product development and improvement.</thinking>
-
 # product_usage_survey_template - Help Guide
 ## Purpose
 This form is used to collect user feedback and information about their product usage. Please fill out this form to provide valuable insights that help us improve our product.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from buyers to facilitate communication and organization in real estate transactions. It should only be used by buyers who have a legitimate need to provide this information. The purpose of this form is to gather essential details about the buyer, including contact information, representation preferences, and agreement terms.
-
-This form will be used to collect information about buyers and their representation preferences. Please review each field carefully to ensure you provide accurate and relevant information.
-
-</thinking>
-
 # Buyer Representation Form - Help Guide
 ## Purpose
 The Buyer Representation Form is designed to collect information from buyers in order to facilitate communication and organization in real estate transactions. It should only be used by buyers who have a legitimate need to provide this information.

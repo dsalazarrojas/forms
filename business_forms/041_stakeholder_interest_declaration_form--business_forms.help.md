@@ -1,5 +1,3 @@
-<thinking>As an expert form designer, I will create a user-facing help guide for this stakeholder interest declaration form, ensuring that end users understand the form's purpose, how to complete it, and what each field means. This will be a thorough and concise guide, covering all 25 fields in the form, without assuming any internal business logic that is not provided in the YAML schema.</thinking>
-
 # stakeholder_interest_declaration_form - Help Guide
 ## Purpose
 This form is intended to capture the interests and commitments of stakeholders involved in a project. It is crucial to understand the stakeholder's name, position, interests, commitments, and comments to ensure effective collaboration and communication within the project team and stakeholders.

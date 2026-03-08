@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is designed for vendors to apply to be listed in the Visitor Center's directory. The form is meant to gather basic contact information and details about the vendor's business and products. 
 
 To ensure accuracy and completeness in our records, we kindly ask that you fill out this form carefully and without duplication. If you have previously submitted this form, please do not resubmit your application. 

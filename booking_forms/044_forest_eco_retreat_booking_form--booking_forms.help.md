@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to allow users to book a room in a forest eco retreat. It collects information from the user regarding their personal details, room preferences, and payment status. This form is intended for users who are interested in booking a room at the retreat, and the information collected will be used to finalize the booking process.
-
-The form has several sections that require user input, including guest name, email, contact number, checkin and checkout dates, room type, guest type, room number, room price, payment method, payment status, special requests, notes, confirm booking, confirm date, special info, additional info, and terms and conditions.
-
-The form requires all fields except "special_requests" and "notes" to be filled in. The "special_requests" and "notes" fields are optional and can be used for any additional comments or requests from the user.
-
-To complete this form, users will need to fill in the required fields and select the appropriate options for each section. The form will then be submitted, and the collected information will be used to finalize the booking process.
-</thinking>
-
 # forest_eco_retreat_booking_form - Help Guide
 ## Purpose
 The forest eco retreat booking form is designed to collect information from users to finalize a booking at the retreat. It is a comprehensive form that requires input on personal details, room preferences, and payment status.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect information from tenants and landlords about their agreement terms. The purpose of this form could be to create a record of the landlord-tenant agreement, which is a document that outlines the terms and conditions of the rental property. This record is probably used for administrative and regulatory purposes, such as for tax purposes or for the tenant's and landlord's protection. It's possible that this form is used by real estate agencies, property management companies, or government agencies to collect standardized data about rental properties. Before proceeding, please ensure you have the necessary permissions and approvals to fill out this form.
-</thinking>
-
 # landlord_tenant_agreement_declaration_form - Help Guide
 ## Purpose
 The Landlord-Tenant Agreement Declaration Form is used to create a record of the landlord-tenant agreement, which is a document that outlines the terms and conditions of the rental property.

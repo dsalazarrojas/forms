@@ -1,7 +1,3 @@
-<thinking>
-This is a form for determining an individual's or household's readiness to purchase a home, taking into account various financial metrics such as income, debt, credit score, employment status, and assets. The form aims to provide a comprehensive assessment of the individual's or household's financial situation, guiding them in their homebuying journey. To avoid duplication of effort, this form should only be used for initial consultations. Subsequent forms, such as the mortgage application form, will be used for more detailed financial analysis.
-</thinking>
-
 # Homeownership Readiness Consultation Form - Help Guide
 ## Purpose
 This form is designed to assess an individual's or household's readiness to purchase a home, providing a comprehensive evaluation of their financial situation.

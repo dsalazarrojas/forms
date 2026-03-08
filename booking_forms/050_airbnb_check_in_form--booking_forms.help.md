@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Airbnb Check In Form - Help Guide
 
 ## Purpose

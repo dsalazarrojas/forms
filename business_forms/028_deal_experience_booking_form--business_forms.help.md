@@ -1,9 +1,3 @@
-<thinking>
-This form is a comprehensive booking experience form for business dealings. Its primary purpose is to gather detailed information about a specific experience, including the customer's personal details, preferences, and agreements. The form is designed to provide a structured way to collect relevant information from customers to facilitate efficient and accurate experience creation, management, and reporting.
-
-This form is used for both new experiences and updates, so it may be filled out multiple times for a single customer.
-</thinking>
-
 # deal_experience_booking_form - Help Guide
 ## Purpose
 The deal_experience_booking_form is a comprehensive booking experience form used for gathering detailed information about a specific experience.

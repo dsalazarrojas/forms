@@ -1,13 +1,3 @@
-<thinking>
-
-To create a helpful guide for the user, let's break down the form's purpose, how to complete it, and field-by-field explanation.
-
-The purpose of this form is to collect information from the user for a car servicing quotation. The form is designed to gather details about the vehicle, services required, and preferences for the quotation. The user will input their contact information, vehicle details, service needs, and preferences for the quote.
-
-The goal is to provide a clear and concise guide for users to complete the form correctly and accurately.
-
-</thinking>
-
 # Car Servicing Quotation Form - Help Guide
 ## Purpose
 The Car Servicing Quotation Form is designed to collect information from you for a car servicing quotation. This form will help us understand your vehicle details, service needs, and preferences for the quote.

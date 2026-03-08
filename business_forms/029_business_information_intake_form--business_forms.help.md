@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect business information from prospective clients, helping us understand their needs and challenges. The form should only be used for clients seeking to engage our consulting services. Please ensure you are completing this form for the correct purpose.
-</thinking>
-
 # Business Information Intake Form - Help Guide
 ## Purpose
 The Business Information Intake Form is a tool used to collect essential details from prospective clients, enabling us to understand their business needs and challenges. This form is not intended for general information gathering or marketing purposes.

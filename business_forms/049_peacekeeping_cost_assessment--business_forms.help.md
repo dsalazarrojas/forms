@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is likely to assess the costs associated with peacekeeping efforts. This form may be used to record actual and estimated costs in different currencies, allowing for a comprehensive analysis of costs. However, this explanation is based on the provided YAML fields, and there might be a more specific and detailed purpose that is not visible here. 
-It is essential to double-check that the form is not being duplicated or that the data entered in this form is not already recorded elsewhere in the organization, to avoid data redundancy and inconsistencies. 
-
-</thinking>
-
 # Peacekeeping Cost Assessment - Help Guide
 ## Purpose
 The Peacekeeping Cost Assessment form is used to record and analyze actual and estimated costs associated with various peacekeeping efforts.

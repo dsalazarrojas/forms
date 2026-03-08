@@ -1,8 +1,3 @@
-<thinking>
-**Internal Note to Reviewers and Decision Makers**
-This form is a general template designed to collect information about industry partnerships. Its primary purpose is to gather necessary details about the partnership category, institution, business partners, and contact information for the partnership. The form's layout and design might not perfectly match those of any existing form platform. Please review and adapt it according to your organization's specific needs and guidelines.
-</thinking>
-
 # Industry Partnership Authorization Form - Help Guide
 ## Purpose
 This form is designed to collect information about industry partnerships between your organization and external business partners. The form will help you understand the nature of the partnership, identify key stakeholders, and gather contact information.

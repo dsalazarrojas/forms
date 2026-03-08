@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in a business setting to conduct a cost-benefit analysis for a project. The purpose of the form is to assess the costs and benefits of a project, taking into account various factors such as project type, cost frequency, and risk rating. To ensure accurate and comprehensive data collection, it is essential to complete the form accurately and consistently. Please ensure that you are completing the correct form and that the information provided is up-to-date and relevant.
-</thinking>
-
 # Cost Benefit Analysis Audit Form - Help Guide
 ## Purpose
 The Cost Benefit Analysis Audit Form is a document used to evaluate the costs and benefits associated with a project. It helps to identify potential issues and areas of improvement, enabling informed business decisions and resource allocation.

@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect information about the brand products from a customer. The form is used to gather data for various purposes, such as calculating shop totals, sending shop prices, and managing customer contacts. To ensure that this form is not used for duplicate or unnecessary purposes, please consider the following:
-
-- Is this form necessary for your business process? 
-- Are you collecting data for a specific reason, such as calculating shop totals or sending shop prices?
-- Are you using this form for a one-time transaction or as an ongoing process?
-
-If you answered "no" to any of these questions, you may want to reconsider using this form or modify it to fit your specific needs.
-</thinking>
-
 # yonnired_brand_products - Help Guide
 ## Purpose
 This form is used to collect information about brand products from a customer, including shop on form, total price, customer contact, shop total, customer phone, shop complete, shop price, customer email, shop send, and send time.

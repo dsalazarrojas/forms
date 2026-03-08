@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for ordering business cards. This form is likely intended to be used by customers or employees to provide contact information and details for card production, such as quantities, sizes, and card stock. The form likely serves as a template for generating business cards. The form's fields are divided into several sections, with a mix of required and optional fields. The fields are mostly focused on the card's physical properties and production details rather than the card's content or design. The form also asks for payment information. 
-
-Before proceeding, ensure that you have the necessary permissions and information before filling out this form, and that the provided details are accurate and complete.
-
-To fill out this form correctly, ensure that all required fields are filled out. The form is likely used for business purposes, so ensure that you have the necessary information and permissions before proceeding.
-
-The form's fields are divided into several categories, with some sections being more important than others. Ensure that you fill out the most important fields first. Some fields are optional and can be filled out if necessary.
-
-</thinking>
-
 # Business Card Order Form - Help Guide
 ## Purpose
 The Business Card Order Form is used to collect information for ordering business cards.

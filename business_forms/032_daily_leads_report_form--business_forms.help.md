@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track the daily leads report, which helps management and sales teams understand the progress of leads through each stage of the sales process. This form is typically used by sales and account management to document and report on the daily activities related to leads, ensuring accurate and up-to-date information for data-driven decision-making and performance evaluation.
-</thinking>
-
 # Daily Leads Report Form - Help Guide
 ## Purpose
 The Daily Leads Report Form is used to document and report on the daily activities related to leads, providing accurate and up-to-date information for data-driven decision-making and performance evaluation.

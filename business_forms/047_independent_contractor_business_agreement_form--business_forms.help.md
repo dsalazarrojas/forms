@@ -1,19 +1,3 @@
-<thinking>
-This form is designed for independent contractors and freelancers to provide a formal agreement between the contractor and the business or organization they are working with. The form aims to establish clear terms and conditions for the contract duration, payment frequency, payment method, and other important details. To ensure a smooth collaboration, it is essential to complete the form accurately and carefully.
-
-Please note that this is a standard template, and actual business practices and laws may vary depending on the specific country or region. It is crucial to review and adapt the agreement according to local regulations and laws.
-
-Before proceeding, let's break down the fields and their intended use case:
-
-* The form includes various sections for contractor and business details, payment terms, and contract specifics.
-* The payment frequency and method are critical components of the agreement.
-* The contract start and end dates are essential for defining the contract duration.
-* The payment amount and frequency are also crucial components of the agreement.
-* The agreement type and description are areas for the business and contractor to discuss and agree on.
-
-With the following guide, users will be able to complete the form accurately and efficiently.
-</thinking>
-
 # Independent Contractor Business Agreement Form - Help Guide
 ## Purpose
 This form is designed to establish a clear and formal agreement between independent contractors and businesses or organizations for projects or services. It helps to define terms and conditions for payment, contract duration, and other essential details.

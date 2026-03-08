@@ -1,7 +1,3 @@
-<thinking>
-Radar technology assessment form is used to collect feedback about the performance and characteristics of a radar system. It is essential to ensure that the form is completed accurately and thoroughly to provide valuable information for system improvement. To confirm that this form is being used correctly, please verify that you are completing the radar technology assessment for a specific system and not duplicating efforts. The form should not be used for systems that are no longer in use or for general feedback about non-radar systems.
-</thinking>
-
 # radar_technology_assessment - Help Guide
 ## Purpose
 The radar technology assessment form is used to collect information about the performance and characteristics of a radar system.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their omnichannel customer experience. It will help us understand their preferences and needs, allowing us to improve our services. This form is not intended for immediate sales or marketing purposes but rather for internal use. Please make sure to fill it out accurately and honestly.
-</thinking>
-
 # Omnichannel Customer Experience Application Form - Help Guide
 ## Purpose
 The form is used to collect customer feedback on their omnichannel customer experience. It helps us understand your preferences and needs, allowing us to improve our services for better customer satisfaction.

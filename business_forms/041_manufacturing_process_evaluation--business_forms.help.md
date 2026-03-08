@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Manufacturing Process Evaluation" form, which is designed to evaluate the manufacturing process of a company. This form will help users assess the effectiveness and risks associated with the manufacturing process. To ensure that users understand the purpose and relevance of the form, we need to check if it's being used for a specific project or process evaluation and if it's not a duplicate effort.
-
-Assuming this form is relevant and not a duplicate, let's proceed with creating the help guide.
-
-</thinking>
-
 # Manufacturing Process Evaluation - Help Guide
 ## Purpose
 The Manufacturing Process Evaluation form is designed to assess the effectiveness and risks associated with a company's manufacturing process. This form helps users evaluate the process steps, safety checklist, quality control, critical control points, process risk, safety training, equipment list, critical control points details, quality control details, process steps details, and safety checklist details.

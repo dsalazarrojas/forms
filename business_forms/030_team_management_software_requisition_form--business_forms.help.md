@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information for team management software requisitions. It's crucial to fill it out accurately and completely to ensure that the software requests are processed correctly. Please review the form carefully before submitting it. 
-</thinking>
 # Team Management Software Requisition Form - Help Guide
 ## Purpose
 This form is used to collect information for team management software requisitions. Please fill it out accurately and completely to ensure that your software requests are processed correctly.

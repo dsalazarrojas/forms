@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to request corporate credit card information from employees. The form is intended for internal use within a company to manage and track employee credit card requests. 
-
-To ensure that the form is used correctly, please note the following:
-
-* This form is for corporate credit card requests only. Personal credit card information is not intended to be collected here. 
-* Please use this form to submit new requests, and do not reuse previous forms for this purpose. 
-
-If the form is completed for personal use, or a request is already active, it will be removed.
-
-</thinking>
-
 # corporate_credit_card_request_form - Help Guide
 
 ## Purpose

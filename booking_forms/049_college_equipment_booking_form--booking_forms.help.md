@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for booking college equipment for various purposes such as classes, research, events, and personal projects. The form requires the requester to provide their name, email, phone number, status, department, and other relevant details to ensure the equipment is booked and returned on time. The form also includes fields for equipment category, specific items, and quantity needed, as well as pickup and return dates and times. The requester is also required to acknowledge their understanding of the equipment value, liability agreement, and care agreement.
-
-</thinking>
-
 # College Equipment Booking Form - Help Guide
 
 ## Purpose

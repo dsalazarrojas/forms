@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their experience with business card templates, specifically to understand their support needs. It will help us identify areas of improvement and provide better assistance to customers in the future. By filling out this form, customers can provide details about their business card template issues, such as template download problems, editing concerns, or printing issues. The form will collect information on the template version, software used, and the customer's preferred support method. This will enable our support team to efficiently address the customer's concerns and provide the best possible support.
-
-</thinking>
-
 # Business Card Template Support Questionnaire - Help Guide
 ## Purpose
 

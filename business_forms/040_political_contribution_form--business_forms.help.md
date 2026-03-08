@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about political contributions. It is crucial to ensure that the information provided is accurate and up-to-date. Before proceeding, please review the form carefully to avoid duplication of efforts. The form is divided into multiple pages, each with its own set of fields. Please fill out each field as instructed, and do not leave any fields blank if they are marked as required.
-</thinking>
-
 # political_contribution_form - Help Guide
 ## Purpose
 The political contribution form is used to record and report political contributions made to a campaign or election-related activity. This form is essential for tracking and monitoring financial transactions that may be subject to regulatory requirements and reporting obligations.

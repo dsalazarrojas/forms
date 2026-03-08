@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from restaurant customers to request a quote for printing their menu designs. This form will ask for the restaurant name, contact person, phone number, email address, menu design file, menu size, color scheme, and print quality. The purpose of this form is to ensure that we have all the necessary information to provide an accurate quote for the printing service. We should only show this form to customers who have not previously submitted a quote request for menu printing, to avoid duplication of effort.
-</thinking>
-
 # Menu Design Printing Quote Request Form - Help Guide
 ## Purpose
 This form is used to request a quote for printing your menu designs. Please fill out the form below to provide us with the necessary information.

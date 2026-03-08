@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to record inbound delivery information for warehouse management. The form is intended to be used by warehouse staff to document and track deliveries, including details such as delivery dates, slip numbers, customer contact information, and delivery status. When completing this form, ensure that you are accurately capturing all relevant information to maintain accurate records and facilitate efficient delivery management. This form is not intended for duplicate entries, so please verify that the delivery has not already been recorded before submitting a new entry.
-</thinking>
-
 # Inbound Drop Record Form - Help Guide
 ## Purpose
 The Inbound Drop Record Form is used to document and track inbound deliveries, ensuring accurate records and efficient delivery management.

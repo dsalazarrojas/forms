@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to collect hotel guest information, likely for check-in purposes. It's likely used in the hotel industry to gather essential details about arriving guests. I'll create a help guide that's practical and easy to understand.
-</thinking>
-
 # Hotel Guest Information Form - Help Guide
 ## Purpose
 This form is designed to collect basic information about hotel guests for check-in purposes. This includes gathering details about their name, email, and dates of stay.

@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to create a user-friendly and accessible booking form for floral design setup. The form's main purpose is to collect necessary information from customers to facilitate the creation of their desired floral arrangement. Before proceeding, please ensure that you are not duplicating this form or using it for any purpose that is not in line with its intent. This form is designed to be a straightforward and easy-to-use interface for customers to input their preferences and contact details.
-</thinking>
-
 # Floral Design Setup Booking Form - Help Guide
 ## Purpose
 This form is designed to collect general information, design preferences, and contact details from customers who want to book a floral setup. The goal is to gather all necessary details to create a custom-designed floral arrangement.

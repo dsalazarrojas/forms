@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Climbing Booking Form - Help Guide
 ## Purpose
 

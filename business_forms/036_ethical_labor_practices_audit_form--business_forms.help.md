@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about an organization's labor practices, which is crucial for ensuring compliance with labor laws and regulations. The purpose of this form is to gather data about the organization's policies, procedures, and procedures in place for handling labor-related issues. This information will be used to identify areas of improvement and ensure that the organization is meeting its ethical and legal obligations. Before filling out this form, please ensure that you have the necessary information and authorization to complete it accurately.
-</thinking>
-
 # Ethical Labor Practices Audit Form - Help Guide
 
 ## Purpose

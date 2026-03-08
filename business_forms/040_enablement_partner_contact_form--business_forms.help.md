@@ -1,12 +1,3 @@
-<thinking>
-Enablement Partner Contact Form is a crucial tool for communication between Enablement Team and our partners. It serves as a platform for partners to submit their inquiries, feedback, and suggestions to our team. This form is designed to collect relevant information from our partners and enable them to effectively communicate their needs and requirements to us.
-
-We will use this form to track and manage the partner inquiries. It is essential to fill out this form accurately and completely to ensure that your message reaches our team and we can address your concerns promptly.
-
-This form will not be used for any other purpose except for internal communication with our partners. If you are unsure about the form or its purpose, please reach out to our support team for clarification.
-
-</thinking>
-
 # Enablement Partner Contact Form - Help Guide
 ## Purpose
 This form is used to collect contact information and inquiries from our Enablement Partners. It's essential to fill out this form accurately and completely to ensure that your message reaches our team and we can address your concerns promptly.

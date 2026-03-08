@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insider Trading Disclosure Form - Help Guide
 ## Purpose
 The Insider Trading Disclosure Form is designed to gather information about trades made by company insiders. This form helps to ensure that all trades are properly documented and reported, as required by applicable laws and regulations.

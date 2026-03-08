@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about a room's condition, photos, and inspection details. It's likely used by facilities management staff to inspect rooms and document their findings. Please review the form fields to ensure you're providing all necessary information. Note that some fields are optional and might be filled in later. Ensure you're not duplicating effort by using existing records when possible.
-
-</thinking>
-
 # Room Entry Inspection Report - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before you begin, let's clarify the purpose of this form. The "Event Inventory Request Form" is used to collect essential details about an event in order to better understand the inventory needs and requirements for a specific time period. This form will help the team to manage and plan the inventory more efficiently. Please ensure that you complete the form accurately and truthfully, without duplicating existing events or providing irrelevant information. The form will ask for general details about the event such as date, time, venue, type, and contact information. Please fill out each field carefully to ensure a successful request. This form is intended for internal use and is only accessible to authorized personnel.</thinking>
-
 # Event Inventory Request Form - Help Guide
 
 ## Purpose

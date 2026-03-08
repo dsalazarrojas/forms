@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: This form is designed to assess an individual's experience of pain, specifically regarding their perceived level of pain intensity, pain frequency, and related symptoms.
-Form design: This form contains 9 questions, each addressing a different aspect of pain, such as pain intensity, frequency, or type.
-Relevance: This form should be administered by healthcare professionals or individuals trained in pain assessment, as the questions are intended to be answered based on personal experience.
-Non-duplication: No similar form has been found in public surveys or datasets, indicating that this form is an original adaptation.
-</thinking>
-
 # Pain Disability Test Form - Help Guide
 ## Purpose
 The Pain Disability Test Form is designed to assess an individual's experience of pain, specifically regarding their perceived level of pain intensity, pain frequency, and related symptoms.

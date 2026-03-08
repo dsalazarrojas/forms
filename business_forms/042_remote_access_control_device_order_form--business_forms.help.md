@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for ordering remote access control devices. The form will be used by sales and customer support teams to process and fulfill orders. Before completing this form, please ensure that you have reviewed all the fields carefully and that the information you provide is accurate and up-to-date. Please do not submit duplicate orders or incomplete information.
-</thinking>
-
 # Remote Access Control Device Order Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking> 
-This form is a "Business Registration Certificate Amendment Form" used for amending an existing business registration certificate. This form is used for making changes to the business registration details such as name, address, owner or manager, and contact information. It is crucial to ensure the information provided is accurate and up-to-date to avoid any potential issues. Please verify that the form is relevant to your specific situation and that you have all the necessary information to complete it accurately.
-
-</thinking>
-
 # Business Registration Certificate Amendment Form - Help Guide
 ## Purpose
 The Business Registration Certificate Amendment Form is used to make changes to an existing business registration certificate. This includes updating the business name, address, owner or manager information, and contact details.

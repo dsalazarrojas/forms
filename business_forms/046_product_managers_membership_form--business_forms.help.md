@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about product managers who are interested in joining a membership program. The purpose of this form is to gather contact information, job titles, and team affiliations to facilitate communication and collaboration within the membership. The form should only be filled out by product managers who have not already been added to the membership list. This information will help us understand who's in the membership and ensure that we can contact them with important updates and news.
-</thinking>
-
 # product_managers_membership_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about product managers who are interested in joining a membership program.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide an inspection checklist for locomotives. The form is likely used to document the inspection of locomotives, ensuring that they are in good working condition before use. It is possible that this form is part of a larger process for maintaining or operating locomotives, and is used to track the status of locomotives across different criteria such as type and location. To avoid duplication, it's likely that this form will be used in conjunction with other forms that track the status of locomotives over time, such as maintenance records or usage logs.
-</thinking>
-
 # Locomotive Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to provide a detailed inspection checklist for locomotives. It helps the inspector to ensure that all critical aspects of the locomotive are checked and recorded.

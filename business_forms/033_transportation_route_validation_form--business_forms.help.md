@@ -1,11 +1,3 @@
-<thinking>
-This form is used to validate transportation routes, ensuring that all necessary information is collected and documented accurately. The form should only be filled out when the user needs to report on a transportation-related activity, such as a shipment or a delivery. 
-
-To ensure accuracy and consistency, please fill out the form completely and correctly. This includes all required fields and any relevant additional information.
-
-Before proceeding, please make sure to have the necessary documents and information readily available to complete the form accurately. This will help ensure that the form is filled out correctly and that all necessary information is collected.
-</thinking>
-
 # Transportation Route Validation Form - Help Guide
 ## Purpose
 The Transportation Route Validation Form is used to gather information about transportation-related activities, such as shipments and deliveries.

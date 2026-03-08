@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's quickly review the purpose and content of this form. The "Customs Declaration Communication Form" is a crucial document used in international trade to communicate essential information between parties involved in the custom declaration process. This form is used to gather information about the goods being imported or exported, including details about the customer, goods, contact person, and payment information. It's essential to ensure accuracy and completeness in filling out this form to avoid delays or complications in the custom declaration process.</thinking>
-
 # Customs Declaration Communication Form - Help Guide
 ## Purpose
 The Customs Declaration Communication Form is a document used to communicate essential information between parties involved in the custom declaration process. It helps ensure accuracy and completeness in the declaration process.

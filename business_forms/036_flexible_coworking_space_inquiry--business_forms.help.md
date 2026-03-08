@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to inquire about a flexible coworking space. The purpose of this form is to gather information from potential clients or users about their space needs, contact details, and other relevant information. It's likely used for sales or business development purposes.
-
-Before proceeding, please ensure that you are not submitting this form multiple times for the same space or with duplicate information, as this may cause confusion and delay the inquiry process.
-
-</thinking>
-
 # Flexible_Coworking_Space_Inquiry - Help Guide
 ## Purpose
 

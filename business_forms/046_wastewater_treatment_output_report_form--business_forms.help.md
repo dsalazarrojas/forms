@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the performance and output of wastewater treatment plants. This form likely serves as a reporting tool for operators or managers to document and monitor the treatment process, water quality, and contact details of personnel involved. The form's purpose is relevant to the "business_forms" category, which implies it's a standard business-related form. To ensure the form is being used correctly, it's essential to understand its purpose and how to fill it out accurately. This guide aims to clarify the form's intent and each field's meaning to prevent misinterpretation and potential errors.
-</thinking>
-
 # Wastewater Treatment Output Report Form - Help Guide
 ## Purpose
 This form is designed to collect and document performance and quality data from wastewater treatment plants. It's meant for operators or managers to report and monitor key data points.

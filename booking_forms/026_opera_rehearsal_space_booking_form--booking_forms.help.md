@@ -1,19 +1,3 @@
-<thinking>
-To create an effective help guide for the "Opera Rehearsal Space Booking Form", we need to consider the purpose of the form and the fields it contains. This form is designed to allow users to book and manage rehearsal spaces for events, likely for events like concerts, performances, or other performances. 
-
-The form appears to be a simple, 7-field form that includes the following fields:
-- Production Name
-- Performance Date
-- Start Time
-- End Time
-- Event Organizers
-- Event Coordinators
-- Event Producers
-
-Given the fields and the form's likely purpose, I will create a help guide that explains each field's purpose and how to complete the form.
-
-</thinking>
-
 # Opera Rehearsal Space Booking Form - Help Guide
 ## Purpose
 This form is used to book and manage rehearsal spaces for performances. Please fill out the form with accurate information to ensure a smooth and efficient booking process.

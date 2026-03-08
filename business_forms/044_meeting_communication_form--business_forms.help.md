@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate communication between participants and meeting organizers before, during, and after meetings. Meeting participants can use it to share their agenda, provide feedback, and outline follow-up actions. This form will help meeting organizers understand the attendees' expectations, needs, and tasks assigned. This form is suitable for meetings where multiple participants are involved, such as conferences, workshops, or training sessions.
-</thinking>
-
 # Meeting Communication Form - Help Guide
 ## Purpose
 This form is intended for meeting participants to share information, give feedback, and outline actions before, during, and after the meeting.

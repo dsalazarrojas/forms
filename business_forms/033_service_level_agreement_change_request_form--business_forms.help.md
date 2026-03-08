@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to request changes to the Service Level Agreement (SLA) between your company and a third party or vendor. This form is used to submit a request for changes to the existing SLA, which may include changes to the terms, conditions, or scope of the agreement. Before proceeding, please ensure that the request is not a duplicate and that it has been discussed and approved by the relevant stakeholders.
 
 ## Service Level Agreement Change Request Form - Help Guide

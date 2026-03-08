@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a student housing allocation booking form, designed to collect information from students to book a room or accommodation. The form appears to be intended for students to provide their personal details, accommodation preferences, and other relevant information to book a room in a student housing facility. I'll assume that this form is used to manage student accommodations and bookings within a university or educational institution.
-</thinking>
-
 # Student Housing Allocation Booking Form - Help Guide
 ## Purpose
 This form is used to book a student accommodation or room in a student housing facility. It collects personal details, accommodation preferences, and other relevant information to ensure a smooth booking process.

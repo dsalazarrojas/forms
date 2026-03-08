@@ -1,7 +1,3 @@
-<thinking>
-I will create a comprehensive help guide for the "meeting_room_reservation_form" form.
-</thinking>
-
 # meeting_room_reservation_form - Help Guide
 ## Purpose
 The meeting_room_reservation_form is used to reserve a meeting room. This form is intended for employees to reserve a meeting room with their name, meeting ID, room selection, and topic.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users for a courier service quotation. It collects basic user details, service request, pick-up details, drop-off details, payment method, special instructions, and estimated pick-up time. This form is likely to be used by a business or organization offering courier services to collect relevant data from clients.
-</thinking>
-
 # Courier Service Quotation Form - Help Guide
 ## Purpose
 The Courier Service Quotation Form is a tool designed to gather essential information from users for a courier service quotation. It collects user details, service request, pick-up and drop-off details, payment method, special instructions, and estimated pick-up time to provide a quote for the courier service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for billing purposes at a spa, and its purpose is to collect information about the services provided to a client, including the type of service, date, time, charges, and payment method. It's likely used by spa owners or staff to track and manage spa services and payments.
-</thinking>
-
 # Spa Services Billing Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Statement Access Form - Help Guide
 ## Purpose
 This form is used to request access to financial documents, allowing users to submit their requests with relevant information such as access level, contact details, and reason for request. It is intended for internal use, and the information collected will be reviewed and evaluated to grant access accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from potential partners for product personalization, a service that allows businesses to tailor their products or services to the specific needs and preferences of their customers. The form is intended to be completed by representatives from companies that are interested in learning more about this service and potentially partnering with our organization. The goal is to gather contact information and other relevant details about the company, as well as their interest in product personalization. This form is not intended for general inquiry or sales pitches; it's specifically for those who are looking to create a meaningful partnership or collaboration. Please ensure that you are filling out this form for the right purpose and not duplicating efforts. If you're not sure, it's best to reach out to our organization directly for clarification.
-</thinking>
-
 # Product Personalization Partnership Application - Help Guide
 ## Purpose
 This form is designed to help you, as a representative from a company, express your interest in our product personalization partnership opportunity. It will guide you through collecting necessary information about your company and your interest in working with us.

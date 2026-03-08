@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers or external parties to contact the packaging return coordination team with questions, concerns, or issues related to packaging returns. This form is not intended for internal use within the company, but rather for external communication. It is possible that the form will be filled out by customers or partners, so it's essential to ensure that the fields are clear and easy to understand. To avoid duplication of work, the form should only be used for new requests or issues that are not already being addressed through other channels.
-</thinking>
-
 # Packaging Return Coordination Contact Form - Help Guide
 ## Purpose
 The Packaging Return Coordination Contact Form is used to contact the packaging return coordination team with questions, concerns, or issues related to packaging returns. This form allows external parties to provide contact information and a brief description of the issue.

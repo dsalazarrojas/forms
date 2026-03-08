@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Secret Information Form - Help Guide
 ## Purpose
 

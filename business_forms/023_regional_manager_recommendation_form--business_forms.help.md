@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information and recommendations from regional managers. Regional managers are being asked to provide feedback on their regional performance, goals, and challenges. The form is intended to be completed by regional managers, and the information collected will help inform regional business decisions.
-
-Before filling out this form, please ensure you have a clear understanding of the purpose and content of the form. It is recommended that you complete the form in one session to ensure accuracy and consistency in your responses.
-
-If you have already completed this form, please review your previous responses before resubmitting to avoid duplication of effort.
-
-</thinking>
-
 # Regional Manager Recommendation Form - Help Guide
 ## Purpose
 This form is designed to gather information and recommendations from regional managers on their regional performance, goals, and challenges.

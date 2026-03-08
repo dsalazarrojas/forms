@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to register property insurance policy renewals. This guide will cover the essential elements of the form, helping users understand its purpose and how to complete it efficiently. The form is meant for individuals or organizations renewing their property insurance policies, ensuring accurate and up-to-date information is provided. Before proceeding, ensure you have all necessary information and documentation ready, such as policy numbers, contact details, and property details. Please review the form carefully and fill it out accurately to avoid any discrepancies or delays in the renewal process.
-</thinking>
-
 # Property Insurance Renewal Registration Form - Help Guide
 ## Purpose
 The Property Insurance Renewal Registration Form is designed to gather essential information for the renewal of property insurance policies. This form helps ensure accurate and timely renewal processing by providing a standardized platform for collecting relevant details.

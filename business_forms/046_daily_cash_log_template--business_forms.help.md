@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to help businesses and individuals track their daily cash transactions. It's used for documenting income and expenses, refunds, transfers, and other cash-related activities. The form should not be used for non-cash transactions or other types of financial records. This form is a general-purpose template, so you should only use it for recording daily cash transactions.
-</thinking>
-
 # Daily Cash Log Template - Help Guide
 ## Purpose
 The Daily Cash Log Template is used to document and record daily cash transactions, including income and expenses, refunds, transfers, and other cash-related activities.

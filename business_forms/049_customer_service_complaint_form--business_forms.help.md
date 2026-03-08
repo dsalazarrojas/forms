@@ -1,5 +1,3 @@
-<thinking>As a customer service complaint form, the purpose of this form is to gather information from customers about their issues or concerns they experienced with the company's products or services. This form is designed to collect as much detail as possible to help the customer service team investigate and resolve the problem efficiently. Before filling out the form, please ensure that you have not already submitted a complaint or issue report to the customer service team regarding the same incident, as duplicate reports may delay the resolution process.</thinking>
-
 # Customer Service Complaint Form - Help Guide
 
 ## Purpose

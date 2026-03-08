@@ -1,13 +1,3 @@
-<thinking>
-
-This form is called "<string> - Help Guide" and is intended to guide end users through the completion process. The form is designed to collect user feedback and information, with each page requiring text input from the user. To ensure clarity and consistency, the form is divided into four sections: "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips". 
-
-Upon reviewing the inputSchema, it appears that the form is a multi-page form with four pages, each page being a separate text input field. The first and third pages are required, while the second and fourth pages are optional. 
-
-This form is likely used for collecting user feedback, testimonials, or comments, given the repetitive structure of the form.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect user feedback and information through a series of text input fields. Each page of the form serves as an opportunity to provide detailed input.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a truck rental request form used to gather information from clients or end users to request a truck rental. Its purpose is to collect necessary details to facilitate the rental process. Before proceeding, please ensure that you are not duplicating an existing request or that the information is up-to-date and accurate.
-</thinking>
-
 # Truck Rental Request Form - Help Guide
 ## Purpose
 This form is designed to collect information required for a truck rental request. Please fill it out accurately and thoroughly to ensure a smooth rental process.

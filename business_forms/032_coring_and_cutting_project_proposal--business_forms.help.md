@@ -1,5 +1,3 @@
-<thinking> ...</thinking>
-
 # coring_and_cutting_project_proposal - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employees who have worked extra shifts at a workplace. The form's purpose is to record and track these extra shifts. It is likely used by management or HR to monitor and manage employee schedules and overtime. The form is not intended for public display, but rather for internal use within the workplace.
-</thinking>
-
 # Extra Shift Form - Help Guide
 ## Purpose
 The Extra Shift Form is a data collection tool used to record extra shifts worked by employees. This form helps management or HR to monitor and manage employee schedules and overtime.

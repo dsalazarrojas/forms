@@ -1,11 +1,3 @@
-<thinking>
-To ensure that the form purpose is clear and the form is not duplicated, let's go through the form's purpose and content. This form is designed to request a free brand audit, a process to analyze and improve a business's brand image and reputation. 
-
-The form aims to gather information about the business, its purpose, and communication preferences. It also collects data on the business's expected outcome from the audit, experience level with branding and marketing, and any additional requirements such as the expected duration of the audit process and interest in paid services. 
-
-The form's content and purpose should be reviewed to ensure consistency with the business goals and to avoid duplication of efforts.
-</thinking>
-
 # Free Brand Audit Request Form - Help Guide
 ## Purpose
 This form is designed to request a free brand audit, a process to analyze and improve your business's brand image and reputation. We'll use this information to provide you with expert guidance on how to enhance your brand's online presence.

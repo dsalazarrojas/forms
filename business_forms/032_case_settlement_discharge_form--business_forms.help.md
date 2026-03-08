@@ -1,5 +1,3 @@
-<thinking>Before filling out the Case Settlement Discharge Form, please ensure that the case has been properly settled and that all relevant information is accurate and up-to-date. This form should not be completed if the case is still pending or if there are any outstanding issues. Review the form carefully and fill it out only once the settlement is final and all parties have agreed.</thinking>
-
 # Case Settlement Discharge Form - Help Guide
 ## Purpose
 The Case Settlement Discharge Form is used to formalize the discharge of claims after a settlement has been reached. This form provides a detailed record of the settlement details, including the parties involved, the scope of release, and the terms of the discharge.

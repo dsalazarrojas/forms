@@ -1,7 +1,3 @@
-<thinking>
-The form "Purchase Order Point Of Sale" is intended to collect relevant information from customers for a purchase order, including customer details, product information, and payment details. This form serves as a template for sales representatives to gather necessary data in a single, structured format. Before creating a purchase order, ensure that you have the relevant product and customer information. This form should not be used to create multiple orders for the same customer in different forms.
-</thinking>
-
 # Purchase Order Point Of Sale - Help Guide
 ## Purpose
 The Purchase Order Point Of Sale form is designed to collect all the necessary information for a single purchase order from a customer. It includes fields for customer details, product information, and payment details.

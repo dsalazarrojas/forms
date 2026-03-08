@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Workplace Assignment And Mobility Form - Help Guide
 ## Purpose
 This form is designed to collect information related to weekly workplace assignments and mobility. It is intended for use in a work environment where employees need to report their availability and schedule changes.

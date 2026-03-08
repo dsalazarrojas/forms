@@ -1,7 +1,3 @@
-<thinking>
-The Service Proposal Value Assessment form is designed to collect information about a proposed service's value and its impact on stakeholders. This form should only be used when assessing the value of a specific service proposal. Please ensure that you are not duplicating this assessment for the same service proposal or updating an existing assessment.
-</thinking>
-
 # Service Proposal Value Assessment - Help Guide
 ## Purpose
 This form is used to assess the value of a proposed service. It collects information on the benefits, costs, and overall value of the service, as well as feedback from stakeholders and decision-makers. The assessment helps to determine the feasibility and potential impact of the service.

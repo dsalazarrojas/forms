@@ -1,16 +1,3 @@
-<thinking>
-This form is used for booking a time slot for an esports event. It's likely used by event organizers to reserve a time slot for a team to compete in the event. The form's purpose is to collect information about the team and event details. This form is likely used for internal booking purposes, so the information collected will be used by the event organizers to manage the event schedule and team participation.
-
-To ensure that this form is used correctly, please make sure to fill out all required fields, which are:
-* Platform (you must choose one of the following: Twitch, Facebook, YouTube, or Google)
-
-The form is divided into two sections: Team Information and Event Information. 
-
-In the Team Information section, you will need to provide the team's details, including their name, email, and phone number. You will also need to specify the team leader's name.
-
-In the Event Information section, you will need to provide details about the event, including the event's name, date, and location. You will also need to specify the event's capacity and sponsor.
-</thinking>
-
 # esports_event_stream_slot_booking - Help Guide
 ## Purpose
 This form is used for booking a time slot for an esports event.

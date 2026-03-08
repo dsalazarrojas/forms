@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be a general business form designed to collect information from clients or customers about their design projects. It appears to be used for various purposes such as gathering contact information, project details, and specific design requirements. This form may be used in a business setting to streamline the process of collecting and managing design projects. However, it's not clear if this form is intended for a specific type of project or industry. It's worth checking if this form is not a duplicate of an existing form and if the fields are relevant to the business goals.
-
-</thinking>
-
 # Design Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from clients or customers about their design projects. It helps gather contact information, project details, and specific design requirements.

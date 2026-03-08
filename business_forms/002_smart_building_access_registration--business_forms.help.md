@@ -1,11 +1,3 @@
-<thinking>
-This guide will help end users understand the form purpose, how to complete it, and what each field means, ensuring they can register their smart building access efficiently.
-The form is designed for users to register their access to a smart building, providing information on their name, access level, access type, start date, end date, reason for access, contact name, and contact phone number. This guide will clarify each field's purpose and help users provide accurate and complete information.
-The form is intended to be filled out by the end user themselves, with the following fields: user name, building name, access level, access type, start date, end date, reason, contact name, and contact phone number. This guide will ensure the end user can fill out the form with the required information.
-The form does not have any conditional or branching logic that would affect its usage. However, it is essential to note that the form is used in a business context and may require specific access permissions and security clearances.
-The form can be used by anyone with access to the smart building, including administrators, managers, staff, and tenants. It is crucial to follow the instructions provided in this guide to ensure that the form is filled out correctly.
-</thinking>
-
 # Smart Building Access Registration - Help Guide
 ## Purpose
 The Smart Building Access Registration form is used for users to register their access to a smart building. This form provides a way for users to provide essential information about their access, which is vital for maintaining the security and efficiency of the building.

@@ -1,8 +1,3 @@
-<thinking>
-This form is for renewing a loan agreement. The purpose of this form is to collect necessary information to update the loan terms and status. The form is not intended for initial loan applications, and it's expected that the user already has an existing loan agreement. The form will guide the user through the steps to update their loan information.
-
-</thinking>
-
 # loan_agreement_renewal_form - Help Guide
 ## Purpose
 The loan agreement renewal form is designed to update the terms and status of an existing loan agreement. This form is not intended for initial loan applications or new loan requests. It's a tool for current borrowers to renew their loan agreements.

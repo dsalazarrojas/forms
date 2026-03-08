@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the fruit sale form template is to collect information from customers regarding fruit sales. This form is designed to gather essential details about the customer, their fruit preferences, and the order specifics. It appears to be a straightforward form for sales purposes, possibly for a fruit vendor or a market stall. The fields seem to be focused on gathering the customer's name, their preferred fruits, order quantity, contact information (email and phone), and the date and time of the order. This form likely serves as a template for sales transactions in a retail setting.
-</thinking>
-
 # fruit_sale_form_template - Help Guide
 ## Purpose
 The fruit sale form template is a tool for collecting customer information and order details for fruit sales transactions.

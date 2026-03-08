@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Signage Material Reuse Application Form - Help Guide
 
 ## Purpose

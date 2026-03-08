@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a "Flight Search Filters" tool designed to allow users to narrow down flight search results based on various criteria. It is likely used by travelers or travel agents to find the most suitable flight options given their specific needs. The form should help users identify and refine their search parameters to get accurate and relevant results.
-
-The form should only be used by authorized users who have access to flight search capabilities. To ensure that only one instance of this form exists, we should check if a similar form is already in use. If so, we should consider refactoring or merging the existing form content.
-
-The form is meant to gather specific user information that will allow for personalized flight searching. It does not require authentication or user registration to complete.
-
-</thinking>
-
 # Flight Search Filters - Help Guide
 ## Purpose
 The Flight Search Filters form is a tool designed to help users narrow down flight search results based on various criteria. This form is used to gather specific user information that will allow for personalized flight searching.

@@ -1,11 +1,3 @@
-<thinking>...
-
-The form is designed to collect information about a company's beverage logistics operations. The purpose of this form is to identify areas for improvement in a company's logistics processes and to provide a framework for understanding their current state and goals for optimization. By filling out this form, companies can provide detailed information about their business, including contact information, operational details, and specific challenges and goals. This will help the logistics optimization team understand their needs and provide tailored solutions.
-
-The form should only be filled out by authorized company representatives. If a company has already completed this form in the past, they should not fill it out again. Duplicate submissions can cause confusion and delay the optimization process.
-
-</thinking>
-
 # Beverage Logistics Optimization Registration Form - Help Guide
 ## Purpose
 The Beverage Logistics Optimization Registration Form is designed to collect information about your company's beverage logistics operations. The information collected will help us understand your current state and identify areas for improvement to provide effective logistics optimization solutions.

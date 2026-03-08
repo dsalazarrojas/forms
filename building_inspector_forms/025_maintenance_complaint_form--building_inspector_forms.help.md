@@ -1,10 +1,3 @@
-<thinking>
-This help guide will cover the "Maintenance Complaint Form" purpose and completion instructions, as well as a field-by-field explanation of each section.
-The form's primary purpose is to collect and record maintenance complaints from residents, allowing for prompt attention and resolution to be addressed. 
-It's essential to complete this form accurately and thoroughly to ensure that the issue is properly documented and assigned to the correct personnel. 
-This guide will walk you through the form's layout and each field's significance, making it easier for end-users to understand their responsibilities.
-</thinking>
-
 # Maintenance Complaint Form - Help Guide
 ## Purpose
 The "Maintenance Complaint Form" is used to document and report maintenance complaints from residents. This form collects essential information to help address and resolve the issue effectively.

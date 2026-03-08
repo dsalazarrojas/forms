@@ -1,7 +1,3 @@
-<thinking>
-In the context of research and development, it is essential to accurately and thoroughly document inventions and innovations to protect intellectual property rights, ensure accountability, and facilitate collaboration. This form is designed to capture detailed information about an invention, including the inventor's details, invention description, and related documentation. The form should not be used for duplicate submissions, and users must carefully review and submit complete and accurate information. The internal reasoning behind this form is to provide a structured and systematic approach to documenting inventions, ensuring that critical details are captured and recorded correctly.
-</thinking>
-
 # Invention Disclosure Declaration Form - Help Guide
 ## Purpose
 The Invention Disclosure Declaration Form is a standardized document used to collect detailed information about an invention. This form is essential for accurately capturing and documenting inventions, ensuring that intellectual property rights are protected, and facilitating collaboration among researchers and developers.

@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to collect information from guests about their vacation rental accommodation needs and preferences. 
-This form is intended for use in a specific business context, such as a vacation rental company, where guests need to provide details about their upcoming stay. 
-The form is not intended to be used in other contexts, such as medical or financial services, where different forms are likely to be needed. 
-</thinking>
-
 # Vacation Rental Accommodation Form - Help Guide
 ## Purpose
 The Vacation Rental Accommodation Form is designed to gather essential information from guests about their upcoming stay. This form helps the property manager to better understand the guest's needs and preferences, ensuring a more personalized and enjoyable experience.

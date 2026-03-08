@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about waste management facilities. It is intended for facilities that manage and dispose of waste in compliance with regulatory requirements. The form will be used to inspect the facility and gather information about its compliance with regulations.
-</thinking>
-
 # Waste Management Facility Inspection Form - Help Guide
 ## Purpose
 The Waste Management Facility Inspection Form is used to inspect and monitor waste management facilities to ensure compliance with regulatory requirements.

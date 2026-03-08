@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate mock interviews, where users can provide feedback on the performance of a candidate or a team during a mock interview. The form is intended to collect data on the quality of the mock interview, including the company name, interview date and time, duration, and evaluation scores for each of the 17 mock interview questions.
-The form does not appear to be redundant or duplicated, as each field has a unique "id" and "name" property. However, it's possible that some of the "mock interview score" fields may be intended for different purposes, such as evaluating different aspects of the candidate's performance.
-</thinking>
-
 # mock-interview-evaluation-form - Help Guide
 ## Purpose
 The "mock-interview-evaluation-form" is designed to collect feedback on mock interviews, allowing users to provide an assessment of the candidate's performance, the duration of the interview, and other relevant details.

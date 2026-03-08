@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from dealers for various business purposes. It is meant to be filled out by dealers who want to register themselves with our company. The form is not intended for internal employees or non-dealer users. Please ensure that you are filling out this form as a representative of an actual dealer.
-
-Before proceeding, check if you have already registered as a dealer with us. If you have, you may not need to fill out this form again. However, if you're not sure or need to update your information, please go ahead with filling out this form.
-
-</thinking>
-
 # Dealer Registration Form - Help Guide
 ## Purpose
 The Dealer Registration Form is used to collect information from dealers who want to register themselves with our company. This form is required for dealers to be listed in our database and to receive updates on our business activities.

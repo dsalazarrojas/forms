@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to filter and categorize delivery notes based on various criteria. The form allows users to apply filters on delivery notes based on their type, status, priority, category, customer, order number, shipment status, and other relevant details. The purpose of this form is to provide a quick and efficient way to search and manage delivery notes in the system.
-
-To ensure that the form is used effectively, it is essential to understand the meaning and purpose of each field. This guide will walk you through each field and provide a brief explanation of what it represents.</thinking>
-
 # Delivery Note Filters - Help Guide
 ## Purpose
 This form is designed to filter and categorize delivery notes based on various criteria.

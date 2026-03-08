@@ -1,12 +1,3 @@
-<thinking>
-This form is for booking a legal consultation with a law firm. It is used to schedule a meeting or session with a lawyer or paralegal. This form ensures that all necessary information is collected for the consultation. The fields are designed to be completed by a client or representative of a law firm.
-
-The primary goal of this form is to provide a structured approach to booking a legal consultation. The form is divided into several fields that cover the essential details of the consultation.
-
-Before filling out this form, please make sure you have the necessary information at hand.
-
-</thinking>
-
 # legalConsultationBookingForm - Help Guide
 ## Purpose
 The legalConsultationBookingForm is a form used to book a legal consultation with a law firm. It gathers information necessary for scheduling a meeting or session with a lawyer or paralegal.

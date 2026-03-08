@@ -1,7 +1,3 @@
-<thinking>
-The "fcs_daily_progress_report" form is designed to gather information on a daily progress report for business purposes. The form is intended for tracking and recording daily activities, progress, and comments. It should only be used for reporting on daily activities within the business scope. To avoid duplication of effort, please ensure that you are not submitting duplicate reports for the same day.
-</thinking>
-
 # fcs_daily_progress_report - Help Guide
 ## Purpose
 The fcs_daily_progress_report form is used to record daily activities, progress, and comments for business purposes.

@@ -1,11 +1,3 @@
-<thinking> 
-The purpose of this form is to monitor and track vendor payments. This form is likely used by business administrators or accountants to keep track of payments made to vendors, including the date of the payment, the status of the payment (e.g., pending, paid, or unpaid), the amount of the payment, the method of the payment (e.g., bank transfer, cash, check, or wire transfer), and any relevant notes or comments. The form may be used for internal record-keeping purposes only, and not intended for public submission or sharing outside the organization. 
-
-It is possible that the form is used for tracking payments for specific business partners or clients, and may be used to categorize or group payments by vendor or project. Without more information on the form's intended use, the above interpretation is based on the field names and types.
-
-Before starting, ensure that you are filling this form for the correct purpose and that all required fields are completed.
-</thinking>
-
 # Vendor Payment Monitoring Form - Help Guide
 ## Purpose
 This form is used to monitor and track vendor payments for your business. Please fill out the form to record payments made to vendors, including the date of the payment, the status of the payment, and other relevant details.

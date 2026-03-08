@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a Risk Assessment Approval Application Form. It appears to be used for assessing and managing risks within a business or organization. Before proceeding, ensure that you are aware of your organization's risk assessment process and have a clear understanding of the risks involved. It's also a good idea to ensure that you are not duplicating an existing risk assessment.
-</thinking>
-
 # risk_assessment_approval_application_form - Help Guide
 ## Purpose
 This form is used to assess and manage risks within your business or organization. It allows you to identify, evaluate, and prioritize risks, and to make informed decisions about their mitigation and approval.

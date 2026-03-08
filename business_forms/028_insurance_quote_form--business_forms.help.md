@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to insurance quotes for policyholders. This form is used to gather essential details such as policyholder's name, address, and contact information, as well as coverage details like coverage type, policy start and end dates, policy term years, policy limit, and payment method and amount. This form is likely to be used by insurance professionals to generate quotes for their clients.
-</thinking>
-
 # Insurance Quote Form - Help Guide
 ## Purpose
 This form is designed to collect information for an insurance quote. It is divided into sections that correspond to different aspects of an insurance policy.

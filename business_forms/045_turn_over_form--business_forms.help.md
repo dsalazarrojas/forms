@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form to help customers communicate their product returns. The form is called "turn_over_form." Its purpose is to collect information about a customer's product return request, including details about the product, the reason for return, the product condition, and customer contact information. This form is intended for customers to provide their return information and will likely be used by customer service representatives to process the return.
-</thinking>
-
 # turn_over_form - Help Guide
 ## Purpose
 The turn_over_form is designed to collect information from customers about their product returns. It helps customer service representatives process returns efficiently and effectively.

@@ -1,17 +1,3 @@
-<thinking>
-This form is for threat assessment. A threat assessment is a process used to identify, analyze, and evaluate potential risks to the organization. This form is used to gather information about the risk, including its level, type, description, and prevention and response strategies. The threat level is a score between 0 and 10, where 0 indicates no risk and 10 indicates the highest risk level. The risk type and description provide context for the risk assessment. The prevention and response strategies are used to describe how the risk can be mitigated or managed. This form is used by [insert users/teams] to document and track threat assessments. 
-
-This form is used in conjunction with other risk management processes and procedures within the organization. 
-
-Before filling out this form, please ensure that you are using the correct risk level and type for the risk being assessed. 
-
-Please ensure that you are not duplicating work by checking the risk database for existing threats before creating a new threat assessment. 
-
-Please note that this form is for threat assessment, not for creating a risk management plan or for taking action on the risk. Those activities should be handled through other processes and procedures.
-
-Please also note that the fields marked as optional are for information purpose only and can be filled out if desired, but are not required.
-</thinking>
-
 # Threat Assessment Form - Help Guide
 ## Purpose
 This form is for threat assessment. It is used to gather information about potential risks to the organization, and to document and track threat assessments.

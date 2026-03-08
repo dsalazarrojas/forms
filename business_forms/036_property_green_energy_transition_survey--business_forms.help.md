@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a property's green energy transition. It's a crucial tool for property owners, managers, or administrators to gather data on their properties' energy usage, upgrades, and contact details. Before filling out this form, please ensure you have a valid property to survey and haven't already completed this form for the same property. This form should only be filled out once for each property.
-</thinking>
-
 # Property Green Energy Transition Survey - Help Guide
 ## Purpose
 This form is intended for property owners, managers, or administrators to provide data on their properties' energy usage, upgrades, and contact details. It's a key component in assessing properties' progress in transitioning to green energy sources.

@@ -1,5 +1,3 @@
-<thinking>IT Support Contract Renewal Form is used by company representatives to provide information about their current contract with our IT support service. This form helps us to track and manage contracts and renewals. Please fill out this form accurately and completely to ensure we have all the necessary information to process your contract renewal correctly. Before filling out this form, please ensure that you have all the necessary information about your contract and renewal details.</thinking>
-
 # IT Support Contract Renewal Form - Help Guide
 ## Purpose
 The IT Support Contract Renewal Form is used to provide information about your company's current contract with our IT support service and to facilitate the renewal process.

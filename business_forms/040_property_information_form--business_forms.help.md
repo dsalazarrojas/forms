@@ -1,9 +1,3 @@
-<thinking>
-This guide is for the Property Information Form, a business form used to collect information about properties. The form is used to gather details about properties, including contact information, property type, and physical characteristics. This guide will cover the fields and instructions for completing the form. Before proceeding, please ensure you have a clear understanding of the form's purpose and the information required for submission.
-
-Please note that the form has multiple fields and options, and some fields are optional. Review each field's label and type to determine the required information. This guide will explain each field's purpose and provide instructions for completion.
-</thinking>
-
 # Property Information Form - Help Guide
 ## Purpose
 The Property Information Form is used to collect information about properties, including contact details, property type, and physical characteristics. This form is designed to gather essential data for property-related transactions.

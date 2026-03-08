@@ -1,14 +1,3 @@
-<thinking>
-
-To determine the internal reasoning behind the "Business Automation Checklist" form, I'll consider the following points:
-- **Form purpose**: The form is designed to gather information about a business's current state of automation, including their current automation level, tools, and pain points. It aims to provide a baseline for understanding where the business stands and identifying areas that need improvement or investment.
-- **Business goals**: The form likely helps identify potential opportunities for automation, determine the necessary investment and timeline for implementation, and understand the current technical and cultural readiness of the organization to undergo automation.
-- **User persona**: The form's design suggests it's intended for business decision-makers or IT professionals responsible for implementing automation solutions within a company.
-
-Considering these points, the form's internal reasoning block concludes that this form is a tool for evaluating a business's current automation state and identifying areas to be improved upon.
-
-</thinking>
-
 # Business Automation Checklist - Help Guide
 ## Purpose
 

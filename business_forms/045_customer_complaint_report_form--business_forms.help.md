@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about customer complaints, which is a standard process for businesses to address and resolve issues related to customer dissatisfaction. The form aims to gather essential details about the complaint, including the contact information of the customer, the category and subcategory of the complaint, and any relevant notes or follow-up actions. 
-The form is likely to be used by customer service representatives or management to identify and resolve customer complaints efficiently. 
-</thinking>
-
 # customer_complaint_report_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document customer complaints in a structured manner, allowing businesses to identify and address issues promptly.

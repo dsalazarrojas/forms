@@ -1,8 +1,3 @@
-<thinking>
-We have a form to collect information from manufacturing research liaisons, including contact information, research areas of interest, and manufacturing process and equipment details. This form is designed to help us better understand their needs and provide relevant information and resources. Please fill out this form carefully and accurately to ensure we can effectively assist you.
-We will review the form submissions to prevent duplicate or irrelevant requests. If you have already submitted a form, please do not resubmit it. If you have any questions or need further clarification, please contact us.
-</thinking>
-
 # Manufacturing Research Liaison Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from manufacturing research liaisons to help us better understand their needs and provide relevant information and resources.

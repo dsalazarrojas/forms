@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I've analyzed the provided YAML form definition and extracted relevant information to create a user-facing help guide for the "PTO Request Form". This form is likely used for employees to request paid time off (PTO) from their manager. The form's primary purpose is to capture essential information to facilitate the approval process. To complete this form, follow the steps below.</thinking>
-
 # PTO Request Form - Help Guide
 ## Purpose
 The PTO Request Form is used to submit a request for paid time off to your manager. Please complete this form to provide necessary details for approval.

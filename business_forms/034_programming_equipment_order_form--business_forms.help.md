@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of ordering programming equipment for a company. It is likely used by a company's IT department or procurement team to gather information about the equipment needed, the contact person, and other relevant details. This form should not be used for personal or non-business purposes. Please ensure you are using this form for your company's official business needs.
-</thinking>
-
 # Programming equipment order form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is likely to be part of a larger process for managing participants in a pilot program. It may be used to collect demographic information, gather feedback, or record agreements from participants. To confirm, the form is designed for a pilot program, and it's focused on collecting participant information. This form likely serves as a crucial step in the participant management process. 
-
-Before creating this form, ensure that it's not a duplicate effort. If you've already created a similar form, please review and reuse it instead of creating this one again. If the purpose of this form differs significantly from your existing forms, feel free to create a new form with a more distinct purpose in mind. 
-
-</thinking>
-
 # Pilot Program Agreement Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for a pilot program. It's intended to gather demographic and other relevant details from each participant.

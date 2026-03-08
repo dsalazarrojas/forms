@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about the utilization of raw materials in production processes. It is likely used in a manufacturing or production environment where tracking the usage and waste of raw materials is crucial for inventory management, cost control, and quality assurance. This form would be completed by production personnel or inventory managers to document the quantity of raw materials used during each production batch, including the category and type of material, production details, and any wastage or losses incurred. It is possible that this form would be used to support production planning and control, material requisitioning, and inventory replenishment decisions.
-</thinking>
-
 # Raw Material Utilization Report Form - Help Guide
 
 ## Purpose

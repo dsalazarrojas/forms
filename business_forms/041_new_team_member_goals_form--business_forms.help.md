@@ -1,5 +1,3 @@
-<thinking>As the AI-generated form "new_team_member_goals_form" is designed to help new team members set and track their goals, the purpose of this form is to collect information about the new team member's details, goals, and review. It's essential to ensure that all required fields are completed accurately to help the new team member set realistic goals and achieve them effectively.</thinking>
-
 # new_team_member_goals_form - Help Guide
 ## Purpose
 The "new_team_member_goals_form" is designed to help new team members set and track their goals, which will aid them in achieving their objectives and improving performance within the team.

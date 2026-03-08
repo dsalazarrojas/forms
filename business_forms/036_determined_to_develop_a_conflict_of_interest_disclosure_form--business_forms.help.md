@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for organizations and individuals to disclose potential conflicts of interest. It's likely used within a business or organizational context, such as a company board of directors, to ensure transparency and integrity in decision-making processes. The form is likely used to identify potential conflicts between an individual's personal interests and their professional roles or responsibilities. It's possible that this form is mandated by regulatory bodies or company policies to promote accountability and prevent undue influence in business decisions.
-To ensure the form is relevant to your context, please verify that it aligns with your organization's specific needs and regulations.
-</thinking>
-
 # Determined To Develop A Conflict Of Interest Disclosure Form - Help Guide
 ## Purpose
 The "Conflict of Interest Disclosure Form" is used to identify and disclose potential conflicts of interest among individuals holding positions of authority, such as board members or executives. This form helps to ensure transparency and accountability in decision-making processes, promoting fair and unbiased outcomes.

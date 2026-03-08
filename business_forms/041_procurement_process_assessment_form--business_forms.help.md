@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help procurement managers assess the effectiveness of the procurement process within their organization. It covers various aspects of the procurement process, including company information, procurement manager information, and multiple sections for evaluating different stages of the process, such as procurement practices, processes, and vendor selection, bid evaluation, and contract management. The purpose of this form is to provide a thorough assessment and help identify areas for improvement. 
-
-</thinking>
-
 # Procurement Process Assessment Form - Help Guide
 ## Purpose
 This form is designed to help procurement managers evaluate the effectiveness of the procurement process within their organization. It will help identify areas for improvement and ensure a smooth and efficient procurement process.

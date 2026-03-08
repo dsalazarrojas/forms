@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request funding for a project. It is designed to collect relevant information about the project, including its title, description, budget, funding goal, start and end dates, location, leads, funding sources, contacts, status, and other details. Before filling out this form, please make sure that you are requesting funding for a project that has not been previously submitted. This form is intended for use by project managers and team members to provide accurate and comprehensive information about their projects.
-
-</thinking>
-
 # project_funding_request_form - Help Guide
 ## Purpose
 The project funding request form is used to gather information about a project that is being submitted for funding consideration. This form helps project managers and team members to provide accurate and comprehensive information about the project, making it easier for funders to assess the project's potential for support.

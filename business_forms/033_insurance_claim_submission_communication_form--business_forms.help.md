@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information and communication about insurance claims. This form is intended for claimants to provide details about their insurance claims, including their own information, policy holder information, contact details, and address. The form also allows claimants to upload documents related to their claim and specify the date of the loss. The purpose of this form is to facilitate the communication and processing of insurance claims in a structured and efficient manner.
-
-This form does not duplicate any existing form on the market, and its creation is an original adaptation based on public survey topic metadata.
-
-</thinking>
-
 # Insurance Claim Submission Communication Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document information related to insurance claims, facilitating efficient processing and communication between parties involved.

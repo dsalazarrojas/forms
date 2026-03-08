@@ -1,8 +1,3 @@
-<thinking>
-The Business Group Membership Application Form is intended for businesses that wish to apply for membership in your organization. This form is used to gather information from the applicant about their business, such as its name, type, and years in operation. The form also asks for contact information, including email, phone number, and address. Additionally, it inquires about the applicant's goals for membership and their involvement in the organization. Finally, it asks about their preferred payment method for membership dues. This form is required for all business members and is used to ensure that all applicants have provided accurate and complete information. 
-Please ensure that all required fields are filled in, as this information will be used to process your application.
-</thinking>
-
 # Business Group Membership Application Form - Help Guide
 
 ## Purpose

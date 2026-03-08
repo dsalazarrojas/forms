@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their notification preferences, allowing them to customize how they receive notifications from the application. To complete this form, users must provide their full name, email address, and other relevant information. The form is divided into several sections, each with its own field-by-field explanation.
-</thinking>
-
 # App Notification Consent Form - Help Guide
 ## Purpose
 This form is used to collect users' notification preferences, enabling them to customize how they receive notifications from the application. It's essential that users provide their information accurately to ensure they receive the right types of notifications at the right time.

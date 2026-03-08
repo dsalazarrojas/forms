@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from patients for the Lash Procedure Consent Intake. This form is used to gather relevant details about the patient, including their personal and medical history, in order to provide a comprehensive understanding of their situation and ensure their safety and comfort during the procedure. This form is typically filled out by the patient themselves or by their authorized representative. It is essential to complete the form accurately and thoroughly to ensure the best possible outcome for the patient...</thinking>
-
 # lash_procedure_consent_intake - Help Guide
 ## Purpose
 The Lash Procedure Consent Intake form is used to collect personal and medical information from patients to ensure their safety and comfort during the procedure.

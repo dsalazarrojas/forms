@@ -1,9 +1,3 @@
-<thinking>
-
-The form "Cocktail Bar Booking Inquiry" is likely designed for individuals or organizations looking to book a cocktail bar for a specific event or occasion. This form collects contact information, event details, guest information, and service requests to facilitate the booking process. The form likely aims to gather all necessary information to provide the best possible service and ensure a successful event. To avoid duplicate inquiries, this form may be used to filter or categorize requests based on the event type, date, time, and other relevant factors.
-
-</thinking>
-
 # Cocktail Bar Booking Inquiry - Help Guide
 ## Purpose
 This form is designed to help us understand your event needs so we can provide the best possible service.

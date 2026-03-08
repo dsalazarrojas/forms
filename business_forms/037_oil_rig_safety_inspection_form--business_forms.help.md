@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to conduct a regular safety inspection of an oil rig to identify any potential hazards and ensure that safety equipment is functioning properly. The purpose of this form is to document the inspection results and provide a record of the inspection. 
-
-The form captures essential information about the site address, inspection date, and time, as well as the status of various safety equipment, such as fire fighting equipment, emergency exit signs, fire extinguishers, electrical equipment, gas equipment, and oil equipment. Additionally, it collects information about the rig inspector, safety procedures, hazards, actions taken, next inspection date, assigned inspector, safety meeting attendance, safety meeting minutes, fire drill participants, and other equipment status.
-
-Before filling out this form, please make sure to have the relevant documents and records at hand, as some fields may require specific information or attachments.
-
-</thinking>
-
 # Oil Rig Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to document the results of a safety inspection on an oil rig. It captures essential information about the site address, inspection date and time, safety equipment status, and other relevant details to ensure the rig is safe for operations.

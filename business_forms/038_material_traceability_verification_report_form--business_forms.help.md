@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to verify the traceability of materials in a business setting. Its purpose is to ensure that materials are properly tracked and accounted for, reducing errors and discrepancies in inventory management. The form is designed to be completed by individuals who receive materials from suppliers, and it serves as a record of the materials' origin, quantity, and condition when received. To avoid duplication of efforts, this form should only be used for the initial verification of materials, and any subsequent updates or corrections should be made through other channels. 
-</thinking>
-
 # Material Traceability Verification Report Form - Help Guide
 ## Purpose
 This form is designed to track the origin, quantity, and condition of materials received from suppliers, ensuring that materials are properly accounted for in inventory management.

@@ -1,21 +1,3 @@
-<thinking>
-This form is designed for users to place an order with Lauren Roberts for her Color Street Template. The form is a business-oriented template for users to submit their order details. The form has been created to ensure that users can easily and accurately provide their information and preferences for a smooth transaction. This form is not intended for general public use, so only users with a specific interest in purchasing a Color Street Template from Lauren Roberts should be filling this out.
-
-The form's fields are designed to collect the following information:
-- User's name
-- Email address
-- Shipping address
-- List of sets to order
-- Total number of sets
-- B3G1 status
-- Payment method
-- Payment username
-- Delivery choice
-- Hostess name (if applicable)
-- Interested in the Stylist opportunity (optional)
-
-This form's purpose is to guide users through the process of placing an order for a Color Street Template with Lauren Roberts.</thinking>
-
 # Color Street Template - Lauren Roberts - Help Guide
 ## Purpose
 This form is designed for users to place an order with Lauren Roberts for her Color Street Template.

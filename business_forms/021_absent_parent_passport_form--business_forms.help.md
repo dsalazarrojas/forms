@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be designed for capturing information from an individual (parent or guardian) who is submitting documents on behalf of their child to support the child's passport application. The purpose of this form is to gather essential details about both the applicant and the child. To ensure this form is used correctly, please make sure to provide accurate and up-to-date information for each field.
-
-To avoid duplication, please do not submit multiple instances of this form for the same child. If you need to update any information, please submit a new form with the updated details.
-
-This form is likely to be used for official purposes, such as supporting a child's passport application or other government-issued documents.
-</thinking>
-
 # Absent Parent Passport Form - Help Guide
 ## Purpose
 The Absent Parent Passport Form is designed to gather essential information from an individual (parent or guardian) who is submitting documents on behalf of their child. This form helps ensure that the necessary details are provided accurately and efficiently.

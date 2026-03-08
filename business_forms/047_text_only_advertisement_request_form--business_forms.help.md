@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request text-only advertisements for various categories such as marketing agencies, agencies, and companies. The form is used to collect information about the request, including the category of the advertisement, name of the person requesting it, their email and phone number, date and time of the request, a note about the request, the tools assigned to handle the request, and who submitted the request. It is recommended to review the form carefully before submitting it to ensure that the category and submitted_by fields are accurate to avoid duplication of work.</thinking>
-
 # Text Only Advertisement Request Form - Help Guide
 
 ## Purpose

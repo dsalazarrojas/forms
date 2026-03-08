@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help businesses register their products that are nutrient-dense for grants from various organizations. The purpose of this form is to gather information about the project, its impact, funding plans, contact information, and any additional details that may be relevant. To avoid duplication, please note that this form is not affiliated with any form platform and is an original adaptation of public survey data. The form is released under CC BY 4.0, allowing users to modify and distribute it freely while providing credit.
-</thinking>
-
 # Nutrient Dense Product Grant Registration - Help Guide
 ## Purpose
 This form is designed to help businesses register their nutrient-dense products for grants. The form collects project details, project impact, funding plans, contact information, and additional information.

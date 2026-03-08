@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request an adjustment to a weekly timesheet. The form should only be used when an employee has worked extra hours that were not initially recorded in their weekly timesheet and needs to request an adjustment for those hours. It is recommended to only submit the form once for all extra hours worked in a given period. Duplicate submissions will be rejected.
-
-The fields are designed to capture the necessary information to process the adjustment request. This form is only for adjustments to weekly timesheets and should not be used for other purposes.
-</thinking>
-
 # Weekly Timesheet Adjustment Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request an adjustment to a weekly timesheet for extra hours worked that were not initially recorded. This form should only be used once for each period's extra hours worked.

@@ -1,21 +1,3 @@
-<thinking> 
-This form is designed to gather information from users to create a hotel booking quotation. It is intended for customers who are interested in booking a room and would like to receive a quotation from the hotel. The form is meant to be filled out by the customer to provide their details and preferences, which will then be used by the hotel staff to create a personalized quotation. It is assumed that the customer has already selected the hotel and is interested in booking a room. 
-
-This form is not intended for other purposes, such as making a reservation or cancelling a booking. The form is also not intended for internal use, but rather for providing a quotation to the customer. The customer will typically fill out this form to provide their details and preferences, and then the hotel staff will use this information to create a quotation which will be sent to the customer.
-
-Please note that the form has the following fields:
-
-- User Input: This field is meant to capture the customer's name and contact information.
-- Dates: This field is meant to capture the customer's arrival and departure dates.
-- Guest Info: This field is meant to capture any additional guest information.
-- Special Requests: This field is meant to capture any special requests from the customer such as extra bedding or other requirements.
-- Accommodation Preferences: This field is meant to capture the type of accommodation the customer is interested in booking.
-- Payment Terms: This field is meant to capture how the customer would like to pay for their booking (e.g. net or vat inclusive).
-- Contact Info: This field is meant to capture the customer's contact information.
-- Submit: This field is a submit button to send the form to the hotel staff.
-
-</thinking>
-
 # Hotel Booking Quotation Form - Help Guide
 ## Purpose
 

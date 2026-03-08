@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to be used by end users to complete the "Restroom Rental Agreement Form".
-The form is used to record and document the agreement made between the renter and the lessor for the use of a restroom facility.
-This guide will cover the form's purpose, how to complete it, and each field's purpose.
-</thinking>
-
 # Restroom Rental Agreement Form - Help Guide
 ## Purpose
 The Restroom Rental Agreement Form is used to document the agreement made between the renter and the lessor for the use of a restroom facility.

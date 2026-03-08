@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # strategic-execution-consulting-contact-form - Help Guide
 ## Purpose
 This form is designed to allow users to contact our strategic execution consulting team with their inquiries, questions, or messages. It is intended for potential clients, existing clients, or partners to get in touch with us for consultation or collaboration opportunities. Please note that filling out this form does not establish a formal business relationship or agreement. Our team will review and respond to each submission to discuss further.

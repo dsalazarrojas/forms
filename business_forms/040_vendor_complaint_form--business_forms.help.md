@@ -1,10 +1,3 @@
-<thinking>
-The vendor complaint form is designed to collect feedback from vendors regarding their experiences with the company's services or products. This form is intended to ensure that the company receives valuable insights into its performance and to address any concerns or issues raised by the vendors.
-
-To avoid duplication, please ensure that you have not already submitted a complaint about the same issue.
-
-</thinking>
-
 # Vendor Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is to collect vendor complaints, feedback, and concerns regarding our services or products. Your input will help us improve and resolve any issues you may have.

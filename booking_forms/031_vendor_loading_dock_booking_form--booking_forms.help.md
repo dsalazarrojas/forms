@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and practical for end-users to understand the purpose and function of the Vendor Loading Dock Booking Form. I'll analyze the input schema to identify the required fields and their descriptions. This form appears to be designed for booking and managing vendor loading dock operations, likely for logistics or warehouse management purposes. I'll aim to provide an explanation that's easy to follow and free from ambiguity. After reviewing the input schema, I'll proceed to create the help guide in the required Markdown structure.</thinking>
-
 # Vendor Loading Dock Booking Form - Help Guide
 ## Purpose
 This form is for booking and managing vendor loading dock operations. It captures essential information about the vendor's contact, loading dock details, delivery details, vehicle details, appointment details, and confirmations.

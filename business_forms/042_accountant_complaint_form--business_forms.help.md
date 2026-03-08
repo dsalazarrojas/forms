@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture and track complaints against accountants or firms providing bookkeeping services. The purpose of this form is to provide a structured way for clients to report their grievances and concerns about the services rendered by accountants or firms. This form is used for internal purposes only and is not intended to be submitted to external authorities or third parties.
-</thinking>
-
 # Accountant Complaint Form - Help Guide
 
 ## Purpose

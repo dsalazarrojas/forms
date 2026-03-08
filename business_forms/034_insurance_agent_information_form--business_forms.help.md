@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about insurance agents working with your agency. It's meant for internal use within the organization, so please ensure you're filling it out accurately and completely. This form should only be filled out by authorized agents who are part of your agency. Please do not fill this out as a public-facing form or share it with others without permission.
-
-</thinking>
-
 # insurance-agent-information-form - Help Guide
 
 ## Purpose

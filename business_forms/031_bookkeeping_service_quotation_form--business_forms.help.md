@@ -1,8 +1,3 @@
-<thinking>
-This form is for businesses seeking bookkeeping services. It's designed to gather essential information about the business, allowing the service provider to create an accurate quote for bookkeeping services. The form ensures that the service provider understands the business's needs, financials, and requirements, ensuring a tailored service that meets their needs. This form is not intended for individual users. Please ensure that you are accessing this form as an authorized representative of a business.
-
-</thinking>
-
 # Bookkeeping Service Quotation Form - Help Guide
 ## Purpose
 The Bookkeeping Service Quotation Form is designed to collect information about your business to create an accurate quote for bookkeeping services. This form is intended for businesses and should not be used by individual users.

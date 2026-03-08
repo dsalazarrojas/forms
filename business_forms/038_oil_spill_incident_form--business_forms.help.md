@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture information related to oil spill incidents, collecting details about the spill, the affected location, the quantity of oil involved, and other relevant information from the report. This form should only be completed after an incident has occurred.
-</thinking>
-
 # Oil Spill Incident Form - Help Guide
 ## Purpose
 The Oil Spill Incident Form is designed to collect information about oil spills for reporting and recordkeeping purposes. This form should be completed after an incident has occurred.

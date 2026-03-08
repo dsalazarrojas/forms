@@ -1,12 +1,3 @@
-<thinking>
-Internal reasoning:
-The purpose of this form is to facilitate access to annual reports for individuals and entities that require them for various reasons. The form captures relevant information to ensure that the report is provided in the required format and that the user understands their obligations and restrictions in accessing the report. 
-
-We should check if there are any duplicate requests or overlapping access requirements to prevent overburdening our resources.
-
-This form is a critical part of the internal process and is used by stakeholders who may have differing levels of access rights.
-</thinking>
-
 # Annual Report Access Request Form - Help Guide
 ## Purpose
 The Annual Report Access Request Form is designed to capture user information and request access to annual reports. It will guide you in providing the required details for a successful request.

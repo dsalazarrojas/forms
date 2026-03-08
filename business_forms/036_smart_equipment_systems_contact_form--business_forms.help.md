@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect contact information from customers or users who need assistance with smart equipment systems. The form should be used to report any issues, ask questions, or provide feedback about the equipment. It is crucial to ensure the submitted information is accurate and complete, so please review each field carefully before submitting. The form should only be submitted by individuals who are authorized to do so, and the information collected will be used to provide support and guidance accordingly.</thinking>
-
 # Smart Equipment Systems Contact Form - Help Guide
 ## Purpose
 The Smart Equipment Systems Contact Form is a vital tool for reporting issues or asking questions about smart equipment systems. This form allows you to provide contact information, describe the problem or inquiry, and track the status of your submission.

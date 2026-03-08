@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the customer's order, including their personal details and order specifics. This form will likely be used in a business setting, such as a retail store or a wholesale supplier, to facilitate order processing and customer communication. To determine if this form is relevant, consider whether the form fields and their labels align with your business needs. If this form is for a specific department or team within your organization, ensure that the form fields are consistent with their responsibilities and goals. 
-</thinking>
-
 # Scent Order Form - Help Guide
 ## Purpose
 The Scent Order Form is designed to collect customer information and order details for efficient processing and communication.

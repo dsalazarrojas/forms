@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from business users about their contact information, facility details, and efficiency challenges. This data will help factory efficiency specialists understand the user's requirements and provide relevant support. Please ensure that the form is filled out accurately and completely, as this information is crucial for providing effective support. If you have filled out this form before, please note that the data will be used to refine the form for future users.
-</thinking>
-
 # Contact A Factory Efficiency Specialist - Help Guide
 ## Purpose
 This form is designed to gather information about your contact details, factory information, and efficiency challenges. This data will help our factory efficiency specialists provide you with tailored support.

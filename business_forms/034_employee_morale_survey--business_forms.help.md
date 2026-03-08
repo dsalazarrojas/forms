@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Morale Survey - Help Guide
 
 ## Purpose

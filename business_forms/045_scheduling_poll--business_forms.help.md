@@ -1,6 +1,4 @@
-> <thinking>This form is designed to collect information for a scheduling poll, likely for event planning or coordination purposes. This form allows users to specify the purpose of the poll, schedule details, and other relevant information about the poll. It's essential to complete this form to ensure accurate and efficient poll creation. Please ensure this form is not submitted in duplicate, as it might lead to unnecessary polls.</thinking>
-
-# Scheduling Poll - Help Guide
+> # Scheduling Poll - Help Guide
 ## Purpose
 The Scheduling Poll form is used to collect information for event planning and coordination. It helps in creating a poll that suits your needs and preferences.
 

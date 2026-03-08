@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist customers in completing the "Subscription Plan Extension Form" with ease. Before proceeding, please note that this form is designed to gather information from customers regarding their subscription plans. It's not a duplicate or redundant form; it's a new and distinct form with a specific purpose. Ensure you have the necessary information before completing this form to avoid any inconvenience. Please review each field carefully and provide accurate data to ensure a smooth process.
-</thinking>
-
 # Subscription Plan Extension Form - Help Guide
 ## Purpose
 The Subscription Plan Extension Form is designed to collect details from customers to extend their existing subscription plans. This form helps us understand your requirements and preferences, enabling us to tailor our services to meet your needs better.

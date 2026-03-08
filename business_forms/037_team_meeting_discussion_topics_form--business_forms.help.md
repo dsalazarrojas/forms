@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect relevant information for team meetings, ensuring that all necessary details are captured and discussed during the meeting. This form is used to standardize the process of organizing meetings, making it easier for attendees to prepare and follow up on action items.
-
-Before proceeding, please ensure that you are filling out this form for a valid meeting purpose. If you're using this form for a different purpose, please note that it may not capture the required information accurately. To avoid duplicating effort, check that the meeting purpose has not been previously discussed or documented.
-
-</thinking>
-
 # Team Meeting Discussion Topics Form - Help Guide
 ## Purpose
 The Team Meeting Discussion Topics Form is a standardized template used to collect necessary information for team meetings. This form ensures that all relevant details are discussed during the meeting and helps in organizing follow-up activities.

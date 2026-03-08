@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Final Grant Application Form - Help Guide
 
 ## Purpose

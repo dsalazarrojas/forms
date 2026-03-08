@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Planning Form - Help Guide
 ## Purpose
 The Trade Planning Form is used to collect information for trade planning and decision-making in business settings. Fill out this form to gather insights and data for strategic trades, ensuring you have all necessary details to make informed decisions.

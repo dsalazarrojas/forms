@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the project management system, intended for project administrators to update and track project status in a centralized location. The form should only be used for project managers, not for general users. Before using this form, ensure that you are authorized to do so. Please note that this form is not intended for public use, so sensitive information should not be shared publicly. If you have already filled out a similar form, please do not re-submit your updates. If you are unsure about the form's purpose or usage, please contact the project administrator for guidance.
-</thinking>
-
 # Project Status Form - Help Guide
 ## Purpose
 This form is used to update and track project status by project administrators. It helps project managers to stay informed about ongoing and past projects.

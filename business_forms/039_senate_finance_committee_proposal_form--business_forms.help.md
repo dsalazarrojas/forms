@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used by internal stakeholders within the organization to propose new finance-related projects to the Senate Finance Committee. The purpose of this form is to gather information about the proposed projects in a structured and standardized way, ensuring consistency and comparability across proposals.
-The form is non-mandatory, meaning that filling it out is voluntary and at the discretion of the proposers. However, it is recommended to fill it out as thoroughly and accurately as possible to facilitate the evaluation and approval process by the Senate Finance Committee.
-
-To ensure that the form is filled out correctly and consistently, please follow the guidelines below.
-
-</thinking>
-
 # senate_finance_committee_proposal_form - Help Guide
 ## Purpose
 This form is used to propose new finance-related projects to the Senate Finance Committee. It gathers information about the proposed projects in a structured and standardized way, ensuring consistency and comparability across proposals.

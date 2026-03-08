@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive assessment tool designed to evaluate the health of a business using a set of specific metrics and questions. The goal is to help business owners and managers gain insights into their current state and identify areas for improvement. This form will guide you through a series of questions that cover business information, sales processes, marketing effectiveness, product and sales performance, and operational efficiency. Please answer these questions to get an accurate assessment of your business health.
-</thinking>
-
 # Business Made Simple - BUSINESS MRI - Help Guide
 ## Purpose
 The Business Made Simple - BUSINESS MRI form is a diagnostic tool designed to provide an in-depth analysis of your business. By completing this form, you will get a comprehensive overview of your business health, including its strengths, weaknesses, and areas for improvement.

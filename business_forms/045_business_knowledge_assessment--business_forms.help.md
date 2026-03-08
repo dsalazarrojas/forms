@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an employee's business knowledge, skills, and competencies. It is used to evaluate an employee's understanding of various business concepts, such as financial management, compliance requirements, and customer service principles. The form helps to identify areas where employees may need additional training or development to better perform their job duties.
-</thinking>
-
 # Business Knowledge Assessment - Help Guide
 ## Purpose
 The Business Knowledge Assessment is a self-assessment form designed to evaluate your level of understanding of various business concepts. This form will ask you questions about your knowledge, skills, and competencies in areas such as basic accounting, company strategy, compliance requirements, market competitors, customer service principles, business ethics, and more. Completing this form will help us understand your current level of business acumen and identify areas where you may need further development.

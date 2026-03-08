@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # office-visitor-form - Help Guide
 ## Purpose
 This form is designed to collect information about visitors who are visiting our office. The purpose of this form is to ensure that our office is prepared for visitors and to provide a safe and welcoming environment for them.

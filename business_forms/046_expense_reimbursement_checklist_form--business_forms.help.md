@@ -1,7 +1,3 @@
-<thinking>
-This help guide will help users understand the purpose and usage of the "Expense Reimbursement Checklist Form". Before creating this guide, I'll review the provided YAML data to ensure the form's purpose and fields are well-defined and clear for end-users. The form appears to be designed for submitting expense reimbursement requests, gathering information about the expense amount, submitter, and date. I will ensure the explanation is concrete, concise, and practical, avoiding any unsupported business logic.
-</thinking>
-
 # Expense Reimbursement Checklist Form - Help Guide
 ## Purpose
 The Expense Reimbursement Checklist Form is a tool used to submit expense reimbursement requests for official business purposes. This form is designed to gather essential information about the expense, allowing your organization to process and approve reimbursement requests efficiently.

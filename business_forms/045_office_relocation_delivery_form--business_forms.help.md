@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## office_relocation_delivery_form - Help Guide
 
 ### Purpose

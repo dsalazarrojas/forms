@@ -1,7 +1,3 @@
-<thinking>
-This form is a visit report for HVAC technicians to document their visits to customers' homes or offices. It is used to record information about the visit, including the tech's name, the date of the visit, the type of service provided, notes about the service, the repair status, and any signatures required from the customer and the technician. The form is used to ensure that technicians are thorough in their documentation and that customers are informed about the service provided. It is also used to keep track of past visits and repair status.
-</thinking>
-
 # hvac_visit_report - Help Guide
 ## Purpose
 The HVAC visit report is used by technicians to document their visits to customers' homes or offices, ensuring thorough and accurate information is recorded.

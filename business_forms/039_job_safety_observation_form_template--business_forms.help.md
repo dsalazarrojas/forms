@@ -1,5 +1,3 @@
-<thinking>As the form creator, it's essential to understand the purpose and structure of this Job Safety Observation Form Template. The form is designed to help collect observations and feedback on workplace safety. The fields in this form are meant to capture specific details about the observed area, time, and nature of the observation, as well as the recommended actions. It's crucial to ensure that the form is being filled out correctly, so please read through each field explanation carefully to ensure you're completing it correctly.</thinking>
-
 # Job Safety Observation Form Template - Help Guide
 
 ## Purpose

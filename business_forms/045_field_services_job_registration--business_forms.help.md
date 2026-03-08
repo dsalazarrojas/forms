@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering job requests for field services. The purpose of this form is to gather information about the client, the service required, and the status of the job. The form should only be used for registering job requests for field services, and it's recommended that users fill out the form only if they have a legitimate job request. Please note that this form has a few redundant fields with the same name but different ids. For example, "requested_by" fields (id 5 and id 10) are intended to be the same piece of information and may need to be consolidated or one of them should be removed.
-</thinking>
-
 # field-services-job-registration - Help Guide
 ## Purpose
 The field-services-job-registration form is designed for registering job requests for field services. It gathers information about the client, the service required, and the status of the job.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request a rebalance of the assembly line, which is a process used to optimize production efficiency and workflow. The form is used by production or engineering teams to submit a rebalance request, providing essential information about the reasons, goals, and impact of the rebalance. This form ensures that all necessary details are captured to facilitate a thorough evaluation and approval process. Please ensure this form is used for legitimate rebalance requests only and not for other purposes. 
-
-</thinking>
-
 # Assembly Line Rebalance Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for rebalance requests from production or engineering teams, helping to optimize assembly line production efficiency and workflow.

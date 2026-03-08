@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Management Tool Requisition Form - Help Guide
 ## Purpose
 This form is used to request and manage facility management tools. It is designed to help facility management staff to efficiently process and track tool requests, maintenance, and reviews. To ensure accuracy and completeness, please review the form carefully before submission.

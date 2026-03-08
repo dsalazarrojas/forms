@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly and efficiently. The purpose of this form is to collect information from clients and agents regarding meeting appointments. This form is used in the "Business Forms" category and is specifically designed for "pr_agency_appointment_form". To avoid duplication, please make sure to submit this form only once per meeting appointment. The information collected will be used to schedule and confirm meetings with clients.</thinking>
-
 # pr_agency_appointment_form - Help Guide
 ## Purpose
 The "pr_agency_appointment_form" is a form used to collect information from clients and agents for meeting appointments.

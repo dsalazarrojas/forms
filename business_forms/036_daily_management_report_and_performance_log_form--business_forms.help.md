@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect daily management report and performance log data for tasks assigned to employees. It's essential to ensure that each field is filled out accurately and thoroughly to provide a comprehensive report. Please note that this form is not intended for daily task assignments, as some fields may appear redundant. Ensure that you understand the purpose and relevance of each field before filling it out.
-</thinking>
-
 # Daily Management Report And Performance Log Form - Help Guide
 
 ## Purpose

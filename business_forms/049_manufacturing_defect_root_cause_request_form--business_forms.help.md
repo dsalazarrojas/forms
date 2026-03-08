@@ -1,5 +1,3 @@
-<thinking> This form is designed to be used by employees to report a manufacturing defect that requires root cause analysis. When a manufacturing defect is reported, this form will be filled out by the employee who observed or experienced the defect. The form is used to capture relevant information about the defect, including its root cause, date and time it occurred, and any attachments that were included. This form is meant to be used once per defect, and the information collected will be used to help identify and address the root cause of the defect. Before filling out this form, please ensure that a duplicate report has not already been submitted, as this form is not meant to be used for duplicate reports. </thinking>
-
 # Manufacturing Defect Root Cause Request Form - Help Guide
 ## Purpose
 

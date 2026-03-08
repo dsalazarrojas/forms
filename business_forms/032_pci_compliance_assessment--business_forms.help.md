@@ -1,9 +1,3 @@
-<thinking> 
-The purpose of this form is to assess the Payment Card Industry (PCI) compliance of a business. PCI compliance is a set of security standards for protecting cardholder data. The form is designed to help users assess whether a business is currently meeting these standards or identify areas where improvement is needed. This form is used by authorized personnel to evaluate the security measures and procedures of the business, and it's intended to be filled out by someone with knowledge of the business's IT and security practices.
-Before proceeding, please ensure that this form is not completed if it's a duplicate assessment. A duplicate assessment may indicate that the initial assessment was not thorough, or that changes were made to the business's systems without proper evaluation. If the business's systems have changed since the last assessment, a new assessment should be done to reflect these changes.
-This form is divided into several pages, each with its own set of questions. Please answer every question carefully, as some questions are required for a complete assessment.
-</thinking>
-
 # pci_compliance_assessment - Help Guide
 ## Purpose
 The Payment Card Industry (PCI) compliance form is used to assess whether a business is meeting the required security standards for protecting cardholder data.

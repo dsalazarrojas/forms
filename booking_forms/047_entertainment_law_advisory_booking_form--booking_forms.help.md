@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll need to consider the context and purpose of the "entertainment_law_advisory_booking_form". This form appears to be designed for firms and their representatives to provide information about upcoming sessions with clients. The purpose of the form is likely to gather details about the session, such as date, time, location, and other relevant information. This form is probably used for internal management and coordination within the firm, or for communication with clients. I will ensure the help guide is clear and concise, and I'll base the explanations on the provided YAML fields.
-
-</thinking>
-
 # entertainment_law_advisory_booking_form - Help Guide
 ## Purpose
 This form is used to provide details about upcoming sessions with clients, including dates, times, locations, and other relevant information for internal management and coordination within the firm or for communication with clients.

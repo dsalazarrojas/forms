@@ -1,11 +1,3 @@
-<thinking>
-
-I need to ensure that the form is correctly understood by its end users, so I'll carefully review the provided YAML fields to create a comprehensive help guide.
-
-The form is called "Club Registration" and seems to be used for registering individuals or families to join a club or organization. I'll provide a clear and concise guide to help users navigate through the form.
-
-</thinking>
-
 # Club Registration - Help Guide
 ## Purpose
 This form is used to register new or renewing members to a club or organization. Fill out the form to provide essential information required for your membership and any additional details we need to know about you and your family.

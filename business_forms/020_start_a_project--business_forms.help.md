@@ -1,12 +1,3 @@
-<thinking> 
-  A project is a collaborative effort between various teams and individuals to achieve a common goal.
-  A project is a complex entity that requires coordination and management.
-  This form will help project managers and team members create and manage projects in a structured way.
-  It is crucial to complete this form accurately and thoroughly to ensure that the project information is up-to-date and easily accessible for everyone involved.
-  Please make sure to fill in all required fields and double-check your information before submitting.
-  If you're unsure about any field, you can always refer to this help guide.
-</thinking>
-
 # Start A Project - Help Guide
 ## Purpose
 The "Start A Project" form is designed to create and manage projects in a structured way. It is essential for project managers and team members to fill out this form accurately and thoroughly to keep project information up-to-date and easily accessible.

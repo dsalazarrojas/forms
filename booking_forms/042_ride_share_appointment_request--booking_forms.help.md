@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for a ride-sharing appointment request. The form is likely used by a company or service that offers ride-sharing services and requires customers to submit their requests in a structured format. This form is probably used to streamline the process of requesting a ride and ensuring that all necessary information is collected.
-
-To complete this form, users will need to provide their pickup information, the details of their ride request, and any additional notes they would like to include. This form is likely used by a support team or operations manager to process the requests and assign rides to available drivers.
-
-The fields on this form are all straightforward and require minimal explanation. The form is relatively short and simple, indicating that it's intended for customers to quickly provide their information without unnecessary complexity.</thinking>
-
 # Ride Share Appointment Request - Help Guide
 ## Purpose
 This form is used to collect information for a ride-sharing appointment request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for telescope reservation requests. It is used by staff members to gather necessary details for scheduling and coordinating telescope usage. Please ensure that you are not submitting duplicate requests and that the information provided is accurate and relevant to your needs. If you are unsure about the form's purpose or have any questions, please reach out to the relevant staff member for clarification.
-</thinking>
-
 # Telescope Reservation Request - Help Guide
 ## Purpose
 This form is designed to collect necessary information for telescope reservations, allowing staff to efficiently manage and schedule telescope usage. Please fill out the form accurately and thoroughly to ensure a smooth reservation process.

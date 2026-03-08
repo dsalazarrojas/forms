@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be used for uploading media and setting up a review process for a project. It seems that the form is meant to be filled out by someone who needs to upload a media file (e.g. video, image, document) for review. The review process involves selecting the category, describing the media, and optionally selecting reviewers and a project name. The due date field is likely meant to be used for setting a deadline for the review process.
-
-The form does not seem to have any complex business logic, and the fields are quite straightforward. The "required" fields are not required at all, which might be a bug or an intentional design choice. I will proceed with assuming the "required" fields are actually not required for the form to be valid.
-
-</thinking>
-
 # Media Upload For Review - Help Guide
 ## Purpose
 This form is used for uploading media and setting up a review process for a project.

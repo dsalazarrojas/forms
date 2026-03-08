@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory Supply Query Contact Form - Help Guide
 ## Purpose
 This form is designed to gather information from suppliers regarding their inventory supply needs. It will be used to query potential suppliers for available stock and delivery schedules.

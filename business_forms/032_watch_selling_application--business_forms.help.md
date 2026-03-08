@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Watch Selling Application - Help Guide
 ## Purpose
 The Watch Selling Application form is designed to collect information about a watch being sold or traded. This form is intended for sellers to provide details about the watch, including its characteristics, condition, and sales information. This form helps the buyer and seller communicate effectively and efficiently, ensuring a smooth transaction process.

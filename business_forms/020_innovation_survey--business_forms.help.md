@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the form is completed accurately and relevantly, so let's review the purpose and potential issues before diving into the help guide.
-
-The purpose of this form is to gather feedback from end-users on their perception of innovation within their department. This form is likely used to gauge the department's innovation level, identify areas for improvement, and help in making data-driven decisions.
-
-Before we proceed, let's consider potential duplication and ensure that this form is not already covered by other similar forms or processes. If the form's purpose is already addressed by another form or procedure, this exercise would be redundant and may lead to data inconsistencies.</thinking>
-
 # Innovation Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback on your perception of innovation within your department. Your input will help us understand your thoughts and concerns, and inform decisions to drive improvement.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from visitors to the emergency contact desk. This form is used to gather essential details in order to facilitate the booking process and ensure that the visitor receives proper assistance.
-
-Before proceeding, please ensure that you have the relevant information and permissions to provide the necessary details. This form should not be used for commercial purposes. 
-
-The following guide is a comprehensive overview of how to complete the form and understand each field.
-
-</thinking>
-
 # Emergency Contact Desk Booking Form - Help Guide
 
 ## Purpose

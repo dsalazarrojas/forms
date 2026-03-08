@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to apply for the use of renewable fuel, which is a crucial component in various industrial and commercial processes. The form collects information about the applicant's organization, intended use of the fuel, expected quantity, and other supporting documents required for the application. This form is likely used by a business or organization to request approval for using renewable fuel, which may include biofuels, biodiesel, or other alternative fuels.
-It is essential to ensure that the form is completed accurately and thoroughly to avoid any issues with the application process.
-</thinking>
-
 # Renewable Fuel Usage Application Form - Help Guide
 ## Purpose
 The Renewable Fuel Usage Application Form is used by businesses and organizations to apply for the use of renewable fuel in their operations. This form collects essential information about the applicant's organization, intended use of the fuel, and other relevant details to facilitate the application process.

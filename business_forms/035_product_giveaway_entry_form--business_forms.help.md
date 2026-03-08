@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form to collect user information for a product giveaway. The form will be used to gather contact details and shipping information from participants. This form will not be used for any other purpose, and we'll make sure to not include any duplicate entries. Please make sure to fill in the form accurately and completely.
-</thinking>
-
 # Product Giveaway Entry Form - Help Guide
 ## Purpose
 This form is used for entering the "Product Giveaway" contest. Fill out the form completely and accurately to be eligible for the giveaway.

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a general order form for HVAC systems, likely used to collect information from customers or clients for installation, maintenance, or repair purposes. The form likely serves to document the details of the order, including the customer's contact information, system specifications, and any specific requests or instructions.
-To confirm, this form does not appear to have any redundant or non-relevant fields. It seems to be designed to collect the necessary information for a basic HVAC system order.
-</thinking>
-
 # hvac_system_order_form - Help Guide
 ## Purpose
 The HVAC System Order Form is used to collect information from customers or clients for the installation, maintenance, or repair of HVAC systems. This form helps to document the details of the order, ensuring that all necessary information is captured accurately and efficiently.

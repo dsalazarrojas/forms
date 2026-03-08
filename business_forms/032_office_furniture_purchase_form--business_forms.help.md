@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for employees to order office furniture for their workspaces. This form allows them to provide their personal details, select the items they want to purchase, and choose a payment method. The goal is to ensure accurate and efficient processing of orders. This form is designed to be simple and straightforward, and it should not be used for any other purpose. 
-</thinking>
-
 # Office Furniture Purchase Form - Help Guide
 
 ## Purpose

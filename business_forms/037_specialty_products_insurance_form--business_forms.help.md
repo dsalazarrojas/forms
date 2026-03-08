@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a specialty product's insurance details. The form is intended for products that require specific coverage and policy details. 
 
 It's essential to ensure that the form is completed accurately and thoroughly, as it will help in creating a comprehensive insurance policy for the product.

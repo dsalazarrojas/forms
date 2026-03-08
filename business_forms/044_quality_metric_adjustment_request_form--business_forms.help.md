@@ -1,7 +1,3 @@
-<thinking> 
-To create a user-facing help guide for the "quality_metric_adjustment_request_form", I will follow the required structure and use the information provided in the YAML inputSchema.
-</thinking>
-
 # quality_metric_adjustment_request_form - Help Guide
 ## Purpose
 This form is used to submit a request for quality metric adjustment. It is intended for submitters to provide additional information about the request, including the submitter's and reviewer's contact details, metric name, and reason for the request. The form also allows for the submission of additional comments and notes.

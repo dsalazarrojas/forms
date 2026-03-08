@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and document the details of a participant's waiver and release of liability for a specific activity. To prevent data duplication, this form should only be completed for each participant individually, and not for a group of participants. This form is used to ensure that each participant is aware of their responsibilities and liabilities before engaging in an activity.
-</thinking>
-
 # Waiver And Release Of Liability Form - Help Guide
 ## Purpose
 

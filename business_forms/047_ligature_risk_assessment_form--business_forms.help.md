@@ -1,8 +1,3 @@
-<thinking> 
-The form is intended to assess the ligature risk in patients and provide a standardized way to document and review the risk level. The form is likely used by medical professionals to evaluate and manage patient safety in various clinical settings. It is crucial to ensure that the form is completed accurately and thoroughly to provide a clear picture of the patient's risk level. Please note that the form may not be applicable to every patient, and the reviewer's comments and recommendations are essential in making informed decisions. Ensure that you complete this form carefully and truthfully, and do not skip any required fields.
-
-</thinking>
-
 # Ligature Risk Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the ligature risk in patients, helping medical professionals to evaluate and manage patient safety.

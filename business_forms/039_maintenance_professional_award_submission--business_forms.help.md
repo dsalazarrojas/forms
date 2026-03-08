@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for maintenance professionals who want to submit nominations for an award. The form helps to collect and organize information from the nominator, including their name, contact information, and supporting documents. The form is meant to be completed by the individual nominating a maintenance professional for this award, and the information collected will be used for the evaluation and selection process of the award recipients.
-
-This form is intended for use by maintenance professionals who want to submit their own nomination or nominate someone else. Please ensure that you are authorized to submit on behalf of the nominee before completing this form. 
-
-Also, please be aware that this form should only be submitted once for each nominee. If you have already submitted a nomination for the same nominee, please do not submit again. 
-
-</thinking>
-
 # Maintenance Professional Award Submission - Help Guide
 ## Purpose
 The Maintenance Professional Award Submission form is a self-service form used by maintenance professionals to submit nominations for the award. Please use this form to provide the required information for the nomination process.

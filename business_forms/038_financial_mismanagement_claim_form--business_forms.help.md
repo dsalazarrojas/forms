@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that the Financial Mismanagement Claim Form serves its intended purpose without duplication, it's essential that the form is completed accurately and thoroughly. The primary goal of this form is to gather information about a specific event or situation that has led to a claim of financial mismanagement. This form is not to be used for other types of claims or situations that do not directly relate to financial mismanagement.
 
 </thinking>

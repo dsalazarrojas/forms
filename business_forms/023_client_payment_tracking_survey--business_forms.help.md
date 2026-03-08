@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure this form is used for its intended purpose and to avoid duplication of effort. This form is for tracking client payments, specifically to record and track client payment status, payment methods, and other relevant details. By using this form, users can efficiently monitor client payments and identify any potential issues or disputes. It's essential to use this form correctly to maintain accurate and up-to-date payment records.
-
-</thinking>
-
 # Client Payment Tracking Survey - Help Guide
 
 ## Purpose

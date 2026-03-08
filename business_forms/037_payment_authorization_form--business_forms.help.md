@@ -1,7 +1,3 @@
-<thinking>
-This form is used for authorization purposes, specifically for payment-related activities. It's likely used for invoicing or billing processes within a company or organization, where the "Authorized By" field may indicate which individual or department is responsible for approving or denying payments. The "Payment Status" field could be used to track the current state of a payment, whether it's been paid, partially paid, or overdue.
-</thinking>
-
 # Payment Authorization Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about workplace harassment complaints, aiming to support a safe and respectful work environment. The purpose of this form is to gather details about the incident, including the location, date, and description of the harassment, as well as the impact it had on the complainant. This form also seeks to document the actions taken by the organization to address and resolve the complaint. 
-</thinking>
-
 # Workplace Harassment Complaint Form - Help Guide
 ## Purpose
 The Workplace Harassment Complaint Form is a tool to report and document incidents of harassment that occur within the workplace. This form helps ensure a clear understanding of the incident, the actions taken by the organization, and the support offered to the complainant.

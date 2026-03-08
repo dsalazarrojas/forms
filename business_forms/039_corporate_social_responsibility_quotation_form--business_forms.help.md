@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Social Responsibility Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information about the Corporate Social Responsibility (CSR) initiative, which is a critical component of a company's commitment to social and environmental responsibility. The CSR initiative is a program aimed at creating a positive social impact, and this form helps in gathering details about the quotation for CSR-related services or products.

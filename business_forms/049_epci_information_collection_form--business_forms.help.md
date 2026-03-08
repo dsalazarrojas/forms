@@ -1,18 +1,3 @@
-<thinking>
-We are creating this form to collect information about ongoing or completed projects, specifically to gather details about the company involved, project status, description, location, start and completion dates, manager, customer information, and contact details.
-The form will be used by authorized personnel to update and manage project records, ensuring accurate and up-to-date information. This form will be used in conjunction with other data sources, so it's essential that the information entered is accurate and consistent.
-To confirm, this form will collect the following types of information:
-- Company details
-- Project status and description
-- Dates (start and completion)
-- Project manager's information
-- Customer information (name, phone, email, address)
-- Contact person's information (name, email, phone)
-- Additional project details (ID, status 2)
-
-Please note that some fields are optional and may not be required for every project. This form will not be used for sales or marketing purposes.
-</thinking>
-
 # epci_information_collection_form - Help Guide
 ## Purpose
 This form is designed to collect and update information about ongoing or completed projects, ensuring accurate and up-to-date records.

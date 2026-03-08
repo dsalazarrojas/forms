@@ -1,9 +1,3 @@
-<thinking>
-The SEO Optimization Order Form is a crucial tool for clients to provide information about their website and business needs. The form is designed to gather essential details that will aid our team in delivering the best possible SEO services for their online presence. Before proceeding, ensure that you have all the necessary information ready to avoid duplication or miscommunication.
-
-When filling out this form, please be as detailed and accurate as possible. If you're unsure about a particular field, do not hesitate to contact us for clarification.
-</thinking>
-
 # SEO Optimization Order Form - Help Guide
 ## Purpose
 This form is designed to gather information about your business and website needs for our SEO optimization services.

@@ -1,14 +1,4 @@
-# <thinking>
-This form is designed to collect information from potential website development clients who are interested in inquiring about website development services. The form is intended for users who want to learn more about the services offered by your business and potentially schedule a meeting or consultation.
-
-This form is likely to be used by potential clients who are looking for website development services, and it is not intended to be used for internal purposes or by employees within the company.
-
-The form is designed to be simple and easy to use, with only a few fields that are required for the business to process the inquiry.
-
-Before you start, please make sure that you are not already in contact with us and that this is not a duplicate inquiry. If you have already contacted us, please do not fill out this form again.
-</thinking>
-
-# website_development_inquiry_form - Help Guide
+# # website_development_inquiry_form - Help Guide
 ## Purpose
 This form is designed to collect information from potential website development clients. Please fill out this form to learn more about our website development services and to potentially schedule a meeting or consultation.
 

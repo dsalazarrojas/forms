@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Planning Consultant Contact Form - Help Guide
 ## Purpose
 This form is designed to allow users to contact the factory planning consultant with their personal details for potential consultation or collaboration opportunities. The purpose of this form is to facilitate communication and provide a means for users to share their contact information with the factory planning consultant. Please ensure you fill out this form correctly to help the consultant reach you efficiently.

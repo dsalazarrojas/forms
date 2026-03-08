@@ -1,8 +1,3 @@
-<thinking>
-This form is used to track the progress of road construction projects. It captures information about the work started, progress made, and other relevant details such as team experience, delay reasons, and project status.
-The form is likely used by project managers and team members to report on the status of road construction projects, and to provide updates to clients and stakeholders.
-</thinking>
-
 # Road Construction Progress Report Form - Help Guide
 ## Purpose
 This form is designed to track the progress of road construction projects, allowing project managers and team members to report on work started, progress made, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Strategic Portfolio Review Program Registration - Help Guide
 ## Purpose
 This guide will walk you through the Strategic Portfolio Review Program Registration form, which is designed for participants to provide information about their participation in the Strategic Portfolio Review Program. The form is intended to gather details about the participant's objectives, consulting firm information, strategy team details, and other relevant information to facilitate the review process.

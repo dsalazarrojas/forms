@@ -1,7 +1,3 @@
-<thinking>
-This form is likely a part of a peer review process in academic or professional settings, where the reviewer and editor agree on manuscript review terms. The form aims to capture crucial information about the manuscript, including the review process, submission dates, and manuscript version details. The form's purpose is to ensure a clear understanding and agreement on the terms of the review process between the reviewer and editor. It's essential to review the form carefully and ensure it's completed accurately to avoid any confusion or miscommunication. This guide will walk through the form step-by-step to help users understand how to complete it efficiently and effectively.
-</thinking>
-
 # Manuscript Review Agreement - Help Guide
 ## Purpose
 This form is used for a peer review process in academic or professional settings. It captures essential information about the manuscript, including review terms, submission dates, and manuscript version details. The form ensures a clear understanding and agreement on the review process between the reviewer and editor.

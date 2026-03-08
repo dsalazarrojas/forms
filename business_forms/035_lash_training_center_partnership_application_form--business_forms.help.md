@@ -1,5 +1,3 @@
-<thinking>Before providing the help guide, let's break down the purpose of this form and ensure it's not a duplication or irrelevant form. The "Lash Training Center Partnership Application Form" seems to be designed for partnership applications from training centers that offer lash and beauty training services. This form collects various details about the training center, its contact information, services offered, and other relevant details. After reviewing the form fields, it appears that this form is comprehensive and covers essential information for a partnership application.</thinking>
-
 # lash_training_center_partnership_application_form - Help Guide
 ## Purpose
 This form is designed for partnership applications from training centers that offer lash and beauty training services. It collects necessary details to assess the center's capabilities, interests, and qualifications for partnership.

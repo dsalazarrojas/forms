@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_talent_strategy_consulting_application_form - Help Guide
 
 ## Purpose

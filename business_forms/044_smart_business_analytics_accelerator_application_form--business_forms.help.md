@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to collect information about businesses applying for the Smart Business Analytics Accelerator Application. This form will be used to streamline the application process and ensure that all necessary details are captured correctly. Before beginning, please ensure that you have not already submitted a completed application, as duplicate submissions may lead to errors and delays in the evaluation process.
-</thinking>
-
 # Smart Business Analytics Accelerator Application Form - Help Guide
 ## Purpose
 The Smart Business Analytics Accelerator Application Form is designed to collect relevant business information from applicants for the accelerator program. The form is divided into several sections, each containing specific fields that require your input. Please follow the instructions below to complete the form accurately and efficiently.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from business promoters and partners about their relationship with the business, their income, work hours, and other relevant details. This information will likely be used to assess the potential value or partnership opportunities with the business. To avoid duplication of effort, please complete the form only once, and make sure to fill out the required fields accurately and thoroughly.</thinking>
-
 # Promoter And Business Partner Quiz - Help Guide
 ## Purpose
 The purpose of this form is to collect information from business promoters and partners about their relationship with the business, their income, work hours, and other relevant details.

@@ -1,11 +1,3 @@
-<thinking>
-This form is for collecting information about website design projects. The purpose of this form is to gather details from customers about their design requirements and needs. This information will be used by the design team to create a tailored website that meets their expectations.
-
-Before proceeding, please ensure that this form is not being filled out for the same project or customer multiple times. Repeated submissions may cause confusion and impact the quality of the final product.
-
-To fill out this form, follow the instructions below, and for each field, a brief explanation will be provided to ensure clarity and accuracy.
-</thinking>
-
 # Website Design Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help logistics teams report and track issues that affect the smooth operation of their supply chain processes. The form is meant to be a simple and structured way to document logistics data issues, their causes, symptoms, and resolution plans. This guide is to ensure that users understand how to fill out the form correctly and what each field is intended for.
-</thinking>
-
 # Smart Logistics Data Integrity Report Form - Help Guide
 ## Purpose
 The Smart Logistics Data Integrity Report Form is a tool used to identify and document logistics data issues. This form is used to report problems that disrupt the flow of goods, services, or information in the supply chain. By filling out this form, you can ensure that logistics teams can quickly identify and address issues, reducing delays and errors.

@@ -1,7 +1,3 @@
-<thinking>
-The "new_guest_waitlist" form is used to create a new guest waitlist for a business. This form helps users create and manage waitlists for guests who are waiting to be assigned a specific tool. It appears that the form is used within a business context, possibly for inventory management or customer service purposes. The form should only be completed if the user has a clear understanding of the business process and requirements involved.
-</thinking>
-
 # new_guest_waitlist - Help Guide
 ## Purpose
 The "new_guest_waitlist" form is used to create a new guest waitlist for a business. This form helps users to list guests who are waiting to be assigned a specific tool or resource.

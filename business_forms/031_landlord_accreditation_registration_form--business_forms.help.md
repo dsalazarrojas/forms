@@ -1,12 +1,3 @@
-<thinking>
-Is this form for a landlord to register their details with the organization? If so, it's likely used for administrative purposes, such as maintaining a database of accredited landlords. To ensure accuracy, I'll need to review the form fields to confirm.
-Upon reviewing the form, I see that it asks for various details about the landlord, their property, and their license type. The fields include:
-* landlord name, property address, and contact person
-* property details such as type, status, and size
-* landlord license type and agreement to a code of conduct
-This guide should provide clear instructions on how to complete the form and explain each field in detail.
-</thinking>
-
 # Landlord Accreditation Registration Form - Help Guide
 ## Purpose
 This form is for Landlords to register their details with the organization. The form collects information about the landlord's property and license type for administrative purposes.

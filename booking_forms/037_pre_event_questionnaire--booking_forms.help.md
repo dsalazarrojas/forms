@@ -1,12 +1,3 @@
-<thinking>
-This form is a pre-event questionnaire designed to collect important details about an event. The purpose of this form is to help event organizers, speakers, and attendees understand what to expect from an event in terms of duration, format, and content. The form is meant to be completed before the event, hence the name "pre_event_questionnaire". It's likely that this form will be used by event planners, speakers, and attendees to coordinate and prepare for the event.
-
-The form should be filled out by those responsible for the event organization, such as event coordinators or hosts. They should be able to fill out the form easily, without requiring extensive technical knowledge.
-
-The form will be used to collect essential details about the event that can be shared with attendees, speakers, and other stakeholders to ensure everyone is aware of what to expect.
-
-</thinking>
-
 # pre_event_questionnaire - Help Guide
 ## Purpose
 The pre_event_questionnaire is a form used to collect essential details about an event to share with attendees and other stakeholders.

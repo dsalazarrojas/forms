@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be designed for customers to provide order information for crafting supplies. However, upon reviewing the provided YAML fields, I see that most fields are not actually related to order information, but rather seem to be redundant fields with slight variations. It's possible that there was an intention to create a form for capturing customer information, but it seems that the form was not fully fleshed out.
-
-Upon closer inspection, it appears that fields 1-5 are similar to the customer information form, while fields 11-25 seem to be a collection of unrelated fields. Fields 1-5 might be intended to capture customer details, while fields 11-25 might be intended for product information. 
-
-If that's the case, I'll focus on creating the help guide for capturing customer information (fields 1-5) and product information (fields 11-25), and leave out the middle section of unrelated fields (6-10).
-</thinking>
 # craft_supplies_order_form - Help Guide
 ## Purpose
 The craft supplies order form is a document used to gather information from customers for their orders.

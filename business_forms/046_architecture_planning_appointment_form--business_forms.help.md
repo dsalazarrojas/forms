@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Architecture Planning Appointment Form - Help Guide
 
 ## Purpose

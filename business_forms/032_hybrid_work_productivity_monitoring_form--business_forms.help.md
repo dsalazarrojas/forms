@@ -1,14 +1,3 @@
-<thinking>
-This form is used to track and monitor the productivity of employees in a hybrid work environment. It is used to gather data on the time spent on tasks, meetings, and other work-related activities, as well as the number of tasks completed and remaining. This data can be used to identify areas of improvement and optimize work processes.
-
-This form is intended to be used by employees to report their work activities and productivity. If you are an employee, this form will help you track your work hours, focus blocks, breaks, meetings, tasks completed, and other relevant details. If you are a manager or administrator, this form will help you monitor employee productivity and performance.
-
-Please note that this form is for internal use only. All fields are optional, but providing accurate and complete information will help ensure the effectiveness of the data analysis and any actions taken based on this data.
-
-Before proceeding, please ensure that you have the necessary permissions and access to complete this form.
-
-</thinking>
-
 # Hybrid Work Productivity Monitoring Form - Help Guide
 ## Purpose
 This form is used to track and monitor the productivity of employees in a hybrid work environment.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to request rescheduling of a studio access. The purpose of this form is to gather information from the user regarding their personal details and the reason for rescheduling their studio access. The form is likely to be used in a studio or office setting where bookings need to be managed.
-
-This form appears to be a simple two-page form that requests the user's details and the new booking details after rescheduling. It does not seem to be a form that requires complex calculations or conditional logic, so it should be straightforward for end users to fill it out.
-
-Before filling out this form, please make sure that you are not rescheduling the same booking multiple times. If you have already rescheduled this booking, please do not submit this form again.</thinking>
-
 # studio_access_reschedule_request_form - Help Guide
 ## Purpose
 The studio_access_reschedule_request_form is used to request rescheduling of a studio access.

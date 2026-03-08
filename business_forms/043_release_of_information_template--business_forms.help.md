@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for the purpose of releasing confidential or sensitive information to third parties. It is intended for business use and is likely used in situations where companies or organizations need to share information with external parties, such as partners, vendors, or clients. 
-
-Before proceeding, please ensure that you have the necessary permissions and authorizations to complete this form, and that you are not duplicating an existing form or process.
-
-</thinking>
-
 # Release Of Information Template - Help Guide
 ## Purpose
 This form is used to collect information necessary for releasing confidential or sensitive information to third parties. 

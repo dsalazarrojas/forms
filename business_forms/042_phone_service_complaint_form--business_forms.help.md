@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about phone service complaints from customers. This form will likely be used by phone service providers to identify recurring issues and take corrective action to improve their services.
-</thinking>
-
 # Phone Service Complaint Form - Help Guide
 ## Purpose
 The Phone Service Complaint Form is used to report phone service-related issues to the service provider. This form helps the provider identify problems and take necessary steps to resolve them.

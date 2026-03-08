@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals about their consent to be contacted regarding GDPR (General Data Protection Regulation) opt-in forms. The purpose of this form is to ensure that individuals are aware of and agree to receive communications from our organization regarding GDPR-related matters. This form is not intended to collect sensitive personal data but rather to obtain explicit consent for our marketing and communication efforts. Please ensure that you are completing this form only if you are an individual and have a legitimate interest in our services or products. We will not use this form to collect duplicate or unnecessary information, and we will keep all collected data private under GDPR regulations.
-</thinking>
-
 # Gdpr Opt In Form - Help Guide
 ## Purpose
 This form is used to collect information from individuals about their consent to be contacted regarding GDPR-related matters.

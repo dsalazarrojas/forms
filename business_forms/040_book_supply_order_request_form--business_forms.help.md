@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to collect information for book supply orders from various types of organizations. It asks for the requester's contact information, shipping details, and order specifics such as the titles, authors, and quantities of books requested. The form also inquires about the estimated budget for the order and the preferred shipping method and payment method. It's likely used by book suppliers or sellers to process orders and communicate with customers. This is the only instance of this form, so no instructions for duplication are necessary.</thinking>
-
 # Book Supply Order Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for book supply orders from various types of organizations, including schools, libraries, bookstores, universities, and corporations. It helps us process your order efficiently and ensure timely delivery.

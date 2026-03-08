@@ -1,18 +1,3 @@
-<thinking>
-This form is for capturing lead information for a painting service company. 
-The form's purpose is to collect contact details from users, including their contact method, project type, project location, and project description. The form is designed to be completed by potential customers of the painting service company.
-The form is divided into sections to make it easier for users to provide the necessary information. 
-Each field in the form should be filled out accurately and completely to ensure that the painting service company can follow up with the user appropriately. 
-The following fields are included in this form:
-* Project Type: This field asks the user to select the type of project they are interested in, such as residential, commercial, or industrial.
-* Customer Relationship: This field asks the user to indicate whether they are a new or existing customer.
-* Project Location: This field asks the user to specify the location where the project will take place.
-* Project Description: This field is a text area where users can provide a brief description of their project.
-* Contact Method: This field allows users to select their preferred method of contact, such as phone, email, text, or mail.
-* Customer Information: This field is a general text area where users can provide any additional information they feel is relevant to their project.
-* Lead Capture Form: This field is a free text area where users can provide any information they feel is necessary.
-</thinking>
-
 # painting_service_lead_capture_form - Help Guide
 ## Purpose
 This form is designed to capture lead information for a painting service company. It is intended to be completed by potential customers who are interested in obtaining painting services.

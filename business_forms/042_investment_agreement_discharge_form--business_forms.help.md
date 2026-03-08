@@ -1,37 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I'll analyze the field labels and types. This form appears to be related to the termination or discharge of an investment agreement, which involves several parties and various details. The form likely serves as a formal document to acknowledge and record the termination of an investment agreement, providing a structured way to capture essential information.
-
-The form consists of two pages: "Agreement Details" and "Parties Involved". The "Agreement Details" page seems to focus on the specific terms of the agreement, including the agreement number, investment amount, and reason for discharge. The "Parties Involved" page appears to concern the parties involved in the investment agreement, including their details such as name, position, and address.
-
-The form requires several fields to be filled out, including:
-
-1. Agreement Details:
-	* Agreement Number
-	* Investment Amount
-	* Reason for Discharge
-	* Termination Date
-2. Parties Involved:
-	* Parties Involved (Yes/No)
-	* Obligations Terminated (date)
-	* Signed By (name)
-	* Signed Date (date)
-	* Signed Time (time)
-	* Signed Position (name)
-	* Company Name (name)
-	* Company Position (name)
-	* Company Address (text)
-	* Company Zip (text)
-	* Company City (text)
-	* Company State (text)
-	* Company Country (text)
-	* Company Phone (text)
-	* Agreement Signed By (text)
-
-Upon analyzing the required fields, I notice that this form appears to capture comprehensive information about the termination or discharge of an investment agreement, including details about the agreement, parties involved, and formalities. I will proceed with creating the help guide based on these observations.
-
-</thinking>
-
 # Investment Agreement Discharge Form - Help Guide
 
 ## Purpose

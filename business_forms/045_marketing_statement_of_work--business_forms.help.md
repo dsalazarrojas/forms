@@ -1,12 +1,3 @@
-<thinking>
-This form is for creating a Marketing Statement of Work for a project. A Marketing Statement of Work is a document that outlines the goals and objectives of a project, including its scope, timelines, and deliverables. This form is typically used to capture information about a project from a business perspective, and to ensure that all stakeholders are on the same page. This form should only be used for projects that have already been initiated or are already in progress. 
-
-The form is used to gather information about the project, including its details, scope, timelines, and budget. It also captures information about the project team and stakeholders, including the customer and project manager. 
-
-Before filling out this form, please ensure that you have all the necessary information ready and that the project has already been initiated or is already in progress.
-
-</thinking>
-
 # marketing_statement_of_work - Help Guide
 ## Purpose
 This form is used to create a Marketing Statement of Work for a project.

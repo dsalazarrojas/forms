@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hand Receipt Form - Help Guide
 
 ## Purpose

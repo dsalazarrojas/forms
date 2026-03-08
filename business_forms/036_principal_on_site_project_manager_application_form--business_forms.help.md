@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I've reviewed the provided YAML form configuration and determined that the "Principal On Site Project Manager Application Form" is a form designed for applicants to provide information about their project management skills and experiences. The form appears to be a self-reporting form, where applicants can showcase their abilities, work experiences, and educational background. It's essential to understand that this form might not be part of a formal hiring or promotion process within an organization.</thinking>
-
 # Principal On Site Project Manager Application Form - Help Guide
 ## Purpose
 This form is designed for applicants to provide information about their project management skills and experiences, allowing them to showcase their abilities and background. Fill out this form to help our team assess your eligibility for this position.

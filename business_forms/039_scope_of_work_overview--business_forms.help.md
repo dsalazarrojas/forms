@@ -1,9 +1,3 @@
-<thinking>... (Internal reasoning)
-
-The "Scope Of Work Overview" form is a tool to gather essential information about a project's scope, timeline, and team responsibilities. This form helps project managers and team members clearly define and communicate project expectations, deliverables, and deadlines. By using this form, teams can establish a shared understanding of the project's objectives, roles, and responsibilities, ensuring everyone is on the same page and can effectively work together to deliver the project.
-
-</thinking>
-
 # Scope Of Work Overview - Help Guide
 ## Purpose
 The Scope Of Work Overview form is a project management tool to define and communicate project expectations, deliverables, and timelines.

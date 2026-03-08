@@ -1,5 +1,3 @@
-<thinking>Business Emergency Contact Form is used to gather essential information for emergency situations, ensuring that the necessary contacts and medical details are available in case of an unexpected event. This form should not be used for routine employee information gathering, but rather for situations where immediate action or attention is needed. Please ensure that you only submit this form in genuine emergency scenarios to avoid duplication.</thinking>
-
 # Business Emergency Contact Form - Help Guide
 ## Purpose
 The Business Emergency Contact Form is a critical tool to gather information for emergency situations. This form is not for general employee information, only for emergency purposes.

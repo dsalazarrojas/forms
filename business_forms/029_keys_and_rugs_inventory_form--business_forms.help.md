@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about inventory items, specifically keys and rugs. This form will be used to track and manage the status of items. To ensure accurate and efficient use of this form, please complete each field carefully and accurately. Please note that some fields are optional and may not apply to every item. Before starting, verify that this form is not a duplicate and that your information aligns with internal business processes and regulations.</thinking>
-
 # Keys And Rugs Inventory Form - Help Guide
 ## Purpose
 This form is designed to gather information about keys and rugs in the inventory. It's essential to provide accurate and complete details to ensure accurate tracking and management of these items.

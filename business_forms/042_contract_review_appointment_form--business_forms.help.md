@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for clients to schedule a contract review appointment with a lawyer. The purpose of this form is to collect information from clients about their contract review needs, including the type of agreement, the date and time of the appointment, and other relevant details. This form aims to ensure that the lawyer is well-prepared for the meeting and can provide the best possible service to the client. It is essential to fill out this form accurately and thoroughly to ensure that the lawyer understands the client's needs and can tailor the review process accordingly.
-Before proceeding, please ensure that you have not already filled out this form. If you have any questions or concerns, please contact the lawyer's office for assistance.
-</thinking>
-
 # Contract Review Appointment Form - Help Guide
 ## Purpose
 The Contract Review Appointment Form is a tool used by clients to schedule a contract review appointment with a lawyer. This form collects information about the client's contract, including the type of agreement, appointment date and time, and other relevant details. The lawyer uses this information to prepare for the meeting and provide personalized service to the client.

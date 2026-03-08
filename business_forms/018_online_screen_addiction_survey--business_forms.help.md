@@ -1,12 +1,3 @@
-<thinking>
-This form is a tool for assessing an individual's online screen use habits, focusing on both the time spent on screens and potential harms associated with excessive screen use. The purpose of this form is to collect information on a person's online behaviors, including the types of screens they use, the time spent on screens, and potential addictive behaviors. This data can be used to identify areas of concern and suggest strategies for healthy online habits.
-
-The form is designed to be easy to complete, with clear and concise questions that require minimal effort and time. Please note that this form is not intended to be a definitive diagnostic tool for screen addiction, but rather a general assessment tool to promote healthy online habits.
-
-Before starting, please take a few minutes to read this guide carefully, and feel free to ask if you have any questions.
-
-</thinking>
-
 # online_screen_addiction_survey - Help Guide
 ## Purpose
 The online_screen_addiction_survey is a tool designed to assess your online screen use habits, focusing on both time spent and potential harms associated with excessive screen use.

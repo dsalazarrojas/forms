@@ -1,6 +1,3 @@
-<thinking>
-To confirm, this form is designed to collect information for the rental and delivery of construction equipment. The form should only be filled out by authorized personnel, and it is intended to ensure accurate and efficient processing of orders. Please double-check for any duplication or redundancy before proceeding.
-</thinking>
 # Construction Equipment Order Form - Help Guide
 ## Purpose
 This form is used to collect information for the rental and delivery of construction equipment for a specific project. It is essential to fill out this form accurately to ensure that your order is processed correctly and delivered promptly.

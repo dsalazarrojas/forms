@@ -1,7 +1,3 @@
-<thinking>
-The Building Demolition Permit Application Form is used for applicants to submit information about a building demolition project to the authorities. This form is essential for ensuring that the applicant provides all necessary details to facilitate a smooth and safe demolition process. This form is required for all demolition projects and must be filled out completely and accurately.
-</thinking>
-
 # Building Demolition Permit Application Form - Help Guide
 ## Purpose
 The Building Demolition Permit Application Form is used to gather essential information about a building demolition project, including the applicant's details, project specifics, and safety measures.

@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clearly understood by the end-users. The Color Street Sample Request Form is designed to be used by business partners who want to try out Color Street products and experience their quality firsthand. This form allows them to request a free sample of their choice, which can help them decide if the products are right for them. The form also asks for some basic contact information, such as name, email, and mailing address, to ensure that the sample can be sent to them. Additionally, the form asks about their occupation and how they heard about Color Street, which can help us understand their demographics and preferences. At the end, the form also asks if they would like to be invited to join a Facebook group, which can help us connect with them further. The form is designed to be simple and easy to complete, while gathering enough information to provide a good experience for both the user and our business.
-
-Before filling out this form, please note that it is for business partners who want to try out our products and are planning to purchase in the future. If you're an individual looking for personal samples, please contact our customer service department for a personal shopping experience. This form will not be processed if it is deemed to be spam or from a user who has already received a sample from us.
-
-The form will guide you through three main sections. Section one will ask for your name, email address, and address. Section two will ask for more information about the type of sample you're interested in, your occupation, and how you heard about us. The final section will ask you if you want to join a Facebook group and if you're interested in future purchases.
-
-Please complete this form carefully, and we'll get in touch with you with more information about our products and how we can help you.
-</thinking>
-
 # Color Street Sample Request Form - Help Guide
 ## Purpose
 The Color Street Sample Request Form is designed for business partners who want to try out our products and potentially purchase from us in the future. This form will help you request a free sample of our products and provide some basic contact information to ensure the sample is sent to you.

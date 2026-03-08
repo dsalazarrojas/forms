@@ -1,12 +1,3 @@
-<thinking>
-This form is used to adjust exposure limits and request additional supporting documents for risk exposure. It is intended for users with exposure limits that need to be reviewed and updated. Before completing this form, please ensure that you have reviewed the relevant exposure limits and supporting documents to be included in your request. 
-
-This form is meant to be filled out in conjunction with other relevant internal processes, such as the risk exposure review process. 
-
-Please ensure that you have the necessary information and supporting documents ready before completing this form.
-
-</thinking>
-
 # risk_exposure_adjustment_application_form - Help Guide
 ## Purpose
 The risk exposure adjustment application form is used to adjust exposure limits and request additional supporting documents for risk exposure.

@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # scaffolding_quote_request_form - Help Guide
 ## Purpose
 

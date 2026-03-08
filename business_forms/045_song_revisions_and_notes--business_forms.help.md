@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Song Revisions And Notes - Help Guide
 
 ## Purpose

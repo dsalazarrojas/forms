@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Brewery Export Documentation Order Form - Help Guide
 ## Purpose
 The Brewery Export Documentation Order Form is a crucial document for breweries to provide accurate and complete information about their export shipments. This form helps the exporter and importer to ensure that all necessary documents and information are exchanged, reducing the risk of errors and potential issues during shipping.

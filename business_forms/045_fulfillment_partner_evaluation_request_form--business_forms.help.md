@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request evaluations from fulfillment partners for their services, capabilities, and overall performance. It is crucial that each partner submits their evaluation request form to help us better understand their strengths and weaknesses, which will aid in future business decisions. Please ensure that you only submit one request per evaluation. Multiple requests may be considered duplicate submissions.
-</thinking>
-
 # Fulfillment Partner Evaluation Request Form - Help Guide
 ## Purpose
 The Fulfillment Partner Evaluation Request Form is a tool used to gather information from our fulfillment partners about their services, capabilities, and performance. This form is essential for us to assess and improve our partnerships with them.

@@ -1,18 +1,3 @@
-<thinking>
-**Why is this form necessary?**
-
-The Fire Safety Plan Validation Form is designed to gather information about the company's fire safety plan, which is a critical component of workplace safety and risk management. This form helps ensure that companies have a comprehensive plan in place to prevent and respond to fires, which is essential for protecting employees, facilities, and assets.
-
-**Is this form a one-time or recurring task?**
-
-This form should be filled out on a regular basis, such as when a new fire safety plan is implemented, updated, or reviewed. The frequency of completion depends on the company's specific needs and industry regulations.
-
-**Is this form a mandatory or optional task?**
-
-This form is not mandatory, but it is highly recommended for companies that handle hazardous materials, have on-site storage of chemicals, or have other fire hazards present in the workplace.
-
-</thinking>
-
 # Fire Safety Plan Validation Form - Help Guide
 ## Purpose
 The Fire Safety Plan Validation Form is designed to gather information about a company's fire safety plan to ensure that it meets the necessary standards and protocols to prevent and respond to fires.

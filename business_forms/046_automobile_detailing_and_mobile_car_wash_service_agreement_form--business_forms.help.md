@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear and that we are not duplicating any existing form's purpose. This form is designed for customers to provide their information and preferences for automobile detailing and mobile car wash services. It is not the case that we need to duplicate any other form, as it's a unique service agreement form that captures essential details for the service.
-
-The form is designed to be user-friendly, with clear labels and hints for each field. However, some fields might not be entirely self-explanatory due to the specialized nature of the automotive industry.
-
-We should focus on providing explanations that are concrete, concise, and practical for the end-users. We can also use examples and scenarios to make it easier to understand each field's purpose.
-
-</thinking>
-
 # Automobile Detailing and Mobile Car Wash Service Agreement Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for our automobile detailing and mobile car wash services. It includes details about the customer, their vehicle, and the services they want to book. Please fill out the form carefully to ensure a smooth and successful service experience.

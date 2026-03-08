@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for vendors to provide information about their business operations, document sharing preferences, and assignment requirements. 
-The purpose of this form is to gather data for internal use by the company. 
-Please ensure that the form is not duplicated. 
-</thinking>
-
 # Vendor Documentation Sharing Consent Form - Help Guide
 
 ## Purpose

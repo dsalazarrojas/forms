@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect various types of data from users, including personal details, contact information, and geographical location. The form is likely used for business purposes, such as collecting information from customers or clients. It is essential to ensure that the form is filled out correctly to capture accurate and relevant information. Please make sure to fill out the form carefully and accurately, and do not submit duplicate entries.
-</thinking>
-
 # demo_test_sample_form - Help Guide
 ## Purpose
 This form is designed to collect various types of data from users for business purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fair Payment Terms Agreement - Help Guide
 ## Purpose
 This form is used to collect business and payment information from clients. It is essential for understanding the terms and conditions of the agreement between your business and the client, including payment details and timeline of the project.

@@ -1,12 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "vendor_inspection_slot_booking_form" form, I'll first analyze the form's purpose and fields. The form is designed to book a slot for a vendor inspection. It seems to be a form for managing and booking inspections with various personnel assigned to different tasks.
-
-Before proceeding, I'll check if this form has any overlap or redundancy with other forms, and verify that it's not being used for any other purpose. I'll also review the form's fields to ensure they're correctly assigned to their intended use cases.
-
-After verifying, I can confidently create the help guide.
-
-</thinking>
-
 # vendor_inspection_slot_booking_form - Help Guide
 
 ## Purpose

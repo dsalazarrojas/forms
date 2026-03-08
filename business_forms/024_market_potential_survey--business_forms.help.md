@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to gather information from customers about their market potential, which will help our team understand their business goals and challenges. This form will ensure that we are not duplicating questions or gathering irrelevant information. The form is divided into pages with different types of questions, such as multiple choice, select one, select multiple, date, time, and text fields. Each question has options provided for reference.</thinking>
-
 # Market Potential Survey - Help Guide
 ## Purpose
 This form is a survey designed to help us understand your market potential. Please answer the questions as accurately as possible to provide us with valuable insights.

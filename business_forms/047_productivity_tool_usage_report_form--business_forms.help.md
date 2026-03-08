@@ -1,8 +1,3 @@
-<thinking> 
-This form seems to be designed for gathering data about productivity tools and their usage. It's likely used in an organizational or business setting where employees use various tools to perform their tasks. The form appears to be a report form for tracking and reporting on tool usage, providing details on which tools were used, the frequency of use, and additional comments. This form is probably used by managers or administrators to monitor and analyze tool usage for performance and decision-making purposes.
-
-</thinking>
-
 # Productivity Tool Usage Report Form - Help Guide
 ## Purpose
 This form is designed to gather information about the usage of various productivity tools used in the workplace. The report will help managers and administrators track and analyze tool usage for performance evaluation and decision-making.

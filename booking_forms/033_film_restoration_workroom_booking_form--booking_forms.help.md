@@ -1,9 +1,3 @@
-<thinking>
-This guide explains the film restoration workroom booking form, a tool used for booking and managing film restoration services. Its purpose is to collect necessary information for booking workroom services, ensuring accurate and efficient scheduling. Before proceeding, ensure that you have all necessary information and authorization to complete this form. 
-
-This guide is for users who need to understand the form's structure and requirements for successful booking.
-</thinking>
-
 # film restoration workroom booking form - Help Guide
 ## Purpose
 The film restoration workroom booking form is a tool used for booking and managing film restoration services. This form collects necessary information for accurate and efficient scheduling. It is used for customers to request workroom services, such as booking time slots and providing details about the restoration services needed.

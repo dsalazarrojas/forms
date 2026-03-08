@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture feedback from trainees after attending a safety orientation training session. The purpose of the form is to evaluate the effectiveness of the training session, gather feedback on its quality, and identify areas for improvement. By submitting this form, trainees can provide their honest opinions on the training program, instructors, and overall experience.
-
-Before filling out this form, please ensure you have not already submitted feedback on this training session to avoid duplication of effort.
-
-</thinking>
 # Safety Orientation Training Feedback Form - Help Guide
 ## Purpose
 This form is used to gather feedback from trainees after attending a safety orientation training session. Your input will help us evaluate the effectiveness of the training and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect data related to improvements or changes requested for time flow diagrams, which are visual representations of business processes. The goal is to gather information about the proposed changes, such as their priority, expected impact, and the reason behind the request. This form will help the team understand and address these improvements effectively.
-</thinking>
-
 # Time Flow Diagram Improvement Request - Help Guide
 ## Purpose
 This form is designed to collect and document improvement requests for time flow diagrams, which are graphical representations of business processes. By filling out this form, you'll provide the necessary information for the team to understand and address the improvement requests.

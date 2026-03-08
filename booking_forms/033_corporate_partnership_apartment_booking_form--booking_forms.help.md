@@ -1,12 +1,3 @@
-<thinking>
-**Internal reasoning block**
-
-This form is designed for a corporate partnership apartment booking process. The main purpose of this form is to collect general information, company details, accommodation preferences, and other relevant data from users to facilitate their stay. It is crucial to ensure that all the necessary fields are filled correctly to provide the best accommodation experience for users.
-
-**Form fields should not be duplicated, and each field should only contain relevant information, making the form easy to complete and minimizing the possibility of errors.**
-
-</thinking>
-
 # Corporate Partnership Apartment Booking Form - Help Guide
 ## Purpose
 This form is used to collect information for a corporate partnership apartment booking process.

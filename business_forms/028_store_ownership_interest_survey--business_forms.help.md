@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a user's interest in owning a store and their level of involvement in the store's operations. The form has 4 fields:
-- A select_one field to determine the user's interest level in owning a store (Very interested, Somewhat interested, Not interested)
-- A number field to ask for the percentage of ownership the user has
-- A select_multiple field to ask for the user's level of involvement in the store's operations (True, False, Some)
-- A text field to collect additional store details
-
-It's crucial to note that this form is not designed for critical decisions or financial calculations, but rather for collecting user preferences and feedback.</thinking>
-
 # Store Ownership Interest Survey - Help Guide
 
 ## Purpose

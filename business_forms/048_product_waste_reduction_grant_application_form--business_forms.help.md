@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the user can effectively apply for the Product Waste Reduction Grant, it's essential to understand that the form is designed to gather essential information about a project that aims to reduce waste. The form must be completed by an authorized representative of the applicant organization, providing details about the project, its budget, timeline, and other relevant aspects. It's crucial to note that some fields are optional, and users should only fill out what is required or relevant to their application.
-</thinking>
-
 # Product Waste Reduction Grant Application Form - Help Guide
 ## Purpose
 This form is designed to assist applicants in providing detailed information about their project that seeks to reduce waste. To be eligible for the grant, the project must fall under one of the categories listed in the form and be deemed active or inactive status.

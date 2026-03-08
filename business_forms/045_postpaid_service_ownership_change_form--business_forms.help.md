@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to assist with the process of changing the ownership of a postpaid service. The purpose of this form is to gather information required to transfer ownership of a postpaid service from one party to another. This form typically collects details such as the transfer date, transfer time, current owner information, new owner information, service details, new owner's contact information, preferred transfer date and time, and service provider information. 
-
-Please note that this form does not duplicate any form templates or content from Jotform, Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other form creation, data collection, or survey platform. 
-
-</thinking>
-
 # Postpaid Service Ownership Change Form - Help Guide
 ## Purpose
 The Postpaid Service Ownership Change Form is used to document and facilitate the transfer of ownership of a postpaid service from one party to another.

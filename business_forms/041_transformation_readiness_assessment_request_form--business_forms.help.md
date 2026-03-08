@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be a Transformation Readiness Assessment Request Form, which helps to evaluate the readiness of a project to undergo transformation. It is intended to be completed by project managers, project sponsors, or other relevant stakeholders. It is recommended to complete this form only once per project, and ensure that all required information is provided to avoid duplication of effort and to ensure accurate assessment...</thinking>
-
 # Transformation Readiness Assessment Request Form - Help Guide
 
 ## Purpose

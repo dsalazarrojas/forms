@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from potential business consulting partners, such as consulting firms, software vendors, and integrators, who are interested in partnering with our company for process automation services. This form will help us understand their areas of interest and project requirements, allowing us to tailor our response to their specific needs. By providing their contact information, they will be able to receive follow-up messages and potential partnership opportunities.
-
-This form is intended for business-to-business (B2B) purposes, specifically for companies looking to partner with us for process automation consulting services. It is not designed for consumer or B2C purposes.
-
-Before filling out this form, please ensure that you have a legitimate business interest in partnering with us and are authorized to represent your company.
-
-</thinking>
-
 # Process Automation Consulting Partner Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and project requirements from potential business consulting partners who are interested in partnering with us for process automation services.

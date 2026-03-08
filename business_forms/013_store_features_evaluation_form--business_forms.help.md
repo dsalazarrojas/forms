@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to evaluate the store features of a business or organization. Each feature can be either "Yes" or "No" depending on whether it is available in the store. The form will collect data on the availability of different features in the store.
-The form is likely used by business owners or managers to assess the features of their store and make decisions based on the data collected.
-</thinking>
-
 # Store Features Evaluation Form - Help Guide
 ## Purpose
 The Store Features Evaluation Form is a tool used to evaluate the various features of a store. This form helps business owners or managers assess the availability of different features in the store and make decisions based on the data collected.

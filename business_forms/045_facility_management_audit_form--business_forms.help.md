@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Facility Management Audit Form - Help Guide
 
 ## Purpose

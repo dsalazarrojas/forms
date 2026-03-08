@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting an estimate for a service. It is intended for customers to provide information about their project details, and service provider information. This form is likely used in a business context, possibly for requesting quotes or bids from service providers. I'm assuming the form is used to gather information for internal use within the business. I'm assuming the form is not used for public-facing purposes.
-</thinking>
-
 # Service Estimate Request Form - Help Guide
 ## Purpose
 This form is used to request an estimate for a service. It collects information about your project and the service provider.

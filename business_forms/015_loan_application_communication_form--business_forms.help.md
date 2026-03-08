@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic loan application communication form, likely used by financial institutions or lenders to gather contact and loan-related information from applicants. The form seems to be designed to collect contact details, loan specifics, personal information of the applicant, documents required, review comments, communication preferences, and contact frequency of the lender with the applicant. It's worth noting that there is no clear indication of which specific type of loan this form is designed for (e.g., business, personal, mortgage, etc.), so it may be intended as a general-purpose template. The form's design and fields suggest it's meant to be filled out by applicants, but it's possible it could also be used by loan officers or administrators to collect information from applicants or other relevant parties. To ensure accuracy, it's essential to verify the form's intended use within the specific context of your organization or institution.
-</thinking>
-
 # loan_application_communication_form - Help Guide
 ## Purpose
 This is a form for loan applications, used to gather essential information from applicants for the purpose of communication and loan processing.

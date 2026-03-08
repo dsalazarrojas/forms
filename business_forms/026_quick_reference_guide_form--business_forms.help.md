@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to collect various types of information from end-users. The form is intended to be used as a quick reference guide, likely for troubleshooting or knowledge base purposes. It appears to be designed to be flexible, with multiple pages and fields of different types (text, number, select_one, select_multiple, date, time, note, email, text). The form does not require any of the fields, suggesting that it is intended to be optional. Each field is likely intended to collect specific information, such as dates, times, and yes/no answers. It is possible that this form is used in a business setting, such as in HR or operations departments.
-</thinking>
-
 # Quick Reference Guide Form - Help Guide
 ## Purpose
 This form is a quick reference guide form used to collect information for troubleshooting or knowledge base purposes.

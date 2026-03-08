@@ -1,11 +1,3 @@
-<thinking>
-We need to create a form that guides users on how to fill out the Financial Audit Form. This form has 25 pages, and each page has a text field with no options or hints. The form does not have any specific business logic or requirements, but it seems to be a basic form for collecting some information. The form's purpose might be to gather financial data or perform some kind of audit or evaluation. However, without further context, it's not possible to provide a definitive explanation of the form's purpose. We will assume it's a financial-related form and focus on creating a guide that provides general information on how to fill out each page of the form.
-
-We will create a form guide with four sections: "Purpose", "How To Complete This Form", "Field-by-Field Explanation", and "Tips". The "Purpose" section will briefly explain the form's assumed purpose, the "How To Complete This Form" section will walk the user through the general steps to fill out the form, and the "Field-by-Field Explanation" section will explain each field in detail. The "Tips" section will provide any additional information or guidance to the user.
-
-This guide assumes that the form is meant to collect general financial data and will follow that assumption in its explanations.
-</thinking>
-
 # Financial Audit Form - Help Guide
 ## Purpose
 The Financial Audit Form is assumed to be a form used to collect financial data or perform some kind of financial audit or evaluation. This form has 25 pages, each page asking for a different piece of information related to financial matters.

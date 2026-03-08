@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Train Freight Inspection Form - Help Guide
 
 ## Purpose

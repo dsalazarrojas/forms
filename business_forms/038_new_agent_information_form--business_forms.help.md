@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from new agents, which can include job seekers, agents, or other individuals representing a business or organization. The purpose of this form is to gather essential details about the agent, such as their contact information, work history, and qualifications. This form is likely used for internal purposes, such as creating a database or managing relationships with external partners.
-
-Before proceeding, please ensure that you are filling out this form for a new agent and not for an existing one. If you are filling out this form for an existing agent, please use the corresponding "agent update form" instead.
-
-Also, note that the form fields are mostly self-explanatory, but if you are unsure about any field, please refer to this guide for further clarification.
-
-</thinking>
-
 # new_agent_information_form - Help Guide
 ## Purpose
 

@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Personal Tax Client Intake Form" to assist end-users in understanding its purpose, completing it, and navigating its fields.
-
-This form is designed to gather essential information from clients for tax-related purposes. Its primary objective is to collect personal details and employment status to provide an overview of the client's tax situation. This form is likely used by tax professionals to prepare and file tax returns for their clients, ensuring accuracy and efficiency in the tax preparation process.
-
-To complete this form, users will need to follow the instructions below:
-
-</thinking>
-
 # Personal Tax Client Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients for tax-related purposes. It will be used to collect personal details and employment status to provide an overview of the client's tax situation.

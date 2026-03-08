@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help event planners and venue managers inspect and evaluate the suitability of an event venue. The form will be used to collect information about the venue's general information, safety procedures, accessibility features, venue equipment, and event planning. This form is intended to be used by venue managers to prepare for events, ensuring that they have all the necessary information to provide a safe and accessible environment for their guests.
-
-The form should only be completed by authorized venue staff or management. Duplicate forms should be avoided, and this form should not be used to collect sensitive or proprietary information.
-
-</thinking>
-
 # Event Venue Pre-Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about an event venue's general information, safety procedures, accessibility features, venue equipment, and event planning. The collected information will be used by venue managers to prepare for events and ensure a safe and accessible environment for guests.

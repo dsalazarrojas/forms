@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is intended to guide users through the Export Control Screening Questionnaire form. The purpose of this form is to collect information from users to determine if an export is subject to any export control regulations. The form is designed to be completed by export administrators to ensure that all relevant export control regulations are considered before exporting goods or services. The export control list includes countries that are subject to export restrictions, and the user is asked to select one or multiple countries from this list. The form also includes general information, date, time, notes, and contact information (email and phone) for the export. 
-
-</thinking>
-
 # Export Control Screening Questionnaire - Help Guide
 ## Purpose
 The Export Control Screening Questionnaire is a form used to collect information from users to determine if an export is subject to any export control regulations. It is designed to be completed by export administrators to ensure that all relevant export control regulations are considered before exporting goods or services.

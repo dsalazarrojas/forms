@@ -1,8 +1,3 @@
-<thinking>
-The Mahas-Employee-COVID-19-Self-Screening-Questionnaire is a form designed to collect information from employees regarding their health status related to COVID-19. The form is intended for employees to provide self-screening information to help management and HR teams understand potential risks and take necessary precautions to ensure a safe working environment.
-To ensure relevance, we need to consider that this form is likely used in a business setting where employees interact with each other and clients/customers. Non-duplication is not a concern as the form is designed for self-screening purposes and each field is intended to collect a specific piece of information.
-</thinking>
-
 # Mahas-Employee-COVID-19-Self-Screening-Questionnaire - Help Guide
 ## Purpose
 The Mahas-Employee-COVID-19-Self-Screening-Questionnaire is a form used to gather information from employees about their health status related to COVID-19. This information will help management and HR teams identify potential risks and take necessary precautions to maintain a safe working environment.

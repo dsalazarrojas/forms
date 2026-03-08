@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Expression Of Interest Form - Help Guide
 ## Purpose
 This form is meant to gather information for a job expression of interest for potential employment opportunities at our company. It is intended for individuals who wish to be considered for a position and are interested in submitting an expression of interest. 

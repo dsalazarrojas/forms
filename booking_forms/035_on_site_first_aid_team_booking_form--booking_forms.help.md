@@ -1,7 +1,3 @@
-<thinking>
-The "on_site_first_aid_team_booking_form" is used for booking a first aid team on-site for events. This form is typically used for internal purposes, and users should only submit it when it's necessary to request on-site first aid team support for an event. The form is not intended for general public use, so users should not try to access or modify existing submissions without permission. When creating a new submission, please review the form carefully to ensure that the information provided is accurate and complete. Before submitting the form, review the form fields and make sure to include all required information. If you're unsure about any field, please contact the relevant authorities for guidance.
-</thinking>
-
 # on_site_first_aid_team_booking_form - Help Guide
 ## Purpose
 The "on_site_first_aid_team_booking_form" is used for booking a first aid team on-site for events.

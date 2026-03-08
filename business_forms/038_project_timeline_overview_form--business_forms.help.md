@@ -1,9 +1,3 @@
-<thinking>
-We're going to create a help guide for the "project_timeline_overview_form" form. This form is used for project managers and team members to provide an overview of projects. The purpose of this form is to collect relevant information about a project, including its details, milestones, deadlines, and other important details. It's essential to fill out this form accurately and completely, as it will help project managers keep track of project progress and ensure everyone is on the same page.
-
-Before starting the form, please take a moment to review the fields below and make sure they are not duplicating any information already present in the project's other forms.
-
-</thinking>
 # project_timeline_overview_form - Help Guide
 ## Purpose
 The "project_timeline_overview_form" form is used to provide an overview of projects, collecting essential information about project details, milestones, deadlines, and other important project aspects.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the progress of an application development project. It is intended for use by project managers, team leads, and stakeholders to monitor and track the project's status. The form should not be used to request new project features or changes. Each field represents a key aspect of the project and should be filled out accurately to reflect the current state of the project.
-</thinking>
-
 # App Development Checklist Form - Help Guide
 ## Purpose
 The App Development Checklist Form is a tool to track the progress of a software development project. It helps project managers, team leads, and stakeholders to assess the current status of various aspects of the project.

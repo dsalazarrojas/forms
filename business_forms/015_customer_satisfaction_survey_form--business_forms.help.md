@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to measure customer satisfaction with the company's services or products, collecting data on what customers think about their experience. The purpose of this form is to gauge the quality of service and identify areas where improvements can be made. To avoid duplication, ensure this form is filled out only once per customer interaction or visit.
-
-</thinking>
-
 # Customer Satisfaction Survey Form - Help Guide
 ## Purpose
 This form is designed to measure customer satisfaction with the company's services or products.

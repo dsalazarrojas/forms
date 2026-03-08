@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive tool for estimating the value of gold items. It includes various fields to gather user-inputted information about the item, such as its description, weight, material, and price range. The form also asks for customer inquiries and their contact information, which could be related to the estimation process or follow-up actions. Additionally, there are fields for the estimated and actual value of the gold item, as well as for any differences between these values. Lastly, the form has a notes section for further comments or explanations. The purpose of this form might be for internal use within a business or organization that deals with gold valuation, such as a jewelry store or a precious metal dealer. The fields are mostly text or number fields, which suggests the form is intended for users to input data directly. The options available for the "Material" and "Customer Inquiry Type" fields are specific and limited, indicating that the form is tailored to a particular set of use cases. The "Price Range" field is a select_multiple field, which could be useful for capturing multiple price points or a range of values. Overall, the form appears to be designed for data collection and estimation purposes, possibly for internal use within an organization.
-</thinking>
-
 # Gold Price Estimation Form - Help Guide
 
 ## Purpose

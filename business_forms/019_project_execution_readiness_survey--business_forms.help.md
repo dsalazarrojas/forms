@@ -1,5 +1,3 @@
-<thinking>A survey designed to assess project execution readiness.</thinking>
-
 # Project Execution Readiness Survey - Help Guide
 ## Purpose
 This form is a comprehensive tool to evaluate a project's readiness for execution. It consists of multiple pages with various fields to gather information and assess project readiness in different areas.

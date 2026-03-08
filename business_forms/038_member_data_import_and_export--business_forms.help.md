@@ -1,18 +1,3 @@
-<thinking>
-We'll need to create a user-facing help guide that explains the purpose of the form, how to complete it, and each field's meaning. This guide will be in Markdown format, with the following structure:
-# Member Data Import And Export - Help Guide
-## Purpose
-## How To Complete This Form
-## Field-by-Field Explanation
-## Tips
-
-This form is used for importing and exporting member data, allowing users to control the process and tailor it to their needs. The form will guide the user through the process of selecting options for importing data, setting export options, and configuring the data format and method of import.
-
-The form's purpose is to provide users with a flexible way to manage member data, whether it's importing new data or exporting existing data. Users can choose whether to import or export member data, select the format for export, and configure the import method and frequency. This form will help users ensure that their member data is up-to-date and accurate.
-
-We'll need to create a clear and concise guide that explains each field's purpose and options to help users complete the form accurately.
-</thinking>
-
 # Member Data Import And Export - Help Guide
 ## Purpose
 

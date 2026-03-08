@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather business development information from employees at the end of each day, which will help the management team track the daily progress, identify areas of improvement, and provide guidance for future business development activities. The form aims to collect data on daily activities, sales performance, customer feedback, and challenges encountered. This data will help the management team make informed decisions and provide necessary support to the employees. It's essential that each employee completes this form accurately and thoroughly to ensure that the management team receives a clear picture of their daily performance and progress.
-
-</thinking>
-
 # Business Development End Of Day Report Form - Help Guide
 ## Purpose
 The purpose of this form is to gather business development information from employees at the end of each day, providing the management team with a clear understanding of their daily progress and performance.

@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for requesting data integrity validation from users. Data integrity validation is crucial to ensure that the data entered by users is correct, accurate, and consistent throughout the system. The form is designed to collect user input with various types of fields such as text, email, phone, date, time, select, and note.
-
-To determine if this form is relevant for a given scenario, consider the following:
-
-* Is the scenario related to data collection or validation?
-* Is the scenario requiring user input or data verification?
-* If the scenario is not directly related to data collection or validation, it's possible that this form is not the most suitable choice.
-
-To prevent duplication of effort, review existing forms and procedures before using this form.
-
-</thinking>
-
 # data_integrity_validation_request_form - Help Guide
 ## Purpose
 This form is used to request data integrity validation from users.

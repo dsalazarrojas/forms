@@ -1,7 +1,3 @@
-<thinking>...
-This form is used for booking a spa relaxation therapy appointment. It's intended for clients to provide their personal and appointment details. The form is used in a spa setting and is meant to be completed by clients. This is a one-time use form, not for recurring or subscription-based bookings. The form does not store or process payment information. 
-
-</thinking>
 # Spa Relaxation Therapy Appointment Form - Help Guide
 
 ## Purpose

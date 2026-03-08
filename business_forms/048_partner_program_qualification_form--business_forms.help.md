@@ -1,7 +1,3 @@
-<thinking>
-This form is used to qualify new partners for our business partner program. The purpose of this form is to collect necessary information from potential partners to evaluate their eligibility and suitability for the program. To ensure accurate and efficient processing, please fill out the form completely and carefully. If you have already submitted a previous version of this form, please do not resubmit. The information provided will be used to assess your partner status and create a profile in our system.
-</thinking>
-
 # Partner Program Qualification Form - Help Guide
 ## Purpose
 The Partner Program Qualification Form is a comprehensive document used to collect and evaluate necessary information from potential partners for our business partner program. This form helps us assess your suitability and eligibility for the program.

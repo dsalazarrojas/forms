@@ -1,5 +1,3 @@
-<thinking>... This form is designed for inspecting and documenting the status of access control systems in facilities or buildings. The purpose of this form is to gather information on the functionality and condition of various access control systems, including physical locks and doors, electronic access systems, alarm systems, surveillance systems, and more. By answering each field, you will help maintain accurate records and ensure that any potential issues are addressed promptly. This form should not be used for other purposes or as a template without understanding the context and intent behind it. If you are unsure about a specific field, please review the instructions and options carefully before proceeding. </thinking>
-
 # Access Control System Checklist Form - Help Guide
 ## Purpose
 This form is designed for inspecting and documenting the status of access control systems in facilities or buildings. It helps ensure that all systems are functioning correctly and that any issues are identified and addressed promptly.

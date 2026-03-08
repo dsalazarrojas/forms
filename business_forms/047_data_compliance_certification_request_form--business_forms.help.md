@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Data Compliance Certification Request Form - Help Guide
 ## Purpose
 The Data Compliance Certification Request Form is a document that certifies an organization's or individual's commitment to data compliance. The form is used to gather information about the request for data compliance certification, which is a critical component in ensuring the confidentiality, integrity, and availability of sensitive data. This form helps in tracking and verifying the certification status of an organization or individual, which is essential for maintaining a secure and compliant data environment.

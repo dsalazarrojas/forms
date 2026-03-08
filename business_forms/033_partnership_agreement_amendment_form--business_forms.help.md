@@ -1,9 +1,3 @@
-<thinking>
-This form is for amending a partnership agreement, allowing partners to record changes to the original agreement. The purpose of this form is to document the details of the amendment, including the date of the amendment, the party responsible for the amendment, and the reasons for the change. This form is meant to be filled out by the amending party, typically the party making the change or their representative.
-The form will help in keeping track of the agreement's history and facilitate communication between partners about the changes made.
-It's essential to review the original partnership agreement and ensure that the amendment doesn't conflict with it.
-</thinking>
-
 # Partnership Agreement Amendment Form - Help Guide
 ## Purpose
 The Partnership Agreement Amendment Form is a document used to record changes to a partnership agreement. It ensures that all parties are aware of the modifications made to the original agreement and maintains a record of the agreement's history.

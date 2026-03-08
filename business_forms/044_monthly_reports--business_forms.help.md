@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to collect monthly report information from users. It is designed to gather data on a report's name, status, year, date range, notes, contact person, phone number, email, and report type. The form requires the user to input a report name, select the month and year of the report, and enter a valid email address. The report status and type are optional fields. This form is not intended to be filled out by users without a valid reason for doing so. If a user is unsure about the purpose of the form or the required fields, they should not fill out the form.
-
-Please note that this form is designed to be completed by users who have a legitimate reason for filling out the form. If you are unsure about your reason for filling out the form, please stop and seek clarification before continuing.
-
-The form is not intended to be a substitute for other forms or processes that have specific requirements and constraints. Please ensure that you have read and understood the relevant documentation before attempting to fill out this form.
-
-This form is part of a larger process and is intended to be completed as part of that process. Please be aware that incomplete or inaccurate submissions may cause issues further down the line.
-
-Before filling out the form, please ensure that you have a valid reason for doing so and that you are familiar with the relevant documentation and process.
-</thinking>
-
 # Monthly Reports - Help Guide
 ## Purpose
 The purpose of this form is to collect monthly report information from users.

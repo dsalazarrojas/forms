@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to support departmental budget requests, providing a structured process for requesting financial assistance from the department. It's meant to be used by department members to submit budget support requests for their department's specific needs. This form should not be used for other purposes, such as general inquiries or non-budget-related requests. Before filling out this form, ensure that you have a clear understanding of your department's budget requirements and that you've reviewed your department's budget guidelines.
-</thinking>
-
 # Departmental Budget Support Request Form - Help Guide
 ## Purpose
 This form is used to submit a departmental budget request, providing essential details to support your department's financial needs.

@@ -1,13 +1,3 @@
-<thinking>
-
-To create an effective user-facing help guide for the Mileage Rate Calculator form, we need to understand its purpose and the fields required to complete it. Let's assume the form is designed to help businesses record and track their mileage expenses, such as car fuel consumption and reimbursement status. 
-
-The form should gather data on business mileage rates, including type (business, private, or personal), start and end dates and times, distance traveled, fuel type, and fuel cost. The form might also collect information on reimbursement status and other relevant details.
-
-To ensure the form is complete and effective, we should verify that all the required fields are filled in and that no unnecessary data is collected. Let's break down the form into its key components to provide a comprehensive help guide.
-
-</thinking>
-
 # Mileage Rate Calculator - Help Guide
 ## Purpose
 

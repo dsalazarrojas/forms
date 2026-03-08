@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a cruise booking communication process. The form should only be used for this specific purpose and not for other uses. Please note that the form is not intended for internal use and should not be used to collect information that is not relevant to the cruise booking process. This form is meant to be used by customers to provide their personal and travel-related information for the purpose of booking a cruise. Please ensure that the form is only used for this intended purpose and not for other reasons.
-</thinking>
-
 # cruise_booking_communication_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for the purpose of booking a cruise. It is intended to be used by customers to provide their personal and travel-related information.

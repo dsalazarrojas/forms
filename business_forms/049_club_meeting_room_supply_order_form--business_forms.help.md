@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from meeting organizers and requesters to determine the necessary supplies and equipment needed for their meetings. This includes details about the meeting, such as the date, time, location, and expected number of attendees. The form also asks about the type and quantity of beverages and food needed, as well as any special dietary accommodations. Additionally, it inquires about the type and quantity of equipment and supplies needed, such as AV equipment, furniture arrangement, and other supplies. The form is designed to be completed by the meeting requester, who will submit it to the meeting organizers and event planners to ensure that all necessary arrangements are made for a successful meeting.
-
-The form is intended to be a one-time submission, and once completed, it should be reviewed and actioned upon by the meeting organizers. It is not designed for recurring meetings or ongoing submissions.
-
-Before completing the form, please review the following fields carefully to ensure that you provide accurate and complete information.
-
-Please submit this form at least [insert time frame, e.g., 24 hours or more before the meeting] before the meeting date.
-
-Note: The form fields are designed to be completed in a sequential manner, with each section building upon the previous one. Please complete each section before moving on to the next.
-
-This form will be used by meeting planners to determine the necessary supplies and equipment for your meeting. Please be as detailed as possible in your responses.
-
-</thinking>
-
 # Club Meeting Room Supply Order Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from meeting organizers and requesters to determine the necessary supplies and equipment needed for their meetings.

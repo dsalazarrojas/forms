@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback from users on the performance of the network. It is essential to provide accurate and detailed information on the network quality, performance issues, and comments to help us improve the network. Before submitting your feedback, please ensure you are not duplicating an existing submission, as we want to hear fresh perspectives. This form is open to all users and is intended to be completed by those who wish to share their thoughts and suggestions for improvement.
-</thinking>
-
 # network_performance_feedback_form - Help Guide
 ## Purpose
 This form is designed to collect feedback on the performance of the network, providing valuable insights to help us improve its quality and functionality.

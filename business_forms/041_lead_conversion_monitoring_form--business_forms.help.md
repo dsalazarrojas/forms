@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to track and monitor lead conversions in the sales process. The main purpose of this form is to collect information about lead sources, status, stage, and other relevant data points to ensure that leads are properly converted and escalated to the next stage. The form should only be used for lead conversion monitoring, not for other business processes. To use this form, ensure that you are in the correct context and only use it for its intended purpose.
-</thinking>
-
 # Lead Conversion Monitoring Form - Help Guide
 
 ## Purpose

@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information and terms for an event photography contract between a client and a photographer. The form should only be used to record agreements for events that are not private or confidential.
-
-Before filling out this form, ensure that:
-
-1. The event date and time are correct to confirm the photography services' schedule.
-2. Client contact information (name) and event location are properly recorded.
-3. Event details and photography services agreed upon are accurate.
-4. Both the client and the photographer have signed the contract.
-
-This form is an original adaptation of public survey topic metadata and does not copy or use proprietary content from any other platform.
-
-</thinking>
-
 # Event Photography Contract - Help Guide
 ## Purpose
 The Event Photography Contract form is designed to document the agreement between a client and a photographer for an event. This form helps establish clear expectations, ensures both parties understand their roles, and maintains a record of the agreed-upon terms.

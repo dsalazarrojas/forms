@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to verify a customer's loyalty program membership details. This form is designed to collect information about the customer's membership type, points balance, points earned, membership expiration date, and other relevant details. The form will help verify the customer's loyalty program status and ensure that the information is accurate and up-to-date. Before proceeding, ensure that you have the necessary permissions and access to view this form.
-
-To complete this form, simply follow the instructions below.
-
-</thinking>
-
 # Loyalty Program Verification Form - Help Guide
 ## Purpose
 This form is designed to verify a customer's loyalty program membership details, including membership type, points balance, points earned, membership expiration date, and other relevant information.

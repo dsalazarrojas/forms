@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their role and interests in the Customer Data Protection Program. This form is part of an internal process to ensure that customers who wish to be part of the program have the necessary contact information and role clarity.
-
-This form will be reviewed by the internal team before acceptance into the program.
-
-The provided fields are meant to capture user information to create a profile for them in the program.
-
-Note: This form is designed for users to provide details about themselves, and some fields are optional. Ensure you complete all required fields and provide accurate information to avoid delays in the acceptance process.
-
-</thinking>
-
 # Customer Data Protection Program Registration - Help Guide
 
 ## Purpose

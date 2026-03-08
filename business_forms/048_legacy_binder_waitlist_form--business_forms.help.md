@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to submit their information for a waitlist for a specific legacy binder. The purpose of this form is to collect contact information, waitlist dates and times, and waitlist lengths for each section of the binder. This form has multiple pages, and users will be required to fill out each page with the necessary information. There is no internal logic or rules checking for duplication of forms, meaning a user can submit multiple forms if needed. Users should only fill out the pages that correspond to their specific needs, and not fill out a page with no relevant information.
-
-</thinking>
-
 # Legacy Binder Waitlist Form - Help Guide
 ## Purpose
 The Legacy Binder Waitlist Form is used to submit information for a waitlist for a specific legacy binder. This form is used to collect contact information, waitlist dates and times, and waitlist lengths for each section of the binder.

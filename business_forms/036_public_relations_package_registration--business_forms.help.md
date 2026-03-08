@@ -1,35 +1,3 @@
-<thinking>
-This form is meant to capture information related to public relations packages, which likely involves collecting data from prospects or customers to understand their engagement with a product or service. The form should be filled out by a representative of the organization to register a public relations package for a campaign or follow-up activity. It's essential to ensure the form is filled out accurately and thoroughly to capture all relevant details. Before proceeding, please review the form carefully to avoid duplication of effort and ensure the data is up-to-date. 
-
-This form collects the following information:
-- Prospect first name
-- Prospect last name
-- Company name
-- Email address
-- Phone number
-- Package type (multiple options)
-- Package details
-- Campaign date
-- Campaign time
-- Follow-up date
-- Follow-up time
-- Campaign duration
-- Package status (multiple options)
-- Campaign status (multiple options)
-- Follow-up method (multiple options)
-- Follow-up details
-- Campaign notes
-- Next follow-up date
-- Next follow-up time
-- Next follow-up method
-- Follow-up contact name
-- Follow-up contact phone number
-- Follow-up contact email
-
-To ensure accuracy and completeness, please fill out the form carefully, paying attention to the required fields marked as "required". 
-
-</thinking>
-
 # public_relations_package_registration - Help Guide
 ## Purpose
 The public_relations_package_registration form is used to register a public relations package for a campaign or follow-up activity. It captures essential information from prospects or customers to track their engagement with a product or service.

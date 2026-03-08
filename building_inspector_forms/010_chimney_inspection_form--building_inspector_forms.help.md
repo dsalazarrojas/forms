@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to gather information about a chimney's condition and provide an assessment of its overall condition, safety, and any recommended repairs or services. The purpose of this form is to help inspectors gather data on the chimney's performance, identify potential safety issues, and provide recommendations for repairs or maintenance. 
-
-This form will be used by inspectors to record their findings during a chimney inspection, including details about the chimney's age, height, location, and type, as well as its condition and any safety hazards or concerns. The form will also include space for inspectors to provide additional notes or comments about their findings.
-
-This guide will provide instructions on how to complete the form and explain each field in detail.
-
-</thinking>
-
 # Chimney Inspection Form - Help Guide
 
 ## Purpose

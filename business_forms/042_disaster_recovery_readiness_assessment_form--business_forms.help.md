@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess a business's disaster recovery readiness in preparation for potential crises. It is intended to help identify key processes and procedures that should be in place in case of a disaster or critical incident. To complete this form, the user should answer the following questions in relation to their business continuity planning and recovery processes.
-</thinking>
-
 # Disaster Recovery Readiness Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to evaluate the disaster recovery readiness of a business. It helps identify key processes and procedures that should be in place in case of a disaster or critical incident.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Safety Stock Request Form - Help Guide
 ## Purpose
 This form is intended to collect information for a safety stock request. A safety stock is a strategic inventory level that ensures that items are available to meet customer demand. This form is designed to gather details about the request, item, and requester's information to facilitate the processing and fulfillment of the safety stock request.

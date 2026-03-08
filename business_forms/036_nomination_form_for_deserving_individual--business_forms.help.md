@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nomination Form For Deserving Individual - Help Guide
 ## Purpose
 This form is designed to collect information about an individual who deserves recognition for their outstanding contributions, achievements, or qualities. The purpose of this form is to identify and nominate individuals who have made significant positive impacts in their community or field, and to provide supporting materials for their recognition.

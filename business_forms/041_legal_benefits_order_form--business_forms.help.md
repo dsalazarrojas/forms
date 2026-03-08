@@ -1,11 +1,3 @@
-<thinking>
-
-The Legal Benefits Order Form is used to document and track legal benefits received by a business. This form helps ensure that all benefits are properly recorded and reported to relevant parties. It's essential to complete this form accurately to maintain compliance and avoid errors.
-
-Before filling out this form, please ensure that you're familiar with the specific benefits you're documenting and that you're not duplicating efforts. If you're unsure about any benefit or field, contact the relevant authority or seek clarification from your supervisor.
-
-</thinking>
-
 # Legal Benefits Order Form - Help Guide
 ## Purpose
 The Legal Benefits Order Form is a document that records and tracks legal benefits received by a business. This form helps ensure that all benefits are properly recorded and reported to relevant parties, reducing the risk of errors and maintaining compliance.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and context. The Quarterly Business Progress Report form is designed to capture key information about the progress and status of various business units and teams within an organization. This report is likely used for tracking and analyzing performance, identifying areas of improvement, and making informed decisions. It's essential to understand the form's purpose and the specific sections it covers to ensure that users fill it out correctly and effectively.</thinking>
-
 # Quarterly Business Progress Report - Help Guide
 ## Purpose
 The Quarterly Business Progress Report is a form used to report on the progress and status of various business units and teams. It helps to track and analyze performance, identify areas of improvement, and inform decisions.

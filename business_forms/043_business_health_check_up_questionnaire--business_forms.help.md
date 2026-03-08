@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to conduct a business health checkup, assessing the overall performance and well-being of a business. This guide will help users understand what each field is about and how to complete the form accurately.
-
-</thinking>
-
 # Business Health Check Up Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to evaluate a business's key areas of concern, including its vision and goals, revenue stability, profit margins, customer satisfaction, market competitiveness, employee engagement, operational efficiency, innovation focus, financial health, strategic planning, risk management, and areas of improvement. By completing this form, users will get a comprehensive picture of their business's strengths and weaknesses, providing valuable insights for decision-making and growth.

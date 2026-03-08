@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who wish to apply for work-from-home arrangements, allowing them to submit their applications and preferences. This form likely exists to streamline the process of evaluating and responding to work-from-home requests, ensuring that necessary information is collected and reviewed efficiently. Before creating this guide, ensure that the form's purpose and scope have been established within your organization and that this guide accurately reflects the form's intended use. If this is not the case, please revisit the form's configuration and purpose before proceeding.
-</thinking>
-
 # Work From Phone Application Form - Help Guide
 ## Purpose
 The Work From Phone Application Form is designed to collect information from individuals applying for work-from-home arrangements. This form gathers necessary details to evaluate and process these requests efficiently.

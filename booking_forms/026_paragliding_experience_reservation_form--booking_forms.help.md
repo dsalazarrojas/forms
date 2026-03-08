@@ -1,12 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the Paragliding Experience Reservation Form, I'll first consider the form's purpose and the provided YAML fields.
-
-The form is used to collect information from customers who want to book an experience related to paragliding. The fields seem to cover basic details such as reservation details, customer information, experience date, experience time, contact email, phone number, experience location, and any additional customer notes.
-
-To avoid duplication, I'll ensure that the guide is concise and covers only essential information.
-
-</thinking>
-
 # Paragliding Experience Reservation Form - Help Guide
 ## Purpose
 This form is used to book a paragliding experience. Please fill in the required details to complete the reservation.

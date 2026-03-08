@@ -1,15 +1,3 @@
-<thinking>
-
-To confirm, I will create a user-facing help guide for the "Account Activation Request Form" that explains:
-
-* The form's purpose and what the user needs to do to complete it.
-* How to complete each field, including any necessary details or explanations.
-* Each field's label, type, and required/optional status.
-
-This will help users understand what is expected of them and ensure they provide accurate and complete information.
-
-</thinking>
-
 # Account Activation Request Form - Help Guide
 ## Purpose
 This form is used to request account activation for a business or organization. It collects information about the requestor and their account requirements to facilitate the activation process.

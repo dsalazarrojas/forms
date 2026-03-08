@@ -1,25 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Marketplace Seller Onboarding Registration" form, we need to understand its purpose and how it's structured. This form is designed to collect information from new sellers on a marketplace platform. 
-
-The form's purpose is to gather accurate and truthful information from sellers about themselves and their products. This includes their product categories of interest, which helps the platform to categorize and showcase their products effectively. Additionally, the form includes a consent and an agreement section where sellers confirm the accuracy of their information and agree to the platform's terms and conditions.
-
-From a technical perspective, the form consists of four main fields:
-1.  **seller_details** 
-   1.1. This field collects information about the seller's identity (e.g., name, contact).
-   
-2.  **product_categories** 
-   2.1. This field asks the user to list their product categories of interest.
-
-3.  **consent** 
-   3.1. This field requires the seller to confirm that all information provided is accurate and truthful.
-
-4.  **seller_agreement** 
-   4.1. This field asks the seller to agree or disagree to the platform's terms and conditions.
-
-Given this information, we can proceed with the help guide.
-
-</thinking>
-
 # Marketplace Seller Onboarding Registration - Help Guide
 ## Purpose
 This form is designed for new sellers on a marketplace platform to provide accurate and truthful information about themselves and their products. It is used to onboard sellers efficiently and ensure they understand the platform's terms and conditions.

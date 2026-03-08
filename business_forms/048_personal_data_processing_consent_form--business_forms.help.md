@@ -1,6 +1,3 @@
-<thinking>
-This guide provides instructions on how to complete the "personal_data_processing_consent_form" form. This form is used to obtain consent from individuals for the processing of their personal data. The form helps to ensure that individuals are aware of the purpose, data collected, and methods of processing their personal data. It also ensures that the data is stored and retained in a way that complies with relevant laws and regulations.
-</thinking>
 # personal_data_processing_consent_form - Help Guide
 ## Purpose
 This form is used to obtain consent from individuals for the processing of their personal data. It ensures that individuals are aware of the purpose, data collected, and methods of processing their personal data, and that this processing complies with relevant laws and regulations.

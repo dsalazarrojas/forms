@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from suppliers for the Supplier Benchmarking Program. The purpose of this form is to gather data on supplier performance, ratings, and characteristics. To ensure that the information submitted is accurate, please fill out the form carefully and thoroughly. To prevent duplicate submissions, please ensure that you are not submitting multiple applications for the same supplier. If you have any doubts or questions, please refer to this help guide for clarification.
-</thinking>
-
 # Supplier Benchmarking Program Application Form - Help Guide
 ## Purpose
 The Supplier Benchmarking Program Application Form is a tool used to collect and evaluate data on supplier performance, ratings, and characteristics.

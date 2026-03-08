@@ -1,13 +1,3 @@
-<thinking> 
-This form is designed to gather information after a meeting has taken place, helping to ensure that important details are recorded and action items are documented. The purpose of the Meeting Debrief Template is to facilitate post-meeting discussions, review meeting outcomes, and plan next steps. This template is typically used in meetings where team members need to review the meeting's goals, objectives, and progress.
-
-The form can be used to document meetings such as team meetings, client meetings, or project progress meetings. It helps to identify areas of improvement, discuss action items, and create follow-up tasks. 
-
-The form is intended for meeting organizers and attendees to provide a clear and concise summary of the meeting, including the meeting's objectives, outcomes, next steps, and follow-up tasks.
-
-The template can be used in various contexts, such as in project management, team collaboration, or customer meetings. It is a useful tool for ensuring that meetings are productive, well-organized, and followed up on effectively.
-</thinking>
-
 # Meeting Debrief Template - Help Guide
 
 ## Purpose

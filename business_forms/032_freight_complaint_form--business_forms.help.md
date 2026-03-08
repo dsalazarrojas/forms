@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about issues they've experienced with their shipping. The goal is to gather details about the problem, the shipping company involved, and any other relevant information that will help us to resolve the issue. To ensure that you provide us with accurate and useful information, please make sure to fill in all the required fields and provide as much detail as possible. Before filling out this form, please make sure that the issue is not already being investigated and that you haven't already contacted us about this same issue.</thinking>
-
 # Freight Complaint Form - Help Guide
 ## Purpose
 The Freight Complaint Form is used to collect information from customers about issues they've experienced with their shipping. This form helps us to gather details about the problem, the shipping company involved, and any other relevant information that will help us to resolve the issue.

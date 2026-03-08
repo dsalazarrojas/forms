@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information about vehicle bookings for events, which can be used to manage logistics and ensure that vehicles are picked up and dropped off correctly. The form includes fields for event details, vehicle details, and logistical information such as pickup and dropoff times and addresses.
-
-Before filling out this form, please note that the form is designed to be filled out by the event organizers or coordinators to provide accurate and up-to-date information about the event and vehicle bookings. If you are unsure about any field or require clarification, please contact the event team directly.
-
-Also, please ensure that you do not duplicate efforts or submit multiple forms for the same event, as this can lead to confusion and inaccuracies in the booking process.
-
-The form has multiple pages, but the main fields and their explanations are listed below:
-
-</thinking>
-
 # Event Logistics Vehicle Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information about vehicle bookings for events, which can be used to manage logistics and ensure that vehicles are picked up and dropped off correctly.

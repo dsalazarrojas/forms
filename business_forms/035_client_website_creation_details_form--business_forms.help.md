@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Website Creation Details Form - Help Guide
 
 ## Purpose

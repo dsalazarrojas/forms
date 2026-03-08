@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting security keys for warehouse access, allowing users to submit a request for an access key that meets their specific needs. This form ensures that users can provide the necessary information for their request to be reviewed and approved by the appropriate personnel.
-</thinking>
-
 # Warehouse Security Key Request Form - Help Guide
 ## Purpose
 The Warehouse Security Key Request Form is used to request access to a warehouse key, which grants users access to a specific area within the warehouse. This form helps to ensure that access is only granted to authorized personnel and that requests are properly reviewed and approved.

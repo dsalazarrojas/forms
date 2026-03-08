@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Training Verification Form - Help Guide
 
 ## Purpose

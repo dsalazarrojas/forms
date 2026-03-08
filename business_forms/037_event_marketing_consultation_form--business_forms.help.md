@@ -1,9 +1,3 @@
-<thinking>
-Event Marketing Consultation Form is used to gather information about a potential or ongoing event in an organization's event marketing strategy. This form helps us understand the client's needs and preferences for the event, ensuring a tailored approach in our consultation.
-The form is a part of a larger process for event marketing, and it's essential to ensure that the information collected is accurate and comprehensive.
-This form is not meant to be filled out by non-authorized personnel. It is primarily intended for internal use by authorized personnel.
-</thinking>
-
 # Event Marketing Consultation Form - Help Guide
 ## Purpose
 The Event Marketing Consultation Form is designed to collect information about a potential or ongoing event, allowing us to tailor our approach and provide effective consultation to our clients.

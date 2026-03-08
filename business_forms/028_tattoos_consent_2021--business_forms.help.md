@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tattoos_consent_2021 - Help Guide
 ## Purpose
 This form is intended to collect consent for tattooing procedures. It is designed to gather information from clients about their personal details and tattoo specifics, and to obtain their agreement to proceed with the tattooing process.

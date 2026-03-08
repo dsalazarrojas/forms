@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to collect information about inventory turnover, which is a key metric for businesses to monitor and analyze their inventory levels and sales performance. This form will likely be used by business operations or inventory management teams to gather data on company-wide or department-specific inventory levels, sales, and related metrics. Before starting, please ensure that you're filling this form for its intended purpose and not for other, unrelated tasks or purposes.
-
-</thinking>
-
 # Inventory Turnover Monitoring Form - Help Guide
 ## Purpose
 The Inventory Turnover Monitoring Form is designed to collect data about inventory levels, turnover rates, and other relevant information to help businesses analyze and improve their inventory management practices.

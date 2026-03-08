@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used by users to request meetings with colleagues or team members in a company. The purpose of this form is to gather information about the meeting, such as the desired time, date, location, and details of the meeting. This form is probably used to help meeting organizers schedule meetings efficiently and ensure that all relevant information is gathered.
-
-Before filling out this form, please ensure that you are not duplicating a request for the same meeting. This form is meant to be used for new meeting requests only.
-
-</thinking>
-
 # Quick Meeting Scheduler - Help Guide
 ## Purpose
 The Quick Meeting Scheduler form is used to request meetings with colleagues or team members.

@@ -1,5 +1,3 @@
-<thinking>This form is a crucial document used to capture and organize information about suppliers for evaluation purposes. This form aims to gather essential data about a supplier's name, contact information, supplier type, location, business details, documentation, supplier status, evaluation status, evaluation period, and evaluation cycle, as well as the vendor manager's name and email address. The form is essential for businesses and organizations to keep track of their supplier data and evaluate their performance. Please ensure you only fill out this form once for each supplier and that you accurately provide all requested information to maintain the accuracy and consistency of the data.</thinking>
-
 # supplier_evaluation_program_registration_form - Help Guide
 ## Purpose
 This form is designed to capture and organize essential information about suppliers for evaluation purposes.

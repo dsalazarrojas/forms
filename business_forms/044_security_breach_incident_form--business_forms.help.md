@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about security breaches or incidents that occur within an organization. The form is intended to provide a structured way to document and report security incidents, including details such as the incident date, time, type, and description. It also collects information about the impact and severity of the incident, as well as the response and follow-up actions taken.
-When filling out this form, please ensure that you only report incidents that have not been reported before. If you are unsure whether an incident has been previously reported, please contact the security team to confirm.
-</thinking>
-
 # security_breach_incident_form - Help Guide
 ## Purpose
 This form is used to report and document security breaches or incidents within the organization.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate a product specification review and compliance check. This form ensures that all relevant product specifications and compliance status are recorded and reported. It helps to identify any issues and improvement recommendations for the product. This form is designed to be filled out after a product has been reviewed and tested, and the results of the review are documented here. 
-Please use this form to fill out the review results for the product in question. Ensure that all required fields are filled out accurately, and that all fields have a clear and concise explanation. If you have any questions or doubts, please reach out to the relevant team members.
-</thinking>
-
 # Product Specification Review Report Form - Help Guide
 ## Purpose
 The Product Specification Review Report Form is used to document the results of a product specification review and compliance check. It ensures that all product specifications and compliance status are accurately recorded and reported.

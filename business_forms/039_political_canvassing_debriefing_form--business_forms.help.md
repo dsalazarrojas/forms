@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and report back on political canvassing activities. It is designed for employees or representatives to record their interactions with people while canvassing, including the first name, last name, contact information, and details about the time and date of the interaction. The form is essential for tracking and analyzing the effectiveness of political canvassing efforts. This form should only be used by authorized personnel, and all fields should be filled in accurately and thoroughly to ensure accurate records.
-</thinking>
-
 # Political Canvassing Debriefing Form - Help Guide
 ## Purpose
 The Political Canvassing Debriefing Form is a tool for recording and documenting interactions during political canvassing activities. It helps to gather and track essential information about individuals who have been canvassed, enabling the organization to assess the effectiveness of their efforts and make data-driven decisions.

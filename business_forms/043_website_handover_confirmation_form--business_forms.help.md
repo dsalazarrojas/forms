@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to obtain confirmation from the client regarding the handover of a website, ensuring that the client has received and reviewed the handover details accurately. This form serves as a check-list to finalize the handover process by confirming that both parties are on the same page. It is essential to have this confirmation to avoid any miscommunication or misunderstandings that may arise during the handover process.
-
-Please ensure that the form is not submitted twice, as this may cause unnecessary duplication of data.
-
-The form consists of multiple pages, each with its own purpose and fields. Please review each page carefully to understand the required information and ensure you fill out the correct fields accurately.
-
-</thinking>
-
 # Website Handover Confirmation Form - Help Guide
 ## Purpose
 This form is designed to obtain confirmation from the client regarding the handover of a website, ensuring that both parties are on the same page and that the handover process is finalized accurately.

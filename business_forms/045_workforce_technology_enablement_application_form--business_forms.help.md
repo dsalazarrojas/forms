@@ -1,21 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from employees about their technology enablement needs. This form will help the IT department to identify the tools and technologies that employees need to perform their job functions effectively. The form is intended for internal use only and is not meant to be used by external parties.
-
-To ensure that the form is completed accurately and efficiently, please follow these steps:
-
-1. Determine if you are a manager or not.
-2. If you are a manager, answer the manager info question with the appropriate response.
-3. Enter your manager's name.
-4. Enter your email address.
-5. Provide a brief justification for your technology enablement needs.
-6. Select the tools you need (select all that apply).
-7. Confirm that you understand and will comply with the company's policies.
-8. Enter your name as the tool requestor.
-9. Submit the form.
-
-</thinking>
-
 # Workforce Technology Enablement Application Form - Help Guide
 ## Purpose
 The Workforce Technology Enablement Application Form is used to gather information from employees about their technology enablement needs. This information will be used by the IT department to identify the tools and technologies that employees need to perform their job functions effectively.

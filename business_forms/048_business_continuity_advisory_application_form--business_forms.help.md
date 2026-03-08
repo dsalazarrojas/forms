@@ -1,30 +1,3 @@
-<thinking>
-This form is designed to collect information from business organizations about their business continuity management (BCM) plans and needs. The form's purpose is to assess the readiness of an organization in case of disruptions or crisis, identify areas that need improvement, and provide advisory services accordingly. This form will help you to provide accurate and relevant information for advisory services that match your needs.
-
-To complete this form, please follow these steps:
-
-1. Fill in the "Organization Name", which is a required field that identifies your business.
-2. Select your industry from the provided options.
-3. Choose your organization size.
-4. Indicate your approximate annual revenue (if applicable).
-5. Provide your contact information including full name, position, email address, and phone number.
-6. Answer the question about whether you have a continuity plan in place and its current status.
-7. Specify when was your plan last reviewed.
-8. Identify any known gaps in your continuity plan.
-9. Indicate what help you need for your continuity planning.
-10. Select your primary need for seeking advisory services.
-11. Describe any specific challenges you are facing.
-12. Identify your top risk concerns.
-13. Confirm if you have any regulatory requirements.
-14. Choose when you need assistance.
-15. Select your expected investment range for advisory services.
-16. Provide the names and contact information of key stakeholders.
-17. Share information about any previous disruption incidents.
-18. Provide additional comments or information.
-
-This form is used to help you identify your business continuity needs and will guide our advisory services to provide you with relevant information and support.
-</thinking>
-
 # Business Continuity Advisory Application Form - Help Guide
 ## Purpose
 

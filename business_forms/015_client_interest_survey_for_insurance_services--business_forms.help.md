@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gauge the interest of clients in various insurance services. By providing their personal details and preferences, clients can receive information on insurance options that suit their needs. Before starting, please note that this form is intended for clients who are considering new insurance or looking to switch their current provider. It's not designed for individuals with existing policies.
-
-</thinking>
-
 # Client Interest Survey For Insurance Services - Help Guide
 ## Purpose
 This form is used to collect information from potential clients about their interest in different types of insurance. The information collected will help insurance agents provide relevant information to clients based on their needs and preferences.

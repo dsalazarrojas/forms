@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Customer Contact Information Form" is to collect customer contact details from end-users, allowing for efficient and personalized communication. This form is used internally and is not intended for external public-facing forms.
-- The form is designed to be completed once by customers to store their information in our system, ensuring that we have up-to-date contact information.
-</thinking>
-
 # Customer Contact Information Form - Help Guide
 ## Purpose
 The "Customer Contact Information Form" is designed to collect and store customer contact details for internal communication purposes.

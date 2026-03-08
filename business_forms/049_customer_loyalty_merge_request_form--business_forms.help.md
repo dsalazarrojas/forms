@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a merge between two customer accounts. Before proceeding, please ensure you have the necessary permissions and understand the implications of merging customer accounts. Merging two customer accounts combines their data, eliminating duplicate records. If you're unsure about the merge process, please reach out to your supervisor or IT support for guidance.
-</thinking>
-
 # Customer Loyalty Merge Request Form - Help Guide
 ## Purpose
 This form allows you to request a merge between two customer accounts, which can help eliminate duplicate records and improve data accuracy.

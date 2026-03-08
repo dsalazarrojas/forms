@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Celebrity Agency Transfer Form" that explains its purpose, how to complete it, and what each field means. I will follow the provided YAML fields and structure the guide according to the specified requirements.</thinking>
-
 # Celebrity Agency Transfer Form - Help Guide
 ## Purpose
 This form is used to document the transfer of a celebrity's representation from one agency to another. It gathers essential information from both the celebrity and the current agency, as well as from the new agency, to ensure a smooth transition of representation.

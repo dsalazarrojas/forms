@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for business owners and operators to apply for membership in the Chamber of Commerce. The purpose of this form is to collect information about the business and its representatives in order to process their membership application. This form should only be filled out by businesses that are not already existing members of the Chamber. The Chamber of Commerce will use the information collected to create a profile of the business and provide them with benefits and resources.
-</thinking>
-
 # Chamber Of Commerce Membership Form - Help Guide
 ## Purpose
 The Chamber of Commerce Membership Form is a tool used to collect information from businesses interested in becoming members of the Chamber.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for documenting the details of an unpaid internship agreement between a company and an intern. The purpose of this form is to capture the essential information about the internship, including the start and end dates, duration, work hours, pay frequency, compensation type, internship type, job position, job description, work location, and other relevant details. This form will help the company and the intern in maintaining a clear understanding of the internship terms and responsibilities.
-</thinking>
-
 # Unpaid Internship Agreement - Help Guide
 ## Purpose
 This form is used to document the details of an unpaid internship agreement between a company and an intern. It captures essential information about the internship, including start and end dates, duration, work hours, pay frequency, compensation type, internship type, job position, job description, work location, and other relevant details.

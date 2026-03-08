@@ -1,8 +1,3 @@
-<thinking>
-This form is for booking a session at a voiceover studio. It is intended for users to schedule a session with a specific studio, specifying the actor's name, project details, and contact information. This form should only be filled out by users who want to book a session, not by studios looking to book an actor. The fields on this form will guide the user in specifying the details necessary for booking a session. 
-
-</thinking>
-
 # Voiceover Studio Session Booking Form - Help Guide
 ## Purpose
 This guide will walk you through the Voiceover Studio Session Booking Form, explaining each field and how to complete it effectively.

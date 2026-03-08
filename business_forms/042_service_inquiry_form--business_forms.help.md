@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or clients who are inquiring about a specific service offered by the business. The purpose of the form is to gather relevant details about the service they are inquiring about, their contact information, and any additional message they may have. This form is likely to be used by a business support team or customer service department to respond to customer inquiries and provide assistance. It is essential to ensure that the form is completed accurately and consistently to ensure that the customer's needs are met. To confirm, the form should be reviewed for completeness and consistency before submission.
-</thinking>
-
 # Service Inquiry Form - Help Guide
 ## Purpose
 This form is a Service Inquiry Form, designed to collect information from customers or clients inquiring about a specific service offered by the business.

@@ -1,7 +1,3 @@
-<thinking>
-The Retailer Information Form is used to collect and store data about retailers, including their store address, hours of operation, phone number, email address, website, social media presence, category, description, notes, and location. This form is likely used by administrators or managers to update or add new retailer information for internal use within the organization. To prevent duplication of effort, ensure that you only fill out this form if you have been specifically assigned to update or add new retailer information. If you're unsure, please reach out to your supervisor or the relevant team before proceeding.
-</thinking>
-
 # Retailer Information Form - Help Guide
 ## Purpose
 The Retailer Information Form is designed to collect and store data about retailers, which can be used to update or add new retailer information for internal use within the organization.

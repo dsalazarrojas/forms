@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Departmental SWOT Analysis Form - Help Guide
 
 ## Purpose

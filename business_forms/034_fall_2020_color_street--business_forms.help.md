@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture information related to the 2020 Color Street Fall collection. The form likely serves as a sales or order form, where customers can input their order details such as product selection, color preferences, quantity, and contact information. To prevent duplication, the internal reasoning should check if an order with the same product and customer name already exists, and alert the user if so. The form's layout and fields seem to be designed for a simple and straightforward process.
-</thinking>
-
 # Fall 2020 Color Street - Help Guide
 ## Purpose
 The Fall 2020 Color Street form is used to capture and process customer orders for the 2020 Color Street collection.

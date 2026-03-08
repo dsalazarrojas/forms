@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning:**
-This form is used by employees to request adjustments to component tolerances, allowing them to document and track changes to product design parameters. The form helps to ensure that all necessary information is gathered for a thorough review and approval process, reducing potential errors and ensuring that changes are accurately assessed. This form should not be submitted for requests that are already approved, as the approval status field will be used to track the progress of the request. Ensure that all required fields are filled out accurately and thoroughly, as incomplete submissions may result in delays or rejected requests.
-
-</thinking>
-
 # Component Tolerance Adjustment Request Form - Help Guide
 
 ## Purpose

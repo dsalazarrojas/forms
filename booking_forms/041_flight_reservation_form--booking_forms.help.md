@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about flight reservations from passengers. The form is intended to capture details such as passenger name, travel dates, cities of departure and arrival, flight numbers, and contact information. This form will be used by travel agents to book flights for their customers. It's possible that this form will be used in conjunction with existing booking systems, but for now, it's being used as a standalone tool for manual booking purposes.
-
-This form should be reviewed for potential duplication with existing systems to ensure that it doesn't overlap with them. Additionally, it should be reviewed for potential security concerns, as it will be handling sensitive passenger information.
-
-</thinking>
-
 # Flight Reservation Form - Help Guide
 ## Purpose
 The Flight Reservation Form is used to collect information about flight reservations from passengers.

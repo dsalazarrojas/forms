@@ -1,8 +1,3 @@
-<thinking>
-The ESG Framework Development Program Application Form is designed to capture information from individuals applying to the ESG (Environmental, Social, and Governance) Framework Development Program. This form aims to gather essential details, including name, contact information, and relevant background information, to support the review and evaluation process of applicants. 
-To ensure that your application is processed efficiently, please make sure to complete the form accurately and thoroughly.
-</thinking>
-
 # ESG Framework Development Program Application Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for the ESG Framework Development Program. Please fill it out with your relevant details to support the review process.

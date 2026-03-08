@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: This form is designed to verify debt collection information for a debtor. The form is used to gather details about the debtor's financial status, contact information, and other relevant facts that can aid in the debt collection process. 
-
-Form relevance: This form is relevant to the Debt Collection department, and it's used to create records that will be used for internal debt collection purposes.
-
-Non-duplication: This form is not a replacement for any other form in the organization. The information collected through this form is not intended to be used for other purposes than debt collection.
-
-</thinking>
-
 # Debt Collection Verification Form - Help Guide
 ## Purpose
 This form is used to verify debt collection information for a debtor.

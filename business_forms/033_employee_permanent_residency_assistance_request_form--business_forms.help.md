@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees who are seeking permanent residency assistance. The employee will be providing details about their permanent residency status, employment, and contact information. This form will help the HR department to process the request efficiently. The form should be filled out completely and accurately to avoid any delays or discrepancies in the processing of the request.
-</thinking>
-
 # Employee Permanent Residency Assistance Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from employees who are seeking permanent residency assistance. It is used to gather details about the employee's permanent residency status, employment, and contact information.

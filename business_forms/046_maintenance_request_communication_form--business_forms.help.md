@@ -1,5 +1,3 @@
-<thinking>...The Maintenance Request Communication Form is a crucial tool for tenants and property managers to effectively communicate and report maintenance requests. This form helps to gather and record information about issues, facilitating efficient resolution and reducing potential conflicts. Before proceeding, review this form for relevance and completeness. Ensure you've selected the correct options for your specific situation. If you've already reported a similar issue, please do not submit a duplicate form. Please fill out the form accurately and thoroughly to help address your concerns promptly.</thinking>
-
 # Maintenance Request Communication Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and communicate maintenance requests from tenants, property managers, or other stakeholders. It helps to record and track issues, facilitating efficient resolution and reducing potential conflicts.

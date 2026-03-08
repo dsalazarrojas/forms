@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for a controller position. The form is used to gather data on the applicant's education, experience, skills, and other relevant details. This form will be used to evaluate the applicant's qualifications and determine their fit for the position. 
-
-Please ensure that you have thoroughly read the form before filling it out, and make sure you have attached any required documents, such as a resume and cover letter. 
-
-This form will guide you through a series of questions and prompts, which will help to evaluate your skills, experience, and interests. You may find that some fields are more important than others, but please answer all questions truthfully and completely. 
-
-If you have any questions or concerns, please don't hesitate to contact us. We're here to help.
-
-</thinking>
-
 # Controller Application Form - Help Guide
 ## Purpose
 The Controller Application Form is designed to gather information from applicants for a controller position. This form will help us evaluate your qualifications, experience, and interests to determine your fit for the position.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information from users requesting cloud hosting services. It's crucial to ensure the user understands the form's purpose and requirements before submitting a request. This form is for internal use and is designed to streamline the approval process for cloud hosting services within the organization. 
-
-To ensure that all necessary information is provided and to avoid duplicate requests, the form requires the user to fill out all mandatory fields (marked as "required" in the YAML). Each field has a specific purpose and should only be filled out by the user if it's relevant to their request. 
-
-Please review the form carefully before submitting your request to ensure accuracy and completeness.
-
-</thinking>
-
 # Cloud Hosting Subscription Approval Form - Help Guide
 ## Purpose
 The Cloud Hosting Subscription Approval Form is used to request and manage cloud hosting services within the organization. This form helps ensure that all necessary information is gathered for a proper review and approval process.

@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Pet Product Disclaimer Form - Help Guide
 ## Purpose
 The Pet Product Disclaimer Form is used to collect information from pet owners who purchase pet products from your business. This form is designed to gather essential details about the user, the product they purchased, and their business contact information.

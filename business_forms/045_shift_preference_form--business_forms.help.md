@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be related to managing employee work shifts and schedules within a business setting. It may be used to collect information about employee preferences, availability, and submission status. To avoid duplication, it's essential to review the form's content and ensure that it is not already covered by an existing form. The form seems to have a mix of single and multiple-choice questions, which could be useful for gathering both qualitative and quantitative data. The "Shift Preference Form" likely serves as a tool for HR or management to track and analyze employee preferences and status. 
-</thinking>
-
 # Shift Preference Form - Help Guide
 
 ## Purpose

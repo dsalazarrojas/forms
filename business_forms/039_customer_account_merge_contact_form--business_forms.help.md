@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive user-facing help guide for the "Customer Account Merge Contact Form". This form aims to assist customers in merging their accounts and provide them with an opportunity to submit their contact information and relevant account details. To ensure that the form is used correctly, it's essential to verify that the user is not attempting to merge multiple accounts for non-existent customers or duplicate account merges. This guide will outline the form's purpose, step-by-step instructions on how to complete it, and a detailed explanation of each field, making it easy for end-users to navigate the form successfully.</thinking>
-
 # Customer Account Merge Contact Form - Help Guide
 
 ## Purpose

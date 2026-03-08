@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Amenity Upgrade Proposal Request Form - Help Guide
 ## Purpose
 This form is designed to help you, as a building maintenance staff or facilities manager, submit a proposal for an amenity upgrade within your building. The form is used to gather all relevant information about the proposed upgrade, including its scope, cost, timeline, and benefits. This information will be reviewed by management to determine the feasibility and priority of the proposed upgrade.

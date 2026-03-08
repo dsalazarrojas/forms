@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is used for project documentation submission, allowing teams to provide updates on their projects. It is essential that only relevant and up-to-date information is submitted through this form to avoid duplication of work and ensure accurate project tracking. 
-
-</thinking>
-
 # project_documentation_submission - Help Guide
 ## Purpose
 This form is used to submit project documentation, which is an essential tool for project teams to provide updates on their projects.

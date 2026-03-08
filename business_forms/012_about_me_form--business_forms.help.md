@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # About Me Form - Help Guide
 
 ## Purpose

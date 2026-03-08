@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a comprehensive application form designed to collect various types of information from businesses applying to a retail risk intelligence platform. The form is likely used by business development or sales teams to gather necessary details about potential clients, their risk challenges, risk analytics needs, and onboarding process preferences. The goal is to understand the business's requirements and provide a tailored solution.
-
-The form consists of multiple pages with different types of fields, including text, select multiple, select one, email, date, time, and text areas. Each page is designed to capture specific information, such as application form data, business details, risk challenges, risk analytics, qualification criteria, onboarding process, notes, assigned to, email, phone, business category, description, submission date, submission time, form version, submitted by, submitted at, submitted by name, submitted by email, submitted by phone, submitted by company, submitted by department, submitted by title, and submitted by position.
-
-Before completing this form, please ensure that you have all the required information and answers are accurate and up-to-date.
-
-</thinking>
-
 # Retail Risk Intelligence Platform Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from businesses applying to our retail risk intelligence platform.

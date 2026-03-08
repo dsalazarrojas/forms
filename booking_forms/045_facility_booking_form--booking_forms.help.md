@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for booking facilities, presumably for events or rentals. It's crucial to ensure that all required fields are completed correctly, as this information will be used to finalize a booking. To prevent duplication, please do not reuse a facility's email address if you have already submitted a booking form for the same facility. If a facility is not available for a specific date or time, please select "Not Available" in the "Facility Status" field.
-</thinking>
-
 # Facility Booking Form - Help Guide
 ## Purpose
 This form is designed for booking facilities for events or rentals. It gathers information about the facility and the customer, including the start and end dates, time, and other relevant details.

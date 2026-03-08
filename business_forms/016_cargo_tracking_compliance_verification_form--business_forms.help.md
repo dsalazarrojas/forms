@@ -1,9 +1,3 @@
-<thinking>
-We can infer that this form is used for cargo tracking, which is used to ensure that shipments are delivered on time, within the correct weights, and with all necessary documents and regulations. The form is divided into several sections, including a verification overview, shipment information, compliance checklists, electronic tracking, and a final approval. This form is likely used by logistics and transportation companies to verify that their shipments meet all necessary requirements and regulations.
-
-To create a user-facing help guide for this form, we will need to break down each section and explain each field in simple and concrete terms. This will make it easier for users to understand the purpose and process of filling out the form.
-</thinking>
-
 # Cargo Tracking Compliance Verification Form - Help Guide
 ## Purpose
 This form is used to verify that a shipment meets all necessary requirements and regulations for cargo tracking. It is an important tool for logistics and transportation companies to ensure timely and accurate delivery of goods.

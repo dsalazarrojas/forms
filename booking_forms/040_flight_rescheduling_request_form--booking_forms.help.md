@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block explains the form purpose and checks for relevance and non-duplication:
-This form is designed to collect information for flight rescheduling requests. It is intended for employees or customers to submit requests for changes in flight schedules. The form includes fields for flight information, passenger details, contact info, airline specifics, and travel dates and times. It is crucial that the employee or customer completes this form accurately to ensure that their rescheduling request is processed efficiently and effectively.
-</thinking>
-
 # Flight Rescheduling Request Form - Help Guide
 ## Purpose
 This form is used to submit flight rescheduling requests. Please fill out this form with the necessary details for your request to be processed.

@@ -1,18 +1,3 @@
-<thinking>
-This form is likely being used to capture the essential details of a rental agreement between a landlord and a tenant. It's essential to confirm that the purpose of this form is to outline the terms and conditions of the rental, including the rent details, lease period, and any other relevant information.
-
-To determine if this form is being used in a specific scenario, consider the following:
-
-*   Are you dealing with a residential or commercial property?
-*   Is this form being used for a new rental or an existing one?
-*   Are there any specific requirements or regulations that need to be addressed in the lease?
-
-If the form is being used for a residential property, it's likely that the form will be used for a standard rental agreement. If it's being used for a commercial property or a new rental, it's possible that additional terms or requirements will need to be included.
-
-Considering the fields provided in the YAML, this form seems to cover the basic requirements for a standard rental agreement. However, it's essential to review the form with the relevant parties to ensure that all necessary details are included and that the form accurately reflects the agreed-upon terms.
-
-</thinking>
-
 # Office Rental Lease Agreement Form - Help Guide
 ## Purpose
 This form is used to outline the terms and conditions of a rental agreement between a landlord and a tenant. It captures essential details such as rent details, lease period, and contact information.

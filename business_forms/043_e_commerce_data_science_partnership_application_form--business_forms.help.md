@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is designed for businesses seeking to partner with the organization on data science projects. The form collects basic application information, contact details, company information, project objectives, payment terms, and terms and conditions of the partnership. The purpose of this form is to ensure that all necessary information is gathered for potential partnerships. Please ensure that you are submitting this form only if you are authorized to do so. Also, be aware that submission of this form does not guarantee partnership approval...</thinking>
-
 # E Commerce Data Science Partnership Application Form - Help Guide
 ## Purpose
 This form is designed for businesses seeking to partner with our organization on data science projects. 

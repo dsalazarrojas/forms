@@ -1,5 +1,3 @@
-<thinking>... This form is designed to facilitate project closure reports, providing a structured format for project teams to document key information about a project's status. The purpose of this form is to ensure a seamless and efficient project closure process. It is intended to be used when a project is closed or inactive. The form fields are designed to collect relevant details about the project and its closure, including the project manager's contact information, closure date, and any additional comments or notes. Before proceeding, please ensure this form is not already completed for the same project. If you're unsure, please check the project's history or contact the project manager. </thinking>
-
 # Project Closure Report Template - Help Guide
 ## Purpose
 The Project Closure Report Template is a tool for project teams to document key information about a project's status when it is closed or inactive. This form ensures a seamless and efficient project closure process.

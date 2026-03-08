@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is designed to collect data for competitor analysis reports, helping organizations assess their market position and competitors' strategies. The form is intended to gather information about competitors, their recent product launches, pricing strategies, marketing campaigns, and overall threat level. 
-
-This form is likely to be used by business professionals, analysts, or market researchers to create a comprehensive report on competitor analysis. It is not affiliated with or derived from any proprietary form platforms, but rather created using public survey topic metadata.
-
-</thinking>
-
 # Competitor Analysis Report Form - Help Guide
 ## Purpose
 The Competitor Analysis Report Form is designed to help businesses gain insights into their competitors' strategies, product launches, pricing, and marketing campaigns. This form will guide you through collecting and organizing data to create a comprehensive report that highlights your competitors' strengths and weaknesses.

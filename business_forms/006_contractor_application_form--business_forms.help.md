@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contractor Application Form - Help Guide
 
 ## Purpose

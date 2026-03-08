@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Loyalty Program Accreditation Application - Help Guide
 ## Purpose
 The Digital Loyalty Program Accreditation Application is a form used to submit an application for accreditation of a digital loyalty program. The purpose of this form is to gather necessary information from the applicant to assess their digital loyalty program's eligibility for accreditation. This form helps the reviewer to evaluate the program's compliance with the required standards and guidelines.

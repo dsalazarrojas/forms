@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from patients for Fascia Release Therapy appointments. This form is designed to be completed by patients who are interested in scheduling a Fascia Release Therapy appointment with a practitioner. The information collected will be used to confirm the appointment and ensure the patient's treatment goals and needs are met.
-
-To prevent duplication, we will check if an appointment has already been scheduled for the patient with the provided name and email address. If an appointment has already been scheduled, we will display a message indicating that the appointment has already been scheduled and will not allow the patient to proceed with the form submission.
-
-The form is divided into several sections, each with its own set of fields. Please refer to the sections below for more information on how to complete each field.</thinking>
-
 # Fascia Release Therapy Appointment Request - Help Guide
 ## Purpose
 The Fascia Release Therapy Appointment Request form is designed to collect information from patients for Fascia Release Therapy appointments. The information collected will be used to confirm the appointment and ensure the patient's treatment goals and needs are met.

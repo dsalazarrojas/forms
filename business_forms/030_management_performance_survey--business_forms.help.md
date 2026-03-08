@@ -1,13 +1,3 @@
-<thinking>This guide is intended to help you complete the Management Performance Survey form. It is recommended that you review this guide carefully before attempting to fill out the form. If you have any questions or concerns, please contact the form's administrator for assistance.
-
-Before proceeding, let's ensure you have a good understanding of the form's purpose: to gather information about the performance of employees. It is not intended to be filled out by anyone who has not been assigned a task or project to assess.
-
-Please do not complete the form if you have already filled it out previously, as this may cause duplicate or conflicting information to be recorded.
-
-Please note that this form is designed for internal use within the organization and all the fields are required for accurate evaluation.
-
-</thinking>
-
 # Management Performance Survey - Help Guide
 ## Purpose
 The Management Performance Survey is a form used to gather feedback on the performance of employees who have been assigned tasks or projects. This form helps assessors evaluate an employee's strengths and weaknesses, providing valuable insights for employee development and growth.

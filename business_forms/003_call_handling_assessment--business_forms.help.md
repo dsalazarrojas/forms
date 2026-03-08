@@ -1,9 +1,3 @@
-<thinking>
-This form is used to assess the performance of representatives in call handling, evaluating their ability to effectively address customer issues, demonstrate technical knowledge, and provide excellent customer service. It's designed to provide feedback and guidance for the representative on how to improve their call handling skills.
-To avoid duplication of efforts, the assessment is only used when a representative is handling calls from customers, typically as part of a regular performance evaluation process.
-Please make sure to fill out the form accurately and honestly to ensure the representative receives fair feedback.
-</thinking>
-
 # Call Handling Assessment - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of representatives in handling customer calls. It assesses their ability to effectively address customer issues, demonstrate technical knowledge, and provide excellent customer service.

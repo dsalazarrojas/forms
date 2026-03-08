@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Auto Approve Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from applicants for auto-approve applications, including personal details, employment information, and application specifics.

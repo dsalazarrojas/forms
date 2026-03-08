@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to guide users in creating a recovery plan for their business. The form is designed to be flexible and adaptable to different business needs. It is meant to be used by business owners or managers who need to outline their recovery strategy after a disruption or crisis. The form will help identify key objectives, resources, and risks involved in the recovery process. It will also serve as a template for evaluating progress and reviewing the outcome of the recovery efforts. It is a general-purpose form and is not specific to any particular industry or business type.
-</thinking>
-
 # Recovery Plan Form - Help Guide
 ## Purpose
 The Recovery Plan Form is designed to guide business owners or managers in creating a recovery plan after a disruption or crisis. It helps identify key objectives, resources, and risks involved in the recovery process and serves as a template for evaluating progress and reviewing the outcome.

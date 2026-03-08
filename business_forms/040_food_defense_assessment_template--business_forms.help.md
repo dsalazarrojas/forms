@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for food defense program assessments, which is an evaluation process to identify and address potential vulnerabilities in food defense programs. This form is likely being used by food safety and defense teams to evaluate the strengths and weaknesses of food defense programs in their organizations. Before proceeding, please ensure that this is the correct form and that it's not a duplicate form. If you're unsure, contact your team leader or the form owner for clarification.
-</thinking>
-
 # Food Defense Assessment Template - Help Guide
 
 ## Purpose

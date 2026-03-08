@@ -1,5 +1,3 @@
-<thinking>...The New Enquiry Form is used for users to submit a new enquiry to the system. This form captures essential contact information and details of the enquiry, as well as optional follow-up and assignment settings. It is used for internal purposes and ensures that the enquiry is properly registered and tracked. Before proceeding, ensure that this form is not a duplicate of an existing enquiry, as submitting duplicate entries may cause confusion and data redundancy... </thinking>
-
 # New Enquiry Form - Help Guide
 ## Purpose
 The New Enquiry Form is used for users to submit a new enquiry to the system. It is essential to provide accurate contact information and details about the enquiry to ensure proper tracking and registration.

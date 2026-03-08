@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to support businesses that are impacted by the COVID-19 pandemic and are seeking assistance or have specific needs related to reopening. The purpose of the form is to gather information about a business's current status, needs, and any government assistance or other forms of help they may be seeking. 
-
-This guide will help users understand what information is required, how to complete the form, and what each field means.
-
-</thinking>
-
 # coronavirus_business_reopening_survey - Help Guide
 ## Purpose
 The coronavirus_business_reopening_survey form is used to gather information from businesses that are impacted by the COVID-19 pandemic. This form helps businesses to report their current status, needs, and any government assistance or other forms of help they may be seeking.

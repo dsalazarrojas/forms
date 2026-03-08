@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from merchants about their terminal information. The form is intended for use by merchants who are requesting access to a merchant terminal. The purpose of this form is to ensure that merchants provide accurate and up-to-date information about their terminal location, contact person, and other relevant details. This information will be used to facilitate communication and ensure that merchants can receive necessary support and resources. This form is not intended to be used for other purposes, such as sales or marketing efforts.
-</thinking>
-
 # Merchant Terminal Information Request Form - Help Guide
 ## Purpose
 The Merchant Terminal Information Request Form is used to collect terminal location and contact information from merchants who request access to the merchant terminal. This information will be used to provide support and resources to the merchant.

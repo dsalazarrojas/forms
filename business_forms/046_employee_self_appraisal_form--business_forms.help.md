@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees evaluate their own performance and provide feedback on their job performance. The goal of this form is to facilitate an employee's self-reflection and self-assessment, helping them identify areas of strength and areas that need improvement. This form should only be completed by employees who have been asked to do so by their manager and are intended to be used for internal purposes only.
-</thinking>
-
 # Employee Self Appraisal Form - Help Guide
 ## Purpose
 The purpose of this form is to help employees evaluate their own performance and provide feedback on their job performance. This form is a self-assessment tool that allows employees to reflect on their strengths and weaknesses, and to identify areas where they need improvement.

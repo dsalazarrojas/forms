@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for presenting nominations for speakers at an event. The purpose of this form is to gather data about the speakers who will be presenting at the event, including their names, event details, and the date of the event. Before starting, please ensure you are completing this form for the correct purpose and that the information is accurate. If you are unsure about any field, please ask your supervisor for clarification. 
-</thinking>
-
 # presenter_nomination_form - Help Guide
 ## Purpose
 The presenter_nomination_form is used to collect information for presenting nominations for speakers at an event.

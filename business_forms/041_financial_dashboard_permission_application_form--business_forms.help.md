@@ -1,8 +1,3 @@
-<thinking>... (Internal reasoning block)
-The form purpose is to grant permission to access the Financial Dashboard, allowing users to view financial data. This form is designed to ensure that only authorized personnel have access to sensitive financial information. Before submitting this form, please make sure you have reviewed the form carefully to understand your access level and department permissions. This form will not be used for duplicate access requests. If you are requesting access for an existing user, please do not submit this form, instead, contact your supervisor or IT department to report an update. Ensure your department selection is accurate, as this will determine which data you will be able to access. Finally, please ensure you are aware of the access level you are requesting, as it will impact your permissions to edit or view financial data.
-
-</thinking>
-
 # Financial Dashboard Permission Application Form - Help Guide
 ## Purpose
 The Financial Dashboard Permission Application Form is used to grant permission to access the Financial Dashboard, allowing users to view and interact with financial data. The form is designed to ensure that only authorized personnel have access to sensitive financial information.

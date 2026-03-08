@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for interior design projects, which is a crucial part of the design process. This form will help clients and designers communicate effectively and ensure that all necessary details are captured. The form is designed to be flexible and adaptable to various project requirements.
-</thinking>
-
 # interior_design_checklist_form - Help Guide
 ## Purpose
 This form is used to collect information for interior design projects, ensuring that all necessary details are captured and communicated effectively between clients and designers.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture information from individuals or businesses interested in becoming members of a general membership program. The form is intended to collect contact and payment details, as well as other relevant information. Upon reviewing the form, it appears that there is some duplication of fields, such as "payment_details" and "payment_terms", which may be considered for consolidation or removal. The purpose of this form is to provide a clear and concise guide for users to complete it successfully.
-
-The form is divided into multiple pages, each with various fields. To complete the form, users should navigate through each page and fill out the required fields. The following guide outlines the fields and their explanations:
-
-</thinking>
-
 # General Membership Form - Help Guide
 ## Purpose
 The General Membership Form is a document used to collect information from individuals or businesses interested in becoming members of a general membership program. The form helps to streamline the membership process and ensures that all necessary information is gathered in a structured and organized manner.

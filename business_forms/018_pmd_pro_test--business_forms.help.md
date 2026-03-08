@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users for a specific purpose, likely for business or professional use. The fields provided are designed to capture basic contact information, schedule details, and categorize the purpose of the form submission. It's assumed that the form will be used to record or track interactions with customers, clients, or other external parties.
-</thinking>
-
 # PMD Pro Test - Help Guide
 ## Purpose
 The PMD Pro Test form is designed to collect information from users for internal tracking and recording purposes.

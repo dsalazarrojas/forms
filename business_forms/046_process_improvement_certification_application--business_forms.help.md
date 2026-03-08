@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for the purpose of applying for process improvement certification. This form is not meant for any other purpose, and it's crucial to fill it out accurately and thoroughly. Please ensure that you're not filling this form if you're not applying for the certification. 
-</thinking>
-
 # process_improvement_certification_application - Help Guide
 ## Purpose
 The Process Improvement Certification Application form is designed to gather relevant information from applicants for the purpose of evaluating and certifying their process improvement skills and knowledge. It helps to verify the applicant's eligibility and suitability for the certification program.

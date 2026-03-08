@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from corporate users who are interested in attending corporate compliance training sessions. The form should be completed by a member of the company's training or compliance team, and will be used to schedule a training session with a specific date and time. The form is optional, but it's recommended that users fill it out to ensure that their training needs are met.
-
-Before filling out this form, please ensure that you have not already submitted a request for the same training topic and date. This will help us avoid scheduling conflicts and ensure that everyone's training needs are met in a timely manner.
-
-</thinking>
-
 # Corporate Compliance Training Contact Form - Help Guide
 ## Purpose
 This form is designed to gather information from corporate users who are interested in attending corporate compliance training sessions.

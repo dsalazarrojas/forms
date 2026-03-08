@@ -1,8 +1,3 @@
-<thinking>
-This form is for placing orders for pet training products, including products, training sessions, and treats. The form is designed to be completed by customers to submit their order details. Before filling out this form, please ensure that you have all the necessary information ready and that you're not duplicating an order that's already been placed.
-
-</thinking>
-
 # Pet Training Product Order Form - Help Guide
 ## Purpose
 This form is used to place new orders for pet training products. It collects information about the customer, the order details, and the status of the order.

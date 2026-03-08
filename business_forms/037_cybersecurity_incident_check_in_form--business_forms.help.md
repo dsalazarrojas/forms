@@ -1,5 +1,3 @@
-<thinking>As a cybersecurity expert, you are tasked with creating a form to collect information about cybersecurity incidents. The purpose of this form is to gather details about the incident, including its type, impact, status, and resolution. The form will help you track and manage cybersecurity incidents effectively. Before filling out the form, ensure that the incident you are reporting is not a duplicate, and that you are authorized to report it. Please provide accurate and clear information to ensure efficient incident management.</thinking>
-
 # cybersecurity_incident_check_in_form - Help Guide
 ## Purpose
 The Cybersecurity Incident Check-in Form is used to collect and track information about cybersecurity incidents. This form helps the Incident Response Team to quickly gather essential details about each incident, enabling them to respond and resolve issues efficiently.

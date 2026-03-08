@@ -1,12 +1,3 @@
-<thinking>
-To create this help guide, I will analyze the provided YAML and provide a clear and concise explanation of the form's purpose, how to complete it, and what each field means.
-
-The Customer Support Software Requisition Form appears to be a form used for requesting software support or assistance, likely from an IT department or technical support team within an organization. The form is designed to gather specific information from the user, including contact details, file uploads, and date/time selections. The form's purpose is to streamline the support request process and help the support team provide efficient assistance.
-
-Before filling out the form, please ensure that you have a clear understanding of your request and the information you need to provide.
-
-</thinking>
-
 # Customer Support Software Requisition Form - Help Guide
 
 ## Purpose

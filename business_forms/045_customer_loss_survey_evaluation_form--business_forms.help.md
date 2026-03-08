@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us evaluate customer loss, which is a crucial aspect of our business. We use this data to identify areas where we can improve our services and customer experience. This form is meant to be completed by our staff after interacting with customers who have lost their business. It's essential that we fill out this form accurately and thoroughly to gather the most valuable information possible.
-</thinking>
-
 # Customer Loss Survey Evaluation Form - Help Guide
 ## Purpose
 The Customer Loss Survey Evaluation Form is designed to help us understand the reasons behind customer loss. This form provides valuable information about our customers' experiences, allowing us to identify areas for improvement and increase customer satisfaction.

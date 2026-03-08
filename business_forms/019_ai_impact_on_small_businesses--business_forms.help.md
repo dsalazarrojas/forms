@@ -1,7 +1,3 @@
-<thinking>
-This form aims to assess the impact of Artificial Intelligence (AI) on small businesses. It gathers essential information about a business's profile, current AI adoption status, and perceived benefits or challenges related to AI implementation. The form should be filled out by small business owners or decision-makers to provide valuable insights for businesses in the same industry or niche. This form is meant to be a one-time submission, and the collected data will be used for research purposes only.
-</thinking>
-
 # AI Impact On Small Businesses - Help Guide
 ## Purpose
 This form is designed to gather information about the impact of Artificial Intelligence on small businesses. It aims to understand how AI is currently being used, the benefits and challenges faced by businesses, and their future plans regarding AI implementation.

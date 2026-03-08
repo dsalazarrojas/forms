@@ -1,9 +1,3 @@
-<thinking>
-The form is used for requesting a digital ad performance report for specific campaigns. The purpose of this form is to collect information about the campaign(s) for which the report is needed. The report will likely contain metrics such as spend, clicks, impressions, and conversions for the specified date range and metrics.
-The form is designed to be as simple as possible, with most fields being optional. However, the email and phone fields are required for communication purposes.
-The form will be reviewed internally to ensure that it is not a duplicate request and that the information provided is accurate.
-</thinking>
-
 # Digital Ad Performance Report Request Form - Help Guide
 ## Purpose
 This form is used to request a digital ad performance report for a specific campaign. The report will contain data about the campaign's performance, including metrics such as spend, clicks, impressions, and conversions.

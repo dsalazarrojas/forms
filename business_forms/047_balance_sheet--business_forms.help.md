@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect financial data from businesses, specifically balance sheet information. It appears to be a standard balance sheet form, likely for accounting purposes. This form is likely to be used by businesses to report their financial situation at a specific date.
-
-Checking for duplication and relevance...
-
-</thinking>
-
 # Balance Sheet - Help Guide
 ## Purpose
 This form is designed to collect balance sheet information from businesses, including their assets, liabilities, and equity. The data collected will help businesses report their financial situation at a specific date.

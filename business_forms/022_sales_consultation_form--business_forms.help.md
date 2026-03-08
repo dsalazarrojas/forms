@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about sales consultations from customers. The purpose of the form is to gather essential details about the customer, including their name, email, phone number, and company. This information will be used to follow up on the consultation and provide relevant sales materials. Before filling out this form, please ensure that you haven't already completed it. If you have any prior experience with the company, your submission will not be processed.
-</thinking>
-
 # Sales Consultation Form - Help Guide
 ## Purpose
 The Sales Consultation Form is designed to collect necessary information about customers who request sales consultations. Your input will help us tailor the consultation to your needs and preferences.

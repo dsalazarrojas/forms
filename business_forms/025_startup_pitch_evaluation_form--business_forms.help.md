@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the "Startup Pitch Evaluation Form" that explains its purpose, how to complete it, and what each field means. I'll assume that the form is used to evaluate a startup's pitch, identifying its key aspects and providing feedback for improvement. Before diving into the guide, let's briefly discuss the form's purpose and relevance.</thinking>
-
 # Startup Pitch Evaluation Form - Help Guide
 
 ## Purpose

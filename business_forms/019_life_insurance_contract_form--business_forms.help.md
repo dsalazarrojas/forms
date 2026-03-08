@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to clarify the purpose and process for completing the "life_insurance_contract_form" for users. This form is used to collect information about a life insurance contract, which is a type of policy that provides financial protection in the event of a beneficiary's death. To determine if this form is relevant to you, consider whether you are an insurance agent, broker, or financial advisor seeking to create or update a life insurance contract for a client. If so, this guide will walk you through the steps to complete the form accurately and efficiently.
-
-The form has multiple pages, each with its own section of information. The following guide will cover each page and field in detail, ensuring that users understand what to expect and how to fill out the form correctly.
-</thinking>
-
 # life_insurance_contract_form - Help Guide
 ## Purpose
 The "life_insurance_contract_form" is a comprehensive form used to create, update, or modify a life insurance contract. This form will guide you through the essential details of the policy.

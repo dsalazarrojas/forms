@@ -1,7 +1,3 @@
-<thinking>
-To ensure this form is completed correctly, let's first consider its purpose and potential pitfalls. The "Retail Mobile Payment Pilot Application" form aims to collect data for a mobile payment pilot program from retail businesses. To avoid duplication of effort, the form should only be filled out by businesses that have not already participated in the pilot program. The "Business Name" and "Contact Person" fields should be accurate and match the business's official records. The "Payment Method" field should list all relevant payment methods accepted by the business. To complete this form, the applicant will need to provide basic contact information and select relevant options for their business. Each field is explained below for clarity and accuracy.
-</thinking>
-
 # Retail Mobile Payment Pilot Application - Help Guide
 ## Purpose
 This form is designed to collect data for the Retail Mobile Payment Pilot Application from retail businesses. Ensure that you are a new participant in the pilot program and that your business has not already submitted an application. This form will be used to gather information about your business and its payment methods.

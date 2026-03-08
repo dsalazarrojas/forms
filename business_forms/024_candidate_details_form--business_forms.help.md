@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture detailed information about a candidate, including their basic details, job search preferences, experience, and other relevant details. The form is designed to be completed by the candidate themselves or by someone else in an organization, and it will help the recruiter to get a comprehensive view of the candidate's profile. This form will help the recruiter to identify the most suitable candidates for a job opening and streamline the hiring process.
-</thinking>
-
 # Candidate Details Form - Help Guide
 ## Purpose
 This form is used to collect information about a candidate, including their contact details, job search preferences, experience, and other relevant details. It helps recruiters to get a comprehensive view of the candidate's profile and identify the most suitable candidates for a job opening.

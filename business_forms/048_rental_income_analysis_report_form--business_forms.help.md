@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect rental income analysis report data. The form is used to analyze the rental income of a property, taking into account various factors such as rent period, income source, rent frequency, rent amount, property type, lease start and end dates, property value, property address, renter details, rent amount currency, property insurance, property management fees, other income, tax rate, tax frequency, tax rate currency, and submission details. The form is likely used by property managers or financial analysts to assess the financial performance of rental properties. The form requires the following information to be filled in: rent period, income source, rent frequency, rent amount, property type, lease start and end dates, property value, property address, renter details, rent amount currency, property insurance, property management fees, other income, tax rate, tax frequency, tax rate currency, and submission details. The form is designed to be completed by someone familiar with the property's rental income data.</thinking>
-
 # Rental Income Analysis Report Form - Help Guide
 ## Purpose
 The Rental Income Analysis Report Form is used to collect and analyze rental income data for a property. This form is essential for property managers or financial analysts to assess the financial performance of rental properties.

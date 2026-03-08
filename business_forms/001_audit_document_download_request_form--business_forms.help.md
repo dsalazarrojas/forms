@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for an Audit Document Download Request, likely used in an organizational setting to gather details for accessing audit documents. It's essential to ensure the form is filled out correctly to prevent duplication of effort and ensure the requested documents are provided promptly. The form should only be filled out once, and the information should be accurate and up-to-date. Before filling out this form, please check if you have already submitted a similar request or if the required documents are already available.
-
-</thinking>
-
 # Audit Document Download Request Form - Help Guide
 ## Purpose
 The Audit Document Download Request Form is designed to collect information for requesting access to audit documents. This form is used to gather details about the requester, the audit documents they are seeking, and the purpose of the request.

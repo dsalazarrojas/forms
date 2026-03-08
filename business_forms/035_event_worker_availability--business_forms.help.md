@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Worker Availability - Help Guide
 ## Purpose
 This form is used to collect information about an event worker's availability, transportation requirements, and tool assignment details. 

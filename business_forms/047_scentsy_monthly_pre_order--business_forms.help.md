@@ -1,12 +1,3 @@
-<thinking>
-The form is designed to collect customer information and preferences for the Scentsy monthly pre-order. The form is intended to be filled out by customers who are interested in pre-ordering scentsy products. The fields are designed to be simple and easy to understand, with some fields being optional and others required for accurate order fulfillment and shipping. The form is likely used by a business that specializes in selling scentsy products, and it's likely used for internal purposes such as order management and customer tracking.
-
-The purpose of the form is to collect data about the customer, their preferences, and their ordering habits. The form asks for customer name, contact information, order type, and shipping details, among other things.
-
-The form likely uses the data collected to manage the customer's order and ship the products on time.
-
-</thinking>
-
 # Scentsy Monthly Pre Order - Help Guide
 ## Purpose
 This form is designed to help customers pre-order Scentsy products on a regular basis, either as a one-time order or on a recurring basis. The form allows customers to provide their contact information, preferences, and shipping details, ensuring that their orders are fulfilled accurately and on time.

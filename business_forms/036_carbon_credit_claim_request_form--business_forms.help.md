@@ -1,7 +1,3 @@
-<thinking>
-We are implementing a carbon credit claim request form for organizations to submit their claims for carbon credits. To be eligible, the projects must be registered and recognized as legitimate projects by external authorities. To avoid duplication, we will check the project name and location against our database before accepting a new claim. This form is intended for project developers and administrators to submit their projects for evaluation and certification. Please ensure that you have a clear understanding of the project details and the required documentation before proceeding.
-</thinking>
-
 # Carbon Credit Claim Request Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a request for carbon credits to be evaluated and certified by our organization. Please fill out the form with accurate and detailed information about your project to help us assess your claim.

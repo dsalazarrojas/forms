@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a current event, such as a meeting, conference, or other type of event. The form is used to gather details about the event, including the date and start time, location, and type of event. This information can be used for various purposes, such as planning, organization, and analysis.
-To ensure that the form is filled out correctly and efficiently, please review the following sections:
-</thinking>
-
 # Current Event Summary Form - Help Guide
 ## Purpose
 The Current Event Summary Form is designed to collect concise information about a current event. It includes fields for event type, date, start time, and location.

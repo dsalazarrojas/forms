@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # disbursement_correction_form - Help Guide
 
 ## Purpose

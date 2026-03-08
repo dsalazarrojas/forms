@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses in the agriculture sector, aiming to gather insights on their main challenges, support needs, technology use, employment count, estimated annual turnover, willingness to participate in programs, preferred contact method, and additional comments. The form is intended to be completed by businesses that are part of this sector, providing a platform to capture their experiences, challenges, and opinions. 
-
-This guide is to ensure that the end-users understand the purpose and requirements of the form. It is also a reminder for the development team to review the form's fields and ensure that each one is properly explained, as some fields might be unclear or have unintended purposes.
-</thinking>
-
 # Agriculture Survey - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to facilitate the supplier's request for credit refill. This form allows suppliers to provide necessary information for a credit refill, including the requested date for the credit refill, the amount of credit to be refilled, and contact information for both the supplier and the customer. To ensure accurate and efficient processing, please ensure you complete the form correctly. Please do not submit duplicate requests for credit refills.</thinking>
-
 # Supplier Credit Refill Order Form - Help Guide
 ## Purpose
 The Supplier Credit Refill Order Form is designed to collect necessary information from suppliers for the purpose of requesting a credit refill.

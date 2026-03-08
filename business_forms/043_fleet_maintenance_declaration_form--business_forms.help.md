@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information about fleet maintenance from a user. It has 12 fields with various types such as text, select_one, select_multiple, date, and time. The form is likely used to track and record maintenance history for vehicles. 
-
-The form requires users to provide general information about the vehicle, its registration, type, and storage location. Users are also asked to provide details about the last and next maintenance dates and times, as well as the last and next maintenance locations. Additionally, users can leave additional notes if necessary. 
-
-This form does not appear to be designed for public use, as there is no mention of a public-facing interface or user guide. It appears to be an internal or corporate form used to gather information for fleet management. 
-
-The form does not ask for sensitive or personal information, making it suitable for use in a business setting. However, it is essential to review and test the form to ensure it meets the specific needs of the users and the organization. 
-
-Before using this form, it is crucial to review the fields and options carefully to ensure that they meet the specific requirements of the fleet maintenance process. 
-
-Please review the form carefully and make sure it fits your needs before proceeding.
-
-</thinking>
-
 # fleet_maintenance_declaration_form - Help Guide
 ## Purpose
 This form is designed to collect information about fleet maintenance from a user. It aims to track and record maintenance history for vehicles.

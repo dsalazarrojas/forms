@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's quickly review the form's purpose and requirements. The form is called "Menu Addition Support Request" which suggests it's used to add or modify menu items in a business setting. The form has 8 fields, each with a unique label, name, and type. Some fields are required, while others are optional. The form's purpose is to provide a structured way for users to submit requests related to menu additions, such as adding new menu items, modifying existing ones, or requesting changes to menu items. To complete this form, users should follow the instructions below.</thinking>
-
 # Menu Addition Support Request - Help Guide
 ## Purpose
 This form is used to submit requests related to menu additions in a business setting. You can use it to add new menu items, modify existing ones, or make requests for changes to menu items.

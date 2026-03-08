@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for a performance review of a customer by their representative, aiming to collect feedback on various aspects of their experience with the representative. The form should be designed to be simple and easy to use, while ensuring that all necessary information is collected. 
-</thinking>
-
 # performance_review_customer_evaluation - Help Guide
 ## Purpose
 This form is used to gather feedback from customers on their experience with their representative, allowing for performance evaluation and improvement opportunities. 

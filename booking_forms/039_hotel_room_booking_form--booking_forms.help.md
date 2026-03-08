@@ -1,9 +1,3 @@
-<thinking>... internal reasoning about the form purpose and fields ...
-
-The form is intended to allow users to book a hotel room, providing information such as the guest's name, arrival and departure dates, preferred room type, number of guests, contact email, and phone number. The form does not require all fields to be filled, allowing for flexibility in the booking process.
-
-</thinking>
-
 # Hotel Room Booking Form - Help Guide
 
 ## Purpose

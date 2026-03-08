@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and not for duplicate submissions. To do this, we'll add a simple validation that checks if a user has already submitted the form with the same email address. If they have, they'll be prompted to try again.
-</thinking>
-
 # Customer Value Strategy Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from individuals who want to discuss their customer value strategy. The goal is to gather essential details that will help our team understand their needs and provide tailored support.

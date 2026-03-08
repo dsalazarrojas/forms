@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather essential information about construction projects from clients, including contact details, project identification, project scope and budget, timeline, and logistics. Before proceeding, ensure that this form is not being duplicated in your organization, and that all required fields are complete and accurate. The form will guide users through three main sections: Client and Primary Contact, Project Identification, and Timeline and Logistics. It's crucial to understand the purpose and usage of each field as you fill out the form.
-</thinking>
-
 # Construction Project Intake Form - Help Guide
 ## Purpose
 The Construction Project Intake Form is designed to collect essential information about a construction project from the client. This information will help the firm understand the project's scope, budget, and timeline, ensuring a smooth and efficient process.

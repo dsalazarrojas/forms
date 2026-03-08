@@ -1,15 +1,3 @@
-<thinking>
-This form is used to book a photography session with a photographer. The form is designed to gather necessary information from the client, including their personal details, session preferences, and payment information. The form is intended for end-users who want to schedule a photography session, and it is a crucial part of the business process for the photographer to manage their bookings.
-
-This form has been designed with the following requirements in mind:
-
-* Each field is carefully crafted to minimize duplication and ensure that the photographer has the necessary information to provide a great experience for the client.
-* All required fields are marked as such, ensuring that the photographer has all the necessary information before proceeding with the booking.
-* The form is easy to understand and complete, with clear labels and descriptions for each field.
-
-Please note that some fields might be optional, but they are still required for the booking process to proceed.
-</thinking>
-
 # Photography Session Booking Form - Help Guide
 ## Purpose
 

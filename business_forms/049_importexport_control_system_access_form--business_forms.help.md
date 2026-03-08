@@ -1,10 +1,3 @@
-<thinking>
-This form is meant to be used for internal business purposes, likely related to access control systems for import and export activities within an organization. The form might be used by employees to request access to certain areas or systems, or to report on import and export activities. 
-It's possible that this form is used to manage user access and permissions, ensuring that users have the necessary clearance to perform their duties. The form's purpose could also be for reporting and documentation of import and export events, such as when and where goods are being imported or exported within the organization. 
-The form might be completed by a "business form requester" and a "business form requestor", who would provide information on the access level, approval status, dates and times of import and export requests, and reasons for these requests. This form could be used to track and manage access and permissions for users within the organization.
-Before proceeding, ensure you have the necessary clearance to access the systems or areas you are requesting access to. If you're unsure, contact the relevant department or supervisor.
-</thinking>
-
 # ImportExport Control System Access Form - Help Guide
 ## Purpose
 This form is used to request access to import and export systems or areas within the organization.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to facilitate the completion of a daily safety inspection. This is a non-redundant form used to document the inspection of a site. The form is intended to be completed by inspectors on a regular basis, ideally at the same time each day, to identify and record any hazards that have been found on the site, and to document the actions taken to mitigate or resolve them. The form is designed to be simple and easy to understand, with fields for essential information such as site address, inspector name, date, and time of inspection. The form also includes fields for recording hazards identified and the actions taken to address them, as well as space for additional comments. This form is not intended to replace any official safety inspection procedures, but rather to serve as a supporting tool for inspectors to document their daily activities. This form does not store or process any personally identifiable information, and it is not intended to be used for any purpose other than supporting daily safety inspections.
-</thinking>
-
 # Daily Safety Inspection - Help Guide
 ## Purpose
 This form is used to document the completion of a daily safety inspection at a site. It captures the essential information required for the site's safety records and helps maintain a consistent and accurate reporting process.

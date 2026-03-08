@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from companies about their industrial software integration needs. It is intended for companies that require integration services for their software systems. The form will ask for details about the company, their technical environment, and their integration requirements. This form will likely be used by business development teams, sales teams, or other stakeholders to gather information from potential clients, partners, or vendors.
-</thinking>
-
 # Industrial Software Integration Registration Form - Help Guide
 ## Purpose
 This form is a registration tool for companies to provide information about their industrial software integration needs. Fill out this form to help us understand your company's requirements and preferences for integration services.

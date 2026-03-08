@@ -1,9 +1,3 @@
-<thinking>
-This is a guide for the Sprint Backlog Items Entry Form, used for inputting new items into the sprint backlog in a software development project management process.
-The form is designed to gather information about each item, including its project name, task ID, status, sprint ID, priority, estimated and actual time spent, team members involved, notes, contact information, category, and assigned person.
-Before proceeding, please ensure that you have the necessary permissions to access and update sprint backlog items.
-</thinking>
-
 # Sprint Backlog Items Entry Form - Help Guide
 ## Purpose
 The Sprint Backlog Items Entry Form is used to input new items into the sprint backlog, which is a collection of tasks and activities to be completed during a specific sprint. This form helps track progress and status of each item, ensuring that team members stay on track and have accurate information about the tasks at hand.

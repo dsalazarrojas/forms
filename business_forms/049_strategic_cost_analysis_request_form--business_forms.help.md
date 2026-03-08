@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are requesting a strategic cost analysis for their projects. It will likely be used by managers or project leaders to evaluate and approve or reject cost-related requests. The purpose of this form is to gather necessary details about the project, such as category, type, location, and estimated cost, which will help in making an informed decision. Before completing this form, please ensure that you have all the necessary information and approvals, as the request will be reviewed and may be subject to further discussion or denial if incomplete or incorrect information is provided.
-
-</thinking>
-
 # Strategic Cost Analysis Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are requesting a strategic cost analysis for their projects.

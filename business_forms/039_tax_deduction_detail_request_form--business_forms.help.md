@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to request tax deductions for specific expenses related to business operations. The form will be reviewed by relevant team members, who will assess and validate the request based on the information provided. The form should not be submitted if the user has already received a tax deduction approval for the same expense. To prevent duplication of requests, users should only submit new requests for expenses not previously approved.
-</thinking>
-
 # Tax Deduction Detail Request Form - Help Guide
 ## Purpose
 The Tax Deduction Detail Request Form is a document used to request tax deductions for specific business expenses. It is a crucial tool for employees to obtain approvals from relevant team members for reimbursement and tax deduction purposes.

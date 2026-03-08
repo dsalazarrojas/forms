@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track the status of entity tax preparation. It captures key information about the entity's tax status, including the organization, tax year, status, next steps, follow-up frequency, last updated by, last updated at, and updated by. This form is likely used by tax preparers or accountants to monitor and manage the tax preparation process. There may be multiple entities with different tax statuses, and this form helps in tracking and updating the status of each entity.
-</thinking>
-
 # Entity Tax Preparation Status - Help Guide
 ## Purpose
 This form is used to track the status of entity tax preparation.

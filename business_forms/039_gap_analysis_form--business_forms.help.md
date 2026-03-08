@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a simple, 3-page form designed to collect information about performance gaps. The goal of this form is to help users identify areas where their current performance is lacking in comparison to their future goals. The form is likely used in a business context to assess and address performance shortfalls. I'm assuming it's not a duplicate form, and the fields seem to be fairly straightforward. I'll provide a clear and concise help guide to assist end users in completing the form correctly.
-</thinking>
-
 # Gap Analysis Form - Help Guide
 ## Purpose
 The Gap Analysis Form is a tool to help you identify and document performance gaps between your current and future performance goals. This form will help you assess areas where you need to improve and focus your efforts on closing the gaps.

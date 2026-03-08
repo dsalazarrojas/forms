@@ -1,11 +1,3 @@
-<thinking>
-To avoid duplication, we'll check if a Soft Heel Cream form has already been filled out for the current user.
-The purpose of the Soft Heel Cream form is to gather information from users about their experience with heel pain. 
-This information will help us understand the common causes of heel pain and how to improve the overall user experience. 
-This form will be used to collect data on the user's specific situation and provide them with relevant advice and guidance on how to alleviate their heel pain. 
-The form will only appear if the user has not yet filled it out.
-</thinking>
-
 # Soft Heel Cream - Help Guide
 ## Purpose
 The Soft Heel Cream form helps us understand common causes of heel pain and how to provide relief. Fill out this form to share your experience and get tailored advice.

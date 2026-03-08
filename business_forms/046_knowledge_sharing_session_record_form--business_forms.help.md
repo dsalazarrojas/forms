@@ -1,22 +1,3 @@
-<thinking>
-This form is for documenting and tracking knowledge-sharing sessions within an organization. It captures information about the session details, key takeaways, feedback, follow-up actions, and follow-up dates. This form is designed to be flexible and allow users to input information about their knowledge-sharing sessions, and it's intended to be used for internal record-keeping and tracking purposes.
-
-The form was generated using AI, and it's not affiliated with any form platform. It's released under CC BY 4.0, allowing for modification and use in any way, including commercial purposes, as long as credit is given.
-
-When using this form, ensure that it's not used for collecting proprietary or sensitive information without proper clearance and approval.
-
-The form has five sections:
-
-1. Session Details
-2. Key Takeaways
-3. Feedback
-4. Follow-up Actions
-5. Follow-up Date
-
-Each section is designed to capture a unique aspect of the knowledge-sharing session, and the fields are self-explanatory.
-
-</thinking>
-
 # knowledge_sharing_session_record_form - Help Guide
 ## Purpose
 This form is designed to document and track knowledge-sharing sessions within an organization. It gathers information about the session's details, key takeaways, feedback, follow-up actions, and follow-up dates.

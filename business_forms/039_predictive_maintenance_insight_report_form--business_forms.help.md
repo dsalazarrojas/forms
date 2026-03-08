@@ -1,12 +1,3 @@
-<thinking>
-The form is used to collect maintenance insights from various departments and teams in the organization to improve the overall predictive maintenance process. This includes collecting information about whether a predictive maintenance action has taken place, selecting relevant options for maintenance tasks, noting down any additional details, entering contact information, and providing a specific time and date for the maintenance activity.
-
-The purpose of this form is to ensure that all departments and teams are on the same page and provide a centralized platform for collecting and analyzing maintenance insights. By using this form, teams can quickly and easily provide updates on their maintenance activities, which can help the organization identify areas of improvement and make data-driven decisions.
-
-The form is divided into several pages with different types of fields such as select_one, select_multiple, text, email, and date/time fields. Each page has a specific purpose and is designed to collect relevant information for the maintenance insights report.
-
-</thinking>
-
 # Predictive Maintenance Insight Report Form - Help Guide
 ## Purpose
 The Predictive Maintenance Insight Report Form is used to collect maintenance insights from various departments and teams to improve the overall predictive maintenance process.

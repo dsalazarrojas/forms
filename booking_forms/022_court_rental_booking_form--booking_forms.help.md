@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed for users to book a court, specifying the user's details, booking date and time, court name, type, and other relevant information. It is intended for customers or users who want to reserve a court for recreation or competition purposes. The form is not for official court administration purposes, so users should not use this form for administrative tasks. To avoid confusion, only one user can book the same court at a given time, and the system should prevent duplicate bookings. 
-</thinking>
-
 # Court Rental Booking Form - Help Guide
 ## Purpose
 This form is a booking system for users to reserve a court for their activities such as recreation, competition, or practice. Please fill in the form carefully to ensure accurate booking information.

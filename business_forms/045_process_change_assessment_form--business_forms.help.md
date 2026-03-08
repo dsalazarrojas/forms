@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used by business teams to assess and document process changes within the organization. This form will help ensure that all relevant information about the change is captured and communicated effectively. 
-It's essential to fill out this form thoroughly and accurately to facilitate a smooth and efficient process change management process. 
-Please ensure you have all necessary information before starting to fill out this form, and avoid duplication of effort by only filling it out once for each process change.
-
-</thinking>
-
 # Process Change Assessment Form - Help Guide
 
 ## Purpose

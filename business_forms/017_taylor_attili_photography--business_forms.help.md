@@ -1,7 +1,3 @@
-<thinking>
-We are checking the form's purpose and potential duplication. This form appears to be designed for a professional photography service, specifically for capturing a wedding. It seems to be a comprehensive contract form that outlines the details of the photography service, including the photographer's and client's information, services offered, and payment terms. Before proceeding, we will review the form's fields to ensure that they are accurately described and explained.
-</thinking>
-
 # taylor_attili_photography - Help Guide
 ## Purpose
 The Taylor Attili Photography form is a comprehensive contract form designed to capture the details of a wedding photography service. This form is intended to outline the terms and conditions of the service, including the photographer's and client's information, services offered, and payment terms.

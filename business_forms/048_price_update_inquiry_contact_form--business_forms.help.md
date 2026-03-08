@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Price Update Inquiry Contact Form is used to allow customers to inquire about price updates for a particular product or service. This form is typically used in situations where the customer has a pressing need for price updates, and the sales team needs to gather more information to better understand their requirements. The form is usually used by sales representatives to collect relevant details from the customer and provide a timely and accurate response to their inquiry.
 
 </thinking>

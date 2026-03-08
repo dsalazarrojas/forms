@@ -1,7 +1,3 @@
-<thinking> 
-The form "Certificate Inventory Management" is used to manage and track certificates, such as compliance, safety, and professional development certificates, issued to employees or entities. This form helps to maintain a centralized inventory of certificates, ensuring accurate tracking and management of certificate issuances, expiration dates, and status updates. It is essential to prevent expired or revoked certificates from being issued or used. The form also aids in setting reminders for renewals and verifying the authenticity of certificates. By utilizing this form, administrators can efficiently oversee the entire certificate lifecycle and maintain a precise record of certificate holder information, inventory status, and other relevant details.
-
-</thinking>
 # Certificate Inventory Management - Help Guide
 ## Purpose
 The Certificate Inventory Management form is used to track and manage certificates, ensuring accurate records and preventing expired or revoked certificates from being issued or used.

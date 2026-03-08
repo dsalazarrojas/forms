@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information from clients regarding design projects. This form is designed for internal use by designers and project managers to gather all the necessary details about a project, including the project's title, description, deadline, and other relevant details. Before filling out this form, please make sure you have reviewed and understood the project's requirements and that you are not duplicating an existing project. If you're not sure about any of the fields or have any doubts, please refer to the project manager or the person who assigned the project to you.
-
-</thinking>
-
 # Design Brief 2 - Help Guide
 ## Purpose
 This form is used to collect project details from clients to facilitate design project management and collaboration.

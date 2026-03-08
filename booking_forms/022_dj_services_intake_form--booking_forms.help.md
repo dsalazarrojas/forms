@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from clients about their upcoming events, such as weddings, parties, and corporate events. The form will help our DJ services team understand the client's requirements and preferences to provide the best possible services. It's essential to ensure that all relevant fields are filled in to avoid duplication of services and to guarantee that our team can meet the client's needs accurately.
-
-This form should only be filled out once per event. If you need to make changes or updates, please fill out a new form with the updated information.
-
-Please make sure to provide as much detail as possible to help our team deliver the best experience for your event.
-
-Please fill out this form carefully and accurately to ensure that our team can provide the best possible services for your event.
-
-</thinking>
-
 # DJ Services Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from clients about their upcoming events, allowing our DJ services team to tailor their services to the client's needs and preferences.

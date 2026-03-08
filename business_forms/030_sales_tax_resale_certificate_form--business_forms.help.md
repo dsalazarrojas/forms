@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Sales Tax Resale Certificate Form", we need to understand the purpose and fields of the form. This form appears to be used for sales tax purposes, specifically for resale certificates. The form is likely used by sellers to provide information about their sales tax obligations. The form may be used to declare whether sales tax is required or exempt, and to provide supporting documentation. 
-
-The form has several fields for seller and purchaser information, resale number, resale number expiration, exemption reason, exemption reason note, seller's signature, purchaser's signature, sales tax resale certificate type, and sales tax resale certificate note. We will now create a help guide based on this information.
-
-</thinking>
-
 # Sales Tax Resale Certificate Form - Help Guide
 ## Purpose
 This form is used for sales tax purposes, specifically for resale certificates. It is used by sellers to provide information about their sales tax obligations.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to obtain permits for excavation work that requires regulatory approval. It is intended for use by project managers, site supervisors, and other authorized personnel to provide necessary information about the project details, location, and safety precautions. To ensure accurate and thorough completion, please review the form carefully and ensure you have all required information available before starting.
-
-</thinking>
-
 # Excavation Permit Form - Help Guide
 ## Purpose
 The Excavation Permit Form is used to collect necessary information for regulatory approval of excavation projects. It gathers details about the project, including project location, site description, and safety precautions.

@@ -1,9 +1,3 @@
-<thinking>
-To create a user-friendly help guide for the "Dog Boarding Booking Form", we need to understand the form's purpose, which is likely for clients to book dog boarding services. The form should gather information about the client's contact and dog details, the dog's boarding requirements, and payment information. This guide will walk users through each field, providing explanations for each to ensure they understand what is expected of them.
-
-Before proceeding, we'll review the form's structure to avoid duplication and ensure all fields are necessary. The form has 7 required fields: User Info, Dog Info, Prophets, Start Date, End Date, Contact Info, Owner Info, and Payment Method. The other fields are optional and can be skipped if not applicable.
-</thinking>
-
 # Dog Boarding Booking Form - Help Guide
 ## Purpose
 This form is designed for clients to book dog boarding services. Please fill out the form to provide your contact and dog information, select the desired boarding dates and services, and provide payment details.

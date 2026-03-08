@@ -1,7 +1,3 @@
-<thinking>
-This form is used for submitting software enhancement requests to the development team. It should only be filled out when you have a genuine request for improvement and not just for testing purposes. Please ensure that you have not already submitted a similar request before filling out this form. If you are unsure whether your request is a duplicate, please check the project's issue tracker or ask your project lead before submitting this form.
-</thinking>
-
 # Software Enhancement Request Form - Help Guide
 ## Purpose
 This form is used to submit software enhancement requests to the development team. It helps the team understand your needs and requirements for improvements to the software.

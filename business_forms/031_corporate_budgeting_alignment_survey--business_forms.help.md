@@ -1,7 +1,3 @@
-<thinking>
-This guide is designed to help you complete the Corporate Budgeting Alignment Survey form, which is used to capture essential information for corporate budgeting purposes. Please ensure you're completing this form for the intended use and don't duplicate your efforts by filling out this form unnecessarily.
-</thinking>
-
 # Corporate Budgeting Alignment Survey - Help Guide
 ## Purpose
 The Corporate Budgeting Alignment Survey is a crucial tool used to align individual and departmental budgets with the company's overall financial goals. This form helps to capture essential information for budget planning, tracking, and evaluation.

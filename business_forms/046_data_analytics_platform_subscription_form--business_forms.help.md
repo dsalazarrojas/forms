@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # data_analytics_platform_subscription_form - Help Guide
 ## Purpose
 The data_analytics_platform_subscription_form is used to subscribe to services offered by the data analytics platform. The form helps you provide your name, email, phone number, payment information, and subscription details to complete the subscription process. Please ensure you have all necessary information ready before starting the form, as some fields are optional and others are required for a successful subscription.

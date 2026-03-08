@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users after a meeting has taken place. It is intended to capture essential details such as the date and time of the meeting, the attendees, the location, and any additional comments or feedback that may be relevant to the meeting. This form should be used by meeting organizers, attendees, or anyone who needs to document the meeting's outcome. Please ensure this form is used for its intended purpose and not duplicated for other unrelated meetings. 
-</thinking>
-
 # Maintenance Building Meeting Feedback - Help Guide
 
 ## Purpose

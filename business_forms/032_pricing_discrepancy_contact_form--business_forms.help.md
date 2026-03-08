@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm the form purpose and ensure there's no duplication of effort, let's break down the form's internal reasoning:
-
-1. The Pricing Discrepancy Contact Form is used to report discrepancies or issues with pricing-related matters within the business.
-2. To prevent duplication of effort, the form requires contact information and a clear description of the issue.
-3. The form captures specific details about the product, contact number, contact email, and price mismatch, making it an efficient way to gather essential information for resolution.
-
-</thinking>
-
 # Pricing Discrepancy Contact Form - Help Guide
 ## Purpose
 The Pricing Discrepancy Contact Form is used to report any discrepancies or issues with pricing-related matters within the business. This form is designed to gather necessary information to resolve these discrepancies efficiently and effectively.

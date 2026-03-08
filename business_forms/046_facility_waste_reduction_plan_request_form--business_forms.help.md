@@ -1,20 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a business facility's waste reduction plan request. The form likely serves as an internal or external request for a facility to implement waste reduction measures or initiatives. The form might be used by facility management, environmental teams, or sustainability departments to gather details about the proposal and its timeline. 
-
-Before filling out this form, please ensure you have a clear understanding of the facility's waste reduction goals and the proposed plan to achieve them. This form should not be used for other purposes, such as creating a new sustainability plan from scratch. If you're unsure, please consult with the relevant department or team.
-
-To fill out this form correctly, ensure that you:
-
-1. Enter the correct facility name (if it's a multi-facility organization, please enter the one associated with this request).
-2. Propose a clear and concise sustainability project proposal.
-3. Enter a valid date for the proposal (e.g., MM/DD/YYYY).
-4. Enter a valid time for the proposal (e.g., 08:30).
-
-Please note that the form is not for internal use only; it might be shared with external partners or stakeholders.
-
-</thinking>
-
 # Facility Waste Reduction Plan Request Form - Help Guide
 ## Purpose
 The form is designed to collect information for a business facility's waste reduction plan request.

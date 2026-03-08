@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the goal of this form is to gather relevant information about the individual seeking commercial leasing certification, ensuring they have the proper background and credentials to complete the certification program. Before proceeding, please review the following guide to understand each field's purpose and requirements:
-
-</thinking>
-
 # Commercial Leasing Certification Registration Form - Help Guide
 ## Purpose
 The Commercial Leasing Certification Registration Form is designed to collect information about the individual seeking commercial leasing certification. This form helps us assess your qualifications and background to ensure you are prepared for the program.

@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "website_publishing_permission_form" form, I must first understand the purpose of this form and how users can complete it. The form seems to be a request for website publishing permission, which is necessary when a user wants to publish content on a platform managed by the organization. This form might be used for requesting permission to publish a website, image, video, or other types of content.
-
-I must analyze the fields included in the form to ensure I'm providing accurate explanations for each field.
-
-</thinking>
-
 # website_publishing_permission_form - Help Guide
 ## Purpose
 This form is used to request permission to publish website content on a platform managed by the organization. You will need to provide necessary details for your request to be processed.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by guests during a welcome call. A welcome call is a brief introductory call made to newly onboarded customers or potential customers to provide them with essential information about your product or service. The purpose of this form is to gather relevant details about the guests that can be used to personalize their onboarding experience.
-</thinking>
-
 # Welcome Call Processing Form - Help Guide
 ## Purpose
 The Welcome Call Processing Form is used to collect information from guests during the welcome call to facilitate a smooth onboarding process and provide personalized support. This form will be filled out by guests to supply the necessary details required to process their welcome call.

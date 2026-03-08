@@ -1,7 +1,3 @@
-<thinking>
-The "helipad_helicopter_reservation_form" form is a critical tool for managing helicopter reservations. Its primary purpose is to gather essential information from users when booking a helicopter service. This form should only be used by authorized personnel who require a helicopter booking. The goal is to ensure accurate and complete information is captured, which will help in efficient processing and delivery of the service. Before proceeding, ensure you are authorized to use this form and that you have the necessary clearance to access the information it captures.
-</thinking>
-
 # helipad_helicopter_reservation_form - Help Guide
 ## Purpose
 The helipad_helicopter_reservation_form is a form used for booking and managing helicopter services.

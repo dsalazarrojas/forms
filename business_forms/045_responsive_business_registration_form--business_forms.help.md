@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help businesses register their information in a centralized database for easy access and reference. The fields are organized in a way that allows for a comprehensive understanding of each business's details. The form is meant to be responsive, adaptable to different screen sizes and devices. The fields include general contact information, business type, location, and social media presence, as well as fields for the form submitter to provide their contact information and any additional notes or descriptions. This guide is intended to help fill out the form correctly and efficiently.
-</thinking>
-
 # Responsive Business Registration Form - Help Guide
 ## Purpose
 This form is designed to collect comprehensive information about businesses for easy access and reference.

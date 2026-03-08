@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from companies interested in repurchasing their shares or securities from the company's existing shareholders. This form should be used by companies that want to buy back their own shares or securities, and it helps the company to understand the terms and conditions of such a repurchase.
-
-To prevent duplication, this form should only be filled out by companies that have previously submitted a similar form or have a legitimate reason for repurchasing their shares or securities. If a company has already repurchased shares or securities in the past, they are not required to fill out this form again.
-
-</thinking>
-
 # Membership Interest Repurchase Agreement Form - Help Guide
 ## Purpose
 This form is intended for companies that want to repurchase their shares or securities from their existing shareholders. It's a way to collect information about the company's intentions and to document the agreement between the company and the shareholder.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting business information and terms from partners. The purpose of this form is to gather essential details from partners to establish a mutually beneficial agreement. The form is meant to be used by businesses looking to collaborate or partner with other companies. 
-</thinking>
-
 # white_label_agreement_form - Help Guide
 ## Purpose
 This form is used to collect business information and terms from partners, enabling businesses to establish a mutually beneficial agreement.

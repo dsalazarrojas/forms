@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information for appointment and session requests from potential clients. The form ensures that all required fields are filled out, reducing the likelihood of missed appointments and incomplete session details. It also allows for flexibility in scheduling and preferences, while minimizing the amount of back-and-forth communication between the client and the service provider. 
-
-Please note that this form is not meant to be a comprehensive contract, and further details will be discussed and agreed upon during the initial consultation. 
-
-This form will be used to determine the type of session, the preferred date and location, and other session details such as photography style and session duration. The information gathered here will help to create a personalized and effective session plan. 
-
-This form should only be filled out if a session has been scheduled or is in the process of being scheduled. 
-</thinking>
-
 # Appointment E Session Request Form - Help Guide
 ## Purpose
 This form is a request for an appointment or session with our service provider. It is designed to ensure that we have all the necessary information to create a successful and enjoyable experience for both parties. 

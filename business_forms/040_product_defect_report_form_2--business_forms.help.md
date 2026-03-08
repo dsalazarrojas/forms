@@ -1,5 +1,3 @@
-<thinking>A report form is created to document and track product defects, damages, or losses reported by buyers. This form captures essential information about the product being reported, including product details, defect types, report date, and contact information of the buyer. This form helps to ensure that all product defect reports are accurately documented and addressed in a timely manner.</thinking>
-
 # Product Defect Report Form 2 - Help Guide
 ## Purpose
 This form is designed to collect and document product defects, damages, or losses reported by buyers. It is essential to complete this form accurately and thoroughly to ensure that the issue is properly addressed.

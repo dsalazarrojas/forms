@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for this form is to ensure that new clients are properly onboarded to the company, and that the necessary information is collected accurately and efficiently. This form is designed to be filled out by the sales team or account managers to collect information from new clients. It's essential to understand that the form is a one-time activity, and it's only filled out when a new client is being onboarded.
-</thinking>
-
 # new_client_onboarding_checklist - Help Guide
 ## Purpose
 This form is used to collect essential information about a new client during the onboarding process. It's a crucial step to ensure that the client's details are accurately recorded and that the onboarding process goes smoothly.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect weekly timesheet information from employees. The purpose of this form is to gather data on company-wide metrics and employee performance. It's crucial that each employee completes their own form accurately and thoroughly, ensuring that management has the correct data to make informed decisions. To avoid duplication of effort, please fill out only one form per week.
-
-</thinking>
-
 # Weekly Employee Timesheet Form - Help Guide
 ## Purpose
 The Weekly Employee Timesheet Form is a tool used to collect employee work hours, tasks, and other relevant data for each week. This form helps management track and analyze company-wide metrics, enabling informed decisions to be made.

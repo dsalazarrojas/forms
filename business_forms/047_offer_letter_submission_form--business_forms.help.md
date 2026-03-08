@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Offer Letter Submission Form - Help Guide
 ## Purpose
 This form is designed to help employees submit their offer letters, which are essential documents that outline the terms and conditions of an employee's employment. The form collects information about the employee's personal details, job title, department, and employment status, as well as the reason for their leave (if applicable). The purpose of this form is to provide a standardized and efficient way to collect offer letter information from employees.

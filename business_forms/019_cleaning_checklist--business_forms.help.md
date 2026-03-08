@@ -1,19 +1,3 @@
-<thinking>
-This form is likely created to facilitate cleaning checklists for a business or cleaning service, possibly for commercial or residential properties. The form aims to standardize and record the cleaning tasks completed on a specific date, at a particular location, and by a cleaner. It might be used by janitorial or cleaning services to document their work and ensure consistency.
-
-The main fields in this form seem to cover the following aspects:
-- Property address and location (ID 2)
-- Date of cleaning (ID 3)
-- Cleaner's name (ID 4)
-- Kitchen area (ID 6, 7, 8)
-- Living and common areas (ID 10, 11, 12)
-- Bathrooms (ID 14, 15, 16)
-- Supplies and client requests (ID 17, 18)
-
-This form likely aims to help cleaners report their completion of tasks and provide feedback or notes for future visits.
-
-</thinking>
-
 # Cleaning Checklist - Help Guide
 ## Purpose
 This form is designed for cleaners and supervisors to record and document the cleaning tasks completed at a specific location, including the cleaner's name, date, and completion time. The form helps standardize the cleaning process and ensures consistency and accuracy in reporting.

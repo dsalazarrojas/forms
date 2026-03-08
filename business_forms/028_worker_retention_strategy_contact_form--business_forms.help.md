@@ -1,10 +1,3 @@
-<thinking>
-...The purpose of this form is to gather contact information and feedback from employees regarding the company's worker retention strategies. This form is designed to be used by employees who are experiencing difficulties with the company's policies or procedures, or who have suggestions for improving the company's retention initiatives. 
-To ensure that the form is completed accurately and thoroughly, please review the following guidelines carefully.
-Before completing the form, please ensure that you have a specific issue or suggestion you wish to share with the HR team regarding worker retention. 
-Also, please fill in all required fields to ensure that your feedback is processed correctly.
-</thinking>
-
 # Worker Retention Strategy Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and feedback from employees on the company's worker retention strategies.

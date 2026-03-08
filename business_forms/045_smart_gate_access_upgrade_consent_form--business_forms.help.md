@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to obtain consent for users to upgrade their smart gate access. Upgrading access implies that the user is requesting permission to access more advanced features or increased permissions within the system. Before filling out this form, please ensure that the requested upgrade is not redundant or unnecessary. It's best to review your access needs before proceeding.
-
-</thinking>
-
 # Smart Gate Access Upgrade Consent Form - Help Guide
 ## Purpose
 The Smart Gate Access Upgrade Consent Form is used to request permission to access more advanced features or increased permissions within the system. To complete this form, follow the steps below.

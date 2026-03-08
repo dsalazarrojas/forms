@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from employees to plan and organize in-person learning and development events at the workplace. It seems to be used to plan activities like training sessions, workshops, or seminars where employees can learn new skills, improve their performance, or enhance their communication and problem-solving abilities. The form is likely to be used by HR or Training departments within companies. To ensure that the form is used correctly, please review the fields and their descriptions below to understand their purpose and relevance to the event planning process.
-</thinking>
-
 # Lunch And Learn Planning Form - Help Guide
 ## Purpose
 The Lunch And Learn Planning Form is a tool used to gather essential information for organizing in-person learning and development events within the workplace. It helps event planners collect details about the company, speakers, event details, learning objectives, agenda, materials, evaluation, and comments to create a well-structured and engaging event.

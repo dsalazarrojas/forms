@@ -1,11 +1,3 @@
-<thinking>
-
-The New Partner Engagement Form is designed to collect partner information and basic contact details. This form should be used to establish a new partner relationship with a business or individual. It's essential to ensure that only relevant and accurate information is provided to avoid duplication in our system.
-
-Before proceeding, please double-check if this form is relevant to your current task and that you're not duplicating an existing record. If you're unsure, refer to your organization's documentation or contact your supervisor for guidance.
-
-</thinking>
-
 # New Partner Engagement Form - Help Guide
 ## Purpose
 The New Partner Engagement Form collects essential information about new partners, including basic contact details and partner-specific data. This form helps our team to onboard new partners efficiently and build strong business relationships.

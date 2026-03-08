@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help businesses report instances of lost receipts, providing a structured format for documenting and tracking such occurrences. Its purpose is to gather essential information about the lost receipt, including the date it was lost, the employee responsible for it, and any supporting documents that may be required for recovery or investigation. The form should be used when a receipt has been misplaced or lost, and the employee filling it out is the one who last had it. The form does not require the customer's signature, as it's primarily an internal report for the business. 
-
-Please review the form carefully to ensure you're filling it out correctly and not duplicating efforts. If you're unsure about any part of the process, please consult with your supervisor or HR department.
-</thinking>
-
 # Receipt Loss Report - Help Guide
 ## Purpose
 The Receipt Loss Report form is used to document instances of lost receipts, allowing businesses to track and manage these occurrences efficiently.

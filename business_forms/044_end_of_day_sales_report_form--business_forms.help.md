@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to help sales representatives and management track the performance of sales at the end of each day. The form will help to report sales data, including period, amount, tax, shipping fees, net sales, product ID, sales representative ID, sales representative name, sales date, sales region, sales status, and comments. 
-
-The form is meant for sales representatives to provide a daily update of their sales performance, and for management to track and analyze this data for performance evaluation and improvement. It is recommended to fill out this form daily.
-
-The form does not have a duplicate or duplicate fields.
-
-</thinking>
-
 # End Of Day Sales Report Form - Help Guide
 ## Purpose
 The End Of Day Sales Report Form is a tool for sales representatives to report their sales performance at the end of each day. This form helps management track and analyze sales data to evaluate performance and identify areas for improvement.

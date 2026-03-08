@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a client's strategic plan, which is a crucial document that outlines the objectives, goals, and strategies for a client's business. The purpose of this form is to gather essential details about the client's plan, including contact information, plan title, time frame, strategic focus areas, target outcomes, budget or resource allocation, and key risks identified. This information will help our team understand the client's needs and provide the necessary support to ensure the successful implementation of their strategy.
-</thinking>
-
 # Client Strategic Plan Upload Form - Help Guide
 ## Purpose
 This form is used to collect and store client strategic plan information for reference and follow-up.

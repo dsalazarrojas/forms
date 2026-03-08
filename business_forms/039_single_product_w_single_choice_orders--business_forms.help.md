@@ -1,6 +1,3 @@
-<thinking> 
-This form is used to collect information from customers for single product orders with a single choice selection. It's designed to gather customer name, product name, quantity, single choice, and confirm information. This form is likely used in a business context, possibly for inventory management or order fulfillment purposes. To ensure accurate and relevant data collection, please verify that the form is being used for its intended purpose and that the data entered is correct. If the form is being used for multiple products or choices, it may not be the correct form to use.</thinking>
-
 # Single Product W Single Choice Orders - Help Guide
 ## Purpose
 This form is designed to collect information from customers for single product orders with a single choice selection.

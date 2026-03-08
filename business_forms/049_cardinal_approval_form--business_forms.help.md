@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cardinal Approval Form - Help Guide
 
 ## Purpose

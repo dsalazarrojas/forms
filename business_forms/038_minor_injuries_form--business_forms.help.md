@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about minor injuries sustained by employees in the workplace. This form is likely used by HR or risk management teams to document and report injuries, which is an essential process for workplace safety and compliance. The form is designed to gather details about the injury date, employee involved, and witness statements, which are all crucial for understanding the circumstances surrounding the injury. 
-
-Before starting this form, please ensure that you are using it for the correct purpose and not duplicating efforts. If you have already reported this injury, do not complete this form again.
-
-</thinking>
-
 # Minor Injuries Form - Help Guide
 ## Purpose
 The Minor Injuries Form is designed to collect information about minor injuries sustained by employees in the workplace. This form helps HR or risk management teams document and report injuries, which is an essential process for workplace safety and compliance.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect billing information and details for car rentals from customers. It captures various information such as customer contact details, rental agreement details, vehicle information, and billing charges. The form includes fields for both customer and vehicle data, allowing users to easily input the necessary information for accurate and efficient billing. This form is intended to be used for both internal and external purposes, ensuring that all relevant billing data is collected and processed correctly.
-
-</thinking>
-
 # Car Rental Billing Form - Help Guide
 ## Purpose
 The Car Rental Billing Form is designed to collect billing information and details for car rentals from customers.

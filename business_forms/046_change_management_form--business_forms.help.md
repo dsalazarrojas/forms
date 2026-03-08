@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Change Management Form - Help Guide
 
 ## Purpose

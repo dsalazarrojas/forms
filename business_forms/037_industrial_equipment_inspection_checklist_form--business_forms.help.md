@@ -1,8 +1,3 @@
-<thinking>
-This form is used to document the inspection and maintenance history of industrial equipment. The goal is to ensure that the equipment is in good condition and functioning properly. This form helps to identify any potential safety hazards, maintenance needs, and functionality issues.
-
-</thinking>
-
 # industrial_equipment_inspection_checklist_form - Help Guide
 ## Purpose
 

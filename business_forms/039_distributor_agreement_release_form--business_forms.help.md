@@ -1,7 +1,3 @@
-<thinking>
-This form is used for releasing business agreements between the company and its distributors. The agreement ID is a unique identifier for each agreement. This form will help in tracking and managing the release status of these agreements. It's essential to complete this form accurately to ensure timely and efficient processing. Make sure to fill out the form for each agreement separately and correctly.
-</thinking>
-
 # Distributor Agreement Release Form - Help Guide
 ## Purpose
 The Distributor Agreement Release Form is used to track and manage the release status of business agreements between the company and its distributors. This form ensures that all necessary information is captured correctly for efficient processing.

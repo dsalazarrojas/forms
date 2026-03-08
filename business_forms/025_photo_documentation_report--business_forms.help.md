@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to document and track projects within an organization. The form's purpose is to collect relevant details about a project, including its name, description, tags, images, and other metadata. This form is probably used for project management or administrative purposes, such as reporting, tracking, or monitoring project progress.
-</thinking>
-
 # Photo Documentation Report - Help Guide
 ## Purpose
 The Photo Documentation Report form is used to collect and store project-related information for documentation and tracking purposes.

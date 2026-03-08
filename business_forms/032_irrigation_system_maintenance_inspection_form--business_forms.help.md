@@ -1,8 +1,3 @@
-<thinking>
-The form is intended for irrigation system maintenance inspection purposes. It captures relevant information about the irrigation system, including its id, inspector's id, inspection date, system status, pump, and controller status. The form is likely used by personnel responsible for maintaining and monitoring the irrigation systems. It is not immediately clear why so many fields are included in the form, but it is possible that some of these fields are only required for specific systems or under specific conditions. I will assume that this is a comprehensive form for general irrigation system inspection and proceed to create a user-facing help guide.
-
-</thinking>
-
 # Irrigation System Maintenance Inspection Form - Help Guide
 
 ## Purpose

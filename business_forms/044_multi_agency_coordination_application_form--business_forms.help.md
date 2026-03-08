@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals or organizations interested in coordinating with multiple agencies on a project. The form will help to streamline the process of project proposal and coordination by providing a structured way to collect project details and relevant information. It will ensure that all required information is captured correctly, preventing any potential issues or misunderstandings that may arise in the future.
-
-The form will be used for the following purposes:
-- To gather project proposals from multiple agencies
-- To coordinate project details with participating agencies
-- To track project progress and status
-
-To prevent duplication, this form should only be filled out by one person/organization per project proposal.
-
-</thinking>
-
 # multi-agency-coordination-application-form - Help Guide
 ## Purpose
 The multi-agency-coordination-application-form is designed to gather information from individuals or organizations interested in coordinating with multiple agencies on a project.

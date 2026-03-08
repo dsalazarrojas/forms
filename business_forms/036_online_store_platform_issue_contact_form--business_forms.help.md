@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to report issues with the online store platform. This form will collect information about the issue, its category, and any relevant details, contact information, and attachments. This form will help the support team to understand and resolve the issue efficiently. Please ensure that you fill out this form only for issues that are not resolved through other support channels.
-
-This form is designed to be completed in multiple steps, with each field contributing to the overall understanding of the issue. Please read each step carefully and fill out the form accordingly.
-
-The form fields are described below:
-</thinking>
-
 # online_store_platform_issue_contact_form - Help Guide
 ## Purpose
 This form is used to report issues with the online store platform. If you are experiencing any problems with the platform, please fill out this form so that our support team can assist you.

@@ -1,16 +1,3 @@
-<thinking>
-This form is a vendor invoice submission form, used for submitting invoices from external vendors to the company. The form is designed to collect relevant information about the vendor, their company, and the invoice details. 
-
-To use this form, please ensure that you have the necessary permissions and approvals to submit invoices on behalf of the vendor.
-
-Before completing this form, please note that the form is divided into several sections, each with its own purpose.
-
-This form is for submission and tracking purposes only, and not for editing or modifying existing invoices. If you are looking for editing or modifying an existing invoice, please contact the relevant department or follow the proper procedures for making changes to existing invoices.
-
-To avoid duplication of work, please check if an invoice has already been submitted by the vendor before resubmitting.
-
-</thinking>
-
 # vendor_invoice_submission_form - Help Guide
 ## Purpose
 The vendor invoice submission form is a tool used for submitting invoices from external vendors to the company. It captures essential details about the vendor, their company, and the invoice details, facilitating efficient and accurate tracking and processing.

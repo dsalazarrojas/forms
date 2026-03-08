@@ -1,7 +1,3 @@
-<thinking>
-To provide a comprehensive guide for the Climate Neutral Hospitality Program Registration form, we must first understand its purpose and relevance. This form is designed to help hospitality businesses like hotels, inns, guesthouses, and resorts join the Climate Neutral program, which aims to promote sustainable practices and reduce carbon emissions. It's essential to ensure that the form is completed accurately and thoroughly, as the information provided will be used to support the business's sustainability efforts. To avoid duplication of effort, the form should not be filled out by businesses that already have a strong track record of sustainability.
-</thinking>
-
 # Climate Neutral Hospitality Program Registration - Help Guide
 ## Purpose
 The Climate Neutral Hospitality Program Registration form is designed to help hospitality businesses join the program and commit to sustainable practices. This guide will walk you through each step of the form to ensure a smooth and accurate submission.

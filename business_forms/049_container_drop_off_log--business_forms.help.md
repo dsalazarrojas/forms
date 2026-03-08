@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to record the details of a container drop off, including container information, delivery details, and receiving information. 
-
-Before completing this form, please ensure that all required fields are accurate and up-to-date. It's essential to double-check your entries to avoid mistakes or missing information.
-
-This guide will walk you through each section of the form and help you understand what's required for each field.</thinking>
-
 # Container Drop Off Log - Help Guide
 ## Purpose
 The purpose of this form is to record the details of a container drop off, ensuring accurate and efficient tracking and inventory management.

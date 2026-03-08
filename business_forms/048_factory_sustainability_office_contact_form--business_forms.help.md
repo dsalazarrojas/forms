@@ -1,5 +1,3 @@
-<thinking>...this form is for gathering contact information and details about a company for sustainability office purposes. It's likely intended to be a general contact form, not specific to a single transaction or event. The form fields likely correspond to typical contact and company information that would be relevant for sustainability office use. This form might be used by companies to provide their contact information and data for sustainability reporting, environmental impact assessment, or other related purposes. I'm not aware of any specific internal logic that would suggest duplication of this form is a bad idea, but it's possible that there are business rules that prevent it. I'll proceed with creating the help guide based on this information.</thinking>
-
 # Factory Sustainability Office Contact Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Growth Application Form - Help Guide
 
 ## Purpose

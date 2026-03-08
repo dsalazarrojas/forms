@@ -1,5 +1,3 @@
-<thinking>As a form designer, I will create a user-facing help guide that explains the purpose of the form, how to complete it, and what each field means in a clear and concise manner. I will review the provided YAML fields and ensure that the guide is concrete, concise, and practical. I will also make sure to include tips to help users navigate the form effectively. The guide will be in Markdown format, which is easy to read and understand.</thinking>
-
 # Banking Service Recommendation Form - Help Guide
 ## Purpose
 The Banking Service Recommendation Form is designed to help our team understand your needs and preferences regarding banking services. This form will help us tailor our services to meet your specific requirements and provide you with the best possible support.

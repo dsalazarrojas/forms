@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather RSVPs (responses) from attendees of a corporate merger announcement, which is likely a significant event within the company or organization. This form is designed to collect relevant information from attendees, including their company name, name, role, and whether they will be attending the event. The form also asks about the number of guests they plan to bring, their guests' names, and their guests' email addresses (if applicable). Additionally, it provides an option for attendees to ask any questions they may have about the merger.
-To prevent duplication of responses, it's essential that this form is not filled out by people who are not actually attending the event or do not need to RSVP. This form is intended for people who can attend and want to provide their information in advance.</thinking>
-
 # Corporate Merger Announcement RSVP - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We will be creating a help guide for the "Factory Modernization Grant Registration Form" to assist users in completing it accurately and efficiently. This form is designed to collect information from applicants seeking funding for factory modernization projects. To ensure that users understand the form's purpose and can fill it out correctly, we will cover the following topics: the form's purpose, the steps to complete it, and a field-by-field explanation of each section. This guide will be clear, concise, and practical, avoiding any unnecessary complexity.
-</thinking>
-
 # Factory Modernization Grant Registration Form - Help Guide
 ## Purpose
 The "Factory Modernization Grant Registration Form" is a tool used to gather information from applicants seeking funding for their factory modernization projects. This form is designed to help the application process by collecting essential details about the project and the applicant's background.

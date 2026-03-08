@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information and equipment details for retrofitting experts to provide their expertise to customers or clients. The purpose of this form is to facilitate communication and collaboration between customers and experts in the equipment retrofitting process. It's meant for customers to provide their contact details and equipment information, and for experts to respond and provide their expertise. To avoid duplication, please note that this form is for new submissions only, and if you need to update or follow up on a previous submission, please use the corresponding ID number.
-
-</thinking>
-
 # Equipment Retrofitting Expert Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and equipment details for retrofitting experts to provide their expertise to customers or clients in the equipment retrofitting process.

@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's review the form's purpose and fields. It appears that this form is designed to collect information about weather station equipment deliveries. The form is likely used for internal purposes within an organization, possibly for tracking and managing the delivery of weather station equipment to clients. The purpose of the form is to gather essential details about the equipment being delivered, including the delivery date, status, address, and other relevant information. The form also seems to have multiple sections and fields, which might be used to collect information for different types of deliveries or equipment.</thinking>
-
 # weather_station_equipment_delivery_form - Help Guide
 ## Purpose
 The **weather_station_equipment_delivery_form** is used to collect information about weather station equipment deliveries. This form helps track and manage the delivery of weather station equipment to clients.

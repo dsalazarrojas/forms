@@ -1,10 +1,3 @@
-<thinking>
-To create this form, we first need to determine the purpose of the Business Process Compliance Contact Form. This form is designed to collect information about business process compliance inquiries, which can be policy clarification, compliance questions, process questions, concerns, or suggestions. The form will help to identify and address potential issues related to business process compliance, allowing the organization to take corrective action and maintain a culture of compliance.
-
-We will review the form structure, and we will provide a concise explanation for each field to ensure that end-users understand its purpose and how to complete it. This guide will cover each field in detail, ensuring that users can complete the form accurately and efficiently.
-
-</thinking>
-
 # Business Process Compliance Contact Form - Help Guide
 ## Purpose
 The Business Process Compliance Contact Form is designed to collect information about business process compliance inquiries. This form helps to identify and address potential issues related to business process compliance, ensuring that the organization maintains a culture of compliance.

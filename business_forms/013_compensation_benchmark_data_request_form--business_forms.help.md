@@ -1,14 +1,3 @@
-<thinking>
-The Compensation Benchmark Data Request Form is designed to gather information from employees or stakeholders who need compensation data for various purposes such as annual compensation reviews, new role creation, or market adjustments. To ensure that your request is accurate and meets your needs, please follow these steps.
-
-Before filling out this form, please check if you have already requested compensation data in the past year. If you have, you can skip some fields as they will be pre-populated based on your previous request.
-
-When filling out this form, please provide as much accurate and specific information as possible. This will help our team provide you with the best possible results.
-
-Please note that some fields are marked as required, which means they are necessary for us to process your request.
-
-</thinking>
-
 # Compensation Benchmark Data Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from you to provide accurate and relevant compensation data for your specific needs.

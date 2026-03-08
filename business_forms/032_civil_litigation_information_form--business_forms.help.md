@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, this form is for collecting information on civil litigations, specifically to gather details on cases under dispute. It's essential to ensure the data is accurate and up-to-date to prevent potential issues with duplicate entries or outdated information. This form will help provide a clear and concise way to collect necessary details from legal staff or attorneys, making it easier to track and manage civil litigation cases.
-
-</thinking>
-
 # Civil Litigation Information Form - Help Guide
 ## Purpose
 This form is designed to collect essential details on civil litigation cases, including case specifics, procedural status, and related parties. It's a tool for legal staff or attorneys to provide accurate and timely information on ongoing cases.

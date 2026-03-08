@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Environmental Permit Extension Form - Help Guide
 
 ## Purpose

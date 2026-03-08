@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from customers who want to dispute a charge on their credit card. The form should only be used by customers who have already reached out to the credit card company's customer service and have been unable to resolve the issue. The form is designed to collect relevant details about the dispute, including the type of dispute, card details, date of dispute, amount disputed, and any supporting documents. The form should not be used for general customer inquiries or to report a lost or stolen card.
-</thinking>
-
 # Credit Card Dispute Claim Form - Help Guide
 ## Purpose
 This form is used to collect information from customers who want to dispute a charge on their credit card.

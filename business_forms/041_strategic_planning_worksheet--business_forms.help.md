@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help teams and individuals plan and track their strategic objectives, identify potential obstacles and risk factors, and establish a progress tracking system. It is a comprehensive tool for businesses, organizations, and teams to develop and maintain their strategic plans and progress. Before proceeding, ensure that the form is relevant to your current project or team objectives and that you are not duplicating efforts with an existing form or process.
-</thinking>
-
 # Strategic Planning Worksheet - Help Guide
 ## Purpose
 The Strategic Planning Worksheet is a tool designed to assist teams and individuals in planning and tracking their strategic objectives, obstacles, and progress. It guides the process of defining project goals, identifying potential obstacles and risk factors, and creating a plan for achieving those objectives.

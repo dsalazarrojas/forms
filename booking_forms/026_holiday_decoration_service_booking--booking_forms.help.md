@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for customers to book the holiday decoration service. To book the service, the customer must select the type of holiday to be decorated (e.g., Christmas, Halloween), choose a date and time for the decoration, select the location where the decoration will take place, specify their contact information, and provide any additional notes or preferences. The form also allows the customer to choose multiple locations where the decoration will be set up. 
-
-The form will be used by both internal and external users, so it's essential to ensure that the fields are clear and easy to understand.
-
-Before starting to fill out the form, it's essential to check that this form is not being used for a different purpose, as it's intended for booking holiday decorations. If you're unsure, you can contact the customer support team for assistance.
-
-</thinking>
-
 # Holiday Decoration Service Booking - Help Guide
 ## Purpose
 This form is used to book a holiday decoration service for various types of holidays.

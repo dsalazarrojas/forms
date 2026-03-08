@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Architectural Change Request Form - Help Guide
 
 ## Purpose

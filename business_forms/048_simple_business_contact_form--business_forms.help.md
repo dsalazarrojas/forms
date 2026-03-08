@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # simple_business_contact_form - Help Guide
 
 ## Purpose

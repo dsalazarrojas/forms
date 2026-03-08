@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Annual Trust Meeting Minutes Form", I will analyze the form's purpose and fields, considering the provided YAML structure. 
-
-The purpose of this form is to document the events and actions of an annual trust meeting, typically used to maintain a record of the meeting's proceedings. It captures key information such as meeting date, time, and location, as well as the names and titles of attendees, quorum status, and significant events, resolutions, and actions taken. 
-
-This guide will explain each field in a user-friendly manner, assuming the provided YAML structure.
-
-</thinking>
-
 # Annual Trust Meeting Minutes Form - Help Guide
 ## Purpose
 The "Annual Trust Meeting Minutes Form" is designed to document the events of an annual trust meeting, recording key details such as meeting date, time, and location, as well as key actions and decisions taken.

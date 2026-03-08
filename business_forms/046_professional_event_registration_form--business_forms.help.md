@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about professional events, such as conferences, workshops, or seminars. It is designed to gather relevant details about the event, including its name, date, time, location, organizers, attendees, and registration count. The form is intended for use by event organizers or administrators to record and manage event data.
-
-Before filling out this form, ensure that you are using it for a professional event and not for a personal or social event. If you are unsure about the purpose of the form or have already filled it out for a similar event, please do not proceed to fill it out again. Instead, contact your administrator or supervisor to confirm the need for a new submission.
-
-</thinking>
-
 # Professional Event Registration Form - Help Guide
 ## Purpose
 This form is used to collect and manage professional event information, including events such as conferences, workshops, or seminars.

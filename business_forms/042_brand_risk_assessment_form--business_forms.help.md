@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess the risk level of a brand's reputation and potential impact on the business. It is intended to help assessors evaluate and document the risks associated with a brand's activities or actions. The form is used to identify potential risks, assess their severity, and recommend mitigation actions to address them. This form will help to standardize the risk assessment process and provide a clear and consistent way to evaluate and document risks.
-
-</thinking>
-
 # Brand Risk Assessment Form - Help Guide
 ## Purpose
 

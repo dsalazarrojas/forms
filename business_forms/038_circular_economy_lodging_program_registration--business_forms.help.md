@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from businesses or property owners interested in participating in the Circular Economy Lodging Program. The program aims to support lodging establishments in adopting sustainable practices and reducing their environmental footprint. This form will help us understand your business's specific needs and interests, and guide you through the registration process. Please ensure you only fill out this form if you are a real business or property owner, and not a spammer or a duplicate registration.
-
-</thinking>
-
 # Circular Economy Lodging Program Registration - Help Guide
 ## Purpose
 The Circular Economy Lodging Program Registration Form is designed to gather information from businesses or property owners interested in participating in the program. This form will help us understand your business's specific needs and interests, and guide you through the registration process.

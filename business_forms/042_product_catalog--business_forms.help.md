@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used for managing product information, specifically for creating and editing product catalogs. It is likely to be used by business administrators or product managers. The form is composed of multiple sections, each with its own set of fields and options. The purpose of this form is to collect and store detailed product information, including product details, shipping options, and inventory management.
-
-Please note that the form appears to be designed for internal use, and the options and fields provided suggest that it is intended for managing products in a specific way. However, without additional context, it is hard to determine the exact requirements and constraints of the product management process.
-
-To avoid duplication of information, please ensure that you only fill out the form for a product once. If you need to update or edit a product, make sure to review the existing information before making changes.
-</thinking>
-
 # Product Catalog - Help Guide
 ## Purpose
 The Product Catalog form is used to manage product information, including product details, shipping options, and inventory management.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure relevance, the form purpose is to collect payment information from clients for services rendered. The form is likely used by business owners or administrators to record payment details for accounting and financial purposes. To avoid duplication, it's essential to fill out the form carefully and accurately.
 
 # Service Payment Receipt - Help Guide

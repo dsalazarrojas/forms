@@ -1,9 +1,3 @@
-<thinking>Understanding the form purpose and relevance is key to completing it successfully. This form is designed to gather necessary information for a background check, which may include criminal records, credit history, and employment verification. The purpose of the form is to obtain authorization and consent for the employer to conduct such an investigation. This form is usually used in employment settings to verify an individual's identity and ensure they can be trusted in certain positions or for specific roles within the company.
-
-Please note that the form is a legal document and must be read and understood carefully before signing. The employer will use the information gathered from this form for the purpose of background checks. If you are unsure about any part of this form, please ask your supervisor or HR representative for clarification.
-
-</thinking>
-
 # Background Check Authorization Form - Help Guide
 ## Purpose
 The Background Check Authorization Form is a legal document that allows the employer to conduct a background investigation on the individual. This form is used to gather information about the individual's identity, including their full legal name, social security number, date of birth, and current residential address. The employer may use this information for employment purposes, such as verifying an individual's identity, employment history, and education.

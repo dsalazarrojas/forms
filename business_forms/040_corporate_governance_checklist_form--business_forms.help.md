@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information on corporate governance practices, compliance standards, data collection, management processes, and other relevant details. The form consists of multiple pages with various fields that require users to provide input on different aspects of corporate governance. Before filling out this form, please ensure that you have reviewed the relevant documentation and understand the context in which the form is being used. Additionally, please note that some fields are required while others are optional, and you should fill them accordingly.
 
 # corporate_governance_checklist_form - Help Guide

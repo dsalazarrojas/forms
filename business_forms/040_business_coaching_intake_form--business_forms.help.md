@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and not duplicated or filled out by the wrong people. The purpose of this form is to gather information from business owners or managers who are interested in coaching services. They will need to provide details about their business, such as contact information, industry, and specific goals. This form is designed to be a comprehensive assessment of their business situation and needs, helping us understand how we can best support them. 
-</thinking>
-
 # Business Coaching Intake Form - Help Guide
 ## Purpose
 

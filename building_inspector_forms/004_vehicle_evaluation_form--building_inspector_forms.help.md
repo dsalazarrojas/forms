@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information about vehicles for evaluation purposes.
-This form is part of a larger system for building inspectors to assess vehicles. 
-It may be used in conjunction with other forms and systems within this context.
-Ensure you have the necessary permissions to access this form and its data.
-Ensure you are aware of any organizational policies regarding data handling and storage.
-Ensure you understand the form's intended use and purpose.
-Ensure you understand the implications of submitting incomplete or false information.
-Ensure you understand the consequences of failing to complete or submit the form.
-</thinking>
-
 # Vehicle Evaluation Form - Help Guide
 ## Purpose
 The Vehicle Evaluation Form is used by building inspectors to collect and assess information about vehicles during their inspections.

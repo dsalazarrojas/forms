@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and requirements of the Building Occupancy Audit Registration form. Before starting, please note that the form's purpose is to gather essential information from facility managers for the upcoming occupancy audit. This audit is a comprehensive examination of a building's compliance with safety and security regulations. 
-
-Please ensure that the information provided is accurate and up-to-date to facilitate a smooth and efficient audit process. If you are unsure about any aspect of the form, please consult with your facility management team or contact our support staff for clarification.
-
-This guide will walk you through each section of the form, explaining what each field means and how to fill it out correctly.
-
-</thinking>
-
 # Building Occupancy Audit Registration - Help Guide
 ## Purpose
 The Building Occupancy Audit Registration form is designed to collect necessary information from facility managers to facilitate a comprehensive occupancy audit. This audit is a critical assessment of a building's compliance with safety and security regulations.

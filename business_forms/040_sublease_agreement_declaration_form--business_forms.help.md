@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to a sublease agreement, which is a secondary or temporary rental agreement between a tenant and a landlord. This form is used to record the terms and conditions of the sublease, including the start and end dates, rent, deposit, and other relevant details. The form is intended to be completed by both the tenant and the landlord to ensure that both parties are aware of their responsibilities and obligations under the sublease.
-</thinking>
-
 # sublease_agreement_declaration_form - Help Guide
 ## Purpose
 The Sublease Agreement Declaration Form is a document used to outline the terms and conditions of a sublease, a secondary or temporary rental agreement between a tenant and a landlord.

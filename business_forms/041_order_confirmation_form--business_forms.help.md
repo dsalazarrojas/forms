@@ -1,9 +1,3 @@
-<thinking>
-This form is used for confirming customer orders, ensuring that all necessary information is accurate and up-to-date. The form's fields are designed to collect relevant details from both the customer and shipping parties. To confirm an order, please follow these steps:
-
-The fields are organized into a logical structure, but some fields may be redundant or optional. Please review each field carefully to ensure accurate information collection.
-</thinking>
-
 # Order Confirmation Form - Help Guide
 ## Purpose
 The Order Confirmation Form is used to gather all necessary information for confirming a customer's order. This form ensures that both the customer and shipping parties have the correct details, making it easier to track and fulfill orders.

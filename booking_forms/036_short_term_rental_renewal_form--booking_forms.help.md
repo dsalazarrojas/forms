@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # short_term_rental_renewal_form - Help Guide
 
 ## Purpose

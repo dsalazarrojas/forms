@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Entrepreneur City Summit Speaker Information Form - Help Guide
 ### Purpose
 The Entrepreneur City Summit Speaker Information Form is used to collect information from speakers who will be presenting at the summit. This form helps us better understand each speaker's details, presentation, and other relevant information. Please fill out this form accurately and completely to ensure we can provide the best experience for both speakers and attendees.

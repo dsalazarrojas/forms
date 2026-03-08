@@ -1,6 +1,3 @@
-<thinking>
-This form is for requesting insurance certificates for a business or company. It gathers various information to process the request, including the type of business or entity, the type of insurance, and the dates related to the certificate. Ensure that the provided information is accurate to ensure a smooth processing. Note that the fields are not all required, and you can skip any that do not apply to your business.</thinking>
-
 # Insurance Certificate Request Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect customer and order information for a pre-order of the "September Good Hart Cloth" product. The form likely requires fields for customer details, order details, shipping information, payment method, and order calculations such as total, subtotal, and taxes. The purpose of the form is to capture all necessary information to place the order accurately and efficiently. 
-</thinking>
-
 # september_good_hart_cloth_pre_order_form - Help Guide
 ## Purpose
 This form is used to collect customer and order information for a pre-order of the "September Good Hart Cloth" product.

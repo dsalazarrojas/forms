@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a Data Center Consultation Request Form, used to capture information from users who want to request consultations or services related to data centers. Before proceeding, please ensure that:
 
 1.  The consultation request is relevant to our team's expertise and resources.

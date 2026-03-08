@@ -1,11 +1,3 @@
-<thinking>
-
-The privacy policy communication form is used to inform users about an organization's data collection, usage, and sharing practices. This form is crucial for maintaining transparency and accountability between the organization and its users. It's essential to ensure that users understand how their personal data is handled, which can affect their personal rights and interests. 
-
-The purpose of this form is to provide a clear and concise explanation of the organization's data handling practices, allowing users to make informed decisions about their data and its usage.
-
-</thinking>
-
 # privacy_policy_communication_form - Help Guide
 ## Purpose
 The privacy policy communication form is used to inform users about an organization's data collection, usage, and sharing practices.

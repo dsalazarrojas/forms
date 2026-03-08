@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Labour Registration Form, let's first break down the form's purpose and how to complete it. The form is meant to capture labour-related information, likely for business or employment purposes. It's not clear what kind of business or employment context this form will be used in, but we can make some educated guesses based on the fields provided. 
-
-The form consists of 14 fields, including fields for labour records, type, date, time, labourer name, email, phone, address, city, state, country, zip, labourer count, and labourer salary. This suggests that the form is used to register or document some information about labourers or employees. 
-
-Given the fields, the form's purpose might be to create a database of labourers, store their contact information, and collect data on their employment status or details.
-
-We should also check if this form is intended for internal use within the company or if it's meant to be shared with external parties. Since the form's purpose is not explicitly stated, we'll make an assumption that it's for internal use.
-
-Before creating the help guide, let's also clarify that the form is likely not meant to be filled out by labourers themselves, but rather by administrators or HR personnel who have access to this information.
-
-</thinking>
-
 # Labour Registration Form - Help Guide
 ## Purpose
 The Labour Registration Form is a tool used to capture and store information about labourers or employees for internal business use. This form is intended to be filled out by administrators or HR personnel who have access to this information.

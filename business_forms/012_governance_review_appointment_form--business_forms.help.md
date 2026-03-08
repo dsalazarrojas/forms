@@ -1,11 +1,3 @@
-<thinking>
-
-The Governance Review Appointment Form is intended to schedule and document business meetings, consultations, or other types of appointments for governance-related activities. This form is meant to collect relevant information from users about the appointment they are requesting, including the schedule and details of the meeting.
-
-Before proceeding, it's essential to ensure that there is no duplicate submission for the same request. Review the form carefully and make sure you've filled in all the required fields before submitting.
-
-</thinking>
-
 # Governance Review Appointment Form - Help Guide
 ## Purpose
 The Governance Review Appointment Form is a tool for scheduling and documenting business meetings, consultations, or other types of appointments for governance-related activities.

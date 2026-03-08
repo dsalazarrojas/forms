@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed for healthcare consultation services, allowing users to provide information about their healthcare consulting needs. The form has several fields that are required and optional, depending on the specific service and client needs. The form will be used to gather information from the consultant and client sides, and can be used to generate quotes and invoices for services rendered. Before filling out this form, please ensure you have all the necessary information and that it is accurate to avoid duplication of work and potential errors.
-
-</thinking>
-
 # healthcare_consulting_quotation_form - Help Guide
 ## Purpose
 This form is designed to gather information from both the consultant and client sides for healthcare consulting services. It will help generate quotes and invoices for services rendered.

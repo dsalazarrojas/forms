@@ -1,8 +1,3 @@
-<thinking> 
-We're creating a help guide for the "Material Handling Equipment Vendor Contact Form" to ensure end-users understand its purpose and completion process. This form is used to collect contact information from vendors of material handling equipment, which will help the company establish and maintain relationships with these vendors. It's essential to fill out this form accurately and consistently to avoid duplication of records.
-
-</thinking>
-
 # Material Handling Equipment Vendor Contact Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information on a business's quarterly review process. This form is likely used by a business lead or contact person to provide details on their company's progress, goals, and feedback. 
-
-We need to ensure that we're collecting the right information in the right format to create a seamless experience for the business lead. Let's check if we already have a version of this form and if we need to collect new information.
-
-</thinking>
-
 # quarterly_business_review_form - Help Guide
 ## Purpose
 The quarterly business review form is used to collect information on a business's quarterly review process. This includes details on review date, client name, review topic, and other relevant information.

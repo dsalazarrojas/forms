@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for monitoring the performance of drivers in a transportation or logistics context. It appears to be a comprehensive form with multiple pages, each with various fields, including text, select multiple, select one, date, time, and email fields. The form does not have any specific requirements or restrictions on the number of answers to be filled out. The fields are likely designed to gather specific information about each driver's performance over multiple days or shifts.
-</thinking>
-
 # Driver Performance Monitoring Form - Help Guide
 ## Purpose
 This form is designed for monitoring the performance of drivers in a transportation or logistics context.

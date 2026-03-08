@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Wastewater Treatment Plant Inspection Form is designed to gather information about the site's details, inspector's information, treatment process, chemical parameters, physical characteristics, sampling and testing procedures, and regulatory compliance. This form is used to inspect and analyze the performance of a wastewater treatment plant, ensuring that it meets regulatory standards and guidelines.
 
 Before filling out this form, please ensure that you are familiar with the site and the inspection process. This form is a comprehensive checklist of essential information that needs to be collected during an inspection.

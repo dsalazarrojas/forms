@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to capture information for a small business facility rental agreement. The purpose of this form is to gather essential details from businesses that wish to rent a facility, including contact information, rental duration, and specific facility requirements. The form is designed to be comprehensive yet easy to complete, ensuring that all necessary details are captured accurately.
-
-Before proceeding, it's essential to note that this form is not intended to replace legal contracts or agreements. The information collected will be used internally for facility management and administrative purposes.
-
-To avoid duplication of effort, please ensure that you have all the necessary information and authorization to submit this form on behalf of your business.
-
-The purpose of this form is to create a rental agreement that meets the specific needs of your business. Please read the instructions carefully and fill out the form accordingly.</thinking>
-
 # Small Business Facility Rental Agreement - Help Guide
 ## Purpose
 This form is for small businesses that wish to rent a facility. It's essential to provide accurate and complete information to ensure a smooth rental process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Representation Agreement - Help Guide
 
 ## Purpose

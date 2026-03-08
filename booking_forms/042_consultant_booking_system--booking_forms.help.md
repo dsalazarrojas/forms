@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed to collect information from clients for the purpose of booking a consultation service. The form guides the client through the process of providing their identification, selecting a consultation service, and specifying their preferred date and time for the consultation. The form also includes fields for additional information and confirmation of the consultation fee and cancellation policy.</thinking>
-
 # Consultant Booking System - Help Guide
 ## Purpose
 The Consultant Booking System is an online form designed to help clients book a consultation with a consultant. The form collects information such as client identification, consultation details, and preferred meeting format.

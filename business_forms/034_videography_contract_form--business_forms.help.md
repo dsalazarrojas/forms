@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for videography contracts. The form should be filled out by clients or videographers who are looking to book a videography service for a specific project. The form is used to capture all the necessary details for the project, including project information, client contact details, payment terms, shoot schedule, shoot location, equipment list, and contact information. To avoid duplication, ensure that the form is not filled out multiple times for the same project.
-</thinking>
-
 # Videography Contract Form - Help Guide
 ## Purpose
 This form is used to collect information for videography contracts. It is designed to be filled out by clients or videographers who are looking to book a videography service for a specific project.

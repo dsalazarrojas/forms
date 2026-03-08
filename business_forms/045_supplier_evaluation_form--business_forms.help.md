@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to evaluate a supplier's performance and track their status. The main purpose of this form is to gather information about the supplier, including their name, address, contact number, and contact person. It also allows you to specify whether the supplier is active or inactive and evaluate their performance on a specific date and time. The evaluation note and comment fields are for any additional comments or notes about the supplier.
-To ensure the integrity of the data, it is recommended to review the form fields carefully and fill them out accurately. Please make sure to fill out the form for each supplier only once. If you need to update a supplier's information, please make sure to fill out the form again with the new information.
-</thinking>
-
 # Supplier Evaluation Form - Help Guide
 ## Purpose
 The Supplier Evaluation Form is designed to gather information about a supplier's performance and status.

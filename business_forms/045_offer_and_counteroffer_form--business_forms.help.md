@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for a business context, likely used in negotiations or contracts between two parties. The purpose of the form is to document and manage offers and counteroffers in a structured and efficient manner. This form aims to reduce misunderstandings and miscommunications by providing a clear and standardized format for presenting and reviewing offers and counteroffers. This form should not be used for personal or non-business purposes.
-</thinking>
-
 # Offer And Counteroffer Form - Help Guide
 ## Purpose
 The Offer And Counteroffer Form is designed to facilitate negotiations and contract management between two parties. It allows users to document and track offers and counteroffers, helping to avoid miscommunications and misunderstandings.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect meal reimbursement requests from employees. It is designed to be used for business purposes, such as expense reporting or timesheeting. This form should only be used to report meal expenses that occurred on company time and that are related to work activities. It is recommended that you only fill out this form if you have a legitimate meal reimbursement request.
-</thinking>
-
 # Meal Reimbursement Form - Help Guide
 ## Purpose
 This form is used to collect meal reimbursement requests from employees for business purposes.

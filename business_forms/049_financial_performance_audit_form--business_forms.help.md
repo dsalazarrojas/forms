@@ -1,9 +1,3 @@
-<thinking>
-A financial performance audit form is used to assess and analyze a business's financial performance and stability. This form is likely to be used by financial professionals or business owners to track and evaluate a company's financial health, identify areas of improvement, and make informed decisions. The form collects various metrics and data that provide insight into a company's revenue streams, financial goals, risk assessment, financial position, and other key performance indicators. Ensuring that the form is completed accurately and completely will help businesses make data-driven decisions and drive growth.
-
-This guide will walk you through the financial performance audit form, field by field, helping you understand what each field means and how to complete it accurately.
-</thinking>
-
 # Financial Performance Audit Form - Help Guide
 ## Purpose
 The Financial Performance Audit Form is a tool used to assess and analyze a business's financial performance and stability.

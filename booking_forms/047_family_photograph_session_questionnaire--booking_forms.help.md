@@ -1,9 +1,3 @@
-<thinking>
-The form "Family Photograph Session Questionnaire" is intended to collect information from individuals or families who are planning to book a family photograph session. This form likely exists to gather essential details such as contact information, preferred time slots, and emergency contact details. The form's purpose is to ensure that the photographer has all necessary information to provide a smooth and enjoyable experience for the family.
-
-Before proceeding, please ensure that the form is being used for its intended purpose and not for duplicate submissions. If you're unsure, please consult with the photographer or their team.
-</thinking>
-
 # Family Photograph Session Questionnaire - Help Guide
 ## Purpose
 This guide explains the Family Photograph Session Questionnaire form, a tool used to collect necessary information from clients to book a family photograph session.

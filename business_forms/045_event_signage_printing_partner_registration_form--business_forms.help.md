@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from event signage printing partners for registration and partnership purposes. The form collects details about the partner's services, pricing, and contact information to facilitate communication and collaboration. It is crucial that the form is completed accurately and thoroughly to ensure efficient partnership management. Before starting, double-check that the information is not already registered and the partner has not completed this form previously.
-</thinking>
-
 # Event Signage Printing Partner Registration Form - Help Guide
 
 ## Purpose

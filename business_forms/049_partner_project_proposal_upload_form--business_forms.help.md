@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Partner Project Proposal Upload Form - Help Guide
 ## Purpose
 This form is used to upload and maintain project proposals for partnerships. It is essential to accurately and thoroughly provide project details, partner information, and other relevant notes to ensure proper review and approval processes.

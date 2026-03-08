@@ -1,8 +1,6 @@
 # Business Continuity Audit Consulting Contact Form - Help Guide
 
 ## Purpose
-<thinking>This form is designed to collect information about your organization's business continuity audit needs. It will help us understand your organization's size, industry, continuity plan, and specific requirements to provide you with personalized audit consulting services. Please answer the questions truthfully and thoroughly, and we will use the information to tailor our services to meet your needs.</thinking>
-
 ## How To Complete This Form
 - Fill out the form completely and accurately, answering all the questions in the required fields.
 - For select_one and select_multiple fields, select only one or multiple options that apply to your organization.

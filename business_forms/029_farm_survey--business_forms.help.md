@@ -1,39 +1,3 @@
-<thinking>
-
-This is a guide to help users understand the Farm Survey form. The purpose of this form is to collect information about farms, including farm name, category, crop type, location, and contact information. 
-
-To complete this form, follow these steps:
-
-1. Start by entering the farm name in the "Farm Name" field. This is a text field where you can enter the name of your farm.
-2. Next, select the category of your farm from the "Farm Category" dropdown menu. This will help us understand the type of farm you have.
-3. If you have multiple crops, select all the relevant crop types from the "Crop Type" dropdown menu. You can select multiple options by holding down the Ctrl key (or Command key on a Mac).
-4. Enter the farm location in the "Farm Location" field. This is a text field where you can enter the location of your farm.
-5. If you have any additional information about the soil quality, select "Excellent", "Good", or "Fair" from the "Soil Quality" dropdown menu.
-6. If you have any additional information about the farm health, enter it in the "Farm Health" field.
-7. Enter the harvest date of your crops in the "Harvest Date" field. This field is for dates in the format MM/DD/YYYY.
-8. If you have any additional information about the farm size, enter it in the "Farm Size" field.
-9. If you have any equipment used for farming, enter it in the "Farm Equipment" field.
-10. Enter the name of the contact person in the "Contact Person" field.
-11. Enter the phone number of the contact person in the "Phone" field.
-12. Enter the email of the contact person in the "Email" field.
-13. Enter the address of the farm in the "Address" field.
-14. Enter any additional notes about the farm in the "Notes" field.
-15. If you have any other farm category, enter it in the "Farm Category Other" field.
-16. If you have any other farm location, enter it in the "Farm Location Other" field.
-17. If you have any other crop type, enter it in the "Crop Type Other" field.
-18. If you have any other farm equipment, enter it in the "Farm Equipment Other" field.
-19. If you have any other contact person, enter it in the "Contact Person Other" field.
-20. If you have any other phone number, enter it in the "Phone Other" field.
-21. If you have any other email, enter it in the "Email Other" field.
-22. If you have any other notes, enter it in the "Notes Other" field.
-
-**Tips:**
-
-* Make sure to fill out all the required fields, if any.
-* If you're unsure about any field, you can always ask for help.
-* You can always review your answers before submitting the form.
-</thinking>
-
 # Farm Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about farms, including farm name, category, crop type, location, and contact information.

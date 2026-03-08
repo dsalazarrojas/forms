@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from customers about their experience with a kitchen mystery shop. This will help the shop to improve its services and provide better experiences for its customers in the future. To ensure the form is completed accurately, please make sure you are using the correct contact information for the feedback.
-</thinking>
-
 # Kitchen Mystery Shop Feedback Form - Help Guide
 ## Purpose
 This form is used to collect feedback from customers about their experience with our kitchen mystery shop. Your input is valuable to us and will help us improve our services.

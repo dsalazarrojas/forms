@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Machine Guarding Checklist - Help Guide
 
 ## Purpose

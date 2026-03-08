@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Inspection Appointment Form - Help Guide
 ## Purpose
 This form is designed to help customers schedule a vehicle inspection appointment at our facility. It collects essential information from the client, including their name, contact number, email, preferred time, and date of birth (optional). This form is not a formal vehicle inspection report, but rather a way to initiate the inspection process.

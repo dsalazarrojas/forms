@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a security bond, which is a type of financial agreement that ensures a company or employee will fulfill their obligations. This form is used to capture details about the company and its employee, including their contact and address information, payment terms, and contract details. It's likely used for businesses requiring security bonds for specific projects or services. It would be helpful to confirm that this form is being completed by the correct party (company or employee) to ensure the accuracy of the information provided.
-
-Before proceeding, please review the following:
-
-- Is the company or employee filling out this form?
-- Does the company or employee understand the purpose and requirements of the security bond?
-- Are all required fields filled out correctly?
-
-If the form is being completed for the correct party and all required fields are filled out correctly, continue to the instructions for completing the form.
-
-</thinking>
-
 # Security Bond Form - Help Guide
 ## Purpose
 

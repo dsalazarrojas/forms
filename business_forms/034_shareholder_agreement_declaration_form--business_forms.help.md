@@ -1,11 +1,3 @@
-<thinking>Before proceeding, let's ensure that the form purpose and fields are correctly understood.
-
-The Shareholder Agreement Declaration Form is a legal document that outlines the agreement between shareholders and the company regarding the terms of their shareholding. It includes various fields that require accurate and detailed information to ensure a smooth and compliant process.
-
-To complete this form, you should have a clear understanding of the purpose and implications of each field. Please review the fields carefully to ensure you are providing the correct information.
-
-The form is divided into different sections, each with its own set of fields. The fields are labeled and explained in detail below.</thinking>
-
 # Shareholder Agreement Declaration Form - Help Guide
 ## Purpose
 The Shareholder Agreement Declaration Form is a legal document that outlines the agreement between shareholders and the company regarding the shareholding terms. It is essential to complete this form accurately and thoroughly to ensure a smooth and compliant process.

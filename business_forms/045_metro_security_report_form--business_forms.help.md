@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for reporting security threats within the Metro organization. It's essential to fill out this form to provide a detailed description of the threat, including its location, date, and severity level. This form should only be completed by individuals who have witnessed or are aware of a security threat. Please ensure that you only submit one report per threat.
-</thinking>
-
 # Metro Security Report Form - Help Guide
 
 ## Purpose

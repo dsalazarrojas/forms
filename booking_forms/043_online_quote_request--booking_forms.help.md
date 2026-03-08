@@ -1,17 +1,3 @@
-<thinking>
-To create an effective help guide for the "online_quote_request" form, we'll consider the provided YAML structure and aim to provide clear and concise instructions. First, let's break down the form's purpose and potential issues that this guide will address.
-
-The form is likely used for requesting travel-related information, such as booking dates, travel types, budgets, and other details. To avoid duplication and ensure relevance, we'll cover the following:
-
-*   The form's main purpose is to gather traveler information for booking purposes.
-*   The form fields might seem extensive, but they're all relevant to the travel-related information gathering process.
-*   Some fields might seem ambiguous due to their similarity in labels and types, so we'll clarify their meanings and intents.
-*   To make the form more user-friendly, we'll highlight any required fields and provide clear explanations for each field.
-
-Given the form structure, we'll create a comprehensive help guide that covers the form's purpose, how to complete it, and a detailed field-by-field explanation.
-
-</thinking>
-
 # online_quote_request - Help Guide
 ## Purpose
 

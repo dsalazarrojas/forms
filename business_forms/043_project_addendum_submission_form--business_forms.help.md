@@ -1,20 +1,3 @@
-<thinking>
-
-This form is intended for project stakeholders to submit updates or changes to existing projects. The purpose of this form is to capture relevant information about project changes, including the project manager's name, client name, date and time of the change, and a detailed description of the change. This information will be reviewed and processed internally.
-
-To submit a project addendum, fill out the form with the following details:
-
-* Project Manager: The person responsible for the project.
-* Client Name: The company or organization the project is for.
-* Date Changed: The date on which the change was made.
-* Time Changed: The time of day when the change was made.
-* Change Description: A detailed description of the change, including why it was made and what impact it had.
-* Reason for Change: A brief explanation of the reason for the change.
-
-When filling out this form, please make sure to provide as much detail as possible, but do not include any unnecessary information.
-
-</thinking>
-
 # Project Addendum Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to submit updates or changes to existing projects.

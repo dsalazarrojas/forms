@@ -1,9 +1,3 @@
-<thinking>...
-The Order Fulfillment Monitoring Form is used by business stakeholders to track and update the status of orders in the fulfillment process. This form is designed to provide a centralized platform for monitoring order fulfillment, helping to ensure that orders are completed efficiently and accurately.
-The form is divided into several sections, each addressing a different aspect of order fulfillment. By completing this form, users can input relevant information about the order, including details about the order itself, the status of the fulfillment process, shipping, and other important tracking information.
-Before proceeding, ensure that you have reviewed the relevant sections of the form to understand the specific requirements and guidelines for inputting data.
-</thinking>
-
 # Order Fulfillment Monitoring Form - Help Guide
 ## Purpose
 This form is used by business stakeholders to track and update the status of orders in the fulfillment process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for creating an audit report, which is a document that summarizes the findings and results of an audit conducted on a company or organization. The form includes various sections to collect information about the report title, report number, report date, preparer's name and title, audited entity, audit period, audit type, main objectives, scope, methodology, executive summary, overall opinion, key findings, and recommendations. The form also requires the distribution list, report classification, approved by, and approval signature.
-To ensure that the form is completed correctly, we need to review the form fields and provide clear guidance on each section to avoid duplication and redundancy.
-</thinking>
-
 # Audit Report Form - Help Guide
 ## Purpose
 This form is designed for creating an audit report, which is a document that summarizes the findings and results of an audit conducted on a company or organization.

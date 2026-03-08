@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to request a quote for a food labeling service. The form is intended to capture business and contact information, as well as the specific services the customer is interested in. The form is likely to be used by a business or organization seeking to obtain quotes for various labeling services such as Nutrition Labeling, Labeling and Packaging Design, and Regulatory Compliance.
-</thinking>
-
 # Food Labeling Service Quote Request Form - Help Guide
 
 ## Purpose

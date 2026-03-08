@@ -1,10 +1,3 @@
-<thinking>
-The Offer Building Form is designed to provide businesses with a platform for creating and managing offers. This form will help them define their offers and associated details, which can be accessed and edited from the platform. Before proceeding, ensure that you've reviewed the offer details carefully, and double-check this form to avoid duplication of work.
-
-Please note that the form is divided into sections and fields that require specific information. Each field has a label and a type that describes the type of input expected.
-
-</thinking>
-
 # Offer Building Form - Help Guide
 ## Purpose
 The Offer Building Form is a tool for creating and managing offers for businesses. This form is used to gather essential details about the offer, including its type, name, email, phone number, description, start and end dates and times, and more.

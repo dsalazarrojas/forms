@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect graphic design project information from clients or designers. The purpose of this form is to gather essential details about the project, including its title, description, design requirements, color scheme, and other relevant details. This information will help the design team understand the project's scope and deliver high-quality results. To avoid duplication and ensure accurate information, please fill out this form carefully and thoroughly. If you're unsure about any field, refer to this guide for clarification.
-</thinking>
-
 # Graphic Design Checklist Form - Help Guide
 ## Purpose
 The Graphic Design Checklist Form is a tool used to collect project details from clients or designers. It helps the design team understand the project's scope, goals, and requirements.

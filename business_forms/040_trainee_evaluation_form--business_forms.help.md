@@ -1,8 +1,4 @@
-> <thinking>
-This form is intended to evaluate the performance, skills, and behavior of a trainee in various aspects of their work. The form is designed to collect feedback on different competencies, such as communication, technical skills, professionalism, problem-solving, leadership, teamwork, initiative, adaptability, and time management. The purpose of this form is to provide a comprehensive evaluation of the trainee's performance, helping to identify areas of strength and improvement.
-</thinking>
-
-# Trainee Evaluation Form - Help Guide
+> # Trainee Evaluation Form - Help Guide
 ## Purpose
 This form is designed to evaluate the performance, skills, and behavior of a trainee in various aspects of their work.
 

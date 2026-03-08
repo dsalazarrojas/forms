@@ -1,10 +1,3 @@
-<thinking>
-The form is a "Survey Participation Form" used to collect information from participants in a survey. The form is designed to gather basic contact information from survey participants, including their name, email, company affiliation, and phone number.
-
-Before filling out this form, please ensure that you have not already submitted your information for this survey. If you have previously participated, your submission will not be accepted as a duplicate entry.
-
-</thinking>
-
 # Survey Participation Form - Help Guide
 ## Purpose
 The "Survey Participation Form" is a simple form used to collect contact information from survey participants. It helps us gather essential data about our participants, allowing us to better understand our audience and improve our services.

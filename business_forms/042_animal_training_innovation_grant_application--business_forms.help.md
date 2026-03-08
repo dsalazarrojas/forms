@@ -1,39 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for the Animal Training Innovation Grant. The form is intended to help applicants provide detailed information about their project, including their contact and organization details, project description, goals, timeline, budget, and other relevant details. The form is divided into several sections, each focusing on a specific aspect of the project. The required fields are marked as such in the form, and applicants are expected to fill in all the required information. The form is used to assess the applicant's project and determine its eligibility for funding.
-
-To complete this form, please follow the instructions below:
-
-1. Fill in your name, job title, organization name, and email address in the respective fields. Please note that these fields are required and will be used to contact you for any further questions or information.
-2. Select the correct organization type from the options provided. This will help us understand your organization's status and qualifications.
-3. Enter your street address, city, state, and zip code in the respective fields. This information is required for contact and address purposes.
-4. Provide a brief description of your project title, project summary, and project category.
-5. Select all the species that your project focuses on.
-6. Describe your innovation in detail, including what makes it new or different.
-7. Explain the problem that your project solves and the specific goals you aim to achieve.
-8. Describe your methodology and approach to accomplishing your project goals.
-9. Outline your project timeline, including start and end dates with specific milestones.
-10. Enter the grant amount you are requesting.
-11. Provide a breakdown of how you plan to use the granted funds.
-12. List any other funding sources you have or plan to seek.
-13. Describe your project team members, their qualifications, and their roles.
-14. Provide details about your principal investigator's background, including relevant experience and credentials.
-15. Describe any previous related work you have done.
-16. Anticipate the expected outcomes of your project.
-17. Explain how you will measure the impact of your project.
-18. Describe your plan to share and disseminate your results.
-19. Explain how your project will be sustained after funding.
-20. Address any ethical considerations, particularly related to animal welfare.
-21. If required, list any relevant approvals or clearances you need.
-22. List potential risks and challenges you anticipate and how you will address them.
-23. If needed, provide supporting materials for your project.
-24. Provide professional references with contact information.
-25. Accept or decline the grant terms and conditions.
-26. Provide your electronic signature and name.
-
-Please fill in all required fields accurately and thoroughly, and make sure to proofread your answers for clarity and completeness.
-
-</thinking>
-
 # Animal Training Innovation Grant Application - Help Guide
 ## Purpose
 The Animal Training Innovation Grant Application form is designed to collect information from applicants for the Animal Training Innovation Grant. The form helps applicants provide details about their project, including contact information, project description, goals, timeline, budget, and other relevant details.

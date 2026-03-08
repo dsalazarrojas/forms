@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the container loading procedure, ensuring that all relevant details are documented and reported for future reference. This form is meant for the purpose of standardizing and streamlining the loading procedure, making it easier to track and improve efficiency.
-</thinking>
-
 # Container Loading Procedure Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about the container loading procedure.

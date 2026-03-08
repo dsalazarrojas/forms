@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to be used by end-users of the "Vehicle Entry And Exit Log" form within an organization. The form is used to record the entry and exit of vehicles from the premises, which is crucial for various business and administrative purposes such as inventory management, parking management, and security surveillance. The form is designed to collect specific information about vehicles that enter or exit the premises, including vehicle type, vehicle number, entry and departure dates and times, and additional notes. 
-This guide is meant to be used in conjunction with the form's internal business logic and existing organizational procedures. If you are unsure about the purpose or usage of this form, please refer to your organization's documentation or consult with the form's administrator.
-The guide is designed to be concrete, concise, and practical, providing clear explanations for each field in the form. If you need further clarification on any field, please refer to the field-by-field explanation below.
-</thinking>
 # Vehicle Entry And Exit Log - Help Guide
 ## Purpose
 The "Vehicle Entry And Exit Log" form is used to record the entry and exit of vehicles from the premises, allowing for accurate inventory management, parking management, and security surveillance.

@@ -1,13 +1,3 @@
-<thinking>
-
-The Cannabis Customer Registration Form is a crucial part of our business process, and it's essential to understand how to complete it correctly. Before we dive into the form explanation, let's ensure this is the right form for your needs:
-
-* Is this form for personal, not commercial, use? If so, please fill it out accurately and completely.
-* Are you a legal adult (21 or older) in your state of residence? If not, we cannot process your registration.
-* Have you previously registered with us? If so, you may already have an account, and we recommend logging in instead.
-
-</thinking>
-
 # Cannabis Customer Registration Form - Help Guide
 ## Purpose
 The Cannabis Customer Registration Form is a required step to create a customer account with our business. It gathers essential information for your personal and product preferences, ensuring a smooth and secure experience for both you and our team.

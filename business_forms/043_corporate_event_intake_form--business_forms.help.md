@@ -1,23 +1,3 @@
-<thinking>
-Internal reasoning block to check for form purpose and relevance
-
-This form appears to be a generic corporate event intake form, likely used to gather information about upcoming events, meetings, conferences, or workshops. The form asks for event details, attendees, dates, location, and contact information, suggesting it is used for internal event planning, coordination, or registration purposes within a company or organization.
-
-To confirm, let's analyze the fields:
-
-* "Event Type" suggests the form is used to categorize events into different types (e.g., meeting, conference, trade show, seminar, workshop).
-* "Attendees List" implies that the form may be used to collect a list of people attending the event.
-* "Start Date" and "End Date" fields indicate that the form is used to schedule events.
-* "Location Details" and "Venue" suggest that the form requires information about the event's physical location.
-* "Event Description" may be used to provide a brief summary of the event.
-* "Event Time" likely indicates the time slot for the event.
-* "Contact Info" suggests that the form may be used to collect contact information for the event organizers or attendees.
-* "Contact Info Hint" is a bit confusing, as it seems to be a placeholder or a leftover field.
-
-Given this analysis, the form is likely used to gather basic information about corporate events, such as planning, coordination, or registration purposes. However, some fields may be redundant or unnecessary, like "Contact Info Hint" and the duplicate "Contact Info" field.
-
-</thinking>
-
 # Corporate Event Intake Form - Help Guide
 ## Purpose
 The Corporate Event Intake Form is used to collect information about corporate events, meetings, conferences, or workshops. This form helps gather essential details for event planning, coordination, and registration.

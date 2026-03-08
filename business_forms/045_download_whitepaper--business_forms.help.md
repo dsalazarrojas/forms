@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Download Whitepaper - Help Guide
 ## Purpose
 The "Download Whitepaper" form is designed to collect the contact information of visitors who want to download a whitepaper. This form helps to gather essential details from users and ensures that we can follow up with them with relevant information.

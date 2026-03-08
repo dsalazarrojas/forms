@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 
 # Housekeeping Quick Estimate Template - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by end-users, as it will help us understand more about jobs within the organization. To achieve this, it's essential to document the form's purpose, how to complete it, and what each field is for, so we can avoid misinterpretation and misfilling. We should also check for any potential overlaps or duplications in the form fields to prevent inconsistencies in the data collected.
-</thinking>
-
 # Job Analysis Form - Help Guide
 ## Purpose
 The Job Analysis Form is designed to gather information about jobs within the organization. It helps us understand job details, status, and other relevant factors that can impact our operations.

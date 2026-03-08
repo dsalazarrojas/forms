@@ -1,10 +1,3 @@
-<thinking>
-We are creating a form for evaluating software implementation. 
-The form is designed to collect information about project and software-related data. 
-This form will help in making informed decisions on software implementation and its evaluation. 
-
-</thinking>
-
 # Software Implementation Evaluation Form - Help Guide
 ## Purpose
 This form is used to collect feedback and data about software implementation to help in making informed decisions. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for employees to book a corporate wellness stay, which can include activities such as meditation, yoga, or other relaxation programs. The purpose of the form is to gather information about the employee's booking details, including their personal details, preferences, and any special requests. This information will be used to tailor the wellness program to their needs. This form should only be completed by employees, not external individuals or other non-employees. Please ensure you have permission to access this form.
-</thinking>
-
 # Corporate Wellness Stay Booking Form - Help Guide
 ## Purpose
 The Corporate Wellness Stay Booking Form is used for employees to book a corporate wellness stay. Please fill out this form with your details and preferences so we can tailor the wellness program to your needs.

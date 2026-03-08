@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nutritional Label Review Report Form - Help Guide
 ## Purpose
 This form is used to review and report on the nutritional label of a product. It captures information about the product name, serving size, ingredient list, and other relevant details that are reviewed by a team of experts. The form is used to ensure compliance with nutrition labeling regulations and to keep track of reviews and their status.

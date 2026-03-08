@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Knowledge Assessment - Help Guide
 
 ## Purpose

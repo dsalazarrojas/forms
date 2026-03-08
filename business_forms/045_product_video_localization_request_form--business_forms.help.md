@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to capture the requirements for localizing product videos. The form's purpose is to gather necessary information about the product to be localized, including the product's name, URL, and any localization requirements such as deadlines and target languages. It's likely meant for internal use within a business or organization, where the form will be used to track and manage video localization requests.
-
-Before filling out this form, ensure that you're not duplicating a request that has already been made. If you're unsure, double-check the form's internal tracking system or consult with the relevant team members.
-
-This guide is for end-users who need to fill out this form to request video localization services.
-
-</thinking>
-
 # Product Video Localization Request Form - Help Guide
 ## Purpose
 This form is used to submit requests for video localization services. Please fill out the form with accurate and relevant information to ensure a smooth localization process.

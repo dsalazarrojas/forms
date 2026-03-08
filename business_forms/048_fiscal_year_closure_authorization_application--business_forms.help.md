@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of the form, we first need to understand the context in which it is being used. The form is part of the "business_forms" category, which suggests that it is related to business operations or management tasks. Given the title "Fiscal Year Closure Authorization Application", it is likely that this form is used to request approval for the closure of a fiscal year, which typically involves reviewing and authorizing financial records and accounts at the end of the year.
-</thinking>
-
 # Fiscal Year Closure Authorization Application - Help Guide
 ## Purpose
 The Fiscal Year Closure Authorization Application is used to request approval for the closure of a fiscal year. This form is used to gather information and obtain approval from an approver for the financial review and authorization of year-end activities.

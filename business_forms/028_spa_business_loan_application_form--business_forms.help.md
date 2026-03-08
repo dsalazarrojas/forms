@@ -1,12 +1,3 @@
-<thinking>
-Please note that the provided YAML defines a complex form with multiple fields and pages. Before diving into the actual form help guide, let's briefly discuss the purpose and design considerations of this form.
-
-This Spa Business Loan Application Form seems to be designed for spa businesses to apply for loans or financing. The form collects information about the business, its owner(s), and their operational and financial details. The presence of multiple fields for "Owner Name 2", "Owner Role 2", "Owner Phone 2", "Owner Address 2", and others suggests that the form accommodates multiple owners for the business. The fields like "Business Years in Operation", "Monthly Revenue", and "Loan Amount" imply that the form requires financial and operational data to assess the business's viability for a loan. The "Documents" and "Owner Document" fields suggest that the form requests proof or supporting documents for the loan application.
-
-Given this context, it's essential to ensure that the form is filled out accurately and completely to facilitate a smooth loan application process. With that in mind, let's create a user-facing help guide to facilitate this process.
-
-</thinking>
-
 # Spa Business Loan Application Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about your spa business and its owners to evaluate your loan application. Please complete it accurately and thoroughly to ensure a successful loan processing.

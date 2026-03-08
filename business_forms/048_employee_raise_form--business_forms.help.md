@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to facilitate an employee's request for a raise. It captures essential information necessary for a fair and informed decision-making process when evaluating an employee's salary increase. The form is divided into sections that ask for employee and manager details, reasons for the raise, salary information, and approval status. This form ensures that all relevant information is collected and recorded in a structured and concise manner, promoting transparency and clarity in the decision-making process.
-
-Before completing this form, please ensure that you have the necessary permissions and approvals to do so. This form is intended for internal use within the organization and should not be used for external purposes. If you have any doubts or concerns, please reach out to your HR department or supervisor for guidance.
-
-This form is designed to be completed by employees seeking a raise and their managers. It is essential to fill out the form accurately and thoroughly to ensure that the request is processed efficiently and effectively.
-
-This form is not intended to be a replacement for formal performance evaluations or other HR processes. It is a tool to support the decision-making process, and other relevant forms and procedures should be completed in conjunction with this form.
-
-</thinking>
-
 # Employee Raise Form - Help Guide
 ## Purpose
 This form is designed to support employee requests for a raise, allowing you to submit your request for a salary increase.

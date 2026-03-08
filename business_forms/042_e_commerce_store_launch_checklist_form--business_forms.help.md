@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a checklist for e-commerce store launch preparation, likely used to ensure that all necessary steps are taken before launching an online store. Upon reviewing the provided YAML field definitions, it seems that the form covers various aspects of store launch, including business information, product details, payment gateway, shipping options, return policy, launch schedule, and contact information. It does not appear to be a complex or highly technical form. To avoid duplication, this form might be used in conjunction with other forms or checklists that focus on specific aspects of store setup or maintenance.
-</thinking>
-
 # E Commerce Store Launch Checklist Form - Help Guide
 ## Purpose
 This form is designed to help users ensure a smooth and successful launch of an e-commerce store by providing a comprehensive checklist of important tasks and information. It gathers details about the store's business information, product offerings, payment and shipping options, return policy, launch schedule, and contact information.

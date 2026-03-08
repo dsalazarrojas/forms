@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Compliance Verification Request Form - Help Guide
 ## Purpose
 This form is used to request verification of compliance with various regulations and standards. It is intended for individuals who need to verify the compliance status of a specific process, department, or entity within the organization.

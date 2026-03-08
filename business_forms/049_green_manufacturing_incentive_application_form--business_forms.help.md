@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Green Manufacturing Incentive Application Form - Help Guide
 ## Purpose
 The Green Manufacturing Incentive Application Form is designed to help businesses apply for incentives related to environmental sustainability and green manufacturing practices. This form gathers general information, contact details, company profile, manufacturing process, green strategies, energy efficiency, water usage, emissions reduction, waste reduction, employee information, and business details for evaluation.

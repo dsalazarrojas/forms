@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the Sales Evaluation Form efficiently and effectively. Before proceeding, please confirm that this form is relevant to your needs and not duplicating an existing process.
-</thinking>
-
 # Sales Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback and evaluations from sales representatives on their performance, focusing on various aspects such as sales performance, communication skills, teamwork, product knowledge, initiative-taking, and sales tactics. The evaluations aim to provide valuable insights for professional development and future improvement opportunities.

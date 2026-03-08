@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather financial information for events. It's essential to fill out this form accurately to ensure that the event's financials are properly recorded and reported. The form should be used for events with significant financial transactions, such as events with high revenue or expenses. If you're unsure whether to fill out this form, please reach out to the event manager or financial team for clarification. Before starting, please ensure you're using the correct event ID and that you're not filling out this form for an event that has already been processed.
-</thinking>
-
 # Event Financial Overview - Help Guide
 ## Purpose
 The Event Financial Overview form is used to collect financial information for events with significant financial transactions. This form helps to ensure that event financials are accurately recorded and reported.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Furniture Inventory Checklist - Help Guide
 ## Purpose
 The Furniture Inventory Checklist is a form used to track and record detailed information about furniture items in inventory. This includes asset type, status, description, room name, price, purchase date and time, and inventory number. By using this form, you can efficiently manage your inventory and make it easier to identify and categorize items.

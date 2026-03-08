@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mechanical Pencil Request Form - Help Guide
 
 ## Purpose

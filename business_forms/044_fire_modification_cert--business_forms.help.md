@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and usage of the "fire_modification_certs" form. This form is used to record information related to fire modification certifications, which likely involves certifications related to fire protection systems, equipment, or procedures. The form may be used for various purposes such as recording fire modification status, certification dates, and inspection results. It is essential to understand the form's purpose and each field's significance before proceeding with the completion. 
-
-</thinking>
-
 # fire_modification_certs - Help Guide
 ## Purpose
 The "fire_modification_certs" form is used to record information related to fire modification certifications, including fire modification status, certification dates, and inspection results.

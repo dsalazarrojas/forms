@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for requesting financial approval for employee expenses. The form is used to gather information from employees regarding their financial requests, such as reimbursement for expenses and budget allocation. This form is used by financial teams to review and approve or reject these requests. Before proceeding, ensure that this form is being used for its intended purpose and not duplicated or unnecessary. 
-
-</thinking>
-
 # financial_approval_form - Help Guide
 ## Purpose
 The financial approval form is a tool used by financial teams to review and approve or reject employee requests for financial expenses and budget allocation. 

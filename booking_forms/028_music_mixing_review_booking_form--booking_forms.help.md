@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for booking a music mixing review session with a mix engineer or music coach. The form likely serves as a means to collect information from clients or clients' representatives regarding the details of the session they want to book, such as the type of session, date, time, and specific requirements like track names. The purpose of this form is to facilitate communication between the client and the service provider, making it easier for them to plan and prepare for the session. The form's layout and fields seem to cater to the needs of both parties, providing a structured format for inputting necessary details.
-
-</thinking>
-
 # music_mixing_review_booking_form - Help Guide
 
 ## Purpose

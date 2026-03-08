@@ -1,7 +1,3 @@
-<thinking>
-This form is used for creating an extension to the content creation contract. The purpose of this form is to gather information for an extension of an existing contract. This form is only for use when an extension is required for an existing contract. If you have not yet established a contract, please use the [content creation contract form](link to the main content creation contract form).
-</thinking>
-
 # Content Creation Contract Extension Form - Help Guide
 ## Purpose
 This form is used to extend an existing content creation contract. Fill out the form to add new terms and deliverables to an existing contract. 

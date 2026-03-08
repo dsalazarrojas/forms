@@ -1,6 +1,3 @@
-<thinking>
-We should consider whether this form is intended to be used by fleet managers or drivers, and whether it's meant to be used for routine maintenance or emergency repairs. If the form is for routine maintenance, we should explain that this form is used to schedule and track routine maintenance tasks for company vehicles, such as oil changes and tire replacements. If it's for emergency repairs, we should clarify that this form is used to report and record unexpected vehicle issues that require immediate attention. We should also check that this form is not being used to duplicate existing procedures or to create a duplicate form.
-</thinking>
 # fleet_maintenance_requisition_form - Help Guide
 ## Purpose
 This form is used to schedule and track routine maintenance tasks for company vehicles. It helps to ensure that all necessary repairs and replacements are performed on time, reducing the risk of vehicle breakdowns and related costs.

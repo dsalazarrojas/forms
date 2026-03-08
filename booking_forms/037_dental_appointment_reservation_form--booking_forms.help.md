@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a template for users to input their dental appointment reservation information. It's essential to ensure that the form is filled out correctly to avoid any confusion or errors when scheduling appointments. To prevent misinterpretation, please take the following steps:
-
-1. Check that the form's "title" matches the specific appointment type (e.g., routine check-up, emergency appointment, etc.)
-2. Make sure all required fields are completed as indicated in the form.
-3. Double-check all input data for accuracy and completeness.
-</thinking>
-
 # Dental Appointment Reservation Form - Help Guide
 ## Purpose
 The Dental Appointment Reservation Form is a tool for scheduling appointments with a dentist. Please use this form to provide essential information about your visit.

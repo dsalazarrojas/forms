@@ -1,7 +1,3 @@
-<thinking>
-This form is used for managing and tracking the estimation and project management aspects of a project, providing a structured approach to defining project scope, requirements, resources, and timelines.
-</thinking>
-
 # Estimation & Project Management Checklist - Help Guide
 ## Purpose
 This form is used to collect information related to project estimation and project management. Please fill out this form to ensure comprehensive data for your project.

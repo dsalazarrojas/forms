@@ -1,6 +1,3 @@
-<thinking>
-This form is for customers to apply for an energy package, likely for a business or personal energy needs. The form should be filled out by a customer who wants to submit an application for energy services. To ensure that the form is used correctly, it is recommended that only one application is submitted per customer. If a customer needs to resubmit the application, please make sure that the previous application has been reviewed and approved before submitting a new one. This form is meant to gather information about the customer's energy needs and preferences in order to provide the best possible service. Please complete the form accurately and thoroughly in order to ensure that your application is processed efficiently.</thinking>
-
 # Energy Package Application - Help Guide
 ## Purpose
 The Energy Package Application form is designed to collect information from customers who are interested in submitting an application for energy services. This form will help our team understand your energy needs and preferences, ensuring that we can provide you with the best possible service.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about lost or found items. The purpose of this form is to gather details about the item, its owner, and any contact information for the owner. This form will be used by staff to document and track lost or found items within the organization. It is not meant to be used for any other purpose. 
-</thinking>
-
 # lost_and_found_form - Help Guide
 ## Purpose
 The "Lost and Found Form" is used to document and track lost or found items within the organization. This form collects details about the item, its owner, and any contact information for the owner.

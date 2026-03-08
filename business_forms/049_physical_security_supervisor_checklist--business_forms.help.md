@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for a physical security supervisor to conduct a thorough inspection of a facility, identifying potential security risks and taking action to mitigate them. The form ensures that all areas of the facility are inspected, and all necessary steps are taken to ensure the physical security of the premises. This form replaces the need for multiple reports and checklists, making it easier for the supervisor to conduct and review the inspection results.
-
-</thinking>
-
 # physical_security_supervisor_checklist - Help Guide
 ## Purpose
 

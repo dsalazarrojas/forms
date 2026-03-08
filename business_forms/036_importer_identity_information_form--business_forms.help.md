@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect importer identity information in a structured and organized manner, with the goal of streamlining the import process and ensuring accurate data capture. The form is divided into 12 sections, each with a specific purpose and requirements. The form will be used to collect contact information, address, contact number, email, import date and time, product type, and additional notes. This form should only be completed by the importers themselves or their authorized representatives.
-
-To prevent duplication of effort, please only complete this form if you are the actual importer or have been authorized to act on their behalf.
-
-</thinking>
-
 # Importer Identity Information Form - Help Guide
 ## Purpose
 This form is designed to collect importer identity information in a structured and organized manner, with the goal of streamlining the import process and ensuring accurate data capture.

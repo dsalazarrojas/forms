@@ -1,11 +1,3 @@
-<thinking>
-
-To ensure that this form is used correctly and efficiently, please note that it's designed for general use cases. However, please review the form fields and provide additional information if you need more specific guidance on your use case.
-
-This form is intended to gather client information, design preferences, and project details for an interior design project. It's essential to fill in the form accurately to ensure a smooth project process. Please review the form carefully before submitting it to avoid any errors or missed information.
-
-</thinking>
-
 # Interior Design Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect client information and project details for an interior design project. It will help the client to provide all necessary details about their project, preferences, and requirements.

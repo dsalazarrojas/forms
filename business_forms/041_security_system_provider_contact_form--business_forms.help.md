@@ -1,11 +1,3 @@
-<thinking>
-The "security_system_provider_contact_form" form is designed to gather information from security system providers. Its purpose is to allow clients to easily contact these providers for inquiries, quotes, or support. To avoid duplication and ensure that the information is accurate, it's essential to follow the instructions carefully. Before completing this form, consider the following:
-
-*   If you are already registered with us, please ensure you are not submitting multiple requests.
-*   Please be aware that this form will be used to contact security system providers. Make sure to provide clear and concise information to help the providers respond promptly.
-*   If you have any doubts or concerns, please review the provided options carefully.
-</thinking>
-
 # security_system_provider_contact_form - Help Guide
 
 ## Purpose

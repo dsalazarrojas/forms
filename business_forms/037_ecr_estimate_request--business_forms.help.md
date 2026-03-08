@@ -1,5 +1,3 @@
-<thinking>As I understand that this form is intended for end-users to create an ECR (Estimated Consumption Report) request, which likely involves submitting estimated costs or consumption values for a specific period. The purpose of this form is to collect relevant information from the users to generate accurate ECR reports. I'll design the help guide based on the provided YAML fields. I'll also assume that the form is used by business users who may not have technical expertise in the field, so the explanations will be concise and practical.</thinking>
-
 # Ecr Estimate Request - Help Guide
 ## Purpose
 The Ecr Estimate Request form is used to collect estimated costs or consumption values for a specific period. Please provide the necessary information to help us generate accurate ECR reports.

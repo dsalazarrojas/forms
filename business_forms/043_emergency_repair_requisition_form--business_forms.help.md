@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting emergency repairs on company property. Before submitting a repair request, check to see if it has already been submitted, or if it is already in the process of being fixed. Please ensure that you have provided all relevant information and details about the repair before submitting the form.
-</thinking>
-
 # Emergency Repair Requisition Form - Help Guide
 
 ## Purpose

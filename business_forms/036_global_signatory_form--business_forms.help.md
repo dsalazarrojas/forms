@@ -1,13 +1,3 @@
-<thinking>
-This form is used for the purpose of obtaining global signatory, which is an agreement or a certification that indicates a person or entity's willingness to act as a signatory for a specific business or project. This form is crucial for ensuring that all parties involved in a business transaction or project are aware of and agree to the terms and conditions, and that their consent is obtained before proceeding.
-
-Internal reasoning: This form is likely used in situations where multiple stakeholders need to be informed and agree to the terms and conditions of a business deal or project, such as in the signing of a contract or the approval of a business proposal. The form should be completed by all relevant parties to ensure that everyone is on the same page and that the terms are understood and accepted.
-
-This form is likely used by business stakeholders, such as company representatives, project managers, or team members, and is intended to be a straightforward and easy-to-complete process. Each field in the form should be filled out accurately and thoroughly to ensure that all necessary information is captured.
-
-To complete this form, follow the instructions below.
-</thinking>
-
 # Global Signatory Form - Help Guide
 
 ## Purpose

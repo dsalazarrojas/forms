@@ -1,14 +1,3 @@
-<thinking>
-This form is used to report missing source IDs for business purposes. It is likely used by business users to submit information about missing source IDs to a system or database. The form should only be used when a user is reporting a missing source ID, and not for any other purpose.
-
-To ensure accurate and efficient use of this form, please review each field carefully before submitting your report.
-
-This form has multiple pages with different fields that require input from the user. Please make sure to complete all required fields before submitting the form.
-
-If a field is marked as required, it is necessary to complete it for the form to be submitted.
-
-</thinking>
-
 # missing_source_id_report - Help Guide
 ## Purpose
 The missing_source_id_report form is used to report missing source IDs to a system or database for business purposes.

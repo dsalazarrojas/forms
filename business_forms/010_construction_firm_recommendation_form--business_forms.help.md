@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be used by clients and project managers to provide feedback and recommendations on the construction firm's performance on a project. The purpose of this form is to collect data on the firm's quality of work, adherence to schedule, budget management, communication, professionalism, and other relevant aspects. This form should only be completed by clients who have actually worked with the construction firm, to provide genuine feedback. If you're not a client who has worked with the firm, please do not fill out this form, as it will not be taken into consideration.
-</thinking>
-
 # Construction Firm Recommendation Form - Help Guide
 ## Purpose
 The Construction Firm Recommendation Form is a tool for clients to provide feedback and recommendations on the performance of a construction firm. This form helps the firm to identify areas of improvement and provides valuable insights for future projects.

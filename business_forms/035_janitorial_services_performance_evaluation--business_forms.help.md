@@ -1,14 +1,3 @@
-<thinking>
-This form is used to evaluate the performance of janitorial services provided by a company. The purpose of this form is to gather feedback from customers on their experience with the janitorial services, including contact information, details of the visit, ratings, and any additional comments. This form will help the company to identify areas of improvement and make necessary changes to provide better services.
-
-Before filling out this form, ensure that you have all the necessary information and that you are filling it out for the correct purpose (i.e., to provide feedback on janitorial services). If you have already filled out this form, please do not fill it out again.
-
-This form is designed to be completed by the person who received the janitorial services. If you are not the intended recipient of the services, please do not fill out this form.
-
-The fields in this form are designed to gather specific information related to the janitorial services. Please fill out the form as accurately and thoroughly as possible.
-
-</thinking>
-
 # Janitorial Services Performance Evaluation - Help Guide
 
 ## Purpose

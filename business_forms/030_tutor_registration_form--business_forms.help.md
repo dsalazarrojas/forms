@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from individuals who want to become tutors, allowing them to register their details for tutoring purposes. This form should only be used by individuals who are not already registered as tutors. 
-</thinking>
-
 # tutor_registration_form - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals who want to become tutors. Please fill out the form with accurate details to ensure a smooth registration process.

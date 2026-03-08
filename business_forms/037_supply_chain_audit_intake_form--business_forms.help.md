@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supply Chain Audit Intake Form - Help Guide
 ## Purpose
 The Supply Chain Audit Intake Form is used to collect information about your business's supply chain audit history. This form helps our team to gather data about your company's previous audits, including the date, result, and frequency of the audits. This information will be used to improve our services and provide better support for your business.

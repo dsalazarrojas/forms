@@ -1,7 +1,3 @@
-<thinking>
-This form is for booking a family-friendly villa. 
-</thinking>
-
 # Family Friendly Villa Booking Form - Help Guide
 ## Purpose
 This form is used to book a family-friendly villa. It collects information about the villa, family members, and other details to process the booking request.

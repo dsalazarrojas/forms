@@ -1,8 +1,3 @@
-<thinking>
-To ensure the integrity of patient care, this form is designed to gather essential information for scheduling an early pregnancy ultrasound appointment. The purpose of this form is to collect details such as patient information, appointment scheduling, and medical background, which are crucial for the healthcare providers to understand the patient's needs accurately. 
-Please ensure you only complete this form if you are booking an early pregnancy ultrasound appointment for yourself or a patient in your care. If the form is already available in your patient's chart, please do not repeat the submission to avoid duplication of data.
-</thinking>
-
 # Early Pregnancy Ultrasound Appointment Request - Help Guide
 ## Purpose
 The Early Pregnancy Ultrasound Appointment Request form is designed to gather essential information for scheduling an early pregnancy ultrasound appointment.

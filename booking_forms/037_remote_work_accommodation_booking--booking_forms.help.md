@@ -1,7 +1,3 @@
-<thinking>
-This guide will provide an overview of the Remote Work Accommodation Booking form, its purpose, and step-by-step instructions on how to complete it. It will cover each field in detail to ensure that users understand their importance and required fields.
-</thinking>
-
 # Remote Work Accommodation Booking - Help Guide
 ## Purpose
 This form is used for booking a remote work accommodation for a company. It gathers information about the booking details, accommodation type, and status of the booking. It is essential for ensuring that all relevant details are captured accurately and consistently.

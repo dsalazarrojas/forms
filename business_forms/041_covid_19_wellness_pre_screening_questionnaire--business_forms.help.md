@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a pre-screening tool for individuals to assess their health status regarding potential Covid-19 exposure. It will help identify any potential risks or symptoms associated with the virus and provide a quick assessment of the individual's overall health status.
-The form is used to collect medical history, age, height, and travel history information. This information will be used to determine if the individual has been exposed to the virus or has any symptoms that may indicate potential infection. The form will ask for information on medical history, symptoms, contact with infected persons, and travel history.
-This form is intended to be used as a pre-screening tool and should not be used for diagnosis purposes. A healthcare professional will review the information provided and make further assessments and recommendations if necessary.
-</thinking>
-
 # Covid 19 Wellness Pre Screening Questionnaire - Help Guide
 ## Purpose
 

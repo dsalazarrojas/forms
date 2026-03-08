@@ -1,9 +1,3 @@
-<thinking>
-
-This guide will help you complete the Candidate Referral Submission Form. Please ensure you have the necessary information and consent from the candidate before proceeding.
-
-</thinking>
-
 # Candidate Referral Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to provide us with information about a potential candidate for an open position. This form is used to refer an individual who you believe has the skills and qualifications necessary to excel in our company. Your input will help us evaluate and contact the candidate for potential interviews.

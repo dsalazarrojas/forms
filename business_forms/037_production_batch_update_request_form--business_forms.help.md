@@ -1,26 +1,3 @@
-<thinking>
-To prevent duplication of efforts, this form is intended for users to request updates to existing production batches. Before filling out this form, please ensure that you have reviewed and verified the information you are submitting. A clear and detailed submission will help the production team efficiently process your request.
-
-This form gathers the following information:
-
-- Product ID
-- Product name
-- Batch ID
-- Batch name
-- Reason for the update
-- Update date and time
-- Production status
-- Documentation link
-- Comments
-- Assigned to
-- Contact email and phone number
-- User who created and updated the request
-- Comments and production notes
-
-Please provide all relevant information to help the production team process the update request effectively.
-
-</thinking>
-
 # Production Batch Update Request Form - Help Guide
 ## Purpose
 This form is used to request updates to existing production batches.

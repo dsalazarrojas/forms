@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Transport Incident Form - Help Guide
 
 ## Purpose

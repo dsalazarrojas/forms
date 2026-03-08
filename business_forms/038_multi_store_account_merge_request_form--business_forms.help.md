@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request a merge of multiple store accounts into one. This is a common process when a business has multiple locations that want to be combined under a single account for easier management and billing. The form will be reviewed by our team to ensure that the request is valid and the store accounts are properly merged.
-
-To ensure that your request is processed efficiently, please provide accurate and up-to-date information in the required fields. 
-
-</thinking>
-
 # Multi Store Account Merge Request Form - Help Guide
 ## Purpose
 The Multi Store Account Merge Request Form is a user-facing form used to request the merge of multiple store accounts into one. This form collects necessary information to facilitate the merge process.

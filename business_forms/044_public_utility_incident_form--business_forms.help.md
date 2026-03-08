@@ -1,9 +1,3 @@
-<thinking>
-
-The form is intended to be used for reporting and tracking public utility incidents. It is likely used by utility companies to manage incidents related to their services, such as power outages, water leaks, or other service disruptions. The form should be completed by a representative of the utility company to provide information about the incident, including the location, time, and type of incident. This form is not intended for use by the general public, as the "Assigned User" field suggests that it is only for internal use within the utility company.
-
-</thinking>
-
 # Public Utility Incident Form - Help Guide
 ## Purpose
 The Public Utility Incident Form is a tool for utility companies to report and track incidents related to their services. This form helps to gather relevant information about each incident, allowing the company to respond and resolve issues quickly and effectively.

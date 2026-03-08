@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Performance Evaluation Slot Booking Form - Help Guide
 ## Purpose
 The Performance Evaluation Slot Booking Form is a tool used to schedule and coordinate performance evaluation sessions between team members. It allows reviewers (managers/evaluators) to select reviewees and managers, choose a time and date for the evaluation, and provide notes and other necessary information.

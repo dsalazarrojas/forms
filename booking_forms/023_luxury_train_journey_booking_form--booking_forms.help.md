@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for booking a luxury train journey. It is used to gather details about the traveler, travel plans, and payment methods. This form should only be used for customers who are booking a luxury train journey with an authorized travel agent.
-</thinking>
-
 # Luxury Train Journey Booking Form - Help Guide
 ## Purpose
 The Luxury Train Journey Booking Form is used to book luxury train travel with the help of an authorized travel agent. To complete this form, please ensure you provide accurate and complete information.

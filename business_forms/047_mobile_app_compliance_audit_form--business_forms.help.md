@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about the compliance of a mobile app with the company's standards and regulations. The form is designed to be completed by app developers and is used to ensure that their app meets the necessary standards for data protection, security, and reporting. Before filling out this form, please review the company's policies and procedures to ensure that you are aware of the required standards and guidelines. Please note that this form is not a substitute for a thorough review and audit of your app's code and infrastructure.
-</thinking>
-
 # Mobile App Compliance Audit Form - Help Guide
 ## Purpose
 The Mobile App Compliance Audit Form is a tool to ensure that your mobile app meets the company's standards and regulations. This form will guide you through the necessary information required for a comprehensive audit of your app.

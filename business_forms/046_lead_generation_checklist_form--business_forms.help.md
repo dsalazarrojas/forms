@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML fields for the Lead Generation Checklist Form, I notice that there are several fields with similar labels and purposes. Specifically, the fields with the label "Agree To Receive Updates" seem to have the same options, 'True' and 'False'. This suggests that these fields might be redundant and unnecessary. Additionally, the form has multiple fields with the same type (select_one) and options, which could lead to confusion for the end-user. I will assume that these fields are meant to be duplicates and will focus on explaining the remaining fields.</thinking>
-
 # Lead Generation Checklist Form - Help Guide
 ## Purpose
 The Lead Generation Checklist Form is designed to gather information about leads and their preferences for updates.

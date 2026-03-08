@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users regarding their donor database setup quote request. This includes collecting their name, email, phone number, and non-profit organization information, as well as a detailed description of their database requirements. The form also aims to understand their preferred donor management system and whether they have any custom requirements. This data will be used to provide a quote for setting up their donor database.
-</thinking>
-
 # Donor Database Setup Quote Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who are requesting a quote for setting up their donor database. By filling out this form, you will be able to provide your organization with a quote that meets their specific needs.

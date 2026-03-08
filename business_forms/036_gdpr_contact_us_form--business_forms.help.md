@@ -1,7 +1,3 @@
-<thinking>
-This form will be used for customers, partners, and internal staff to collect and manage GDPR (General Data Protection Regulation) contact information. The purpose of this form is to ensure that we handle personal data in accordance with the GDPR's guidelines. This form is not meant to be a replacement for other forms, such as those used for sales or marketing purposes. It is a dedicated form for GDPR-related contact and data collection activities. This form will be reviewed and updated regularly to ensure it meets the latest GDPR regulations. 
-</thinking>
-
 # gdpr_contact_us_form - Help Guide
 ## Purpose
 The GDPR Contact Us form is designed to collect and manage personal data in accordance with the General Data Protection Regulation. It is intended for customers, partners, and internal staff to submit requests or inquiries related to GDPR.

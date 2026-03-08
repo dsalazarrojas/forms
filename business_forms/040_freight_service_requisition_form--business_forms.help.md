@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the best course of action for this form, we need to examine each field and understand their purpose. The form seems to be related to freight services, and it's designed to gather information about shipments. We should verify that this form is not a duplicate of any existing form and that it aligns with the company's business needs.
-
-After reviewing the form schema, it appears to be collecting information about business details (business form), contact person, and shipment details such as weight, length, width, height, volume, count, service type, and addresses. There is also an option to select the service type and shipment service type.
-
-We will now create a help guide for this form.
-
-</thinking>
-
 # Freight Service Requisition Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for fans to book a photo experience with a photographer. The purpose of this form is to collect information about the fan's preferences and requirements for the photo session. This includes selecting a photographer, choosing a photo session time and duration, and specifying the location. The form also includes fields for notes and status updates to keep track of the booking process. To avoid duplication, users should only fill out this form once per fan experience.
-</thinking>
-
 # Fan Photo Experience Booking Form - Help Guide
 ## Purpose
 The Fan Photo Experience Booking Form is a tool for fans to book a personalized photo experience with a photographer. This form helps us collect information about your preferences and requirements for the photo session, ensuring that your experience is tailored to your needs.

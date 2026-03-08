@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a barber business startup, including its registration date, owner details, business name and type, address, target clientele, services offered, and various operational details. This form helps to streamline the registration process and ensures that all necessary information is gathered accurately and efficiently. 
-
-Please note that this form is designed to ensure that all required fields are filled out to avoid duplication of efforts in the process.
-
-</thinking>
-
 # Barber Business Startup Registration Form - Help Guide
 ## Purpose
 This form is designed to collect all the necessary information about a barber business startup, ensuring a smooth registration process.

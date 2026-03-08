@@ -1,8 +1,3 @@
-<thinking>
-This form is used for reporting time and effort for federal grants. It is intended for employees to report their work hours and costs related to federal grants. The form is used to track and document the work performed on grant projects. To ensure accuracy, please review and fill out this form for each federal grant project.
-
-</thinking>
-
 # Time And Effort Reporting Form For Federal Grants - Help Guide
 ## Purpose
 This form is a tool for employees to report their time and effort on federal grants. It is used to track and document work hours and costs for each grant project.

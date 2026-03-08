@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record the details of a waste transfer. The purpose of this form is to capture the key information about the waste transfer, including the generator information, transfer details, and receiver information. This form is likely used in the context of waste management, possibly for reporting or tracking purposes. 
-</thinking>
-
 # Waste Transfer Docket Form - Help Guide
 ## Purpose
 The Waste Transfer Docket Form is used to record the details of a waste transfer, including the generator information, transfer details, and receiver information.

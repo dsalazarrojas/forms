@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect and document urban planning review reports. It contains fields for project details, contact information, and review comments. The form is designed to be filled out by project stakeholders, reviewers, or other relevant personnel. 
-
-Before completing this form, ensure that you have all necessary information and permissions to do so. 
-
-This form is meant to be a one-time submission. If you need to update or edit the form, please contact the responsible party.
-</thinking>
-
 # urban_planning_review_report_form - Help Guide
 ## Purpose
 The urban planning review report form is used to document and track reviews of urban planning projects. It is designed to collect information about project details, project location, project status, contact information, and review comments.

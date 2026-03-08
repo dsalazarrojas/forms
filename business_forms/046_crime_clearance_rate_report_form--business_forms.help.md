@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The Crime Clearance Rate Report Form is used to report the clearance status of crimes. This form is used to gather information on crimes that are cleared or not cleared, and the current status of cases related to those crimes. To ensure accurate reporting, please fill out this form for all relevant crimes. Please note that this form is intended to be filled out on a per-crime basis. If you need to report multiple crimes, you will need to fill out the form multiple times.
+> The Crime Clearance Rate Report Form is used to report the clearance status of crimes. This form is used to gather information on crimes that are cleared or not cleared, and the current status of cases related to those crimes. To ensure accurate reporting, please fill out this form for all relevant crimes. Please note that this form is intended to be filled out on a per-crime basis. If you need to report multiple crimes, you will need to fill out the form multiple times.
 
 </thinking>
 

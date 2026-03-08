@@ -1,7 +1,3 @@
-<thinking>
-This guide is meant to help users understand the purpose and functionality of the AlumierMD X Jotform Consultation Form 2021. The form is designed to collect information from clients or customers to better understand their skin concerns, preferences, and goals, allowing the AlumierMD professionals to provide personalized consultations.
-</thinking>
-
 # AlumierMD X Jotform Consultation Form 2021 - Help Guide
 ## Purpose
 This form is designed to collect information from clients or customers to help AlumierMD professionals provide personalized consultations and recommendations for their skin care needs.

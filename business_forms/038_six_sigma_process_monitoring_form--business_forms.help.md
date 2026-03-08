@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Six Sigma Process Monitoring Form - Help Guide
 ## Purpose
 The Six Sigma Process Monitoring Form is designed to help you monitor and improve business processes. This form helps you identify areas of concern and track performance metrics to make data-driven decisions.

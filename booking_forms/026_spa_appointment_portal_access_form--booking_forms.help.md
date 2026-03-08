@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide their information for appointment portal access. The purpose of this form is to collect necessary details from customers to facilitate a smooth and secure access experience. The form is designed to be completed by customers who are requesting access to the spa's appointment portal. To ensure that the form is completed correctly, we should check that customers are not trying to access the portal for the wrong reasons or attempting to complete the form for someone else. To avoid duplication, we should verify that the customer is not already registered on the system.
-</thinking>
-
 # spa_appointment_portal_access_form - Help Guide
 ## Purpose
 The spa_appointment_portal_access_form is designed to collect information from customers to gain access to the appointment portal.

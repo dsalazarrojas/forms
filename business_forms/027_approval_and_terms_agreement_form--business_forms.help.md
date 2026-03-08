@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Approval And Terms Agreement Form - Help Guide
 ## Purpose
 This form is used to obtain approval and terms agreement from a signatory, which is typically a client, customer, or partner. The form is used to confirm their consent to the terms and conditions of a particular agreement or project.

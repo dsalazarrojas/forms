@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about non-GMO products from manufacturers or suppliers. The purpose of this form is to gather essential data about products that do not contain genetically modified organisms (GMO). This form is used to ensure that products labeled as non-GMO meet the required standards and regulations. The form is intended for use by manufacturers or suppliers to make a declaration about their products.
-
-</thinking>
-
 # Non GMO Declaration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about non-GMO products and to ensure that they meet the required standards and regulations.

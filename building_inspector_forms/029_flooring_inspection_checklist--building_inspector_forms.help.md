@@ -1,10 +1,3 @@
-<thinking>
-To create a help guide for the "Flooring Inspection Checklist" form, we first need to understand the form's purpose and the context in which it will be used. This form is designed for building inspectors to conduct a flooring inspection, which is an essential step in the building construction or renovation process. The purpose of this form is to collect data on the condition and quality of the flooring in a building, which will help in identifying any issues or defects that need to be addressed. The form should be used in conjunction with other inspection forms to ensure that all necessary areas of the building are inspected.
-
-This guide will walk users through the form's purpose, the fields it contains, and how to complete it effectively. It will also provide tips and best practices for filling out the form correctly.
-
-</thinking>
-
 # Flooring Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to document the results of a flooring inspection. It helps building inspectors to identify the type of flooring, its condition, and any potential issues or defects. This information is crucial for ensuring that the flooring meets the required standards and safety regulations.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from suppliers regarding the sourcing of raw materials for the company's operations. It is intended to collect the supplier's contact information, material details, and pricing information to facilitate efficient sourcing and quotation processes.
-This form will be used by various teams within the company, including procurement, purchasing, and logistics. To ensure accurate and up-to-date information, it is essential to complete this form correctly to avoid duplication and miscommunication.
-</thinking>
-
 # Raw Material Sourcing Quote Request Form - Help Guide
 ## Purpose
 This form is used to collect information from suppliers regarding raw material sourcing. It helps the company's procurement team to gather necessary data for efficient quotation and purchasing processes.

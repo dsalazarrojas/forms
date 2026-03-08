@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request a return authorization or release from a customer for a product that was previously purchased. The form is likely used by customers or customer service representatives to provide detailed information about the product and the reason for the return or release. The form is likely used internally for administrative purposes, such as processing returns, updating inventory, and resolving any issues related to the product.
-
-This form is a general-purpose form and does not have any specific requirements or restrictions on who can fill it out.
-
-</thinking>
-
 # return_authorization_release_form - Help Guide
 ## Purpose
 This form is used to request a return authorization or release from a customer for a product that was previously purchased.

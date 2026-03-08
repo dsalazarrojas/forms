@@ -1,5 +1,3 @@
-<thinking>...this form is a tool for gathering employee feedback and assessing the organizational climate within a corporate environment. It seems to cover various aspects of workplace culture, leadership, and employee engagement. I will create a comprehensive guide to help end-users complete the form accurately and effectively.</thinking>
-
 # Corporate Climate Survey - Help Guide
 ## Purpose
 The Corporate Climate Survey is a tool designed to gather employee feedback and assess the organizational climate within a corporate environment. It covers various aspects of workplace culture, leadership, and employee engagement. This guide will walk you through the form and its sections to ensure you provide valuable insights to help improve your workplace.

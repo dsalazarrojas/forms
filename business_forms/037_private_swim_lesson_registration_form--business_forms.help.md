@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for private swim lessons. It is used to gather information from participants who are interested in taking private swim lessons. The form collects information about the participant's contact details, lesson preferences, and payment status. It is used by swim schools to manage their private lesson registrations and payments.
-</thinking>
-
 # Private Swim Lesson Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who are interested in taking private swim lessons. The form is used to register participants for private lessons and to track their lesson details.

@@ -1,6 +1,3 @@
-<thinking>
-We need to make sure that the purpose and usage of this form is clearly understood by our end-users. This form is meant to be a CRM support ticket form, where users can report various issues or requests related to their CRM system. This form will help us to track and resolve these issues in a more organized and efficient manner. Before submitting the form, please make sure you're not submitting duplicate tickets for the same issue. To avoid confusion, please use the correct category for your problem, as it will help us to direct your issue to the right support team member.</thinking>
-
 # CRM Support Ticket Form - Help Guide
 ## Purpose
 

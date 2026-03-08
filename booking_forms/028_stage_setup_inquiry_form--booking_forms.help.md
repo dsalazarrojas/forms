@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about stage setup and event details for an upcoming event. Before filling out this form, please ensure you are providing accurate and relevant information. This form is a simple and straightforward way to provide the necessary details about stage setup and event information. If you have already provided this information, there is no need to fill out this form again.
-</thinking>
-
 # Stage Setup Inquiry Form - Help Guide
 ## Purpose
 The Stage Setup Inquiry Form is a simple form used to collect information about stage setup and event details. This form is designed to help our team prepare for your event by gathering essential information about the stage and event specifics.

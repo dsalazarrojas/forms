@@ -1,6 +1,3 @@
-<thinking>
-This form is used to review and schedule appointments for incidents, providing a structured approach to capturing relevant information. The form should be used for incidents that require attention from a responsible party, whether it be a client, customer, or company. The form is designed to gather information on the incident review appointment, including date, time, location, participants, and additional details. Before filling out this form, please review the following fields to ensure you have the necessary information to accurately complete it. If the form is already completed, please ensure that it's up-to-date and relevant to the current incident.</thinking>
-
 # Incident Review Appointment Form - Help Guide
 ## Purpose
 The Incident Review Appointment Form is used to schedule and document appointments for incidents, providing a clear and consistent approach to reviewing and addressing incidents.

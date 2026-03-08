@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tax_deduction_certificate_application_form - Help Guide
 ## Purpose
 The Tax Deduction Certificate Application Form is a document that helps employees request and track tax deductions related to their work. This form is used to apply for tax deductions, provide details about the requestee, and attach supporting documents.

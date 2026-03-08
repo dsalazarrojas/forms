@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from applicants interested in joining the supply chain advisory panel. The goal is to gather relevant details about the applicant's expertise, experience, and interests to assess their fit for the panel. The form is divided into multiple sections, each with different fields to capture specific types of information. Before filling out the form, please ensure you have a good understanding of the supply chain industry and the advisory panel's purpose. This form is a self-service tool, so please answer each question accurately and thoroughly. To avoid any duplication or misdirection, review each field carefully to ensure you're providing the correct information. If you're unsure about any field, please contact the form administrators for clarification.
-</thinking>
-
 # supply_chain_advisory_panel_application_form - Help Guide
 ## Purpose
 The supply chain advisory panel application form is designed to collect information from applicants interested in joining the panel. It helps the panel assess their qualifications, expertise, and fit for the advisory role.

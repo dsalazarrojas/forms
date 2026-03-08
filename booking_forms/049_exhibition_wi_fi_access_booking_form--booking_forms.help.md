@@ -1,8 +1,3 @@
-<thinking>
-This form is used to book Wi-Fi access for exhibitions. The purpose of this form is to collect necessary information from the exhibitor to facilitate the access to Wi-Fi during the event. Before filling out this form, please ensure that you have not already submitted a booking request for the same exhibition. If you are unsure about your booking status, please contact the event organizer.
-
-</thinking>
-
 # exhibition_wi_fi_access_booking_form - Help Guide
 ## Purpose
 The exhibition Wi-Fi access booking form is used to collect information from exhibitors to book Wi-Fi access for their exhibition during the event.

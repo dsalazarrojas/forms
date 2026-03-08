@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from individuals interested in pet technology demonstrations. The form is used to gather contact details and preferences for potential demos, which will be used to tailor the demo experience to the individual's needs. Please note that duplicate or incomplete submissions may be discarded for optimal processing.
 
 # Pet Technology Demonstration Request Form - Help Guide

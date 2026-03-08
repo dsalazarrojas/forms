@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for collecting information about an individual's personal finance situation, likely for financial planning or analysis purposes. It appears to be a comprehensive form that covers various aspects of personal finance, including income, savings, debt, investments, and financial goals. The "financial_goals" field is a select_multiple field with options "Goal 1", "Goal 2", and "Goal 3", suggesting that it might be related to specific investment objectives or financial targets. The "debt" field is a select_one field with options "0", "1", and "2", which could indicate the level of debt (maybe 0 = no debt, 1 = moderate debt, and 2 = high debt). The "financial_independence" field is a select_one field with options "0", "1", and "2", which might represent different levels of financial independence (maybe 0 = not financially independent, 1 = moderately financially independent, and 2 = highly financially independent).
-</thinking>
-
 # Personal Finance Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your personal finance situation to help with financial planning and analysis. Please answer the questions accurately to provide a clear picture of your financial situation.

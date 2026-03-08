@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # roofing_repair_checklist_form - Help Guide
 ## Purpose
 The roofing repair checklist form is used to record and assess the condition of a roof, its components, and necessary repairs. It helps to identify potential issues and provide recommendations for rectification.

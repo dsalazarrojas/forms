@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for phone orders from customers, which will likely be used for sales and customer service purposes within the company. This form should only be used for legitimate business purposes and not for spamming or other malicious activities. Please make sure to fill out the form completely and accurately to avoid any issues with order fulfillment or customer service. Before filling out the form, make sure to check if a similar order has already been placed to avoid duplication of effort.
-</thinking>
-
 # Phone Order Form - Help Guide
 ## Purpose
 The Phone Order Form is a tool used to collect information for phone orders from customers. This information will be used to facilitate sales and customer service within the company.

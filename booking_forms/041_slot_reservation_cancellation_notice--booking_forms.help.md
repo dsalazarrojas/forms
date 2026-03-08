@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to submit a reservation cancellation notice to the slot owner/administrator, informing them of their intent to cancel a previously scheduled slot. This form serves as an official communication channel between the customer and the slot owner, providing a clear reason for the cancellation and any further contact details. To avoid duplication and ensure accurate submission, users should only use this form for actual cancellations, not for rescheduling or other purposes.
-</thinking>
-
 # Slot Reservation Cancellation Notice - Help Guide
 ## Purpose
 The Slot Reservation Cancellation Notice form is a formal way for customers to inform slot owners about their intent to cancel a previously scheduled slot. This form helps ensure that the slot owner is aware of the cancellation and can adjust their schedule accordingly.

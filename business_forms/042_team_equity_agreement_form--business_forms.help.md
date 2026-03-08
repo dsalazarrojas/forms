@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Equity Agreement Form - Help Guide
 
 ## Purpose

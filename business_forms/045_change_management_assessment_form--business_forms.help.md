@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess an organization's readiness for a change initiative. It will help identify potential risks, barriers, and required resources to ensure successful implementation of the change. This assessment is crucial for project managers and team leaders to make informed decisions and create a plan to mitigate risks and overcome obstacles. It is recommended to fill this form after a change initiative has been proposed or during a regular change management process review. Please ensure that you fill in the form completely and honestly to get an accurate assessment.
-</thinking>
-
 # Change Management Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess an organization's readiness for a change initiative. It will help identify potential risks, barriers, and required resources to ensure successful implementation of the change.

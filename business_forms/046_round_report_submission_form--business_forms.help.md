@@ -1,8 +1,3 @@
-<thinking>
-The form appears to be designed for employees to submit reports related to their work hours and pay. The purpose of the form is to gather information from employees about their shift start and end times, as well as various other details such as total breaks taken, billed hours, payable hours, deductions, and gross pay. To ensure that employees provide accurate and complete information, each field should be thoroughly explained in this help guide.
-
-</thinking>
-
 # Round Report Submission Form - Help Guide
 
 ## Purpose

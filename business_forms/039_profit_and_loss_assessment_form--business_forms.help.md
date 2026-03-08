@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to assess a business's profit and loss situation, providing a simple and structured way to gather essential data on income and expenses for financial evaluation and decision-making. It's recommended to complete the form only once per business entity to avoid duplication. This form is meant to be used by business owners, accountants, or financial managers to quickly and accurately gather and analyze key financial data.
-</thinking>
-
 # Profit And Loss Assessment Form - Help Guide
 ## Purpose
 The Profit And Loss Assessment Form is designed to gather essential financial information from businesses, allowing for swift and accurate evaluation of their profit and loss situation.

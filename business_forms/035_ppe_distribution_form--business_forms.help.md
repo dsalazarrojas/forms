@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to facilitate the distribution of Personal Protective Equipment (PPE) within an organization. It is meant to collect relevant information about the distribution process, including who the equipment is being distributed to, the date and location of distribution, and any additional notes about the process.
-
-To ensure that only relevant information is collected and avoid duplication of effort, please only fill out this form for new distributions.
-
-The form will be used to track and record the distribution process, and the data collected will be used to generate reports and insights that can inform future equipment management decisions.
-
-Before filling out this form, please ensure that you have all necessary information and approvals in place.
-
-Please note that this form is not intended to be a substitute for more formal equipment management processes, and it is the responsibility of the user to ensure that all relevant protocols and procedures are followed.
-
-</thinking>
-
 # PPE Distribution Form - Help Guide
 ## Purpose
 This form is used to record and track the distribution of Personal Protective Equipment (PPE) within the organization.

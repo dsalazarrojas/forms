@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assist individuals in requesting help and guidance for a visa application. The form aims to collect personal, contact, travel, visa, and passport information from the user to provide assistance with their visa application. This form is not affiliated with, endorsed by, or derived from any form platform, and its content is created using public survey metadata for inspiration.
-
-</thinking>
- 
 # visa-application-assistance-request-form - Help Guide
 ## Purpose
 This form is designed to collect information from you to assist with your visa application. Please answer each section carefully and accurately to provide the best assistance for your application.

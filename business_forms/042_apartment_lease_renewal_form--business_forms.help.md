@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to guide tenants through the process of renewing their apartment lease. The purpose of the form is to collect information from the tenant about their current lease and desired outcomes for the renewal, as well as any issues that may need to be addressed. This information will help the landlord make an informed decision about the renewal of the lease. The tenant will be asked about their satisfaction with the property and management, any issues they experienced during the lease, and their preferences for the renewal terms.
-This form should not be used as a template for other purposes or to collect sensitive information without proper authorization. Only collect data that is relevant to the renewal process and avoid asking for unnecessary information.
-Please ensure that all required fields are filled in and that the tenant understands the implications of their responses.
-</thinking>
-
 # Apartment Lease Renewal Form - Help Guide
 ## Purpose
 This form is designed to collect information from you as a tenant about your current apartment lease and your preferences for renewal. The data collected will help your landlord make an informed decision about the renewal of your lease.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Fuel Expense Review Request Form", I will need to review the provided YAML fields and understand the form's purpose, structure, and requirements. This form is likely used for employees to request reimbursement for fuel expenses incurred during work-related activities. The form's purpose is to collect information about the fuel expense, including the employee's name, vehicle details, mileage, fuel type, and other related information. The goal of this form is to gather data that can be reviewed and approved by a manager or supervisor. This form likely plays a crucial role in tracking and managing employee expenses.
-
-The form structure is broken down into two main parts: employee information and expense details. Employee information includes fields such as employee name, ID, and contact information. Expense details cover fields like vehicle make, model, mileage, fuel type, and expense amount. Additionally, there are fields for approval and submission status.
-
-Considering the form's purpose and structure, the following guide will be created to help end-users complete the form correctly:
-
-</thinking>
-
 # Fuel Expense Review Request Form - Help Guide
 ## Purpose
 This form is for employees to request reimbursement for fuel expenses incurred during work-related activities. It collects essential details to review and approve fuel expenses accurately.

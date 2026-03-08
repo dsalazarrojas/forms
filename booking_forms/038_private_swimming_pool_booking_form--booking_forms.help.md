@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for end-users to book a private swimming pool for their event or party. The form requires some basic information to ensure that the pool is available and that the event details are accurately recorded for both the host and the customer. The form should be completed by a person authorized to represent the customer and should be submitted well in advance of the event date to ensure timely processing.
-
-The form is not intended for internal use, and it's assumed that the person completing the form has some basic knowledge of the event details. The form fields are mostly self-explanatory, but some might require further clarification to avoid confusion.
-
-</thinking>
-
 # Private Swimming Pool Booking Form - Help Guide
 ## Purpose
 The "Private Swimming Pool Booking Form" is designed for customers to book a private swimming pool for events, parties, or other functions. This guide is intended to walk you through each field to ensure accurate and complete submission of your booking request.

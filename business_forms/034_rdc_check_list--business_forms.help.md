@@ -1,5 +1,3 @@
-<thinking>As I review the form fields, I notice that this Rdc Check List form appears to be a metadata input form with fields for title, category, description, assigned tool, and form ID. The category field is likely referencing a business form category, but the exact context and relationship with the other fields are unclear. This form seems to be designed for inputting metadata or information about a specific business form. I will provide a clear and concise help guide for the end-user, assuming the form's purpose is for inputting metadata.</thinking>
-
 # Rdc Check List - Help Guide
 ## Purpose
 This form is designed to input metadata for a specific business form, providing a way to store and manage information about a form. The form includes fields for title, category, description, assigned tool, and form ID.

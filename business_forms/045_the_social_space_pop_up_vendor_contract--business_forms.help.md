@@ -1,10 +1,3 @@
-<thinking>
-This form is used to store and manage the details of social space pop-up vendor contracts, which are agreements between the organization and external vendors who provide services or goods to the social space. The form is used to capture essential information about each vendor, including their contact details, contract terms, and status. This data is used to track and manage the contracts, ensure compliance with organizational policies, and provide a record of all vendor contracts.
-
-Before filling out this form, please make sure that you have the necessary permissions and authorization to access and update vendor contracts.
-
-</thinking>
-
 # The Social Space Pop Up Vendor Contract - Help Guide
 ## Purpose
 The Social Space Pop Up Vendor Contract form is used to store and manage the details of vendor contracts for the social space. This form is a crucial part of maintaining accurate and up-to-date information about vendor agreements.

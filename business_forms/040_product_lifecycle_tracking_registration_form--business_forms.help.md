@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Product Lifecycle Tracking Registration Form, we'll need to understand the purpose of the form and ensure it's being completed accurately and consistently. The form appears to be used for tracking the lifecycle stages of a product. To avoid duplication, we can check if a similar form already exists in the system, and if so, we can direct the user to use the existing one instead.
-
-The form has five fields in total, each with a specific label and field type. We'll need to break down each field in detail to ensure the user understands its purpose and how to complete it accurately.
-
-</thinking>
-
 # Product Lifecycle Tracking Registration Form - Help Guide
 ## Purpose
 The Product Lifecycle Tracking Registration Form is a tool for tracking the lifecycle stages of a product. This form helps to register products and their corresponding lifecycle stages for easier management and tracking.

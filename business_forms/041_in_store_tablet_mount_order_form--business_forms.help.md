@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for in-store business users to order tablets from the inventory management system. This form allows store employees to select a store name, choose the tablet model, order date, and other relevant details for each tablet order. It's essential to fill out the form correctly to ensure accurate tracking and inventory management.
-</thinking>
-
 # in_store_tablet_mount_order_form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate tablet orders for store employees, ensuring accurate inventory management and order tracking.

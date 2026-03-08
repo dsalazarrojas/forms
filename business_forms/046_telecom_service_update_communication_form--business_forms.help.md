@@ -1,7 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, my goal is to create a clear and concise user-facing help guide for the telecom_service_update_communication_form. After carefully reviewing the form's YAML specification, I'll provide a detailed explanation of its purpose, steps to complete it, and a field-by-field breakdown of each section.
-
-The telecom_service_update_communication_form is a comprehensive form designed to facilitate updates to a customer's telecom service. It allows users to input relevant information to ensure that the customer's telecom service is up-to-date and accurate.</thinking>
-
 # telecom_service_update_communication_form - Help Guide
 ## Purpose
 The telecom_service_update_communication_form is a form used to update a customer's telecom service details. This form is essential for ensuring that your customer's service is accurately reflected in our records and that we can provide the best possible service to them.

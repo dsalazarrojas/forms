@@ -1,7 +1,3 @@
-<thinking>
-The form is for booking a researcher collaboration lodge, which is likely an online platform or tool used for researchers to share data or resources. The form is meant for researchers to provide information about their lodge booking, which may include details such as the lodge name, reservation date, duration, and cost. The form also includes options for requesting forms, which could be related to payment methods or other requirements for the lodge.
-</thinking>
-
 # Researcher Collaboration Lodge Booking Form - Help Guide
 ## Purpose
 This form is used to book a researcher collaboration lodge. It collects information about the lodge, its duration, and the researcher's preferences.

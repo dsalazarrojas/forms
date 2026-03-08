@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect payment submissions from businesses, ensuring accurate and timely processing. It gathers essential details such as business and entity name, contact person, and payment amount to facilitate efficient payments. This guide will explain each field's purpose, making it easier for users to fill out the form accurately.
-</thinking>
-
 # CDD Payment Submissions - Help Guide
 ## Purpose
 The CDD Payment Submissions form is used to collect payment submissions from businesses, providing a streamlined process for timely payment processing. This form ensures that all necessary details are gathered to facilitate efficient payments.

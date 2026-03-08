@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a referral program, which is likely an initiative to attract new customers or business partners to a company. Referral programs are often used by businesses to encourage existing customers or partners to refer others to their products or services, and this form is used to capture relevant details about these referrals.
-
-Before completing this form, ensure that the referral you want to document is not already in the system. This will prevent duplicate entries and ensure that your data is up-to-date and accurate.
-
-This guide will walk you through each field of the form to help you complete it correctly and efficiently.
-</thinking>
-
 # Referral Program Form - Help Guide
 
 ## Purpose

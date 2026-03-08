@@ -1,5 +1,3 @@
-<thinking>As we design this form, we are creating a tool for restaurants to control and manage their operating expenses. The form is intended to help restaurants track and categorize various types of expenses, including food costs, labor costs, occupancy costs, other operating expenses, and more. This form will be used by restaurant administrators or accountants to monitor and analyze the financial performance of the restaurant. By providing a clear and structured layout, we aim to reduce errors and increase accuracy in expense reporting.</thinking>
-
 # Restaurant Operating Expense Control - Help Guide
 ## Purpose
 This form is designed to help restaurants track and manage their operating expenses, including food costs, labor costs, occupancy costs, other operating expenses, and more.

@@ -1,11 +1,3 @@
-<thinking>...
-
-The purpose of the "Digital Transformation Quotation Form" is to provide a framework for capturing detailed information about projects, their scope, and their key stakeholders. This form can be used by project managers to collect and store valuable data that will help them to make informed decisions throughout the project lifecycle. 
-
-Before filling out this form, please ensure that the project is not already stored in the system. If you are unsure, double-check the project's current status in the project management system. If the project is already stored, please do not complete this form as it may lead to duplicated data.
-
-</thinking>
-
 # Digital Transformation Quotation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect detailed information about projects, including project details, stakeholders, and other relevant data. This data will be used to make informed decisions and improve project management efficiency.

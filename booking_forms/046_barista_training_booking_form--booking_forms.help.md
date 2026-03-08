@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Barista Training Booking Form - Help Guide
 
 ## Purpose

@@ -1,18 +1,3 @@
-<thinking>
-This is a business enquiry form designed to collect contact information and details about the business or individual inquiring about our services or products. It is used to gather specific data from the end-users to help us understand their needs and preferences.
-
-The purpose of this form is to provide a clear and concise way for our customers to submit their enquiries, allowing us to efficiently process and respond to their requests. 
-
-This form will ask for contact information, such as name, email address, phone number, and other relevant data. It is crucial to ensure that all required fields are filled out to enable us to follow up and provide the best possible service.
-
-The form will also ask about the type of enquiry, which will help us understand the context and nature of the request. This information will be used to allocate the right resources and provide the most suitable response.
-
-We will also use this form to understand the customer's budget range, timeline, industry sector, company size, and other relevant details. This will enable us to tailor our response and provide the most relevant information.
-
-Before submitting the form, please ensure that you have filled out all the required fields accurately and truthfully. This will help us provide the best possible service and response to your enquiry.
-
-</thinking>
-
 # Business Enquiry Form - Help Guide
 
 ## Purpose

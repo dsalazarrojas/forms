@@ -1,14 +1,3 @@
-<thinking> 
-This form is used to request internal audit tools for business purposes. The purpose of this form is to gather information about which tools are needed for internal audits, who should be assigned to use them, and any additional details about the tools. 
-
-Please ensure that you have a legitimate business reason for requesting these tools, and that you have not already submitted a request for the same tool in the past. 
-
-If you are not sure about any of the fields or options available, please don't hesitate to reach out to the support team for clarification. 
-
-This form will be reviewed and processed by the internal audit team upon submission. 
-
-</thinking>
-
 # Internal Audit Tool Requisition Form - Help Guide
 ## Purpose
 This form is used to request internal audit tools for business purposes.

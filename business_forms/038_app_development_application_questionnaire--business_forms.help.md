@@ -1,17 +1,3 @@
-<thinking>
-
-This form is intended to gather information from applicants who want to develop applications on our platform. The form is designed to gather details about their application, including the concept, purpose, and expectations. It also asks about the applicant's team's experience, skills, and budget. By completing this form, applicants will be able to showcase their ideas and get a better understanding of what our platform offers.
-
-Before starting this application, ensure you have:
-
-* A clear concept and idea for your app
-* A well-structured team with relevant experience and skills
-* A realistic budget and timeline for development
-
-Please answer these questions carefully, as the information provided will help us evaluate your application and guide you through the development process.
-
-</thinking>
-
 # App Development Application Questionnaire - Help Guide
 ## Purpose
 

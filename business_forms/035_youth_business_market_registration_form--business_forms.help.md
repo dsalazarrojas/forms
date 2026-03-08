@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for registering youth businesses in a market, allowing users to provide their participant information, business details, and event specifics. It is intended for both organizers and participants to register their events and businesses in a youth market. Before proceeding, ensure that you have all the necessary information ready and that you have not submitted this form before.
-
-</thinking>
-
 # youth_business_market_registration_form - Help Guide
 ## Purpose
 This form is for registering a youth business in a market. It is designed to gather necessary information from both the organizers and participants of a youth business market.

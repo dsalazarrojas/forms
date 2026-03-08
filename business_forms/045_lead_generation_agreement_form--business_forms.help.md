@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used for lead generation, which means it collects information from individuals or businesses that are interested in generating leads for their company. The form likely serves as a legal agreement or a contract between the company and the individual or business, outlining the terms and conditions of the lead generation process. This form may be used for sales or marketing purposes, and its completion is probably required for the company to proceed with lead generation activities.
-
-Before filling out the form, please ensure that you have the necessary information and authorization to complete it, as it might be a legally binding document. Also, make sure to review the terms and conditions carefully before signing it.
-
-</thinking>
-
 # Lead Generation Agreement Form - Help Guide
 ## Purpose
 The Lead Generation Agreement Form is a document that outlines the terms and conditions of the lead generation process between your company and the individual or business filling out this form.

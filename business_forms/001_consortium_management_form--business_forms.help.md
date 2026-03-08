@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's ensure the form's purpose and relevance to the end user. The form, "Consortium Management Form," is designed to collect information about an organization's involvement in a consortium, including its role, membership start date, area of expertise, resource contribution, and other relevant details. This form is likely used for administrative purposes, such as tracking consortium membership and participant involvement.</thinking>
-
 # Consortium Management Form - Help Guide
 ## Purpose
 The Consortium Management Form is used to collect information about your organization's membership in the consortium, including its role, membership start date, areas of expertise, and resource contribution.

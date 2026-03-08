@@ -1,7 +1,3 @@
-<thinking>
-This form is a contact form for reaching out to the Sustainable Development Officer. The primary purpose of this form is to enable end-users to submit sustainability-related inquiries, questions, or proposals to the officer. The form is intended for general use, and it's essential to ensure that the submitted information is accurate and relevant to the intended purpose. Please review the form carefully before submitting it to ensure that your input aligns with the intended use case.
-</thinking>
-
 # Contact Sustainable Development Officer - Help Guide
 ## Purpose
 The form is designed for end-users to contact the Sustainable Development Officer for sustainability-related inquiries, questions, or proposals.

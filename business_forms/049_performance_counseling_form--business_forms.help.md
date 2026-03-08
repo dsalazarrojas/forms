@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the performance counseling process, which is a crucial aspect of employee evaluation and development. Its purpose is to guide employees and managers through a structured process of addressing performance issues, creating resolution plans, and tracking progress. The form should only be used for genuine performance counseling purposes and not for other business needs. It's essential to ensure that each field is filled out accurately and honestly to maintain the integrity of the counseling process.
-</thinking>
-
 # Performance Counseling Form - Help Guide
 ## Purpose
 

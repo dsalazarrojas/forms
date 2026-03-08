@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to book services at a daycare facility, such as morning, afternoon, or evening care for their child. The form asks for basic contact information (first name, email, phone number), a booking date, and pickup time. It also allows users to select the type of service they require, choose multiple services, provide any relevant care notes, and schedule details. Finally, users can add any additional comments or concerns.
-The form is divided into two main parts: personal information and service booking details. The form's layout and field labels are designed to be clear and concise, making it easy for users to navigate and submit their bookings.
-Before completing the form, please note that some fields are not required, but providing them will help the daycare facility to better serve you and your child. Please ensure that you have all the necessary information and details ready before submitting the form.
-</thinking>
 # Daycare Service Booking Form - Help Guide
 ## Purpose
 This form is designed for parents or guardians to book services at a daycare facility. It collects essential information to ensure a smooth and personalized care experience for your child.

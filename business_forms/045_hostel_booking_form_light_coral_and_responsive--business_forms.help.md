@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to book a hostel room. The form is designed for guests to provide their personal and booking details, ensuring that the booking process is efficient and hassle-free.
-
-To avoid confusion, it's essential to note that this form is a standard template and may need some adjustments based on the specific requirements of the hostel's management. Each field's explanation will be based on the provided YAML fields to ensure clarity.
-
-Before starting the form, please double-check that the fields are relevant to your booking request and that you have all necessary information readily available.</thinking>
-
 # Hostel Booking Form Light Coral And Responsive - Help Guide
 
 ## Purpose

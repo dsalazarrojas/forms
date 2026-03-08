@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Productivity Consulting Pilot Application - Help Guide
 
 ## Purpose

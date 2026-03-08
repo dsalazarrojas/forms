@@ -1,12 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about debtors, including their name, address, contact information, and other relevant details. This form is likely used by credit collectors or other professionals who need to track and manage debt collection efforts.
-
-To prevent data duplication and ensure accuracy, it's essential to verify that the information collected is up-to-date and relevant. This form is designed to be completed by a single user at a time, making it an excellent tool for collecting and tracking debt collection data.
-
-Please note that some fields are not required, but having accurate and comprehensive information will help in the debt collection process. Additionally, fields like "state" and "postal_code" are not strictly numerical or text fields, so users should be aware of the correct input format.
-
-</thinking>
 # Debt Collection Form - Help Guide
 ## Purpose
 The Debt Collection Form is designed to collect and track information about debtors, including their name, address, contact details, and other relevant data.

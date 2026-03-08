@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for booking travel requests, and the goal is to provide a clear and concise guide for users to fill out the form correctly. Before proceeding, it is essential to verify that this form is indeed relevant and not a duplicate of any existing form. If it is, please disregard this guide. This form's purpose is to gather essential information from users about their travel requests, including trip details, dates, travel agency preferences, and additional details. 
-</thinking>
-
 # Travel Request Booking Form - Help Guide
 ## Purpose
 The Travel Request Booking Form is a form designed to gather information for travel requests, including trip details and preferences.

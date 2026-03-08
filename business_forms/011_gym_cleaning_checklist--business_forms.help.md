@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about the state of a gym's cleaning and emergency preparedness. The form is intended for gym staff or management to use to ensure that the gym is clean and safe for members and visitors. The form should not be used for duplicate reporting; each submission should represent a new inspection cycle. This guide will walk you through how to complete the form and what each field is intended to capture.
-</thinking>
-
 # Gym Cleaning Checklist - Help Guide
 ## Purpose
 The Gym Cleaning Checklist is a form used to assess the cleanliness and emergency preparedness of a gym. This guide will help you understand what each field is intended to capture and how to complete the form accurately.

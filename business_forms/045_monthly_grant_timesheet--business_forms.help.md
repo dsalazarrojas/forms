@@ -1,5 +1,3 @@
-<thinking>As a business_form, the "monthly_grant_timesheet" is used to track and record grant-funded projects and their corresponding hours worked, project status, and other related metrics. This form is intended to be completed by individuals who are involved in or responsible for grant-funded projects, such as project managers or team members. It is crucial to have the correct and accurate information in this form as it helps in maintaining a clear and precise record of grant-funded projects, their progress, and financial transactions. Therefore, it is essential to fill out this form with care and attention to detail. Please ensure that you are filling out the correct form and not duplicating your efforts. If you are unsure about any field or its purpose, please seek clarification before proceeding.</thinking>
-
 # monthly_grant_timesheet - Help Guide
 ## Purpose
 This form is used to track and record grant-funded projects and their corresponding hours worked, project status, and other relevant metrics.

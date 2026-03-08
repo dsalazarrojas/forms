@@ -1,12 +1,3 @@
-<thinking>
-The form appears to be designed for inspecting fire doors, including their condition, clearances, and various safety-related features such as exit signs, alarms, and equipment. It's possible that the form is intended for use in commercial or industrial settings where fire safety is a concern. The form's structure suggests a comprehensive evaluation of fire doors and associated systems. However, without further information about the specific context or industry in which this form is used, it's difficult to provide a more specific explanation of its purpose. It's likely that the form is part of a larger set of protocols or checklists for fire safety inspections.
-
-Given the form's structure and options, it's likely that the form is intended to be filled out by a building inspector or other individuals responsible for ensuring fire safety in a building.
-
-Before proceeding, ensure this form is not already part of a standardized or established set of protocols for fire safety inspections.
-
-</thinking>
-
 # Fire Door Inspection Form - Help Guide
 ## Purpose
 This form is designed to inspect fire doors and associated safety systems in a building. It will help ensure that fire doors are functioning correctly and meet relevant safety standards.

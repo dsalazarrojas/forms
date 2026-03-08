@@ -1,5 +1,3 @@
-<thinking>Is this form for assessing and documenting risks within the organization? It appears to be a comprehensive risk assessment form with various fields for evaluating and categorizing risks. This form likely serves as a template for identifying, assessing, and managing risks that could impact the organization. I will provide a help guide that explains each field's purpose and usage.</thinking>
-
 # risk_assessment_communication_form - Help Guide
 ## Purpose
 The risk assessment communication form is designed to help you identify, assess, and document potential risks that could impact your organization. This form guides you through a comprehensive risk evaluation process, allowing you to categorize and prioritize risks for mitigation and management.

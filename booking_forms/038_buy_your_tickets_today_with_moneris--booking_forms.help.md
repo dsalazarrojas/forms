@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Buy Your Tickets Today With Moneris - Help Guide
 
 ## Purpose

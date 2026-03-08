@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users complete an online inventory order with ease. The goal is to gather necessary information about the user, the items they wish to order, and the shipping details. This form is not intended for internal use within the company, so no login credentials or employee information will be requested. Before starting, please make sure you are not duplicating an existing order, as this form is meant for new orders only.
-</thinking>
-
 # Online Inventory Order Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a simple and efficient way for customers to place new orders for inventory items. Fill out the form below to ensure accurate and timely processing of your order.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from guests for the Digital Detox Mountain Retreat, a wellness and adventure program that aims to help individuals disconnect from technology and reconnect with nature. This form is essential for the booking process, as it allows us to gather necessary contact and accommodation details from guests. 
-</thinking>
-
 # digital_detox_mountain_booking_form - Help Guide
 ## Purpose
 The "Digital Detox Mountain Booking Form" is used to collect information from guests for the Digital Detox Mountain Retreat program. This form is required for the booking process, ensuring we have accurate contact and accommodation details for each guest.

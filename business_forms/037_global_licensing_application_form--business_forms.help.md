@@ -1,17 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the Global Licensing Application Form, ensuring that users complete it accurately and efficiently. Before proceeding, please ensure this form is relevant to your current needs and not a duplicate of a previously submitted application.
-
-To determine relevance, consider the following questions:
-- Is your organization seeking a license to conduct business within a specific region or jurisdiction?
-- Are you applying for a type of license that matches one of the options provided in the license_type field?
-- Are you prepared to confirm your application and its accuracy in the applicant_confirmation field?
-- Do you have the necessary documents and information to upload or provide in the document_uploader field?
-- Are you aware of the regional options and their implications in the region field?
-
-If you answered yes to these questions, proceed with the completion of the form. If you are unsure or have already submitted a similar application, please review our internal documentation or contact our support team for guidance.
-
-</thinking>
-
 # Global Licensing Application Form - Help Guide
 ## Purpose
 The Global Licensing Application Form is a crucial document required for organizations seeking to obtain a license to operate in a specific region or jurisdiction. This form ensures that your application is complete, accurate, and meets the necessary requirements for approval.

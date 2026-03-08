@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect business information for the purpose of optimizing returns in the context of smart returns optimization. The form is likely used by businesses to provide their contact information, return volumes, and challenges they face in their business operations. This information will help optimize returns in the industry. 
-</thinking>
-
 # Smart Returns Optimization Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect business information for smart returns optimization. Businesses can use this form to provide their contact details, return volumes, and challenges they face in their operations.

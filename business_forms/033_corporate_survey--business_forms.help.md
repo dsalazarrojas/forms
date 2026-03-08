@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## corporate-survey - Help Guide
 ## Purpose
 The corporate-survey form is designed to collect information about business forms within a company.

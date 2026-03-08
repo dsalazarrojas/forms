@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Flight And Hotel Accommodation Booking Form - Help Guide
 ## Purpose
 This form is used to book flights and hotel accommodations for travel-related activities, such as meetings, business trips, or leisure activities. It helps to gather necessary information for travel planning, including flights, hotel reservations, and meeting details.

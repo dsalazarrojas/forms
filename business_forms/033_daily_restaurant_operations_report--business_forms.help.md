@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the daily operations of a restaurant, including information about the restaurant's name, manager's name, and various sales and expense data. This form is intended to help management track and analyze the restaurant's daily performance. Please ensure that the form is completed accurately and thoroughly to provide the most useful data.
-
-Before completing this form, check that you have all the necessary information and that you are not duplicating any existing records.
-
-</thinking>
-
 # daily-restaurant-operations-report - Help Guide
 ## Purpose
 This form is used to report on the daily operations of a restaurant, including key metrics on sales, expenses, and performance.

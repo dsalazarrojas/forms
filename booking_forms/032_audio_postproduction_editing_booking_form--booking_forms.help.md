@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the booking of audio postproduction editing services. The form captures essential information from the requestor, including their name and contact details, project specifics (production type, title, and duration), and technical requirements (services needed, file format, and schedule). The purpose of this form is to ensure that the audio postproduction team has all necessary information to deliver quality services efficiently. It's crucial to fill out the form correctly to avoid delays or missed expectations.
-</thinking>
-
 # Audio Postproduction Editing Booking Form - Help Guide
 ## Purpose
 This form is designed to gather essential information for booking audio postproduction editing services.

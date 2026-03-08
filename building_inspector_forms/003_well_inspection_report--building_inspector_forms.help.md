@@ -1,7 +1,3 @@
-<thinking>
-This form, "Well Inspecton Report", is designed to collect information about the condition and inspection details of a well. The purpose of this form is to gather data on the well's condition, recommendations for maintenance or repair, and any attached files or photos. This form is intended for use by building inspectors or maintenance personnel to document their findings and provide a clear record of the well's status. This guide will walk you through each field to ensure you complete the form accurately and efficiently.
-</thinking>
-
 # Well Inspecton Report - Help Guide
 ## Purpose
 The Well Inspecton Report form is used to document the condition and inspection details of a well, including any recommendations for maintenance or repair.

@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of creating an international digital services invoice. 
-The form is intended to collect information related to billing and payment details of services provided to customers, which will be used to generate a professional invoice. To fill out the form, the user should select relevant options and input accurate information in the respective fields.
-The form consists of the following pages: 
-- A page for selecting the billing process 
-- A page for entering customer details 
-- A page for entering billing and address details 
-- A page for listing products or services provided 
-- A page for specifying payment terms 
-- A page for selecting payment method 
-- A page for entering payment information 
-- A page for taking notes 
-- A page for entering contact information 
-- A page for entering total amount and payment status 
-- A page for specifying payment date and time 
-- A page for specifying assigned tool 
-Please ensure to complete the form accurately and thoroughly as the information collected here will be used to generate the invoice.
-</thinking>
-
 # international_digital_services_invoice - Help Guide
 ## Purpose
 

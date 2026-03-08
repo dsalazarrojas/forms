@@ -1,9 +1,3 @@
-<thinking>
-This form, "small_booking_form_with_conditional_logic", is designed to collect booking information from users for a small booking system. The form will only be displayed to users who meet the condition defined in the form's conditional logic (currently not defined in the provided YAML, but it's assumed that conditional logic is used to filter out or show/hide certain fields based on user input in other fields). The form is used for users who are checking in and/or checking out of a booking, as well as making payments. The form's purpose is to gather essential details such as customer information, dates, room type, number of guests, special requests, contact details, and payment information.
-
-Before attempting to fill out this form, please ensure that the condition defined in the form's conditional logic is met to avoid unnecessary prompts or errors. If you are unsure about the condition or have questions, reach out to the form administrators or support team for guidance.
-</thinking>
-
 # small_booking_form_with_conditional_logic - Help Guide
 ## Purpose
 This form is used to collect booking information from users for a small booking system.

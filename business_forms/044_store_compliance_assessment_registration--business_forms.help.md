@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register a store for compliance assessment. It is meant for business use and is not intended for personal use. Please use this form to assess your store's compliance with regulatory requirements. Before proceeding, ensure you have read and understood the relevant regulations and laws.
-</thinking>
-
 # Store Compliance Assessment Registration - Help Guide
 ## Purpose
 The Store Compliance Assessment Registration form is a crucial document that helps businesses demonstrate their commitment to regulatory compliance. It is a formal declaration of a store's compliance status, which can be used as evidence for audits, inspections, and other regulatory purposes.

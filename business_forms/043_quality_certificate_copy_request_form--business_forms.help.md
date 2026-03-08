@@ -1,9 +1,3 @@
-<thinking>
-**Internal Note:**
-This form is designed to capture information from applicants requesting a quality certificate copy. The purpose of this form is to gather details about the applicant, the purpose of their request, and their delivery preferences. The form should only be used when a quality certificate copy is required, and not for any other purpose. Please ensure that the form is filled out completely and accurately to ensure that the certificate copy is provided correctly.
-
-</thinking>
-
 # Quality Certificate Copy Request Form - Help Guide
 ## Purpose
 This form is used to request a quality certificate copy from our organization. Please fill out the form with your details and purpose of the request.

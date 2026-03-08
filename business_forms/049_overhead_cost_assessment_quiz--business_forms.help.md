@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a quiz to assess the overhead costs of a project or business. It is likely used to gather information about various aspects of the overhead, such as tracking methods and challenge areas. This form is not necessarily for actual project management or accounting purposes, but rather for educational or assessment purposes. It is possible that this form is used in a business or academic setting to evaluate the overhead costs and methods of different projects or businesses. The form is quite extensive, with multiple fields related to tracking methods and challenge areas, suggesting that it may be used for a comprehensive assessment of overhead costs.
-</thinking>
-
 # overhead_cost_assessment_quiz - Help Guide
 ## Purpose
 This form is a quiz designed to assess the overhead costs of a project or business by evaluating various aspects of the overhead.

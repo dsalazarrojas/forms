@@ -1,4 +1,4 @@
-# <thinking>...This form is designed to collect contact information for trade shows that your company has participated in or is planning to participate in. It is intended to be completed by the person in charge of managing these events. This form helps to gather data that can be used for follow-up purposes, such as sending reminders, tracking progress, and evaluating the effectiveness of the trade show participation. By completing this form, you will be able to store and manage the data in a centralized location. Please make sure that you are not duplicating an existing record before filling out this form. It is also recommended to review the fields carefully to ensure that all required information is provided.</thinking>...</thinking>
+# ...</thinking>
 
 # Trade Show Contact Form - Help Guide
 ## Purpose

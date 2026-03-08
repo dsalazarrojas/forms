@@ -1,13 +1,3 @@
-<thinking>
-This form is part of the "booking_forms" category, and as such, it's likely used for customers or website visitors to book a cabin at a mountain retreat. The form likely aims to collect information from users, including their reservation details, cabin type, and personal information such as name, email, and phone number. It also includes fields for dates of arrival and departure, and terms of agreement. 
-
-The purpose of this form is to gather necessary information from users to facilitate a smooth booking experience. 
-
-Before starting, ensure that you have not already created a "mountain_retreat_cabin_booking_form" form. If this form has already been created, please use the existing one for consistency.
-
-Please note that some fields in this form are not required, but providing accurate information is recommended for a seamless booking process.
-</thinking>
-
 # mountain_retreat_cabin_booking_form - Help Guide
 ## Purpose
 The mountain retreat cabin booking form is used to gather information for booking a cabin at a mountain retreat. Fill out this form to start the booking process.

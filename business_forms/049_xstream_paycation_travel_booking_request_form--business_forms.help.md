@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to collect information for travel booking requests for Xstream Paycation employees. The form is not intended for non-employees or external users. Before filling out the form, please ensure you are an employee of Xstream Paycation and have a valid email address on file with the company. This form is not designed for emergency or urgent travel requests. Please allow at least 2 weeks' notice for all non-urgent travel requests.
-</thinking>
-
 # Xstream Paycation Travel Booking Request Form - Help Guide
 
 ## Purpose

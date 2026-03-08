@@ -1,7 +1,3 @@
-<thinking>
-This form is for an individual or company to submit a petition to wind up a company. This form should only be used for companies that are currently operational but have reached a point where they can no longer continue to do business. The purpose of this form is to initiate the process of winding up the company, which involves shutting down the company's operations and distributing its assets to creditors or other parties. This form should only be used if the company has not already been wound up through other means, such as a creditors' petition or a voluntary winding up. The user must provide accurate and complete information to ensure that the process is handled correctly and efficiently. 
-</thinking>
-
 # Company Winding Up Petition Form - Help Guide
 ## Purpose
 This form is designed to be used by an individual or company to submit a petition to wind up a company that is currently operational but has reached a point where it can no longer continue to do business. The form is meant to be a concise and straightforward way to initiate the process of winding up the company, which involves shutting down the company's operations and distributing its assets to creditors or other parties.

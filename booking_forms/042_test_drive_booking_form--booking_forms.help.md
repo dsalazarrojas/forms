@@ -1,15 +1,3 @@
-<thinking>
-The form is meant to collect information for a test drive booking. To determine if this form is relevant for your purpose, consider the following:
-
-- You need to book a test drive for a vehicle.
-- You have access to a vehicle ID (e.g., Toyota, Honda, Tesla).
-- You might be collecting information for a customer with contact details.
-- The form is likely used by a dealer or salesperson who needs to track test drive bookings.
-
-If you have already created a form for booking test drives or have a similar form, you might want to consider using the provided form to consolidate or replace your existing one.
-
-</thinking>
-
 # test_drive_booking_form - Help Guide
 ## Purpose
 The test_drive_booking_form is designed to collect information for a test drive booking, allowing users to book a test drive with a chosen vehicle, customer, and test drive status.

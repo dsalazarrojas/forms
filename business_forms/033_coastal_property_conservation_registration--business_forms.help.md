@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from property owners or individuals who want to conserve coastal properties. The goal is to understand the conservation goals, methods, and timeline for protecting these sensitive areas. This form will help us assess the current state of the property, its conservation goals, and the proposed methods for achieving those goals.
-
-Before filling out this form, please note that you may have already registered a similar property in the past. If that's the case, you can skip this form and let us know so we can avoid duplication of efforts.
-
-This form is split into several sections, each focusing on a different aspect of coastal property conservation. Please make sure to complete all required fields to provide a comprehensive understanding of your conservation goals and methods.</thinking>
-
 # Coastal Property Conservation Registration - Help Guide
 ## Purpose
 This form is designed to collect information from property owners or individuals who want to conserve coastal properties. Its purpose is to understand the conservation goals, methods, and timeline for protecting these sensitive areas.

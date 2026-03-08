@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for barbers who wish to rent a chair in the shop. It will help us assess your qualifications and experience, as well as your commitment to our shop's standards and policies. Please fill out the form completely and honestly to ensure a smooth rental process.
-</thinking>
-
 # Barber Chair Rental Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about your experience, qualifications, and commitment to our shop's standards and policies in order to assess your eligibility for renting a chair in our barbershop.

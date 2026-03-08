@@ -1,8 +1,3 @@
-<thinking>
-The "inventory_rotation_checklist" form is designed to track and manage inventory rotation within an organization. It's essential to ensure accurate and efficient inventory tracking to prevent stock discrepancies, improve supply chain management, and optimize business operations. To fill out this form, please review the following sections and provide accurate information where necessary.
-
-</thinking>
-
 # inventory_rotation_checklist - Help Guide
 ## Purpose
 The inventory rotation checklist is a crucial tool for inventory management, helping organizations keep track of their stock levels, usage cycles, and other essential details. By using this form, you can ensure accurate and up-to-date inventory information, preventing stock discrepancies and optimizing business operations.

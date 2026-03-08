@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's review the form's purpose and ensure we're not duplicating any existing help guides. This form, "Banking Settlement Overview," appears to be a comprehensive form for collecting information related to banking settlements. It covers various aspects of settlement, including company details, contact information, account numbers, settlement types, and agreement terms. This form likely serves as an initial intake form for banking settlement processes or as a template for ongoing settlement management.</thinking>
-
 # Banking Settlement Overview - Help Guide
 ## Purpose
 The Banking Settlement Overview form is designed to collect essential information for banking settlements. It is intended to gather details about the company, contact person, account number, and other relevant settlement-related information.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather data about a team's dynamics, leadership, and performance. It is meant to be completed by team members or team leaders to provide a comprehensive picture of the team's strengths and weaknesses. The form will be reviewed by the executive team to understand the current state of the team and identify areas for improvement.
-
-Before starting, please ensure that you have a clear understanding of the team's dynamics and have reviewed the form instructions carefully to avoid duplication of work.
-
-</thinking>
-
 # executive_team_dynamics_review_request_form - Help Guide
 ## Purpose
 The executive_team_dynamics_review_request_form is a tool to help the executive team assess and improve the team's dynamics, leadership, and performance.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from tenants who have issues with their landlord or property management. The form is intended to provide a standardized way for tenants to report their concerns and complaints, which will be reviewed and addressed by the relevant authorities. This form ensures that the tenant's concerns are documented and tracked for future reference. It's essential to fill out the form accurately and completely to ensure that the issue is resolved promptly and effectively. Please note that this form is for tenants to report their complaints, and if you are a landlord, please refer to your own internal policies and procedures for resolving issues.
-</thinking>
-
 # Landlord Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from tenants about their concerns or complaints regarding their landlord or property management. It provides a standardized way for tenants to report their issues and ensures that their concerns are documented and tracked for future reference.

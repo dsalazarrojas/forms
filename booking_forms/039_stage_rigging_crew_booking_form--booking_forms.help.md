@@ -1,33 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll analyze the fields and their types. This form appears to be designed for booking a stage rigging crew for an event. The fields are organized into sections that relate to event details, crew requirements, and contact information. The form requires the following fields:
-- Event Name
-- Event Date
-- Event Time
-- Crew Type (e.g., Rigger, Stagehand, Roustabout)
-- Equipment List
-- Equipment Details
-- Contact Name
-- Contact Email
-- Contact Phone
-- Event Venue (including location, city, state, postal code, and country)
-- Event Details
-- Event Setup and Teardown times
-- Event Load In and Load Out times
-- Stage Height and Width
-- Rigging Height
-- Comments
-
-This form is likely used by event organizers or venue staff to book a stage rigging crew for an event, providing all necessary details about the event, crew requirements, and contact information.
-
-The fields seem to cover all relevant aspects of stage rigging crew booking, including event details, crew needs, contact info, and logistical requirements.
-
-The form is comprehensive and seems to be designed to collect all necessary information for a stage rigging crew booking.
-
-There are no obvious duplicates or unnecessary fields.
-
-This form design appears to be well-structured and practical for the intended use case.
-</thinking>
-
 # Stage Rigging Crew Booking Form - Help Guide
 ## Purpose
 This form is designed for booking a stage rigging crew for an event. It collects necessary details about the event, crew requirements, and contact information to ensure a smooth and efficient booking process.

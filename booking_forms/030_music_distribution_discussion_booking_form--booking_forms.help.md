@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music Distribution Discussion Booking Form - Help Guide
 ## Purpose
 The Music Distribution Discussion Booking Form is designed to help customers schedule meetings and discussions for music distribution-related matters with your team. This form is typically used for planning and coordination of music distribution calls, meetings, and discussions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stakeholder Analysis Form - Help Guide
 
 ## Purpose

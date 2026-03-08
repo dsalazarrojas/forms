@@ -1,9 +1,3 @@
-<thinking> 
-This form is used by vendors to apply for technology grants from a company. The purpose of this form is to gather information about the vendor and their technology grant requests, including the specific equipment and services they are requesting, the dates of the request, and other relevant details. 
-The form has multiple pages, but only one page is filled in by the vendor. This page is for the main information about the grant request. 
-The form is used for general information gathering and no duplicate submissions are expected. 
-</thinking>
-
 # Vendor Technology Grant Application Form - Help Guide
 ## Purpose
 This form is used by vendors to apply for technology grants. It helps gather information about the vendor and their technology grant requests.

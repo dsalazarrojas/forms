@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect data from businesses for the purpose of determining their insurance needs and providing quotes for commercial insurance policies. This form should only be used for businesses with a physical location, and not for personal insurance purposes. The data collected will be used to assess the business's risk profile and provide personalized insurance recommendations. 
-
-The form will collect business identity and contact information, property and risk details, and claims data for the business. This form will serve as the first step in the insurance quote process.
-
-Please note that this form should only be completed by authorized business representatives.
-</thinking>
-
 # Business Insurance Client Data Form - Help Guide
 ## Purpose
 This form is designed to collect data from businesses for the purpose of determining their insurance needs and providing quotes for commercial insurance policies.

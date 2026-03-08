@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from customers to facilitate the ordering process in a restaurant. The form is used to input order details such as customer information, ordered items, and payment details. The form's fields are designed to be filled in by a staff member, and the information will be stored in the system for future reference. It's a good idea to review this form carefully to ensure all necessary information is collected and accurate. The form's fields should not be duplicated in other forms to avoid confusion. </thinking>
-
 # Restaurant Food Order Form - Help Guide
 ## Purpose
 The Restaurant Food Order Form is designed to collect order details from customers, including food name, quantity, and payment information. This form is used to facilitate the ordering process and store customer information for future reference.

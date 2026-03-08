@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a part of an incident improvement process within an organization, likely used in a business setting. The purpose of this form could be to collect data on incidents that have occurred within the organization, identify areas for improvement, and suggest measures to prevent their recurrence. The form might be used by employees or team members to report incidents related to Safety, Quality, or Environmental concerns, providing details such as the description of the incident, date and time it occurred, and the steps taken to address and prevent it. The form also asks for nonconformances and their IDs, as well as for the root cause and corrective actions taken. The form might be used by management or quality teams to analyze and improve processes.
-
-This guide will walk you through the fields of the Incident Improvement Report Form.
-
-</thinking>
-
 # Incident Improvement Report Form - Help Guide
 ## Purpose
 The Incident Improvement Report Form is a tool used to collect and analyze data on incidents that occur within the organization, with the aim of identifying areas for improvement and suggesting measures to prevent their recurrence.

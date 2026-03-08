@@ -1,9 +1,3 @@
-<thinking>
-This form is used to document store takeovers and transfers between owners. It's essential to complete this form accurately and thoroughly to ensure that all relevant information is captured.
-The purpose of this form is to collect data about the store takeover, including details about the current store owner, the new owner, and the reason for the transfer.
-To prevent duplicate submissions, please check that the form has been completed correctly and thoroughly before submitting. If you're unsure about any of the fields, please refer to the "Field-by-Field Explanation" section for clarification.
-</thinking>
-
 # new_store_takeover_form - Help Guide
 ## Purpose
 This form is used to document store takeovers and transfers between owners.

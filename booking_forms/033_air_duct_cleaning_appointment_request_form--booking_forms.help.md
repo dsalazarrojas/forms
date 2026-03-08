@@ -1,18 +1,3 @@
-<thinking>
-We need to confirm that this form is intended to capture contact information and scheduling details for air duct cleaning appointment requests. The form appears to be used by customers to provide their contact details, system information, and preferred dates for the appointment. This form likely belongs to a HVAC company or similar service provider.
-
-We should ensure that the form is filled out correctly to prevent duplication of efforts and miscommunication. The key fields to focus on are:
-* Full Name (required)
-* Phone Number (required)
-* Email Address (required)
-* Property Address (required)
-* Number of Vents (required)
-* Preferred Date 1 (required)
-* Special Instructions (optional)
-
-The other fields are either optional or have specific hints to guide the user through the form correctly.
-</thinking>
-
 # Air Duct Cleaning Appointment Request Form - Help Guide
 ## Purpose
 This form is used to request an air duct cleaning appointment with our company. Please fill out the form to provide your contact information and preferred appointment dates.

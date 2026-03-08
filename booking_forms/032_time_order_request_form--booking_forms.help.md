@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by staff to request time orders, which are used to track and manage staff time and work. The purpose of this form is to capture the necessary information to facilitate the time order process. It is recommended to review the form fields carefully to ensure that all required and optional fields are filled out correctly. Before completing the form, ensure that the Category field is properly selected, as it will affect which forms are presented for selection in the Form IDs field.
-
-</thinking>
-
 # time_order_request_form - Help Guide
 
 ## Purpose

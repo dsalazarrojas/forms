@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for employees to propose process improvements in their workplace. To be eligible for the process modernization proposal, you must select only one process improvement proposal type (option 1 or option 2). Each proposal must be accompanied by a descriptive explanation. Additionally, you must submit the form only once for each process improvement proposal you submit. If you have multiple proposals, you must submit multiple forms.
-
-</thinking>
-
 # Process Modernization Proposal Application Form - Help Guide
 ## Purpose
 The Process Modernization Proposal Application Form is designed to collect information from employees on process improvement proposals. The form guides employees through a series of questions to submit a proposal for a process improvement, which can lead to increased efficiency and productivity in the workplace.

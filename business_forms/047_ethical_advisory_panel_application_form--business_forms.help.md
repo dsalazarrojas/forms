@@ -1,9 +1,3 @@
-<thinking>
-The Ethical Advisory Panel Application Form is designed to collect information from individuals interested in serving on an Ethical Advisory Panel. The panel provides recommendations to organizations on how to improve their business practices and promote ethical decision-making. This form was created to streamline the application process and ensure that only qualified individuals are selected for the panel.
-
-Before starting, please review the form carefully to ensure that you are submitting a complete and accurate application. This form is not meant to be a duplicate or a copy of any other form. 
-
-</thinking>
 # Ethical Advisory Panel Application Form - Help Guide
 ## Purpose
 The Ethical Advisory Panel Application Form is designed to collect information from individuals interested in serving on an Ethical Advisory Panel. The panel provides recommendations to organizations on how to improve their business practices and promote ethical decision-making.

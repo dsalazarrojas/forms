@@ -1,7 +1,3 @@
-<thinking>
-The LVCC Dog Training Questionnaire is designed to gather information about a dog's training needs and schedule. This form is intended for trainers, veterinarians, or pet owners who wish to assess a dog's training level, breed, age, and training requirements such as frequency and start/end dates. This form helps to ensure that all relevant details are captured accurately and efficiently. Please note that answers provided in this guide will only cover the fields included in the input schema and are intended for general guidance. If you have any further questions or concerns, please contact your supervisor or support team.
-</thinking>
-
 # LVCC Dog Training Questionnaire - Help Guide
 ## Purpose
 This form is for assessing a dog's training needs, including training level, breed, age, and training schedule.

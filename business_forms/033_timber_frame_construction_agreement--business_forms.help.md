@@ -1,19 +1,3 @@
-<thinking>
-This form is intended to capture the details and agreements of a timber frame construction project between the client and the contractor. The form should be used to document the project scope, timeline, and terms of agreement. 
-
-The form has two sections, one for the client's information and one for the contractor's information. Both sections should be filled out completely and accurately to ensure that all parties are clear on their responsibilities and expectations. 
-
-Before filling out the form, ensure that you have all the necessary information ready. 
-
-This form is a template and should be tailored to fit the specific needs of each project. 
-
-The fields should be filled out in the following order: Project Details, Client Information, Project Start Date, Project End Date, Project Scope, Contractor Information, Client Signature, Contractor Signature, Client Email, Contractor Email, Client Phone, Contractor Phone, Client Address, Contractor Address, Project Location, and Contract Price.
-
-Please note that some fields may be optional, but all required fields should be filled out for the form to be considered complete.
-
-Please fill out the form carefully and accurately, and make sure to review it before signing.
-</thinking>
-
 # Timber Frame Construction Agreement - Help Guide
 ## Purpose
 This form is used to document the details and agreements of a timber frame construction project between the client and the contractor.

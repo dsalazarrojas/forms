@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for ocean freight booking tracking, which involves collecting and displaying details about ocean freight shipments. The fields on this form are intended to provide essential information related to the shipment's origin, destination, cargo, and progress. This form is likely used in the logistics or freight management industry.
-The form is not a replacement for any specific industry-standard form, and its contents are not based on any particular proprietary platform or data collection service. It is an original adaptation of a form created by AI.
-This guide is intended to help users understand how to complete the form accurately and efficiently.
-</thinking>
-
 # Ocean Freight Booking Tracking Form - Help Guide
 ## Purpose
 This form is designed to collect and display essential information about ocean freight shipments, enabling users to track and manage these shipments effectively.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Color Street On Hand Stock - Help Guide
 ## Purpose
 This form is used to record the current on-hand stock of Color Street merchandise, including stylists' stock, stock check dates, and the quantity of various sets of products. The form is essential for inventory management and helps to assess the total retail value of the stock.

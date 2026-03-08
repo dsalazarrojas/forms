@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from performers about their availability and participation in events. The purpose of this form is to gather necessary details from performers regarding their availability for specific events. This form should be used by performers to provide accurate and up-to-date information about their availability, allowing event organizers to better plan and coordinate events. Before filling out this form, please ensure that you have checked the event's schedule and your availability to provide accurate information. 
-</thinking>
-
 # open_mic_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from performers about their availability and participation in events.

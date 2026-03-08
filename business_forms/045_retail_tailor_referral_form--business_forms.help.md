@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for a retail tailor service to manage referrals from customers. The purpose of this form is to gather information about the customer, the referral source, and the referral method. The form likely aims to track and record referrals from various sources, which can help the business to understand its marketing effectiveness and customer behavior. This form might also be used to schedule follow-up appointments or actions based on the referral source and method. 
-</thinking>
-
 # Retail Tailor Referral Form - Help Guide
 ## Purpose
 The Retail Tailor Referral Form is designed to collect information about customers who have referred new clients to the business. This form helps the business to track referrals, identify their sources, and determine the most effective marketing methods.

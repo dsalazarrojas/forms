@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and structure will be determined based on the provided YAML fields. This form is for booking music artists, which likely involves gathering information about the artist and their availability. I will use this information to create a user-facing help guide that explains the form's purpose, how to complete it, and what each field means, all based on the provided YAML fields.
-</thinking>
-
 # Music Artist Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information about music artists for booking purposes. It includes fields for the artist's booking information, contact details, promotional details, other details, artist contact information, and booking date.

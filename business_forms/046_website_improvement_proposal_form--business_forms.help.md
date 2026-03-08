@@ -1,5 +1,3 @@
-<thinking>...This form will be used to submit a proposal for website improvement suggestions. Please only submit proposals that are relevant to the current project goals and objectives. Duplicate submissions will be reviewed on a case-by-case basis... </thinking>
-
 # Website Improvement Proposal Form - Help Guide
 ## Purpose
 This form is used to submit proposals for website improvement suggestions. Please use it to provide your ideas on how we can improve our website.

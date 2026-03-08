@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Media Briefing Rehearsal Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to request media briefings. The form aims to gather details such as the media briefing request reason, requested date and time, and other relevant details to facilitate the media briefing process.

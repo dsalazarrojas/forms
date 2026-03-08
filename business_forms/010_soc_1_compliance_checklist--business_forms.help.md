@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users assess and report on compliance with social media marketing regulations. This form will likely be used by a team or department responsible for monitoring and enforcing compliance with these regulations. It is likely that the form will be filled out by a single user for each submission, but potentially filled out multiple times in a week/month/quarter as new assessments and findings are added. This form may be used by teams in various departments, such as marketing, sales, and legal. I will assume that the user has a basic understanding of the regulations and the purpose of this form. It is not intended for general users who may not have this background knowledge. There should be no duplication of work, as the assessments should be filled out based on new findings and submissions.
-</thinking>
-
 # soc-1-compliance-checklist - Help Guide
 ## Purpose
 This form is used to assess and report on compliance with social media marketing regulations. It is intended for teams or departments who need to monitor and enforce compliance with these regulations.

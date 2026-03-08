@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this International Non Disclosure Agreement (NDA) Form is to create a contract between parties involved in a business relationship, establishing confidentiality and non-disclosure terms. To ensure a comprehensive contract, it is crucial to gather all relevant client, company, and agreement information.
-</thinking>
 # International Non Disclosure Agreement (NDA) Form - Help Guide
 ## Purpose
 This form aims to create a confidential and non-disclosure agreement for any business-related activities or projects. It gathers client, company, and agreement information to establish a clear understanding between parties involved.

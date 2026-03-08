@@ -1,18 +1,3 @@
-<thinking>
-
-This form is used to gather information about incidents that have occurred in the organization, with the goal of improving incident response and mitigation processes. The form captures relevant details such as incident type, severity, status, priority, and assigned tool, among other fields. It is likely used by IT or security teams to track and manage incidents, and the form will help them to:
-
-1. Identify and report incidents accurately
-2. Understand the nature and severity of incidents
-3. Allocate resources and personnel effectively
-4. Monitor and respond to incidents in a timely manner
-
-The form might be a part of a larger incident management system or process.
-
-To avoid duplication of work, please ensure that the incident has not already been reported before starting to fill out this form. 
-
-</thinking>
-
 # Wageloch Incident Improvement Report - Help Guide
 
 ## Purpose

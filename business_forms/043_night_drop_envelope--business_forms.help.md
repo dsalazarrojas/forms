@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to collect customer information, contact details, and vehicle-related data for processing purposes. This form is likely part of a business process that involves interacting with customers regarding their vehicles, possibly for maintenance, repair, or other services. The form's purpose is to gather essential details about the customer and their vehicle to provide effective support.
-</thinking>
-
 # Night Drop Envelope - Help Guide
 ## Purpose
 This form is designed to collect customer information, contact details, and vehicle-related data for processing purposes.

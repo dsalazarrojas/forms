@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and is not used as a generic complaint form. This form is specifically designed for flea market vendors and customers to report and manage complaints in a flea market setting. It's crucial that users understand the form's purpose and fill it out accurately to provide the necessary information for effective complaint resolution.
-</thinking>
-
 # Flea Market Complaint Form - Help Guide
 ## Purpose
 This form is designed for flea market vendors and customers to report and manage complaints related to the flea market. It helps to track and resolve issues efficiently, improving the overall experience for both vendors and customers.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors or sellers who want to onboard onto the Bhuntas platform. The form is divided into several sections, each focusing on a specific aspect of the vendor's business. The purpose of this form is to gather relevant information about the vendor, including their contact details, business details, product information, experience, and banking and payment preferences. This information will be used to create a comprehensive vendor profile and to ensure that the vendor meets the platform's requirements and terms of use. Before completing this form, please review the platform's terms and conditions to ensure that you understand the requirements and agreements involved.
-
-</thinking>
-
 # Bhuntas Collection/E Store Onboarding Form - Help Guide
 ## Purpose
 The Bhuntas Collection/E Store Onboarding Form is designed to collect information from vendors or sellers who want to onboard onto the Bhuntas platform. This form is divided into several sections, each focusing on a specific aspect of the vendor's business.

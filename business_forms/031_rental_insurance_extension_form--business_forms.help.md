@@ -1,18 +1,3 @@
-<thinking>As the form designer and technical writer, I've analyzed the form's YAML configuration, and I'd like to break down my thoughts to ensure we're on the same page.
-
-The form, "rental_insurance_extension_form," appears to be a comprehensive form designed to collect various details related to rental insurance. It's likely used for property-related purposes, such as verifying or updating existing rental information. The form is split into multiple pages, making it easier to focus on one aspect at a time.
-
-Upon examining the form's fields, I noticed that most fields are optional, indicating that users may not need to provide information for each field. The fields are also categorized into sections like "Form Details," "Property Info," "Insurance Coverage," and others, making it easier for users to navigate.
-
-I'm assuming the form is used for business purposes within a rental insurance or property management company. If the form is being used for other purposes, please correct me!
-
-Before I start writing the help guide, I'd like to clarify a few points:
-
-* Are there any specific business rules or regulations that need to be communicated to users through the form?
-* Are there any specific fields that require more detailed explanations or special instructions?
-
-With that said, here's the help guide for the form:</thinking>
-
 # rental_insurance_extension_form - Help Guide
 ## Purpose
 The rental_insurance_extension_form is a comprehensive form used for property-related purposes, such as verifying or updating existing rental information. This form collects various details to ensure accurate and up-to-date rental insurance information.

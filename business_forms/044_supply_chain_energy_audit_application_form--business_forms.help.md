@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supply Chain Energy Audit Application Form - Help Guide
 ## Purpose
 The Supply Chain Energy Audit Application Form is designed to gather information from business units within the company about their energy consumption patterns, audit locations, and energy types.

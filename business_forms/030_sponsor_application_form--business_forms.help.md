@@ -1,5 +1,3 @@
-<thinking>Before we dive into the detailed help guide, let's briefly discuss the purpose and context of this form. The Sponsor Application Form is designed for individuals or organizations seeking sponsorship for events, activities, or projects. The form collects essential information about the sponsor, event, and project details to facilitate the application process. Please ensure you're completing this form for a legitimate purpose and not for testing or experimentation.</thinking>
-
 # Sponsor Application Form - Help Guide
 ## Purpose
 The Sponsor Application Form is a tool used to gather information from potential sponsors about their event, project, or activity. It helps the sponsor to provide accurate and relevant details to support their application for sponsorship.

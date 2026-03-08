@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for the Teamwork Contribution Recognition Form. This form is used to recognize and acknowledge the contributions of team members who have made significant efforts or achieved milestones in the team. The form is typically filled out by team members or managers to nominate their peers for recognition. The form helps to document and celebrate the achievements of team members, promoting a positive and supportive team environment.
-
-To complete this form, follow these steps:
-
-1.  Fill in the required fields with accurate and detailed information.
-2.  Make sure to provide specific examples or details about the contribution or achievement being recognized.
-3.  Ensure that the information provided is clear and concise.
-
-</thinking>
-
 # Teamwork Contribution Recognition Form - Help Guide
 ## Purpose
 

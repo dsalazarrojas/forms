@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about items, allowing users to enter new items, update existing items, or mark items as active, inactive, or pending. The form has a mix of text, number, date, time, and select fields, making it versatile for capturing various types of data. To ensure accurate and consistent submissions, it's essential to understand each field's purpose and requirements.
-</thinking>
-
 # Item Entry And Exit Form - Help Guide
 ## Purpose
 The "Item Entry And Exit Form" is used to collect and update item information, including details such as item description, price, category, and status. This form helps in maintaining accurate and up-to-date records.

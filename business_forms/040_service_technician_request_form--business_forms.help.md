@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to request specific services from our company's technical team. The purpose of this form is to provide an efficient and organized way for customers to submit their service requests, allowing our team to track and manage these requests effectively. By filling out this form, customers can ensure that their service needs are accurately captured and communicated to the technical team.
-</thinking>
-
 # Service Technican Request Form - Help Guide
 ## Purpose
 The Service Technican Request Form is designed to enable customers to submit their service requests in a structured and organized way. Please fill out this form to ensure that your service needs are captured accurately and communicated to our technical team.

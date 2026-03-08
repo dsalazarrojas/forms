@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from end-users who need support with energy management. The primary purpose of this form is to provide a structured way for users to describe their issues and provide relevant details about their energy management setup, including the areas and tools they are using. This information will be used to route the user to the appropriate support team or expert for assistance. To ensure that the form is used correctly, please review each field carefully and ensure that you select the most accurate options. Note that some fields are marked as 'Yes' or 'No', which is likely indicating that the user is either using or not using a particular energy system or tool. This form should not be used for duplicate requests or general inquiries, but rather for specific support needs.
-
-</thinking>
-
 # Energy Management Support Contact Form - Help Guide
 
 ## Purpose

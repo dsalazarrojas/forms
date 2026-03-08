@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this is an unemployment income verification form for a specific purpose (e.g., to verify an applicant's employment status or income). This form likely helps in the process of verifying an applicant's unemployment status or income for benefits or other purposes. The form should not be used for any other purpose or duplicated. This is a one-time use form and should not be used to collect information for other purposes. Please review the form carefully before submitting.
-</thinking>
-
 # Unemployment Income Verification Form - Help Guide
 ## Purpose
 This form is used to verify an applicant's unemployment status or income for benefits or other purposes.

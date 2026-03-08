@@ -1,5 +1,3 @@
-<thinking>Internal note: The form is designed for account reconciliation, which involves checking for discrepancies between general ledger (GL) balances and sub-ledger or bank statement balances. This form helps ensure accurate financial data and detects any issues that need attention. The form is divided into several sections: general information, balance verification, reconciliation checklist, sign-off, and sign-off notes. Each section is designed to guide users through the process of reviewing and verifying account balances. The form's purpose is to identify any discrepancies and ensure that all items are resolved. It's essential to fill out this form carefully to maintain accurate financial records.</thinking>
-
 # Account Reconciliation Checklist - Help Guide
 ## Purpose
 

@@ -1,10 +1,3 @@
-<thinking>
-The "Engagement Story Session Booking" form is intended for clients to book sessions with a photographer. This form is used to gather necessary information for the session, such as date, time, location, and photographer, to ensure a successful and smooth experience for both the client and the photographer. The form is designed to be simple and easy to use, while ensuring that all relevant information is collected. 
-
-Before filling out this form, please review the information carefully to avoid any mistakes or omissions. If you have any questions or concerns, please don't hesitate to reach out to us.
-
-</thinking>
-
 # Engagement Story Session Booking - Help Guide
 ## Purpose
 The "Engagement Story Session Booking" form is used to book sessions with a photographer for clients. This form collects information such as session details, schedule, time, photographer, client, and session location.

@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block to determine the purpose and relevance of the form ...
-
-The form is intended to document and report incidents that have been escalated within an organization. An escalation is a process where an incident is raised from one level of support to another, often to ensure that the issue is properly addressed and resolved. This form is used to provide detailed information about the incident, including its status and any actions taken or planned to resolve it.
-
-To use this form, an employee or support staff member would fill out the form to report an escalated incident, providing relevant details such as the incident's ID, the date and time it occurred, and any description of the incident. They would also categorize the incident as active or inactive, and choose a status for the incident.
-
-The form is used to help track and analyze incidents, and to ensure that escalation processes are being followed correctly.
-
-...</thinking>
-
 # Incident Escalation Report - Help Guide
 ## Purpose
 

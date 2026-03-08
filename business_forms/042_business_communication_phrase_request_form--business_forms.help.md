@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Communication Phrase Request Form - Help Guide
 
 ## Purpose

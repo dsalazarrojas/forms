@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to request approval for event sponsorship budgets from authorized individuals in an organization. This form serves as a structured platform for submitting sponsorship proposals and associated details. Before proceeding, please ensure you are submitting a valid request and not duplicating efforts by checking the current status of your event sponsorship proposal.
-
-To submit a complete event sponsorship budget approval request, follow these steps:
-
-* Ensure you have gathered all necessary information and supporting documents as specified in the form.
-* Enter your event's category and description to provide context for the proposed event.
-* Fill in the event's name, sponsorship name, and provide detailed proposal notes if applicable.
-* Specify the requested approval date and time for the proposal.
-* If required, enter the budget amount and the event sponsorship name.
-* Select the status of your proposal from the options provided and provide detailed status comments if necessary.
-* Indicate whether you have received approval or not, and provide any additional comments or remarks if needed.
-* Attach any relevant proposal files that support your request.
-* Enter your contact email and phone number for follow-up communication.
-* Finally, enter the user submitting the form for record-keeping purposes.
-
-</thinking>
-
 # Event Sponsorship Budget Approval Form - Help Guide
 ## Purpose
 The Event Sponsorship Budget Approval Form is designed to facilitate the process of seeking approval for event sponsorship budgets within the organization. It serves as a structured platform for submitting proposals and associated details for review and approval.

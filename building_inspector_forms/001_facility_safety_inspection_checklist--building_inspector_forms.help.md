@@ -1,22 +1,3 @@
-<thinking>
-
-This form appears to be a template for a facility safety inspection checklist, designed to ensure that a facility meets various safety standards and regulations. The form includes questions related to fire safety, such as the presence of fire extinguishers, emergency exit signs, fire drills, and emergency equipment. It also asks about fire supervision, inspection dates, and certification. The purpose of this form is to help facility managers or inspectors evaluate the safety conditions of a building and identify areas that require attention.
-
-To complete this form, follow these steps:
-
-1. Enter the facility name, building address, and any other relevant information on the first page.
-2. On subsequent pages, answer the questions related to fire safety, such as:
-	* Fire extinguishers: Are they present?
-	* Emergency exit signs: Are they in place?
-	* Fire drills: Has a recent drill been taken?
-	* Emergency equipment: Is it in place?
-	* Emergency contact information: Is it available?
-3. Describe any equipment or plans that are relevant to fire safety.
-4. Answer the questions on the last page about fire extinguisher inspection certificates and fire supervision.
-5. Use the form to evaluate the safety conditions of the facility and identify areas that require attention.
-
-</thinking>
-
 # Facility Safety Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to help facility managers or inspectors evaluate the safety conditions of a facility and identify areas that require attention.

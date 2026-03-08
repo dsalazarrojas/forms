@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used by internal teams to manage and track the launch process of products. It may be part of a larger system for tracking product launches, including dates, owners, and statuses. To avoid duplication and ensure accuracy, it's essential to understand each field's purpose and how to complete it correctly. The form appears to be designed for product launch preparation, tracking, and review, with fields for product information, status updates, and review checklists. Before proceeding, ensure that the form is not being used for duplicate purposes or to track information that already exists elsewhere in the system.
-</thinking>
-
 # Product Launch Checklist Form - Help Guide
 ## Purpose
 This form is designed to collect and track information related to product launches. It helps in preparing and managing product launches, including setting launch dates, updating product statuses, and reviewing checklists.

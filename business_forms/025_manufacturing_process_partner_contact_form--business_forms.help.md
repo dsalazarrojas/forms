@@ -1,8 +1,3 @@
-<thinking>
-This form is for manufacturing process partners to provide their contact information and details about their manufacturing capabilities, so that the company can establish partnerships and collaborations. The form is designed to collect general information about the partner's company, including their name, website, and contact person. Additionally, it asks about the types of manufacturing processes the partner offers, such as automotive, aerospace, medical, and more. This information will be used to identify potential partners and collaborators for specific projects.
-To ensure that the form is filled out correctly, the partner should only select "Yes" for the "Manufacturing Process Partners" field if they actually offer the selected manufacturing process. If they do not offer a selected process, they should leave it blank.
-</thinking>
-
 # Manufacturing Process Partner Contact Form - Help Guide
 ## Purpose
 This form is for manufacturing process partners to provide their contact information and details about their manufacturing capabilities.

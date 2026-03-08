@@ -1,20 +1,3 @@
-<thinking>
-This form is intended to collect information from users for lesson booking and payment purposes. It is designed to be used in an educational setting, likely in a school or university, to book lessons and track payments for these lessons. The form is likely to be used by students to book a lesson with a teacher or instructor, and to provide details about the booking and payment method.
-
-The fields on this form are intended to collect the following information:
-
-* Booking date: The date on which the lesson is to be booked.
-* Booking time: The time at which the lesson is to be booked.
-* Student name: The name of the student booking the lesson.
-* Booking details: A note field for students to provide any additional details about the booking.
-* Payment method: The method of payment used for the lesson (e.g. PayPal, credit card).
-* Payment amount: The amount to be paid for the lesson.
-* Rating: A field to rate the lesson's quality (one to five stars).
-
-This form is likely to be used by students to book lessons and track their payments, and by administrators or teachers to manage lesson bookings and payments.
-
-</thinking>
-
 # Lesson Booking And Payment Survey - Help Guide
 ## Purpose
 The Lesson Booking And Payment Survey form is used to book lessons and track payments in an educational setting.

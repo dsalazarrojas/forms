@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a property during a mobile inspection. The form is used to gather data about the property's address, type, characteristics, safety features, electrical, heating and cooling, plumbing, waste disposal, electrical outlets, water and sewage meters, and other relevant details. Inspectors will need to fill out the form accurately and thoroughly to ensure that the information is up-to-date and complete.
-The form consists of several pages, each with its own set of questions or fields. The form is intended for internal use within the organization, and the information collected will be used for reporting and record-keeping purposes.</thinking>
-
 # Mobile Inspection Form - Help Guide
 
 ## Purpose

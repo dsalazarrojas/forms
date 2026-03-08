@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about business expenses incurred by employees, including employee details, expense type, dates, and reimbursement details. This form ensures that employees provide accurate and complete information about their business expenses, which is essential for processing reimbursement requests. It is crucial to fill out this form correctly to avoid any delays or discrepancies in the reimbursement process.
-
-Before starting, ensure that you have all necessary information and attachments ready. Some fields are optional, but filling out all required fields will help in processing your request efficiently.
-
-</thinking>
-
 # Business Expense Reimbursement Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about business expenses incurred by employees. This includes details about employee information, expense type, dates, and reimbursement details.

@@ -1,6 +1,3 @@
-<thinking>
-The Income Statement Form is used to report the revenue, costs, and expenses of a business over a specified period of time. This form is typically used by business owners or accountants to track the financial performance of a company. The form is divided into multiple pages, each containing a set of fields that require input. Before filling out this form, make sure you have all the necessary information and calculations ready. Note that some fields are required, and others are optional, but all fields are crucial for an accurate financial report.</thinking>
-
 # Income Statement Form - Help Guide
 ## Purpose
 The Income Statement Form is a financial report that shows the revenue, costs, and expenses of a business over a specified period of time. This form helps business owners and accountants track the financial performance of a company by breaking down the income and expenses into categories.

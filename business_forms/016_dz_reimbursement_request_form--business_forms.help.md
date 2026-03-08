@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to request reimbursement for business expenses incurred by employees. It is intended for employees to submit their expense claims and provide relevant information about the expense. The form ensures that all required details are captured accurately and consistently, reducing the likelihood of errors or omissions.
-
-The form is designed to be completed by employees in the course of their work-related activities, and submitted to the relevant department or manager for approval. It is an essential tool for streamlining the reimbursement process and ensuring that expenses are reimbursed fairly and on time.
-
-Before starting, please ensure that you are submitting this form only for legitimate business expenses and expenses that have not already been reimbursed. If you are unsure about any part of the form, please consult with your supervisor or departmental support team.
-
-</thinking>
-
 # Dz Reimbursement Request Form - Help Guide
 
 ## Purpose

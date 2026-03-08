@@ -1,7 +1,3 @@
-<thinking>**Internal reasoning block:**
-
-This form is used to request a payment card renewal for a company employee. The form is designed to gather information from the employee and their manager to facilitate the renewal process. The form checks for non-duplication of requests and ensures that all required fields are filled out before submission. The purpose of this form is to streamline the payment card renewal process and ensure that all necessary information is collected in one place.</thinking>
-
 # Company Payment Card Renewal Request Form - Help Guide
 ## Purpose
 This form is used to request a payment card renewal for a company employee. It is essential to fill out the form accurately to ensure a smooth and efficient renewal process.

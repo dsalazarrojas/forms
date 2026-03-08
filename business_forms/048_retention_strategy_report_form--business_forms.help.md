@@ -1,6 +1,3 @@
-<thinking>
-To provide a useful user-facing help guide for the "Retention Strategy Report Form", I'll assume that the form is intended to collect information and insights to develop and improve customer retention strategies within a business context. The form likely serves as a tool for employees to gather and share relevant data points, thoughts, and suggestions related to customer retention. This guide will explain each field's purpose and requirements clearly to aid end-users in completing the form accurately and effectively.</thinking>
-
 # Retention Strategy Report Form - Help Guide
 ## Purpose
 The Retention Strategy Report Form is designed to help employees gather and share information essential for developing and improving customer retention strategies. This form serves as a platform to collect and document various aspects of customer interaction, satisfaction, and data analysis.

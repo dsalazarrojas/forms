@@ -1,8 +1,3 @@
-<thinking>
-This form is used to schedule and track employee team meetings. It is crucial to ensure that each meeting is well-planned, executed, and documented. The form helps team managers to create a schedule for team meetings, set reminders, and manage attendee participation.
-The form is designed to be straightforward, and each field is carefully crafted to provide necessary information for meeting planning and follow-up. To avoid any confusion, we've included field-by-field explanations to guide users through the process.
-</thinking>
-
 # Employee Team Meeting Schedule Form - Help Guide
 
 ## Purpose

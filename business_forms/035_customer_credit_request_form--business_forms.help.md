@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect customer credit information for internal purposes, such as credit checks, financial planning, and order fulfillment. This form should be filled out only by customers who are requesting credit, and it is not intended for general use or duplicate submissions. Please ensure that you are completing this form for the correct reason and that you have all necessary information readily available.
-</thinking>
-
 # Customer Credit Request Form - Help Guide
 ## Purpose
 The Customer Credit Request Form is a tool for customers to provide information required for credit checks, financial planning, and order fulfillment. This form is intended for customers who are requesting credit and should not be used for other purposes.

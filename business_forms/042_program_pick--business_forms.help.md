@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # program_pick - Help Guide
 ## Purpose
 The "program_pick" form is designed to collect information about programs. It is used to input and store data for various programs, allowing you to categorize and track them effectively.

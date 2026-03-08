@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help business stakeholders and executives manage their relationships with key contacts. It's designed to collect information about these contacts, including their contact details, the nature of their relationship, their interests, preferred communication channels, and personal contact information. This form will likely be used for internal purposes, such as building networking connections or assigning team members to specific projects. Please ensure that you are submitting this form for a legitimate purpose and not duplicating an existing relationship.
-
-</thinking>
-
 # Executive Relationship Management Contact Form - Help Guide
 ## Purpose
 The Executive Relationship Management Contact Form is a tool used to gather and organize information about key contacts and relationships for business stakeholders and executives. This form helps to build and maintain professional connections, facilitate internal networking, and assign team members to specific projects.

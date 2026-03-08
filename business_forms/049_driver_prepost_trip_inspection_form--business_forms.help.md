@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Driver PrePost Trip Inspection Form - Help Guide
 
 ## Purpose

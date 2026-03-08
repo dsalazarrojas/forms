@@ -1,7 +1,3 @@
-<thinking>
-Is this form used for service requests or customer inquiries? Is this form being completed by internal staff or customers? Are there any internal or external dependencies for this form?
-</thinking>
-
 # Service Inquiry Information Form - Help Guide
 
 ## Purpose

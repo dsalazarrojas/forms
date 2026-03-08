@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure the form's content is accurate and not duplicated, let's confirm that the form purpose and requirements are clearly defined. 
-
-This form appears to be a comprehensive agreement for a cleaning service provider to document the details of an agreement with a client. It includes sections for service provider information, client information, property details, service schedule, payment terms, and termination procedures. 
-
-The form seems to be well-structured and covers all necessary aspects of a cleaning service agreement. 
-
-Before proceeding, please let me know if you'd like me to make any adjustments or changes to the form content or structure.</thinking>
-
 # Cleaning Service Agreement Form - Help Guide
 ## Purpose
 This form is designed to document the details of a cleaning service agreement between a service provider and a client. It includes sections for service provider information, client information, property details, service schedule, payment terms, and termination procedures.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and partnership interest from potential partners. It will help us assess your company's fit with our business needs and determine the best way to collaborate. To ensure accurate and relevant information is collected, please do not fill this form if you have already filled out a similar form.
-</thinking>
-
 # Automation Network Partner Contact Form - Help Guide
 ## Purpose
 This form is a partnership contact form designed to collect information from potential partners interested in collaborating with us. It will help us assess your company's fit with our business needs and determine the best way to collaborate.

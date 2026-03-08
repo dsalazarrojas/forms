@@ -1,5 +1,3 @@
-<thinking>This form is a tool used to assess an individual's customer service skills and experience. It is designed to gather information about a person's abilities, experience, and certifications related to customer service. This form should only be used to evaluate individuals who have been or are going to be working in a customer service role. It is not intended for general use and should not be filled out by individuals who do not meet this criteria. By filling out this form, individuals will be asked to provide information about their skills, experience, and certifications in customer service, which will help the organization to determine their suitability for a customer service position.</thinking>
-
 # Customer Service Skills Assessment Form - Help Guide
 ## Purpose
 The Customer Service Skills Assessment Form is used to evaluate an individual's customer service skills and experience. This form is used to determine a person's suitability for a customer service role and to gather information about their skills, experience, and certifications in customer service.

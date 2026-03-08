@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to allow users to book a tour at a winery. The form collects information about the tour date, time, and guests, as well as the contact email, phone number, and payment details. The form is divided into several sections, each with a specific purpose:
-- **Tour Details**: collects the date and time of the tour.
-- **Guest Information**: collects the guest's name, contact email, and phone number.
-- **Tour Reservation**: collects the number of guests, special requests, and payment details.
-- **Winery Information**: collects the winery's address and notes.
-This form is meant to provide a smooth and efficient booking experience for users. By filling out this form, users can provide all necessary information to book a tour at the winery. The form is not intended to be a comprehensive winery management system, but rather a simple tool for users to book a tour.
-</thinking>
-
 # Winery Tour Reservation Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to book a tour at a winery.

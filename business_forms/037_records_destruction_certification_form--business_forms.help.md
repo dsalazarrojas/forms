@@ -1,21 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "prophets" form, I need to first understand the form's purpose and fields. Based on the provided YAML fields, this form appears to be related to the destruction of records, and it includes fields for selecting the type and method of destruction, as well as other metadata like the date and number of records destroyed. There seems to be some overlap between fields, and a review of the form's purpose and fields is warranted before proceeding.
-
-Form fields include:
-
-- **Records Destruction Form**: This appears to be the main title of the form.
-- **Destroyed By**: This field is a select_one type field with options Electronic Destruction, Physical Destruction, and Other. 
-- **Who Destroyed Records**: This field is a text field with no options, indicating it's a free-text field for the person or entity responsible for the destruction.
-- **Date Destroyed**: This field is a date type field with no options, indicating it's a date field for the date the records were destroyed.
-- **Method Destroyed**: This field is a select_one type field with options Pulped (pulled apart), Shredded, Burned, and Other.
-- **Type of Records Destroyed**: This field is a select_multiple type field with options Paper documents, Electronic documents, Audio/video files, and Other documents.
-- **Reason For Destruction**: This field is a text field with no options, indicating it's a free-text field for the reason of destruction.
-- **Number of Records Destroyed**: This field is a number type field with no options, indicating it's a numeric field for the quantity of records destroyed.
-- **Number of Records Remaining**: This field is a number type field with no options, indicating it's a numeric field for the quantity of records remaining.
-
-</thinking>
-
 # prophets - Help Guide
 ## Purpose
 

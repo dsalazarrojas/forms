@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from clients for a photography contract. The purpose of this form is to ensure that the client and photographer have a clear understanding of the terms and conditions of the shoot, including the type of shoot, date, location, and services included. By filling out this form, the client confirms their understanding of the photography contract and provides essential contact information. This form is a crucial part of the booking process and is used to secure the client's deposit and finalize the contract. Please review each field carefully to ensure you have completed it correctly.
-</thinking>
-
 # Client Information And Contract Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from clients for a photography contract. The purpose of this form is to ensure that the client and photographer have a clear understanding of the terms and conditions of the shoot, including the type of shoot, date, location, and services included.

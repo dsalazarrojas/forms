@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to collect information for paycheck authorization, likely for payroll or HR purposes. It's not a standard form, so ensure you're using it for its intended purpose and not for other tasks. Be cautious of duplication, as this form may not integrate with other forms seamlessly. Ensure you're aware of the required fields, which are not all marked as "required". This form was generated based on public metadata and is not affiliated with any specific form platform. Use it as is, or modify it for your needs.
-</thinking>
-
 # paycheck_authorization_form - Help Guide
 ## Purpose
 This form is intended for collecting information related to paycheck authorization, which is a process typically handled by payroll or HR departments. It's meant to gather necessary data for managing employee payroll.

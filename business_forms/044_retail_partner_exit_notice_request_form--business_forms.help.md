@@ -1,28 +1,3 @@
-<thinking>
-This form is intended for retail business partners that wish to exit their partnership with the company. To ensure that the form is completed correctly and the necessary information is provided, here's a step-by-step guide to completing the "Retail Partner Exit Notice Request Form".
-
-First, it's essential to understand why this form is being used. The purpose of the form is to document the details of a retail business partner's intention to exit their partnership with the company, which will help in the processing of the partnership termination.
-
-The form requires the following details to be provided:
-
-* The date of the notice
-* Type of notice to be given to the partner
-* Details of the notice
-* Business name and other relevant information
-* Contact number and email address of the partner
-* Reason for exit
-* Partner ID
-* Store name
-* Partner name
-* Store address
-* Exit date
-* Status of the notice
-* Name of the submitter
-
-Before completing the form, please note that some of the fields are optional. Ensure that you only fill out the fields that are relevant to your situation.
-
-</thinking>
-
 # Retail Partner Exit Notice Request Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a formal notice of your intention to exit your partnership with our company. This form will help us process your exit smoothly and effectively.

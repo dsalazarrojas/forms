@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for policy renewal communication purposes, likely for insurance or financial policies. The form is likely to be used by policy owners, administrators, or agents to communicate and update policy information. The form may include fields such as customer information, policy details, and communication preferences. Please review the form carefully to ensure it is relevant to your specific needs and goals. 
-</thinking>
-
 # policy-renewal-communication-form - Help Guide
 ## Purpose
 This form is designed for policy renewal communication purposes, intended for use by policy owners, administrators, or agents to update and communicate policy information.

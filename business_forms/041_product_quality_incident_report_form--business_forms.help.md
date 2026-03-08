@@ -1,9 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the "Product Quality Incident Report Form".
-This form is designed to help organizations collect information about product defects or incidents that affect their products. It is a tool to document and categorize incidents, allowing for better tracking and improvement of product quality.
-This form has 9 fields, and users should only fill it out if they have experienced a product defect or incident. Please ensure that you are submitting the form only once per incident.
-</thinking>
-
 # Product Quality Incident Report Form - Help Guide
 ## Purpose
 The purpose of this form is to report and document product quality incidents, allowing organizations to identify and address issues affecting their products.

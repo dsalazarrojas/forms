@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # label_adhesion_quality_report_form - Help Guide
 
 ## Purpose

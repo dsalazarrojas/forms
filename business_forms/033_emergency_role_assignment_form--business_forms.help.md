@@ -1,7 +1,3 @@
-<thinking>Here is a brief internal reasoning block that explains the form purpose and checks for relevance and non-duplication:
-
-The Emergency Role Assignment Form is a critical document used to record and manage emergency contact information and role assignments for employees. This form ensures that critical contact information is up-to-date and accessible in emergency situations. The form should only be submitted when a new emergency contact relationship is established or when an existing one needs to be updated. Please ensure that only relevant and accurate information is collected and that duplicates are avoided to prevent confusion and ensure that emergency contact roles are properly managed.</thinking>
-
 # Emergency Role Assignment Form - Help Guide
 
 ## Purpose

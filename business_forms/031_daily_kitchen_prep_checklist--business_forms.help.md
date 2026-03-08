@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the "Daily Kitchen Prep Checklist" form, which is used to gather information about kitchen preparations and settings. This form is likely used by kitchen staff or management to track and record important details about kitchen preparations, such as morning routines, lunch breaks, dinner preparations, kitchen cleanliness, and other relevant information. The form should be used only for its intended purpose and should not be used to collect duplicate or unnecessary information.
-</thinking>
-
 # Daily Kitchen Prep Checklist - Help Guide
 ## Purpose
 The "Daily Kitchen Prep Checklist" form is used to gather information about kitchen preparations and settings on a daily basis. It helps kitchen staff or management track and record important details about morning routines, lunch breaks, dinner preparations, kitchen cleanliness, and other relevant information.

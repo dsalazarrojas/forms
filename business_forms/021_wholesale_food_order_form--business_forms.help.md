@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for their wholesale food orders. The form will ask for the customer's wholesale food order, details of the order, payment information, confirmation of the order, contact information, total order value, and other relevant details.
-This form is intended for use by businesses or individuals looking to place wholesale orders for food items. To ensure accurate and clear information is collected, it is essential that the customer completes the form in its entirety.
-
-The purpose of this form is to streamline the order process, reduce errors, and provide a clear record of the customer's order.
-</thinking>
-
 # Wholesale Food Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for wholesale food orders. It consists of several sections that guide the customer through the order process.

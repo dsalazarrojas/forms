@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect detailed information about a real estate transaction. The form is used to capture client contact information, real estate agent details, and other related data. This form is likely used within a company that provides real estate services, such as property listing, buying, or selling.
-
-The form is structured into several fields, each with its specific purpose and requirements. The purpose of this guide is to explain each field in detail, so users can complete the form accurately and efficiently.
-
-</thinking>
-
 # Detailed Real Estate - Help Guide
 ## Purpose
 

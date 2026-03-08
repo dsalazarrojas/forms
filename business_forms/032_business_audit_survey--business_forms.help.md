@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Audit Survey - Help Guide
 ## Purpose
 This form is designed to gather information about your business to help us understand your company's situation, goals, and challenges. Please answer the questions as accurately and thoroughly as possible.

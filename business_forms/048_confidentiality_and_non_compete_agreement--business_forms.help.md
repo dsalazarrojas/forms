@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information and ensure that employees understand their confidentiality and non-compete agreements. It is a crucial document that outlines the terms of confidentiality and non-compete, which is a common practice in many businesses to protect sensitive company information and prevent employees from competing with their former company after leaving.
-The form is used to collect details such as the employee's full legal name, contact information, and employment details. It also asks questions about the employee's understanding of the agreement, such as what is considered confidential, their obligations, and the scope and duration of the non-compete. The form also includes a section for the employee to acknowledge that they have received legal review or understanding. It is essential for employees to understand these terms and conditions before signing the agreement.
-Before starting, ensure you are familiar with the agreement and have not signed any other similar agreements with your previous employers or clients. If you are unsure about any term, please seek clarification from your supervisor or HR representative.
-</thinking>
-
 # Confidentiality And Non-Compete Agreement - Help Guide
 ## Purpose
 This form is used to collect information and ensure that employees understand their confidentiality and non-compete agreements with the company.

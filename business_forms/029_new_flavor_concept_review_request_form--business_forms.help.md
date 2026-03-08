@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to request reviews for new flavor concepts. It is intended to gather information about the user's name, email, phone number, flavor concept, description, priority level (Low, Medium, High), and submit the review request. The fields are divided into two main sections: contact information and flavor concept details. The form is meant to be filled out by individuals who are interested in submitting their new flavor concept for review, and it's crucial that they follow the instructions carefully to ensure their submission is processed correctly.
-</thinking>
-
 # New Flavor Concept Review Request Form - Help Guide
 ## Purpose
 This form is designed to allow users to submit new flavor concept review requests. It gathers contact information and details about the flavor concept, including priority level and submit request.

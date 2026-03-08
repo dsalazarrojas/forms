@@ -1,7 +1,3 @@
-<thinking>
-This guide explains the purpose and usage of the Molecule Design Submission Form. This form is intended to collect information from users to facilitate the submission of their molecule designs. The form is designed to gather essential details about the submitter, including contact information, date and time, and select options. It is essential to complete this form accurately to ensure that the submission is processed correctly. Please note that some fields are optional, and it is not mandatory to fill them out. Ensure you provide correct email and phone number formats for the relevant fields.
-</thinking>
-
 # Molecule Design Submission Form - Help Guide
 ## Purpose
 The Molecule Design Submission Form is a tool used to collect essential details from users about their molecule designs. It helps facilitate the submission and processing of these designs.

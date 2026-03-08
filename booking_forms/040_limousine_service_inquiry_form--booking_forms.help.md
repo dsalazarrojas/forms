@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their inquiry for limousine services. The form will guide users through the necessary fields for a thorough understanding of their limousine requirements, including the pickup location, date, time, special requests, number of guests, limousine type, and additional notes. It is expected that users will be familiar with the different types of limousines (Luxury, Standard, or Economy) and how they cater to various needs.
-
-This form will be completed by users seeking limousine services for personal or business purposes. The goal is to ensure that the limousine company can provide the right service to meet the user's needs.
-
-Please ensure that the form is completed accurately and thoroughly, as the information collected will be used to provide the best possible service.
-
-Before starting the form, please review the fields below and ensure that you have all the necessary information ready.
-</thinking>
-
 # Limousine Service Inquiry Form - Help Guide
 ## Purpose
 The Limousine Service Inquiry Form is designed to collect information about your limousine requirements for a smooth and efficient service experience.

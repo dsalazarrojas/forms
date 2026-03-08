@@ -1,11 +1,3 @@
-<thinking>
-
-The Treasury Resource Allocation Survey is a tool used to collect information from team members about their current roles, objectives, challenges, and other relevant details. The purpose of this form is to gather data to aid in making informed decisions for resource allocation within the Treasury team.
-
-The form is divided into multiple pages, each focusing on a specific aspect of the team's resource allocation needs.
-
-</thinking>
-
 # Treasury Resource Allocation Survey - Help Guide
 ## Purpose
 This survey aims to gather information from team members to understand their roles, objectives, challenges, and other relevant details to aid in making informed decisions for resource allocation within the Treasury team.

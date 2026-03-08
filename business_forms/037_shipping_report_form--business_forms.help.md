@@ -1,5 +1,3 @@
-<thinking>Shipping Report Form is a form designed to gather information about shipments, likely for tracking, monitoring, or reporting purposes. It's possible that this form is used in a business setting, such as logistics or supply chain management. The form appears to be a simple, single-page form with 25 text fields, each with a unique label. This form may be used to collect data from customers, employees, or other stakeholders. To ensure this form is used correctly, it's essential to understand its purpose and how to fill it out accurately.</thinking>
-
 # Shipping Report Form - Help Guide
 
 ## Purpose

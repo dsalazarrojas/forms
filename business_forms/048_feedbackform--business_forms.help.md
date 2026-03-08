@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users, allowing them to share their thoughts, suggestions, and concerns about a product or service. The feedback form is typically used by customers, clients, or end-users to provide constructive input that can help the organization improve their offering. To ensure accurate and comprehensive feedback, the form has been crafted with care, including fields that cover different aspects of the feedback. The form has seven fields in total, including feedback categories, messages, contact information, and submit/cancel options. 
-
-This form has been carefully reviewed to ensure that each field is properly labeled and explained, making it easy to understand for the users. To avoid any confusion, the form fields have been categorized into different sections, and each field has been given a clear and concise label. 
-
-Please note that the form's structure and fields might be adjusted in the future based on feedback and user experience.
-
-</thinking>
-
 # Feedbackform - Help Guide
 ## Purpose
 

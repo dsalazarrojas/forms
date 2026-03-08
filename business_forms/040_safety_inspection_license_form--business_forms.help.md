@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for safety inspection licenses. This is a critical form for ensuring that businesses comply with relevant safety standards and regulations. Before filling out this form, please review the form carefully and ensure you have all the necessary information ready.
-
-To avoid duplication of effort, please note that this form is designed to be completed by authorized personnel only. If you are not authorized to complete this form, please reach out to your supervisor or manager for guidance.
-
-Before starting the form, ensure you have all the required information and documents ready. This will save you time and reduce errors during the completion process.
-
-This form has 12 fields that require input. Please complete each field accurately and thoroughly, as the information collected will be used to evaluate safety standards and compliance.
-
-Each field has specific instructions and explanations below. If you are unsure about any field, please refer to this help guide for guidance.
-
-</thinking>
-
 # Safety Inspection License Form - Help Guide
 ## Purpose
 

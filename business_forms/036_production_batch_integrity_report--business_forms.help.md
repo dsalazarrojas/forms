@@ -1,5 +1,3 @@
-<thinking> This form is used to document and report on the integrity of a production batch. It captures information about the batch, such as its details, inspection results, any issues that occurred during production, and corrective actions taken. The form also includes fields for production-related information like production date, time, location, and personnel involved. Additionally, it covers batch size and weight-related information. The form is designed to ensure that production batches are accurately and comprehensively documented, facilitating better quality control and issue identification. This form is intended for use by production line staff and quality control teams. </thinking>
-
 # production_batch_integrity_report - Help Guide
 ## Purpose
 The production_batch_integrity_report form is used to document and report on the integrity of a production batch, ensuring accurate and comprehensive documentation of production-related information.

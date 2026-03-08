@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register tools for expense reconciliation. It collects information about the employee, tool name, start and end dates, tool type, status, and additional tool details. This form is likely used by accountants or financial personnel to track and manage expenses associated with specific tools used by employees. It's essential to fill out this form accurately to ensure correct expense reporting and reconciliation.
-</thinking>
-
 # Expense Reconciliation Tool Registration - Help Guide
 ## Purpose
 The Expense Reconciliation Tool Registration form is used to collect and manage information about tools used by employees for expense reporting and reconciliation.

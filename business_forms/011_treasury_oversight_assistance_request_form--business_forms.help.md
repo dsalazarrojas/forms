@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to request assistance from the treasury department. It is intended for employees to seek help with financial matters related to their work. The form allows users to specify the type of request they need assistance with, provide details about their request, and select a priority level for the request. The form is not meant to be a formal, official document, but rather a convenient way for users to communicate their needs to the treasury department.
-
-Before proceeding, please ensure that you have not already submitted a similar request. If you are unsure or have questions, you can contact the treasury department at [insert contact email].
-
-</thinking>
-
 # Treasury Oversight Assistance Request Form - Help Guide
 ## Purpose
 The purpose of this form is to enable users to request assistance from the treasury department for financial matters related to their work.

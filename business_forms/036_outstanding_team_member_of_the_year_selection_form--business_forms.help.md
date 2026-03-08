@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to select an outstanding team member of the year for a particular category. The form requires the team member's name, reason for nomination, year of nomination, email, phone number, assigned tool, description, assigned to/by, category, and additional comments. The "Assigned Tool" field seems to be related to a specific tool or software used by the team member, and "Category" might be a department or team name. It is likely that this form is used for internal purposes within the organization, and the form data will be used to identify and recognize outstanding team members.
-</thinking>
-
 # Outstanding Team Member Of The Year Selection Form - Help Guide
 ## Purpose
 The form is used to select and recognize an outstanding team member of the year for their contributions and dedication to their work.

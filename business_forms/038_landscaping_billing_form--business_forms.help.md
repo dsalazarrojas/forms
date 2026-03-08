@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect and record information for billing landscaping services rendered to clients. It is crucial for the accuracy and speed of the billing process. Before filling this form, please ensure you have all necessary client information and details of services rendered. This form has been designed with the following fields to gather the relevant data. To avoid errors, please fill it out correctly. Each field is explained below.
-</thinking>
-
 # Landscaping Billing Form - Help Guide
 ## Purpose
 The Landscaping Billing Form is used to record the details of landscaping services provided to clients, including client information, services rendered, and payment status.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a project for the Innovation Lab team. The form is used to refer a project to the Innovation Lab for evaluation and potential implementation. To ensure this form is filled out correctly, please review the fields below.
-</thinking>
-
 # innovation_lab_referral_form - Help Guide
 ## Purpose
 The innovation lab referral form is used to refer projects to the Innovation Lab for evaluation and potential implementation. This form is used to collect information about the project, including project name, description, URL, and other relevant details.

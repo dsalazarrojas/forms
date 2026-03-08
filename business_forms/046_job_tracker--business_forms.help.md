@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: the form is meant to track job openings and closed job status for the company. The form will be used to create, edit, and view job information, such as job title, description, contact details and status. We need to ensure users understand what data is expected and how to fill out the form properly, reducing errors and increasing form completion rate.</thinking>
-
 # Job Tracker - Help Guide
 ## Purpose
 The Job Tracker form is a tool for tracking job openings and closed job status within the company. It's used to create, edit, and view job information, such as job title, description, contact details, and status.

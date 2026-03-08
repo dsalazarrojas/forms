@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Continuity Specialist Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from your organization to understand your business continuity needs. Please provide detailed information about your organization and specific needs, and we will get back to you shortly with our assessment and proposal.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to book a tennis court for their activities, providing a way to enter relevant information such as court selection, date, and time. This form should be used to ensure that the booking process is efficient and accurate. Before proceeding, make sure that the form is being used correctly and doesn't overlap with other booking forms.
-</thinking>
-
 # Tennis Court Booking Form - Help Guide
 ## Purpose
 The Tennis Court Booking Form is designed to allow users to book a tennis court for their activities. This form requires users to select the desired court, date, time, and provide any additional notes or comments.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Content Creation Payment Form - Help Guide
 
 ## Purpose

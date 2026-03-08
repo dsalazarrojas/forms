@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to assess the homeownership readiness of an individual or couple, providing an objective evaluation of their financial capabilities and creditworthiness. This form is designed to help lenders, investors, or financial institutions evaluate potential borrowers' readiness to take on the responsibilities and risks associated with homeownership. By collecting information on income, assets, debts, credit score, employment status, and other relevant factors, the form aims to determine the likelihood of successful homeownership and potential risks.
-
-To avoid duplication of effort and ensure accurate assessment, please ensure that you are not using this form for duplicate evaluations or assessments that have already been conducted.
-
-This form is intended to be used as a comprehensive tool for evaluating homeownership readiness. Please ensure that you have the necessary information and authority to complete this form accurately and honestly.
-
-</thinking>
-
 # Homeownership Readiness Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to assess the homeownership readiness of an individual or couple by collecting information on their financial capabilities and creditworthiness.

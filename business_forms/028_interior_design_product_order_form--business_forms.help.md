@@ -1,7 +1,3 @@
-<thinking>
-We should ensure that this form is only used for its intended purpose to place interior design orders, and not as a duplicate form or for any other purpose. Let's assume that the form will be used by end-users who need to place orders for interior design products, such as custom furniture pieces or design services. To verify this assumption, we can consider the form fields and their labels, which appear to be relevant to the interior design industry.
-</thinking>
-
 # interior_design_product_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for interior design product orders. It will help you place orders for custom furniture or design services.

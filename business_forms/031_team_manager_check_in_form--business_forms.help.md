@@ -1,12 +1,3 @@
-<thinking>
-This form seems to be designed for team management, likely for tracking team check-ins, updates, and status. The purpose of this form appears to be to gather information about a team's activities, status, and feedback. Before proceeding, let's review the form and determine the best approach to create a comprehensive help guide. Upon reviewing the form, it's clear that it's focused on obtaining specific data from team managers, including team name, start and end times, updates, feedback, team alignment, team update status, assigned team members, and team members.
-
-The required fields are "Team Alignment" and "Team Update Status", which indicates that the team manager needs to select the team's alignment (Team, Manager, Both, or Neither) and update status (In Progress, Complete, or Not Started).
-
-The form also includes several optional fields for additional information, such as team name, start and end times, team updates, feedback, assigned team members, and team members.
-
-</thinking>
-
 # Team Manager Check In Form - Help Guide
 ## Purpose
 This form is designed to gather information from team managers about their team's activities, status, and feedback.

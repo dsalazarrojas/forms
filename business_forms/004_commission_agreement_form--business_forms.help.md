@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to document the commission agreement between the principal company and the salesperson or agent. The commission structure, payment frequency, and other terms of the agreement are defined here. This form is used to outline the duties and responsibilities of the salesperson or agent, as well as the products or services to be sold. The agreement also includes legal terms, such as the effective and termination dates, and the governing state law. It is essential that both parties understand and agree to these terms before commencing any sales activities.
-
-</thinking>
-
 # Commission Agreement Form - Help Guide
 ## Purpose
 The Commission Agreement Form is a document that outlines the terms of the commission agreement between the principal company and the salesperson or agent. It defines the commission structure, payment frequency, duties, and responsibilities of the salesperson or agent, as well as the products or services to be sold.

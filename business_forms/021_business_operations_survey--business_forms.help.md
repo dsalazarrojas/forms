@@ -1,16 +1,3 @@
-<thinking>
-The form "Business Operations Survey" is designed to gather information about business operations from employees. It inquires about the respondent's perspective on various aspects of business operations, including process clarity, efficiency, communication, resources, tools, decision-making speed, workflow bottlenecks, biggest operational challenges, improvement suggestions, interdepartmental collaboration, change readiness, technology satisfaction, training adequacy, and overall operations rating. The form is likely used to assess business operations from an employee's point of view and identify areas for improvement.
-
-To ensure the form's purpose is relevant and there is no duplication, let's check the following:
-
-*   The form is not a duplicate of another form with similar content.
-*   The form's purpose is not already being covered by another process or form.
-*   The form's data collection is not already being covered by another source.
-*   The form's purpose is not too broad or too narrow.
-
-The form collects data from multiple departments and levels of employment, providing a comprehensive picture of business operations. It also seems to be focused on gathering data from a specific group of employees, likely those who are familiar with business operations.
-</thinking>
-
 # Business Operations Survey - Help Guide
 ## Purpose
 The Business Operations Survey is designed to gather information about business operations from employees. It inquires about the respondent's perspective on various aspects of business operations, including process clarity, efficiency, communication, resources, tools, decision-making speed, workflow bottlenecks, biggest operational challenges, improvement suggestions, interdepartmental collaboration, change readiness, technology satisfaction, training adequacy, and overall operations rating.

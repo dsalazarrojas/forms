@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to enable users to request access to specific tools for business operations. This form is used to streamline the process of requesting tools for various departments within the organization. By filling out this form, users can choose the desired tools and provide a description of their requirements.
-
-Before filling out this form, please ensure you only submit one request per form. If you have multiple tool requests, please fill out this form multiple times. 
-
-Note: This form is designed for internal use only within the organization.
-</thinking>
-
 # Service Request Tool Requisition Form - Help Guide
 ## Purpose
 The Service Request Tool Requisition Form is used to request access to specific tools for business operations. This form helps to streamline the process of requesting tools for various departments within the organization.

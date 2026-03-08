@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for clients to book a facial treatment appointment. It is intended to gather necessary information from clients for the appointment process. The form will be used by the business to understand the client's preferences, needs, and requirements for the treatment.
-
-</thinking>
-
 # Facial Treatment Appointment Form - Help Guide
 ## Purpose
 This form is for clients to book a facial treatment appointment. It gathers necessary information for the appointment process.

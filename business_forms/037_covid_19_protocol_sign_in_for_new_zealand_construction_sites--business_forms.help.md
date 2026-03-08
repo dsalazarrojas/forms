@@ -1,18 +1,3 @@
-<thinking>
-This form is used to gather information from visitors to construction sites in New Zealand regarding their health and safety protocols related to COVID-19. This form aims to ensure that visitors and staff at construction sites take necessary precautions to minimize the risk of transmission. It's essential that visitors answer the questions honestly, as this information will be used to determine the necessary actions to take.
-
-To complete this form, follow these steps:
-
-1.  Enter your name and contact information (site name, contact name, phone number, and email).
-2.  Confirm your location and provide your response to the health declaration questions.
-3.  Report any symptoms or exposure to COVID-19.
-4.  Declare awareness of the site manager and supervisor.
-5.  Sign and date the form.
-
-The following sections below provide a detailed explanation of each field.
-
-</thinking>
-
 # Covid 19 Protocol Sign In For New Zealand Construction Sites - Help Guide
 ## Purpose
 This form is designed to gather information from visitors to construction sites in New Zealand, ensuring their compliance with COVID-19 health and safety protocols.

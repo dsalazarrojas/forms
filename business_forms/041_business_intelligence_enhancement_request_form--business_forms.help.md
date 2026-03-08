@@ -1,8 +1,3 @@
-<thinking>
-The Business Intelligence Enhancement Request Form is designed to collect information about business intelligence (BI) enhancements requested by team members. This form aims to ensure that BI requests are properly documented, reviewed, and prioritized before being implemented. 
-The following help guide will walk you through how to complete and understand each field in this form.
-</thinking>
-
 # Business Intelligence Enhancement Request Form - Help Guide
 ## Purpose
 This form is used to collect detailed information about business intelligence enhancements requested by team members, allowing for proper documentation, review, and prioritization before implementation.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for users to convert images to PDFs. The form is used to upload an image and select various options for the conversion process, including the type of PDF to create, the orientation of the PDF, and the quality of the PDF. The form also asks for an email address and phone number, which seems unusual for a form related to image to PDF conversion. However, without further context, it's difficult to determine the purpose of these fields. It's possible that they are required for administrative or support purposes.
-
-The form appears to be a complex form with many fields, but they can be broadly categorized into three main sections: uploading the image, selecting PDF options, and providing metadata for the PDF. The fields are likely part of a process that involves image processing and conversion.
-
-</thinking>
-
 # image_to_pdf_converter_form - Help Guide
 
 ## Purpose

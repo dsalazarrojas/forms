@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for insurance policy complaints. This form is designed to be used by policyholders and their representatives to submit complaints about their insurance policies. The information collected through this form will be used to investigate and resolve the complaints.
-
-Before filling out this form, ensure that the complaint is not already being handled by another department or channel. If you're unsure, please check with your supervisor or HR representative.
-
-This form should only be used for complaints related to the policyholder's account or policy. If you are submitting a complaint on behalf of someone else, please ensure you have their permission to do so and that you provide their contact information.
-
-To avoid duplication of complaints, please ensure that the complaint is not already in progress or has already been resolved.
-
-This guide is intended to be used in conjunction with the actual form, which will be displayed on a separate page. Please follow this guide to ensure that you complete the form correctly and accurately.
-</thinking>
-
 # Insurance Policy Complaint Form - Help Guide
 ## Purpose
 The Insurance Policy Complaint Form is designed to collect information for policyholder complaints about their insurance policies. This form is intended for policyholders and their representatives to submit complaints related to their account or policy.

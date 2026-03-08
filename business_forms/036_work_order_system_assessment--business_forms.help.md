@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to assess the user's satisfaction with the Work Order System. It is meant for end-users to provide their feedback and improvement suggestions about the current platform. It is not a form for general support or issue reporting, so users without departmental knowledge might feel confused. It is also not designed for non-end-users, so it's not intended for people outside of the organization.
 
 Please keep this in mind before proceeding.

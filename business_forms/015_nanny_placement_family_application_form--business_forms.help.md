@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from families who are seeking nanny placement services. The form is intended for families who are looking to hire a nanny to take care of their children, and it will be used by a nanny placement agency to determine the best match for their family's needs. To ensure that the form is completed correctly, families should only fill it out once for each new placement request. If they have already filled out this form for a previous placement request, they should not re-complete it.
-</thinking>
-
 # Nanny Placement Family Application Form - Help Guide
 ## Purpose
 This form is for families seeking nanny placement services. It helps our agency understand your family's needs and preferences to find the best match for your nanny.

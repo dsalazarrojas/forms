@@ -1,8 +1,3 @@
-<thinking>
-This form is for capturing information about a vehicle sale transaction, including buyer and seller information, payment terms, vehicle details, and other relevant data.
-The form should not be used for other purposes or for non-vehicle-related sales.
-</thinking>
-
 # Vehicle Sales Agreement Form - Help Guide
 ## Purpose
 The Vehicle Sales Agreement Form is a template for capturing the essential details of a vehicle sale transaction. It is designed to streamline the sales process and ensure that all necessary information is accurately documented.

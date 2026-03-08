@@ -1,10 +1,3 @@
-<thinking>
-This form is used to authorize expenses related to litigation. 
-The form is intended for employees to provide information about the expenses they incur in relation to legal disputes or lawsuits. 
-This form should only be used for employees who are involved in litigation cases. 
-Before completing this form, make sure you have already submitted your expense report for the relevant period and that this form is only used for one specific expense report. 
-</thinking>
-
 # Litigation Expense Authorization Form - Help Guide
 ## Purpose
 The Litigation Expense Authorization Form is used to provide authorization for expenses related to litigation cases. This form is meant to be completed by employees who have incurred expenses in relation to a legal dispute or lawsuit. 

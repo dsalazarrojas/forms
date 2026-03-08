@@ -1,11 +1,3 @@
-<thinking>
-The Soap Order Form is designed to be used by customers to place orders for soap products. The form is intended to collect information about the customer, their order details, and their delivery preferences.
-
-This guide is to help customers understand how to correctly fill out the form, ensuring they provide all required fields and accurate information.
-
-Please note that all fields marked as "required" are mandatory and must be filled in for the order to be processed. If a customer is unsure about any field, they can ask for clarification before proceeding.
-</thinking>
-
 # Soap Order Form - Help Guide
 ## Purpose
 The Soap Order Form is a tool for customers to place orders for soap products. It requires customers to provide their name, contact information, order details, and delivery preferences.

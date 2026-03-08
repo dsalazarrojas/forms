@@ -1,15 +1,3 @@
-<thinking>
-
-We're creating a registration form for the "vial_vault_registration_form" to collect information about vials and their storage. This form is used to ensure that all vials are properly documented and accounted for in the vault. 
-
-It is intended for users who need to store and manage vials. The form is not meant for users who do not need to store vials, nor is it intended to be used for any other purpose than for vial registration. 
-
-We will be using the form to collect the following information: vial type, quantity, storage start date, storage location, contact information, and storage instructions. We will review the answers to ensure that they are complete and accurate before allowing the vial to be stored. 
-
-Please make sure to fill out this form with the correct information to avoid any issues or rejections during the registration process.
-
-</thinking>
-
 # vial_vault_registration_form - Help Guide
 ## Purpose
 This form is used to collect information about vials and their storage. It ensures that all vials are properly documented and accounted for in the vault.

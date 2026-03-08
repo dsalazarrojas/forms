@@ -1,12 +1,3 @@
-<thinking>
-Trade Show Absence Form - a data collection tool that allows employees to report their absence from trade shows, providing supervisors with accurate and comprehensive information for planning and coordination.
-
-When you're about to submit this form, ensure you've reviewed the required fields to avoid unnecessary revisions and save time. The form is designed for multiple purposes: to collect absence information, ensure consistency with company policies, and support smooth trade show organization and coordination.
-
-Please fill out the form accurately, taking into account your role and responsibilities as an employee. This will help your supervisor stay informed and make better decisions for the company's representation at the trade show.
-
-</thinking>
-
 # Trade Show Absence Form - Help Guide
 ## Purpose
 The Trade Show Absence Form is designed for employees to report their absence from trade shows, allowing for accurate and comprehensive information to be collected. This form helps ensure that all necessary data is available to supervisors for planning and coordination.

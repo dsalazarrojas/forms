@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a warranty registration form, which is a standard form for customers to provide their information, product details, and warranty-related data. The main purpose of this form is to gather information from customers to ensure they are aware of the warranty terms and conditions, and to facilitate any potential warranty claims or repairs in the future. To prevent duplication, customers should not submit the form multiple times for the same product.
-</thinking>
-
 # Warranty Registration Form - Help Guide
 ## Purpose
 The Warranty Registration Form is used to collect customer information and product details to ensure that customers are aware of the warranty terms and conditions and to facilitate any potential warranty claims or repairs in the future.

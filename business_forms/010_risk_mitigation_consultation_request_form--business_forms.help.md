@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, I'll help you create a user-facing help guide for the "Risk Mitigation Consultation Request Form". This guide will help end users understand the purpose of the form, how to complete it, and what each field means.</thinking>
-
 # Risk Mitigation Consultation Request Form - Help Guide
 ## Purpose
 The Risk Mitigation Consultation Request Form is a tool used to identify, assess, and prioritize potential risks within a business environment. This form helps stakeholders to provide detailed information about risks, their impact, and mitigation plans, facilitating informed decision-making and proactive risk management.

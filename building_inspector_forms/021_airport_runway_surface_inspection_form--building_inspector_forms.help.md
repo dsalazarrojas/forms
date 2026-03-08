@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of the Airport Runway Surface Inspection Form is to ensure the safe and efficient operation of the runway by gathering information on its condition and identifying any potential hazards or issues that may impact flight operations. The form helps inspectors collect data on the runway's surface condition, lighting, markings, and other critical factors. It is a vital tool for airport maintenance and operations teams to identify and prioritize maintenance activities, preventing accidents and ensuring passenger safety.
-</thinking>
-
 # Airport Runway Surface Inspection Form - Help Guide
 ## Purpose
 The form is used to collect data on the condition of airport runways to ensure their safe and efficient operation.

@@ -1,15 +1,3 @@
-<thinking> 
-
-This form, "lease-performance-reporting-application-form," appears to be designed for reporting on the performance of leases. The form is likely used by landlords or property managers to gather information about the status and performance of different types of leases, including residential, commercial, and industrial leases. The form's purpose might be to track and analyze lease performance data, which could be used to make informed decisions about tenant relationships, property management, and potential lease renewals. 
-
-This form is structured into multiple sections, each covering different aspects of lease performance. Section 1 likely covers the general information about the lease, while sections 2 and 3 might be dedicated to specific reporting periods or additional details. 
-
-Looking at the fields, the form appears to require fields for reporting period, lease type, lease term, lease status, lease performance score, and lease performance comment. These fields could help users track and monitor lease performance data over different reporting periods. 
-
-Please note that some fields seem to be duplicated or have similar functionality (e.g., reporting_period and reporting_date_start/end). These fields might be intended to serve different purposes or capture additional information. 
-
-Overall, the form appears to be designed to gather comprehensive data about lease performance. However, the exact use case or business logic might not be clear without further context or information about how the form is used in practice.</thinking> 
-
 # lease-performance-reporting-application-form - Help Guide
 ## Purpose
 This form is designed to gather information about lease performance data for landlords or property managers to analyze and make informed decisions about tenant relationships, property management, and potential lease renewals.

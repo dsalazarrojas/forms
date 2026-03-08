@@ -1,7 +1,3 @@
-<thinking>
-The Job Application 2020 AICSDS form is a comprehensive form used by applicants to provide detailed information about themselves and their job applications. Before proceeding, please ensure you are using this form for its intended purpose and not as a substitute for other forms with similar purposes. It is also crucial to fill in the form accurately and completely to ensure a smooth evaluation process. This form should not be filled out for other purposes, such as requesting internal information or submitting non-relevant documents.
-</thinking>
-
 # Job Application 2020 AICSDS - Help Guide
 ## Purpose
 The Job Application 2020 AICSDS form is designed to collect essential information about job applicants, including their personal details, job preferences, and application status.

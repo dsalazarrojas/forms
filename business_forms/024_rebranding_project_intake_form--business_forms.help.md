@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rebranding_project_intake_form - Help Guide
 ## Purpose
 The rebranding_project_intake_form is a form used to collect information about a rebranding project. This form gathers essential details about the client, project, and project status to ensure accurate and efficient processing of the rebranding project. Please fill out this form to start the rebranding process.

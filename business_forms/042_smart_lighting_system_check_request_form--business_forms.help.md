@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Lighting System Check Request Form - Help Guide
 ## Purpose
 The Smart Lighting System Check Request Form is designed to be filled out by users to report any issues or problems with the smart lighting system. This form is intended to capture relevant information about the problem, including whether a system check is required, the date and time of the issue, the location where the issue occurred, and any additional notes or comments. The form is not meant to be filled out for routine system checks; only when there is a specific issue or problem with the system.

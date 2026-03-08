@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for partners who wish to realign their courier partner arrangements. It is used to submit a request to reassign their partner from their current partner or schedule a new partner to take over their route. This form is only used for partners who have an existing partnership and not for new partner applications. To avoid duplication, please only submit one request per partner at a time.
-
-To complete this form, select "Yes" or "No" for the "Partner Request" field to indicate whether you wish to realign your partner. If you select "Yes", you will be prompted to provide additional information.
-
-</thinking>
-
 # Courier Partner Realignment Request Form - Help Guide
 ## Purpose
 The Courier Partner Realignment Request Form is used to request changes to your current courier partner arrangement.

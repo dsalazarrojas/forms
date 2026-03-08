@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for landlords and tenants to create a lease agreement for renting a hangar space. The form collects general information about the hangar, the tenant's details, the lease term, rental fees, terms and conditions, and signatures from both the landlord and tenant. This form is intended for commercial or private use and is not affiliated with any specific form creation platform. The purpose of this form is to facilitate the creation of a clear and concise lease agreement, helping to establish a professional relationship between the landlord and tenant.
-</thinking>
-
 # Hangar Space Lease Agreement - Help Guide
 ## Purpose
 This form is designed to assist landlords and tenants in creating a comprehensive lease agreement for renting a hangar space. It collects relevant information to establish a clear understanding of the terms and conditions of the lease.

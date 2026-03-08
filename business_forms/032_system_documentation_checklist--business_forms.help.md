@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the System Documentation Checklist form's purpose, how to complete it, and what each field represents. This form is designed to gather information about system documentation, including business systems, administrative systems, software documentation, and documentation status. The purpose of this form is to ensure that all necessary documentation is up-to-date and accurate, which is crucial for the overall system's efficiency and reliability.
-
-This guide will walk you through the process of completing the form, explaining each field's meaning and importance in detail.
-
-</thinking>
-
 # System Documentation Checklist - Help Guide
 
 ## Purpose

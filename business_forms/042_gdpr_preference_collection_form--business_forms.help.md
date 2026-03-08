@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect personal data from individuals, specifically to determine their preferences and consent to the collection of their personal data for marketing and other purposes. This form must be filled out by end users to indicate their preferences and consent, and should be completed only by those who are 18 years old or older. Please note that this form is not intended for children and individuals under 18 years old.
-
-Before filling out this form, please make sure to review our <a href="https://www.example.com/privacy-policy">Privacy Policy</a> to understand how we collect, use, and protect your personal data.
-
-Please do not fill out this form if you have already filled it out in the past.
-
-</thinking>
-
 # gdpr-preference-collection-form - Help Guide
 ## Purpose
 The GDPR Preference Collection Form is a mandatory form used to collect personal data from individuals, specifically to determine their preferences and consent to the collection of their personal data for marketing and other purposes.

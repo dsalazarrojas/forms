@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for submitting digital management proposals to a business organization. The purpose of this form is to collect information about the vendor and submitter, including name, contact email, contact phone, submitter name, submitter email, and other relevant details. The form also captures the project description, project status, project status date, and submitter comments.
-</thinking>
-
 # Digital Management Proposal Submission - Help Guide
 ## Purpose
 This form is used for submitting digital management proposals to the business organization. It is intended to collect relevant information about the vendor and submitter.

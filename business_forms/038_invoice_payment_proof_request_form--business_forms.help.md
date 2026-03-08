@@ -1,7 +1,3 @@
-<thinking>
-This guide is meant to support non-technical users in understanding how to properly fill out the "Invoice Payment Proof Request Form". This form is used by employees to request a payment proof from customers, and its purpose is to gather the necessary information to process the proof request efficiently. This is a one-time form used by employees to request payment proofs, so it is not meant to be filled out by customers. The form is split into several sections that require different types of information from the employee filling it out.
-</thinking>
-
 # Invoice Payment Proof Request Form - Help Guide
 ## Purpose
 The Invoice Payment Proof Request Form is a tool used by employees to request a payment proof from a customer. It helps to gather the necessary information for processing the proof request efficiently.

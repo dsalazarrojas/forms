@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Shift Handover Validation Form" to ensure that users understand its purpose and how to complete it. This form is likely used for validating shifts handed over between staff members, and it's essential to break down each field's purpose and requirements clearly for the end-users to fill it out correctly. We should consider that this form may be used by staff members who are not familiar with the system or the specific requirements for shift handovers.
-</thinking>
-
 # Shift Handover Validation Form - Help Guide
 ## Purpose
 This form is used to validate shifts handed over between staff members. It aims to ensure that all necessary information is collected correctly to maintain accurate records and prevent errors.

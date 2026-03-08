@@ -1,7 +1,3 @@
-<thinking>
-This form is for businesses to apply for water recycling equipment. To ensure that your application is processed efficiently, please review the following steps before submitting your form. This form is for general business applications, so if you have already submitted an application for a specific project, please do not resubmit. This form will guide you through the required and optional fields for a successful submission.
-</thinking>
-
 # Water Recycling Equipment Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from businesses applying for water recycling equipment. It is used to gather essential details to process your application efficiently.

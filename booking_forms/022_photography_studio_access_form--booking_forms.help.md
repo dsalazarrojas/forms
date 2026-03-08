@@ -1,7 +1,3 @@
-<thinking>
-The goal of the "Photography Studio Access Form" is to gather necessary information from clients about their photography studio access requests, including client details, booking details, special requests, contact information, and booking status and date. This form ensures that the studio can effectively manage and track client interactions, ensuring a smooth and organized experience for both the client and the studio staff. Before filling out this form, please make sure you have not filled it out before, and that you have all the required information ready to go.
-</thinking>
-
 # Photography Studio Access Form - Help Guide
 ## Purpose
 The "Photography Studio Access Form" is a tool designed to help photography clients communicate their needs and requirements with the studio staff efficiently. By filling out this form, clients can submit their client details, booking details, and special requests to ensure a tailored and successful photo shoot experience.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a vehicle, including its registration, type, make, model, year, color, owner, license plate, location, notes, phone number, email, and address. This form is likely used for internal purposes, such as maintaining a database of company vehicles or managing a fleet of vehicles. It is not clear if this form is intended for a specific business or organization, but it appears to be designed for a single entity.
-</thinking>
-
 # Vehicle Database Form - Help Guide
 ## Purpose
 This form is used to collect and store information about vehicles.

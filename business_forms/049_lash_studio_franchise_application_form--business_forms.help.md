@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or businesses interested in applying to become a franchise of Lash Studio. The purpose of this form is to gather necessary data to evaluate their eligibility and suitability for the franchise program. Please note that this form is not intended for actual franchise application purposes, as it is a generic template created by AI.
-</thinking>
-
 # Lash Studio Franchise Application Form - Help Guide
 ## Purpose
 The Lash Studio Franchise Application Form is a tool used to collect information from potential franchisees who are interested in joining the Lash Studio franchise family. It is essential to provide accurate and honest answers to ensure a smooth evaluation process.

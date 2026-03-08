@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## international_missions_form - Help Guide
 ## Purpose
 The international_missions_form is used to capture and organize information about international missions. This form is intended to provide a standardized and structured way to collect and store mission details, dates, times, locations, descriptions, goals, team members, and contact numbers for international activities. 

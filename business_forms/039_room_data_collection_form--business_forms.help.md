@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect detailed information about a room in a building. This guide will help users understand the purpose of the form, how to fill it out, and what each field means. Before filling out this form, ensure you have all the necessary information at hand. Some fields are required and must be completed; others are optional but provide valuable additional details. Please note that this form is specific to rooms, so if you're filling out information for multiple rooms, you'll need to repeat this process for each room.
-
-The form is used to document a room's characteristics, safety features, and maintenance history. It's a crucial part of managing and maintaining a building's inventory.
-</thinking>
-
 # Room Data Collection Form - Help Guide
 ## Purpose
 

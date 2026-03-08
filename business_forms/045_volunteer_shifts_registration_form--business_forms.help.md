@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Volunteer Shifts Registration Form", first, let's understand the purpose and structure of the form. The form appears to be a registration form for volunteers to sign up for shifts, allowing them to select their availability and preferences for specific dates, times, and shifts. Each field has specific labels and types that require clarification.
-
-We'll start by creating the internal reasoning block and then output the final help document in Markdown.
-</thinking>
-
 # Volunteer Shifts Registration Form - Help Guide
 ## Purpose
 The "Volunteer Shifts Registration Form" is a tool for volunteers to register their availability and preferences for specific shifts. By filling out this form, volunteers can indicate their interest in working on certain dates, times, and shifts.

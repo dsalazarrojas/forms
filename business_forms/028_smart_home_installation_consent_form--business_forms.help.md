@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for smart home installations, typically for security or maintenance reasons. It should only be used for this purpose and not for other types of forms. Please make sure to use this form correctly to avoid duplication and ensure accurate completion. 
-</thinking>
-
 # Smart Home Installation Consent Form - Help Guide
 ## Purpose
 The Smart Home Installation Consent Form is used to gather information about a smart home installation, including the request for the installation, details about the installer, and contact information for the home owner and emergency contact person.

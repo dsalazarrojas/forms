@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to confirm sales appointments and capture relevant information about the customer and the appointment. This form is likely used to record and track sales interactions, ensuring that all necessary details are documented to facilitate follow-up and future reference.
-
-The form includes fields for customer contact information, appointment timing, sales agent details, and integration settings for calendar syncing. The form's design allows users to input data in a structured and organized manner, making it easier to review and analyze the sales appointment details.
-
-Before proceeding, ensure that you have the necessary information and permissions to complete this form accurately. If you are unsure about any field or section, please consult with your supervisor or refer to relevant company policies.
-
-</thinking>
-
 # Sales Appointment Confirmation Form - Help Guide
 ## Purpose
 The purpose of this form is to confirm sales appointments and capture relevant information about the customer and the appointment.

@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block to check for relevance and non-duplication:
-This form is intended for registration of individuals or organizations interested in joining the Innovation Consulting Network. The purpose of this form is to gather relevant information about the registrant, including their contact details, job title, and areas of expertise. This information will be used to facilitate connections and collaborations within the network. Before proceeding, please ensure that you are not already registered in the network and that your registration request is not a duplicate of an existing one. If you are unsure, please contact the network administrators for verification.
-</thinking>
-
 # Innovation Consulting Network Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals or organizations interested in joining the Innovation Consulting Network. It's a crucial step for registration and inclusion in the network.

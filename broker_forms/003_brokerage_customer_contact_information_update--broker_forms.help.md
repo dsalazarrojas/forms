@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to update the contact information for a client, allowing them to make changes to their current address, phone number, and email address. This form should only be used when the client's contact information has changed. If the client's information is up-to-date, this form should not be submitted. The form is meant to ensure that the client's updated information is accurately reflected in the system, and that they are opted-in or opted-out of marketing communications as desired.</thinking>
-
 # Brokerage Customer Contact Information Update - Help Guide
 ## Purpose
 This form is used to update a client's contact information, including their address, phone number, and email address. It's essential to fill this out only when your contact information has changed.

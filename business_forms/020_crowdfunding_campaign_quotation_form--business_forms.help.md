@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to gather information for a crowdfunding campaign quotation, which is used to create a quote for a customer who wants to start a crowdfunding campaign. This form is used to collect the details of the campaign, such as its title, target amount, target end date, and other relevant information.
 
 To complete this form, follow these steps:

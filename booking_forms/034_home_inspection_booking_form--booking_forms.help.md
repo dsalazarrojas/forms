@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be filled out by users to book a home inspection. To determine if this form is relevant to the user, please consider the following scenarios:
-  - The user is requesting a home inspection for a specific property.
-  - The user needs to provide information about the property and their contact details to facilitate the inspection process.
-  - The user has the option to provide additional notes or select options related to the inspection.
-  - The user has the option to provide an email address or phone number for further communication.
-  - The form may not be duplicated, and the information provided will be used to process the user's request.
-</thinking>
-
 # Home Inspection Booking Form - Help Guide
 ## Purpose
 The Home Inspection Booking Form is used to collect information from the user for a home inspection. This form is meant to be filled out by individuals or entities requesting an inspection of a specific property.

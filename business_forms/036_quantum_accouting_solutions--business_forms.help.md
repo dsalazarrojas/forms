@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect business-related information and data entry from users. It includes fields such as business form, data entry, maintain day book, tally data feeding, bank reconciliation, debtors & crediters, TDS filling, GST fees, debtors & crediters list, GST fees list, bank statement, account details, GST fees details, GST fees amount, GST fees frequency, GST fees start date, GST fees end date, GST fees total, PAN card, PAN card number, PAN card date, PAN card image, upload PAN card image, email, and phone. 
-
-To ensure that this form is filled correctly and relevant to the business, the following questions should be considered:
-
-- Is the business form relevant to your company's activities?
-- Are you authorized to access business data?
-- Are you entering data for the company you represent?
-</thinking>
-
 # Quantum Accounting Solutions - Help Guide
 ## Purpose
 This form is designed to collect business-related information and data entry from users. 

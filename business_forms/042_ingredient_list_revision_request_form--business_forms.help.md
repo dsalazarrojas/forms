@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ingredient List Revision Request Form - Help Guide
 ## Purpose
 The Ingredient List Revision Request Form is used to request revisions to the ingredient list. This form is used to provide additional information to the team about the changes that are needed, such as the reason for the revision and the priority level of the change.

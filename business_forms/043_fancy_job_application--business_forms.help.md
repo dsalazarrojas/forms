@@ -1,6 +1,3 @@
-<thinking>
-This form is used for job applicants to submit their applications. The form should only be used by current or former employees of the company. If you are not an employee, you should not use this form. Please note that this form is not meant to be filled out multiple times. Each job application should only be submitted once, and the status should be set to "Active" once the application is submitted.
-</thinking>
 # ประกy Job Application - Help Guide
 ## Purpose
 The **ประกy Job Application** form is used to submit job applications for current or former employees of the company. This form allows applicants to provide their name, job title, work experience, job description, contact information, and resume uploads.

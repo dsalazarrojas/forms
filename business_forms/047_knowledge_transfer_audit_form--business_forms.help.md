@@ -1,15 +1,3 @@
-<thinking> 
-This form is intended to be used for knowledge transfer audits, which are assessments of the process of passing on knowledge, skills, and expertise from one individual to another within an organization. The purpose of this form is to gather information about the knowledge transfer process, including the types of knowledge transferred, the transfer methods used, and any challenges or success factors associated with the process. 
-
-The form is designed to be completed by individuals involved in the knowledge transfer process, including knowledge transfer agents, recipients, or both. The form is composed of multiple pages, each focusing on different aspects of the knowledge transfer process.
-
-The form will not be used in real-time decision-making, and responses will be reviewed for quality and completeness. 
-
-The form is intended for internal use only within the organization.
-
-Please proceed to review the form details to complete it correctly. 
-</thinking>
-
 # knowledge_transfer_audit_form - Help Guide
 ## Purpose
 This form is designed to assess the knowledge transfer process within an organization. It will help to identify areas of improvement and best practices for effective knowledge transfer.

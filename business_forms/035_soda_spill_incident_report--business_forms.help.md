@@ -1,5 +1,3 @@
-<thinking>As a form designer, I need to make sure this help guide is clear and concise for end-users. Before creating the guide, I want to check if this form is being used for its intended purpose and not duplicated in other areas of the business. The purpose of this form is to document and report incidents involving spills, which can include fires, spills, or other types of accidents. This form is likely used in a business or industrial setting where safety and incident reporting are crucial. I'll make sure to tailor the guide to meet the specific needs of the end-users.</thinking>
-
 # Soda Spill Incident Report - Help Guide
 ## Purpose
 The Soda Spill Incident Report form is used to document and report incidents involving spills, which can include fires, spills, or other types of accidents that occur in a business or industrial setting. This form helps ensure that incidents are properly documented, investigated, and reported to relevant authorities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from new clients, capturing their essential details in a single, streamlined process. The form should only be submitted for genuine new clients, and not for existing users or other non-client purposes. Please ensure you have the necessary permissions and approvals to submit this form for the intended use case.
-</thinking>
-
 # new_client_profile_form - Help Guide
 ## Purpose
 

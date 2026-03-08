@@ -1,7 +1,3 @@
-<thinking>
-The Electrical Safety Checklist Form is intended to ensure that electrical systems are properly assessed, identify necessary repairs, and adhere to safety standards to prevent electrical hazards. This form is designed to be used by electricians, engineers, or maintenance personnel to inspect and evaluate electrical systems. The form's goal is to promote electrical safety, prevent accidents, and ensure compliance with relevant safety standards. To the best of our knowledge, there are no other forms with a similar purpose and content in the provided metadata.
-</thinking>
-
 # Electrical Safety Checklist Form - Help Guide
 
 ## Purpose

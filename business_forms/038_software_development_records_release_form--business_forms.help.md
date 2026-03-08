@@ -1,37 +1,3 @@
-<thinking>
-
-This form is used to request the release of software development records. It is intended for use by employees or external parties to request access to records, which may contain sensitive information. This form helps to track and record the release of records, ensuring that all parties involved are aware of the access and release dates. 
-
-The fields on this form are designed to gather necessary information for the release of software development records. They include:
-
-- Release Request: A field to indicate whether the request is for release or not.
-- Project Name: The name of the project related to the request.
-- Developer Info: Additional information about the developer requesting the record access.
-- Record Details: A selection of the record types and details related to the request.
-- Record Type: A field to specify the type of record being released.
-- Access Date: The date when access was granted or will be granted.
-- Data Sharing Method: A field to select the method of data sharing.
-- Consent Given: A field to indicate consent for access.
-- Record Retention: A field to indicate the record retention status.
-- Additional Notes: Any additional comments or notes related to the request.
-- Contact Email: The email address of the contact person.
-- Contact Phone: The phone number of the contact person.
-- Date of Contact: The date of the contact.
-- Contact Address: The address of the contact person.
-- Contact Name: The name of the contact person.
-- Contact Company: The company name of the contact person.
-- Contact Job Title: The job title of the contact person.
-- Record Release Type: A field to select the type of record release.
-- Access Granted By: A field to indicate who granted the access.
-- Release Date: The date when access was granted or will be granted.
-- End User Agreement: A field to indicate the end user agreement status.
-- Record Status: A field to indicate the record status.
-- Additional Comments: Any additional comments or notes related to the request.
-- Record Destruction Date: The date when the record will be destroyed.
-- Signature: A field for the person granting access to sign.
-
-</thinking>
-
 # software_development_records_release_form - Help Guide
 ## Purpose
 This form is used to request the release of software development records.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to capture information from clients about their hair extension service preferences and payment terms. The form's name suggests it is used in a professional setting, possibly a hair salon or studio. The fields provided indicate that the form will ask for details about the service, type of hair, length, weight, service duration, payment method, and payment terms. I will create a user-facing help guide that explains these fields in a clear and concise manner.
-</thinking>
-
 # Hair Extension Agreement Form Studio 37 - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients about their preferences for hair extension services provided by Studio 37.

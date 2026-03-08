@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from applicants for business operations positions within the company. It is meant to capture essential details about the applicant's qualifications, experience, and background. The form asks for contact information, work history, skills, education, and other relevant details to help the hiring process. It is recommended to review and fill out the form carefully to ensure accuracy and completeness.
-</thinking>
-
 # Business Operations Application Form - Help Guide
 
 ## Purpose

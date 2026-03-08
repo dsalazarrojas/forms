@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <dl class="help-block">
   # Employee Benefit Enrollment Form - Help Guide
   ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daily Income - Help Guide
 ## Purpose
 The "Daily Income" form is used to record a user's daily income and expenses. This form is essential for tracking financial data and providing a clear picture of a user's financial situation.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for cash reconciliation, a process where an entity reconciles its accounting records with its bank statement. The purpose of this form is to compare the accounting records with the bank statement, identify discrepancies, and document the process. This form will guide you through the steps to complete a cash reconciliation process.
-</thinking>
-
 # Cash Reconciliation Form - Help Guide
 ## Purpose
 This form is used to reconcile cash accounting records with the bank statement, identifying any discrepancies and documenting the process.

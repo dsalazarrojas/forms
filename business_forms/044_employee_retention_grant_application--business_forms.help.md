@@ -1,9 +1,3 @@
-<thinking>
-We have to make sure the form is for a specific use case and not a duplicate of another form. This is a form for Employee Retention Grant Application. It's a one-time request for a business to apply for a retention grant, likely used by HR or management to keep employees from leaving. This form should not overlap with other forms used for similar purposes. 
-
-Let's make sure to break it down in a clear and concise manner to avoid confusing end-users. I'll make sure to explain each field clearly without over-complicating things. This form's goal is to collect necessary information from employees or HR teams to process the retention grant. We'll keep it user-friendly and practical.
-</thinking>
-
 # Employee Retention Grant Application - Help Guide
 ## Purpose
 The Employee Retention Grant Application form is designed to help businesses apply for retention grants to keep their employees. This form collects essential information needed to process the grant application.

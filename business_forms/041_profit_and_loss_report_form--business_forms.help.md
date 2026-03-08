@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for businesses to report their financial performance. It's essential to fill out this form accurately to provide a clear picture of the company's revenue and expenses. Please ensure that the information you provide is up-to-date and correct to avoid any discrepancies in the reported data. It's also crucial to fill out the form for the correct business entity, as this information will be used for reporting purposes.
-</thinking>
-
 # Profit And Loss Report Form - Help Guide
 ## Purpose
 The Profit And Loss Report Form is designed to help businesses track their revenue and expenses. It provides an overview of the company's financial performance, which can be used for internal management, financial planning, and external reporting.

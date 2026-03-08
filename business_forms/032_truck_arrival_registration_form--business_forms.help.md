@@ -1,16 +1,3 @@
-<thinking>
-This guide is intended to provide an overview of the "truck_arrival_registration_form" form. The form is designed to collect information from drivers and trucking companies for various purposes such as registration, reporting, and record-keeping. 
-
-Before using this guide, please note that the form's layout and purpose might vary depending on the specific context and requirements of the organization using it. Ensure you understand the form's specific purpose and requirements for your organization. It's also crucial to review the form's fields carefully to ensure you're providing accurate and relevant information.
-
-If you're unsure about any part of the form or the information you're supposed to provide, please seek guidance from the relevant authorities or the form's administrator. 
-
-This guide is intended to be a general help guide and may not cover every possible scenario or specific requirements of your organization. 
-
-Please ensure you read and understand each field carefully before proceeding. 
-
-</thinking>
-
 # truck_arrival_registration_form - Help Guide
 ## Purpose
 The "truck_arrival_registration_form" is designed to collect information from drivers and trucking companies for various purposes such as registration, reporting, and record-keeping.

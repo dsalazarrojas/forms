@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retail Digitalization Funding Application - Help Guide
 ## Purpose
 The Retail Digitalization Funding Application is a form used to apply for funding for digitalization projects in the retail industry. It helps to gather information about the project details, retailer information, project location, funding request, project cost, grant programs, supporting documents, project description, business support organization, agency name, contact person, phone, email, address, city, state, zip, project status, project type, project goal, project objectives, and project timeline.

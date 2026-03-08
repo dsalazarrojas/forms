@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to evaluate the quality of service provided by a vendor or service provider. It's meant to help gather information about their performance in various areas such as timeliness, professionalism, and customer service. The form is for internal use only and is not intended for public display. Before completing this form, please ensure that you are authorized to do so and that the vendor being evaluated is relevant to your work or organization.
-</thinking>
-
 # Building Service Vendor Evaluation Survey - Help Guide
 
 ## Purpose

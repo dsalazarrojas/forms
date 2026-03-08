@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture the daily activities of employees, including their work-related activities and non-work-related activities. The form aims to provide a clear and concise record of what employees do on a daily basis, helping to track productivity, identify time management patterns, and monitor work-life balance. The form is not meant to be a comprehensive time tracking or activity log, but rather a supplementary tool for employees to document their daily activities in a simple and straightforward manner.
-</thinking>
-
 # daily_activity_log_form - Help Guide
 ## Purpose
 The purpose of this form is to record and track daily activities of employees.

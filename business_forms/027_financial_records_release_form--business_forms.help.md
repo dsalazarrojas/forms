@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information for the release of financial records. It's essential to understand that the form is not intended for sensitive or confidential information. The goal is to collect details that are necessary for the proper handling and management of financial records. To fill out this form, users must ensure that the fields are filled in accurately and completely.
-</thinking>
-
 # Financial Records Release Form - Help Guide
 ## Purpose
 

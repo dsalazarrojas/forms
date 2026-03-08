@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information from employees about their maintenance requests. It is intended to be filled out on the first day of a maintenance request, and will help employees provide a clear and concise description of the issue. The form is meant to be simple and easy to use, and should not require more than a few minutes to complete. Please ensure that you have read and understood the purpose of this form before proceeding, and that you are not duplicating a request that has already been submitted. If you are unsure whether a request has already been submitted, please search our database or contact your supervisor/manager for verification.</thinking>
-
 # Maintenance Request Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from employees about their maintenance requests. It is used to create a clear and concise description of the issue, and to gather information that will help our team address it effectively.

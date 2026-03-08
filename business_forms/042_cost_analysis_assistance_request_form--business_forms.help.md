@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to support cost analysis assistance requests in a business context. The form's purpose is to collect necessary information about a project, including its details, potential risks, cost analysis, and file attachments. 
-The form aims to provide a structured approach to submitting a project-specific cost analysis request, helping the requesting party and the cost analysis team to efficiently gather and review the required data. 
-Before filling out the form, ensure that it's not a duplicate request for the same project, as this would be considered redundant and unnecessary. 
-Additionally, if you're unsure about any aspect of the form or the project, please contact your supervisor or the project manager to clarify any doubts or concerns before proceeding.
-</thinking>
-
 # Cost Analysis Assistance Request Form - Help Guide
 ## Purpose
 This form is designed to support cost analysis requests for projects. Please fill it out to provide a detailed overview of your project and its related costs.

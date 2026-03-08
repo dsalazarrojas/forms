@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Cylinder Order Form - Help Guide
 ## Purpose
 This form is used to create custom cylinder orders for your specific needs. It is intended for business-to-business use cases where you need to order cylindrical products with tailored specifications. Please ensure that all relevant fields are accurately filled out to ensure proper processing of your order.

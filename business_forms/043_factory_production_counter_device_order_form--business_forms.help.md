@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for ordering a factory production counter device. This form is intended for production team members or authorized personnel to submit orders for devices that need to be manufactured or produced in the factory. The form should only be used for legitimate orders and not for duplicate or test submissions. It is crucial to review the form carefully and ensure that all required fields are filled out accurately. 
-
-Please note that this form is part of the production process, and any mistakes can cause delays or incorrect production. Therefore, make sure to double-check all the details before submitting.
-
-</thinking>
-
 # Factory Production Counter Device Order Form - Help Guide
 ## Purpose
 The Factory Production Counter Device Order Form is a form used to place orders for production counter devices in the factory. This form is designed to collect necessary information from production team members or authorized personnel for accurate and efficient production.

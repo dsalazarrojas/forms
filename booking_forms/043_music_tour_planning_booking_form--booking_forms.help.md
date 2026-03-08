@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information for music tour planning and booking. The form is designed to gather data from the user about the tour, including dates, locations, requirements, budget, and other relevant details. It is intended for internal use within the organization, and the data collected will be used to inform tour planning and booking decisions.
-
-Before completing the form, please ensure that you have the necessary authorization and permissions to access and submit this form. Duplicate submissions will not be accepted.
-
-Please note that some fields are not required, but they are still an important part of the tour planning process. If you are unsure about any field, please refer to the "Tips" section for guidance.
-
-</thinking>
-
 # Music Tour Planning Booking Form - Help Guide
 ## Purpose
 This form is used to collect information for music tour planning and booking.

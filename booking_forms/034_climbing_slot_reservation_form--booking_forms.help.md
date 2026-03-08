@@ -1,5 +1,3 @@
-<thinking>As a seasoned form designer and technical writer, I'll create a comprehensive user-facing help guide for the Climbing Slot Reservation Form. To ensure the form's purpose is clear and relevant, I'll first provide an internal reasoning block to explain the form's goal and any specific considerations for its completion.</thinking>
-
 # Climbing Slot Reservation Form - Help Guide
 ## Purpose
 This form is designed to help climbers reserve a time slot for a climbing session at our climbing facility. The form collects essential information from customers to ensure a smooth and safe experience for everyone involved.

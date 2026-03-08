@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect business contact information and other relevant details for local market development applications. The form is likely used to gather data for businesses operating in a local market, such as restaurants, retail stores, or service providers. It's intended for businesses that provide various services, like Service A, Service B, and Service C, and may have a specific location or operate at certain hours. The form asks for contact preferences, marketing materials, and financial information, including documents and revenue data. It also inquires about the management structure, business history, and ownership. The purpose of this form is to collect comprehensive data about local businesses for development purposes.
-
-To avoid duplication and ensure accuracy, please review the form carefully before submission. If you have any questions or need clarification, please contact us at form@gic.mx.
-</thinking>
-
 # local-market-development-application-form - Help Guide
 
 ## Purpose

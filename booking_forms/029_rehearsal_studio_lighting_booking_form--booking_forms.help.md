@@ -1,11 +1,3 @@
-<thinking>
-
-The goal of this form is to book a rehearsal studio for events, such as concerts, dance performances, or theater productions. This form aims to collect booking information, contact details, and specific lighting options required for the event. By submitting this form, the event organizers can schedule and prepare their event's lighting setup.
-
-This form is a general-purpose form designed to accommodate a wide range of event types and sizes. To avoid any potential issues or duplication, we recommend that users review the form carefully before submitting it.
-
-</thinking>
-
 # Rehearsal Studio Lighting Booking Form - Help Guide
 ## Purpose
 The Rehearsal Studio Lighting Booking Form is designed to collect booking information for events that require custom lighting setup. This form will help you book a rehearsal studio and specify your lighting needs.

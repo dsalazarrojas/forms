@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supervisor Note Form - Help Guide
 ## Purpose
 The Supervisor Note Form is a document used to record and document important notes from supervisors to employees or workers. This form helps to provide valuable feedback, instructions, or reminders to workers, ensuring they are up-to-date and aware of their tasks and expectations.

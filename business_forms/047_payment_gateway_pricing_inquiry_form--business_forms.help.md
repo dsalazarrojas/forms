@@ -1,13 +1,3 @@
-<thinking>
-This is a thought process block to clarify the form's purpose and any internal considerations.
-The "Payment Gateway Pricing Inquiry Form" is a business tool used to inquire about payment gateway pricing and related information. This form is primarily used by business users to gather details about payment gateways, such as their pricing structures, payout options, and other relevant data. 
-Before proceeding, please note that this form is designed to be a general guide. The actual requirements and options may differ based on your business needs and policies. 
-The form's fields are designed to collect specific information related to payment gateway pricing. Please ensure you have all necessary authorizations and approvals before completing this form. 
-Please review the form's fields carefully and ensure you understand the implications of your input before submitting it. 
-This guide will walk you through each field's purpose and expectations.
-
-</thinking>
-
 # Payment Gateway Pricing Inquiry Form - Help Guide
 
 ## Purpose

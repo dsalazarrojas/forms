@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Responsive Workshop Registration Form - Help Guide
 
 ## Purpose

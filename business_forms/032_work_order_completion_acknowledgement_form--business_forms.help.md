@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to acknowledge the completion of a work order, likely from a client or customer. This form is likely used to ensure that the work has been finished and that the necessary confirmations and comments are collected. The completion of this form may be required before releasing the finished work to the client or customer.
 
 It is also possible that this form is used for internal tracking and record-keeping purposes, ensuring that the work orders are being properly managed and followed up on.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help parties release their non-disclosure agreements (NDAs) and outline the terms of the release. The purpose of this form is to provide a clear and formal record of the release of confidential information, including the date and reason for the release. This form is typically used in business settings where sensitive information needs to be shared, and it's essential to have a formal agreement in place to protect both parties involved.
-
-Before filling out this form, please ensure that you have a valid non-disclosure agreement in place and that you're not duplicating work that has already been done.
-
-</thinking>
-
 # Non Disclosure Agreement Release Form - Help Guide
 ## Purpose
 This form is used to document the release of confidential information and outline the terms of the release.

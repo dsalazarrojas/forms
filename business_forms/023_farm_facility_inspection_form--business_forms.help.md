@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about farm facilities for inspection and assessment. This form is intended to gather details about the facility's name, type, location, and other relevant data. The form is divided into multiple sections, making it easy to fill out and review.
-
-Before filling out this form, ensure that you have all the necessary information at hand. The form is not intended to be completed in one session; rather, it's a comprehensive guide to gathering information over several interactions. 
-
-Please ensure that you have the necessary permissions or access to the information required to fill out this form accurately. If you're unsure about any field, please ask your supervisor or colleague for clarification before proceeding.
-
-This form is for internal use only, and the information collected will be used for official purposes.
-
-Please review the form carefully and provide accurate information to ensure that the data collected is reliable and useful for assessment and inspection.
-
-The form is designed to be filled out by authorized personnel only. If you're not an authorized user, please do not access this form.
-
-</thinking>
-
 # farm_facility_inspection_form - Help Guide
 ## Purpose
 The farm facility inspection form is a tool for collecting and documenting information about farm facilities. It is used to gather data on the facility's details, status, and other relevant information.

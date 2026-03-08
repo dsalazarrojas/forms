@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect information from potential applicants for the Data Management Innovation Program, a program aimed at encouraging innovation and improvement of data management practices within the organization. This form is intended to gather details about the project idea, team members, project goal, project start and end dates, team lead and team member information, and project impact. To ensure relevance and non-duplication, the form will only accept applications that meet the specified criteria outlined in the program's guidelines. Please refer to the program's guidelines for more information.</thinking>
-
 # Data Management Innovation Program Application - Help Guide
 ## Purpose
 The Data Management Innovation Program Application form is designed to collect information about potential projects and teams seeking to innovate and improve data management practices within the organization. The form requires applicants to provide details about their project, team members, and project objectives.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 DevOps Phase Details Form - Help Guide
 =====================================
 

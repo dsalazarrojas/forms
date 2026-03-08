@@ -1,7 +1,3 @@
-<thinking>
-This form is used for inquiring about tattoos, specifically for those looking to get a tattoo or seeking consultation on a tattoo design. The form will ask for contact information and details about the desired tattoo design or theme. The purpose of this form is to gather relevant information about the individual inquiring about a tattoo, which will aid in providing an accurate quote for the tattoo and scheduling a consultation or appointment if necessary. This form does not aim to create a new account or store personal identifiable data. Users are only required to fill in fields that are marked as required.
-</thinking>
-
 # Tattoo Inquiry Form DTP - Help Guide
 ## Purpose
 This form is designed to gather information from individuals looking to inquire about a tattoo, including their contact information and details about their desired tattoo design or theme.

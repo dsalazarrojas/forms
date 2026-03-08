@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for end-users to register for a Corporate Recovery Strategy Course, providing necessary details to enroll in the course. To ensure accuracy and relevance, please confirm that you are registering for the correct course and that you are an authorized user to register on behalf of the participant(s). To prevent duplicate registrations, please only submit one registration per participant.
-
-</thinking>
-
 # Corporate Recovery Strategy Course Registration - Help Guide
 ## Purpose
 The Corporate Recovery Strategy Course Registration form is used to collect registration information for the Corporate Recovery Strategy Course. Please use this form to register participants for the course.

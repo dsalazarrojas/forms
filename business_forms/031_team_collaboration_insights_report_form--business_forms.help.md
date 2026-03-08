@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and insights from team members on their collaboration experiences, communication patterns, and project status within a team. The goal is to gather information that can help teams improve their collaboration and communication processes.
-</thinking>
-
 # Team Collaboration Insights Report Form - Help Guide
 ## Purpose
 This form is designed to gather information about your collaboration experiences, communication patterns, and project status within the team. Your responses will help us understand what works well and what areas need improvement.

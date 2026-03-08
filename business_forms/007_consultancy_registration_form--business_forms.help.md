@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is designed to collect information for consultancy registration, a crucial step for businesses to showcase their profile and provide services to potential clients. Before starting, please ensure that you are registering your business with accurate and up-to-date information to avoid duplication or incorrect submissions.
-
-This form is used to provide detailed information about your consultancy business. Please fill it out carefully and thoroughly, ensuring all required fields are completed. You can save your progress and return to this form later if needed. 
-
-</thinking>
-
 # Consultancy Registration Form - Help Guide
 ## Purpose
 The Consultancy Registration Form is a comprehensive form used to gather essential details about your consultancy business for our records and to facilitate communication with potential clients.

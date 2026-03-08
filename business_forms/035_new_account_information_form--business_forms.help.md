@@ -1,11 +1,3 @@
-<thinking>
-This guide aims to help users understand the purpose and usage of the "New Account Information Form".
-The form is intended for collecting new account information, such as names and contact details.
-To ensure relevance, please ensure this form is used for the correct purpose and not as a duplicate entry.
-Before starting, review the required fields for accuracy.
-Please complete this form carefully, as any incorrect information may cause delays or issues with account setup.
-</thinking>
-
 # New Account Information Form - Help Guide
 ## Purpose
 The "New Account Information Form" is designed to collect essential details from new account holders.

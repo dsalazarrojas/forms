@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vat_registration_form - Help Guide
 ## Purpose
 The VAT registration form is designed to collect business-related data for VAT registration purposes. This form is used to gather information about a business's name, address, VAT number, type, phone number, email, VAT registration date, registration status, and any additional notes or comments.

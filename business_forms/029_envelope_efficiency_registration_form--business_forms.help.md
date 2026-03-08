@@ -1,10 +1,4 @@
-> <thinking>
-
-This form is a data collection tool used to register and track efficiency metrics for envelopes. It is designed to gather accurate and comprehensive information from individuals in the company to analyze and optimize envelope distribution and usage. This form helps in streamlining internal processes, reducing errors, and improving overall envelope efficiency. Please ensure that the same individual does not submit the form multiple times as each submission will be treated as a new entry.
-
-</thinking>
-
-# Envelope Efficiency Registration Form - Help Guide
+> # Envelope Efficiency Registration Form - Help Guide
 ## Purpose
 The Envelope Efficiency Registration Form is designed to gather information from individuals to analyze and improve envelope distribution and usage within the company. By completing this form, you are contributing to a comprehensive data set used to optimize envelope-related processes.
 

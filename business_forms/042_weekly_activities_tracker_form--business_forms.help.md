@@ -1,15 +1,3 @@
-<thinking>
-This form is used for tracking weekly activities for various business forms, such as checking if weekly goals and activities are completed, and tracking the status of projects and activities. The form is likely used by business managers or administrators to monitor and analyze weekly activities across different business forms. The purpose of this form is to provide a structured and organized way to report on weekly activities, allowing for better decision-making and performance evaluation.
-
-Before filling out this form, make sure to understand the specific business form(s) you are tracking and ensure you are not duplicating the information already available in other forms or reports.
-
-Note that some fields are optional, but it's crucial to fill out only the necessary information to avoid unnecessary data entry.
-
-Also, be aware that this form has multiple select options for certain fields, and some options might be mutually exclusive (e.g., choosing 'Yes' and 'No' at the same time for 'Weekly Activities' and 'Completed Activities' might not make sense). 
-
-This form's fields and their explanations are as follows:
-</thinking>
-
 # weekly_activities_tracker_form - Help Guide
 ## Purpose
 This form is used to track weekly activities for various business forms.

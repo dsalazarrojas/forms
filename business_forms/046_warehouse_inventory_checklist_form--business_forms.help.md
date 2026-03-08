@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from warehouse managers and stockroom staff to quickly assess the current state of the inventory in the warehouse. The form should be used by authorized personnel to record whether items are available or not, and if not, suggest a re-order date. This guide will help end users understand the purpose and usage of the form to ensure accurate and efficient data collection.
-
-</thinking>
-
 # Warehouse Inventory Checklist Form - Help Guide
 ## Purpose
 The Warehouse Inventory Checklist Form is used by authorized personnel to quickly assess the current state of the inventory in the warehouse. The form helps in recording whether items are available or not, and if not, suggests a re-order date for replenishment.

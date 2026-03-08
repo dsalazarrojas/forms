@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Commitment Form Template," we must first understand the form's purpose and requirements. The form appears to be a template for documenting and recording commitments made between parties, likely in a professional or business setting. It captures essential information about the parties involved, the commitment details, and the terms and conditions of the agreement. The form also includes sections for formalities, such as signatures and acknowledgment, to ensure that all parties are in agreement and aware of their responsibilities.
-
-We'll review the form's fields to ensure that we provide clear and concise explanations for each field, taking into account the type of information each field is meant to collect.
-
-</thinking>
-
 # Commitment Form Template - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my goal is to create a clear and concise user-facing help guide for the "Business Expense Policy Review Registration" form. This guide should cover the form's purpose, how to complete it, and provide field-by-field explanations to ensure end users understand each required field. I will analyze the YAML input schema and use it to create a comprehensive guide that covers the essential information needed to complete the form correctly.</thinking>
-
 # Business Expense Policy Review Registration - Help Guide
 ## Purpose
 The Business Expense Policy Review Registration form is designed to collect information from business expense policy attendees, such as their details, preferences, and interests, to ensure they receive a tailored experience. This form helps the organizers understand who will be attending, what they want to learn, and what accommodations may be needed.

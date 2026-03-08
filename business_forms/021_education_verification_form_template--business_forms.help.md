@@ -1,10 +1,3 @@
-<thinking>
-The "Education Verification Form Template" is a standard form used to verify an employee's education. The form is designed to gather information about an employee's educational background, including their employer's details, employee's details, education details, and verification status. The purpose of this form is to ensure that the employee's education is verified and accurately reflected in their record. It is essential to complete this form accurately and thoroughly to maintain the integrity of the employee's data.
-
-Before starting, please review the form carefully to ensure you have all the necessary information. If you are unsure about any field, refer to the field-by-field explanations below.
-
-</thinking>
-
 # Education Verification Form Template - Help Guide
 ## Purpose
 The "Education Verification Form Template" is a standard form used to verify an employee's education.

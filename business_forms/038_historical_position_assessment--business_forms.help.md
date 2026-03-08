@@ -1,7 +1,3 @@
-<thinking>
-The goal is to create a help guide that assists users in filling out the Historical Position Assessment form. This form captures various aspects of a job's history, including position, responsibilities, performance, and other relevant details. It is designed to collect and store information about an employee's past work experience, which can be useful for future reference, performance evaluation, or other business purposes. To avoid duplication, users should only fill out this form for positions that have not been previously assessed. 
-</thinking>
-
 # Historical Position Assessment - Help Guide
 ## Purpose
 This form is used to collect and store information about an employee's past work experience, including position, responsibilities, performance, and other relevant details.

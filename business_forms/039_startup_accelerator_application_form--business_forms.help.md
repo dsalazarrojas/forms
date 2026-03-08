@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help startups and businesses apply for the startup accelerator program. The form is likely used by entrepreneurs and business leaders to provide information about their startup, team, and contact details. Before filling out the form, make sure you have all the necessary information and that your startup is eligible for the program. Review the program's terms and conditions, and ensure you are aware of the application deadline. 
-</thinking>
-
 # Startup Accelerator Application Form - Help Guide
 ## Purpose
 The Startup Accelerator Application Form is a tool to help you apply for the startup accelerator program. The form gathers essential information about your startup, team, and contact details to assess your eligibility for the program.

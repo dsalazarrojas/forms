@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from guests who are interested in making a pre-order for a resort opening. The purpose of this form is to collect contact details, preferred stay dates, and package choices for the guests. This form is likely used by resort management to get an idea of the number of guests interested in pre-ordering and to gather information on their preferences. This information will be used to plan and prepare for the resort opening. The form is not intended for immediate booking, but rather to get an estimate of interest and preferences before the actual booking process begins.
-</thinking>
-
 # Resort Opening Pre Order Form - Help Guide
 ## Purpose
 This form is a pre-order form for guests interested in booking a stay at the resort during its opening. It allows guests to input their details, preferred stay dates, and package choices.

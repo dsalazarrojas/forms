@@ -1,6 +1,3 @@
-<thinking>
-The form is used to collect information about a schedule collection request. It is intended for use when an employee needs to arrange for a service or resource to be collected from an office or location. The purpose of this form is to gather essential details such as pickup date and time, collection location, and contact information. This form is used in a business setting, likely in an office or similar environment. This form will not be used for duplicate requests. A duplicate request will result in an error message when submitted.
-</thinking>
 # Schedule Collection Request - Help Guide
 ## Purpose
 The purpose of this form is to gather information about a schedule collection request from an employee in a business setting.

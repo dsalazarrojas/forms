@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from vendors who want to participate in a marketplace. The goal is to provide a platform for vendors to showcase their products and services, and for buyers to find what they need. This form will help us understand the vendor's business and store information, which will enable us to better serve both parties. It's crucial that the data collected is accurate and up-to-date, as it will be used to promote the vendor's business and connect buyers with their offerings.
-</thinking>
-
 # Marketplace Vendor Information Form - Help Guide
 ## Purpose
 The Marketplace Vendor Information Form is a tool designed to help vendors share their business details with potential customers. Completing this form will allow you to provide essential information about your products, services, and business operations, which will help us better promote your brand and connect you with potential buyers.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about the integrity of a component, including its location, type, and inspection results. The goal is to verify that the component is in good condition and meets certain standards. The form will ask for a report ID, inspection date, inspector name, and other relevant details about the component. It also requires the inspector to record their signature, indicating they have reviewed and verified the component's integrity.
-</thinking>
-
 # Component Integrity Verification Report - Help Guide
 ## Purpose
 The Component Integrity Verification Report is a form used to collect information about the integrity of a component, ensuring it meets certain standards and standards of quality. This report is essential for maintaining a high level of quality control and identifying potential issues with components.

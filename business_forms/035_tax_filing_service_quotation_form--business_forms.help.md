@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for a tax filing service quotation, which is a formal request for a quote from a tax professional or service provider. The form collects client information, service details, and other relevant data to facilitate the quote process. This form is likely used by a business or organization providing tax filing services to clients. 
-
-To ensure relevance and non-duplication, the form is likely used in a business-to-business (B2B) or business-to-consumer (B2C) context, where the service provider is quoting clients on tax filing services. 
-
-Please note that this form is a template and might need adjustments according to the specific business needs and requirements.
-</thinking>
-
 # Tax Filing Service Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients for a tax filing service quotation. It is used to gather details about the client, the services required, and other relevant data to provide a quote for the tax filing service.

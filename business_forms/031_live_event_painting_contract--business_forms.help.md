@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Live Event Painting Contract - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Plan Checklist Form - Help Guide
 ## Purpose
 The Business Plan Checklist Form is a comprehensive guide to help entrepreneurs and business owners create a well-structured business plan. This form is designed to walk you through the essential components of a business plan, ensuring you have a clear and concise plan in place to guide your business operations.

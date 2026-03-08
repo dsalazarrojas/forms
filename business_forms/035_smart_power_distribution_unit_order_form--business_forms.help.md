@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Power Distribution Unit Order Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers about a program's quality, service, and overall experience. This feedback is crucial for the program administrators to identify areas of improvement and make informed decisions about the program's development and services offered.
-
-To ensure that the feedback is valuable and relevant, we will not include answers that are already known or have been previously answered. Please answer this form with honesty and thoughtfulness, and do not repeat answers from previous surveys.
-
-This form consists of multiple sections, each focusing on different aspects of the program's quality. Please answer each question according to your overall impression of the program and the specific aspect being asked about. If you have any comments or suggestions, please feel free to express them in the appropriate open-ended field.
-
-</thinking>
-
 # Program Quality Survey - Help Guide
 
 ## Purpose

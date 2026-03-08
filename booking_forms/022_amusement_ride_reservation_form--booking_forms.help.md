@@ -1,7 +1,3 @@
-<thinking>
-To confirm that we are on the same page, the purpose of this form is to collect information from users for an amusement ride reservation. The form is used to gather details such as guest name, number of riders, preferred date and time, contact email, and whether a waiver has been signed. The form's structure and field explanations are designed to ensure that users can easily provide the necessary information for a smooth reservation process. This guide will walk you through each field to help ensure users understand what is needed.
-</thinking>
-
 # Amusement Ride Reservation Form - Help Guide
 ## Purpose
 The Amusement Ride Reservation Form is used to collect information from users for an amusement ride reservation. It is essential to provide accurate and complete details to ensure a smooth and enjoyable experience for all.

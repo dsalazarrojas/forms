@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by business users to analyze and evaluate different aspects of their mailing processes, including the frequency, size, and ratings of their mailings. It is meant to provide a structured and systematic approach to reviewing and improving their mailing procedures. This form does not appear to be a standard or widely used form, so it's possible that it's a custom-made form for a specific business or organization. I'll do my best to create a comprehensive and helpful guide to assist users in understanding and completing the form correctly.
-</thinking>
-
 # Mail Analysis Checklist - Help Guide
 ## Purpose
 The Mail Analysis Checklist is a form used to analyze and evaluate different aspects of your mailing processes. This form is designed to help you identify areas for improvement and provide a structured approach to reviewing your mailing procedures.

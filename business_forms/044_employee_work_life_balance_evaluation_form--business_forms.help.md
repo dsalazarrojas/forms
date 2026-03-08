@@ -1,12 +1,3 @@
-<thinking>
-To provide an accurate and helpful user guide for the employee_work_life_balance_evaluation_form, I will first review the form's purpose and fields. This form appears to be designed to evaluate an employee's work-life balance, job satisfaction, and manager support. It consists of several fields that gather information on the employee's job role, work hours, job satisfaction, and other relevant aspects of their work experience. The goal is to help management understand the employee's overall job satisfaction and work-life balance, providing valuable insights for employee development and well-being.
-
-This form is a straightforward evaluation tool, asking employees to provide their responses on a scale of 1-10 for several aspects of their job. However, I will review each field carefully to ensure that I provide the best possible explanations for each field, considering the available information.
-
-After reviewing the form's structure and fields, I will create a user guide that will be easy to follow and understand.
-
-</thinking>
-
 # employee_work_life_balance_evaluation_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Gas Service Complaint Form is designed to be used by customers to report any issues they encounter with their gas services. This form allows customers to provide detailed information about their complaint, which will be reviewed and addressed by our customer service team. Before starting, please note that this form should only be filled out if the customer has already attempted to contact our customer service team and has not received a satisfactory resolution.
-</thinking>
-
 # Gas Service Complaint Form - Help Guide
 
 ## Purpose

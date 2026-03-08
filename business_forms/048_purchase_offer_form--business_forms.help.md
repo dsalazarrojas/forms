@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from a buyer to facilitate a purchase offer between the buyer and the seller. This form gathers essential details such as buyer and seller contact information, product information, payment terms, and payment method. It's a crucial document for establishing a clear understanding of the transaction and ensuring both parties are on the same page. This form should be used when a buyer wants to make an offer on a product or service to the seller, and the seller needs to respond with their acceptance or rejection.
-</thinking>
-
 # Purchase Offer Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information for a purchase offer between the buyer and the seller, ensuring clear communication and understanding of the terms.

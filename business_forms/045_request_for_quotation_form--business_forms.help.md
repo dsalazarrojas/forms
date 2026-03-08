@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a quotation request from a business user, which will be used to create a quotation for a specific product or service. This form should only be used for business-to-business (B2B) purposes. To ensure that the form is used correctly, please check that the business id is accurate and not already assigned to a different request. If you are unsure, please contact the relevant business team for assistance.
-</thinking>
-
 # Request For Quotation Form - Help Guide
 ## Purpose
 

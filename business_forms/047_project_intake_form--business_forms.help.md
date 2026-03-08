@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Intake Form - Help Guide
 
 ## Purpose

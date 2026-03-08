@@ -1,8 +1,3 @@
-<thinking>
-This form is a registration for facilities to commit to reducing plastic usage. The purpose of this form is to gather information about facilities that are committed to reducing plastic usage. This is a crucial step in tracking progress and identifying areas for improvement. Before filling out this form, make sure that your facility has already taken steps to reduce plastic usage and is committed to continuing to do so. This form should not be completed by facilities that are not already committed to reducing plastic usage.
-
-</thinking>
-
 # Zero Plastic Facility Commitment Registration - Help Guide
 ## Purpose
 The Zero Plastic Facility Commitment Registration form is used to gather information about facilities that have committed to reducing plastic usage.

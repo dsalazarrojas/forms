@@ -1,8 +1,3 @@
-<thinking>
-This form is a general-purpose appointment scheduling form for customers to book a custom furniture appointment with a business. It is likely used in a retail or sales context, where customers want to schedule a time to discuss their furniture needs with a sales representative. This form is not specifically tied to any particular business or industry, making it a good starting point for a wide range of use cases. It is also worth noting that the form does not include fields for payment or product selection, suggesting that the purpose of this form is primarily to facilitate appointment scheduling and not to complete a purchase.
-
-</thinking>
-
 # Custom Furniture Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule a custom furniture appointment with a business. Customers can input their name, contact information, and a desired schedule time to discuss their furniture needs with a sales representative.

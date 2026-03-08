@@ -1,22 +1,3 @@
-<thinking>
-This form is intended to be used to collect information from clients about their database optimization needs. The form is not required for any specific business purpose, but rather as a general tool to gather client feedback and preferences. It's possible that the form may be used to generate quotes or estimates for database optimization services, but the specific use case is left to the discretion of the form submitter. 
-
-The form collects various pieces of information, including but not limited to:
-- Client contact information (client_name, email, phone)
-- Service type selection
-- Frequency of service (Option 4, 5, 6, 7)
-- Database type selection
-- Database size
-- Database optimization service level (Option 12, 13, 14, 15, 16)
-- Service level selection
-- Service start and end dates
-- Estimated cost
-
-Please use this form to provide accurate and relevant information about your database optimization needs. 
-
-Note: The form will not generate any automatic calculations or outcomes. The data collected will be used for internal purposes only.
-</thinking>
-
 # Database Optimization Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their database optimization needs and preferences.

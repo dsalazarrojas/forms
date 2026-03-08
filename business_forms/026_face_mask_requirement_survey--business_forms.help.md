@@ -1,12 +1,3 @@
-<thinking>
-This form is a survey designed to gather information about the face mask requirement for a business. The purpose of this form is to gather responses from individuals about their face mask needs and preferences. This form is intended for business purposes only and should not be used for personal reasons. Please ensure you are responding to this form in your official capacity as an employee or representative of your company.
-
-Before completing this form, please note that your responses will be used to improve business operations and inform decisions related to face mask usage. Your input is valuable and will help shape future policies and procedures regarding face masks in the workplace.
-
-Please review the form carefully and answer each question honestly, providing as much detail as possible. If you have any questions or concerns, please don't hesitate to reach out to your supervisor or HR department.
-
-</thinking>
-
 # Face Mask Requirement Survey - Help Guide
 ## Purpose
 The Face Mask Requirement Survey is a form designed to gather information about the face mask requirements in the workplace. This survey aims to understand individual responses and preferences regarding face masks, which will help inform business operations and decisions related to face mask usage.

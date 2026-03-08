@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that the form is being filled out for the correct purpose and not duplicated. This form is for booking a halal investment consultation with a designated halal investment consultant. The consultant will be available at specific times and dates. To book a consultation, the client must provide their details and preferences. We also need to verify that the consultant and client information is accurate to avoid any confusion or miscommunication.
-
-</thinking>
-
 # Halal Investment Consultation Booking - Help Guide
 ## Purpose
 This form is for booking a halal investment consultation with a designated halal investment consultant. The consultant will be available at specific times and dates.

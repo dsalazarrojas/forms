@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the "Wellness Form" effectively and efficiently. The form's purpose is to collect relevant information from users, ensuring they understand the intent behind each field and can fill it out correctly. Please review the form carefully to avoid duplication and ensure relevance of the information collected.
-
-</thinking>
-
 # Wellness Form - Help Guide
 
 ## Purpose

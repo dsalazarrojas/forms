@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to obtain authorization for direct debit transactions on a customer's account. It's essential to ensure that all required fields are completed accurately to avoid any issues with the transaction. Please verify that the form is not a duplicate before proceeding, as this may cause unnecessary processing.
-
-To complete the form correctly:
-
-1.  Enter the Company Name and Address in the respective fields.
-2.  Provide the Authorized Person's name and contact information (Phone Number and Email).
-3.  Enter the Billing Name and Address if different from the Company details.
-4.  Enter the Bank Name, BIC, IBAN, and Account Number for the account to be debited from.
-5.  Choose the desired frequency of the direct debit (Daily, Weekly, etc.).
-6.  Enter the Amount to be debited.
-7.  Enter the start and end dates if required.
-8.  Review and confirm the BIC/IBAN and BIC fields as they are related.
-
-</thinking>
-
 # direct_debit_authorization_form - Help Guide
 ## Purpose
 The direct_debit_authorization_form is a form used to obtain authorization for direct debit transactions on a customer's account.

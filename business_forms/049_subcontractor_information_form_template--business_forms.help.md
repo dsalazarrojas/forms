@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # subcontractor_information_form_template - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is for establishing an agreement and compensation terms with an agent. The form should be used when an agreement needs to be formalized with an agent, detailing their responsibilities, compensation, and terms of service. This form is not suitable for other purposes and should not be used for non-agency related agreements.
-
-</thinking>
-
 # Agent Agreement And Compensation Form - Help Guide
 ## Purpose
 This form is used to create a formal agreement and compensation arrangement with an agent, outlining their role, responsibilities, and payment terms.

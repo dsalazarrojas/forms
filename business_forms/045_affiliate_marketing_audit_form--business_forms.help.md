@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for an affiliate marketing audit, which is a crucial process for evaluating the performance of an affiliate marketing program. The purpose of this form is to gather information about the program's metrics, such as revenue generated, commission costs, active affiliates, conversion rates, and compliance. This data will be used to identify areas of improvement and provide recommendations for optimization. The form is divided into four sections: audit overview, program performance, compliance, and top partners analysis. Please ensure that the information provided is accurate and relevant to the program's performance.
-</thinking>
-
 # Affiliate Marketing Audit Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Company Profile And Market Insights Survey - Help Guide
 ## Purpose
 This form is designed to collect information about your company's profile, market insights, and challenges. This data will help us gain a better understanding of your business and provide valuable insights to support your growth and development.

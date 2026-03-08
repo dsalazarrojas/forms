@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to schedule a monthly appointment. It is used to collect information on when the appointment should be held, including selecting a month and year, a date range, preferred time slots, start and end times, etc. This form is likely used by administrators or users to organize and plan appointments for various purposes, such as client meetings, maintenance checks, or other scheduled events. Before proceeding, please ensure that you are using this form for its intended purpose and not duplicating effort. Ensure that you are not using this form for other types of scheduling that don't pertain to monthly appointments.
-</thinking>
-
 # monthly_appointment_scheduling_form - Help Guide
 
 ## Purpose

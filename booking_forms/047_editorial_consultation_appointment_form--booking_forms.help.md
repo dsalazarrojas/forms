@@ -1,12 +1,3 @@
-<thinking>
-The AI-generated form is designed to be a straightforward and practical tool for users to schedule editorial consultations. The form is intended to collect necessary information from users to facilitate a smooth and efficient consultation process.
-
-The form has a clear and concise structure, making it easy to understand and fill out. Each field is carefully crafted to extract relevant data that will aid in the consultation process.
-
-This form is an original adaptation of a publicly available template, and any resemblance to other forms is coincidental.
-
-</thinking>
-
 # Editorial Consultation Appointment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information for an editorial consultation. Please fill out the form to schedule a consultation and provide the necessary details for our team to prepare for the meeting.

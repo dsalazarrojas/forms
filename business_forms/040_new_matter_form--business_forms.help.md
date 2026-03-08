@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about new matters, likely for business or professional purposes. This form is designed to be a generic form and does not contain any proprietary content from other platforms. It can be used as a starting point for your organization's form needs. Before filling out this form, make sure you have the necessary permissions and authorization to collect and process the information being requested. Additionally, ensure that the form is being used in compliance with your organization's data protection policies and relevant laws.
-</thinking>
-
 # New Matter Form - Help Guide
 ## Purpose
 This form is designed to collect information about new matters, such as client details, matter information, case specifics, contact methods, and any additional notes. The form can be customized to fit your organization's specific needs.

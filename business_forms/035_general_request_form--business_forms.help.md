@@ -1,11 +1,3 @@
-<thinking>
-
-The General Request Form is designed to collect general information from clients or customers to better understand their needs and requests. To ensure the form's purpose is relevant, this form is only recommended for use in business settings where a general inquiry or request is to be made.
-
-Before using this form, please review the following instructions and field-by-field explanations to complete it efficiently and accurately.
-
-</thinking>
-
 # General Request Form - Help Guide
 ## Purpose
 The General Request Form is a versatile form used to collect general information from clients or customers. It's designed to gather essential details about the type of request, contact preference, and other related information.

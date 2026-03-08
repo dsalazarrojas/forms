@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an applicant's professional reference, typically from an acquaintance who has worked with the applicant in a professional context. The form is meant to gather details about the applicant's performance, work habits, and character, which can be used to assess their suitability for a position or role. Please note that this form is only for references who are familiar with the applicant's work history and performance.
-</thinking>
-
 # Applicant Reference Form - Help Guide
 ## Purpose
 This form is used to gather information from a reference about an applicant's professional performance, work habits, and character. It is an essential part of the hiring process, as it provides valuable insights into the applicant's strengths and weaknesses.

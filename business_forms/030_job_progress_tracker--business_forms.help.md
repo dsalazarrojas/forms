@@ -1,13 +1,3 @@
-<thinking>
-To confirm that this form is a "job_progress_tracker" and not another form, let's break down its purpose and fields. The form seems to be tracking progress of a job, likely from the perspective of a team or project manager. The fields suggest it's tracking general information, project tasks, deadlines, milestone info, team members, task progress, deadlines, assigned team lead, and possibly other details.
-
-Upon reviewing the fields, I notice that "project_tasks" is a select_multiple field with options 'Yes' and 'No', which implies it's asking the user to confirm whether certain tasks are being worked on or not. "Milestone_info" is also select_one with options 'Yes' and 'No', which could be indicating significant project markers or achievements. "Team_members" and "task_progress" seem to be tracking team and task completion status.
-
-The form doesn't appear to have any obvious fields for collecting names or roles within the team, which might be necessary for a project management context. However, the presence of "team_members" and "assigned_team_lead" suggests it's still focused on tracking team dynamics and progress.
-
-Before proceeding, let's confirm that this form is meant to track job progress, perhaps for project planning and monitoring purposes. If that's correct, this guide will help users understand how to fill out the form accordingly.
-</thinking>
-
 # job_progress_tracker - Help Guide
 ## Purpose
 The "job_progress_tracker" form is a tool for project managers to track the progress of a job, including general information, project tasks, deadlines, and other relevant details.

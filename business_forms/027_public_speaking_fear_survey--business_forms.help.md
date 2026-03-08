@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to measure an individual's comfort level with public speaking. It is used to help us understand what people think about public speaking and provide valuable insights for our organization. This form is designed to be completed by individuals who have had experience with public speaking, and we kindly ask that you have had at least one occasion of public speaking in your recent past. Please fill out this form only once. If you have already filled out this form, we appreciate your honesty, but we will not accept duplicate submissions.
 
 </thinking>

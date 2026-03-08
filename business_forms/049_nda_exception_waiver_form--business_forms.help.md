@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to handle exceptions to agreements and non-disclosures (NDAs) in a business setting. The purpose of this form is to create a document that waives any outstanding exceptions to agreements, allowing the parties involved to move forward with the agreement. This form should only be used when there are legitimate reasons for an exception, and the parties have come to a mutually agreed-upon resolution. This guide will walk users through each field of the form, ensuring they complete it correctly and accurately.
-</thinking>
-
 # Nda Exception Waiver Form - Help Guide
 ## Purpose
 The Nda Exception Waiver Form is used to create a document that waives any outstanding exceptions to agreements. This form is typically used when an exception has been agreed upon by all parties involved, and it's necessary to formalize this agreement.

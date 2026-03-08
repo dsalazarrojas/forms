@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to submit information about an upcoming meeting, including meeting organizer details, meeting title, description, scheduled date and time, and other relevant details. The form is likely used for internal purposes within an organization, and it's assumed that the submitted information will be used to facilitate meeting organization, coordination, and follow-up. 
-To avoid duplicate submissions, the form may have built-in logic to prevent users from submitting the same meeting information multiple times. 
-Before filling out this form, make sure to review your meeting details carefully and ensure that the provided information is accurate and up-to-date.
-</thinking>
-
 # Appointment Link Submission Form - Help Guide
 
 ## Purpose

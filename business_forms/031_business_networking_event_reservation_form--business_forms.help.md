@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Networking Event Reservation Form - Help Guide
 ## Purpose
 This form is designed to help individuals and organizations make reservations for various business networking events. It collects necessary information to ensure a smooth and efficient experience for both the attendee and the event organizers. 

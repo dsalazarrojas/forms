@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and to ensure accuracy, it's essential to review the YAML schema for the form and verify that it's consistent with the intended use case. This form appears to be designed for customers to schedule a bike tune-up appointment, providing crucial information about their bike and themselves. The fields gathered include personal details, bike specifications, concerns or issues, and service preferences. This form will likely be used by a bike shop or repair center to schedule and prepare for a tune-up, making it crucial to understand each field's purpose.
-</thinking>
-
 # Bicycle Tune Up Appointment Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers to schedule a bike tune-up appointment. It helps the bike shop or repair center to understand the customer's needs and preferences, allowing them to provide an efficient and effective service.

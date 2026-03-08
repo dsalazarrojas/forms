@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to evaluate the product development process within an organization. The form might be used to assess whether the team's leadership, communication, project management, feedback and review, and product development process are satisfactory. This form is likely used to identify areas that need improvement in the product development process.
-</thinking>
-
 # product_development_process_evaluation_form - Help Guide
 ## Purpose
 The product development process evaluation form is used to assess the team's performance in various aspects of product development, including leadership, communication, project management, feedback and review, and product development process. This form helps identify areas that need improvement and provides a basis for future development and refinement of the process.

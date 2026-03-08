@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to track materials used in a business, likely for inventory management or tracking purposes. This guide will walk you through filling out the form, field by field, to help you understand what each section is used for and how it should be filled.
-</thinking>
-
 # material_tracking_form - Help Guide
 ## Purpose
 The material tracking form is designed to keep track of materials used in a business setting. It helps in recording and monitoring the usage of materials, which can be useful for inventory management, cost tracking, and other related purposes.

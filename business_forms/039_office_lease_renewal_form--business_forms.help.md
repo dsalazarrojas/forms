@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Lease Renewal Form - Help Guide
 ## Purpose
 This form is used to renew office leases for existing tenants. It gathers the necessary information from the tenant and landlord to update the lease terms, including start and end dates, lease term lengths, and rental amounts. This form is typically used by the office management team to facilitate the renewal process.

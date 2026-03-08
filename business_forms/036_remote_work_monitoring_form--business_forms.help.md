@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for remote work monitoring. It's likely intended for employees or managers to track and confirm remote work activities, challenges, and communication between employees and their managers. This form should not be duplicated or filled out for every employee; it's meant to monitor remote work for multiple employees at once. The goal is to gather information on tasks completed, challenges faced, and communication updates, which could be used for performance monitoring, productivity tracking, or ensuring compliance with remote work policies.
-</thinking>
-
 # Remote Work Monitoring Form - Help Guide
 ## Purpose
 This form is used to track and confirm remote work activities, challenges, and communication between employees and their managers.

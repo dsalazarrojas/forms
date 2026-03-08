@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crypto Arbitrage Presentation Booking Form - Help Guide
 
 ## Purpose

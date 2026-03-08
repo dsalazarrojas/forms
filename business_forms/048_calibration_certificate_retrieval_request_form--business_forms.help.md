@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide will be based on the provided form fields. The form "Calibration Certificate Retrieval Request Form" is designed to collect information from users requesting calibration certificates for their equipment. This form should be filled out by users who need to obtain a calibration certificate for their equipment, whether it's for internal use or for compliance with external standards. It's essential to fill out this form carefully, as it will help us process your request efficiently and accurately. Please note that if you've previously submitted a request for this equipment, you can provide the previous request number to help us track and process your new request. This form is not intended for multiple requests at once; if you need to request multiple certificates, please fill out a new form for each item.
-
-</thinking>
-
 # Calibration Certificate Retrieval Request Form - Help Guide
 ## Purpose
 This form is used to collect information from users requesting calibration certificates for their equipment. Please fill it out carefully to ensure we can process your request efficiently and accurately.

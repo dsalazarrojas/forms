@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for restaurant staff to provide feedback and observations on their experiences. It is not associated with any specific platform or proprietary content. The form is created using AI-generated metadata inspired by publicly available survey topics in the category "Business Forms" and category "QSR (Quick Service Restaurant)". It is an original adaptation and not a copy or extraction of any proprietary content from other platforms. The purpose of this form is to facilitate gathering feedback and observations from restaurant staff. Please ensure the form's metadata is accurate and relevant to your specific use case.
-</thinking>
-
 # qsr_form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback and observations from restaurant staff. This form is designed to be a simple and concise tool for collecting information on their experiences.

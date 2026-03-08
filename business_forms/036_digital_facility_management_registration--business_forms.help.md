@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for registering digital facilities for management and tracking purposes. It is intended for facilities that provide services to customers. The form will help in creating a central database of registered facilities, which can be referenced and updated later. Please ensure that you are using this form for its intended purpose and not duplicating efforts. If you are unsure, please check with the relevant team for guidance.</thinking>
-
 # Digital Facility Management Registration - Help Guide
 ## Purpose
 This form is designed to collect information about digital facilities for management and tracking purposes. It helps create a central database of registered facilities, which can be referenced and updated later.

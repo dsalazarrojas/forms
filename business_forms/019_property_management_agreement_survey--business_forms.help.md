@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from tenants regarding the quality of our property management service. The purpose of this form is to gauge the level of satisfaction of our tenants with the service provided, and to identify areas of improvement. The form is not intended to be a formal complaint channel, but rather a tool to gather constructive feedback for us to enhance our services. If you've already submitted a complaint or suggestion through another channel, please note that this form will not automatically direct it to that specific issue, but rather, it will help us to understand your overall perception of our service.
-
-</thinking>
-
 # Property Management Agreement Survey - Help Guide
 ## Purpose
 The Property Management Agreement Survey is a feedback form designed to measure your satisfaction with our property management service.

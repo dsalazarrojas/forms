@@ -1,9 +1,3 @@
-<thinking>
-
-The "Travel Expense Reimbursement Form" is used to document and process employee travel expenses for reimbursement. This form captures essential information about the employee's trip, including dates, destinations, and expense details. By filling out this form, employees can ensure that their travel expenses are accurately recorded and processed in a timely manner. 
-
-</thinking>
-
 # Travel Expense Reimbursement Form - Help Guide
 ## Purpose
 

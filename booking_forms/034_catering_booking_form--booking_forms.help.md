@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Booking Form - Help Guide
 
 ## Purpose

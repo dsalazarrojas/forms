@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this "Damage Claim Form" is to gather information for claims related to damages caused to a company asset, including details about the damage incident, the asset involved, and information about the claimant and witnesses. 
-This form is intended for use by employees, stakeholders, or other authorized users to facilitate the damage reporting and claim process. To ensure that the form is completed correctly, please review the instructions below.
-</thinking>
-
 # Damage Claim Form - Help Guide
 
 ## Purpose

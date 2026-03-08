@@ -1,13 +1,3 @@
-<thinking>
-
-To create a helpful and user-friendly guide for the "PropTech Partnership Application Form", we need to understand its purpose and requirements. From the provided YAML structure, it seems that the form is intended to gather information from potential partners or collaborators in the PropTech industry. The purpose of the form is likely to collect details about the applicant's company, contact person, and their collaboration goals. 
-
-The form appears to be designed to be completed by multiple people, possibly with different levels of collaboration goals. However, some fields seem redundant, and it's possible that some of the goal fields could be removed or combined for better user experience.
-
-Before we start writing the help guide, let's ensure that the form's purpose and requirements are clear to the end-user.
-
-</thinking>
-
 # PropTech Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from potential partners or collaborators in the PropTech industry. We aim to understand your company's details, contact person, and your collaboration goals with us.

@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a lease agreement, specifically the billing details for a tenant's lease. This form is likely used by property managers or administrators to record and track lease payments. The form is likely used in a business setting, possibly in the real estate or property management industry.
-
-To ensure this form's purpose and content are relevant, we've reviewed the input schema and identified the following:
-
-* The form is divided into multiple pages, which suggests it's a multi-part form with different sections.
-* The form collects information such as tenant ID, unit ID, landlord name, lease start date, lease end date, rent amount, payment method, payment status, and notes.
-* The required fields are tenant ID, unit ID, rent amount, payment method, and payment status.
-
-This form's purpose and content seem relevant and focused on lease agreement billing details. It doesn't appear to be a duplicate or outdated form based on the provided YAML fields.
-
-</thinking>
-
 # lease_agreement_billing_form - Help Guide
 ## Purpose
 This form is designed to collect and record lease agreement billing details for a tenant's lease. It helps property managers or administrators to accurately track and report on lease payments.

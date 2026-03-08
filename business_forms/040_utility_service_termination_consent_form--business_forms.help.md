@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Utility Service Termination Consent Form - Help Guide
 ## Purpose
 The Utility Service Termination Consent Form is used to capture the customer's consent for terminating a utility service such as Electricity, Gas, Water, or Other. This form is essential for the utility company to record the customer's agreement to end the service and the terms of the termination.

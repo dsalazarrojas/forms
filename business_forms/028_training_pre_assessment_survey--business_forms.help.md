@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about an employee's training pre-assessment survey data. The purpose of this form is to gather data on the employee's current level of training, areas of growth, and other relevant details. This data can be used to create a customized training plan to enhance the employee's skills and knowledge.
 
 To confirm that this form is relevant and non-duplicating, the following checks are performed:

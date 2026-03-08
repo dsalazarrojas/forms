@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will review the fields and options provided in the YAML. The form seems to be focused on gathering information about business partners, including their name, email, phone number, company details (name, address, city, state, zip), industry, company size, years in business, annual revenue, business type, tax ID number, primary contact information (name, title, email, phone), and partnership interests. This form appears to be designed to collect comprehensive information about business partners to facilitate partnerships and collaborations.
-
-Upon reviewing the fields, I did not notice any redundant or duplicate fields. The form has a clear structure, and each field serves a distinct purpose.
-
-I will now create a help guide for the user interface based on the provided YAML fields.
-</thinking>
-
 # Business Partner Information Form - Help Guide
 
 ## Purpose

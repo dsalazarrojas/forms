@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for business users who need to apply their company to be a corporate vendor. The corporate vendor application form is a crucial document that requires careful completion to ensure accuracy and completeness of information. Please ensure that you have all the necessary details before proceeding. Before filling out this form, review the fields to understand what information is required and what is not. This guide will walk you through each field and provide clear explanations to help you complete the form efficiently.
-</thinking>
-
 # corporate_vendor_application_form - Help Guide
 ## Purpose
 The corporate vendor application form is used to collect information about your company and services to be considered as a corporate vendor. It helps us understand your company's details and assess its suitability as a vendor.

@@ -1,13 +1,3 @@
-<thinking>
-Mortgage Payment Form: Purpose
-This form is used to collect information about a mortgage payment, including the home address, loan amount, interest rate, loan term, monthly payment, payment method, contact number, email address, loan provider, and mortgage type. The form is likely intended to be used by a lender or financial institution to process and review mortgage payments.
-
-Relevance check:
-This form appears to be for a mortgage-related payment process, which is a relevant and concrete field in the finance and banking domain. Non-duplication check:
-The form has a clear and specific structure, with fields that correspond to common mortgage-related information. The fields seem to be well-defined and do not overlap or duplicate unnecessary information.
-
-</thinking>
-
 # Mortgage Payment Form - Help Guide
 ## Purpose
 The Mortgage Payment Form is designed to collect and process mortgage payment information for a lender or financial institution.

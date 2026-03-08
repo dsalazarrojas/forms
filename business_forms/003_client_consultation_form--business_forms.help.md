@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from clients to facilitate consultations. It's crucial to ensure that the form is filled out correctly to avoid duplication of efforts and maintain data accuracy. The form is designed to collect client information such as name, contact details, project requirements, budget range, and other relevant details. It's essential to fill out the form accurately and completely to ensure that the client's needs are met and the consultation process is efficient.
-
-</thinking>
-
 # Client Consultation Form - Help Guide
 ## Purpose
 The Client Consultation Form is designed to gather information from clients to facilitate effective consultations. Please fill out the form accurately and completely to ensure that your needs are met and the consultation process is efficient.

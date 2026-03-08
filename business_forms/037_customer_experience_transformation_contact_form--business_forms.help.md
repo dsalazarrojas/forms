@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to submit feedback, comments, or suggestions on the Customer Experience Transformation process. The form is designed to gather information about the customer's identity, contact preferences, and goals, as well as the specific subject of their feedback. The form is not intended for internal purposes, such as employee onboarding or sales lead generation. Users should only use this form for genuine customer feedback and experience transformation requests.
-</thinking>
-
 # Customer Experience Transformation Contact Form - Help Guide
 ## Purpose
 The Customer Experience Transformation Contact Form is designed to gather feedback and information from customers about their transformation process. This form helps us understand your needs and preferences, allowing us to improve our services and products.

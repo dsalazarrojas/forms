@@ -1,6 +1,3 @@
-<thinking>
-This form is a tool used by the company to collect job application information from potential employees. The form is used to gather essential details about the job seeker's qualifications, work history, and desired job characteristics. This form ensures that the company receives accurate and complete information from the applicants, helping to streamline the hiring process. To fill out this form, please make sure to have the necessary information readily available. You may need to refer to your resume or previous work experience. Please note that some fields are optional, but providing accurate and relevant information will improve the chances of being considered for the position.</thinking>
-
 # Cruise Job Application Form - Help Guide
 ## Purpose
 The Cruise Job Application Form is a tool used to collect job application information from potential employees. It helps the company gather essential details about the job seeker's qualifications, work history, and desired job characteristics.

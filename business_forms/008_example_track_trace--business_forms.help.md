@@ -1,9 +1,3 @@
-<thinking>
-This help guide is to be used for a form that is used for track and trace, likely for business purposes such as contact information or order tracking.
-This form has a large number of fields, which may be overwhelming for the end user. The form appears to be a contact form, where users can input various pieces of information about themselves or a business.
-To complete this form, follow the instructions below.
-</thinking>
-
 # Example Track & Trace - Help Guide
 ## Purpose
 This form is used for tracking and tracing business contact information or order details.

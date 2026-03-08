@@ -1,11 +1,3 @@
-<thinking>
-
-The internal reasoning behind this form is to gather information for booking a yurt. This form is used by customers to provide their personal details and preferences for their stay. The form has eight fields: Guest Name, Contact Number, Email Address, Checkin Date, Checkout Date, Guest Type, Yurt Capacity, and Notes. 
-
-This form is designed to be completed by customers who want to book a yurt. The form will help our team to understand their personal details, stay preferences and requirements. We will review the form responses to ensure that we can meet their needs and provide a smooth stay.
-
-</thinking>
-
 # Yurt Reservation Form - Help Guide
 ## Purpose
 This form is designed to be completed by customers who want to book a yurt. It will help our team to understand their personal details, stay preferences and requirements.

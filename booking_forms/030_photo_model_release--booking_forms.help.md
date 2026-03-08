@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for a photo model release, a document that grants permission for a photographer to use a model's likeness in their work. The form is used to collect details about the model, the photo shoot, and the client or organization commissioning the shoot. This form is typically used in commercial or professional settings.
-To avoid duplication, ensure that you are not submitting this form if you have already done so in the past, or if you are a minor (in which case, please contact your parent or guardian).
-</thinking>
-
 # Photo Model Release - Help Guide
 ## Purpose
 This form is used to obtain a photo model release from a model, granting permission for a photographer to use their likeness in their work. It captures details about the model, the photo shoot, and the client or organization commissioning the shoot.

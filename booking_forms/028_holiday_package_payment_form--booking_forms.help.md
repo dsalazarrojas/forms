@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect booking and payment information for holiday packages. The form is divided into several sections, each focusing on different aspects of the booking process.
 
 To complete this form, follow these steps:

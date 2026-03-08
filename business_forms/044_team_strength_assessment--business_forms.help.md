@@ -1,9 +1,3 @@
-<thinking>
-We'll create a user-facing help guide for the Team Strength Assessment form. Let's analyze the form structure and content to determine the purpose, completion instructions, and a field-by-field explanation.
-The form consists of three pages: Survey Questions, Performance Indicators, and Team Size. The Survey Questions page is a text input, Performance Indicators is a select multiple input with options, and Team Size is a number input.
-To complete this form, users will need to fill in the required information in each page. We'll assume that the form is meant to assess the strengths and weaknesses of a team. The purpose of the form might be to evaluate a team's performance or provide a self-assessment for team members.
-</thinking>
-
 # Team Strength Assessment - Help Guide
 
 ## Purpose

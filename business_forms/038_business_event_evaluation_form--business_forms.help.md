@@ -1,14 +1,3 @@
-<thinking>
-To ensure that this form is used correctly, please review the fields to ensure you are providing the most accurate information. This form was created using AI, but human judgment is always welcome to add context and insight.
-
-This form is meant to evaluate the quality of a business event, gathering feedback from attendees on various aspects of the event, including venue, catering, registration process, speakers, and overall experience. 
-
-Please ensure that you're filling out the form based on your personal experience and honest feedback. Your input will help event organizers improve future events.
-
-Before filling out the form, make sure you have the necessary information readily available, such as event name, date, and any relevant details about the event.
-
-</thinking>
-
 # Business Event Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect feedback on various aspects of a business event, allowing organizers to evaluate and improve future events.

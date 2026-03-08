@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for capturing workers' compensation information from employees. It's a waiver form that allows employees to provide details about their job-related injury, including date and description of the incident. This form helps employers to understand the employee's situation and potentially provide support or necessary steps to address the issue. Before proceeding, ensure that you are authorized to complete this form and that it's not a duplicate of another ongoing workers' compensation claim.
-</thinking>
-
 # workers_comp_waiver_form - Help Guide
 ## Purpose
 The workers' comp waiver form is a document that captures essential information from employees regarding a work-related injury. This form helps employers to understand the employee's situation and provides a basis for potential support or next steps.

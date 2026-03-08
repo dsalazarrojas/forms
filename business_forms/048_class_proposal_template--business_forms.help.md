@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Class Proposal Template" form, we need to consider the following:
-
-* The form is designed to collect information from individuals or organizations interested in proposing a class or course to be offered by the institution.
-* The form should be completed with relevant details about the proposed class, including the name, description, target audience, instructor qualifications, location, and schedule.
-* Each field in the form should be explained clearly, considering the type of field (text, select_one, select_multiple, email, etc.), and any specific hints or instructions provided.
-
-</thinking>
-
 # Class Proposal Template - Help Guide
 ## Purpose
 The "Class Proposal Template" form is designed to collect information from individuals or organizations interested in proposing a class or course to be offered by the institution. Completing this form will help the institution evaluate and review the proposal.

@@ -1,14 +1,3 @@
-<thinking>
-This form purpose is to create a "Rosie Toesies Two Finger Tester Buy Back" record in the company's database. This form is used by employees to report a purchase that requires a two-finger test before it's considered complete. 
-The form is split into three pages: 
-  1. The first page is a general description page.
-  2. The second page is for entering text information, and 
-  3. The third page is for entering numbers.
-
-This form is not a required form, but it's useful for employees to follow this process for consistency and accuracy in purchasing records.
-Please ensure that the form is not used for other purposes, such as creating fake or test records.
-</thinking>
-
 # rosie_toesies_two_finger_tester_buy_back - Help Guide
 ## Purpose
 The "Rosie Toesies Two Finger Tester Buy Back" form is a tool used by employees to report purchases that require a two-finger test before they can be considered complete.

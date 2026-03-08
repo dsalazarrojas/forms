@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Entry Pass Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...this guide is intended to help employees understand the purpose and use of the Safety Suggestion Form, a vital tool for promoting a safe work environment and identifying potential risks and concerns... this form is designed to be a straightforward and efficient way to report safety suggestions, concerns, and proposed solutions without requiring extensive technical knowledge or expertise... users should not duplicate submissions, as this would lead to unnecessary repetition and waste of time for review and analysis...</thinking>
-
 # Safety Suggestion Form - Help Guide
 
 ## Purpose

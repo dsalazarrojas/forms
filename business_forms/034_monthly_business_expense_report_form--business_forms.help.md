@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to provide a structured and organized way for small businesses to track and report on their business expenses on a monthly basis. The form is designed to be customizable, allowing businesses to input their specific information and track their expenses in a way that is easy to understand and navigate.
-
-The form can potentially be used by any small business looking to keep track of their expenses, but it may not be the most effective tool for larger businesses that require more complex expense tracking systems.
-
-To ensure this form is being used effectively, it would be helpful to review the form's purpose and the fields included to see if they align with the business's specific needs.
-
-</thinking>
-
 # Monthly Business Expense Report Form - Help Guide
 ## Purpose
 This form is designed to help small businesses track and report on their business expenses on a monthly basis. It allows businesses to input their specific information and track their expenses in a customizable and organized way.

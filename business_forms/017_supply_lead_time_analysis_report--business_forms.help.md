@@ -1,8 +1,3 @@
-<thinking>
-The form is intended for lead time analysis, which is a crucial process for suppliers to provide accurate and timely information about their supplies. The purpose of this form is to collect data on the lead time (time between supplier receiving an order and delivering it to the customer) of a particular supply. This form will help users analyze and track lead times for different suppliers, making it easier to identify trends, patterns, and issues that may affect supply chain management.
-The form should be completed by the user with the relevant information about the supply, ensuring that all required fields are filled in accurately. This form is designed to be simple and easy to use, with fields that are self-explanatory.
-</thinking>
-
 # Supply Lead Time Analysis Report - Help Guide
 ## Purpose
 The Supply Lead Time Analysis Report form is used to collect and analyze data on the lead time of a particular supply from a supplier. This form helps in tracking and monitoring the time taken by the supplier to deliver the supply, which is essential for effective supply chain management.

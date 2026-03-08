@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for corporate sponsorship purposes, where an individual or business representative consents to being sponsored by another entity or individual. This form is used to gather information and ensure that the individual or business representative understands the terms of the sponsorship. The form is usually completed in an internal setting within the corporate environment. 
-We need to ensure that the individual completing the form has a clear understanding of its purpose, which is why we are providing this guide for the corporate sponsorship consent form. 
-</thinking>
-
 # Corporate Sponsorship Consent Form - Help Guide
 ## Purpose
 The Corporate Sponsorship Consent Form is a document that confirms an individual's or company's acceptance of a sponsorship agreement. It is essential for us to have a clear understanding of your consent and terms of the sponsorship for our records.

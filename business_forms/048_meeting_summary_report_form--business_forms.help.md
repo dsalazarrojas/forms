@@ -1,16 +1,3 @@
-<thinking>
-This form is used to capture essential information about meetings, providing a structured format for team members and stakeholders to summarize their meetings, track outcomes, and plan follow-up tasks. The form's purpose is to ensure that key information is captured consistently and efficiently, reducing misunderstandings and miscommunications.
-The form's design reflects the typical meeting summary needs of most organizations, making it a versatile tool for various types of meetings, from routine team meetings to more critical project discussions. By filling out this form, users can:
-- Summarize meeting discussions and agreements
-- Track action items, follow-up tasks, and their status
-- Document outcomes, decisions, and next steps
-- Capture notes and relevant details
-The form is designed to be easy to complete and accessible to all team members, ensuring that meeting summaries are created and shared efficiently.
-Before starting to fill out this form, please review the following:
-- The meeting schedule should be within the past 7 days to ensure accuracy.
-- If you've already filled out a meeting summary report form for this meeting, do not fill out this form again.
-</thinking>
-
 # Meeting Summary Report Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,4 @@
-> <thinking>
-This help guide will be used to assist business users in understanding the purpose and functionality of the form, titled "ohs_business_forms", which appears to be a safety-related form for conducting site safety checks and assessments.
-The form is likely used for site safety evaluations and may be used for various industries such as construction, manufacturing, or healthcare. It is possible that this form is used to assess hazards, risks, and emergency plans for a site.
-Before proceeding, it is essential to ensure that the form is not a duplicate of an existing form within the organization, and that the information provided aligns with the company's policies and procedures.
-</thinking>
-
-# ohs_business_forms - Help Guide
+> # ohs_business_forms - Help Guide
 ## Purpose
 This form is designed to conduct site safety checks and assessments to ensure a safe working environment.
 

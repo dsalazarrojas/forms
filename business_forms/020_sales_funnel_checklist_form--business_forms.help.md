@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for tracking the sales funnel process of a company, helping users keep track of leads and their progress through the sales funnel. The form might be used by sales teams to monitor and analyze the performance of their sales process, identifying potential bottlenecks and areas for improvement. To ensure accuracy and consistency, it's essential to understand the purpose and usage of each field in the form. This guide will help users complete the form correctly and effectively.
-</thinking>
-
 # Sales Funnel Checklist Form - Help Guide
 ## Purpose
 The Sales Funnel Checklist Form is designed to track and analyze the sales process of leads through various stages, from initial contact to conversion. This form helps sales teams monitor the progress of leads, identify potential issues, and optimize their sales strategies.

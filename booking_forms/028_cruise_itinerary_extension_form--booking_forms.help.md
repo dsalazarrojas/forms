@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from passengers who need to extend their cruise itinerary. It appears to be a standard form for travel agencies to handle internal or external requests. I assume it's not for a public-facing form, given its focus on travel agency-specific details. I'll try to maintain the same level of detail as the provided YAML.
-</thinking>
-
 # Cruise Itinerary Extension Form - Help Guide
 ## Purpose
 This form is intended to aid travel agencies in handling passenger itinerary extension requests. It's used to gather necessary information to manage these extensions efficiently.

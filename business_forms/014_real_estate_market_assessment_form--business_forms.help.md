@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To start, let's break down the form's purpose: **real_estate_market_assessment_form** is designed to collect data on properties in the real estate market, including their type, listing status, location, size, and more. This form will help users assess the market trends and analyze the properties in the area.
 
 # real_estate_market_assessment_form - Help Guide

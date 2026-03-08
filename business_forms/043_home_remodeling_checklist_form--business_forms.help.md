@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect and organize project information for home remodeling projects. It's essential to ensure that all necessary details are captured accurately to facilitate effective project management and communication. 
-
-To avoid duplication and ensure consistency, please review the fields carefully and provide accurate information for each field. If you're unsure about any field, please ask for clarification or assistance.
-
-</thinking>
-
 # Home Remodeling Checklist Form - Help Guide
 ## Purpose
 This form is intended to gather essential information about home remodeling projects, including project details, contact information, and project status. It's a comprehensive tool to help project managers and clients track and communicate project progress.

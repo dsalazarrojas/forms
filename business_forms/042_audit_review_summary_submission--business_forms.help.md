@@ -1,7 +1,3 @@
-<thinking>
-This form is for submitting an audit review summary. It's a crucial part of the audit process, and it's essential that you understand its purpose and how to complete it accurately. Before starting, ensure you're aware of the audit's context and that you're submitting the review within the correct timeframe. To avoid duplication, please make sure you're not submitting a review that's already been submitted or is currently in progress. The form is divided into several sections, each of which collects specific information about the audit review process. 
-</thinking>
-
 # Audit Review Summary Submission - Help Guide
 ## Purpose
 The Audit Review Summary Submission form is used to collect information about the results of an audit review. It's essential to fill out the form accurately, as it helps ensure the audit process is thorough, efficient, and effective.

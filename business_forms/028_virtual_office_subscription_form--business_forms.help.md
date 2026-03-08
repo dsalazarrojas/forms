@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect subscription information for a virtual office setting. It captures basic contact information, email addresses, phone numbers, and other relevant details to facilitate communication and organization. Please ensure that this form is not used in scenarios where a more detailed subscription process is required. Before proceeding, confirm that a simple subscription form with these fields is sufficient for your use case. If you're unsure, consider consulting with your team or revising the form to better suit your needs.
-
-</thinking>
-
 # virtual_office_subscription_form - Help Guide
 ## Purpose
 This form is designed to collect subscription information for a virtual office setting, including basic contact details, email addresses, phone numbers, and other relevant data to facilitate communication and organization.

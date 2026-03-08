@@ -1,14 +1,3 @@
-<thinking>
-**Form purpose:** This is a template for creating a compliance statement filing application form for organizations. The form is used to collect information from organizations to ensure they are in compliance with relevant laws and regulations. 
-
-**Non-duplication check:**
-The following fields may be subject to additional documentation or validation in the future:
-* Supporting documentation (id: 21)
-* Compliance officer's name (id: 17)
-* Corrective actions taken (id: 20)
-
-</thinking>
-
 # Compliance Statement Filing Application Form - Help Guide
 ## Purpose
 This form is used to collect information from organizations to ensure compliance with relevant laws and regulations. It is a mandatory submission form for organizations to declare their compliance status for the relevant period.

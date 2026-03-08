@@ -1,5 +1,3 @@
-<thinking>...this form is used to collect specific information from the user regarding their product packaging design orders. It includes details such as the product name, type, material request, color, design, production plan, deadline, production location, shipping method, contact person, phone number, email address, and production notes. This form will help the user order packaging design services for their products. This form will be used by the production team to understand the user's requirements and plan the production accordingly. Please ensure that you fill in the required fields accurately...</thinking>
-
 # Product Packaging Design Order Form - Help Guide
 ## Purpose
 This form is used to collect information for product packaging design orders from clients. Please fill in the required fields accurately to ensure efficient production and delivery of your ordered product packaging design.

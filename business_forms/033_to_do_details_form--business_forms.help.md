@@ -1,7 +1,3 @@
-<thinking>
-This help guide is a step-by-step explanation of the "To Do Details Form" to ensure end users understand its purpose and how to complete it effectively. The form is meant to provide details about tasks, which are a fundamental part of the work flow in the organization. The form is not intended to be a duplicate of any other form, and its primary purpose is to gather essential information about tasks.
-</thinking>
-
 # To Do Details Form - Help Guide
 ## Purpose
 The To Do Details Form is a crucial form for task management, allowing users to input task-specific details. This form will help you keep track of tasks and ensure their accurate and timely completion.

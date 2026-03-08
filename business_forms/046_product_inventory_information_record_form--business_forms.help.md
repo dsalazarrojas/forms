@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for recording and managing product inventory information. To confirm, it seems like it's meant to collect and store product data in a structured format. The form appears to have a mix of fields for product details (name, description, location, etc.), status, price, and other metadata. This form might be part of an inventory management system used by a business to track products, their quantities, and other relevant information. Before proceeding, let's review the form design and ensure it aligns with the intended purpose.
-</thinking>
-
 # Product Inventory Information Record Form - Help Guide
 ## Purpose
 The Product Inventory Information Record Form is a tool for businesses to collect and store product data, including product details, quantity, location, status, and other metadata. This form is used to create, update, and manage product records.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request ESG (Environmental, Social, and Governance) reporting framework guidance and data. To ensure that you provide accurate information and avoid duplication of requests, please make sure that you have not submitted a similar request before. If you have any doubts or concerns, feel free to reach out to us directly.
-</thinking>
-
 # ESG Reporting Framework Request Form - Help Guide
 
 ## Purpose

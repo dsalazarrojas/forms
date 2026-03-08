@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for lift certification purposes. It is not affiliated with, endorsed by, or derived from any form platform. The form was created using only public survey topic metadata as inspiration and is an original adaptation. It does not copy, extract, or use proprietary content from any form creation or survey platform.
-</thinking>
-
 # Lift Certification Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations seeking lift certification. The form helps to gather details about the equipment, contact information, and certification status.

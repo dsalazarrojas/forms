@@ -1,6 +1,3 @@
-<thinking>
-The internal reasoning block will explain that this form is for creating new "Tip Campagne Committee" records, which is a committee that helps employees find and share helpful tips and resources within the company. This form ensures that all necessary information is collected for creating a committee member profile, and is only required for committee members with a "Tip Campagne Committee" field populated. This form is used to prevent duplicate records by requiring first name, last name, and email to be unique. If an email is already associated with an existing record, this form will not allow the submission.
-</thinking>
 # Unite Here Tip Campaign Committee - Help Guide
 ## Purpose
 The "Unite Here Tip Campaign Committee" form is for creating new committee members and ensuring that all necessary information is collected for their profile. This form is used to prevent duplicate records and ensure that each committee member has a unique profile.

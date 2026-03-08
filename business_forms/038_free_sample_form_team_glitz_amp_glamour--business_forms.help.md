@@ -1,30 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "free-sample-form-team-glitz-glamour" form, I will follow the provided instructions.
-
-The form purpose is to collect information from users in a structured and efficient manner. This form appears to be designed for team management or project coordination, possibly for internal use within an organization. However, without further context, it's difficult to determine the exact purpose with certainty.
-
-To confirm the form's purpose and prevent duplication, I will review the fields included:
-
-- First name (id: 1)
-- Last name (id: 2)
-- Email (id: 3)
-- Phone number (id: 4)
-- Company name (id: 5)
-- Select one option (id: 6)
-- Select multiple options (id: 7)
-- Date (id: 8)
-- Time (id: 9)
-- Note (id: 10)
-- Assigned to (id: 11)
-
-The fields seem to cover a range of basic information types, including personal details, contact information, and some optional selection fields. Given the presence of a "Note" field, it's possible that the form is intended for project notes or task assignments. However, this is speculative without further clarification.
-
-Considering the structure and content, it's reasonable to assume the form is meant for internal use within a team or project management context, perhaps for tracking progress or assigning tasks. If the form is to be filled out by team members or external collaborators for internal tracking, the purpose could be to gather feedback, track progress, or log interactions. However, without more detailed context, these interpretations are speculative.
-
-To avoid duplication, it's essential to ensure the form isn't used for tasks that already have a designated tool or process within the organization. For example, if there's a dedicated CRM system or project management software in use, this form might not be the best fit.
-
-</thinking>
-
 # free-sample-form-team-glitz-glamour - Help Guide
 
 ## Purpose

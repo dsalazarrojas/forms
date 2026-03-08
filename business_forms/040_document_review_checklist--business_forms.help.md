@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended to assist users in completing the "Document Review Checklist" form. The form is designed to gather information about documents that need to be reviewed, including details about the document's overview, type, status, and other relevant details. This form helps ensure that all necessary information is collected during the review process, which is essential for maintaining accurate and up-to-date records.
-
-The form consists of 12 fields, each with specific requirements and options. This guide will walk you through each field, providing clarity on what to expect and how to complete it successfully.
-
-</thinking>
-
 # Document Review Checklist - Help Guide
 ## Purpose
 The Document Review Checklist is a form designed to collect information about documents that require review. This form helps ensure that all necessary details are collected during the review process, aiding in maintaining accurate and up-to-date records.

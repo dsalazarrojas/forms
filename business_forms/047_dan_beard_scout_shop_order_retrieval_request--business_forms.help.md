@@ -1,9 +1,3 @@
-<thinking>
-We'll create a help guide for the "dan-beard-scout-shop-order-retrieval-request" form. This form is designed to collect information from customers for order retrieval purposes. Before we begin, please note that this form is not meant for order placements or new customer sign-ups. Its purpose is limited to retrieving existing orders and providing a way for customers to communicate with us for order status updates or related inquiries.
-
-We strive to minimize repetition and ensure that each field is necessary for the correct processing of the customer's request. Let's dive into the form's explanation.
-</thinking>
-
 # dan-beard-scout-shop-order-retrieval-request - Help Guide
 ## Purpose
 This form is used for customers to request updates on their existing orders, allowing them to communicate with our team for order status inquiries or related concerns.

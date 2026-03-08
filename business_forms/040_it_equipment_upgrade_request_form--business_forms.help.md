@@ -1,9 +1,3 @@
-<thinking>
-This form is used for requesting upgrades for IT equipment. It's meant for employees to submit their upgrade requests. The upgrade frequency is typically requested as a one-time upgrade, but in some cases, it might be a recurring upgrade. The equipment ID and upgrade frequency should match with the internal database for correct processing. This form doesn't require a specific status to be filled, however, it's recommended to fill it in so that the request can be tracked and reported properly.
-
-This form has been created to ensure that the IT equipment upgrade process is as streamlined as possible, and it helps with the efficient tracking and reporting of the requested upgrades.
-</thinking>
-
 # it_equipment_upgrade_request_form - Help Guide
 ## Purpose
 The purpose of this form is to submit upgrade requests for IT equipment. It captures necessary information to track and process the request efficiently.

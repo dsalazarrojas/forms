@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to submit schedule drawing submissions, which are graphical representations of project schedules. The form allows users to upload multiple schedule drawing files and provide project details and dates and times. The form was designed based on public metadata from various online form platforms and is intended to be a helpful resource for users in creating their own schedule drawing submissions. However, please be aware that the form is not affiliated with or endorsed by any specific form platform and is released under the Creative Commons BY 4.0 license.
-
-</thinking>
-
 # Schedule Drawing Submission Form - Help Guide
 ## Purpose
 The Schedule Drawing Submission Form is a tool for users to submit schedule drawings to a relevant department or team. It is designed to collect project details and schedule drawings in a structured and organized manner.

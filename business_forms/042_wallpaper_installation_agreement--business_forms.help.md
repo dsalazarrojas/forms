@@ -1,7 +1,3 @@
-<thinking>
-The form is for obtaining an agreement from a client for the installation of wallpaper. This form is designed to gather information about the client, the scope of the job, and other relevant details. The fields will likely be filled in by the client or the person responsible for the installation. This form should only be used for this specific purpose and not for any other type of agreement or documentation.
-</thinking>
-
 # Wallpaper Installation Agreement - Help Guide
 ## Purpose
 This form is for obtaining an agreement from a client for the installation of wallpaper. It is used to gather information about the client, the scope of the job, and other relevant details for the installation.

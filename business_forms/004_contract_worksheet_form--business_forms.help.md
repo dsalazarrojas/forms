@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about a contract in an structured and organized manner, allowing users to easily track and manage contracts. It is intended to be completed by the person preparing the contract, and the information collected will help to ensure that all relevant details are captured and communicated to relevant parties. This form is likely to be used in a business setting, and its purpose is to provide a comprehensive overview of the contract, including its basics, financial terms, timeline, parties involved, and terms and conditions.
-Please note that this form is not intended to be used for contracts that are already in an executed state. Its use is best suited for new or ongoing contracts.
-</thinking>
-
 # Contract Worksheet Form - Help Guide
 ## Purpose
 This form is used to gather detailed information about a contract, including its basics, financial terms, timeline, parties involved, and terms and conditions. The gathered information will help to ensure that all relevant details are captured and communicated to relevant parties.

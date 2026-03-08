@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to ensure the form purpose and non-duplication ...
-
-This form is designed for booking tech tutoring sessions, allowing students to schedule appointments with tutors for one-on-one support. The form is used to collect relevant information from both the student and the tutor. 
-
-The form should only be filled out once by one person per session. 
-
-</thinking>
-
 # tech_tutoring_appointment_form - Help Guide
 
 ## Purpose

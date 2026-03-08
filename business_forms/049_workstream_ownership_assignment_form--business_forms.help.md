@@ -1,7 +1,3 @@
-<thinking>
-This form is used for assigning ownership and accountability of tasks, projects, or initiatives within a workstream. It's essential to ensure that each project or task has a clear owner and accountability level to facilitate efficient tracking and reporting. This form should be used only once for each project or task to avoid duplication of effort and potential conflicts. The form will help ensure that all required information is collected and stored for future reference.
-</thinking>
-
 # Workstream Ownership Assignment Form - Help Guide
 ## Purpose
 The Workstream Ownership Assignment Form is a tool used to assign ownership and accountability for tasks, projects, or initiatives within a workstream. This form ensures that each project or task has a clear owner and accountability level, facilitating efficient tracking and reporting.

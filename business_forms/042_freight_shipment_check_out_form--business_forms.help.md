@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to gather essential information from the shipper for the freight shipment, ensuring a smooth and accurate checkout process. This form will likely be used by a freight company or logistics operator to verify the details of a shipment before processing it. To ensure the form is filled out correctly, let's review its fields and their intended use cases.
-
-This form appears to be designed for a business-to-business or business-to-customer scenario, where the shipper is a business or individual that is sending goods or products to a recipient. The form's purpose is to facilitate a secure and efficient checkout process, taking into account the shipper's name, contact number, payment method, and other relevant details.
-
-Before starting, make sure all required fields are completed. If a field is left blank, it may hinder the checkout process or result in inaccuracies in the shipment's tracking.
-</thinking>
-
 # Freight Shipment Check Out Form - Help Guide
 ## Purpose
 The Freight Shipment Check Out Form is a business tool designed to gather crucial information from the shipper for efficient and secure checkout processes.

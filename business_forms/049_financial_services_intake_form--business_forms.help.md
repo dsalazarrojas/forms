@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect relevant information from users for financial services. It is intended for customers or clients who are seeking financial assistance or advice. Before proceeding, ensure you have not already submitted a similar intake form in the past to avoid duplication of effort and unnecessary processing time.
-
-</thinking>
-
 # Financial Services Intake Form - Help Guide
 ## Purpose
 The Financial Services Intake Form is designed to collect essential details from users for financial services. Please fill out this form with accurate and complete information to expedite the process.

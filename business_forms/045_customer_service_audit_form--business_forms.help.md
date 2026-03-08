@@ -1,10 +1,3 @@
-<thinking>
-To ensure that this form is properly filled out, I'll first review the form's purpose and required fields. The form's title is "Customer Service Audit Form", which suggests that it's used to collect customer feedback and audit information about their service experience. Reviewing the input schema, I see that the form has 15 fields, but none are marked as required. This form appears to be used for general customer feedback and audit purposes, and may be filled out by customers to provide their input about a service experience.
-
-The form is divided into pages, but there is no clear indication of what each page is for. The fields appear to be a mix of text, number, select_one, and select_multiple fields. I will make sure to clearly explain each field in the "Field-by-Field Explanation" section.
-
-</thinking>
-
 # Customer Service Audit Form - Help Guide
 ## Purpose
 The Customer Service Audit Form is used to collect customer feedback and audit information about their service experience.

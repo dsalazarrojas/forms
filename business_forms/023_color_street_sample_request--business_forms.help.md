@@ -1,9 +1,3 @@
-<thinking>
-To ensure that the Color Street Sample Request form is completed accurately and effectively, we need to understand its purpose and the fields it contains. The form is meant to gather contact information and preferences from customers who wish to receive free nail polish samples. It asks for name, email, mailing address, and phone number, which is essential for the company to send samples and communicate with the customer. The "About Your Nails" section inquires about the customer's preferred style of nail polish and their biggest struggle with traditional liquid polish. This information will help the company understand the customer's needs and preferences. The final section, "Find Me Online," is an optional field for customers to share their social media handle, so the company can tag them when sending samples.
-
-We should also check if the customer has already provided this information or if there's a duplicate request, to avoid sending unnecessary samples and maintain data consistency.
-</thinking>
-
 # Color Street Sample Request - Help Guide
 ## Purpose
 The Color Street Sample Request form is designed to collect information from customers who are interested in receiving free nail polish samples. This form helps us understand your contact details and preferences to provide you with the best possible service.

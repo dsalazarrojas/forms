@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for booking a minibus for district use, allowing users to submit their requests for transportation services. It is essential to ensure that the form is completed accurately and completely to ensure that the request is processed efficiently. Please verify that the form is not being re-submitted and that the information is up-to-date before proceeding.
-</thinking>
-
 # District Minibus Booking Request Form - Help Guide
 ## Purpose
 This form is used to request minibus services for district use. It requires the submission of several fields to ensure that your booking is successful.

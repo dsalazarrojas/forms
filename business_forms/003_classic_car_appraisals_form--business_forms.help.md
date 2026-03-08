@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clearly explained and understood by end-users. This form is used for classic car appraisals, which is a process to determine the market value of classic vehicles. The form collects relevant information about the vehicle, its condition, and other relevant factors that affect its value. This information is then used to estimate the current market value of the vehicle. Before filling out this form, please ensure you have the necessary data and permissions to provide accurate information.
-</thinking>
-
 # Classic Car Appraisals Form - Help Guide
 ## Purpose
 The Classic Car Appraisals Form is a tool used to determine the market value of classic vehicles. It collects information about the vehicle's condition, features, and other relevant factors to provide an estimated current value.

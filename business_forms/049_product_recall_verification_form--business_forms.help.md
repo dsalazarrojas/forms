@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's review the form purpose and ensure it's not a duplication of effort. The "Product Recall Verification Form" is designed to collect information about a recalled product and the customer who reported it. This form is likely used to investigate and resolve product recall issues efficiently. We should verify that there's no similar form already in use within the organization, and that the form fields are correctly aligned with the business objective.</thinking>
-
 # Product Recall Verification Form - Help Guide
 ## Purpose
 The "Product Recall Verification Form" is used to collect information about a recalled product and the customer who reported it. This helps us to investigate and resolve product recall issues efficiently.

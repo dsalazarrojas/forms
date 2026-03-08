@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for hotel customers to provide their check-in and check-out dates, as well as their contact information (name, email, and phone number). This form is likely used by hotel staff to manage guest check-ins and provide a smooth check-in process.
-</thinking>
-
 # Hotel Check In Form - Help Guide
 ## Purpose
 The purpose of this form is to collect check-in and check-out dates, and contact information from hotel customers to facilitate a smooth check-in process.

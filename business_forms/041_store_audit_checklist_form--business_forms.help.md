@@ -1,7 +1,3 @@
-<thinking>
-This form, "store_audit_checklist_form", is designed to assess the overall condition and status of a store. The form is likely used by store managers, auditors, or quality control specialists to evaluate different aspects of the store, such as its conditions, feedback, maintenance needs, and inventory levels. The form has 20 fields across multiple pages, allowing users to provide detailed information and feedback about the store. This form is likely used for quality control, maintenance, or inventory management purposes. It's essential to complete the form carefully to ensure accurate and comprehensive assessment of the store.
-</thinking>
-
 # store_audit_checklist_form - Help Guide
 ## Purpose
 

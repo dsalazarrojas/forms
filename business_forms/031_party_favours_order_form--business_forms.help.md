@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to capture information related to party favors, including the name of the party favors, order date and time, whether party favors were ordered, the customer's name, email, and phone number, and any additional notes about the order. This form appears to be designed for internal use, possibly for managing party favors or orders within an organization.
-
-To confirm, I assume this form is not intended for external use or customer-facing purposes, given that most fields are optional. The form seems to be focused on internal data collection and management. If I'm incorrect, please provide further context.
-
-Before creating the help guide, I'll review the fields to ensure I cover all relevant information and provide clear explanations.
-
-</thinking>
-
 # party_favours_order_form - Help Guide
 ## Purpose
 This form is used to collect information about party favors, including order details and customer contact information.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide that explains the purpose and functionality of the form in a clear and concise manner.</thinking>
-
 # Body Assessment Form - Help Guide
 ## Purpose
 

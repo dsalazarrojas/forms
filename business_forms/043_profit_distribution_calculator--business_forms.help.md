@@ -1,5 +1,3 @@
-<thinking>This form is likely designed to help businesses or individuals distribute profits among multiple partners or stakeholders in a fair and transparent way. It might be used to calculate the total allocation, remaining allocation, and profit among different partners. This form is likely intended for business partners, investors, or other stakeholders to input their names and corresponding profit allocations, and then calculate the total profit and remaining allocation. This form does not seem to be redundant with other forms in the system, as it appears to be a specific use case for profit distribution calculations.</thinking>
-
 # Profit Distribution Calculator - Help Guide
 ## Purpose
 The Profit Distribution Calculator is designed to help businesses or individuals distribute profits among multiple partners or stakeholders in a fair and transparent way.

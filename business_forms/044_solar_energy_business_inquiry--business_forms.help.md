@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect business inquiry information from customers or potential customers interested in solar energy services. The form aims to gather essential details about the business owner or representative, such as their name, contact information, and business particulars. This information will help the solar energy provider or consultant understand the customer's needs and preferences better.
-
-Before proceeding, please note that this form is not intended for general inquiries about non-business purposes. It's essential to ensure that the submissions are relevant to the business and not duplicates.
-
-For instance, if you're a customer interested in installing solar panels for your home, you might want to fill out this form to get more information about our services. However, if you're looking for general information about solar energy, you might want to contact us through our website or social media instead.
-
-This guide is designed to walk you through each field of the form to ensure you understand what information we need from you.
-
-</thinking>
-
 # Solar Energy Business Inquiry - Help Guide
 ## Purpose
 The purpose of this form is to collect business inquiry information from customers or potential customers interested in solar energy services.

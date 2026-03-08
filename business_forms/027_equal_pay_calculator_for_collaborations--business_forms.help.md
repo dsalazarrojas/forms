@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to assist teams in calculating equal pay for collaborators on a project. It helps teams ensure that all team members receive a fair share of the project budget. The form is intended to be used for collaborations where multiple members have different roles and budget allocations. It's not designed for projects with only one member or where all members have the same budget allocation.
-
-To avoid duplication of efforts, please ensure that you're not filling out this form for projects with identical collaboration roles and budgets. Internal teams can use this form to get started quickly, but external teams might need to adapt it to their specific needs.
-
-</thinking>
-
 # Equal Pay Calculator For Collaborations - Help Guide
 ## Purpose
 

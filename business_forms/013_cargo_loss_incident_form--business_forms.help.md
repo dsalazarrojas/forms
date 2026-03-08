@@ -1,19 +1,3 @@
-<thinking>
-
-To confirm the form purpose and relevance, I'll review the provided YAML fields. The form appears to be for reporting incidents of cargo loss or damage, likely for insurance, logistics, or shipping companies to track and investigate such events.
-
-Upon reviewing the fields, I notice that the form collects information on various aspects of the incident, including:
-
-1. Incident details (e.g., Report ID, date reported, reporter's name, and role)
-2. Shipment information (e.g., shipment ID, carrier name, and vehicle/truck number)
-3. Loss details (e.g., date and time of incident, location, type, and estimated value)
-4. Investigation and witness information (e.g., witness name, contact info)
-5. Final declaration (e.g., digital signature)
-
-This form appears to be a comprehensive incident report that covers all essential aspects of cargo loss or damage incidents. There doesn't seem to be any duplication or unnecessary fields.
-
-</thinking>
-
 # Cargo Loss Incident Form - Help Guide
 ## Purpose
 

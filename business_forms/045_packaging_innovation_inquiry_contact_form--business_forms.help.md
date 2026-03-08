@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from end users about their Packaging Innovation Inquiry, which is likely a request for collaboration or partnership related to packaging innovation. This form helps to capture details about the brand or manufacturer interested in collaborating, the type of inquiry, and the contact person's information. This form should only be filled out by end users who have a genuine interest in collaborating on a packaging innovation project. To avoid duplicating efforts, please ensure that you have not filled out this form previously and that your inquiry is not already being discussed or processed by our team.
-</thinking>
-
 # Packaging Innovation Inquiry Contact Form - Help Guide
 ## Purpose
 This form is designed to help us understand your Packaging Innovation Inquiry and facilitate further discussions or collaborations.

@@ -1,15 +1,3 @@
-<thinking>
-This form is a Photography Session Contract, likely used by a photography business to collect necessary information and agreement from clients before a photography session. The purpose of this form is to capture the client's details, session details, and obtain their agreement to the terms of the session. The fields on this form include:
-- Client: the name and contact information of the client
-- Photographer: the name and contact information of the photographer
-- Session Date: the date of the photography session
-- Start Time: the start time of the session
-- End Time: the end time of the session
-- Location: the location of the session
-- Client Agreement: a note field for the client to agree to the terms of the session.
-
-</thinking>
-
 # Karmic Kreative Photography Session Contract - Help Guide
 ## Purpose
 This form is a Photography Session Contract used by Karmic Kreative to collect necessary information and agreement from clients before a photography session.

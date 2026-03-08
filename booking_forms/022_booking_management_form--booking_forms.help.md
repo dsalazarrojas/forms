@@ -1,19 +1,3 @@
-<thinking>
-The form purpose is to gather information for booking management tasks such as viewing booking details, modifying bookings, cancelling bookings, extending stays, adding services, reporting issues, and making other actions as needed. The form is likely used by hotel staff to manage bookings for guests and resolve any issues that may arise during their stay. 
-
-The form requires the following fields to be filled in order to ensure that the action is properly documented and executed:
-
-- A booking reference number to identify the specific booking
-- Guest contact information such as name and email
-- Guest contact number
-- The type of management action needed (e.g., viewing, modifying, cancelling, etc.)
-- Dates of the current and new check-in and check-out if modifying
-- Type of room booked
-- Any additional information or notes
-
-The form will also allow the user to report any issues or concerns with the booking and specify the priority level and preferred resolution.
-</thinking>
-
 # Booking Management Form - Help Guide
 ## Purpose
 The Booking Management Form is used for managing bookings for guests, including viewing details, modifying, cancelling, and making other actions as needed.

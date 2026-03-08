@@ -1,10 +1,3 @@
-<thinking>
-To begin with, it seems like the form is designed for membership renewal purposes within a business setting. The form's primary function appears to be for users to update or input their membership information, including contact details, membership status, and other relevant data. The form's structure suggests that it's intended for internal use within a company or organization, likely for administrative purposes such as assigning memberships, tracking membership status, and updating user information.
-
-Before proceeding, please review the form carefully to ensure it aligns with your specific needs and requirements. If you have any questions or concerns, feel free to reach out to the relevant stakeholders for clarification.
-
-</thinking>
-
 # Membership Renewal Form - Help Guide
 
 ## Purpose

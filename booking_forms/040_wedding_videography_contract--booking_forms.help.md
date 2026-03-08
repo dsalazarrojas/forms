@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing information and agreement from clients for a wedding videography service. The form includes details about the customer's information, wedding details, video package selection, and consent for various aspects of the service. It's essential to review this form carefully to understand your rights and responsibilities as a client and to ensure you're comfortable with the agreed-upon terms. Please take a moment to review each field carefully and answer truthfully to ensure a smooth and successful experience with the videographer.
-</thinking>
-
 # Wedding Videography Contract - Help Guide
 ## Purpose
 This guide will walk you through the Wedding Videography Contract form, which is designed to gather essential information and agreement from clients for a professional wedding videography service. The form covers customer information, wedding details, video package selection, and client consent for various aspects of the service.

@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, I will review the provided YAML fields to ensure I understand the form's purpose and requirements.</thinking>
-
 # Lease Renewal Checklist Form - Help Guide
 
 ## Purpose

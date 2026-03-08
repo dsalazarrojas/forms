@@ -1,19 +1,3 @@
-<thinking>
-
-This form is used to collect contact and business information from retail businesses that are interested in adopting renewable energy solutions. The purpose of this form is to gather data to understand the needs and requirements of these businesses, which will help in providing tailored support and resources to aid in their transition to renewable energy.
-
-The form is divided into several sections, each focusing on a different aspect of the business:
-
-*   Contact Details: This section collects the contact information of the person submitting the form, including email, phone number, and name.
-*   Business Details: This section collects general information about the business, such as business name, address, and type.
-*   Motivations: This section asks the business to specify their motivations for adopting renewable energy, which can be multiple select options such as Energy Efficiency, Cost Savings, Sustainability, Government Incentives, Community Expectations, and Other (please specify).
-*   Contact Information: This section collects additional contact information, including website, fax number, and business nature.
-*   Business Information: This section collects more detailed business information, including number of employees, business owners, and business type.
-
-Before filling out the form, it is essential to note that the business type is a required field and must be selected from the given options. The other fields are optional and can be filled in as per the business's needs and preferences.
-
-</thinking>
-
 # Retail Renewable Energy Adoption Application - Help Guide
 ## Purpose
 The Retail Renewable Energy Adoption Application form is designed to collect information from retail businesses interested in adopting renewable energy solutions.

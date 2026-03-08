@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to gather information about a product order, which is a crucial step in the business process. It is used to capture customer data, product details, and order-specific information, helping the business to streamline their processes and make informed decisions. To ensure this form is used correctly, please ensure it is not duplicated or used for a different purpose. If you are unsure about the form's use, please consult with your supervisor or team lead for clarification...</thinking>
-
 # WYT Product Order Form 4521 - Help Guide
 ## Purpose
 The WYT Product Order Form 4521 is a critical form used to gather essential information about a product order. It serves as a centralized platform for capturing customer data, product details, and order-specific information, enabling the business to efficiently process orders and make informed decisions.

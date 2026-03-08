@@ -1,18 +1,3 @@
-<thinking> 
-  The purpose of this form is to gather information about a revenue opportunity, 
-  including its name, close probability, value, sales revenue, customer contact 
-  information, and sales team involvement. This form is intended to help 
-  users assess and track revenue opportunities in a structured and 
-  standardized way. 
-
-  To avoid duplication, please fill out this form only once per opportunity. 
-  If you need to update an opportunity, please delete the existing entry and 
-  fill out the form again with the new information. 
-
-  This form is meant to be a comprehensive tool for sales teams to 
-  effectively manage and analyze revenue opportunities.
-</thinking>
-
 # Revenue Opportunity Assessment - Help Guide
 ## Purpose
 The Revenue Opportunity Assessment form is designed to gather information about a 

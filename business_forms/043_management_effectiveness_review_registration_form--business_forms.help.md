@@ -1,17 +1,3 @@
-<thinking>
-
-This guide is intended to help users understand the purpose and process of completing the Management Effectiveness Review Registration Form. The form is designed to gather information for a management effectiveness review, which is a process to evaluate the performance and progress of a management consultant. The review is typically conducted by a reviewer, who assesses the consultant's work and provides feedback. The form is used to register the review details, including the session details, consultant information, expected outcomes, and review status.
-
-Before starting the form, please ensure that you are eligible to conduct a review by checking the following:
-
-* You are the designated reviewer for the management effectiveness review.
-* You have a valid reason for conducting the review (e.g., performance evaluation, progress check, etc.).
-* You have not already registered a review for the same consultant and session.
-
-If you are unsure about the review purpose or eligibility, please contact your supervisor or the consultant's management team for clarification.
-
-</thinking>
-
 # Management Effectiveness Review Registration Form - Help Guide
 ## Purpose
 The Management Effectiveness Review Registration Form is used to register the details of a management effectiveness review. This form helps the reviewer to gather information about the consultant's work, expected outcomes, and review status.

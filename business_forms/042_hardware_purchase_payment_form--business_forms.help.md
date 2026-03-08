@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture the necessary details for a hardware purchase payment. It's essential to fill out this form accurately to ensure that the payment processing goes smoothly and efficiently. Before filling out this form, please ensure that you have all the required information and details ready. If you're unsure about any field, please don't hesitate to contact the relevant authorities for clarification.
-
-</thinking>
-
 # Hardware Purchase Payment Form - Help Guide
 ## Purpose
 The Hardware Purchase Payment Form is used to provide detailed information about a hardware purchase payment. This includes payment information, product details, customer info, shipping information, and any additional notes or comments.

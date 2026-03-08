@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a simple calculator that estimates the Debt-to-Equity Ratio, a metric used in finance to measure a company's leverage. The ratio is calculated by dividing the total debt by the total equity. This form likely serves as a quick estimation tool for business users to calculate this metric. The fields seem to be straightforward and well-defined, with only three fields: Total Debt, Total Equity, and Debt-to-Equity Ratio. I will proceed with creating the help guide based on these details.</thinking>
-
 # Debt To Equity Ratio Calculator - Help Guide
 ## Purpose
 The Debt-to-Equity Ratio Calculator is a simple tool used to estimate the Debt-to-Equity Ratio of a company or organization. This ratio is an important metric in finance that helps investors and analysts understand a company's leverage and risk.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Batch Release Confirmation Request Form - Help Guide
 ## Purpose
 This form is used to request the final release of manufactured goods. It ensures that all required checks and criteria have been met before allowing the batch to proceed with release. The form requires the submission of specific details to confirm that the batch is ready for release.

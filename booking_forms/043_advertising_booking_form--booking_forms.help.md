@@ -1,7 +1,3 @@
-<thinking>
-We will assume that the form is intended for advertising clients to book a campaign on a specific advertising platform, submitting creative materials, and confirming the booking details. Please ensure that all provided information is accurate and meets the required fields for the successful booking of the advertising campaign.
-</thinking>
-
 # Advertising Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from advertising clients to book a specific advertising campaign on various platforms, manage campaign details, and confirm the booking process. It will guide you through the required fields and sections to complete the form accurately.

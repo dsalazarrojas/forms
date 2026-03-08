@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather general information about the cryptocurrency market trends and any personal thoughts or notes the user may have. This form template is designed to be a basic, straightforward tool for collecting data in a cryptocurrency-related context. The form has three fields: General info, Market trends, and Note. The General info field is for providing a brief description about the current state of the cryptocurrency market. The Market trends field is also for providing more in-depth information about market trends. The Note field is for any additional thoughts or notes the user may have. 
-
-</thinking>
-
 # Cryptocurrency Survey Template - Help Guide
 ## Purpose
 This form is designed to collect information about cryptocurrency market trends and gather any notes or thoughts the user may have.

@@ -1,22 +1,3 @@
-<thinking>
-This form is used to collect information for cost allocation mapping purposes. The form is meant to capture relevant details about the customer, their allocation request, and associated costs. This form is likely used for budgeting and accounting purposes within a business organization. 
-
-To ensure accurate and efficient processing, please complete this form with the required information. 
-
-If you have already submitted a form with similar details, please be aware that your submission may not be duplicated. 
-
-The form consists of multiple sections, each with a specific field that must be filled out to ensure accurate and efficient processing. 
-
-Please take the time to carefully complete this form as incomplete or incorrect submissions may result in delays or errors in processing. 
-
-This form has multiple fields to collect various types of information, including customer details and cost allocation specifics. 
-
-If you are unsure of any field or its purpose, please refer to this help guide for further explanation. 
-
-Please ensure to fill out all required fields. 
-
-</thinking>
-
 # Cost Allocation Mapping Application Form - Help Guide
 ## Purpose
 The Cost Allocation Mapping Application Form is used to capture information for cost allocation mapping purposes within a business organization. It gathers details about customers, their allocation requests, and associated costs to aid in budgeting and accounting.

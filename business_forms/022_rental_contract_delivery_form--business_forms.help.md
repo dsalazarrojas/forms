@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let me break down the form's purpose and fields to ensure I'm on the right track. The form is for rental contract delivery, which involves delivering a contract to tenants. Given the fields provided, it appears to be a form to collect information about the tenant, such as their name, email, phone number, and other details relevant to the rental contract. I will review the fields to ensure I'm explaining each one accurately.</thinking>
-
 # rental_contract_delivery_form - Help Guide
 
 ## Purpose

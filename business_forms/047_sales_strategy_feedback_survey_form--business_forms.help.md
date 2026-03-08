@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from sales team members regarding their sales strategy, helping to identify areas of improvement and best practices. To ensure the information provided is relevant and not duplicated, the sales team will only receive the survey once and should only focus on sharing their honest feedback. Please make sure to be as detailed as possible and only fill out the fields that apply to your sales strategy. The information gathered will help to improve the overall sales strategy and process.
-</thinking>
-
 # Sales Strategy Feedback Survey Form - Help Guide
 ## Purpose
 The Sales Strategy Feedback Survey Form is designed to collect information from sales team members regarding their sales strategy, helping to identify areas of improvement and best practices. This form is intended to be a one-time submission, and you should only focus on sharing your honest feedback.

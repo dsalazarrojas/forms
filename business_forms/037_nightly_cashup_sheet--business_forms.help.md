@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for businesses to accurately record and manage the daily cash flow, including staff sick and incident reports, cash handling, and bank fund management. It helps to ensure that all transactions are accounted for and reported correctly, providing a clear picture of the nightly cash balance. This form is designed to be filled out daily, hence the title "Nightly Cashup Sheet". It's likely that this form will be used by business owners or managers who need to monitor the daily financials and staff attendance.
-</thinking>
-
 # Nightly Cashup Sheet - Help Guide
 ## Purpose
 This form is a daily financial report used to record staff attendance, cash handling, and bank balance updates.

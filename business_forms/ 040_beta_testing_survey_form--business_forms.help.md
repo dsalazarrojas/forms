@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather personal and project-related information from beta testers for the company's beta testing program. Beta testing is an essential phase of software development where a small group of people test and provide feedback on a product before its official release. The purpose of this form is to collect necessary data for the beta testing program, ensuring that we receive accurate and relevant information about our testers' experiences with the product.
-</thinking>
-
 # Beta Testing Survey Form - Help Guide
 ## Purpose
 The Beta Testing Survey Form is a tool designed to help us understand the experiences and needs of our beta testers, gathering vital information about their interactions with our beta testing product.

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from customers who wish to request a refund for their custom orders. This form is used to collect details such as customer information, the reason for the refund request, the refund amount, the method of refund (e.g. cash or credit), and any additional comments. It's essential to fill out this form accurately and completely to ensure that the refund request is processed efficiently and effectively.
-
-</thinking>
-
 # Custom Order Refund Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers who wish to request a refund for their custom orders. Please fill out this form accurately and completely to initiate the refund request process.

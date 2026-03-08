@@ -1,8 +1,3 @@
-<thinking>
-This form is used for requesting assistance with operations planning within an organization. The purpose of this form is to collect information from the user about the operation they need help with, including the operation ID, name, and description. This form is used to ensure that operations are properly planned and executed within the organization.
-To avoid duplication, users should only fill out this form once for each operation they need assistance with.
-</thinking>
-
 # Operations Planning Assistance Request Form - Help Guide
 ## Purpose
 The Operations Planning Assistance Request Form is used to request help with operations planning within an organization. This form helps the operations team plan and execute operations more efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to insurance claims, specifically for policyholders to report complaints or issues related to their insurance policies. The form aims to gather details such as the policyholder's name, policy number, description of the complaint, date of the complaint, and the insurance provider involved. This information will help insurance companies and relevant authorities investigate and address the claims efficiently. Please note that this form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata from the insurance category. It is released under a Creative Commons BY 4.0 license, allowing users to modify and distribute the form while providing credit.
-</thinking>
-
 # Insurance Claim Complaint Form - Help Guide
 ## Purpose
 The Insurance Claim Complaint Form is designed to collect information related to insurance claims, specifically for policyholders to report complaints or issues related to their insurance policies.

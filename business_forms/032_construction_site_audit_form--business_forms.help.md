@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Site Audit Form - Help Guide
 ## Purpose
 This form is designed to assess the overall condition and compliance of a construction site. It will guide auditors in evaluating various aspects of the site, including safety, quality, and environmental compliance.

@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a comprehensive project management tracker with various pages for different aspects of project management, such as tracking tasks, deadlines, resources, and project status. Upon reviewing the form structure, it seems to be a template for monitoring and managing multiple projects with their associated tasks, resources, and deadlines. The form includes fields for selecting options, dates, and multiple selections, which suggests that it's designed for project managers or team leads to monitor and report on project progress. It's likely that this form will help users track tasks, assign resources, set deadlines, and report on project status. 
-
-Please note that the following guide is based on the provided YAML fields and will cover the essential pages and fields required for users to complete the form.
-
-</thinking>
 # project-management-tracker - Help Guide
 ## Purpose
 The project-management-tracker form is a comprehensive tool for project managers and team leaders to monitor and report on project progress. This guide will walk you through each page and field to help you navigate the form effectively.

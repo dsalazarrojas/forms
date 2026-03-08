@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vendor_management_effectiveness_survey - Help Guide
 
 ## Purpose

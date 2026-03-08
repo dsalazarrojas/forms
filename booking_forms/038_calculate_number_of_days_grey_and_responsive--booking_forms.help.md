@@ -1,15 +1,3 @@
-<thinking>
-The form "Calculate Number Of Days Grey And Responsive" is designed for customers to provide information about their booking preferences and requirements. This form is meant to be filled out by customers who are interested in booking a hotel room, vacation rental, event venue, equipment rental, or other services. The form helps the customer to calculate the number of days they are booking and provides them with options to customize their stay according to their needs.
-
-Before filling out this form, the customer should ensure that they have all the necessary information ready, including their name, email address, phone number, and any special requests they may have. They should also consider how they would like to be contacted and how they would like to pay for their booking.
-
-The form is divided into several sections, each with its own specific purpose. The customer will start by providing personal contact information, such as their name and email address. This is followed by the selection of the type of booking they are interested in, which could be a hotel room, vacation rental, event venue, equipment rental, or other services. The customer will also be asked to provide the start and end dates of their booking, which will be used to calculate the number of days they are booking.
-
-Additional options are available for the customer to customize their booking experience. They can select the type of room or unit they are booking, specify any special requests they may have, and choose how they would like to be contacted. They can also select whether their dates are flexible or not, and whether they understand the cancellation policy. Lastly, they can choose how they would like to pay for their booking and specify any additional services they may need.
-
-It is essential for the customer to understand that the form is not just about providing information; it is also about customizing their booking experience based on their preferences and requirements. By filling out the form accurately and completely, the customer will receive personalized information about their booking, including the number of days they are booking and any additional options they may have.
-</thinking>
-
 # Calculate Number Of Days Grey And Responsive - Help Guide
 ## Purpose
 

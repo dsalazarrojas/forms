@@ -1,5 +1,3 @@
-<thinking>Business Plan Form is used by business owners and entrepreneurs to create a comprehensive plan for their startup or established business. This form is designed to be a one-stop-shop for business planning, covering essential aspects like business structure, products or services, target market, revenue models, and operational strategies. Before filling out this form, please ensure you have a clear understanding of your business concept, mission, vision, and values. Also, make sure you have an idea of your target market, revenue projections, and the team members involved. To avoid duplication of effort, please do not fill out this form if you have already created a business plan using other templates or tools. This form is meant to be a detailed and structured outline for your business plan, and its sections can serve as a starting point for further research and development.</thinking>
-
 # Business Plan Form - Help Guide
 
 ## Purpose

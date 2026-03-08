@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for job applicants to submit their applications to a business. The purpose of this form is to collect basic information from applicants, including their contact information, work experience, education, skills, qualifications, references, and resume. The form aims to gather relevant details from the applicants that can help the business make informed decisions in the hiring process. This form is designed to be user-friendly and responsive, making it easy to complete and navigate on various devices.
-
-</thinking>
-
 # Simple Job Application Form - Help Guide
 ## Purpose
 This form is designed for job applicants to submit their applications to a business. The purpose of this form is to collect basic information from applicants, including their contact information, work experience, education, skills, qualifications, references, and resume.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from a company about their product liability, including details about the product itself, the user who will be using it, and any relevant warranties or agreements. This form is likely used for administrative or legal purposes, such as tracking product usage or ensuring user agreements are met. Ensure that this form is completed by the correct company representative and that all required fields are filled out correctly.
-
-Note: There is no specific information about the purpose of this form, so some fields may be assumed to be optional or have specific requirements not explicitly mentioned in the YAML.
-
-</thinking>
-
 # Product Liability Waiver Form - Help Guide
 
 ## Purpose

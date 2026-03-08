@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in a business setting to collect information from donors for silent auctions, which are events where people bid on silent, usually non-physical, items such as art or experiences. The form is designed to gather details from donors, including their donation amount, type, and recipient information. It may also collect contact details from the donor and recipient. The form likely aims to streamline the process of managing silent auction donations and improving donor and recipient relationships. The form should be completed by individuals or organizations participating in the silent auction, and its purpose is to ensure accurate and complete information is captured for processing and follow-up. It's possible that this form is part of a larger business system for managing auctions and donor relationships.
-</thinking>
-
 # Silent Auction Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information for silent auction donors, including their donation details and contact information.

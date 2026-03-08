@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # patent_application_authorization_form - Help Guide
 ## Purpose
 The Patent Application Authorization Form is used to authorize the representation of a patent application. This form is essential for the inventor, agent, law firm, or university to formally acknowledge and confirm their involvement in the patent application process. It helps to establish a clear understanding of their role and responsibilities in the application process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a referral from a healthcare provider to another healthcare provider. The fields are intended to gather contact and appointment information, medical details, and other relevant data to facilitate a smooth referral process. This form is suitable for a variety of referral purposes, including new and existing patient visits, as well as billing inquiries. Before starting, ensure you're not duplicating an existing referral, and that the form's purpose aligns with your specific use case.
-</thinking>
-
 # solar_referral_form_template - Help Guide
 ## Purpose
 This form is designed to collect information for referrals from healthcare providers to other healthcare providers. It's intended to be used for various referral purposes, including new and existing patient visits, and billing inquiries.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information on the corporate social responsibility (CSR) of an organization. The purpose of this form is to collect data on various aspects of CSR, such as stakeholder perceptions, feedback, performance measurement, and communication. This data will be used to help organizations evaluate and improve their CSR strategies and practices.
-Please ensure that you only fill in the form once. If you have already completed a similar form, it is likely that your responses to this form will not change the information we already hold.
-</thinking>
-
 # corporate-social-responsibility-survey - Help Guide
 ## Purpose
 The corporate social responsibility (CSR) survey is designed to collect information on various aspects of CSR, including stakeholder perceptions, feedback, performance measurement, and communication. This data will be used to help organizations evaluate and improve their CSR strategies and practices.

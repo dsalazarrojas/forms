@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for this form, I will follow the provided YAML fields and create an explanation for each field, ensuring the guide is concrete, concise, and practical.
-
-</thinking>
-
 # Data Handling Assessment - Help Guide
 ## Purpose
 

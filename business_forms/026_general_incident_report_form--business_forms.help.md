@@ -1,11 +1,3 @@
-<thinking>
-To create an effective help guide for the "General Incident Report Form", we should consider the following:
-
-- The form is intended to gather information about incidents that have occurred within the organization.
-- We should confirm that the form is not a duplication of other reports or forms that might already exist within the organization.
-
-</thinking>
-
 # General Incident Report Form - Help Guide
 ## Purpose
 The "General Incident Report Form" is designed to collect details and information about incidents that have occurred within the organization. This form will help gather relevant data to document and review incidents, ensuring accurate records and facilitating incident resolution.

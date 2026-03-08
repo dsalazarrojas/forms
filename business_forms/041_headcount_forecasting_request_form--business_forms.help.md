@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # headcount_forecasting_request_form - Help Guide
 ## Purpose
 

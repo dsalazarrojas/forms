@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for risk forecasting and mitigation registration. It's a crucial tool for identifying and addressing potential risks in an organization. I will check the form schema for consistency and non-duplication.
-
-The form is used to collect information about potential risks and their corresponding mitigation strategies. 
-
-The form is split into 7 sections (pages) and contains a mix of text, number, select, select multiple, and date fields. Each section has a specific purpose and is essential for the overall risk forecasting and mitigation process.
-
-</thinking>
-
 # Risk Forecasting And Mitigation Registration Form - Help Guide
 ## Purpose
 This form is used for risk forecasting and mitigation registration, helping organizations identify and address potential risks.

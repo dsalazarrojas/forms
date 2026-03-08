@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for project planning, and it's likely intended to be used for a company or organization's internal project management system. Given the fields and their types, it appears to be a comprehensive form for gathering project information, including team members, project status, and task details.
-</thinking>
-
 # Project Planning Form - Help Guide
 ## Purpose
 The Project Planning Form is a tool used to collect and document project details for better organization and management. It's essential for project teams, managers, and stakeholders to use this form for accurate and thorough project planning.

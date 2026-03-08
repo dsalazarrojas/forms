@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers place orders for industrial heat shield panels. The purpose of this form is to gather essential information from customers to ensure accurate processing and delivery of their orders. Please make sure to fill out this form carefully and completely.
-</thinking>
-
 # Industrial Heat Shield Panel Order Form - Help Guide
 ## Purpose
 The Industrial Heat Shield Panel Order Form is designed to gather essential information from customers to place orders for industrial heat shield panels. This form helps us to understand your requirements and process your order accurately.

@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Meeting Room Reservation Form", I will follow these steps:
-
-1. Identify the form's purpose and required fields.
-2. Create a brief internal reasoning block to explain the form's purpose and prevent duplication.
-3. Write the help guide in Markdown format.
-
-</thinking>
-
 # Meeting Room Reservation Form - Help Guide
 ## Purpose
 This form is used to reserve a meeting room for an event or meeting. Please fill out the form to request a meeting room and provide necessary details.

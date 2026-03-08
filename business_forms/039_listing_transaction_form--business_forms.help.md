@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Listing Transaction Form - Help Guide
 ## Purpose
 The Listing Transaction Form is used to record and document listing transactions. This form captures essential information about the transaction, including the date, time, location, and amount involved. It is designed to provide a clear and accurate record of listing transactions for future reference and reporting purposes.

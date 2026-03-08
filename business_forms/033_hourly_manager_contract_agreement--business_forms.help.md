@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for an hourly manager contract agreement between an employee and their manager. This form is used to outline the terms and conditions of the contract, including job scope, payment terms, compensation, and termination conditions. It is intended to serve as a formal agreement between the employee and manager to ensure clear understanding and expectations. Before creating this guide, I reviewed the provided YAML and ensured that the form fields are comprehensive and cover all necessary aspects of an hourly manager contract.
-
-To prevent duplication, I will provide a brief explanation of the form fields in a way that covers the essential information without being redundant.
-
-</thinking>
-
 # Hourly Manager Contract Agreement - Help Guide
 ## Purpose
 The Hourly Manager Contract Agreement form is used to collect information for a formal agreement between an employee and their manager regarding job scope, payment terms, compensation, and termination conditions.

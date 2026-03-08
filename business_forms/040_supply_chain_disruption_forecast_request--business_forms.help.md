@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request a forecast for potential supply chain disruptions. The form is designed for internal stakeholders to assess and identify potential disruptions that may impact business operations. Before completing this form, ensure that you have a clear understanding of the disruption you are reporting and that it has not already been submitted. If you are unsure, please review the existing disruption requests to ensure this is not a duplicate submission.
-</thinking>
-
 # Supply Chain Disruption Forecast Request - Help Guide
 ## Purpose
 The Supply Chain Disruption Forecast Request form is used to identify potential supply chain disruptions that may impact business operations. This form helps stakeholders assess and prioritize disruptions for resolution.

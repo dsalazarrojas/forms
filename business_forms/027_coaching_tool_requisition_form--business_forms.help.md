@@ -1,11 +1,3 @@
-<thinking>
-This form is used to requisition coaching tools for the employees of the company. This form serves as a template for the employees to fill in the necessary information so that the management can understand their requirements and make the necessary arrangements. 
-
-This form should only be filled in by employees of the company who need to request coaching tools. Please ensure that you are filling this form in your area of work and that you have consulted with your supervisor before submitting this form. 
-
-To ensure that the form is properly filled in, please go through each section and fill in all the necessary details. The form is divided into several sections that cover different aspects of the tool you are requesting.
-</thinking>
-
 # Coaching Tool Requisition Form - Help Guide
 ## Purpose
 This form is used to request coaching tools for the employees of the company. It helps the management to understand the requirements and make the necessary arrangements.

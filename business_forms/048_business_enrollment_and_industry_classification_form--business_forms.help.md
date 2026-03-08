@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for businesses to provide information about their business operations and classification. The purpose of this form is to collect data for administrative and regulatory purposes. It's essential to ensure that the information provided is accurate and up-to-date. Before filling out this form, please review the instructions carefully to avoid any errors or duplication of effort. This form is used for businesses that are enrolling or re-enrolling in various programs or services. It's a one-time submission form, and the provided information will be used to classify and categorize the business for administrative and regulatory purposes.
-</thinking>
-
 # Business Enrollment And Industry Classification Form - Help Guide
 ## Purpose
 The Business Enrollment And Industry Classification Form is used to provide information about your business operations and classification for administrative and regulatory purposes. Please ensure that the information provided is accurate and up-to-date.

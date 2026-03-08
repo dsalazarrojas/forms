@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Day Out Of Days - Help Guide
 ## Purpose
 This form is used to book and track days off or absences. It is intended for employees to provide dates when they will be out of the office. This form is not intended for recurring events or appointments, and should only be used for one-time events.

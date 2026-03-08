@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for generating a service quotation for a service request. It is intended for customers to provide their information and details of the service they require. The form will then be used to create a formal quotation that can be used for the service. This form is not meant to be used for any other purpose, and it's recommended that customers complete it only once per service request.
-
-</thinking>
-
 # General Service Quotation Form - Help Guide
 ## Purpose
 The General Service Quotation Form is a tool used to gather information from customers for service requests. It helps to generate a formal quotation that includes the customer's details and the details of the service required.

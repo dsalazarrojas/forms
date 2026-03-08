@@ -1,7 +1,3 @@
-<thinking>
-This form is used for booking family travel arrangements. It gathers information about the number of travelers, travel dates, travel duration, accommodation details, and payment methods. The form has multiple fields for travel agencies, which may indicate a need for redundancy or backup options. The purpose of the form is to collect comprehensive information for travel planning, and it should be completed by a family member or travel agent who has a good understanding of the family's travel requirements.
-</thinking>
-
 # Family Travel Booking Form - Help Guide
 ## Purpose
 The Family Travel Booking Form is used to collect information for booking family travel arrangements.

@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to ensure that the form's purpose, completion process, and each field's meaning are clear and concise for end users. This guide will help them understand the form's intent and requirements.
-</thinking>
-
 # Assessment Form - Help Guide
 ## Purpose
 The Assessment Form is designed to evaluate a team's performance in various aspects, such as productivity, quality, and collaboration. It helps identify key strengths and areas for improvement, providing an objective assessment for the team being evaluated.

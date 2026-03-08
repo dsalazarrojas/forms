@@ -1,18 +1,3 @@
-<thinking>
-We can create a user-facing help guide for the Plumbing System Inspection Form. This guide will help users understand the purpose of the form and how to complete it effectively. To ensure the form serves its intended purpose, let's first consider the following:
-
-* The form is intended to collect information about the plumbing system's condition, including its status, quality, and condition of fixtures and pipes. This suggests that the form is for maintenance or inspection purposes.
-* The form asks for specific details such as pipe material, pipe size, and pipe depth, which implies that it's used for assessing the system's integrity and functionality.
-* The form also asks for ratings of the system, which indicates that it's used for evaluation and assessment.
-
-Given this understanding, the form purpose is likely to inspect and evaluate the plumbing system's condition and status.
-
-The form is likely used by maintenance staff or plumbers to assess the system's condition and identify any potential issues or concerns.
-
-To ensure that the form is used correctly and effectively, it's essential to understand the meaning of each field and provide clear explanations.
-
-</thinking>
-
 # Plumbing System Inspection Form - Help Guide
 ## Purpose
 The Plumbing System Inspection Form is designed to inspect and evaluate the condition of the plumbing system. This includes assessing the status, quality, and condition of the fixtures and pipes to identify any potential issues or concerns.

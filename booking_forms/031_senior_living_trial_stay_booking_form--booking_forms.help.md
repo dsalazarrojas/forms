@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to book a trial stay in a senior living facility. It is designed to gather information about the guest's needs, contact details, and preferences to ensure a smooth and comfortable experience for them during their stay. The form is not required to be completed in its entirety, but it will help us to better understand their requirements and provide personalized support throughout their visit.
-
-Before starting, please note that the form is divided into several sections, each with a specific purpose. This guide will walk you through each field and its corresponding explanation to help you complete the form accurately and efficiently.
-
-</thinking>
-
 # senior-living-trial-stay-booking-form - Help Guide
 ## Purpose
 This form is used to book a trial stay in a senior living facility. It will help us to understand your needs and preferences to ensure a smooth and comfortable experience for you during your stay.

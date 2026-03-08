@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Independent Director Support Application Form - Help Guide
 
 ## Purpose

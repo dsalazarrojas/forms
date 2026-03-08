@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rental_agreement_closure_offboarding_form - Help Guide
 ## Purpose
 The "Rental Agreement Closure Offboarding Form" is a document used to formalize the closure of a rental agreement between a landlord and a tenant. This form is intended to be completed by the tenant to provide necessary information and formalize the offboarding process.

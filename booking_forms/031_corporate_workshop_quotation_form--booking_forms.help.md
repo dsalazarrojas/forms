@@ -1,14 +1,3 @@
-<thinking>
-To create a help guide for the "corporate_workshop_quotation_form" form, we need to consider the following:
-
-- The form is used for generating quotations for corporate workshops.
-- It's likely that the form is used by sales teams to gather information from customers or prospects about the requirements and preferences for a workshop.
-- The fields in the form are likely meant to capture various details such as company information, event details, and pricing options.
-
-We should ensure that the guide is concrete, concise, and practical to help users understand each field's purpose and how to fill it out correctly.
-
-</thinking>
-
 # corporate_workshop_quotation_form - Help Guide
 ## Purpose
 The corporate workshop quotation form is designed to gather information from customers or prospects to generate quotations for corporate workshops. Fill out this form to provide your company's details, workshop requirements, and pricing preferences.

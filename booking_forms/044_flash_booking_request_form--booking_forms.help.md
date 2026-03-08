@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note**: This form appears to be a request form for booking or requesting services. The form is divided into multiple pages, suggesting that it may be used for complex or multi-step processes. The fields include text boxes for service request, service type, and multiple fields for "prophets" with varying types (text, number, date, time, and text). The lack of specific labels or instructions suggests that the form might be a generic template for various uses. To confirm, we should review the form's purpose and usage in the context of the "booking_forms" category.
-</thinking>
-
 # Flash Booking Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for flash booking requests. It helps us understand your requirements and provide the best possible solution for your needs.

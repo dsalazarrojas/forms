@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from employees about their specific project requirements, such as project inquiry, workforce challenges, project schedule, and whether they need workforce optimization consulting. This information will help the consulting team better understand their project needs and provide more effective support. To ensure the form is completed correctly, employees should only fill it out if they have a project that requires workforce optimization consulting. If they have already filled out this form for the same project, they should not submit another request.
-</thinking>
-
 # Workforce Optimization Consulting Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for workforce optimization consulting services. It is meant to be filled out by employees who have a project that requires specific guidance and support from the consulting team.

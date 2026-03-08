@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the configuration and management of servers in an IT infrastructure. The purpose of the form is to gather data on various aspects of server configuration, including hardware resources, network configuration, user authentication, security, backups, and more. This information can be used to ensure that servers are properly configured and managed, reducing the risk of errors and downtime.
-
-The form is divided into several sections, each covering a specific aspect of server configuration. Each section provides multiple-choice options for the user to select from. This guide will walk you through each section and explain what each field means.
-
-</thinking>
-
 # Server Configuration Checklist - Help Guide
 ## Purpose
 The server configuration checklist is a form designed to gather information about the configuration and management of servers in an IT infrastructure. It is used to ensure that servers are properly configured and managed, reducing the risk of errors and downtime.

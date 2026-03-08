@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to capture information about a market research tool requisition from the user. The form is used to gather essential details about the tool, including its type, name, description, priority, cost, status, category, version, date, time, comment, email, phone number, and note. 
-
-The form is intended for internal use within the company, and the information collected will be used to update and improve the company's market research tools.
-
-Please ensure you are filling out the form for a legitimate business purpose and not for personal use. To avoid duplication, please check with the existing tools in the database before submitting a new requisition.
-
-This form is designed to be completed by authorized personnel only. If you are not an authorized user, please do not proceed.
-
-Please ensure that all required fields are completed accurately and thoroughly before submitting the form. 
-
-</thinking>
-
 # Market Research Tool Requisition Form - Help Guide
 ## Purpose
 This form is used to gather information about a market research tool requisition. Please provide the required details about the tool you are requesting.

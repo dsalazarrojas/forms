@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for documenting and recording the results of a crane safety inspection, which is a crucial process for identifying and addressing potential hazards and risks associated with crane usage in the workplace. The form is designed to capture information about the crane, the inspection process, and the inspector's findings and certifications. The following guide provides a step-by-step explanation of the form and its fields to help users complete it effectively.
-
-</thinking>
-
 # Crane Safety Inspection Form - Help Guide
 ## Purpose
 The Crane Safety Inspection Form is used to document and record the results of a crane safety inspection, which is essential for identifying and addressing potential hazards and risks associated with crane usage in the workplace.

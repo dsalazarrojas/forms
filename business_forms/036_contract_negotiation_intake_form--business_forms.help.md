@@ -1,34 +1,3 @@
-<thinking> 
-This form is designed to collect information related to contract negotiation, allowing requestors to submit essential details about their agreements. The form should only be used for legitimate requests that have not been previously submitted. To ensure the integrity of the data collected, it's crucial to fill out the form accurately and thoroughly.
-
-To complete this form, please follow the instructions below.
-
-The following fields are mandatory and will be asked for:
-
-*   Requestor's name and title
-*   Department
-*   Request Date
-*   Contract Type
-*   Contract Title
-*   Other Party Name
-*   Other Party Type
-*   Estimated Value
-*   Contract Duration
-*   Proposed Start Date
-*   Business Objectives
-*   Key Terms
-*   Deal Breakers
-*   Risk Assessment
-*   Budget Approved
-*   Stakeholders
-*   Previous Relationship
-*   Legal Review Needed
-*   Urgency Level
-
-Please select the relevant information for your agreement carefully and truthfully.
-
-</thinking>
-
 # Contract Negotiation Intake Form - Help Guide
 
 ## Purpose

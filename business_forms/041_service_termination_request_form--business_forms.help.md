@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request the termination of services from various service providers. The purpose of this form is to collect information from the user about why they want to terminate the service, the date they are requesting termination, and any additional comments they might have. It seems that the form is meant to be used internally, as there is no indication that it is publicly accessible. The form is likely to be used by internal teams or departments to manage and track service termination requests.
-
-Before filling out this form, please check if you have already submitted a termination request for the same service. If you have, please note that duplicate requests will not be processed.
-
-</thinking>
-
 # Service Termination Request Form - Help Guide
 ## Purpose
 The Service Termination Request Form is used to request the termination of services from various service providers. This form helps gather information about the reason for termination, the date of termination request, and any additional comments.

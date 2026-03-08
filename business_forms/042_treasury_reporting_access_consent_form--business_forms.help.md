@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Treasury Reporting Access Consent Form - Help Guide
 ## Purpose
 The Treasury Reporting Access Consent Form is a document used to obtain consent from employees for accessing treasury reporting. It is essential for ensuring that all employees understand and agree to the terms of reporting access, including the methods used for reporting. This form is a crucial step in maintaining the confidentiality and security of sensitive financial data.

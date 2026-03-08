@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for booking purposes in cultural exchange programs. It is intended to help users provide information about their stay, such as their guest type, arrival and departure dates, email, phone number, and address. This form is used by staff members to manage bookings and ensure that all necessary information is provided.
-
-The form is composed of multiple pages with various fields. The purpose of this guide is to walk the user through each page and field explanation to ensure they understand what information is required and what is optional.
-
-</thinking>
-
 # Cultural Exchange Housing Booking - Help Guide
 ## Purpose
 This guide will help you fill out the "Cultural Exchange Housing Booking" form. The form is used to provide information for housing reservations.

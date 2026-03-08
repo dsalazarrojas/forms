@@ -1,19 +1,3 @@
-<thinking>
-We are designing a help guide for the "it_services_fee_schedule_request" form. This form is used to collect information about a service request, including details about the provider, pricing, contact information, service schedule, and billing details. 
-
-Before we dive into the guide, let's ensure that we cover all the necessary fields and options for this form. It seems that most fields are optional, but it's essential to understand each field's purpose and usage. We will cover the fields that are most relevant to the service request process.
-
-The form is divided into the following sections: 
-
-1. Provider information
-2. Pricing and Service Details
-3. Contact and Billing Information
-4. Service Schedule and Status
-
-This guide will walk the user through each field and its purpose, ensuring they can complete the form accurately and efficiently.
-
-</thinking>
-
 # it_services_fee_schedule_request - Help Guide
 ## Purpose
 The "it_services_fee_schedule_request" form is used to collect information about a service request, enabling the efficient management and processing of service requests.

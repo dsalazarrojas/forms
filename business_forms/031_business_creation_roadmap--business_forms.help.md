@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to guide entrepreneurs and business creators through a structured process of defining their business vision, goals, and plans. It is intended to help them create a comprehensive business creation roadmap that outlines key aspects of their business, from their background and experience to their business model, target market, and financial projections. This form helps entrepreneurs clarify their thoughts, identify potential challenges, and provide a clear plan for potential investors, mentors, or partners to review and support.
-
-The form consists of a series of questions and prompts that cover various aspects of the business, including background information, business concept, financial projections, and plans for growth and development. The form is designed to be user-friendly, and the questions are carefully crafted to help entrepreneurs think critically about their business idea and create a solid foundation for success.
-
-The form's structure allows for flexibility and adaptation to different business types and stages of development. By answering these questions, entrepreneurs can create a detailed roadmap for their business, which can be useful for planning, pitching, and securing support.
-
-</thinking>
-
 # Business Creation Roadmap - Help Guide
 ## Purpose
 The Business Creation Roadmap form is designed to guide entrepreneurs through a structured process of defining their business vision, goals, and plans.

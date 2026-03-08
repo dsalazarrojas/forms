@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather retrospective information from the business, specifically to understand the primary purpose of the survey, goals, metrics, targets, scores, and other relevant details. This form is likely intended for internal use within the organization, such as to track progress, identify areas for improvement, or to conduct regular check-ins. It's possible that this form is part of a larger process for monitoring business performance or making data-driven decisions. To avoid duplication of effort, ensure that the business already has a well-established process in place for gathering and using retrospective data.
-</thinking>
-
 # Retrospective Survey - Help Guide
 ## Purpose
 The retrospective survey is designed to collect information from the business to help identify areas of improvement and understand the business's performance. It is a tool to gather data on the business's goals, targets, and key challenges and opportunities.

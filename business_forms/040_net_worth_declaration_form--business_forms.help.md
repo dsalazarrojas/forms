@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect general information about an individual's or business's financial situation. It is designed to be completed by someone who wants to declare their net worth for internal purposes, such as financial reporting or assessment.
-To ensure that the provided information is accurate and not duplicated, please review and understand each field before proceeding.
-</thinking>
-
 # net_worth_declaration_form - Help Guide
 ## Purpose
 The net worth declaration form is used to collect information about an individual's or business's financial situation. It is intended for internal use, such as financial reporting or assessment.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Survey - Help Guide
 
 ## Purpose

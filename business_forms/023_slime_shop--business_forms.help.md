@@ -1,8 +1,3 @@
-<thinking>
-The form "Slime Shop" is used for collecting customer information for a fictional Slime Shop business. This form is likely used for sales, customer onboarding, or general inquiries. The goal is to gather essential details from customers, which will be used to tailor services or products to their needs. The purpose of this form is to ensure that the customer's experience with the Slime Shop is seamless and personalized. This form is not used for any other purpose, and all fields are essential for the intended use case.
-
-</thinking>
-
 # Slime Shop - Help Guide
 ## Purpose
 The Slime Shop form is a crucial tool for collecting customer information to provide tailored services or products.

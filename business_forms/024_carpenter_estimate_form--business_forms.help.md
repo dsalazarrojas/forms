@@ -1,9 +1,3 @@
-<thinking>
-The Carpenter Estimate Form is designed to gather information about a potential carpentry project. This form is used to collect contact information from the customer, details about the job or project, and specific requirements and constraints. Before filling out this form, please ensure you have all the necessary information and details about the project, including job location, materials needed, and any specific requirements or constraints.
-
-This guide is for the user to understand how to complete the form correctly. It's essential to fill out the form accurately, as it will help the carpenter provide a reliable estimate for the project. If you're unsure about any field, please don't hesitate to reach out to the carpenter for clarification.
-</thinking>
-
 # Carpenter Estimate Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-The Project Questionnaire Form is used to collect project questionnaire templates from various templates. A project questionnaire template is a downloadable form that can be filled out online and mailed or uploaded online. This form helps to manage the project questionnaire templates by allowing users to choose a template type, description, status, and version. It also helps to track the status of the templates and keep them up-to-date.
-Please make sure this form is not duplicated or misused. Ensure the template types are correctly selected and the status is accurately reflected. A correct status will help in the accurate tracking and management of the templates.
-</thinking>
-
 # Project Questionnaire Form - Help Guide
 
 ## Purpose

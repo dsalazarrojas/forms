@@ -1,9 +1,3 @@
-<thinking>
-To avoid duplication, ensure this form is used for its intended purpose only: the Public Art Installation Grant Application. Any submissions that don't align with this purpose may be rejected.
-This form is a tool to gather information from artists and applicants to support the evaluation process of their public art installation grant applications. It is not intended for any other purpose.
-Please ensure that you are filling out the form with accurate and complete information to facilitate the fair and efficient evaluation of your grant application.
-</thinking>
-
 # Public Art Installation Grant Application - Help Guide
 ## Purpose
 The Public Art Installation Grant Application is a form designed to gather information from artists and applicants for the evaluation of their public art installation grant applications. It is a crucial part of the application process, and its completion will help ensure that your application is reviewed fairly and efficiently.

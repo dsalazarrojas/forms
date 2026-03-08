@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to communicate the status of the company's inventory. The purpose of this form is to gather information about the quantity and availability of specific products in the inventory. The form will be used by employees to communicate with each other about the status of the products and ensure that the inventory is up-to-date and accurate.
-
-Before filling out this form, please make sure that you are not duplicating the information that has already been communicated to you. This will help ensure that all employees are on the same page and that the inventory status is accurate.
-
-The following guide will walk you through the steps to complete the form.
-
-</thinking>
-
 # Inventory Status Communication Form - Help Guide
 ## Purpose
 The purpose of this form is to communicate the status of the company's inventory to employees.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit course content for the Late Winter 2020 Vitality Society course. The purpose of this form is to gather essential information about the course, including its name, description, instructor details, and course content. This information will be used to populate the course catalog and provide valuable insights to course attendees. Before proceeding, please ensure that the course you are submitting is not already listed in the catalog to avoid duplication. If you are unsure, you can check the catalog manually or contact the course administrator for verification.
-</thinking>
-
 # late_winter_2020_vitality_society_course_content_submission - Help Guide
 ## Purpose
 The "late_winter_2020_vitality_society_course_content_submission" form is used to submit course content for the Late Winter 2020 Vitality Society course. Fill out this form to provide essential details about your course and ensure it is listed in the course catalog.

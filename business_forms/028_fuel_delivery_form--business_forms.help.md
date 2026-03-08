@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to provide delivery information for fuel services. It's crucial to ensure that the customer provides accurate and complete information to guarantee smooth delivery of fuel. Before proceeding, double-check that this form is not a duplicate or unnecessary submission. If you're unsure, consult with your fuel delivery team for further clarification.
-</thinking>
-
 # Fuel Delivery Form - Help Guide
 ## Purpose
 The Fuel Delivery Form is used to collect delivery information from customers for fuel services. This form ensures that customers can provide their delivery details accurately and efficiently.

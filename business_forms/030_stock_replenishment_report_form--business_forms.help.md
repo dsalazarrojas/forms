@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the form is to gather information for stock replenishment requests. This form will likely be used by stock replenishment team members to document and track stock requests from customers or internal stakeholders. The form should be completed for each stock request, and it's possible that users may need to submit multiple requests. To ensure data accuracy, it's crucial to review the form thoroughly before submitting it. Please review this form carefully to ensure all required fields are completed accurately. If you're unsure about any field, it's best to seek guidance from the relevant team member or supervisor.
-</thinking>
-
 # Stock Replenishment Report Form - Help Guide
 ## Purpose
 The Stock Replenishment Report Form is used to document and track stock requests from customers or internal stakeholders. This form is designed to gather essential information for the stock replenishment team to fulfill stock requests efficiently.

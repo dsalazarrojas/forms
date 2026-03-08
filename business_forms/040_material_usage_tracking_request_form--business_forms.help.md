@@ -1,9 +1,3 @@
-<thinking>
-The form is designed to track material usage within a company. It is intended to be filled out by employees who request materials, typically for a specific project or task. The form is used to gather information about the material being requested, including whether or not the material is being used, the quantity being requested, the unit of measurement used, the unit requested, the date the request was submitted, the person who submitted the request, their email, the department that requested the form, whether or not the manager has approved the request, who approved it, and any additional comments. 
-
-The form's purpose is to ensure that material usage is tracked and recorded accurately and efficiently. The submitted information is intended to be used for internal business process purposes and for tracking material usage for future reference.
-</thinking>
-
 # Material Usage Tracking Request Form - Help Guide
 
 ## Purpose

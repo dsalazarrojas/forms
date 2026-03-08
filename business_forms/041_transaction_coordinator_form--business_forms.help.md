@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from end users for a transaction, specifically for a "Transaction Coordinator". The purpose of this form is to collect relevant details about the transaction, including any associated contact and property information. This form is intended to provide a structured way to capture and track transaction-related data, facilitating efficient processing and communication.
-</thinking>
-
 # Transaction Coordinator Form - Help Guide
 ## Purpose
 The Transaction Coordinator Form is a tool designed to collect and track information about transactions. It gathers essential details such as transaction data, contact information, and property information to enable efficient processing and communication.

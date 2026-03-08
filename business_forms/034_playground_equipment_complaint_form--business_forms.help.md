@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect complaints about playground equipment. It's essential to fill out this form accurately and completely to ensure that the issue is handled promptly and effectively. Before submitting the form, please make sure that you haven't already reported the issue, and that it's not a recurring problem that has been previously addressed.
-</thinking>
-
 # playground_equipment_complaint_form - Help Guide
 ## Purpose
 The playground equipment complaint form is used to report issues or concerns about the playground equipment in the park or playground area. This form helps to inform the maintenance team about the problems and ensure that they are addressed promptly.

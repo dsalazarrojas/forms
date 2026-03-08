@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a comprehensive Fabric Order Form used for capturing customer details, order specifics, and shipping information. The form is designed to gather all the necessary information for processing and fulfilling fabric orders. It is essential to complete the form accurately to ensure efficient order processing.
 
 # Fabric Order Form - Help Guide

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used by patent office staff to process patent applications submitted for approval. The form captures the necessary information to process and review patent applications. The form is not meant to be used by external parties, so it's essential to ensure that the information filled out is accurate and complete. This form is a critical component of the patent application process and must be filled out carefully to avoid delays or rejection of the application.
-
-</thinking>
-
 # Patent Application Approval Form - Help Guide
 ## Purpose
 The Patent Application Approval Form is a critical component of the patent application process. It captures the necessary information required to process and review patent applications submitted for approval.

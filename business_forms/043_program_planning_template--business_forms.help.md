@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information and create a comprehensive plan for a program, event, or project. This template helps in organizing and structuring details about the program, including its overview, objectives, and outcomes. The form aims to provide a systematic approach to program planning, ensuring that all essential aspects are captured and considered in the planning process.
-
-To ensure this form is relevant and not duplicated, let's check if there are any other forms with similar goals or purposes. After a quick review, it appears that this form is a unique template for program planning and does not overlap with other forms in the business forms category.
-
-Please note that this form was created using AI-generated code and is not affiliated with or endorsed by any form platform. It is an original adaptation of public survey topics and industry categories.
-</thinking>
-
 # Program Planning Template - Help Guide
 ## Purpose
 This template is designed to help you create a comprehensive program plan by collecting and organizing essential information in a structured format.

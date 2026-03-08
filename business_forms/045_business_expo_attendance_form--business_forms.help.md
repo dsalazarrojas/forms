@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals or companies attending a business expo. The form's primary purpose is to gather attendee information, expo details, and preferences. It is essential to provide accurate and complete information to ensure a smooth attendance experience. 
-
-The form has two main sections: "Attendee Information" and "Expo Details." The "Attendee Information" section includes fields such as full name, email address, phone number, company name, job title, and industry. The "Expo Details" section includes fields like expo name, date, and attendance type. 
-
-This form is meant to be completed by attendees, exhibitors, and organizers to facilitate communication and planning. It is not intended for repeated submissions, so please ensure you only fill out the form once for each attendee or company.
-
-</thinking>
-
 # Business Expo Attendance Form - Help Guide
 ## Purpose
 The Business Expo Attendance Form is designed to collect information from individuals or companies attending a business expo. This form helps us understand your presence, preferences, and needs, ensuring a smooth and enjoyable experience for all attendees.

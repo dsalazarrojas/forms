@@ -1,5 +1,3 @@
-<thinking>As a business forms expert, I'm assuming that this form is intended for beauty product distributors to provide information about their company. The form appears to be designed to gather various details about the company's business operations, distribution capacity, beauty industry experience, and financial information. It's likely that this form will be used for distributor applications or partnerships with beauty product manufacturers.</thinking>
-
 # Beauty Product Distributor Application Form - Help Guide
 ## Purpose
 The Beauty Product Distributor Application Form is designed to gather information from prospective distributors to assess their eligibility and capacity to distribute beauty products. This form will help the company to evaluate their business operations, distribution capacity, and financial information.

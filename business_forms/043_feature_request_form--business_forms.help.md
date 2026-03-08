@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect feature requests from users, allowing them to submit proposals for new features or enhancements to existing ones. This form is intended for internal use within the company, and its primary goal is to gather detailed information about the requested features. 
-To ensure the form's effectiveness, please only submit feature requests that are not already being worked on or considered for development. Duplicate submissions should be avoided as they can cause confusion and slow down the development process.
-</thinking>
-
 # Feature Request Form - Help Guide
 ## Purpose
 The Feature Request Form is a tool for users to submit their proposals for new features or enhancements to existing features.

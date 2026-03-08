@@ -1,11 +1,3 @@
-<thinking>
-
-The "Fleet Management Check In Form" is a tool used to track and record information about vehicle check out events, specifically for vehicles that have been assigned to drivers in your organization. This form is designed to gather relevant details about the vehicle's condition, usage, and other important metrics at the time of check out, as well as any notable events or issues that arose during the trip. It is essential to complete this form accurately and thoroughly to ensure that your organization's vehicle management system is up-to-date and reliable.
-
-Before filling out this form, please ensure that you are completing it for the correct vehicle and that all required fields are filled in. It is also a good idea to review the form carefully to ensure that all relevant information is included.
-
-</thinking>
-
 # Fleet Management Check In Form - Help Guide
 ## Purpose
 The Fleet Management Check In Form is used to track and record key details about vehicle check out events. This form should be completed by drivers or fleet managers to provide an accurate and comprehensive record of the vehicle's status at the time of check out.

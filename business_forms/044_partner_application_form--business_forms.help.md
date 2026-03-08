@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from potential partners who are interested in partnering with our company. The form is divided into several sections, each covering different aspects of the partner's information. The purpose of this form is to gather all the necessary details to assess the partner's suitability and potential for a partnership.
-
-Before filling out this form, please note that it is not a commitment or agreement, and the information collected will be reviewed and evaluated to determine the potential partner's alignment with our company's goals and standards. 
-
-The form does not require any sensitive or confidential information. All fields are optional and are intended to help us understand your business better.
-
-Please ensure you complete this form accurately and thoroughly to avoid any misrepresentation.
-
-</thinking>
-
 # Partner Application Form - Help Guide
 ## Purpose
 The Partner Application Form is designed to collect information from potential partners who are interested in partnering with our company. The form will be reviewed and evaluated to determine the potential partner's alignment with our company's goals and standards.

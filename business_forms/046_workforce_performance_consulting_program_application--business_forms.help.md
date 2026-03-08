@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I will assume that the form is used for an organization to apply for a workforce performance consulting program. This form is likely used by HR or management professionals within an organization to submit their performance challenges and focus areas for improvement.
-
-The form appears to be a simple, text-based input form with four fields: organization name, contact name, performance challenges, and priority focus areas. Based on the field names and labels, it seems that the form is intended to gather information about the organization's performance challenges and areas of focus, which will be used to provide guidance or support for improvement.
-
-Before creating the final help guide, I will review the fields to ensure that they are correctly understood and explained in a clear and concise manner. The form appears to be well-structured, and the field names and labels are descriptive, which will help in creating a user-friendly help guide.
-
-</thinking>
-
 # workforce_performance_consulting_program_application - Help Guide
 ## Purpose
 This form is used to submit an application for the workforce performance consulting program. The program aims to provide guidance and support to organizations in identifying and improving their performance challenges and focus areas.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from artists and creatives looking to book a residency at a cottage. The form will help us understand their stay dates, details about their guests, project information, and other essential requirements for the residency. We need to ensure that the form is completed accurately and thoroughly, so please review the fields carefully before submission. Note that some fields are optional, but providing accurate information will help us assess your residency application correctly.
-</thinking>
-
 # Creative Residency Cottage Booking Form - Help Guide
 
 ## Purpose

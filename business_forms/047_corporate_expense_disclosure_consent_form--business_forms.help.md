@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Expense Disclosure Consent Form - Help Guide
 ## Purpose
 The Corporate Expense Disclosure Consent Form is a document designed to capture employee consent for reviewing and sharing business expenses. This form ensures that employees understand and agree to the disclosure of their business expenses, promoting transparency and compliance within the company.

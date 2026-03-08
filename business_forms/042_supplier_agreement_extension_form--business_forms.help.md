@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to extend the supplier agreement, allowing businesses to add or modify terms and conditions of a pre-existing agreement with a supplier. The purpose of this form is to provide a clear and organized structure for managing and documenting the changes made to the supplier agreement. This form should only be completed by authorized personnel and is meant to be a supplementary tool to the main supplier agreement document.
-</thinking>
-
 # Supplier Agreement Extension Form - Help Guide
 ## Purpose
 This form is used to add or modify terms and conditions of a pre-existing supplier agreement. It helps in providing a clear and organized structure for managing and documenting the changes made to the supplier agreement.

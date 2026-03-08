@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to assist in the process of managing legal retainers, which are agreements between a law firm (or legal service provider) and a client to pay for ongoing legal services on a regular basis. The purpose of this form is to collect necessary information for the payment of legal retainers. The form is not intended to be a substitute for legal advice or consultation. The form is an original creation, not derived from any existing form platform, and its content is based on public survey topics related to law firms and legal services. It's released under a Creative Commons license, allowing for free use, modification, and even commercial use, as long as the creator is credited.</thinking>
-
 # Legal Retainer Payment Form - Help Guide
 
 ## Purpose

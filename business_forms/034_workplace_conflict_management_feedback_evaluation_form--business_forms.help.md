@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to evaluate an employee's feedback on conflict resolution practices in the workplace. The purpose of the form is to collect information about an employee's thoughts and experiences regarding conflicts that they have been involved in, and to assess the effectiveness of the conflict resolution process. This form may be used as a tool for employees to provide anonymous feedback to management or HR, and for management or HR to identify areas for improvement in conflict resolution practices. It is essential to ensure that this form is completed accurately and honestly to provide valuable insights for future improvements. To avoid duplication, ensure that the employee has not completed this form previously, and if so, please proceed with caution and review previous responses if applicable.
-</thinking>
-
 # Workplace Conflict Management Feedback Evaluation Form - Help Guide
 ## Purpose
 This form is designed to collect your feedback and insights on conflict resolution practices in the workplace. Your input will help us identify areas of improvement and enhance our conflict management processes.

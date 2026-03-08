@@ -1,10 +1,3 @@
-<thinking>
-We are going to create a user-facing help guide for the "Dining Room Violation Report" form. This form is used to report potential issues in a dining room setting, such as a school cafeteria or restaurant. The purpose of this form is to collect information about a possible violation, including the date, location, and issue type. The form will help school administrators or restaurant management track and address any issues in a timely and organized manner.
-
-Please note that the form is designed to be completed by users who have witnessed or encountered a potential issue in the dining room. This guide will walk through each field of the form to help users understand how to complete it accurately and effectively.
-
-</thinking>
-
 # Dining Room Violation Report - Help Guide
 ## Purpose
 The Dining Room Violation Report form is used to report any potential issues that have occurred in the dining room, such as food safety concerns or cleanliness issues. This form will help school administrators or restaurant management identify and address these issues in a timely and organized manner.

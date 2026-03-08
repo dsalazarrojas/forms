@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect data regarding on-site services provided to customers. It ensures the accuracy of the records and provides a structured way of documenting the services rendered. This form is a crucial part of the business process and is used by staff to report on-site services.
-
-Before starting this form, please ensure that you have a valid reason for filling this form out, and that you are not duplicating work already done by another staff member.
-
-</thinking>
-
 # onsite_service_log_form - Help Guide
 ## Purpose
 This form is used to document and record on-site services provided to customers. It's a crucial tool for maintaining accurate records and ensuring continuity of service.

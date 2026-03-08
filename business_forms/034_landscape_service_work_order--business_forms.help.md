@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from customers or clients for a specific service related to landscape services. The form is used to manage requests and appointments for services such as lawn maintenance, landscaping, or other related services. The form may be used by a business or individual to gather information from customers to provide quotes or schedule appointments for their services.
-
-This form is likely to be used for a specific business or company that offers landscape services, and it's not a generic form for any other purpose. Therefore, the form's fields are designed to gather relevant information for this specific business or company.
-
-To avoid duplication of effort, it's essential to understand the form's purpose and its fields to ensure that customers or clients provide accurate and relevant information.
-
-</thinking>
-
 # landscape_service_work_order - Help Guide
 ## Purpose
 The landscape_service_work_order form is used by a business or individual to gather information from customers or clients for specific landscape services. This form is intended to collect details about service requests, appointments, contact information, and other relevant details.

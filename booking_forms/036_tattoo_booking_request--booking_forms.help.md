@@ -1,12 +1,3 @@
-<thinking>
-This form is used to collect information from customers who are interested in booking a tattoo session with our artists. The form is designed to be completed by customers before their session, and it helps us to understand their preferences and requirements. 
-
-Before proceeding, please ensure that this form is not a duplicate of a previous submission. If you have already submitted this form, please contact us directly to inquire about your booking status.
-
-Note that this form is only intended for tattoo bookings and is not for other purposes such as product sales or other inquiries.
-
-</thinking>
-
 # tattoo_booking_request - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who are interested in booking a tattoo session with our artists. This form helps us to understand their preferences and requirements, and it ensures that we can tailor our services to meet their needs.

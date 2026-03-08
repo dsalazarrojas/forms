@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a survey template designed for solar roof assessments, likely for residential or commercial properties. The purpose of this form is to gather information about a property's solar roof potential. The form will help owners or managers gather relevant data on their property, including building details, roof characteristics, and energy goals. This form will be useful for assessing the feasibility and potential of installing solar panels on the roof.
-
-</thinking>
-
 # Solar Roof Survey Template - Help Guide
 ## Purpose
 The Solar Roof Survey Template is a helpful tool for gathering information about a property's solar roof potential. It helps owners or managers assess their roof's characteristics, energy goals, and other relevant details.

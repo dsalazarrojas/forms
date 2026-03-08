@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather financial data for a company's or business's quarterly performance. It is likely used by financial analysts or accountants to track and analyze income, expenses, and profit earned during a specific quarter. This form is probably part of a larger system for tracking and reporting financial performance over time. 
-To ensure that the form is filled out correctly, the user should be familiar with the company's financial data and the specific requirements and definitions used in the form. If the user is not sure about what data to enter, they should consult with the relevant personnel or refer to the company's financial reports and policies. 
-</thinking>
-
 # Quarterly Financial Summary - Help Guide
 ## Purpose
 This form is used to collect data on a company's or business's financial performance for a specific quarter. It includes fields for income, expenses, revenue, profit, and other relevant financial information.

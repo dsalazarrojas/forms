@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users who have identified a digital process that requires redesign. This form will allow users to provide details about the process they would like to see redesigned, including the category it falls under, their contact information, and any supporting documents or files.
-The form is intended to help streamline the process of redesigning digital processes and ensure that the necessary information is gathered efficiently.
-Before filling out this form, please make sure that you haven't already submitted a similar request in the past to avoid duplicate submissions.
-</thinking>
-
 # Digital Process Redesign Contact Form - Help Guide
 ## Purpose
 This form is used to submit a request for redesigning a digital process. Please fill out the form with your contact information and details about the process you'd like to see redesigned.

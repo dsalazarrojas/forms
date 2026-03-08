@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for stationery delivery services, where customers can provide business information, delivery details, and other relevant data to complete a transaction. The purpose of this form is to gather necessary information from customers for efficient stationery delivery services.
-</thinking>
-
 # Stationery Delivery Form - Help Guide
 ## Purpose
 The stationery delivery form is used to collect information from customers for efficient delivery of stationery services. This includes details about the business, delivery, and payment information.

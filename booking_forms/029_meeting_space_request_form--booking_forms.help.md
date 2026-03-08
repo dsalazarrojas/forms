@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be a meeting space request form that allows users to request a meeting space for a specific event or meeting. It is likely used by employees or users to request a meeting space for a meeting, training, or event, and the form will help the meeting space administrator or coordinator to efficiently process and manage these requests.
-
-Before filling out this form, please ensure that you are not duplicating a request that has already been submitted. If you are unsure about the status of your previous request, please contact the meeting space administrator for clarification.
-
-Please note that some fields are optional and can be filled out as needed. Please ensure that you provide all required information for a prompt and accurate processing of your request.
-</thinking>
-
 # Meeting Space Request Form - Help Guide
 ## Purpose
 The Meeting Space Request Form is used to request a meeting space for a specific meeting, training, or event. Fill out this form to provide information about your meeting, and the meeting space administrator will process and assign a suitable meeting space for you.

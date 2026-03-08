@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for attendees to register for a business conference. The form collects contact information, conference details, and preferences for attendees, including their dietary requirements, accommodation, transportation, and payment information. This form ensures that the attendee's registration is accurate and complete, and that they are aware of the conference terms and conditions. It's essential to complete this form carefully and truthfully to ensure a smooth registration process and to receive any relevant information about the conference.
-
-</thinking>
-
 # Business Conference Registration Form - Help Guide
 
 ## Purpose

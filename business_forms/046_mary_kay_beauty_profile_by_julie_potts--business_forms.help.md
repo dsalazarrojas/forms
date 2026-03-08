@@ -1,10 +1,3 @@
-<thinking>
-We'll create a help guide for the "Mary Kay Beauty Profile By Julie Potts" form. To ensure this guide is complete and accurate, we will follow the provided YAML schema to understand the form's purpose and requirements.
-
-The form seems to be a profile creation form for employees or consultants, likely used for internal purposes such as talent management or client tracking. The form asks for personal and professional information like first name, last name, contact details, job-related information, and other specific details like job type, job duration, and anniversary dates. We will make sure to cover all the fields and provide clear explanations for end-users.
-
-</thinking>
-
 # Mary Kay Beauty Profile By Julie Potts - Help Guide
 ## Purpose
 This form is designed to collect information about employees or consultants working with Mary Kay Beauty. It is used to create a comprehensive profile for internal purposes.

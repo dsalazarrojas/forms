@@ -1,8 +1,3 @@
-<thinking>
-To confirm, we are creating a help guide for a form used for booking a showreel screening slot. This form is meant to gather information from users to book a specific time slot for a showreel screening. The form should only be filled out once per user, and there should be no duplication of bookings for the same time slot. This is to ensure that the screening process is organized and efficient. The form is a simple text-based form with a few fields to collect basic information from users. The form fields include a booking form, a select field for booking date, a select field for booking time, a text field for email, a text field for phone number, a text field for name, a text field for booking notes, and a select field for booking status.
-
-</thinking>
-
 # Showreel Screening Slot Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to book a time slot for a showreel screening. Please fill out this form to schedule a time slot for your screening.

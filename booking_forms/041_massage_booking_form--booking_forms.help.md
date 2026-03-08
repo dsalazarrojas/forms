@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a massage booking form designed for clients to schedule a massage appointment. The form likely serves to collect client information, select a preferred massage type and style, and schedule a specific appointment time. This form might be used in a spa or wellness center setting to manage client bookings and appointments.
-
-</thinking>
-
 # Massage Booking Form - Help Guide
 ## Purpose
 This form is designed for clients to book a massage appointment at your spa or wellness center. To ensure a smooth and enjoyable experience, please follow the instructions below.

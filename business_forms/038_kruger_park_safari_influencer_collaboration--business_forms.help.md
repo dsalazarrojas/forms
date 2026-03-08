@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential influencers or collaborators for a Kruger Park Safari influencer collaboration. This form is meant to capture the necessary details for a successful collaboration, such as the type of collaboration (e.g., influencer, brand, or community), the email address and phone number of the potential collaborator, and the specific details about the safari itself. This form should only be used for those interested in collaborating with Kruger Park Safari, and it is not intended to be filled out by those who are not part of the collaboration.
-</thinking>
-
 # Kruger Park Safari Influencer Collaboration - Help Guide
 ## Purpose
 The Kruger Park Safari Influencer Collaboration form is a tool used to gather information from potential collaborators for a collaboration with Kruger Park Safari.

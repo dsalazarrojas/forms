@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to test the knowledge of shareholders about their rights as an investor in a company. The form is intended to be completed by shareholders to demonstrate their understanding of their rights and obligations. It is not meant to be used for actual business decisions or official voting processes. 
-</thinking>
-
 # Shareholder Rights Knowledge Quiz - Help Guide
 ## Purpose
 This form is designed to help you understand your rights as a shareholder in a company. It will ask you questions about your knowledge of shareholder rights and procedures.

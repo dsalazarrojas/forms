@@ -1,7 +1,3 @@
-<thinking>... This form is a template for an internal request to reassign a coworking station to another employee. The form is intended to capture information from the requestor, including their identification, department, and reasons for the request. It also includes fields for the current station ID, requested reassignment date, reason for request, and additional details. The form is designed for employees to submit requests for changes in their workstations. To avoid duplication, the form checks if the requestor has already submitted a reassignment request in the last 30 days. If a request from the same user is detected within the time frame, a message will be displayed indicating that the form cannot be submitted.
-
-</thinking>
-
 # Co Working Station Reassignment Request Form - Help Guide
 ## Purpose
 This form is for requesting a change in your coworking station. Fill out this form to provide your manager with the necessary information to process your request.

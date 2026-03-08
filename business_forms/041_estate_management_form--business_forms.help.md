@@ -1,7 +1,3 @@
-<thinking>
-The form "Estate Management Form" seems to be related to managing properties, likely for a business or organization, such as a real estate agency, property management company, or other related entities. This form likely serves to gather information about properties under management, including details about each property, its manager, status, lease information, financials, and insurance-related data. To avoid duplication of effort, it would be best to ensure that all required fields are clearly marked and that any optional fields have clear and relevant labels. The form does not appear to be for personal use, but rather for business or professional purposes. This form may be part of a larger system for managing multiple properties, possibly with the goal of tracking and updating property information.
-</thinking>
-
 # Estate Management Form - Help Guide
 ## Purpose
 The Estate Management Form is designed to gather and store information about properties under management. This form will help you to quickly and efficiently enter details about each property, its manager, status, lease information, financials, and insurance-related data.

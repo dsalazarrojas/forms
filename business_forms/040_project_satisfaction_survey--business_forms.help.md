@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect feedback and suggestions from project team members or participants about a project's overall satisfaction. The form aims to gather information on various aspects of the project, such as the project's communication, timeline, quality of work, budget, scope, team, progress, and any other feedback or suggestions. This form is meant to be completed by project team members or participants after project completion or at regular intervals during the project lifecycle. 
-</thinking>
-
 # Project Satisfaction Survey - Help Guide
 ## Purpose
 The Project Satisfaction Survey is a tool used to collect feedback and suggestions from project team members or participants about the project's performance. This form helps to gauge the project's strengths and weaknesses, identify areas for improvement, and enhance future project management.

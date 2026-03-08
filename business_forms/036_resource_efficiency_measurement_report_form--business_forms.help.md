@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to measure the efficiency of resources in an organization. It's a way to track and document the usage and impact of various resources within the company. This form is likely used in a business setting, possibly in HR or operations, to assess and improve resource allocation and utilization. 
-
-The form should be completed by employees who are familiar with the resources being used, and it's meant to be a concise and standard way to gather data on resource usage and efficiency. 
-
-Please note that the form seems to be designed with some redundant fields (e.g., "resource_efficiency_measurement_report_form_comments" and "resource_efficiency_measurement_report_form_comments" are very similar), and some fields are not clearly labeled (e.g., "resource_use_location" and "resource_use_impact" have unclear labels). However, this is a good starting point for creating a comprehensive guide to help users understand the form's purpose and usage.</thinking>
-
 # Resource Efficiency Measurement Report Form - Help Guide
 ## Purpose
 This form is used to measure the efficiency of resources within an organization. It helps track and document the usage and impact of various resources, allowing for data-driven decisions to be made.

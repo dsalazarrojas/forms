@@ -1,9 +1,3 @@
-<thinking>
-This form is for business card registration. The purpose of this form is to collect contact information from business entities. This includes collecting the business entity's name, contact information, job title, company address, and a file upload of their business card. 
-This form is a mandatory form for all business entities to register with us. Please make sure to fill out this form with accurate information before submission. 
-Please be aware that some fields are optional and you can leave them blank if not applicable. 
-</thinking>
-
 # digital_business_card_registration - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by finance teams to review and track requests for financial assistance from other departments or teams. The form should be filled out by a representative of the requesting team, and it's meant to be a brief and clear request for financial support. Before filling out this form, make sure you have checked that there isn't already an active review in progress for the same request. If you've filled out this form before, please review previous submissions to see if there's any new information that's relevant to your request.
-</thinking>
-
 # financial_operations_review_request_form - Help Guide
 ## Purpose
 The financial operations review request form is used to submit a request for financial assistance from the finance team. It's a simple form that gathers the necessary information to review and process the request.

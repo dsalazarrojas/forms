@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from retailers about their product placement requests. The purpose of this form is to gather details about the product being requested, such as its name, description, category, and placement area. This form will be used to process and review the requests from retailers in a structured and efficient manner.
-
-To ensure that only valid and relevant requests are processed, a check is performed to prevent duplication of requests from the same retailer. This is to prevent unnecessary and repetitive processing of the same requests.
-
-The form consists of 8 fields, each of which is essential in providing complete information about the requested product. The following is a detailed explanation of each field to ensure that the user completes it accurately and efficiently.
-
-</thinking>
-
 # Retailer Product Placement Request Form - Help Guide
 
 ## Purpose

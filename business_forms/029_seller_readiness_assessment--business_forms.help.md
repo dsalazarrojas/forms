@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seller Readiness Assessment - Help Guide
 
 ## Purpose

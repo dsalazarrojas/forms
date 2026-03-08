@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's clarify the purpose and context of this form. The form appears to be related to the process of handling demo requests in a business setting. It likely allows users to submit requests and track the status of demos. Each field in this form should be explained in a way that is concrete, concise, and practical for end-users. I'll review each field's label, type, and options to provide accurate and helpful explanations.</thinking>
-
 # interactive_demo_approval_form - Help Guide
 ## Purpose
 The interactive_demo_approval_form is used to process demo requests, enabling users to submit and track the status of demos.

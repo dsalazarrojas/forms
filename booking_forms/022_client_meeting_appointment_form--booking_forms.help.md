@@ -1,7 +1,3 @@
-<thinking>
-We have a form designed to collect information about client meetings. This form is used to schedule a meeting with a client and ensure that all necessary information is collected to make the meeting a success. We need to ensure that the client's name, contact information, and meeting details are accurately recorded. We also want to make sure that the client is aware of our cancellation policy. This form will serve as a reference for our team to prepare for the meeting and communicate with the client effectively.
-</thinking>
-
 # Client Meeting Appointment Form - Help Guide
 ## Purpose
 The Client Meeting Appointment Form is a crucial tool for scheduling and preparing meetings with clients. It ensures that all necessary information is collected and communicated effectively to both parties involved in the meeting.

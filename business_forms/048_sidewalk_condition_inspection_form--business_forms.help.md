@@ -1,14 +1,3 @@
-<thinking>Before creating the help guide, I've reviewed the form's purpose, requirements, and fields. This form, titled "sidewalk_condition_inspection_form," is designed to collect information on the condition of sidewalks in a specific area or property. Its purpose is to inspect and evaluate the state of the sidewalks, including their surface, damage, and any necessary repair priority or type. The form seems to be intended for use by maintenance or inspection personnel to gather data for upkeep and maintenance tasks.
-
-This guide will cover the following sections:
-
-1. **Purpose**: Briefly describe the form's purpose and its relevance to the users.
-2. **How To Complete This Form**: Outline the step-by-step process to fill out the form.
-3. **Field-by-Field Explanation**: Provide a detailed explanation of each field in the form, using bullet points for each page/field.
-4. **Tips**: Offer additional advice or tips for users to keep in mind while filling out the form.
-
-</thinking>
-
 # Sidewalk_condition_inspection_form - Help Guide
 ## Purpose
 The Sidewalk_condition_inspection_form is used to collect data on the condition of sidewalks in a specific area or property. This form helps maintenance or inspection personnel to assess the state of the sidewalks and identify any necessary repairs or actions.

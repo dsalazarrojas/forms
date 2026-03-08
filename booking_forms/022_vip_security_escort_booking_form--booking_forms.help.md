@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "VIP Security Escort Booking Form" is to gather information from clients or guests who need a security escort for their visit. The form is used to collect contact and event details, special requests, and escort information. This form should only be completed if the client has been previously approved or cleared for escort services, and not for routine or general inquiries about security escort services.
 
 </thinking>

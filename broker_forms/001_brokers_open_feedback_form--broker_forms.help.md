@@ -1,14 +1,3 @@
-<thinking>
-This guide is for the Brokers Open Feedback Form, which is designed to collect feedback from real estate agents on their experience with a specific property. The form aims to gather information on the agent's overall impression, property condition, pricing, showing experience, and other relevant factors. The feedback collected will help the listing agent identify areas of improvement and provide better service to their clients.
-
-This form is intended for real estate agents who have viewed a property during an open house event. The form is divided into multiple pages, each with its own set of questions and fields. It is essential to complete the form accurately and thoroughly, as the feedback will be used to evaluate the effectiveness of the open house event and identify areas for improvement.
-
-Before starting the form, ensure that you are completing it for the correct property and that you have not already submitted feedback for the same property. If you are unsure, please contact the listing agent or the property manager for clarification.
-
-To complete the form, navigate through each page and fill in the required fields accurately and thoroughly. If you are unsure about any question or field, use the provided hints for guidance.
-
-</thinking>
-
 # Brokers Open Feedback Form - Help Guide
 ## Purpose
 The Brokers Open Feedback Form is designed to collect feedback from real estate agents on their experience with a specific property during an open house event. The form helps identify areas of improvement and provides valuable information to the listing agent.

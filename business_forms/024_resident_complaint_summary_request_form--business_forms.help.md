@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about resident complaints. It is intended for use by authorized personnel within the organization to document and track the progress of resident complaints. This form should only be filled out by authorized personnel and not by residents or other individuals. To prevent duplication of effort, please ensure that only one form is submitted per resident complaint.
-
-The form is divided into several sections, each addressing different aspects of the complaint process. Please follow the instructions below to ensure that all necessary information is collected.
-
-</thinking>
-
 # Resident Complaint Summary Request Form - Help Guide
 ## Purpose
 This form is used to document and track resident complaints, ensuring that all relevant information is collected and progress is made towards resolution.

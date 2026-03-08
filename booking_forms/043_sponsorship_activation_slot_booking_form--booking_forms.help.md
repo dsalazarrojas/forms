@@ -1,5 +1,3 @@
-<thinking>Before diving into this help guide, it's essential to confirm that you're on the correct form. This form is used for booking sponsorship activation slots, which are typically used for events or activities that require sponsorship support. The form is meant to be filled out by individuals or organizations that want to book a specific time slot for their sponsorship activation. Ensure you're not duplicating an existing booking by checking if a similar form has been filled out recently. If you're not sure or have questions, please reach out to the relevant team or contact person for further guidance.</thinking>
-
 # Sponsorship Activation Slot Booking Form - Help Guide
 ## Purpose
 This form is used to book sponsorship activation slots for events or activities. It captures essential details to facilitate smooth sponsorship support and communication.

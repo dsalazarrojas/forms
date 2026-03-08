@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for business valuation purposes, which is a critical process in finance and accounting to determine the worth or value of a business. The form is intended for businesses to provide accurate and detailed information about their operations, finances, and performance. It's essential to fill out this form carefully and thoroughly to ensure accurate valuation results.
-
-This form is not intended to replace professional valuation services, but rather to assist in gathering essential data for valuation purposes.
-
-Please ensure that all required fields are filled out, as they are essential for accurate valuation. If you're unsure about any field or its meaning, feel free to consult our business valuation experts.
-
-</thinking>
-
 # Business Valuation Form - Help Guide
 ## Purpose
 

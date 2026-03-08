@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by users to facilitate fundraising for an Elementary School PTA. It should only be filled out for a specific fundraiser, and not for any other purpose. The form is designed to collect the necessary information for a fundraiser to be successful, including the name of the person or organization making the donation, their contact information, and the details of the donation. Please make sure to fill out the form accurately and completely, and that all required fields are filled out.
-</thinking>
-
 # Fundraiser for Elementary School PTA - Help Guide
 ## Purpose
 The Fundraiser for Elementary School PTA form is used to collect information for a specific fundraiser event. This form is meant to be filled out by users to provide details about their donation, including who the donor is, their contact information, and the financial details of the donation.

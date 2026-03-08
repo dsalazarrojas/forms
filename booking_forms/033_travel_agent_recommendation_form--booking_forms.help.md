@@ -1,7 +1,3 @@
-<thinking>
-Travel Agent Recommendation Form is a critical tool to gather essential travel-related preferences and information from users. This form should be used to recommend travel agents to travelers based on their needs and preferences. Ensure that this form is used consistently and correctly by travelers and staff to avoid duplication or miscommunication.
-</thinking>
-
 # Travel Agent Recommendation Form - Help Guide
 ## Purpose
 The Travel Agent Recommendation Form is designed to collect information from travelers about their preferences and requirements. This form helps our travel agency recommend the most suitable travel agent for each traveler's specific needs.

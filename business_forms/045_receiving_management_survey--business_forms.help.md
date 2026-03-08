@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about receiving management practices within an organization. Receiving management refers to the process of receiving and processing goods, shipments, or orders. The form aims to gather information on general management practices, frequency of receiving, actions taken during receiving, and other related metrics.
-
-This form will help users provide insights into their current receiving practices, identify areas for improvement, and suggest changes to the current procedures. This will aid in streamlining the receiving process, reducing errors, and enhancing overall efficiency.
-
-Before proceeding, ensure you are filling out this form for the correct department or section within the organization, as the questions are specific to receiving management practices in that area.
-
-Also, note that the required fields are marked as "true" and should be filled out accordingly. You can skip the optional fields.
-
-Please review each question carefully and answer accordingly. If you have any questions or concerns, please contact the relevant department or section for clarification.
-
-</thinking>
-
 # Receiving Management Survey - Help Guide
 ## Purpose
 This form is designed to collect information about the receiving management practices within your department or section. It will help us understand your current processes and identify areas for improvement.

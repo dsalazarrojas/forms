@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help companies and product manufacturers coordinate product recalls in a structured and efficient manner. It is likely used by quality assurance teams, customer service representatives, or other internal personnel to gather information about product issues that require recall action. The form should be used only for product-specific recalls, and not for other types of product support requests. Please note that this form is a tool for coordination purposes and should not be used to generate or modify any actual recall process.
-
-</thinking>
 # Product Recall Coordination Request Form - Help Guide
 ## Purpose
 This form is designed to help companies and product manufacturers coordinate product recalls. It helps collect relevant information about product issues that require recall action, ensuring that the recall process is initiated and managed effectively.

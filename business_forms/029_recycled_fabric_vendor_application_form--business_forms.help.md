@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from potential vendors who want to start working with us as a recycled fabric vendor. We want to ensure that we're collecting relevant and accurate data from our applicants to process their requests efficiently. To avoid duplicate applications, please make sure to only submit one application per person or business. If you're unsure about any of the questions, please reach out to us for clarification. 
-</thinking>
-
 # Recycled Fabric Vendor Application Form - Help Guide
 ## Purpose
 This form is used to collect information from potential vendors who want to work with us as a recycled fabric vendor.

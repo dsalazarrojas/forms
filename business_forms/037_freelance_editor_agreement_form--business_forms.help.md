@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to establish an agreement between a freelancer and their client regarding the terms of their working relationship. The purpose of this form is to outline the expectations of both parties, including payment terms and project details. Before filling out this form, ensure that you have discussed and agreed upon these terms with your client to avoid any confusion or disputes. This form should only be used once a mutual agreement has been reached.
 
 # freelance_editor_agreement_form - Help Guide

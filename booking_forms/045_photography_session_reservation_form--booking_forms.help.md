@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information for a client to book a photography session with a specific photographer. The form is designed to collect details such as client information, session details, contact information, and services offered. The purpose of this form is to streamline the booking process for both the client and the photographer, ensuring that all necessary information is collected in one place.
-
-</thinking>
-
 # photography_session_reservation_form - Help Guide
 ## Purpose
 

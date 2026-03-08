@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to request an appointment with the company, providing contact information and specifying the details of the desired appointment, including date, time, and purpose. To ensure accurate processing, please fill out this form only once per appointment request.
-</thinking>
-
 # Appointment Request Form - Help Guide
 ## Purpose
 This form is for customers to request an appointment with the company. Please fill out the form carefully to ensure your appointment request is processed accurately.

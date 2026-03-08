@@ -1,12 +1,3 @@
-<thinking> 
-This form is used to create a new process request in the UNCC UA system. This form is used to gather information about the process request, including category, description, form ID, assigned tool, output file, and other relevant details. The information gathered will be used to create a new process request in the system. 
-
-The form is not used for any other purpose, and this is the main method of creating a new process request. If a duplicate form is completed with the same information, it will likely result in multiple records being created in the system.
-
-It is recommended that the end user review the form carefully before submitting it to ensure all required and optional fields are completed accurately and relevant to the process request. If a field is required but left blank, it will not be included in the system.
-
-</thinking>
-
 # Process Request Form UNCC UA - Help Guide
 ## Purpose
 The Process Request Form UNCC UA is used to create a new process request in the UNCC UA system. This form is used to gather information about the process request, including category, description, form ID, assigned tool, output file, and other relevant details.

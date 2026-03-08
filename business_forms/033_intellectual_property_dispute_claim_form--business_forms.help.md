@@ -1,24 +1,3 @@
-<thinking>...
-The form purpose is to collect information on intellectual property disputes. This form appears to be related to legal or copyright issues, where a claimant is seeking to address a dispute with a defendant or multiple defendants. The form may be used by organizations or individuals to report and manage such disputes.
-
-To ensure the form is filled out correctly, please follow these steps:
-
-1.  Ensure the dispute type is correctly selected (e.g., Option 1 or Option 2).
-2.  Enter the claimant's details (name, address, contact information, etc.) in the "Claimant Information" section.
-3.  Enter the defendant's details (name, address, contact information, etc.) in the "Defendant Information" section.
-4.  Describe the intellectual property dispute in the "Intellectual Property Dispute" field.
-5.  Choose the dispute type (e.g., Option 1 or Option 2).
-6.  Enter any relevant evidence or supporting documents in the "Evidence Upload" field.
-7.  Enter the desired date and time for dispute resolution.
-8.  Fill out the submitter details (name, role, status) and select the submitter role (e.g., Option 1 or Option 2).
-9.  Enter the case number, case reference, and case type.
-10.  Enter the date the form was submitted.
-11.  Finally, select the dispute status (e.g., Option 1 or Option 2).
-
-Note that not all fields are required, so ensure you fill out the relevant sections for your specific case.
-
-</thinking>
-
 # Intellectual Property Dispute Claim Form - Help Guide
 ## Purpose
 The Intellectual Property Dispute Claim Form is used to collect information on intellectual property disputes, allowing organizations or individuals to report and manage such issues.

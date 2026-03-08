@@ -1,12 +1,3 @@
-<thinking>
-Before creating a help guide for the AI Solution Quotation Form, let's quickly assess the form's purpose and fields to ensure we're creating a relevant and non-duplicative guide.
-
-The form's purpose appears to be for clients to provide information about their project, such as company details, project scope, and technical requirements, which will be used to generate a quotation for AI services. This form seems to be designed to gather essential information from clients to tailor an AI solution that meets their specific needs.
-
-Upon reviewing the form fields, we see a mix of required and optional fields that cater to different aspects of the project, such as company information, project scope, technical environment, and client preferences. The fields cover essential areas like project duration, budget, and contact details.
-
-</thinking>
-
 # AI Solution Quotation Form - Help Guide
 ## Purpose
 This form collects information necessary to generate a quotation for AI services. Please provide your details to help us understand your project and tailor a solution that meets your specific needs.

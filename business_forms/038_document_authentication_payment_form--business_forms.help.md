@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information related to document authentication and payment from users. This form likely serves as a template for capturing relevant details for document authentication and payment purposes, such as selecting options, entering dates and times, and providing notes or other text-based information.
-
-To avoid duplication and ensure accurate completion, please review the form carefully and fill in the required fields only once you are certain of the accuracy of the information.
-
-</thinking>
-
 # Document Authentication Payment Form - Help Guide
 ## Purpose
 The Document Authentication Payment Form is designed to collect information related to document authentication and payment from users.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a policy compliance form, designed to ensure that employees and stakeholders understand and agree to company policies and procedures. This form is typically used when onboarding new employees, renewing contracts, or reviewing existing policies. It is essential to complete this form accurately and thoroughly to avoid any potential risks or misunderstandings related to company policies.
-</thinking>
-
 # policy_compliance_form - Help Guide
 ## Purpose
 The "policy_compliance_form" is a form used to ensure that employees and stakeholders understand and agree to company policies and procedures.

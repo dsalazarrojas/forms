@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The In Home Cooking Appointment Form is used to book an appointment for in-home cooking services. The form is intended for customers to provide their session details, schedule preferences, and contact information.
 
 Before starting the form, please ensure you have the following:

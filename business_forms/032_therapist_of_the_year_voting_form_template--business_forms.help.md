@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect votes for the Therapist of the Year award, where users can select one of three therapists from a list of options and provide their email address. The form is intended to be completed by individuals who want to cast their vote for the award. It's essential to fill out the form correctly to ensure that their vote is counted accurately.
-
-To prevent duplicate votes, the form is designed to collect unique email addresses for each vote. This means that if a user tries to cast a vote with an email address that has already been used, they will not be able to submit the form.
-
-The form has been designed to be easy to use and understand, with clear labels and instructions for each field. By following this help guide, users should be able to complete the form accurately and submit their vote.
-
-</thinking>
-
 # Therapist Of The Year Voting Form Template - Help Guide
 ## Purpose
 This form is designed to collect votes for the Therapist of the Year award from users who want to cast their vote for one of three nominated therapists.

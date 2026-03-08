@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect biographical information from authors for the purposes of promoting their work. This information will be used to create standardized bios for publications and online presence. Please ensure that the information provided is accurate and up-to-date to avoid any potential misrepresentation. Before filling out the form, ensure that you have the necessary permissions and credits to share your professional and personal information. This form should not be filled out multiple times, as it may lead to duplicate or outdated information.
-</thinking>
-
 # Author Bio Form - Help Guide
 ## Purpose
 The Author Bio Form is designed to collect biographical information from authors, which will be used to create standardized bios for publications and online presence.

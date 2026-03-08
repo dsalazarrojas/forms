@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals applying for a computer operator role. The purpose of this form is to collect demographic and professional data from the applicants. This form ensures that all required information is collected, and the applicant has the opportunity to provide additional details that can be considered during the application process.
-
-To complete this form, please follow these steps:
-
-1. Enter your full name as per your legal documents.
-2. Provide a valid email address that can be used for communication.
-3. Enter a phone number that can be used for contact purposes.
-4. Describe your key qualifications, certifications, or training relevant to the role.
-5. Mention your years of experience in similar roles.
-6. Specify your technical skills, including operating systems, software, and hardware.
-7. Indicate your shift availability (Day, Night, Rotating, or Any).
-8. Provide two professional references (name, title, and contact information).
-9. If applicable, mention the filename of your uploaded resume.
-10. Add any additional notes that you feel are relevant to your application.
-
-</thinking>
-
 # Application For Computer Operator - Help Guide
 ## Purpose
 This form is designed to collect demographic and professional data from individuals applying for a computer operator role.

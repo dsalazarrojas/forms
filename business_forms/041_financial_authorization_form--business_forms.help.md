@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # financial_authorization_form - Help Guide
 ## Purpose
 The financial authorization form is a document used to request approval for financial transactions. It is used to gather information about a transaction, including the type of transaction, amount, date, and other relevant details. This form is used to ensure that financial transactions are properly authorized and tracked within the organization.

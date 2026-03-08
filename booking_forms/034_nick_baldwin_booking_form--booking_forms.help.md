@@ -1,9 +1,3 @@
-<thinking>
-This form is likely a booking form used by an artist or performer to schedule an event or meeting. The purpose of this form is to collect information from the artist about their availability and preferences for the event. The form is likely used internally to manage the booking process and to send notifications to the artist.
-
-This form appears to be a standard form with fields for artist information, contact request, event type, date, time, note, contact method, and submission. Each field has a specific label and type, indicating what information is expected from the user.
-</thinking>
-
 # nick_baldwin_booking_form - Help Guide
 ## Purpose
 This form is for booking artists or performers for events. It collects information about the artist's availability and preferences to schedule an event or meeting.

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for revoking an authorized representative, allowing users to remove or replace a person who has access to a tool or system. The purpose of this form is to document the reason for revocation and to provide a date and time for the removal.
-
-Before filling out this form, please ensure you are using it for its intended purpose and not duplicating efforts. This form is designed to be used for official records and reporting.
-
-Please note that the form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created by AI using public survey topic metadata.
-
-</thinking>
-
 # Revoke An Authorized Representative - Help Guide
 
 ## Purpose

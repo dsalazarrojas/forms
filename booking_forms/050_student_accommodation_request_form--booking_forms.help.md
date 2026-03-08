@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to capture information from students requesting accommodation. The form fields are intended to be completed by the student themselves or on their behalf. 
-
-The form is used for booking student accommodation, with fields for student details, accommodation preferences, and reservation status.
-
-The fields provided are meant to cover most of the essential information for accommodation requests. However, some fields may be optional or have default values already assigned.
-
-The form does not include any validation checks to prevent duplication or relevance checks. It is recommended that staff verify the student's accommodation request after form submission to prevent potential conflicts or misassignments.</thinking>
-
 # Student Accommodation Request Form - Help Guide
 ## Purpose
 The Student Accommodation Request Form is used by students to request accommodation for their stay. It provides a simple and straightforward way for students to submit their requests for booking student accommodation.

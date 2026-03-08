@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect daily sales data for reporting and analysis purposes. It will help you track and record sales figures, regions, and any additional notes on a daily basis. This form is not intended to be filled out on a weekly or monthly basis, but rather for a specific day. It is essential to fill this form accurately and thoroughly to ensure the data is reliable and useful for analysis.
-
-</thinking>
-
 # Daily Sales Report - Help Guide
 ## Purpose
 The Daily Sales Report form is used to collect daily sales data for reporting and analysis purposes. It is essential to fill this form accurately and thoroughly to ensure the data is reliable and useful for analysis.

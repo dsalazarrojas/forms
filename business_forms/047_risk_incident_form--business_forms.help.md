@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to report and record incidents that occurred in the workplace. The form is designed to gather information about the incident, including its date, location, description, and any injuries or damages caused. It is intended for use by employees, managers, and other relevant parties to document and review incidents in order to prevent similar incidents in the future and maintain workplace safety. The form is not intended for reporting non-workplace incidents, such as personal accidents or injuries. Before filling out this form, please ensure that you have not already reported this incident using this form or any other means.
-
-</thinking>
-
 # Risk Incident Form - Help Guide
 
 ## Purpose

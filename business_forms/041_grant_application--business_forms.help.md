@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, this form is a "Grant Application" form, used to collect information for grants from organizations. Before creating this guide, I'll review the form schema to ensure it's well-designed and user-friendly.
-
-This form appears to be well-structured, with sections for contact information, grant details, and attachments. However, some field labels seem a bit unclear. I'll try to provide clear explanations for each field without inventing unsupported business logic.
-
-Upon reviewing the form, I noticed that there are some fields that seem to be optional or have unclear labels. I'll make sure to address these points in the guide.
-
-</thinking>
-
 # Grant Application - Help Guide
 ## Purpose
 This guide will walk you through the Grant Application form, used to collect information for grants from organizations. The form is designed to gather essential details about the grant, contact person, and grant terms.

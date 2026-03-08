@@ -1,13 +1,3 @@
-<thinking>
-This form is used to schedule and track debts, such as loan payments, bills, or other financial obligations. It is a flexible form that allows users to input various details about the debt, including start and end dates, amounts, and frequency of payments. The form is designed to be completed by individuals who need to keep track of multiple debts with different characteristics.
-
-To avoid duplicating data and ensure accurate tracking, it is recommended to create a new schedule for each unique debt. This form is not intended to be used for tracking multiple debts with the same characteristics.
-
-When filling out this form, it is essential to ensure that all required fields are completed accurately to prevent errors in tracking and scheduling. The form will automatically adjust its layout based on the user's input, displaying only the relevant fields for the selected debt.
-
-Note: This form is designed for users who are familiar with the concept of scheduling and tracking financial obligations. If you are unsure about any field or its purpose, please contact the form administrator for assistance.
-</thinking>
-
 # schedule_of_debts - Help Guide
 ## Purpose
 The "Schedule of Debts" form is used to schedule and track debts, such as loan payments, bills, or other financial obligations.

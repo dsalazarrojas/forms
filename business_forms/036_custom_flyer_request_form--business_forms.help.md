@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for a custom flyer request. The user must provide a client name, project name, project type, and project deadline. They may also choose a color scheme, flyer size, material type, design style, and upload a design file or print file if necessary. The user's email and phone number are also requested for contact purposes. This form is likely used by a business or organization that provides printing services, and the collected information will be used to tailor the flyer according to the client's requirements. 
-
-</thinking>
-
 # Custom Flyer Request Form - Help Guide
 ## Purpose
 The Custom Flyer Request Form is designed to collect essential details from clients for a custom flyer project. This form ensures that we have all the necessary information to create a flyer that meets their specific needs and expectations.

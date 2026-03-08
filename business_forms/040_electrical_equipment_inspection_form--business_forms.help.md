@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the electrical equipment inspection form, a critical tool for ensuring the safety and efficiency of electrical systems in various settings. The form is designed to gather specific information about electrical equipment, its condition, and potential issues. Before proceeding, ensure you are familiar with the equipment being inspected and the relevant safety protocols. This form should not be used for other purposes; it is specifically tailored for electrical equipment inspections.
-</thinking>
-
 # electrical_equipment_inspection_form - Help Guide
 ## Purpose
 The electrical equipment inspection form is a tool used to inspect and document the condition of electrical equipment. This form helps identify potential issues, ensure compliance with safety standards, and maintain accurate records.

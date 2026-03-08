@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be completed by customers or contacts who want to reach out to Process Improvement Engineering team for their process improvements or issues they are experiencing. This form is intended to be a one-stop-shop for gathering all necessary information for the team to address the issue efficiently. 
-
-It is essential to ensure that the form is filled out correctly to avoid duplication of effort and unnecessary follow-up questions. Please review the form carefully before submitting it to ensure that all required fields are filled out correctly.
-
-Note: This form is not meant to be used for general inquiry or sales purposes but rather for specific process improvement issues or concerns that require the team's attention.
-</thinking>
-
 # Process Improvement Engineering Contact Form - Help Guide
 
 ## Purpose

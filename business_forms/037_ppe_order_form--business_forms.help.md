@@ -1,7 +1,3 @@
-<thinking> 
-The "ppe_order_form" form is intended to collect information about a specific PPE (Plant, Process, Equipment) order. It is used to gather relevant details that will help the relevant teams make informed decisions during the ordering process. This form should only be completed once per PPE order.
-</thinking>
-
 # ppe_order_form - Help Guide
 ## Purpose
 The "ppe_order_form" is used to collect information about a specific PPE order, enabling teams to make informed decisions during the ordering process.

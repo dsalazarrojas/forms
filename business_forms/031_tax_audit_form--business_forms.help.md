@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Tax Audit Form, I must first consider the context and purpose of the form. The form appears to be used for tracking tax audit information, which includes details such as tax year, client ID, auditor's name, audit status, and tax return status. This form likely serves to provide a structured way for auditors to collect and record tax audit data in a standardized manner.
-
-Upon reviewing the provided YAML structure, I notice that the form has multiple sections with varying types of fields. Some fields are select-one options, while others are text fields or date/time fields. This suggests that the form is designed to be flexible and adaptable to different types of tax audit information.
-
-Before proceeding, I want to emphasize that the purpose of this guide is not to provide an exhaustive explanation of every possible scenario, but rather to provide a clear and concise explanation of each field's purpose and requirements. This will help ensure that end-users understand how to complete the form accurately and efficiently.
-
-Given the form's structure, it seems to be designed for tax professionals or auditors to document tax audit information in a standardized way. Therefore, the target audience for this guide will be individuals with some level of tax knowledge or experience, but not necessarily experts in the field.
-
-With this understanding in mind, I can now create the user-facing help guide.
-</thinking>
-
 # Tax Audit Form - Help Guide
 ## Purpose
 The Tax Audit Form is used by auditors to collect and record tax audit information in a standardized manner. This form is designed to provide a structured way to gather details such as tax year, client ID, audit status, and tax return status.

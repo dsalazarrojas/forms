@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect reference information for a business transaction. The form's purpose is to gather details about a trade reference, including the reference ID, type, client name, email, phone number, and status. The form is not required for every trade, but it's essential for specific business cases.
-
-This form is part of a larger business process and should only be used for legitimate business purposes, not for personal or testing purposes.
-
-Please note that the form fields are not strictly required, but providing all the necessary information is crucial for accurate and efficient processing of the trade.
-</thinking>
-
 # Trade Reference Form - Help Guide
 ## Purpose
 The Trade Reference Form is used to collect reference information for a business transaction.

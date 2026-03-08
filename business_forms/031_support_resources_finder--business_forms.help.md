@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to help customers find support resources for their issues, providing them with options to select the type of support they need (Technical, Personal, or Financial) and guiding them through a series of pages to provide necessary information for support. This form is designed to be completed by customers who are experiencing problems and need help, and the goal is to get as much relevant information as possible to provide effective support. 
-
-Checking for relevance and non-duplication:
-- This form is intended for customers who are currently experiencing problems.
-- The form is not intended to be used for general contact or inquiry purposes.
-</thinking>
 # Support Resources Finder - Help Guide
 ## Purpose
 The Support Resources Finder form is designed to guide customers through a series of steps to provide the necessary information for support. This form is meant to be completed by customers experiencing problems and is divided into sections to help you find the support resources you need.

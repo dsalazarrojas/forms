@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Electricity Usage Survey - Help Guide
 ## Purpose
 The Electricity Usage Survey is designed to gather information about your electricity usage habits and patterns. This survey will help us understand your energy consumption and identify areas for improvement.

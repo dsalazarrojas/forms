@@ -1,8 +1,3 @@
-<thinking>
-This is an internal reasoning block to ensure the form's purpose and context are understood.
-The Equipment Retrofit Rebate Application Form is intended to assist customers in applying for rebates on energy-efficient equipment. The form will guide users through providing project details, applicant information, business details, energy information, retrofit details, project cost, and project status. The form's purpose is to ensure accurate and efficient submission of the rebate application. This form does not collect sensitive information and is intended for public use. Please note that this form is not affiliated with any specific form platform and is an original adaptation based on public survey topic metadata. It is released under CC BY 4.0 license and users are free to modify and use it as needed.
-</thinking>
-
 # Equipment Retrofit Rebate Application Form - Help Guide
 ## Purpose
 The Equipment Retrofit Rebate Application Form is a tool designed to help customers apply for rebates on energy-efficient equipment. The form guides you through providing necessary information to ensure accurate and efficient submission of the rebate application.

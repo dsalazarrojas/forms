@@ -1,7 +1,3 @@
-<thinking>
-To start with, we should check if the form is actually needed and if the project is not already ongoing or completed. If it is, then there's no need to create a new operational resilience consulting project.
-</thinking>
-
 # operational_resilience_consulting_project_application_form - Help Guide
 ## Purpose
 This form is used to submit an operational resilience consulting project application. It is intended for projects that require expertise in building operational resilience, which involves identifying and mitigating potential risks that could affect business operations.

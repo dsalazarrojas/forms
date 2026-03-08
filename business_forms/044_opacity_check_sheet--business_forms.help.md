@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be designed for collecting data related to plant maintenance or inspections. It may be used by technicians or maintenance personnel to record their findings, notes, and results. The form likely serves as a tool for monitoring plant performance, tracking progress, and identifying areas for improvement. Before proceeding, let's confirm that this form meets the specific needs of your use case.</thinking>
-
 # Opacity Check Sheet - Help Guide
 ## Purpose
 The Opacity Check Sheet is used to record and track data related to plant maintenance or inspections, including findings, notes, and results.

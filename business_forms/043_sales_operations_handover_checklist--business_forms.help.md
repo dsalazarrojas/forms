@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form, "sales_operations_handover_checklist", is designed to collect information and track key aspects of sales operations, including client details, deal status, sales notes, and follow-up tasks. The form helps sales teams ensure that all critical tasks are completed before handing over a sales operation to a sales manager, reducing the risk of errors or missed deadlines. It's essential to fill out this form accurately and comprehensively to maintain a smooth transition process.
-</thinking>
-
 # sales_operations_handover_checklist - Help Guide
 ## Purpose
 The sales operations handover checklist is a crucial tool for sales teams to ensure a seamless handover of sales tasks and responsibilities. It helps identify and track the progress of various sales tasks, enabling teams to stay on top of deadlines and maintain customer satisfaction.

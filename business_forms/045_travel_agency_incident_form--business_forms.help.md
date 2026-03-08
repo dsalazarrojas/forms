@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect incident reports from travel agencies. The purpose of this form is to gather information about travel-related incidents that occurred on a trip, allowing the agency to document and report such incidents for internal use or external reporting purposes. This form is not intended for public display, but rather for internal use within the travel agency.
-</thinking>
-
 # Travel Agency Incident Form - Help Guide
 ## Purpose
 The Travel Agency Incident Form is used to collect information about incidents that occurred on a trip, allowing the agency to document and report such incidents.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to generate a report on the progress of a company or organization during a quarter. The purpose of this form is to collect information from employees, managers, or stakeholders about the key performance indicators (KPIs), goals, and achievements of the company during the quarter. This form is likely used for internal reporting and evaluation purposes within the company.
-</thinking>
-
 # quarterly_progress_report_form - Help Guide
 ## Purpose
 The quarterly_progress_report_form is used to collect information on key performance indicators (KPIs), goals, and achievements of a company or organization during a quarter. This form is intended for internal reporting and evaluation purposes.

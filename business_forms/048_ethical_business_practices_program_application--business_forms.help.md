@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by businesses and entrepreneurs to apply for the Ethical Business Practices Program. The application is used to gather information about the business's current practices, motivations, and contact details. The form is a required step for businesses to demonstrate their commitment to ethical practices and be eligible for the program. It is essential to complete the form thoroughly and accurately to ensure a successful application.
-
-Before proceeding, please ensure that you have read and understood the program's requirements and guidelines. If you have already submitted an application, please do not resubmit. Each application will be reviewed on a case-by-case basis, and the outcome of the review will determine eligibility for the program.
-
-</thinking>
-
 # Ethical Business Practices Program Application - Help Guide
 ## Purpose
 The Ethical Business Practices Program Application is a form used by businesses to apply for the program. The program aims to recognize and support businesses that demonstrate a commitment to ethical practices.

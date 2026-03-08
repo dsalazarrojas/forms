@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to book a live show rehearsal slot for a production team. This form is intended for internal use within a production company or organization. It is not meant for external or public consumption. It is possible that multiple forms might be filled out before a production team receives a confirmation, so please ensure that you are booking a slot that aligns with your team's schedule and needs.
 
 # Live Show Rehearsal Slot Booking Form - Help Guide

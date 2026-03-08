@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for customers to book a photography session with a photographer. The purpose of this form is to collect necessary information from the customer, including their name, email, phone number, session details, and agreement, as well as the photographer's name, email, and phone number. The form is divided into two pages: the customer information page and the photographer information page. The customer information page includes fields for the customer's name, email, phone number, and session details. The photographer information page includes fields for the photographer's name, email, and phone number.
-
-To avoid duplication of effort, it is essential to ensure that the customer's email and phone number fields are filled out correctly. The email field is used to send notifications and updates to the customer, while the phone number field is used for potential future communication. The session details field should be used to specify the date, time, and location of the photography session.
-
-This form should not be used for other purposes, such as general customer inquiries or sales.
-</thinking>
-
 # Photography Session Booking Form Template - Help Guide
 ## Purpose
 This form is for booking a photography session with a photographer. Please fill in the form with your information to book a session with the photographer.

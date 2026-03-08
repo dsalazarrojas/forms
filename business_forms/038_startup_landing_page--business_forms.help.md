@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect information about a startup company. This form is intended to be used by entrepreneurs, business owners, or anyone looking to showcase their startup's landing page. The purpose of this form is to gather essential details about the startup, including its name, description, location, funding stage, and more. The form is likely to be used for business purposes, such as networking, marketing, or investment pitches.
-
-Before filling out this form, please note that some fields may be optional, and you can fill them out if you have relevant information to provide. Also, be mindful of the type of input required for each field (e.g., text, select_one, select_multiple, etc.) to ensure you input the correct type of data.
-
-Please ensure that you are filling out this form for the correct startup, and avoid duplication or unnecessary submissions.
-</thinking>
-
 # Startup Landing Page - Help Guide
 
 ## Purpose

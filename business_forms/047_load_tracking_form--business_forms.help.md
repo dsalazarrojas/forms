@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about load tracking for business operations. The form is used to track shipments and loads, and the provided fields will help gather relevant data for this purpose.</thinking>
-
 # Load Tracking Form - Help Guide
 ## Purpose
 This form is used to track shipments and loads for business operations.

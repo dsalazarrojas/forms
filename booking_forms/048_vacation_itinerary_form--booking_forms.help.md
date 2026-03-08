@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about a user's upcoming trip, including travel dates, destinations, activities, flights, and other relevant details. The goal is to create a comprehensive itinerary for the user. This form is intended to be completed by travelers planning a trip, whether personal or business. To ensure that the form is filled out correctly, it's essential to understand its purpose and the information it requires. Please review the form carefully to avoid duplication and ensure that all necessary information is captured.
-</thinking>
-
 # Vacation Itinerary Form - Help Guide
 
 ## Purpose

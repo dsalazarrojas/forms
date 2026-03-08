@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients before a business strategy appointment. It is meant to be filled out by clients before meeting with a consultant to ensure both parties are on the same page and can have an efficient and productive discussion. Please make sure to answer each question as accurately and completely as possible to provide the best possible information for our discussion. If there is anything you are unsure of, please reach out to your consultant before filling out this form. This form should only be filled out once per appointment.
-</thinking>
-
 # Business Strategy Appointment Form - Help Guide
 
 ## Purpose

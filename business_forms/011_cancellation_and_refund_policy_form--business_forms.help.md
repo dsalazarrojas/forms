@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to process cancellations and refunds for orders or purchases made by customers. It is designed to collect relevant information about the order, the reason for cancellation, and the preferred method of refund. This form is intended for use by customers who wish to initiate a cancellation and refund request. It should be completed in its entirety to ensure that the request is processed correctly and efficiently. Please ensure that all required fields are filled out accurately and completely. The form is divided into sections for clarity and ease of use.
-
-</thinking>
-
 # Cancellation And Refund Policy Form - Help Guide
 ## Purpose
 The purpose of this form is to process cancellations and refunds for orders or purchases made by customers. It collects information about the order, the reason for cancellation, and the preferred method of refund.

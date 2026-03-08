@@ -1,7 +1,3 @@
-<thinking>
-This form is used by business operations staff to request supplies from the central store. This form should only be used for requesting supplies from the counter, as indicated by the "Counter ID". This form is not intended for other business purposes or general supply requests.
-</thinking>
-
 # registration_counter_supply_request_form - Help Guide
 ## Purpose
 This form is used to request supplies from the central store for the counter. Fill out the form with your details to submit a request for supplies.

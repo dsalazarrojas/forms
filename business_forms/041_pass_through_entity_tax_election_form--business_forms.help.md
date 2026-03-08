@@ -1,7 +1,3 @@
-<thinking>
-The Pass Through Entity Tax Election Form is a crucial document used by entities that are required to elect a tax authority. This form is used to select the state tax authority and other relevant details for the tax year in question. The form must be completed by entities that are required to make a tax election. The purpose of this form is to ensure accurate and timely tax reporting. The form will be reviewed to check for relevance and non-duplication before proceeding with the tax election. Please make sure to complete the form accurately and submit it on time to avoid any issues. This guide will walk you through each field of the form to ensure you complete it correctly.
-</thinking>
-
 # Pass Through Entity Tax Election Form - Help Guide
 
 ## Purpose

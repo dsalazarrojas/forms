@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to electrical commissioning, which is a process that ensures electrical systems are installed, tested, and validated to meet specific standards and regulations. This process is crucial in various industries, including construction, manufacturing, and renewable energy.
-</thinking>
-
 # Electrical Commissioning Checklist - Help Guide
 
 ## Purpose

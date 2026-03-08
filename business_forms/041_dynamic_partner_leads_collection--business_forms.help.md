@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about potential leads for a business opportunity. The form is meant to be completed by individuals looking to find new job opportunities, and it will help the organization to understand their needs and preferences. This form is not meant to be used for internal personnel data collection, but rather for external lead generation. Please ensure that you are not duplicating effort and that this form is not being used for any other purpose than its intended use.
-</thinking>
-
 # dynamic_partner_leads_collection - Help Guide
 ## Purpose
 This form is designed to collect information about potential leads for a business opportunity. It helps us understand the needs and preferences of individuals looking for new job opportunities.

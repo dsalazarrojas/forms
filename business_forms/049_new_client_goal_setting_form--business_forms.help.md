@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure this form is relevant and doesn't duplicate any other form. The form's purpose is to help clients set goals that are aligned with the company's objectives, which is a key part of the onboarding process for new clients. This form is used to collect information about the client's goals, such as their name, contact information, objective, expected completion date, progress tracking methods, goal description, and alignment with company objectives. This form is meant to be a straightforward and efficient way to gather the necessary information for the client's onboarding process. It should not be used for any other purpose than client onboarding.
-</thinking>
-
 # New Client Goal Setting Form - Help Guide
 ## Purpose
 

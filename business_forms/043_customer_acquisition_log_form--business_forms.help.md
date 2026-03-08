@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for recording and tracking customer acquisition logs, which is an essential process for businesses to monitor and analyze their customer interactions. It's likely used by sales teams and customer support staff to document contacts with potential or existing customers, track follow-up activities, and measure the effectiveness of their sales strategies. The form should be filled out for every customer contact, ensuring that all relevant information is accurately captured.
-
-Before filling out the form, ensure that you're not duplicating a previously completed log entry for the same customer. A thorough search of the customer database is necessary to avoid creating unnecessary duplicate entries.
-
-</thinking>
-
 # customer_acquisition_log_form - Help Guide
 ## Purpose
 The purpose of this form is to record and track customer interactions, including contacts made via phone, email, in-person, and other channels. It helps sales and customer support teams to document customer conversations, set up follow-up activities, and analyze customer behavior.

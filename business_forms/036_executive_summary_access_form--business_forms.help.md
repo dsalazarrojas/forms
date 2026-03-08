@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to assist executives in accessing executive summaries, which are concise overviews of reports that summarize key information and findings. The form is intended to be used when an executive needs to quickly review and make decisions on reports, and it helps to ensure that all necessary information is gathered and evaluated before making a decision. Before creating this form, I'll review the provided YAML to avoid duplication of effort and ensure that the form's purpose aligns with the needs of the end-users.
-
-</thinking>
-
 # executive_summary_access_form - Help Guide
 ## Purpose
 This form is designed to aid executives in accessing and evaluating executive summaries. It gathers essential information to help make informed decisions quickly.

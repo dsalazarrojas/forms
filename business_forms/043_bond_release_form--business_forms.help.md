@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture the details of a bond release, which is a process where an individual is released from custody on certain conditions. This form is used by law enforcement agencies to gather information about the release and to ensure that the individual understands their obligations and responsibilities after release. The purpose of this form is to provide clarity and consistency in the release process, ensuring that the individual is aware of their conditions of release and any requirements or restrictions that apply to them.
-</thinking>
-
 # Bond Release Form - Help Guide
 ## Purpose
 The Bond Release Form is used to document the details of a bond release, ensuring that the individual understands their obligations and responsibilities after release.

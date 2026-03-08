@@ -1,12 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information and feedback from employees on the work-from-home policy implemented by the organization. The form is designed to understand employee preferences, experiences, and suggestions regarding remote work. It's essential to fill out this form honestly, as the input will be used to refine and improve the policy for a better work environment. Before starting, please ensure that you have read and understood the policy, and that you're comfortable with the questions asked.
-
-This form is not meant to be a comprehensive, official document, but rather a tool to collect feedback and suggestions. If you have any questions or concerns, please feel free to reach out to your supervisor or HR representative.
-
-Also, please be aware that this form is being used to improve the work-from-home policy, and the responses will be kept confidential and anonymous, unless explicitly stated otherwise.
-
-</thinking>
-
 # Work From Home Policy Survey - Help Guide
 ## Purpose
 This form aims to gather your feedback and thoughts on our work-from-home policy. Your input will help us create a better work environment that meets your needs and preferences.

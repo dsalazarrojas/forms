@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Advocacy Program Application Form - Help Guide
 ## Purpose
 This form is designed to help the customer advocacy team at your company understand your role, goals, and areas of interest for the advocacy program. It will help us tailor our support to best fit your needs. Please fill out this form completely and accurately to get the most out of the advocacy program.

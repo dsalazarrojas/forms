@@ -1,8 +1,3 @@
-<thinking> 
-The form is designed for advertising account sales, where a company is selling their advertising account to another. The purpose of this form is to collect the necessary information from both the seller and buyer to complete the transaction. This form is likely used in a business setting, such as an advertising agency or a marketing firm. The form is not a duplicate of any other form in the organization, and it serves a unique purpose.
-
-</thinking>
-
 # Advertising Account Sale Agreement - Help Guide
 ## Purpose
 This form is used to document the sale of an advertising account, including the seller's and buyer's information, account details, and transaction terms.

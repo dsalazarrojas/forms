@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for a brand to establish a contractual agreement with a brand ambassador, outlining the terms and conditions of their partnership. It collects information about the ambassador's identity, company and brand details, contract duration, scope of work, and compensation. This form will help the brand to assess potential ambassadors and ensure both parties have a clear understanding of their roles and responsibilities.
-</thinking>
-
 # Brand Ambassador Contract Form - Help Guide
 ## Purpose
 This form is used to establish a partnership between the brand and the ambassador, defining the terms and conditions of the agreement.

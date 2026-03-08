@@ -1,7 +1,3 @@
-<thinking>
-I'll first break down the internal reasoning for this form purpose and fields to ensure I'm meeting the requirements correctly. This form is a "Course Booking Form" which is likely used to capture user input for booking a course. The fields seem to be focused on collecting general information about the course, student, and booking details. I'll make sure to cover each field's purpose and required status in the user-facing help guide.
-</thinking>
-
 # Course Booking Form - Help Guide
 ## Purpose
 This form is used for booking a course. It captures information about the course, student, and booking details such as date, time, and contact information.

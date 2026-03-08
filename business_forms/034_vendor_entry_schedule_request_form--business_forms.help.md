@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Entry Schedule Request Form - Help Guide
 ## Purpose
 This form is used to request vendor entry schedules for a specific date and time. It captures the vendor's details, the schedule entry date and time, and any site access requests. This form is designed to be completed by vendors or their representatives to provide accurate and timely entry information.

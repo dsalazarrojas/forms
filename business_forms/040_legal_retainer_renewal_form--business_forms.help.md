@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Legal Retainer Renewal Form - Help Guide
 ## Purpose
 The Legal Retainer Renewal Form is a document used to track and update information about client retainers, including renewal dates, contract terms, payment methods, and other relevant details.

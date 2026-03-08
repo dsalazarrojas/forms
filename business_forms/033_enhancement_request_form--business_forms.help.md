@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback and suggestions from users to enhance the business process, product, or service. It is crucial that users complete this form with accurate and relevant information to ensure their suggestions are properly evaluated and implemented. Please be mindful that submitting a duplicate request will not be entertained.
-</thinking>
-
 # Enhancement Request Form - Help Guide
 ## Purpose
 The Enhancement Request Form is designed to collect user feedback and suggestions for improving our business processes, products, or services. This form helps us understand your needs and ideas to enhance our offerings.

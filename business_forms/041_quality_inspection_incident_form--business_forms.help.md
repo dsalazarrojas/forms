@@ -1,5 +1,3 @@
-<thinking>...this form seems to be designed to collect information related to quality inspection incidents, which is a crucial process in ensuring the quality and safety of products or services. However, I'm unclear on how it might be used in a business setting, as there isn't a clear indication of which industry or sector this form is intended for. Assuming it's a general purpose form for collecting information about incidents that may impact the quality of a product or service, let's create a help guide that explains its purpose, how to complete it, and what each field means... </thinking>
-
 # Quality Inspection Incident Form - Help Guide
 ## Purpose
 The Quality Inspection Incident Form is designed to collect information about incidents that may impact the quality of a product or service. This form helps ensure that such incidents are documented and can be reviewed to identify root causes and prevent future occurrences.

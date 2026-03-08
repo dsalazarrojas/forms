@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # White-Label Product Batch Order Form - Help Guide
 
 ## Purpose

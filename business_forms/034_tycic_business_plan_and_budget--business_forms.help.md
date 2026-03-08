@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tycic Business Plan And Budget - Help Guide
 ## Purpose
 This form is designed to help you create a comprehensive business plan and budget for your business. It will help you gather all the necessary information to make informed decisions and stay organized.

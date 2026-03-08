@@ -1,16 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Contract Renewal Request Form" in order to assist end-users in understanding the form's purpose and requirements. To confirm, this form is intended to collect information about contract renewals, including details about the requestor, contract details, and other relevant factors affecting the renewal decision.
-
-Before we begin, let's review the form structure to ensure we've covered all the necessary fields and their corresponding explanations.
-
-The form consists of 23 fields, divided into multiple sections. The fields are a mix of text, date, email, number, and select_one/many options. Some fields have options, while others are free-form text fields or select_one fields with a fixed set of options. 
-
-We'll cover each section and field in detail to ensure end-users understand what information is required and how to complete each field accurately. This guide aims to be concrete, concise, and practical, explaining each field's purpose and expected input without introducing unsupported business logic.
-
-After this internal reasoning block, we'll create the help guide in Markdown format, following the required structure and including a field-by-field explanation of each section.
-
-</thinking>
-
 # Contract Renewal Request Form - Help Guide
 
 ## Purpose

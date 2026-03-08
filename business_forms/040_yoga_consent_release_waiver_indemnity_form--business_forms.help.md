@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the purpose of the form, how to complete it, and an explanation of each field. The form is used to collect information from yoga participants for consent and waiver purposes, ensuring they understand the terms and conditions of the class they are participating in. This form is essential for the studio or instructor to have a record of the participant's consent and health status, in case of any emergency or medical issue during the class. The form is not intended to be a comprehensive medical history, but rather a brief overview of the participant's health status and consent. The form's purpose is to ensure the participant is aware of and agrees to the class's terms and conditions.
-
-</thinking>
-
 # Yoga Consent Release Waiver Indemnity Form - Help Guide
 ## Purpose
 This form is used to gather information from yoga participants for consent and waiver purposes.

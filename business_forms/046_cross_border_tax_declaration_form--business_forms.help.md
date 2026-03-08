@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for collecting information about a business entity's cross-border tax declarations. The purpose of this form is to gather essential details about a company's tax registrations, which are required for businesses operating across national borders. This form ensures that the relevant details are accurately and consistently filled out to avoid confusion and ensure compliance with tax regulations. This form will be used by businesses that need to declare their tax registrations to the relevant authorities.</thinking>
-
 # Cross Border Tax Declaration Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture PTO (Paid Time Off) expense reimbursement requests from employees. It's crucial to fill out this form accurately to ensure that the request is processed correctly and on time. Before proceeding, please review your eligibility for PTO and verify that your manager's info has been filled out automatically. Note that this form does not replace any other internal processes or systems. Ensure that you've checked the status of your existing requests before submitting new ones.
-</thinking>
-
 # PTO Expense Reimbursement Request Form - Help Guide
 ## Purpose
 The PTO Expense Reimbursement Request Form is designed to facilitate the process of submitting expense reimbursement claims related to Paid Time Off. It helps employees to provide necessary information about their expenses, allowing the company to process and verify their claims efficiently.

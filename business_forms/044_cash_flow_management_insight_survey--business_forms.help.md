@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather insights into cash flow management practices and challenges faced by businesses. It's intended to help users understand their current methods, tools, and pain points related to cash flow management.
-
-To ensure the form is useful and relevant, we'll review its fields for duplication and relevance. This form seems to cover various aspects of cash flow management, including practices, challenges, and tools. 
-
-We'll focus on creating a user-friendly guide for end-users to fill out the form effectively.
-
-</thinking>
-
 # Cash Flow Management Insight Survey - Help Guide
 ## Purpose
 This survey aims to collect data on your current cash flow management practices, challenges, and pain points. Your responses will help us better understand how businesses manage their cash flow and identify areas for improvement.

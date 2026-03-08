@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report and document maritime accidents or incidents that have occurred. The purpose of this form is to gather information about the incident, including the date and time it occurred, a detailed description of what happened, the cause of the incident, the parties involved, and any damages sustained. This form should only be completed in cases where an actual incident has occurred, and not for hypothetical or fictional scenarios. It is recommended to complete this form as soon as possible after the incident, while the details are still fresh in mind. Please ensure that you are only completing this form if you are authorized to do so.
-</thinking>
-
 # Maritime Accident Incident Form - Help Guide
 
 ## Purpose

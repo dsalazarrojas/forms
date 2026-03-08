@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data from applicants for the Corporate Innovation Leadership Program. This program is designed to identify and develop the next generation of innovators within the organization. The form is intended to gather relevant information about each applicant, including their personal details, skills, experience, and motivations. The purpose of this form is to ensure that each applicant is properly vetted and matched with the right opportunities within the organization.
-</thinking>
-
 # corporate_innovation_leadership_program_application - Help Guide
 ## Purpose
 

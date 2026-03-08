@@ -1,11 +1,3 @@
-<thinking>
-This form is for food truck owners to hire help for specific events. The form will help you to collect the required information from applicants to evaluate their eligibility for the event. Please make sure to fill out the form with correct and relevant information to avoid any miscommunication. 
-
-This form will be used to gather general event details and applicant information to ensure efficient event hosting. It is essential to fill out all required fields to provide a clear understanding of the event and applicant's credentials.
-
-You may want to review the form carefully before proceeding and ensure that all fields are filled correctly to avoid any confusion in the application process. 
-</thinking>
-
 # Food Truck Hiring Event Form - Help Guide
 
 ## Purpose

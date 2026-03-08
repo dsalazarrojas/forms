@@ -1,26 +1,3 @@
-<thinking>
-This form is for submitting agenda items to be discussed in an upcoming meeting. It collects necessary information from the submitter (the person adding the item) to help the meeting organizers and attendees understand the purpose and context of each item. This information includes the submitter's name, department or team affiliation, and the meeting title and date.
-
-The form aims to ensure that each agenda item is properly documented and prioritized. It also helps the meeting organizers to identify which items require discussion, decision-making, or only information, and allocate time and resources accordingly. Additionally, the form allows the submitter to provide background context and desired outcomes for each item, which aids in the meeting preparation and facilitation process.
-
-When filling this form, please ensure that each field is filled accurately and completely. If you have any questions or concerns, please reach out to the meeting organizers or support team for assistance.
-
-The form is organized into several sections:
-
-1. Meeting Agenda Item Submission (page 1)
-	* This section is an introductory note that provides the context and purpose of the form.
-2. Submitter Information (page 2)
-	* This section collects the submitter's name and department or team affiliation.
-3. Meeting Details (page 3)
-	* This section includes fields for the meeting title and date.
-4. Agenda Item Details (page 4)
-	* This section gathers information about the proposed agenda topic, time requested, item type, background context, desired outcome, and resources needed.
-5. Priority Level (page 5)
-	* This section allows the submitter to select the priority level of the agenda item (Low, Medium, High)
-
-Please fill out this form accurately and completely. If you have any questions or need assistance, don't hesitate to reach out to the meeting organizers or support team.
-</thinking>
-
 # Agenda Item Details Form - Help Guide
 
 ## Purpose

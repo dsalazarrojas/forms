@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Completion Form - Help Guide
 
 ## Purpose

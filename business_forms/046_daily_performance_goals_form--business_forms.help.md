@@ -1,7 +1,3 @@
-<thinking>
-This form, called "Daily Performance Goals Form," is designed to help employees set and track their daily performance goals. Its purpose is to provide a structured format for recording and evaluating progress toward specific objectives. By filling out this form, users can effectively organize their thoughts, prioritize tasks, and monitor their accomplishments. Please ensure that the information provided is accurate and up-to-date to get the most out of this form.
-</thinking>
-
 # Daily Performance Goals Form - Help Guide
 ## Purpose
 The Daily Performance Goals Form is a tool designed to help employees set and track their daily performance objectives. It allows individuals to clearly define what they need to accomplish and how they will measure their progress.

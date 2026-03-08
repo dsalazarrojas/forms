@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect essential information from carriers, ensuring accurate and complete data for smooth communication and payment processing within the business. The form's fields are designed to gather details such as company name, contact information, insurance verification, banking and payment terms, and safety declarations. This guide will help users understand each field's purpose and requirements.
-</thinking>
-
 # Carrier Company Packet - Help Guide
 ## Purpose
 The Carrier Company Packet form is a crucial document for carriers to provide accurate and up-to-date information. It ensures that all necessary details are collected for smooth communication, payment processing, and verification of insurance and safety ratings.

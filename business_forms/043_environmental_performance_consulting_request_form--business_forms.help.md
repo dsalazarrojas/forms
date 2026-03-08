@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to request services from a consulting team. When filling out this form, please ensure that you're providing accurate and clear information about your company and your request. This form is not intended to be a duplicate for the same services or for a different department. Please only submit the form once, and if you have any further questions or concerns, please reach out to the assigned contact.
-</thinking>
-
 # Environmental Performance Consulting Request Form - Help Guide
 ## Purpose
 The Environmental Performance Consulting Request Form is designed for clients to request services related to environmental performance consulting from our team. This form helps us understand your company's needs and preferences, ensuring we can provide the best possible service.

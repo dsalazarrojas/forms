@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about an inventory management service intake request. This form will be used by the company to process a new request and assign it to the appropriate team member. The fields included in this form aim to capture essential details such as business name, type, and location. The form requires a select box for "business type" to filter requests based on the business type, which is crucial for categorizing and prioritizing requests. The "inventory level" and "delivery window" fields help in determining the urgency and priority of the request. The "assigned to" field is crucial for assigning the request to the correct team member, ensuring timely and efficient processing.
-</thinking>
-
 # inventory_management_service_intake_form - Help Guide
 ## Purpose
 The inventory management service intake form is designed to collect essential information about a new inventory management service request. This form is used to process requests efficiently and ensure that they are assigned to the right team member.

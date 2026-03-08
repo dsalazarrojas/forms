@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a general form for reporting progress on site work, likely used in a construction or project management context. The form seems to be designed to collect various information about site work progress, including site address, project details, contact information, and other relevant data. The fields appear to be a mix of select, text, and date/time fields, suggesting that the form is intended to be completed by someone who has worked on or is responsible for the site work. Before proceeding, please verify that this form is not a duplicate or that its purpose is not already covered by another form in your organization.</thinking>
-
 # Site Work Progress Report Form - Help Guide
 ## Purpose
 The Site Work Progress Report Form is a general form designed to track progress on site work projects. This form helps you gather information about site work progress, including site address, project details, contact information, and other relevant data. 

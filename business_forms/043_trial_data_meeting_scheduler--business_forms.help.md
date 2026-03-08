@@ -1,11 +1,3 @@
-<thinking>
-The "Trial Data Meeting Scheduler" form is designed to be used by employees to schedule a meeting with colleagues and stakeholders for discussing trial data and reviewing meeting preferences.
-The form has multiple pages with fields for scheduling preferences, meeting information, and discussion topics. Each field in the form should be filled out according to the provided instructions for the meeting.
-The form's primary purpose is to gather essential information from employees regarding their availability, meeting schedules, and preferences for data review meetings.
-It's recommended that each field should be filled out with relevant information to ensure that the meeting is scheduled efficiently and effectively.
-It's also essential to review the fields carefully and make sure all required fields are filled out before submitting the form.
-</thinking>
-
 # Trial Data Meeting Scheduler - Help Guide
 ## Purpose
 The "Trial Data Meeting Scheduler" form is designed to schedule meetings for discussing trial data and reviewing meeting preferences with colleagues and stakeholders.

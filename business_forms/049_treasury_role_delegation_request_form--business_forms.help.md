@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request delegation of a role within the treasury department. The purpose of this form is to allow users to request delegation of roles to other employees, ensuring that the right roles are handled by the right people, especially when someone is absent or needs to focus on other tasks. This form is used to gather necessary information to facilitate role delegation. To avoid duplication of effort and ensure the correct delegation, please verify that this information will not be submitted multiple times.
-
-</thinking>
-
 # Treasury Role Delegation Request Form - Help Guide
 ## Purpose
 The Treasury Role Delegation Request Form is used to request delegation of a role within the treasury department. This form is intended to facilitate role delegation when a role holder is unable to perform their duties due to absence, other responsibilities, or other unforeseen circumstances.

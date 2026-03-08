@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help users provide a detailed request for a process efficiency blueprint. It's likely used in a business or organizational setting to identify areas of inefficiency and propose improvements. The purpose of this form is to gather specific information about the current process, its pain points, and the desired changes. It's meant to be a structured way to document and communicate requests for process improvements.
-
-To ensure the form is filled out correctly, users should only submit the form once they have identified areas where they believe process improvements are necessary. It's recommended that users review the form carefully and only provide relevant information to avoid duplication of effort.
-
-This guide will explain each field's purpose and help users understand how to complete the form accurately.
-
-</thinking>
-
 # Process Efficiency Blueprint Request Form - Help Guide
 ## Purpose
 This form is designed to aid users in submitting a detailed request for a process efficiency blueprint, aimed at identifying and addressing areas of inefficiency in business processes.

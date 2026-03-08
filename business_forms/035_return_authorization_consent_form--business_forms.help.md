@@ -1,7 +1,3 @@
-<thinking>
-This form is a Return Authorization Consent Form for customers to request a return or exchange of products. This form is used to gather information about the customer's order, the reason for the return, and other relevant details. The form is not a standard form for everyday use, but rather a specific form for return authorizations that requires consent from the customer. Therefore, it's crucial to ensure that the customer understands the purpose and the process of completing the form.
-</thinking>
-
 # return_authorization_consent_form - Help Guide
 ## Purpose
 This form is used to obtain authorization from the customer for returns or exchanges of products.

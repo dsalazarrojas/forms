@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a broader business process to collect and document relevant medical information for patients. This information is used to inform treatment decisions and ensure patient care is tailored to their specific needs. To complete this form, the user must answer the following questions in the order they are presented. Please note that some fields are required, and others are optional. Ensure that you answer all required fields before submitting the form. If you are unsure about any of the fields, you can refer to this guide for clarification.
-</thinking>
-
 # medical_assessment_form - Help Guide
 ## Purpose
 This form is used to collect and document the patient's medical history, including medical conditions, allergies, medications, and medical tests. It's essential to provide accurate and complete information to inform treatment decisions and ensure patient care.

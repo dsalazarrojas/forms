@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information from providers for approval and approval status tracking. It is used to verify the provider's identity, contact information, business details, and approval status. The form should be completed by the provider to ensure that their information is accurate and up-to-date.
-
-</thinking>
-
 # provider_approval_form - Help Guide
 ## Purpose
 The provider approval form is used to collect information from providers for approval and tracking purposes. This form is used to verify the provider's identity, contact information, and business details, and to track the approval status.

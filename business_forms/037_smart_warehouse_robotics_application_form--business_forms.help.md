@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Smart Warehouse Robotics Application Form is filled out correctly to accurately capture the necessary information for the robotics solution proposal. To avoid duplication and ensure relevance, please fill out this form only if you are a legitimate user seeking a robotics solution for your warehouse operations. This form is not intended for testing or demonstration purposes. Each field is designed to gather specific information to help us better understand your needs and provide an effective solution.
-</thinking>
-
 # Smart Warehouse Robotics Application Form - Help Guide
 ## Purpose
 The Smart Warehouse Robotics Application Form is designed to collect information from users to assist in the development of a robotics solution tailored to their warehouse operations. This form will help us understand your needs and provide a suitable proposal for your robotics solution.

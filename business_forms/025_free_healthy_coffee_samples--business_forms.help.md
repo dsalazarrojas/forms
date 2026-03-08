@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from users about free healthy coffee samples. The form asks users to provide information about their experience with these samples, including the title of the form, category, description, and more. The purpose of this form is to gather data that can be used to improve the coffee industry.
-The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created by AI using public survey topic metadata. It's released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-Before completing the form, please ensure that you're not duplicating your response. If you've already submitted this form, please do not submit again.
-</thinking>
-
 # Free Healthy Coffee Samples - Help Guide
 ## Purpose
 This form is designed to collect feedback from users about free healthy coffee samples.

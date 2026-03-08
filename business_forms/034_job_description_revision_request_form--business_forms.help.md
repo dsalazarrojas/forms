@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to submit a request for revisions to job descriptions. This form is used by employees to make changes to job titles, job descriptions, or other job-related information. The form is typically used when an employee needs to make changes to their job description due to changes in their role, responsibilities, or work requirements.
-
-To avoid duplication of work, it's essential to ensure that the form is filled out accurately and completely. The form should only be used for legitimate requests for changes, and not for minor adjustments or updates that can be handled informally.
-
-The fields in this form should be filled out with accurate and relevant information to ensure that the request is processed efficiently and effectively.
-</thinking>
-
 # job_description_revision_request_form - Help Guide
 ## Purpose
 The job description revision request form is used to submit a formal request for changes to job titles, job descriptions, or other job-related information.

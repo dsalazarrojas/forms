@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to facilitate the authorization of equipment use within an organization. It is intended to capture relevant information about the user, equipment details, date of usage, start and end times of usage, and other essential facts. Before filling out this form, ensure that you have reviewed the equipment use policy and understand the guidelines and regulations set forth. This form is a critical component in maintaining accurate records and ensuring compliance with the organization's asset management and usage policies.
-</thinking>
-
 # equipment_use_authorization_form - Help Guide
 ## Purpose
 The equipment_use_authorization_form is designed to collect information from users regarding the use of equipment within the organization. This form is crucial for maintaining an accurate record of equipment usage and ensuring compliance with company policies.

@@ -1,7 +1,3 @@
-<thinking>
-The form is used to submit acceptance reports for review and documentation. It captures information such as submitter details, report details, and overall condition or quality rating. This form helps in tracking and documenting acceptance reports for quality control and audit purposes. It is crucial to fill out the form accurately to ensure that all required fields are completed and no unnecessary fields are left blank. Please note that the form has been designed to be completed once a submission is made, so it is essential to fill it out correctly from the start to avoid any potential issues or delays in the review process. Also, ensure that you are submitting the correct type of acceptance report as per your organization's guidelines.
-</thinking>
-
 # Acceptance Report Submission Form - Help Guide
 ## Purpose
 The Acceptance Report Submission Form is used to submit acceptance reports for review and documentation. It captures key information such as submitter details, report details, and overall condition or quality rating.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Monthly Lead Update Checklist is used by sales teams to keep track of customer interactions and ensure that leads are up-to-date throughout the month. It's essential to complete this form accurately and consistently to maintain data integrity and support sales efforts. Ensure that the form is not submitted in duplicate, as this can cause confusion and negatively impact reporting.
 
 </thinking>

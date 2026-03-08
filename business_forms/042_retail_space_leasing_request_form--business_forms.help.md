@@ -1,9 +1,3 @@
-<thinking>
-To ensure this form is completed accurately and efficiently, let's first confirm the purpose and relevance of the Retail Space Leasing Request Form.
-This form is used to gather essential information from potential retail space lessees, typically property developers, retailers, or other interested parties looking to lease space within a retail setting. Its completion will aid in providing a clear understanding of their leasing requirements and budget constraints, helping our company's commercial leasing team to better serve them.
-This form should not be completed by anyone not involved in the leasing process or who is not authorized to represent the company in discussions about leasing. Duplicate submissions may lead to confusion and delay the leasing process, so it's essential to review the form carefully and avoid submitting multiple versions.
-</thinking>
-
 # Retail Space Leasing Request Form - Help Guide
 ## Purpose
 The Retail Space Leasing Request Form is designed to collect essential information from potential lessees to facilitate the leasing process for retail space within our properties.

@@ -1,5 +1,3 @@
-<thinking>Before creating this guide, let's confirm that the form is intended for corporate political donation disclosure, where a company provides information about their political contributions, such as the company's name, address, and contribution details. This guide will help users fill out the form accurately and ensure that all required information is provided.</thinking>
-
 # Corporate Political Donation Disclosure Form - Help Guide
 ## Purpose
 This form is for companies to disclose their political contributions, such as campaign contributions, to the relevant authorities. Please ensure that all required fields are filled out accurately and honestly to maintain transparency and compliance with relevant laws and regulations.

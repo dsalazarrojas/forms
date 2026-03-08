@@ -1,13 +1,3 @@
-<thinking>
-We're considering adding a new form to our system for handling contact requests related to industrial policy consulting services. To avoid duplication of effort and ensure that the form serves its purpose effectively, we should first clarify its purpose and ensure that it's not already covered by existing processes. Let's consider the following factors to determine whether this form is necessary: 
-* The form will be used for gathering contact information from clients or potential clients interested in industrial policy consulting services.
-* The form will help us categorize and filter the type of industry the client belongs to, which will aid in assigning the correct resource or tool for the consultation.
-* The form will require the client to specify the type of tool they would like to use for the consultation, ensuring we provide the most suitable tool for their needs.
-* We already have other forms and channels for handling client requests, but this form will provide a centralized and streamlined way to collect and manage contact information.
-* The form is designed to be completed by clients, making it an essential part of our business process.
-After careful consideration, it seems we can create a form that will effectively serve the mentioned purposes without duplication of effort. We should now focus on creating a user-friendly interface for this form to maximize its effectiveness in handling industrial policy consulting contact requests.
-</thinking>
-
 # Industrial Policy Consulting Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from clients or potential clients interested in industrial policy consulting services. The form helps us to categorize and filter the type of industry the client belongs to and assign the most suitable tool for their consultation.

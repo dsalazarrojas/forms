@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture user information for a digital engagement platform. The form will be used to collect data from individuals applying to the platform. The form fields are categorized into two main categories: personal and professional. Personal fields include first name, last name, email, phone number, date of birth, and address. Professional fields include employment status, job title, industry, and job type. The form will be used to create a user profile for the digital engagement platform.
-
-The form will be used by individuals applying to the platform and will be used to validate their information. The form data will be stored for future reference and may be used for other purposes such as marketing and analytics.
-
-To ensure that this form is not a duplicate or unnecessary, we can use the required fields to prevent submission of incomplete forms.</thinking>
-
 # digitalEngagementPlatformApplicationForm - Help Guide
 ## Purpose
 This form is designed to collect information from individuals applying to the digital engagement platform. It will be used to create a user profile and may be used for marketing and analytics purposes.

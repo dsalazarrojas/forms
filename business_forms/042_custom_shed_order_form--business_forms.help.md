@@ -1,13 +1,3 @@
-<thinking>
-
-The form "custom_shed_order_form" is designed to collect information from customers who are interested in purchasing a custom-made shed. This form is used to gather details about the customer's preferences, such as size, material, color, style, door type, roof type, number of windows, and any additional information they would like to provide. 
-
-This form is not intended for general inquiries or other purposes not related to custom shed orders. 
-
-It's crucial to ensure that the customer provides accurate and relevant information to help the business fulfill their request effectively.
-
-</thinking>
-
 # custom_shed_order_form - Help Guide
 ## Purpose
 The custom shed order form is used to collect information from customers interested in purchasing a custom-made shed. It helps the business to understand the customer's preferences and requirements for their shed.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Contact And PMH - Help Guide
 ## Purpose
 This form is intended to gather patient contact information and medical history for medical professionals to use for treatment and follow-up purposes.

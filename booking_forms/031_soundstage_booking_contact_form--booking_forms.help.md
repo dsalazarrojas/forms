@@ -1,11 +1,3 @@
-<thinking>
-We're designing a form to capture contact information and booking details from users. This form is intended to be completed by customers or clients who want to book a soundstage (likely a soundstage is a studio for music or audio production). The purpose of this form is to gather essential information for the soundstage team to facilitate the booking process.
-
-This form will be used by customers to provide their contact information, choose a date and time for their booking, and make any special requests they may have. This form is not intended for internal use, so no further explanation of the fields is required beyond what the form provides.
-
-Please review the form fields to ensure this meets your requirements and doesn't duplicate any other forms we have.
-</thinking>
-
 # soundstage_booking_contact_form - Help Guide
 ## Purpose
 The purpose of this form is to gather contact information and booking details from customers or clients who want to book a soundstage. This form is used to ensure that the soundstage team has all the necessary information to facilitate the booking process.

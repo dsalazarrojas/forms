@@ -1,7 +1,3 @@
-<thinking>
-I'll create a user-facing help guide for the "TSD Inventory Update" form. This form is used to update inventory information, and I'll make sure to cover each field clearly and concisely. I'll use the provided YAML fields to create a comprehensive guide that helps users understand the form's purpose, how to complete it, and what each field means. Before starting the guide, I'll review the form's purpose and fields to ensure I'm on the right track.
-</thinking>
-
 # TSD Inventory Update - Help Guide
 ## Purpose
 The "TSD Inventory Update" form is used to update inventory information in the TSD system. This form is intended for internal use and is designed to help users manage inventory levels and track updates.

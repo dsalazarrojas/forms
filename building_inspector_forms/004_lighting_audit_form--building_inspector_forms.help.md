@@ -1,7 +1,3 @@
-<thinking>
-  The Lighting Audit Form is a data collection tool for evaluating the lighting characteristics and power requirements of a site. This form helps to gather information on general information, location, equipment, characteristics, power requirements, quality assessments, and any additional comments or notes. It is used to standardize the assessment and audit process, ensuring consistent and accurate data collection. To avoid duplication, it is best to fill out this form only once the initial inspection is complete, and not to use it for other purposes. Please make sure to fill in all required fields accurately to ensure the collected data is useful and reliable.
-</thinking>
-
 # Lighting Audit Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>By creating this user-facing help guide, we aim to assist users in understanding the purpose and usage of the Team Member Survey form. This form was designed to gather information about team members' satisfaction with their work, departments, and overall experience within the company. It will help us to identify areas that need improvement and provide insights for future development and employee engagement initiatives. We aim to collect feedback from all employees in order to have a complete picture of our company's strengths and weaknesses.</thinking>
-
 # Team Member Survey - Help Guide
 ## Purpose
 The Team Member Survey form is designed to collect feedback from employees about their work experience, departments, and overall satisfaction. This survey aims to gather insights for future development and employee engagement initiatives.

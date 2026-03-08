@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's break down the form's purpose and ensure that the explanation is relevant and non-duplicitous.</thinking>
-
 # Retailer Agreement Release Form - Help Guide
 ## Purpose
 This form is used to collect information from retailers, including agreement details, store information, and contact details. It helps the company manage and track agreements with retailers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a project's estimate submission, such as the submitter's name, company, job title, and contact details. This form may be used to gather data for internal or external reporting purposes. Please note that this form is not for submitting actual project estimates, but rather for providing a brief overview of the project's details. Ensure that the information provided is accurate and complete.
-</thinking>
-
 # Project Estimate Submission Form - Help Guide
 
 ## Purpose

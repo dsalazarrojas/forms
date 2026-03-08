@@ -1,12 +1,3 @@
-<thinking>
-This form is likely used by a freight broker to gather referral information from their partners or customers. The form probably aims to collect basic contact and business details, referral information, and other relevant details about the person or business being referred. 
-
-To avoid duplication, this form might be used as a follow-up after an initial contact or meeting, or as a recurring process to maintain relationships with existing clients or partners. It's essential to ensure the form's purpose is not already served by other existing processes within the company.
-
-Before we begin, please ensure you understand the form's purpose and that it's not already covered by another form or process within your organization. This will help avoid redundant data collection and minimize duplication of effort.
-
-</thinking>
-
 # Freight Broker Referral Form - Help Guide
 ## Purpose
 The Freight Broker Referral Form is designed to gather referral information from partners and customers. This form is typically used as a follow-up or as part of a recurring process to maintain relationships with existing clients or partners.

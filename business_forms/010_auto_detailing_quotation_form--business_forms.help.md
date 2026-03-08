@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for an auto detailing service quotation. It's intended to be used by end-users who are customers seeking auto detailing services. This form is likely to be used by a business that offers auto detailing services, such as a car wash or detailing shop. The form is meant to help the business generate a quote for the customer based on their vehicle's specifications and the services they require. The form fields should be filled out by the customer to provide accurate information for the quote.
-
-This form does not require any internal logic or conditional fields. Each field is a standard type and the form is designed to be straightforward and easy to fill out. 
-
-This help guide will cover each field's purpose, required/optional status, and any relevant hints or explanations to help users complete the form accurately.
-</thinking>
-
 # Auto Detailing Quotation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers to generate a quote for auto detailing services.

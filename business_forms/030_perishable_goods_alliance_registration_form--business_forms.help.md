@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for businesses to register and partner with suppliers for perishable goods. Perishable goods refer to food, flowers, and other short-lived products. This form helps the alliance between buyers and sellers to establish trust, share inventory, and ensure efficient delivery. The form collects basic contact information of the registrant, which is required to initiate communication. It is not necessary to provide any business details or sensitive information in this form.</thinking>
-
 # Perishable Goods Alliance Registration Form - Help Guide
 ## Purpose
 The Perishable Goods Alliance Registration Form is designed to help businesses establish a partnership with suppliers for the sale and delivery of perishable goods. This form serves as a basic contact information sharing tool to initiate communication between the registered business and the alliance.

@@ -1,8 +1,3 @@
-<thinking>
-The form "Frameless Glass Solutions Inquiry Form" is designed to gather information from contractors, customers, and other stakeholders about a specific project. It is intended to collect details about the project's scope, budget, and timeline. By filling out this form, users can help us better understand their needs and provide them with the necessary resources and support.
-To ensure the accuracy of the data collected, this form is likely to be used by authorized personnel only, and the information entered is subject to review and verification.
-</thinking>
-
 # Frameless Glass Solutions Inquiry Form - Help Guide
 ## Purpose
 The Frameless Glass Solutions Inquiry Form is a tool for gathering information about projects and their related tasks. It is designed to be a comprehensive resource for collecting and documenting project details.

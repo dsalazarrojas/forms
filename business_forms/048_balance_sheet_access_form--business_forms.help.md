@@ -1,25 +1,3 @@
-<thinking>
-
-This form is used to request access to a balance sheet, allowing users to request access for various purposes such as financial analysis, audit, or loan application. It's designed to collect necessary information from the requester, including their identity, access type, and manager's approval status.
-
-To complete this form, follow these steps:
-
-1.  Fill in the requester's information, including full name, email address, and phone number.
-2.  Specify the type of access requested (view-only, download, print, analysis, or full access).
-3.  Enter the company or department name whose balance sheet is being requested.
-4.  Choose the financial period (month, quarter, year) for which access is needed.
-5.  Select a reason for requesting access (financial analysis, audit, loan application, etc.).
-6.  Provide a detailed explanation of the access need.
-7.  Enter the manager or supervisor's name and email address.
-8.  Indicate the manager's approval status.
-9.  Enter the requester's job title and department.
-10.  Confirm agreement to confidentiality requirements and data handling policies.
-11.  Specify the duration of access needed (one-time, 1 week, 1 month, 3 months, 6 months, or ongoing).
-12.  Mention any special conditions or restrictions.
-13.  Finally, submit the request.
-
-</thinking>
-
 # Balance Sheet Access Form - Help Guide
 
 ## Purpose

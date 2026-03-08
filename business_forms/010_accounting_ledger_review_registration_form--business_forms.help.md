@@ -1,16 +1,3 @@
-<thinking>
-This form is for registering an accounting ledger review, which is an essential process in maintaining an up-to-date and accurate accounting system. The form's purpose is to gather information about the ledger to be reviewed, the person performing the review, and the specific review details. This ensures that the reviewer has the necessary context and information to perform the review accurately and efficiently.
-
-To determine if this form is being filled out correctly, we check for the following:
-
-- The form is submitted by someone with authority to register a ledger review.
-- The form is filled out for the correct ledger and review cycle.
-- The form has all required fields filled out.
-- The form is not filled out for a ledger that is already registered for review.
-
-This form is used to gather and register information about accounting ledger reviews. It is not for other types of reviews or other purposes.
-</thinking>
-
 # Accounting Ledger Review Registration Form - Help Guide
 ## Purpose
 This form is used to register an accounting ledger review. It gathers information about the ledger to be reviewed, the person performing the review, and the specific review details.

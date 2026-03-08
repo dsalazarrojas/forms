@@ -1,11 +1,3 @@
-<thinking>
-This form aims to help funeral homes or florists collect order information from customers. It should be used to gather details about the customer and their order preferences for funeral flowers. This form will be used for both online and offline order collection. 
-
-The form is designed for businesses to collect customer information and order details in a simple and efficient way. However, please note that this form does not contain any sensitive payment or credit card information fields. It's essential to use other means to secure such sensitive data. 
-
-Please check if you already have a form similar to this in your system, as duplication can lead to confusion and data inconsistency.
-</thinking>
-
 # Funeral Flower Order Form - Help Guide
 ## Purpose
 This form is designed for businesses to collect order information from customers for funeral flowers. It's meant for both online and offline order collection.

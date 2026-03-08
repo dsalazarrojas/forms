@@ -1,18 +1,3 @@
-<thinking>
-This form is an air quality survey aimed at gathering feedback from employees and others on their perceived air quality in the workplace and its impact on their work performance. It's essential to understand the relationship between air quality and work-related issues, such as reported symptoms and mitigation measures. 
-The form has the following fields:
-- `respondent_name`: An optional field for respondents to enter their name for anonymous responses.
-- `workplace_location`: The location where the respondent works or where they have experienced air quality issues.
-- `perceived_air_quality`: How the respondent rates their air quality perception, on an ordinal scale (Excellent, Good, Fair, Poor).
-- `reported_symptoms`: The symptoms respondents report due to air quality issues (Cough, Sore throat, Headache, Eye irritation).
-- `work_impact`: The level of impact air quality has on work performance (No impact, Mild, Moderate, Severe).
-- `mitigation_measures`: Text field for respondents to provide details on any measures taken to improve air quality (e.g., ventilation, filters, masks).
-- `suggestions`: An open-ended field for respondents to provide suggestions on how to improve air quality.
-- `contact_email`: Optional field for respondents to provide their email address for follow-up.
-
-This form is designed to be completed in a straightforward manner, without requiring extensive technical knowledge or special instructions for completion. Respondents should be able to easily understand each question and provide accurate answers based on their experiences.
-</thinking>
-
 # Air Quality Survey - Help Guide
 ## Purpose
 This form is used to gather information on perceived air quality, symptoms related to air quality, and the impact of air quality on work performance. It will help identify areas where air quality is affecting workspaces and suggest possible measures to improve it.

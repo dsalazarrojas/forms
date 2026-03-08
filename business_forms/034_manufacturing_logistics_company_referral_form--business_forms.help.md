@@ -1,38 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Manufacturing Logistics Company Referral Form. This form is used to gather information about a manufacturing company for potential partnerships or collaborations. The form collects various details such as company name, logo, address, email, phone number, and more. We want to ensure that users understand the purpose and usage of each field, so we can accurately capture all necessary information. 
-
-Before creating the help guide, let's review each field to ensure we're not duplicating any fields and to provide clear explanations for each. 
-
-- Company Name: This field is where the user should enter the company name that they are referring to. 
-- Company Logo: This field is meant to be used for uploading or linking a logo associated with the company. 
-- Job Title: This field is for the job title of the person being referred. 
-- Company Website: Enter the company's website for easy reference. 
-- Email: Enter the email address associated with the company. 
-- Phone: Enter the phone number associated with the company. 
-- Referral Date: Date of the referral. 
-- Referral Source: How the referral was made (social media, email, phone, etc.). 
-- Follow-up Note: Any additional notes for follow-up on the referral. 
-- Company Address: Enter the company address for easy reference. 
-- City: Enter the city of the company's location. 
-- Region: Enter the region of the company's location. 
-- Country: Enter the country of the company's location. 
-- Postal Code: Enter the postal code of the company's location. 
-- Referral Name: Enter the name of the referral. 
-- Company Description: Brief description of the company. 
-- Industry: Enter the industry that the company operates in. 
-- Industry Category: Enter the category of the company's industry. 
-- Business Partners: Check if the company is open to business partnerships. 
-- Follow-up Status: Status of the follow-up (active or inactive). 
-- Follow-up Next Action: Additional notes for next follow-up. 
-- Referral Reason: Reason for the referral. 
-- Follow-up Date: Date of the next follow-up. 
-- Follow-up Time: Time of the next follow-up. 
-- Assigned To: Whether the referral has been assigned to someone. 
-
-After reviewing the fields, we'll create a clear and concise help guide for the users.
-
-</thinking>
-
 # Manufacturing Logistics Company Referral Form - Help Guide
 ## Purpose
 The Manufacturing Logistics Company Referral Form is used to collect information about a manufacturing company for potential partnerships or collaborations. This form helps gather relevant details such as company name, address, industry, and more.

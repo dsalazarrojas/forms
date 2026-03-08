@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from users who request to submit an engineering drawing. This form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation for public use. The form was created using AI with no proprietary content from any form platform.
-</thinking>
-
 # Engineering Drawing Request Form - Help Guide
 
 ## Purpose

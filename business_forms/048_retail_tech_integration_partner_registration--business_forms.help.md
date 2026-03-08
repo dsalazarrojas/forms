@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from potential integration partners about their interests and consent to be a retail technology integration partner. This form is designed to be user-friendly and easy to complete, ensuring that all required information is gathered for further processing.
-</thinking>
-
 # Retail Tech Integration Partner Registration - Help Guide
 ## Purpose
 The Retail Tech Integration Partner Registration form is used to collect information from potential integration partners about their interests and consent to be a retail technology integration partner. This form helps us understand your company's goals, interests, and expectations, ensuring a smooth integration process.

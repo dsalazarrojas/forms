@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be used within the organization's internal systems, and the information gathered will be used to better understand user perceptions and behaviors related to cryptocurrency. To prevent duplication, please make sure to complete the form only once.
-</thinking>
-
 # cryptocurrency_survey_template - Help Guide
 ## Purpose
 This form is designed to collect information about users' perceptions, behaviors, and preferences related to cryptocurrency. The data collected will help us better understand the users' attitudes towards cryptocurrency and their current practices in the market.

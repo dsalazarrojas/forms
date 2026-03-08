@@ -1,12 +1,3 @@
-<thinking>
-This form is for building inspectors and property managers to collect information from tenants before conducting a building inspection. The form is used to gather contact information, inspection details, and consent for the inspection. It is intended for use in the maintenance and upkeep of rental properties. 
-The form's purpose is to ensure that tenants are aware of the inspection and to obtain their consent for entry into their unit. This form is usually filled out before an inspection is conducted.
-The form collects information that includes the tenant's name, email address, phone number, inspection date and time, purpose of inspection, estimated duration of the inspection, inspector's name, and consent for entry. The form also includes a field for the tenant to list any concerns or restrictions they have.
-The form is used to ensure that the building management company has the necessary information to schedule and perform inspections efficiently. It also helps to establish clear communication and expectations between the tenant and the building inspector.
-The form's fields are designed to be straightforward and easy to understand. Each field has a clear label and hint to help guide the user through the completion of the form.
-The form does not require any specific business logic or rules, so it's not possible to create a YAML field that would trigger an internal check for duplication or relevance.
-</thinking>
-
 # Building Inspection Entry Consent Form - Help Guide
 ## Purpose
 This form is used to collect information from tenants before conducting a building inspection.

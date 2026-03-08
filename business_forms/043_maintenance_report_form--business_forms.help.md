@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information about maintenance reports from owners of various assets. This form aims to collect data on a specific maintenance job, including details about the owner and the asset's location, purpose, and equipment used. The form is intended to be completed by the owner or authorized personnel of the asset. The goal is to ensure that all necessary information is recorded for future reference and to help with maintenance planning. Before proceeding, please ensure that you are authorized to complete this form and that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Maintenance Report Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to sign up for a historic walking tour. The form is intended to gather participant information, tour details, and agreement to terms and conditions. The goal is to ensure that participants provide accurate and complete information to facilitate a smooth and enjoyable tour experience.
-</thinking>
-
 # Historic Walking Tour Signup Form - Help Guide
 ## Purpose
 This form is used to collect participant information and agreement to terms and conditions for a historic walking tour.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about software development projects, including project details, scope, deliverables, timeline, and payment terms. This form is designed to be completed by project managers, team leads, or clients to ensure that all relevant project information is accurately documented and easily accessible. The goal is to create a comprehensive statement of work (SOW) for software development projects, which will help project stakeholders make informed decisions and ensure project success.
-Before filling out this form, please ensure that you are authorized to access and submit the information contained within.
-To avoid duplication of effort, please do not complete this form if a similar project has already been created in the past.
-</thinking>
-
 # Software Development Statement Of Work SOW - Help Guide
 ## Purpose
 The Software Development Statement Of Work SOW is a form used to document and track project information for software development projects. It captures project details, scope, timeline, and payment terms to ensure that all stakeholders are on the same page.

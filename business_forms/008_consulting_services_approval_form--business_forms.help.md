@@ -1,5 +1,3 @@
-<thinking>... Internal reasoning: This form is for requesting approval for consulting services. It includes personal details of the requestor, project information, consultant details, and approval workflow status. The form is likely used for internal or external business approval processes. It's essential to ensure that the form is correctly filled out, as it's used for official decision-making. Non-duplication and relevance checks are crucial to avoid unnecessary back-and-forth with the requestor or consultant. ...</thinking>
-
 # Consulting Services Approval Form - Help Guide
 ## Purpose
 This form is used to request approval for consulting services, providing essential details about the requestor, project, and consultant. It's a crucial document for official decision-making within the organization.

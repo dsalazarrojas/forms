@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a holiday home visit. It is likely intended for employees or staff members who want to take a vacation or business trip during a holiday period. This form should only be used for official visits and not for personal purposes. Please ensure you are not submitting duplicate requests. Before completing this form, you should confirm that you have discussed your request with your supervisor and that it aligns with your department's policies.
-</thinking>
-
 # holiday_home_visit_request_form - Help Guide
 ## Purpose
 

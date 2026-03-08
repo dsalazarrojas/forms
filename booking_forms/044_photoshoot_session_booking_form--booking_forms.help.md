@@ -1,9 +1,3 @@
-<thinking>
-This form is used by models and clients to book a photoshoot session with the agency. The form collects information on contact details, session specifics, payment options, and contract agreements.
-The form is designed to provide a straightforward way for users to provide necessary information, ensuring a smooth and hassle-free booking process.
-The form will not be used for commercial purposes or as a general contact form. Users are expected to fill it out for booking a photoshoot session only.
-</thinking>
-
 # Photoshoot Session Booking Form - Help Guide
 ## Purpose
 This form is used to book a photoshoot session with the agency. Please fill out the form with your contact information, photoshoot details, and payment options to secure your booking.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to report variances of raw materials during production. It is meant to track and document any discrepancies or deviations from the expected or actual production process. This form should not be used to report normal production runs or issues that are not affecting the product quality or production process.
-
-To complete this form, the production team should select the team that was involved in the production process, the date of the production, and the actual quantity of the raw material produced. The user should also provide a brief description of the root cause of the variance, the corrective actions taken, and any other relevant information. Additionally, the user should select the production run ID and provide a description of the production run. The user should also indicate if the raw material was received or not, and provide a description of the raw material and its unit of measurement. Lastly, the user should provide the cost of the raw material and any additional notes about the production process.
-
-</thinking>
-
 # Raw Material Variance Report Form - Help Guide
 ## Purpose
 The purpose of this form is to report variances of raw materials during production. It is used to track and document any discrepancies or deviations from the expected or actual production process.

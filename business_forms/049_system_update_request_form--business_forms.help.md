@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to submit requests related to system updates, specifically for software and hardware updates. This form should only be used for legitimate update requests. Please note that this form is not intended for other purposes, such as general feedback or support queries. Before submitting a request, ensure that you have not already submitted a similar request in the past to avoid duplication.
-</thinking>
-
 # System Update Request Form - Help Guide
 ## Purpose
 The System Update Request Form is designed for users to submit requests for software or hardware updates to the system. This form helps our team to gather necessary details to process and fulfill your update requests efficiently.

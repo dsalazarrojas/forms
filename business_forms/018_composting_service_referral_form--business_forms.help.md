@@ -1,11 +1,3 @@
-<thinking>
-
-The Composting Service Referral Form is used to capture information about customers who have been referred to our composting service. This form helps us understand the referral source, the referred person's details, and their level of interest in our services. It's essential to complete this form accurately and thoroughly to ensure that we can follow up with the referred person and provide them with the best possible experience.
-
-Before proceeding, please note that this form is for internal use only and should not be used for external marketing or promotional purposes.
-
-</thinking>
-
 # Composting Service Referral Form - Help Guide
 ## Purpose
 

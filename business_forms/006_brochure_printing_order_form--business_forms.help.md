@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from customers to place an order for brochures. The form is designed to ensure that customers can provide all necessary details to complete their order correctly. The form fields are categorized into sections for easier navigation. Before starting, please review each field carefully to ensure accurate and complete input.
-
-</thinking>
-
 # Brochure Printing Order Form - Help Guide
 
 ## Purpose

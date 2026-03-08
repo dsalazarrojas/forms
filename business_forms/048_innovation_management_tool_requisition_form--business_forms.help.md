@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information about the tools and resources required by project managers and teams within an organization for innovation management purposes. It is intended to be a concise and efficient way to gather essential details about the tools and resources needed to support innovation efforts. 
-
-Before completing this form, please ensure that you are not submitting duplicate requests. The form's purpose is to collect unique and specific information about the tools and resources required for each project. If you are unsure whether a project or team has already submitted a similar request, please contact the form administrators for clarification.
-
-</thinking>
-
 # Innovation Management Tool Requisition Form - Help Guide
 ## Purpose
 The Innovation Management Tool Requisition Form is designed to collect information about the tools and resources required by project managers and teams within an organization for innovation management purposes.

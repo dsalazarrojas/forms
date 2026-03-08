@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses interested in optimizing their waste management processes. The purpose of this form is to gather essential details about the organization, including their contact information, goals, and waste management preferences. The form will help the waste optimization platform understand the business needs and provide tailored solutions.
-</thinking>
-
 # Waste Optimization Platform Application Form - Help Guide
 ## Purpose
 The Waste Optimization Platform Application Form is a tool designed to collect information from businesses interested in optimizing their waste management processes. The form helps the platform understand the business's needs and provide tailored solutions to improve waste management.

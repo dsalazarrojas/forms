@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for business plan submission approval. It collects key details about the submitted business plan, including submission date, contact information of the submitter and reviewer, plan title and version, review period, and attachments. Additionally, it includes fields to evaluate the quality of the plan, overall score, and approval decision. Reviewer feedback and next steps are also recorded in this form.
-</thinking>
-
 # Business Plan Submission Approval Form - Help Guide
 ## Purpose
 This form is used to capture and evaluate business plans submitted by team members. It provides a structured way to collect necessary information, evaluate the plan's quality, and make an informed approval decision.

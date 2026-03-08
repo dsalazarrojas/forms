@@ -1,6 +1,3 @@
-<thinking>
-The form is intended for collecting prospect information for business purposes, such as gathering details about potential customers or clients. This form likely feeds into a CRM or sales pipeline system. It appears to be a comprehensive form designed to capture various details about the prospect, including their personal and professional information, contact preferences, and interaction history. Before completing this form, please ensure you have the prospect's consent to collect this information, as required by data protection regulations.
-</thinking>
 # Prospect Information Collection Form - Help Guide
 ## Purpose
 The Prospect Information Collection Form is designed to gather essential details about potential customers or clients for business purposes.

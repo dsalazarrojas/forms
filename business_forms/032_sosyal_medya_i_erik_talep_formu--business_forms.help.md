@@ -1,9 +1,3 @@
-<thinking>
-
-I'm assuming the purpose of the form is to request social media content and gather details about the content request, such as the platform, content type, deadline, description, status, assigned tool, and whether to output a file. The form is likely used by internal teams to manage social media content requests efficiently. I'll focus on clarifying each field for the end-user, making sure they understand the requirements and options.
-
-</thinking>
-
 # Sosyal Medya İcerik Talep Formu - Help Guide
 ## Purpose
 This form is used to create and manage social media content requests. Please fill in the required fields to create a new request.

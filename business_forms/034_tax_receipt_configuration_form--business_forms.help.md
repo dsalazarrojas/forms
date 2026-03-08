@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to ensure that the form purpose and usage are clear and concise. This form is for configuring tax receipt settings, which implies it is used for generating or managing tax receipts.
-
-The purpose of this form is to collect information needed for tax receipt generation. The form will ask for the client's name, address, postal code, tax receipt date, tax receipt amount, and email. Some of these fields are optional, but it's crucial to fill out the tax receipt date and amount fields as they are required. 
-
-This form might be part of a larger system used for invoicing or accounting, where tax receipts are used for official record-keeping and compliance purposes.
-
-There should be a check to ensure that the user only completes the form once per tax receipt to avoid duplication and ensure accurate record-keeping.
-
-</thinking>
-
 # Tax Receipt Configuration Form - Help Guide
 ## Purpose
 The Tax Receipt Configuration Form is used to generate or manage tax receipts. It collects necessary information to create accurate and official tax receipts.

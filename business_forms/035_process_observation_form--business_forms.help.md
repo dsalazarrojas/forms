@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect observations on a specific process, helping users document and evaluate its effectiveness. The form consists of two pages: **Process Observation Form** and **Process Effectiveness Scale**.
 
 ## Process Observation Form - Help Guide

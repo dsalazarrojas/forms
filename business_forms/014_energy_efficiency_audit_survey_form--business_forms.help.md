@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to guide users through a series of questions related to energy efficiency audits. It aims to help users assess the current state of energy efficiency practices, identify areas for improvement, and develop a roadmap for future implementation. The form will likely be used by facility managers, energy auditors, or other professionals responsible for ensuring energy efficiency in buildings. It's essential to complete this form accurately, as the collected data will inform strategic decisions and drive positive changes in energy consumption. To avoid duplication of effort, please ensure you're not submitting multiple forms with overlapping information. If you're unsure about any question or field, please refer to the provided explanations.
-</thinking>
-
 # energy_efficiency_audit_survey_form - Help Guide
 ## Purpose
 The energy efficiency audit survey form is a tool used to assess the current state of energy efficiency practices in buildings. It helps identify areas for improvement and aids in developing a roadmap for future implementation.

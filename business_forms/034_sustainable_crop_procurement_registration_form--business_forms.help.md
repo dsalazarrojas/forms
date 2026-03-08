@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sustainable Crop Procurement Registration Form - Help Guide
 
 ## Purpose

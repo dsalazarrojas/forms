@@ -1,7 +1,3 @@
-<thinking>
-This form is a Commercial Proposal Submission form, designed to collect information from companies or entities interested in submitting a commercial proposal for a project. This form is likely used by businesses or organizations to propose services or solutions to clients, partners, or collaborators. Before filling out this form, please ensure that you have all necessary documents and information readily available to avoid any delays or inaccuracies in your submission. Also, please note that this form is not for general inquiries or other types of non-commercial proposals.
-</thinking>
-
 # Commercial Proposal Submission - Help Guide
 
 ## Purpose

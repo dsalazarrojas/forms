@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cleaning Service Online BookingScheduling - Help Guide
 
 ## Purpose

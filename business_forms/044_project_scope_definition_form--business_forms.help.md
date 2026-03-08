@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help project managers and team members define the scope of a project by providing a structured format for outlining project objectives, deliverables, timelines, stakeholders, project status, and project type. The form aims to capture the essential information required for project planning and execution.
-
-This form can be used by project managers to:
-
-* Define and refine project objectives and deliverables
-* Establish project timelines and schedules
-* Identify stakeholders and their roles in the project
-* Determine the current project status
-* Classify the project type (internal, external, or hybrid)
-
-The form is composed of several sections, each addressing a distinct aspect of project scope definition. 
-
-</thinking>
-
 # Project Scope Definition Form - Help Guide
 ## Purpose
 The Project Scope Definition Form is designed to provide a structured framework for project managers and team members to define and refine the project scope by capturing the essential information required for project planning and execution.

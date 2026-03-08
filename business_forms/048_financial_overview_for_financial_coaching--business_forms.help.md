@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help users provide a comprehensive overview of their financial situation for financial coaching purposes. The form is likely to be used in a business setting, such as an office or corporate environment, where users may be employees, managers, or other stakeholders involved in financial decision-making. This form is intended to be completed by individuals who are seeking financial guidance or advice.
-
-It's essential to note that this form is not designed for general financial planning or investment purposes. It's specifically tailored for financial coaching, which implies a focus on providing information for coaching or advisory services rather than for investment or planning.
-
-Before proceeding, ensure that you have read and understood the purpose of this form and that you are not duplicating efforts. If you are unsure about any aspect of this form or its purpose, please consult with the relevant authorities or supervisors.
-
-</thinking>
-
 # Financial Overview For Financial Coaching - Help Guide
 ## Purpose
 This form is designed to gather essential information about your financial situation for financial coaching purposes. It will help the financial coach understand your income, expenses, financial goals, and other relevant details to provide personalized advice and guidance.

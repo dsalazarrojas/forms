@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate the approval process for sponsorships, allowing event organizers to request and management to review sponsorships for events. It's crucial to ensure only relevant information is entered to avoid duplicate entries. 
-
-This form typically includes general information about the event (name, date), contact person and organization details, and specific sponsorship data (sponsor name, address, and details). Note that the "Event Type" field is a multi-select field, so you may choose one or more of the provided options. 
-</thinking>
-
 # Sponsorship Approval Form - Help Guide
 
 ## Purpose

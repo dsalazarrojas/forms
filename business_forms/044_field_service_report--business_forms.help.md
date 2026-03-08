@@ -1,11 +1,3 @@
-<thinking>
-
-This form is likely a business-focused form for capturing information about a field service report. It may be used by field service technicians or field service dispatchers to report on the service provided, customer interaction, and other relevant details. This guide will ensure the user understands the purpose and requirements for completing this form accurately and efficiently.
-
-The form will cover essential information such as address, date, time, customer details, service provided, and any additional notes.
-
-</thinking>
-
 # Field Service Report - Help Guide
 ## Purpose
 This form is designed for business field service operations to document and report on service events. It captures essential information about the service provided, customer interaction, and other relevant details.

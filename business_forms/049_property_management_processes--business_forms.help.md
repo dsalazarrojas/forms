@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect and manage property-related information. It is intended for property managers and administrators to track and monitor the status of various properties under their care. The form is divided into sections that cover different aspects of property management, including address, property type, property name, and status.
-
-To ensure that the form is used consistently and correctly, it is essential to understand the purpose and functionality of each field. This guide will walk you through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Property Management Processes - Help Guide
 ## Purpose
 This form is designed to collect and manage property-related information for efficient tracking and monitoring.

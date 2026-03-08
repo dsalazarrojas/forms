@@ -1,17 +1,3 @@
-<thinking>Internal reasoning check:
-This form is designed to assess and mitigate insider risks within an organization. The fields in this form are intended to collect relevant information about incidents, threats, and risk factors associated with insider risks. To ensure the form is complete and accurate, please review each field carefully and provide clear and concise answers. Avoid duplicating information across fields as much as possible, as this can cause data inconsistencies. If you are unsure about any field, please ask for clarification before submitting the form.
-
-The form consists of several sections, each designed to collect specific information:
-
-*   Incident Tracking: This section is used to track incident details, such as incident date, time, type, and status.
-*   Threat Controls: Select multiple threat controls in place to mitigate insider risks.
-*   Improvement Ideas: Provide ideas for improving threat controls and incident response.
-*   Risk Level: Assess the risk level of each incident (Low, Medium, High).
-*   Incident Description: Describe the incident in detail.
-*   Risk Factors: Identify risk factors associated with each incident.
-
-Before starting, ensure you have all the necessary information available.</thinking>
-
 # Insider Risk Mitigation Assessment - Help Guide
 ## Purpose
 This form is designed to assess and mitigate insider risks within an organization.

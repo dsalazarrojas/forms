@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to track revenue splits for channels, providing a clear and organized way to report and manage channel membership revenue. It's essential to use this form for accurate and efficient tracking, ensuring that all stakeholders are aware of the revenue distribution. Make sure to fill out the form correctly, and avoid duplicating or missing any required fields. The form is designed to be user-friendly and easy to understand, so take your time to go through each field carefully.
-</thinking>
-
 # Channel Membership Revenue Split Tracker - Help Guide
 ## Purpose
 The Channel Membership Revenue Split Tracker is a form designed to track revenue splits for channels, providing a clear and organized way to report and manage channel membership revenue.

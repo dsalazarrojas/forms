@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees who wish to use a company vehicle for business purposes. It's essential to complete this form to ensure that the vehicle usage is authorized and recorded correctly. Please note that this form is not intended for non-business-related vehicle usage. Before filling out this form, ensure you have read and understood the company's vehicle usage policy.
-</thinking>
-
 # Company Vehicle Authorization Form - Help Guide
 ## Purpose
 The Company Vehicle Authorization Form is a document that requests authorization to use a company vehicle for business purposes.

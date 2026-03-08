@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for petty cash requests from users, which is a common process in business settings where employees need to reimburse expenses related to work-related activities. This form will help the finance department to track and manage these requests efficiently. Before starting, please ensure you are filling this form for a legitimate reason and not duplicating a previously submitted request. 
-</thinking>
-
 # tlu_petty_cash_request - Help Guide
 ## Purpose
 The tlu_petty_cash_request form is used to collect information for petty cash requests from users. This form will help the finance department to track and manage these requests efficiently.

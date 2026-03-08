@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about site safety inspections, which is a crucial aspect of maintaining a safe working environment. The form collects data about site location, date and time of inspection, site conditions, and other relevant details. This form is intended for use by site managers, safety officers, or other personnel responsible for site safety. It is likely used in construction, manufacturing, or other high-risk industries. To fill out this form, the user should have the necessary knowledge and authority to conduct site safety inspections. If this form is being filled out by someone without direct knowledge or authority, it may lead to inaccuracies or omissions in the inspection report.
-</thinking>
-
 # Site Safety Inspection Report - Help Guide
 ## Purpose
 The Site Safety Inspection Report is a form used to collect information about site safety inspections. It is designed to help site managers, safety officers, and other personnel responsible for site safety gather the necessary data to identify and address potential hazards.

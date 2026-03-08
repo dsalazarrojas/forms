@@ -1,7 +1,3 @@
-<thinking>
-This form is used by clients to submit their Request for Proposal (RFP) to Ayada, providing essential information about their upcoming events. The form serves as the initial step in the planning process, allowing Ayada's team to understand the client's requirements and provide tailored solutions. Before proceeding, please ensure that you have not already submitted a similar RFP to us or that this is a new event. If you are unsure, you can always contact us to confirm. This form is designed to be as straightforward as possible, and we will guide you through each step to ensure you provide all necessary information for a successful event.
-</thinking>
-
 # Ayada Request for Proposal (RFP) Form - Help Guide
 ## Purpose
 This form is designed to gather information about your upcoming event to provide you with the best possible solutions and services. Please provide the required information in the following fields to help us understand your needs accurately.

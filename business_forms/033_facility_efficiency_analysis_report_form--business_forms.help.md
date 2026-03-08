@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect data for the Facility Efficiency Analysis Report, which is used to analyze and improve the efficiency of facilities within the organization. This form will help in understanding the current state of facilities in terms of energy usage, maintenance frequency, space utilization, and other related factors. It is recommended to fill out this form for each facility to get a comprehensive view of its efficiency.
-
-This form has multiple fields, including: Organization, Energy Usage, Maintenance Frequency, Space Utilization, Assigned Tool, Assigned User, and Assigned Date. Please ensure that you are filling out this form for the correct facility to provide accurate information.
-
-Before filling out the form, make sure to review the form carefully and fill out all required fields. If you are unsure about any field, please refer to this help guide for clarification.
-</thinking>
-
 # Facility Efficiency Analysis Report Form - Help Guide
 ## Purpose
 The Facility Efficiency Analysis Report Form is designed to collect data for the analysis and improvement of facilities within the organization.

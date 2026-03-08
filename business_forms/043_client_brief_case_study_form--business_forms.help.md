@@ -1,8 +1,3 @@
-<thinking>
-To ensure the accuracy and relevance of the provided form data, we must verify that the form is being used for its intended purpose: documenting the success of a business project. This form is not meant to duplicate any existing form templates or data from other platforms, and its design is based on the provided YAML schema. The following guide is intended to help users complete the form accurately and efficiently.
-
-</thinking>
-
 # Client Brief Case Study Form - Help Guide
 ## Purpose
 This form helps business clients document their project case studies, providing valuable information about their projects and outcomes. By filling out this form, clients can share their success stories, highlighting the challenges faced, solutions implemented, and results achieved.

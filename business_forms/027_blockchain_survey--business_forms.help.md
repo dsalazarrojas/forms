@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about an individual's perspectives on blockchain technology and its applications. The form is intended for users who have experience with blockchain and cryptocurrency, and are willing to share their opinions on its adoption, potential uses, and concerns. The form will help the survey creators understand how people view blockchain technology and its future implications.
-
-The form is a multiple-choice survey with various questions that cover topics such as demographics (age group, education level, occupation), understanding of blockchain technology (knowledge level, familiarity with blockchain use cases), and personal opinions on the adoption of blockchain technology (investment, regulation, environmental concerns). The form also includes questions about the user's own experiences with blockchain technology, such as whether they own any cryptocurrencies, what their investment range is, and whether they would recommend blockchain technology to others.
-
-Before starting the survey, please ensure that you have not filled out this form before, as it is designed to be taken only once. If you are unsure about any of the questions, please do not hesitate to ask for clarification or additional information.
-</thinking>
-
 # Blockchain Survey - Help Guide
 ## Purpose
 This is a survey about your perspectives on blockchain and cryptocurrency technologies. The goal is to understand your views on various aspects of blockchain, including its adoption, potential use cases, and concerns.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to document the results of a factory safety inspection, which is a crucial process to ensure the workplace is safe for employees and visitors. The form helps identify areas of concern and provides information on necessary corrections. The form is intended for employees who have conducted the inspection, such as supervisors or safety personnel. To complete this form, follow the instructions below. 
-
-</thinking>
-
 # Factory Safety Inspection Form - Help Guide
 ## Purpose
 The Factory Safety Inspection Form is a tool used to report on the findings of a factory safety inspection. The form helps identify safety concerns and provides a record of the inspection's results.

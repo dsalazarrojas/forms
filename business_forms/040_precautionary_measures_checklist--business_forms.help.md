@@ -1,36 +1,4 @@
-# <thinking>
-  This form is used to gather information about various precautionary measures that 
-  should be taken to mitigate potential hazards and risks in a workplace.
-  It is designed to be completed by individuals or teams responsible for 
-  identifying and managing hazards in a safe and efficient manner.
-  <p>
-  <p>
-  **Note**: This form can be used in various contexts, including but not limited to:
-  *   Hazard risk assessments
-  *   Safety protocols and procedures development
-  *   Risk management and mitigation planning
-  *   Workplace safety inspections
-  *   Incident reporting and investigation
-  *   Regulatory compliance
-  </p>
-  <p>
-  <p>
-  **Important**: Ensure the form is filled out accurately and thoroughly. The 
-  information collected will aid in the identification and prioritization of hazards 
-  and the implementation of effective precautionary measures.
-  </p>
-  <p>
-  <p>
-  **Disclaimer**: The information provided in this form will not be used for commercial 
-  purposes. The form is intended for internal use only.
-  </p>
-  <p>
-  <p>
-  **Contact**: If you have any questions or need help with this form, please 
-  contact us at <form@gic.mx>.
-  </p>
-</thinking>
-# Precautionary Measures Checklist - Help Guide
+# # Precautionary Measures Checklist - Help Guide
 ## Purpose
 The Precautionary Measures Checklist is a form used to gather information about 
 various precautionary measures that should be taken to mitigate potential hazards 

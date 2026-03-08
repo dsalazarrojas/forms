@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to capture information about potential collaborations between different institutions. The purpose of this form is to gather essential details about the objectives, scope, timeline, and other relevant information about the partnership from the partner institution. This form will help streamline the process of establishing partnerships and ensure that all necessary information is collected in a standardized manner.
-
-To complete this form, users must navigate through the different pages, each containing relevant fields. The form is designed to be completed by the partner institution's representative.
-
-Here is a detailed explanation of each field:
-
-</thinking>
-
 # Institutional Collaboration Framework Request Form - Help Guide
 
 ## Purpose

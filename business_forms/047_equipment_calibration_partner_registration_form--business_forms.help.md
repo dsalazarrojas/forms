@@ -1,12 +1,3 @@
-<thinking>
-This form is used for registering a partner that provides equipment calibration services. The purpose of this form is to collect information about the partner, including their name, contact details, and business category. This form is used for internal purposes only and is not intended for public access. 
-
-Please note that the fields marked as "required: false" are optional and can be filled in or left blank if not applicable. 
-
-This form will be used by authorized personnel to register partners and manage their information.
-
-</thinking>
-
 # equipment_calibration_partner_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to register a partner that provides equipment calibration services. This form is used for internal purposes only and is not intended for public access.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bookshop Event Space Rental Application - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inside Sales Daily Emails Report Form - Help Guide
 
 ## Purpose

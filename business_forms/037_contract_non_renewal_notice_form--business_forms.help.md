@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contract Non Renewal Notice Form - Help Guide
 ## Purpose
 This form is used to notify the other party of non-renewal of a contract. It is an essential document that outlines the reasons for non-renewal and ensures a smooth transition. Ensure you are using this form for the correct reason and in compliance with any applicable laws and regulations.

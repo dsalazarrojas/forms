@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals who are applying for an advance loan as a VIP. The form collects personal and financial information, including the applicant's full name, company affiliation, contact information, loan requirements, financial data, and preferred terms of the loan. The form is likely used by financial institutions or organizations that provide advance loans to VIP individuals, and the collected data will be used to process and evaluate the loan application. The purpose of this form is to gather necessary information to assess the loan request and determine the feasibility of the application. 
-</thinking>
-
 # Advance Loan VIP Registration - Help Guide
 ## Purpose
 This form is for collecting information from individuals who are applying for an advance loan as a VIP. It will be used to assess the loan request and determine the feasibility of the application.

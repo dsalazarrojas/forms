@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's quickly review the form's purpose and fields. The Equipment Procurement Form appears to be a form used to manage equipment procurement requests or orders. It contains fields for selecting the equipment category, description, date, time, required equipment, comments, and more. The form seems to be designed for internal use, likely within an organization. I'll assume the form is used for internal purposes like managing orders, approvals, or tracking progress. Please let me know if this assumption is correct.</thinking>
-
 # Equipment Procurement Form - Help Guide
 ## Purpose
 

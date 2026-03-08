@@ -1,7 +1,3 @@
-<thinking>
-This form is used to inquire about potential research partnership opportunities. It is used to gather information about the potential partner's name, email, organization, and best time to contact. The form is intended for multiple inquiries, allowing users to fill out multiple sections for each potential partner. The form is likely used in an academic or professional setting, such as a university or research institution.
-</thinking>
-
 # research_lab_partnership_inquiry_form - Help Guide
 ## Purpose
 This form is designed to gather information about potential research partnership opportunities. It allows users to provide details about themselves and their contact information for multiple potential partners.

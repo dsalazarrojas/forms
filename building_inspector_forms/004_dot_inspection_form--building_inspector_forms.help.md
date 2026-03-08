@@ -1,12 +1,3 @@
-<thinking> 
-The form is designed to collect information about a vehicle's inspection details. The form has multiple fields for different types of information such as vehicle type, make, model, year, mileage, and more. Each field is designed to capture specific details about the vehicle and the inspection process. 
-
-The form is used for the mechanic's inspection of a vehicle and is typically completed by the mechanic after inspecting the vehicle. The form is part of a process for documenting and recording inspection details in a systematic and organized way.
-
-This guide will explain the purpose and usage of each field, ensuring that users understand what information is required and what they need to provide.
-
-</thinking>
-
 # Dot Inspection Form - Help Guide
 ## Purpose
 This form is used for the mechanic's inspection of a vehicle and is typically completed after inspecting the vehicle. It is designed to capture and record important details about the vehicle and the inspection process.

@@ -1,11 +1,3 @@
-<thinking>
-The "Project Efficiency Evaluation Request Form" is designed to help project evaluators assess the status and progress of a project. This form is intended to be used by project teams or individuals responsible for managing projects within a company. The form collects data on the project's efficiency, including its current status, method of evaluation, project details, and evaluation comments.
-To avoid duplication and ensure that this form is relevant to your needs, please review the following:
-* This form is suitable for projects that require periodic assessment and evaluation.
-* The form is not suitable for projects with a fixed deadline or completion date that cannot be adjusted.
-* The form's fields can be modified or removed if they do not align with your specific project requirements.
-</thinking>
-
 # Project Efficiency Evaluation Request Form - Help Guide
 ## Purpose
 The Project Efficiency Evaluation Request Form is designed to collect and document the progress and status of a project. By using this form, project teams can assess their project's efficiency, identify areas for improvement, and make necessary adjustments.

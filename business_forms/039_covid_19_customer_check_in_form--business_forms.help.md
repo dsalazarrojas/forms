@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 Customer Check In Form - Help Guide
 ## Purpose
 The Covid 19 Customer Check In Form is designed to collect information about patients who have received the Covid 19 vaccine. This form helps track the vaccine administration process, including patient data, vaccination details, and follow-up appointments.

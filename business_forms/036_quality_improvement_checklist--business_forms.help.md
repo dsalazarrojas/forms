@@ -1,8 +1,3 @@
-<thinking>
-  This form is used to collect feedback and suggestions for quality improvement in a business setting. The form is designed to guide the user through a structured process to identify areas for improvement, develop a plan to address these areas, monitor progress, and adjust the process as needed. 
-  The following is a detailed explanation of the form and its fields to help users understand the purpose and requirements of each field.
-</thinking>
-
 # Quality Improvement Checklist - Help Guide
 ## Purpose
 This form is used to collect feedback and suggestions for quality improvement in a business setting. It guides the user through a structured process to identify areas for improvement, develop a plan to address these areas, monitor progress, and adjust the process as needed.

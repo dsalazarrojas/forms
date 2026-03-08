@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in understanding and completing the "Web Development Inquiry" form. The form is meant to gather information from users about their web development needs, allowing our development team to provide more accurate and tailored support.
 
 Before proceeding, please ensure that you have a clear understanding of your web development requirements. This form will ask for information about the kind of services you need, your contact details, and any additional comments or concerns you may have.

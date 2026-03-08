@@ -1,8 +1,3 @@
-<thinking>**Internal Reasoning and Non-Duplication Check**
-This form, "seo_agreement_extension_form", is used to create or extend a search engine optimization (SEO) agreement with a client. It captures essential information about the client, the extension request, and any necessary approvals or notes from a reviewer. The form ensures that all relevant details are recorded accurately and consistently.
-Before creating a new form, ensure that a similar form does not already exist in the system. If a similar form exists, please use the existing one instead of creating a new one.
-</thinking>
-
 # seo_agreement_extension_form - Help Guide
 ## Purpose
 The "seo_agreement_extension_form" is a form used to create or extend a search engine optimization agreement with a client. It helps to collect necessary information about the client and the extension request in a structured and organized manner.

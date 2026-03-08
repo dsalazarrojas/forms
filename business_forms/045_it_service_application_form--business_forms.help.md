@@ -1,5 +1,3 @@
-<thinking>Are we certain this form is for IT service requests and not, say, HR or finance applications? Does it cover all possible use cases? Can we assume the user has already been onboarded and has access to the system? What if the user is trying to request a service with an uncertain or unknown frequency? Can we clarify the purpose and scope of this form?</thinking>
-
 # IT Service Application Form - Help Guide
 ## Purpose
 The IT Service Application Form is a tool used to gather information about new or ongoing IT services. It helps the IT team to better understand your service needs and provide efficient support.

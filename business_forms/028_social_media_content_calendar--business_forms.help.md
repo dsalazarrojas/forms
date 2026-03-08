@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Media Content Calendar - Help Guide
 ## Purpose
 The Social Media Content Calendar is a tool used to plan and schedule social media content. It helps to organize and manage social media content for a specific date, allowing you to create a structured and consistent approach to social media posting.

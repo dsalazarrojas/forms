@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-This form is designed to obtain consent from users for the usage of their financial data within the financial department of an organization. The form's purpose is to gather user information, collect financial data, and obtain an agreement for its usage. This form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation using only public survey topic metadata as inspiration.
-</thinking>
-
 # Financial Department Data Usage Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from users for the usage of their financial data within the financial department of an organization.

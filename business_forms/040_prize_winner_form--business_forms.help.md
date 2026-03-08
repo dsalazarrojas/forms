@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prize Winner Form - Help Guide
 
 ## Purpose

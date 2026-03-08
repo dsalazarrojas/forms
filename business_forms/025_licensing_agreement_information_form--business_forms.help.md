@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about licensing agreements. It appears to be a comprehensive form that covers various aspects of licensing agreements, including the title of the agreement, details about the client, dates, contract terms, and payment terms. Before proceeding, it's essential to ensure that this form is not being duplicated or redundant with other forms in the system, and that all required fields are filled out correctly to avoid errors or missed critical information.
-</thinking>
-
 # licensing_agreement_information_form - Help Guide
 ## Purpose
 The "Licensing Agreement Information Form" is used to collect and store essential details about licensing agreements. This form helps to ensure that all necessary information is documented correctly and accurately.

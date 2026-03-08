@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to record and document customer interactions, issues, and resolutions for customer service purposes. This form will help agents track and manage customer service interactions, providing a clear and organized view of customer information, issue details, and resolution progress. It's essential that this form is completed accurately and consistently to ensure data quality and facilitate efficient customer service operations.
-
-To avoid duplication and ensure accurate data entry, please verify that you are not creating new records for customers already present in the system before creating a new entry.
-
-This guide provides step-by-step instructions on how to complete the Customer Service Work Log form.
-
-</thinking>
-
 # customer_service_work_log_form - Help Guide
 ## Purpose
 ## How To Complete This Form

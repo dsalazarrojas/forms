@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supply Collaboration Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for supply collaboration from suppliers. The form is intended to gather information necessary for the collaboration, such as supplier contact information, delivery times, and requested quantities. The form is a mandatory form and is used to facilitate the supply chain process.

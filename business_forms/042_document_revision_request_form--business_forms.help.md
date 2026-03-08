@@ -1,5 +1,3 @@
-<thinking>Document Revision Request Form is used to record requests for revisions on existing documents. This form should only be used for genuine requests and not for other purposes such as creating new content. It is essential to ensure the form is not used to request revisions for the same document multiple times. If you are unsure whether to fill out this form, please contact your team lead or manager for clarification.</thinking>
-
 # Document Revision Request Form - Help Guide
 ## Purpose
 

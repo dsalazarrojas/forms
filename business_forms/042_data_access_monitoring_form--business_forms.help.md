@@ -1,11 +1,3 @@
-<thinking>
-This form is used for monitoring data access for internal purposes. It is intended to collect information about individuals and their access to certain data centers. It should not be used for external-facing purposes.
-- The form will collect contact information (first name and last name) of the individual accessing the data
-- The form will ask for a department to categorize the access request
-- The form will ask for a data center the data center being accessed
-- The form will ask for a date and time of access
-</thinking>
-
 # Data Access Monitoring Form - Help Guide
 ## Purpose
 The Data Access Monitoring Form is designed to collect information about individuals and their access to certain data centers for internal purposes. This form will help monitor and track access to data centers within the organization.

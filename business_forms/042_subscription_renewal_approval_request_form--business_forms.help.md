@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate the subscription renewal approval process, gathering necessary information from the user to evaluate and manage subscription renewals effectively. The form should be filled out in the following way.
-
-</thinking>
-
 # Subscription Renewal Approval Request Form - Help Guide
 ## Purpose
 This form is used for requesting subscription renewals. It gathers information necessary for evaluating the request, such as the subscription ID, customer name, renewal period, start and end dates, and the reason for the request. The form also includes options for the manager to approve or deny the request, or to request further review.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used by the Internal Revenue Service (IRS) to gather essential information for EIN (Employment Identification Number) filings. The IRS uses this form to collect business details, such as business name, address, and contact information. The EIN Filing Information Form is used to update or modify an existing EIN, and it's a crucial document for businesses to ensure accurate and compliant tax filings. To avoid duplicating an EIN, please ensure you're using this form for updates only, not for initial EIN applications.
-
-Please note that this form is designed for businesses with a valid EIN. If you're an Individual or a Trust, you should use a different form.
-</thinking>
-
 # EIN Filing Information Form - Help Guide
 ## Purpose
 The EIN Filing Information Form is a critical document for businesses to provide accurate and compliant tax information to the Internal Revenue Service (IRS). This form is used to update or modify an existing EIN, ensuring your business information is up-to-date and accurate.

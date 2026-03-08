@@ -1,17 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the renewal of existing agreements with the advertising network. This form is intended for the authorized representatives of the business to update their agreement information, provide feedback, and authorize the renewal. 
-
-The form is designed to be completed by a single user, the authorized representative of the business, who will fill in the necessary information to update their agreement details and provide feedback on the current performance. This form should not be used for multiple users or for non-business purposes.
-
-The form is divided into sections, including agreement information, business details, performance feedback, and renewal terms. Each section is meant to gather specific information that will aid in the renewal process.
-
-The form will not collect any sensitive or redundant information, ensuring that only required fields are collected to avoid unnecessary processing time and data storage.
-
-Upon completion, the form will be reviewed and processed according to the provided information to finalize the renewal agreement. This form is the first and last step in the renewal process for the authorized representative of the business. 
-
-Please note that some fields are optional and may be skipped if they are not relevant to the user. This form is designed to be user-friendly and straightforward, making it easy to complete without confusion or frustration.
-</thinking>
-
 # Advertising Network Agreement Renewal Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-We've designed this form to collect information from potential investors to assess their investment goals, needs, and preferences, allowing our team to provide personalized guidance and recommendations to support their investment decisions. This form will be reviewed and assessed internally to ensure that we provide the best possible support for each individual's goals and needs.
-
-</thinking>
-
 # Corporate Investment Advisory Request Form - Help Guide
 ## Purpose
 This form is used to provide our team with information about your investment goals, preferences, and needs, so we can offer you personalized guidance and recommendations.

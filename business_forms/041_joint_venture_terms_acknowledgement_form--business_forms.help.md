@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for capturing the terms of a joint venture between two parties. The form is meant to gather information about the joint venture terms, including the partner involved, the terms of the partnership, the date of the joint venture start, and the acknowledgment of the joint venture terms. This form is designed to be completed by the parties involved in the joint venture, and it will help ensure that all parties are on the same page and understand their responsibilities and obligations.
 
 # Joint Venture Terms Acknowledgement Form - Help Guide

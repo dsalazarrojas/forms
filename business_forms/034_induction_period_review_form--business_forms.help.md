@@ -1,7 +1,3 @@
-<thinking>
-This form is used to review the induction period of new employees, ensuring that their employment and performance are properly evaluated and managed. It's essential to fill out this form correctly to ensure accurate records and to avoid duplication of effort. Please make sure to only submit this form once per new employee.
-</thinking>
-
 # Induction Period Review Form - Help Guide
 ## Purpose
 The Induction Period Review Form is used to review the induction period of new employees. This form helps evaluate their employment and performance, ensuring accurate records and preventing duplication of effort.

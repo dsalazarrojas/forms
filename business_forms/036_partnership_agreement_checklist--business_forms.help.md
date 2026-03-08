@@ -1,12 +1,3 @@
-<thinking>
-This is a form that allows users to create and manage partnership agreements. To ensure that this form is being used correctly, I will first explain its purpose and potential areas of duplication or non-compliance. 
-
-The purpose of this form is to document and record the details of a partnership agreement, including the terms of the partnership, the responsibilities of each partner, and any critical terms that need to be addressed. 
-
-To avoid duplication or non-compliance, please ensure that this form is used only for partnerships that do not already have an existing agreement in place. 
-
-</thinking>
-
 # Partnership Agreement Checklist - Help Guide
 ## Purpose
 The Partnership Agreement Checklist is a form used to document and record the details of a partnership agreement. It is intended to be used as a template for creating a partnership agreement, and to ensure that all necessary information is included in the agreement.

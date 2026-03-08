@@ -1,5 +1,3 @@
-<thinking>...This form is intended to gather information about travel plans and itineraries. It collects various details such as travel dates, purpose of travel, class of travel, destination, and contact information. The form allows users to select multiple options for certain fields, such as travel purpose and destination... The form is designed to be completed by travel staff to update travel information for employees or travelers. This form should not be used for personal travel planning... This form is not intended for travel agencies or booking services, but rather for internal travel management...</thinking>
-
 # Travel Information Form - Help Guide
 ## Purpose
 The Travel Information Form is designed to collect and update travel information for employees and travelers within the organization. It is used by travel staff to gather details about travel plans, itineraries, and associated contact information.

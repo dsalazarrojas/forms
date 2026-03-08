@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Training Session Sign Up Agreement Form - Help Guide
 
 ## Purpose

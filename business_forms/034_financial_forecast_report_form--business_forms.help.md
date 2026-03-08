@@ -1,10 +1,3 @@
-<thinking>
-The "financialForecastReportForm" form is designed to collect financial information from users, including financial forecasts, revenue, profit, and loss data. This form is likely used by financial professionals or institutions to gather insights into the financial performance of a business or organization. The form's purpose is to collect data that can be used to analyze and understand the financial trends and patterns of the business. 
-
-The form is composed of 15 fields, each representing a different aspect of financial data. To ensure accuracy, please ensure that you fill out the form according to the instructions and guidelines below.
-
-</thinking>
-
 # financialForecastReportForm - Help Guide
 ## Purpose
 The financialForecastReportForm is designed to collect financial information from users, including financial forecasts, revenue, profit, and loss data. This form is used to gather insights into the financial performance of a business or organization.

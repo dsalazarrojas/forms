@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to be a lease termination release form, which is typically used by landlords and tenants to formalize the process of terminating a rental agreement. This form helps to provide a clear understanding of the reasons for the termination and the terms of the release. The form is designed to be completed by both the landlord and tenant, and it helps to prevent disputes and misunderstandings.
-
-It's worth noting that this form is an AI-generated form, not a proprietary one from any form platform, and it's released under a Creative Commons license for anyone to use, modify, and distribute. 
-
-This form has no specific requirements or dependencies that would prevent its use or duplication. 
-
-The form has 9 fields, which are divided into two pages (although it's not explicitly stated, it's assumed that each field belongs to the same page). The purpose of the form is for both parties to provide some information about the lease termination process.
-</thinking>
-
 # Lease Termination Release Form - Help Guide
 ## Purpose
 This form is used to formalize the process of terminating a rental agreement between a landlord and a tenant. Both parties are required to complete the form to provide a clear understanding of the reasons for termination and the terms of the release.

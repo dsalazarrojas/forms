@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a general-purpose template for a photography client agreement form. It covers various aspects of a photography session, including session details, client information, services offered, terms of service, payment terms, client signatures, and contact details. The form is intended to be adaptable and can be customized to fit the specific needs of a photography business or studio.
-
-The form does not duplicate any existing forms and is an original creation, released under the Creative Commons Attribution 4.0 (CC BY 4.0) license. This means that users are free to use, modify, and even sell forms derived from this template, as long as they give credit.
-
-The purpose of this form is to serve as a starting point for creating a comprehensive client agreement form that meets the specific needs of a photography business or studio. 
-
-</thinking>
-
 # Photography Client Agreement Form - Help Guide
 ## Purpose
 This form is designed to capture essential information and agreements between a photography business or studio and their clients. It covers various aspects of a photography session, including session details, client information, services offered, and payment terms.

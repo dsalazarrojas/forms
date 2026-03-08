@@ -1,10 +1,3 @@
-<thinking>
-This help guide will cover the "print_an_order" form, which is a crucial form for capturing order-related information. The form is used for various purposes, including creating new orders, editing existing orders, and managing order details.
-The form is designed to be user-friendly, with a clear structure and concise labels. Each field has a specific purpose, and users are expected to fill it out accordingly. Before filling out the form, ensure you understand the purpose and relevance of each field to avoid any errors or duplication of effort.
-The form has 15 fields, each with a unique id, name, label, and type. The form is not required for any field, making it flexible for users to fill out as needed.
-To complete the form, follow the steps below.
-</thinking>
-
 # print_an_order - Help Guide
 ## Purpose
 The "print_an_order" form is used for various purposes, including creating new orders, editing existing orders, and managing order details. It is essential to have a clear understanding of the form's purpose to ensure accurate and relevant information is captured.

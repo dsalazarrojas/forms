@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the process of submitting a lease termination claim. This form is used to gather information from individuals or entities that need to claim a lease termination, providing a structured and organized way to present their case.
-Before filling out this form, please ensure that you have a clear understanding of the lease termination process and the specific circumstances surrounding your claim. This form is not intended to be a substitute for professional legal advice or a substitute for official documentation required by local, state, or federal authorities.
-Please note that this form is an original adaptation, not an exact replica of any existing form platform. This is an AI-generated form, created using public metadata from the lease termination topic in the business category.
-</thinking>
-
 # Lease Termination Claim Form - Help Guide
 ## Purpose
 The Lease Termination Claim Form is used to submit a claim for lease termination. It provides a structured way to present your case and gather the necessary information to process your claim.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for scheduling crew uniform fittings, which is a crucial part of the uniform allocation process in various organizations, such as hotels, restaurants, and other service industries. It allows crew members to choose a date and time to be fitted for uniforms, and provides relevant details to ensure a smooth and efficient process.
-</thinking>
-
 # Crew Uniform Fitting Booking Form - Help Guide
 
 ## Purpose

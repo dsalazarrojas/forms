@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for a business owner who needs to fill out the Bookkeeping Discovery Survey form. The form is designed to gather information about a business's current bookkeeping needs and challenges. This guide will explain each field of the form in detail, so that the business owner can provide accurate and helpful information.
-</thinking>
-
 # Bookkeeping Discovery Survey - Help Guide
 ## Purpose
 The Bookkeeping Discovery Survey is a form designed to help us understand your business's current bookkeeping needs and challenges. This information will help us recommend the best bookkeeping solutions for your business, based on your specific requirements.

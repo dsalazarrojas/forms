@@ -1,9 +1,3 @@
-<thinking>
-
-In the following help guide, we'll walk you through the Warehouse Incident Report Form, its purpose, how to complete it, and a detailed explanation of each field.
-
-</thinking>
-
 # Warehouse Incident Report Form - Help Guide
 ## Purpose
 The Warehouse Incident Report Form is a document used to record and report incidents that occur in the warehouse environment. It helps to gather information about the incident, including the date it occurred, the type of incident, and the actions taken. This form is used for internal record-keeping and may be used for auditing, investigation, or review purposes.

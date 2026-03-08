@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Fulfillment Partner Accreditation Application form is designed to collect information from business partners who wish to become accredited and partner with the company for fulfillment services. The purpose of this form is to ensure that all partners meet the minimum requirements and standards for a successful partnership. The form is a critical step in the accreditation process, and completion of this form will help to verify the partner's company details, services, experience, and certifications.
 
 To complete this form, please follow these steps:

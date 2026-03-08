@@ -1,7 +1,3 @@
-<thinking>
-Please make sure that this form is used for booking purposes only and not for any other internal or external use. This form is meant for guests to access WiFi during their visit to the office. Please ensure you are not duplicating this form for other purposes and do not share it with anyone who is not using it for the intended purpose.
-</thinking>
-
 # Guest Wi Fi Access Booking Form - Help Guide
 ## Purpose
 The Guest Wi Fi Access Booking Form is a document used for guests to request access to the office WiFi during their visit. It is meant to gather essential details about the guest's visit, such as their contact information and visit details.

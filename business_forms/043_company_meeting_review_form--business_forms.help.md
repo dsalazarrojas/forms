@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture the details and effectiveness of company meetings. It's likely used by management or HR personnel to gauge the success of meetings, identify areas of improvement, and track progress. The form should only be completed by attendees of the meeting. If you've already completed a similar form, you might not need to fill this out again. Please review the form carefully to ensure you don't duplicate any previous responses.
-</thinking>
-
 # Company Meeting Review Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback and insights from attendees about company meetings. It helps management and HR assess the effectiveness of meetings, identify areas for improvement, and make data-driven decisions.

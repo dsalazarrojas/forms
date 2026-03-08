@@ -1,7 +1,3 @@
-<thinking>
-The form "multi_stage_review_submission" is designed to guide users through a multi-stage review process. The purpose of this form is to collect feedback and data from users at various stages of the review process, ensuring that the user experience is smooth and efficient. This form is typically used for feedback and evaluation, and users should only fill out this form if they are part of the review process or have been assigned to it.
-</thinking>
-
 # multi_stage_review_submission - Help Guide
 ## Purpose
 The multi-stage review submission form is used to collect feedback and data at various stages of a review process. It is typically used for evaluations or reviews where users are expected to participate in multiple stages or rounds of feedback.

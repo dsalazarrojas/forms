@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool used by business users to monitor and track products that have been recalled. It is crucial for identifying potential issues and ensuring that all necessary steps are taken to address them. Before filling out this form, please make sure you have a clear understanding of the product recall process and the information required to complete the form accurately. This form should not be used for other purposes, such as creating new customer accounts or updating existing customer information.
-</thinking>
-
 # Product Recall Success Monitoring Form - Help Guide
 ## Purpose
 The Product Recall Success Monitoring Form is used to collect information about products that have been recalled. This data helps to track the progress and effectiveness of recall actions taken by the company.

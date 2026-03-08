@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a recognition order, which is an award or gift given to acknowledge and show appreciation for an individual's achievements or contributions to the organization. Before filling out this form, please ensure that you have the necessary approval and clearance to submit a request. Also, be sure to check if a similar recognition order has already been submitted and approved for the same recipient or award, as duplicate requests will not be processed.
-</thinking>
-
 # Recognition Order Form - Help Guide
 ## Purpose
 The Recognition Order Form is used to submit a request for a recognition order, such as an award or gift, to acknowledge and show appreciation for an individual's achievements or contributions to the organization.

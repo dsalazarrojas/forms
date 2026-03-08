@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inspection Readiness Confirmation Form - Help Guide
 
 ## Purpose

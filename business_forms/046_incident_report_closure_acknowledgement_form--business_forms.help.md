@@ -1,12 +1,3 @@
-<thinking>
-
-This form is used to acknowledge the closure of an incident report. Before filling out this form, please ensure that:
-1. You have already reviewed and acknowledged the incident report and are ready to close it.
-2. You are filling out the form in relation to the correct incident report.
-3. You are not duplicating effort, as another team member may have already filled out this form for the same incident report.
-
-</thinking>
-
 # Incident Report Closure Acknowledgement Form - Help Guide
 
 ## Purpose

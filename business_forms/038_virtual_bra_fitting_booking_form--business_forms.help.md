@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to book a virtual bra fitting session for customers. The form requires customers to provide their email address, phone number (though not mandatory), available time for the session, and a few other details to facilitate the session. The customer's name and comments are not necessary for the fitting session to proceed. The form's purpose is to create a booking with all the necessary details. 
-</thinking>
-
 # virtual_bra_fitting_booking_form - Help Guide
 ## Purpose
 This is a form for customers to book a virtual bra fitting session. It gathers essential information to schedule a suitable time slot for the customer and the stylist.

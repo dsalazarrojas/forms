@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # harbor_accident_incident_form - Help Guide
 ## Purpose
 The Harbor Accident/Incident Form is designed to collect information about accidents or incidents that occur in a harbor or water-based environment. This form helps in gathering details about the incident, such as its type, date, time, location, and description. The form aims to standardize the reporting process and ensure that all essential information is captured for incident analysis and response.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used by procurement team members to request changes to existing vendors. The form should only be used when a vendor change is necessary, and not for other purposes such as general inquiry or request for information. Ensure that the vendor change request form is not used to duplicate work already done by other teams or departments. Ensure that the form is filled out correctly and thoroughly for prompt and efficient processing by the procurement team.
-
-Please note that this form is designed to capture necessary information for a vendor change request, which includes requesting a change in the vendor's status (active or inactive), the reason for the change, and proposed new vendor information.
-</thinking>
-
 # Procurement Vendor Change Request Form - Help Guide
 ## Purpose
 The Procurement Vendor Change Request Form is used to request changes to existing vendors. This form captures necessary information for the procurement team to review and process vendor changes efficiently.

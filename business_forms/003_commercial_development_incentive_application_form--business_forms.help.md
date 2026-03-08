@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from businesses applying for commercial development incentives. The purpose of this form is to gather essential data from applicants to assess their eligibility and suitability for these incentives. This process helps ensure that the application process is fair, transparent, and efficient. To streamline the application process, we will only accept applications with complete and accurate information. Please ensure that all required fields are filled, and the provided information accurately represents the applicant's business and project. 
-
-</thinking>
-
 # Commercial Development Incentive Application Form - Help Guide
 ## Purpose
 This form is designed to collect necessary details from businesses seeking commercial development incentives. It aims to gather accurate and complete information to assess eligibility and suitability for these incentives.

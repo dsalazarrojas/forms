@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect prescreening information from clients or customers. This form should only be used for prescreening purposes and not for other types of screenings. It's essential to ensure that the form is completed accurately and consistently to maintain data quality. To avoid duplication of effort, please make sure to review the existing screenings before creating a new one.
-</thinking>
-
 # prescreen_form - Help Guide
 ## Purpose
 The prescreen_form is a tool used to collect and document prescreening information from clients or customers. This form gathers critical details about the client, including their first and last names, email address, phone number, reason for prescreening, screening information, date of screening, time of screening, and any additional prescreening comments. The goal is to have a comprehensive record of the prescreening process.

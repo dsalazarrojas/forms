@@ -1,23 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Car Rental Payment Form, I need to analyze the form fields and understand their purpose. The form appears to be for customers to enter their payment details for a car rental service. The purpose of this form is to collect relevant information from customers to facilitate the payment process.
-
-First, I will break down the form into two main sections: customer information and payment information.
-
-The customer information section (pages 2-10) includes fields such as first name, last name, email address, phone number, street address, city, state, ZIP code, and reservation details. These fields are likely used to gather the customer's contact information and reservation details.
-
-The payment information section (pages 11-46) includes fields such as payment type, payment amount, payment method, card type, card number, expiration date, CVV, billing address, and payment breakdown. These fields are likely used to process the payment and provide detailed information about the payment.
-
-Upon analyzing the form, I have a few observations:
-
-*   Some fields like card type and payment method are redundant, and only one should be used to avoid confusion.
-*   The form could benefit from adding a clear label for the expiration date field (22) as it is a critical payment information field.
-*   The CVV field could be rebranded as "Security Code" to better describe its purpose.
-*   The "Save Card for Future" option could be rephrased as "Save card details for future use" for better clarity.
-*   The "Balance Due" and "Payment Breakdown" fields could be merged into one field to make it easier for customers to see the remaining balance.
-
-To avoid duplication, I will not include unnecessary fields, and will only highlight the essential fields and provide clear explanations for each field, making the form easy to understand and fill out.
-</thinking>
-
 # Car Rental Payment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from you to facilitate the payment process for your car rental reservation. Please provide accurate and complete information to ensure a smooth payment experience.

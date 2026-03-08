@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Assessment Form - Help Guide
 
 ## Purpose

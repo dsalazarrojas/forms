@@ -1,7 +1,3 @@
-<thinking>
-To prevent confusion and non-duplication, this form's purpose is to assess the clarity and alignment of a company's vision, values, and mission. The form will gather feedback from respondents about their understanding, alignment, and inspiration from the company's vision, values, and mission. This will help the company identify areas of improvement and make data-driven decisions.
-</thinking>
-
 # Business Vision Assessment - Help Guide
 ## Purpose
 This form is designed to help the company assess the clarity and alignment of its vision, values, and mission. The form will collect feedback from respondents about their understanding, alignment, and inspiration from the company's vision, values, and mission.

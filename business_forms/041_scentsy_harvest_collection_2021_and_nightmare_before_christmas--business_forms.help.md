@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the "Scentsy Harvest Collection 2021 And Nightmare Before Christmas" campaign. The form will be used to capture customer feedback, comments, and other relevant details about the product. To ensure that the collected information is accurate and useful, please carefully review this guide and fill out the form accordingly.
-
-Before starting, please note that this form is designed to be completed by one person at a time. If you are completing the form on behalf of someone else, please ensure that the information provided is accurate and up-to-date.
-
-This guide will walk you through each field of the form, explaining its purpose and requirements.
-
-</thinking>
-
 # Scentsy Harvest Collection 2021 And Nightmare Before Christmas - Help Guide
 ## Purpose
 The purpose of this form is to gather information and feedback about the "Scentsy Harvest Collection 2021 And Nightmare Before Christmas" product. Your input will help us improve the product and better serve our customers.

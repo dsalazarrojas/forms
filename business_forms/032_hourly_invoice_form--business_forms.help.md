@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information related to an hourly invoice, likely for time worked by employees on a project. The purpose of this form is to gather essential details such as the invoice date, invoice number, hours worked, hourly rate, total invoice amount, payment terms, payment method, employee name, client name, project name, and any additional work hours notes. This information is crucial for accounting and financial purposes, ensuring accurate tracking and processing of employee hours worked and related payments. This form is not designed for duplicate purposes, and all the fields have been identified as non-mandatory, meaning users have the option to fill them in or not based on their requirements.
-
-</thinking>
-
 # Hourly Invoice Form - Help Guide
 ## Purpose
 

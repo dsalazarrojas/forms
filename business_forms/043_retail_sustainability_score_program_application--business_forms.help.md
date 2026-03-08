@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for companies to apply for the Retail Sustainability Score Program. The program aims to measure and recognize the sustainability performance of retail companies. By completing this form, applicants will be able to provide necessary information about their sustainability practices and supporting documentation to support their application. To ensure that the application process is efficient and effective, it is essential to follow this help guide carefully.
-</thinking>
-
 # retail_sustainability_score_program_application - Help Guide
 ## Purpose
 This form is used to apply for the Retail Sustainability Score Program. The program assesses the sustainability performance of retail companies and provides recognition for their efforts. To be eligible, companies must demonstrate their commitment to various sustainability practices and provide supporting documentation.

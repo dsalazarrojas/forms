@@ -1,8 +1,3 @@
-<thinking> 
-This form is a multiple-choice, recurring subscription form designed to gather information from users about their subscription preferences. It is a crucial part of the business process to ensure that customer subscriptions are accurately recorded and processed. To complete this form, you must have already been identified as a customer with a subscription.
-
-</thinking>
-
 # Multiple Choice Recurring Subscriptions - Help Guide
 ## Purpose
 The Multiple Choice Recurring Subscriptions form is used to collect data from customers regarding their subscription preferences.

@@ -1,5 +1,3 @@
-<thinking>Arbitration Outcome Report Form is used to document the outcome of an arbitration proceeding. It captures details about the case, parties involved, and the arbitrator's decision. The form helps to track the progress and outcome of arbitrations, ensuring that all relevant information is recorded in a standardized format. By using this form, you can efficiently document the arbitration process and maintain accurate records. To ensure consistency, please fill out this form only once for each arbitration case. If you've already completed this form for the same case, it is not necessary to do so again.</thinking>
-
 # Arbitration Outcome Report Form - Help Guide
 
 ## Purpose

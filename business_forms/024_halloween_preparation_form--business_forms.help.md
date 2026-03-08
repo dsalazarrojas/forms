@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to gather information about Halloween events that require preparation. This includes details about the event, its date, venue, contact number, and business contact information. This form will likely be used by event organizers or coordinators to prepare for the events. To confirm, the form fields are: event details, event date, venue details, contact number, and business contact. This form does not seem to be for internal use and may be used for external purposes such as sending invitations, reminders, or follow-up notifications.
-</thinking>
-
 # Halloween Preparation Form - Help Guide
 ## Purpose
 The Halloween Preparation Form is a tool to help event organizers and coordinators gather information and prepare for Halloween events.

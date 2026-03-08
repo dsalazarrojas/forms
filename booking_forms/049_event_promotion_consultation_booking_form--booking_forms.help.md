@@ -1,7 +1,3 @@
-<thinking>
-We're creating a guide to help our users understand the Event Promotion Consultation Booking Form, which is used for customers to submit their promotional event details. This form aims to gather essential information about the event, making it easier for our staff to process and prepare for the event's launch. Please ensure you're familiar with the event promotion process and haven't already submitted the booking request before proceeding.
-</thinking>
-
 # Event Promotion Consultation Booking Form - Help Guide
 ## Purpose
 This form is designed to collect crucial details about an event from a customer, allowing us to effectively prepare and promote the event in a timely manner.

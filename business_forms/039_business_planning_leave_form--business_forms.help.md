@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to capture information for business planning leave requests from employees. This is used to gather details about employee leave, including dates, duration, and purpose. The form will be used to ensure that the requested leave is approved by the manager and to keep a record of employee leave. Please fill out the form carefully and accurately to ensure that your leave request is processed correctly. Make sure to provide all required fields and include any necessary details to support your request.
-
-Also, please note that some fields are optional and should only be filled out if relevant. This form will be reviewed and approved by a manager, so please be prepared to provide any additional information they may request.
-</thinking>
-
 # Business Planning Leave Form - Help Guide
 ## Purpose
 The Business Planning Leave Form is used to capture details about employee leave requests, including dates, duration, and purpose.

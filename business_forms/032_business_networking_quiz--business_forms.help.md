@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather information about a participant's networking habits, preferences, and challenges. It assesses the participant's level of comfort and confidence in their professional networking activities. The purpose of this form is to provide insight into the participant's networking behavior and help identify areas for improvement. It is intended to be a tool for personal and professional development, helping individuals enhance their networking skills and achieve their goals. By completing this form, the participant will be able to reflect on their current networking practices and identify areas where they would like to improve, ultimately leading to better outcomes in their professional and personal relationships.</thinking>
-
 # Business Networking Quiz - Help Guide
 ## Purpose
 This form is designed to gather information about your networking habits, preferences, and challenges. It will help you identify areas where you can improve your networking skills and achieve your goals.

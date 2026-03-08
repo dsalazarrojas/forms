@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the maintenance and testing of intruder alarm systems in a business setting. The form is intended to gather data on the current status, test results, and maintenance history of the alarm systems. It appears to be a comprehensive form that covers various aspects of the intruder alarm system, including its type, sensitivity, frequency, and maintenance schedule. The form is likely used by facility managers, security personnel, or maintenance staff to report on the status and performance of the intruder alarm systems. This form does not seem to have any redundant fields, so it is likely to be a well-structured and efficient tool for collecting and tracking data.
-
-Before proceeding, please review the form carefully to ensure that all fields are relevant and accurately reflect the current status and needs of the intruder alarm systems.</thinking>
-
 # intruder_alarm_maintenance_report_form - Help Guide
 ## Purpose
 The intruder alarm maintenance report form is designed to collect and track information about the maintenance and testing of intruder alarm systems in a business setting. This form helps users to report on the current status, test results, and maintenance history of the alarm systems, ensuring that they are functioning correctly and meeting the required standards.

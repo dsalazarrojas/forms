@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's quickly review the form purpose and context. This form is designed to collect information from management consultants. We'll make sure to keep the explanation concise, clear, and focused on the form's specific fields, without assuming any additional context or business logic. This guide will cover the form's purpose, how to complete it, and each field's explanation to ensure end-users understand what each field means and why it's important.</thinking>
-
 # Management Consultant Information Form - Help Guide
 ## Purpose
 This form is designed to collect information about management consultants, including their personal and professional details, services offered, availability, and other relevant information. This data will help us understand their qualifications, skills, and fit for consulting projects.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from corporate employees for planning and registration purposes. The form is designed to gather basic information about the employee's identity, contact details, and attendance status. Please ensure that the form is filled out accurately and completely to facilitate efficient planning and communication.
-
-Before proceeding, check that you have not filled out this form previously. If you are unsure, please contact the relevant personnel or check your previous registrations to avoid duplicates.
-
-This form is intended for corporate renewal planning. Please do not use it for other purposes or submit it for non-relevant reasons.
-</thinking>
-
 # Corporate Renewal Planning Registration Form - Help Guide
 ## Purpose
 The Corporate Renewal Planning Registration Form is used to collect information from corporate employees for planning and registration purposes.

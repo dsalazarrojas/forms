@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from swimming pool operators or managers on the chemical levels and maintenance actions performed on a pool. The form asks for input on various chemical levels such as pH, Alkalinity, Total Alkalinity, Stabilizer, Calcium Hardness, Cyanuric Acid, Chlorine, and Chlorine Free. Additionally, it enquires about the maintenance actions taken on the pool, including water test kit usage, visual inspection, test kit calibration, and other actions. This form is intended for use by pool operators or managers to document and record the chemical levels and maintenance activities of their pool, providing an easy and efficient way to keep track of pool operations.
-</thinking>
-
 # swimming_pool_chemical_inspection_form - Help Guide
 ## Purpose
 This form is designed to help pool operators or managers collect and record information on the chemical levels and maintenance actions performed on a pool.

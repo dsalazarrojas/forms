@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stylist Monthly Check In Form - Help Guide
 
 ## Purpose

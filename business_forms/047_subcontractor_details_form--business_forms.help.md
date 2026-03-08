@@ -1,7 +1,3 @@
-<thinking>
-To determine if the form is relevant and not duplicating any other forms, we should consider the context in which it will be used. The "Subcontractor Details Form" likely serves to capture information about individuals or companies that a business has a working relationship with for subcontracted work or services. It's essential to ensure this form is not duplicating any other form that may already exist for a similar purpose within the organization. A quick review of existing forms and their purposes will help in confirming the unique need for this form.
-</thinking>
-
 # Subcontractor Details Form - Help Guide
 ## Purpose
 The Subcontractor Details Form is used to collect information about individuals or companies that a business has a working relationship with for subcontracted work or services. This form is typically completed by the business to maintain accurate and up-to-date records of their subcontractors.

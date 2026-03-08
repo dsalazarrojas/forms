@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about an insurance policy, specifically the policy number, type, holder's name, coverage start and end dates, coverage status, holder's address, phone number, email, and any additional notes. 
-It's crucial to ensure that this form is used for its intended purpose and not for any other unrelated task to maintain data accuracy and integrity. 
-Before starting, please review the fields below and make sure you're filling it out for the correct policy information.
-</thinking>
-
 # Insurance Policy Information Form - Help Guide
 ## Purpose
 This form is designed to collect and document essential information about an insurance policy. It's necessary for maintaining accurate records and ensuring that policy holders are contacted and updated correctly.

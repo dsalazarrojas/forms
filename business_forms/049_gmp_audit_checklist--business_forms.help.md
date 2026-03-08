@@ -1,10 +1,3 @@
-<thinking> 
-This form appears to be designed for conducting a general management system (GMP) audit. The purpose of this form is to help auditors collect data on various aspects of an organization's management system, ensuring that it aligns with regulatory and industry standards. This form should be filled out for each company being audited. 
-
-Checking for relevance: This form seems to be related to the field of Good Manufacturing Practice (GMP) audits in regulated industries such as pharmaceuticals, medical devices, and cosmetics. It appears to cover the various components of a GMP management system that require regular reviews and updates.
-
-Checking for non-duplication: The form's questions cover a range of topics within the GMP framework, including facility inspection, equipment, personnel, procedures, documents, records, training, regulatory control, deviations, product quality, customer service, cleanliness, record retention, management systems, and review cycles. These topics are all relevant and necessary for a comprehensive GMP audit, making this form a potentially useful tool for auditors.</thinking>
-
 # gmp_audit_checklist - Help Guide
 ## Purpose
 This form is designed for conducting a general management system (GMP) audit. It helps auditors assess an organization's adherence to GMP standards and guidelines by collecting data on various aspects of their management system.

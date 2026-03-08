@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This template is used to create a Greenhouse Gas Monitoring Plan (GHMP) that outlines the procedures and schedules for monitoring greenhouse gas emissions from a particular facility. It is designed to help facilities track and report their emissions data in a consistent and reliable manner.
 
 Before filling out this form, please review the following:

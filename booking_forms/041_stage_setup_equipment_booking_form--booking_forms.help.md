@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stage Setup Equipment Booking Form - Help Guide
 ## Purpose
 The Stage Setup Equipment Booking Form is used to book a stage setup for a specific event or meeting. It is intended for users to provide their name, email, phone number, and equipment requirements for the event.

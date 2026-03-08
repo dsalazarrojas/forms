@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to check the status of electrical installations, specifically the circuit breakers and fuses present in an electrical panel. This form is crucial in ensuring that the electrical panel is functioning correctly and safely. Before proceeding, it's essential to confirm that this form is relevant to your specific situation and that you have not already completed a similar form.
-
-The form will guide you through a series of questions about the electrical panel, including general information, circuit information, circuit breaker information, electrical panel ampacity, circuit breaker ratings, and the presence of fuses. Please fill out the form carefully, as accurate information will help in providing a thorough assessment of the electrical panel.
-
-This form is designed to be used in conjunction with other relevant forms and checks to ensure a comprehensive review of the electrical panel's status. It's not intended to replace any formal inspection or evaluation by a qualified electrician or authority.
-
-Please take a moment to review this guide before proceeding to fill out the form to ensure you understand its purpose and requirements.
-</thinking>
-
 # Electrical Installation Check Status - Help Guide
 ## Purpose
 The Electrical Installation Check Status form is a tool used to assess the status of electrical installations, specifically the circuit breakers and fuses in an electrical panel. This form helps to ensure that the electrical panel is functioning correctly and safely.

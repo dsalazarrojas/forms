@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Invoice Checklist Form - Help Guide
 ## Purpose
 The Customer Invoice Checklist Form is a form designed to collect important information related to customer invoices. The form is meant to be filled out by customers to provide accurate and complete details for their invoices. This form helps ensure that all necessary information is collected in a structured way.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from participants in a gun exchange, which is a process where firearms are exchanged or transferred between individuals. The form is used to gather details about the firearm being exchanged, including its make, model, caliber, and condition. It also captures the reason for the exchange, which is likely for administrative or legal purposes. The form requires participant information, their signature, and date of signature. This form is likely used in a controlled environment, such as a gun trade or exchange platform, or in law enforcement settings.
-
-Before filling out this form, please ensure that you have a valid reason for exchanging the firearm and that you have the necessary information about the firearm being exchanged.
-
-</thinking>
-
 # Gun Exchange Lifecycle Change Form - Help Guide
 ## Purpose
 This form is used to collect and document information about a gun exchange between two parties, including the firearm's details and participant information.

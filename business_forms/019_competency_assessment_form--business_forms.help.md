@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Competency Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess an employee's competencies and identify areas for development. It helps managers evaluate an employee's technical skills, communication, teamwork, problem-solving, leadership, adaptability, time management, customer focus, and overall competency. The assessment results will inform the employee's development plan and help them grow professionally.

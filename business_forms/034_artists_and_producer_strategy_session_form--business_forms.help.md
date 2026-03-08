@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information from artists or bands who are seeking a strategy session with a producer. The purpose of this form is to capture essential details about the artist's project, goals, and preferences for the session. This information will be used by the producer to prepare and deliver an effective and productive session.
-
-Before proceeding, I would like to ensure that this form is relevant and accurate. Please confirm that the fields are correct and necessary for the intended use case.
-
-Form fields and their descriptions should be clear and concise. The producer will use this information to understand the artist's needs and provide the best possible guidance during the session.
-
-</thinking>
-
 # Artists And Producer Strategy Session Form - Help Guide
 ## Purpose
 The Artists And Producer Strategy Session Form is a collection of information about the artist or band seeking a strategy session with a producer. This form helps the producer understand the artist's project, goals, and preferences for the session.

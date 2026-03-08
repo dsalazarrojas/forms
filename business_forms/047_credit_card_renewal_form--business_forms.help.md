@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure the form is used for its intended purpose and minimize errors. This form is for renewing credit card information, so we must make sure users understand what data is required and how to fill it out correctly to avoid mistakes. It seems the form is not explicitly requiring any fields, so we should be cautious about requiring too much information and potentially overwhelming the user.</thinking>
-
 # credit_card_renewal_form - Help Guide
 ## Purpose
 The credit card renewal form is designed to collect and update customer's credit card information. This form is used to replace or modify existing credit card details, ensuring accurate and up-to-date records.

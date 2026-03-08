@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Impact Review Application Form - Help Guide
 
 ## Purpose

@@ -1,20 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from music festival performers about their accommodation needs and preferences. This data will be used by the festival organizers to provide necessary arrangements for the performers. 
-
-To complete this form, follow these steps:
-
-* Fill in your performer name in the "Performer name" field.
-* Enter your email address in the "Email" field.
-* Provide your phone number in the "Phone" field.
-* If you need accommodation, select "Yes" or "No" in the "Accommodation type" field.
-* If you require accommodation, enter the location in the "Accommodation location" field.
-* If you have special requests, such as specific amenities or requirements, enter them in the "Special requests" field.
-* Finally, if you have any specific details about the event, you can provide them in the "Event name" field.
-
-This form is designed to be completed by music festival performers to help the organizers make necessary arrangements for them.
-
-</thinking>
-
 # Music Festival Performer Accommodation Form - Help Guide
 ## Purpose
 This form is used to collect information from music festival performers about their accommodation needs and preferences.

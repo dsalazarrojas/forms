@@ -1,5 +1,3 @@
-<thinking>...This form is likely used for documenting and tracking the inspection process, capturing information about freight shipments, and recording any damages or issues found during the inspection. The form is designed to collect data on multiple aspects of the freight, including general information, damage details, inspection results, and assigned personnel and tools. The form's layout and fields suggest it's intended for use in a logistical or shipping context... </thinking>
-
 # Freight Inspection Checklist Form - Help Guide
 ## Purpose
 This form is designed to document and track the inspection process for freight shipments, capturing key information about the shipment, any damages, and inspection results.

@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly, please take a moment to review the form's purpose and the fields that follow. This form is designed to gather information from team members about their preferences regarding Seint LllD color matching and movement forms. The form is intended to understand whether team members are interested in creating a color matching form for Seint LllD, and whether they are interested in creating a movement form for Seint LllD. Please review each field carefully and answer honestly to provide accurate information.
-</thinking>
-
 # Team Muse Movement Seint LllD Color Match Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers who have experienced overcharging in their interactions with a company or service provider. This form is designed to be a straightforward way for customers to report instances of overcharging and provide details about the incident. It is crucial to fill out this form carefully and completely to ensure that the information is accurate and helpful for the company to address the issue.
-
-Before proceeding, please check if you have already filed a complaint or overcharge report related to this incident. If you have, please do not fill out this form again as it may be treated as a duplicate report.
-
-The information collected through this form will be reviewed and used to investigate the overcharging incident. Please be as detailed as possible in your response to help the company understand the situation better.
-</thinking>
-
 # Overcharge Complaint Form - Help Guide
 ## Purpose
 The Overcharge Complaint Form is a tool for customers to report instances of overcharging in their interactions with a company or service provider.

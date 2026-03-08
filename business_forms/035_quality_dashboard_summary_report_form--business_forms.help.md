@@ -1,9 +1,3 @@
-<thinking>
-The Quality Dashboard Summary Report Form is intended to provide a concise summary of quality metrics and metrics related to issues that have been reported and resolved. This form is part of a larger quality control process, aimed at helping teams and individuals track, analyze, and improve the quality of their work or product. The form's fields cover various aspects of quality, including key performance indicators (KPIs), issue categorization, priority, and status.
-
-This form will be used by individuals who are responsible for quality control, such as QA engineers, product managers, or team leads. It is designed to be filled out on a regular basis, ideally once a week or at the end of a project phase. The form's data will be used to track progress and identify areas for improvement.
-</thinking>
-
 # Quality Dashboard Summary Report Form - Help Guide
 
 ## Purpose

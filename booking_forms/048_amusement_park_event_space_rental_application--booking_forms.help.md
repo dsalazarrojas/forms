@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to guide event planners through the process of requesting event space rental at an amusement park. The form is designed to collect necessary information for event planning purposes, including event details, client contact information, payment and deposit policies, and other relevant details. Before filling out this form, make sure to review the park's event policies and requirements to avoid any potential issues with event planning.
-
-This form has multiple sections, each with its own set of questions and options. The sections are designed to collect information in a logical and organized manner, making it easier for event planners to provide the necessary information.
-
-This form should only be filled out by authorized personnel from the client's organization or company.
-
-</thinking>
-
 # Amusement Park Event Space Rental Application - Help Guide
 ## Purpose
 The Amusement Park Event Space Rental Application form is used to request event space rental at the park. This form collects information necessary for event planning, including event details, client contact information, payment and deposit policies, and other relevant details.

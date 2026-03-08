@@ -1,17 +1,3 @@
-<thinking>
-This is a basic template to be filled out by an expert form designer and technical writer. I will use it to create a user-facing help guide for the form "Story Creation Agreement". The form is for collecting information about a story creation project, and the fields are mostly related to project details, project lead, delivery date, client requirements, and other meta information.
-
-The form purpose is to collect information about the project, such as the project lead, project description, delivery date, client requirements, and other meta information. The form will help the project team to get a clear understanding of the project requirements and to create a story creation agreement with the client.
-
-The form will be used by project team members, client, and other stakeholders to input information about the project, and the project lead will review and validate the input information.
-
-The fields on the form are mostly optional, except for "project_lead" and "submit" which are required. The form will also help to track project progress and to provide feedback to the client.
-
-The form is a critical part of the project process, and it is essential to fill out all the required fields accurately and completely.
-
-Please note that the form fields are mostly self-explanatory, and the help guide will provide additional information to clarify the purpose and usage of each field.
-
-</thinking>
 # Story Creation Agreement - Help Guide
 ## Purpose
 The Story Creation Agreement form is used to collect information about a story creation project. It is essential to fill out the form accurately and completely to ensure that all project requirements are captured and understood by all stakeholders.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture key factors related to external events or factors that affect business operations. It is intended for use by business professionals to record and analyze these external factors. This form is not affiliated with any form platforms, but rather an original adaptation created using AI, and is released under the Creative Commons BY 4.0 license. This form is meant for general use, and users are free to modify and distribute it, as long as they give credit.
-
-</thinking>
-
 # External Factor Record Form - Help Guide
 ## Purpose
 This form is designed to capture and analyze external factors affecting business operations.

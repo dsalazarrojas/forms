@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the Scentsy Action Plan, a process used to track and manage actions taken by consultants within an organization. The form's purpose is to provide a centralized platform for consultants to record their work progress, ensuring accurate and up-to-date information for management and internal stakeholders. This form should only be filled out by authorized consultants, and its completion is not mandatory.
-</thinking>
-
 # Scentsy Action Plan - Help Guide
 ## Purpose
 The Scentsy Action Plan form is a tool for consultants to document and track their actions, providing a single source of truth for project managers and stakeholders to monitor progress and performance.

@@ -1,10 +1,3 @@
-<thinking>
-  This form is designed to collect information about special project proposals from project managers and stakeholders. 
-  It is intended to be used for internal purposes only, and all submitted proposals will be reviewed by the project management team.
-  Please ensure that the submitted proposals do not contain any sensitive or confidential information.
-  Also, make sure that the proposal is not a duplicate, i.e., a project with the same title has not been submitted before.
-</thinking>
-
 # Special Project Proposal Request Form - Help Guide
 
 ## Purpose

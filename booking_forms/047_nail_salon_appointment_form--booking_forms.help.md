@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Salon Appointment Form - Help Guide
 ## Purpose
 The "Nail Salon Appointment Form" is designed to help customers schedule and customize their appointments at a nail salon. This form collects essential information from customers to ensure they receive the best service during their visit.

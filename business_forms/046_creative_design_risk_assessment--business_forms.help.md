@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to identify, assess, and mitigate potential risks associated with creative design projects. It's crucial to evaluate risks to ensure the project's success and make informed decisions. This form is used to document and prioritize risks based on their likelihood and impact. The form should be filled out for every creative design project to provide a comprehensive risk assessment.
-</thinking>
-
 # creative_design_risk_assessment - Help Guide
 ## Purpose
 The purpose of this form is to identify, assess, and document potential risks associated with creative design projects. By filling out this form, you can ensure that every project team member has a clear understanding of the possible risks and can work together to mitigate them.

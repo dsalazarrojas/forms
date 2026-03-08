@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Development Checklist Form - Help Guide
 ## Purpose
 This form is a tool to assess and track the progress of community development projects. It helps project leads and managers evaluate and document the key milestones, challenges, and outcomes of their projects.

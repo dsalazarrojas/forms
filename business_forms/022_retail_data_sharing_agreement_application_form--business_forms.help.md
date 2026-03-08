@@ -1,7 +1,3 @@
-<thinking>
-This form is used by retail partners to submit their data sharing agreement applications to the company. The form helps partners to provide essential information about themselves, the purpose of data sharing, and their consent for data sharing. It is used to ensure that partners understand their responsibilities and the agreement terms before data sharing can take place. This form should only be filled out by authorized retail partners and should not be filled out by anyone else.
-</thinking>
-
 # Retail Data Sharing Agreement Application Form - Help Guide
 ## Purpose
 The Retail Data Sharing Agreement Application Form is used to submit an application for data sharing between retail partners and the company. It ensures that both parties understand their responsibilities and the terms of the agreement before data sharing takes place.

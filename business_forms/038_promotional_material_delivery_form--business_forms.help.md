@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about promotional material delivery details. It's likely used in a business context where employees or team members need to report the details of promotional materials (e.g., brochures, leaflets, or digital content) that have been delivered to customers or partners. The purpose of this form is to provide a structured way to track and document the delivery of promotional materials, ensuring consistency and accuracy in recording this information. Before completing this form, please ensure that you are familiar with the standard procedures for promotional material delivery in your company, and that the data entered is accurate and up-to-date. To prevent duplication of effort, review the form carefully to ensure that the data you enter is not already recorded elsewhere.
-</thinking>
-
 # promotional_material_delivery_form - Help Guide
 ## Purpose
 The promotional_material_delivery_form is designed to collect and document the details of promotional materials delivered to customers or partners.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Color Street Party Order Form TAB - Help Guide
 ## Purpose
 This form is used to collect information from hosts and their guests about a Color Street party order. It captures details such as party dates, guest names and email addresses, sets ordered from stock and to be ordered, and payment information.

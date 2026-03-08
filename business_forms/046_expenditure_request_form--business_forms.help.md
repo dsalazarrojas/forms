@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help business stakeholders request expenditures that require approval. It is meant to be used by employees or managers who need to request funds for business-related expenses. The form is designed to be straightforward, allowing users to easily provide necessary information. Please note that each field is optional, but it is recommended to fill in all relevant fields for a complete and accurate request. Before proceeding, please ensure that you are not duplicating an existing request or that the purpose of the expenditure is not already accounted for in your department's budget.
-</thinking>
-
 # Expenditure Request Form - Help Guide
 ## Purpose
 The Expenditure Request Form is a tool used to submit requests for business-related expenditures that require approval from management.

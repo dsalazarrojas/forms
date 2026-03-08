@@ -1,13 +1,3 @@
-<thinking>
-The Logo Design Brief Form is a tool for designers and stakeholders to collaborate on logo design projects. It captures essential information to ensure the logo design meets the client's requirements and expectations. This form is typically used during the initial stages of a logo design project, and its completion will help guide the design process, ensuring that the final logo meets the client's needs.
-
-Please note that the form is not a design tool, but rather a document that outlines the project's requirements. Designers will use this form to get an idea of what the client is looking for and to start the design process with a clear understanding of the client's expectations.
-
-This form is part of the larger [project management system](link) used to manage all aspects of the project lifecycle. 
-
-To avoid duplication, please ensure that the form is only filled out once for each logo design project.
-</thinking>
-
 # Logo Design Brief Form - Help Guide
 ## Purpose
 The Logo Design Brief Form is a tool for designers and stakeholders to collaborate on logo design projects. It captures essential information to ensure the logo design meets the client's requirements and expectations.

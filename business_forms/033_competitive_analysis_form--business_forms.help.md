@@ -1,5 +1,3 @@
-<thinking>Let's create a user-facing help guide for the Competitive Analysis Form, making sure the purpose, completion process, and field explanations are clear and concise for end users.</thinking>
-
 # Competitive Analysis Form - Help Guide
 ## Purpose
 The Competitive Analysis Form is designed to gather essential data about competitors in the market. This form helps in understanding the company's competitive profile, including their target audience, revenue range, core competitive advantage, distribution channels, recent news or strategic moves, pricing model, website and social media presence, and a brief SWOT analysis summary. By completing this form, you can gain valuable insights into competitors' strengths, weaknesses, opportunities, and threats.

@@ -1,5 +1,3 @@
-<thinking>Before you begin, please note that this form is intended for deck construction measurement, which is a crucial process in the building industry. This form is used to capture information about a specific site, including its details, dimensions, material preferences, and other relevant features. Ensure that you provide accurate and complete information to help us better understand your project needs.</thinking>
-
 # Deck Construction Measurement Form - Help Guide
 
 ## Purpose

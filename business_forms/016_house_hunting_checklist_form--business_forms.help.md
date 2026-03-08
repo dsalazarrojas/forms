@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # house-hunting-checklist-form - Help Guide
 
 ## Purpose

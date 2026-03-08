@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect quality metrics data from users for internal business purposes. The form is used to gather specific data points related to business metrics. Please ensure that you are filling out this form for the correct purpose and that you are not duplicating efforts by filling out this form if you have already done so in the past.
-</thinking>
-
 # Quality Metrics Report Request Form - Help Guide
 ## Purpose
 This form is designed to collect quality metrics data from users for internal business purposes.

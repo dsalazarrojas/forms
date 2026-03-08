@@ -1,8 +1,3 @@
-<thinking>
-This guide will cover the "dj_booking_form" form, which is used to collect information for DJ bookings. Before proceeding, ensure that the form is relevant to your specific use case. Check that the form's purpose and layout align with your needs. 
-This form is not affiliated with, endorsed by, or derived from any form platform. It was created using public survey topic metadata and is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it, just give credit.
-</thinking>
-
 # dj_booking_form - Help Guide
 
 ## Purpose

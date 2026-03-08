@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess an organization's commitment to corporate social responsibility (CSR). Before proceeding, please ensure that you have the necessary data and permissions to complete the form accurately. Note that this form is intended to be filled out by the organization itself, rather than by external parties. Duplicate or inaccurate responses may lead to errors in the evaluation process.
-
-</thinking>
-
 # Corporate Social Responsibility Audit Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your organization's commitment to corporate social responsibility (CSR). This form helps to evaluate your company's CSR practices and identify areas for improvement.

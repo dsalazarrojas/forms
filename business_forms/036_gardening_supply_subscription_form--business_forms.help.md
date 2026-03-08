@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for gardening supply subscriptions. The form has multiple sections and fields that cater to different aspects of the subscription, including delivery details, subscription type, frequency, and payment methods. The form is used to create, manage, and update customer subscriptions.
-
-The purpose of this form is to ensure accurate and consistent subscription data for the gardening supply business. It is not designed to be used for other purposes, such as sales or marketing. The following help guide will walk you through the process of filling out this form.
-
-</thinking>
-
 # Gardening Supply Subscription Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for gardening supply subscriptions.

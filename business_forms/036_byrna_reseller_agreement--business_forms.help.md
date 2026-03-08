@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from resellers, typically businesses or individuals who will be selling Byrna products on their own channels. This form helps Byrna to verify the identity and legitimacy of potential resellers, which is crucial for building strong relationships and ensuring compliance with local laws and regulations.
-To avoid duplicate submissions, please do not submit this form if you have already been approved as a reseller by Byrna in the past. If you have any questions or concerns, please reach out to us directly.
-</thinking>
-
 # Byrna Reseller Agreement - Help Guide
 ## Purpose
 The Byrna Reseller Agreement is used to collect information from resellers who wish to sell Byrna products on their own channels. This guide will walk you through each field and provide a better understanding of the required fields and the purpose of the form.

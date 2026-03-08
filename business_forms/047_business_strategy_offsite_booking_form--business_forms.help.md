@@ -1,6 +1,3 @@
-<thinking>
-We're creating a guide to help users understand the Business Strategy Offsite Booking Form. This form is used to plan and book offsite events for business strategy sessions. The form captures essential information about the offsite, including organizer details, offsite specifics, venue requirements, offsite objectives, activities, and special requests. This guide will walk users through each section of the form, explaining what to expect and how to complete it accurately.</thinking>
-
 # Business Strategy Offsite Booking Form - Help Guide
 ## Purpose
 The Business Strategy Offsite Booking Form is a tool used to plan and book offsite events for business strategy sessions. It helps organizers gather all the necessary information to make informed decisions about the offsite, including venue requirements, objectives, activities, and special requests.

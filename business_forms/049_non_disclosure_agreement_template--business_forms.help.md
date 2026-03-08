@@ -1,7 +1,3 @@
-<thinking>
-This form is for generating a Non-Disclosure Agreement (NDA) template. The purpose of an NDA is to create a contract between two parties where one party (the "Assigner") discloses confidential information to the other party (the "Assignee"), and the Assignee agrees not to share or disclose such confidential information. This form is designed to be completed by the Assigner to outline the terms of the agreement with the Assignee. The goal is to provide a clear understanding of the confidentiality agreement between the two parties.
-</thinking>
-
 # Non Disclosure Agreement Template - Help Guide
 
 ## Purpose

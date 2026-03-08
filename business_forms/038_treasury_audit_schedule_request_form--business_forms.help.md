@@ -1,10 +1,3 @@
-<thinking>
-This guide aims to provide a clear and concise explanation of the Treasury Audit Schedule Request Form to ensure that users understand its purpose, how to complete it, and the meaning of each field. This form is part of a larger system, and its completion is critical to ensure that audit requests are properly scheduled and followed up.
-
-Before diving into the detailed explanation, let's quickly review the form's purpose: this form is used to request a treasury audit, providing essential information to schedule and complete the audit process. It's essential to ensure that all required fields are completed correctly to avoid duplication and ensure a smooth audit process. If you're not sure about a particular field or have questions, please review this guide carefully.
-
-</thinking>
-
 # Treasury Audit Schedule Request Form - Help Guide
 ## Purpose
 The Treasury Audit Schedule Request Form is designed to facilitate the process of requesting a treasury audit. Completing this form ensures that all necessary information is provided to schedule and complete the audit efficiently.

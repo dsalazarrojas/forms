@@ -1,6 +1,4 @@
-> <thinking>... To ensure that the Termination For Cause Contract Form is used correctly and accurately, we must consider the purpose of the form and check for redundancy or duplication of information. This form is intended to document the process of terminating a contract due to a specific reason. It should not be used for other purposes, and all relevant information must be provided in the required fields to facilitate efficient and transparent termination processes. If you have any doubts or concerns, please review the form carefully before proceeding. ...</thinking>
-
-# Termination For Cause Contract Form - Help Guide
+> # Termination For Cause Contract Form - Help Guide
 ## Purpose
 The Termination For Cause Contract Form is used to document the termination of a contract due to a specific reason. This form is essential for ensuring a smooth and transparent termination process.
 

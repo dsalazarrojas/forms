@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess potential money laundering risks associated with a business or account. The form is designed to capture context and information about the entity being assessed, including its name, assessment date, risk factors, and other relevant details.
-The form is intended to be completed by financial institutions or other organizations that need to evaluate and identify potential money laundering risks. The form is not designed for general public use.
-To ensure accurate and reliable risk assessments, please review the form carefully and only complete it with relevant and accurate information.
-Please note that some fields are required and cannot be left blank.
-</thinking>
-
 # Anti Money Laundering Risk Assessment Form - Help Guide
 ## Purpose
 The Anti Money Laundering Risk Assessment Form is used to identify and assess potential money laundering risks associated with a business or account.

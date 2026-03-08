@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to provide end-users with a clear understanding of the purpose and requirements of the Uniform Allocation Record Form. Before proceeding, please ensure this form is relevant to your specific use case and has not been created in error. The form is designed to collect data related to equipment allocation, specifically for uniform items. It serves as a centralized repository for tracking uniforms issued to employees, their quantities, and related information such as the date issued, item type, and status of the uniform. The form's primary function is to support efficient inventory management and tracking of uniforms, ensuring that the right uniforms are allocated to the correct individuals and that the stock levels are accurately represented.
-</thinking>
-
 # Uniform Allocation Record Form - Help Guide
 ## Purpose
 The Uniform Allocation Record Form is designed to track uniform items issued to employees within the organization. It allows for the accurate tracking of uniform quantities, issue dates, and status updates.

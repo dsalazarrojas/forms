@@ -1,30 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Night Shift Task Audit Form, I'll first need to understand the form's purpose and the fields it contains. Based on the provided YAML, the form seems to be used for auditing night shift tasks, likely to identify and document any incidents that occurred during that time period. The form has multiple fields for various aspects of the incident, including activities, incidents, supervisor reviews, dates, and comments.
-
-The form has 18 fields, which can be grouped into several sections:
-
-*   **Incident Details**: This section likely contains information about the incident, such as whether it was reported, investigated, or reviewed. The fields in this section are:
-    *   **incidents**: A select one field with options "no incident", "incident reported", "incident investigation", and "incident review".
-    *   **incident_description**: A text field for providing a description of the incident.
-    *   **incident_cause**: A text field for explaining the cause of the incident.
-    *   **incident_action_taken**: A text field for documenting the action taken as a result of the incident.
-    *   **incident_outcome**: A text field for describing the outcome of the incident.
-*   **Timing**: This section likely contains information about the dates and times of the incident, such as when it occurred and when it was reviewed. The fields in this section are:
-    *   **date_and_time_of_incident**: A date field for providing the date and time of the incident.
-    *   **date_and_time_of_audit**: A date field for providing the date and time of the audit.
-    *   **date_and_time_of_review**: A date field for providing the date and time of the review.
-*   **Supervisor Comments and Approval**: This section likely contains comments and approval from supervisors. The fields in this section are:
-    *   **supervisor_comments**: A text field for comments from the supervisor.
-    *   **supervisor_action_taken**: A text field for the action taken by the supervisor.
-    *   **supervisor_comments_2**: A text field for additional comments from the supervisor.
-    *   **supervisor_approval**: A select one field with options "Yes" and "No".
-    *   **supervisor_comments_3**: A text field for final comments from the supervisor.
-    *   **supervisor_action_taken_2**: A text field for the second action taken by the supervisor.
-
-Please note that some of the field labels may not be clear or concise. The field labels should be reviewed and updated to better reflect their purpose.
-
-</thinking>
-
 # Night Shift Task Audit Form - Help Guide
 ## Purpose
 The Night Shift Task Audit Form is used to document and audit night shift tasks, identifying any incidents that occurred during that time period.

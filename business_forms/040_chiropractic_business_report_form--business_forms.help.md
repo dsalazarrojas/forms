@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect business data from chiropractic practices. The purpose of this form is to gather information about a specific period of time (defined by "Reporting Period Start" and "Reporting Period End") to provide a snapshot of the practice's financial performance and operational challenges. This form is intended to be filled out by chiropractic business owners or administrators to keep track of their practice's progress. 
-
-</thinking>
-
 # Chiropractic Business Report Form - Help Guide
 
 ## Purpose

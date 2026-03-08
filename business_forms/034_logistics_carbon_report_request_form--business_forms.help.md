@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request a logistics carbon report. It is likely used by customers or partners to request information about their carbon footprint from a logistics company. The form is not intended for internal use within the company. It is possible that the form is used by customers to provide information about themselves so that the logistics company can generate a report about their carbon emissions. However, without more information about the company's policies and practices, it is difficult to say with certainty. It is likely that this form is used to gather information about a specific customer or shipment, and the report will provide details about the carbon emissions associated with that customer or shipment. It would be good to review the company's documentation or speak with the person who created the form to confirm the purpose and usage of this form.
-
-Please note that the form is not intended to be completed by employees of the logistics company. 
-
-</thinking>
-
 # logistics_carbon_report_request_form - Help Guide
 ## Purpose
 The logistics_carbon_report_request_form is used to request a logistics carbon report from the logistics company. This report will provide information about the carbon emissions associated with a specific customer or shipment.

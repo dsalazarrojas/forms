@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information and messages from clients or customers of a restaurant. This form is intended to be a simple and straightforward way to gather relevant details such as name, email, phone number, and message. The form is not designed for in-depth or complex data collection, but rather for casual, one-off interactions. It is possible that this form may not be necessary for every interaction with a customer, but it can be useful as a quick reference or follow-up tool for staff. 
-
-Please verify that this form is not being used in conjunction with other contact forms to avoid duplication of information.
-
-</thinking>
-
 # restaurant_contact_form - Help Guide
 ## Purpose
 The restaurant contact form is designed to collect contact information and messages from clients or customers of a restaurant. It is a simple form intended for casual, one-off interactions.

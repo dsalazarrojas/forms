@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by businesses to create and manage distribution and promotion agreements. The form is intended to be used by business owners or representatives to create a formal agreement with a partner or third party. The purpose of this form is to outline the terms and conditions of the distribution and promotion agreement, including the type of agreement and the term duration. 
-
-This form is not intended to be used for general business operations or internal purposes, such as creating a contract for a client or employee. 
-
-Before starting to fill out this form, ensure that you have reviewed and understood the necessary information to be provided and that the form is being used correctly. 
-
-</thinking>
-
 # Distribution And Promotion Agreement Form - Help Guide
 ## Purpose
 This form is used by businesses to create and manage distribution and promotion agreements with partners or third parties.

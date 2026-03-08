@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Supplier Review Request Form - Help Guide
 ## Purpose
 

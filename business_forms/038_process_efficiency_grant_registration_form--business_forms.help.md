@@ -1,11 +1,3 @@
-<thinking>
-This form is a user-facing help guide for the "Process Efficiency Grant Registration Form" in the "business_forms" category.
-The form is intended to collect information from users registering for a process efficiency grant.
-The purpose of the form is to gather relevant details from registrants, including their personal and business information.
-This form is not meant to be a comprehensive or exhaustive application, but rather a quick registration process.
-To prevent duplication, users can only register once for a grant.
-</thinking>
-
 # Process Efficiency Grant Registration Form - Help Guide
 ## Purpose
 The Process Efficiency Grant Registration Form is used to register for a process efficiency grant. It helps the system administrators track the registration process and ensure that users do not register multiple times.

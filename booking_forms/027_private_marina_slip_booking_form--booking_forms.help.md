@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Private Marina Slip Booking Form - Help Guide
 
 ## Purpose

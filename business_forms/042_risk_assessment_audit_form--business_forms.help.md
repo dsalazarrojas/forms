@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a risk assessment audit form, a tool used to identify and evaluate potential risks within a business or organization. The purpose of this form is to gather information on risks that may impact the business or organization, assess their likelihood and potential impact, and determine the level of risk tolerance.
-
-To ensure that this form is used effectively, it's essential to understand its purpose and the context in which it's being used. Please take a moment to review the form's title, "risk_assessment_audit_form", and the category, "business_forms". If you're unsure about the form's relevance or have completed it previously, please confirm that this is the correct form for your current needs.
-
-</thinking>
-
 # risk_assessment_audit_form - Help Guide
 ## Purpose
 The risk assessment audit form is a tool used to identify and evaluate potential risks within a business or organization. It helps to gather information on risks that may impact the business or organization, assess their likelihood and potential impact, and determine the level of risk tolerance.

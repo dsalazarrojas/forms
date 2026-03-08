@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from attendees for a trade show. The form will be used to collect essential details about the attendee, including their name, email, phone number, and other relevant contact information. The form also requests information about the trade show itself, such as the name, date, time, and location. This form is a critical part of the event management process, and it's essential to complete it accurately for the smooth registration and planning of the trade show. Please ensure you are completing this form for a relevant trade show and not duplicating efforts. If you're unsure about the purpose of this form or have questions, feel free to reach out to the event organizers.
-</thinking>
 # Trade Show Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from trade show attendees for registration and event management purposes.

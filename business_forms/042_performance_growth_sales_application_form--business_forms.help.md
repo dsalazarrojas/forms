@@ -1,7 +1,3 @@
-<thinking>
-This help guide will be tailored to the provided form schema. I will ensure that the explanations are concrete, concise, and practical. I will also try to explain field labels and intent in a way that is based on the provided schema without inventing unsupported business logic.
-</thinking>
-
 # Performance Growth Sales Application Form - Help Guide
 ## Purpose
 The Performance Growth Sales Application Form is designed to collect sales performance data for a specific sales period. This form gathers information on sales applicants, contact details, sales performance, and other relevant data.

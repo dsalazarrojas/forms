@@ -1,9 +1,3 @@
-<thinking>... 
-
-This form is designed to help individuals who have been pierced or are interested in getting pierced submit requests for services related to piercings. The form is intended for internal use by the organization, and it's used to collect information about the piercings requested. The form fields should be filled out only once for each unique piercing request. If a user has already submitted a request for a piercing, they should not submit another one. This guide will walk you through each field of the form and explain what it's for. ...
-
-</thinking>
-
 # piercing_request_form - Help Guide
 ## Purpose
 The piercing_request_form is used to collect information from individuals who have been pierced or are interested in getting pierced to submit their piercing requests.

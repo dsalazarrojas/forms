@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect building project information from applicants, which will be reviewed by the building inspector to determine building approval. This form aims to gather essential details such as project name, location, scope, estimated cost, applicant information, contractor details, design and plans submission, and project timeline. The form is used by applicants to provide necessary documentation and information for the inspection and approval process. Please ensure that all fields marked as required are filled accurately and completely before submitting the form. 
-</thinking>
-
 # Building Approval Form - Help Guide
 ## Purpose
 The Building Approval Form is a document used to collect project details for building inspections and approval.

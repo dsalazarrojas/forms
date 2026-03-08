@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the referral process for sustainability consultants to work with businesses on sustainability-related projects. It is expected that the consultant will be assigned to work with the business and will be given specific tools to aid in their work. The form should not be used for non-relevant purposes or to refer a consultant for the same project multiple times. Please ensure that each field is filled in as relevant and accurately before submitting the form.
-</thinking>
-
 # Sustainability Consultant Referral Form - Help Guide
 ## Purpose
 The Sustainability Consultant Referral Form is used to refer a sustainability consultant to work with a business on a specific project. This form collects the required information for the referral process and helps in assigning the correct consultant for the project.

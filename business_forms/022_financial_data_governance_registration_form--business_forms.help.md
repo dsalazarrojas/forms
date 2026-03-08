@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register financial data governance for a user-provided asset. It's essential for the user to fill out this form accurately and consistently to avoid duplication of records. Please make sure to fill in all required fields and follow the guidelines below.
-</thinking>
-
 # Financial Data Governance Registration Form - Help Guide
 ## Purpose
 

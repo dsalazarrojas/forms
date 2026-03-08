@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic form for collecting information from companies, likely for trade finance or business-related purposes. The fields include a mix of general information such as company name, address, and contact person, with a specific field for email. This form does not seem to have any complex logic or conditional fields. Given this, I will assume that this form is for collecting standard company details. I will create a help guide that assumes this is the case.
-</thinking>
-
 # Trade Finance Inquiry Form - Help Guide
 ## Purpose
 

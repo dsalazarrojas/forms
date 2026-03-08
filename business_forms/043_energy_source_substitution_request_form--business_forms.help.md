@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Energy Source Substitution Request Form", we need to first understand the purpose of this form. The form is designed to gather information about energy source substitution requests from customers. This form likely exists to facilitate the process of handling and managing such requests efficiently. However, the exact internal logic and rules for filling out this form are not explicitly specified in the YAML provided. Assuming the form is part of a business process, let's create a general help guide based on the available information.
 
 </thinking>

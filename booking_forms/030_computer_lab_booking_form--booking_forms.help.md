@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used by users to book a computer lab space and resources.
-It is crucial to ensure that the form is not used to book the same time slot or date, to prevent conflicts and miscommunication. To achieve this, please verify that the booking details you are inputting are not already present in the internal booking list before proceeding.
-</thinking>
-
 # Computer Lab Booking Form - Help Guide
 ## Purpose
 The Computer Lab Booking Form is designed to reserve computer lab space and resources for users. This form is used to gather essential information to ensure proper allocation of lab space and resources during the requested time slot.

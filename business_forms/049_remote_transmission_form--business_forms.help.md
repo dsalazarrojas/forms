@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Transmission Form - Help Guide
 
 ## Purpose

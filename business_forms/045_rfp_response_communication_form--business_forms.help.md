@@ -1,5 +1,3 @@
-<thinking>...checking the provided YAML fields... understanding the form purpose and structure... considering the context... </thinking>
-
 # Rfp Response Communication Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help customers understand how to fill out the Credit Card Fee Refund Form accurately and completely. This form is used for processing credit card fee refunds for customers. Please review the form carefully and ensure that all required fields are filled out correctly before submitting. If you are unsure about any part of the form, please contact our support team for assistance.
-</thinking>
-
 # Credit Card Fee Refund Form - Help Guide
 
 ## Purpose

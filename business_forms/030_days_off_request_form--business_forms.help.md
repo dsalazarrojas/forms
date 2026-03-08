@@ -1,13 +1,3 @@
-<thinking>
-This guide is intended for end-users to understand the purpose and usage of the "Days Off Request Form". The form is likely used to record and manage employee requests for taking time off from work. The form is designed to capture relevant details about the request, such as start and end dates, duration, reason, and approval status. The form may be used by HR or personnel departments to track and manage employee time off requests in an organization.
-
-It is worth noting that some fields may be optional, and the specific usage of this form may vary depending on the organization's internal policies and procedures.
-
-The purpose of this guide is to provide clear instructions on how to complete the "Days Off Request Form" and what each field means, to ensure that end-users can accurately and effectively use the form for its intended purpose.
-
-Before proceeding, please review the following help guide.
-</thinking>
-
 # Days Off Request Form - Help Guide
 
 ## Purpose

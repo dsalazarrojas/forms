@@ -1,6 +1,3 @@
-<thinking> 
-This form is for reporting power grid failures, capturing essential details such as the date of the incident, location, and type of failure. The goal is to provide a structured way to document and analyze power grid failures to improve response and recovery efforts. Before proceeding, verify that you are filling out this form for a legitimate power grid failure incident. Please ensure that you have not already submitted this form for the same incident. If you're unsure, please contact your supervisor for clarification.</thinking>
-
 # Power Grid Failure Incident Form - Help Guide
 ## Purpose
 This form is used to report and document power grid failures, providing a standardized structure for capturing essential details to improve response and recovery efforts.

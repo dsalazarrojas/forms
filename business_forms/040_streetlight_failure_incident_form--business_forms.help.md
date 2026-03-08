@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report streetlight failures that need to be documented and addressed by the maintenance team. It is designed to be completed by streetlight maintenance personnel or other authorized personnel. The form is not meant to be completed multiple times for the same incident; if a new failure occurs, a new report will be initiated.
-</thinking>
-
 # Streetlight Failure Incident Form - Help Guide
 ## Purpose
 The Streetlight Failure Incident Form is used to report incidents of streetlights that are not functioning correctly. This form gathers information necessary for the maintenance team to identify the failure and take corrective action.

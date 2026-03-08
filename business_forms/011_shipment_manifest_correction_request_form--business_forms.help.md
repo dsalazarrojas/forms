@@ -1,5 +1,3 @@
-<thinking>Form purpose is to provide a mechanism for submitting corrections to shipment information, enabling users to report discrepancies or changes in shipment details. The form will be used primarily by staff members to identify and address issues with shipment manifests, but other users with relevant access can also submit corrections. Before starting, please ensure you only need to fill out this form for a specific, legitimate reason and not for duplicate submissions. If unsure, please contact relevant personnel to confirm the necessity of the submission.</thinking>
-
 # Shipment Manifest Correction Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form "Treasury Liquidity Status Request Form" is designed to gather information from users about the status of their treasury liquidity needs. This form will likely be used by treasury managers or financial professionals to request updates on the current state of liquidity within a company or organization. This form is not intended for public use and is most likely used internally within the organization to ensure that liquidity levels are adequate to meet financial obligations. It is not a duplicate of any existing form, but a custom adaptation created by AI using only public metadata.
-</thinking>
-
 # Treasury Liquidity Status Request Form - Help Guide
 ## Purpose
 This form is used by treasury managers or financial professionals to request updates on the current state of liquidity within an organization.

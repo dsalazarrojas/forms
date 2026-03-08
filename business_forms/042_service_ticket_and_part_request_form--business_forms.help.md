@@ -1,12 +1,3 @@
-<thinking>
-This form is a tool for requesting service tickets and parts from the team. It allows users to provide information about the service ticket, including the part name, description, priority, due date, customer name, contact number, email, location, service type, and part number. The form is designed to capture all the necessary details to efficiently process and manage service requests.
-
-When filling out this form, please ensure you are filling it out for a legitimate service request and not duplicate a previous request. This form should only be used for new service tickets and part requests.
-
-Please fill out the form accurately and thoroughly, as the information will be used to guide the team in providing the best service possible.
-
-</thinking>
-
 # Service Ticket And Part Request Form - Help Guide
 ## Purpose
 The Service Ticket And Part Request Form is a tool for requesting service tickets and parts from the team. It helps the team to capture and process service requests in a structured and efficient manner.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Purchase Requisition Log - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from entrepreneurs and business owners to create a comprehensive business plan overview. It's a critical step in the process of evaluating and supporting business ideas, especially for incubators, accelerators, and investors. By using this form, you can get a structured and detailed picture of your business model, which can help you clarify your thoughts and goals. To ensure that you're not duplicating effort, please make sure that you've completed any relevant sections of your business plan in other forms, and that this form is used as a supplement to your existing work.
-
-</thinking>
-
 # Business Plan Overview Form - Help Guide
 
 ## Purpose

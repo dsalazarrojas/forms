@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record information about customer visits to a business or organization. It captures details about the customer, the visit, and the interaction with staff. This form is likely used for customer service, feedback, or evaluation purposes. It's essential to fill out this form accurately to ensure that the information is captured correctly and helps in improving customer experience and staff performance.
-</thinking>
-
 # Customer Visit Report Form - Help Guide
 ## Purpose
 The purpose of this form is to record and document customer visits to the organization, ensuring that accurate and consistent information is captured for future reference and improvement purposes.

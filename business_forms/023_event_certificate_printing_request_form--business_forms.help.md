@@ -1,13 +1,3 @@
-<thinking>
-This form is used to request an event certificate, which is a document that confirms an individual's participation in an event. The purpose of this form is to gather information about the event and the delivery details of the certificate. The form is used by administrators to manage the certificate request process. 
-
-This form is used by administrators to process requests for event certificates. 
-
-Please note that the field "delivery_details" is a free text field for the user to describe the delivery requirements.
-
-This form is part of the business process to request event certificates.
-</thinking>
-
 # event_certificate_printing_request_form - Help Guide
 ## Purpose
 This form is used to request an event certificate, which is a document that confirms an individual's participation in an event.

@@ -1,7 +1,3 @@
-<thinking>
-The industrial training coordinator contact form is intended to collect information from users about their training needs and contact preferences. This form is used to gather data that will help in coordinating industrial training programs. It is crucial to complete this form accurately and thoroughly to ensure that your training needs are met. Before starting, please ensure that you have reviewed the form carefully and that your submission is accurate. Please note that the form is designed to be completed once per individual, and duplicate submissions may result in unnecessary work and confusion. If you have already submitted this form, please do not submit it again.
-</thinking>
-
 # industrial_training_coordinator_contact_form - Help Guide
 ## Purpose
 This form is designed to collect contact information and training needs from users to help in coordinating industrial training programs.

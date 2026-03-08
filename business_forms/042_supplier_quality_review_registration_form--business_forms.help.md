@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from suppliers regarding their quality review registration. It ensures that suppliers can register their quality review details, which are crucial for maintaining a high level of quality assurance. It is essential to fill out this form accurately to enable efficient quality review processes. Ensure that the form is filled out once for each supplier and do not reuse any existing registration.
-</thinking>
-
 # supplierQualityReviewRegistrationForm - Help Guide
 ## Purpose
 This form is used to collect quality review registration information from suppliers. It is crucial for maintaining a high level of quality assurance and ensuring that suppliers provide accurate and up-to-date information.

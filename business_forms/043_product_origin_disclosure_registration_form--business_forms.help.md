@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about a product's origin, including its name, contact person, and business details. The form is designed to be completed by businesses who want to register their products and disclose their origin. The purpose of the form is to ensure that all products sold or distributed have a valid origin disclosure.
-</thinking>
-
 # Product Origin Disclosure Registration Form - Help Guide
 ## Purpose
 The Product Origin Disclosure Registration Form is a mandatory form that businesses must fill out to register their products and disclose their origin. This form collects information about the product's name, contact person, business details, and origin, including country, state, zip code, city, and date.

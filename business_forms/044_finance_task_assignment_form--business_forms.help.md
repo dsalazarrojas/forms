@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assign and manage tasks within a finance team. It's designed to capture essential details about tasks, such as names, deadlines, priorities, and team leads. This guide will walk you through each field to ensure you understand what information is being collected and how to fill it out correctly.
-
-Before starting, please review each page and ensure that all required fields are completed, even if they're not marked as required in the form. Some fields are not required but are crucial for proper task management.
-
-Please keep in mind that the following fields might not be directly related to a specific action, but they're necessary for task management. If you're unsure about any field, please ask for clarification before proceeding.</thinking>
-
 # Finance Task Assignment Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for online bookings, likely for events or appointments. The purpose of this form is to gather details such as transportation requirements, pickup locations, dates, and locations for an event or service. It's essential to fill this form accurately to ensure a smooth and efficient booking experience. Please review the form carefully before submitting it. This form is not intended to replace any existing process; it's a new form created for a specific purpose, so if you're unsure about any of the information below, please get in touch with the team for clarification.
-
-</thinking>
-
 # Online Booking Form - Help Guide
 
 ## Purpose

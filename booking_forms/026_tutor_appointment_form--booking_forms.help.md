@@ -1,8 +1,3 @@
-<thinking>
-This form is a booking form for tutors' appointments. It collects information about the appointment date, time period, tutors' availability, student's name, email, phone number, appointment subject, and other relevant details.
-To avoid duplication, this form should not be used for other purposes.
-</thinking>
-
 # Tutor Appointment Form - Help Guide
 ## Purpose
 This form is designed for tutors to book appointments with students. It gathers essential information to facilitate the appointment process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warehouse Sponsorship Inquiry - Help Guide
 
 ## Purpose

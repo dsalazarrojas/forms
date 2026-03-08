@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for registering events in a company. It is meant for end-users to submit their event registration details. 
-
-The form is designed to gather information about the event, such as its name, date, time, location, and organizer. It also collects information about the registrant, including their name, email, phone number, and comments. Additionally, the form allows registrants to select their registration status (e.g., registered, declined, or pending).
-
-The form is designed to be completed by the event registrant. If a registrant is not sure about how to fill out a field, they can refer to this help guide for guidance.
-
-</thinking>
-
 # Event Registration Form - Help Guide
 ## Purpose
 This form is used for registering events. It helps us gather important information about the event and its registrants.

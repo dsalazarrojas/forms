@@ -1,12 +1,3 @@
-<thinking>
-This form is for clients who are interested in applying to work with our corporation. It is intended for those who are looking for guidance and support during the application process. Please do not fill out this form if you have already applied with our corporation in the past.
-
-This form is designed to gather information about the client's business and application details, including their business structure, years in business, estimated annual revenue, and desired service or product. It also includes fields for contact information and verification.
-
-The purpose of this form is to help our corporation assess the client's eligibility and provide a smooth application experience.
-
-</thinking>
-
 # Client Pre Application Form - Help Guide
 ## Purpose
 The Client Pre Application Form is a mandatory form for clients who wish to apply to work with our corporation. It helps us understand their business and application details, allowing us to provide a smooth and guided experience.

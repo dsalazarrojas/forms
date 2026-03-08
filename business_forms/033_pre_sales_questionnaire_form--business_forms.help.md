@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Pre Sales Questionnaire Form" form, we must first understand the purpose and usage of the form. This form appears to be a comprehensive questionnaire used to gather information from businesses about their company details, contact information, preferences, and product-related information.
-
-This form is likely used by sales teams or business development teams to gather information about potential clients or customers before engaging with them. The form is designed to collect a wide range of data, including contact details, company specifics (name, type, size, industry, etc.), product information (interest, pricing, availability, etc.), and other relevant details.
-
-When creating the help guide, we should aim to explain each field in a clear and concise manner, without requiring the reader to have an in-depth understanding of the business logic behind the form.
-
-</thinking>
-
 # Pre Sales Questionnaire Form - Help Guide
 ## Purpose
 The Pre Sales Questionnaire Form is designed to gather information from businesses about their company details, contact information, preferences, and product-related information. This form is used by sales teams or business development teams to understand potential clients or customers better before engaging with them.

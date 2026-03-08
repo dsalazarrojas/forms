@@ -1,7 +1,3 @@
-<thinking>
-Form fields are designed to collect information for the purpose of updating vendor credentials. To be eligible to submit the form, vendors must have a valid Vendor ID associated with the organization. This form is not intended to be used for general inquiries or other purposes. Before proceeding, ensure you have the necessary permissions and authority to update vendor credentials.
-</thinking>
-
 # Vendor Credential Update Request Form - Help Guide
 ## Purpose
 This form is used to update vendor credentials, such as certifications, licenses, and permits, for your organization's vendors. It helps to keep vendor information up-to-date and compliant with relevant regulations.

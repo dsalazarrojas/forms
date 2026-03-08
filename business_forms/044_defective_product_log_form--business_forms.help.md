@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about defective products from customers or within the organization. The purpose of this form is to track and document defects, ensuring that all relevant details are captured and addressed efficiently. This form is likely to be used by the quality control or customer service teams to identify and resolve defects in a timely and effective manner.
-
-Before filling out this form, please ensure that you are using it for its intended purpose and not duplicating information already collected. This form is not meant to be used for other purposes such as general feedback or complaints.
-
-</thinking>
-
 # Defective Product Log Form - Help Guide
 ## Purpose
 This form is designed to collect and document information about defective products to ensure efficient defect identification and resolution.

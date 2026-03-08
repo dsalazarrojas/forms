@@ -1,5 +1,3 @@
-<thinking>...checking for form relevance and non-duplication...</thinking>
-
 # service_quote_request_form - Help Guide
 ## Purpose
 The "service_quote_request_form" is a form used to request quotes for services from a business. It is used to gather information from the customer about their service needs and preferences. This form is designed to help businesses provide accurate quotes for services by collecting relevant details about the customer's requirements.

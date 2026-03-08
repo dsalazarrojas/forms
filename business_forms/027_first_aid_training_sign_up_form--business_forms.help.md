@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First Aid Training Sign Up Form - Help Guide
 
 ## Purpose

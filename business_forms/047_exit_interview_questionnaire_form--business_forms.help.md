@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect feedback and insights from employees who are leaving the company. The purpose of this form is to gather information about the reasons behind their departure, potential areas of improvement, and any suggestions or comments they may have. This data will help the company understand the reasons for employee turnover and identify areas where changes can be made to improve employee satisfaction and retention. Before completing this form, ensure that you have permission to access and share the data. Please note that this form should not be completed in duplicate, and each employee should only submit one response.
-</thinking>
-
 # Exit Interview Questionnaire Form - Help Guide
 
 ## Purpose

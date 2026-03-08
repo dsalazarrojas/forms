@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from HR consulting clients, enabling HR consulting firms to generate quotes for potential services. It is essential to ensure that clients provide accurate and complete information to facilitate efficient processing and quotation generation. 
-To avoid duplication, please ensure that the form is filled out for each distinct client and project. 
-Please note that some fields may not be required but are still necessary for comprehensive quotation generation. 
-</thinking>
-
 # HR Consulting Quotation Form - Help Guide
 
 ## Purpose

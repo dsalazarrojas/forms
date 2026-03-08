@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for customers or users to request custom garments. The form collects personal information, such as name, email, and phone number, as well as specific details about the garment request, including type, color, quantity, and any special instructions. Some fields are also designed to collect more nuanced information, such as selecting options from lists, dates, and times. This form likely serves as an intake form for a business or organization to process and fulfill requests for custom garments. To ensure this form is used effectively, ensure that all required fields are completed and that the selected options are accurate and relevant to the request. It is also a good idea to review the form thoroughly before submitting it to ensure that all necessary information is provided.
-</thinking>
-
 # Custom Garment Request Form Template - Help Guide
 ## Purpose
 This form is designed to help customers or users submit requests for custom garments. It collects personal information and details about the garment request, including type, color, quantity, and any special instructions.

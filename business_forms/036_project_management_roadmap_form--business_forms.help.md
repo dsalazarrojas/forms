@@ -1,11 +1,3 @@
-<thinking>... internal reasoning and checks for duplication and relevance ...
-
-The Project Management Roadmap Form is a comprehensive tool used to gather information about ongoing or future projects within an organization. This form helps project managers and team leaders to document and visualize the key aspects of their projects, including objectives, milestones, risks, timeline, and status.
-
-Before filling out this form, please ensure that you are only filling it out for a project that is currently active or has a planned start date. If a project has already been completed, please do not fill out this form.
-
-The form consists of the following sections:</thinking>
-
 # Project Management Roadmap Form - Help Guide
 ## Purpose
 This form is designed to provide a structured approach to managing and monitoring projects within the organization.

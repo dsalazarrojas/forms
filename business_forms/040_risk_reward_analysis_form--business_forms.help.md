@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a form called "Risk Reward Analysis Form". The form likely aims to collect data on risks and potential rewards associated with certain business decisions or actions. A risk reward analysis is a method used in finance and business to weigh the potential risks and rewards of a particular action or decision, helping to inform and support informed decision-making. It's possible that the form is used within a business or financial context where assessing risks and their corresponding rewards is critical for making sound judgments. To ensure relevance and avoid duplication, it's essential to review any existing forms, guides, or processes within the company that might already cover similar ground.
-</thinking>
-
 # Risk Reward Analysis Form - Help Guide
 ## Purpose
 The Risk Reward Analysis Form is designed to help you assess and document the risks and rewards associated with business decisions or actions. This form guides you in identifying, evaluating, and recording potential risks and their corresponding rewards, which can aid in making informed decisions that balance risk and reward.

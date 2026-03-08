@@ -1,8 +1,3 @@
-<thinking>
-We will create a help guide for the General Meeting Voting Form that clearly explains its purpose, how to complete it, and what each field means to the end user.
-The form is designed to gather feedback from meeting attendees on the agenda items presented during the meeting. Each agenda item is represented by a field where attendees can choose to vote "Yes" or "No" on their support for the item.
-</thinking>
-
 # General Meeting Voting Form - Help Guide
 
 ## Purpose

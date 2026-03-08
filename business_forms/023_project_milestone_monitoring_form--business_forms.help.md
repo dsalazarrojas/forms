@@ -1,7 +1,3 @@
-<thinking>
-This form is used for monitoring project milestone progress. A milestone is a key point in a project's lifecycle, indicating a completion or a significant event. This form should be used by project team members to report on project milestones such as project title, description, deadline, and progress. The form should be completed by anyone involved in the project, including project managers, team leads, and assigned users. The form should only be filled out once a project is created or updated.
-</thinking>
-
 # Project Milestone Monitoring Form - Help Guide
 ## Purpose
 This form is used for monitoring project milestone progress.

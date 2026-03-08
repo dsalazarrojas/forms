@@ -1,13 +1,3 @@
-<thinking>
-
-This guide will help users understand the purpose and completion of the Resort Check In Form. 
-
-The purpose of this form is to collect guest information and room booking details for check-in at the resort. The form will help the resort staff to efficiently process the guest's check-in process. The form is meant to be completed by the guest before arriving at the resort. 
-
-This form will not be used for multiple check-ins at the same time. 
-
-</thinking>
-
 # Resort Check In Form - Help Guide
 
 ## Purpose

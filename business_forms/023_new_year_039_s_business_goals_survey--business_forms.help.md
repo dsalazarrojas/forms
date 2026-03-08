@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information on the company's business goals and objectives for the next year, as well as the processes and strategies in place to achieve them. The goal is to ensure that all stakeholders are informed and aligned with the company's vision and objectives. This form will help the company to set realistic and achievable goals, and to identify potential challenges and risks that need to be addressed. Please fill out this form carefully and thoroughly to provide the required information.
-</thinking>
-
 # New Year's Business Goals Survey - Help Guide
 ## Purpose
 The New Year's Business Goals Survey is a tool used to gather information on the company's business goals and objectives for the next year, and to identify the processes and strategies in place to achieve them.

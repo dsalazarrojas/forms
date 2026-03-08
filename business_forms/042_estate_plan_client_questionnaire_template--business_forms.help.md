@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from clients about their estate planning needs. The form is part of a larger process to create a comprehensive estate plan that covers various aspects of the client's life, including their personal and financial situation. To ensure that the form is completed accurately and effectively, it's essential to understand its purpose and how to fill it out correctly.
-</thinking>
-
 # Estate Plan Client Questionnaire Template - Help Guide
 ## Purpose
 This form is designed to gather essential information about the client's personal and financial situation, which will be used to create a tailored estate plan that meets their unique needs and goals.

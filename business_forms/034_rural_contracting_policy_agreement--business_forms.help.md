@@ -1,7 +1,3 @@
-<thinking>
-This form is a template for capturing essential information related to a rural contracting policy agreement between a client and a contractor. The purpose of this form is to ensure that both parties have a clear understanding of the terms and conditions of the agreement, including the scope of work, agreement period, and dates. The form requires the client and contractor to provide their details, including names, addresses, phone numbers, and emails, as well as signatures and consents. This form is designed to streamline the contracting process, reduce misunderstandings, and promote transparency and accountability.
-</thinking>
-
 # Rural Contracting Policy Agreement - Help Guide
 ## Purpose
 

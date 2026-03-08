@@ -1,12 +1,3 @@
-<thinking>
-This form is used to renew travel agent contracts. The form is used to gather information from travel agents who are interested in renewing their contracts with the company. The form is used to determine if a travel agent wants to renew their contract, and if so, what information they are willing to provide. This form is not used to create new travel agent contracts, but rather to update existing ones. It is expected that the travel agents are already registered with the company and have an existing contract. The form is designed to be simple and easy to use, with minimal required fields. 
-
-The form has several fields, including 'Contract Renewal Form', 'Name', 'Email', 'Phone Number', 'Terms and Conditions', 'Contract Start Date', 'Contract End Date', and 'Renewal Date'. Each field has a specific purpose and is used to gather specific information from the travel agents. 
-
-The main purpose of this form is to gather information from travel agents who are interested in renewing their contracts. The form is not used for other purposes such as creating new contracts or updating other information. 
-
-</thinking>
-
 # Travel Agent Contract Renewal Form - Help Guide
 ## Purpose
 This form is used to determine if a travel agent wants to renew their contract and gather information required for the renewal process.

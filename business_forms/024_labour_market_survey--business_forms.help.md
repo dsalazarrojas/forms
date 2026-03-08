@@ -1,11 +1,3 @@
-<thinking>
-This form is a Labour Market Survey form, used to gather information from individuals or organizations about their experiences and insights on the local employment market. The purpose of this form is to collect data and feedback that can help inform business decisions and policies regarding employment and job market trends. This form will gather information on job seekers, their experiences, and changes in the local employment market. The information gathered from this form will be used to identify areas of improvement and make data-driven decisions.
-
-Before starting, make sure you have all the required information ready to ensure a smooth and accurate completion of the form.
-
-## labour_market_survey - Help Guide
-</thinking>
-
 # labour_market_survey - Help Guide
 
 ## Purpose

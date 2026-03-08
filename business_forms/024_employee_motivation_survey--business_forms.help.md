@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users who will be completing the "Employee Motivation Survey". It's assumed that the users are familiar with the concept of employee motivation and can relate to the questions being asked.
-
-The form is meant to gather information about employee motivation, and the questions cover various aspects of this topic, including recognition, feedback, and opportunities. The form has seven sections, each with a specific question or field that is intended to elicit a response from the end-user.
-
-Before proceeding, please take a moment to review this guide and ensure you understand the purpose of each question and field.
-
-</thinking>
-
 # Employee Motivation Survey - Help Guide
 ## Purpose
 The "Employee Motivation Survey" is a tool used to gather information about employee motivation and identify areas for improvement in the workplace.

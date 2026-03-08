@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cargo Booking Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about cargo shipments, including shipper and consignee details, cargo description, weight, and logistics. It is essential for accurate and efficient cargo handling and tracking.

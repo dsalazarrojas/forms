@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate contact and communication between retailers and the pricing team regarding price adjustments for retail products. It is intended to help retailers provide necessary information about their products and pricing strategies. The form should only be used for official business purposes and not for personal or non-commercial use. To avoid duplication, please ensure that you are using the correct version of the form and providing accurate and up-to-date information.
-</thinking>
-
 # retail_price_adjustment_contact_form - Help Guide
 ## Purpose
 This form is for retailers to contact the pricing team regarding price adjustments for their retail products. It is used to gather information about products, pricing strategies, and any additional comments or supporting documents that may be relevant to the price adjustment.

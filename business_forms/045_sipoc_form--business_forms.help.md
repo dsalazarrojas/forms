@@ -1,12 +1,3 @@
-<thinking>... internal reasoning block to understand the form purpose and context ...
-
-The SIPOC Form is designed to collect information from suppliers about their products or services. The form is meant to be used by business users to gather detailed data about the suppliers, their inputs, processes, outputs, customers, and additional contact information.
-
-This form likely serves as a starting point for further analysis or action by the business users, such as quality control or procurement decisions.
-
-Please ensure this form is filled out for every supplier before proceeding with the purchase order process.
-
-</thinking>
 # SIPOC Form - Help Guide
 
 ## Purpose

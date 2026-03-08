@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Business Insight Accelerator Application Form, I will consider the provided YAML structure and aim to break down the form into a comprehensive and easy-to-follow guide for end-users. The form appears to be a crucial tool for startups and businesses to apply for accelerator programs, which typically provide support, mentorship, and resources to help entrepreneurs and companies grow and succeed.
-
-The form is divided into sections with clear headings, and each field has a specific purpose and requirement status. The form requires a mix of text, select_one, select_multiple, and date fields, indicating a range of information that the user needs to provide.
-
-To ensure that the user understands the form's purpose and relevance, I will create a guide that explains each field's meaning and required status in a clear and concise manner. This guide will be essential for users, especially those without prior experience with similar forms or accelerators.
-
-</thinking>
-
 # Business Insight Accelerator Application Form - Help Guide
 ## Purpose
 The Business Insight Accelerator Application Form is designed to collect essential information from founders and businesses interested in joining an accelerator program. The form is used to assess and evaluate applications for the program, ensuring that the most suitable candidates are selected for the program.

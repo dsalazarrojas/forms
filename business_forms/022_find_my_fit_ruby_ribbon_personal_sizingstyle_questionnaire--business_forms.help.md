@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer information and body measurements for fit purposes. It appears to be designed for individuals in the fashion industry, specifically for measuring and sizing purposes. This form likely helps customers find the perfect fit for their clothing needs. It's essential to ensure that the customer's input is accurate and complete to achieve the best results. Before proceeding, please review the form carefully to avoid duplication of efforts or incorrect measurements.
-</thinking>
-
 # find-my-fit-ruby-ribbon-personal-sizingstyle-questionnaire - Help Guide
 ## Purpose
 The find-my-fit-ruby-ribbon-personal-sizingstyle-questionnaire is a form designed to collect customer information and body measurements for fit purposes. It's essential to provide accurate and complete information to ensure the best results.

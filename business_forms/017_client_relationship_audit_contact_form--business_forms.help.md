@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect data for the client relationship audit process. The goal is to gather details about the client's history, interactions, and potential issues. The audit will help identify areas for improvement and provide a clear understanding of the client's current relationship status. This form should be completed for all clients with active engagements. If a client already exists in the system, please ensure that the most up-to-date information is used to avoid duplication.</thinking>
-
 # Client Relationship Audit Contact Form - Help Guide
 ## Purpose
 This form is used to gather information for the client relationship audit process. The form helps to document client details, identify potential issues, and provide a clear understanding of the client's overall relationship status.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from organizations and individuals about their participation in the Treasury Digitalization Program. This form is used to register organizations and their staff for the program. The purpose of this form is to gather essential details such as organization name, contact information, role, and department, as well as confirm whether they are participating in digitalization programs or not. Please ensure that you are filling this form only once per organization, and if you have already registered your organization, there is no need to fill this form again.
-
-This form consists of the following pages:
-1. Organization: This page collects the name of the organization.
-2. Contact Information: This page collects the contact details of the organization's representative, including their name, email, and phone number.
-3. Representative Details: This page collects additional details about the representative, including their role, manager's name, email, phone number, and address.
-4. Team Details: This page confirms whether the organization is participating in digitalization programs or not and if they have team members to be included in the program.
-5. Submission and Notes: This page collects the submission status and allows users to add any additional notes.
-</thinking>
-
 # Treasury Digitalization Program Registration - Help Guide
 ## Purpose
 The Treasury Digitalization Program Registration form is designed to collect information from organizations and individuals about their participation in the program.

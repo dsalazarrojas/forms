@@ -1,7 +1,3 @@
-<thinking>
-This form is a basic file attachment form designed to collect multiple files from users. It consists of three pages, each with a text field for attaching a file. The form is intended for users to upload files related to a specific topic or theme, and it is assumed that the files will be used for internal purposes only. The form does not require any specific technical expertise, but the user should be able to navigate the form and attach files as prompted.
-</thinking>
-
 # File Attachment Form - Help Guide
 ## Purpose
 The File Attachment Form is a simple form designed to collect multiple files from users. It is meant to be a straightforward and easy-to-use form for uploading files related to a specific topic or theme.

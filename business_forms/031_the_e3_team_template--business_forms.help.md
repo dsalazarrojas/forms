@@ -1,12 +1,3 @@
-<thinking>
-The "the_e3_team_template" form is designed to collect information about the E3 team, which is likely an internal team within an organization. The purpose of this form is to capture data about the team members, their contact details, and other relevant information in a structured and organized manner. This form appears to be a comprehensive template that covers various aspects of team data collection.
-
-Upon reviewing the form structure, it seems that the "the_e3_team_template" form has a mix of text, email, phone, date, time, and select fields. The form can be used to collect information about team members, such as their first and last names, contact details (email and phone), and a note for any additional comments. The form also includes fields for categorization (category), selection of multiple options (select_multiple), single selection (select_one), and date and time ranges (date_range and time_range). The form appears to be designed to be completed by team members or users within the organization.
-
-To ensure that the form is completed correctly, it's essential to understand the purpose and requirements of each field.
-
-</thinking>
-
 # the_e3_team_template - Help Guide
 ## Purpose
 The "the_e3_team_template" form is designed to collect comprehensive information about the E3 team, including their contact details, categorization, and other relevant data.

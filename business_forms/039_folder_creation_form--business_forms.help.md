@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a new folder. To ensure you're in the correct context, please confirm that you're creating a folder within a project management system. This form is not intended for other purposes, such as updating existing folders or searching for folders. To avoid duplication of effort, please ensure that you've read and followed these instructions carefully.
-</thinking>
-
 # Folder Creation Form - Help Guide
 ## Purpose
 This form is used to create a new folder within our project management system. You can use this form to create a folder for storing and organizing related project files, documents, and other resources.

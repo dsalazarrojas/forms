@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # media-training-reimbursement-request-form - Help Guide
 
 ## Purpose

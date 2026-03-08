@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information about a business agreement, including its details, dates, terms, and signed status. The purpose of this form is to ensure accurate and comprehensive documentation of agreements, facilitating clear communication and record-keeping within the organization. Before proceeding, please ensure that this form is not duplicating an existing process or form, and that the submitted information is accurate and up-to-date.
-
-Please note that this form is an original adaptation of publicly available survey topics and metadata, and is not affiliated with or endorsed by any specific form creation or survey platform. This form is released under a Creative Commons BY 4.0 license, allowing users to freely use, modify, and even sell derived forms, provided proper credit is given.
-
-</thinking>
-
 # fod_clarity_agreement_signing - Help Guide
 ## Purpose
 The fod_clarity_agreement_signing form is designed to collect detailed information about business agreements, ensuring accurate documentation and record-keeping. This form captures data on agreement details, dates, terms, and signed status, facilitating clear communication and organization-wide visibility.

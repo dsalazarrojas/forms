@@ -1,12 +1,3 @@
-<thinking>
-To create this form, I'll follow the provided instruction and structure. This form seems to be designed for verifying franchise agreements, which is a specific type of business form. The purpose of this form is to collect information about the franchise agreement, including the agreement type, start and end dates, owner's details, and uploaded documents. It appears that the form is meant for internal use within a company or organization that deals with franchises.
-
-The form has multiple fields, including select multiple fields for agreement type, document types, and text fields for various information such as franchise owner name, address, and uploaded documents.
-
-To complete this form, follow the instructions below.
-
-</thinking>
-
 # Franchise Agreement Verification Form - Help Guide
 ## Purpose
 This form is designed for verifying franchise agreements for internal use within a company or organization that deals with franchises.

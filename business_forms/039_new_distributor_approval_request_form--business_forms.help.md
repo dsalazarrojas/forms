@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "new_distributor_approval_request_form" in a way that ensures end-users understand the form's purpose, how to complete it, and what each field means.
-
-The form is designed for distributor approval, where a user can request approval for their product to be sold on the platform. To confirm relevance, the form's purpose should align with the following:
-
-*   The form should be used for requesting approval of new products to be sold on the platform.
-*   The form should not be used for other purposes, such as creating new user accounts or managing existing accounts.
-
-The form does not have any duplication concerns as it is a one-time request form.
-
-</thinking>
-
 # new_distributor_approval_request_form - Help Guide
 ## Purpose
 The new_distributor_approval_request_form is designed for distributor approval, allowing you to request approval for your product to be sold on the platform.

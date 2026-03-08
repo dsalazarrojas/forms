@@ -1,10 +1,3 @@
-<thinking>
-This form is used for users to submit marketing expenses that will be reviewed and approved by the marketing department. 
-The purpose of this form is to gather information about marketing expenses, including budget, category, expense type, and date of the expense. 
-This form will help the marketing department to track and monitor marketing expenses efficiently. 
-Please ensure that you are only submitting valid and accurate information. 
-</thinking>
-
 # marketing_budget_expense_submission_form - Help Guide
 ## Purpose
 The purpose of this form is to enable users to submit marketing expenses for review and approval by the marketing department.

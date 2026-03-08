@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory Check Communication Form - Help Guide
 ## Purpose
 The Inventory Check Communication Form is designed to facilitate communication between stock management teams and other relevant parties about the inventory level and stock management status. This form helps ensure that all parties are informed and on the same page regarding inventory levels, stock management, and any communication needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for booking a rural regeneration residency, a type of artistic residency program for rural areas. The form is designed to gather information from submitters (artists) to book a residency project in a rural area. The form is used by submitters to provide details about their project, including dates, project details, artist information, and submission preferences. This form should not be used for other purposes, and it's essential to fill it out completely and accurately to ensure a successful booking process.
-</thinking>
-
 # rural_regeneration_residency_booking_form - Help Guide
 ## Purpose
 This form is used to book a rural regeneration residency project. Please fill out the form completely and accurately to ensure a successful booking process.

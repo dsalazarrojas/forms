@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the "Whole Chicken Order Form" is to collect information from customers who wish to purchase whole chickens from your business. This form is used to gather details such as customer contact information, delivery preferences, and order specifics. Before proceeding, consider if you already have a similar form in your database, as this form is intended for new or updated customer orders.
-
-</thinking>
-
 # Whole Chicken Order Form - Help Guide
 ## Purpose
 The Whole Chicken Order Form is used to collect information from customers for their whole chicken orders.

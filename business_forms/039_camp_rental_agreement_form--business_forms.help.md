@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from renters to facilitate camp rentals. The form is used to gather essential details such as renter contact information, event and facility details, terms and conditions, and rental fees. The purpose of this form is to ensure that the rental process is smooth and that all parties involved are clear on their responsibilities. This form may be used internally for approval purposes and externally for communication with renters.
-
-</thinking>
-
 # Camp Rental Agreement Form - Help Guide
 ## Purpose
 The Camp Rental Agreement Form is a crucial tool for camp rentals. It allows renters to provide essential information about themselves and their event, while also ensuring that they understand their responsibilities and obligations during the rental period.

@@ -1,7 +1,3 @@
-<thinking>
-This form will likely be used in a business context, such as a construction or real estate setting, to gather information about a roof's characteristics and features. It seems to be designed to collect various types of data about the roof, including its type, height, area, slope, pitch, features, and contact information. However, to confirm the form's purpose and ensure relevance and non-duplication, it would be essential to review the project's goals and objectives and verify that this form aligns with those goals.
-</thinking>
-
 # Roof Check - Help Guide
 ## Purpose
 This form is designed to collect detailed information about a roof, including its characteristics and features. It will likely be used by professionals in the construction or real estate industry to assess and document roof properties.

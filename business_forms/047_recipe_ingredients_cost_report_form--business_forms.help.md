@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for business users to report on the costs associated with specific ingredients in a recipe. The purpose of the form is to gather essential information on the cost of ingredients, which can be used for financial reporting, cost management, or other related business purposes.
-The form is designed to be straightforward and easy to complete, with clear labels and minimal options. However, it's essential to ensure that the user understands each field's purpose and requirements to avoid errors or missed information.
-This form is likely used in a business setting, possibly in the food industry or related sectors where recipe costs are a significant factor in financial operations.
-</thinking>
-
 # Recipe Ingredients Cost Report Form - Help Guide
 ## Purpose
 The Recipe Ingredients Cost Report Form is used to report on the costs associated with specific ingredients in a recipe. This information can be used for financial reporting, cost management, or other business purposes.

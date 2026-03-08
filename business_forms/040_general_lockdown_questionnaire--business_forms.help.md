@@ -1,15 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose and requirements are clearly understood by end-users. This form is designed to gather information for a general lockdown questionnaire. The form should only be filled out by users who are aware of the purpose and implications of answering the questions.
-
-To confirm that the form is being filled out by the right people, we can add a check to see if the user has read and understood the purpose of the form. This will help prevent users who are not supposed to fill out the form from doing so.
-
-The form has multiple pages, each with different types of questions. Some questions are multiple choice, while others are open-ended. The form should be filled out in order, with each question being answered in sequence. 
-
-We also need to ensure that users understand the types of questions and what they are being asked. For example, a select_one question is meant to be answered with a single choice, while a select_multiple question is meant to be answered with multiple choices.
-
-This guide will help users understand what each question means and how to fill out the form correctly.
-</thinking>
-
 # General Lockdown Questionnaire - Help Guide
 ## Purpose
 The General Lockdown Questionnaire is a form designed to gather information for a specific purpose. It is meant to be filled out by users who are aware of the purpose and implications of answering the questions.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for capturing contact information from potential innovation management partners. The purpose of this form is to gather details about the partner, such as their name, email, phone number, location, and areas of interest. The "Agree" field is likely for obtaining consent from the partner to share information for partnership purposes. This form is likely used by the organization to initiate or foster collaboration with potential partners. It's possible that the form could be used for both internal and external purposes, but the exact use case is not specified. It's also worth noting that some fields are not required, so it's up to the user's discretion on how much information to provide.
-</thinking>
-
 # Innovation Management Partner Contact Form - Help Guide
 ## Purpose
 The Innovation Management Partner Contact Form is designed to gather information from potential partners for the purpose of collaboration and partnership opportunities. It's used to capture details about the partner and their areas of interest.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for the purpose of applying for ethical financing support. The form captures information about the applicant and their organization, such as their contact details and organizational data. It also includes fields related to the financing application process, like the status of the application and the date it was decided. This form likely serves as a means to gather and process requests for financial assistance that aligns with ethical standards or initiatives. This form should only be used for such purposes and not for general financing inquiries or other unrelated matters. 
-
-</thinking>
-
 # Support For Ethical Financing Application - Help Guide
 ## Purpose
 This form is designed to help you apply for ethical financing support. Please fill it out carefully to provide all necessary details about your organization and its needs.

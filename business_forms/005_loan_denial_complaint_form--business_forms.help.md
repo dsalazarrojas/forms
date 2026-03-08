@@ -1,7 +1,3 @@
-<thinking>
-We've created this form to allow users to file a complaint when a loan application is denied. This form will help us understand the reason for the denial and any other relevant details that may aid in revising our decision in the future. It's essential to complete this form carefully and accurately to ensure that we can address the issue effectively. Please note that you will only be able to file a complaint if your loan application has been denied. If you're unsure about the status of your loan application, please contact us before filling out this form.
-</thinking>
-
 # Loan Denial Complaint Form - Help Guide
 ## Purpose
 The Loan Denial Complaint Form is used to file a complaint when a loan application is denied. This form helps us understand the reason for the denial and gather additional details to aid in revising our decision.

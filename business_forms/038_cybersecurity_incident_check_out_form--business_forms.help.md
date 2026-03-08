@@ -1,5 +1,3 @@
-<thinking>Before creating this form, I want to make sure I understand its purpose and requirements. The form appears to be related to incident reporting and tracking, used for cybersecurity incidents. It's essential to ensure that the form is not duplicated and that the fields are relevant to the task at hand. I will carefully review the provided YAML and provide a comprehensive help guide for end-users.</thinking>
-
 # cybersecurity_incident_check_out_form - Help Guide
 ## Purpose
 The Cybersecurity Incident Check-Out Form is used to report, track, and resolve incidents that affect the organization's IT infrastructure, systems, or data. This form provides a structured approach to documenting and investigating incidents, helping to identify and address issues efficiently.

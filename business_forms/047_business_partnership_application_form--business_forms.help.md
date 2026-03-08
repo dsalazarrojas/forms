@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses interested in forming partnerships. The main goal is to gather data that will help our organization evaluate potential collaborations. This form is a crucial part of our partnership application process, and the information provided will be used to assess the suitability of each applicant. Please note that the form has been optimized for clarity and efficiency, and each field has been carefully designed to help us get the most relevant information about your business.
-
-To avoid any confusion, we will review each application thoroughly. If you have any questions or concerns, please don't hesitate to reach out to us.</thinking>
-
 # Business Partnership Application Form - Help Guide
 ## Purpose
 

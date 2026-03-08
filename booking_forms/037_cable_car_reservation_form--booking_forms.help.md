@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cable Car Reservation Form - Help Guide
 ## Purpose
 This form is designed to help you book a scenic cable car experience. It collects essential information to ensure a smooth and enjoyable journey for you and your group. The form is divided into several sections to guide you through the process.

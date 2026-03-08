@@ -1,7 +1,3 @@
-<thinking>...
-This form is used to record the daily hours worked and other relevant details for a worker. It is intended to be filled out at the end of each workday, typically by the worker themselves. Before filling out this form, please ensure you have a valid reason for leaving and that you have not already submitted a check-out form for the same day. This form should be completed accurately and truthfully. If you are unable to complete this form, please contact your supervisor for assistance.
-...</thinking>
-
 # Daily Worker Check Out Form - Help Guide
 ## Purpose
 The Daily Worker Check Out Form is used to record the daily hours worked and other relevant details for a worker.

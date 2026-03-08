@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Railway Station Platform Inspection Form - Help Guide
 =============================================
 

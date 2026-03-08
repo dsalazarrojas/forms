@@ -1,9 +1,3 @@
-<thinking>
-The Contingency Plan Report Form is a tool used by organizations to identify, assess, and plan for potential risks and threats to their operations, assets, and reputation. This form helps businesses anticipate and mitigate potential disruptions by providing a structured framework for risk identification, impact assessment, and response planning.
-The form aims to gather critical information on the department/business unit affected, the nature of the risk, the estimated downtime, and the strategies to be implemented for mitigation and response.
-The goal is to ensure that the business is prepared and able to respond quickly and effectively in case of an emergency or crisis situation, minimizing the potential impact on operations and ensuring the continuity of business functions.
-</thinking>
-
 # Contingency Plan Report Form - Help Guide
 
 ## Purpose

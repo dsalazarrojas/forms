@@ -1,7 +1,3 @@
-<thinking>
-We will assume that the form is used for creating a month-to-month holding agreement between a landlord and a tenant. This form will likely be used in a rental context, where the landlord and tenant are entering into an agreement for a rental property. The form will capture information such as the address of the rental property, contact information of the landlord, rent details, and terms of the agreement. We will aim to create a clear and concise guide to help users understand what information to provide and how to complete the form accurately. We will also aim to provide examples for each field where possible.
-</thinking>
-
 # Month To Month Holding Agreement - Help Guide
 ## Purpose
 The purpose of this form is to create a month-to-month holding agreement between a landlord and a tenant for a rental property. This agreement outlines the terms and conditions of the rental, including the rent, payment frequency, and notice period.

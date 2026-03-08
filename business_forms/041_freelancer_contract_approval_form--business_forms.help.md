@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to obtain approval for a freelancer's contract with a client. The form is intended to be filled out by the freelancer, and the approver is responsible for reviewing and approving the contract. The fields in this form are used to collect information about the contract, the freelancer, and the client, as well as the contract's terms and the date of the signature. Please review this guide to ensure you have a clear understanding of the form's purpose and requirements before proceeding.
 
 # Freelancer Contract Approval Form - Help Guide

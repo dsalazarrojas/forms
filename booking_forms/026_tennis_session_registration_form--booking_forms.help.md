@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to verify form purpose and non-duplication ...
-
-This form is designed to collect information from users for a tennis session registration process. It is intended to be completed by individuals looking to register for a tennis session. The form will guide users through a series of steps to provide the necessary information for their session registration.
-
-</thinking>
-
 # Tennis Session Registration Form - Help Guide
 ## Purpose
 This form is for tennis enthusiasts to register for a tennis session. Please provide the required information to complete your registration.

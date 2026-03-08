@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential clients who are interested in getting a website service for their business. This form helps us understand their basic profile, website requirements, and project goals. Please make sure you have the necessary information and authority to fill out this form on behalf of your organization.
-
-Before you start filling out the form, ensure that you are not duplicating this application with another team member or colleague. This form is designed to capture essential details that will help us tailor a solution for your business needs.
-</thinking>
-
 # Branded Website Service Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of the Property Management Checklist Form is to gather essential information for managing properties under your care. This form helps you keep track of vital details, including tenant information, property specifics, inspection results, maintenance schedules, and notes. It's crucial to fill out this form accurately and completely to ensure that you have a clear picture of the property's status and can provide excellent service to your tenants.
-</thinking>
-
 # Property Management Checklist Form - Help Guide
 ## Purpose
 The Property Management Checklist Form is a comprehensive tool for gathering and documenting crucial information about properties. It is used to record details such as tenant information, property characteristics, inspection results, maintenance requirements, notes, and contact information. This form helps property managers and administrators maintain accurate records, ensure timely maintenance, and provide excellent service to tenants.

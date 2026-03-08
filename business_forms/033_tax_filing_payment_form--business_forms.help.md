@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who need to make a payment for tax filing services. The form is used to gather details about the payment, client information, and tax filing services provided. This form is a critical component of the tax filing process, and accuracy in filling it out is crucial to ensure timely and secure processing.
-</thinking>
-
 # Tax Filing Payment Form - Help Guide
 ## Purpose
 This form is intended for users who need to make a payment for tax filing services. It will help process their payment information and associated services efficiently.

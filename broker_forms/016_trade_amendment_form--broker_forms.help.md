@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to record trade amendments, which are changes made to existing trade agreements or contracts. This form captures essential information about the amendment, including the date it was made, a brief description of the change, and details about the countries and parties involved. It also asks about the summary of the amendment and if there are changes to the terms of the agreement. The form is designed to be filled out by users to document and track trade amendments accurately.
-
-This form has a few required fields that are marked as such. The fields are organized into different sections to make it easier for users to navigate and provide the necessary information. The form is a text-based form, and users can input their answers in the provided text fields.
-
-When filling out the form, please make sure to provide accurate and relevant information in each field. If you are unsure about any of the questions or fields, please ask for clarification or assistance.
-</thinking>
-
 # Trade Amendment Form - Help Guide
 
 ## Purpose

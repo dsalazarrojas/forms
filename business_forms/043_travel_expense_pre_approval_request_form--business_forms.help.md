@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # travel Expense Pre-Approval Request Form - Help Guide
 ## Purpose
 The travel Expense Pre-Approval Request Form is used to request pre-approval for business travel expenses. This form is typically used by employees to request approval for travel-related expenses before they incur them, ensuring that all necessary costs are accounted for and approved before the trip takes place.

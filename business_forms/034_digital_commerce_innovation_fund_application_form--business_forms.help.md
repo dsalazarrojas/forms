@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses applying for the digital commerce innovation fund. The form is likely to be used by business owners or representatives to submit their project proposals, including details about their business, project, team, financials, and contact information. To ensure the form is completed correctly, we will check for relevance and non-duplication before proceeding. This guide will help users understand each field and how to complete the form accurately.
-</thinking>
-
 # digital_commerce_innovation_fund_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from businesses applying for the digital commerce innovation fund. It is used to gather details about the business, project, team, financials, and contact information of the applicants.

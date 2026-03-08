@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is only filled out when it's actually needed and not duplicated. This form is used to authorize access to a company's resources, and it's essential to get the vendor information correct to avoid any potential issues with access.
-</thinking>
-
 # Vendor Access Authorization Form - Help Guide
 ## Purpose
 The Vendor Access Authorization Form is used to grant access to a company's resources to a vendor. This form helps ensure that vendors have the necessary access to perform their tasks efficiently.

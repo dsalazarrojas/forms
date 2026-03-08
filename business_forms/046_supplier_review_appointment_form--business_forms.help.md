@@ -1,7 +1,3 @@
-<thinking>
-...The purpose of this form is to allow users to document and track the progress of reviews with suppliers. This form is designed to collect relevant information about the supplier, the reviewer, and the review status. It also allows users to store notes and details about the review. Please make sure to only complete this form if you are a legitimate user and are authorized to access this feature. Please do not submit duplicate reviews.
-</thinking>
-
 # Supplier Review Appointment Form - Help Guide
 ## Purpose
 This form is used to document and track the progress of reviews with suppliers, including contact information, review status, and notes.

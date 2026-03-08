@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for businesses to submit their applications for program renewal. Please ensure that your organization is eligible for this program and has not submitted a renewal application for the current period before filling out this form. Review the form carefully to ensure accuracy and completion.
 
 # Business Expense Program Renewal Application - Help Guide

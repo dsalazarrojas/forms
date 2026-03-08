@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to the process of disposing of equipment. The purpose of this form is likely to document the details of the equipment being disposed of, including its description, category, and status. The category ID field is used to identify the equipment's category, and the asset status field is a select multiple option that likely includes sold, donated, and discarded. The authorized by field is probably meant for the person responsible for the disposal, and the asset tag field is for tracking the equipment's unique identifier. It's likely that the form is used by employees in an organization to report equipment disposal to their superiors or for compliance purposes. I will not assume any further business logic beyond what is provided in the YAML.
-</thinking>
-
 # Equipment Disposal Form - Help Guide
 ## Purpose
 This form is used to document the details of equipment being disposed of, including its description, category, and status.

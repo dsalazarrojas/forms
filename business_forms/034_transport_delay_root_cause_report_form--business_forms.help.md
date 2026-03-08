@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to capture information about transport delays and identify the root cause of the delay. It will be used by employees in the logistics, transport, and warehouse departments to report and analyze transport delays. To ensure data quality, please fill out this form accurately and completely. 
-Before filling out this form, check to see if a similar report has been made for a similar transport delay. If so, please do not duplicate the report. 
-Please ensure that all the fields are filled out as accurately and thoroughly as possible.
-</thinking>
-
 # Transport Delay Root Cause Report Form - Help Guide
 ## Purpose
 This form is used to report and analyze transport delays, identify the root cause, and capture solutions and actions taken or planned to prevent future delays.

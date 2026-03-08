@@ -1,8 +1,3 @@
-<thinking>...thinking>
-
-This form appears to be designed for outdoor generator soundproofing applications. The goal is to collect information from users about their outdoor generators and their soundproofing needs. The form may be used by maintenance staff or administrators to gather data for outdoor generator installations or for users to submit requests for soundproofing solutions. 
-
-</thinking>
 # outdoor_generator_soundproofing_application - Help Guide
 ## Purpose
 This form is designed to help users apply for soundproofing solutions for their outdoor generators.

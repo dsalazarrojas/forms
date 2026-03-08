@@ -1,7 +1,3 @@
-<thinking>
-This form is used to evaluate an intern's performance during their internship period. The evaluation form is meant to assess the intern's progress, skills, and overall performance. The purpose of this form is to provide a structured and fair evaluation process. Please ensure that you have completed a thorough evaluation of the intern's performance before filling out this form. Note that you may choose to evaluate only the fields that you feel are relevant to the intern's performance. 
-</thinking>
-
 # Internship Supervisor Evaluation Form - Help Guide
 
 ## Purpose

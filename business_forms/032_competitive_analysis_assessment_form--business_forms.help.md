@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help businesses conduct a competitive analysis assessment to identify key strengths and weaknesses of their competitors. It's essential to ensure that the information provided is accurate and relevant to the specific business or product being assessed. Please review the form carefully and provide feedback to help improve its quality and usability.
-</thinking>
-
 # Competitive Analysis Assessment Form - Help Guide
 ## Purpose
 The Competitive Analysis Assessment Form is a tool used to gather essential information about competitors in the market, helping businesses to identify areas of improvement and develop effective strategies to gain a competitive edge. This form is tailored to assess a specific competitor company, focusing on various aspects such as market share, product category, strengths, weaknesses, and overall positioning.

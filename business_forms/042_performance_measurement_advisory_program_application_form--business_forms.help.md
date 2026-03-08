@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from organizations interested in participating in the Performance Measurement Advisory Program. The purpose of this form is to gather essential details about the organization, its performance, and its certification status. Please note that this form is not a mandatory submission, and it's meant to facilitate the assessment process for the advisory program. Ensure that the information provided is accurate and up-to-date to ensure a smooth evaluation process.
-
-Before proceeding, check that you haven't already submitted this form to avoid duplicate entries.</thinking>
-
 # Performance Measurement Advisory Program Application Form - Help Guide
 ## Purpose
 The Performance Measurement Advisory Program Application Form is designed to collect information from organizations interested in participating in the Performance Measurement Advisory Program. The form helps to gather essential details about the organization, its performance, and its certification status.

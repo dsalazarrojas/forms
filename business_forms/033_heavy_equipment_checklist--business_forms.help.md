@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the heavy equipment's condition. The form is likely used for maintenance, inspection, or inventory purposes within a business or organization that utilizes heavy equipment. This form likely aims to ensure that the equipment is in good working condition, meets safety standards, and is properly maintained. 
-Before proceeding, please ensure you haven't created a duplicate entry for the same heavy equipment item. This can be done by checking the database or inventory management system for any existing records. If you're unsure about the equipment or have questions, consider consulting the relevant department or expert before completing this form.
-</thinking>
-
 # Heavy Equipment Checklist - Help Guide
 ## Purpose
 This form is used to gather information about the condition and maintenance of heavy equipment. It's essential to provide accurate and detailed answers to ensure the equipment is properly maintained and safe to operate.

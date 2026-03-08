@@ -1,16 +1,3 @@
-<thinking>
-This form is meant to collect personal and agreement-related information for a specific business purpose. To ensure the form's purpose, context, and requirements are clear, let's consider the following:
-
-* The form is titled "Alejandra Agreement," which suggests it may be for a specific business or company.
-* The form contains a mix of personal information fields (full name, email, phone number) and agreement-related fields (agreement type, start date, duration in months, key terms, electronic signature name).
-* The form requires the following fields: full name, email, agreement type, start date, and electronic signature name.
-
-Considering this, the form is likely used for creating or managing service agreements, non-disclosure agreements, consultancy agreements, or other types of agreements between businesses or individuals. The purpose of this form is to collect essential information for the agreement's creation or management.
-
-Before filling out the form, please ensure you have the necessary information and permissions to complete it accurately. 
-
-</thinking>
-
 # Alejandra Agreement - Help Guide
 ## Purpose
 The Alejandra Agreement form is used to collect personal and agreement-related information for business purposes. This form helps create or manage service agreements, non-disclosure agreements, consultancy agreements, or other types of agreements between businesses or individuals.

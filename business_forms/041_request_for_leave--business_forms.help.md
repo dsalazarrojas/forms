@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # request_for_leave - Help Guide
 ## Purpose
 This form is used to request a leave of absence for an employee. It requires the employee's details, reason for leave, and manager approval.

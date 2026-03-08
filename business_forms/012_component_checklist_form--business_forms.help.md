@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Component Checklist Form", we should first understand the form's purpose and the requirements that it aims to satisfy. The form appears to be designed for project management and quality assurance, allowing users to track and verify the completion of various components related to a project, including hardware, software, documentation, materials, services, and quality checks. This form likely serves as a checklist for project managers, team members, or quality assurance personnel to ensure that all necessary components are accounted for and verified.
-
-Before proceeding with the help guide, we should verify that the form is not duplicating any existing form or checklist within the organization, and that the provided YAML configuration is correct and consistent with the form's purpose.
-
-</thinking>
-
 # Component Checklist Form - Help Guide
 ## Purpose
 This form is designed to help project managers and quality assurance personnel verify the completion of project components. It serves as a checklist to ensure that all necessary hardware, software, documentation, materials, services, and quality checks are accounted for.

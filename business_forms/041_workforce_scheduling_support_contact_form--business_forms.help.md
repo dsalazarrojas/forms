@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees submit a request for workforce scheduling support, which is used to resolve conflicts or issues related to shift scheduling. The form ensures that employees can provide necessary information for support requests, such as their name, contact information, and specific details about their scheduling conflict or support request. This form is meant to be a simple and straightforward way for employees to reach out to the support team. It is not a replacement for the standard support channels, but rather a complementary tool to help employees quickly and easily get in touch with the scheduling support team.
-</thinking>
-
 # Workforce Scheduling Support Contact Form - Help Guide
 ## Purpose
 The Workforce Scheduling Support Contact Form is used to submit requests for scheduling conflicts or support issues. Use this form to communicate your concerns and get help from the support team.

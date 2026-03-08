@@ -1,9 +1,3 @@
-<thinking>
-
-The main purpose of this form template is to collect information for a prospect list request, likely used in sales, marketing, or customer service contexts. This form aims to capture relevant details from clients, prospects, or customers in a structured and efficient manner. Before proceeding, please review the form carefully to ensure you're not duplicating existing requests.
-
-</thinking>
-
 # Prospect List Request Form Template - Help Guide
 ## Purpose
 The Prospect List Request Form Template is designed to gather essential information from clients, prospects, or customers for prospect list requests. This form helps in organizing and streamlining the process of collecting relevant details, making it easier to manage and prioritize prospect lists.

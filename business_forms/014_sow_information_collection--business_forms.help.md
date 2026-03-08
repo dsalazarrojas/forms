@@ -1,8 +1,3 @@
-<thinking> 
-The SOW Information Collection form is used to gather essential details about a project or project-related information. This form is likely to be used by project managers or teams to document and track project scope, timelines, stakeholders, and other important details.
-
-Before creating this form, it's essential to determine if there are any similar forms used for this purpose in your organization, and to avoid duplicating efforts. If you're unsure, please review your organizational procedures and consult with your team or department heads.</thinking>
-
 # SOW Information Collection - Help Guide
 
 ## Purpose

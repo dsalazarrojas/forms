@@ -1,6 +1,3 @@
-<thinking>
-This form is used to schedule a warehouse access coordination for a visitor. It should only be used to schedule a visit for a specific reason. If this form is being used for other purposes, please refrain from doing so. Please ensure that this form is not used in duplicate to avoid unnecessary coordination efforts.</thinking>
-
 # Warehouse Access Coordination Contact Form - Help Guide
 ## Purpose
 The Warehouse Access Coordination Contact Form is a tool used to schedule warehouse access for visitors. This form is used to provide essential details about the visitor's visit, allowing warehouse staff to prepare and coordinate for their arrival.

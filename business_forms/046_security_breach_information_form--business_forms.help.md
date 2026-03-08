@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a security breach that has occurred within an organization. It is intended to be completed by the person responsible for reporting and managing the incident. The form will help gather relevant details about the breach, including its status and classification, as well as who discovered it, confirmed it, and reported it. The goal of this guide is to walk the user through each section of the form and explain what each field is used for, ensuring they can accurately and efficiently complete it.
-</thinking>
-
 # security_breach_information_form - Help Guide
 ## Purpose
 This form collects information about security breaches that have occurred within an organization. It is meant to be completed by the person responsible for reporting and managing the incident.

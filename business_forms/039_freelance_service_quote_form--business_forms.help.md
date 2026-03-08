@@ -1,6 +1,3 @@
-<thinking>
-This help guide is meant to clarify the purpose and use of the Freelance Service Quote Form. The form is designed to provide a structured way for clients to request services from freelancers and for freelancers to respond with quotes. The purpose of this form is to streamline the process of service quote requests and responses. It is intended to be used by both clients and freelancers, and the information gathered from the form will help freelancers provide the best possible service quote for the client's needs.
-</thinking>
 # Freelance Service Quote Form - Help Guide
 ## Purpose
 The Freelance Service Quote Form is a structured way for clients to request services from freelancers and for freelancers to respond with quotes that meet the client's needs.

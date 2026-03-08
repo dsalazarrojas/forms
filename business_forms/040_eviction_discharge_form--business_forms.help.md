@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for use in a business setting, specifically for landlords or property managers to document the discharge of tenants from a rental property. Before proceeding, please ensure that you have the necessary permissions and authority to complete this form. This form is a one-page template and may not be sufficient for all situations. In cases where multiple pages are required, please create separate forms or use this template as a starting point and expand upon it as needed.
-</thinking>
-
 # Eviction Discharge Form - Help Guide
 ## Purpose
 The Eviction Discharge Form is a document used to record the details of a tenant's discharge from a rental property. This form serves as a formal acknowledgment of the termination of a tenancy agreement.

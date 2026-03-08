@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to collect information from end-users about tools they need or want to request, which will help the support team to efficiently process and address these requests. It's a tool for end-users to submit their requests in a structured way, ensuring that all necessary details are captured. Before starting, please check if you've already submitted a similar request. If you're unsure, please review the help guide to understand which fields to fill in. If you've recently submitted a similar request, it's likely a duplicate, and in this case, you can simply close this guide without filling out the form... </thinking>
-
 # tool_request_form - Help Guide
 ## Purpose
 This form is used to request tools or resources from the support team. Please fill it out to provide all necessary information for efficient processing and addressing your request.

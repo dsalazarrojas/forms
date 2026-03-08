@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register an authorized representative for a business or organization. It is primarily used to collect information about the representative, their company, and the terms of their authorization. This form is usually completed by the representative themselves or by someone acting on their behalf. The form must be completed accurately and truthfully to ensure that the representative's authorization is valid and enforceable. Before starting, please note that if the representative has already been authorized, you may be updating an existing authorization. Make sure to review the form carefully and ensure that all fields are filled out correctly.
-</thinking>
-
 # Authorized Representative Registration - Help Guide
 ## Purpose
 

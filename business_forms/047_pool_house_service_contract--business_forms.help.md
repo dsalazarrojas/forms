@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is for creating a service contract for a pool house service. The service contract form is used to capture information about the service provided, the service provider, and the terms and conditions of the service. This form may be used by a business or organization that offers pool house services, such as pool cleaning or maintenance, to customers. The form is likely to be used to streamline communication and ensure that both the service provider and customer are on the same page. The information collected on this form will help the business or organization to better understand the customer's needs and preferences, and to tailor their services accordingly...)</thinking>
-
 # Pool House Service Contract - Help Guide
 ## Purpose
 The Pool House Service Contract form is designed to gather information about the services provided for a pool house. This includes details about the service description, service provider, service provider contact information, and service contract terms and conditions.

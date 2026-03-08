@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help users analyze and document their problem-solving and decision-making processes. The form is meant to be a tool for individuals to reflect on their thought process, identify potential solutions, and track outcomes. By filling out this form, users can gain clarity on their decision-making processes and improve their problem-solving skills. This form should be used by individuals who are looking to enhance their critical thinking and problem-solving abilities.
-
-</thinking>
-
 # Problem Solving And Decision Making Form - Help Guide
 
 ## Purpose

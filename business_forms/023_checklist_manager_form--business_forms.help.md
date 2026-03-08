@@ -1,13 +1,3 @@
-<thinking>
-This is a Checklist Manager Form, designed to help team managers and administrators track and manage checklists for various tasks and projects. The form is used to define a checklist, assign responsibilities, set deadlines, and track progress. It is intended to be used for both internal and external use, and can be adapted to fit different business needs. 
-
-The form is structured into several sections: 
-- Checklist Definition: This section captures the title and department/team associated with the checklist.
-- Task Tracking: This section allows you to define and track individual tasks, including their description, status, and completion deadline.
-- Priority and Resources: This section captures the overall priority of the checklist and any resources or budget requirements.
-- Comments and Logs: This section is for managers to update on progress and any issues encountered during task completion.
-</thinking>
-
 # Checklist Manager Form - Help Guide
 ## Purpose
 The Checklist Manager Form is a tool to help team managers and administrators manage and track checklists for various tasks and projects. It captures essential information about the checklist, including its title, department or team, and priority level.

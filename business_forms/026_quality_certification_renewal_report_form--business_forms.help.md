@@ -1,7 +1,3 @@
-<thinking>
-This form is used to renew and report quality certifications for business units. It is essential for business units to maintain their certifications up-to-date and compliant with regulatory requirements.
-</thinking>
-
 # Quality Certification Renewal Report Form - Help Guide
 
 ## Purpose

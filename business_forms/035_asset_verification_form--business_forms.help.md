@@ -1,9 +1,3 @@
-<thinking>
-This is an internal form used to verify assets owned or held by a policy holder, ensuring that assets match the information stored in the database. The purpose of this form is to confirm details of the asset, its value, and any existing or potential discrepancies. This form helps ensure that assets are accurately represented and up-to-date, reducing errors and potential risks associated with incorrect information. This guide is intended to provide a clear understanding of the form and its requirements, ensuring accurate and comprehensive asset verification.
-
-
-</thinking>
-
 # Asset Verification Form - Help Guide
 ## Purpose
 The Asset Verification Form is used to confirm the details of assets owned or held by a policy holder, ensuring that they match the information stored in the database. This form helps ensure accurate and up-to-date asset information.

@@ -1,7 +1,3 @@
-<thinking>
-This form template is designed to be used for recording and documenting engineering shifts. A shift log is a record of the activities and events that occurred during a specific shift, typically used for reporting and auditing purposes. This template is meant to capture relevant information about the shift, including start and end times, notes, and contact information for team leaders and supervisors.
-</thinking>
-
 # engineering_shift_log_form_template - Help Guide
 ## Purpose
 This form is used to record and document engineering shifts, capturing relevant information for reporting and auditing purposes.

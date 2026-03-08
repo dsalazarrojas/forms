@@ -1,8 +1,3 @@
-<thinking>
-We've included an internal reasoning block to check if this is the correct form for the intended purpose.
-This block is for internal use, please do not output or use this in the actual help guide.
-</thinking>
-
 # Incorporation Process Survey - Help Guide
 
 ## Purpose

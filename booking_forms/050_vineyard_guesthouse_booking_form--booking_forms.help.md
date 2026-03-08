@@ -1,12 +1,3 @@
-<thinking>
-This form is used to book a stay at the Vineyard Guesthouse, and the purpose of this guide is to help the user understand what information is required and how to fill it out correctly. The form is divided into sections, each with a brief explanation of what the field is used for and any specific requirements or constraints associated with it.
-
-The form is designed to be filled out by guests booking a room at the Vineyard Guesthouse, and it collects relevant information such as guest name, contact information, and payment details. The form is intended for guests who are booking a room for themselves or for others, and it allows them to provide information about their stay, including checkin and checkout dates, room service preferences, and payment method.
-
-Before filling out the form, it's essential to review the form's sections and understand what information is required and how it's used. This guide is designed to walk the user through each field, explaining its purpose and any specific requirements or constraints associated with it.
-
-</thinking>
-
 # Vineyard Guesthouse Booking Form - Help Guide
 ## Purpose
 

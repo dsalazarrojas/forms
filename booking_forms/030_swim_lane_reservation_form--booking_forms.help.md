@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for swim lane reservations, likely for an aquatic or recreational facility. The purpose of this form is to ensure that customers or visitors can book a swim lane for their desired time and duration. The form is likely to be used by pool staff to manage swim lane availability and allocate resources accordingly. To ensure data accuracy and consistency, it's essential to follow this guide to complete the form correctly. Please note that this form is for single-user input, not intended for multi-user collaboration. Before starting, make sure to review the form carefully to avoid duplication of effort.
-</thinking>
-
 # Swim Lane Reservation Form - Help Guide
 ## Purpose
 The Swim Lane Reservation Form is designed to collect information for swim lane bookings, allowing pool staff to manage swim lane availability and allocate resources effectively.

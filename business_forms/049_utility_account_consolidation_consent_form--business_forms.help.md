@@ -1,8 +1,3 @@
-<thinking>
-This form is used to obtain the customer's consent for utility account consolidation. The form collects information from the customer, including their authorization for account consolidation, the accounts they want to merge, and the date of the merge. This form is used by customer service representatives to gather the necessary information to process the consolidation request. 
-The customer service representative will review the form and ensure that the customer is aware of and consents to the consolidation of their accounts. This form is not intended for internal use within the organization, but rather for customer-facing purposes.
-</thinking>
-
 # Utility Account Consolidation Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from the customer for the consolidation of their utility accounts. This form ensures that the customer is aware and consents to the consolidation of their accounts.

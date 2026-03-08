@@ -1,14 +1,3 @@
-<thinking>
-The "Housing Discrimination Disclosure Form" is used to report instances where a tenant is found to be ineligible to rent, own, or occupy a housing unit. This form requires the following information to document these instances:
-
-The form is part of a compliance and regulatory requirement in the housing sector to ensure equal access to housing opportunities and prevent discriminatory practices. It is likely used internally to maintain records and investigate reported cases.
-
-Before completing this form, please ensure that all information is accurate and complete. Each field has been carefully designed to provide the necessary information to support the process.
-
-The Housing Discrimination Disclosure Form is used when a tenant is found to be ineligible to rent, own, or occupy a housing unit. This form should only be completed by authorized personnel.
-
-</thinking>
-
 # Housing Discrimination Disclosure Form - Help Guide
 ## Purpose
 The "Housing Discrimination Disclosure Form" is used to report instances where a tenant is found to be ineligible to rent, own, or occupy a housing unit.

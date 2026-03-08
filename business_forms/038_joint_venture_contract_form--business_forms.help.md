@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about a joint venture contract between two or more parties. The form is intended to be used by employees in the business development department to gather necessary details about the partnership, including the company's name, address, email address, phone number, partner's name, partner's address, contract term, joint venture purpose, and contract details. This form is a crucial document that will be used to formalize the partnership and outline the terms of the joint venture. It is essential to ensure that all required fields are completed accurately and thoroughly to maintain a professional and legally binding agreement.
-
-Before proceeding, please confirm that you have reviewed the form's purpose and the required fields. This form should not be used for any other purpose or as a template for other types of contracts.
-</thinking>
-
 # Joint Venture Contract Form - Help Guide
 ## Purpose
 This form is used to collect information about a joint venture contract between two or more parties.

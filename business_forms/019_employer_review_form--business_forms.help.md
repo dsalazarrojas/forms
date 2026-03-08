@@ -1,15 +1,3 @@
-<thinking>
-This internal reasoning block explains the form purpose and checks for duplication:
-The "Employer Review Form" is an internal template used to collect feedback from an employee on an ongoing basis, typically at the end of every quarter, semester, or year. This form will be filled out by the employee to give their employer a general impression of their performance and identify areas where they see room for improvement. It is not meant for performance reviews for a specific job or project, but rather for ongoing assessment and growth opportunities. The form has been designed to be completed by a single employee, and will be used by the reviewer (the employee's supervisor) to understand the employee's perspective and provide guidance where needed.
-
-To determine if this form is a good fit for your team, consider the following:
-- Are you looking to collect ongoing feedback from employees on their performance and growth opportunities?
-- Do you want to standardize the process of collecting this feedback to ensure consistency across the company?
-- Are you looking for a template that can be completed by a single employee, and reviewed by their supervisor?
-
-If the answer is yes, then this form is a good fit for your team.
-</thinking>
-
 # Employer Review Form - Help Guide
 ## Purpose
 The "Employer Review Form" is used to collect feedback from employees on their performance and identify areas for improvement.

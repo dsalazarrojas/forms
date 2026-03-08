@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for creating and managing satellite clubs within a business. The purpose of this form is to provide a simple and structured way to input data related to satellite clubs. The form can be used by business users to quickly and efficiently create and update satellite club information. 
-
-The form will be used in conjunction with existing business systems, so it's essential that the form is filled out accurately and consistently. This guide is designed to help users understand the form's purpose and usage.
-
-</thinking>
-
 # lab_sattellite_club - Help Guide
 ## Purpose
 This form is used for creating and managing satellite clubs within a business. It allows users to input data related to satellite clubs, which will be used in conjunction with existing business systems.

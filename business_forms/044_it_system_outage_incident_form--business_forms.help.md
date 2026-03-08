@@ -1,10 +1,3 @@
-<thinking>
-This form is used to report and manage IT system outages. It captures essential details about the incident, including its type, status, impact, and resolution. The form is designed to help IT teams track and resolve issues efficiently.
-
-This guide will help you complete the form accurately and effectively. Please review each field carefully to ensure you have provided the correct information.
-
-</thinking>
-
 # it_system_outage_incident_form - Help Guide
 ## Purpose
 

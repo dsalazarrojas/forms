@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information for event organizers to request a speaker for a specific event or seminar. This form likely helps event organizers find suitable speakers by providing essential details about the event and what the organizer is looking for in a speaker. 
-The form might be part of a larger system or platform for matching speakers with events. 
-The form might be used by internal staff or external users who are not familiar with the system, so the goal is to guide them through the process of filling it out correctly.
-</thinking>
-
 # Clubhouse Speaker Request Form - Help Guide
 ## Purpose
 This form is used to request a speaker for a specific event or seminar. Fill out the form to provide essential information about the event and what the organizer is looking for in a speaker.

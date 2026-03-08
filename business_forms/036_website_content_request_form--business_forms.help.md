@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from website managers about their content requests. This form is designed to ensure that website managers can request the type and details of content they need in an organized and easily accessible way. This form will be reviewed by designated personnel to process the request accordingly. 
-</thinking>
-
 # Website Content Request Form - Help Guide
 ## Purpose
 The Website Content Request Form is a tool used by website managers to request various types of content, such as text, images, videos, or audio, from designated personnel. This form helps ensure that all content requests are properly documented and reviewed in an efficient and organized manner.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or businesses interested in using a makeup service. It's intended to be completed by those looking to book a makeup service for a specific event, possibly a photoshoot, wedding, or any other occasion. The form should be filled out by those responsible for planning the event or the event's organizers.
-</thinking>
-
 # Makeup Service Order Form - Help Guide
 ## Purpose
 This form is used to collect information from clients interested in booking a makeup service for an event.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be a brief and concise reference for end users to understand the purpose and usage of the Creative Portfolio Review Booking Form. The form is designed to gather information from users for the purpose of booking a review session for their creative portfolio. The form will be used to collect user's contact information, portfolio details, and preferences for the review session. Please ensure that you have a clear understanding of the form's purpose and its intended use case before proceeding to fill it out.
-</thinking>
-
 # Creative Portfolio Review Booking Form - Help Guide
 ## Purpose
 The Creative Portfolio Review Booking Form is a tool designed to help you book a review session for your creative portfolio. This form will gather necessary information from you to schedule an appointment with our team.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help project team members and managers plan and track the progress of quality improvement projects within a team. To ensure accuracy, please review the project information carefully before submitting it. This form is not intended for duplicate projects; if you have already submitted a project, please do not resubmit. Please fill out this form thoroughly and accurately to ensure that your project is properly assessed and tracked.
-</thinking>
-
 # Quality Improvement Plan Request Form - Help Guide
 ## Purpose
 This form is used to submit a quality improvement project proposal to the project team and managers. It provides a structured template for project title, description, and other relevant information.

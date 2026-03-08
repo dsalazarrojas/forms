@@ -1,10 +1,3 @@
-<thinking>
-The form "cultural_event_photography_booking_form" is intended to collect information from clients about their photography needs for a cultural event. This form is used to gather essential details about the client's event, including client and event information, contact details, and services required. It also allows clients to provide additional comments and upload images related to the event. This form is likely used by event organizers or photography service providers to streamline their workflow and ensure they have all the necessary information to deliver quality services to their clients.
-
-To avoid duplication, we'll make sure to keep this form concise and clear, ensuring that users understand what's expected of them.
-
-</thinking>
-
 # cultural_event_photography_booking_form - Help Guide
 ## Purpose
 This form is designed to gather essential details about your cultural event photography needs. Please complete this form to ensure our team has all the necessary information to provide you with the best possible services.

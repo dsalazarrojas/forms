@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely to gather feedback or survey information from members regarding their experience and satisfaction with a membership program. The form might be used by program administrators or managers to evaluate the program's effectiveness and make informed decisions for improvements. It's essential to review the form's relevance and ensure it's not duplicating any other form or survey within the organization. If it is, we should consider merging or integrating the content to avoid duplication of effort and data.
-</thinking>
-
 # membership_program_audit_form - Help Guide
 ## Purpose
 This form is designed to gather feedback and survey information from members about their experience with the membership program.

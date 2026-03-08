@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Staging Checklist Form - Help Guide
 
 ## Purpose

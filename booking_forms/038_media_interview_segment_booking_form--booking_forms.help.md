@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to book a media interview segment with a guest. This form is not intended for general public users, so only authenticated users should be able to access it. The purpose of this form is to gather relevant information from the user about the guest they are interested in booking, including their name, contact details, the topic they'd like to discuss, their preferred time slot, host details, and whether they have been assigned a specific tool or have selected a tool for the interview. Please ensure that you only use this form when you have been explicitly invited to book a media interview segment, as it is not intended for public users.
-</thinking>
-
 # media_interview_segment_booking_form - Help Guide
 ## Purpose
 This form is designed for users to book a media interview segment with a guest. Please ensure that you only use this form when you have been explicitly invited to book a media interview segment.

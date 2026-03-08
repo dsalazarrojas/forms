@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users gauge their risk tolerance and investment preferences, providing a comprehensive understanding of their investment goals, risk appetite, and investment strategy. The questionnaire aims to ensure users are aligned with their investment style and expectations, making informed decisions about their investments.
-</thinking>
-
 # Risk Tolerance Questionnaire Form - Help Guide
 ## Purpose
 The Risk Tolerance Questionnaire Form is a tool used to understand your investment preferences and risk tolerance, helping you make informed decisions about your investments. This form will guide you through a series of questions that will help you determine your:

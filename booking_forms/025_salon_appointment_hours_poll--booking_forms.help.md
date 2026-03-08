@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from salon clients to help them schedule appointments. The form asks the client to confirm if they are available to book a time slot, select their preferred hours of operation for the appointment, provide a note, enter their email address, and provide the phone number of the salon they are interested in visiting. The form is used to ensure that the client's preferences and availability match with the salon's operating hours to provide a smooth and efficient booking experience. It is essential to provide accurate information in this form to avoid scheduling conflicts.
-</thinking>
-
 # salon_appointment_hours_poll - Help Guide
 ## Purpose
 The salon_appointment_hours_poll form is designed to help salon clients confirm their availability and preferences for an appointment. It consists of a series of questions that gather crucial information to ensure a smooth booking experience.

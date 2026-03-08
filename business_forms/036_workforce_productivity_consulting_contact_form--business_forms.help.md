@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information from users who want to contact the workforce productivity consulting service. The form is designed to be a simple and straightforward way to collect contact information and specific details about the user's challenges and schedule. The main goal is to establish a connection and set up a follow-up meeting or call to discuss the user's needs.
-
-The form is not affiliated with or derived from any form platform, and it's an original adaptation created using public survey topic metadata. It's released under CC BY 4.0, allowing for free use, modification, and even commercial use.
-
-To confirm, this form is not intended to extract or use proprietary content from any form creation or data collection platform. Its purpose is to provide a contact channel for users to get in touch with the consulting service. The form fields are designed to be straightforward and easy to understand.
-
-</thinking>
-
 # workforce_productivity_consulting_contact_form - Help Guide
 ## Purpose
 The workforce productivity consulting contact form is designed to gather information from users who want to contact the consulting service to discuss their productivity challenges and schedule a follow-up meeting or call.

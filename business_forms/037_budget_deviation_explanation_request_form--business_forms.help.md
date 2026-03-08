@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request an explanation for a budget deviation, which is a significant variance between the actual and budgeted amounts for a project or expense. The form is used to document and track the reasons behind these deviations, allowing for a more informed discussion and decision-making process.
-
-Before completing this form, please ensure that you have all the necessary information and supporting documentation ready. The form should not be used to request an explanation for duplicate or unrelated issues. If you are unsure whether to use this form, please reach out to your supervisor or the finance department for guidance.
-
-</thinking>
-
 # Budget Deviation Explanation Request Form - Help Guide
 ## Purpose
 This form is used to request an explanation for a budget deviation, which is a significant variance between the actual and budgeted amounts for a project or expense.

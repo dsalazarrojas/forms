@@ -2,14 +2,6 @@
 
 ## Purpose
 
-<thinking>
-
-* The Check Request form is used to request a company check for a specific expense or payment.
-* This form helps the requester gather all the necessary information about the request, including details about the payee, the financial transaction, and any supporting documentation.
-* It ensures that the requester provides accurate and complete information to facilitate proper processing of the request.
-
-</thinking>
-
 ## How To Complete This Form
 
 * Fill out the form completely, including all required fields.

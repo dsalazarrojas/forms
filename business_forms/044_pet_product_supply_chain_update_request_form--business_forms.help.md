@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Product Supply Chain Update Request Form - Help Guide
 ## Purpose
 The Pet Product Supply Chain Update Request Form is used to update information about pet products in the supply chain. This form helps to track and manage the status of pet products, including their availability, shipment dates and times, and contact information for shipment.

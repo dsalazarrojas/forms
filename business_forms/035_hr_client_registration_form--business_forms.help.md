@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for HR clients to register with the HR department, providing essential information about their business. This guide will help users fill out the form accurately and efficiently. Please ensure you only fill out this form once, and avoid duplicating your registration. If you have any questions or concerns, contact us at [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # HR Client Registration Form - Help Guide
 ## Purpose
 The HR Client Registration Form is a tool for HR clients to provide necessary information about their business to the HR department. This form helps the HR department get to know you better and understand your needs, enabling us to provide you with the best possible services.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help store owners and managers schedule and coordinate store audits with the relevant authorities. The form is intended to collect information about the store's details, contact person, and scheduling preferences, as well as the purpose of the audit. This form aims to streamline the scheduling process and ensure that all necessary information is collected in an organized and efficient manner.
-
-</thinking>
-
 # Store Audit Scheduling Contact Form - Help Guide
 ## Purpose
 The Store Audit Scheduling Contact Form is a tool used to schedule and coordinate store audits. This form helps store owners and managers provide essential contact information and details about their store, including the preferred schedule date and time for the audit.

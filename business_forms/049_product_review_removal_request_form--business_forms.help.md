@@ -1,5 +1,3 @@
-<thinking>...This form is used to request removal of a product review from a product listing. It's an internal form used by authorized personnel to manage product reviews. Before starting, please note that this form should only be submitted if you have a legitimate reason for the removal of the review. If you're looking to report a fake or misleading review, please use our [other form](https://example.com/other-form). Ensure you're not submitting duplicate requests for the same review. This form is only for internal use and will be reviewed by authorized personnel before taking any action. If you're unsure about whether this form is the correct tool for your concern, please reach out to [your contact person or team](mailto:your.contact@domain.com) for guidance.</thinking>
-
 # Product Review Removal Request Form - Help Guide
 
 ## Purpose

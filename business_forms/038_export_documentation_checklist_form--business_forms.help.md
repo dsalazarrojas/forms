@@ -1,17 +1,3 @@
-<thinking>...checking the form's internal fields and options to determine its purpose and structure...
-
-The "Export Documentation Checklist Form" seems to be designed for users to provide documentation for export-related activities. It appears to cover the essential information for export procedures, including export date, time, document types, contacts, and additional notes.
-
-The form consists of 11 fields, which can be grouped into three main sections:
-
-*   **Export Details**: This section includes fields for export date and time.
-*   **Export Documentation**: This section includes fields for export document type and additional information.
-*   **Contact and Notes**: This section includes fields for export contact and notes.
-
-The form is designed for users to fill out when exporting goods or materials from a location. It is likely used by logistics or export departments within a company to ensure accurate and complete documentation for export procedures.
-
-</thinking>
-
 # Export Documentation Checklist Form - Help Guide
 ## Purpose
 The Export Documentation Checklist Form is a tool used to ensure that all necessary documentation is completed for export-related activities. It helps to standardize the export process and reduce errors.

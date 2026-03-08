@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used for users to submit a material return request when they want to send back or exchange an item. This form is meant for internal use within an organization, so the fields are designed to collect specific information that is useful for processing and managing material returns. The purpose of this form is to ensure accurate and efficient processing of return requests. 
 
 </thinking>

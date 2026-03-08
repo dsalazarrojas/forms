@@ -1,7 +1,3 @@
-<thinking>Before you can begin filling out this form, please ensure that this is the correct form for your internal controls certification registration. This form is intended for registering internal controls certifications, and it's essential to understand that internal controls certification is typically required for certain roles or positions within an organization. If you're not sure whether this form is applicable to you, please check with your supervisor or department head to confirm.
-
-If you're still unsure or have already completed this form, it's possible that you may have filled out a similar form in the past, and it's not necessary to complete it again. In this case, please check your previous submissions or contact the relevant authorities to ensure that you're not duplicating efforts.</thinking>
-
 # Internal Controls Certification Registration Form - Help Guide
 ## Purpose
 The Internal Controls Certification Registration Form is used to register internal controls certifications for various roles or positions within an organization. This form helps ensure that individuals with certified internal controls are documented and tracked, which is essential for maintaining accurate records and meeting regulatory requirements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # return-authorization-form-2020 - Help Guide
 ## Purpose
 The "Return-Authorization-Form-2020" is used to document and track return transactions in a secure and transparent manner. This form is used to verify that all necessary steps have been taken to return a customer's item, including authorization from the customer and confirmation of return time and date.

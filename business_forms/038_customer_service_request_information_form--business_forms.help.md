@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for customers to submit a service request to the customer service team. The form is split into three pages, each containing a specific set of fields. The fields are designed to gather information about the customer, their request, and any attachments or additional comments they would like to include.
 
 To fill out the form, please follow the steps below.

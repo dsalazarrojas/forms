@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for corporate governance quotations. The form is likely used to manage and document quotations for business services or projects provided by employees. It appears to be a general-purpose form and does not contain any sensitive or specific business logic that would make it unique to a particular company or industry. It's possible that this form is used as a template for other forms within the organization. Before proceeding, ensure that this form is not already covered by an existing form within the company.
-</thinking>
-
 # corporate_governance_quotation_form - Help Guide
 ## Purpose
 The corporate governance quotation form is used to collect information for corporate governance quotations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # environmental_cleaning_form - Help Guide
 ## Purpose
 The Environmental Cleaning Form is used to record information about cleaning services provided to customers. This form is intended for employees to report their work details, including the date and time worked, the type of service performed, and other relevant information.

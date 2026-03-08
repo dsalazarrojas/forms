@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to document the release of records from a landlord's records, typically after a tenant has vacated a rental property. The form is used to confirm that the records have been released, and to gather information about the release authorization and the type of records being released. The purpose of this form is to ensure that all necessary steps have been taken to release the records and to maintain an accurate record of the property's history. To ensure that this form is used correctly, it should only be used for actual releases, not for test or demo purposes.
-
-Note: This form is used for actual record releases, not for test or demo purposes. Please make sure to use this form only for legitimate releases, as it may contain sensitive information.
-
-</thinking>
-
 # landlord_records_release_form - Help Guide
 ## Purpose
 The "landlord_records_release_form" is used to document the release of records from a landlord's records, typically after a tenant has vacated a rental property.

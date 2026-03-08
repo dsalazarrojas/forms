@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect basic contact information from attendees of an open house event hosted by a business. The form likely serves as a way to gauge interest and gather feedback from potential customers or partners. To prevent duplicate submissions, it's essential to review the form's purpose and ensure attendees are not filling it out multiple times. It's possible that the form is designed to be filled out only once, during the event or at a specific time.
-</thinking>
-
 # welcome_to_our_open_house - Help Guide
 ## Purpose
 The welcome_to_our_open_house form is designed to gather contact information from attendees of an open house event hosted by a business.

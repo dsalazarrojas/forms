@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information related to purchase approvals within an organization. The purpose of this form is to ensure that all relevant information is captured and recorded for each purchase, including the purchase date, amount, type, and status. This form will likely be used by management to track and approve purchases within the company.
-</thinking>
-
 # Purchase Approval Form - Help Guide
 ## Purpose
 The Purchase Approval Form is used to gather information about purchases made within the organization, including the purchase date, amount, type, and status. This information is used by management to track and approve purchases.

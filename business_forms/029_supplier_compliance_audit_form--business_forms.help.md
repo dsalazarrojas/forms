@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Supplier Compliance Audit Form - Help Guide
 ## Purpose
 The Supplier Compliance Audit Form is designed to help you evaluate the compliance of your suppliers with your company's policies and procedures. This form is meant to be filled out by suppliers to provide information about their compliance status and any potential issues that need to be addressed.

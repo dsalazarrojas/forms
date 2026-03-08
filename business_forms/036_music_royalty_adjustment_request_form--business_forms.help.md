@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help ensure that this form is used correctly, we need to provide clear and concise instructions for end-users to understand its purpose and usage.
 
 **Music Royalty Adjustment Request Form - Help Guide**

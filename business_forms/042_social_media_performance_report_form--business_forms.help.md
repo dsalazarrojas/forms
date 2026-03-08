@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to support users in completing the social media performance report form. The form collects metrics on social media platforms and allows users to provide additional comments.
-The form is part of the business forms category.
-</thinking>
-
 # social_media_performance_report_form - Help Guide
 ## Purpose
 The social media performance report form is used to collect data on social media platforms and allow users to provide additional comments.

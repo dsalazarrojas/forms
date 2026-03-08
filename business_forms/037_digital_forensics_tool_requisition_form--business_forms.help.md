@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request a digital forensic tool for a specific case. The form is divided into two main sections: tool type, which helps the requestor specify the type of tool they need, and case details, which provides information about the case being investigated. The form is used by internal users to request tools for a case, and the information collected will help the team assign the appropriate tool and assign it to the correct user. It is essential to fill out this form carefully and accurately, as it will help the team provide the best possible support for the case.
-
-Please make sure to only fill out this form if it's necessary and that you have the necessary information and permission to do so. If you're unsure, you can reach out to the tool team for guidance.
-</thinking>
-
 # digital_forensics_tool_requisition_form - Help Guide
 ## Purpose
 This form is used to request a digital forensic tool for a specific case.

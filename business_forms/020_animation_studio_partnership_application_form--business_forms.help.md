@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning and validation**
-This form is used to gather information from potential animation studios or production companies that are interested in partnering with our company. The goal is to understand their studio's background, expertise, and what type of partnership they are interested in. This form will help us assess their suitability as a potential partner and ensure that we are not duplicating efforts with an already established partnership.
-</thinking>
-
 # Animation Studio Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from animation studios or production companies that are interested in partnering with us. By filling out this form, you will help us understand your studio's background, expertise, and what type of partnership you are interested in.

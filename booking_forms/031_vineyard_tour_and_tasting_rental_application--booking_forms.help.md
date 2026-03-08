@@ -1,10 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Vineyard Tour And Tasting Rental Application" form, I will first explain the form's purpose and internal reasoning. This form is designed to collect information from potential customers interested in booking a vineyard tour and tasting experience. The form's purpose is to gather essential details about the booking request, including general information, booking specifics, tour and tasting details, signed agreement, and contact information.
-
-To ensure that this form is relevant and non-duplication, I will base the help guide on the provided YAML fields, making sure to explain each field's label and intent without inventing unsupported business logic.
-
-</thinking>
-
 # Vineyard Tour And Tasting Rental Application - Help Guide
 ## Purpose
 This form is designed for potential customers to book a vineyard tour and tasting experience. It gathers essential information to process and confirm their booking requests.

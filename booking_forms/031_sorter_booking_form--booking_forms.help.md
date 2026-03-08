@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for booking a sorter, which is likely a machine or device used in various industries such as pharmaceuticals, food, or other fields where precise sorting is necessary. This form is designed to be completed by a user to provide details about the sorter being booked, including its booking date and time, flow rate, name, instrument name, and other relevant details. The form is intended to be completed by a single user, and it is not designed for multiple users to fill out simultaneously. The form's layout and fields are likely to be used in a specific application or software, and its purpose is to streamline data collection for efficient sorting operations.
-</thinking>
-
 # Sorter Booking Form - Help Guide
 ## Purpose
 This form is used to collect information for booking a sorter, which is a machine or device used for precise sorting in various industries.

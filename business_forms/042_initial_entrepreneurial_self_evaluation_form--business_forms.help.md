@@ -1,14 +1,3 @@
-<thinking>
-This form serves as a template for entrepreneurs to evaluate their business ideas and progress towards establishing a business. The form will help the creators of this form evaluate and categorize their business concepts, providing them with a clear and structured approach to assessing their entrepreneurial endeavors.
-The goal of this exercise is to ensure that entrepreneurs have a standardized and consistent way of evaluating and reporting their business progress, making it easier for them to track and compare their performance over time.
-The form will help the user to:
-- Evaluate their business ideas
-- Categorize their business into different categories
-- Track the progress of their business
-- Assign relevant tools and users for each form
-- Set status for each form
-</thinking>
-
 # Initial Entrepreneurial Self Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help entrepreneurs evaluate their business ideas and progress towards establishing a business. It provides a structured approach to categorize and track business progress.

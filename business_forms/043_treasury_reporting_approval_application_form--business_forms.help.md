@@ -1,7 +1,3 @@
-<thinking>
-The Treasury Reporting Approval Application Form is designed to assist managers and administrators in approving or rejecting treasury reports for submission. This form ensures that reports are properly verified and validated before they can be accepted or rejected. It helps to ensure consistency and accountability in the financial management process. Please ensure you only submit one form per report, and that you have all necessary supporting documents before filling out this form. Please note that this form is not meant for submitting new reports, but rather for validating and approving existing ones. Please make sure you are filling out this form for the correct report.
-</thinking>
-
 # Treasury Reporting Approval Application Form - Help Guide
 ## Purpose
 The Treasury Reporting Approval Application Form is a validation and approval process for treasury reports submitted by employees or departments. It allows managers and administrators to review and approve or reject reports based on certain criteria.

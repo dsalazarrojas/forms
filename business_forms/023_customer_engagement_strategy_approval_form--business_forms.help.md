@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information about a customer's engagement strategy, including their name, address, phone number, email, and other relevant details. It's essential to understand that this form is meant for internal business use, and the purpose of the engagement strategy is to improve customer relationships. To ensure accurate and complete information, please review each field carefully and fill it out accordingly.
-
-Before proceeding, please note that some fields are not required, but it's crucial to provide as much information as possible to create a comprehensive customer engagement strategy.
-
-</thinking>
-
 # customer-engagement-strategy-approval-form - Help Guide
 ## Purpose
 This form is used to gather information about a customer's engagement strategy, including their name, address, phone number, email, and other relevant details. The form is intended for internal business use to improve customer relationships.

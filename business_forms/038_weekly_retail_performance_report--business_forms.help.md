@@ -1,7 +1,3 @@
-<thinking>
-The "Weekly Retail Performance Report" form is used to record and report on the performance of individual retail stores, including sales, transactions, inventory, and other relevant metrics. This form is likely used by retail managers to track and analyze store performance over time, identify trends and areas for improvement, and make data-driven decisions to optimize store operations. To ensure accurate and comprehensive reporting, the form should be filled out for each store on a weekly basis, using the most up-to-date and accurate information available.
-</thinking>
-
 # Weekly Retail Performance Report - Help Guide
 ## Purpose
 The Weekly Retail Performance Report is a tool for retail managers to record and report on the performance of individual retail stores.

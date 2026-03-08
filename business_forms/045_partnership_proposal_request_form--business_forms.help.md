@@ -1,6 +1,3 @@
-<thinking>...
-This form is designed to be used by businesses and organizations to submit partnership proposals to your company. Please ensure you have read and understood the purpose of the form before proceeding. This form should not be resubmitted if a partnership proposal is already in progress or has been declined. If you have any questions or concerns, please contact your internal representative.</thinking>
-
 # Partnership Proposal Request Form - Help Guide
 ## Purpose
 The Partnership Proposal Request Form is used by businesses and organizations to submit partnership proposals to your company.

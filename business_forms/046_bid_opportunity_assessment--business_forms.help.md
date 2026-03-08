@@ -1,8 +1,3 @@
-<thinking>
-This form is used to assess the potential of a bid opportunity. It helps the user to evaluate the strategic fit, financials, resource availability, timeline, and risk factors of a bid. This assessment will guide the user in making an informed decision about whether to pursue or decline the opportunity. Please ensure that you have all relevant information available before starting the assessment. Note that some fields are required to be filled out to complete the form.
-
-</thinking>
-
 # Bid Opportunity Assessment - Help Guide
 ## Purpose
 

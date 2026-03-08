@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a booking for a photography session for women, and it's essential to fill it out accurately to ensure a smooth and successful shoot. Please review the form carefully and fill it out according to the instructions below.
-</thinking>
-
 # portrait_questionnaire_for_women - Help Guide
 ## Purpose
 This form is for booking a photography session for women. It requires you to provide essential details about the session, including the photographer, your name, contact information, and preferences for the shoot.

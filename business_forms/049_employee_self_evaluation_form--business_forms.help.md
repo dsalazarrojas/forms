@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 We will create a user-facing help guide for the "Employee Self Evaluation Form" to ensure end-users understand its purpose, how to complete it, and what each field means.
 
 To complete this form, users should have a basic understanding of their job titles, departments, and performance areas. They should also be prepared to provide honest and constructive feedback about their performance and their colleagues'.

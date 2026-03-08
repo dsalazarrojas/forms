@@ -1,24 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Process Standardization Assistance Request Form", we must consider the following fields:
-
-- **Request Details**: A field for users to describe their request, providing a brief overview of the process standardization assistance they require.
-- **Goal**: A field for users to define the primary goal of the request, helping to establish a clear understanding of the desired outcome.
-- **Urgency**: A numerical field to rate the level of urgency for the standardization process, providing a quantitative measure of the importance.
-- **Change Needs**: A field for users to specify the changes needed to standardize the process, allowing for a detailed understanding of the requested modifications.
-- **Impact**: A field allowing users to select the potential impact of standardizing the process, from High to Low.
-- **Operational Unit**: A field enabling users to select the operational unit that will be impacted by the standardization, such as HQ, Regional, Local, Division, or Team.
-- **Submitting Team**: A field for users to identify the team submitting the request, which can be useful for follow-up and collaboration.
-- **Contact Info**: A field for users to provide contact information, enabling the team to reach out or follow up on the request.
-- **Assigned To**: A field allowing users to select the person or team responsible for handling the standardization request.
-- **Submitted Date**: A date field indicating when the request was submitted.
-- **Review Status**: A field for users to track the current status of the review process, from Pending to Approved or Rejected.
-- **Comments**: A free-form text field for users to add any additional comments or information.
-- **Assigned Tool**: A field for users to select the tool assigned for handling the standardization request.
-- **Submitted By**: A field for users to input their email address, helping to identify the submitter.
-- **Submitted Time**: A field for users to input the time they submitted the request.
-
-By understanding these fields, users can effectively complete the form and provide necessary information for the standardization process. This form will help ensure that the submitted requests are properly assessed and handled, facilitating efficient processing and response.</thinking>
-
 # Process Standardization Assistance Request Form - Help Guide
 ## Purpose
 The Process Standardization Assistance Request Form is designed to collect information about process standardization requests from end-users. The form aims to capture essential details that will guide the process of reviewing and addressing these requests.

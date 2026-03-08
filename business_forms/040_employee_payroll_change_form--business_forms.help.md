@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be used for making changes to an employee's payroll information. The purpose of this form is to update an employee's details, specifically their employee ID, title, and salary. This form is likely to be used by HR or payroll administrators to update employee records in the company's database. There is no indication that this form is used for other purposes, and its fields suggest a focus on payroll changes.
-</thinking>
-
 # Employee Payroll Change Form - Help Guide
 ## Purpose
 The Employee Payroll Change Form is used to update an employee's payroll information, specifically their employee ID, title, and salary. This form helps HR or payroll administrators to efficiently make changes to employee records in the company's database.

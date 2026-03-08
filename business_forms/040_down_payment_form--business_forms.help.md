@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used to capture down payment information from clients, likely for a business or service-based industry. The down payment information could be used to track client payments, verify payment methods, and keep a record of client communication. Before filling out this form, please ensure you have all the necessary information and that the form is not a duplicate.
-
-This form is intended for business use and should not be used for personal purposes.
-</thinking>
-
 # Down Payment Form - Help Guide
 ## Purpose
 The Down Payment Form is used to capture down payment information from clients. This includes details such as client name, down payment date, payment method, amount paid, payment status, notes, assigned tool, client email, and payment date/time.

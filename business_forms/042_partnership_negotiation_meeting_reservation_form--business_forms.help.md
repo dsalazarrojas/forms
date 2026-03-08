@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form for users to reserve a partnership negotiation meeting. It's likely used by business teams or management to schedule and organize meetings with partners. Before filling out this form, make sure you're not reserving the same meeting twice. If you're unsure about any of the information, please ask your colleagues or superiors for clarification. 
 
 # Partnership Negotiation Meeting Reservation Form - Help Guide

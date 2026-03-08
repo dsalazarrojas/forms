@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "war Weekly Activity Report" form, based on the provided YAML fields. My goal is to make the form's purpose and each field's meaning clear, concise, and practical for end-users.</thinking>
-
 # war Weekly Activity Report - Help Guide
 ## Purpose
 The "war Weekly Activity Report" form is designed to collect feedback and insights from users about their weekly activities, including sales, appointments, recruiting, and other notable events or comments. This form helps managers and administrators track and analyze the team's performance, identify areas of improvement, and make informed decisions.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of the spa_session form is to collect information for a spa session, which is an essential part of a spa business operation. This form will help gather relevant details such as service type, date, time, customer contact information, and any additional service details. It's crucial that the form is completed accurately to ensure efficient service delivery and to maintain a smooth customer experience.
-
-When creating a spa session, please ensure that you're not duplicating an existing session. Check for any sessions with the same customer name, email, and phone number before proceeding.
-
-</thinking>
-
 # spa_session - Help Guide
 ## Purpose
 The spa_session form is designed to collect necessary information for a spa session, enabling the spa business to efficiently manage their operations and provide excellent customer service.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to provide a standardized way to record information about trade goods delivery status and details. This form should be used to track the progress of trade goods being delivered, including the delivery date, status, and any associated customer and order information. Before filling out this form, please ensure that you are using it to report on trade goods delivery that is not already documented in the system.
-</thinking>
-
 # Trade Goods Delivery Form - Help Guide
 ## Purpose
 The Trade Goods Delivery Form is a standardized form used to record information about trade goods being delivered, including the delivery date, status, and associated customer and order information.

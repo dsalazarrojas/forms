@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place an order for printed posters with a variety of options for poster size, design, payment method, and shipping details. The form should only be submitted if the customer has a legitimate reason for creating a new poster printing order. Please ensure you have reviewed and understand the poster printing process and requirements before proceeding.
-</thinking>
-
 # Poster Printing Order Form - Help Guide
 ## Purpose
 The Poster Printing Order Form is used to create a new poster printing order. Please fill out this form completely and accurately to ensure your order is processed correctly.

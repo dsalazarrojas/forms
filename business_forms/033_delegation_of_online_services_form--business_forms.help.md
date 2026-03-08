@@ -1,13 +1,3 @@
-<thinking>
-
-Before creating this form, it's essential to understand its purpose and the context in which it's being used. This form seems to be related to online services delegation, where the user is likely requesting or providing access to some services. The form likely serves as a tool for users to delegate tasks or services to others, possibly within a business or organizational setting.
-
-The form appears to gather various details such as service titles, descriptions, and passwords, which suggests that it might be used for service provision or management. However, the numerous service password fields seem out of place and might be a result of an incomplete or misconfigured schema.
-
-Given the complexity and length of the form, it's likely that this form is used for a specific business process that requires a lot of information. To ensure that end-users can complete the form correctly and avoid errors, it's crucial to have a clear and concise help guide that explains each field's purpose.
-
-</thinking>
-
 # Delegation Of Online Services Form - Help Guide
 
 ## Purpose

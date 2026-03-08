@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about booking details for media and audio feed events. Its purpose is to capture essential information from users, including event specifics, schedules, requested audio details, dates and times, and production team information. This form is intended for use in event management and coordination. Before attempting to complete this form, please ensure that you are filling out the correct form and that the information provided is accurate and relevant to your event.
-
-</thinking>
-
 # media_audio_feed_booking_form - Help Guide
 ## Purpose
 The purpose of this form is to collect booking details for media and audio feed events, including event specifics, schedules, requested audio details, dates and times, and production team information.

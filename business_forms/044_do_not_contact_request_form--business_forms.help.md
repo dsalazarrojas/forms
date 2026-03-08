@@ -1,7 +1,3 @@
-<thinking>
-We're checking if you're familiar with the purpose and usage of the Do Not Contact Request Form. The form is designed to help manage contact requests in a business setting. Please confirm that you're looking for information on how to fill out this form.
-</thinking>
-
 # Do Not Contact Request Form - Help Guide
 ## Purpose
 The Do Not Contact Request Form is used to document and manage contact requests in a business setting. It helps keep track of contact requests, their status, and the person(s) involved.

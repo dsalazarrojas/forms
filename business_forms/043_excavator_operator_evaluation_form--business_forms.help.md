@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to evaluate the performance and skills of an excavator operator, assessing their ability to operate and maintain equipment safely and effectively. This form will help assessors to gather information about the operator's experience hours, type of excavator they operate, and their adherence to safety procedures, reporting incidents, and training status, among other key areas. The evaluation form will serve as a basis for evaluating the operator's competence and providing feedback for professional development.
-
-To avoid duplication and ensure relevance, it is essential to review the information on the form carefully and ensure that it is not redundant or superfluous.
-
-</thinking>
-
 # Excavator Operator Evaluation Form - Help Guide
 
 ## Purpose

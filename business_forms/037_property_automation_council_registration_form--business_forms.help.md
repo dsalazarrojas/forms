@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from property owners who wish to register their properties with the Property Automation Council. It is essential to ensure that the property details are correct and complete to facilitate proper registration. Please note that this form should only be filled out once for each property. Duplicate submissions will not be accepted.
-</thinking>
-
 # Property Automation Council Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from property owners who wish to register their properties with the Property Automation Council. It is essential to ensure that the property details are correct and complete to facilitate proper registration.

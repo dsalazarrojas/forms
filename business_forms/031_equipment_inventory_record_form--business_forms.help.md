@@ -1,5 +1,3 @@
-<thinking>As a business, maintaining accurate and up-to-date inventory records is crucial for effective asset management and decision-making. This form helps employees and administrators record and track equipment inventory, enabling them to efficiently manage assets, identify maintenance needs, and make informed decisions. To ensure data accuracy, please complete the form carefully and thoroughly, and avoid duplicating records. Ensure that you fill out only the necessary fields, as indicated by the "required" flag in the form.</thinking>
-
 # Equipment Inventory Record Form - Help Guide
 ## Purpose
 This form is designed to collect detailed information about the equipment inventory, including its condition, location, and maintenance schedules. This data will help the organization make informed decisions and ensure the optimal use of its assets.

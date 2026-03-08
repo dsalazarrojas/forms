@@ -1,9 +1,3 @@
-<thinking>
-The form is used to request confirmation of stock availability from suppliers. This form is typically used when the business needs to verify with suppliers whether they have specific stock levels of products in their inventory. The purpose of this form is to ensure that the business has accurate information about the stock levels of their products and can make informed decisions about orders and stock management.
-
-This form should only be used for requesting stock confirmation from suppliers, and not for other purposes such as placing orders or making complaints. Suppliers may already have existing orders or other processes in place that require stock confirmation, so it's essential to ensure this form is used correctly and for the intended purpose.
-</thinking>
-
 # Stock Availability Confirmation Request Form - Help Guide
 ## Purpose
 The Stock Availability Confirmation Request Form is used to request confirmation of stock availability from suppliers. It helps ensure that the business has accurate information about stock levels of their products and can make informed decisions about orders and stock management.

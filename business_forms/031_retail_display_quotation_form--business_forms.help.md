@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information from customers for quotation purposes in a retail setting. It is essential to ensure that the form is completed accurately and thoroughly to provide the best possible service to the customer. The form should not be duplicated or used for other purposes, as it is specifically tailored for retail display quotation needs.
-
-</thinking>
-
 # retail_display_quotation_form - Help Guide
 ## Purpose
 This form is used to collect customer information and quotation details for retail display purposes. It includes fields for customer name, email, phone number, quotation request, quotation details, and payment method.

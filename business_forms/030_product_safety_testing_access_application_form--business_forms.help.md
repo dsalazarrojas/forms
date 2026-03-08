@@ -1,7 +1,3 @@
-<thinking>
-To create an accurate user-facing help guide, I need to determine the form's purpose and how to complete it.
-</thinking>
-
 # Product Safety Testing Access Application Form - Help Guide
 ## Purpose
 The Product Safety Testing Access Application Form is used to apply for access to conduct product safety testing. This form is typically used by companies or organizations that need to test their products for safety purposes. The form requires basic contact and company information, as well as the testing requirements.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from employees about their ideas for innovative projects that can improve productivity in the workplace. Employees can submit their ideas and provide details about their proposed projects, including the project's location, expected outcomes, funding needs, and start and end dates. The form is used to assess the viability of each project and determine whether it aligns with the company's goals and objectives.
-</thinking>
-
 # Employee Productivity Innovation Grant Application Form - Help Guide
 ## Purpose
 The Employee Productivity Innovation Grant Application Form is designed to collect information from employees about their ideas for innovative projects that can improve productivity in the workplace. This form is used to assess the viability of each project and determine whether it aligns with the company's goals and objectives.

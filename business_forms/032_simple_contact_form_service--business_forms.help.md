@@ -1,7 +1,3 @@
-<thinking>
-We'll assume that the form is being used for users to provide contact information, select a category, and possibly upload a file, and assign a tool. We'll also assume that the form is being used in a business context, so we'll explain the fields and options in that light. We'll also check for any potential duplication or redundancy in the fields and try to minimize it.
-</thinking>
-
 # Simple Contact Form Service - Help Guide
 ## Purpose
 The Simple Contact Form Service is a tool for users to provide contact information, select a category, and optionally upload a file, allowing your business to receive and manage customer feedback and inquiries.

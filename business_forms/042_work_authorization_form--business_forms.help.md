@@ -1,13 +1,3 @@
-<thinking>
-The form purpose is to collect information about a person's work authorization status, which includes their nationality, visa status, employment status, and other relevant details. This form is likely used for administrative or bureaucratic purposes, such as verifying a person's eligibility to work in a specific country or industry. 
-
-When designing this form, the following fields are included: first name, last name, date of birth, country of birth, country of residence, current visa, authorized to work, employment status, and work authorization number. These fields are designed to gather comprehensive data about the person's identity and work-related status.
-
-The form's fields are divided into several pages, but there is no specific reason for this, and it's possible that the form was designed with a different structure in mind. 
-
-The form is designed to be completed with a mix of free-text fields (first name, last name, country of birth, country of residence, and work authorization number) and select-type fields (date of birth, current visa, authorized to work, employment status). The options for the select-type fields are predefined, but the options themselves are not described in detail, which may require further explanation.
-</thinking>
-
 # Work Authorization Form - Help Guide
 ## Purpose
 The Work Authorization Form is used to collect information about a person's work authorization status, which includes their nationality, visa status, employment status, and other relevant details. This form is used for administrative or bureaucratic purposes, such as verifying a person's eligibility to work in a specific country or industry.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for renters to provide their contact information, profile, property preferences, property details, and renter application in a single submission. It ensures data accuracy and efficiency by guiding users through a clear, concise, and easy-to-follow process. Please make sure to complete this form carefully and accurately, as it will be used to evaluate and process your application.
-</thinking>
-
 # House Rental Application Form - Help Guide
 
 ## Purpose

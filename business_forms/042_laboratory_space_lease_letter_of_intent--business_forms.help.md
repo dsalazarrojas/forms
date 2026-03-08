@@ -1,9 +1,3 @@
-<thinking>
-This form is used by the laboratory management to create and manage laboratory space lease letters of intent. The form is essential for maintaining accurate and up-to-date information on lease terms, tenant-landlord contacts, and lease status. This information helps the laboratory management team to track and manage space utilization effectively. To prevent duplication, ensure that the form is only completed once for each laboratory space.
-
-The following help guide will walk you through the steps and fields to complete the form.
-</thinking>
-
 # Laboratory Space Lease Letter Of Intent - Help Guide
 ## Purpose
 This form is used to create and manage laboratory space lease letters of intent, which outlines the terms of a lease agreement between a laboratory and its tenant or landlord.

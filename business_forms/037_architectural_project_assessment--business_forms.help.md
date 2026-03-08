@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Architectural Project Assessment - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to gather data from organizations that are considering or have already started digital transformation initiatives. The purpose of this form is to collect information about the organization's current state in terms of digital maturity, their goals for the benchmark program, and their willingness to engage with consultants, research teams, and tech providers. This form is not meant to be filled out by individuals, but rather by organizations as a representative of their company.
-
-Before proceeding, please ensure that you are filling this form on behalf of your organization and not duplicating an existing entry. 
-
-Please note that some fields are optional, but all required fields are marked as such. 
-
-This form will be used to create a benchmark registration for your organization, which will help us understand your organization's needs and provide you with a personalized report on how to improve your digital transformation.
-
-Please fill out this form accurately and thoroughly, as the information collected will be used to tailor our services to your organization's specific needs.
-
-</thinking>
-
 # Digital Transformation Benchmark Registration - Help Guide
 ## Purpose
 The Digital Transformation Benchmark Registration form is designed to collect data from organizations that are undergoing or planning digital transformation initiatives. This information will help us understand their current state and provide tailored recommendations for improvement.

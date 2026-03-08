@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from potential lessees for the purpose of generating a lease contract. It is designed to be filled out by the lessee (the individual or organization seeking to enter into a lease agreement with a trucking company) when applying for a lease contract. This form does not contain any proprietary content and is an original adaptation of a form generated using public metadata as inspiration.
-This form has not been affiliated, endorsed, or derived from any other form platform, including Jotform, Google Forms, ODK Collect, Tally, Formbricks, or Cloudflare. This form is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and even distribute it, provided they give proper credit.
-The form consists of 8 fields and the purpose of this guide is to walk the user through each field and its corresponding instructions.
-</thinking>
-
 # owner-operator-lease-contract-application-form - Help Guide
 ## Purpose
 This form is used to gather information from potential lessees for the purpose of generating a lease contract. It is intended to be filled out by the lessee (the individual or organization seeking to enter into a lease agreement with a trucking company).

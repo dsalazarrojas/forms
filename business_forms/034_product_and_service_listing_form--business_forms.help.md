@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for business use, and as such, I'll assume it's a form used for internal business purposes, perhaps for a company's product or service offerings. I'll also assume that the form won't require any specific business logic or rules for a simple help guide. I'll aim to keep this guide concise and concrete, explaining each field in relation to the provided YAML fields.
-</thinking>
-
 # Product And Service Listing Form - Help Guide
 ## Purpose
 This form is designed to collect information about your company's products and services. It's used to create listings that will be displayed for customers to browse through your offerings.

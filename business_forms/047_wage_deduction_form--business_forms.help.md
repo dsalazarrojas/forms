@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form purpose and content is accurate and relevant to the employees. The form should only be used for wage deductions that are actually happening, and not for hypothetical or test cases. Additionally, we should verify that the form is not used to create duplicate entries for the same employee.
-</thinking>
-
 # Wage Deduction Form - Help Guide
 ## Purpose
 The Wage Deduction Form is used to record wage deductions for employees' paychecks. This form should be used when an employee's pay needs to be reduced due to various reasons such as loans, taxes, or other financial deductions.

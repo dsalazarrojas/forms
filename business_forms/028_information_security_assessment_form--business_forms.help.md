@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an organization's security measures and potential vulnerabilities. This form is intended to be used by authorized personnel within the organization to assess their current security posture and identify areas for improvement. It is not intended for external users or the general public.
-</thinking>
-
 # Information Security Assessment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your organization's security measures and potential vulnerabilities. This information will be used to assess your security posture and identify areas for improvement.

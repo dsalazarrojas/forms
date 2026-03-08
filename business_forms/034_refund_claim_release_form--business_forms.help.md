@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # refund_claim_release_form - Help Guide
 
 ## Purpose

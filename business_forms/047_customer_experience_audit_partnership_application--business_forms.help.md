@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from potential partners who wish to form a partnership with the company. The purpose of the form is to gather details about the partner's experience, expertise, and qualifications, which will be used to evaluate their suitability for the partnership.
 
 The form has several sections, each with its own set of fields, which are explained below.

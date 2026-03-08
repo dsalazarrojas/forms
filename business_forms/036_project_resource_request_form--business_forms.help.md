@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect project resource requests from project managers. This form is intended to help project managers submit requests for resources such as personnel, materials, or financial support for their projects. The form is designed to be completed by project managers to provide information about their projects, including project details, resource requirements, and priority levels. By using this form, project managers can ensure that their resource requests are accurately and efficiently submitted to the relevant teams or authorities for review and approval.
-
-Before completing this form, please ensure that you have a clear understanding of the project's goals, objectives, and timelines. Also, verify that the project ID and project name are correct to avoid duplication of effort.
-
-</thinking>
-
 # Project Resource Request Form - Help Guide
 
 ## Purpose

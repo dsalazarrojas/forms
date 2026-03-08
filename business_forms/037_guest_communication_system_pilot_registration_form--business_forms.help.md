@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "guest_communication_system_pilot_registration_form" form, we first need to understand the form's purpose and the reasoning behind its design. 
-
-The form's purpose is to collect information from guests, likely for a guest communication system. The form likely aims to gather various details such as property information, guest name, contact number, email, communication channel preferences, and channel status among other things. This form might be part of an internal system for managing guest communication within an organization, possibly for property management or hospitality industries. 
-
-Before creating the form, let's consider the possibility that this form might not be intended for public use, and its content and design might be specific to the organization's internal processes and policies. 
-
-This form might not be intended for general public use or might have specific requirements for internal use. Therefore, it's crucial to ensure that the form's content and design align with the organization's internal policies and procedures.
-
-After understanding the form's purpose and potential internal context, we can proceed with creating the help guide.
-
-</thinking>
-
 # guest_communication_system_pilot_registration_form - Help Guide
 ## Purpose
 The "guest_communication_system_pilot_registration_form" is designed to gather information from guests for the guest communication system. This form helps the organization manage guest communication effectively by collecting essential details such as property information, guest name, contact number, email, and communication channel preferences.

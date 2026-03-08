@@ -1,8 +1,3 @@
-<thinking>
-The form "legal_service_complaint_form" is designed to collect information about a complaint made against a legal service provider. This form likely serves as a starting point for the complaint process, allowing users to detail the issue, category, and any supporting documents. It's essential to ensure that all required fields are completed accurately to facilitate efficient processing of the complaint.
-To verify that the form is being used for its intended purpose, ensure that the fields are used for complaints related to legal services and not for any other reason.
-</thinking>
-
 # legal_service_complaint_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about a complaint made against a legal service provider. It helps to document the issue, category, and any supporting documents related to the complaint.

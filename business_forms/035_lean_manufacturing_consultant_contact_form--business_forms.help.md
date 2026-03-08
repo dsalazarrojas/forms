@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form designed to capture contact information and consultation preferences from potential clients or customers. The form is intended for business use, likely for sales or marketing purposes. To avoid duplication, it's essential to verify that the form is being filled out for the first time.
 
 </thinking>

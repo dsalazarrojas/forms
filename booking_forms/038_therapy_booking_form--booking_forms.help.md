@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for individuals to book therapy sessions with a professional. The user will be asked to provide their name, contact information, and preferences for the therapy session, including scheduling details and any special requests. This form is typically used for booking and scheduling purposes only and must not be used for any other purpose. Please ensure you are using this form for its intended purpose and do not duplicate or re-use it for other non-related tasks.
-
-</thinking>
-
 # Therapy Booking Form - Help Guide
 ## Purpose
 The Therapy Booking Form is a tool to help you book and schedule therapy sessions with a professional. Please use this form to provide your details and preferences for a convenient and efficient booking experience.

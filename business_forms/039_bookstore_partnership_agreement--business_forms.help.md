@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture partnership information for a bookstore. The form is designed to collect essential details about the bookstore and its partner, including their name, contact information, partnership type, and partnership terms. The form helps to establish a clear understanding of the partnership, including its start date, duration, commission or revenue share, and the responsibilities of both parties involved.
-</thinking>
-
 # Bookstore Partnership Agreement - Help Guide
 ## Purpose
 This form is intended for bookstores and their partners to outline the terms of their partnership. It is a necessary document for establishing a partnership agreement, ensuring both parties understand their roles, responsibilities, and expectations.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to request financial data cross checks, which implies verifying financial data for accuracy and completeness, possibly for audit or compliance purposes. This form could be used by businesses or financial institutions to ask for checks on financial records, transactions, or reports. It might be part of a process to ensure financial data is up-to-date, correct, and consistent. The form's completion and submission would trigger a review or verification process within the organization.
-</thinking>
-
 # Financial Data Cross Check Request Form - Help Guide
 
 ## Purpose

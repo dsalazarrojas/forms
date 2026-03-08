@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help users keep track of their daily tasks and their respective due dates, status, and notes. It's a simple form that allows users to create a list of tasks, each with a brief description, due date, and status. The form has five tasks, with an optional notes field at the end. This form will help users stay organized and ensure that they don't miss any important deadlines.
 
 # Daily Task Checklist Form - Help Guide

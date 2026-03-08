@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for corporate meetings. The purpose of this form is to gather details about the meeting, including attendee information and seating preferences. 
-
-The form has three sections: "Meeting Details Form", "Attendee Information Form" and "Seating Preferences". 
-
-The form's purpose and sections should be reviewed for relevance and non-duplication before proceeding with its completion.
-</thinking>
-
 # corporate_meeting_table_booking_form - Help Guide
 ## Purpose
 The corporate meeting booking form is used to collect essential details about meetings, including attendee information and seating requirements.

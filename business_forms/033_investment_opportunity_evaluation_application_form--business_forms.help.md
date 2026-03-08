@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investment Opportunity Evaluation Application Form - Help Guide
 ## Purpose
 This form is designed to help you provide a complete and accurate evaluation of an investment opportunity. It captures essential information about the company, its financial needs, and its risk level. This form will help our team assess the potential of the investment and identify areas that require further investigation.

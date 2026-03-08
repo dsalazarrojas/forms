@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, I'll base my explanation on the form's purpose and the properties of each field. Here's the guide:
 
 # Health Retreat Rental Application Form - Help Guide

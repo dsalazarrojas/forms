@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request an ID card, and it's likely used in a business setting. It's probably used for employee or staff identification purposes. I'll assume the form is used to manage employee ID cards and track their status. The purpose of this form is to collect information from the employee who needs an ID card, such as their name, department, and ID card type. The form might be used by HR or administrative staff to request or update ID cards.
-
-</thinking>
-
 # id_card_request_form - Help Guide
 ## Purpose
 This form is used to request an ID card for an employee.

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist internal team members in creating effective user-facing documentation for a customer search filter form. The form's purpose is to allow users to search for customers based on various filters, making it easier to find specific customers quickly. To ensure clarity and consistency, it's crucial to follow this guide when creating the help documentation to avoid duplication and maintain a high level of understanding among team members.
-
-This guide focuses on the provided YAML structure, which contains 12 fields with different types: text, select_one, select_multiple, date, time, note, email, and select_one options. Each field has a label, name, and type, which will be used to explain each field's purpose and how to complete it.
-
-</thinking>
-
 # customer_search_filter_form - Help Guide
 ## Purpose
 This form is designed to help users search for customers based on various filters, making it easier to find specific customers quickly.

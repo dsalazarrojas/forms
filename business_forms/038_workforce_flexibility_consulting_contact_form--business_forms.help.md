@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to gather information for workforce flexibility consulting contact purposes. It's intended to be a general-purpose contact form, allowing users to submit inquiries, requests, or feedback related to workforce flexibility consulting services. The form is divided into several sections, including personal details, contact information, and categories.
-
-To confirm, this form is not designed for a specific project or campaign, but rather as a general contact form for workforce flexibility consulting services. Please ensure you have not already submitted similar requests before filling out this form, as it might be a duplicate effort.
-
-Please fill out this form carefully, providing accurate and complete information about your needs and preferences.
-
-</thinking>
-
 # workforce_flexibility_consulting_contact_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Joint Venture Discharge Form - Help Guide
 
 ## Purpose

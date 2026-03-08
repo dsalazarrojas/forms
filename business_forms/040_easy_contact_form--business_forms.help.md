@@ -1,7 +1,3 @@
-<thinking>
-The Easy Contact Form is a simple form for end users to get in touch with your company or team. This form can be used to collect contact information, feedback, or other types of inquiries. Before filling out this form, ensure that you're using it for its intended purpose and not for spamming or abusive activities.
-</thinking>
-
 # Easy Contact Form - Help Guide
 ## Purpose
 The Easy Contact Form is a general-purpose form for contacting your company or team. It's intended to be used for legitimate inquiries, feedback, or other non-sensitive information sharing.

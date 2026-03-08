@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about improvement ideas for facility management. 
-It's intended for staff, vendors, and innovators to submit their ideas on how to improve the facility. 
-This guide will walk through the form's purpose, how to complete it, and field-by-field explanations. 
-Please note that this guide is for informational purposes only and is intended to supplement the form's functionality.
-
-</thinking>
 # Facility Management Innovation Application - Help Guide
 ## Purpose
 The Facility Management Innovation Application form is designed to collect improvement ideas from staff, vendors, and innovators. 

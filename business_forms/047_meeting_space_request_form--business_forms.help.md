@@ -1,10 +1,3 @@
-<thinking>
-The Meeting Space Request Form is intended to gather information about a meeting's details to determine the best available meeting space for the meeting attendees. This form will be used by meeting planners to request a meeting space that meets the specific needs of the meeting. The form should only be completed for meetings that are being held within the company. 
-
-Before filling out the form, please ensure that the meeting is not a duplicate or already scheduled. If you are unsure, please check the company's calendar to confirm.
-
-</thinking>
-
 # Meeting Space Request Form - Help Guide
 ## Purpose
 The Meeting Space Request Form is used to gather information about a meeting's details to determine the best available meeting space for the meeting attendees.

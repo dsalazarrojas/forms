@@ -1,11 +1,3 @@
-<thinking>
-This form is used by employees to request a change in the timing of their reimbursement. The employee is asked to provide their name, department, the date of the change, the amount of the timing adjustment, the reason for the change, the start and end dates of the new timing, and the signatures of their manager and department head. This form is likely used by HR or accounting teams to process and approve such changes.
-
-Note: Ensure the form is not used for non-legitimate purposes, such as to request reimbursement for unrelated expenses or to alter existing timing for personal gain.
-
-Also, ensure that all fields are filled in accurately and thoroughly before submitting the form.
-
-</thinking>
 # reimbursement_timing_adjustment_consent_form - Help Guide
 ## Purpose
 This form is used for employees to request a change in the timing of their reimbursement.

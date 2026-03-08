@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'd like to confirm that the form purpose is to collect information from a supplier evaluation questionnaire, and it's likely used to evaluate a supplier's performance in terms of various criteria such as quality, price, communication, and overall rating. This form might be used by purchasing teams or procurement departments within an organization. I'd like to ensure that the guide covers all the required fields and options, and that it's easy to understand for the end-users.</thinking>
-
 # Supplier Evaluation Questionnaire - Help Guide
 ## Purpose
 The Supplier Evaluation Questionnaire is used to collect feedback on a supplier's performance. This form asks questions about the supplier's information, contact details, evaluation criteria, and overall rating. It's a crucial tool to help purchasing teams make informed decisions about their suppliers.

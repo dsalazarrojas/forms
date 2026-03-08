@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from visitors who want to book or inquire about booking a space at the Health Innovation Camp. This form is likely used for events or conferences related to health and innovation. 
-The form is designed to be completed by a single user, but it may contain multiple fields for capturing information, such as names, email addresses, phone numbers, and notes. The "Your Name 2" and "Note 2" fields may indicate that this form is intended for multiple people or attendees, or that it's a second instance of the same type of information.
-</thinking>
-
 # Health Innovation Camp Booking Form - Help Guide
 ## Purpose
 The Health Innovation Camp Booking Form is a user-facing form designed to collect information from visitors who want to book or inquire about booking a space at the Health Innovation Camp. This form is intended for visitors to provide their contact information and event details.

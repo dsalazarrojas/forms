@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to track and report downtimes in the manufacturing process. It is intended to gather specific information about the duration and reason behind each downtime event, allowing for the analysis and improvement of production workflows. This form should only be used to document events that have already occurred. Please ensure that every entry is accurate and complete to provide useful insights.
-
-This form will be submitted to the production management team for review and further action. Please fill out the form with as much detail as possible.
-
-</thinking>
-
 # Process Downtime Log Report Form - Help Guide
 ## Purpose
 This form is used to log and report manufacturing process downtimes, providing a centralized record of events and their corresponding details.

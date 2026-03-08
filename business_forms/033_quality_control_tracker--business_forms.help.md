@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quality Control Tracker - Help Guide
 ## Purpose
 The Quality Control Tracker is a form used to track and document issues found during quality control inspections. This form helps ensure that all quality control issues are properly recorded, reported, and addressed in a timely manner. It serves as a centralized repository for tracking issues, their categories, and the status of corrective actions taken.

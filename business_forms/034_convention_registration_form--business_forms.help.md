@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to ensure that attendees understand the purpose and requirements of the convention registration form. It's crucial that attendees fill out the form accurately and completely, as the information collected will be used to personalize their experience and provide them with the necessary resources and accommodations. To guarantee unique registrations, we must prevent duplicate submissions. 
-</thinking>
-
 # Convention Registration Form - Help Guide
 ## Purpose
 

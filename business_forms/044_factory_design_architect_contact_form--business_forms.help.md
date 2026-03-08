@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Factory Design Architect Contact Form - Help Guide
 ## Purpose
 This form is designed for Factory Design Architect professionals to gather information and contact details from clients. Fill out this form to send a query or provide feedback about a design project.

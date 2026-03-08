@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Vendor Recommendation Form" used for users to recommend vendors, service providers, or other types of suppliers. It's crucial that the form is completed only once for each unique vendor, and that users avoid duplicating their efforts by not filling out the form multiple times for the same vendor. If a vendor has already been recommended, please do not fill out this form again as it may lead to duplicate effort and confusion.
-</thinking>
-
 # Vendor Recommendation Form - Help Guide
 ## Purpose
 The Vendor Recommendation Form is used to gather information about vendors, service providers, or other types of suppliers for the team's consideration.

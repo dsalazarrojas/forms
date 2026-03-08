@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Cross Functional Task Request Form is to collect information from team members to request tasks that require collaboration across different functional teams. This form ensures that tasks are properly assigned and managed, and helps to eliminate misunderstandings and miscommunications that can occur when teams work on tasks independently. To avoid duplication, please ensure that each form submission is unique and not a repeat of an existing task. If you're unsure if a task is already being worked on, please check the task board or ask your team lead before submitting this form.
-</thinking>
-
 # Cross Functional Task Request Form - Help Guide
 ## Purpose
 The Cross Functional Task Request Form is a tool used by team members to request tasks that require collaboration across different functional teams. It helps to ensure that tasks are properly assigned and managed, reducing the risk of misunderstandings and miscommunications.

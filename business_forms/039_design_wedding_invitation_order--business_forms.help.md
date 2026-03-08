@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a wedding invitation order. This form will likely be used by sales or customer support teams to gather necessary details to fulfill the order. It's essential to ensure that the correct information is entered to avoid delays or errors in processing the order. Please review the form carefully to ensure that all required fields are filled in accurately.</thinking>
-
 # Design Wedding Invitation Order - Help Guide
 ## Purpose
 The Design Wedding Invitation Order form is used to collect information from customers for their wedding invitation orders. This form helps sales or customer support teams gather the necessary details to fulfill the order accurately and efficiently.

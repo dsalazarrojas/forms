@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the purpose of this form is for a septic inspection, likely for real estate and property maintenance purposes. It gathers information about a specific property and its septic system. This form may be used by building inspectors, property owners, and other stakeholders to document and track septic inspections for regulatory compliance and property management.
-
-</thinking>
-
 # Septic Inspection Form - Help Guide
 ## Purpose
 The Septic Inspection Form is designed to collect information about a property's septic system, including its status, size, and inspection details. This form is used to document septic inspections for regulatory compliance and property maintenance purposes.

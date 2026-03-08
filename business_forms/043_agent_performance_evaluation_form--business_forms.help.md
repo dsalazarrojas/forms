@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for evaluating the performance of an agent or sales representative.
-The form assesses their ability to meet sales targets, interact with customers, adhere to company policies and processes, and work collaboratively with peers and management.
-The form aims to identify areas of strength and weakness, and provide a rating for overall performance.
-It is intended for use by evaluators who want to provide constructive feedback to agents.
-The form should not be used for other purposes.
-</thinking>
-
 # Agent Performance Evaluation Form - Help Guide
 ## Purpose
 The Agent Performance Evaluation Form is a tool used to assess the performance of an agent or sales representative during a given evaluation period. It helps evaluators provide feedback on key aspects of the agent's job and sets goals for future evaluations.

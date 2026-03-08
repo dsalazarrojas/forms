@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information and track process improvements within a business or organization. The form aims to gather data on process suggestions, categorization, priority levels, current status, impact on business and customers, implementation dates and times, assignees, status, due dates, follow-up dates and times, and follow-up notes. This form can be used to streamline and standardize the process improvement process, reducing duplication and ensuring that necessary information is captured consistently.
-
-Before filling out this form, please ensure that the process you are improving is a business process within your organization.
-
-</thinking>
-
 # Process Improvement Form - Help Guide
 ## Purpose
 The Process Improvement Form is designed to collect and track process improvements within your business or organization.

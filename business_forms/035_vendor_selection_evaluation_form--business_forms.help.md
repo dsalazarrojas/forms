@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Vendor Selection Evaluation Form is used to evaluate and select a vendor for a business project. This form allows users to choose multiple vendors from a list, rate their pricing, quality, and overall rating, and add any additional notes or details about the vendor. The form is designed to be flexible and adaptable to different types of projects and vendor relationships.
 
 # Vendor Selection Evaluation Form - Help Guide

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tell_a_friend_form - Help Guide
 ## Purpose
 The `tell_a_friend_form` is designed to facilitate communication between you and your colleagues or friends about a specific product or topic. This form allows you to select a product, send a message, and suggest it to a friend.

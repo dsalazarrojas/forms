@@ -1,13 +1,3 @@
-<thinking>
-
-We need to make sure that users have a good understanding of what the form is for and how to fill it out. This form is for requesting a custom invoicing system for business use. It's likely that the form is intended to be filled out by business users who are looking to implement a custom invoicing system for their company. We should check that the form isn't being filled out by users who don't need a custom solution or who are looking for general information about standard invoicing systems. This will help us ensure that we're providing the right support and resources to those who need them.
-
-We also need to consider that this form might be part of a larger workflow, and that the answers provided might be used to guide the development and implementation of the custom invoicing system. Therefore, it's essential that the user understands what each field is for and how it will be used.
-
-This form seems to be a comprehensive request form that covers various aspects of a custom invoicing system. Let's break it down and make sure that each field is clear and understandable.
-
-</thinking>
-
 # Custom Invoicing System Request Form - Help Guide
 ## Purpose
 The Custom Invoicing System Request Form is designed to gather information from businesses that require a custom invoicing system. This form will help us understand your specific needs and requirements for a custom solution.

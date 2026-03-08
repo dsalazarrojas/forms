@@ -1,13 +1,3 @@
-<thinking>This form is designed to capture information about a call center interaction between a customer and a representative. This form is intended to help collect accurate and detailed data about each call, which will aid in training, performance evaluation, and process improvement. The form should be completed after each call, and the information collected should be consistent with the company's standard processes.
-
-This form appears to be part of a call center's operations and is likely used for quality assurance, performance evaluation, and data analysis. The form includes various sections, such as call information, customer details, call summary, and resolution. The "Inbound" and "Outbound" options in the "Type of Call" field suggest that the form is used for both incoming and outgoing calls.
-
-The form has several required fields, including "Call Date", "Call Time", "Agent Name", "Agent ID", "Customer Name", "Customer Phone Number", "Reason for Call", "Call Summary", "Was the Issue Resolved?", "Escalation Needed?", and "Escalation Reason". These fields are essential for tracking call details and ensuring that the call center's operations run smoothly.
-
-To complete this form accurately, the user should ensure that all required fields are filled in completely and correctly. The user should also review the fields for completeness and accuracy before submitting the form.
-
-In this help guide, we will cover each section of the form and explain the purpose and requirements of each field.</thinking>
-
 # Call Center Form - Help Guide
 
 ## Purpose

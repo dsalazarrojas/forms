@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather feedback and ratings from customers about their experience with the seller, providing valuable insights for the seller's performance evaluation and improvement. The form collects information on various aspects of the interaction, including seller services, products, communication, punctuality, packaging, response time, and shipping costs. This information will help the seller to refine their business practices, address any issues, and provide better services to their customers.
-</thinking>
-
 # procurement survey - Help Guide
 ## Purpose
 This form is designed to gather feedback and ratings from customers about their experience with the seller, allowing us to evaluate and improve our seller's performance.

@@ -1,18 +1,3 @@
-<thinking>
-The purpose of the "Product Evaluation Checklist" form is to gather information about a product's evaluation, which is crucial for making informed decisions in a business setting. This form is likely used by product managers or quality assurance teams to assess a product's performance, features, and overall value. The form's design suggests it will be used for regular or periodic evaluations, possibly as part of a continuous product development process.
-
-To ensure the form is being used correctly, we must confirm that it is not being duplicated or used for other purposes. The fields included in the form seem to cover various aspects of product evaluation, such as labeling, details, and weights (possibly for scoring or prioritization), which implies it is meant to be a comprehensive evaluation tool.
-
-The form consists of six fields, each with a specific purpose:
-- **Product Labeling (1)**: A select_one field with two options, "Yes" and "No", which is likely used to determine whether the product meets certain criteria or standards.
-- **Evaluation Details (2)**: A text field for capturing specific details about the product's evaluation, such as its performance, features, or issues encountered.
-- **Weights (3)**: A number field for inputting weights or scores for the product's evaluation, possibly for prioritizing or ranking products.
-- **Evaluation Date (4)**: A date field for recording the date when the evaluation took place.
-- **Evaluation Time (5)**: A time field for recording the time spent on the evaluation.
-- **Evaluation Comment (6)**: A note field for capturing any additional comments or observations about the product's evaluation.
-
-</thinking>
-
 # Product Evaluation Checklist - Help Guide
 ## Purpose
 The Product Evaluation Checklist is a form used to gather information about a product's evaluation, essential for making informed decisions in a business setting.

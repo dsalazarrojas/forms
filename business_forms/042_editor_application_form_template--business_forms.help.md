@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from potential editors who wish to apply for editorial services. The form will gather details about their experience with video editing, the tools they use, and their availability for projects. This form will help assess their suitability for potential collaborations. The main goal is to get a comprehensive picture of the editor's skills, equipment, and experience, so that the best candidates can be selected for collaborations. This guide will explain each field in a clear and concise manner, making it easier for users to fill out the form correctly.
-
-</thinking>
-
 # Editor Application Form Template - Help Guide
 ## Purpose
 

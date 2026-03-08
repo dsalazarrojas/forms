@@ -1,24 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Daily Report Form", I'll start by analyzing the provided YAML fields to understand the form's purpose and structure. The form appears to be designed for users to report their daily activities or tasks, possibly for administrative or project management purposes. However, without further context, I'll assume the most basic interpretation, focusing on the fields and their possible uses.
-
-The form has 10 fields, each with a specific label, type, and optional/required status. The fields are:
-
-1. **Daily Report Form** (title)
-2. **Date** (date)
-3. **Time** (time)
-4. **Notes** (text)
-5. **Email** (email)
-6. **Phone** (text)
-7. **Category** (select_one: "Yes" or "No")
-8. **Sub Category** (select_multiple: multiple options, possibly for categorization or filtering)
-9. **Description** (text)
-10. **Assigned Tool** (text)
-
-Given the fields, I'll proceed with creating the help guide, aiming to provide a clear and concise explanation for each field.
-
-</thinking>
-
 # Daily Report Form - Help Guide
 ## Purpose
 The Daily Report Form is designed to facilitate users in reporting their daily activities or tasks. The form gathers essential information for administrative or project management purposes.

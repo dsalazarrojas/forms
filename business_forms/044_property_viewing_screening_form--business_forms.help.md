@@ -1,7 +1,3 @@
-<thinking>
-The Property Viewing Screening Form is used to collect information from a property viewer or tenant about their interests and availability for a specific property. This form is likely used by property managers or agents to screen potential tenants or clients. The form should only be completed once for each property viewing opportunity. Please ensure you only fill out this form once for each property viewing opportunity, as duplicate submissions can cause confusion and lead to incorrect data analysis.
-</thinking>
-
 # Property Viewing Screening Form - Help Guide
 ## Purpose
 The Property Viewing Screening Form collects relevant information from a property viewer or tenant about their interests and availability for a specific property. This information helps property managers or agents to better understand the viewer's or tenant's needs and preferences.

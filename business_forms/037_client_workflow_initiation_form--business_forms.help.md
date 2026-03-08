@@ -1,5 +1,3 @@
-<thinking>This form is designed for clients to initiate a new workflow, providing essential information about their project or request. It's crucial to fill out this form accurately to ensure that the project kickoff goes smoothly and meets your expectations. Please note that each field is labeled and explained below, and it's essential to fill out all required fields to avoid any potential issues or delays in the project initiation process.</thinking>
-
 # Client Workflow Initiation Form - Help Guide
 ## Purpose
 The Client Workflow Initiation Form is a crucial document that provides essential information about your project or request. It helps our team understand your needs, expectations, and requirements, ensuring a successful project kickoff.

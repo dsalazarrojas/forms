@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect budget limit settings for an administrator, ensuring that spending is tracked and controlled within a specified budget period. The form is used to define limits for various categories and periods, allowing for granular control over expenses. This form is essential for maintaining financial accountability and transparency within an organization.
-
-To ensure accuracy and relevance, please review the form carefully and only fill it out if you are an authorized administrator or have been granted access to do so.
-
-Please note that some fields may have specific requirements or dependencies, so be sure to review each field carefully to ensure you are providing the correct information.
-
-Also, be aware that some fields may have implications on how limits are set and enforced, so consider the overall impact of your settings on the organization's financials.
-
-</thinking>
-
 # Budget Limit Settings - Help Guide
 ## Purpose
 The Budget Limit Settings form is used to establish and manage budget limits for administrators within the organization. This form is essential for controlling expenses and ensuring that spending stays within allocated limits.

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning behind this form is as follows: The form is designed to gather information for pilot registration, allowing users to input details such as their name, email, phone number, and address. It is intended to be used for business purposes and is part of a larger system to manage various forms. The form does not have any specific dependencies and can be filled out independently. The form's structure suggests that it is meant to be completed by a single person or entity, rather than a group or organization. The form's fields are diverse, ranging from basic input fields (name, email, phone) to select and date fields. The form is likely to be used for internal purposes within an organization.
-</thinking>
-
 # Reusable Container Pilot Registration Form - Help Guide
 ## Purpose
 This form is designed to help pilot teams gather information for registration purposes. It includes various fields to capture details such as name, email, phone number, address, and other relevant data.

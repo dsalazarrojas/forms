@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a template for collecting information and agreement details related to cost sharing and business agreements. It is likely used for internal or external business operations, possibly for managing agreements between parties, tracking cost sharing arrangements, and documenting agreements. The form includes fields for user information, cost sharing details, approval, notes, dates, and contact information. However, I need to verify the purpose of each field to provide accurate guidance. Please let me know if this is correct or if there are any clarifications needed.</thinking>
-
 # Cost Allocation Sharing Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and document information about cost sharing and business agreements between parties. It is used to record and verify consent and agreement details.

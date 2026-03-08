@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # project_scalability_evaluation_form - Help Guide
 ## Purpose
 This form is designed to help project managers and team members evaluate the scalability of a project. It guides users through a series of questions to assess the project's potential for growth, resource allocation, and risk management.

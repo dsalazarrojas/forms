@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # farm_business_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information about a farm business, including its name, address, contact details, and business type. The form aims to gather essential data for registration and verification purposes. Please ensure you have the necessary permissions and approvals before filling out this form.

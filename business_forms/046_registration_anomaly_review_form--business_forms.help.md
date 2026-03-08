@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to review and document any registration anomalies that occur in the system. This form helps ensure that any issues or discrepancies are properly recorded and addressed, promoting transparency and accountability within the system. It is essential to fill out this form when a registration anomaly arises, so that it can be reviewed and resolved efficiently. To avoid duplication, please only fill out this form once for each anomaly. 
-
-This form is divided into several sections, each containing specific fields that gather relevant information about the anomaly. The fields are designed to be straightforward and easy to understand. Please take your time to fill out each field accurately, and make sure to provide as much detail as possible. The fields are not mandatory; however, providing as much information as possible will aid in the resolution process. 
-
-The form is designed to be flexible and adaptable to your specific needs. If you need to add more details or clarification to any field, please do so in the "Notes" section. 
-
-</thinking>
-
 # Registration Anomaly Review Form - Help Guide
 ## Purpose
 The Registration Anomaly Review Form is designed to record and review any registration anomalies that occur within the system. This form helps identify and document the issue, ensuring it is resolved efficiently and effectively.

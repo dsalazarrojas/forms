@@ -1,8 +1,3 @@
-<thinking>
-This form, called "payroll_audit_scheduling_application_form", is likely used within an organization to collect and process employee requests for payroll audits. The purpose of this form is to gather information from employees to schedule and conduct audits, ensuring that all necessary details are collected and the process is well-organized. This form will likely be used by HR or finance departments to streamline the audit process and minimize errors.
-Before starting to complete this form, ensure that you are authorized to request a payroll audit. If you are unsure, please contact your supervisor or HR representative for guidance.
-</thinking>
-
 # payroll_audit_scheduling_application_form - Help Guide
 ## Purpose
 This form is used to collect information for payroll audits from employees. It is essential to complete this form accurately to ensure that the audit process is well-organized and efficient.

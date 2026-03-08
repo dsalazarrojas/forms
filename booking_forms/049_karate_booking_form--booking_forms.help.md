@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Karate Booking Form - Help Guide
 ## Purpose
 This form is used for booking a karate lesson with a chosen tutor. You will be asked to provide your contact information, choose a booking time, select a tutor, and add any additional notes.

@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to collect information and approvals for product development records release. This form captures key details such as project ID, product title, team lead information, product description, release date, and approval from reviewers. The form also includes fields for team lead and reviewer contact information, as well as fields for release status and release recipient. It's crucial to fill out this form accurately to ensure smooth and efficient product development records release process.</thinking>
-
 # Product Development Records Release Form - Help Guide
 ## Purpose
 The Product Development Records Release Form is designed to collect essential information for releasing product development records. This form helps track project progress, ensure accurate data, and facilitate smooth communication within the development team and stakeholders.

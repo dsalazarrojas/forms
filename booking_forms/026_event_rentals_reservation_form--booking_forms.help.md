@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for event rentals reservations. It is not affiliated with, endorsed by, or derived from any form platform, but rather an AI-generated form created using public survey topic metadata as inspiration. The form is an original adaptation and does not copy, extract, or use proprietary content from any other form creation, data collection, or survey platform. It is released under CC BY 4.0, allowing for free use, modification, and even sale of derived forms, provided credit is given.
-</thinking>
-
 # Event Rentals Reservation Form - Help Guide
 ## Purpose
 This form is intended to collect information for event rentals reservations. It is designed to be completed by individuals interested in renting a specific event space or facility.

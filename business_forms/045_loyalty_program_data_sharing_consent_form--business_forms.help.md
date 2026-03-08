@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Loyalty Program Data Sharing Consent Form - Help Guide
 ## Purpose
 The purpose of this form is to obtain your consent for sharing your loyalty program data with our partners and affiliates. This information will help us better understand your preferences and tailor our programs to your needs.

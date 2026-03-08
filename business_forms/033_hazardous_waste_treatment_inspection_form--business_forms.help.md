@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's first review the form purpose and ensure it's not duplicated. Based on the YAML, this form appears to be a comprehensive inspection form for hazardous waste treatment, covering various aspects such as treatment types, options, and dates. It seems to be designed for businesses or regulatory agencies to track and report on hazardous waste treatment. To confirm, let's check if there are any similar forms with overlapping fields or purposes. After reviewing, it seems that this form is distinct and serves a specific purpose.</thinking>
-
 # Hazardous Waste Treatment Inspection Form - Help Guide
 ## Purpose
 This form is designed for businesses or regulatory agencies to track and report on hazardous waste treatment. It's used to gather information about the treatment type, options, and other relevant details.

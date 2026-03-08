@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients for printing security wristbands. This form will be used by administrators to collect and process client information, order details, and payment information for wristband printing services. To ensure accurate and complete information is collected, it is essential to follow the guidelines provided in this help guide. Before proceeding, please review the form carefully to avoid duplication of efforts and ensure all required information is collected correctly.
-</thinking>
-
 # Security Wristband Printing Booking Form - Help Guide
 ## Purpose
 This form is used to collect client information, order details, and payment information for printing security wristbands.

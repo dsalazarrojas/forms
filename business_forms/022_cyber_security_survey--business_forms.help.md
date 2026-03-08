@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their cyber security concerns. It is intended to be completed by individuals who want to provide feedback or input on their experiences or thoughts on cyber security issues. This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata. The purpose of this form is to collect user input on cyber security concerns.
-
-</thinking>
-
 # Cyber Security Survey - Help Guide
 ## Purpose
 This form is designed to collect information from users about their cyber security concerns. It is intended to gather feedback or input on their experiences or thoughts on cyber security issues.

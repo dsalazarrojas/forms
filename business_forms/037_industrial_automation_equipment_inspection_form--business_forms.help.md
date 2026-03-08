@@ -1,7 +1,3 @@
-<thinking>
-This form is used for inspecting industrial automation equipment. It is designed to track the condition, maintenance, and other relevant information about the equipment. This form should only be filled out by authorized personnel and should not be used for any other purpose than tracking equipment inspection data. The form is used in conjunction with other internal systems and should not be filled out multiple times for the same equipment.
-</thinking>
-
 # industrial_automation_equipment_inspection_form - Help Guide
 ## Purpose
 This form is used to collect information about industrial automation equipment, including its condition, maintenance, and other relevant details.

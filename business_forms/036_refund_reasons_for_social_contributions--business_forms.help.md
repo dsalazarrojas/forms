@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to record reasons for refunds on social contributions made by employees. Refunds are a key part of the business process to address over- or under- payments made by employees. This form will guide the user through the necessary steps to complete the refund process, ensuring accuracy and completeness.
 
 # Refund Reasons For Social Contributions - Help Guide

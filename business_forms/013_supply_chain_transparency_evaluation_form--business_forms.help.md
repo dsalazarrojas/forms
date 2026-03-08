@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure the integrity of this form, let's break down the purpose and process of the Supply Chain Transparency Evaluation Form:
 
 The Supply Chain Transparency Evaluation Form is designed to evaluate the suppliers' data, business information, contact data, address data, product information, supply chain information, certification information, and compliance information. The form assesses the suppliers' transparency and compliance with industry standards. This form is intended to provide a comprehensive evaluation of the suppliers' data and help buyers make informed decisions. 

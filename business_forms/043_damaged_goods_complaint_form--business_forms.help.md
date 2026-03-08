@@ -1,10 +1,3 @@
-<thinking>
-This form is for customers to report damaged goods. The purpose of this form is to collect information about the customer's experience with a product that they believe is defective or damaged. This form will help the business understand the nature of the issue and potentially address it. Please complete the form carefully and only submit it if you are experiencing a problem with your purchase. 
-
-Before filling out this form, check if you have already submitted one for the same issue. This will help us process your complaint more efficiently and avoid duplication of effort.
-
-</thinking>
-
 # Damaged Goods Complaint Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an appointment to view the overview of a business that's crushing it. Before filling out this form, please ensure you are not requesting a meeting with someone who is not authorized to receive such an offer.
-</thinking>
-
 # Appointment Request Form To See The Overview Of A Business That's Crushing It - Help Guide
 ## Purpose
 

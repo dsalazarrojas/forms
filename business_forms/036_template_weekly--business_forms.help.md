@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Template Weekly" form is to collect various types of information related to a business, including categorization, business contact details, and other relevant data. This form appears to be used for general business information collection, possibly for internal use or for generating reports. However, to confirm this, we would need more information on the form's actual use case or the specific requirements for this form within the organization.
-</thinking>
-
 # Template Weekly - Help Guide
 ## Purpose
 The "Template Weekly" form is a collection of various fields used to gather information about businesses. This form can be used for internal purposes, such as generating reports, or for external use, such as data collection for research or business analysis.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Punch List Form - Help Guide
 ## Purpose
 The Punch List Form is used to track and manage tasks and their status within the organization. It allows users to assign tasks to employees, set due dates, and track progress. The form is essential for ensuring tasks are completed efficiently and on time.

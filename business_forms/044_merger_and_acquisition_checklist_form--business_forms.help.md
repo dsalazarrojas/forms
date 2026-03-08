@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of completing a merger and acquisition (M&A) checklist. The purpose of this form is to ensure that all necessary information is collected and reviewed during the M&A process, including company information, acquisition details, financial due diligence, risk assessment, and valuation. This form is intended to be used as a checklist to ensure that all required information is gathered and reviewed before proceeding with the M&A process.
-
-To complete this form, users will be required to provide information on the following:
-
-* Company information, including the type of acquisition and the target business location.
-* Acquisition details, including the acquisition price and type (asset, stock, or hybrid).
-* Valuation methodology and financial model.
-* Financial due diligence, including a financial model and valuation model.
-* Risk assessment, including risk factors and risk factor details.
-* Valuation basis and methodology.
-
-This form is designed to be completed by a team of professionals involved in the M&A process, including lawyers, accountants, and other stakeholders.
-
-</thinking>
-
 # Merger And Acquisition Checklist Form - Help Guide
 ## Purpose
 The Merger And Acquisition Checklist Form is designed to guide users through the process of completing a merger and acquisition process.

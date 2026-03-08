@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request confirmation of tax compliance by the business. It's essential to fill out this form accurately to ensure that the business has met the required tax standards. Before filling out this form, please ensure that you have reviewed the business's tax status and have the necessary supporting documents. If the business is not in compliance, please indicate this in the "What is the current tax status" field. If the business has supporting documents, please upload them in the "Supporting Documents" field.
-</thinking>
-
 # Tax Compliance Confirmation Request Form - Help Guide
 
 ## Purpose

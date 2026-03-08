@@ -1,8 +1,3 @@
-<thinking>
-The Rental Agreement Declaration Form is used to collect information from both the tenant and the landlord regarding the rental agreement, including contact details, rental terms, and signed copies of the agreement. This form ensures that all parties involved in the rental agreement have the necessary information and sign off on the agreement, providing a clear record of the agreement. The form should only be used for collecting data from tenants and landlords for a rental agreement. Do not use this form for other purposes.
-
-</thinking>
-
 # Rental Agreement Declaration Form - Help Guide
 ## Purpose
 The Rental Agreement Declaration Form is a document used to collect information from both the tenant and the landlord regarding the rental agreement, ensuring a clear record of the agreement.

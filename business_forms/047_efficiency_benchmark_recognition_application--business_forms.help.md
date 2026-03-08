@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate the nomination and recognition of efficiency benchmarks within an organization. It's intended for use in a business setting, likely within a company or institution that values productivity and performance. The form's purpose is to gather information about an individual or team's achievements, which can be used to identify areas of excellence and provide incentives or rewards.
-
-Before filling out this form, please ensure you're familiar with the organization's efficiency benchmarking process and have the necessary authority to submit nominations. Duplicate nominations for the same individual or team are not allowed. If you're unsure about the form's usage or have questions, please reach out to the form's administrators at form@gic.mx.
-</thinking>
-
 # Efficiency Benchmark Recognition Application - Help Guide
 ## Purpose
 The Efficiency Benchmark Recognition Application form is designed to collect information about individual or team achievements in efficiency benchmarks within your organization.

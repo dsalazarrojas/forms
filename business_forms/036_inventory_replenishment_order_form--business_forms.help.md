@@ -1,9 +1,3 @@
-<thinking>
-This form is used to create, edit, or manage inventory replenishment orders for businesses and their associated forms. The form is divided into different sections and fields that allow users to input and update information related to businesses and their forms. 
-The form can be completed in multiple steps, starting from selecting the type of form to be used, choosing the business and order forms involved, inputting details such as names and URLs, and finally, providing additional information like email, phone number, and notes. The form aims to provide a comprehensive overview of the business and order forms and their associated information for efficient management and processing.
-The form fields are mostly self-explanatory, but some might require additional clarification.
-</thinking>
-
 # Inventory Replenishment Order Form - Help Guide
 ## Purpose
 This form is used to create, edit, or manage inventory replenishment orders for businesses and their associated forms.

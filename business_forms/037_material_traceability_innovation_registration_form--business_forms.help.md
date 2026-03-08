@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help businesses and organizations register their material traceability innovations. The main goal of this form is to collect and track information about new materials, substances, or products that have been developed or improved upon. This information will be used to create a record of the innovation, which can be shared with potential partners, customers, or regulatory bodies.
-
-Before filling out this form, please ensure that you are not duplicating an existing innovation. It's also essential to fill out the form accurately and completely, as the information provided will be used to create a detailed record.
-
-This form has multiple pages, each with a specific purpose:
-* The Main Page collects general information about the innovation, such as its title and description.
-* The Contact Info Page gathers contact details of the innovation owner or submitter.
-* The Innovation Info Page collects additional information about the innovation, such as its characteristics and benefits.
-</thinking>
-
 # Material Traceability Innovation Registration Form - Help Guide
 ## Purpose
 This form is designed to register and track new materials, substances, or products that have been developed or improved upon.

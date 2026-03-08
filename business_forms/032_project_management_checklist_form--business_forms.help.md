@@ -1,12 +1,3 @@
-<thinking> 
-  To create a user-friendly help guide for this form, we first need to understand its purpose and the information it aims to collect from users. The form's title suggests that it's for project management, and the fields seem to be related to project deadlines. However, it appears that the form is designed to collect multiple deadlines for a project, which might be a list of milestones or target dates for various tasks or deliverables. The form is a multiple-choice form with two-page layout, collecting "Yes" or "No" answers for "project_management_checklist" and "project_status", along with dates for 28 different "deadlines".
-  
-  It seems that this form might be intended for project managers or team leaders to quickly assess the status and progress of multiple projects, possibly to create a high-level overview of project timelines.
-  
-  Before creating a comprehensive help guide, let's confirm the form's purpose and potential use cases to ensure the explanations are clear and relevant to the intended users.
-  
-  </thinking>
-
 # project_management_checklist_form - Help Guide
 ## Purpose
 The project management checklist form is a tool for project managers or team leaders to quickly assess and track the status of multiple projects. It helps you to evaluate projects with multiple deadlines and milestones.

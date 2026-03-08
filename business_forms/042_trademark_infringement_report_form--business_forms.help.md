@@ -1,7 +1,3 @@
-<thinking>
-We need to verify that this form is indeed intended to collect data for trademark infringement reports. This form is likely used to gather information from parties reporting potential trademark infringement cases. The fields provided seem to be a mix of general contact information, trademark specifics (name, type, status), and details about the reported infringement. We should make sure to highlight the importance of accuracy and completeness in filling out the form to ensure that the reported cases are properly evaluated.
-</thinking>
-
 # Trademark Infringement Report Form - Help Guide
 ## Purpose
 The Trademark Infringement Report Form is designed to collect information from parties reporting potential trademark infringements. This form helps us gather necessary details to evaluate the case and take appropriate action.

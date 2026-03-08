@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vehicle Verification Form - Help Guide
 ## Purpose
 This form is used to verify vehicle details for any purpose related to vehicle-related services, such as insurance claims, vehicle registration, or other vehicle-related administrative tasks. Please fill out this form accurately to ensure that the information is up-to-date and correct.

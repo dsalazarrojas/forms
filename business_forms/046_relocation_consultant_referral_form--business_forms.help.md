@@ -1,15 +1,3 @@
-<thinking>
-
-A relocation consultant referral form is used to gather information from clients and consultants about potential relocation opportunities. To ensure accurate data entry, please verify that the form is being completed for the correct purpose and not used as a template.
-
-When filling out this form, please ensure that:
-
-* You are filling out the form for the intended purpose and not using it for other business purposes.
-* You have the necessary permissions and approvals to collect this information.
-* You have reviewed and understand the fields and their meanings.
-
-</thinking>
-
 # Relocation Consultant Referral Form - Help Guide
 ## Purpose
 The Relocation Consultant Referral Form is used to gather information from clients and consultants about potential relocation opportunities. This form helps us understand the client's and consultant's needs, preferences, and interests related to relocation.

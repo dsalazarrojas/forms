@@ -1,31 +1,3 @@
-<thinking>
-This form, "fleet_maintenance_check_out_form", is intended to capture essential information for checking out a vehicle from a fleet maintenance process. To ensure accurate and efficient completion, please review the purpose and instructions below.
-
-The form is used to provide a detailed overview of a vehicle's maintenance status and history, including its condition, maintenance tasks, and technician information. This form will help ensure that all necessary steps are taken before a vehicle is checked out, and that important details are recorded accurately.
-
-The form requires the following fields:
-* Vehicle ID: A unique identifier for the vehicle.
-* VIN: Vehicle Identification Number, a 17-character code that uniquely identifies the vehicle.
-* Mileage: The current mileage of the vehicle.
-* Email: The contact email of the owner or authorized personnel.
-* Phone: The contact phone number of the owner or authorized personnel.
-* Address: The address of the vehicle's location.
-* City: The city where the vehicle is located.
-* State: The state where the vehicle is located.
-* Zip: The zip code of the vehicle's location.
-* Vehicle Condition: The current condition of the vehicle, which can be selected from "Good", "Bad", or "Fair".
-* Maintenance Status: The status of the maintenance tasks, which can be selected from "Completed", "Pending", or "Cancelled".
-* Technician Name: The name of the technician who performed the maintenance tasks.
-* Technician Signature: A confirmation that the technician has reviewed and signed off the maintenance tasks.
-* Comments: Additional comments or notes about the maintenance process.
-* Due Date: The date by which the maintenance tasks are due.
-* Actual Completion Date: The date when the maintenance tasks were actually completed.
-* Vehicle Number: The vehicle's number.
-* Maintenance Frequency: The frequency of the maintenance tasks, which can be input manually.
-* Notes: Additional notes about the maintenance process.
-* Service Notes: Additional notes about the service process.
-</thinking>
-
 # fleet_maintenance_check_out_form - Help Guide
 ## Purpose
 This form is used to capture essential information for checking out a vehicle from a fleet maintenance process.

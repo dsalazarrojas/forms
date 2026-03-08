@@ -1,24 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a vendor's sustainability practices and certifications. This form is likely used in a business setting to assess a vendor's commitment to sustainable practices and compliance with relevant standards. The form is designed to be filled out by a vendor representative, providing details about their company's sustainability practices, certifications, and uploaded documents.
-
-Before filling out this form, please ensure that you are authorized to provide this information on behalf of your company. If you are unsure, please reach out to your contact person or the form owner for guidance.
-
-This form is meant to be a comprehensive assessment of a vendor's sustainability performance. Please fill out the form carefully and accurately to ensure that the vendor's information is up-to-date and consistent.
-
-The form consists of the following pages:
-
-Page 1: Contact Information
-Page 2: Company Information
-Page 3: Sustainability Practices (Select Multiple)
-Page 4: Certifications
-Page 5: Documents (Text Input)
-Page 6: Upload Documents (Text Input)
-Page 7: Notes (Note Field)
-
-Please note that some fields are required to be filled out, indicated by a asterisk (\*). 
-
-</thinking>
-
 # Vendor Sustainability Compliance Report Form - Help Guide
 ## Purpose
 The Vendor Sustainability Compliance Report Form is designed to gather information about a vendor's sustainability practices and certifications.

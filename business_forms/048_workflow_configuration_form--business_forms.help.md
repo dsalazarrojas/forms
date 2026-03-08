@@ -1,36 +1,3 @@
-<thinking>
-This form is used to create or edit a workflow configuration. A workflow configuration represents a sequence of tasks that need to be performed for a business process. This form is used to specify the general details of a workflow, such as its title, description, start and end dates, form ID, status, and other relevant information. It is essential to fill out this form accurately to ensure that workflows are properly configured and can be easily managed.
-
-The form can be used to create a new workflow configuration or edit an existing one. The required fields are marked with an asterisk (\*) and must be filled out accordingly. The optional fields are not compulsory but can be filled out for additional information.
-
-The following fields are available on this form:
-
-*   Business form* (Number): 
-    This field specifies the type of business process being configured. Select "1" for business form 1.
-*   Workflow name* (Text): 
-    Enter a name for the workflow.
-*   Description (Text): 
-    Add a description for the workflow, providing more information about its purpose and scope.
-*   Start date* (Date): 
-    Specify the start date for the workflow.
-*   End date* (Date): 
-    Specify the end date for the workflow.
-*   Form ID* (Number): 
-    Enter a unique ID for the workflow.
-*   Workflow status* (Select One): 
-    Select the status of the workflow: Draft, Review, or Published.
-*   Assignee (Select Multiple): 
-    Select one or more users who will be assigned to the workflow.
-*   Notes (Note): 
-    Add any additional comments or notes about the workflow.
-*   Email address (Email): 
-    Enter an email address for contact purposes.
-*   Phone number (Text): 
-    Enter a phone number for contact purposes.
-
-This form is used to configure and manage workflows efficiently. Make sure to fill out the required fields carefully to ensure accurate and correct workflow configurations.
-</thinking>
-
 # Workflow Configuration Form - Help Guide
 ## Purpose
 This form is used to create or edit a workflow configuration.

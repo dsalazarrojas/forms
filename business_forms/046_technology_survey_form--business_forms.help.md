@@ -1,13 +1,3 @@
-<thinking>
-This form is likely used by IT teams to gather information about employee's usage of computer applications, technologies, and other relevant metrics. To ensure accuracy, the form should only be filled out by actual employees of the company.
-
-Before filling out this form, check that:
-
-- You are a current employee of the company.
-- You have not filled out this form before.
-
-</thinking>
-
 # Technology Survey Form - Help Guide
 ## Purpose
 The Technology Survey Form is used by IT teams to gather information about employee's usage of computer applications, technologies, and other metrics. This form will help IT teams understand the technology landscape within the company and make informed decisions to support employees' needs.

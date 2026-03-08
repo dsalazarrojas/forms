@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to capture information from participants who wish to register for an executive master class. The form will be used to collect details such as participant information, registration details, billing details, and payment information. This form will likely be used by the organization offering the master class to facilitate the registration process and collect necessary information from participants.
-Before filling out this form, please ensure that the purpose of the executive master class is clear and relevant to your needs. If you're unsure, kindly contact the organizing team for more information.
-This guide will walk you through each page of the form and what to expect in each section.
-</thinking>
-
 # executive_master_class_registration_form - Help Guide
 ## Purpose
 This guide will walk you through the executive master class registration form. This form is designed to collect information from participants registering for the executive master class.

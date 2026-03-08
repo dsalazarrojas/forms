@@ -1,13 +1,3 @@
-<thinking>
-This guide will cover the "Aquarium Group Tour Reservation Form" which is intended for schools, groups, and organizations to plan and book an aquarium tour. The form will check for duplicate or non-essential submissions, ensuring that each request is unique and valid.
-
-The form collects contact information for the group, tour details, and tour preferences such as date, time, and type of tour. The form also inquires about dietary restrictions, accessibility needs, and any special interests or focus areas. 
-
-The form purpose is to streamline the planning and reservation process, reducing administrative burden and ensuring accurate and relevant information for the aquarium staff to manage the tour.
-
-To create a more user-friendly experience, we will cover the form's purpose, how to complete it, and each field's explanation in detail.
-</thinking>
-
 # Aquarium Group Tour Reservation Form - Help Guide
 ## Purpose
 The "Aquarium Group Tour Reservation Form" is designed to streamline the planning and reservation process for school groups, organizations, and other groups visiting the aquarium. Please fill out the form with accurate information to ensure a smooth and enjoyable experience for everyone.

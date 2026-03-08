@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shelf Compliance Audit Application Form - Help Guide
 
 ## Purpose

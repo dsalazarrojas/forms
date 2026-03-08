@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to reserve a space for a garden event. The purpose of this form is to collect information about the event, including details about the event itself, contact information for the event organizers, and specific information about the space being reserved. This form is likely used by event organizers or coordinators to manage and track reservations for garden events. The form's layout and fields are likely influenced by the need to gather specific, practical information for planning and hosting successful events.
-</thinking>
-
 # Garden Event Space Reservation Form - Help Guide
 ## Purpose
 The Garden Event Space Reservation Form is designed to collect information about events held in garden spaces. The form will help event organizers plan and manage their events effectively by gathering details about the event, contact information, and specific space information.

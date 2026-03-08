@@ -1,7 +1,3 @@
-<thinking>
-This is a form to collect information for energy intelligence grant applications. The form is used to gather details about a project, including its title, contact information, project team, project status, project funding, project start and end dates, energy source, project location type, energy production capacity, project status notes, contact information notes, project location notes, project funding notes, project team notes, project notes, energy source notes, project location type notes, project funding, project funding currency, project total funding, project start date range, project end date range, and project budget. This form should only be completed by authorized personnel. Please ensure that you are eligible to submit this form and that the information provided is accurate and complete. Duplicate submissions will not be accepted.
-</thinking>
-
 # Energy Intelligence Grant Application Form - Help Guide
 ## Purpose
 The Energy Intelligence Grant Application Form is a tool used to collect information for energy intelligence grant applications. It is designed to gather all the necessary details about a project to ensure accurate and complete submission.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be a user-facing booking form for the "Video Wall Display" feature. The form is used to gather information from users to book a video wall display. The form should only be submitted for a genuine purpose and not for spamming purposes, and it's essential to ensure that each submission is unique. The form is designed to collect basic contact information and specific details about the booking request, such as date and time, booking duration, and display requirements.
-
-</thinking>
-
 # Video Wall Display Booking Form - Help Guide
 ## Purpose
 The Video Wall Display Booking Form is a user-facing form used to book a video wall display. It's essential to fill out the form honestly and for the intended purpose.

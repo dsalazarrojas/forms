@@ -1,16 +1,3 @@
-<thinking>
-
-The self_employment_verification_form appears to be designed to verify an individual's self-employment status, which could be related to tax purposes or other official records. To create this form, the following steps were taken:
-
-- The form is divided into four pages, each with a specific section for collecting relevant information.
-- Each page has a label, which describes its purpose, and an optional hint for guidance.
-- The form types are text, select_one, date, and note, indicating different data types and formats.
-- Some fields are marked as optional, implying they are not mandatory for form completion.
-- The verification_date field is a date type, suggesting it is used to record a specific date related to the self-employment verification process.
-- The verification_document field is a note type, which might be used for attaching or uploading a document.
-
-</thinking>
-
 # self_employment_verification_form - Help Guide
 ## Purpose
 The self-employment verification form is designed to collect information about your self-employment status for official purposes.

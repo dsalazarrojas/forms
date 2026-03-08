@@ -1,11 +1,3 @@
-<thinking>
-
-The Equipment Maintenance Request Form is designed to be filled out by maintenance staff when they identify a maintenance request from a team member. This form helps to track and manage maintenance requests in a structured and organized way, ensuring that all relevant information is captured and communicated effectively. Before filling out this form, please ensure you have the necessary authority to perform maintenance and that you have reviewed the equipment's technical documentation to provide accurate information. Please also make sure the equipment is not already scheduled for maintenance to avoid duplicate requests.
-
-Please note that some fields are optional, and you may skip them if not applicable. However, providing as much detail as possible will aid in expediting the maintenance process and reducing the need for follow-up questions.
-
-</thinking>
-
 # Equipment Maintenance Request Form - Help Guide
 ## Purpose
 The Equipment Maintenance Request Form is designed to track and manage maintenance requests for office equipment, helping to ensure that all relevant information is captured and communicated effectively.

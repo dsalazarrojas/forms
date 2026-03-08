@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the maintenance and inspection of vehicles within a fleet. The form is used to track and report on the status of vehicles, including their maintenance schedule, repairs, inspections, and inspection results. This information is crucial for fleet managers to keep track of the condition and performance of their vehicles, ensuring they are running smoothly and safely. It's essential to fill out this form accurately and thoroughly to ensure that the data is up-to-date and reliable.
-
-Before proceeding, please ensure that you have all the necessary information and documents required to complete the form. This form should not be used to report on vehicles that have already been reported on in a previous submission. If you're unsure whether a vehicle has been previously reported, please check with your team or the fleet management system.
-
-</thinking>
-
 # Fleet Maintenance Report Form - Help Guide
 ## Purpose
 This form is designed to collect information about the maintenance and inspection of vehicles within a fleet.

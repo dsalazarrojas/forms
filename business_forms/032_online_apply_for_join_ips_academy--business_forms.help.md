@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to apply to join Ips Academy. The form checks for relevance to the user's current role and company, to prevent non-duplication of effort and ensure that users only apply for roles that are relevant to their current position. It also helps to reduce the amount of time spent by the hiring team to review and filter applications. 
-</thinking>
-
 # Online Apply For Join Ips Academy - Help Guide
 ## Purpose
 This form is intended to help individuals apply to join Ips Academy, a platform for knowledge sharing and skill development. 

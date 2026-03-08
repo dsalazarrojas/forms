@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information about a safety visit plan for an organization. It is used to collect contact information about the person visiting, details of the visit, and other relevant details. This guide will help you understand the purpose and usage of each field in the form. Please ensure you understand the form's intended use and the required fields before proceeding.
-
-</thinking>
-
 # Safety Visit Plan - Help Guide
 ## Purpose
 The Safety Visit Plan form is used to collect information about a safety visit to a location. This includes details about the person visiting, the visit date, location, and other relevant information.

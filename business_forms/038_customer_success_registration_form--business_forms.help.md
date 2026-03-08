@@ -1,5 +1,3 @@
-<thinking>...The form "Customer Success Registration Form" aims to collect contact information and specific details from customers in order to enhance customer support. The purpose of this form is to create a record of customer interactions and to help the support team understand customer needs and expectations. This form should not be filled out by existing customers or employees as it might duplicate records and affect the accuracy of data.</thinking>
-
 # Customer Success Registration Form - Help Guide
 ## Purpose
 This form collects contact information and specific details from customers for customer support purposes. It's essential to fill this form out only once for each new customer.

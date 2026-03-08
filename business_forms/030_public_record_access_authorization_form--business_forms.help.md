@@ -1,7 +1,3 @@
-<thinking>
-The Public Record Access Authorization Form is used to request access to a specific record within the system. This form is essential for obtaining the necessary permissions to view, edit, or delete a record. The form should only be submitted when the user has a legitimate reason to access a public record. Please ensure that you have checked with your supervisor or manager before submitting this form. If you've already submitted a form for the same purpose, you do not need to submit another. 
-</thinking>
-
 # Public Record Access Authorization Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Subcontractor Warranty Form - Help Guide
 
 ## Purpose

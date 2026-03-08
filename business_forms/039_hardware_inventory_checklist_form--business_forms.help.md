@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: This form serves as a checklist for inventorying hardware assets in a business setting. It helps ensure that all necessary information is collected and updated consistently. 
-The form is designed to be used in conjunction with other business processes, such as asset management and tracking. 
-</thinking>
-
 # Hardware Inventory Checklist Form - Help Guide
 ## Purpose
 This form is used to collect and update information about hardware assets in a business setting. It helps ensure that all necessary details are recorded consistently and accurately.

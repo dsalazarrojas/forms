@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used for mortgage payment authorization purposes only. It seems to be designed for internal use within an organization, possibly for accounting or finance departments. The form collects information about a mortgage account, including account type, authorization method, and authorization details. The user is also asked to select specific options from lists, indicating that the form is designed to be completed by someone with specific knowledge or access to certain information.
-
-Before proceeding, the form should be reviewed to ensure it's being used for the correct purpose and not for duplication of efforts. It's also essential to note that the form has several fields with similar labels, which might lead to confusion. For instance, the "account_type" and "account_type_1", "account_type_2", "account_type_3" fields seem to be redundant. Similarly, "authorization_method" and "authorization_method_1", "authorization_method_2", "authorization_method_3" fields appear to be duplicates.
-
-To create a clear and concise user-facing help guide, we should focus on the essential fields and simplify the language to avoid confusion.
-
-</thinking>
-
 # Mortgage Payment Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize mortgage payments for a specific account. It collects information about the account type, authorization method, and authorization details to facilitate the payment process.

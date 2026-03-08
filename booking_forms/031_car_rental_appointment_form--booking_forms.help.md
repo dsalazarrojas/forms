@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Car Rental Appointment Form based on the provided YAML fields.</thinking>
-
 # Car Rental Appointment Form - Help Guide
 ## Purpose
 The Car Rental Appointment Form is designed to help you book a car rental appointment with ease. This form collects essential information from you to ensure a smooth and hassle-free car rental experience. Fill out the form accurately to make sure your appointment is confirmed.

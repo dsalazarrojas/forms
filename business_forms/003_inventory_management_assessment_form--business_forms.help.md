@@ -1,8 +1,3 @@
-<thinking>
-The Inventory Management Assessment Form is used to evaluate and improve inventory management processes in an organization. This form assesses the current state of stock levels, stock tracking, and inventory management strategies, providing valuable insights for optimization and process refinement. Before starting, please check if you have previously filled out this form to avoid duplication of effort.
-
-</thinking>
-
 # Inventory Management Assessment Form - Help Guide
 ## Purpose
 The Inventory Management Assessment Form is designed to help organizations evaluate and improve their inventory management processes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to help users estimate the potential impact of different dishes on CO2 emissions. It asks for information about the dish's name, cuisine type, list of ingredients, quantity of each ingredient, unit of measurement for each ingredient, sourcing of ingredients, calculation options (high, medium, or low impact), estimated CO2 emissions, and unit of measurement for CO2 emissions. This form is likely used for internal business operations such as inventory management, supply chain optimization, or environmental impact assessments.
 
 </thinking>

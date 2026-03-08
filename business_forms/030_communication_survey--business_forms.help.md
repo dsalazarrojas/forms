@@ -1,12 +1,3 @@
-<thinking>
-This thought process should help clarify the form's purpose and guide you through creating a user-facing help guide.
-
-The purpose of the form is to gather feedback and insights from employees about their experience with workplace communication. The goal is to understand their perceptions of how well management and peer communication are working, identify areas that need improvement, and suggest ways to address these issues.
-
-Before filling out the form, please ensure you have a genuine understanding of the workplace and have not completed it previously.
-
-</thinking>
-
 # Communication Survey - Help Guide
 ## Purpose
 The Communication Survey is designed to collect your opinions and feedback on the current state of communication within the workplace. This will help us better understand your experience and identify areas that need improvement.

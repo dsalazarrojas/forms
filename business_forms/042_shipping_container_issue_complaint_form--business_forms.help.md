@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about shipping container issues reported by customers. The purpose of this form is to gather all relevant details about the issue, including the shipping container's condition, type, and any relevant images or attachments. This information will help the shipping team to efficiently resolve the issue and keep track of its status.
-
-When submitting this form, please ensure that you are only providing information about a single shipping container issue. If you have multiple issues, please submit them separately. Additionally, please be as concise as possible when filling out the form, providing only the necessary details.
-
-Before filling out the form, please review the following fields and their explanations to ensure you fill out the form correctly.
-
-</thinking>
-
 # Shipping Container Issue Complaint Form - Help Guide
 ## Purpose
 This form collects information about shipping container issues reported by customers.

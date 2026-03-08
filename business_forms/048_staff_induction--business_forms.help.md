@@ -1,12 +1,3 @@
-<thinking>
-This form is used for staff induction in the aviation business industry. The main goal of this form is to collect information about new employees and their assigned tools. It is not required for all users, but rather a tool to help businesses understand their team's capabilities and needs.
-
-This form is part of a larger category of business forms, which are used for various business-related purposes. The form is not meant to be filled out by non-aviation businesses or for non-business purposes.
-
-This form is designed to be used in conjunction with other forms and tools within the aviation industry.
-
-</thinking>
-
 # Staff Induction - Help Guide
 ## Purpose
 The Staff Induction form is used by aviation businesses to induct employees in the field. It is designed to collect information about new employees and their assigned tools.

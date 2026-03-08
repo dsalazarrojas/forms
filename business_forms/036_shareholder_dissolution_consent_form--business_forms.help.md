@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Shareholder Dissolution Consent Form - Help Guide
 ## Purpose
 The Shareholder Dissolution Consent Form is a document used to formally consent to the dissolution of a shareholder's interest in a company. This form is used to obtain formal consent from the shareholder prior to the dissolution process.

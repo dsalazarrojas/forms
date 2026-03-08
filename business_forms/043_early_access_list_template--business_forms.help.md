@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information for an "Early Access List" which is likely a list of products or items that are available for early access or priority access to a certain group of users. The form collects details about the user, company, product, and other relevant information. It's possible that this form is used for tracking and management purposes within an organization or business.
-
-Checking the form's structure and the options provided, we can assume that the form is used for internal tracking and management purposes within a company. The options for "List Type" and "List Status" suggest that this form is used for managing different types of access lists and their status.
-
-The fields on the form can be grouped into several categories: User Information, Product Information, Early Access List Settings, and Additional Information.
-
-The form appears to be designed for multiple users and companies to be able to access and update information. The "User ID" field, for example, suggests that each user has a unique ID for identification purposes.
-
-To fill out this form, the user will need to provide their email address, name, role, and possibly other relevant information such as company name, product name, and early access list selection.
-
-The form seems to be designed for both optional and required fields, depending on the specific use case and requirements.
-
-Overall, this form is designed for collecting and managing information related to early access lists and their associated settings.
-</thinking>
-
 # Early Access List Template - Help Guide
 ## Purpose
 The Early Access List Template is a form used for collecting and managing information related to early access lists and their associated settings.

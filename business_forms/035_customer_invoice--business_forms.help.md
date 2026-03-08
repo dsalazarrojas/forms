@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Invoice - Help Guide
 
 ## Purpose

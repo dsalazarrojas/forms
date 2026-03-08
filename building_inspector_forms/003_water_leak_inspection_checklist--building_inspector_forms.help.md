@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by building inspectors to conduct a water leak inspection on a building or property. The purpose of this form is to collect information on the presence and condition of various aspects of the building's plumbing system, including pipes, fittings, insulation, and potential leaks. This information can be used to identify potential issues with the plumbing system and guide further inspections or repairs.
-</thinking>
-
 # Water Leak Inspection Checklist - Help Guide
 ## Purpose
 The Water Leak Inspection Checklist is a form used by building inspectors to document and report on the presence and condition of a building's plumbing system.

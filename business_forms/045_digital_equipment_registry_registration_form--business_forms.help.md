@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Digital Equipment Registry Registration Form - Help Guide
+> # Digital Equipment Registry Registration Form - Help Guide
 
 ## Purpose
 This form is used to register digital equipment for internal reference and tracking purposes. Before proceeding, ensure you only submit one form per digital device. If you're registering multiple devices, use the "Equipment List" field to select all relevant devices.

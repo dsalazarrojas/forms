@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users find stores based on their search preferences. The form allows users to input various criteria such as store ID, location, distance, category, language, phone number, address, postal code, country, state, street, city, and latitude/longitude. The form's purpose is to provide a comprehensive search functionality to help users find the stores that match their preferences.
-
-</thinking>
-
 # Store Locator Search Form - Help Guide
 ## Purpose
 This form is designed to help users find stores based on their search preferences.

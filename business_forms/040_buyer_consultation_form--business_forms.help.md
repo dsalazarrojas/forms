@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Buyer Consultation Form - Help Guide
 
 ## Purpose

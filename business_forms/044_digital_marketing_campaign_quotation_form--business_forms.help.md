@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for internal use within a marketing agency to facilitate the collection of digital marketing campaign quotation information from clients. It is not meant to be shared publicly or used for external communication. This form is designed to be completed by agency staff for the purpose of gathering client-specific information and creating tailored quotations for each project. Please ensure that you only fill out this form for genuine client projects to avoid creating unnecessary work for internal teams.
-</thinking>
-
 # Digital Marketing Campaign Quotation Form - Help Guide
 
 ## Purpose

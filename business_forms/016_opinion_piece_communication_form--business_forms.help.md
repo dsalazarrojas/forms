@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather opinions and feedback from users about a particular piece of communication, such as an article, a video, or a presentation. The form is designed to collect both qualitative and quantitative feedback, allowing users to express their level of agreement or disagreement with the content. This feedback is invaluable in helping the creators or administrators of the content refine their work and improve their communication.
-
-This form has multiple pages with different types of questions, including multiple-choice options, text fields for free-form comments, and rating scales. Each page is designed to collect specific information, such as whether the user agrees or disagrees with the content, what they think about the content, and suggestions for improvement.
-
-To avoid any confusion, we recommend that users review the entire form carefully before starting to fill it out. If you have any questions or concerns, please don't hesitate to ask.
-
-</thinking>
-
 # Opinion Piece Communication Form - Help Guide
 ## Purpose
 

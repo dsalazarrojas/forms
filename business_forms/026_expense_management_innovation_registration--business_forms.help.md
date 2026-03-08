@@ -1,10 +1,3 @@
-<thinking>
-To determine the best course of action, let's analyze the form purpose and the information provided in the YAML file. This form is used to register innovations related to expense management. The form appears to be designed to collect data on various categories and options related to these innovations. The form may be used to categorize and filter data for later use or analysis. It's essential to ensure that each field is filled out correctly to maximize the usefulness of the data collected.
-
-Before proceeding, please take a moment to review the form carefully to ensure you are filling it out correctly. If you have any doubts or concerns, do not hesitate to reach out to the relevant team or department for clarification.
-
-</thinking>
-
 # expense-management-innovation-registration - Help Guide
 ## Purpose
 This form is used to register innovations related to expense management. The data collected will help categorize and filter information for future reference and analysis.

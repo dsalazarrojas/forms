@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for project follow-up and evaluation purposes within a business setting. It's likely used to monitor and assess the progress of creative projects, gathering details from both team leads and project participants. This guide will help users fill out the form correctly.
-</thinking>
-
 # Creative Project Follow Up Form - Help Guide
 
 ## Purpose

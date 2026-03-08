@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help individuals assess their mindset and goals related to becoming a millionaire. It's crucial to ensure that end users understand the context and purpose of the form to provide accurate and relevant information. Before proceeding with the help guide, let's review the form's design and purpose to avoid duplication and ensure relevance.
-</thinking>
-
 # Millionaire Mindset - Help Guide
 ## Purpose
 The Millionaire Mindset form is designed to gauge an individual's perspective and goals related to becoming a millionaire. It consists of eight fields that aim to collect relevant information about the respondent's business and personal aspirations. This form is ideal for those who are interested in understanding their thoughts and attitudes towards wealth creation.

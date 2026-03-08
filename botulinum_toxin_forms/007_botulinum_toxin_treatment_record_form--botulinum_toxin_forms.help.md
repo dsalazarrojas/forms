@@ -1,10 +1,3 @@
-<thinking>
-  To avoid duplicate or inconsistent records, please ensure you only submit this form for new clients or treatments not already recorded. This form is designed to collect information about botulinum toxin treatments, including client details, treatment procedure, outcomes, and follow-up schedule.
-  When filling out this form, please note that some fields are required and must be completed before submission. Others are optional and can be filled out as needed.
-  The form is organized into several sections: Client Information, Treatment Details, Treatment Areas, Treatment Outcomes, Follow-up Schedule, and Provider Acknowledgment.
-  Please fill out the form carefully and thoroughly, and do not hesitate to ask if you need clarification on any of the fields.
-</thinking>
-
 # Botulinum Toxin Treatment Record Form - Help Guide
 ## Purpose
 The Botulinum Toxin Treatment Record Form is used to record new botulinum toxin treatments. It helps keep accurate and consistent records of client information, treatment procedures, outcomes, and follow-up schedules.

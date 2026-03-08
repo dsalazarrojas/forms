@@ -1,12 +1,3 @@
-<thinking>
-To create a form that captures the necessary information for the operations workflow review process, which is used to monitor and manage the progress of various business operations, ensuring that all relevant details are recorded and communicated effectively for stakeholders.
-
-We want to prevent duplication of work by checking if this form is already filled out before proceeding to fill it in again. This will also help in identifying the correct status of each operation and its priority level, enabling timely decision-making.
-
-This form is meant for internal use within the organization and the fields provided are designed to gather the most essential information to support efficient workflow management.
-
-</thinking>
-
 # operations_workflow_review_request_form - Help Guide
 ## Purpose
 This form is designed to capture information about a specific business operation's status, priority level, and other relevant details for the operations workflow review process.

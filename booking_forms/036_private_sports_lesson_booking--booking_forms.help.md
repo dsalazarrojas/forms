@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to book a private sports lesson with a customer. The purpose of this form is to gather all necessary information for the instructor or coach to provide an effective and personalized lesson. 
-
-The form is structured to collect details in a sequential manner, guiding the user through different sections. The main goal is to ensure the customer has a smooth and enjoyable experience. 
-
-To complete this form, the user will be asked to provide information in six different sections, each with its specific requirements and options. Please make sure to review each field carefully and provide the necessary information to ensure a correct and complete booking. 
-
-This form is designed for booking private sports lessons. It is intended for coaches and instructors to get all the necessary information to provide an effective lesson.
-
-This form is not intended for mass bookings or group lessons. It is designed for individual customers.
-</thinking>
-
 # private_sports_lesson_booking - Help Guide
 ## Purpose
 This form is used to book a private sports lesson with a specific instructor or coach.

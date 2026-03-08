@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive assessment of various metrics related to industrial sustainability. It likely serves as a tool for companies to evaluate and report their performance in different areas of sustainability, such as environmental, social, and governance (ESG) metrics. It might be used by organizations to measure and track their progress towards sustainability goals, or as part of a broader sustainability reporting framework. To ensure accuracy, double-check that the form is filled out correctly and consistently. Please note that the provided YAML seems to contain a large number of fields, each asking for a specific metric or assessment. It might be worth considering breaking the form down into sections or pages for better clarity and user experience.
-</thinking>
-
 # Industrial Sustainability Metrics Report Form - Help Guide
 ## Purpose
 This form is used to collect and report industrial sustainability metrics. It's designed to help companies evaluate and track their performance in various areas of sustainability, including ESG scores, carbon footprint, water usage, energy intensity, and other relevant metrics.

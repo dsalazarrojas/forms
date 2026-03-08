@@ -1,7 +1,3 @@
-<thinking>
-The Google Spreadsheet Data Collection Form is used to collect and record data related to business forms in a standardized and organized manner. The form helps to streamline the process of data collection, ensuring that all relevant information is captured consistently. This form reduces the likelihood of missing crucial details and minimizes errors by providing a structured format for input. 
-</thinking>
-
 # Google Spreadsheet Data Collection Form - Help Guide
 
 ## Purpose

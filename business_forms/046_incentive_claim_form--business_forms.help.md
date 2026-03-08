@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I will review the provided YAML fields and understand the form's purpose and structure. The form is for claiming incentives, which implies that it is used for employees to submit claims for rewards or benefits they have earned. The form appears to be for internal use within a company, and it may be used to track and verify employee incentives. I will ensure that the guide is clear, concise, and practical for end-users, and I will provide explanations for each field without inventing unsupported business logic.</thinking>
-
 # Incentive Claim Form - Help Guide
 ## Purpose
 The Incentive Claim Form is used for employees to submit claims for incentives they have earned. This form helps to track and verify employee incentives, ensuring accurate and timely processing.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track lead generation metrics and gather feedback on the lead generation process. The form will be completed by team members who are responsible for generating leads and converting them into opportunities. The form will help to identify areas of improvement in the lead generation process and inform future strategies.
-</thinking>
-
 # Lead Generation Survey - Help Guide
 ## Purpose
 The Lead Generation Survey is a form used to collect data on lead generation metrics and gather feedback on the process.

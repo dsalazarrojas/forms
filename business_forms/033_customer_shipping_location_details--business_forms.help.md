@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information about a customer's shipping location, which is a crucial piece of data for businesses to facilitate efficient and accurate shipping and delivery processes. The form is likely used in a business context where customers need to provide their shipping details to receive goods or services. This form is not designed to collect information for personal use or to be used as a standalone form in a personal setting.
-</thinking>
 # Customer Shipping Location Details - Help Guide
 ## Purpose
 This form is used to collect customer shipping information for efficient and accurate delivery processes.

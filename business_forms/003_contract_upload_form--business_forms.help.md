@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the "Contract Upload Form", I first need to clarify the purpose and requirements of the form. This form is designed to collect information about contracts uploaded by submitters, including details such as the submitter's name and email, contract title and type, counterparty's name and type, contract date and value, and supporting documents. The form is likely used by business stakeholders, internal teams, and management to track and manage contracts, and it is essential to ensure that all required fields are filled out accurately and completely to maintain data integrity. 
-
-Before creating the help guide, I will make sure to cover all key fields and provide detailed explanations in a concise and practical manner. I will also highlight potential issues that may cause duplication or inconsistency in uploaded contracts and provide guidance on best practices for filling out the form.
-
-</thinking>
-
 # Contract Upload Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to apply to various positions within an organization. The purpose of this form is to gather information from applicants about their background, experience, and attachments. This form is intended for internal use and will be reviewed by the relevant departments within the organization. Please ensure that you fill out the form accurately and completely to increase your chances of being considered for the position.
-</thinking>
-
 # ui_designer_application_form - Help Guide
 
 ## Purpose

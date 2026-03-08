@@ -1,28 +1,3 @@
-<thinking>
-The purpose of the warehouse_access_authorization_form is to authorize warehouse access for a specific user, allowing them to grant or deny access to the warehouse. This form is likely used by administrators or managers to control who can access the warehouse's resources and data.
-
-To prevent errors, ensure that the fields are filled out correctly and that the options selected accurately reflect the intended access level. 
-
-Before filling out this form, check if there are any existing access authorization forms for the same user. If you've already submitted a form for this user, do not resubmit it. 
-
-The following fields must be completed for every submission:
-
-- A unique identifier (`warehouse_access_authorization_form_input_2`)
-- Time of access (`warehouse_access_authorization_form_input_3`)
-- Email address (`warehouse_access_authorization_form_input_5`)
-- Access start and end dates (`warehouse_access_authorization_form_input_10` and `warehouse_access_authorization_form_input_11`)
-- Access level selection (`warehouse_access_authorization_form_input_13`)
-
-The following fields may be filled out, but are not required:
-
-- Warehouse address (`warehouse_access_authorization_form_input_1`)
-- Additional notes (`warehouse_access_authorization_form_input_4`)
-- Access duration (`warehouse_access_authorization_form_input_8`)
-
-Note that fields not filled out will be treated as empty, but may not affect the access authorization process.
-
-</thinking>
-
 # warehouse_access_authorization_form - Help Guide
 ## Purpose
 The warehouse_access_authorization_form is used to authorize warehouse access for a specific user.

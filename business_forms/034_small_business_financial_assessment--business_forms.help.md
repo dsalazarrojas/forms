@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to assess the financial situation of a small business. The purpose of this form is to gather information about a small business's annual revenue, projected revenue, operating expenses, capital expenses, debt expenses, and miscellaneous expenses. The form also includes questions about the business's goals and a field for additional notes. 
-
-To avoid duplication and ensure accurate completion, it is essential to review the form carefully and fill it out in a way that aligns with the business's actual financial situation. This will help in getting an accurate assessment of the business's financial status.
-
-This form should not be used for any other purpose other than assessing the financial situation of a small business.
-
-</thinking>
-
 # Small Business Financial Assessment - Help Guide
 ## Purpose
 This form is designed to help assess the financial situation of a small business. It gathers information about the business's income and expenses to provide a comprehensive understanding of its financial status.

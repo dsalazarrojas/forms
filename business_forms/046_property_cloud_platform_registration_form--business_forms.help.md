@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for user registration on the Property Cloud Platform. It is meant for individuals and businesses to create an account with the platform. Please note that all fields marked as "required" must be completed, as they are necessary for a successful registration.
-
-The form will not be duplicated for each attempt, and any previously saved data will be overwritten. If you need to edit your information, you can start from the beginning.
-
-</thinking>
-
 # Property Cloud Platform Registration Form - Help Guide
 ## Purpose
 This form is a registration form for creating an account on the Property Cloud Platform.

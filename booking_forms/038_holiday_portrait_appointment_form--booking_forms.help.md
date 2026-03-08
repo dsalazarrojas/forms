@@ -1,7 +1,3 @@
-<thinking>
-To create a help guide for the "Holiday Portrait Appointment Form" form, I will analyze the provided YAML structure and explain each section of the form to the end users.
-</thinking>
-
 # Holiday Portrait Appointment Form - Help Guide
 
 ## Purpose

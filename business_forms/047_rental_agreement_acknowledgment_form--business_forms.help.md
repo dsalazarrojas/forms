@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rental Agreement Acknowledgment Form - Help Guide
 
 ## Purpose

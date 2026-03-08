@@ -1,7 +1,3 @@
-<thinking>
-This form is used for worksite inspection and is a crucial tool for ensuring that a site meets the necessary standards and requirements. The form is designed to gather information about the site's condition and identify any issues that need to be addressed. Please ensure that you are using this form only for this specific purpose and do not use it for any other type of inspection. Before filling out this form, take a moment to review the guidelines for completing this form to ensure that you are providing all necessary information.
-</thinking>
-
 # worksite_inspection_form - Help Guide
 ## Purpose
 The worksite inspection form is used to gather information about the site's condition and identify any issues that need to be addressed.

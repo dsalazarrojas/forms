@@ -1,14 +1,3 @@
-<thinking>
-To ensure the form purpose is understood by the end-user, it's essential to clarify the context and relevance of the form. This form is designed to set up usage-based subscription billing, which is a pricing model where customers are charged based on their actual usage of a product or service. This form is used to configure the billing settings for a specific customer account, ensuring that the customer is correctly billed for their usage. The form should only be filled out by authorized personnel who have the necessary permissions to set up billing settings for a customer account.
-
-The form is likely to be filled out by someone with a basic understanding of accounting and business operations, but may not have extensive knowledge of specific payment gateways or billing software. Therefore, a clear and concise explanation of each field is essential to avoid confusion.
-
-The form is likely to be part of a larger system, and some fields may be linked or dependent on others, so it's crucial to consider the relationships between fields when explaining each field. Additionally, some fields may have specific requirements or restrictions that need to be understood by the user.
-
-After ensuring the form purpose and context are understood, we can proceed with the help guide.
-
-</thinking>
-
 # Usage Based Subscription Billing Setup Form - Help Guide
 ## Purpose
 The "Usage Based Subscription Billing Setup Form" is used to configure billing settings for a customer account, ensuring that the customer is correctly billed for their usage of a product or service.

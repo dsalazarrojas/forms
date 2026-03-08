@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Manufacturing Efficiency Report Form - Help Guide
 ## Purpose
 This form is designed to collect data related to the efficiency of digital manufacturing processes. It gathers information on production efficiency, equipment IDs, production dates and times, production hours, start and end times, and comments. The form is not a requirement, and its completion is voluntary.

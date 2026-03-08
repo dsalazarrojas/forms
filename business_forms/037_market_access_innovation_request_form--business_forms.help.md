@@ -1,7 +1,3 @@
-<thinking>
-This form is a Market Access Innovation Request Form, used to collect and review requests for market access innovation proposals. It's essential to fill out this form accurately to ensure that your request is processed correctly. Please note that you should only fill out this form once for each request, as submitting multiple requests for the same proposal may lead to delays in the review process.
-</thinking>
-
 # Market Access Innovation Request Form - Help Guide
 
 ## Purpose

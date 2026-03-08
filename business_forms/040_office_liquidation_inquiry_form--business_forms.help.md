@@ -1,5 +1,3 @@
-<thinking>Before writing the user-facing help guide, I want to briefly review the form's purpose and required fields.</thinking>
-
 # Office Liquidation Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information related to office liquidation inquiries. It is used to gather details about the location, inspection schedule, and asset value for liquidation purposes.

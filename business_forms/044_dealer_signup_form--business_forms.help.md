@@ -1,7 +1,3 @@
-<thinking>
-This guide will be based on the provided YAML form structure. The purpose of this guide is to explain how to complete the "Dealer Signup Form" and what each field means.
-</thinking>
-
 # Dealer Signup Form - Help Guide
 ## Purpose
 The Dealer Signup Form is intended for dealers to provide their information to be associated with a business. The form is used to collect basic contact and dealer information.

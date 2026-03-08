@@ -1,10 +1,3 @@
-<thinking>This is a form used to collect information about an individual investor's profile, including their contact information, financial goals, investment preferences, and risk tolerance. 
-The form is designed to gather data that will be used to provide personalized investment advice and services to the investor. 
-The form should not be filled out by investors who have not yet provided contact information and have not been assigned a unique investor ID. 
-The form should not be filled out by investors who are not yet registered or have been previously registered but are no longer active. 
-Each field in this form has a specific purpose and is required for our system to provide accurate and relevant information to the investor.
-</thinking>
-
 # Investor Profile Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about an individual investor's profile, including their contact information, financial goals, investment preferences, and risk tolerance.

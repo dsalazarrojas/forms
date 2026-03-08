@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect information about business contributions on a monthly basis. It's meant to gather data on the contributions made by different departments within a company, including the total contributions, contribution status, and contribution details. The form is likely used for management or administrative purposes, such as monitoring and evaluating departmental performance.
-
-</thinking>
-
 # Monthly Business Contribution Report - Help Guide
 ## Purpose
 The Monthly Business Contribution Report is a form used to collect and track business contributions from various departments within a company on a monthly basis.

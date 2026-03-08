@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from customers for the rental process, including contact details, vehicle preferences, and payment information. It is essential to fill out this form accurately to ensure a smooth rental experience. Please ensure that you provide the correct information for a successful rental.
-</thinking>
-
 # Car Rental Customer Check In Form - Help Guide
 ## Purpose
 The Car Rental Customer Check In Form is a crucial document that allows customers to provide essential details about their rental experience. This form helps the rental staff to efficiently process the check-in and check-out of vehicles, ensuring that the customer's needs are met and that the vehicle is returned in good condition.

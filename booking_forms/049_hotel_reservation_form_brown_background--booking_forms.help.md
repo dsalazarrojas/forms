@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to book a hotel room. It's essential to understand that this form is not for making actual bookings but rather for users to provide information about their preferences and requirements. This form will be used internally to generate a report or recommendation for users.
-</thinking>
-
 # Hotel Reservation Form Brown Background - Help Guide
 
 ## Purpose

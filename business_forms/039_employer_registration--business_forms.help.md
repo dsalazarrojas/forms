@@ -1,19 +1,3 @@
-<thinking>
-We will design a user-facing help guide for the employer-registration form, which is a crucial step in the hiring process for new employees. This guide will explain the form's purpose, how to complete it, and what each field means to ensure a smooth and successful registration process. We will also check for relevance and non-duplication of information within the form to avoid redundant data entry.
-
-The form is designed to collect essential information about the employer and their job positions, including company details, contact information, and job requirements. This information will be used to create an employer profile and facilitate communication between the employer and their employees.
-
-To complete this form, the employer should have the following information ready:
-
-* Company details (name, description, URL, industry, and type)
-* Contact information (email, phone number, and username)
-* Job position details (title, description, benefits, and salary)
-
-The guide will also cover any optional fields that may be filled out for additional context and benefits, such as employee number, company benefits, and job position benefits.
-
-By following this guide, employers can ensure that they provide accurate and complete information, making the registration process efficient and effective.
-</thinking>
-
 # employer-registration - Help Guide
 ## Purpose
 The employer-registration form is designed to collect essential information about the employer and their job positions. This information will be used to create an employer profile and facilitate communication between the employer and their employees.

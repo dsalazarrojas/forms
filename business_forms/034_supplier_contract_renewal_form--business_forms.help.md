@@ -1,7 +1,3 @@
-<thinking>
-We need to understand the form's purpose before proceeding. This form is for renewing a supplier contract, which means it's used to update or extend an existing agreement between our company and the supplier. The form might be used to confirm or modify contract details, terms, or conditions. It could also be used to add or remove a supplier. Let's ensure the form is used for the correct purpose and not duplicating any other process.
-</thinking>
-
 # Supplier Contract Renewal Form - Help Guide
 ## Purpose
 The Supplier Contract Renewal Form is used to renew or update an existing supplier contract. This form helps to modify or extend the contract terms, conditions, or details with the supplier. Ensure that you're using this form for the correct purpose and not duplicating any other process.

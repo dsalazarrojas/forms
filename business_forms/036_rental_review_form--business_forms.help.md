@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather user feedback and reviews about rental experiences. The Rental Review Form aims to collect information about customers' thoughts on renting properties, such as their satisfaction level, the property's amenities, and their overall experience. The form will help property managers and owners understand what customers think about their rentals, allowing them to make improvements and provide better services. Before filling out this form, please ensure that you have not already provided a review for the same rental property.
-</thinking>
-
 # Rental Review Form - Help Guide
 ## Purpose
 This form is designed to gather user feedback and reviews about rental experiences.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Owner Account Preferences - Help Guide
 ## Purpose
 This guide helps property owners customize their account settings to receive updates and notifications from their Homeowners Association (HOA). Property owners can set their preferred contact methods and other details to ensure they stay informed about their property-related activities.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form, "foundation-damage-incident-form," is to collect information about foundation damage incidents in a structured and organized manner. This form will be used to gather details about the incident, including the date it occurred, its location, a description of the damage, and information about any contractors involved or repair status. The form will also capture details related to insurance claims, such as the claim status and total amount. This form will help ensure that all relevant information is collected and documented consistently, facilitating the incident reporting and management process.
-
-Before filling out this form, please ensure that you are completing it for a relevant incident and that you have not already submitted this information through another channel.
-
-</thinking>
-
 # foundation-damage-incident-form - Help Guide
 ## Purpose
 This form is used to collect information about foundation damage incidents.

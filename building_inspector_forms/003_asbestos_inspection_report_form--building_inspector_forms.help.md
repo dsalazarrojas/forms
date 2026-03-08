@@ -1,5 +1,3 @@
-<thinking>Asbestos inspection reports are crucial for identifying and addressing potential asbestos hazards in properties. This form is designed to help inspectors document their findings and provide necessary information for follow-up actions. It's essential to complete this form accurately and thoroughly to ensure that all necessary details are included. Please review the form carefully to understand its purpose and how it should be filled out.</thinking>
-
 # Asbestos Inspection Report Form - Help Guide
 ## Purpose
 The Asbestos Inspection Report Form is used to document the results of asbestos inspections conducted on properties. It helps inspectors gather information about the properties, including inspector details, inspection dates, property information, and asbestos findings.

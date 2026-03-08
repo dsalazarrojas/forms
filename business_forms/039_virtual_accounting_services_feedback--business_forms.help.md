@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from clients or customers about the virtual accounting services provided by the company. The form will be used to gauge the quality of service, identify areas of improvement, and provide a platform for clients to provide their comments and suggestions. It is essential to understand the purpose and scope of this form to ensure it serves its intended purpose effectively. Please make sure you are familiar with the form's requirements before proceeding to fill it out. 
-</thinking>
-
 # Virtual Accounting Services Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from clients about the virtual accounting services provided by the company. The feedback will be used to assess the quality of service, identify areas of improvement, and make data-driven decisions to enhance the services.

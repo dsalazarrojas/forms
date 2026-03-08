@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to provide a structured way to refer a client to a crisis management specialist. The purpose of this form is to gather essential information for a referral to a specialist, including the client's details, specialist details, and form referral information. This information helps the specialist team to efficiently manage referrals and assign cases effectively. 
-
-Before filling out this form, please ensure that you have the necessary approvals and permissions to refer a client to a specialist. Also, check if a similar referral request has already been made for the same client.
-
-</thinking>
-
 # crisis_management_specialist_referral_form - Help Guide
 ## Purpose
 The crisis management specialist referral form is designed to facilitate the efficient referral of clients to a specialist team for crisis management support.

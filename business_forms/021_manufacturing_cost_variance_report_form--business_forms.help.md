@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to report discrepancies or variations in manufacturing costs. It might be a tool for accounting or finance teams to identify areas of inefficiency or over/under-spending. The form might be used to collect data on specific manufacturing costs, such as labor, materials, or overhead. The goal is to help users understand their current manufacturing cost variance and make data-driven decisions to optimize processes.
-</thinking>
-
 # Manufacturing Cost Variance Report Form - Help Guide
 ## Purpose
 This form is used to report discrepancies or variations in manufacturing costs, allowing users to identify areas of inefficiency or over/under-spending.

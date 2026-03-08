@@ -1,22 +1,3 @@
-<thinking>
-The knowledge transfer monitoring form is used to track and monitor knowledge transfer within an organization. This form is intended to be completed by employees who are involved in knowledge transfer, such as trainers, mentors, or team leaders. The form is used to capture key information about knowledge transfer, including a brief overview, transfer details, methods, future plans, receiving parties, and transfer frequency.
-
-Before completing this form, ensure that you have a clear understanding of the knowledge transfer process and the specific information that needs to be recorded. If you are unsure about any aspect of the form, please reach out to your supervisor or HR representative for guidance.
-
-Also, please note that the form is not intended to be a comprehensive or exhaustive record of all knowledge transfer activity. It is a high-level overview and tracking tool to help identify trends and areas for improvement in knowledge transfer within the organization.
-
-Before proceeding, check the following:
-
-* Is this form relevant to your knowledge transfer activities?
-* Have you completed this form for similar knowledge transfer activities in the past?
-* Have you reviewed the knowledge transfer process and procedures for this form?
-
-If you answered "no" to any of the above questions, you may want to review the knowledge transfer process and procedures before completing this form.
-
-Please proceed with the form only if you have a good understanding of the knowledge transfer process and the purpose of this form.
-
-</thinking>
-
 # knowledge_transfer_monitoring_form - Help Guide
 ## Purpose
 The purpose of this form is to track and monitor knowledge transfer within an organization.

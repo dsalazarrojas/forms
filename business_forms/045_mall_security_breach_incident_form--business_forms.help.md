@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about mall security breaches, including details about the incident, the location and severity, and the response and investigation process. The form should only be completed for genuine incidents, not for testing or demonstration purposes. The form is intended for mall management and security teams to gather information and respond to incidents in a structured manner.
-</thinking>
-
 # Mall Security Breach Incident Form - Help Guide
 ## Purpose
 This form is used to report and document mall security breaches, ensuring that incidents are properly investigated and responded to in a timely and effective manner.

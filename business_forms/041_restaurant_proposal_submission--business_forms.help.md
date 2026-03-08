@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being used for its intended purpose and that users understand what's expected of them. This form is designed to collect restaurant proposal submissions, which is crucial for the business development process. Before proceeding, please verify that you're submitting a proposal for a new restaurant concept and that it's not a duplicate proposal. This form is intended to gather essential information about the proposed restaurant, including its concept, business plan, and key contact details. Please fill out the form accurately and thoroughly, and make sure to follow the required fields and options to the best of your ability.
-</thinking>
-
 # restaurant-proposal-submission-form - Help Guide
 ## Purpose
 This form is used to collect restaurant proposal submissions for business development purposes.

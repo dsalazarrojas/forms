@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for a wholesale equipment rental agreement. It captures details about rental equipment, rental terms, and client information. It seems to be designed for a business-to-business (B2B) or business-to-consumer (B2C) scenario, where equipment is rented out for a specific term. The purpose of this form is to document the agreement between the equipment supplier and the client, including details such as rental dates, equipment ID, client contact information, and rental terms. This form is likely used for internal record-keeping and as a reference for future rental agreements. I'm assuming that the options selected for "Rental Amount", "Rental Terms", "Rental Agreement", "Contract Reviewed", "Signed By", "Client Representative", "Rental Contract", and "Rental Terms and Conditions" are relevant fields that the user needs to fill in according to the equipment rental agreement terms.
-</thinking>
-
 # Wholesale Equipment Rental Agreement - Help Guide
 ## Purpose
 This form is designed to document the details of a wholesale equipment rental agreement between the equipment supplier and the client. It is a critical document for both parties to understand and agree upon the terms of the rental.

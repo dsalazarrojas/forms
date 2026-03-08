@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for booking a comedy show performance. The form is meant to be filled out by event organizers to request a comedy show, and it will be reviewed by the comedy show management team. The form is not meant to be filled out by the performers themselves. To avoid duplication, please do not submit the form if you have already received a confirmation of your booking from the comedy show management team.
-</thinking>
-
 # Comedy Show Performance Booking Form - Help Guide
 ## Purpose
 The Comedy Show Performance Booking Form is designed to help event organizers book a comedy show performance. This form allows you to provide details about the event, such as the event date, venue, and compensation offered, to help the comedy show management team review and confirm your booking.

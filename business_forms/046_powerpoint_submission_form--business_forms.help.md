@@ -1,7 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information about a PowerPoint submission, which can be a business or personal form. This form likely serves as a template for capturing relevant details related to a PowerPoint presentation or document. It is used to collect information such as form title, description, category, uploaded files, phone number, email, date, time, and any additional notes. The field "Category" is a required field and must be selected as either "Business Forms" or "Personal Forms". The other fields are optional and can be filled in or left blank as needed. This form may be used for both internal and external purposes, such as capturing client information or sharing presentations with others. Please review the form fields and their explanations below to ensure you provide accurate and complete information. 
-</thinking>
-
 # PowerPoint Submission Form - Help Guide
 
 ## Purpose

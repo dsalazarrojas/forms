@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about maintenance checks, allowing users to input relevant details about their maintenance activities. Before filling out this form, please make sure you're not duplicating work already done or skipping over tasks that need attention. This form should only be used for new or ongoing maintenance checks, not for tracking past activities.
-</thinking>
-
 # Maintenance Check In Form - Help Guide
 ## Purpose
 The Maintenance Check In Form is used to record and track maintenance activities, ensuring that all relevant information is captured and up-to-date.

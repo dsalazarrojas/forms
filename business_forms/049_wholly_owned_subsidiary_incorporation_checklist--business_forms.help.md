@@ -1,10 +1,3 @@
-<thinking> 
-  This form is designed to collect information about a wholly-owned subsidiary's incorporation status. 
-  It is intended to be completed by business owners or their representatives to provide accurate and up-to-date information about their subsidiary's incorporation status. 
-  This form is not affiliated with, endorsed by, or derived from any form platform, and its purpose is to provide a straightforward way to gather essential details about a subsidiary's incorporation status.
-
-</thinking>
-
 # wholly_owned_subsidiary_incorporation_checklist - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to generate a Net Weight Control Report, which is a report used to track and monitor the weight control process in the production line. This report is used to ensure that the weight of the products being produced falls within the acceptable tolerance range, and to identify any discrepancies or variations in the weight of the products.
-The form is designed to collect data on various aspects of the production process, including product weight, production date, production time, and net weight difference. The report will help production operators and quality control specialists to quickly and accurately gather the necessary information to analyze and address any issues with product weight.
-To ensure that the report is accurate and complete, please review the following fields and their requirements before submitting the form.
-
-Please note that some fields may be optional, but are still necessary for the report to be complete and accurate.
-
-This form will be reviewed thoroughly before submission to ensure that all required fields are filled out correctly. Any discrepancies or issues with the form will be addressed promptly.
-</thinking>
-
 # Net Weight Control Report - Help Guide
 ## Purpose
 The Net Weight Control Report is used to track and monitor the weight control process in the production line, ensuring that the weight of the products being produced falls within the acceptable tolerance range.

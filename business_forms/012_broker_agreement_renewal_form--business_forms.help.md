@@ -1,8 +1,3 @@
-<thinking>
-This form is for renewing a broker agreement with a client. The purpose of this form is to gather information and confirm the terms of the renewal, including the broker's contact information, agreement details, and other relevant data. This form should only be used for renewing existing agreements, not for creating new ones.
-
-</thinking>
-
 # Broker Agreement Renewal Form - Help Guide
 ## Purpose
 This form is designed to facilitate the renewal process of broker agreements with clients. It ensures that all necessary information is gathered and confirmed before renewal, maintaining accurate records and facilitating smooth communication.

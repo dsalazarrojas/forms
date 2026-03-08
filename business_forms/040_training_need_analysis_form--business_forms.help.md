@@ -1,6 +1,3 @@
-<thinking>
-The form "Training Need Analysis Form" is used for business operations, likely for tracking, reporting, and managing training needs within an organization. Before completing this form, ensure that you are aware of the form's purpose and that you are not duplicating the same request or issue already being addressed. If unsure, double-check the internal database for similar forms or requests.</thinking>
-
 # Training Need Analysis Form - Help Guide
 ## Purpose
 This form is designed for analyzing and addressing training needs within the organization. It helps to track, report, and manage training requirements, ensuring that employees receive the necessary training and development opportunities to enhance their skills and performance.

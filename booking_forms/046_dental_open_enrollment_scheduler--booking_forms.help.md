@@ -1,11 +1,3 @@
-<thinking>
-
-We are creating a help guide for the "Dental Open Enrollment Scheduler" form, which is part of the "booking_forms" category. This form is designed to collect information from individuals who want to enroll in a dental program, and the purpose of this guide is to walk users through the process of filling out the form and what each field represents.
-
-We need to ensure that users understand the importance of the form and the fields they need to fill out, and also that they are not duplicating any information that has already been collected. This will help us to provide better service and reduce any potential errors.
-
-</thinking>
-
 # Dental Open Enrollment Scheduler - Help Guide
 ## Purpose
 The "Dental Open Enrollment Scheduler" form is designed to collect information from individuals who want to enroll in a dental program. This form will help us to understand their needs and schedule appointments accordingly.

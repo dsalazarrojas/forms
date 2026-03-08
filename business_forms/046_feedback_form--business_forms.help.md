@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to capture user input for a business purpose, likely for customer feedback or support. The form has 6 fields: Name, Email, Message, Phone, Rating, and Feedback. Each field has a specific type and is either required or optional. To ensure form completion and data quality, it's crucial to understand the purpose and requirements of each field.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect user input for a business purpose, allowing you to provide feedback or support to customers.

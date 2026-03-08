@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information about logistics providers, and it's crucial to understand its purpose and usage properly. To avoid any duplication or confusion, let's clarify the form's purpose and ensure that users know exactly what it's used for.
-
-This form is intended to be filled out by users when they need to provide information about logistics providers. It's meant for internal use, and the data collected will likely be used by the organization's logistics team to make informed decisions about provider relationships or other similar business purposes.
-</thinking>
-
 # logistics_provider_referral_form - Help Guide
 ## Purpose
 The logistics provider referral form is used to gather information about logistics providers for business use. This includes details such as contact person, email, phone number, services offered, experience, and more.

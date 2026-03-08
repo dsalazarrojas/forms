@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create an effective help guide, we need to first understand the form's purpose and how to complete it, without getting too caught up in the internal details. We will focus on explaining how to complete each field in a concise and practical manner, assuming that the internal logic will be understood through separate channels.
 
 # Invoice Information Collection Form - Help Guide

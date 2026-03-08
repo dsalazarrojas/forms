@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # recycling_bin_requisition_form - Help Guide
 
 ## Purpose

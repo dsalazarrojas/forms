@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Plan Assessment Form - Help Guide
 ## Purpose
 This form is used to assess and document a service plan for a business. It gathers information on the service provider, client needs, plan comparison, data collection, form submission, submission tracking, and other relevant details.

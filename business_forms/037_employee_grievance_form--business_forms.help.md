@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Employee Grievance Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from the tax preparer and client for a tax filing service agreement. The purpose of this form is to outline the terms and conditions of the tax filing service, including the client's information, tax preparer information, service details, and payment terms. This form is a general template and may need to be customized to fit the specific needs of your business.
-
-</thinking>
-
 # Tax Preparer Agreement Form - Help Guide
 ## Purpose
 This form is used to collect information from tax preparers and clients for a tax filing service agreement. The form is designed to outline the terms and conditions of the service, including client and tax preparer information, service details, and payment terms.

@@ -1,11 +1,3 @@
-<thinking>
-This form is for booking a limousine service. It appears that the form is meant to collect various details such as passenger information, event details, and service preferences. The form seems to be designed for users to book a limousine for different types of events such as airport transfers, corporate events, weddings, and parties. The form has multiple fields for collecting information such as first and last name, email address, phone number, event date, pickup and dropoff locations, type of service, vehicle type, number of passengers, estimated trip duration, additional stops, special requests, accessibility needs, desired amenities, payment method, deposit amount, promotional code, parking instructions, emergency contact information, special occasions, and confirmation of booking details. 
-
-The form has a mix of required and optional fields, indicating that some information is crucial for the booking process while others are for additional information or preferences. 
-
-This form seems to be designed for a limousine service company, likely for their website or mobile application. It's meant to collect information from customers to provide a customized service experience.
-</thinking>
-
 # Book A Limo Form - Help Guide
 ## Purpose
 This form is designed to book a limousine service for various events and occasions. It will guide you through the process of providing all necessary information to book a limousine that suits your needs.

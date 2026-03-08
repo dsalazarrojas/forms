@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be completed by business users to evaluate an outlet, likely as part of a larger quality control or customer feedback process. The form's purpose is to collect information about the outlet, including its name, product offerings, ratings, and contact details. The form may be used to track performance metrics, identify areas for improvement, or gather feedback from customers or clients.
-
-When completing this form, users are asked to provide information about the outlet in question, including a brief description of the outlet, its name, and details about the products they sell or offer. They will also be asked to rate the outlet's performance, specify a date and time, and provide any additional notes or comments about the visit. Finally, they will be prompted to provide contact information for the person who completed the form.
-
-This form appears to be a one-off data collection form, not part of a larger recurring survey or evaluation process. The fields are relatively self-explanatory, but this guide will help clarify any unclear or open-ended fields.
-
-</thinking>
-
 # Outlet Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information about EFTPOS (Electronic Funds Transfer Point of Sale) terminals. It is a crucial form for business operations, and the collected data will be used to update and manage EFTPOS terminals.
-
-To ensure that you have the correct information, please verify that you are filling out this form for the right purpose and that you haven't already submitted similar information.
-
-</thinking>
-
 # eftpos_information_form - Help Guide
 ## Purpose
 This form collects information about EFTPOS terminals for business operations. It is essential for terminal management and updating.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from clients about their coaching needs and preferences. Before completing this form, please ensure that you have not already provided this information in another coaching questionnaire or assessment. This form is intended to help the coach understand your background, goals, and expectations, and will help guide the coaching process. Please answer the questions honestly and thoroughly, and feel free to provide any additional information that you feel is relevant to your coaching experience.
-</thinking>
-
 # Coaching Questionnaire AmandaV - Help Guide
 ## Purpose
 The Coaching Questionnaire AmandaV is designed to help you and your coach understand your coaching needs and preferences. It's a comprehensive form that will guide the coaching process and ensure that you get the most out of your coaching experience.

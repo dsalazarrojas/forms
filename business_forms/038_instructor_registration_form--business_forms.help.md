@@ -1,5 +1,3 @@
-<thinking>This form is designed to gather essential information from instructors, including their personal details and contact information. The form is intended for internal use within the organization, and the collected data will be used to create a database of instructors for administrative purposes. The form is not meant to be a public-facing form, and users should only access it through a login or authentication mechanism. It's essential to fill out the form accurately and completely, as the data will be used to contact the instructors for communication and coordination. Additionally, ensure that the form is filled out only once per instructor, avoiding duplication of information.</thinking>
-
 # Instructor Registration Form - Help Guide
 ## Purpose
 The Instructor Registration Form is designed to collect personal and contact information of instructors to facilitate internal communication and coordination within the organization.

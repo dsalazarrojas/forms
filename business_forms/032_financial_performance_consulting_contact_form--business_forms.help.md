@@ -1,9 +1,4 @@
-### <thinking>
-This form is likely designed to collect contact information and other relevant details from users who are interested in financial performance consulting services. The form may be used to gauge interest in these services, gather feedback, or collect data for a follow-up consultation. It's possible that this form is a starting point for a lead generation or lead qualification process. 
-The purpose of this form is to gather information from users, so it's essential to ensure that each field is filled out correctly to maximize the quality of the data collected.
-</thinking>
-
-# Financial Performance Consulting Contact Form - Help Guide
+### # Financial Performance Consulting Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and other relevant details from users who are interested in financial performance consulting services.
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about mergers and acquisitions, providing fields for capturing the details of a transaction, including the involvement of legal advisors, finance partners, transaction date and time, and monetary value. This form is likely used in a business context, possibly within a corporate or financial setting. The form's purpose is to gather relevant data to facilitate the processing and management of mergers and acquisitions.
-</thinking>
-
 # mergers_and_acquisitions_resource_collection - Help Guide
 ## Purpose
 This form is used to collect information about mergers and acquisitions, allowing users to input details such as transaction date, time, and value, as well as identify legal advisors and finance partners involved in the process.

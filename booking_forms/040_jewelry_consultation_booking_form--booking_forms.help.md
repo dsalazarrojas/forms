@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients who are interested in booking a jewelry consultation. The purpose of this form is to gather the client's contact information, appointment details, and project specifics. The form is divided into three sections: "Client Info", "Appointment Details", and "Project Details". Each section has a text field to collect relevant information. The form does not have any specific requirements or validation rules, so users can fill it out freely.
-
-</thinking>
-
 # Jewelry Consultation Booking Form - Help Guide
 ## Purpose
 This form is used to collect information from clients who are interested in booking a jewelry consultation. The collected data will be used to schedule and prepare for the consultation.

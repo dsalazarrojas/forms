@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for a monthly facility inspection report. The purpose of this form is to gather data about the condition of facilities within an organization, including any issues or defects found during the inspection. This form is likely to be used by facilities management teams or maintenance personnel to track and manage maintenance activities.
-Checking for duplication or relevance:
-The form is used to create a recurring report for a specific facility, which is likely used for tracking and monitoring purposes. The form is not designed for other purposes such as user registration or customer feedback.
-</thinking>
-
 # monthly_facility_inspection_report - Help Guide
 ## Purpose
 The monthly facility inspection report is a form used to collect data about the condition of facilities within an organization. It is designed to help facilities management teams track and manage maintenance activities.

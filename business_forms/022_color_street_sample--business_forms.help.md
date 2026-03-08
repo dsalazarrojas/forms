@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a sample form for Color Street, a nail polish company. It likely aims to collect customer information and preferences to provide them with personalized sample nail polish options. The form has multiple sections, each gathering different types of information: customer contact details (name, email, address), nail preferences (favorite colors, styles), and habits (current nail routine), as well as their willingness to join the company's mailing list and how they heard about the company. This form is probably intended for customers to provide their preferences and contact information to receive tailored samples from Color Street.
-</thinking>
-
 # Color Street Sample - Help Guide
 ## Purpose
 This form is designed to collect your contact information, nail preferences, and other details to provide you with personalized sample nail polish options from Color Street.

@@ -1,7 +1,3 @@
-<thinking>
-The form is a rental agreement access form, used to gather information from tenants and landlords for rental properties. This form aims to collect data on the rental agreement terms, tenant and landlord contact information, and other relevant details. This form should only be used for rental agreements and not for other types of business or personal agreements.
-</thinking>
-
 # Rental Agreement Access Form - Help Guide
 ## Purpose
 The Rental Agreement Access Form is a document used to collect and record information related to rental agreements between landlords and tenants. This form ensures that all necessary information is gathered and documented to facilitate smooth communication and payment processing.

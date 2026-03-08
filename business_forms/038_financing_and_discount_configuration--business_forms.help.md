@@ -1,6 +1,3 @@
-<thinking>
-This form is used to configure financing and discount options for customers. It is not intended for general business transactions or accounting purposes. This form is only to be filled out when a specific customer's financing and discount options need to be adjusted. The purpose of this form is to ensure that all necessary information is collected before applying any changes to the customer's account, thereby avoiding any potential conflicts or miscommunication.</thinking>
-
 # Financing And Discount Configuration - Help Guide
 
 ## Purpose

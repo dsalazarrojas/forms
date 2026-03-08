@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to create a new release task, which is a key process in software development and project management. The purpose of this form is to assign tasks to team members and set important metadata such as due date, start time, end time, and status. It is essential to provide accurate and relevant information to ensure the successful execution of the task.
-</thinking>
-
 # Release Task Form - Help Guide
 ## Purpose
 This form is used to create a new release task, which is a critical process in software development and project management. It is intended to provide a structured way of assigning tasks to team members and setting essential metadata.

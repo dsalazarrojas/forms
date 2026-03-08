@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a system that helps to manage bookings for wardrobe fittings. A wardrobe fitting is a session where a customer is provided with a fitting for a theater production. The form is used to collect relevant information from the customer, such as their name, contact number, preferred time slot, and other details that can be helpful for the production team. This form will be reviewed internally to ensure that the provided information is correctly captured and the customer receives the right information about their fitting appointment.
-</thinking>
-
 # Theater Wardrobe Fitting Booking Form - Help Guide
 ## Purpose
 This form is used to book a wardrobe fitting for a theater production. Please fill out the form with accurate and relevant information to ensure a smooth and successful appointment.

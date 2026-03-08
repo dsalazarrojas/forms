@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Profile Questionnaire Form - Help Guide
 
 ## Purpose

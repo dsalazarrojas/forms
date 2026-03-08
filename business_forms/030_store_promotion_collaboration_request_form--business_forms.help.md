@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure that the Store Promotion Collaboration Request Form is being filled out with the correct information by store representatives, retailers, or agents. This form is used to collect data on store promotion collaborations, and it is crucial that the required fields are filled out accurately and thoroughly. We should avoid duplicating effort and ensure that each store promotion collaboration is properly assessed before submission.
-
-To prevent duplication of effort, we should review the form submissions regularly and ensure that each submission is unique. This way, we can identify potential issues early and provide better support to our stores and retailers.
-
-</thinking>
-
 # Store Promotion Collaboration Request Form - Help Guide
 ## Purpose
 The Store Promotion Collaboration Request Form is a tool used to collect information on store promotion collaborations from store representatives, retailers, or agents. This form helps to assess and evaluate each promotion collaboration request, ensuring that all necessary information is gathered.

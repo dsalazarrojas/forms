@@ -1,7 +1,3 @@
-<thinking>
-This form is used to generate a quote for crop insurance policies. The purpose of this form is to collect relevant information about the farm, crop type, and other details to provide accurate quotes. The form is designed to be filled out by farmers or agricultural professionals who need to generate a quote for crop insurance. This form should be used for general crop insurance quotes and not for specific or customized quotes that may require additional information or special circumstances.
-</thinking>
-
 # crop_insurance_quotation_form - Help Guide
 ## Purpose
 This form is used to generate a quote for crop insurance policies.

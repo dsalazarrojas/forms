@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form is used by sales teams to gather information and plan sales strategies for appointments with customers. The form helps to standardize the process of capturing relevant details about each appointment, ensuring that sales representatives are well-prepared and equipped with the necessary information to effectively engage with customers and drive sales. It is essential to use this form for every appointment to maintain consistency and ensure that all necessary information is captured.
-</thinking>
-
 # Sales Strategy Planning Appointment Form - Help Guide
 ## Purpose
 The Sales Strategy Planning Appointment Form is used to gather information and plan sales strategies for appointments with customers. This form ensures that sales representatives are well-prepared and equipped with the necessary information to effectively engage with customers and drive sales.

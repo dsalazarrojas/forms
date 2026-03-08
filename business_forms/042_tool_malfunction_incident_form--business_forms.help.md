@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tool Malfunction Incident Form - Help Guide
 ## Purpose
 The Tool Malfunction Incident Form is designed to collect information about tool malfunctions that occur within the organization. This form helps to identify the tools that are not functioning correctly, which aids in taking corrective actions to prevent future malfunctions.

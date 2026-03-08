@@ -1,36 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on packaging defects, which is crucial for identifying recurring issues and implementing corrective actions to improve packaging quality. This form captures information on the type of package, the defect it contains, the cause of the defect, and any corrective actions taken. The form also includes fields for documenting the packaging date and time, employee involved, and the effectiveness of the corrective action.
-
-Before we begin, let's review the fields on this form:
-
-*   **Package Type**: This field is used to identify the type of package being analyzed.
-*   **Defect Type**: This field is used to identify the type of defect found in the package.
-*   **Defect Description**: A brief description of the defect.
-*   **Cause Of Defect**: This field is used to identify the root cause of the defect.
-*   **Corrective Action**: A description of the action taken to correct the defect.
-*   **Packaging Date**: The date the package was packaged.
-*   **Shift**: The shift during which the package was packaged.
-*   **Time**: The time the package was packaged.
-*   **Employee Name**: The name of the employee packaging the product.
-*   **Employee Position**: The position of the employee packaging the product.
-*   **Date Shift**: The date and shift during which the package was packaged.
-*   **Packaging Date/Time**: The date and time the package was packaged.
-*   **Corrective Action Taken**: A list of actions taken to correct the defect.
-*   **Corrective Action Description**: A description of the actions taken.
-*   **Corrective Action Effective Date**: The date the corrective action became effective.
-*   **Corrective Action Due Date**: The date by which the corrective action must be completed.
-*   **Packaging Defect Frequency**: The frequency of packaging defects.
-*   **Corrective Action Review**: A review of the corrective action.
-*   **Packaging Defect Category**: The category of the packaging defect.
-*   **Packaging Defect Description**: A description of the packaging defect.
-*   **Corrective Action Reviewer**: The name of the person reviewing the corrective action.
-*   **Packaging Defect Cause**: The cause of the packaging defect.
-*   **Packaging Defect Frequency**: The frequency of the packaging defect.
-*   **Corrective Action Evidence**: Evidence supporting the corrective action.
-*   **Packaging Defect Category**: The category of the packaging defect.
-
-</thinking>
-
 # Packaging Defect Analysis Report Form - Help Guide
 ## Purpose
 This form is designed to collect data on packaging defects to identify and analyze recurring issues and implement corrective actions to improve packaging quality.

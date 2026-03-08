@@ -1,8 +1,3 @@
-<thinking>
-This is a form that allows users to provide an evaluation of the pros and cons of a decision or proposal. The form is designed to help users weigh the advantages and disadvantages of a particular option or course of action. It may be used by stakeholders in a business setting to assess potential outcomes of a decision and determine the best course of action.
-The form should only be used for evaluating specific business decisions or proposals that have a clear outcome or conclusion. Users should not attempt to use the form for general evaluations or non-specific purposes.
-</thinking>
-
 # pros_and_cons_evaluation_form - Help Guide
 ## Purpose
 The **pros_and_cons_evaluation_form** is used to evaluate the pros and cons of a decision or proposal. It helps users weigh the advantages and disadvantages of a particular option or course of action.

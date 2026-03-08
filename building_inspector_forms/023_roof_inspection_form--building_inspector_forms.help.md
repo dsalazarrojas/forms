@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to gather information for a comprehensive roof inspection. The purpose of this form is to document the condition and findings of a roof inspection, as well as any recommended actions to be taken. This form will be used by building inspectors to conduct thorough and accurate inspections.
-
-To ensure the form's accuracy and relevance, we have considered the following:
-* The form's category and title are consistent with the provided metadata.
-* The fields and their labels are clear and concise, with no obvious duplication or overlap.
-* The form's layout is organized in a logical and user-friendly manner.
-
-The form is intended to be used by building inspectors to document their findings and recommendations for roofs of different types, including Asphalt, Clay, Composite, Metal, Shingle, Slate, Tile, and Wood.
-</thinking>
-
 # Roof Inspection Form - Help Guide
 ## Purpose
 The Roof Inspection Form is a tool for building inspectors to document the condition and findings of a roof inspection. It helps to gather information about the roof's condition, including the type and condition, and provides a space for recording recommended actions and comments.

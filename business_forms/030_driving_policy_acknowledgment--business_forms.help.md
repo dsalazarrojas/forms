@@ -1,11 +1,3 @@
-<thinking>
-The "driving_policy_acknowledgment" form is used to gather information about a vehicle's owner/operator, vehicle details, and driver details. This form is likely used by companies or organizations to ensure that drivers or vehicle operators are aware of and agree to the driving policy requirements, which may include emergency contact information, vehicle registration details, and driver licensing information.
-
-Before completing this form, make sure you have all necessary documents, such as the driver's license, vehicle registration, and vehicle make/model/year information. The form is likely used for onboarding or offboarding a new driver/operator, and it's essential to understand that it may be used in conjunction with other business processes.
-
-Please review the following instructions and explanations for each field to ensure you complete the form accurately and efficiently.
-</thinking>
-
 # driving_policy_acknowledgment - Help Guide
 ## Purpose
 The "driving_policy_acknowledgment" form is used to gather information about a vehicle's owner/operator, vehicle details, and driver details, and ensure that the driver or vehicle operator is aware of and agrees to the driving policy requirements.

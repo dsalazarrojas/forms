@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # current_inventory_glitter_gal_mari - Help Guide
 ## Purpose
 The "current_inventory_glitter_gal_mari" form is designed to collect information about a specific product or inventory item. This form will help you gather details such as the title, category, description, assigned tool, and other relevant information. It's essential to fill out this form accurately to ensure that the product or inventory item is properly cataloged and managed.

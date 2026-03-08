@@ -1,7 +1,3 @@
-<thinking>
-This form is a Fire Extinguisher Inspection Form, designed to help ensure the proper maintenance and inspection of fire extinguishers in a facility. The form collects information on the type of fire extinguisher, its status, and other relevant details. This form is meant to be used by facility managers, safety officers, or maintenance personnel to keep track of fire extinguishers' condition, maintenance history, and inspection schedules. This form is not intended to be used for other purposes, such as for general facility management or employee onboarding.
-</thinking>
-
 # fire_extinguisher_inspection_form - Help Guide
 ## Purpose
 The Fire Extinguisher Inspection Form is designed to help facility staff inspect and maintain fire extinguishers in a facility. This form is used to record the type of fire extinguisher, its status, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Talent Payment Submission Form - Help Guide
 ## Purpose
 

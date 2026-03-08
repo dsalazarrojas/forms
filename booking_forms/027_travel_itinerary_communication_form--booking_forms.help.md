@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather travel-related information from users, ensuring that all necessary details are communicated effectively between travel coordinators, attendees, and participants. This form likely serves as a means to collect and share travel dates, destinations, group members, activities, flight and accommodation details, and any other travel-related notes. To avoid redundancy, the form is intended to be used when creating or managing travel itineraries. Ensure you have all the necessary information before submitting the form.
-</thinking>
-
 # Travel Itinerary Communication Form - Help Guide
 
 ## Purpose

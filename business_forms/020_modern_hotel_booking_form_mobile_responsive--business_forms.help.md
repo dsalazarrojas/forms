@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from users for booking a hotel room. The form is part of a larger system for managing hotel reservations. The purpose of this form is to collect customer information, contact details, booking details, and any special requests. The form is designed to be mobile responsive, allowing users to easily access and complete it on their mobile devices. 
-
-Before proceeding, please note that the form is not intended for real-world bookings. This is a demonstration of form design principles and technical writing best practices. Please do not use this form for actual bookings.
-
-</thinking>
-
 # Modern Hotel Booking Form Mobile Responsive - Help Guide
 
 ## Purpose

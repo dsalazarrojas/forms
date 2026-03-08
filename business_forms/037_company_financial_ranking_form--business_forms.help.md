@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather company financial data for ranking and evaluation purposes. It's likely used for business development, analysis or research. Before proceeding, check if the form was previously filled out, and make sure that the purpose is aligned with your actual needs, so as to not duplicate work.
-</thinking>
-
 # Company Financial Ranking Form - Help Guide
 
 ## Purpose

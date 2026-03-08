@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information from users about a live streaming partner segment, which is a critical step in the process of booking a live stream. The live stream partner segment is a specific part of the live stream that the partner is interested in or available for booking. This form is meant to be a straightforward way to capture user input and provide a structured format for collecting relevant details. To ensure that the form is used correctly and effectively, it's essential to understand its purpose and the meaning of each field. Therefore, I will explain each field in detail to guide users through the completion process.
-
-</thinking>
-
 # live_stream_partner_segment_booking_form - Help Guide
 ## Purpose
 This form is designed to collect information about a live stream partner segment for booking purposes.

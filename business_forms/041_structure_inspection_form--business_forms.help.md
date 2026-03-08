@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to complete the structure_inspection_form form. The form is used to inspect structures for various features such as structural integrity, fire suppression systems, stairwells, handrails, stair treads, and railings. The form will ask for details about the structure's name, address, and specific features that meet or don't meet certain standards. This guide will walk users through each field of the form and provide clear explanations of what to expect.
-</thinking>
-
 # structure_inspection_form - Help Guide
 ## Purpose
 This form is used to inspect a structure for its various features and components to ensure they meet specific standards.

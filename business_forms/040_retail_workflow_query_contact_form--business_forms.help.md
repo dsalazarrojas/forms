@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used by customers to submit queries and feedback regarding retail-related issues or questions. It allows them to provide their contact information (email and phone number) and any additional information about their query. The form is typically used by retail customers, employees, or partners.
 
 </thinking>

@@ -1,8 +1,3 @@
-<thinking>
-This form is used by administrators to track and report maintenance costs. The purpose of this form is to collect data on maintenance costs associated with specific forms, allowing for accurate tracking and analysis of expenses. This form should only be completed by authorized personnel who have a need to report maintenance costs. To confirm, this form will only be filled out for forms that are not currently active, to avoid duplication of effort.
-
-</thinking>
-
 # Maintenance Cost Report Form - Help Guide
 ## Purpose
 The Maintenance Cost Report Form is used to track and report maintenance costs associated with specific forms.

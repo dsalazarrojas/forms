@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help organizations assess and document their current cybersecurity measures. It's a general-purpose form that can be used by businesses across various industries and categories. The form is not specific to a particular company, industry, or region, and its purpose is to provide a comprehensive checklist for evaluating and improving an organization's cybersecurity posture.
-
-The form is a collection of questions and fields that cover various aspects of cybersecurity, including risk assessment, security controls, incident response, security standards, training programs, monitoring, and backup practices. By completing this form, users can gain a better understanding of their organization's security measures and identify areas for improvement.
-
-Please note that this form is not a one-time use case, but rather a tool for ongoing monitoring and review. It's essential to fill it out regularly to ensure that your organization's cybersecurity posture remains strong and up-to-date.
-
-</thinking>
-
 # Cybersecurity Measures Checklist Form - Help Guide
 ## Purpose
 This form is designed to help organizations assess and document their current cybersecurity measures. It covers various aspects of cybersecurity, including risk assessment, security controls, incident response, security standards, training programs, monitoring, and backup practices.

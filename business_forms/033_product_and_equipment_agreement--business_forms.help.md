@@ -1,17 +1,3 @@
-<thinking>
-This form appears to be designed to collect information about a piece of equipment, including its type, description, purchase date, location, condition, warranty status, warranty expiration date, manufacturer, model number, product code, purchase price, sale price, confirmation of purchase date, and status. The fields seem to be primarily focused on administrative and logistical details related to the equipment.
-
-Before diving into the help guide, I'd like to verify that:
-
-* The form is indeed intended for business use cases, as indicated by the "business_forms" category.
-* The form doesn't appear to be a duplicate of any other form, based on its unique set of fields.
-* The form is not overly complex, with 17 fields that are mostly straightforward and easy to understand.
-* The fields seem to be well-defined and consistent in their type (text, select_one, select_multiple, date).
-
-Given that the form appears to be well-structured and not a duplicate, let's proceed to create a help guide that is concrete, concise, and practical.
-
-</thinking>
-
 # product_and_equipment_agreement - Help Guide
 ## Purpose
 The `product_and_equipment_agreement` form is a tool for capturing critical information about a piece of equipment, including its administrative and logistical details.

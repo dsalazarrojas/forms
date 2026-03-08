@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be a straightforward way for users to book speed meetings with team members or external contacts. The purpose of this form is to collect relevant information about the meeting, including the date, time, location, duration, topic, and attendees' details. The form should not be completed for duplicate meetings or non-existent meetings, ensuring that the meeting is actually scheduled and not just a placeholder or a hypothetical meeting.
-
-When filling out this form, users should ensure that they have a legitimate reason to book a meeting and that the meeting is not already on their calendar. This form is not intended for meetings that are not concrete or do not have a clear agenda.
-
-Before submitting the form, double-check that the meeting details are accurate and that you have all necessary information to book the meeting.
-
-</thinking>
-
 # Speed Meeting Booking Form - Help Guide
 ## Purpose
 This form is used to book a speed meeting with team members or external contacts. It helps to collect essential information about the meeting.

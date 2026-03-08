@@ -1,16 +1,3 @@
-<thinking>
-This form aims to assess the structural clarity, effectiveness, and problems of a business organization. It gathers information from the respondent, including their name, role, and company name, to understand their perspective on the organization's structure. The form is likely to be used for organizational development, improvement, or as a starting point for a company's restructuring process. This form should not be used for other purposes such as performance appraisals or personnel evaluations.
-
-This form is not a part of any specific commercial or proprietary form platform, but a unique creation using AI and public survey data. Its purpose is to provide a structured and efficient way to collect feedback and insights from business stakeholders. It's designed to be adaptable and reusable, allowing users to modify it as needed for their specific use case.
-
-Before proceeding, please ensure that this form meets your specific needs and requirements. If you plan to use it for a different purpose, it's essential to review and adjust the form accordingly.
-
-Please note that this form is released under CC BY 4.0, allowing you to use, modify, and even sell it, as long as you give credit.
-
-To ensure the form's effectiveness, please fill it out carefully and honestly, providing as much detail as possible. This will help the form's creators and users gain valuable insights and improve the business structure.
-
-</thinking>
-
 # Business Structure Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the structural clarity, effectiveness, and problems of a business organization. It provides a framework for identifying areas of improvement and prioritizing suggested changes.

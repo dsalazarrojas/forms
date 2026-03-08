@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a comprehensive user-facing help guide for the CRM Customization Quote Request Form, let's consider the following:
 
 * The form is designed to collect information from potential customers who are interested in customizing their CRM system.

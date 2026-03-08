@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about the payment data privacy assessment of a user. The form's purpose is to gather personal and contact information, as well as specific details about the user's payment data. This form will be used by the organization to assess the user's payment data privacy.
-
-To confirm, I have checked the provided YAML fields and ensured that the form is not a duplicate of any other form within the organization.
-
-</thinking>
-
 # Payment Data Privacy Assessment - Help Guide
 ## Purpose
 This form is designed to collect information about the payment data privacy assessment of a user. The form will be used by the organization to assess the user's payment data privacy.

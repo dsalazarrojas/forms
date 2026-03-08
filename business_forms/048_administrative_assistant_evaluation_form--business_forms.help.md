@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "Administrative Assistant Evaluation Form," is to help supervisors evaluate the performance of their administrative assistants, providing feedback on their work quality, punctuality, communication skills, and initiative. This form aims to capture key aspects of an administrative assistant's job, ensuring that the evaluation is comprehensive and fair. It's essential to fill this form out only once for each administrative assistant, and it's not intended for duplicate submissions. 
-</thinking>
-
 # Administrative Assistant Evaluation Form - Help Guide
 ## Purpose
 The Administrative Assistant Evaluation Form is designed to provide a structured evaluation of an administrative assistant's performance. This form helps you assess their quality of work, punctuality, communication skills, initiative, and areas for improvement, ultimately helping you make informed decisions about their growth and development.

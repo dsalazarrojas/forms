@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Expense Reimbursement Form - Help Guide
 
 ## Purpose

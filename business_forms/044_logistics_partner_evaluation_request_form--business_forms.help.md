@@ -1,7 +1,3 @@
-<thinking>
-Internal note: This form is used for evaluating logistics partners. It's used to collect information about the partner's performance and categorize them as "Yes" or "No" depending on the evaluation result. This form might be used by the logistics team to identify strong or weak partners.
-</thinking>
-
 # Logistics Partner Evaluation Request Form - Help Guide
 
 ## Purpose

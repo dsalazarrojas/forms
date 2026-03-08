@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Process Reengineering Consultation Request Form - Help Guide
 ## Purpose
 The Process Reengineering Consultation Request Form is designed to gather information about your project objectives, challenges, and preferred meeting schedule. This form will help us understand your needs and facilitate a consultation to provide guidance and support for your project.

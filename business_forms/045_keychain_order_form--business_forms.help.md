@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a new order for a keychain product. The form is designed to collect customer information, order details, and keychain customization options. The goal is to ensure that customers can easily place orders and customize their keychains with the desired model, color, and text. To avoid duplication of effort, please ensure that all required fields are filled out accurately and completely.
-</thinking>
-
 # Keychain Order Form - Help Guide
 
 ## Purpose

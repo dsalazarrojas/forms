@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to help project stakeholders request alignment and facilitate the process of ensuring that all relevant parties are on the same page. It collects information about the project's status, goals, and challenges, as well as the requested alignment support and preferred meeting format. The form is used to identify potential issues and provide a framework for resolving them in a timely and efficient manner. 
-Please ensure that the form is not submitted multiple times for the same project, as this may lead to redundant alignment requests. 
-Please note that the form's fields and sections are designed to be completed by project stakeholders, but not all fields are required. 
-</thinking>
-
 # Alignment Request Form - Help Guide
 ## Purpose
 This form is designed to help project stakeholders request alignment and facilitate the process of ensuring that all relevant parties are on the same page.

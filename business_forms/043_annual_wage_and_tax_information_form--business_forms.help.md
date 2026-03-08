@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Annual Wage And Tax Information Form - Help Guide
 
 ## Purpose

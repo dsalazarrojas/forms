@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to help users evaluate the effectiveness of an application, website, or system through a heuristic evaluation checklist. The purpose of this form is to gather user feedback and ratings on various aspects of the application, such as user experience, navigation, search, and feedback mechanisms. By filling out this form, users can provide valuable insights that can be used to improve the product's usability and overall user experience.
-
-This form does not duplicate any other forms, as it is a standalone tool for collecting user feedback on specific aspects of a website or application.
-
-</thinking>
-
 # Heuristic Evaluation Checklist - Help Guide
 ## Purpose
 The Heuristic Evaluation Checklist is a tool for evaluating the user experience of an application, website, or system. It is designed to gather feedback on various aspects of the product, including user experience, navigation, search, and feedback mechanisms.

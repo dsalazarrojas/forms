@@ -1,7 +1,3 @@
-<thinking>
-This form is used for declaring a society, which is likely a legal or formal declaration of a business or organization. It's essential to fill out this form accurately to ensure that the relevant authorities can verify and process the declaration correctly. Before proceeding, please note that this form is not a substitute for actual legal procedures or documents required for registering a business or organization in your jurisdiction. It's a supporting document for internal purposes.
-</thinking>
-
 # Society Declaration Form - Help Guide
 ## Purpose
 The Society Declaration Form is used to provide essential information about a society or organization to the relevant authorities. This form helps in verifying and processing the declaration of a society for internal purposes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Packaging Waste Reduction Initiative Registration Form - Help Guide
 
 ## Purpose

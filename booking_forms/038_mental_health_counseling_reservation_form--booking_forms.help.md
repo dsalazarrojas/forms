@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to facilitate communication between mental health clients and the counseling team at this organization. 
-The purpose of this form is to collect information from clients about their preferences and needs for a counseling session. 
-Please note that filling out this form is not a substitute for an in-person consultation. 
-If you have any questions or concerns, please reach out to us directly. 
-</thinking>
-
 # Mental Health Counseling Reservation Form - Help Guide
 ## Purpose
 This form is used to collect client information and preferences for a counseling session. 

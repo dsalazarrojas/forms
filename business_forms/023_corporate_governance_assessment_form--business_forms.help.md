@@ -1,5 +1,3 @@
-<thinking>As I analyze the provided YAML fields, it seems this form is designed for assessing corporate governance practices, covering various aspects such as leadership structure, decision-making processes, accountability, and external relationships. The fields appear to be focused on the inner workings of a company's governance practices, likely for internal or external stakeholders to evaluate or audit these practices. The fields seem to cover the essential components of corporate governance, including leadership, decision-making, accountability, and relationships. I will make sure to cover the form's purpose, completion steps, and each field's explanation in a way that's clear and concise, following the provided structure.</thinking>
-
 # corporate_governance_assessment_form - Help Guide
 ## Purpose
 This form is designed to assess and evaluate a company's corporate governance practices. It covers various aspects of leadership structure, decision-making processes, accountability, and external relationships. The purpose of this form is to evaluate how well a company is governed and managed, providing insight into its corporate governance practices.

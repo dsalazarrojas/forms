@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from operators on a daily basis, likely for maintenance or inspection purposes. It's essential to ensure that each field is filled out accurately and thoroughly to maintain data quality. Before filling out this form, please review the fields and make sure you're not duplicating any information that already exists in the system. If you're unsure about any field, refer to this guide for clarification.
-</thinking>
-
 # Operator Daily Inspection Form - Help Guide
 ## Purpose
 The Operator Daily Inspection Form is a tool used to collect data from operators on a daily basis. It helps in maintaining accurate and up-to-date information about vehicle condition, maintenance, and other relevant details.

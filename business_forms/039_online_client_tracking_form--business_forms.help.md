@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to track online clients. The form should only be used for tracking purposes, and the provided fields are mandatory. The form should not be used for other purposes, such as creating new clients. This is to ensure data consistency and accuracy. Please ensure that you are using this form correctly and in the right context.</thinking>
-
 # online_client_tracking_form - Help Guide
 ## Purpose
 The online_client_tracking_form is used for tracking online clients. It is essential to fill out the form accurately to ensure that the client's information is up-to-date and correct.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is correctly used for its intended purpose and that no duplicate requests are made. This form is used to request corrections for treasury reports, and each field should be filled in according to the following instructions to ensure the correct processing of the request. Before filling out the form, please check if a similar request has already been made and if the issue is not already resolved. 
-</thinking>
-
 # Treasury Report Correction Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request corrections for treasury reports. This form should only be used for corrections, not for general inquiries or other types of requests. 

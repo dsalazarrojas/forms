@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about the retail store layout. The main goal is to help store managers and customers understand and discuss the store's layout and preferences. This form will guide you through questions related to store characteristics, layout choices, manager's input, and customer feedback. 
-
-The form has 15 pages, each with specific questions or options. This form is not a mandatory submission form, so users can fill it out at their convenience.
-
-</thinking>
-
 # retail_store_layout_inquiry_form - Help Guide
 ## Purpose
 This form is designed to gather information about the retail store layout and preferences to help store managers and customers understand and discuss the store's characteristics.

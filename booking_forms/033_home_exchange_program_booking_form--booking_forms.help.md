@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist hosts and guests in booking a home exchange program, facilitating a smooth and organized experience for both parties. To ensure the form is being used correctly, the following guide will walk through each field's purpose, explaining its relevance and importance in the home exchange booking process.
-</thinking>
-
 # home_exchange_program_booking_form - Help Guide
 ## Purpose
 This form is intended for hosts and guests to provide essential information for a home exchange program booking. It gathers relevant details such as host and guest details, stay duration, and dates for a seamless experience.

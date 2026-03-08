@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to update information associated with an online store domain. 
-The form should only be used for authorized updates and changes to the domain. 
-The form will check for relevance and non-duplication of changes to prevent unauthorized or unnecessary changes.
-</thinking>
-
 # online_store_domain_update_request_form - Help Guide
 ## Purpose
 This form is used to update the information associated with an online store domain. It should only be used for authorized updates and changes to the domain.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a proposal, which is a written expression of ideas or plans for a business opportunity. This form will guide users through the process of providing essential details about the proposal, including its title, category, and summary. The form is designed to capture relevant information from the submitter, such as their contact details and submission date. The form is intended to be completed by individuals or teams proposing business opportunities, and the information collected will be used to evaluate and manage these proposals.
-
-Before proceeding, please ensure that you have a clear understanding of the proposal's context and requirements. This form should not be used for duplicate or unrelated purposes. If you are unsure about any field, please refer to the field-by-field explanation below.
-
-</thinking>
-
 # Proposal Information Collection Form - Help Guide
 ## Purpose
 The Proposal Information Collection Form is a standardized template designed to gather essential details about a proposal for a business opportunity. This guide will walk you through each field of the form to help you complete it accurately and efficiently.

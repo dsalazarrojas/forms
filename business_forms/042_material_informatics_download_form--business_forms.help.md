@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # material_informatics_download_form - Help Guide
 ## Purpose
 This form is used to download materials for the company. It gathers information about the material being requested, including its name, ID, description, version, and other relevant details. This form also captures contact information and approval status for the material.

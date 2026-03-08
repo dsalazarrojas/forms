@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure the Management Feedback Report form is used for its intended purpose, which is to gather feedback from managers on their direct reports or team members. This form should not be used for other purposes, such as performance reviews or evaluation forms. Additionally, we should check if the form is being used for the same report date and manager, to avoid duplication of effort and potential conflicts. 
-</thinking>
-
 # Management Feedback Report - Help Guide
 ## Purpose
 The Management Feedback Report is a form used by managers to provide feedback on their direct reports or team members. It helps to identify areas of concern and improvement, and to establish a clear understanding of the manager's perspective on their team members' performance.

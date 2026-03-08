@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for scheduling and organizing corporate meetings. Its purpose is to gather information about upcoming meetings, including meeting topics, attendees, dates, times, locations, and other relevant details. This form will help ensure that all necessary information is collected efficiently and effectively, facilitating smoother meeting planning and organization.
-</thinking>
-
 # corporate_meeting_appointment_form - Help Guide
 ## Purpose
 The corporate_meeting_appointment_form is a tool used to schedule and organize corporate meetings by gathering essential information from attendees.

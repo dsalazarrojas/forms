@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical tool for investment management, providing a structured and standardized way for end-users to input information about investments and contact details. To ensure that this form remains up-to-date and relevant, please review the existing investment types, asset allocations, and investment objectives carefully to avoid duplication and inaccuracies.
-</thinking>
-
 # Investment Management Quote Form - Help Guide
 ## Purpose
 The Investment Management Quote Form is designed to collect detailed information about investments and contact details from end-users. This form will help you understand their investment preferences, risk tolerance, and contact information.

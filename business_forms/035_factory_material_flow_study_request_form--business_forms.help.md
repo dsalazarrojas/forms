@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request a material flow study at a factory. A material flow study is an analysis of the material flow in a factory, examining the movement of materials from raw materials to finished goods. This form is used to gather information needed to plan and conduct such a study. To use this form, please ensure that you are only requesting a study if it is necessary and not duplicating existing work.
-
-</thinking>
-
 # Factory Material Flow Study Request Form - Help Guide
 ## Purpose
 The Factory Material Flow Study Request Form is a tool used to request a material flow study at your factory. This form helps gather necessary information to plan and conduct the study.

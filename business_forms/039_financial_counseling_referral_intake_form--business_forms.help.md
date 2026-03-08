@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is a comprehensive financial counseling referral intake form, designed to collect information from clients about their financial situation, goals, and objectives. The form is intended for use by financial advisors to assess a client's financial health and create a plan to address their specific needs. To ensure that this form is used correctly and efficiently, please review the following guidelines:
 
 # Financial Counseling Referral Intake Form - Help Guide

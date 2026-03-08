@@ -1,8 +1,4 @@
-> <thinking>
-This help guide is intended for internal use within the organization to ensure that users have a clear understanding of how to complete the Task Entry Form. The form is not intended for public use and is likely used for tracking and reporting purposes within the company. To avoid duplication of effort and to ensure consistency, users are encouraged to review the form carefully before completing it.
-</thinking>
-
-# Task Entry Form - Help Guide
+> # Task Entry Form - Help Guide
 
 ## Purpose
 The Task Entry Form is a tool used to record and track tasks and activities within the organization. It is designed to provide a centralized platform for users to input and manage their tasks, including their objectives, goals, start and end dates, descriptions, assigned tools, categories, and other relevant details.

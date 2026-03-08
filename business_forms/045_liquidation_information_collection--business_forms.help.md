@@ -1,6 +1,3 @@
-<thinking>
-To confirm, the form is for collecting information about liquidated assets, and it's used to track the details of the assets that have been liquidated. This form will gather data on various aspects of the asset, including the date of liquidation, the reason for liquidation, and the asset's value and status. To ensure relevance, this form is only for situations where assets are being liquidated, and the goal is to collect accurate and comprehensive data. There's no need for users to fill out this form if they're not involved in asset liquidation processes.</thinking>
-
 # Liquidation Information Collection - Help Guide
 ## Purpose
 This form collects information about liquidated assets, including the date and reason for liquidation, asset value, and status.

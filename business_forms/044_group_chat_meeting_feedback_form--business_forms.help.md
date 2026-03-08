@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Group Chat Meeting Feedback Form - Help Guide
 
 ## Purpose

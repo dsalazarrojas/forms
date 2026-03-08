@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information from team members to help them review their work and identify areas for improvement. The form will help team members reflect on their work and productivity, allowing them to set goals and focus areas that will help them stay on track and meet expectations. This form is not required for every team member, only for those who wish to request a review. Please make sure you're not duplicating an existing review request before submitting this form.
-
-</thinking>
-
 # Organizational Productivity Review Request Form - Help Guide
 ## Purpose
 This form is designed to help team members reflect on their work and productivity, and to identify areas for improvement. It helps them set goals and focus areas that will help them stay on track and meet expectations.

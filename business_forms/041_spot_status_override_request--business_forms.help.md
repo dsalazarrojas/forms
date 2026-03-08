@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to request a status override for a parking spot, providing information about the team name, manager's contact details, reason for override, type of override, and override status. This form is used in the business context of parking spot management, likely for administrative purposes. It's essential to ensure the form is used correctly to avoid duplication of requests. 
-
-Please review the form carefully before submitting it to ensure you're filling in the correct information.
-
-</thinking>
-
 # Spot Status Override Request - Help Guide
 ## Purpose
 This form is used to request a status override for a parking spot.

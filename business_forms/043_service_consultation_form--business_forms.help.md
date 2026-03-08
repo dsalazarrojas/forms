@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for service consultation, where customers can provide their information and feedback about the services provided by the business. This guide is intended to ensure that users understand the purpose and usage of each field, reducing errors and confusion. It's crucial that this form is used correctly to facilitate smooth communication and service delivery. Before proceeding, please ensure that you've reviewed the form carefully to avoid missing any essential details.
-</thinking>
-
 # Service Consultation Form - Help Guide
 ## Purpose
 This form is used to gather information from customers about their service consultation experiences. It's essential to provide accurate and complete answers to each question to ensure that the business can serve you better.

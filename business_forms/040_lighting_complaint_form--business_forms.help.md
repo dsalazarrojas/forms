@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users who are experiencing issues with the lighting in their area. The form will be used to track and address these complaints, and provide a way for users to report their concerns to the relevant authorities. It's essential to ensure that the form is completed accurately and thoroughly, as the information provided will be used to determine the priority and course of action for addressing the issue. To prevent duplication of effort, please only submit one complaint per incident. If you have previously submitted a complaint for the same issue, please do not resubmit. If you're unsure about any part of the process, please don't hesitate to reach out to our support team for assistance.
-</thinking>
-
 # ประก Lighting Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is to report issues with the lighting in your area. Please use this form to provide detailed information about your complaint, including your contact number and the level of lighting you are experiencing.

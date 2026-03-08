@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information for auto insurance billing purposes. It is intended for individuals or entities that need to provide payment details for their auto insurance policies. The form is likely to be used for billing and payment processing. The following guide will walk through the form fields and their meanings to ensure accurate completion.
-</thinking>
-
 # Auto Insurance Billing Form - Help Guide
 ## Purpose
 The Auto Insurance Billing Form is a critical tool for processing auto insurance payments. It gathers essential information from policyholders for successful billing and payment processing.

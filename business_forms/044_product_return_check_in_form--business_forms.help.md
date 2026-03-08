@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a product return, including the return date, product details, reason for return, customer information, and return status. This form should be used by authorized personnel to check in products returned by customers, ensuring accurate and efficient processing of returns.
-
-</thinking>
-
 # Product Return Check In Form - Help Guide
 ## Purpose
 The Product Return Check In Form is used to record and process customer returns. Completing this form helps ensure that returned products are checked in accurately and in a timely manner.

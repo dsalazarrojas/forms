@@ -1,10 +1,3 @@
-<thinking>
-The form "mixed_use_redevelopment_funding_application" is used to collect project details for mixed-use redevelopment funding applications. This type of funding is typically used for projects that have a mix of public and private funding sources. The form is used to gather project information from the project lead, which will be used to evaluate the project's eligibility for funding. This form is likely used within an organization that provides funding for various projects, and the project lead is expected to provide detailed information about their project to support their funding request.
-
-Before filling out this form, please ensure that you are not submitting duplicate project applications. If you are unsure if your project has been previously submitted, please contact our office to confirm.
-
-</thinking>
-
 # mixed_use_revelopment_funding_application - Help Guide
 ## Purpose
 This form is used to collect project details for mixed-use redevelopment funding applications.

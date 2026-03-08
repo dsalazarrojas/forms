@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data for a monthly marketing report, which is likely a document used to track and analyze marketing efforts and their impact on the business. The form asks for information on the report period, target audience, key performance metrics, and any additional comments. This data can be used to inform business decisions and optimize marketing strategies. The form is meant to be completed by individuals responsible for marketing efforts, such as marketing managers or team members.
-
-The purpose of this form is to gather essential information for the marketing team to create an effective and data-driven report. It's essential to complete this form accurately and thoroughly to ensure that the report provides valuable insights.
-
-The form has several sections, and each section has specific fields that require completion. To complete this form, follow the instructions below.
-
-</thinking>
-
 # Monthly Marketing Report - Help Guide
 
 ## Purpose

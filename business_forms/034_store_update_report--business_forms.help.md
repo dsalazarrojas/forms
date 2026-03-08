@@ -1,7 +1,3 @@
-<thinking>
-The store_update_report form is designed to collect information from users for updating a store's data. This form will be used by authorized personnel to update and manage store information. To avoid duplication of data, only authorized users will be able to update store information.
-</thinking>
-
 # store_update_report - Help Guide
 ## Purpose
 This form is used by authorized personnel to update and manage store data, ensuring accuracy and consistency across the system.

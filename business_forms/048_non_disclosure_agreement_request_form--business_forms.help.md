@@ -1,14 +1,3 @@
-<thinking>
-This form is used to document a request for a Non-Disclosure Agreement, a legal contract that protects sensitive business information from unauthorized disclosure. The purpose of this form is to gather necessary details about the request, including the business name, contact information, and agreement specifics.
-
-Before starting to fill out the form, please review the following fields and ensure they accurately reflect the details of your request:
-
-* Are you certain that you have not filled out this form for the same business or issue previously?
-* Are there any changes to the requested business or information that might affect the confidentiality agreement?
-* Does the contact person have the necessary authority to submit the request and represent the business?
-
-</thinking>
-
 # Non Disclosure Agreement Request Form - Help Guide
 ## Purpose
 This form is used to document a request for a Non-Disclosure Agreement, a legal contract that protects sensitive business information from unauthorized disclosure. The purpose of this form is to gather necessary details about the request, including the business name, contact information, and agreement specifics.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Action Items Checklist - Help Guide
 ## Purpose
 The Marketing Action Items Checklist is a form used to track and manage marketing campaigns. It helps you keep track of the status, priority, and other important details of each campaign task.

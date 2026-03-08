@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help brokers and their firms demonstrate their compliance with regulatory requirements and industry standards. To ensure accurate and thorough completion, please review the following instructions.
-
-Before starting, verify that you have all necessary information and documents ready. This form should only be completed once a year for each firm. If you've already completed this form for the current firm and year, do not repeat your submission.
-
-This form is divided into several sections, each focusing on a specific aspect of compliance. Please review each section carefully and provide accurate information where required.
-
-</thinking>
-
 # Annual Compliance Review For Brokers - Help Guide
 ## Purpose
 The Annual Compliance Review For Brokers form is designed to help firms and brokers demonstrate their commitment to regulatory compliance and industry standards. It is essential to complete this form thoroughly and accurately to ensure your firm's compliance status.

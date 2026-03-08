@@ -1,7 +1,3 @@
-<thinking>...
-The form is used for collecting information about employees' undertakings and indemnities, which are essential documents in employment contracts. This form is meant to be filled out by employees as a formal agreement between the employee and the employer. It's essential to ensure that each field is completed accurately to avoid any potential issues or disputes. Please review the form carefully before proceeding.
-</thinking>
-
 # Employee Undertaking And Indemnity Form - Help Guide
 ## Purpose
 This form is a formal agreement between the employee and the employer, outlining the terms and conditions of employment. It's a crucial document that helps maintain a healthy and transparent working relationship.

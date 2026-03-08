@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used for collecting agreement information for a dumping service. The purpose of this form could be to gather details from clients or customers about their dumping service requirements or needs. This form may not be specific to a particular industry or category, making it more general purpose.
-The form is not affiliated with any form platform, and it's an original adaptation created using AI. The form has multiple pages, but all pages are text-based.
-The form has five fields: four text fields and one select multiple field.
-Before using this form, ensure that the fields are relevant and not duplicated. If the form is for a specific industry or service, please consider using a more specialized form.
-</thinking>
-
 # dumping_service_agreement_form - Help Guide
 ## Purpose
 The purpose of this form is to collect agreement information from clients or customers for a dumping service.

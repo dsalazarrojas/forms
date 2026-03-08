@@ -1,7 +1,3 @@
-<thinking>
-We are building a form to collect information from customers who want to subscribe to our magazine. This form will gather necessary details such as customer contact information and subscription preferences. The goal is to make it easy and clear for customers to provide their information accurately. To ensure data accuracy, we will be validating and verifying the customer details internally. This form is for general customer use and should not be used for bulk or automated submission. We will review each form submission individually before processing it.
-</thinking>
-
 # Magazine Subscription Form - Help Guide
 ## Purpose
 This form is designed to collect customer information for magazine subscription purposes. Fill out the form to provide your details and subscription preferences.

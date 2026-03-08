@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to document and record the terms of a conflict resolution agreement between two parties. This form serves as a formal declaration of understanding and agreement to the terms of the resolution, which helps to prevent future conflicts and promotes transparency. It is essential to ensure that both parties have a clear understanding of the agreed-upon terms and to create a paper trail that can be referenced in case of any future disputes.
-
-When filling out this form, it is recommended to complete it as soon as possible after the conflict has been resolved, while both parties still have a clear recollection of the terms agreed upon. This form is not intended to be used in cases where a third-party mediator was involved, unless specified otherwise.
-
-Please note that this form does not replace or duplicate any existing agreements or documentation that may already be in place. If you are unsure about the applicability of this form or its relationship to existing agreements, please consult with your supervisor or relevant authorities.
-
-Before filling out this form, please make sure you have a clear understanding of the conflict resolution terms and that both parties are in agreement with the terms outlined in the form. This form is not a substitute for legal advice or mediation services. If you need guidance on conflict resolution or legal matters, please seek advice from a qualified professional.
-
-This form is designed to be completed in two parts: the first part gathers information about the involved parties, the conflict details, and the resolution terms. The second part is a declaration of the parties' understanding and agreement to the terms of the resolution.
-
-</thinking>
-
 # Conflict Resolution Agreement Declaration Form - Help Guide
 
 ## Purpose

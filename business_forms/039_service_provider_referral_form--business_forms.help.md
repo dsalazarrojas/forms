@@ -1,10 +1,3 @@
-<thinking>
-The Service Provider Referral Form is used by our organization to gather information about potential new service providers that can offer valuable services to our clients. This form is used to collect contact information and other relevant details about the service provider, as well as the type of services they offer. 
-When filling out this form, please ensure that you are providing accurate information about the service provider and the services they offer. You may not need to fill out the entire form, as some fields are optional. 
-To avoid duplicate submissions, please do not submit the form multiple times for the same service provider. 
-If you are unsure about any of the fields, feel free to contact us for clarification. 
-</thinking>
-
 # Service Provider Referral Form - Help Guide
 ## Purpose
 

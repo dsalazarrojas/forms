@@ -1,7 +1,3 @@
-<thinking>
-**This form is intended for individuals to report complaints related to community planning issues, such as zoning violations, building code violations, noise complaints, and other planning concerns. This form is meant to provide the community with a way to report these issues in a clear and structured manner, ensuring that all relevant information is captured.**
-</thinking>
-
 # Community Planning Complaint Form - Help Guide
 ## Purpose
 The Community Planning Complaint Form is designed to collect information from individuals reporting complaints related to community planning issues. This form is used to gather details about the complaint, including contact information, issue description, location, and preferred resolution.

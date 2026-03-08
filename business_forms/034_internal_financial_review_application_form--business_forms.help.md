@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for internal use, specifically for employees and management to review financial information and approve or deny related requests. The purpose of this form is to ensure transparency and consistency in the review process, making it easier to track and manage internal financial activities. To avoid duplication, please refrain from submitting duplicate requests for the same or very similar information. Ensure that all necessary fields are completed thoroughly and accurately, and that the correct options are selected from the provided choices.</thinking>
-
 # Internal Financial Review Application Form - Help Guide
 
 ## Purpose

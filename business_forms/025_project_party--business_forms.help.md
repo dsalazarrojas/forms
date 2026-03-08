@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Project Party" form is to collect information about a party or event being planned. This form is likely used by event organizers or planners to gather details about the party, such as its type, number of guests, menu preferences, and other relevant information.
-The "Project Party" form appears to be a comprehensive tool for party planning, and its purpose may overlap with other forms or tools used for similar tasks. To ensure that this guide is helpful, we will verify that the form does not duplicate existing information or processes.
-</thinking>
-
 # Project Party - Help Guide
 ## Purpose
 The "Project Party" form is used to collect information about a party or event, including its type, number of guests, menu preferences, and other details.

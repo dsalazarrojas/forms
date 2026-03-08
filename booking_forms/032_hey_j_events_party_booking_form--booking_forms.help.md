@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information for party booking events. The form's internal id is "hey_j_events_party_booking_form", which likely refers to a specific event planning or booking system. The form is composed of multiple pages, each with its own set of fields. Upon reviewing the form's schema, it appears that the primary goal is to collect information about parties, guests, and event details. Each field likely has a specific purpose, such as capturing party dates, times, guest counts, and event category. However, it seems there might be some duplication or redundancy in the form's design, with several fields sharing similar labels or purposes. To confirm this is the correct usage of the form, I need more context about the form's intended use within your organization.
-</thinking>
-
 # hey_j_events_party_booking_form - Help Guide
 ## Purpose
 This form is designed to capture information for party booking events.

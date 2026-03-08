@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a "Banking Audit Checklist" designed for internal audits of banking institutions. It's likely used by auditors to evaluate the compliance of a bank or branch. The form is structured to gather essential information about the audit process, including the auditor's name, the date of the audit, the branch or unit being audited, and the overall compliance status. Each section seems to be carefully crafted to cover specific areas of concern for banking audits, such as cash handling, loan documentation, customer knowledge, anti-money laundering, and IT and security controls. The required fields suggest that the form is a comprehensive tool for auditors to document their findings and observations. This form does not seem to be a duplication of any existing form, and its purpose is to provide a structured framework for auditors to perform their tasks efficiently.
-</thinking>
-
 # Banking Audit Checklist - Help Guide
 ## Purpose
 The Banking Audit Checklist is a form designed to guide auditors through the process of evaluating the compliance of a bank or branch. This document helps auditors ensure that all relevant checks are performed and documented to identify areas of improvement.

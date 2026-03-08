@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed to gather information about a service onboarding process, likely for business or organizational purposes. Its purpose is to collect service details, contact info, service terms, service agreements, service status, service plans, service pricing, and service notes. The form might be used internally or externally by service providers to streamline onboarding processes, communicate with clients, or create a centralized database of services offered.
-</thinking>
-
 # Service Onboarding Form - Help Guide
 ## Purpose
 The Service Onboarding Form is designed to collect information about a service's onboarding process.

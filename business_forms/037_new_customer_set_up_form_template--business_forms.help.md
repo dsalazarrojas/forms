@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for setting up a new customer in our system. To ensure the accuracy and completeness of customer data, it is essential to provide the required fields and correct information for the following fields. Please note that the form is divided into multiple pages, each with its respective fields. This guide will walk you through the entire process, page by page, so please follow the instructions carefully.
-
-</thinking>
-
 # new_customer_set_up_form_template - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from new customers to create their records in our system.

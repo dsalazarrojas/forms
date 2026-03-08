@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that this form is only filled out for its intended purpose and not duplicated or filled out unnecessarily. This form is meant to collect information about industrial hazards and incidents, and the information collected will be used to identify and mitigate potential safety risks. To prevent misusing or duplicating the form, we'll make sure that users understand its purpose and how to fill it out correctly.</thinking>
-
 # Industrial Hazard Control Report Form - Help Guide
 ## Purpose
 The Industrial Hazard Control Report Form is used to document and track industrial hazards and incidents that occur on site. This information helps our team identify and mitigate potential safety risks, ensuring a safer working environment for everyone.

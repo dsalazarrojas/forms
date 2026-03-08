@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to manage resources within a project. It's meant to be used for tracking and reporting on resources such as team members, equipment, or materials. 
-The form should have all the necessary fields to get an overview of resource status and allocation. However, the fields are not strictly required, and some might be used for optional information gathering. 
-The form is designed to be flexible and adaptable to different use cases. 
-This form should be filled out for each resource within a project.
-</thinking>
-
 # Resource Management Checklist - Help Guide
 ## Purpose
 The Resource Management Checklist is a form used to track and report on resource status and allocation within a project. This form gathers information about project names, status, resource names, types, and other relevant details for resource management purposes.

@@ -1,9 +1,3 @@
-<thinking>... Internal reasoning block to check for relevance and non-duplication of this help guide...
-
-Before creating this help guide, I'll review the provided YAML fields to ensure the form's purpose and structure are well-represented. The form, "Financial Forecast Revision Request Form", seems to be used for requesting revisions to financial forecasts. It appears to be a simple form with 7 fields, covering key aspects of the revision process. Each field will be explained in a way that's concrete, concise, and practical, making it easy for end-users to complete the form correctly.
-
-</thinking>
-
 # Financial Forecast Revision Request Form - Help Guide
 
 ## Purpose

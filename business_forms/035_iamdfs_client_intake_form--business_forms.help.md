@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "iamdfs-client-intake-form," is designed to collect information from clients about their business needs and preferences. The form is intended to be completed by clients or their representatives, and its purpose is to gather essential details that will help in the process of providing services or products tailored to their specific requirements.
-
-The form is not a duplication of any existing form, but rather an original creation inspired by public survey topic metadata. It is released under CC BY 4.0, allowing for its use, modification, and even commercialization, provided credit is given.
-
-</thinking>
-
 # iamdfs-client-intake-form - Help Guide
 
 ## Purpose

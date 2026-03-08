@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Benefits Open Enrollment Form", we need to understand the form's purpose, how to complete it, and what each field means. This form is used to collect information from employees for their benefits enrollment, including personal details, benefits selections, and acknowledgments.
-
-</thinking>
-
 # Benefits Open Enrollment Form - Help Guide
 
 ## Purpose

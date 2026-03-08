@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Significant Contracts Declaration - Help Guide
 ## Purpose
 The "Significant Contracts Declaration" form is designed to collect information about contracts that are significant, substantial, or impactful. This form is intended for individuals or organizations to provide details about contracts they have entered into, including their terms, signatories, and other relevant information.

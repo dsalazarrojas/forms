@@ -1,9 +1,3 @@
-<thinking>
-The form "Property Tour Request Form" is likely used by real estate agents or brokers to request property information from clients or clients' representatives. It's possible that the form is used for property viewings, inspections, or other business-related purposes. It's also possible that this form is used to request information about a specific property or to report property status.
-The form appears to be designed to gather information about the property and its status. The form fields are mostly text-based input fields, with a few select fields for specifying property status and type. There may be cases where users need to select "Yes" or "No" for specific properties.
-To avoid duplication, users may need to fill this form only if they didn't already visit the property or need more information. Users may need to fill this form to report a property status update or to request a property viewing.
-</thinking>
-
 # property_tour_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from users about a property, including its location, status, and type. It's intended for real estate agents or brokers to gather information from clients or clients' representatives.

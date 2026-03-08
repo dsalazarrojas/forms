@@ -1,7 +1,3 @@
-<thinking>
-This form is for assessing the legal documentation needed for a business. It appears to be used for creating or updating legal documents such as wills, powers of attorney, and business registrations. The form likely serves as a tool for identifying and recording the necessary legal documentation for a business or individual's legal needs. The form's fields seem to cover various aspects of legal documentation, including the type of document, its purpose, effective date, and issuer's information. This form likely helps ensure that all necessary legal documents are created or updated correctly and efficiently. There is no duplication of fields, but further verification may be necessary to ensure all fields are relevant and correctly placed.
-</thinking>
-
 # legal_documentation_assessment - Help Guide
 ## Purpose
 This form is used to assess the legal documentation needs for a business or individual.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about the inspection details of a border patrol facility. The fields are intended to collect data about the facility's conditions, security, and overall rating. The form is likely used by border patrol agents to conduct inspections and report back to their superiors.
-</thinking>
-
 # Border Patrol Facility Inspection Form - Help Guide
 ## Purpose
 This form is used to collect information about the inspection details of a border patrol facility. It will help border patrol agents to assess the conditions, security, and overall rating of the facility.

@@ -1,11 +1,3 @@
-<thinking>
-This is an internal reasoning block to determine the purpose and relevancy of the form.
-
-The Retaining Wall Inspection Checklist form is designed to guide inspectors in conducting inspections of retaining walls. The form is used to evaluate the condition and structural integrity of retaining walls, and to document any necessary repairs or maintenance tasks. The form is likely used in a construction or engineering context.
-
-To determine if this form is relevant, I'll check if it's not a duplicate form. This form seems to be a comprehensive checklist for inspecting retaining walls, covering various aspects such as wall type, height, length, depth, slope, drainage, footings, condition, structural soundness, wall structure, foundation type, footing type, wall cover, and notes from the inspector. This form is likely used by inspectors to evaluate the condition and identify potential issues with retaining walls.
-
-</thinking>
 # Retaining Wall Inspection Checklist - Help Guide
 ## Purpose
 This form is used to conduct a thorough inspection of retaining walls to identify any potential issues and document necessary repairs or maintenance tasks.

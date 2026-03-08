@@ -1,16 +1,3 @@
-<thinking>
-The internal reasoning for this form is to provide a standardized and structured way for customers to submit complaints or issues they have experienced with the business. By collecting relevant information through this form, the business can efficiently and effectively handle each complaint and resolve it in a timely manner. It's crucial to ensure that customers provide accurate and detailed information about their issues, including their contact details, account or order numbers, and the specific products or services they are complaining about. This will help the business's support team to quickly identify and address the root cause of the problem.
-
-This form will help customers to:
-
-* Provide a clear and concise description of their issue
-* Specify the product or service they are complaining about
-* Choose the resolution method they prefer
-* Allow the support team to easily track and manage complaints
-
-To ensure efficient processing of complaints, it's essential to avoid duplicate submissions and ensure that customers provide accurate and relevant information.
-</thinking>
-
 # Complaint Resolution Intake Form - Help Guide
 
 ## Purpose

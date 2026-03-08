@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is designed to collect the necessary information to track product expirations. The form should be easy to use and understand for end-users. We should provide a clear and concise explanation of each field to help users navigate the form efficiently.
-</thinking>
-
 # Product Expiry Monitoring Report Form - Help Guide
 ## Purpose
 This form is used to monitor and report product expirations. It helps track the status, frequency, and categorization of products that are about to expire or have already expired. The form ensures that businesses can keep track of their products' shelf life and make informed decisions about inventory management.

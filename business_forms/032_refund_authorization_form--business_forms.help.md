@@ -1,9 +1,3 @@
-<thinking>
-The Refund Authorization Form is a crucial document used to formalize the process of issuing refunds to customers. The form is designed to ensure that all necessary information is collected and verified before a refund is processed. This form helps to prevent fraudulent activities and maintains the highest level of transparency and accountability within the organization.
-When creating a refund, please ensure that you have a valid reason for refund and that the customer's account information is up-to-date. This form should not be used for non-business purposes or to create unauthorized refunds.
-Before proceeding, please verify that you are filling this form for a legitimate reason and that it is not a duplicate of a previously submitted form. If you're unsure, contact your supervisor or support team for clarification.
-</thinking>
-
 # Refund Authorization Form - Help Guide
 ## Purpose
 The Refund Authorization Form is used to request a refund for a customer's account. This form is used to ensure that all necessary information is collected and verified before a refund is processed.

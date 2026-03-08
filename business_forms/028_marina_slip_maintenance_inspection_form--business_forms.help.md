@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the marina slip maintenance inspection. To be clear, a marina slip is a designated docking area for boats. The form will help the user track and manage maintenance tasks, inspections, and related information for each slip. The form is meant to be used by the marina staff to keep track of the status of maintenance tasks, including the assigned person, due date, and completion status. It's not a form meant to be filled out by the boat owners directly. It's essential to understand that this form will only be filled out by the marina staff.
-</thinking>
-
 # Marina Slip Maintenance Inspection Form - Help Guide
 ## Purpose
 The Marina Slip Maintenance Inspection Form is used by marina staff to track and manage maintenance tasks for marina slips. The form helps keep track of maintenance status, assigned person, and due dates.

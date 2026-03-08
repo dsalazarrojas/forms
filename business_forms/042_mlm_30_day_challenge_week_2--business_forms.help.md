@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mlm 30 day challenge week 2 - Help Guide
 
 ## Purpose

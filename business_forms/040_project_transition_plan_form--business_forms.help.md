@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about a project transition plan, which is a critical process in project management. The form is used to collect data on a project's current status, key deliverables, and future plans. The purpose of this form is to ensure that all relevant information is documented and communicated to stakeholders, promoting transparency and clarity in project management.
-</thinking>
-
 # Project Transition Plan Form - Help Guide
 ## Purpose
 The Project Transition Plan Form is used to document and manage project transitions, including key deliverables, approval processes, and next steps. This form helps ensure that projects are properly transferred between team members, departments, or phases, reducing errors and increasing efficiency.

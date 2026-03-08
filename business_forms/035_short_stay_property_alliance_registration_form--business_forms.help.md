@@ -1,8 +1,3 @@
-<thinking>
-To ensure that this form is completed correctly, we need to check for relevance and non-duplication. This form is meant for registering properties for the Short Stay Property Alliance, which is a program that allows properties to be registered in a specific region or country. To register a property, the user needs to provide information about themselves and their property. This includes their name, contact information, address, and timezone. The user also needs to identify their language and manager's status. For the property, the user needs to provide name, address, and timezone. This form must be completed by the property owner or their authorized representative.
-
-</thinking>
-
 # Short Stay Property Alliance Registration Form - Help Guide
 ## Purpose
 This form is for registering properties for the Short Stay Property Alliance program. It is meant to collect information about property owners or their authorized representatives.

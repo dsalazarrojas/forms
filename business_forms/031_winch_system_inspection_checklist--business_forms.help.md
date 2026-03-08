@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # winch_system_inspection_checklist - Help Guide
 ## Purpose
 The Winch System Inspection Checklist is used to record the condition and status of winch systems, including their location, description, and any notable safety equipment. This form is crucial for regular and scheduled inspections to ensure the safe operation and maintenance of winch systems.

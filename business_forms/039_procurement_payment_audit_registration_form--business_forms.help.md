@@ -1,5 +1,3 @@
-<thinking>...The form is intended to gather information related to procurement payment audit registrations. It is likely used to ensure that payments made to suppliers are accurately recorded and reviewed for any discrepancies or issues. This form may be used by accounting or finance teams to verify the accuracy of payments, identify potential problems, and take corrective action as needed. This form is likely not intended for public consumption and may contain sensitive financial information. Therefore, it is essential to ensure that only authorized personnel have access to it. This form should not be filled out by individuals who do not have the necessary clearance or authority. Before proceeding, ensure that you have the necessary permissions and understand your role in the payment audit process...</thinking>
-
 # Procurement Payment Audit Registration Form - Help Guide
 
 ## Purpose

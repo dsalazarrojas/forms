@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from customers, providing an opportunity to understand their experiences and concerns with the business. It is intended to be used by customers or their representatives to provide honest and constructive feedback about products or services. To avoid duplication, please ensure that each customer submits feedback only once.
-</thinking>
 # Customer Feedback Form Template - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers, allowing them to express their experiences and opinions about our products or services. Please provide honest and detailed feedback to help us improve our offerings.

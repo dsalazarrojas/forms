@@ -1,22 +1,3 @@
-<thinking>
-This form is designed for customers to book flights, providing essential information such as flight number, travel dates, and contact details. The form is composed of multiple fields, each with a specific purpose:
-
-*   Flight selection: Select Flight
-*   Flight number: Enter the flight number (e.g., UA 1234)
-*   Customer details: Customer Name, Customer Email, Customer Phone
-*   Travel dates: Travel Date and Return Date (optional)
-*   Flight preferences: Flight Class
-*   Payment and security: Confirm Booking, Payment Method, Card Number (optional), CVV (optional), Expiry Month, and Expiry Year (all optional)
-
-The form is designed to be completed in a step-by-step manner, with each field requiring a specific type of input. The form is divided into several pages, and each page has a specific purpose:
-
-*   Page 1: Select Flight (Yes/No)
-*   Page 2: Enter flight number, customer details, travel dates
-*   Page 3: Flight preferences and payment information
-
-The required fields are: Flight Number, Customer Name, Customer Email, Customer Phone, Travel Date, Travel Time, and Card Number (optional).
-
-</thinking>
 # flight_booking_appointment_form - Help Guide
 ## Purpose
 This form is designed for customers to book flights, providing essential information such as flight number, travel dates, and contact details.

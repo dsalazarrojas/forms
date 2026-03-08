@@ -1,8 +1,3 @@
-<thinking>
-This form purpose is to facilitate the reservation of a science center tour for end-users. The form collects information from users for the purpose of planning and executing the tour. This form is likely used by the science center staff to manage tour bookings and tailor the experience to the visitors' needs.
-Before starting to complete the form, ensure that it's not a duplicate submission and that the form is relevant to your needs.
-</thinking>
-
 # science_center_tour_reservation_form - Help Guide
 ## Purpose
 This form is designed to collect information from users for the purpose of booking a science center tour.

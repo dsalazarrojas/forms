@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help users register their business on WhatsApp, providing essential details for a seamless experience. It's crucial to ensure that the form is completed accurately and thoroughly to avoid any potential issues or discrepancies. Before proceeding, verify that you're filling out the form for the intended purpose and not duplicating an existing registration. 
-</thinking>
-
 # WhatsApp Business Service Registration - Help Guide
 ## Purpose
 This form is designed to assist businesses in registering their services on WhatsApp, ensuring they can interact with customers and clients effectively. It's essential to provide accurate and truthful information to avoid any issues with your business account.

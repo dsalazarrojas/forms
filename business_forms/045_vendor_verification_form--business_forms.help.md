@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Verification Form - Help Guide
 ## Purpose
 The Vendor Verification Form is designed to collect essential information about a vendor, including their contact details, business details, and verification information. This form helps to ensure that all required fields are completed accurately and thoroughly, ensuring that the vendor's information is up-to-date and consistent.

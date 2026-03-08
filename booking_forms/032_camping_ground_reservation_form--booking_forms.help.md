@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users for booking a campsite at a camping ground. This form collects the reserver's personal information, reservation dates, campsite details, party details, equipment information, and preferred confirmation method. It's designed to be completed by individuals or groups planning to camp at the camping ground. The form's fields are meant to be filled out by the person booking the campsite.
-</thinking>
-
 # Camping Ground Reservation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users for booking a campsite at a camping ground. This form collects the reserver's personal information, reservation dates, campsite details, party details, equipment information, and preferred confirmation method.

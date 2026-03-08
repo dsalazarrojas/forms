@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employment Engagement Survey - Help Guide
 
 ## Purpose

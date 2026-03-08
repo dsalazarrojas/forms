@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urban Design Recognition Application - Help Guide
 
 ## Purpose

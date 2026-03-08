@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for end users who are not familiar with estate planning information forms. It's possible that the form has already been used by experienced users; in that case, please feel free to skip this guide.
-This form is intended for individuals and organizations to gather information on estate planning details. Estate planning involves the process of managing and distributing assets after an individual's passing, including property, financial assets, and other valuable possessions.
-</thinking>
-
 # estate_planning_information_form - Help Guide
 ## Purpose
 The estate_planning_information_form is a tool used to collect data on estate planning details. This form is designed to assist individuals and organizations in gathering and managing essential information on their estate plans.

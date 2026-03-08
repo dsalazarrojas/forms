@@ -1,12 +1,3 @@
-<thinking> 
-The "Retail Onboarding Quiz" is designed to help new users understand the key concepts and terminology used in the retail industry. This form is meant to be a quick and easy way to get familiar with the main ideas and strategies that are essential for success in retail. 
-
-This form is only intended for users who are new to the retail industry and do not have prior experience. The goal is to provide a clear and concise introduction to the key concepts and terminology used in retail, making it easier for users to hit the ground running. 
-
-Please fill this form out carefully and thoroughly, providing as much information as you can. The form consists of six questions, each covering a different aspect of retail. 
-
-</thinking>
-
 # Retail Onboarding Quiz - Help Guide
 ## Purpose
 The purpose of this form is to help new users understand the key concepts and terminology used in the retail industry. It's a quick and easy way to get familiar with the main ideas and strategies that are essential for success in retail.

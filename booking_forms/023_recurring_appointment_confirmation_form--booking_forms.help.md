@@ -1,7 +1,3 @@
-<thinking>
-To confirm recurring appointments, ensure that the client has indeed agreed to the appointment and that all details have been accurately captured. This form should not be used for one-time appointments. If a client has already filled out this form, ensure they are not duplicating their effort by re-submission or re-confirmation.
-</thinking>
-
 # Recurring Appointment Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm recurring appointments with clients, ensuring that all necessary details are accurately recorded and that clients have agreed to the appointment schedule.

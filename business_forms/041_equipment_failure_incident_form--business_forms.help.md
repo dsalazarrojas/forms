@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about equipment failure incidents in a structured and organized manner. The purpose of this form is to capture detailed information about the incident, including equipment type, failure description, maintenance status, and more. This form should be used when an equipment failure incident occurs, and the relevant details need to be documented for tracking and analysis purposes. 
-
-To prevent duplication of effort and ensure consistency, please ensure that this form is completed accurately and thoroughly. If you have already completed a similar form, please review the existing information and update this form as necessary, but only if it's absolutely necessary (e.g., if the incident has changed status).</thinking>
-
 # equipment_failure_incident_form - Help Guide
 ## Purpose
 This form is designed to collect information about equipment failure incidents in a structured and organized manner.

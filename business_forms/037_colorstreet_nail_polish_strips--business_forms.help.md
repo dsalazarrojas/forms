@@ -1,8 +1,3 @@
-<thinking>
-The form "ColorStreet Nail Polish Strips" is designed to facilitate the ordering process for users who want to purchase nail polish strips from ColorStreet. The form is divided into several sections: "Order Color Street Nail Strips --", "Selection --", "Billing and Delivery --". The form's purpose is to collect the necessary information from customers to process their order. This form is likely used for online shopping or in-person transactions at a retail setting. The information is organized in a way that is easy to understand and navigate. This form should only be filled out by customers who want to place an order.
-
-</thinking>
-
 # ColorStreet Nail Polish Strips - Help Guide
 ## Purpose
 This form is designed for customers to order nail polish strips from ColorStreet. It is organized into sections to make the ordering process easier to follow.

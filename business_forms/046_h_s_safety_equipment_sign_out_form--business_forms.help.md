@@ -1,7 +1,3 @@
-<thinking>
-This form is used to sign out of safety equipment used by H₂S personnel. This includes equipment such as hard hats, safety harnesses, safety glasses, and other specialized gear. The form will help ensure that the equipment is properly tracked and available for other personnel to use.
-</thinking>
-
 # H₂S Safety Equipment Sign Out Form - Help Guide
 ## Purpose
 This form is used by H₂S personnel to sign out of safety equipment used during work activities. It is essential to complete this form accurately and honestly, as it helps the organization keep track of equipment usage, availability, and potential maintenance needs.

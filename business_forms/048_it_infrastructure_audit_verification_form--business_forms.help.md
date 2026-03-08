@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to verify the infrastructure audit status of an organization, allowing users to report on the compliance and areas for improvement in various infrastructure components. It is intended to be filled out by authorized personnel, such as IT administrators or auditors, to provide a snapshot of the current state of the organization's infrastructure. The form should not be filled out by non-authorized personnel, and its completion should be done on a regular basis to track changes and improvements over time.
-
-</thinking>
-
 # it_infrastructure_audit_verification_form - Help Guide
 ## Purpose
 The it_infrastructure_audit_verification_form is a tool to report on the status of an organization's infrastructure. This form helps identify areas of compliance and improvement, allowing IT administrators or auditors to track changes and improvements over time.

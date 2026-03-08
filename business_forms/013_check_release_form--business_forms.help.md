@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to capture information about a check release, which is a process used by banks to verify and release funds from an account holder's account. This form helps to ensure that all necessary information is gathered to prevent fraud and errors in the check release process. Before proceeding, please check that the information provided is accurate and complete. Also, ensure that you are not duplicating any existing check release records.</thinking>
-
 # Check Release Form - Help Guide
 ## Purpose
 The Check Release Form is used to verify and release funds from an account holder's account. It ensures that all necessary information is collected to prevent errors and fraud in the check release process.

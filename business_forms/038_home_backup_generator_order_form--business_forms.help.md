@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide their information and preferences for ordering a home backup generator. It is meant to be used by customers who are interested in purchasing a backup generator for their homes. This form does not require any specific information and can be completed by anyone who wants to inquire about a backup generator order. Please note that this form is not a real order form, it's a sample of what a possible order form could look like in the real-world.
-</thinking>
-
 # Home Backup Generator Order Form - Help Guide
 ## Purpose
 This form is used to gather information from customers who are interested in purchasing a backup generator for their home. It is not a real order form, but rather a sample of what a possible order form could look like in the real-world.

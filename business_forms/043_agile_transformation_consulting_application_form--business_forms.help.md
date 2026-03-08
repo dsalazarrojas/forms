@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Agile Transformation Consulting Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from companies interested in Agile transformation consulting services. The purpose of this form is to help us understand your company's specific needs and goals for Agile transformation, allowing us to provide tailored consulting services that meet your unique requirements.

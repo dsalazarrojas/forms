@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for booking a villa. It includes fields for guest name, email, phone number, start and end dates, booking type, number of guests, and number of rooms. The form should be completed by users to provide their basic contact information and preferences for their booking. This guide will help users understand what information is required and what each field is for.
-</thinking>
-
 # villa_booking_form - Help Guide
 ## Purpose
 This form is used to collect information from users for booking a villa.

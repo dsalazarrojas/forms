@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information on machine malfunctions that have occurred within the organization. The purpose of this form is to document incidents in a standardized way, enabling the maintenance team to track and analyze malfunctions, identify patterns, and take corrective actions to prevent future occurrences. This form is intended to be completed by personnel who have witnessed or are involved in the incident, such as machine operators, maintenance personnel, or supervisors. Please ensure that you have permission to complete this form before submitting it. Also, please note that this form should not be used for routine maintenance activities or minor issues that do not impact the machine's operation.</thinking>
-
 # Machine Malfunction Incident Form - Help Guide
 
 ## Purpose

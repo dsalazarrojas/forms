@@ -1,7 +1,3 @@
-<thinking>
-  The Hostel Accommodation Form is designed to gather information from guests who want to book a room at a hostel. This form is intended to be completed by individuals who are interested in staying at the hostel for a specific period. The form is not designed for internal staff use or other purposes. Please ensure that you have the necessary permission to complete this form if you are not a guest. If you have already completed a form for the same purpose, do not fill out this form again as it may result in duplicate records.
-</thinking>
-
 # Hostel Accommodation Form - Help Guide
 ## Purpose
 The Hostel Accommodation Form is a booking form used to gather information from guests who want to stay at the hostel. It is used to capture the guest's personal details and preferences for their stay.

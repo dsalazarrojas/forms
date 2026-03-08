@@ -1,9 +1,3 @@
-<thinking>
-
-We have a form called "production_automation_grant_application_form" used for requesting a grant related to production automation. This form should only be filled out by companies seeking to implement production automation projects and must be submitted by their authorized representatives. We are expecting around 14 different fields from the submitter, covering general company information, project specifics, and submission metadata. This form will likely be used by business development team members to evaluate and process applications. We need to ensure the form is clear and user-friendly for those filling it out. I will create a user-friendly help guide for the form.
-
-</thinking>
-
 # production_automation_grant_application_form - Help Guide
 ## Purpose
 This form is for companies to submit applications for grants related to production automation projects. Only authorized representatives from companies should submit this form.

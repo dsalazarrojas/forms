@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is used for documenting home damage incidents. The form's purpose is to collect information about a home damage incident, including the date and time it occurred, the location, type of damage, description, and other relevant details. This form is likely used by field inspectors or damage assessors to report and track damage incidents in homes or buildings. The form is structured around collecting specific data points related to the incident, ensuring consistency and accuracy in reporting. 
-
-This help guide will cover the form's purpose, how to complete it, and a detailed explanation of each field. 
-
-</thinking>
-
 # Home Damage Incident Form - Help Guide
 ## Purpose
 The Home Damage Incident Form is used to document home damage incidents in a structured and consistent manner. This form captures essential information about the incident, including the date and time it occurred, the location, type of damage, and other relevant details.

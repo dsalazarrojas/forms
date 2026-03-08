@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to book freight appointments for customers. It likely serves as a means for customers to provide necessary information for their shipment, such as their name, address, and contact details, as well as details about the shipment itself, like date, time, shipping service type, and any special instructions. The form should be used to collect information from customers for the purpose of arranging a freight shipment. It's possible that this form is part of a larger system used for logistics or transportation management.
-
-Before creating this guide, it's worth double-checking whether this form has been reviewed and vetted by the relevant stakeholders in the organization to ensure that it is accurate and up-to-date.
-
-Please review the fields and ensure they are correctly interpreted and explained for the end-users.
-</thinking>
-
 # Freight Booking Appointment Form - Help Guide
 ## Purpose
 This form is used to book a freight shipment appointment with the required details of the customer and the shipment.

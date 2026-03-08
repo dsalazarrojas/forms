@@ -1,5 +1,3 @@
-<thinking>Before we proceed, let's ensure that this form is being used for its intended purpose and that there's no duplication of effort. The Architecture Design Upload Form is a tool used by architects, designers, and project teams to submit their projects for review and feedback. This form will guide you through the required fields for a successful submission. To ensure accuracy, please read through each field carefully and provide the requested information as prompted.</thinking>
-
 # Architecture Design Upload Form - Help Guide
 
 ## Purpose

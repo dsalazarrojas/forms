@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dish_pricing_setup_form - Help Guide
 ## Purpose
 This form is designed to setup pricing information for dishes, including setting a dish's name, price, status, and other relevant details. It allows users to configure the price and status of a dish, track who last updated it, and assign it to a specific user.

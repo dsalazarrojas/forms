@@ -1,7 +1,3 @@
-<thinking>
-This form is used to validate and verify the accuracy of marketplace listings. It is essential to ensure that all required fields are filled out completely and correctly to avoid any potential issues with listings. To prevent duplicate listings, make sure to check the current listings on the marketplace before submitting this form.
-</thinking>
-
 # Marketplace Listing Validation Application Form - Help Guide
 ## Purpose
 This form is designed to validate and verify the accuracy of marketplace listings. It helps ensure that all required fields are filled out completely and correctly, which can help avoid potential issues with listings.

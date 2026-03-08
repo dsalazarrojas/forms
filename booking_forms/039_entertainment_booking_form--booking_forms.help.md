@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form is designed for booking entertainment events, allowing users to collect information such as artist names, event details, and booking specifics. The form is crucial for the organization to manage bookings efficiently and ensure smooth event planning. To avoid confusion, we will refer to this form as the "Entertainment Booking Form" throughout this guide.</thinking>
-
 # Entertainment Booking Form - Help Guide
 ## Purpose
 This guide is to help users understand the purpose and process of filling out the Entertainment Booking Form.

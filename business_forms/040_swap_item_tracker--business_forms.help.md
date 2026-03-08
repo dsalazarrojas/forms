@@ -1,24 +1,3 @@
-<thinking>
-The form is designed for tracking the status and details of items being swapped or exchanged within a business setting. The purpose of this form is to gather information about the item being swapped, including its status, notes, and dates related to the swap. This form is likely used by employees or staff members to track and manage the status of items being exchanged or swapped within the organization.
-
-To complete this form, the user will need to fill out the required and optional fields as follows:
-
-*   **User Information Form**: This field is not explicitly described in the form, but based on the field name, it is assumed to be a form for user information, likely for the user submitting the form.
-
-*   **Status**: This field is a dropdown menu with two options: Active and Inactive. The user needs to select the status of the item being swapped or exchanged.
-
-*   **Select Status**: This field is a text field for the user to provide additional details or status description of the item.
-
-*   **Photo 1 and Photo 2**: These fields are for uploading or referencing photos related to the item being swapped or exchanged.
-
-*   **Notes**: This field is for the user to provide any additional notes or comments about the item.
-
-*   **Swap Date**: This field is for entering the date of the swap, in the format mm/dd/yyyy.
-
-*   **Exchange Date**: This field is also for entering a date, but it is unclear which date this field refers to. Assuming it is related to the exchange or swap date in mm/dd/yyyy format.
-
-</thinking>
-
 # swap-item-tracker - Help Guide
 ## Purpose
 The "swap-item-tracker" form is designed for tracking and managing the status and details of items being swapped or exchanged within a business setting.

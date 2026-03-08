@@ -1,15 +1,3 @@
-<thinking>
-
-The Hiring Inquiry Form is an internal tool used by HR personnel to manage hiring inquiries from job seekers. The form allows users to submit their contact information and a brief overview of their qualifications for potential job openings. It ensures that we can keep track of job seekers' requests and responses efficiently.
-
-To ensure that this form serves its purpose effectively, please note that:
-
-* Only complete the form with relevant and up-to-date information. 
-* Ensure that you don't submit duplicate inquiries as we can only process one inquiry per candidate. 
-* Be prepared to provide additional information as requested.
-
-</thinking>
-
 # Hiring Inquiry Form - Help Guide
 ## Purpose
 The Hiring Inquiry Form is used by HR personnel to collect contact information and qualifications from job seekers.

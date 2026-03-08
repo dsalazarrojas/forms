@@ -1,5 +1,3 @@
-<thinking>... This form appears to be designed for collecting attendance records, particularly in the context of healthcare and medical consultations. The purpose of this form is likely to track patient information, medical staff interactions, and appointment schedules. It seems like the form is intended for internal use within an institution or organization to maintain accurate records and facilitate smooth communication between patients, medical staff, and administrators...</thinking>
-
 # Covid 19 Attendance Record Form - Help Guide
 
 ## Purpose

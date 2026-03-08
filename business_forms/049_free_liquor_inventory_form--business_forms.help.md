@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and manage the inventory of free liquor items in the store. It is used to record the brand, size, weight, quantity, reorder quantity, unit price, and total value of each liquor item. This form is typically used by store staff to update the inventory levels and ensure that the store has sufficient stock of each liquor item. 
-</thinking>
-
 # Free Liquor Inventory Form - Help Guide
 
 ## Purpose

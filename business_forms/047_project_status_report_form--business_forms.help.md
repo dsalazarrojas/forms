@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture project status reports, which are used to track and document project progress, challenges, and completion. The purpose of this form is to ensure consistency and accuracy in reporting project status across different projects. This form should only be used for projects that are currently being managed within the organization. It is recommended that this form be filled out at the end of each project cycle, or as directed by project managers.
-</thinking>
-
 # project_status_report_form - Help Guide
 ## Purpose
 The "project_status_report_form" is used to capture and document project status reports for projects being managed within the organization. This form is essential for tracking and maintaining accurate project progress, challenges, and completion status.

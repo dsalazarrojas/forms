@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Utility Outage Notification Request Form", we first need to analyze the form's purpose and fields. The form appears to be designed for customers or users to report utility outages, providing relevant details such as service affected, location, and other specifics about the outage.
-
-Upon reviewing the form, we notice that it seems to be a comprehensive form that covers various aspects of the outage report. However, there's no clear indication of any specific requirements or restrictions on the form's fields. It's likely that the form is meant for general use, and users can submit their reports without any specific constraints.
-
-Before we dive into the detailed explanation of each field, let's assume that this form is intended to gather information from users about their utility outages, with the goal of reporting and resolving these issues efficiently. Users should feel free to fill out as much or as little information as they need to in order to effectively communicate their concerns to the relevant authorities.
-
-</thinking>
-
 # Utility Outage Notification Request Form - Help Guide
 
 ## Purpose

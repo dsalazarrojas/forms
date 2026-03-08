@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help organizations register their products or services for packaging lifecycle certification. It is meant to gather relevant information about the organization, the lifecycle stages of their product or service, and contact details. To ensure accuracy and consistency, please review each field carefully and only complete the form once. This form does not replicate any other form platforms, so you may find that it does not cover all your specific needs. However, it serves as a good starting point.
-</thinking>
-
 # Packaging Lifecycle Certification Registration Form - Help Guide
 ## Purpose
 This form helps organizations register their products or services for packaging lifecycle certification. It is designed to collect essential information about the organization, lifecycle stages, documentation, and contact person responsible for the certification process.

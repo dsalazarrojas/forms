@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information about a department in a deli business. The form asks for details such as the employee's name, contact information, and department affiliation. The form is meant to be completed by employees in the deli department.
-
-To ensure that the form is completed correctly, it's essential to understand the purpose and the fields included. The form is not meant to be a comprehensive record-keeping tool but rather a quick reference for departmental information.
-
-This form will be used by employees in the deli department to provide information about their team members and their work schedule. It is recommended to fill out the form accurately and thoroughly to ensure that the information is up-to-date and correct.
-
-The form includes several fields that require completion, including text fields for names and contact information, date fields for scheduling, and select fields for department affiliations. The select fields are multiple-choice options that allow the user to select one or more departments they are affiliated with.
-
-It's also worth noting that the form includes multiple note fields for additional information and observations.
-
-</thinking>
-
 # Deli Department Recap Form - Help Guide
 ## Purpose
 The Deli Department Recap Form is designed to gather information about employees in the deli department, including their names, contact information, and department affiliations.

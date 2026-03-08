@@ -1,7 +1,3 @@
-<thinking>...This form is used to request capital projects, which are investments in long-term assets or improvements that benefit the organization as a whole. The purpose of this form is to gather information and justification for capital projects that align with the organization's strategic goals and objectives. To avoid duplicating efforts, please check with your manager or department head before submitting this form to ensure that the project has not already been submitted.
-
-</thinking>
-
 # Capital Project Request Form - Help Guide
 ## Purpose
 This form is used to request capital projects that align with the organization's strategic goals and objectives.

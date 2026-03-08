@@ -1,7 +1,3 @@
-<thinking>
-A Third Party Work Agreement is a legal document that outlines the terms and conditions of a working relationship between an individual or entity and the company. It is intended to be a formal agreement between two parties to outline the services to be provided, payment terms, and duration of the agreement. This form is used to collect information from clients and third parties for the purpose of establishing a mutually understanding and preventing potential disputes or misunderstandings.
-</thinking>
-
 # Third Party Work Agreement - Help Guide
 ## Purpose
 The Third Party Work Agreement form is used to record and document the details of a working relationship between an individual or entity and the company, including the services to be provided, payment terms, and duration of the agreement.

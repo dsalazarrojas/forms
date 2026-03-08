@@ -1,38 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive checklist for evaluating business processes. It's intended to gather information on various aspects of process evaluation, including introduction, process maps, evaluation criteria, feedback forms, review processes, improvement plans, implementation plans, process owners, review schedules, evaluation summaries, evaluation status, and more. The purpose of this form is to ensure that processes are thoroughly evaluated and documented, facilitating continuous improvement and optimization.
-
-The form is organized into several sections, each covering a specific aspect of process evaluation. The fields included in the form are:
-
-*   **Introduction**: A brief introduction to the process being evaluated.
-*   **Process Map**: A description of the process being evaluated.
-*   **Evaluation Criteria**: A selection of criteria used to evaluate the process.
-*   **Feedback Form**: A space for providing feedback on the process.
-*   **Review Process**: The date and time of the review meeting.
-*   **Process Improvement Plan**: A plan for improving the process.
-*   **Implementation Plan**: A plan for implementing process improvements.
-*   **Process Owner**: The person responsible for the process.
-*   **Review Schedule**: The schedule for reviewing the process.
-*   **Evaluation Summary**: A summary of the evaluation.
-*   **Evaluation Status**: The status of the evaluation (active or inactive).
-*   **Process Owner Email**: The email address of the process owner.
-*   **Process Owner Phone**: The phone number of the process owner.
-*   **Reviewer Name**: The name of the reviewer.
-*   **Reviewer Email**: The email address of the reviewer.
-*   **Reviewer Phone**: The phone number of the reviewer.
-*   **Evaluator Name**: The name of the evaluator.
-*   **Evaluator Email**: The email address of the evaluator.
-*   **Evaluator Phone**: The phone number of the evaluator.
-*   **Review Date**: The date of the review.
-*   **Review Time**: The time of the review.
-*   **Review Duration**: The duration of the review.
-*   **Evaluation Score**: The score given to the process.
-*   **Evaluation Comment**: A comment on the evaluation.
-*   **Evaluation Status**: The status of the evaluation (active or inactive).
-
-The following sections provide detailed explanations for each field, along with instructions on how to complete the form correctly.
-
-</thinking>
-
 # Process Evaluation Checklist - Help Guide
 ## Purpose
 This form is designed to provide a comprehensive evaluation of business processes. It ensures that all necessary information is gathered for evaluation, improvement, and optimization.

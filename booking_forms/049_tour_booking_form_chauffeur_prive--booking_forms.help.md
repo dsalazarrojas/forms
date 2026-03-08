@@ -1,11 +1,3 @@
-<thinking>
-
-To confirm, the form "Tour Booking Form Chauffeur Prive" is used for customers to book a tour with a private chauffeur. It includes a range of fields to collect customer information such as contact details, tour preferences, and payment information. This form is likely used in an online or offline environment, and its completion is essential for the tour company to provide personalized services to its customers.
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose. If you've already submitted a booking form, please do not duplicate your efforts. Completing this form multiple times may lead to confusion and errors in the tour booking process.
-
-</thinking>
-
 # Tour Booking Form Chauffeur Prive - Help Guide
 ## Purpose
 

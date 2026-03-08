@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about participants and their participation in a Worker Productivity Analysis Program. The purpose of this form is to ensure that participants understand the program's goals and objectives, and to collect necessary details for data analysis and evaluation. It is essential to fill out this form carefully to provide accurate and complete information. Please do not fill out this form if you have already participated in the program, as it will be considered a duplicate entry.
-</thinking>
-
 # Worker Productivity Analysis Program Registration - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Worker Productivity Analysis Program. It helps us understand participant goals, consent, and session details.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect and analyze data for incidents reported within the incident reporting system. 
-The main goal is to identify potential issues and opportunities for improvement within the reporting process. 
-It captures various details such as incident type, reporting personnel, incident date, and other relevant information. 
-The form is divided into multiple sections and fields, each with a specific focus. 
-The form's output will be used to generate reports and statistics for decision-making and process optimization.
-</thinking>
-
 # Incident Reporting System Audit Form - Help Guide
 ## Purpose
 The Incident Reporting System Audit Form is designed to collect and analyze data for incidents reported within the incident reporting system. The main goal is to identify potential issues and opportunities for improvement within the reporting process.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to ensure that users understand the purpose and process of this form. The "Cards For A Cause Order Form" is designed for customers and fundraisers to place an order for custom cards, which are handcrafted for various occasions. The form guides users through providing their contact information, selecting the type of card box they want, specifying the quantity, choosing a delivery method, and selecting a payment method. This form is critical for the organization's sales and revenue, so accuracy and attention to detail are essential in filling it out correctly.</thinking>
-
 # Cards For A Cause Order Form - Help Guide
 
 ## Purpose

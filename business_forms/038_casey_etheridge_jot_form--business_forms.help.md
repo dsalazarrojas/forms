@@ -1,9 +1,3 @@
-<thinking>
-
-This form is meant to collect information from customers or clients about their orders, including product selection, delivery details, and payment information. It's designed to be used in a business setting, likely for an online store or e-commerce platform. The form fields are organized into logical sections, making it easier for users to fill out. The form requires certain fields to be filled out in order to proceed with the order, such as customer name, email, phone number, shipping address, and payment method.
-
-</thinking>
-
 # Casey Etheridge Jot Form - Help Guide
 ## Purpose
 The Casey Etheridge Jot Form is designed to collect information from customers or clients about their orders, including product selection, delivery details, and payment information. It's used in a business setting, likely for an online store or e-commerce platform.

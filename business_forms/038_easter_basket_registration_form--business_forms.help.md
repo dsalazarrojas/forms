@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form for users to register for the Easter Basket program. To ensure accuracy and prevent duplicate submissions, we need to validate the form's purpose, ensure users understand its intended use, and make it easy to complete. This form should be used by individuals who want to participate in the Easter Basket program, and it's essential to confirm that the user has the correct permissions or authorization to register.
-</thinking>
-
 # Easter Basket Registration Form - Help Guide
 ## Purpose
 The Easter Basket Registration Form is a form used to register participants for the Easter Basket program. Please fill out the form to express your interest and register for the program.

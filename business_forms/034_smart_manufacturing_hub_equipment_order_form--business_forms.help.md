@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Manufacturing Hub Equipment Order Form - Help Guide
 ## Purpose
 The Smart Manufacturing Hub Equipment Order Form is used to manage the request and tracking of equipment within the Smart Manufacturing Hub. This form allows users to submit requests for equipment, including specifying the type of equipment, status, and order date and time. The form is used to ensure that equipment is properly tracked and managed, and that orders are accurately recorded and communicated.

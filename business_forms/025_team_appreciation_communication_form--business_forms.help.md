@@ -1,11 +1,3 @@
-<thinking>
-This form is used to communicate appreciation to team members. It is used when a team wants to show appreciation to their colleagues. 
-The form is designed to be used by team members to send a message of appreciation to their team.
-This form is intended for team members, not for individual employees. It's not meant to be used for other purposes, such as requesting a meeting or reporting a problem.
-Please only complete this form to show appreciation to your colleagues. Do not use it for other reasons.
-If you have already filled out this form, please do not fill it out again.
-</thinking>
-
 # Team Appreciation Communication Form - Help Guide
 ## Purpose
 The Team Appreciation Communication Form is used to show appreciation to team members. Use it to send a message of gratitude to your colleagues.

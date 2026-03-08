@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Corporate Life And Confidentiality Agreement Form. The form is used to document an employee's understanding and agreement to maintain confidentiality of sensitive business information, ensuring that the employee understands their obligations and responsibilities regarding confidential information. This form is a legal document and should be completed carefully and accurately.
-
-Before starting, please ensure you have read and understood the purpose of this form. If you are an employee, please note that this form is a part of your onboarding process and is required for the employer to verify your understanding and commitment to confidentiality.
-
-This guide will walk you through each field of the form, explaining the purpose and requirements of each section.</thinking>
-
 # Corporate Life And Confidentiality Agreement Form - Help Guide
 ## Purpose
 The Corporate Life And Confidentiality Agreement Form is a legally binding document that ensures employees understand their obligations and responsibilities regarding confidential information. This form helps the employer to verify that the employee has read, understood, and agrees to maintain confidentiality of sensitive business information.

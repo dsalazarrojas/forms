@@ -1,7 +1,3 @@
-<thinking>
-This form is used to estimate the packing quantity and cost for a shipment or inventory item. The form will likely be used by warehouse or inventory management staff to quickly and accurately calculate the packing quantity and cost for items being shipped or stored. 
-</thinking>
-
 # packing_quantity_estimator - Help Guide
 ## Purpose
 The packing quantity estimator form is used to estimate the packing quantity and cost for items being shipped or stored in the warehouse.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is an internal form used by franchisees to order and manage onboarding kits for their teams. It is intended to streamline the onboarding process by collecting necessary information in one place. To ensure accuracy and consistency, please use this guide to complete the form correctly.
 
 </thinking>

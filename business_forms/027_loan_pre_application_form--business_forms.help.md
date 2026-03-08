@@ -1,8 +1,3 @@
-<thinking>
-The form is likely a pre-application form used by businesses to provide initial information for a loan or other type of financial assistance. This form is meant to collect relevant details about the business, such as its name, type, and purpose, as well as contact information and financial details like loan amount and term. It's possible that this form is used for internal processing and decision-making within an organization, and the "assigned user" field may be used to route the application to a specific person or department for further review and action. The "created by", "updated by", "deleted by" fields seem to imply some sort of audit trail or version control, possibly used to track changes made to the form over time. However, without more context, the purpose and usage of these fields is unclear. I will proceed to create the help guide based on the provided form schema. If further clarification is needed, I will try my best to make an educated guess.
-
-</thinking>
-
 # loan_pre_application_form - Help Guide
 ## Purpose
 This form is used to collect information about a business for the purpose of a loan or financial assistance application. It is essential to provide accurate and complete information in this form to ensure a smooth and efficient review process.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to allow users to register a business, capturing essential information that enables the business to be recognized and interacted with within the system. The form should not be used to register personal or non-business entities.
-To prevent duplicate registration, the system checks for existing business registrations before processing new submissions.
-The form can be filled out by anyone with the necessary access credentials.
-</thinking>
-
 # register_b - Help Guide
 ## Purpose
 This form is used to register a business within the system, allowing it to be recognized and interacted with.

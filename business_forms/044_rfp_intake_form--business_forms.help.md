@@ -1,7 +1,3 @@
-<thinking>
-The RFP Intake Form is a critical component of the procurement process, designed to collect relevant information from clients and stakeholders about a project or procurement opportunity. This form helps to streamline communication, ensure consistency, and facilitate timely decision-making within the organization. To avoid duplication, ensure that you're not creating multiple forms for the same project, as it may lead to redundant data collection and confusion. Ensure that you have the necessary permissions and approvals before creating a new RFP Intake Form. This form is meant for internal use only and is not intended for external sharing or public access.
-</thinking>
-
 # RFP Intake Form - Help Guide
 
 ## Purpose

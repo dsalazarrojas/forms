@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information from vendors, specifically their compliance status, agreement, and other relevant details. It serves as a declaration form to verify vendors' adherence to company policies and regulations. The form fields cover various aspects of a vendor's profile and agreement, including their name, address, phone, email, website, compliance status, agreement, and comments. This form is intended for internal use within the company and is not meant to be shared with external parties. To avoid duplication, vendors with identical details will not be processed twice.
-
-</thinking>
-
 # Vendor Compliance Declaration Form - Help Guide
 ## Purpose
 The Vendor Compliance Declaration Form is used to collect information from vendors, ensuring they meet company policies and regulations. Vendors must fill out the form with accurate details about their business operations, compliance status, and other relevant information.

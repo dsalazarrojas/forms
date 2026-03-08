@@ -1,12 +1,3 @@
-<thinking>
-This guide will cover the purpose and usage of the Parking Lot Incident Form, which is designed to record and document incidents occurring in a parking lot. This form ensures that incidents are reported, described, and resolved efficiently.
-
-The form consists of 8 fields that gather information about the incident, including its date, time, location, description, details, cause, status, and resolution. The status field is a select-one type field that categorizes the incident as Open, Closed, or Resolved. This form is intended for use in a work environment or other settings where incidents need to be documented and managed.
-
-Please note that this form is not affiliated with or derived from any form creation platform, and it is released under CC BY 4.0. You are free to use, modify, and even sell forms derived from it - just give credit.
-
-</thinking>
-
 # Parking Lot Incident Form - Help Guide
 ## Purpose
 The Parking Lot Incident Form is designed to record and document incidents occurring in a parking lot. It gathers information about the incident, including its date, time, location, description, details, cause, status, and resolution.

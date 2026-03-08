@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for registering financial sustainability initiatives. It is meant for individuals or organizations to provide information about their initiatives. However, it's essential to ensure that the same initiative is not registered multiple times, and that the information is accurate and complete. This form is not affiliated with or endorsed by any form platform, but rather an original adaptation created using public survey topic metadata.
-
-This form is used to collect information about a financial initiative, and the user should fill it out carefully and completely to avoid duplication and ensure that the initiative is accurately represented.
-
-</thinking>
-
 # financial_sustainability_initiative_registration - Help Guide
 ## Purpose
 This form is used to register financial sustainability initiatives with accurate and complete information to avoid duplication and ensure the initiative is properly represented.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Building Systems Checklist - Help Guide
 
 ## Purpose

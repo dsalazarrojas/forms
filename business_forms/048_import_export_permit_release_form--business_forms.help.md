@@ -1,11 +1,3 @@
-<thinking>
-
-To help users understand the purpose of the "ImportExportPermitReleaseForm" and minimize errors, it is essential to provide a clear guide on how to complete the form and what each field means. This form is designed to gather necessary information for import/export permit releases, which involves coordinating and documenting the release of goods from one country to another. The form is typically used by businesses or individuals involved in international trade to ensure compliance with regulatory requirements.
-
-Before proceeding, please review the form fields carefully and ensure you have all the necessary information. If you are unsure about any field, please ask for clarification or assistance. This guide will walk you through each section of the form to help you complete it accurately and efficiently.
-
-</thinking>
-
 # ImportExportPermitReleaseForm - Help Guide
 ## Purpose
 The "ImportExportPermitReleaseForm" is designed to gather information necessary for import/export permit releases, which involves coordinating and documenting the release of goods from one country to another. This form helps ensure compliance with regulatory requirements and facilitates smooth international trade operations.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information from users for the purpose of generating a quotation for a service. It is a multi-page form, with pages for first name, email, phone number, date, time, and note. The form is not required, as indicated by the "false" value for the "required" field. This means that users can submit the form without filling out any of the fields. However, please note that some information may be mandatory in the actual business process, and users are advised to fill out as much information as possible to ensure accurate quotation generation.
-
-Before filling out this form, please ensure that you have checked the "get_quotation_form_page_1_note" field for any specific instructions or guidance that may be relevant to the service being requested.
-
-This form is designed to be a simple and user-friendly interface for users to input their information, and it is intended to be completed in a few minutes. Please take your time, and if you have any questions or concerns, feel free to reach out to us for assistance.
-</thinking>
-
 # Get Quotation Form - Help Guide
 ## Purpose
 The Get Quotation Form is used to collect information for the purpose of generating a quotation for a service. The form is not required, but filling it out will help ensure accurate quotation generation.

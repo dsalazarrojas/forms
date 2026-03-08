@@ -1,5 +1,3 @@
-<thinking>This form is designed to help users create a quotation for electrical work. This form is typically used by electricians or electrical contractors to provide a detailed estimate of costs and services for a specific job. It is meant to be filled out by the electrician to provide a clear and concise quote for the customer. It is not intended to be used for other purposes, such as general contact forms or surveys. Please note that all required fields are marked as "required" in the form, so make sure to fill them out accordingly.</thinking>
-
 # Electrical Work Quotation Form - Help Guide
 ## Purpose
 This form is used to create a quotation for electrical work, providing a detailed estimate of costs and services for a specific job. It is typically used by electricians or electrical contractors to provide a clear and concise quote for the customer.

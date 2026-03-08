@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from suppliers about their quotation requests, including the supplier's name, contact number, email, and other relevant details. The form is designed to be completed by the supplier, who will provide their quotation requests and associated pricing information. This form is intended to be used as a tool for internal business purposes, and its use is limited to authorized personnel within the organization. To ensure that the form is completed accurately and consistently, it's essential to review the form carefully before proceeding. This form should not be used to submit new quotation requests if a similar request has already been submitted by the same supplier. Please review the form carefully to ensure that it's being used correctly.
-
-</thinking>
-
 # Supplier Quotation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from suppliers about their quotation requests. It's intended for internal use within the organization, for authorized personnel to review and manage quotation requests from suppliers.

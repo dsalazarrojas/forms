@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather crucial information for an in-house team to process and execute an indoor plant installation project. The form is used to collect details from clients about their specific needs and requirements for the project. It's essential to fill out this form accurately to ensure that the project is executed correctly and meets the client's expectations. Please review the form carefully and fill it out according to your specific needs.
-</thinking>
-
 # indoor_plant_installation_agreement - Help Guide
 ## Purpose
 This form is used to collect details from clients about their indoor plant installation project.

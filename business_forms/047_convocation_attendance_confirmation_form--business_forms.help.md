@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Convocation Attendance Confirmation Form is filled out correctly and completely before processing it. Please review the form carefully to understand what information is required and why. This form is intended to collect information about graduating students and their guests for convocation ceremonies and events. Each field in the form is designed to capture specific details that will help us prepare for the events and ensure a smooth experience for everyone involved. 
-</thinking>
-
 # Convocation Attendance Confirmation Form - Help Guide
 ## Purpose
 The Convocation Attendance Confirmation Form is used to collect information from graduating students and their guests about their attendance and participation in convocation ceremonies and events. This form helps us prepare for the events and ensures a smooth experience for everyone involved.

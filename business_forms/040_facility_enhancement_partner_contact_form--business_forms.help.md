@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information from potential partners interested in enhancing facilities. The form is meant to be a quick and straightforward way to gather information from potential partners, ensuring that they can be easily contacted and informed about any necessary next steps. It's essential to fill out this form only once for each partner, as duplicates may lead to unnecessary confusion and miscommunication. This form should be used when a potential partner is interested in collaborating on a specific project or initiative.
-</thinking>
-
 # Facility Enhancement Partner Contact Form - Help Guide
 ## Purpose
 The Facility Enhancement Partner Contact Form is a straightforward tool designed to collect essential contact information from interested partners.

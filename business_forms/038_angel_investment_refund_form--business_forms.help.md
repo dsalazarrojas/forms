@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be for angel investors to request a refund for their investments in a startup or company. The purpose of this form is to gather information about the investor's original investment, the reason for the refund request, and the payout details. This form likely aims to standardize the refund process and ensure that all necessary information is collected for the refund to be processed correctly.
-
-The form has several sections: "Angel Investment Refund Request", "Investment Details", "Refund Request Information", and "Payout Information". This guide will help users navigate each section and understand the required fields.
-
-</thinking>
-
 # Angel Investment Refund Form - Help Guide
 ## Purpose
 This form is designed to collect information from angel investors to request a refund for their investments in a startup or company. The form ensures that all necessary details are gathered for the refund process.

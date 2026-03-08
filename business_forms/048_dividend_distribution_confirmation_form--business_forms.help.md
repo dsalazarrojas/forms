@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dividend Distribution Confirmation Form - Help Guide
 ## Purpose
 The Dividend Distribution Confirmation Form is used to confirm the distribution of dividends to shareholders. This form helps in tracking and recording the confirmation of dividend payments, ensuring accuracy and transparency in financial transactions.

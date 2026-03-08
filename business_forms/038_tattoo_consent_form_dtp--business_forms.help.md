@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Tattoo Consent Form Dtp" is a text-based form used for gathering client consent for tattooing services. The form's purpose is to collect information from clients regarding their tattoo preferences, consent, and contact details. This form is not affiliated with any specific form platform and is an original adaptation created by AI for public use. You are free to use, modify, or sell the form, but please give credit to its creators.
 
 </thinking>

@@ -1,11 +1,3 @@
-<thinking>
-This form is a part of the Digital Culture Transformation Program, which aims to promote digital transformation within the organization. The purpose of this form is to collect information from applicants who are interested in undergoing digital transformation. The information collected will be used to assess the applicant's suitability for the program. Please note that this form is meant for personal use and not for commercial purposes. 
-
-This form has multiple pages with various fields that are self-explanatory and straightforward. Please ensure that you complete the form accurately and thoroughly.
-
-The form is meant to be completed by one person at a time and is not intended for group applications. The answers must be true and accurate to the best of your abilities. Any false or incomplete information may lead to the form being rejected.
-</thinking>
-
 # Digital Culture Transformation Program Application Form - Help Guide
 ## Purpose
 The Digital Culture Transformation Program Application Form is a form designed to collect information from applicants who are interested in undergoing digital transformation within the organization.

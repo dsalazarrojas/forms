@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers or clients who are interested in requesting a price quote for a specific business opportunity. It is intended to be used by potential clients or customers to provide details about their requirements, such as the type of product or service they are interested in, the quantity, price range, currency, and other relevant contact information. This form should not be used for duplicate or unnecessary requests, as it is meant to be a one-time submission. It is recommended to fill out the form with accurate and complete information to ensure a prompt and accurate response from the business.
-</thinking>
-
 # Request For Pricing - Help Guide
 ## Purpose
 The Request For Pricing form is designed to gather information from customers or clients who are interested in requesting a price quote for a specific business opportunity.

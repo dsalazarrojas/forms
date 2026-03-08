@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from organizations about their innovation ecosystem audit requests. The purpose of this form is to collect details about the organization, their objectives, and their preferred schedule for the audit. This form is intended for businesses and organizations that want to get insights into their current state and potential for innovation and growth. Before proceeding, ensure that you are not already submitting this request for a similar purpose, and that this is an original and unique request. If you are unsure or have similar requests, please contact us at form@gic.mx for guidance.
-</thinking>
-
 # Innovation Ecosystem Audit Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about your organization's innovation ecosystem audit request. It will help us understand your organization's goals, objectives, and preferred schedule for the audit.

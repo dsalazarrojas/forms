@@ -1,5 +1,3 @@
-<thinking>...The form is designed for employees to provide their self-declaration, which is a crucial process in the company's HR management system. This form is meant to gather information about employee's availability, work schedule, and other relevant details for internal planning and resource allocation. It is essential for employees to fill out the form accurately and thoroughly to ensure that their work needs are properly recorded and addressed. Before proceeding, ensure that you have filled out the form previously and that you are not duplicating efforts.</thinking>
-
 # Employee Self Declaration Form - Help Guide
 ## Purpose
 The Employee Self Declaration Form is a crucial process in the company's HR management system. It gathers information about employees' availability, work schedule, and other relevant details for internal planning and resource allocation. It is essential for employees to fill out the form accurately and thoroughly to ensure that their work needs are properly recorded and addressed.

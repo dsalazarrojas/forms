@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Manager Recommendation Form - Help Guide
 ## Purpose
 The Construction Manager Recommendation Form is a tool used to provide feedback on a construction manager's performance and abilities. This form helps assess their leadership, technical skills, and other key qualities that make them suitable for future projects. It is intended for individuals who have worked with or have a professional relationship with the construction manager being recommended.

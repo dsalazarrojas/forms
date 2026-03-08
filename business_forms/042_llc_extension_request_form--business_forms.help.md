@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to request an extension for a Limited Liability Company (LLC) that is past due for various reasons. Before proceeding, please ensure that you have the necessary permissions and approvals to request an extension.
-
-The form is designed to collect information about the LLC's current status, the reason for the extension request, and the follow-up schedule. Please answer each question accurately and honestly to ensure that your request is processed efficiently.
-
-When filling out the form, please note that some fields are optional, but they may be required depending on your specific situation. If you're unsure about any field, please ask your administrator or refer to the relevant section of the form for guidance.
-
-</thinking>
-
 # LLC Extension Request Form - Help Guide
 ## Purpose
 The LLC Extension Request Form is used to request an extension for a Limited Liability Company (LLC) that is past due for various reasons. This form helps to gather information about the LLC's current status and the reason for the extension request.

@@ -1,16 +1,3 @@
-<thinking>
-The Vendor Vetting Initiative Registration Form is designed to collect information about vendors who are interested in participating in the vetting program. This form is intended for vendors who are already in business and have a established relationship with the vetting organization. The purpose of this form is to gather details about the vendor's business, including their name, contact information, and relevant business information. 
-
-The form is used to register vendors and provide access to vetting services. Vendors must only submit their information once. 
-
-Before filling out this form, please ensure that you are not already registered in the system. If you have previously registered, please do not submit this form again. 
-
-Note that not all fields are required, but they will help to provide more detailed information about your business. 
-
-Please fill out this form carefully and thoroughly, and make sure to enter accurate and up-to-date information.
-
-</thinking>
-
 # Vendor Vetting Initiative Registration Form - Help Guide
 ## Purpose
 The Vendor Vetting Initiative Registration Form is designed to collect information about vendors who are interested in participating in the vetting program.

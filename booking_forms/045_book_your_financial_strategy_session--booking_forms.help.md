@@ -2,9 +2,7 @@
 ## Purpose
 This form is intended to help clients gather information about their financial situation and preferences, so we can provide personalized financial guidance and support. This information will be used to schedule a consultation with one of our financial advisors.
 
-### <thinking>...</thinking>
-
-Before proceeding, please be aware that:
+### Before proceeding, please be aware that:
 - This form is not intended to be a comprehensive financial assessment.
 - This form will be used for booking a consultation, which is a non-binding agreement.
 

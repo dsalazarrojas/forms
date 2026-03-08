@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and suggestions from users about product improvements. It's intended to be filled out by users who want to report issues or propose changes to a product. This form will help the development team understand the user's concerns and priorities, and use that information to drive product development and improvement. This form should not be used for general product inquiries or support requests. 
-
-</thinking>
-
 # Product Improvement Report Form - Help Guide
 
 ## Purpose

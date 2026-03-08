@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help individuals create a personalized retirement plan by gathering information about their age, expected retirement date, income, expenses, debt, dependents, investment portfolio, knowledge about retirement savings plans, knowledge about retirement income sources, emergency fund, financial advisor, risk tolerance, retirement accounts, investment goal, financial advisor, expected retirement income, expected retirement expenses, emergency fund, and other relevant details. It's essential to ensure that the form is completed accurately and thoroughly to provide a comprehensive understanding of one's retirement readiness.
-
-Before starting the form, please note that:
-
-* You should have all necessary data and answers readily available.
-* Please answer all questions honestly to ensure the most accurate results.
-* Review and double-check your answers for any errors or inconsistencies.
-</thinking>
-
 # Retirement Planning Questionnaire - Help Guide
 
 ## Purpose

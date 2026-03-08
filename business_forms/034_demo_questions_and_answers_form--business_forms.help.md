@@ -1,15 +1,3 @@
-<thinking>
-This is a form for collecting demo questions and answers from users. The form is designed to be simple and easy to use, with a mix of text fields, select options, and date/time fields. 
-
-Before filling out the form, please ensure that you have a clear understanding of what each question is asking and what type of information is required. 
-
-This form does not store any sensitive or personal identifiable information, and all submitted data will be treated as public. 
-
-Please review each field carefully and provide accurate and relevant answers. 
-
-Please note that this form does not store any data, it's just a demo form for illustration purposes.
-</thinking>
-
 # Demo Questions And Answers Form - Help Guide
 ## Purpose
 The Demo Questions And Answers Form is designed to collect demo questions and answers from users. It has 10 questions with different types of fields, such as text, select options, and date/time fields.

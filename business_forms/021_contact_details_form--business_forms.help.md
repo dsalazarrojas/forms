@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact Details Form - Help Guide
 ## Purpose
 This form is used to collect contact information from individuals or companies. The form is divided into three sections: Personal Information, Company Details, and Contact Preferences. It is used for internal purposes, such as communication and correspondence.

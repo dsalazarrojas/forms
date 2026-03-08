@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for communication between project team members and stakeholders for submitting and tracking project proposals. It allows users to provide project details, submission status, and other relevant information. The form is designed to be a centralized platform for project managers to collect and track project updates, submission deadlines, and review status from team members and stakeholders.
-
-</thinking>
-
 # Project Proposal Communication Form - Help Guide
 ## Purpose
 This form is used for communication between project team members and stakeholders for submitting and tracking project proposals.

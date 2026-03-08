@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to collect information for private jet bookings. It should only be used for legitimate business purposes, not for spam or mass solicitations. Please make sure not to fill this form multiple times for the same request, as this can lead to duplicate work and confusion in our internal systems.</thinking>
-
 # Private Jet Booking Form - Help Guide
 ## Purpose
 The Private Jet Booking Form is designed to help you book private jets for your travels. This form is intended for corporate or personal bookings, and you should only use it for legitimate purposes. Please fill out the form completely and accurately to ensure that your booking request is handled promptly and efficiently.

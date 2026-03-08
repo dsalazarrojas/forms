@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect business information and contact preferences from business owners. It asks for the business name, type, contact person's name, email address, and phone number. Additionally, it collects the opening and closing times for each day of the week. It also asks about the preferred contact method (phone, email, text message, social media, in-person, or online chat) and the expected response time (1 hour, 4 hours, 24 hours, 2 business days, or 1 week). Finally, it provides an optional field for additional availability notes.
-</thinking>
-
 # Business Hours And Contact Preferences Form - Help Guide
 ## Purpose
 This form is designed to collect business information and contact preferences from business owners to help them manage their interactions with customers.

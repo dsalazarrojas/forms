@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for booking a new LED screen installation. The fields in this form should be filled in by a representative of the customer who is booking the installation, such as a contact person or event coordinator. The form will guide them through the necessary details to book a LED screen installation for an event. The form likely includes fields for event details, contact information, screen setup requirements, and payment information. It's likely that this form is part of a larger system for managing event bookings and installations. The form should be filled out carefully to ensure that all relevant information is provided to facilitate a smooth installation process.
-</thinking>
-
 # LED Screen Setup Booking Form - Help Guide
 ## Purpose
 This form is used to book a LED screen installation for an event. It guides the user through the necessary details required to complete the booking process.

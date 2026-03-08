@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a project's planning and registration. The purpose of this form is to gather project details such as project manager's contact information, project location, start and end dates, budget, and status. This form will be used to help project managers create a project profile that will be stored in our database for tracking and reference purposes.
-
-It is essential to ensure that all required fields are completed accurately and thoroughly to avoid any issues or discrepancies in the project's registration process. Please note that this form has 2 project managers' contact information sections which are not required and are meant to collect contact details for backup or alternative contact methods.
-
-</thinking>
-
 # retrofit_planning_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information about a project's planning and registration.

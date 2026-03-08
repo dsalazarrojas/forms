@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cross Store Delivery Coordination Contact Form - Help Guide
 ## Purpose
 This form is designed to facilitate effective cross-store delivery coordination between stores and customers. It allows customers to request delivery of items from a specific store, providing necessary details for smooth delivery execution.

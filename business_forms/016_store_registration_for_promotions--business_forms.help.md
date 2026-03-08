@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect and store information about store promotions. However, before completing this form, let's first consider whether it's relevant to your use case. Are you looking to register a store for promotions or are you looking for another type of form? This form is not meant to be a catch-all for all types of data entry. If you're unsure, please double-check your requirements or reach out to your team for clarification.
-</thinking>
-
 # Store Registration For Promotions - Help Guide
 ## Purpose
 This form is for collecting and storing information about store promotions. It is intended to help you manage and track promotions for your store.

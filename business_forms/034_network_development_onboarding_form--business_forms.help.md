@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Network Development Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information about network development projects, including project name, lead, description, start and end dates, and project lead's email. The form is intended to be used for onboarding new projects within a network development context, and to ensure that all necessary details are captured for further analysis and processing.

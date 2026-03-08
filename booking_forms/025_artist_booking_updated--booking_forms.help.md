@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Artist Booking (Updated) - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for trainers to input their availability and preferences for scheduling training sessions. The purpose of this form is to collect information on the trainer's schedule, specialties, location, and potential conflicts. This data will be used to optimize the scheduling process and ensure that trainers are matched with sessions that suit their needs and availability. The form will be reviewed internally to prevent duplication and ensure that trainers are not booked for multiple sessions at the same time.
-</thinking>
-
 # Trainer Availability Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The form "Supplier Ethics Declaration Registration Form" is intended to capture essential information about suppliers, including their data, contact details, and business entity status. This form is likely used for internal administrative purposes, such as registering and managing supplier relationships within an organization.
-
-To avoid duplication, ensure you have not already registered this supplier before filling out this form.
-
-</thinking>
-
 # Supplier Ethics Declaration Registration Form - Help Guide
 ## Purpose
 The Supplier Ethics Declaration Registration Form is a form used to collect and manage information about suppliers.

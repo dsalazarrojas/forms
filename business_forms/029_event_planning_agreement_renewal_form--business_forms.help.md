@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form "event_planning_agreement_renewal_form" is only used for its intended purpose, which is to renew an event planning agreement. This form should not be used for other types of agreements or events.
-Before completing this form, please review the following instructions to ensure you are using the correct fields and providing the required information.
-</thinking>
-
 # event_planning_agreement_renewal_form - Help Guide
 ## Purpose
 The Event Planning Agreement Renewal Form is used to renew an existing event planning agreement. This form is designed to collect information necessary to update and extend the agreement.

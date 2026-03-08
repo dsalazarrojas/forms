@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Online Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your business, including its owner, operations, financials, goals, and challenges. The purpose of this form is to help us understand your business needs and provide personalized coaching and guidance to support your growth and success.

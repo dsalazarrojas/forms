@@ -1,11 +1,3 @@
-<thinking>... internal reasoning checks for form purpose and non-duplication ...
-
-**Form purpose**: This form is designed to collect feedback and reviews for waste disposal contractors, allowing facility managers to evaluate and assess the service quality and performance of these contractors. 
-
-**Form checks for non-duplication**: The form is not intended to duplicate existing processes or create unnecessary workloads for facility teams. It is meant to be a streamlined and efficient way to gather essential information for decision-making. 
-
-</thinking>
-
 # Waste Disposal Contractor Review Request Form - Help Guide
 ## Purpose
 The "Waste Disposal Contractor Review Request Form" is used to collect feedback and reviews for waste disposal contractors. This form helps facility managers evaluate and assess the service quality and performance of these contractors.

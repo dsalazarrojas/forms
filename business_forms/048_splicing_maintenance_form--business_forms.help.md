@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for power plant operators to report and record splicing maintenance activities. It ensures that all necessary information is captured accurately and consistently, making it easier to track and analyze maintenance data. This form is not affiliated with or derived from any form platform, but rather an original adaptation created by AI using public survey topic metadata. Before proceeding, ensure that you have reviewed the form's purpose and are aware of the importance of providing accurate and complete information.
-</thinking>
-
 # Splicing Maintenance Form - Help Guide
 ## Purpose
 This form is for power plant operators to report and record splicing maintenance activities, ensuring accurate and consistent capture of necessary information.

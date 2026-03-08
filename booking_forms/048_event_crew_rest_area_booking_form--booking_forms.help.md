@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "event_crew_rest_area_booking_form", I will follow the provided instructions and guidelines.
-
-The form is used to book a rest area for an event crew, allowing crew members to select their event category, team, and time slot. The form also includes fields for submitting a request, email, phone number, and an assigned-to field. The purpose of this form is to streamline the booking process and ensure that crew members can reserve a suitable rest area for their event needs.
-
-Before proceeding, I will review the form fields to ensure that the explanations align with the provided YAML and are concrete, concise, and practical.
-
-</thinking>
 # event_crew_rest_area_booking_form - Help Guide
 ## Purpose
 This form is used to book a rest area for event crew members, allowing them to select their event category, team, and time slot, and provide relevant contact information for booking purposes.

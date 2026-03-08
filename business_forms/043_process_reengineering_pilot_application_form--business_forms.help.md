@@ -1,8 +1,3 @@
-<thinking>
-We will first create a user-friendly guide for the provided YAML-formatted form. To begin with, the guide will cover the general purpose of the form. This guide is for end-users to understand the form's purpose, how to complete it, and what each field means. The form, titled "Process Reengineering Pilot Application Form," is designed for the "business_forms" category. The guide will be structured into sections for easy reference and will provide a concrete and concise explanation of each field. The guide will also include tips for users to ensure a smooth completion process.
-
-</thinking>
-
 # Process Reengineering Pilot Application Form - Help Guide
 ## Purpose
 The Process Reengineering Pilot Application Form is a form used to gather information about a process reengineering project. This form is used to collect details about the project, including the form type, project name, start and end dates, budget, and any additional comments. The form is intended to provide a comprehensive overview of the project for review and consideration.

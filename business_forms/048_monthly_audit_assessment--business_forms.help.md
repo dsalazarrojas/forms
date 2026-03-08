@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect information for a monthly audit assessment. It is used to gather data from employees for their performance assessment. This form is only meant to be filled out by employees and not used for any other purpose. It is not a duplicate of any other form in the company... </thinking>
-
 # monthly_audit_assessment - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a monthly audit assessment, used to gather data from employees for their performance assessment.

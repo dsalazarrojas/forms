@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users about their luxury travel preferences and requirements. It's designed to be used internally to facilitate the planning and booking process for luxury travel experiences. The form is not intended for public use and is only accessible to authorized personnel. Please ensure that you are filling this form with your legitimate account credentials before submitting your information.
-</thinking>
-
 # Luxury Travel Intake Form - Help Guide
 ## Purpose
 The Luxury Travel Intake Form is used to collect information from users about their luxury travel plans, including destination, travel dates, budget, accommodation preferences, special requests, and contact information.

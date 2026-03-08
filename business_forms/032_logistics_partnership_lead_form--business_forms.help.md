@@ -1,5 +1,3 @@
-<thinking>As a logistics partnership lead form, this form is intended to capture essential information from potential partners in the logistics industry. The form aims to gather details such as company contact information, services offered, and communication preferences. It also includes fields for company description, industry type, and lead source, which will help in understanding the partner's background and interests. This form is crucial in streamlining the logistics partnership process and ensuring efficient communication with potential partners. It should not be filled out multiple times, and users must fill out the form correctly to ensure accurate and comprehensive data collection.</thinking>
-
 # logistics_partnership_lead_form - Help Guide
 ## Purpose
 This form is designed to collect information from potential partners in the logistics industry. It helps in gathering contact details, company description, services offered, and lead source, which aids in streamlining the logistics partnership process.

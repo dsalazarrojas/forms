@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to verify the compliance of a supplier, ensuring that all required information is collected for reporting and monitoring purposes. The form collects data on the supplier's name, contact details, legal status, business license number, certification number, email, phone number, and other relevant information. This form is likely to be used by internal auditors or compliance officers in an organization to gather accurate and reliable data about their suppliers. This form is likely to be part of a larger business process, such as risk assessment or due diligence.
-
-</thinking>
-
 # supplier_compliance_verification_form - Help Guide
 ## Purpose
 This form is designed to verify the compliance of a supplier, gathering essential information for reporting and monitoring purposes.

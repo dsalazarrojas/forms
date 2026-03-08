@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Consignment Form - Help Guide
 ## Purpose
 The Consignment Form is a document used to outline the terms and conditions of the consignment agreement between the consignor (the person or business providing the goods) and the consignee (the business selling the goods). This form helps to establish a clear understanding of the consignment period, payment terms, commission rates, and other essential details to avoid misunderstandings and ensure a smooth consignment process.

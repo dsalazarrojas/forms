@@ -1,21 +1,3 @@
-<thinking>
-
-This form is used for documenting the inspection and assessment of furniture in a building or home. It is used to gather information on the condition, price, and details of the inspected furniture items. The form is not required for every inspection, but it can be useful in situations where a more detailed assessment is needed.
-
-To complete this form, follow these steps:
-
-1. Enter the home address where the inspection was conducted, if applicable.
-2. Provide a brief description of the furniture item being inspected.
-3. Assess the condition of the furniture using the provided scale (Excellent, Fair, or Poor).
-4. Enter the price of the inspected item, if applicable.
-5. Enter the name of the seller or owner of the item.
-6. Provide any relevant contact information for the seller or owner.
-7. Enter the date and time of the inspection.
-8. Enter the name of the inspector conducting the assessment.
-9. Add any additional notes from the inspector, if necessary.
-
-</thinking>
-
 # Furniture Inspection Form - Help Guide
 ## Purpose
 The Furniture Inspection Form is used for documenting the inspection and assessment of furniture in a building or home.

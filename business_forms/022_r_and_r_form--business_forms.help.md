@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "r_and_r_form", I will follow the required structure and provide clear explanations for each field based on the provided YAML fields. This guide is designed to assist end-users in completing the form efficiently and accurately.
-
-</thinking>
-
 # r_and_r_form - Help Guide
 ## Purpose
 The purpose of the "r_and_r_form" is to collect information for employee recognition and reward programs. It captures details about employee awards, including nomination and recognition dates, award types, and recognition status.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to make an amendment to a lease deposit agreement between a landlord and a tenant. This form is used to reflect changes to the original lease deposit terms, such as changes to the deposit amount, payment method, or payment terms. The form requires the landlord and tenant to confirm their agreement to the amended terms.
-
-Form fields are used to collect information related to the original lease deposit, including the amount of the deposit, the method of payment, the date of payment, and the terms of the payment. The form also collects confirmation from both the landlord and tenant to ensure that the changes are agreed upon.
-
-Before filling out this form, please review the original lease deposit agreement to understand the current terms.
-
-</thinking>
-
 # lease_deposit_amendment_form - Help Guide
 ## Purpose
 The lease deposit amendment form is used to make changes to a lease deposit agreement between a landlord and a tenant. This form is used to update the deposit amount, payment method, or payment terms.

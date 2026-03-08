@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request a refrigeration energy review for a specific system. The purpose of this form is to gather information about the system being reviewed, its energy consumption patterns, and the goals for the energy review. This form will help the reviewer gather all necessary information to perform a thorough review and provide accurate recommendations for energy savings.
-
-</thinking>
-
 # Refrigeration Energy Review Request Form - Help Guide
 
 ## Purpose

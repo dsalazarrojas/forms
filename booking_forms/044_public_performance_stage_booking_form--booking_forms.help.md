@@ -1,11 +1,3 @@
-<thinking>
-We have a booking form for public performances and events. The purpose of this form is to provide essential information for event organizers, technicians, and attendees. To ensure efficient event planning and execution, please complete the form accurately and thoroughly.
-
-To avoid duplicate bookings, we kindly request that you check our schedule before submitting your request. If you have any queries or need assistance, please contact us at [Your Contact Email].
-
-We appreciate your cooperation and look forward to receiving your booking request.
-</thinking>
-
 # public_performance_stage_booking_form - Help Guide
 ## Purpose
 This form is used to book a public performance or event with us. It gathers essential details for event organizers and technicians.

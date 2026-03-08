@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to support the vacation request process for employees. The form helps employees submit their vacation requests by providing a structured and organized way to input their personal and request information. The form is meant to ensure that employees' vacation requests are processed efficiently and consistently, reducing administrative workload and minimizing potential errors. By submitting a complete and accurate request, employees can get their vacation approved in a timely manner. Please make sure to only submit the form once per request to avoid duplication.</thinking>
-
 # Vacation Request Form - Help Guide
 
 ## Purpose

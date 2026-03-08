@@ -1,14 +1,3 @@
-<thinking>
-The Sustainable Travel Hub Booking Form is designed to collect information from guests who are interested in booking sustainable travel options, such as eco-friendly accommodations and activities. This form will help the Sustainable Travel Hub team understand the preferences and needs of guests, ensuring that they can provide the most suitable and sustainable travel experiences.
-
-Before starting the booking process, please ensure that you have read and understood the following:
-
-* You are booking a travel experience that aligns with your personal values and priorities regarding sustainability.
-* You are providing accurate and truthful information in this form.
-* You are not duplicating an existing booking or reservation.
-
-</thinking>
-
 # Sustainable Travel Hub Booking Form - Help Guide
 
 ## Purpose

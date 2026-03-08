@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information for the Wells Fargo Bicctableau Survey, which is likely a business-related form used for gathering feedback or data from customers, employees, or partners. This form is likely used to collect specific details about the individual or organization responding, their contact information, and possibly demographic data. To ensure this form is used correctly and consistently, it's essential to review the provided structure and fields carefully.
-</thinking>
-
 # Wells Fargo Bicctableau Survey - Help Guide
 ## Purpose
 This form collects information for the Wells Fargo Bicctableau Survey, gathering details from individuals or organizations on various topics.

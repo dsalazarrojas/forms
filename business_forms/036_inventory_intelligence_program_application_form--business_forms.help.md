@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to apply to the Inventory Intelligence Program. The form collects information about the user, their contact details, and professional background. It's likely used for internal purposes such as recruitment, program management, or customer support. To ensure a seamless completion process, please review the form carefully and provide accurate information. Please note that this form may have duplicate fields; ensure you fill them out correctly to avoid errors. If you are unsure about any field, it's best to ask for clarification before submitting the form.
-</thinking>
-
 # Inventory Intelligence Program Application Form - Help Guide
 ## Purpose
 The form is intended for users to apply to the Inventory Intelligence Program. It collects necessary information to assess their qualifications and suitability for the program.

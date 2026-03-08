@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers, partners, or internal teams to contact us for hospitality data analytics support. The primary purpose of this form is to gather contact information and any relevant details about the support request. This form should only be used for support requests, not for sales or marketing purposes. To avoid duplication, please do not submit multiple form submissions for the same purpose.
-</thinking>
-
 # Hospitality Data Analytics Contact Form - Help Guide
 ## Purpose
 The Hospitality Data Analytics Contact Form is a support request form used to collect contact information and details about analytics support requests.

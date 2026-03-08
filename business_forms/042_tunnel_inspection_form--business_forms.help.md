@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be filled out by maintenance personnel to assess the condition of a tunnel during an inspection. The form gathers information on the tunnel's structural integrity, safety concerns, maintenance needs, and other relevant details. When filling out this form, please note that some fields are optional and may not be required for the assessment. Ensure that you complete all required fields and provide accurate information to ensure the form's purpose is served.
-
-</thinking>
-
 # Tunnel Inspection Form - Help Guide
 ## Purpose
 The Tunnel Inspection Form is a tool used to collect information on the condition of a tunnel during an inspection. It helps maintenance personnel assess the tunnel's structural integrity, identify safety concerns, and determine maintenance needs.

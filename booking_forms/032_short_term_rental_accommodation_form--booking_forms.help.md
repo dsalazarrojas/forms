@@ -1,16 +1,3 @@
-<thinking>
-Are there any specific requirements or constraints for this form (e.g., GDPR, accessibility, etc.)?
-
-Can you confirm the expected format of the help guide? Is it for internal or external users?
-
-Is there a specific style guide or tone to be followed for the help guide (e.g., formal, informal, technical, etc.)?
-
-Can you provide more context or information about the form and its purpose?
-
-Are there any specific fields or sections of the form that require special attention or clarification in the help guide?
-
-Are there any specific requirements or constraints for the help guide (e.g., page length, tone, style, etc.)?</thinking>
-
 # Short Term Rental Accommodation Form - Help Guide
 ## Purpose
 This form is for booking short-term rentals, such as apartments or houses. It gathers information about the guest's contact details, accommodation preferences, and other relevant information to facilitate the booking process.

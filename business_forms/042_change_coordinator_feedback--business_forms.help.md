@@ -1,7 +1,3 @@
-<thinking>
-This form is a Change Coordinator Feedback form, designed to gather feedback from end-users on their experience with a change coordinator. This form is meant to be completed by end-users who have interacted with a change coordinator, such as team members, colleagues, or clients. The form is used to evaluate the effectiveness of the change coordinator's communication skills, organizational abilities, problem-solving skills, and overall performance. By providing feedback, end-users can help the organization identify areas of improvement for future change coordinations.
-</thinking>
-
 # Change Coordinator Feedback - Help Guide
 ## Purpose
 This form is designed to gather feedback from end-users on their experience with a change coordinator. It is meant to be completed by individuals who have interacted with the change coordinator and have valuable insights on their performance.

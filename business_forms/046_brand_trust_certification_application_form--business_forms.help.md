@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from brands and companies seeking Brand Trust Certification. This form serves as a tool for applicants to provide details about their company's policies and practices related to trust building, transparency, and social responsibility. It is essential to ensure that all required fields are completed accurately to increase the chances of a successful certification process.
-
-Before proceeding, please ensure that you have reviewed the form carefully and that your information is up to date. This form should not be duplicated for different applications or used for other purposes not related to Brand Trust Certification.
-
-</thinking>
-
 # Brand Trust Certification Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from brands and companies applying for Brand Trust Certification. It gathers data on company policies and practices related to trust building, transparency, and social responsibility.

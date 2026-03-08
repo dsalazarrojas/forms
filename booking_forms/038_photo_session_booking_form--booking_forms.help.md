@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow end-users to book a photo session with a photographer. The form will be used to capture the necessary information to schedule a session with the photographer. The following guide will help users understand how to complete this form correctly.
-</thinking>
-
 # photo_session_booking_form - Help Guide
 ## Purpose
 The photo session booking form is used to book a photo session with a photographer. To use this form, simply fill out the required fields with your information and preferences, and submit it to the photographer.

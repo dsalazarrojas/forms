@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors who want to book a booth at a music festival. The purpose of this form is to gather necessary details such as vendor name, contact information, booth preferences, and additional services required. The form is meant to be completed by vendors themselves, providing a clear and concise way to submit their application.
-</thinking>
-
 # Music Festival Vendor Booth Booking Form - Help Guide
 ## Purpose
 This form is used to collect information from vendors who want to book a booth at the music festival. It's essential to fill out this form accurately to ensure a smooth and successful booking process.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from participants about a group cultural exchange booking. The form is divided into several sections, each covering different aspects of the booking. The fields are meant to be completed by the participants themselves, and the purpose of this guide is to help them understand what each field is for and how to fill it out correctly.
-
-The form is meant to be filled out by participants who are planning to attend a group cultural exchange event. The event is likely a cultural exchange program or a trip where participants from different backgrounds come together to share and learn from each other. 
-
-Before filling out the form, please ensure you are filling it out for the correct event and that you are a registered participant. This form should not be filled out if you are not a registered participant or if you are filling out another participant's form.
-
-Please note that this form has multiple pages. Each page has a set of fields that are relevant to the page's purpose. Make sure to fill out all the required fields and follow the guidelines for each field to ensure that your submission is complete and accurate.
-</thinking>
-
 # Group Cultural Exchange Booking Form - Help Guide
 
 ## Purpose

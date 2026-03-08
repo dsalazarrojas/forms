@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Innovation Process Evaluation Request Form", I need to ensure that the form's purpose and each field's meaning are clearly communicated to the end-users. This will help prevent confusion, reduce errors, and increase the efficiency of the evaluation process. To confirm, the form is designed to collect information from companies interested in evaluating their innovation processes. This form should not be used for duplicate requests, and its primary goal is to gather necessary data for a comprehensive evaluation. I will now create the help guide accordingly.
-</thinking>
-
 # Innovation Process Evaluation Request Form - Help Guide
 ## Purpose
 This form is used to collect information from companies interested in evaluating their innovation processes. Please fill out this form to provide the necessary details for a thorough evaluation.

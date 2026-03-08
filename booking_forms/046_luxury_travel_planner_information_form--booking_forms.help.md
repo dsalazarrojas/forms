@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for travel planners to collect information about travel agencies. The purpose of this form is to collect contact details and travel preferences of the agency, which will be used to provide personalized travel recommendations. This form should be completed by the travel agency's representative or contact person. 
-
-The form can be completed multiple times, so ensure that each submission is relevant and accurate. If you've already completed this form for the same travel agency, please do not submit duplicate information.
-
-Please make sure to complete this form carefully, as the information provided will be used to tailor travel recommendations to the agency's needs.
-
-</thinking>
-
 # Luxury Travel Planner Information Form - Help Guide
 ## Purpose
 The Luxury Travel Planner Information Form is designed to collect essential information about travel agencies, allowing us to provide tailored travel recommendations. This form helps us understand the agency's contact details and travel preferences, enabling us to offer personalized services.

@@ -1,10 +1,3 @@
-<thinking>
-The E Commerce Blockchain Pilot Application Form is part of a larger system designed to collect and process applications from businesses and organizations interested in utilizing blockchain technology for e-commerce purposes. The form is used to gather necessary information about the applicant, their business, and their proposed use of blockchain technology. It is crucial that the form is filled out correctly to ensure that the submission process is efficient and accurate.
-
-Before proceeding, ensure that the form is relevant to your specific business needs and that the data is accurate and up-to-date. Filling out the form for the sake of filling out the form or submitting duplicate applications may lead to delays or rejections in the review process.
-
-</thinking>
-
 # E Commerce Blockchain Pilot Application Form - Help Guide
 
 ## Purpose

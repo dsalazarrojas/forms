@@ -1,7 +1,3 @@
-<thinking>
-This form is for assessing and categorizing risks and opportunities within the organization. The goal is to identify potential threats and opportunities that require mitigation or capitalization. The assessment is used to determine the level of risk and the likelihood of its occurrence. This form is used for internal purposes only. Before filling out this form, please check that the risk/opportunity has not been previously assessed. If it has, please do not resubmit. If you are unsure, please contact the risk management team for clarification.
-</thinking>
-
 # Risk And Opportunity Assessment - Help Guide
 ## Purpose
 The Risk And Opportunity Assessment Form is used to evaluate potential threats and opportunities within the organization. This form helps identify and categorize risks and opportunities, determining their likelihood and impact on the business.

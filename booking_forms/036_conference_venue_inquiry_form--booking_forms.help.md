@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Note:** The purpose of this form is to gather information from users who are interested in renting a venue for their events. This form will collect details about the user's contact information, event type, dates, and other specific requirements related to the venue rental.
 
 **Conference Venue Inquiry Form - Help Guide**

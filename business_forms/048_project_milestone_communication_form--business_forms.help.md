@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Milestone Communication Form - Help Guide
 ## Purpose
 The Project Milestone Communication Form is used to record and communicate project milestones, updates, and status changes. This form helps project managers and team members stay informed about project progress and facilitates efficient communication among team members, project managers, and customers.

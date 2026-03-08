@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the submission of VIP service upgrade requests, allowing customers to provide essential information for their upgrade, such as their name, contact details, and specific preferences. This form aims to streamline the request process, ensuring that all necessary information is gathered correctly and efficiently. It is essential to fill out the form accurately to ensure a smooth and successful request process. 
-</thinking>
-
 # Vip Service Upgrade Request Form - Help Guide
 ## Purpose
 The Vip Service Upgrade Request Form is designed to gather necessary information from customers for their VIP service upgrade requests. To complete this form, please follow the instructions below.

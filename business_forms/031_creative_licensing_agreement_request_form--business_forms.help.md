@@ -1,8 +1,3 @@
-<thinking>
-This form is a creative licensing agreement request form, designed to capture essential information from both the artist and the client when entering into a licensing agreement. The primary goal is to establish a clear understanding of the project's terms and details while obtaining the necessary signatures from both parties. This form will guide the user through the necessary steps to complete it accurately, ensuring a smooth and secure transaction process.
-
-</thinking>
-
 # Creative Licensing Agreement Request Form - Help Guide
 ## Purpose
 The creative licensing agreement request form is used to collect essential information from both the artist and the client when entering into a licensing agreement. It helps establish a clear understanding of the project's terms and details.

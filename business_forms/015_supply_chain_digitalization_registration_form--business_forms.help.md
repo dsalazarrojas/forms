@@ -1,11 +1,3 @@
-<thinking>
-
-As the form creator, you've designed this form for registering information on supply chain digitalization, gathering relevant details from the user. This form is essential for understanding the current state of supply chain management, whether your organization is on a path to digitalization. This form is meant to provide a systematic way to gather and track information on various aspects of digital transformation in supply chain management. 
-
-Before starting the registration, it's essential to ensure that the information you provide is accurate and consistent. Duplicate registrations can lead to confusion and errors in your analysis. Please make sure to check if you have already registered before proceeding. If you've previously registered, please do not register again.
-
-</thinking>
-
 # Supply Chain Digitalization Registration Form - Help Guide
 ## Purpose
 The Supply Chain Digitalization Registration Form is designed to collect data on the digitalization state of your supply chain management. This form is used to gather information on various aspects of digital transformation in the supply chain, including registration information, digital transformation programs, and qualifying criteria.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by warehouse staff to report inventory levels and manage stock. The form will help track inventory status and provide a way to determine if items need to be reordered. The purpose of this form is to ensure that the inventory levels are accurate and up-to-date. It is a simple form with a minimal number of fields, making it easy to use. Before using this form, make sure to review the inventory levels regularly to ensure that the data is accurate and complete.
-</thinking>
-
 # Weekly Inventory Report Form - Help Guide
 ## Purpose
 The Weekly Inventory Report Form is used by warehouse staff to report inventory levels and manage stock. It helps track inventory status and determine if items need to be reordered.

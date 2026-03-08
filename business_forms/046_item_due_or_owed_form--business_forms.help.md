@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "Item Due Or Owed Form" is to collect information about items that are due or owed to the organization. This form is likely used for bookkeeping or accounting purposes, such as tracking outstanding balances or deadlines for items or services rendered. Before completing this form, ensure that you have the necessary information and that you are not duplicating efforts or data entry.
-
-Please note that the form fields are designed to be optional, which may lead to inconsistencies if not filled out properly. It is essential to ensure that all required fields are completed accurately to avoid errors.
-
-This form will guide you through the process of filling out the form in a step-by-step manner.
-
-</thinking>
-
 # Item Due Or Owed Form - Help Guide
 ## Purpose
 The "Item Due Or Owed Form" is used to collect information about items that are due or owed to the organization.

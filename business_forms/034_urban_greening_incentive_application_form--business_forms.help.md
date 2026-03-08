@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from businesses seeking incentives for urban greening initiatives. Urban greening incentives are initiatives that aim to improve the physical environment and quality of life in urban areas. These incentives can be in the form of funding, grants, or other forms of support. The purpose of this form is to gather essential details from businesses, allowing them to apply for these incentives.
-
-</thinking>
-
 # Urban Greening Incentive Application Form - Help Guide
 ## Purpose
 The Urban Greening Incentive Application Form is a tool designed to help businesses apply for urban greening initiatives, which aim to improve the environment and quality of life in urban areas. By filling out this form, businesses can provide the necessary information to be considered for these incentives.

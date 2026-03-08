@@ -1,5 +1,3 @@
-<thinking>As a historical site tour appointment form, this form is designed to help tour operators and visitors book and schedule historical site tours. The form allows visitors to provide their contact information, language preferences, and tour requests, while also enabling tour operators to confirm availability and provide additional notes for the tour. This form will help ensure that tours are booked and executed smoothly, and that visitors have a great experience.</thinking>
-
 # Historical Site Tour Appointment Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form "market_feasibility_research_request_form" is designed for businesses to request market feasibility research services. The purpose of this form is to collect information about the market research project, including the brief, objectives, questions, and timeframe. The form will be used to gather all relevant details required for the research project. This form should only be filled out by businesses that are interested in conducting market feasibility research. It is not intended to be filled out by individual clients.
-</thinking>
-
 # market_feasibility_research_request_form - Help Guide
 ## Purpose
 The market feasibility research request form is designed to collect information about market feasibility research projects from businesses.

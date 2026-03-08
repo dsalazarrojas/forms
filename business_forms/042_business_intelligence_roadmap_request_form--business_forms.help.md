@@ -1,11 +1,3 @@
-<Thinking>
-This form is designed to collect information from stakeholders to create a business intelligence roadmap. The form is used to understand the current state of the organization's analytics capabilities, identify areas for improvement, and determine the strategic vision and goals for the next business intelligence roadmap.
-
-To ensure the form is not submitted in error or for non-relevant purposes, this form will first check if the user has access to the necessary information before submitting the form. This form should only be submitted by the appropriate person in the organization.
-
-The form is organized into sections, each with its own set of questions. Please ensure that you provide clear and accurate information to help create an effective business intelligence roadmap.
-</thinking>
-
 # Business Intelligence Roadmap Request Form - Help Guide
 ## Purpose
 

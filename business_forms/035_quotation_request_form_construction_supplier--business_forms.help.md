@@ -1,7 +1,3 @@
-<thinking>
-To determine if this form is relevant and not duplicated, we need to check if the form is used for quotation requests related to construction projects. If it's for a new project, the user would typically be looking to get quotes from multiple suppliers for materials and services. This form seems to be designed for that purpose. We also need to ensure that the form is not already being used for a different type of request, such as general contact information or sales inquiries. Based on the fields provided, it appears that this form is specific to construction supplier quotations and does not overlap with other forms.
-</thinking>
-
 # Quotation Request Form (Construction Supplier) - Help Guide
 ## Purpose
 This form is used to request quotes from construction suppliers for materials and services related to a construction project.

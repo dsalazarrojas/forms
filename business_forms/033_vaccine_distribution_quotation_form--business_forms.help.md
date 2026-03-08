@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for vaccine distribution quotations. It's intended for suppliers to provide their name, email, and phone number, as well as for patients to input their name, age, birthday, and address. The form also collects information about the vaccine to be distributed, including the vaccine name, dosage, and price. Additionally, the form asks for the patient's gender and the date and time of the vaccine administration. This form will help in ensuring that all necessary information is captured for the vaccine distribution process.
-
-</thinking>
-
 # vaccine_distribution_quotation_form - Help Guide
 ## Purpose
 This form is used to collect information for vaccine distribution quotations from suppliers and patients.

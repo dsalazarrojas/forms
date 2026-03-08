@@ -1,7 +1,3 @@
-<thinking>
-The Transportation Reimbursement Form is used to document and manage employee transportation expenses, such as travel dates, origin and destination details, mode of travel, mileage, and reimbursement amounts, as well as approvals and approval dates. This form is designed to be completed by employees who have incurred transportation expenses related to work duties. Please ensure that you have not already submitted this form for the same travel period and purpose before filling it out.
-</thinking>
-
 # Transportation Reimbursement Form - Help Guide
 ## Purpose
 The Transportation Reimbursement Form is used to document and manage employee transportation expenses, such as travel dates, origin and destination details, mode of travel, mileage, and reimbursement amounts, as well as approvals and approval dates.

@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used for a business to review and maintain performance metrics for clients. The form might be used for various purposes, such as reviewing a client's progress, evaluating their performance, or assessing their maintenance needs. It's possible that this form is part of a larger process for maintaining client relationships and ensuring their needs are met. This guide will assume a basic understanding of the form's purpose.
-
-Before starting the form, make sure you have the necessary information ready. The form doesn't seem to have any duplication or overlap, so you can start completing it without concerns.
-
-</thinking>
-
 # field_maintenance_performance_review_client - Help Guide
 ## Purpose
 This form is used to review and maintain performance metrics for clients. It's likely used for assessing their progress, evaluating their performance, or evaluating their maintenance needs.

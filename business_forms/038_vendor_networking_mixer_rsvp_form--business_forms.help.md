@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Vendor Networking Mixer RSVP Form - Help Guide
 
 ## Purpose

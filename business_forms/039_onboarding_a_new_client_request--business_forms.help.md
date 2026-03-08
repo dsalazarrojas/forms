@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # onboarding_a_new_client_request - Help Guide
 ## Purpose
 The "onboarding_a_new_client_request" form is used to onboard a new client to the system. This form collects client information, onboarding details, and assignee details for new client requests.

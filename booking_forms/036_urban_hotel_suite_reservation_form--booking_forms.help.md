@@ -1,32 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive booking form for the urban hotel suite reservation system. It allows guests to provide their personal information, room preferences, and payment details. The form is intended to be completed by guests who wish to book a room at the hotel. The form fields are organized in a way that guides the guest through the necessary information required for the booking process. This form has been designed with the following fields:
-* Guest Name: This field is required to capture the name of the guest as per their ID card.
-* Email: This field is required to capture the email address of the guest.
-* Phone: This field is required to capture the phone number of the guest.
-* Arrival Date: This field is required to capture the date of arrival for the guest.
-* Departure Date: This field is required to capture the date of departure for the guest.
-* Room Type: This field is required to capture the type of room the guest prefers.
-* Arrival Time: This field is required to capture the time of arrival for the guest.
-* Payment Method: This field is required to capture the method of payment the guest wishes to use.
-* Payment Info: This field is optional to capture additional payment information.
-* Special Requests: This field is optional to capture any special requests from the guest.
-* Cancellation Policy: This field is optional to capture the cancellation policy of the guest.
-* Terms and Conditions: This field is optional to provide any additional terms and conditions.
-* Guest Info: This field is optional to capture any additional guest information.
-* Hotel Policy: This field is optional to provide any additional hotel policy information.
-* Booking Source: This field is optional to capture the source of the booking.
-* Guest Message: This field is optional to capture a message from the guest.
-* Booking Notes: This field is optional to capture any additional booking notes.
-* Payment Terms: This field is optional to provide any additional payment terms.
-* Cancellation Notes: This field is optional to capture any additional cancellation notes.
-* Special Requests (2): This field is optional to capture any further special requests.
-* Room Details: This field is optional to provide any additional room details.
-* Reservation Status: This field is optional to capture the status of the reservation.
-* Payment Status: This field is optional to capture the payment status.
-* Total Cost: This field is required to capture the total cost of the booking.
-
-</thinking>
-
 # urban_hotel_suite_reservation_form - Help Guide
 ## Purpose
 The urban hotel suite reservation form is designed to collect guest information and booking details for the hotel's suite reservation system.

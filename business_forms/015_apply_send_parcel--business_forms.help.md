@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for customers to submit information about sending a parcel, which includes details about the sender and recipient, parcel characteristics, shipping preferences, and payment methods. 
-
-The form is intended for both individual and business customers, and it's assumed that the user has a general understanding of the shipping process. 
-
-To ensure data accuracy and consistency, the form requires fields for sender and recipient information, parcel characteristics, and shipping preferences. Some fields are optional, allowing users to provide additional context or special instructions if needed. 
-
-Before submitting the form, the user should review the required fields carefully to avoid incomplete submissions. 
-
-</thinking>
-
 # Apply Send Parcel - Help Guide
 ## Purpose
 This form is designed to collect information about sending a parcel, allowing users to provide details about the sender and recipient, parcel characteristics, and shipping preferences.

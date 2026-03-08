@@ -1,9 +1,3 @@
-<thinking>
-
-The PBHA Reimbursement Form is designed for claimants to provide information about a claim they have filed. This form is used to gather details about the claimant's identity, claim status, and business information. Before proceeding, please ensure you are filling out this form for a valid reason and not duplicating a previously submitted claim. If you're unsure, consult the relevant documentation or contact the relevant authorities for clarification.
-
-</thinking>
-
 # PBHA Reimbursement Form - Help Guide
 ## Purpose
 The form is used to gather information about a claim that has been filed, ensuring that the claimant's details are accurately recorded and processed.

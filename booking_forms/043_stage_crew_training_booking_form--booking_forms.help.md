@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to book a training session for the stage crew. The purpose of this form is to gather information about the training date, time, location, staff name, contact details, training session, duration, topic, and status of the training. This form is likely to be used by production staff to schedule and manage training sessions for the stage crew.
-
-The form consists of several fields that require specific information, such as date, time, location, and contact details. Some fields are optional, but it's best to fill them out to ensure that the training is well-organized and that the necessary information is gathered.
-
-Before filling out this form, please make sure that you are booking a training session for the correct date and time, and that you have all the necessary information to fill out the form completely.
-
-</thinking>
-
 # Stage Crew Training Booking Form - Help Guide
 ## Purpose
 This form is used to book a training session for the stage crew. The purpose of this form is to gather information about the training date, time, location, staff name, contact details, training session, duration, topic, and status of the training.

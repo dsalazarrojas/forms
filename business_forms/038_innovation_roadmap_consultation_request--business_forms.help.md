@@ -1,7 +1,3 @@
-<thinking>
-We are trying to prevent duplicate requests and confirm that users understand the purpose and scope of this form to ensure they are in the right context for Innovation Roadmap Consultation Requests. We are also ensuring that all users understand the fields and their intended use to fill out the form correctly and accurately. This form is meant to gather relevant information from end users to facilitate a consultation meeting to discuss potential innovation projects.
-</thinking>
-
 # Innovation Roadmap Consultation Request - Help Guide
 ## Purpose
 The Innovation Roadmap Consultation Request form is designed to collect information from end users to facilitate a consultation meeting for potential innovation projects. This form will help us better understand your needs and preferences, allowing us to tailor our consultation to suit your requirements.

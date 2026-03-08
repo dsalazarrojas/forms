@@ -1,16 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will analyze the YAML structure provided. 
-
-The form "Business Termination Notice Letter Generator" appears to be designed for businesses to provide formal notice of termination to another party, such as a service provider or supplier. The form gathers necessary information about the sender and the recipient, details of the termination, and reasons for it. This is likely used in situations where businesses need to end agreements or contracts with other companies, partners, or suppliers. 
-
-The form is divided into two main parts: sender information and termination details. The sender fields include "Your Name or Title", "Company Name", "Address", "Contact Email", and "Phone Number". The termination details section includes fields for "Notice Date", "Recipient's Name", "Recipient's Company Name", "Address", "Type of Agreement Being Terminated", "Agreement Description", "Agreement Start Date", "Termination Effective Date", "Notice Period Provided", "Reason for Termination", "Reason Category", "Outstanding Obligations", "Final Payment Details", and "Authorized Signature". 
-
-The purpose of this form is to ensure that businesses can provide formal notice of termination in a clear and concise manner, making it easier to communicate with the other party and comply with any legal requirements. 
-
-I have checked that the fields are not duplicated and the form is comprehensive in its scope. 
-
-</thinking>
-
 # Business Termination Notice Letter Generator - Help Guide
 ## Purpose
 This form is for businesses to provide formal notice of termination to other parties such as service providers or suppliers. 

@@ -1,12 +1,3 @@
-<thinking>
-This guide will cover the Home Organizer Booking Form, which is a crucial tool for scheduling appointments and managing bookings for various types of events or meetings. Before we dive into the guide, let's clarify that this form is intended for both internal and external use. 
-
-The form is used to collect information about the booking category, appointment details (date and time), contact information, location, additional comments, service time slots, service provider, and other relevant data. The form is essential for organizing and managing appointments efficiently. 
-
-Please note that the form is a multi-page form, where each page represents a specific section of the booking information. The following guide will walk you through each page and field explanation to help you complete the form accurately and effectively.
-
-</thinking>
-
 # Home Organizer Booking Form - Help Guide
 
 ## Purpose

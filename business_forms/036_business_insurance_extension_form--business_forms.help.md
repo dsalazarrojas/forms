@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for business insurance extension requests. This form will help ensure that all necessary details are provided for the extension to be processed correctly. The purpose of this form is to gather information about the policy extension, including the type of extension, reason for the request, and any modifications or changes to be made. This information will help the insurance company understand the request and process the extension efficiently. Please ensure that you provide all required information in this form to avoid delays or rejections. Also, note that the fields marked as "required" are mandatory and must be filled out. This form is for business insurance extensions only and not for policy cancellations or other types of requests.
-
-</thinking>
-
 # Business Insurance Extension Form - Help Guide
 ## Purpose
 This form is used to request an extension to an existing business insurance policy. It is intended for use by business owners or their representatives to provide necessary information for the extension process.

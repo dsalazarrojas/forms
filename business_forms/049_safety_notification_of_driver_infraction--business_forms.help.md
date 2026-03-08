@@ -1,10 +1,3 @@
-<thinking>
-This form is used to notify the authorities of a driver infraction, which is a breach of traffic rules or regulations by a driver. Before proceeding, please ensure that you have a legitimate reason for submitting this form and that it is not a duplicate report. This form is meant to facilitate reporting of incidents such as traffic accidents, reckless driving, or other driver-related offenses. 
-
-Please review the fields carefully to ensure that you are providing accurate and complete information.
-
-</thinking>
-
 # Safety Notification Of Driver Infraction - Help Guide
 ## Purpose
 This form is used to report safety concerns regarding driver infractions, including traffic accidents, reckless driving, and other driver-related offenses.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # it_operations_review_checklist - Help Guide
 ## Purpose
 This form, "it_operations_review_checklist", is used for reviewing and evaluating various IT operations aspects. It ensures that all necessary fields are completed accurately and consistently, which helps in maintaining the quality and reliability of IT operations. This form is a crucial tool for IT teams to assess their performance and identify areas for improvement.

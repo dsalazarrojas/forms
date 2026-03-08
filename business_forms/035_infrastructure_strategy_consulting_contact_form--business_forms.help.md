@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and project details from clients or potential clients. The form will help the consulting team to understand the client's needs and provide them with the necessary consulting services. It will also help in assigning the right tools and resources for the project.
-</thinking>
-
 # Infrastructure Strategy Consulting Contact Form - Help Guide
 
 ## Purpose

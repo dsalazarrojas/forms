@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # secure_your_strategy_consultation - Help Guide
 ## Purpose
 This form is designed to collect information from consultants and leads to facilitate secure strategy consultations. It allows consultants to provide their details and leads to schedule and confirm appointments.

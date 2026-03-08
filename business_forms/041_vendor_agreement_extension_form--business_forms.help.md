@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from vendors regarding the extension of their agreement. The purpose of this form is to collect data on the vendor's request for agreement extension, including the specific date of the extension and the contract number. This form is likely used for business or organizational purposes, such as tracking or maintaining relationships with vendors. It's essential to ensure this form is filled out correctly, as the information collected will be used to make decisions or take actions related to the vendor's agreement.
-</thinking>
-
 # Vendor Agreement Extension Form - Help Guide
 ## Purpose
 The Vendor Agreement Extension Form is designed to collect information from vendors regarding the extension of their agreement. This form is used to track and manage vendor relationships.

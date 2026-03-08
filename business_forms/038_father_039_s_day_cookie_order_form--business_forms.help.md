@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help people order cookies for their fathers on Father's Day. It's meant for people to provide their name, message, preferred cookie size and shape, any specific message to be printed on the cookie, a brief order summary, the total cost of the order, their contact email, and the date and time they would like to receive their order. The form also requires the user to confirm their order before submitting it.
-</thinking>
-
 # Fathers Day Cookie Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for an order of cookies for Father's Day. It's used to gather details such as the orderer's name, order message, cookie size and shape, order total, contact email, and delivery date and time.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers upon their arrival at the business. The purpose of this form is to understand the reason for their visit, provide any necessary contact information, and gather feedback on their experience. It is not necessary to complete the form if the customer has not had a prior interaction with the business, such as a reservation or appointment. It is possible that the form will be pre-filled with default values.
-</thinking>
-
 # Customer Arrival Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers upon their arrival at the business. It is used to understand the reason for their visit, provide any necessary contact information, and gather feedback on their experience.

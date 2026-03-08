@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # supplier_quality_assessment_form - Help Guide
 ## Purpose
 This form is used to assess the performance and quality of a supplier. It helps to identify areas of improvement and evaluate the overall satisfaction of a supplier. The form is designed to be completed by users to provide an objective evaluation of the supplier's quality and performance.

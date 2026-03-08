@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a booking at a modeling agency. It is used to collect details about the client, the agency, and the services required for the booking. The form appears to be designed for a specific industry, likely within the entertainment or fashion sector.
-
-The form has been generated based on public survey topic metadata, and it is not affiliated with or derived from any form platform. It has been released under CC BY 4.0, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-
-Upon reviewing the form, it seems that there are some potential issues with redundancy, such as two fields for services (id 6 and id 12). However, without further information about the business logic behind the form, it is difficult to determine the correct course of action.
-
-For the sake of this help guide, we will assume that id 12 is a duplicate field and ignore it for the purpose of this explanation.
-
-</thinking>
-
 # Modeling Agency Appointment Form - Help Guide
 
 ## Purpose

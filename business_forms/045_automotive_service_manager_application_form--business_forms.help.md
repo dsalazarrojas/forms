@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from potential candidates for an Automotive Service Manager position. It will guide the applicant through a series of questions to assess their personal and professional qualifications. This form should only be completed by individuals who are interested in applying for the Automotive Service Manager position. Please ensure that the information provided is accurate and complete to the best of your ability.
-
-To ensure that only relevant and qualified candidates submit the form, a review of the form will be conducted to verify that all required fields are completed. This will help filter out incomplete or duplicate submissions.
-
-Please note that this form is for the Automotive Service Manager position and the information provided will be used to assess the candidate's qualifications for this specific role. If you are unsure about any of the questions or fields, please ask for clarification before proceeding.
-
-</thinking>
-
 # Automotive Service Manager Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential candidates for an Automotive Service Manager position.

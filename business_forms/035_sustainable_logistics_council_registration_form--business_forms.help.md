@@ -1,7 +1,3 @@
-<thinking>
-A form to register members of the Sustainable Logistics Council, a community of professionals focused on the sustainability and efficiency of logistics systems. This form is meant to help us understand our audience better and tailor our resources accordingly. Before filling out this form, please ensure that you are a member of our community. If you're unsure or have already registered, you can contact our support team for verification.
-</thinking>
-
 # Sustainable Logistics Council Registration Form - Help Guide
 ## Purpose
 The Sustainable Logistics Council Registration Form is designed to gather information about our members to provide them with relevant resources and support.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a free project proposal for a business project. It captures essential details about the project, including its status, stakeholder information, and any additional notes. This form helps to streamline the proposal process by providing a structured format for project managers to collect and present information. Before completing this form, ensure that it is not already being used for another purpose, such as a regular project update or project status report.
-</thinking>
-
 # free_project_proposal - Help Guide
 ## Purpose
 The free_project_proposal form is used to collect and present information for a business project proposal. It helps project managers create a structured format for gathering project details and stakeholder information.

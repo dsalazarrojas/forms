@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and project requirements from businesses interested in business intelligence solutions. It's intended to be used by companies looking to implement or upgrade their business intelligence solutions. This form is a public adaptation of a form created using AI and is not affiliated with any specific form platform. Its purpose is to gather relevant information from potential clients, ensuring that our team can effectively assist and provide solutions tailored to their specific needs. Before filling out the form, please ensure that you're not duplicating an existing contact or inquiry. This form will be used for internal purposes only, and your contact information will be kept confidential.
-</thinking>
-
 # Business Intelligence Solutions Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and project requirements from businesses interested in business intelligence solutions.

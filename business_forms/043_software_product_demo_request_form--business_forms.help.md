@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to request a software product demo from our team. The form is intended for business professionals and product decision-makers who are interested in learning more about our software product. It is designed to gather essential information about the user, their company, and the specific demo requirements. By completing this form, the user will be able to schedule a demo at a time that suits them best, with a clear understanding of what they can expect from the demo.
-
-To determine the relevance and prevent duplication, our system will check for any existing requests from the same company and product version. If a request from the same company and product version already exists, you may not be able to submit the form. This ensures that we efficiently manage demo requests and provide the best experience for all our customers.
-
-</thinking>
-
 # Software Product Demo Request Form - Help Guide
 
 ## Purpose

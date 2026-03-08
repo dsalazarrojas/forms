@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sprinkler System Inspection Form - Help Guide
 ## Purpose
 This form is designed to help inspectors evaluate the status and condition of a sprinkler system. It's used to gather information about the system's performance, functionality, and maintenance history. This form will help you identify any issues and provide recommendations for improvement.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a hose specification survey. It is likely used for internal business operations, such as quality assurance, sales, or engineering purposes. The form collects data about the specifications of a hose, including size, color, material, and other relevant details.
-
-To avoid duplication of effort, please ensure that you only fill out this form if you are authorized to do so and if the information is not already available in our database.
-
-Please note that this form is not intended for general public use. It is for internal business use only.
-
-</thinking>
-
 # hose_specification_survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the specifications of a hose for internal business operations.

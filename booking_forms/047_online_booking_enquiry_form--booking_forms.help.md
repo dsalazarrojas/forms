@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Online Booking Enquiry Form - Help Guide
 ## Purpose
 This form is designed to collect visitor information for booking purposes. It is meant to be used for making an online booking enquiry, and the submitted information will be used to facilitate the booking process.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to conduct a software licensing audit to ensure that a company's software usage is compliant with regulatory requirements and company policies. This form is designed to gather information about the software licenses used by the company, including any agreements or notes associated with these licenses. The audit is intended to identify potential compliance issues and facilitate corrective actions. 
-
-Before completing this form, ensure that the information provided is accurate and up-to-date, as it will be used to assess the company's compliance status. This form should only be used for software licensing purposes and not for any other type of audit or assessment.
-
-Please note that this form is part of a larger process and may be subject to changes or updates. If you have any questions or concerns, please reach out to your designated contact person.
-
-</thinking>
-
 # software_licensing_audit_form - Help Guide
 ## Purpose
 The software_licensing_audit_form is designed to collect information about a company's software usage, ensuring compliance with regulatory requirements and company policies.

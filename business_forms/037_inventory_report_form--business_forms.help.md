@@ -1,10 +1,3 @@
-<thinking>
-This form is for generating an inventory report, which is a document that provides information about the current state of an organization's inventory. The purpose of this form is to gather data from users about the inventory levels, stock status, and other relevant details. 
-
-Before filling out this form, ensure that you are familiar with the inventory reporting requirements and have the necessary data ready. This form should only be filled out once for each reporting period, to prevent duplication of data.
-
-The form is divided into 10 fields, each asking for specific information. To complete the form accurately and efficiently, take the following steps:
-</thinking>
 # Inventory Report Form - Help Guide
 ## Purpose
 The Inventory Report Form is a document used to gather data about the current state of an organization's inventory. It helps in generating reports that provide insights into stock levels, product status, and other relevant details.

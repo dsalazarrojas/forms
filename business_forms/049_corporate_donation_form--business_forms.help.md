@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # corporate_donation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from donors for corporate donations. This form will help the organization understand the donor's details, including their contact information, donation amount, and purpose of the donation. This form is not intended for personal donations, please use a different form for personal donations.

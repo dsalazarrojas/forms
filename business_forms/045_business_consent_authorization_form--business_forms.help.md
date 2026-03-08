@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for collecting the business contact information and consent preferences from an individual or a business entity. It is likely part of the onboarding process or an update to existing contact information. The form aims to gather contact preferences, including email, phone, and postal mail, which could be used for business purposes such as service updates, marketing communications, and product announcements. The form's design suggests it is used for businesses or entities with formal contact information and preferences.
-
-To confirm, it appears this form will be used for businesses to manage their contact information with customers or partners, ensuring that the individual or entity is aware and consents to the contact methods and purposes. The form's structure and fields also suggest it will be used for compliance or regulatory purposes.
-
-Before proceeding, ensure that the form's purpose and design align with your organization's policies and procedures, and that it is not duplicating any other existing forms or processes.
-
-</thinking>
-
 # Business Consent Authorization Form - Help Guide
 ## Purpose
 This form is used to collect business contact information and consent preferences from an individual or a business entity. It is part of the onboarding process or updating existing contact information.

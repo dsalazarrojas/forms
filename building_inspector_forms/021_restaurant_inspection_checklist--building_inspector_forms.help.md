@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for restaurant inspections, likely for health and safety purposes, and is used by health inspectors or regulatory bodies to evaluate the compliance of a restaurant with relevant standards. It's designed to be a comprehensive guide to identify potential issues and ensure the restaurant is running in accordance with local regulations and guidelines. There are 5 pages of questions and fields, with each page focusing on a different aspect of the inspection. This form is not designed for public use, as it's meant for internal use within an organization or regulatory body.
-</thinking>
-
 # Restaurant Inspection Checklist - Help Guide
 ## Purpose
 The Restaurant Inspection Checklist is a comprehensive guide for health and safety inspections of restaurants. It helps health inspectors and regulatory bodies assess the compliance of a restaurant with local regulations and guidelines.

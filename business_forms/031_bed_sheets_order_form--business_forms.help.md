@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather customer information for bed sheet orders. It includes fields for customer and shipping details, bed sheet selection, and payment information. The form is intended for customers to provide their personal and payment details, select their preferred bed sheet size, material, thread count, color, and quantity, and choose a payment method. The form also allows customers to provide special delivery instructions and opt for gift wrapping. This form is a crucial step in the customer ordering process, ensuring accurate and timely delivery of bed sheets. Ensure that the form is filled out accurately and completely to avoid any delays or issues with order fulfillment.
-
-</thinking>
-
 # Bed Sheets Order Form - Help Guide
 ## Purpose
 The Bed Sheets Order Form is a customer-facing form designed to collect information for ordering bed sheets. It is intended for customers to provide their personal and payment details, select their preferred bed sheet options, and choose a payment method.

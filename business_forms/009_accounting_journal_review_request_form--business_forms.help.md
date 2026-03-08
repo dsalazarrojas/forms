@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for internal accounting purposes, such as requesting an accounting journal review for discrepancies or errors in the accounting records. The form is likely used by accounting staff to identify issues with journal entries, such as unbalanced accounts, incorrect postings, or missing supporting documentation. The purpose of this form is to streamline the review process and ensure that the reviewer is informed and prepared to address any issues before proceeding with the next steps in the accounting process. This form is probably not used for external purposes, such as customer-facing transactions or public-facing documents.
-</thinking>
-
 # Accounting Journal Review Request Form - Help Guide
 ## Purpose
 This form is used to request a review of an accounting journal entry for discrepancies or errors. It helps the reviewer to identify and address any issues before proceeding with the next steps in the accounting process.

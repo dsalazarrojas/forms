@@ -1,8 +1,3 @@
-<thinking>
-To confirm, this form is designed for requesting art work from internal stakeholders. Please review the form's purpose and fields to ensure you understand the process before proceeding. This form is meant to be a straightforward way to submit an art work request, and the fields should provide sufficient information for the requester and the artist to communicate effectively. Please let me know if you have any questions or need clarification before continuing.
-
-</thinking>
-
 # Art Work Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for art work requests from internal stakeholders. It is meant to be completed by the requester to provide essential details about their desired project.

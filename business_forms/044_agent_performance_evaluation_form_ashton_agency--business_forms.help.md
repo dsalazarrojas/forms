@@ -1,7 +1,3 @@
-<thinking>
-We must first understand the purpose of this form: it's designed to evaluate the performance of agents at Ashton Agency. This form is used by the management to assess an agent's skills, knowledge, and achievements. It's a crucial tool for identifying areas where agents need improvement and providing guidance for growth. Before we dive into the details of the form, let's check if this is not a duplication or if we already have similar forms. Given the unique set of questions and fields, it seems this form is tailored to the specific needs of Ashton Agency. Now, let's move on to creating a clear and concise guide for end-users.
-</thinking>
-
 # Agent Performance Evaluation Form Ashton Agency - Help Guide
 ## Purpose
 The Agent Performance Evaluation Form is designed to help managers at Ashton Agency assess the skills, knowledge, and achievements of their agents. It's essential to ensure agents receive constructive feedback and guidance for growth and improvement.

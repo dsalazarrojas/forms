@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather information from small business owners for the purpose of considering their loan applications. The form will be used to assess the creditworthiness of the business and provide a basis for making a loan decision. The form is designed to be completed by the business owner or their representative. 
-
-Please note that this form is for internal use only and the information collected will be reviewed by loan officers. The purpose of this form is to streamline the loan application process and ensure that all necessary information is gathered in a structured and standardized way.
-
-This form appears to be a comprehensive loan application form for small businesses, collecting various types of information about the business and its owner. To ensure that this form is filled out correctly, it is essential to follow the instructions carefully and answer all questions truthfully.
-
-Before we proceed, please ensure that you understand the purpose and requirements of the form. If you have any doubts or concerns, please do not hesitate to reach out to our loan officers for assistance. 
-
-</thinking>
-
 # Small Business Loan Intake Form - Help Guide
 ## Purpose
 The Small Business Loan Intake Form is designed to collect necessary information from small business owners to assess their creditworthiness and make informed loan decisions.

@@ -1,5 +1,3 @@
-<thinking>Why is this form needed? This form assesses an organization's strategic strengths and challenges to identify areas to focus on. This is a tool for internal use, allowing users to evaluate their strategic priorities and strengths. By providing this information, users can gain insight into their organization's strategic position and inform decisions. It's likely to be used by leadership or department heads. Is it worth filling out if you're not in one of these roles? No, but it's still a quick and helpful exercise to reflect on your department's position.</thinking>
-
 # Strategic Capabilities Assessment - Help Guide
 ## Purpose
 This form is designed to help users evaluate their organization's strategic strengths and challenges. It's used to inform strategic decisions and identify areas to focus on.

@@ -1,18 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from agents of the Great Writers / Rareon.GW Partners organization. The form is used to gather essential details about each agent, including their name, contact information, and professional experience. This data is crucial for organizational purposes, such as maintaining an updated list of registered agents and ensuring compliance with regulatory requirements.
-To complete this form, follow the steps below:
-
-1. Enter your first name in the "first name" field.
-2. Enter your last name in the "last name" field.
-3. Provide your email address in the "email" field. Ensure it is a valid address that can be used for official communication.
-4. Enter your phone number in the "phone" field.
-5. Enter your date of birth in the "date of birth" field in the standard "YYYY-MM-DD" format.
-6. Indicate your agent type by selecting "Yes" or "No" in the "agent type" field.
-7. If applicable, select the years of experience you have as an agent in the "agent since" field.
-8. If you wish to add a note about yourself, you can do so in the "note" field, which is not required.
-
-</thinking>
-
 # Great_Writers / Rareon.GW Partners / Agents Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from agents of the Great Writers / Rareon.GW Partners organization.

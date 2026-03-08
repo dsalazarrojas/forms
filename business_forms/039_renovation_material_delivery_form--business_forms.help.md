@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Renovation Material Delivery Form - Help Guide
 
 ## Purpose

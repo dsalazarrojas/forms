@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for commissioning a Photovoltaic (PV) array and battery system. It's used to document the details of the commissioning process, including system specifications, commissioning dates and locations, and commissioning personnel. The form is used to provide a record of the commissioning process for future reference and compliance with regulatory requirements.
-
-To ensure that the form is relevant and accurate, please confirm that you are completing it for a PV array and battery commissioning process. If this form is not relevant to your activity, please do not proceed.
-
-Before starting, please review the form carefully and ensure that all required fields are understood and completed accurately. If you're unsure about any field or have questions, please contact your supervisor or the relevant authorities for clarification.
-
-</thinking>
-
 # pv_array_and_battery_commissioning_form - Help Guide
 ## Purpose
 This form is used to document the commissioning of a Photovoltaic (PV) array and battery system. It captures key details of the commissioning process, including system specifications, commissioning dates and locations, and commissioning personnel.

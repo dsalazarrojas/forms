@@ -1,10 +1,3 @@
-<thinking>
-This guide will help users understand the purpose of the Green Building Certification Inspection Form and guide them through each step of completing it.
-
-The form is designed to collect information about a building's characteristics, sustainability features, and energy efficiency status. It's intended for building inspectors to assess and verify whether a building meets the required standards for green building certification. The goal is to ensure that all necessary fields are completed accurately to facilitate the certification process.
-
-</thinking>
-
 # Green Building Certification Inspection Form - Help Guide
 ## Purpose
 The Green Building Certification Inspection Form is used by building inspectors to collect and verify information about a building's characteristics, sustainability features, and energy efficiency status.

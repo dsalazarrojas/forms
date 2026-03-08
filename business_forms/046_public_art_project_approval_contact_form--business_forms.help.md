@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for contacting public art project approval. It's meant for artists and others who want to submit their public art projects for evaluation and approval. This form should be used when you have a new public art project to share and want to get approval from the relevant bodies. Please check the form's fields carefully and fill them out completely.
-</thinking>
-
 # public_art_project_approval_contact_form - Help Guide
 ## Purpose
 This form is for contacting public art project approval. It's meant for artists and others who want to submit their public art projects for evaluation and approval.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting feedback on mergers and acquisitions from various teams within a company. The feedback could be used to assess the effectiveness of the integration process, identify areas for improvement, and provide insights for future M&A endeavors.
-</thinking>
-
 # Mergers And Acquisitions Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from different teams involved in a merger and acquisition (M&A) process. The feedback will help the organization understand the effectiveness of the integration process and identify areas for improvement.

@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to allow users to upload operating statements, provide reporting information, and submit them for processing. Before proceeding, please ensure you have all necessary documents and information ready. This form is designed to guide you through the submission process. Please fill out the form carefully and accurately, as the information provided will be used for official purposes. If you have already submitted an operating statement for the same reporting period, please do not re-submit. Duplicate submissions will be rejected...</thinking>
-
 # operating_statement_submission - Help Guide
 ## Purpose
 The operating statement submission form is designed to guide you through the process of uploading operating statements and submitting them for processing. This includes providing reporting information, uploading required documents, and selecting relevant categories.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers regarding their printing service needs. This form is used to gather details such as the business name, requested printing services, contact information, and specific quotation requirements. This form is likely to be used in a business-to-business (B2B) context, where a printing service provider is seeking to quote a price for a client's printing requirements. This form should only be filled out once per requested quotation, to avoid duplication of effort.
-
-Before starting, ensure you have all necessary information ready to complete the form accurately. 
-
-</thinking>
-
 # Printing Service Quotation Form - Help Guide
 ## Purpose
 This form is used to collect information for printing service quotations.

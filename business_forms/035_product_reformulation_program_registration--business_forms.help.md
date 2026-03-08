@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Reformulation Program Registration - Help Guide
 
 ## Purpose

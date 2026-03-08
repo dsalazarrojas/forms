@@ -1,7 +1,3 @@
-<thinking>
-This form is for International Business Professionals to sign up as members of a professional association. It gathers information about the member's new member information, contact details, membership status, company information, and additional details. This form ensures that the member has a clear and consistent way of providing their information, which is essential for communication and collaboration within the association. To avoid duplication of effort, please fill out the form completely and accurately. If you are unsure about any field or section, please reach out to the association's administrators for clarification.
-</thinking>
-
 # International Business Professionals Membership Form - Help Guide
 ## Purpose
 This form is designed to collect information from International Business Professionals who want to become members of the association. The purpose of this form is to gather all necessary details for membership registration.

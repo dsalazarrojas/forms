@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to allow users to book a museum auditorium for events such as meetings, presentations, and other exhibitions. This form captures essential details about the event, including the schedule, dates, organizer's information, and contact details. The purpose of this form is to ensure that the museum's auditorium is used appropriately and that the necessary information is gathered for the event organizers and museum staff. 
-
-This form is designed to be simple and straightforward, with most fields being optional to accommodate various types of events. However, some fields, such as contact details, are required to ensure that the museum can get in touch with the event organizer. The form is intended for both internal and external use, meaning that both museum staff and external event organizers can fill out this form. 
-
-Before filling out this form, please take a moment to review the form to ensure that you provide all the necessary information. 
-
-</thinking>
-
 # Museum Auditorium Rental Application Form - Help Guide
 ## Purpose
 This form is used for booking the museum's auditorium for events such as meetings, presentations, and exhibitions. It is designed to collect necessary information about the event, including schedule, dates, organizer's information, and contact details.

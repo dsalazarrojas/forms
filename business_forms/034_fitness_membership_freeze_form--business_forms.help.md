@@ -1,7 +1,3 @@
-<thinking>
-This form is used to freeze a fitness membership. Freezing a membership typically means that the member will not be able to use their membership benefits for a certain period of time. This form is usually used when a member is no longer active or if they are on a temporary hold due to some issue or problem. Freezing a membership can be done on a one-time or recurring basis. The exact reasons for freezing a membership may vary and are dependent on your business needs and policies. It's recommended that you review your business policies before freezing any membership.
-</thinking>
-
 # Fitness Membership Freeze Form - Help Guide
 ## Purpose
 The Fitness Membership Freeze Form is used to freeze a fitness membership for a member of your gym or fitness center.

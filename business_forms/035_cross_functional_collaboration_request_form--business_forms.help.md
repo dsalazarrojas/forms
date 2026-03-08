@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for cross-functional collaboration requests within an organization. It allows employees to submit requests for projects that involve collaboration with teams from different departments. The form aims to gather necessary information for project planning and execution. It is crucial to provide accurate and complete information to ensure that requests are thoroughly reviewed and approved. Before filling out this form, please make sure you are submitting a new, unique request. Duplicates may be deleted without being reviewed.
-</thinking>
-
 # cross_functional_collaboration_request_form - Help Guide
 ## Purpose
 The cross-functional collaboration request form is a template for submitting projects that involve collaboration between teams from different departments. It provides a structured way to gather essential information for project planning and execution.

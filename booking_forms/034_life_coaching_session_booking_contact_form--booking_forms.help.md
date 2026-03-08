@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information from users who are interested in booking a life coaching session. The goal is to gather relevant details such as name, email, phone number, date and time, preferred coaching type, and any additional booking requests. This form will be used to create a new booking in the system, which will then be assigned to a coach for further processing.
-</thinking>
-
 # life Coaching Session Booking Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from users who are interested in booking a life coaching session. Please fill out the form to provide us with your details so we can assist you with your booking.

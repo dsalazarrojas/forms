@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to facilitate changes in the business information of a brokerage firm, including changes to its address, contact information, and other relevant details. It's essential to ensure that the form is completed accurately and thoroughly to avoid any potential issues or delays. Before filling out the form, please verify that the necessary fields are completed and that the information is up-to-date. If you're unsure about any of the fields, please refer to the relevant documentation or contact the relevant authorities for guidance.
-
-</thinking>
-
 # Broker Dealer Change Form - Help Guide
 ## Purpose
 The Broker Dealer Change Form is designed to help brokerage firms update their business information, including address, contact details, and other relevant changes. This form is used to notify regulatory bodies and ensure that the firm's information is up-to-date and accurate.

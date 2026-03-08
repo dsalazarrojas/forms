@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll briefly analyze the form purpose and check for duplication of fields. The form, "sports_trading_card_royalty_tracking_checklist", is designed for tracking royalty payments related to sports trading cards. The form has several fields that need to be completed for accurate tracking. There is a slight duplication in fields "sports_trading_card_royalty_tracking_checklist_category" (id: 2) and "sports_trading_card_royalty_tracking_checklist_category" (id: 6), but they are actually asking for different aspects - id: 2 is asking for a single category, while id: 6 is asking for multiple categories. I will address this duplication in the Field-by-Field Explanation section of the help guide.</thinking>
-
 # sports_trading_card_royalty_tracking_checklist - Help Guide
 ## Purpose
 The "sports_trading_card_royalty_tracking_checklist" form is a tool for tracking royalty payments related to sports trading cards. It helps users to monitor and report progress, category, description, royalty payment status, and other related information. This form is essential for ensuring accurate and timely royalty payments.

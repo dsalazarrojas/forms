@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inter_office_collaboration_authorization_form - Help Guide
 
 ## Purpose

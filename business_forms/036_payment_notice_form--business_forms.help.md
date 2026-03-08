@@ -1,8 +1,3 @@
-<thinking>
-This help guide is to be used by end-users to understand the purpose and process of completing the Payment Notice Form. It is crucial to fill in the form correctly to ensure that the notice is accurate and helpful in communicating with tenants.
-The form is used to communicate payment notices to tenants. To complete this form, follow the steps below.
-</thinking>
-
 # Payment Notice Form - Help Guide
 
 ## Purpose

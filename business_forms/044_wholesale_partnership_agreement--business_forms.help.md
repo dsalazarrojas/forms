@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information for a wholesale partnership agreement between a business and its partner. This form will be used to record the terms of the partnership, including the partner's name, business details, payment terms, and other relevant information. This information will be used to facilitate communication and collaboration between the business and its partner. It is recommended to fill out this form thoroughly and accurately to ensure a smooth partnership.
-
-</thinking>
-
 # Wholesale Partnership Agreement - Help Guide
 ## Purpose
 This form is intended to gather information for a wholesale partnership agreement between a business and its partner.

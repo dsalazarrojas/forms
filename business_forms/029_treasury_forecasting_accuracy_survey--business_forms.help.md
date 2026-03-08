@@ -1,7 +1,3 @@
-<thinking>
-This form aims to gather information about the accuracy of treasury forecasting methods used by business users. The purpose is to understand how accurate the current forecasting is, what methods are being used, and what data sources are utilized for forecasting. This information will help us identify potential areas for improvement in our forecasting processes and enable data-driven decisions.
-</thinking>
-
 # Treasury Forecasting Accuracy Survey - Help Guide
 ## Purpose
 This form is a short and simple survey designed to gauge the accuracy of your company's current forecasting. We would like to know more about the methods and data sources you use for forecasting, so we can better understand your needs and provide more accurate forecasts.

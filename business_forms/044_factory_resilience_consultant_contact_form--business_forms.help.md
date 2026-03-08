@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect contact information from individuals who want to reach out to a resilience consultant for help. The purpose of this form is for internal use, and it is not intended for external sharing or public access. This form should only be completed by individuals seeking assistance with factory resilience, and the submitted information will be used to facilitate internal communication and resource allocation.
-To prevent duplication, this form should not be submitted multiple times by the same individual or organization. If a duplicate submission is detected, it will be removed.
-</thinking>
-
 # Factory Resilience Consultant Contact Form - Help Guide
 ## Purpose
 This form is for individuals seeking assistance with factory resilience. It collects contact information and other relevant details to facilitate internal communication and resource allocation.

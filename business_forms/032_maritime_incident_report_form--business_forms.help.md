@@ -1,18 +1,3 @@
-<thinking>
-The form is designed to collect information about maritime incidents that have occurred on a vessel or in a port. This form is intended for use by individuals who have witnessed or been involved in the incident, as well as by those responsible for investigating and resolving the incident. 
-
-The form will help ensure that accurate and consistent data is collected, which will aid in the efficient and effective handling of the incident. 
-
-Please ensure that you have read and understood the form purpose before completing it. If you have already submitted an incident report, please do not resubmit a new report unless the incident status has changed.
-
-Before filling out this form, please make sure that the incident has not been previously reported. 
-
-This form will take approximately 10-15 minutes to complete and can be submitted multiple times, as needed. 
-
-If you have any questions or concerns about this form, please contact your supervisor or the incident investigation team.
-
-</thinking>
-
 # Maritime Incident Report Form - Help Guide
 ## Purpose
 The Maritime Incident Report Form is designed to collect information about maritime incidents that occur on vessels or in ports. This form is intended for use by anyone involved in or witnessing an incident, as well as those responsible for investigating and resolving the incident.

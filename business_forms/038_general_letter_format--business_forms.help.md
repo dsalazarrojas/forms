@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to provide a general letter format for users to fill out, which can be used for various business purposes such as sending a formal letter, report, or proposal. This form is designed to be flexible and adaptable to different business needs. Before filling out this form, please ensure that you have a clear understanding of its purpose and the information that needs to be conveyed. 
-
-This form is likely to be used in various business settings, such as offices, companies, or institutions, and the information provided will be used to create a professional-looking letter. 
-
-Please review the form carefully and ensure that you have filled out all the required and optional fields accurately. 
-</thinking>
-
 # General Letter Format - Help Guide
 ## Purpose
 The General Letter Format is a template for creating formal letters, reports, or proposals that can be used for various business purposes. This guide will walk you through the process of filling out the form and explain each field in detail.

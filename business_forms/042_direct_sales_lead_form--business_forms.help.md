@@ -1,5 +1,3 @@
-<thinking>...The Direct Sales Lead Form is used to capture relevant contact information from customers or potential customers. To be eligible to complete this form, you must have permission from the contact owner or have a legitimate reason for filling out this form. Please ensure that you're not duplicating an existing contact in our system...</thinking>
-
 # Direct Sales Lead Form - Help Guide
 ## Purpose
 The Direct Sales Lead Form is used to collect information from customers or potential customers for sales purposes.

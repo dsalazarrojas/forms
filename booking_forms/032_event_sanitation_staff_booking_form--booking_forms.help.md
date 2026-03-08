@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for booking events that require sanitation staff to be present. The form is used to gather necessary information from staff members to ensure they have the correct resources and equipment for the event. This form should only be used for events that require actual staff presence, not for general inquiries or other types of bookings. Please ensure that you are using the correct form for your intended purpose.
-</thinking>
-
 # event_sanitation_staff_booking_form - Help Guide
 ## Purpose
 The event_sanitation_staff_booking_form is a form used to book events that require the presence of sanitation staff. This form ensures that staff have all necessary resources and equipment for the event.

@@ -1,9 +1,3 @@
-<thinking>
-This guide will be based on the provided YAML form structure, which includes a series of fields for collecting information and making a review request. The form seems to be designed for reviewing policies within a nonprofit organization. The purpose of the form is to collect relevant data from the end-user, which will be used for internal purposes.
-The form includes fields for uploading policy documents, selecting review types, indicating urgency levels, and providing contact information. There is also a field for adding comments and a field for tracking the review status of the policy.
-To avoid duplication, it is recommended to ensure that the same policy is not being reviewed simultaneously by multiple users.
-</thinking>
-
 # Nonprofit Policy Review Request Form - Help Guide
 ## Purpose
 The Nonprofit Policy Review Request Form is designed for reviewing policies within a nonprofit organization.

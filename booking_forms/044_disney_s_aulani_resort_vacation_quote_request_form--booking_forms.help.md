@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users to request a quote for a vacation package at Disney's Aulani Resort. The form is meant to gather details about the user's travel plans, including their travel dates, number of adults and children, type of travel, arrival information, contact person, email, and phone number. The goal of this form is to provide a quote that suits the user's needs, which is why it's essential to fill out all required fields accurately. Before filling out the form, please ensure that you have the necessary information ready and that you're not duplicating a previously submitted quote request.
-</thinking>
-
 # disney_s_aulani_resort_vacation_quote_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from users to request a quote for a vacation package at Disney's Aulani Resort. The goal of this form is to gather details about the user's travel plans and provide an accurate quote.

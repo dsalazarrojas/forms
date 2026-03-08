@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Club Visit Feedback Form - Help Guide
 ## Purpose
 The Club Visit Feedback Form is a tool used to collect feedback from visitors about their experience at our club. This form helps us understand your thoughts, opinions, and suggestions on various aspects of your visit, which we will use to make improvements and provide better services for our members and visitors.

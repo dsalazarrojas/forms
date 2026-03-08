@@ -1,7 +1,3 @@
-<thinking>
-We need to determine if this form is for booking sessions with a photographer. If so, it's likely to be a standard form to be completed by clients before a session. The fields seem to be mostly about scheduling and contract information, which suggests it's a form for photographers to manage their sessions. However, without further context, it's hard to say for certain. It's also possible this form is for internal use or has a different purpose. I'll assume it's a booking form for clients and proceed with creating the help guide.
-</thinking>
-
 # Photography Session Contract Form - Help Guide
 
 ## Purpose

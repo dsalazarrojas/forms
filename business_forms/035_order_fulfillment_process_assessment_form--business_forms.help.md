@@ -1,11 +1,3 @@
-<thinking>
-
-This is likely an assessment form used to evaluate and improve the order fulfillment process within a business. The form appears to be designed to gather information about the current order fulfillment process, identify areas for improvement, and gather customer feedback.
-
-Before we proceed with the help guide, let's take a look at the form structure. The form consists of several sections with different types of questions, including text fields, select_one, and select_multiple options.
-
-</thinking>
-
 # Order Fulfillment Process Assessment Form - Help Guide
 ## Purpose
 This form is designed to help businesses assess and improve their order fulfillment process. It will guide you through a series of questions to gather information about your current process, identify areas for improvement, and gather customer feedback.

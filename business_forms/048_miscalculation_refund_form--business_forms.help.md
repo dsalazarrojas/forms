@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Miscalculation Refund Form - Help Guide
 ## Purpose
 This form is used to request a refund for a miscalculation on an invoice or payment. Please fill out this form to provide the necessary information to initiate the refund process.

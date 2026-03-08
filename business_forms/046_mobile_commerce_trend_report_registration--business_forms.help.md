@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information for mobile commerce trends reports. The purpose of this form is to gather contact and company information from users, including their first name, last name, job title, company, and email address. The form is not intended for sensitive or confidential data, as indicated by the "required: false" flag on most fields. The form is meant to be completed by users who wish to register for mobile commerce trends reports, and the information collected will be used to provide them with updates and notifications.
-</thinking>
-
 # Mobile Commerce Trend Report Registration - Help Guide
 ## Purpose
 This form is intended to collect registration information for mobile commerce trends reports. The purpose of this form is to gather contact and company information from users, including their first name, last name, job title, company, and email address. The form is not intended for sensitive or confidential data, as indicated by the "required: false" flag on most fields. The form is meant to be completed by users who wish to register for mobile commerce trends reports, and the information collected will be used to provide them with updates and notifications.

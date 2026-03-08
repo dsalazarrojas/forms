@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to document and manage royalty agreements between Company A and Company B. It captures the essential details of the agreement, including the agreement date and time, royalty rate, payment terms, and approval process. The form is used to ensure that all stakeholders are informed and on board with the agreement, and that it is properly approved and signed off by the relevant personnel.
-</thinking>
-
 # Royalty Agreement Approval Form - Help Guide
 ## Purpose
 This form is used to document and manage royalty agreements between Company A and Company B. It captures the essential details of the agreement, including the agreement date and time, royalty rate, payment terms, and approval process.

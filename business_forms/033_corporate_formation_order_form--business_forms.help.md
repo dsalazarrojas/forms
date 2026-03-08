@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from corporate clients who wish to form a new company. The form is meant to capture all relevant details about the business, including its type, name, address, contact person, and other relevant information. This information will be used to process the formation of the new company. It is crucial that you provide accurate and complete information. 
-Please ensure you have all the required information at hand before submitting this form. You may need to refer to the company's articles of association, certificate of registration, or other relevant documents for details.
-</thinking>
-
 # Corporate Formation Order Form - Help Guide
 ## Purpose
 The Corporate Formation Order Form is used to collect information from corporate clients who wish to form a new company. This form helps in processing the formation of the new company.

@@ -1,9 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Order Fulfillment Communication Form" that clearly explains its purpose, how to complete it, and what each field means. This form is used to communicate with customers regarding their orders. The form's purpose is to provide an update on the status of a customer's order, whether it's new, open, cancelled, pending, closed, or on-hold. The form will ask for the customer's name, order number, order status, order details, shipping method, shipping date, shipping time, and a customer message. The form is not strictly required, meaning some fields can be left blank.
-
-To ensure that this form is not duplicated or used incorrectly, we should make sure that the instructions are clear and concise, and that the field explanations are specific. We should also consider that the form might be used in a variety of contexts, including customer service, sales, or logistics.
-</thinking>
-
 # Order Fulfillment Communication Form - Help Guide
 ## Purpose
 The Order Fulfillment Communication Form is used to communicate with customers regarding their orders. This form provides an update on the status of a customer's order, which can be new, open, cancelled, pending, closed, or on-hold.

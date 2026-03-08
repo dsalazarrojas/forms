@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed to collect contact information from customers, clients, or users who interact with your business. It allows you to gather contact details such as name and email or phone number (optional) in a pop-up window, providing an easy and non-intrusive way to initiate contact. 
-  This form is a part of a larger application or system that likely deals with customer interaction, support, or sales. 
-  Check your application's context before proceeding.
-</thinking>
-
 # popup-contact-form - Help Guide
 ## Purpose
 The purpose of this form is to collect contact information from customers or clients, enabling your business to communicate with them effectively.

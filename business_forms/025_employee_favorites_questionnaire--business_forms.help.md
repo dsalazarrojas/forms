@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information about employees' preferences, opinions, and demographics. The purpose is to gather data that can be used to better understand employee satisfaction, preferences, and behaviors. This form is not meant for collecting sensitive or confidential information. Please ensure that all responses are honest and accurate to provide valuable insights. 
-</thinking>
-
 # Employee Favorites Questionnaire - Help Guide
 ## Purpose
 This form is used to collect information about employees' favorite items, likes, and dislikes. It will help management understand employee preferences and opinions, which can be used to improve employee satisfaction and engagement.

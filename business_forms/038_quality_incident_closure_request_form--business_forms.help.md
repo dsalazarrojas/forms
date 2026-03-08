@@ -1,5 +1,3 @@
-<thinking>Quality Incident Closure Request Form is used to formally close a quality incident after it has been investigated and resolved. This form captures details about the incident, including the incident's description, assignee, action status, and comments from both the assignee and the user submitting the form. Before filling out this form, please ensure that the incident has been properly investigated and that you are aware of the incident's details. Also, be mindful of not submitting duplicate forms for the same incident. </thinking>
-
 # Quality Incident Closure Request Form - Help Guide
 ## Purpose
 The Quality Incident Closure Request Form is a tool to document the closure of a quality incident, ensuring that all necessary information and steps are captured for future reference and improvement.

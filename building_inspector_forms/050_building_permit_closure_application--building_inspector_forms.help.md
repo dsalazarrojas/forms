@@ -1,12 +1,3 @@
-<thinking>
-The form is intended for building permit closure, which is the process of finalizing a building permit after the construction or renovation work is complete. This form helps to ensure that the permit is closed in a legally compliant manner and that all required documents and inspections have been completed. The form is typically filled out by the property owner, contractor, or their representative.
-
-Before filling out this form, please ensure that all work is complete and all necessary documents and inspections have been completed or scheduled. The form should only be submitted once all required work is finished, and all necessary documents and inspections have been completed or scheduled. If you are unsure about any part of the process, please reach out to your local building department for clarification.
-
-It is also important to note that some fields may be optional but are still required for a complete permit closure. Be sure to fill out all relevant fields accurately and honestly.
-
-</thinking>
-
 # Building Permit Closure Application - Help Guide
 ## Purpose
 The building permit closure application form is used to finalize a building permit once all construction or renovation work is complete and all necessary documents and inspections have been completed or scheduled.

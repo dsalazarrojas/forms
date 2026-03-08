@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Capacity Expansion Request Form - Help Guide
 ## Purpose
 The Production Capacity Expansion Request Form is used to request an increase in production capacity. It is essential to fill out this form thoroughly and accurately to ensure your request is processed efficiently and effectively.

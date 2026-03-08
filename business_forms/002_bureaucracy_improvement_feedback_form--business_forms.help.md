@@ -1,17 +1,3 @@
-<thinking>
-
-The Bureaucracy Improvement Feedback Form is designed to help identify and address processes within the organization that could be more efficient. It's a tool for stakeholders to provide feedback on the processes they interact with, allowing us to pinpoint the areas that need improvement and make data-driven decisions.
-
-This form is used to gather information about your current role and interaction with various bureaucratic processes, and to suggest ways to simplify and improve them. It's essential to provide accurate and clear feedback to help us make meaningful changes.
-
-Before providing feedback, please note that:
-
-* This form is not a complaint system, but rather a tool for constructive feedback.
-* Your input will help us identify areas of improvement and implement changes that benefit everyone involved.
-* All responses will be treated confidentially, and your contact information will not be shared without your consent.
-
-</thinking>
-
 # Bureaucracy Improvement Feedback Form - Help Guide
 
 ## Purpose

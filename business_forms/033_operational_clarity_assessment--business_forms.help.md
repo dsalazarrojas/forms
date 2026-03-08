@@ -1,6 +1,3 @@
-<thinking>
-The form "operational_clarity_assessment_form" is designed to gather information about operational clarity within an organization. This form is likely used to identify areas that need improvement in operational clarity, which can help in streamlining business processes, enhancing collaboration, and increasing overall organizational effectiveness. The form might be used by HR representatives, operational teams, or management personnel to gather employee feedback, insights, and ideas on operational processes.
-</thinking>
 # operational_clarity_assessment_form - Help Guide
 ## Purpose
 The operational clarity assessment form is used to gather feedback and insights on operational processes within an organization, to identify areas that need improvement and make data-driven decisions to enhance operational clarity.

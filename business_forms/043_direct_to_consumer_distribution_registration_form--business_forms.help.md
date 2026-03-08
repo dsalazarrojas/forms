@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a Direct To Consumer Distribution Registration Form. This form is designed to capture essential information from businesses that want to register for direct-to-consumer distribution. The purpose of this form is to ensure that businesses meet the required standards and guidelines for direct-to-consumer distribution in their region or country. This form will help businesses provide accurate and up-to-date information about their company, contact details, and distribution type. It's essential to fill out this form correctly to avoid delays or rejections in the registration process. Please note that all fields are optional, but it's recommended to fill out as much information as possible to ensure a smooth registration process.
-</thinking>
-
 # Direct To Consumer Distribution Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from businesses that want to register for direct-to-consumer distribution in their region or country. It's essential to provide accurate and up-to-date information to avoid delays or rejections in the registration process.

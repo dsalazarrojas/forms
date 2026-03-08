@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture general information about a haulout service agreement, which is a key document for managing vessel operations. The form is composed of 12 sections, each with its own fields. To complete this form, users need to fill out each section, providing accurate and relevant information. To ensure consistency and accuracy, it's essential to understand each field's purpose and requirements.
-
-Before proceeding, review each section carefully to avoid duplication or omission of critical information. This guide will walk you through each field, explaining its purpose and how to complete it correctly.
-
-</thinking>
-
 # haulout_service_agreement - Help Guide
 ## Purpose
 The haulout service agreement form is used to record general information about a vessel's haulout service. This form helps in maintaining accurate records and facilitating communication between service providers and vessel operators.

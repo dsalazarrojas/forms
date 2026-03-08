@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document the terms and agreements between a course lead and the provider of an online course. It is an essential step in the course creation process to ensure that both parties are on the same page regarding the terms of the lead offer. This form should only be completed after careful review and discussion between the course lead and course provider. Please ensure that you have discussed and reviewed the terms with your partner before completing this form. If you are unsure about any of the fields, please seek guidance from your partner or course provider. 
-
-</thinking>
-
 # Course Lead Offer Agreement - Help Guide
 
 ## Purpose

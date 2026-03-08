@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from passengers who have lost their luggage during travel. This form is designed to be submitted after a passenger has realized their luggage is missing. To ensure that the form is used correctly, please do not submit it unless you are the actual passenger who has lost their luggage. If you are an authorized representative submitting on behalf of the passenger, please include the passenger's contact information and a brief explanation of your authority to represent them. To avoid duplication of effort, please only submit one form per lost item.
-</thinking>
-
 # Lost Luggage Recovery Request Form - Help Guide
 ## Purpose
 The Lost Luggage Recovery Request Form is a form designed to collect information from passengers who have lost their luggage during travel. To submit this form, passengers (or their authorized representatives) should only submit the form once for each lost item.

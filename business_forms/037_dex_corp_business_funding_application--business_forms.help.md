@@ -1,14 +1,3 @@
-<thinking> 
-**dex_corp_business_funding_application Form is intended to collect business funding information from companies. This form is used to help us understand the company's financial needs and provide tailored support. Please ensure that you are filling out the form for a specific business that you are representing or have the authority to represent. If you have any doubts, please contact us for clarification. 
-
-Please note that this form will be reviewed for accuracy and completeness to ensure that the business receives the most suitable support for their needs. 
-
-This form is part of the business forms category which focuses on gathering business-related information. 
-
-Before proceeding, please ensure that you are familiar with the purpose and requirements of this form to avoid any errors or inaccuracies. 
-
-</thinking>
-
 # dex_corp_business_funding_application - Help Guide
 ## Purpose
 

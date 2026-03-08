@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to obtain consent from partners to share their contact information with a designated partner agent. The form is meant to be filled out by the partner themselves, and is used to ensure that both parties are aware of and consent to the level of access granted. This form should be used in situations where the partner agent will be interacting with the partner's contact information, such as for business purposes or to facilitate communication.
-
-This form should not be used in situations where the partner's contact information is already publicly known or readily accessible. The form should not be used if the partner agent's contact information is already being shared with other parties without consent.
-
-</thinking>
-
 # Partner Agent Contact Sharing Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from partners to share their contact information with a designated partner agent.

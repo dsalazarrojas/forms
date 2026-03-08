@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Affordable Property Innovation Application Form - Help Guide
 ## Purpose
 The Affordable Property Innovation Application Form is a tool for organizations to submit their innovative ideas and solutions related to affordable property. This form helps us understand the details of your innovation, its potential impact, and your needs for further development and implementation.

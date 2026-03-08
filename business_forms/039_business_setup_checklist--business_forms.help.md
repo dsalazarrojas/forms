@@ -1,5 +1,3 @@
-<thinking>Form created to help business owners streamline their setup process. This form collects crucial information to ensure a comprehensive and thorough setup of business operations, finances, marketing, and staffing. Ensure all sections and fields are relevant to your business and complete only the ones that apply to your current business setup status.</thinking>
-
 # Business Setup Checklist - Help Guide
 
 ## Purpose

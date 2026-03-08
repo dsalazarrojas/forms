@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from users to book a hostel. This form is designed to gather necessary details such as the user's name, contact information, and booking preferences...</thinking>
-
 # Hostel Booking Form Light Coral And Responsive - Help Guide
 ## Purpose
 This form is used to book a stay at a hostel. It collects user information, hostel preferences, and other relevant details to complete the booking process.

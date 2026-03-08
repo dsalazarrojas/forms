@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to track sales outcomes, providing valuable insights into the success or failure of sales efforts. This form is intended for sales teams to document each interaction with customers, including wins, losses, and no-decisions. It captures relevant information about the outcome, sales stage, sales person involved, customer name, and other key details. The form will help sales teams analyze trends, identify areas for improvement, and make data-driven decisions. It also tracks the status of leads, account managers, and owners to ensure everyone is on the same page. This form should only be used for tracking sales outcomes and not for other purposes.
-</thinking>
-
 # Win Loss Tracking Form - Help Guide
 ## Purpose
 The Win Loss Tracking Form is designed to track sales outcomes, providing valuable insights into the success or failure of sales efforts.

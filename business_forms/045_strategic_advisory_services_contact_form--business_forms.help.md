@@ -1,11 +1,3 @@
-<thinking>
-This form is meant to gather contact information from individuals seeking strategic advisory services. The form is not intended for general feedback, but rather for those who are looking for specific guidance or support on their business or project. The form is not a sales-oriented instrument, but rather a means to connect with potential clients or partners who are looking for expert advice.
-
-Before filling out the form, please note that some fields are not required. However, providing all relevant information will help us better understand your needs and provide more accurate assistance.
-
-This form will be reviewed internally, and we will respond to your inquiry as soon as possible.
-</thinking>
-
 # Strategic Advisory Services Contact Form - Help Guide
 ## Purpose
 The Strategic Advisory Services Contact Form is designed to gather contact information from individuals seeking expert advice on their business or project. This form is not intended for general feedback, but rather for those who are looking for specific guidance or support.

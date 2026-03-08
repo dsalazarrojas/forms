@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Getting Started With Administrative Services - Help Guide
 
 ## Purpose

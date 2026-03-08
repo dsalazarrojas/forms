@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for a form that collects financial information to provide recommendations for financial planning. The form is intended for individuals seeking personalized advice on their investments and financial planning. This guide will walk users through the form's purpose, how to complete it, and explain each field in detail.
-
-Before starting the form, ensure that you have all the necessary information and permissions to provide accurate and relevant data. This form should not be filled out by anyone without proper authority, such as a financial advisor or planner.
-
-This guide is not intended to be a substitute for professional financial advice. If you are unsure about any aspect of your financial situation, please consult a licensed financial expert.
-
-</thinking>
-
 # financial_planner_recommendation_form - Help Guide
 ## Purpose
 The "financial_planner_recommendation_form" is designed to collect information about your financial situation to provide personalized recommendations for investment planning and advice. This form will help the financial advisor understand your financial goals, risk tolerance, and other relevant factors to provide tailored guidance.

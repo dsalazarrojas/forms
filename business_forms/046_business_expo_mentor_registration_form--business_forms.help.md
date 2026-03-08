@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for business professionals to register as mentors for a business expo, allowing them to share their expertise and experience with potential mentees. The form is intended to gather information about the mentor's personal and professional background, their areas of expertise, and their availability and preferences for mentoring. This form is a crucial part of the expo's mentoring program, which aims to provide valuable guidance and support to business professionals who are looking to grow and improve their skills. Please ensure that you are filling out this form accurately and truthfully, as the information provided will be used to match you with potential mentees and to determine your role in the expo's mentoring program.
-
-Also, please note that this form should be filled out only by mentors who are willing to participate in the expo and provide guidance to others. Please do not register unless you are committed to fulfilling your role as a mentor.
-</thinking>
-
 # Business Expo Mentor Registration Form - Help Guide
 ## Purpose
 The Business Expo Mentor Registration Form is a crucial part of the business expo's mentoring program. It is designed to gather information about your personal and professional background, areas of expertise, and availability and preferences for mentoring.

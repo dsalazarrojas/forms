@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to help talent professionals book shoots and manage their availability for various types of shoots. It will guide you through providing shoot details, client information, and talent availability, which is crucial for smooth and successful shoot bookings. Please fill in the form accurately and thoroughly to ensure that your shoot bookings are properly set up.
-
-Please note that you can fill in as many or as few shoot types as you need, depending on your specific needs.
-
-Before starting, please review the shoot details, client information, and talent availability, as these fields will influence the shoot types and availability you can select.
-
-This form is a tool to help you streamline your shoot bookings, and your input will help us better understand your requirements and preferences.
-
-Please fill in this form with the required information for a successful shoot booking.
-
-If you have any questions or need further assistance, please don't hesitate to reach out to us at form@gic.mx.
-
-</thinking>
-
 # Talent Profile Shooting Booking Form - Help Guide
 ## Purpose
 This form is designed to help talent professionals book shoots and manage their availability for various types of shoots.

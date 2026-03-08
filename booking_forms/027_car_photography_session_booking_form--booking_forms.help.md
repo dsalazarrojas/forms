@@ -1,24 +1,3 @@
-<thinking>
-The "Car Photography Session Booking Form" is designed to gather information from clients for a car photography session. This form is intended for clients who are interested in booking a photography session for their vehicle. The purpose of this form is to collect the necessary details about the client and their vehicle, as well as their preferences for the session.
-
-To ensure that the form is correctly filled out, it's essential to follow these instructions:
-
-1.  Enter your full name as it appears on official documents.
-2.  Enter your email address, which will be used for booking confirmations and updates.
-3.  Enter your phone number as the primary contact for the booking.
-4.  Select your preferred date and time for the session.
-5.  Choose the type of photography session you want (e.g., Basic, Standard, Premium, Event, or Video Production).
-6.  Provide details about your vehicle, including its make, model, year, and color.
-7.  If applicable, list any notable modifications to your vehicle.
-8.  Acknowledge the booking terms and conditions.
-9.  Confirm your booking by typing your name.
-10.  Provide any additional comments or requests for the booking.
-11.  Specify how you plan to use the photos (e.g., Personal, Social Media, Print/Framing, Business Marketing, or Editorial).
-
-Please note that some fields are required to be filled out, indicated by an asterisk (\*). This form is intended to be completed in its entirety to ensure a smooth and successful photography session.
-
-</thinking>
-
 # Car Photography Session Booking Form - Help Guide
 
 ## Purpose

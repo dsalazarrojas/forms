@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and consistently. Before proceeding, please note that this form is used to request contract termination and is a critical process within the organization. Ensure that you have read and understood the company's contract termination policies and procedures before submitting this form. Review the contract terms and conditions to ensure that you are not requesting termination for an unnecessary or unjustified reason. This form should only be completed when necessary and with the required approvals. 
-
-</thinking>
-
 # Contract Termination Request Form - Help Guide
 ## Purpose
 This form is used to request contract termination from the company. It is a formal process that requires careful consideration and adherence to the company's contract termination policies and procedures.

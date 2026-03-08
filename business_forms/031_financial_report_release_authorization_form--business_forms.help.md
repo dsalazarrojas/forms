@@ -1,13 +1,3 @@
-<thinking>
-This form is used to obtain authorization from a user to release a financial report, ensuring that the report is shared with the correct individual or department within the organization. This form is designed to be filled out by the user, and the information collected will be used to verify the report's release. 
-
-The form is intended for use when a financial report is ready to be shared, but before it is released. The fields included are designed to capture relevant information about the user and their role within the organization. 
-
-Please ensure this form is not used for duplicate or redundant requests, as this can lead to confusion and miscommunication within the organization. 
-
-Before proceeding, please confirm that this form is not already being used for a similar purpose.
-</thinking>
-
 # Financial Report Release Authorization Form - Help Guide
 ## Purpose
 The Financial Report Release Authorization Form is used to obtain authorization from a user to release a financial report. This form ensures that the report is shared with the correct individual or department within the organization.

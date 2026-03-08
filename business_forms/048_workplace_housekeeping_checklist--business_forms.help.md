@@ -1,7 +1,3 @@
-<thinking>
-This form is a "workplace_housekeeping_checklist" used to assess the cleanliness and quality of a workplace. It is designed to ensure that all areas of the workplace are maintained to a satisfactory standard, promoting a safe and healthy environment for employees and visitors. This form likely exists to fulfill regulatory requirements, reduce the risk of accidents and illnesses, and improve overall work efficiency. The form should not be used to gather information on other unrelated topics or to create new records for non-existent issues. The form fields and options should be used as described in this guide.
-</thinking>
-
 # workplace_housekeeping_checklist - Help Guide
 ## Purpose
 The "workplace_housekeeping_checklist" is a form used to assess the cleanliness and quality of a workplace, promoting a safe and healthy environment for employees and visitors.

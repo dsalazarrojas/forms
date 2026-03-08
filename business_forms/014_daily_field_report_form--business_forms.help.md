@@ -1,5 +1,3 @@
-<thinking> This form is designed to collect information about a daily work report from field staff. The form helps in tracking the work order, crew size, hours worked, and other essential details related to the workday. To avoid duplication, please ensure that the form is not filled out multiple times for the same day. </thinking>
-
 # Daily Field Report Form - Help Guide
 ## Purpose
 

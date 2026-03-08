@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Waxing Consent Cancellation Policy Form - Help Guide
 ## Purpose
 The Waxing Consent Cancellation Policy Form is used to document the cancellation of a waxing service. This form ensures that all relevant information is collected and recorded for future reference.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect data from customers or business partners who have complaints or queries related to the energy efficiency program. This form should only be filled out by individuals who have a legitimate complaint or inquiry, and not for general inquiries that do not pertain to the energy efficiency program. It is essential to ensure that the form is filled out correctly and thoroughly to provide accurate information for further investigation and resolution. To avoid duplication of effort, please ensure that you have not already submitted a similar complaint or inquiry before filling out this form.
-</thinking>
-
 # Energy Efficiency Program Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is to collect complaints or inquiries related to the energy efficiency program. Please fill out this form if you have experienced an issue with your energy consumption, billing, or any other aspect of the program.

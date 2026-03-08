@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees provide a detailed report of their work progress, task completion status, and any notes or comments related to their work for the end of each day. This report can be used by managers to track employee performance, identify areas for improvement, and make informed decisions. The form should only be completed by employees who are actively working on tasks and projects. If an employee has already completed their tasks for the day, they should not fill out this form. This is a one-time report, not a recurring form that should be filled out daily.
-</thinking>
-
 # Employee End Of Day Report - Help Guide
 ## Purpose
 This form is designed to help employees provide a detailed report of their work progress, task completion status, and any notes or comments related to their work for the end of each day.

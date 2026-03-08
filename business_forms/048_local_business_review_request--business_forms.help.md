@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about a local business they have interacted with. The purpose of this form is to gather feedback and reviews from customers about their experience at the business. This form should be used by individuals who have visited or interacted with a local business and want to share their thoughts on the quality of service, products, or overall experience. Please make sure to fill out this form only once for a single business, and avoid using it for multiple businesses.
-</thinking>
-
 # Local Business Review Request Form - Help Guide
 ## Purpose
 This form is meant to collect feedback from customers about their experience with local businesses. Please provide honest and accurate information about the business you have interacted with.

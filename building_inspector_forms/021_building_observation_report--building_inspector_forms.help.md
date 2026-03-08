@@ -1,7 +1,3 @@
-<thinking>
-This form was created using AI to generate a building observation report. The purpose of this form is to collect data on the current state of a building's exterior, interior, and overall condition. It's essential for building inspectors to fill out this form to document their findings and observations during a building inspection. This form is not affiliated with, endorsed by, or derived from any proprietary form platform, and its content was generated based on public survey topic metadata. The form is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it while giving credit.
-</thinking>
-
 # Building Observation Report - Help Guide
 ## Purpose
 The Building Observation Report form is designed to gather data on a building's condition, including its exterior and interior aspects. It's a crucial tool for inspectors to document their findings and provide a comprehensive report.

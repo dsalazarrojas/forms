@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for parties interested in forming a partnership with our company. It is used to gather information about both parties involved, including their names, addresses, and contact details. The form also includes fields to collect data about the business plan, such as whether it exists, its duration, and its status. This is an optional form, and users are free to choose which fields they want to complete.
-
-This form may have been filled out by multiple users, so please review each field carefully and ensure that you are providing accurate and complete information.
-</thinking>
-
 # Partnership Proposal Form - Help Guide
 
 ## Purpose

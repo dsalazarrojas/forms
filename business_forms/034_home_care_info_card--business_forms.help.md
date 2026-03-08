@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the Home Care Info Card form is to collect relevant details about a client's home care needs, including demographic information, contact methods, address, medical history, and visit information.
-The form should only be used for clients who have been assigned to home care. This form is a companion to the existing home care planning form and should only be completed by authorized personnel.
-</thinking>
-
 # Home Care Info Card - Help Guide
 ## Purpose
 This form is used to collect and record client information in a clear and organized manner for future reference.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Production Space Reservation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather notes and information related to a specific field or location. This form is meant to be a simple way to capture notes and observations in a concise and structured way, making it easy to fill out and read.
-</thinking>
-
 # Field Notes Form - Help Guide
 ## Purpose
 The Field Notes Form is used to record notes and observations related to a specific field or location. This form is a quick and easy way to gather information and keep track of notes for reference and review.

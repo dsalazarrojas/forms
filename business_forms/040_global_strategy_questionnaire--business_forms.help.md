@@ -1,11 +1,3 @@
-<thinking>
-This guide is designed to help you complete the Global Strategy Questionnaire form. The form is used to gather information for a business strategy that outlines the overall direction and goals of a company or department. This form is not intended for personal use or for general information gathering; it is a specialized tool for business strategy development.
-To ensure that you get the most out of this guide, please make sure you have a clear understanding of the business strategy you are creating and the specific goals and objectives you want to achieve. If you are unsure of any of the form fields or their requirements, please refer to this guide for help.
-
-Before you start filling out the form, make sure you have all the necessary information and resources ready to provide accurate and thorough answers. This guide will walk you through each section of the form, explaining the purpose and requirements of each field.
-
-</thinking>
-
 # Global Strategy Questionnaire - Help Guide
 ## Purpose
 The Global Strategy Questionnaire is designed to help you gather information for a comprehensive business strategy that outlines the overall direction and goals of a company or department. This form is used to collect relevant and necessary information from key stakeholders and decision-makers.

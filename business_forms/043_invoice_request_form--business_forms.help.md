@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I need to understand the form's purpose and ensure that it's not used for duplicate or irrelevant purposes. After reviewing the inputSchema, I realize that this form is intended for creating an invoice request, likely for business purposes. The form collects various details such as contact information, customer details, payment information, addresses, order information, and payment terms. This form seems to be used for internal purposes within an organization, possibly for managing customer orders, invoices, and payments. The form's fields and options suggest that it's for a B2B or B2C business model, where customers need to be contacted and invoiced for their orders. I'll create a comprehensive help guide to ensure that end-users understand the form's purpose and how to fill it out correctly.</thinking>
-
 # Invoice Request Form - Help Guide
 ## Purpose
 This form is used to collect information for creating invoices for customer orders. It's intended for internal use within the organization to manage customer orders and payments.

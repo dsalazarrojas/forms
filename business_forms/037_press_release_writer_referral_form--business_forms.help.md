@@ -1,9 +1,3 @@
-<thinking>Internal reasoning block:
-This form is for referring a press release writer who can assist with writing press releases for your company or business. This form will collect contact information and other relevant details from the referral. The form is divided into two main pages, each with a brief set of fields that need to be completed.
-
-Before starting, please ensure that you have not already submitted a referral for this person in the past, as this may lead to duplicate efforts. 
-
-</thinking>
 # Press Release Writer Referral Form - Help Guide
 ## Purpose
 This form is used to collect referrals for press release writers who can assist with writing press releases for your company or business. 

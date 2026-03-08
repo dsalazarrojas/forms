@@ -1,8 +1,3 @@
-<thinking>
-Is it a good idea to create a form that can handle different payment scenarios, such as lease renewal or lease termination, as well as general lease payment processing? This form could be a great asset for your business to streamline and centralize the process of receiving and processing payments related to leases. However, let's assume it's a straightforward lease payment form for now and proceed with creating the help guide based on the provided YAML.
-
-</thinking>
-
 # Lease Payment Form - Help Guide
 ## Purpose
 The Lease Payment Form is designed to facilitate the process of receiving and processing payments related to leases. This form collects essential information for lease payments, including payment method, amount, and due date.

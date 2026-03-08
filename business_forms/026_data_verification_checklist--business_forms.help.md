@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect and verify data entry information to ensure its accuracy and integrity. The form is intended for users to assess the current state of data entry processes within an organization, and to identify areas for improvement. This checklist aims to minimize errors, streamline processes, and ensure data accuracy. The form will likely be used by data administrators, quality assurance personnel, or data analysts to verify data entry processes, review data integrity, and update databases.
-</thinking>
-
 # Data Verification Checklist - Help Guide
 ## Purpose
 The Data Verification Checklist is a form used to assess the current state of data entry processes and identify areas for improvement to ensure data accuracy and integrity.

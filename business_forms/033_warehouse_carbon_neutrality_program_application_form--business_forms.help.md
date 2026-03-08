@@ -1,9 +1,3 @@
-<thinking>
-
-To create a help guide for this form, we first need to understand the form's purpose and ensure that it's being filled out for the right reason. This form is for the Warehouse Carbon Neutrality Program, which likely aims to help businesses assess and reduce their carbon footprint. To confirm, a business should be applying to this program to evaluate and potentially participate in efforts to reduce their carbon emissions. Before proceeding, please ensure you're not duplicating an existing application or already participating in this program.
-
-</thinking>
-
 # Warehouse Carbon Neutrality Program Application Form - Help Guide
 ## Purpose
 This form is for businesses to apply to the Warehouse Carbon Neutrality Program, aimed at evaluating and reducing their carbon footprint. To participate in the program, you must fill out this form carefully and honestly to ensure an accurate assessment of your business's carbon neutrality status.

@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information for a fleet vehicle requisition, which is a request for a vehicle to be added to a company's fleet. This form is used to gather details about the vehicle, the contact person, and other relevant information. The form is likely used in a business setting, possibly for administrative purposes.
-
-Before creating this guide, I've reviewed the provided YAML fields and ensured that there are no duplicate fields. The form has 25 fields, each with its own label, type, and other specifications.
-
-</thinking>
-
 # fleet_vehicle_requisition_form - Help Guide
 ## Purpose
 This form is used to collect information for a fleet vehicle requisition, which is a request for a vehicle to be added to a company's fleet.

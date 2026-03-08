@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hotel Booking Form - Help Guide
 ## Purpose
 The Hotel Booking Form is used to book a room at the hotel. This form collects information about the start and end dates of the stay, the type of room requested, the number of guests, and the name of the person booking the room.

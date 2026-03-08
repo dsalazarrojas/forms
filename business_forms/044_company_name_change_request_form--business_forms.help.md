@@ -1,7 +1,3 @@
-<thinking>
-A form that allows users to submit a request for changing the name of a company. This form helps to ensure that all necessary information is collected and reviewed before the name change is processed. To avoid duplication, please fill out the form only once for each name change request.
-</thinking>
-
 # Company Name Change Request Form - Help Guide
 ## Purpose
 The Company Name Change Request Form is a document that enables you to submit a formal request to change the name of a company. This form ensures that all relevant information is collected and reviewed before the name change is processed.

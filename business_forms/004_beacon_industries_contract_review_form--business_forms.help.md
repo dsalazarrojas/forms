@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a contract review process in a business setting. It is designed to collect details about a contract, including contract reference ID, customer/vendor name, project or part name, part number, technical specifications, quality standards, special processing requirements, delivery schedule feasibility, pricing agreements, payment terms, and final recommendations for review and approval.
-
-The form is structured into several sections: Contract Overview, Technical and Quality Review, Commercial Review, Review Approvals, and Reviewer Information. The form requires input in all sections to ensure that the reviewer can make an informed decision.
-
-It is essential to fill out the form accurately and completely to avoid any potential issues or delays in the review process.
-
-This form is intended to be used by business professionals who need to review and approve contracts. It is not intended for general public use.
-</thinking>
-
 # Beacon Industries Contract Review Form - Help Guide
 ## Purpose
 The Beacon Industries Contract Review Form is a structured document used to collect information for the review and approval process of contracts. It helps ensure that all relevant details are considered before making a final decision.

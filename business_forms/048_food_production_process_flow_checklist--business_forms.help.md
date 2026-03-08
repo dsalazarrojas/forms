@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Food Production Process Flow Checklist" form, we must understand the form's purpose and each field's meaning and requirements. This form appears to be a comprehensive tool for food production processes, covering various aspects from quality control and packaging to customer service and supplier involvement.
-</thinking>
-
 # Food Production Process Flow Checklist - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The NDA Release Form is a crucial document that serves as a formal release of confidentiality and non-disclosure agreements (NDA) between the company and its partners or investors. This form is used to protect the company's sensitive information and to ensure that partners or investors understand their obligations in maintaining confidentiality. By completing this form, individuals can demonstrate their commitment to upholding the company's confidentiality and non-disclosure policies.
-</thinking>
-
 # NDA Release Form - Help Guide
 ## Purpose
 The NDA Release Form is a critical document that formalizes the release of confidentiality and non-disclosure agreements between the company and its partners or investors. It is essential to complete this form accurately and honestly to ensure the company's sensitive information remains secure.

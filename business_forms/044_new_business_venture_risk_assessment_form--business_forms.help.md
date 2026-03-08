@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new_business_venture_risk_assessment_form - Help Guide
 ## Purpose
 This form is designed to assess the risks associated with a new business venture. It helps to identify, evaluate, and mitigate potential risks that may impact the success of the venture.

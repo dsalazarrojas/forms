@@ -1,9 +1,3 @@
-<thinking>
-This form is used for requesting staff to work on a field task. The form is meant to be completed by someone within the organization who needs assistance from field staff. The form's fields and options are designed to gather information about the task and the staff member's availability and assignment.
-
-The form's purpose is to determine if field staff are available and willing to work on the task. This form is not meant for requesting non-field staff to work on the task. The form is designed to be completed once per task and once per staff member. Repeatedly completing the form for the same task or staff member is not allowed.
-</thinking>
-
 # Field Staff Request Form - Help Guide
 ## Purpose
 The Field Staff Request Form is used to request field staff to work on a task. This form helps in gathering information about the task and the staff member's availability and assignment.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to be used by individuals or companies that wish to apply for a digital logistics partnership with our company. The purpose of this form is to gather information about the services and regions the applicant has experience in, as well as their contact information. The form will help us assess their suitability for a partnership and determine the next steps for collaboration.
-
-To ensure that we only receive legitimate and relevant applications, we will be reviewing each form submission carefully. To avoid duplication of effort, we will not entertain applications from applicants who have already been in contact with us.
-
-Please fill in the form accurately and thoroughly. If you have any questions or concerns, feel free to reach out to us.
-</thinking>
-
 # Digital Logistics Partnership Application Form - Help Guide
 ## Purpose
 

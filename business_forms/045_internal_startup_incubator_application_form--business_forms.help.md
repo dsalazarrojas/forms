@@ -1,8 +1,3 @@
-<thinking>Before diving into the help guide, let's take a moment to understand the purpose of this form. This form is designed for startups applying to the internal startup incubator program. It's meant to gather essential information from the applicants, including contact details, business specifics, and other relevant data. The form is likely used to evaluate and potentially support startups in their early stages, providing a chance for them to grow and develop within the incubator's environment.
-
-By filling out this form, applicants can ensure their chances of being considered for the incubator program. Make sure to answer each field truthfully and thoroughly. If you're unsure about any of the fields or have questions, you can contact the support team for assistance.
-
-</thinking>
 # Internal Startup Incubator Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from startups applying to the internal startup incubator program. It helps us understand your business needs and assess your eligibility for the program.

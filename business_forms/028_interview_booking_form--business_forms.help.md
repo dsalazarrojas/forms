@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for booking interviews. The form allows users to select whether an interview is desired, provide candidate details, and submit the form. Each field is designed to be completed based on the form's purpose. The form is not intended for use in cases where an interview is not desired or where there is no need to provide candidate details or interview details. 
-</thinking>
-
 # Interview Booking Form - Help Guide
 ## Purpose
 The Interview Booking Form is a tool used to book and plan interviews. It allows users to make informed decisions about the need for interviews and gather essential information to facilitate smooth and efficient interactions with candidates.

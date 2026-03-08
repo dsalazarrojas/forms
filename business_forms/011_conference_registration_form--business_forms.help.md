@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information for a conference. The purpose of this form is to gather details about the attendee's contact information, industry, registration category, attendance preferences, meal selection, hotel booking requirements, transportation needs, networking interests, certificate of attendance, accessibility requirements, marketing opt-in, payment method, promotional code, and terms and conditions acceptance. This form ensures that attendees provide accurate and complete information for a smooth conference experience. Please make sure to fill out the form accurately and thoroughly to avoid any issues during the conference. Please note that some fields are marked as required, which means they must be completed for the registration to be processed.
-
-</thinking>
-
 # Conference Registration Form - Help Guide
 ## Purpose
 The Conference Registration Form is designed to collect essential information from attendees for a seamless conference experience.

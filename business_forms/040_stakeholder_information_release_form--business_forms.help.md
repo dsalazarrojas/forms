@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will create a user-facing help guide for the "stakeholder_information_release_form" form. To start, let's ensure that the form purpose and its relevance are well-understood. This form is designed to collect information about stakeholders, including their name, contact details, and relationship with the organization. It's likely used for internal purposes, such as maintaining stakeholder records or for compliance with regulatory requirements. Before proceeding, let's double-check that this form is not being duplicated or is relevant to the task at hand.</thinking>
-
 # stakeholder_information_release_form - Help Guide
 ## Purpose
 This form is used to collect and store stakeholder information for internal purposes, such as maintaining accurate records and meeting regulatory requirements. If you're unsure about this form's purpose, please verify with the relevant teams or stakeholders before proceeding.

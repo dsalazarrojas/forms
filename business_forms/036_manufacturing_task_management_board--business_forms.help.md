@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed to collect information for manufacturing task management. It appears to be used for tracking and managing production tasks, including task assignment, priority, due dates, status, and other relevant details. The form seems to cover a wide range of fields, from basic information like task priority and due dates to more specific details like production team status and attachments. I'm assuming this form is used in a business or industrial context. I'll proceed with creating a user-friendly help guide for this form.
-</thinking>
-
 # Manufacturing Task Management Board - Help Guide
 ## Purpose
 The Manufacturing Task Management Board form is used to collect and track information related to production tasks, including assignment, priority, due dates, and other important details.

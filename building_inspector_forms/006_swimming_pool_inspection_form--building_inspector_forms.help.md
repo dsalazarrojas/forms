@@ -1,9 +1,3 @@
-<thinking>
-  The form's purpose is to collect information about a swimming pool during a routine inspection. This form will aid in recording and tracking pool inspections for maintenance, upkeep, or other purposes. 
-  Before starting the inspection process, ensure that you are on the correct location. The form should not be used for duplicate inspections, ensure that the pool being inspected is not already noted on the system.
-  This guide is intended for end-users who are unfamiliar with the form. 
-</thinking>
-
 # swimming_pool_inspection_form - Help Guide
 ## Purpose
 The swimming pool inspection form is used to document the condition and details of a swimming pool during a routine inspection.

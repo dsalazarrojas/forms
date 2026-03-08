@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Studio Broadcast Booking Form - Help Guide
 ## Purpose
 The Studio Broadcast Booking Form is a tool used for booking and scheduling studio time slots for events. Please ensure that you have the correct information and approvals in place before submitting this form. To avoid delays, please review this form carefully before submitting.

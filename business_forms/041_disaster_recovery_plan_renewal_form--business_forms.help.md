@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from organizations to renew their disaster recovery plans. The form is likely used by businesses, institutions, or other organizations to review and update their disaster recovery plans as necessary. This form should be completed by a representative of the organization, and it's essential to ensure that only one instance of the form is submitted for each organization. Please review the form carefully and ensure you are not duplicating efforts.
-</thinking>
-
 # disaster_recovery_plan_renewal_form - Help Guide
 ## Purpose
 This guide explains the purpose and usage of the disaster recovery plan renewal form. The form is designed to collect essential information from organizations to review and update their disaster recovery plans.

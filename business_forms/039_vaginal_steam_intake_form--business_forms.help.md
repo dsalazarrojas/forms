@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for patients to report their vaginal steam intake. It's a medical form that gathers information about a patient's steam activities, including duration, frequency, and any potential medical conditions. This form might be used in a medical setting to track and monitor patients' steam habits for health purposes. It's not clear if this form is used for internal tracking or if it's intended for external reporting. The purpose and usage of this form could be for a medical facility, clinic, or a specific department within a hospital. It's possible that this form is part of a larger system, such as an electronic medical record (EMR) system. It's crucial to ensure that the form is filled out correctly by the patient to ensure accurate data collection.
-</thinking>
-
 # vaginal_steam_intake_form - Help Guide
 ## Purpose
 

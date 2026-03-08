@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a form called "Tech Demo Appointment Form" used for collecting information from clients about their technical demo appointments. This form is used to streamline the process of scheduling and preparing for demos. We want to make sure that end-users understand the purpose and how to complete the form correctly to avoid errors and confusion. The form collects various details such as client information, contact preferences, demo details, and scheduling information.
-</thinking>
-
 # Tech Demo Appointment Form - Help Guide
 ## Purpose
 The "Tech Demo Appointment Form" is used to collect information from clients about their technical demo appointments. This form helps to ensure that all necessary information is gathered accurately and efficiently for the demo.

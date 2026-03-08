@@ -1,9 +1,3 @@
-<thinking>...internal reasoning block...
-
-This form seems to be a simple and straightforward tool for estimating the cost of talent acquisition or talent-related expenses. It asks the user to select from a set of options, likely to categorize the type of role, location, duration, and whether a cost estimate is required or not. The form likely serves as a quick reference or a starting point for IT talent acquisition planning. I'll focus on creating a clear and concise user guide that explains each field's purpose and requirements.
-
-</thinking>
-
 # IT Talent Cost Estimator - Help Guide
 ## Purpose
 The IT Talent Cost Estimator form is a tool to help you quickly estimate the costs associated with talent acquisition or talent-related expenses. It helps you categorize and identify potential costs based on the type of role, location, and duration.

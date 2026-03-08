@@ -1,7 +1,3 @@
-<thinking> 
-This help guide is for the Jewelry Appraisal Form, which is used to gather information about a piece of jewelry for appraisal purposes. The form is designed to collect detailed information about the item's characteristics, such as its name, type, weight, material, carat, gemstone, certificate, appraiser, date found, value, comments, and other relevant details. This guide will walk you through each field of the form to help you complete it accurately and efficiently.
-</thinking>
-
 # Jewelry Appraisal Form - Help Guide
 ## Purpose
 The Jewelry Appraisal Form is a tool used to gather detailed information about a piece of jewelry for appraisal purposes. This form helps appraisers and collectors to accurately identify and value a piece of jewelry.

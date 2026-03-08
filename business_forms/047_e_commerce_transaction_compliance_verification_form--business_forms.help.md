@@ -1,7 +1,3 @@
-<thinking>
-The E Commerce Transaction Compliance Verification Form is a critical document used to verify the legitimacy and accuracy of e-commerce transactions. It is a requirement for all online businesses to collect and review this information for auditing and compliance purposes. The form is designed to collect specific details about the order, customer, payment method, and transaction details, which are crucial for ensuring that the transaction is genuine and in line with company policies. This form should not be used for duplicate submissions, as it may cause confusion and lead to incorrect data being recorded. Please ensure that the form is filled out accurately and honestly, and only once per transaction.
-</thinking>
-
 # E Commerce Transaction Compliance Verification Form - Help Guide
 ## Purpose
 The E Commerce Transaction Compliance Verification Form is used to collect and verify critical information about e-commerce transactions. It is a mandatory document for all online businesses to ensure the legitimacy and accuracy of transactions.

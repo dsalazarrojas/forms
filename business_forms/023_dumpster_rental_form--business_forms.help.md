@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers interested in renting dumpsters for waste disposal. The purpose of this form is to collect details from customers about their dumpster rental needs, including delivery date, time, contact information, and specific requirements such as dumpster size and delivery schedule. This form will help us ensure that we provide the right dumpsters to the right customers at the right time.
-</thinking>
-
 # Dumpster Rental Form - Help Guide
 ## Purpose
 The Dumpster Rental Form is used to collect information from customers interested in renting dumpsters for waste disposal. This includes delivery date, time, customer contact information, and specific requirements such as dumpster size and delivery schedule.

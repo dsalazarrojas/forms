@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "patriots_of_christ_conference_registration," is to collect registrations for the Patriots of Christ Conference. This form allows attendees to provide their name, email, phone number, select an organizer for the event, and other event details. The form may be used to gather contact information for attendees, help with event organization, and facilitate communication. This form does not require any mandatory fields to be filled in and can be completed at the discretion of the attendee.
-</thinking>
-
 # patriots_of_christ_conference_registration - Help Guide
 ## Purpose
 The form is used to collect registrations for the Patriots of Christ Conference.

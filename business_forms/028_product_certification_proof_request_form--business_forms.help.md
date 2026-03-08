@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Certification Proof Request Form - Help Guide
 
 ## Purpose

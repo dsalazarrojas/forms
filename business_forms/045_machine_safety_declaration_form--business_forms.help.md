@@ -1,5 +1,3 @@
-<thinking>As a form designer, my initial thought process is to understand the form's purpose, the intended users, and the required information. This form, "Machine Safety Declaration Form," appears to be used for declaring safety information about machines within a company. It seems to be used to document the usage of machines, their maintenance, and the personnel involved in their operation. The form requires a significant amount of information, including serial numbers, dates, locations, and contact details. The repeated fields with "2" in their names suggest that the form might be used for multiple machines or instances within a company. I'll make sure to cover all the fields and provide clear explanations to assist users in completing the form accurately and efficiently.</thinking>
-
 # Machine Safety Declaration Form - Help Guide
 ## Purpose
 This form is used to declare safety information about machines within a company. It helps in documenting the usage, maintenance, and safety protocols for each machine. 

@@ -1,11 +1,3 @@
-<thinking>
-
-The "pet_boarding_check_in_form" form is a critical component of our pet boarding process, designed to gather essential information from pet owners when checking in their pets for boarding services. This form ensures that all necessary details are captured accurately and efficiently, facilitating a smooth and safe boarding experience for both pets and their owners.
-
-Before proceeding, please ensure that you have all the required and optional information ready to be filled out. The form is divided into multiple pages, each focusing on a specific aspect of pet information. Completing the form accurately will help us provide the best possible care for your beloved pet.
-
-</thinking>
-
 # pet_boarding_check_in_form - Help Guide
 ## Purpose
 The pet_boarding_check_in_form is a critical component of our pet boarding process, designed to gather essential information from pet owners when checking in their pets for boarding services. This form ensures that all necessary details are captured accurately and efficiently, facilitating a smooth and safe boarding experience for both pets and their owners.

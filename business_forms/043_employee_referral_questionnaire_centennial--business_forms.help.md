@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, let's ensure this form is for employee referrals, not for other purposes. We should only allow users to submit one submission per employee per job. The form is designed for internal use within the company, and employees can access it through their employee portal. This form will gather information about job openings, employees who referred them, and the quality of referrals.</thinking>
-
 # Employee Referral Questionnaire Centennial - Help Guide
 
 ## Purpose

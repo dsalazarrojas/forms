@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a specific purpose. Before proceeding, please ensure that you have the necessary permissions and clearance to access and view the collected data. This form should not be filled out if you are not the intended recipient or have already done so.
-</thinking>
-
 # model_request_form - Help Guide
 ## Purpose
 The model_request_form is designed to collect information from users for a specific purpose, such as requesting a model or a specific item. This form will help us understand your request and ensure we can provide the correct information to assist you.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advertiser Feedback Form Template - Help Guide
 ## Purpose
 The Advertiser Feedback Form Template is designed to collect feedback from advertisers on their experience with our services. This form helps us understand their satisfaction with the campaign performance, communication, and collaboration. The feedback received will help us improve our services and provide better experiences for future campaigns.

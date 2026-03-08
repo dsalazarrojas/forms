@@ -1,7 +1,3 @@
-<thinking>
-We should check that the form is not already created in the company's internal database before proceeding. If it is, we need to update the form's version number and update the relevant fields. We should also make sure that the form is being completed by the person who is actually responsible for the project. If the form is filled out by an unauthorized person, we should send it back for correction.
-</thinking>
-
 # product_development_skills_assessment_form - Help Guide
 ## Purpose
 This form is designed to assess the skills and project information of individuals within the company. The form helps to gather relevant data on project development projects, including team size, team location, skills, time spent, and project status.

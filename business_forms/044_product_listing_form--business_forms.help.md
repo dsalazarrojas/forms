@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_listing_form - Help Guide
 ## Purpose
 

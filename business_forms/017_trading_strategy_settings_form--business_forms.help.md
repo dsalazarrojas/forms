@@ -1,5 +1,3 @@
-<thinking>Trading strategy settings form is a form used to collect data from traders regarding their trading strategy, risk tolerance, and other relevant information. This form aims to gather insights into traders' risk management practices and strategies, which can be used to inform and refine trading policies and decisions within the organization. The form is likely to be used by traders or their representatives to provide information about their trading practices. It's worth noting that the form may need to be filled out multiple times, depending on the trading strategy and the trader. This form is a part of a larger system for managing and tracking trading activities, and the data collected here will be used to inform and improve that system.</thinking>
-
 # Trading Strategy Settings Form - Help Guide
 ## Purpose
 The Trading Strategy Settings Form is a tool used to collect data from traders regarding their trading strategy, risk tolerance, and other relevant information. This form aims to gather insights into traders' risk management practices and strategies, which can be used to inform and refine trading policies and decisions within the organization.

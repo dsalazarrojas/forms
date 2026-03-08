@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering new vendors and collecting information about them. Before filling out this form, ensure that you are authorized to create a new vendor account. If you're not sure if the vendor already exists, please check the vendor registry before proceeding. This form should only be used if the vendor is not already registered.
-</thinking>
-
 # New Vendor Registration Request Form - Help Guide
 ## Purpose
 The New Vendor Registration Request Form is used to create a new vendor account in the system.

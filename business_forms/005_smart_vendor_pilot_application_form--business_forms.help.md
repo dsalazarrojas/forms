@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from potential vendors for the Smart Vendor Pilot program. Before starting, please ensure you have read and understood the program's guidelines and requirements. If you have already submitted an application, please do not duplicate efforts by resubmitting. This form is designed to capture essential details about the vendor, their business, and the pilot project's status. Please fill in the form accurately and thoroughly to ensure efficient processing.
-</thinking>
-
 # Smart Vendor Pilot Application Form - Help Guide
 ## Purpose
 The Smart Vendor Pilot Application Form is used to gather information from potential vendors for the Smart Vendor Pilot program. This form ensures that all required details are captured accurately to support the evaluation and approval processes.

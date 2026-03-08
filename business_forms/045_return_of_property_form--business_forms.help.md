@@ -1,9 +1,3 @@
-<thinking>
-
-When creating a return of property form, we need to ensure it's used for its intended purpose. This form is meant to capture information related to the return of properties, which may include assets that are being returned to their rightful owners or recovered. It's essential to fill out this form accurately to maintain records and ensure that the return process is done correctly. To avoid duplication of work, please review this guide carefully before submitting the form.
-
-</thinking>
-
 # Return Of Property Form - Help Guide
 ## Purpose
 The Return Of Property Form is used to document the return of properties, assets, or items that have been returned to their rightful owners or recovered.

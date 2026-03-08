@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I've analyzed the provided YAML fields and understand that the form purpose is to collect business formation authorization details from an authorizing person. This form is likely used by corporate or legal entities to verify the authority granted to the business. I'll create a user-facing help guide that explains the form's purpose, how to complete it, and each field's meaning in a clear and concise manner.</thinking>
-
 # Business Formation Authorization Form - Help Guide
 ## Purpose
 This form is used to authorize a business formation, which is the process of creating a new business entity. The form requires information about the business and the person authorizing it. This will help ensure that the business is properly set up with the necessary authority to operate.

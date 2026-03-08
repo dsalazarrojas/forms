@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist end users in completing the corporate video production intake form, ensuring they understand its purpose, how to fill it out, and what each field represents. The form's purpose is to gather essential information about upcoming corporate video production projects. This guide will cover each aspect in a clear and concise manner to facilitate a seamless experience for the users.
-</thinking>
-
 # corporate_video_production_intake_form - Help Guide
 ## Purpose
 The corporate video production intake form is designed to collect project-related details from clients, project managers, or producers to create a corporate video. This form will help the production team understand the project's scope, timeline, and budget requirements, ensuring that all necessary information is captured for successful project execution.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to report and track issues related to tools, hardware, and consumables within an organization. This form is likely used by personnel in various departments to report any problems or discrepancies with tools, such as maintenance, repair, or replacement needs. The form aims to gather detailed information about the issue, including the tool's category, description, status, and any other relevant details to ensure prompt resolution and maintain accurate records.
-
-Before filling out this form, ensure you are reporting a genuine tool issue and not duplicating an existing entry. Duplicate reports may lead to unnecessary delays in resolution and miscommunication among teams.
-
-This guide is intended for tool users and administrators who need to report and track tool issues. Please follow the instructions carefully to complete the form accurately and efficiently.
-
-</thinking>
-
 # Tool Issue Form - Help Guide
 ## Purpose
 The Tool Issue Form is a reporting tool used to track and manage tool-related issues within the organization. It helps gather essential information to address problems promptly and maintain up-to-date records.

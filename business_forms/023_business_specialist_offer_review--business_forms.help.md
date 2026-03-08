@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a business review form designed to evaluate the quality and feasibility of an offer or proposal. The form likely belongs to a business context, possibly within a company or organization. Given the fields, the form may be used to assess the alignment with marketing strategy, competitive positioning, profit margin impact, and other key aspects of the offer. This form is likely used by business specialists or experts within the company to review and provide feedback on offers or proposals. It may help in making informed decisions about which offers to pursue.
-
-Before proceeding, ensure this form is not a duplicate or a variation of an existing form, and that the context and purpose align with your business needs.</thinking>
-
 # Business Specialist Offer Review - Help Guide
 ## Purpose
 This form is designed to help business specialists review and evaluate offers or proposals. It assesses various aspects of the offer, including alignment with marketing strategy, competitive positioning, profit margin impact, and more.

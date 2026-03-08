@@ -1,17 +1,3 @@
-<thinking> 
-The purpose of this form is to request a legal document from an organization. It appears to be used internally within a business or organization to collect information about legal documents. However, I couldn't find any additional context or information about the specific business process it serves. If this form is being used to support multiple purposes or processes, please provide more context for clarity. 
-
-The fields in this form seem to gather basic contact and document information, but the purpose of this form might be to support various scenarios or business needs. 
-
-To confirm, the following information is correct: the form is for internal use. If the form is used for external communication or to collect information from external parties, please add or adjust the following text accordingly. 
-
-Please verify the following assumptions:
-- This form is intended to be used internally.
-- The form is meant to support a single business process or purpose.
-- The provided fields are sufficient for the intended purpose.
-Please review the following text for completeness and accuracy.
-</thinking>
-
 # legal_document_requisition_form - Help Guide
 ## Purpose
 The legal document requisition form is used to request legal documents from an organization for internal purposes.

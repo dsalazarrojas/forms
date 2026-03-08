@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to manage and track project tasks within a business context. The form's purpose is to gather information about a project, including its name, manager, status, start and end dates, times, and description, as well as assignee information. This form likely serves as a centralized hub for project task management, allowing users to quickly access and update project details. The form's fields should be self-explanatory, but if any field is unclear, please refer to the explanation below.
-</thinking>
-
 # Project Task Management Form - Help Guide
 ## Purpose
 This form is used to manage and track project tasks within a business context. It allows users to gather and update project information in a centralized location.

@@ -1,5 +1,3 @@
-<thinking>Before creating this guide, I reviewed the provided YAML file to understand the form's purpose and functionality. The form is called "Budget Request Form" and its primary goal is to collect information for budget requests from users. The form has multiple fields that cover various aspects of the budget request, including requester's information, budget details, and approval processes. I will ensure that the guide is clear, concise, and practical, and I will only include information that is explicitly stated in the YAML file.</thinking>
-
 # Budget Request Form - Help Guide
 ## Purpose
 The Budget Request Form is a tool used to collect information for budget requests from users. This form helps to gather essential details about the requester, budget specifics, and approval processes related to the requested budget.

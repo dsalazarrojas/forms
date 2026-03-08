@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Strategy Records Release Form - Help Guide
 
 ## Purpose

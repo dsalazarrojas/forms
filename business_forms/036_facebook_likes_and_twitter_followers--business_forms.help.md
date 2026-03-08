@@ -1,7 +1,3 @@
-<thinking>
-We will be designing a help guide for the "Facebook Likes And Twitter Followers" form. This form is intended to collect information about social media presence and engagement metrics for businesses. The purpose of this form is to gather details about a business's Facebook likes and Twitter followers, which can be useful for analyzing and understanding online presence. This form is likely used for internal tracking and data analysis within a company or organization. It is possible that this form is used to monitor or analyze social media presence as part of a larger digital marketing strategy.
-</thinking>
-
 # Facebook Likes And Twitter Followers - Help Guide
 ## Purpose
 This form is used to collect information about a business's Facebook likes and Twitter followers. It's a simple and straightforward form designed to gather relevant data about a company's online presence.

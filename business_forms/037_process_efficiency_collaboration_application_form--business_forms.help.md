@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Process Efficiency Collaboration Application Form - Help Guide
 ## Purpose
 This form is designed to collect collaboration and efficiency improvement ideas from users to enhance business processes. Please only submit if you have a genuine idea or input.

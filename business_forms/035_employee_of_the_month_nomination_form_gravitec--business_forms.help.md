@@ -1,7 +1,3 @@
-<thinking>
-We need to understand that this form's purpose is to collect employee nominations for the "Employee of the Month" award. To confirm, we'll check if there are similar forms in the company's database to avoid duplication of efforts. If this form is already present, we'll skip it.
-</thinking>
-
 # Employee of the Month Nomination Form - Help Guide
 ## Purpose
 The "Employee of the Month" nomination form is designed to collect nominations for the Employee of the Month award. This award is meant to recognize and appreciate employees who demonstrate exceptional performance, teamwork, and dedication to their job.

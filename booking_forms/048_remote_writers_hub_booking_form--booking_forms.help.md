@@ -1,16 +1,3 @@
-<thinking>
-This form is used to book a remote writer for a project. It allows the user to select one or multiple projects to book, enter their name and contact information, and provide details about the project. The form will display a booking form with the following fields:
-- Name: A field for the user to enter their name.
-- Deadline: A field for the user to select a deadline for the project.
-- Project Brief: A dropdown menu for the user to select the project brief.
-- Remote Writer: A dropdown menu for the user to select the remote writer.
-- Email: A field for the user to enter their email address.
-- Phone: A field for the user to enter their phone number.
-- Project Details: A field for the user to enter project details.
-- Project Deadline Note: A field for the user to enter a note about the project deadline.
-- Form Submitted By: A field for the user to enter the name of who submitted the form.
-</thinking>
-
 # Remote Writers’ Hub Booking Form - Help Guide
 
 ## Purpose

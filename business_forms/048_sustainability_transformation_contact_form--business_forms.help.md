@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting contact information and project details for sustainability transformation projects. It's likely used in a business setting, possibly for project management or consulting purposes. The form asks for user input, contact details, project description, location, and other relevant information. It also includes fields for lead source, follow-up methods, and lead status, which might be used to track the progress of sustainability transformation projects. The form does not ask for sensitive or sensitive information, and most fields are optional. This form is designed for general data collection and might not be specific to any particular industry or domain.
-</thinking>
-
 # Sustainability Transformation Contact Form - Help Guide
 
 ## Purpose

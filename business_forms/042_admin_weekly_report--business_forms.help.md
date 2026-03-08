@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to gather information from administrators or managers to report on the progress and key activities of their team, department, or company during the week. This information will help leadership and management team to track the performance, identify blockers and issues, and make informed decisions to improve operations and resource allocation. 
-The form's fields should be filled out by the person in charge of preparing the report. It's essential to provide accurate and concise information as the data collected will help drive informed business decisions.
-</thinking>
-
 # Admin Weekly Report - Help Guide
 ## Purpose
 The Admin Weekly Report is a tool used by administrators or managers to report on key activities and performance metrics during the week. It is used by leadership and management teams to track progress, identify blockers and issues, and make informed decisions.

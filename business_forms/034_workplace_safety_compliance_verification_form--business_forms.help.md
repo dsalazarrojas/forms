@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the Workplace Safety Compliance Verification Form is properly completed and submitted, we should first understand its purpose: the form is used to verify compliance with workplace safety standards and regulations, such as reporting injuries, maintaining safety equipment, and documenting emergency procedures. It's essential to complete this form to ensure that your workplace is compliant with all necessary regulations and that you have a record of your safety practices. Before filling out this form, please ensure that it's not a duplicate or a repetition of previous submissions. If it is a duplicate or you're unsure, please don't hesitate to reach out to your supervisor or HR representative for clarification.
-</thinking>
-
 # Workplace Safety Compliance Verification Form - Help Guide
 
 ## Purpose

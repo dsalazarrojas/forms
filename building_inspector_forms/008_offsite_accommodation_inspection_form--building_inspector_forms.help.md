@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect information for offsite accommodation inspections. 
-This form is used to record the details of offsite accommodations inspected, including building details, property manager presence, and inspection results. It is essential to complete this form accurately to ensure that the inspection is thorough and efficient. 
-
-Before filling out this form, please ensure that you have the necessary information and approvals to proceed. This form is typically used by building inspectors or authorized personnel. 
-
-Please note that some fields are optional, and you are not required to fill them out if they are not relevant to your inspection. However, providing as much detail as possible will help to ensure that the inspection results are comprehensive and accurate.
-</thinking>
-
 # offsite_accommodation_inspection_form - Help Guide
 ## Purpose
 The offsite accommodation inspection form is designed to collect information for offsite accommodations inspected.

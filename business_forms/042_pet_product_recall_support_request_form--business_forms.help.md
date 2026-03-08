@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to support pet product recall requests, allowing users to provide information about a pet product recall, including the product brand, type, and other relevant details. This form will likely be used by veterinarians, pet owners, or other individuals who need to report a product recall. To ensure efficient and accurate processing, please fill out this form as completely as possible.
-
-Before submitting, make sure to review the fields and select the correct options, as some fields are required or have specific constraints.
-
-Please note that some fields are not required and can be left blank if not applicable.
-</thinking>
-
 # Pet Product Recall Support Request Form - Help Guide
 ## Purpose
 The purpose of this form is to support pet product recall requests, providing essential information about a pet product recall.

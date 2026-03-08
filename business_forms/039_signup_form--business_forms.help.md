@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to sign up and provide information for their company, including name, email, company name, role, phone number, website, and any additional notes. This information will be used to create or update a user account. This form should only be filled out once for each user. If a user has already completed this form, please do not attempt to complete it again.
-</thinking>
-
 # Signup Form - Help Guide
 ## Purpose
 The Signup Form is used for users to sign up and provide information about themselves and their company. This includes your name, email address, company name, role, phone number, website, and any additional notes. The information collected will be used to create or update a user account.

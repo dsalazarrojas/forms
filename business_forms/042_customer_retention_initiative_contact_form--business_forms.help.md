@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback and information from customers on their experience with the company's products or services. This form is intended to be used by customers who want to provide feedback on their satisfaction with the service quality, product quality, communication, support, or other reasons. The form is also used to capture additional information about the customer's experience, such as their contact information, team members involved, and specific events or issues they faced.
-When filling out this form, please ensure that you are completing it for a specific reason and not duplicating the effort. If you have already provided feedback on the same issue, please do not resubmit it.
-</thinking>
-
 # Customer Retention Initiative Contact Form - Help Guide
 ## Purpose
 The Customer Retention Initiative Contact Form is designed to collect feedback and information from customers on their experience with the company's products or services.

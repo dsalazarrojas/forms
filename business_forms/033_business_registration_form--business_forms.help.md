@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, this form will be used for businesses that have not been previously registered. This form is designed to collect essential information about a business, including its details, owner information, contact details, startup data, and compliance status. To ensure accuracy, please fill out the form carefully and thoroughly.
-</thinking>
-
 # Business Registration Form - Help Guide
 ## Purpose
 The Business Registration Form is designed to collect essential information about a business, including its details, owner information, contact details, startup data, and compliance status. This form is intended for businesses that have not been previously registered.

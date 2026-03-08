@@ -1,35 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Storage Unit Billing Form", I need to consider the provided YAML fields and their purpose.
-
-The Storage Unit Billing Form is used to capture important information related to a storage unit, including the facility name, customer details, billing information, and payment status. This guide will walk users through each page and field of the form to ensure they understand how to complete it accurately.
-
-The form consists of two pages: a main page and a second page for additional details. On the main page, users will find fields for facility name, customer account status, unit number, total charges, amount charged, payment method, date due, time due, customer notes, and payment status. The second page includes fields for billing email, billing phone, contact person, facility address, facility city, facility state, facility zip, facility country, contact number, facility hours, facility notes, facility fax, facility website, and facility other.
-
-To complete the form, users should:
-
-* Enter the facility name in the "facility_name" field.
-* Indicate the customer account status in the "customer_account" field.
-* Enter the unit number in the "unit_number" field.
-* Enter the total charges and amount charged in the corresponding fields.
-* Select the payment method in the "payment_method" field.
-* Enter the date and time due in the "date_due" and "time_due" fields, respectively.
-* Add any customer notes in the "customer_notes" field.
-* Select the payment status in the "payment_status" field.
-* Enter the billing email and phone number in the "billing_email" and "billing_phone" fields, respectively.
-* Select the contact person in the "contact_person" field.
-* Enter the facility address, city, state, and zip in the "facility_address", "facility_city", "facility_state", and "facility_zip" fields, respectively.
-* Enter the facility country in the "facility_country" field.
-* Enter the contact number in the "contact_number" field.
-* Enter the facility hours in the "facility_hours" field.
-* Add any facility notes in the "facility_notes" field.
-* Enter the facility fax number in the "facility_fax" field.
-* Enter the facility website in the "facility_website" field.
-* Enter any additional information in the "facility_other" field.
-
-Each field has a specific purpose and should be filled in accordingly.
-
-</thinking>
-
 # Storage Unit Billing Form - Help Guide
 ## Purpose
 The Storage Unit Billing Form is used to capture important information related to a storage unit, including facility name, customer details, billing information, and payment status.

@@ -1,37 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or companies interested in registering their eco-franchise businesses with the company. The form is divided into several sections that ask for personal and business details, sustainability experience, business model, franchise fee, and other relevant information. The form requires the following fields to be completed:
-
-* First Name: This is the applicant's first name.
-* Last Name: This is the applicant's last name.
-* Email: This is the applicant's email address.
-* Company Name: This is the name of the company applying for the franchise.
-* Location: This is the location of the company's business.
-* Sustainability Experience: This is the level of experience the company has in sustainable practices.
-* Business Model: This is the business model of the company.
-* Franchise Fee: This is the fee paid by the company to the franchise.
-* Franchise Fee Frequency: This is the frequency of the franchise fee.
-* Franchise Fee Status: This is the status of the franchise fee (Pending, Approved, or Rejected).
-* Franchise Fee Notes: This is any additional notes about the franchise fee.
-* Franchise Fee Date: This is the date of the franchise fee.
-* Franchise Fee Time: This is the time of the franchise fee (optional).
-* Franchise Fee Amount: This is the amount of the franchise fee.
-* Franchise Fee Currency: This is the currency of the franchise fee (USD, EUR, or GBP).
-* Franchise Fee Terms: This is any additional terms about the franchise fee.
-* Phone: This is the applicant's phone number.
-* Address: This is the company's address.
-* City: This is the city of the company's business.
-* State: This is the state of the company's business.
-* Zip Code: This is the zip code of the company's business.
-* Country: This is the country of the company's business.
-* Website: This is the company's website (optional).
-* Bio: This is a brief description of the company's business.
-* Agreement: This is whether the company agrees to the terms of the franchise (Yes or No).
-
-The form requires the following fields to be filled out completely: First Name, Last Name, Company Name, Location, Sustainability Experience, Business Model, Franchise Fee, Franchise Fee Frequency, Franchise Fee Status, Franchise Fee Date, Franchise Fee Amount, Franchise Fee Currency, Phone, Address, City, State, Zip Code, Country, Bio.
-
-Please note that the Franchise Fee Time field is optional and not required.
-</thinking>
-
 # Eco Franchise Application Registration - Help Guide
 ## Purpose
 This form is used for registering eco-franchise businesses with the company. It collects personal and business details, sustainability experience, business model, franchise fee, and other relevant information.

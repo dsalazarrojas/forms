@@ -1,8 +1,3 @@
-<thinking>
-This help guide is being created for a form designed to capture vendor settlement information, including banking details, settlement dates, and payment terms. The form should be used to process and settle payments with vendors. To ensure the form is being filled out correctly, it's essential to review the required fields and options carefully. Please note that some fields may be optional and can be filled out based on the specific vendor's needs.
-
-</thinking>
-
 # Vendor Settlement Authorization Application Form - Help Guide
 
 ## Purpose

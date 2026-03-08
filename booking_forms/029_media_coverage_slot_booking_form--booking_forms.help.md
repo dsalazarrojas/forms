@@ -1,10 +1,3 @@
-<thinking>
-The form "media_coverage_slot_booking_form" is used to book media slots for events, allowing users to schedule media coverage for specific time periods. This form is typically used by event organizers or coordinators to request media coverage from various sources (reporters). The form captures essential information about the event, such as the event title, date, and time, as well as details about the media slot, including the slot start and end times, duration, and media type.
-
-To prevent duplicate bookings, the system will prevent booking multiple media slots for the same time period. This form is designed to streamline the process of requesting media coverage for events.
-
-To complete this form, please follow the instructions below:</thinking>
-
 # media_coverage_slot_booking_form - Help Guide
 ## Purpose
 The media_coverage_slot_booking_form is used to book media slots for events and schedule media coverage.

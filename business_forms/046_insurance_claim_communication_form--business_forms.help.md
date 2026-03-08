@@ -1,11 +1,3 @@
-<thinking>
-This form is used for communicating insurance claims to the relevant parties involved. It is an important part of the insurance process, as it helps to ensure that all parties are aware of and can take necessary actions on the claim. Before using this form, please make sure you are filling it out in the context of an actual insurance claim.
-
-To prevent any potential issues, please note that some fields in this form are required, which means you must fill out those fields. The following fields are required: Company Name, Policy Number, Claim Amount. 
-
-Additionally, please be careful with the format of your date entries, as the date fields accept dates in YYYY-MM-DD format. This form is designed to collect information from multiple fields, so make sure to select all relevant communication channels for the claim communication.
-</thinking>
-
 # Insurance Claim Communication Form - Help Guide
 ## Purpose
 The Insurance Claim Communication Form is used to notify and inform parties involved in the insurance process about the progress and status of an insurance claim. This form helps to ensure that all parties are aware of and can take necessary actions on the claim.

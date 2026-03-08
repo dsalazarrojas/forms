@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 RACI Task Assignment Form - Help Guide
 
 ## Purpose

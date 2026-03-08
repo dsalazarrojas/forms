@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Memorandum Of Understanding MOU Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for reporting callouts or visits made by engineers to sites. It collects information on the site manager, owning organization, work description, start and end dates and times, duration, location, purpose, and comments from both the site manager and the engineer. The form is intended to be filled out by the engineer after the callout or visit, and is used to document the details of the event.
-</thinking>
-
 # Engineer Call Out Report Form - Help Guide
 ## Purpose
 This form is used for reporting callouts or visits made by engineers to sites.

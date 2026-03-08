@@ -1,14 +1,3 @@
-<thinking>
-The Project Handover Form is used for collecting information about a project handover, which is an essential step in ensuring the successful transition of projects, teams, and resources. This form helps in documenting key details about a project, including its status, team members, resources, and budget. The form is designed to be completed by team members or project managers when a project is about to be handed over to another team or department. It helps in reducing errors, improving communication, and enhancing accountability.
-
-Before completing this form, please ensure that you have the necessary authority to access and input information about the project. It is also a good idea to review the form's fields carefully to ensure that all necessary information is provided.
-
-The form consists of the following fields, each with its own specific purpose:
-
-Please note that this form is not intended for general project planning or creation. It is designed specifically for the handover process, hence the specific fields and structure.
-
-</thinking>
-
 # Project Handover Form - Help Guide
 ## Purpose
 The Project Handover Form is used for collecting information about a project handover.

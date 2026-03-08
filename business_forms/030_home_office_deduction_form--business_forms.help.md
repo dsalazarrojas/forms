@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Office Deduction Form - Help Guide
 
 ## Purpose

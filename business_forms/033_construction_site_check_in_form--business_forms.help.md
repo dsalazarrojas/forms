@@ -1,11 +1,3 @@
-<thinking>
-
-As a construction site check-in form, this document aims to collect essential information about visitors for site safety and management purposes. Its primary goal is to ensure that all visitors adhere to site rules and regulations, which can be found in a separate site safety orientation. This form is intended to be used for both regular and non-regular site visits.
-
-To prevent duplication of forms or confusion, this form should only be filled out once per day per site.
-
-</thinking>
-
 # Construction Site Check In Form - Help Guide
 ## Purpose
 The Construction Site Check In Form is designed to collect information from visitors, including their name, purpose of visit, areas to be visited, and other relevant details for site management and visitor safety.

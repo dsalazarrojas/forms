@@ -1,12 +1,3 @@
-<thinking>
-The Investment Advisory Quotation Form is a crucial tool used to collect relevant information from clients about their investment needs and preferences. This form is designed to be completed by the client, providing essential details for the investment advisor to create a personalized investment plan. 
-
-Before proceeding, ensure that you have a clear understanding of your investment goals and objectives. 
-
-Please review the form carefully and fill in the required fields. If you have any doubts or questions, feel free to ask your investment advisor for clarification.
-
-</thinking>
-
 # Investment Advisory Quotation Form - Help Guide
 ## Purpose
 The Investment Advisory Quotation Form is a tool used to collect information about a client's investment needs and preferences. It helps the investment advisor create a personalized investment plan based on the client's goals and objectives.

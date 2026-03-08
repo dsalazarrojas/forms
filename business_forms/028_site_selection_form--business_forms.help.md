@@ -1,7 +1,3 @@
-<thinking>
-What is the purpose of the Site Selection Form, and is it relevant to our use case? The form is used for selecting sites, which likely refers to physical locations, offices, or other business entities. However, the specific context and purpose of the form are unclear. Is the form part of a larger business process, such as site assessment, site selection, or site planning? Are there any specific requirements or constraints that need to be met when completing this form? Is the form being used for a one-time evaluation or as a recurring process? Are there any existing forms or processes that this form is duplicating or redundant? Are there any specific fields or sections that need to be filled out in a particular order or with specific formatting requirements?
-</thinking>
-
 # Site Selection Form - Help Guide
 ## Purpose
 The Site Selection Form is used to collect information about a physical location or site. The form is likely used in the context of site assessment, site selection, or site planning, but the specific purpose is unclear.

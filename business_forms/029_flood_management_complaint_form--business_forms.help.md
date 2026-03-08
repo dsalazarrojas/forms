@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information about flood management complaints. It is intended for internal use within the organization, and the collected data will be used to assess and prioritize flood complaints. The form is required for all complaints, except for the "Email" field which is optional. The form will be reviewed and acted upon by designated authorities, and the "Assigned To" field will determine which authority will review and take action on each complaint. The purpose of this guide is to walk the user through each field and its intended use.</thinking>
-
 # Flood Management Complaint Form - Help Guide
 ## Purpose
 This form is used to collect information about flood management complaints, which are reviewed and prioritized by designated authorities.

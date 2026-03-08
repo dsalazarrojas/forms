@@ -1,7 +1,3 @@
-<thinking>
-This is a form used for gathering information about an employee in the company. The form should only be filled out for new employees who are being hired or for current employees who are updating their information. Please ensure that you are not submitting duplicate applications for the same individual.
-</thinking>
-
 # Simple Employee Application - Help Guide
 ## Purpose
 The Simple Employee Application form is used to collect information about employees in the company. This form helps to gather essential details such as first name, last name, email, phone number, job title, company, position, employment type, job start and end dates, and any additional notes.

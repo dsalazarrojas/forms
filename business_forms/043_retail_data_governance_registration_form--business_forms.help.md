@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect registration information for retail data governance projects within an organization. The purpose of this form is to ensure that all retail data governance projects are properly registered and accounted for, ensuring that they align with the organization's overall data governance policies and procedures.
-Before filling out this form, please ensure that you are authorized to register a project under the correct business unit and project lead. Double-check that you are not duplicating a project that has already been registered under a different name or ID.
-</thinking>
 # Retail Data Governance Registration Form - Help Guide
 
 ## Purpose

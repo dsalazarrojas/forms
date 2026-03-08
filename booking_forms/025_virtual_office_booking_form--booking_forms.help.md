@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to book a virtual office space. It will help us understand their preferences and requirements for a successful virtual meeting. Please make sure to fill out this form accurately and completely. If you have filled out this form before, you might want to consider that the form data will be cleared each time it's opened.
-</thinking>
-
 # Virtual Office Booking Form - Help Guide
 ## Purpose
 The Virtual Office Booking Form is a tool to help you schedule a meeting or event in our virtual office space. Fill out this form to provide us with the required details and we will do our best to accommodate your booking.

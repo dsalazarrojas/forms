@@ -1,10 +1,3 @@
-<thinking>
-The form "customer_appreciation_event_invitation_form" is designed to help users invite customers to attend appreciation events. This form is intended to gather information about the event, including the title, details, dates, location, and messages for the invitation. The form is not intended to be filled out if the event is not taking place or if the invitation is not necessary.
-
-This guide is to help users understand how to fill out the form correctly and what each field means.
-
-</thinking>
-
 # customer_appreciation_event_invitation_form - Help Guide
 ## Purpose
 This form is designed to help users invite customers to appreciate events.

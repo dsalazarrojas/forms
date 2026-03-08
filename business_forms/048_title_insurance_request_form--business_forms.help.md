@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that the "Title Insurance Request Form" is completed correctly and consistently, please follow these guidelines.
 
 # Title Insurance Request Form - Help Guide

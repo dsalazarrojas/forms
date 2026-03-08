@@ -1,7 +1,3 @@
-<thinking>
-We have to determine the purpose and relevance of this form in our system. The form is called "Broker Price Opinion Form" and it's used to collect information about a specific property. We need to check if this form is being used for a new property or an existing one. We also need to ensure that the data entered in this form doesn't duplicate any existing records.
-</thinking>
-
 # Broker Price Opinion Form - Help Guide
 ## Purpose
 The Broker Price Opinion Form is used to collect information about a specific property, including its address, type, comparable sales data, estimated value, condition notes, date of the report, and contact information for the broker. This form is typically used by real estate brokers to provide their professional opinion of the property's value.

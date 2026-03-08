@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's quickly review the form's purpose and required fields. This form is designed to collect information about a manufacturer's supply chain, including their name, contact information, production capacity, and more. The fields included in this form are meant to gather details about a specific manufacturer or supplier in the supply chain. However, upon reviewing the form fields, most of the fields are optional, except for none. This suggests that the form might be more of a general informational form for collecting data rather than a critical or formal application form.</thinking>
-
 # Manufacturing Supply Chain Form - Help Guide
 ## Purpose
 The Manufacturing Supply Chain Form is designed to collect general information about a manufacturer's or supplier's supply chain, including their contact details, production capacity, and supply chain type.

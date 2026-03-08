@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information and appointment details from individuals seeking to renew their licenses. The purpose of this form is to facilitate the license renewal process by gathering essential contact and appointment data. Before proceeding, please ensure you are not filling out this form if you have already submitted it or if you have not been assigned a unique license renewal ID.
-
-</thinking>
-
 # License Renewal Appointment Booking Form - Help Guide
 ## Purpose
 The License Renewal Appointment Booking Form is a tool used to collect contact and appointment details from individuals seeking to renew their licenses. This form helps facilitate the license renewal process by gathering essential information that will be used by the relevant authorities to process your license renewal.

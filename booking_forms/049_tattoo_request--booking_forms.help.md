@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to gather information from customers or users to create a booking or appointment for a tattoo service. The form might be used in a tattoo parlor or a similar establishment. The fields likely represent the basic information needed to confirm a booking, such as contact details, service type, and appointment scheduling.
-</thinking>
-
 # Tattoo Request - Help Guide
 ## Purpose
 This form is used to create a booking for a tattoo service. Please fill out the required fields to provide us with the necessary information to schedule an appointment.

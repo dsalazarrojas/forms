@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We are creating a Workplace Productivity Assessment Form to understand employees' productivity levels and areas for improvement. This form will help us understand how employees perceive their work habits, work environment, communication, and overall job satisfaction. Please note that all fields are required unless otherwise stated.
 
 </thinking>

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to reserve an office space for a specific period. It is used to request a space for meetings, events, or personal use. To determine if you need to fill out this form, you might be the one requesting a space for a meeting or event, or perhaps you're the one approving the request. Ensure that you are filling out the correct form by checking with your colleagues or superiors.
-</thinking>
-
 # office_space_reservation_form - Help Guide
 ## Purpose
 The office space reservation form is used to reserve a space in the office for a specific period. This form is used to request a space for meetings, events, or personal use.

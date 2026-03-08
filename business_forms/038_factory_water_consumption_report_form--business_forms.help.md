@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect data on the factory's water usage. This form is likely used for inventory management or tracking water usage for operational purposes. 
 
 This form seems to be used for a specific factory, so it's likely not a general-purpose form used for multiple factories.

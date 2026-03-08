@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for business purposes, such as sales or customer service interactions.
-This form is designed to collect information from customers.
-The form should only be used for this specific purpose, and any deviation from the purpose may result in incorrect or incomplete data collection.
-</thinking>
-
 # fancy_nails_with_sally - Help Guide
 ## Purpose
 The "fancy_nails_with_sally" form is a business form designed to collect information from customers for sales or customer service interactions.

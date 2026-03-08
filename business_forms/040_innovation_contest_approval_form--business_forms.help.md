@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from users regarding the approval of an innovation. It is likely part of a larger system for managing and tracking innovations within an organization. Before proceeding, please ensure you have a clear understanding of the purpose and requirements of the form, as it may be used to guide decision-making processes and resource allocation. This form may be similar to other forms, but the specific requirements and constraints of this form should be carefully considered to ensure accurate and thorough completion.
-
-</thinking>
-
 # Innovation Contest Approval Form - Help Guide
 ## Purpose
 The Innovation Contest Approval Form is used to collect information about an innovation, including its category, description, assigned tool, and approval status. This form helps in the evaluation and approval process of innovations within an organization.

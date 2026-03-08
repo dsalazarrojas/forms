@@ -1,7 +1,3 @@
-<thinking>
-We need to confirm that the form is for collecting data about a payment made for landscaping services. This form should only be filled out if a payment has indeed been made. A payment method, client name, payment date, and payment time are all optional fields, while payment amount is required. This form is meant to be completed by a user who has already been a client and is now making a payment, hence, the client name is a required field. This guide will walk the user through the form step by step, explaining each field and its purpose.
-</thinking>
-
 # Landscaping Payment Form - Help Guide
 ## Purpose
 This form is used to capture information about a payment made for landscaping services. Please fill out this form only if a payment has been made.

@@ -1,9 +1,3 @@
-<thinking>
-Internal note: The purpose of this form is to facilitate sharing resources from JT ACADEMY within the organization, allowing users to request access to materials and courses while ensuring that sharing is done appropriately, following a set of predefined conditions. This form is used by the requesters to provide necessary information about the requested resource and their intended use. The form will be used to evaluate and validate the request before granting access.
-
-To avoid duplication, we should check if a similar form has been filled out recently or if the requested resource is already shared.
-</thinking>
-
 # Clone Of JT ACADEMY Share - Help Guide
 ## Purpose
 This form is used to request access to materials and courses from JT ACADEMY, ensuring that sharing is done following a set of predefined conditions. It helps the requester provide necessary information about the resource and its intended use.

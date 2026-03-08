@@ -1,7 +1,3 @@
-<thinking>
-The form "spring_choices_bring_summer_results" is designed to collect information about an individual's personal preferences and habits related to exercise, diet, and health. This form is meant to be used by health professionals to assess an individual's fitness level and provide personalized recommendations for achieving their goals. It appears to be a comprehensive form that covers various aspects of an individual's lifestyle, including exercise frequency, intensity, and duration, diet preferences, and health conditions.
-</thinking>
-
 # spring_choices_bring_summer_results - Help Guide
 ## Purpose
 

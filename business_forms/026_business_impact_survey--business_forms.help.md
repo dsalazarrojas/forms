@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gauge the business impact of a potential disruption, such as a natural disaster, cyber attack, or economic shift. The goal is to assess the organizational readiness and resilience to face such disruptions. The form will ask about organizational readiness, vulnerability, and risk management to help identify potential areas of improvement.
-</thinking>
-
 # Business Impact Survey - Help Guide
 
 ## Purpose

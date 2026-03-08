@@ -1,10 +1,3 @@
-<thinking>
-The goal of this form is to gather feedback from users about their experience with a website, which can be used to identify areas of improvement. It's essential to ensure that each user has a positive and seamless experience on the site. This form will help us better understand the user's perspective and make informed decisions for future development. 
-
-We should avoid duplicating efforts and focus on collecting actionable feedback that will directly impact the website's functionality and user experience. This form should be used by users to provide their honest feedback on the website's performance, usability, features, and overall management.
-
-</thinking>
-
 # Website Management Feedback Form - Help Guide
 ## Purpose
 The Website Management Feedback Form is designed to collect feedback from users about their experience with a website. This feedback will help us understand user perspectives and improve the website's functionality and usability.

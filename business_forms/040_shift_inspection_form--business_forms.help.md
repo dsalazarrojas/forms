@@ -1,7 +1,3 @@
-<thinking>
-This form is part of the business_forms category, and as such, it's meant to be filled out in a professional setting, possibly for HR or administrative use. I assume the purpose of this form is for shift inspections, possibly to track employee attendance, performance, and other relevant data.
-</thinking>
-
 # shift_inspection_form - Help Guide
 ## Purpose
 The Shift Inspection Form is a tool used to track and document information for employee shifts, including attendance, performance, and other relevant details.

@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, ensure relevance of the form, and guarantee a seamless user experience, it's essential to clearly understand the purpose and requirements of the "Omnichannel Retail Grant Application" form. This form is intended for retailers to apply for grants related to their projects, covering proposals, contact information, funding requests, supporting documents, consent, project location, and project start date. To ensure accuracy, please review the form carefully before proceeding.
-</thinking>
-
 # Omnichannel Retail Grant Application - Help Guide
 ## Purpose
 

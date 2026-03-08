@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Moving Service Quotation Form - Help Guide
 
 ## Purpose

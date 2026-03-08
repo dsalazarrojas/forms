@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic, AI-generated holiday survey form. Its primary purpose is to collect information from users about their holiday preferences, travel plans, and contact details. This form is designed to be a basic template and might not cover specific requirements for every use case. If you're creating a survey for a particular holiday destination, you should tailor the form to include specific questions related to that location. Ensure that you're not collecting unnecessary or sensitive information.
-</thinking>
-
 # Holiday Survey - Help Guide
 ## Purpose
 

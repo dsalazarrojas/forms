@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is intended to collect information for logistics optimization grant applications. It appears to be used to assess the viability and feasibility of a project. The form asks for contact information, project details, and other relevant project aspects to evaluate the project's potential for grant funding. I will use this to create a user-friendly help guide.
-</thinking>
-
 # Logistics Optimization Grant Application Form - Help Guide
 ## Purpose
 The Logistics Optimization Grant Application Form is designed to help us understand the details of your project and assess its potential for grant funding. The information collected will be used to evaluate the feasibility and viability of your project.

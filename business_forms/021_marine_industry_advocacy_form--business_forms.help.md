@@ -1,18 +1,3 @@
-<thinking>
-
-This Marine Industry Advocacy Form is designed to help you provide feedback and report marine industry-related issues that require attention from the advocacy group. Before proceeding, please ensure that the issue you want to report is not a duplicate and that you have not submitted it previously.
-
-This form is intended to gather relevant information about marine industry-related issues, such as those related to marine pollution, environmental impact, or regulatory concerns. By filling out this form, you will be able to:
-
-* Report marine industry-related issues that need to be addressed
-* Provide context and supporting documentation for your claims
-* Specify the stakeholder perspective and follow-up preferences
-* Choose the correct issue type and location
-
-Please note that the information provided will be reviewed and used to support the marine industry advocacy group in their efforts to address these issues.
-
-</thinking>
-
 # Marine Industry Advocacy Form - Help Guide
 ## Purpose
 The purpose of this form is to help you report and provide feedback on marine industry-related issues.

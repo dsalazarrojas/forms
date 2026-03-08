@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to book an appointment with a mental health counselor. It collects information about the client's personal details, availability, and preferences for the session. This form is intended for clients to easily and efficiently schedule sessions with counselors. Please use this form to ensure a smooth and effective booking process.
-</thinking>
-
 # mental_health_counseling_booking_form - Help Guide
 ## Purpose
 The purpose of this form is to book an appointment with a mental health counselor.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Temperature Controlled Delivery Form - Help Guide
 ## Purpose
 This form is used to provide critical information for temperature-controlled delivery services. The form helps ensure that packages are handled, stored, and delivered at optimal temperatures to maintain product quality and safety.

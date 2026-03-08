@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting team equipment restock. It's used to notify the team that a restock is required for a specific equipment type. This form is not meant for urgent situations where equipment is already out of stock and needed immediately. To prevent duplication, the system will check if a team member has already submitted a restock request for the same equipment type within the last week. 
-</thinking>
-
 # Team Equipment Restock Request Form - Help Guide
 ## Purpose
 The Team Equipment Restock Request Form is a tool used to notify the team that a restock is required for a specific equipment type. This form is for planned restocks and is not intended for urgent situations where equipment is already out of stock and needed immediately.

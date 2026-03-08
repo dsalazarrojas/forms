@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a property before a purchase, including the property's address, condition, and features. This form ensures that the buyer has all necessary details about the property they are considering purchasing.
-
-Before completing this form, ensure that you have the required information about the property and the buyer. This form should not be used for properties that are already under contract or being inspected for the same buyer.
-
-</thinking>
-
 # Pre Purchase Home Inspection Checklist Form - Help Guide
 ## Purpose
 The Pre Purchase Home Inspection Checklist Form is a comprehensive form used to collect crucial information about a property before a purchase. This form helps buyers make informed decisions by providing a detailed overview of the property's condition, features, and other essential details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to book a desk for a specific user in the office environment. This form is likely to be used by administrative staff or office managers to manage desk allocations for employees. The purpose of this form is to collect relevant information from the user, including their name, preferred dates and times, selected desk preferences, and other contact information. This guide will walk you through each field of the form to help users understand what information to provide and how to complete it correctly.
-</thinking>
-
 # office_desk_booking_form - Help Guide
 ## Purpose
 The office desk booking form is used to book a desk for a specific user in the office environment.

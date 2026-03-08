@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for employees to report their daily expenses. It is intended to be completed on a daily basis, hence the name "Daily Expense Report Form". 
-The form allows users to report their expenses in a structured manner, providing details about the date, expense type, amount, description, category, and any additional comments or attachments. 
-The form is optional and not required for any of the fields, so users can report their expenses as needed. 
-
-It is assumed that the form will be used within the company to track and manage employee expenses.
-
-</thinking>
-
 # Daily Expense Report Form - Help Guide
 
 ## Purpose

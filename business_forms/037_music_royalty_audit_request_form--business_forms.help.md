@@ -1,13 +1,3 @@
-<thinking>
-This form is used by music industry professionals to request a royalty audit. The purpose of this form is to gather information about a music royalty audit, which is an examination of a company's music publishing and royalty payments. The audit is typically used to ensure accuracy and fairness in royalty payments.
-
-The form is intended for individuals who work in the music industry and need to submit a request for a royalty audit. They will be asked to provide their artist name, label name, audit period, start date, end date, submitter name, and submitter email. They will also be able to upload supporting documents related to the audit.
-
-The form is used in a business-to-business context, where companies are audited for royalty payments. This form is not intended for individual artists or consumers.
-
-To ensure that the form is filled out correctly, the fields are clearly labeled, and the submitter is required to provide accurate information for their artist name, label name, and submitter name and email.
-</thinking>
-
 # Music Royalty Audit Request Form - Help Guide
 ## Purpose
 The Music Royalty Audit Request Form is used to request a royalty audit, which is an examination of a company's music publishing and royalty payments.

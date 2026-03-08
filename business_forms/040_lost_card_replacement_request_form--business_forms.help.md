@@ -1,18 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, I analyzed the YAML metadata and identified the following:
-
-* The form's title is "Lost Card Replacement Request Form", which suggests that it is used to request a replacement for a lost card.
-* The form's category is "business_forms", indicating that it is used in a business or professional setting.
-* The form's purpose is to gather information from users who have lost their cards, likely for replacement or issuance purposes.
-
-To ensure that the form is not used to request duplicate replacements or to provide unnecessary information, the following checks can be implemented:
-
-* Implement an ID system to track previous submissions and prevent duplicate requests.
-* Add a question or field to ask if the user has already submitted a replacement request, and if so, to provide a link or reference number to the previous submission.
-
-</thinking>
-
 # Lost Card Replacement Request Form - Help Guide
 ## Purpose
 The Lost Card Replacement Request Form is designed to collect information from users who have lost their cards for replacement or issuance purposes. This form helps the requesting party (e.g., the card issuer) to verify the identity of the cardholder, track lost card events, and provide efficient replacement services.

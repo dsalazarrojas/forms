@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect time tracking information for business or enterprise purposes. It's crucial to accurately categorize the form type to ensure that the submitted data is properly recorded in the system. Please verify that the form type aligns with the actual purpose of the form. Note that this form is a summary report, so the "Work Log" and "Additional Notes" fields are optional and only required if additional context is needed. The form will be used to track time spent on tasks and activities within the "Business" or "Enterprise" category. If a break time is not applicable, users can still submit the form without providing this information. The "Assigned Tool" field is only relevant if a specific tool was used during the task.
-</thinking>
-
 # Time Tracking Summary Report Form - Help Guide
 ## Purpose
 This form is designed for time tracking and reporting purposes, specifically for business or enterprise activities. It's essential to select the correct form type to ensure accurate data categorization.

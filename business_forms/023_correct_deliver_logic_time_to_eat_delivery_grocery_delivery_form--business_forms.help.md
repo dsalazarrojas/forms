@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers for their grocery delivery order. It will help us understand their preferences and requirements for a seamless delivery experience. Before completing this form, please note that you will be providing sensitive information such as payment method and tip amount. If you are unsure about any field, you can always contact our support team for assistance.
-
-</thinking>
-
 # CORRECT Deliver Logic Time To Eat Delivery Grocery Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for their grocery delivery order, ensuring a smooth and personalized delivery experience.

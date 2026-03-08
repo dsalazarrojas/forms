@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect and document safety inspection outcomes and follow-up information for safety inspections performed on facilities, equipment, or processes. It aims to gather data that helps identify areas of improvement and monitor the effectiveness of safety measures.
-
-Before proceeding, ensure that this form is relevant to your specific business or organization's needs and that it does not overlap with other existing forms.
-
-</thinking>
-
 # Safety Inspection Outcomes Report Form - Help Guide
 ## Purpose
 This form helps in documenting the outcomes of a safety inspection, allowing for the tracking and monitoring of safety measures and areas for improvement.

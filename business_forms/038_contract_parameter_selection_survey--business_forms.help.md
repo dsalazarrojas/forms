@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication and ensure accurate completion, please make sure to fill out this form carefully and only once. The purpose of this form is to gather information about your client's preferences for their contract parameters. This will help us better understand their needs and ensure that we tailor the agreement accordingly.
-</thinking>
-
 # Contract Parameter Selection Survey - Help Guide
 ## Purpose
 This form collects information about your client's preferences for their contract parameters, including client contact information, survey date, and other contract specifics. Your input will help us better understand their needs and create a suitable agreement.

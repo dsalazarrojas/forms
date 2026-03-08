@@ -1,9 +1,3 @@
-<thinking>Before creating a help guide for the "Call Details Record Form", let's consider the form's purpose and the fields it contains. It appears that this form is designed to record information about phone calls, including details such as call dates, times, durations, caller and recipient information, call summaries, and action items or follow-up notes. Each section is labeled with a brief header, indicating a division between different categories of information.
-
-This form seems to be for business or customer service purposes, where call records are maintained for reference and follow-up. It's likely that the form is used to track and analyze call data for improving customer service or sales strategies.
-
-To ensure the form is completed correctly, I'll focus on explaining each field in detail, using the provided YAML fields as reference.</thinking>
-
 # Call Details Record Form - Help Guide
 ## Purpose
 This form is designed to record information about phone calls, including call dates, times, durations, caller and recipient information, call summaries, and action items or follow-up notes.

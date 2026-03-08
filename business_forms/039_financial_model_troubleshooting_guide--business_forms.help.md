@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Financial Model Troubleshooting Guide" form, which seems to be used to report and track issues related to financial models. This form will be completed by users who encounter problems with the financial model, providing detailed information about the issue. This guide will walk users through the purpose of the form, explain how to fill it out, and provide an in-depth explanation of each field.
-
-</thinking>
 # Financial Model Troubleshooting Guide - Help Guide
 ## Purpose
 The Financial Model Troubleshooting Guide is a form used to report and track issues related to financial models. By completing this form, you will provide detailed information about the problem you are experiencing, which will help the team to identify and resolve the issue efficiently.

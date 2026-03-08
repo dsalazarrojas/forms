@@ -1,14 +1,3 @@
-<thinking>
-This form is for managing vendor relationships. It is likely used by procurement teams within an organization to collect information about vendors and track their agreements. The form has four pages, each with its own set of fields. To determine if this form is relevant, consider the following:
-
-- Does the form collect information about vendors?
-- Does it involve managing vendor agreements?
-- Is the form used for internal purposes within the organization?
-
-If you answered yes to these questions, this form is likely relevant for you. However, if you are unsure, please consult with your team or the form's creators to confirm its purpose and requirements.
-
-</thinking>
-
 # Vendor Management Form - Help Guide
 ## Purpose
 This form is designed to collect and manage information about vendors and their agreements with your organization.

@@ -1,11 +1,3 @@
-<thinking>...This form is likely used for business purposes, such as tracking team restarts, and is likely used by team leaders or managers to document and verify team member agreements on restarts. This form is likely used to collect data on team members, restart dates, follow-up dates, and reasons for restarts. This form should be reviewed to ensure all required fields are filled out by the team leader or manager. This form might already exist in the company's database, so the end user should double-check that the information is up-to-date and accurate before filling out the form.
-
-If this form is not relevant, it might be due to a team member's position change, a project's completion, or other internal reasons. In that case, a new form would be created. However, if this form is already being used, it's essential to understand its intended use and purpose to avoid duplication of effort.
-
-In the following help guide, we'll go through the form's purpose and how to complete it, as well as a field-by-field explanation to help end-users understand what each field means and how it's used.
-
-</thinking>
-
 # Restart Agreement Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information from business users who wish to participate in the Process Intelligence Advisory Program. This program aims to provide guidance and support to users in improving their business processes. By providing the necessary information, users can get access to expert advice and resources that can help them optimize their processes and achieve their objectives. Before proceeding, please ensure that you are eligible to participate in the program and haven't submitted an application previously. If you're unsure, please contact the program administrators for further guidance.</thinking>
-
 # Process Intelligence Advisory Program Application - Help Guide
 
 ## Purpose

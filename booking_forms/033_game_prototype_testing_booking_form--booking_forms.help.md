@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to book a testing session for a game prototype, allowing testers to provide information about their interest in testing, testing details, and demographics. It's essential to ensure that this form is completed accurately and thoroughly, as it will help the game development team plan and prepare for the testing sessions. Please check the form for any errors or incomplete fields before submitting it.
-
-The form is composed of multiple pages, each with different fields to collect relevant information. The fields include selecting whether you are interested in booking a testing session (booking_form), providing details about the tester (tester_details), selecting testing session options (testing_session), specifying the duration of the testing session (testing_duration), dates and times for the testing session (testing_date and testing_time), providing session details (testing_session_details), personal details of the tester (tester_name, tester_email, tester_phone, tester_agreement, tester_occupation, tester_education, tester_experience, tester_handedness, tester_language, tester_gender, tester_age), and tester availability (tester_availability).
-
-To complete this form, follow these steps:
-
-1. Select whether you are interested in booking a testing session.
-2. Provide details about yourself as a tester.
-3. Select your preferred testing session options.
-4. Specify the duration of the testing session.
-5. Choose dates and times for the testing session.
-6. Provide session details.
-7. Fill in your personal details.
-8. Confirm your agreement to test.
-9. Select your availability.
-</thinking>
-
 # Game Prototype Testing Booking Form - Help Guide
 ## Purpose
 The Game Prototype Testing Booking Form is used to book a testing session for a game prototype, allowing testers to provide information about their interest in testing, testing details, and demographics.

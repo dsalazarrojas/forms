@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for requesting a game launch interview with a game developer or a gaming company. The form is probably intended for internal use within the company, and its purpose is to schedule an interview with a representative to discuss the game's launch. The form is not a generic contact form, and the required fields are specific to the nature of the interview. It is possible that this form is used by marketing or customer service teams to schedule meetings with game developers or stakeholders for product discussions, feedback, or Q&A.
-</thinking>
-
 # game-launch-interview-booking-form - Help Guide
 ## Purpose
 This form is used to request a game launch interview with a game developer or a gaming company. Fill out this form to schedule an in-person or virtual meeting with a representative to discuss your game's launch.

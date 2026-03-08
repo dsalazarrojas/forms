@@ -1,14 +1,3 @@
-<thinking>
-This form is used for Anti-Money Laundering (AML) compliance purposes to verify and obtain consent from clients for identity verification, monitoring of account activities, and information sharing with regulatory authorities. It is designed to be completed by clients who are opening an account with the institution. 
-
-The form is designed to ensure that clients are aware of and agree to the necessary procedures for maintaining AML compliance. This includes identity verification, monitoring of account activities, and information sharing with regulatory authorities. 
-
-The form should not be used for other purposes such as account opening or account management.
-
-Please ensure that the form is filled out accurately and completely to avoid any issues with account opening or AML compliance.
-
-</thinking>
-
 # AML Compliance Consent Form - Help Guide
 
 ## Purpose

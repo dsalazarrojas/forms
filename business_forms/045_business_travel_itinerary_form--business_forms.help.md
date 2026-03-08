@@ -1,7 +1,3 @@
-<thinking>
-The Business Travel Itinerary Form is used to collect essential information from employees regarding their business travel plans. This includes personal details, trip objectives, travel dates, and logistical arrangements for the trip. The form ensures that all employees have a comprehensive and well-structured travel plan in place, providing managers and administrators with necessary data for oversight and planning. It's crucial to fill out the form accurately and completely to avoid any issues during the trip. Ensure that you have all the required information before submitting the form.
-</thinking>
-
 # Business Travel Itinerary Form - Help Guide
 ## Purpose
 The Business Travel Itinerary Form is used to collect essential information from employees regarding their business travel plans.

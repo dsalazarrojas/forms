@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to report incidents or issues within the office and gym areas. This form helps ensure that any problems or accidents are recorded and addressed in a timely manner. It is not intended for general office usage or daily activities, but rather for specific incidents that require immediate attention. Ensure that you only submit this form if the incident meets the criteria for reporting. 
-
-Duplicate submissions for the same incident should be avoided as it may lead to unnecessary duplication of work and confusion among staff.
-
-</thinking>
-
 # Office And Gym Drop Report - Help Guide
 ## Purpose
 This form is used to report incidents or issues within the office and gym areas.

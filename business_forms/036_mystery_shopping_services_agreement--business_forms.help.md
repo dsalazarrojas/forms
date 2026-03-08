@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and agreement terms from customers for mystery shopping services. The form is likely used in the retail or hospitality industry to ensure that customers understand their roles and responsibilities when engaging with a mystery shopping service provider. The form's structure suggests it will collect information about the customer's identity, assignment terms, confidentiality expectations, approval process, customer service, review process, payment terms, and contact information. This form is likely used by businesses that offer mystery shopping services to their clients. 
-
-The form appears to be designed for customers to fill out, but it could also be used by business owners or managers to collect information from customers about their mystery shopping services.
-</thinking>
-
 # Mystery Shopping Services Agreement - Help Guide
 
 ## Purpose

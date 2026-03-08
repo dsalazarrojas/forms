@@ -1,7 +1,3 @@
-<thinking>
-The Sidewalk Inspection Checklist is a form used to document and manage the inspection and maintenance of sidewalks. This form is likely used by facilities or maintenance teams to identify issues with sidewalks, assign them to specific individuals, and track the status and priority of repairs. It should not be used to create duplicate records or for purposes not related to sidewalk inspections. 
-</thinking>
-
 # Sidewalk Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about the condition of sidewalks, assign maintenance tasks, and track the status and priority of repairs.

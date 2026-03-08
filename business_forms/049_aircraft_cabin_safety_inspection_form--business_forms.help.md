@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document the findings and results of an aircraft cabin safety inspection. It's essential to ensure that all fields are accurately and completely filled out to maintain accurate records. Please ensure that you're using this form for its intended purpose and not for other unrelated tasks.
-</thinking>
-
 # Aircraft Cabin Safety Inspection Form - Help Guide
 ## Purpose
 This form is used to document the findings and results of an aircraft cabin safety inspection. It's essential to ensure that all fields are accurately and completely filled out to maintain accurate records.

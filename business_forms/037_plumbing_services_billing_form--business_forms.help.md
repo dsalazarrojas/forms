@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to record information about the services provided to customers. The form is used to document customer interactions, including billing details. The purpose of this form is to ensure accurate and complete records of services provided. Ensure the form is completed only for customers who have interacted with your business.
-
-This form should only be used for customers who have a known interaction with your business. Do not use this form for unknown customers or for customers with incomplete information.
-
-</thinking>
-
 # plumbing-services-billing-form - Help Guide
 ## Purpose
 The purpose of this form is to record and document customer interactions, including billing details for services provided to customers.

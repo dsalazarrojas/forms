@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to create a requisition for the Customer Behavior Analysis Tool, which is a platform that helps businesses analyze and understand their customer behavior. The form is designed to collect relevant information from customers, including their name, email, and the name of the tool they are interested in using. This information will be used to create a custom analysis report for the customer, providing insights and recommendations to improve their business.
-
-Before filling out this form, please ensure that you are not duplicating your submission. If you have already submitted a form with the same customer information, your new submission will not be accepted.</thinking>
-
 # customer_behavior_analysis_tool_requisition_form - Help Guide
 ## Purpose
 The Customer Behavior Analysis Tool requisition form is used to collect information from customers to create a custom analysis report for their business.

@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect data from customers or internal users for simple supply orders. The form is likely to be used by businesses or organizations to gather information about the supplies they need or want to order. The form's fields should not require any complex calculations or advanced technical knowledge. Its design should be straightforward and user-friendly to ensure accurate and efficient data collection... </thinking>
-
 # Simple Supply Order Form - Help Guide
 ## Purpose
 This form is designed to collect data from customers or internal users for simple supply orders.

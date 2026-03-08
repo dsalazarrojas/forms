@@ -1,6 +1,3 @@
-<thinking>
-This form is meant to verify compliance of vendors with certain standards or regulations. It likely requires inputting information about the vendor, such as contact details or verification status. The form should be designed to gather relevant data in a clear and concise way for easy reference and decision-making. Before continuing, check if this form already exists in your repository or documentation, or if it's a modified version of a similar form. If it's an updated version of an existing form, consider merging or replacing it with the new one to avoid duplication of efforts and confusion.</thinking>
-
 # Vendor Compliance Verification Form - Help Guide
 ## Purpose
 The Vendor Compliance Verification Form is a tool used to verify that vendors meet certain standards or regulations. This form is used to gather relevant information about the vendor, including their status of compliance, and to document the process of verification.

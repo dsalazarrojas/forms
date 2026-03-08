@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to help users estimate the cost of parking in different cities. The purpose of this form is to provide a quick and easy way to calculate the cost of parking in various locations. 
-
-The form consists of several fields that users need to fill in order to get an estimate of the parking cost. 
-
-The fields include:
-
-*   Location of parking
-*   Number of hours of parking
-*   Number of days of parking
-*   Type of parking (Free or Paid)
-*   Parking rate per hour
-*   Total parking cost
-*   Estimated number of hours of parking
-*   Estimated number of days of parking
-
-The form is designed to be simple and easy to use, allowing users to get an estimate of the parking cost quickly and accurately.
-
-</thinking>
-
 # Parking Cost Estimator - Help Guide
 ## Purpose
 The Parking Cost Estimator form is designed to help users estimate the cost of parking in different cities. This form is intended to be a quick and easy way to calculate the parking cost, providing users with an estimate based on their input.

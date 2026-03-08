@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect acknowledgments related to intellectual property rules for a business. The purpose of the form is to gather information from users about their intellectual property rights, such as names, contact information, and dates related to IP rules. To ensure accuracy and prevent duplicate submissions, the form will only be accessible after user authentication and will only be filled out once per user. The information collected will be used for internal purposes only and will not be shared or sold to any third party.
-</thinking>
-
 # Intellectual Property Rules Acknowledgement Form - Help Guide
 ## Purpose
 The Intellectual Property Rules Acknowledgement Form is used to collect acknowledgments from users related to intellectual property rules, including their name, contact information, and dates related to IP rules.

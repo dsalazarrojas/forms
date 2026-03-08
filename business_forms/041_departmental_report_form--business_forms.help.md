@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from departmental teams, specifically for internal reporting and communication purposes. It's likely intended for use within a company or organization, possibly for daily or weekly reports. The form includes fields for selecting a department, listing internal issues, and uploading relevant documents. It also asks for the manager's email, phone number, and name, which may be used for follow-up communication. The form doesn't seem to be for external use, as it doesn't include any fields for customer or client information. The fields are mostly optional, which suggests that this form might be used for internal reporting and record-keeping rather than for external communication. The form's purpose and usage are not explicitly stated, so it's hard to say for certain without more context. However, the fields and options suggest a simple reporting and information gathering tool.</thinking>
-
 # Departmental Report Form - Help Guide
 
 ## Purpose

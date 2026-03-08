@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # scope_of_work_form - Help Guide
 
 ## Purpose

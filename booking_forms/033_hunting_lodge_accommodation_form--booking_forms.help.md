@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for guests to book their accommodation at a hunting lodge. It is used to collect information about their arrival and departure dates, contact details, and preferences for their stay. The form should only be filled out by guests who have not already booked an accommodation at the lodge, and should not be used to resubmit existing bookings.
-</thinking>
-
 # Hunting Lodge Accommodation Form - Help Guide
 ## Purpose
 This form is used to book and manage accommodations at a hunting lodge.

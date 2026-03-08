@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to record and summarize the quality nonconformances that occur within the company. The purpose of this form is to ensure that incidents are properly documented, tracked, and reported, which helps to prevent recurrence and improves overall quality management. This form is typically used by quality engineers or quality managers to gather information about each incident, which can then be reviewed and analyzed to identify trends and areas for improvement. 
 
 Before filling out this form, please ensure that you have a clear understanding of the incident details, severity, categorization, description, corrective action taken, and date of occurrence. 

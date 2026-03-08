@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Office Supplies Tracking Form", let's analyze the provided YAML structure. The form is meant to track office supplies, including inventory levels, usage, and other relevant metrics. We'll break down the form into its individual fields, explaining each component to ensure end-users understand its purpose and usage.
-
-</thinking>
-
 # Office Supplies Tracking Form - Help Guide
 ## Purpose
 The Office Supplies Tracking Form is designed to provide a structured way to track office supplies, allowing for accurate inventory levels, usage, and other relevant metrics. This form will help you monitor your office supplies and optimize your operations.

@@ -1,15 +1,4 @@
-### <thinking>...thinking>
-
-The form's internal reasoning can be as follows:
-- The Credentialed Board And Train Contract form is used to capture information about a client's training program and agreement with a trainer. 
-- It is likely used to track client-trainer agreements and training progress. 
-- The form's fields seem to cover basic contract information (client name, trainer name, contract duration), training specifics (training program, start date, end date), and behavior-related fields (behavior professionals, LIMA and Training, Science and Behavior).
-- The fields appear to be well-organized and comprehensive, covering all relevant aspects of a contract between a client and a trainer.
-- However, the "contract_date" field seems out of place, as it's not marked as required, and there's no clear indication of what it represents.
-
-</thinking>
-
-# Credentialed Board And Train Contract - Help Guide
+### # Credentialed Board And Train Contract - Help Guide
 ## Purpose
 The Credentialed Board And Train Contract form is used to capture information about a client's training program and agreement with a trainer. This form helps track client-trainer agreements and training progress.
 

@@ -1,5 +1,3 @@
-<thinking>This guide is intended to help users understand the purpose, structure, and requirements of the Facility Maintenance Check In Form. Before proceeding, please ensure that you need to use this form for its intended purpose and do not duplicate efforts by checking the current status of existing facilities. The form is designed to be completed for maintenance check in, issue reporting, task scheduling, and other relevant activities related to facility maintenance. It is recommended to read this guide carefully before starting to fill out the form.</thinking>
-
 # Facility Maintenance Check In Form - Help Guide
 ## Purpose
 

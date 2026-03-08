@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Innovation Grant Application Form - Help Guide
 
 ## Purpose

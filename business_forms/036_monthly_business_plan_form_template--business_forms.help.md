@@ -1,14 +1,3 @@
-<thinking>
-To be honest, this form's purpose is a bit unclear to me. It seems to be a generic business plan form, but it's not very specific about what kind of business plan it's for (e.g., sales plan, marketing plan, etc.). The field labels don't provide much insight into their purpose, either. For example, "Monthly Plan" could refer to a specific month or a general plan for the month. "Progress" seems to be related to tracking progress, but how does it relate to the plan itself? Without more information, it's hard to give a concrete explanation.
-
-That being said, I'll do my best to create a help guide based on the provided fields. If I'm incorrect in my assumptions, please let me know and I'll be happy to adjust!
-
-Also, I noticed that the "progress" field is a number type but has no options. I assume it's meant to be a numerical value, but if that's not the case, please clarify.
-
-Lastly, I'll follow the requested Markdown structure for the help guide.
-
-</thinking>
-
 # Monthly Business Plan Form Template - Help Guide
 ## Purpose
 This form is designed to help you create a monthly business plan. It consists of several sections that guide you through the process of setting up and tracking your business goals, strategies, and progress.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used by end users to book a tennis court. The primary goal is to collect the necessary information for the user's reservation. This form is not intended for internal administrative purposes but rather for end users to provide their personal details and preferences for tennis court booking.
 
 ## Tennis Court Reservation Form - Help Guide

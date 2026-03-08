@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from artists who want to participate in a music label showcase event. The form is intended to gather details about the artist's preferences, technical requirements, and contact information. The purpose of this form is to ensure that the event organizers have a clear understanding of the artist's needs and expectations. 
-
-The form is not intended for general public use, but rather for artists who have already been selected or have expressed interest in participating in the event. The event organizers will review the submitted forms to determine which artists to feature in the showcase.
-
-Before filling out this form, please ensure you are eligible to participate in the event. 
-
-</thinking>
-
 # music_label_showcase_slot_booking_form - Help Guide
 ## Purpose
 The music_label_showcase_slot_booking_form is a form designed to gather information from artists participating in a music label showcase event. The form is used by event organizers to understand the artist's preferences and technical requirements.

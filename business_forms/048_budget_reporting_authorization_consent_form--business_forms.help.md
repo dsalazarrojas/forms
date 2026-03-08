@@ -1,5 +1,3 @@
-<thinking>As the form designer, I've reviewed the YAML file and understand the form's purpose and requirements. This form is used for obtaining authorization from employees to access budget reporting, ensuring that employees are aware of their data sensitivity level, confidentiality agreements, and authorized use of the data. I'll create a comprehensive help guide to aid end-users in completing this form correctly.</thinking>
-
 # Budget Reporting Authorization Consent Form - Help Guide
 ## Purpose
 The Budget Reporting Authorization Consent Form is used to obtain authorization from employees to access budget reporting information. This form is essential in ensuring that employees are aware of their rights and responsibilities related to data sensitivity, confidentiality, and authorized use.

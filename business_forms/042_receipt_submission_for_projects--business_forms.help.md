@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to ensure that the "Receipt Submission For Projects" form is user-friendly and easy to understand. This form is used for submitting receipts for projects, and its purpose is to gather information about the project and the submitter. The form's fields should be self-explanatory and clear, with each field serving a specific purpose. I will review each field's label, type, and options to craft a comprehensive help guide that covers the form's purpose, how to complete it, and what each field means. I will also check for any non-duplication and ensure that the form's functionality aligns with its purpose.</thinking>
-
 # Receipt Submission For Projects - Help Guide
 ## Purpose
 The "Receipt Submission For Projects" form is used for submitting receipts related to projects. This form helps collect essential information about the project and the submitter, which will help in efficient management and processing of project-related receipts.

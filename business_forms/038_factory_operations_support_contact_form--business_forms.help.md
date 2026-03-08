@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information from factory operations staff regarding issues or support requests that require attention. This form will help the support team to quickly identify and address these issues, ensuring a smooth operation of the factory.
-
-To avoid duplication, the form will only allow submission from factory operations staff and will be reviewed by the support team before any action is taken.
-
-To avoid irrelevant submissions, the form should not be filled out for general inquiries or non-emergency issues.
-</thinking>
-
 # Factory Operations Support Contact Form - Help Guide
 ## Purpose
 The Factory Operations Support Contact Form is a tool for factory operations staff to report issues or request support from the support team. This form helps the support team to quickly identify and address these issues, ensuring a smooth operation of the factory.

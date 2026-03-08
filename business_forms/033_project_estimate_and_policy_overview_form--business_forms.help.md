@@ -1,10 +1,3 @@
-<thinking> 
-This form appears to be a generic form for collecting project information, with a mix of text, select, date, and number fields. The form includes fields for project estimate, policy, client approval, status, and other project-related information. It seems that the form is intended to capture project data for business purposes, likely for internal use within the organization. I'll review the fields and provide an explanation for each.
-
-Please note that some field labels are unclear or vague, and I'll provide a best-effort explanation based on the field type and options.
-
-</thinking>
-
 # Project Estimate And Policy Overview Form - Help Guide
 
 ## Purpose

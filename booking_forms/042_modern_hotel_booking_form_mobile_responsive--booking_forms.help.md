@@ -1,8 +1,3 @@
-<thinking>
-This form was created to help hotel customers book a room or make a reservation. The form is designed for customers who are booking on their mobile devices. It collects customer and travel information, pick up details, any special requests, payment information, and confirmation details.
-To complete this form, simply follow these steps:
-</thinking>
-
 # modern_hotel_booking_form_mobile_responsive - Help Guide
 
 ## Purpose

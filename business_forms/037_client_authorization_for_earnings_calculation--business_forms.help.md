@@ -1,10 +1,4 @@
-<figure><thinking>
-
-This form is designed to gather essential information from clients for earnings calculation and authorization purposes. It's crucial to ensure that the client provides accurate and complete data to facilitate a proper financial assessment. The form's fields are intended to collect identifying details, authorization, and specific calculation parameters.
-
-</thinking>
-
-# Client Authorization For Earnings Calculation - Help Guide
+<figure># Client Authorization For Earnings Calculation - Help Guide
 ## Purpose
 This form is used to gather client authorization for earnings calculation, which is crucial for financial assessments and income verification. Clients must provide accurate and complete information to ensure a thorough understanding of their financial situation.
 

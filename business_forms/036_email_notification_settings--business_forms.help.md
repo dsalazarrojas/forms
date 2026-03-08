@@ -1,7 +1,3 @@
-<thinking>
-The form is used to set up email notification settings for a business or organization. It allows users to configure how they would like to receive notifications, including the frequency and type of notifications, as well as the format and timezone of the emails they receive. This form is typically used by administrators or system owners to tailor the email notification settings to their needs.
-</thinking>
-
 # email_notification_settings - Help Guide
 ## Purpose
 The email_notification_settings form is used to set up email notification settings for a business or organization.

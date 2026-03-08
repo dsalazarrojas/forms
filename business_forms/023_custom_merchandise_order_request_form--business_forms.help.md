@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for businesses to request custom merchandise orders, such as personalized products or promotional materials. The purpose of this form is to gather relevant information from the business to fulfill their order efficiently and accurately.
-</thinking>
-
 # Custom Merchandise Order Request Form - Help Guide
 
 ## Purpose

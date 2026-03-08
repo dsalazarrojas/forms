@@ -1,13 +1,3 @@
-<thinking>
-This form seems to be designed for utility bill inquiries, and based on the fields provided, it appears to be for customers to report issues or discrepancies with their utility bills. The form likely serves as a mechanism for customers to clarify any issues with their bills, such as errors, discrepancies, or missing information. 
-
-The form may also be used by utility providers to track and manage these issues, including following up with customers and updating the status of these inquiries.
-
-The fields provided in the form seem to cover all relevant aspects of a utility bill inquiry, from basic details like bill number and date, to specific issues or discrepancies, and the customer's preferred method of contact. The fields also allow for tracking the progress and resolution of the issue, as well as the method and date of follow-up.
-
-The form does not appear to be duplicated and is a unique adaptation of a utility bill inquiry form, with fields for customer name, utility bill number, bill date, description of the issue, preferred contact method, and contact method. The form is also flexible, allowing for multiple contact methods and a follow-up method.
-</thinking>
-
 # Utility Bill Clarification Request Form - Help Guide
 ## Purpose
 This form is designed to help customers report issues or discrepancies with their utility bills and allow utility providers to track and manage these inquiries.

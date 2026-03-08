@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the coordination of inventory transfers between departments or teams within a business. This form is used to gather essential information about the transfer, including the contact person's name, email, and phone number, as well as details about the transfer, such as the date and time of the transfer, and whether a specific tool is assigned to the transfer. The form is likely used by logistics or supply chain teams to coordinate the movement of inventory between different locations or teams. It's a good idea to review this form regularly to ensure all the necessary information is provided and that it's accurate to avoid any potential issues during the transfer process.
-
-</thinking>
-
 # Inventory Transfer Coordination Contact Form - Help Guide
 ## Purpose
 The Inventory Transfer Coordination Contact Form is used to gather information from the contact person responsible for the inventory transfer.

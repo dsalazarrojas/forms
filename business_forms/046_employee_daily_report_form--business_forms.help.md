@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from employees on a daily basis, capturing their activities, tasks, productivity, comments, and status updates. This data can help management and team leads track employee work progress, identify potential issues, and make informed decisions. The form's design and fields are intended to be straightforward and easy to fill out, ensuring that employees can submit their daily reports in a timely manner.
-
-</thinking>
-
 # Employee Daily Report Form - Help Guide
 ## Purpose
 The Employee Daily Report Form is designed to gather daily information from employees, helping management and team leads track work progress, identify potential issues, and make informed decisions.

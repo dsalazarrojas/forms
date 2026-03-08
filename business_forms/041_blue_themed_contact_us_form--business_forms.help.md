@@ -1,12 +1,3 @@
-<thinking>
-  This form is a contact us form designed to allow visitors to get in touch with the company's team. The purpose of this form is to gather information from visitors about their inquiries, requests, or other concerns. This form is likely used by the company's customer support team to handle various types of requests, such as sales inquiries, technical support, or partnership opportunities.
-
-To prevent duplication, this form is likely used in conjunction with other systems, such as CRM or helpdesk software, to manage and track customer interactions.
-
-The fields in this form are designed to collect relevant information about the visitor, their inquiry, and their contact preferences.
-
-</thinking>
-
 # Blue Themed Contact Us Form - Help Guide
 ## Purpose
 The Blue Themed Contact Us Form is designed to collect information from visitors who want to get in touch with the company's team. This form is used to handle various types of requests, such as sales inquiries, technical support, or partnership opportunities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for businesses to apply to become predictive inventory partners of our company. The form collects information about the company, its integration details, and the expected level of integration. This is a one-time application form, and the information provided will be reviewed and considered for potential partnership opportunities. This form is not intended for internal use, but rather for external businesses looking to partner with us.
-</thinking>
-
 # Predictive Inventory Partner Application Form - Help Guide
 ## Purpose
 This form is for businesses to apply to become predictive inventory partners of our company. It collects information about the company, its integration details, and the expected level of integration.

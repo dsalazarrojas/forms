@@ -1,7 +1,5 @@
 # service_request_intake_form - Help Guide
 ## Purpose
-<thinking>...</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow these steps:
 

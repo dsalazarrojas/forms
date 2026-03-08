@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to provide information about a funding application, which is likely related to loan or investment proposals. The purpose of this form is to collect relevant details about the applicant, including personal and financial information. To complete this form, users will need to fill in the required fields, which may include First Name, Last Name, Email, Phone, and other relevant details. Each field is designed to collect specific information, such as loan type, loan amount, loan term, and credit score. Users should ensure that the information they provide is accurate and complete to ensure a smooth evaluation process.
-
-</thinking>
-
 # funding-application - Help Guide
 ## Purpose
 This form is designed to collect information about a funding application, which is likely related to loan or investment proposals.

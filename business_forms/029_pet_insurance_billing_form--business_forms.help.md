@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Pet Insurance Billing Form", I need to consider the form's purpose, how to complete it, and what each field means. This form appears to be used for invoicing pet insurance payments, which means it's a crucial form for pet owners to input payment information. 
-
-- **Purpose**: The form is designed for pet owners to input payment details for their pet's insurance policy.
-- **Relevance**: This form is likely used by pet insurance companies or service providers to receive payments from pet owners.
-- **Non-duplication**: This form should not be used for other purposes, such as general payment receipts or other business transactions not related to pet insurance.
-
-</thinking>
-
 # Pet Insurance Billing Form - Help Guide
 ## Purpose
 The Pet Insurance Billing Form is used for pet owners to input payment details for their pet's insurance policy.

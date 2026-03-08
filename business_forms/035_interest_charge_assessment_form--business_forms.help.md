@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to calculate or assess an interest charge, likely for financial purposes, such as calculating interest on a loan or investment. This form is likely used by a finance team or accounting department to record and assess interest charges. I will assume that the form is used internally within a company or organization. The purpose is likely to track and record interest charges, providing necessary information for financial reporting and accounting purposes.
-</thinking>
-
 # Interest Charge Assessment Form - Help Guide
 ## Purpose
 The Interest Charge Assessment Form is used to record and assess interest charges for financial transactions. This form provides a structured way to input necessary information about the interest charge, including principal amount, interest rate, and interest start and end dates.

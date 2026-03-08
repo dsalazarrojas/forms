@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the completion of a material inspection checklist for building inspections. The purpose of this form is to gather information about the materials received during an inspection, including the inspector's name, the date of the inspection, and a description of the materials inspected. The form is intended for use by building inspectors and assessors who need to evaluate the condition of various materials during a building inspection. The fields in this form are meant to be completed by the inspector during the course of the inspection.
-</thinking>
-
 # Material Inspection Checklist - Help Guide
 ## Purpose
 This form is used to record the results of a material inspection during a building inspection. It is designed to help inspectors evaluate the condition of materials and make notes on any issues found.

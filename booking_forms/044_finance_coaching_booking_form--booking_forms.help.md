@@ -1,13 +1,3 @@
-<thinking>
-The form "finance_coaching_booking_form" is used for booking and scheduling coaching sessions with clients. It gathers essential details to ensure a smooth and effective coaching process. This form is intended for internal use, and its completion is mandatory for clients. The form collects information that will be used to schedule and conduct the coaching sessions. It is crucial to fill out the form accurately to avoid delays or rescheduling.
-
-This form has multiple pages, but most fields are on the first page. The form requires the client's name, available time, and session type. The session type is a crucial field as it determines the coaching method (video, phone, or in-person). The available time field is also critical as it helps in scheduling the coaching session. The other fields, such as preferred coaching method and end time, are optional but can be useful in tailoring the coaching experience to the client's preferences.
-
-It is essential to ensure that the session type is selected correctly and that the available time is accurate to avoid any scheduling conflicts or delays. The client's name is a required field, and it is crucial to ensure that the correct client's details are captured accurately.
-
-The form is designed to be simple and user-friendly, making it easy for clients to provide the necessary information. However, it is the client's responsibility to ensure that the form is filled out accurately and completely before submitting it.
-</thinking>
-
 # finance_coaching_booking_form - Help Guide
 ## Purpose
 The finance_coaching_booking_form is used to book and schedule coaching sessions with clients.

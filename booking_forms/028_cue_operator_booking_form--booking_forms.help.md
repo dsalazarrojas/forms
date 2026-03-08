@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect booking information for a "Cue Operator" event. The purpose of this form is likely to allow users to book a specific event with an operator, providing details such as event date, time, location, and operator contact information. The form also allows users to confirm their booking status and select additional tools to be assigned. To avoid duplication, it is essential to review the form's fields carefully to understand the specific requirements and limitations.
-</thinking>
-
 # Cue Operator Booking Form - Help Guide
 ## Purpose
 The Cue Operator Booking Form is designed to collect booking information for a specific event with an operator. This form is used to gather essential details such as event date, time, location, and operator contact information, as well as confirm the booking status and assign additional tools.

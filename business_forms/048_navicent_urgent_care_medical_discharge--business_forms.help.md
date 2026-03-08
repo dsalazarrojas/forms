@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information for a medical discharge process in an urgent care setting. The form is intended to gather details about the patient's medical condition, vital signs, medications, medical history, and insurance information during the discharge process. The fields are designed to be filled out by healthcare professionals to ensure accurate and efficient data collection.
-The form has 9 input fields, including fields for patient name, date of admission, date of discharge, medical condition, vital signs, medications, medical history, discharge status, and insurance. 
-
-Before filling out this form, please note that all fields are optional unless marked as "required". The form can be completed in multiple pages, but in this case, all fields are on a single page. 
-
-Please review the fields below and fill out the form accordingly. 
-
-</thinking>
-
 # navicent_urgent_care_medical_discharge - Help Guide
 ## Purpose
 This form is designed to collect information for a medical discharge process in an urgent care setting.

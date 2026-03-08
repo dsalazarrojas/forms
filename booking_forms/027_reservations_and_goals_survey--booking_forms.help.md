@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Reservations And Goals Survey" form used for collecting reservation requests and customer goals. The form is composed of a series of fields to gather specific information from customers, including reservations requests, customer contact information, and goals priority and description. To use this form, ensure that you are not duplicating existing reservations or customer information.
-</thinking>
-
 # Reservations And Goals Survey - Help Guide
 ## Purpose
 This form is designed to collect information from customers regarding their reservations and goals. It consists of a series of questions that help us understand your needs and preferences.

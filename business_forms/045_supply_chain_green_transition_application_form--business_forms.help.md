@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed to collect information from suppliers who are transitioning to a more sustainable business model. The purpose of this form is to assess the supplier's commitment to environmental sustainability and their current status in the supply chain. This form will help the organization evaluate the supplier's application and make informed decisions about their participation in the supply chain. 
-
-The form should only be filled out by authorized personnel from the supplier company, and the information should be accurate and up-to-date. 
-
-Please note that this form is not a formal application for certification, but rather a transition application form to assess the supplier's readiness to join the supply chain. 
-
-If you are unsure about any field or the purpose of this form, please contact your supply chain management team for guidance.
-
-</thinking>
-
 # supply_chain_green_transition_application_form - Help Guide
 ## Purpose
 The supply chain green transition application form is designed to collect information from suppliers who are transitioning to a more sustainable business model. This form helps the organization assess the supplier's commitment to environmental sustainability and their current status in the supply chain.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting recognition and awards within the company. The form is intended for employees to request recognition and awards for their work. To ensure that the recognition and award process is fair and efficient, the submission of this form will be reviewed and verified by management before it is approved or rejected. To prevent duplication of submissions, this form can only be submitted once by each employee.
-</thinking>
-
 # recognition_award_claim_request_form - Help Guide
 ## Purpose
 The recognition award claim request form is used to request recognition and awards within the company. This form is used to submit requests for recognition and awards for work performed.

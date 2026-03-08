@@ -1,13 +1,3 @@
-<thinking>
-This form is a general Industrial Benchmark Summary Report Form, designed to capture specific data points relevant to industrial benchmarks. Its primary purpose is to collect metrics and details from a particular report, likely related to manufacturing or production. However, without further information about the specific context or business processes being measured, it's difficult to determine the exact requirements and constraints of this form.
-
-Before filling out this form, please ensure that you have all necessary information at hand and that you're filling it out for a valid reason. This form appears to be designed for a single user interaction. Please note that some fields, like "date" and "submit", might require specific formats or constraints that are not immediately apparent without further instructions or context.
-
-Please be aware that the form includes multiple 'metric' fields (1-20), but the specific purpose or usage of these fields is not explicitly stated. This form also includes 'Report Period' and 'Date Range' fields, likely indicating that the data collected is for a specific time frame. The 'submit' option might be related to the final validation or approval process of the report, but more information is needed to confirm this.
-
-Please review the fields carefully and only fill out the form if you're sure you're capturing the intended data. If you have any questions or concerns, please reach out to the form's administrator or relevant personnel for clarification.
-</thinking>
-
 # Industrial Benchmark Summary Report Form - Help Guide
 ## Purpose
 This form is designed to collect data points for industrial benchmarks, which can include metrics and details related to manufacturing or production.

@@ -1,9 +1,3 @@
-<thinking>
-This form is likely designed for customers to place orders for handmade bags, which are then paid for via different payment methods. The form may be used for internal purposes within a business or for external customer-facing interactions. 
-The form has multiple pages, but only one page is defined in the inputSchema. This form is likely designed for users who have already been identified as customers, as it doesn't appear to include fields for collecting personal or account information. The form's payment-related fields suggest it is designed for users who have already chosen a payment method or value. It is also possible that the form is used for internal purposes, such as tracking or auditing, rather than for customer-facing interactions.
-It would be best to review the form's purpose with the relevant stakeholders to understand its intended use and audience.
-</thinking>
-
 # HandMade Bag Order Form   Worldpay UK Payment Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for handmade bags and provide payment information. The form is likely used for internal purposes within a business or for external customer-facing interactions.

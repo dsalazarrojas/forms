@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Finance Leadership Meeting Sign In - Help Guide
 ## Purpose
 This form is used to record attendance and participation information for finance leadership meetings. It helps in tracking attendance, reasons for partial attendance, and any comments or feedback from participants. This form is intended for internal use within the organization, and the data collected will be used to facilitate future meeting planning and communication.

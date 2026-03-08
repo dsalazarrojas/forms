@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect business education fund donation information from individuals or businesses. It's intended for those who wish to contribute to a business education fund, allowing them to specify their donation details, preferences, and payment method. The form is divided into sections for donor information, donation details, and payment and recognition preferences. This guide will help users navigate the form and understand what each field is for.
-
-This form is meant for business-to-business or individual donations. If you're an individual wishing to support education initiatives, please consider our general donation form instead.
-
-This guide is designed to walk you through the form step-by-step, explaining each field's purpose and requirements.
-
-Please review each section carefully to ensure you've completed the form accurately.</thinking>
-
 # Business Education Fund Donation Form - Help Guide
 ## Purpose
 The Business Education Fund Donation Form is designed for businesses or individuals who wish to donate to a business education fund. The form collects necessary information for processing the donation, including donor details, donation preferences, and payment information.

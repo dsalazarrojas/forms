@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to input their quick drive setup details. This form is likely used for scheduling a quick drive, which may involve pickup and drop off of packages or items. To avoid duplication, please ensure this form is not already in your browser's local storage.
-</thinking>
-
 # Quick Drive Setup Form - Help Guide
 ## Purpose
 The Quick Drive Setup Form is designed to gather information required for scheduling a quick drive. This form asks for details such as pickup and drop off addresses, schedule frequency, vehicle type, and contact information, among others.

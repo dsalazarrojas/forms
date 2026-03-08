@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure that the form's purpose is clear and relevant to the intended audience. This Marketing Contest Entry Form is designed to collect information from users who are entering a marketing contest. The form aims to gather essential details about the entry, including its title, description, and image, as well as information about the submitter, such as their contact details and submission status. To avoid duplication, please ensure that you are not already registered as a submitter. If you're unsure, please refer to our website for more information.</thinking>
-
 # Marketing Contest Entry Form - Help Guide
 ## Purpose
 The Marketing Contest Entry Form is a tool for users to enter a marketing contest by providing essential details about their submission. This guide will walk you through each field of the form to help you complete it accurately and efficiently.

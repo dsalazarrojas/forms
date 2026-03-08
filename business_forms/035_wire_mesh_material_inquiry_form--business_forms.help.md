@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to inquire about wire mesh materials, including their type, specifications, price range, and availability. To ensure that the form is used correctly and consistently, we need to confirm that this form is not a duplicate of any existing inquiry.
-
-</thinking>
-
 # wire_mesh_material_inquiry_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about wire mesh materials from users. This form will help our team provide accurate and relevant information to the user's inquiry.

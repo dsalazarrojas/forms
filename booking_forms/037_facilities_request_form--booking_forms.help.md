@@ -1,7 +1,3 @@
-<thinking>Facilities Request Form is used to request facility-related services. This form ensures that you accurately provide necessary information about your event or meeting. Please ensure that you're not submitting duplicate requests for the same event, as this may cause confusion and delays in the process.
-
-</thinking>
-
 # Facilities Request Form - Help Guide
 
 ## Purpose

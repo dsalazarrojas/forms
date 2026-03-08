@@ -1,5 +1,3 @@
-<thinking>...The Document Merge Request Form is used to request merging of documents for a specific use case. This form is used by users to request merge of documents when they need to combine multiple documents into one. The form is not intended to be used for general feedback or other purposes. To avoid duplication, please only submit one request per document. Before submitting, ensure that you have all necessary information available... </thinking>
-
 # Document Merge Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request merging of documents for a specific use case. This form is used by users to request merge of documents when they need to combine multiple documents into one.

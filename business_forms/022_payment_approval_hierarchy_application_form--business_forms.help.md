@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a payment approval hierarchy application form for tracking payment status and details for various payment methods and terms. The form has several fields for selecting the type of business, requesting business name and email, approver levels, payment method, payment terms, payment frequency, payment status, payment date and date end, payment time, submitted by, and request details. The purpose of the form is likely to provide a systematic and structured approach to managing payment approvals, ensuring that all relevant information is captured and reviewed by approvers at different levels. 
-
-Before proceeding, please ensure that you have reviewed the form's fields and their corresponding labels to understand their relevance and purpose. This form should not be used for any other purpose, as it is designed specifically for payment approval hierarchy management.
-
-</thinking>
-
 # Payment Approval Hierarchy Application Form - Help Guide
 ## Purpose
 The Payment Approval Hierarchy Application Form is designed to track and manage payment approvals by capturing relevant details and submitting them for review at different levels of hierarchy. This form ensures that all necessary information is gathered and reviewed systematically, facilitating accurate and efficient payment approval decisions.

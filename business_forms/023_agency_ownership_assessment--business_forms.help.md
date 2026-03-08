@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about an agency's ownership structure, including the agency's registered business name, tax ID, and breakdown of primary partners and owners. This form is likely used during the initial setup or review of an agency's registration or contract.
-</thinking>
-
 # Agency Ownership Assessment - Help Guide
 ## Purpose
 The Agency Ownership Assessment form is used to gather detailed information about the agency's ownership structure. This includes the agency's registered business name, tax ID, and breakdown of primary owners and partners. The form helps to clarify the agency's ownership hierarchy, identify key stakeholders, and assess potential risks or liabilities.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Form Purpose:
 The indoor air quality program registration form was designed to collect information from facilities about their needs and details. This form helps facilities provide essential data for the indoor air quality program. The purpose of this form is to gather information about a facility's indoor air quality needs, such as the type of service required (e.g., Indoor Air Quality, HVAC, etc.), and any additional comments they may have.
 

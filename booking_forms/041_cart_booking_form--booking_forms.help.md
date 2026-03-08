@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for customers to book carts for a service. It gathers information about the customer, such as their name, email, phone number, and any other relevant details. The form also asks for specifics about the booking, like the date and time, the type of cart, the duration of the rental, and any additional options or requirements.
-The form is likely to be used by a service provider that offers cart rentals, such as a golf cart rental company or a utility cart rental service. It's possible that this form is part of an online booking system or platform, and the information gathered will be used to manage and fulfill customer requests for cart rentals.
-</thinking>
-
 # Cart Booking Form - Help Guide
 ## Purpose
 This form is for customers to book a cart for a service. It gathers information to confirm their booking details and ensure a smooth experience.

@@ -1,19 +1,3 @@
-<thinking>
-This is a form designed for tracking and managing staff whereabouts. The form is intended to help users keep accurate records of staff attendance, location, and other relevant details. 
-- The form can be completed in multiple pages.
-- The form can be submitted multiple times, and each submission can be edited and deleted.
-- The form will be visible to authorized staff members and management.
-
-This form is not intended to be used for other purposes, and users are expected to follow the instructions and guidelines provided in this help guide.
-
-Please note that the form fields are subject to change as per business requirements, and this help guide will be updated accordingly.
-
-It is the responsibility of the users to ensure that the form is completed accurately and in compliance with company policies and procedures.
-
-The form is not intended to be used for any other purpose other than what is outlined in this help guide.
-
-</thinking>
-
 # Staff Whereabouts Form - Help Guide
 ## Purpose
 The Staff Whereabouts Form is a tool for tracking and managing staff whereabouts. This form helps in keeping accurate records of staff attendance, location, and other relevant details.

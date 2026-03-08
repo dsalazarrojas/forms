@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employee expenses related to debit card transactions. The form is intended to be used by employees to submit their expenses related to debit card purchases. The form will help track and record these expenses accurately. Please ensure that each submission is unique and not a duplicate of a previously submitted expense. This will help ensure that all expenses are properly tracked and approved.
-</thinking>
-
 # Debit Card Expense Submission - Help Guide
 ## Purpose
 This form is used to collect information about employee expenses related to debit card transactions. It is essential for tracking and recording these expenses accurately.

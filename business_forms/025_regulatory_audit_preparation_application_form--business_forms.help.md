@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help users prepare for regulatory audits by collecting relevant information about the audit scope, readiness, and other related details. The form is used to gather data on the type of audit, expected audit date, sponsor, frequency, status, and other important aspects of the regulatory audit process. This form is not affiliated with or endorsed by any specific form platform, but rather an original adaptation created using AI-generated metadata.
-
-</thinking>
-
 # regulatory_audit_preparation_application_form - Help Guide
 ## Purpose
 This form is designed to collect information to prepare for regulatory audits. It is used to identify the scope, readiness, and other relevant details of the audit.

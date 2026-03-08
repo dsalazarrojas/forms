@@ -1,9 +1,3 @@
-<thinking>
-This form is meant to gather information from customers or clients requesting a quote for a service or product. It asks for basic contact information and a date/time for the quote request.
-It would be useful to have this form to prevent the need to repeat information and keep it for historical reference.
-This form should be used by anyone looking to request a quote from the business.
-</thinking>
-
 # Quote Request Form - Help Guide
 ## Purpose
 The Quote Request Form is used to collect information from customers or clients requesting a quote for a service or product. This form will help us better understand their needs and provide an accurate quote.

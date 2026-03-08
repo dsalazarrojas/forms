@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Contact A Building Automation Specialist - Help Guide
 ## Purpose
 This form is designed to gather information about your building automation needs. It will help us understand your requirements and provide you with a tailored solution to automate your facility.

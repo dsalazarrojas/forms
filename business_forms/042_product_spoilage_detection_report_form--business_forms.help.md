@@ -1,5 +1,3 @@
-<thinking>...This form is designed for reporting product spoilage detection in various scenarios within a business setting. Its purpose is to collect information regarding the detection of spoiled or defective products. The form aims to provide a structured format for reporting spoilage types, capture evidence, and submit the report for further action or review. To ensure accurate and relevant data collection, we must ensure this form is used consistently across the business. Before filling out this form, please note that each field is optional and you can proceed to the next step if you are unable to answer a particular question. This form consists of five pages, each focusing on a different aspect of product spoilage detection.</thinking>
-
 # Product Spoilage Detection Report Form - Help Guide
 ## Purpose
 This form is used to report product spoilage detection in a business setting.

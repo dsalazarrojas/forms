@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Product List Setup Form - Help Guide
 ## Purpose
 This form is designed to allow administrators to set up a list of products for customers. This list will be used to display products to customers in the sales process.

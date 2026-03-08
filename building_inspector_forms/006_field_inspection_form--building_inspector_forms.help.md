@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the completion of building inspection tasks, likely by inspectors or auditors in various contexts such as real estate, construction, or government settings. The form is intended to collect field-specific data that will help users document and report on the condition of buildings or structures. To ensure this form remains relevant and useful, I will review the field schema and provide a practical guide for end-users.
-
-</thinking>
 # Field Inspection Form - Help Guide
 ## Purpose
 This form is used to document and report on the condition of buildings or structures. It typically helps inspectors or auditors to record their findings and observations during an inspection.

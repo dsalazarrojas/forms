@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Date Calculation Form - Help Guide
 
 ## Purpose

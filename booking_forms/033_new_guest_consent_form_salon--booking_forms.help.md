@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from new guests visiting the salon, ensuring they understand and agree to the salon's policies and procedures. This form is intended to be completed by the guests before their appointment to provide an informed consent. It's crucial to review this form carefully to avoid any potential issues or misunderstandings.
-</thinking>
-
 # New Guest Consent Form (salon) - Help Guide
 ## Purpose
 This form is designed to gather essential information from new guests visiting the salon. It's essential to understand the form's purpose and ensure you complete it correctly to avoid any issues during your visit.

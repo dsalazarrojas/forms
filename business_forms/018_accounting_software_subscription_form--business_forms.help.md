@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to subscribe to the accounting software. It's essential to ensure only one user submits a form per company. If multiple users submit the same form, it may lead to incorrect or duplicate subscriptions. Please review the form carefully before submitting to avoid any discrepancies.
-</thinking>
-
 # Accounting Software Subscription Form - Help Guide
 ## Purpose
 This form is designed to help users subscribe to our accounting software. It collects necessary information for setting up a subscription, including company details, user information, subscription settings, and payment options.

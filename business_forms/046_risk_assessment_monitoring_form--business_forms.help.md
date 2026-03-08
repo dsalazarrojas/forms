@@ -1,11 +1,3 @@
-<thinking>
-This form, called the "Risk Assessment Monitoring Form", is used to gather information about potential risks that need to be monitored and addressed in a business setting. Its purpose is to identify, assess, and document risks in a structured and organized manner, which helps organizations stay on top of potential threats and ensure their overall success.
-
-When filling out this form, please ensure that it's not a duplicate risk assessment. If you're unsure, check with the relevant team or department to confirm whether the risk has already been assessed and documented.
-
-This guide will walk you through each step of the form to help you understand what information is required and how to fill it out accurately.
-</thinking>
-
 # Risk Assessment Monitoring Form - Help Guide
 ## Purpose
 The Risk Assessment Monitoring Form is used to identify and document potential risks that need to be monitored and addressed in a business setting.

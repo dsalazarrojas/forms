@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Social Media Coverage Request Form - Help Guide
 ## Purpose
 This form is designed to help businesses and organizations request coverage on social media platforms for their products, services, or events. It collects information about the requestor's business and the nature of their request, allowing us to review and respond promptly.

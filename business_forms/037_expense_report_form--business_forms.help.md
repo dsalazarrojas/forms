@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "Expense Report Form" is to report expenses related to a particular project or task. This form allows users to select whether an expense was submitted, input the name of the company, date of the expense, amount of the expense, type of the expense, a brief description of the expense, and attachments for expense receipts. This form is not required but rather a tool to report expenses for further review and processing.
 
 </thinking>

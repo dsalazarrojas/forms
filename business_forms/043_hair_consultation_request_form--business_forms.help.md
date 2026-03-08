@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hair Consultation Request Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect and monitor diversity and inclusion data from employees. This form is likely used to track and analyze diversity and inclusion metrics within an organization. It appears to be used for monitoring and reporting purposes, ensuring that the company is meeting its diversity and inclusion goals and objectives.
-
-Before proceeding, please ensure that this form is not a duplicate or unnecessary for your needs. If you're unsure, consult with your supervisor or HR department to confirm.
-
-The data collected through this form will be used to improve diversity and inclusion policies, practices, and initiatives within the organization.
-
-The form is designed to be completed by employees, but the exact usage and access to the form should be reviewed with your supervisor or HR department to ensure that it aligns with your role and responsibilities.
-
-</thinking>
-
 # Diversity And Inclusion Monitoring Form - Help Guide
 ## Purpose
 The Diversity And Inclusion Monitoring Form is designed to collect and monitor diversity and inclusion data from employees. This form is used to track and analyze diversity and inclusion metrics within the organization, ensuring that the company meets its diversity and inclusion goals and objectives.

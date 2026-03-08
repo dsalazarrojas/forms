@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Change Management Report Form - Help Guide
 ## Purpose
 This form is used to collect information about changes being managed across the organization. It is essential to provide an overview of the status of ongoing changes, including key performance indicators (KPIs) and metrics to track progress.

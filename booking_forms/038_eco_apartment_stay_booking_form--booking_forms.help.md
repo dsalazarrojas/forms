@@ -1,7 +1,3 @@
-<thinking>
-This form is for booking an eco-apartment stay. The purpose of this form is to gather information about the guest's details, travel dates, policy agreement, accommodation details, accommodation type, room type, and arrival date. This form is typically used by guests who want to book an eco-friendly apartment for their stay. It's essential to fill out the form accurately to ensure a smooth booking process.
-</thinking>
-
 # eco_apartment_stay_booking_form - Help Guide
 ## Purpose
 The eco-apartment stay booking form is designed to gather essential information from guests to facilitate a smooth and eco-friendly booking process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a Quality Assurance Audit Form used to collect information and feedback on the quality standards and processes of a business or organization. It's designed to be completed by auditors and customers to evaluate and improve the quality of services or products. The form will help identify areas of improvement and provide recommendations for future enhancements. This form should only be used for quality assurance purposes and not for any other reason.
-</thinking>
-
 # Quality Assurance Audit Form - Help Guide
 ## Purpose
 The Quality Assurance Audit Form is a tool used to evaluate and improve the quality standards and processes of a business or organization. It helps identify areas of improvement and provides recommendations for future enhancements.

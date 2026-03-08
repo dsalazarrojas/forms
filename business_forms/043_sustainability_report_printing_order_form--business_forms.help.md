@@ -1,7 +1,3 @@
-<thinking>
-To be honest, this form appears to be a template for creating a printing order for a sustainability report, likely used for internal business purposes. The form asks for information on the organization, delivery details (pages, pdfs, and delivery date), contact details, report type, email, and other supporting information. Before proceeding, please ensure that you haven't used this form for the same purpose in the past to avoid duplicating your efforts. Double-check that you're submitting the correct form for the intended purpose.
-</thinking>
-
 # Sustainability Report Printing Order Form - Help Guide
 ## Purpose
 This form is for submitting orders for the printing of sustainability reports. Please fill out the required fields to complete your order.

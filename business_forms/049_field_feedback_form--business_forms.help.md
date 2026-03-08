@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect feedback from users about specific sectors, such as whether they are "Yes" or "No" in a certain sector, provide a comment, give a rating (1-5), and submit their feedback and email. The form is likely used for customer or user feedback, perhaps in a business or organization setting. Before proceeding, please ensure that this form is not a duplicate of another form with the same purpose in your organization, and that the feedback is not already being collected through another means.
-
-</thinking>
-
 # Field Feedback Form - Help Guide
 ## Purpose
 The Field Feedback Form is a collection of questions and fields meant to gather information about your experiences and opinions regarding a specific sector. This form helps us understand your thoughts and improve our services.

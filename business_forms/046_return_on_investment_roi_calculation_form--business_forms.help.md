@@ -1,9 +1,3 @@
-<thinking>
-
-The form is a comprehensive form used to calculate the Return On Investment (ROI) for a project. It is primarily used to assess the financial efficiency of a project by comparing the expected return with the actual return and investment made. This form is designed to be a standard tool for project managers and team members to track and evaluate project performance. Before using this form, please make sure you are filling it out for a project that has a clear expected and actual return, as well as investment, to ensure accurate calculations.
-
-</thinking>
-
 # Return On Investment (ROI) Calculation Form - Help Guide
 ## Purpose
 The Return On Investment (ROI) Calculation Form is a standard tool for project managers and team members to assess the financial efficiency of a project.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a booking form for a truck skid position, and its purpose is to collect information from users to facilitate the booking process. The form is likely used in an industrial or logistics setting, where trucks need to be booked for specific positions or slots. To confirm, this form is not a duplicate of an existing form, and its fields are designed to collect relevant information for booking a truck skid position.
-</thinking>
-
 # Truck Skid Position Booking Form - Help Guide
 ## Purpose
 The Truck Skid Position Booking Form is used to book a truck skid position for a specific date and time. This form is intended for logistics or operations teams to collect important information from drivers or contacts before assigning a truck to a skid position.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the "Vetinary Employee Evaluation Form" is to assess an employee's performance, provide feedback, and evaluate their overall rating. It is used to document the employee's progress, goals, and areas for improvement, which can aid in employee growth and development. 
-Before proceeding with this help guide, please ensure that you are reading this document in the correct context, and that the form is not being duplicated for similar purposes.
-
-</thinking>
-
 # veterinary_employee_evaluation_form - Help Guide
 ## Purpose
 The "Vetinary Employee Evaluation Form" is designed to assess the performance and progress of veterinary employees. It helps evaluate their overall rating and provides feedback to colleagues and the director. This form serves as a tool for employee growth and development, allowing managers and evaluators to track progress and provide constructive feedback.

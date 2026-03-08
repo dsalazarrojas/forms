@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Distribution Proposal Form - Help Guide
 
 ## Purpose

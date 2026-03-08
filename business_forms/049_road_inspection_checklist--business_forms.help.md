@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for use by road inspectors to document the results of their inspections of roads. It appears to be designed to be completed in multiple pages, with each page having a unique label and type. The form likely collects information on various aspects of the road inspection, including the inspector's details and the inspection date and time. The form may also include checklists and text fields for inspectors to record their observations and findings.
-</thinking>
-
 # Road Inspection Checklist - Help Guide
 ## Purpose
 The Road Inspection Checklist is used by road inspectors to document the results of their road inspections. This form helps them collect and record necessary information to assess the condition of the roads inspected.

@@ -1,8 +1,4 @@
-### <thinking>
-The form purpose is to schedule appointments for tax filing purposes. This form is likely used by a tax professional or accounting firm to manage client appointments. The form requires the client's name, appointment date and time, phone number, and email. Additional fields capture details about the appointment such as location, schedule type, tax professional, payment method, and appointment status. This form appears to be focused on tax filing appointments.
-</thinking>
-
-# Tax Filing Appointment Form - Help Guide
+### # Tax Filing Appointment Form - Help Guide
 
 ## Purpose
 The Tax Filing Appointment Form is designed to schedule appointments for tax filing purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for booking information for an exhibition, with fields for details about the venue, event name, start and end times, dates, duration, type, and description. It also includes fields for contact information and event type. The form seems to be designed for organizing and booking events, possibly for an art, music, or drama exhibition. The purpose of the form is likely to gather information from event organizers or participants to facilitate planning and coordination. The form does not appear to require any authentication or login credentials, so it's probably meant for public use. I will now create a help guide for this form based on the provided YAML fields.
-</thinking>
-
 # TREX Exhibition Booking Form 2021 2022 - Help Guide
 ## Purpose
 This form is designed to gather information from event organizers or participants to facilitate planning and coordination for exhibitions. It collects details about the venue, event name, dates, duration, type, and description, as well as contact information.

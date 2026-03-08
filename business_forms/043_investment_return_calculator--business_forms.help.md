@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Investment Return Calculator - Help Guide
 ## Purpose
 The Investment Return Calculator is designed to help users estimate the potential return on investment based on the amount invested, investment period, and interest rate. This form collects information about the investment amount, time period, and rate to provide a quick calculation of the expected return.

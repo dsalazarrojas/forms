@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide that explains the purpose of the Business Credit Application Form and how to complete it. This form is used for businesses to apply for credit facilities. The form is designed to gather information about the business, its owner, and the credit request. To complete the form, the user should follow the steps below.
-</thinking>
-
 # Business Credit Application Form - Help Guide
 
 ## Purpose

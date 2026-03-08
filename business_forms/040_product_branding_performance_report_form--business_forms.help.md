@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to collect information about the performance of a product's branding efforts. The purpose of this form is to evaluate and report on the effectiveness of a product's branding strategies and identify areas for improvement. This form is intended to be used by marketing and product teams to gather data on the performance of different branding aspects of a product. It's essential to fill out this form to ensure consistency in data collection and to avoid duplication of efforts.
-
-Before filling out this form, please ensure that you have a clear understanding of the product's branding performance. This form is not meant to be a comprehensive survey, but rather a quick and focused assessment of the product's branding strengths and weaknesses.
-
-The form is divided into several sections, each focusing on a different aspect of the product's branding performance. Please provide clear and concise answers to each question, and do not repeat information that is already covered in other sections.
-
-When filling out this form, please keep the following guidelines in mind:
-
-* Answer each question in a way that reflects your genuine opinion and experience with the product's branding.
-* Be as specific as possible when describing the product's strengths and weaknesses.
-* Avoid vague or generic answers that do not provide actionable insights.
-
-Please note that this form is not a mandatory or required form, and you can skip questions that are not relevant to your experience with the product's branding.
-
-</thinking>
-
 # product_branding_performance_report_form - Help Guide
 ## Purpose
 The "product_branding_performance_report_form" is a form designed to collect information about the performance of a product's branding efforts. This form helps marketing and product teams to evaluate and report on the effectiveness of a product's branding strategies and identify areas for improvement.

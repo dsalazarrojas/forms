@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used by real estate agents to schedule viewings of properties. The form collects contact information and preferences from potential clients, including their first name, last name, email, preferred contact method, property type, desired appointment date and time, and the name of the agent handling the viewing.
-
-Before creating a duplicate form, please ensure that this form meets your specific needs and complies with all applicable laws and regulations in your jurisdiction.
-
-</thinking>
-
 # real_estate_viewing_appointment_form - Help Guide
 ## Purpose
 This form is intended to be used by real estate agents to schedule viewings of properties. It collects contact information and preferences from potential clients, helping agents to efficiently book appointments and provide a better experience for their clients.

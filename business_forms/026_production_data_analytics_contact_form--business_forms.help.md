@@ -1,10 +1,3 @@
-<thinking>
-This guide assumes you are looking to provide contact information for business data analytics requests. 
-The form is used for users to reach out and inquire about business data analytics services. 
-Please fill out the form with accurate and relevant information to get the most out of our services. 
-Ensure to fill out all required fields (marked with *) for a successful submission.
-</thinking>
-
 # Production Data Analytics Contact Form - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Production Data Analytics Contact Form. 

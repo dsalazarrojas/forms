@@ -1,7 +1,3 @@
-<thinking>
-The Machinery Maintenance Checklist Form is used to document and track maintenance activities performed on machinery within an organization. This form is used to ensure that maintenance is performed in a consistent and thorough manner, and to keep a record of equipment condition and history. It is intended to be completed by maintenance personnel and is not meant to be used for other purposes. This form is not intended to be used for other types of maintenance, such as general repairs or inspections. It is only used for specific machinery maintenance activities.
-</thinking>
-
 # Machinery Maintenance Checklist Form - Help Guide
 ## Purpose
 The Machinery Maintenance Checklist Form is used to document and track maintenance activities performed on machinery within an organization.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about slip and fall incidents that occurred within the company. It is intended for use by employees to report incidents they have experienced, and by management to track and follow up on these incidents. The goal is to ensure that incidents are documented accurately and in a way that facilitates prompt attention and action from relevant parties. This form is not meant to replace medical treatment or other incident response procedures. Please ensure that you have reported any injuries to a medical professional or completed any required follow-up actions before submitting this form.
-</thinking>
-
 # Slip And Fall Incident Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information about slip and fall incidents that occurred within the company. This includes gathering details about the incident, such as date, location, and description, as well as any injuries sustained.

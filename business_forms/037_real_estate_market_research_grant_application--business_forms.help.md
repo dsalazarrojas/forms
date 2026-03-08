@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Real Estate Market Research Grant Application - Help Guide
 
 ## Purpose

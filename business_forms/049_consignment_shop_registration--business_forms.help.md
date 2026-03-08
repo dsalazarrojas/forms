@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended to support end users who are interested in registering their consignment shop on our platform. The purpose of this guide is to walk users through the process of filling out the consignment shop registration form, which includes providing detailed explanations of each required field and any available options. 
-
-The form is designed to gather necessary information from consignors about their shop, including contact details, shop policies, and terms of service. This guide is not intended to be a comprehensive legal document but rather a supportive resource to ensure a smooth and successful registration process.
-
-Please note that this form is a requirement for any consignment shop wishing to register on our platform. 
-
-Before proceeding, ensure you have all required information and documents ready for upload or submission. You can always contact our support team if you have any questions or concerns throughout the process.
-
-</thinking>
-
 # Consignment Shop Registration - Help Guide
 ## Purpose
 The consignment shop registration form is designed to help us get to know you better and set up a partnership for your shop to list and sell items on our platform. This form is a necessary step to start listing items on our shop.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure the form purpose and field explanations are clear, let's go through the form fields and their labels, making the best-effort explanations without inventing unsupported business logic.
 
 **Accounting Service Subscription Form - Help Guide**

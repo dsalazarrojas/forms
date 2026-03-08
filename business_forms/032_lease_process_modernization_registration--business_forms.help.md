@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for registering participant information and contact details for the lease process modernization initiative. Before starting the registration process, please ensure that you are registering a participant who is genuinely interested in the initiative and has the necessary contact details. This form will help you collect information about the participant's interests and consent to proceed with the modernization process.
-
-The form has 5 sections: Form Data, Participant Interests, Participant Consent, Contact Details, and Participant Information. Please note that all fields are optional, except for the ones marked as required.
-
-Before filling out the form, please review the following:
-
-* This form is not intended for participants who have already registered for the lease process modernization initiative.
-* Please ensure that you are representing the correct participant and their interests.
-* The participant's consent is required to proceed with the modernization process.
-
-</thinking>
-
 # lease_process_modernization_registration - Help Guide
 ## Purpose
 The lease process modernization registration form is designed to collect information from participants interested in the modernization process. This form helps the initiative team to understand the participants' interests and needs, and to ensure that the participant has given their consent to proceed with the modernization process.

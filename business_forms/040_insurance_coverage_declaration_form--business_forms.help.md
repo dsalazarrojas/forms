@@ -1,7 +1,3 @@
-<thinking>
-The Insurance Coverage Declaration Form is a document that allows users to declare their insurance coverage details. This form is essential for ensuring that all necessary information is captured and recorded correctly. Before proceeding, please ensure that this form is not a duplicate effort and that you have not already completed this form for the same purpose. If you are unsure, please consult with your supervisor or the relevant department before continuing.
-</thinking>
-
 # Insurance Coverage Declaration Form - Help Guide
 ## Purpose
 The Insurance Coverage Declaration Form is a document that captures essential information about your insurance coverage. It helps ensure that all relevant details are recorded correctly, and it is crucial for insurance claims and administrative purposes.

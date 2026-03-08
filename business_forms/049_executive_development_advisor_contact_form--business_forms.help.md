@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather contact information and preferences from clients seeking executive development advice. To ensure that the form is correctly filled out and provides the most relevant information, it's essential that you verify that you are a client and not an automated script or spam. Please ensure that you are providing accurate and up-to-date contact information and preferences.
-
-Before proceeding, take a moment to review the required fields and provide as much detail as possible for optional fields.
-</thinking>
-
 # executive_development_advisor_contact_form - Help Guide
 
 ## Purpose

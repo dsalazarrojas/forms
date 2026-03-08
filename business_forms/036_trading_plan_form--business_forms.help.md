@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "trading_plan_form" that explains its purpose, how to complete it, and what each field means. This form is likely used for traders or financial professionals to document and plan their trading activities. Its purpose is likely related to managing or optimizing investment strategies, and the fields provided suggest that it might involve assessing risk tolerance, profit goals, and asset allocation. It's essential to ensure that the form isn't used for any other purpose or filled out non-duplicately.</thinking>
-
 # trading_plan_form - Help Guide
 
 ## Purpose

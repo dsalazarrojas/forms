@@ -1,5 +1,3 @@
-<thinking>...The "Expense Report Export Request Form" is used to generate expense reports in various formats for specific dates ranges and categories. It's essential to complete this form correctly to ensure accurate and relevant output. To avoid confusion, please review this guide carefully before submitting your request...</thinking>
-
 # expense-report-export-request-form - Help Guide
 ## Purpose
 The Expense Report Export Request Form is a form designed to generate expense reports for a specified date range and category, exportable in different formats (CSV, JSON, or XLSX). This form helps employees or administrators request expense reports for specific dates and categories.

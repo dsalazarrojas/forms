@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an event, specifically the programming aspects related to it. It seems the form is intended to gather details such as the name, date, time, location, and other relevant information about an event. The form appears to be a generic event programming form, possibly for internal or external events such as conferences, meetups, or workshops. It may be used by event organizers or coordinators to gather necessary information for planning and execution purposes. This form has a simple structure with minimal required fields, suggesting it is meant for general use cases. The form's creation process seems to be based on public survey topic metadata, making it an AI-generated adaptation rather than a proprietary or copyrighted form. This form is free to use, modify, and sell under the Creative Commons 4.0 license.
-</thinking>
-
 # Event Programming Form - Help Guide
 ## Purpose
 The Event Programming Form is designed to collect relevant information about an event, enabling event organizers to efficiently gather the necessary details for planning and execution.

@@ -1,10 +1,3 @@
-<thinking>
-The form is used for creating a new wholesale request for a business or individual who is seeking to purchase products in bulk. This form will collect necessary information from the user, including contact details, address, and order specifics (products, quantity, and desired date). The form ensures that all required fields are filled out to avoid any miscommunication or misinterpretation of the request.
-
-Checking for duplication or non-relevant requests is an important step in the process to ensure that the wholesale request is valid and can be processed correctly. If a similar request has been made recently or the products requested are not available, this will be flagged and further action will be taken.
-
-</thinking>
-
 # New Wholesale Request Form - Help Guide
 ## Purpose
 The New Wholesale Request Form is a tool used to facilitate the process of creating a new wholesale request for a business or individual. This form collects necessary contact and order details to ensure that the wholesale request is properly processed.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Client Case Progress Tracking Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly help guide that not only explains the form purpose but also provides clear and concise instructions on how to complete it. I'll analyze the provided YAML form schema to ensure that each field's label and hint accurately convey its intent. I'll also review the form's structure to identify any potential areas where users might get confused or need additional guidance. With this understanding, I'll craft a detailed and practical help guide for the Car Dealership Quote Request Form.</thinking>
-
 # Car Dealership Quote Request Form - Help Guide
 ## Purpose
 This form is designed for customers to request a quote for a car purchase or sale. By filling out this form, you'll provide us with essential information about yourself and your vehicle needs, allowing us to offer you a personalized quote and answer any questions you may have.

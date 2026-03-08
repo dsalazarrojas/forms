@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to be a simple financial statement approval form, likely used within an organization for managerial or executive-level approvals. The form's purpose is to collect information about financial documents, their periods, and approval levels, which could be used for internal record-keeping, reporting, or auditing purposes.
-
-Before starting, please make sure you have all the necessary information and permissions to complete this form. This form was generated based on publicly available metadata, so it may not cover all specific requirements or nuances of your organization.
-
-Please note that this form is a general template, and you should adapt it according to your organization's specific needs and regulations. If you're unsure about any field or requirement, consult your internal guidelines or seek clarification from your supervisor or relevant authorities.
-
-If you're using this form in a production environment, make sure to adjust the "required" settings to reflect your organization's actual needs.
-</thinking>
-
 # Financial Statement Approval Form - Help Guide
 ## Purpose
 This form is used for managerial or executive-level approvals of financial documents within an organization. It captures information about financial documents, their periods, and approval levels.

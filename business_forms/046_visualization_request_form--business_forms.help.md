@@ -1,7 +1,3 @@
-<thinking>
-...the form is designed for users to submit a visualization request from an internal user. This form is used to request data visualization and/or reporting from the data analysis team. The request should be clear, well-structured, and relevant to the business process to ensure accurate and timely support. Please ensure that you are not submitting duplicate requests.
-</thinking>
-
 # visualization_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request data visualization and/or reporting from the data analysis team. Use this form to clearly communicate your data needs and ensure timely support.

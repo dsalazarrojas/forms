@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gather information for a fire safety equipment test request. It appears to be a request form for various types of fire safety equipment, including sprinklers and extinguishers. The form will likely be used in a business or industrial setting to assess the current state of fire safety equipment. The form might also be used for maintenance or inspection purposes. The purpose of this form is to gather details about the equipment, such as its type, and the contact information of the person making the request. The fields on the form seem to be a mix of single and multiple-select options, text inputs, and date/time inputs.
-Before starting, ensure the form is not being resubmitted or duplicated, as this may cause unnecessary work. Check if a similar request has been made recently or if there's already an existing form filled out for the same purpose. If so, please refer to the original request.
-</thinking>
-
 # Fire Safety Equipment Test Request Form - Help Guide
 ## Purpose
 This form is designed to gather information for a fire safety equipment test request. It will help assess the current state of fire safety equipment, including sprinklers and extinguishers, and gather contact details for the person making the request.

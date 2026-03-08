@@ -1,7 +1,3 @@
-<thinking>First, let's break down the form purpose and check for relevance and non-duplication. This form appears to be a cash register form for businesses to record sales, refunds, and other financial transactions. The form is likely used for accounting and inventory management purposes. It's essential to ensure that this form is not used for any other purposes, such as personal expenses or non-business transactions.
-
-Let's assume this form is for internal business use only, and the following help guide will explain how to complete it correctly.</thinking>
-
 # Cash Register Form - Help Guide
 ## Purpose
 This form is for recording business transactions such as sales, refunds, and other financial activities at the cash register. It helps the cashier collect important information about each transaction, including date, time, business information, cashier details, transaction details, and payment information. This form is for internal business use only.

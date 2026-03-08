@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help organizations assess their disaster recovery plans and identify areas for improvement. The form is intended for use by business continuity professionals, IT specialists, and other stakeholders involved in disaster recovery planning and management. It is not a comprehensive checklist, but rather a tool to guide the assessment and documentation of an organization's disaster recovery plan.
-
-To ensure accurate and effective completion of the form, please review the form carefully and ensure that all required fields are filled out. If you are unsure about any section or field, please refer to the field explanations below for guidance.
-
-Note that this form is not a replacement for a comprehensive disaster recovery plan, but rather a tool to help organizations assess and improve their existing plans.
-
-</thinking>
-
 # disaster_recovery_plan_assessment_form - Help Guide
 ## Purpose
 The Disaster Recovery Plan Assessment Form is designed to help organizations assess their disaster recovery plans and identify areas for improvement. It is intended for use by business continuity professionals, IT specialists, and other stakeholders involved in disaster recovery planning and management.

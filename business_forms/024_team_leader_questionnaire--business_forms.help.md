@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to help team leaders assess their team's dynamics, skills, and overall performance. The purpose of this form is to gather information on how well the team leader is leading their team, and what areas need improvement.
-The form will guide the team leader through a series of questions that cover different aspects of team leadership, including leadership skills, conflict resolution, team motivation, and communication skills. The team leader will be able to answer each question based on their experience and knowledge of their team.
-</thinking>
-
 # Team Leader Questionnaire - Help Guide
 ## Purpose
 This form is designed to help team leaders evaluate their team's performance and identify areas for improvement.

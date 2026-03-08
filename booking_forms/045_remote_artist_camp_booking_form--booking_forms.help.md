@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Artist Camp Booking Form - Help Guide
 
 ## Purpose

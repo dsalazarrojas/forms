@@ -1,5 +1,3 @@
-<thinking>Vendor Payment Cycle Survey form is used by vendors to provide their payment information and preferences to the company. This information is used to ensure smooth and efficient payment cycles. Please ensure that you are completing this form correctly and accurately. You are not obligated to submit this form unless you are a registered vendor. Please review and update your existing vendor agreement before completing this form.</thinking>
-
 # Vendor Payment Cycle Survey - Help Guide
 ## Purpose
 The Vendor Payment Cycle Survey is designed to help vendors provide their payment information and preferences to the company. This includes details about their payment method, payment frequency, and other relevant contact information.

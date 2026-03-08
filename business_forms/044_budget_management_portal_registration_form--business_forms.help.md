@@ -1,8 +1,3 @@
-<thinking> 
-This form is for registration on the Budget Management Portal. It is intended to gather information about the user who is requesting access to the portal. The user must provide details such as their full name, email, phone number, and employee ID to be able to access the portal. The form also requires information about their department, job title, and direct supervisor's name to ensure proper reporting and management access. Users must specify their portal access level requested, what budgets they will manage, and what data access is needed. Additionally, users must agree to the data security agreement, enable multi-factor authentication, and acknowledge that they have completed portal training. This form should only be filled out once, and users should not submit duplicate registrations. 
-
-</thinking>
-
 # Budget Management Portal Registration Form - Help Guide
 
 ## Purpose

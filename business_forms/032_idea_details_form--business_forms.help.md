@@ -1,6 +1,3 @@
-<thinking>... internal reasoning about the form's purpose and structure... 
-</thinking>
-
 # idea_details_form - Help Guide
 ## Purpose
 This form is designed to collect information about an idea, providing a structured and organized way to document details about a concept or proposal. The goal is to gather essential information to develop and improve the idea.

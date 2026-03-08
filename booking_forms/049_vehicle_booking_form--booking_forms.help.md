@@ -1,6 +1,3 @@
-<thinking>
-To confirm, I am creating a help guide for a form used for vehicle booking. This form is likely used for customers to book vehicles for a specific time period. The form likely requires information such as vehicle type, booking date and time, number of vehicles, and contact details. I assume that the form is used in a context where customers can book vehicles in advance, but the specific business logic is not clear. I will provide a help guide that is general and practical enough to be useful, without making assumptions about the internal business logic.</thinking>
-
 # Vehicle Booking Form - Help Guide
 ## Purpose
 

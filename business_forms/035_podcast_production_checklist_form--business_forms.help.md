@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for podcast production planning and tracking. It seems to be focused on gathering information about podcast episodes, such as their description, release schedule, audio format, and recording details. The form might be used by podcast producers or teams to standardize their workflow and ensure consistency in their podcast production process.
-</thinking>
-
 # podcast_production_checklist_form - Help Guide
 ## Purpose
 This form is designed to help you plan and track podcast episodes, ensuring consistency and accuracy in your production process.

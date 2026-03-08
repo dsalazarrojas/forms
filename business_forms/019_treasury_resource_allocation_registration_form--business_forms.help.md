@@ -1,6 +1,3 @@
-<thinking>
-This form is used to register resource allocation for treasury purposes. It will guide users through the process of allocating resources and registering them in the system. Before filling out the form, please ensure that you have all the necessary information and that this is not a duplicate registration. This form is a multi-page form with various fields, including text, select, and date fields. The form will be submitted once the user has completed all required fields on all pages.</thinking>
-
 # treasury Resource Allocation Registration Form - Help Guide
 ## Purpose
 This form is used to register resource allocation for treasury purposes.

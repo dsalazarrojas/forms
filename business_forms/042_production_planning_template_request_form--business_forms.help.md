@@ -1,11 +1,3 @@
-<thinking>
-The Production Planning Template Request Form is used to request a new production planning template. This form is intended to be filled out by users who need a custom template created for their specific production planning needs. 
-The form will ask for information about the industry, volume, features, and other relevant details to help in the creation of a template that meets their requirements. 
-Please ensure that you are using this form only for the purpose of requesting a custom template and not for other uses. 
-Also, please be aware that filling out this form does not automatically guarantee the creation of a template, as it requires review and approval from our team before it can be created. 
-Duplicate requests may be deleted or ignored.
-</thinking>
-
 # Production Planning Template Request Form - Help Guide
 
 ## Purpose

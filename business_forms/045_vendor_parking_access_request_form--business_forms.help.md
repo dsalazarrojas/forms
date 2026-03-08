@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request access for a vendor to park their vehicle on company premises for a specific period. This form is intended to ensure that vendors provide accurate information about their parking needs, including vehicle model, requested dates, and assigned tool, which helps in efficient management of parking resources. To avoid duplication of requests, this form should only be submitted once for each vendor. If you have already submitted a request, please do not resubmit the form.
-</thinking>
-
 # Vendor Parking Access Request Form - Help Guide
 ## Purpose
 The Vendor Parking Access Request Form is a form used to request access for a vendor to park their vehicle on company premises for a specific period. This form helps in managing parking requests from vendors efficiently and ensures that they provide accurate information about their parking needs.

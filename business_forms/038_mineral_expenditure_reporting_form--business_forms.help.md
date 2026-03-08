@@ -1,6 +1,3 @@
-<thinking> 
-This guide assumes that the form is used for business purposes within an organization, possibly for tracking and reporting on mineral expenditures. The form might be used by employees or managers to report on projects involving mineral resources, providing a structured way to document costs, timelines, and other relevant details. The form's purpose is likely to facilitate accurate and efficient tracking, analysis, and communication of project information. To avoid duplication, the form should only be used for legitimate reporting purposes, and users should not reuse the form for other, unrelated projects or activities.</thinking>
-
 # Mineral Expenditure Reporting Form - Help Guide
 
 ## Purpose

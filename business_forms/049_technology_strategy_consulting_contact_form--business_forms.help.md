@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect contact information from potential clients or partners interested in technology strategy consulting services. The form is designed to gather details about the individual or company seeking these services, including their first name, email address, organization, contact reason, technologies of interest, and preferred contact method. The contact reason field allows the individual to specify what they are looking for in terms of technology strategy consulting, and the "Technologies of Interest" field gives an opportunity to select relevant areas of interest. The contact method field will determine whether the respondent wants to be contacted via phone or email. All fields are designed to be easy to fill out and provide the necessary information to facilitate a timely and relevant response.
-
-The form is intended to be used for internal purposes, not for sharing with third parties. The form is also not designed to be used for commercial purposes, but rather for internal consulting services offered by the company.
-
-To ensure the quality of responses, the form was created using AI, which analyzed public metadata from relevant survey topics. This form is released under CC BY 4.0 license, allowing it to be used, modified, and even sold for commercial purposes, as long as credit is given.
-</thinking>
-
 # Technology Strategy Consulting Contact Form - Help Guide
 ## Purpose
 This form is intended to collect contact information from potential clients or partners interested in technology strategy consulting services.

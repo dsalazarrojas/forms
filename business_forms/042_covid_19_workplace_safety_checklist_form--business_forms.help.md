@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Covid 19 Workplace Safety Checklist Form - Help Guide
 ## Purpose
 The Covid 19 Workplace Safety Checklist Form is a tool used to gather essential information from employees and supervisors to ensure a safe working environment during the Covid-19 pandemic. This form helps identify potential risks and provides a standardized way to record and track workplace safety measures.

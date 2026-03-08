@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Headshot Session Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients interested in booking a headshot session. It collects essential details about the client, their preferred date and time, and their desired services. The form's data will be used to schedule and prepare for their headshot session.

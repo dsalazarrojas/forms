@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information about risks that need to be managed in an organization. It is designed to help risk managers provide a clear and concise overview of the risks they are handling. The form is used to collect relevant data that can be used to assess and mitigate potential risks.
-This guide will walk you through the process of completing the Risk Manager Information Form, which is divided into several sections.
-The form is intended for risk managers to report on risks they are handling and provide relevant information for risk assessment and mitigation.
-</thinking>
-
 # Risk Manager Information Form - Help Guide
 ## Purpose
 This form is designed to gather information about risks that need to be managed in an organization, helping risk managers provide a clear and concise overview of the risks they are handling.

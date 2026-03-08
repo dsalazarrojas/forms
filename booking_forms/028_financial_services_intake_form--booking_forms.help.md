@@ -1,15 +1,3 @@
-<thinking>
-This form is used to collect information from individuals or families seeking financial services. It is designed to help our organization understand their needs and provide tailored assistance. The purpose of this form is to:
-- Gather contact information
-- Identify the services needed
-- Collect financial history and goals
-- Assess financial awareness
-- Understand the services sought and provided
-- Schedule follow-up contacts
-
-To prevent duplicate submissions, please only fill out this form once, and only if you are a new customer. If you are already registered with our organization and need to update your information, please contact our customer service department.
-</thinking>
-
 # Financial Services Intake Form - Help Guide
 ## Purpose
 The Financial Services Intake Form is used to collect information from individuals or families seeking financial assistance. This information helps our organization understand their needs and provide tailored services.

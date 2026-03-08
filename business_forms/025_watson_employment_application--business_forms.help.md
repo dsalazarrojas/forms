@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll help create a user-facing help guide for the "Watson Employment Application" form.
-
-The Watson Employment Application form is designed to gather information from employees for employment purposes. It is an essential tool for HR management and employee data collection. To ensure that the information gathered is accurate and complete, it is essential to understand each field's purpose and how to fill it out correctly.
-
-To confirm that this guide is relevant and free from duplication, we will review the form's content carefully and make sure that each field's explanation is concise and clear.</thinking>
-
 # Watson Employment Application - Help Guide
 ## Purpose
 The Watson Employment Application form is a tool for collecting employment-related information from employees. It helps gather essential details about job applications, employee status, and other relevant data.

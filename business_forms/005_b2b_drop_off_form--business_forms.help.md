@@ -1,7 +1,3 @@
-<thinking>
-This is the B2B Drop Off Form, used for companies to facilitate drop off goods. The form ensures that all necessary information is collected in a standardized way, making the process efficient and error-free. This form is meant for business-to-business transactions, and it's not for personal or consumer use. The form is designed to be completed by both the sender and receiver of goods. It's essential to fill out the form accurately to ensure smooth delivery and receipt of goods. Before proceeding, please ensure that you have all the necessary information and that you are authorized to fill out this form on behalf of your company. This guide will walk you through each field of the form, so please read carefully.
-</thinking>
-
 # B2B Drop Off Form - Help Guide
 
 ## Purpose

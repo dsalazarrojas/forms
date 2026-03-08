@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about vehicle accidents, specifically the type of accident, involved parties, location, and severity of injuries. Its purpose is to gather data that can be used to analyze and improve vehicle accident incident response and reporting.
-The form is not intended for emergency reporting or urgent situations. It's a standardized template for collecting and processing data in a consistent manner.
-The form should only be used by authorized personnel to collect and analyze data for internal purposes. It is not intended for public submission or external sharing.
-</thinking>
-
 # Vehicle Accident Incident Form - Help Guide
 ## Purpose
 The Vehicle Accident Incident Form is a tool used to collect and analyze data on vehicle accidents. This form helps gather relevant information on the type of accident, involved parties, location, and severity of injuries.

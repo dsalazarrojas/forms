@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be used for monthly recognition within business settings, such as acknowledging employee achievements, milestones, or outstanding service. 
-
-To ensure the form is used correctly and consistently, please follow the instructions below. 
-
-This form is intended for general business recognition, and not specifically tailored for other purposes like other forms in the same category. 
-
-Before using this form, please ensure the recognition is not already documented in another form, and consider using other forms from our library if that is the case. 
-
-This guide is intended for end-users who need to fill out and submit the "Monthly Recognition Form" in order to provide recognition and appreciation for employees' efforts.
-</thinking>
-
 # Monthly Recognition Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a standardized way to acknowledge and show appreciation for employees' monthly achievements, milestones, or outstanding service within the business setting.

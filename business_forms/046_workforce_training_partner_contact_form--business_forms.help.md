@@ -1,6 +1,3 @@
-<thinking>
-We're creating a form for collecting contact information from partners who are interested in offering workforce training programs. This form is part of a larger workflow for managing partnerships and communication. The fields are mostly straightforward, but some might need additional guidance to ensure accurate and useful data collection. We need to ensure that the form is easy to complete and that our partners know what to expect when filling it out.</thinking>
-
 # workforce_training_partner_contact_form - Help Guide
 ## Purpose
 This form is designed to gather contact information from potential training partners, allowing us to better understand their interests, expertise, and needs. It will help us manage our partnerships more effectively and provide a clear channel for communication.

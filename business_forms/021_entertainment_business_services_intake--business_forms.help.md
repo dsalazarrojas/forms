@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Entertainment Business Services Intake - Help Guide
 ## Purpose
 The Entertainment Business Services Intake form is designed to collect information from clients and agencies regarding their entertainment business needs and services required. This form helps us understand their specific requirements, ensuring that we can provide tailored support and services to meet their needs.

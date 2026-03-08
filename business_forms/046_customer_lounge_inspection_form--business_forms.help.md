@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Lounge Inspection Form - Help Guide
 
 ## Purpose

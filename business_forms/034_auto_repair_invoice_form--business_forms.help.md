@@ -1,11 +1,3 @@
-<thinking> 
-The form is designed for an auto repair shop to create an invoice for services provided to a customer. The purpose of this form is to ensure that all necessary information is collected and accurate for the shop's accounting and billing processes. 
-Each field is essential to gather the required details. This form is primarily used in an auto repair setting, and users must be able to understand the meaning of each field to fill it out correctly.
-
-After reviewing the form's structure, it seems that it's divided into sections for shop information, customer and vehicle details, services rendered, and totals. The shop information section (fields 1-4) should be filled out by the shop staff. The customer and vehicle details section (fields 5-8) should be completed by the customer or shop staff. The services rendered section (fields 9-12) lists the work performed on the vehicle, and the totals section (fields 13-18) calculates the grand total due. The payment status (field 19) indicates the current state of the invoice. 
-
-</thinking>
-
 # Auto Repair Invoice Form - Help Guide
 ## Purpose
 The Auto Repair Invoice Form is a tool used by shops to gather the necessary information for billing and accounting purposes.

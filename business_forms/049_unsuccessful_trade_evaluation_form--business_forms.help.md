@@ -1,9 +1,3 @@
-<thinking>
-The form is used to evaluate an unsuccessful trade and record the reason for its failure. The form is intended to gather information from users who have submitted trades and provide a platform for review and discussion. It should be used when a trade has failed to meet its objectives or has not been completed as expected. 
-
-Before proceeding with the form, please ensure that the trade has already been submitted and that you have the necessary permissions to access it. Also, be aware that some fields may be optional or not applicable in certain situations.
-</thinking>
-
 # Unsuccessful Trade Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate an unsuccessful trade and provide a reason for its failure. It is a necessary step in the process to identify areas for improvement and prevent similar issues in the future.

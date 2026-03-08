@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in booking a service at the salon. It is intended for clients who want to schedule an appointment and provide necessary details to ensure a smooth and personalized experience. This form will guide users through the process of providing their contact information, selecting a preferred location and service type, choosing a preferred appointment date and time, and specifying any specific requests or notes they may have. The form should only be completed once per appointment and not multiple times for the same service.
-</thinking>
-
 # Bookings Contact Form Salon - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients to facilitate a smooth and personalized booking experience at our salon.

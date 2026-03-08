@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about activity requests from users. This form helps in tracking and managing activity requests, ensuring that the necessary tasks are completed efficiently and effectively. Before completing this form, please ensure that you are submitting a genuine request and not duplicating an existing one.
 
 </thinking>

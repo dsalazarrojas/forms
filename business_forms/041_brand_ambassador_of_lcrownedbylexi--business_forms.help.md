@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from potential brand ambassadors who are interested in representing Lcrownedbylexi. To be eligible to apply, a person must have a minimum of 1000 followers on social media and must choose "Yes, 1000 or more" as their answer to the question of whether their follower count meets the requirement. The form aims to collect necessary contact information and understand the applicant's background, social media presence, and content creation style to ensure they are a good fit for the brand ambassador program.
-
-This form is not intended to be used for general contact purposes or for sharing general information. It's specifically designed for those who are interested in becoming an ambassador for Lcrownedbylexi and are willing to represent the brand professionally.
-
-Please note that some fields may seem optional but are essential for a successful ambassador application. It's essential to fill them out to be considered for the program.
-
-</thinking>
-
 # Brand Ambassador Of Lcrownedbylexi - Help Guide
 ## Purpose
 This guide will walk you through each section of the form and explain each field to help you complete it successfully.

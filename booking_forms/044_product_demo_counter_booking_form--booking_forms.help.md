@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users book a product demo with a product owner or representative. It is intended for users to provide their information and preferences for a demo session, including the demo type, location, and any additional notes. This form is not affiliated with or derived from any form platform, and its content was created using public survey topic metadata as inspiration.
-</thinking>
-
 # Product Demo Counter Booking Form - Help Guide
 ## Purpose
 This form is a booking system designed for product demos. It gathers information from users to book a demo session with a product owner or representative.

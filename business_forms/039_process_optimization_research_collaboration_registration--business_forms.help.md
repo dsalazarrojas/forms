@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to register their interest in process optimization research collaborations. The form collects personal information such as name and email, as well as specific details about the user's interests and preferred collaborations. This data will be used to facilitate connections between researchers and potential collaborators for future research projects. It is recommended that users register only once with their correct and complete information to avoid duplication and ensure accurate data collection.
-</thinking>
-
 # Process Optimization Research Collaboration Registration - Help Guide
 
 ## Purpose

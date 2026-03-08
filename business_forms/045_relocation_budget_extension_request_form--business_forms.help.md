@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from employees requesting a relocation budget extension. The form is used in the industry of business, specifically for employees who are relocating or planning to relocate. The purpose of this form is to gather necessary details and approvals before approving or denying the request. 
-
-This form is a simple text-based form with several sections. It is not intended to be a comprehensive or complex form for data collection.
-
-Please review the fields carefully to avoid duplication or omission of essential details.
-</thinking>
-
 # Relocation Budget Extension Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from employees who need to request a relocation budget extension. It helps managers and decision-makers make informed decisions by gathering necessary details and approvals.

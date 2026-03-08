@@ -1,8 +1,3 @@
-<thinking>
-  The purpose of this form is to monitor productivity, track progress, and provide feedback on various aspects of projects and tasks managed by employees. This includes monitoring employee performance, task completion, project status, and ratings. This form is used to gather data to help managers make informed decisions and provide constructive feedback.
-  To avoid duplication, please ensure that you are filling out this form for the intended purpose and not for other forms or tasks.
-</thinking>
-
 # Productivity Monitoring Form - Help Guide
 ## Purpose
 The Productivity Monitoring Form is used to track employee and project performance, monitor progress, and provide ratings for employees, projects, and tasks.

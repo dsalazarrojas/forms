@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information for the Non-Debarment Certification, which is a formal declaration that a company or entity has been debarred or excluded from receiving government contracts due to non-compliance with regulations. This form is typically used by government agencies to collect necessary information from companies that have been debarred. To ensure accuracy and consistency, please review the form carefully and ensure that all fields are completed correctly. This form should only be used for debarment certification purposes and not for other government contract-related activities.
-</thinking>
-
 # Non Debarment Certification Form - Help Guide
 ## Purpose
 The Non Debarment Certification Form is used by government agencies to collect information from companies that have been debarred or excluded from receiving government contracts due to non-compliance with regulations.

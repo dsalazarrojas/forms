@@ -1,25 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a Smart Supply Data Accuracy Report. This report likely aims to assess the accuracy of data within a supply chain, involving teams responsible for supply chain, inventory, and procurement. It may be used by organizations to identify and address potential data issues affecting their supply chain operations.
-
-To complete this form, the user will need to provide information on the teams involved in the supply chain, inventory, and procurement processes. They will also need to select potential data issues and provide details about these issues. The form includes a section for comments and a submit request to finalize the report.
-
-Each field in this form serves a specific purpose:
-
-* **Supply Chain Teams**: Enter the teams responsible for supply chain operations.
-* **Inventory Teams**: Enter the teams responsible for inventory management.
-* **Procurement Teams**: Enter the teams responsible for procurement operations.
-* **Data Issues**: Select potential data issues that have been encountered.
-* **More Data Issues**: Select additional potential data issues.
-* **Data Issue Details**: Provide detailed information about the selected data issues.
-* **Comments**: Add any additional comments or observations about the data accuracy.
-* **Submit Request**: Confirm whether the report has been submitted or not.
-* **Date**: Enter the date when the report was completed.
-* **Time**: Enter the time when the report was completed.
-
-This form is designed to collect information for a Smart Supply Data Accuracy Report, likely used by organizations to assess and improve their supply chain data accuracy.
-
-</thinking>
-
 # Smart Supply Data Accuracy Report Form - Help Guide
 ## Purpose
 The Smart Supply Data Accuracy Report Form is designed to collect information for a Smart Supply Data Accuracy Report.

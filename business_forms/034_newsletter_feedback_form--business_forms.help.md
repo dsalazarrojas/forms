@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 
 # Newsletter Feedback Form - Help Guide

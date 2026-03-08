@@ -1,6 +1,3 @@
-<thinking>Form Purpose:
-This form is used for users to submit entries for a sweepstakes competition, providing relevant details about the entry, the entrant, and the submission method. This form is intended to collect entry details for a sweepstakes competition. Before starting to fill out the form, check that you are eligible to enter the sweepstakes competition and that you are not duplicating an entry. The form is intended to be used for a specific competition and may not be suitable for other purposes. If you are unsure, please review the competition rules to ensure you meet the eligibility criteria.</thinking>
-
 # Sweepstakes Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect entry details for a sweepstakes competition.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture information about one-on-one meetings between employees, managers, or other stakeholders. The form likely serves as a template for documenting and tracking meeting progress, outcomes, and next steps. The purpose of this form is to provide a structured and consistent way to record the details of each meeting, making it easier to follow up on action items and ensure that tasks are completed in a timely manner. Before filling out this form, please ensure that you are not duplicating an existing record or meeting.
-
-</thinking>
-
 # one_on_one_meeting_focus_sheet_form - Help Guide
 
 ## Purpose

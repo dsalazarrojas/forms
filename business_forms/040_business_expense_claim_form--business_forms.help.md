@@ -1,8 +1,3 @@
-<thinking>
-The primary purpose of this form is to collect information about employee expenses, including personal details, expense categories, and specific expense details such as date, description, amount, and receipts attached. This form helps employees provide accurate and complete information for business expense claims, facilitating efficient processing and reimbursement.
-
-This form should only be used for legitimate business expenses. Please ensure that the expenses are work-related and not personal in nature before submitting the form.</thinking>
-
 # Business Expense Claim Form - Help Guide
 ## Purpose
 The Business Expense Claim Form is designed to collect information about business expenses incurred by employees. This form helps employees report their business expenses accurately and efficiently, ensuring that the company can process and reimburse them correctly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The goal of this form is to document the findings of a mechanical inspection, which is typically conducted on a vehicle. It is a crucial tool for identifying and addressing potential issues and maintenance needs. Before proceeding, ensure that you have conducted the inspection and have the relevant information handy. This form should only be completed once for each inspection event.
 
 </thinking>

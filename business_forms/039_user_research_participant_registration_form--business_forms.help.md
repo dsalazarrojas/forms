@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # user_research_participant_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from participants in user research activities, such as surveys, interviews, or usability tests. The purpose of this form is to gather basic contact information and preferences to facilitate communication and scheduling during the study.

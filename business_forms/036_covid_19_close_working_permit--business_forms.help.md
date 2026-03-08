@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Before we dive into the help guide, let's clarify the form's purpose and context. The Covid 19 Close Working Permit form is designed to record and document the process of closing down a business's workspace due to the COVID-19 pandemic. This form helps business owners and administrators keep track of contact information, business details, and other relevant data related to the closure.
 
 To ensure that this form is used correctly and consistently, it's essential to understand its purpose and use cases. This form should only be used in situations where a business is temporarily or permanently closing down due to the pandemic. If you're using this form for other purposes, please consider creating a new form with a different name and purpose to avoid confusion.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to RSVP to a corporate rebranding event. To complete this form, please review the following fields and ensure you have provided accurate and relevant information. This guide will walk you through each field and what is expected of you. Please note that this form is not intended for general public use; it is for internal use within the company. Ensure that you are completing this form within the scope of your corporate role.
-</thinking>
-
 # corporate_rebranding_event_rsvp - Help Guide
 ## Purpose
 This form is used to RSVP to the corporate rebranding event. Please fill out this form to indicate your attendance and any necessary details related to the event.

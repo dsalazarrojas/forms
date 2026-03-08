@@ -1,11 +1,3 @@
-<thinking>
-This form is for patients who are seeking services at the Choices's Pregnancy Center, a medical facility that provides pregnancy testing, verification, and related services. The form is designed to collect personal and medical information from patients to ensure they receive the appropriate care and services. 
-
-Before starting the form, please note that it is not necessary for patients who have already visited the center in the past. If you have completed this form before, you can simply sign and date the consent section and submit it as your previous information is already on file. 
-
-The form is divided into several sections, each collecting specific information from the patient. Please ensure that all required fields are filled out accurately and completely. 
-</thinking>
-
 # Choices's Pregnancy Center Patient Information - Help Guide
 ## Purpose
 This form is designed to collect personal and medical information from patients who are seeking services at the Choices's Pregnancy Center. The information collected will be used to ensure you receive the appropriate care and services.

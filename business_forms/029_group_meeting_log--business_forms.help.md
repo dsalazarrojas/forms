@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to log information about group meetings, including their dates, times, statuses, attendees, absent members, descriptions, task lists, follow-up tasks, and any additional notes. The purpose of this form is to keep track of meeting details and maintain a record of what happened, who was present or absent, and any tasks or follow-up actions that are necessary. 
-This form is meant to be used by team members or meeting organizers to record and document group meetings in a structured and organized manner. It is not designed to be a general-purpose meeting calendar or calendar invitation system, so if you are looking for a tool to schedule meetings, this form will not be sufficient.
-</thinking>
-
 # Group Meeting Log - Help Guide
 ## Purpose
 The purpose of this form is to create and manage logs of group meetings. This includes recording important details about the meetings, such as dates, times, attendees, and tasks assigned.

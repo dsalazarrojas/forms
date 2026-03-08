@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect information from clients about their tax preparation needs. It appears to be used by a business or individual to provide details about their business or personal situation, including contact information, business details, and tax-related information. The form likely serves as an intake process for tax preparation services, such as gathering information for tax return preparation or tax planning purposes.
-
-This form seems to be designed for both business and personal clients, as it includes fields related to both business and personal information. The fields indicate a requirement for the tax year to be specified, as well as the type of business or entity. This form does not appear to be duplicating any other existing forms within the system, and the required fields seem to be logically related to the form's purpose.
-
-</thinking>
-
 # Tax Preparation Client Intake Form - Help Guide
 ## Purpose
 The Tax Preparation Client Intake Form is used to collect information from clients about their tax preparation needs. This form is used to provide details about a client's business or personal situation, which is then used to prepare their taxes.

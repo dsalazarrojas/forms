@@ -1,7 +1,3 @@
-<thinking>
-This help guide explains the TRVFIT membership change request form, which is used to submit a membership change request. The form is used to update a member's information, such as their membership type, reason for change, and comments. It is recommended that you only submit a membership change request if you have a valid reason for the change and are authorized to do so. Please ensure that you have reviewed and understood the [Membership Policy](link to membership policy). If you are unsure about any of the fields or the process, please consult with a supervisor or the membership team before submitting the form.
-</thinking>
-
 # trvfit_membership_change_request - Help Guide
 ## Purpose
 The TRVFIT membership change request form is used to update a member's information, such as their membership type, reason for change, and comments.

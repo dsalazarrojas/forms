@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for reporting on tax compliance. It captures essential information about a business entity, including its type, tax year, and tax return type. The fields are intended to be completed by business owners or tax professionals. This form will likely be used internally for auditing and tracking purposes. The fields are mostly optional, except for a few required fields. To prevent duplication, this form should not be completed by the same user multiple times.
-</thinking>
-
 # Tax Compliance Report Form - Help Guide
 ## Purpose
 The Tax Compliance Report Form is designed to collect and record tax compliance information from businesses and business entities. It is meant to be completed by business owners or tax professionals to report their tax compliance status.

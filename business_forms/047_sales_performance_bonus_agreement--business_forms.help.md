@@ -1,14 +1,3 @@
-<thinking>
-We are checking if this form is not already being used internally and if it's not a duplicate of an existing form... No, this form is not a duplicate and does not seem to be used internally.
-
-The "Sales Performance Bonus Agreement" form is intended to document and record the bonus structure and payment details for sales representatives. This form captures key information about sales targets, bonus criteria, and payment methods to ensure that sales representatives understand their performance and payment terms.
-
-This form will help ensure that both sales representatives and their managers are on the same page about sales targets, bonus structures, and payment terms, promoting transparency and fairness in the compensation process.
-
-Let's assume that this form is being used to support sales performance management and bonus payments for sales representatives. We will now create a help guide for end-users to fill out this form correctly and effectively.
-
-</thinking>
-
 # Sales Performance Bonus Agreement - Help Guide
 ## Purpose
 The purpose of this form is to document and record the bonus structure and payment details for sales representatives. It captures key information about sales targets, bonus criteria, and payment methods to ensure that sales representatives understand their performance and payment terms.

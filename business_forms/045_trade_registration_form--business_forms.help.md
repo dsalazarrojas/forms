@@ -1,12 +1,3 @@
-<thinking>
-This is a Trade Registration Form, used to collect information about a business or individual's trade or profession. This form is intended to be completed by businesses or individuals who need to register their trade or profession with the relevant authorities. The form will collect information such as name, contact details, business type, address, and trade-specific information.
-
-Before starting to complete this form, please ensure that you have all the required information ready and that you have not completed this form before. If you have previously completed this form, please do not submit this form again as it may cause duplication of effort.
-
-Note: This form is for informational purposes only and the information provided will be used to support the registration process. Any incorrect or incomplete information may lead to delays or rejections in the registration process.
-
-</thinking>
-
 # Trade Registration Form - Help Guide
 ## Purpose
 The Trade Registration Form is used to collect information about a business or individual's trade or profession. This form is required for registration with the relevant authorities.

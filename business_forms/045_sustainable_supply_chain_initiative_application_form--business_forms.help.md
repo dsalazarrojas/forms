@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Sustainable Supply Chain Initiative Application Form is designed to gather information from suppliers interested in participating in the Sustainable Supply Chain Initiative. This form is used to collect general information about the supplier, product, and contact details. It also includes a section for agreement and terms and conditions, as well as payment information. Please make sure you have a clear understanding of the initiative and its purpose before submitting this form. 
 
 Also, please note that each page is optional, and you can submit the form in multiple stages if you prefer. 

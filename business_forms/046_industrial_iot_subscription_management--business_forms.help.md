@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a template for managing Industrial IoT (Internet of Things) subscriptions. It's designed to collect information from customers who wish to subscribe to IoT services. I'll aim to create a user-friendly guide to help end-users complete the form accurately and efficiently.
-</thinking>
-
 # Industrial IoT Subscription Management - Help Guide
 ## Purpose
 This form is used to collect information from customers who wish to subscribe to Industrial IoT services. It helps manage customer subscriptions and provides a platform for users to specify their plan preferences.

@@ -1,15 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's break down the form purpose and fields to ensure we understand the form's requirements.
-
-This is a "Presentation Survey" form, likely designed to gather feedback from users about a presentation they attended. The form has multiple pages, each with its own set of questions. The questions cover various aspects of the presentation, including what the user thought of it, what they learned, what they liked and didn't like, and whether they would recommend the presentation.
-
-To create the help guide, we will:
-
-1. Explain the form's purpose and its overall process.
-2. Break down each field and provide clear explanations for the user to complete the form accurately.
-3. Offer tips for completing the form effectively.
-
-Let's create the help guide.</thinking>
-
 # Presentation Survey - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from users about a presentation they attended. Please take a few minutes to provide your thoughts, and help us improve our presentations for you!

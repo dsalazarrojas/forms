@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request a quote for a bulk order of personal protective equipment (PPE). The form is intended to gather information from a potential customer about their business and their order requirements. It is designed to be completed by a contact person from the business who will be the point of contact for the order. 
-
-The form should not be used to place an actual order, but rather to request a quote from the supplier. The quote will be generated based on the information provided in the form and will include prices and other relevant details. 
-
-To avoid duplication, the supplier should verify that the business is not already a customer before processing the quote request. 
-
-</thinking>
-
 # ppe_bulkoorder_quote_request_form - Help Guide
 ## Purpose
 The ppe_bulkoorder_quote_request_form is used to request a quote for a bulk order of personal protective equipment (PPE).

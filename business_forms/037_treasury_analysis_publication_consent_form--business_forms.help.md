@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to ensure that this form is used correctly for the purpose it was designed for: collecting consent from users for the publication of their analysis results. The form should only be filled out by users who have a genuine need to submit their analysis results for publication. To avoid duplication, we must check that the user is not already registered in our system. 
 
 To do this, we will check for two conditions: 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Initial Phase Assessment Form - Help Guide
 ## Purpose
 The Initial Phase Assessment Form is used to collect information about an ongoing or completed project. This form is part of the project assessment process, helping project managers to evaluate and improve project performance.

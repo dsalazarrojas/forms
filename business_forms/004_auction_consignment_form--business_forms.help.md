@@ -1,8 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the "Auction Consignment Form". This form is designed to collect information from consignors ( sellers) about an item they want to auction off. The form will help us understand the item's details, financial terms, and consignor's contact information. It's essential to fill out this form accurately to ensure the smooth execution of the auction process. Please note that all required fields are marked as such, and incomplete or incorrect submissions may lead to delays or rejected listings. Ensure you fill out this form thoroughly and truthfully to avoid any issues.
-
-</thinking>
-
 # Auction Consignment Form - Help Guide
 ## Purpose
 The Auction Consignment Form is a necessary step in the process of listing your item(s) for an auction. This form requires you to provide detailed information about the item, its category, and your contact details. The goal is to create a comprehensive listing that will attract potential buyers and facilitate the auction process.

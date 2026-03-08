@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to provide clear instructions and explanations for end-users who need to complete the "performance_metrics_release_form" form.
-The form is designed to collect various metrics related to project performance, including outcomes, descriptions, ratings, and status updates.
-This guide will help users navigate the form and understand the purpose and requirements of each field.
-It's essential to review the form and ensure that each field is correctly filled out to accurately capture the relevant project data.
-</thinking>
-
 # performance_metrics_release_form - Help Guide
 ## Purpose
 The "performance_metrics_release_form" is a business form designed to collect project performance metrics. This form is intended to capture project outcomes, descriptions, ratings, and status updates to provide a comprehensive overview of project performance.

@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose of this form, I analyzed the input YAML schema and identified the following:
-- The form title is "technical_documentation_form" which suggests it's related to documenting technical projects or aspects.
-- The form has several pages, but they all seem to be related to project-related information.
-- Fields like "Project Details", "Business Process", "Technical Specifications", "Technical Requirements", "Project Status", "Team Members", and "Project Manager" further support this analysis.
-
-To ensure that this form is not duplicating any existing form, I reviewed the input YAML schema again and found that there's no indication of similar forms with the same fields and structure.
-
-Based on this analysis, it's likely that this form is intended for collecting project-related information from project teams or stakeholders.
-
-</thinking>
-
 # technical_documentation_form - Help Guide
 ## Purpose
 The technical_documentation_form is designed to collect relevant information about a project's details, business process, technical specifications, and team members. It's meant for project teams or stakeholders to document and track project status and details.

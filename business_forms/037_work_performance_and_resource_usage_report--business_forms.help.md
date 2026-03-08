@@ -1,11 +1,3 @@
-<thinking>
-The "Work Performance And Resource Usage Report" form is designed to gather information about the performance and resource usage of employees in an organization. This form is intended to provide a comprehensive view of employee performance and resource allocation across various departments, locations, and teams. The form is meant to be completed by authorized personnel in the organization, and the data collected will help in making informed decisions about resource allocation and performance optimization.
-
-To ensure that this form is filled out correctly, please make sure to understand the purpose and requirements of each field. The form is divided into two sections: "Form Header" and "Form Footer". The "Form Header" section is required and contains general information about the form, while the "Form Footer" section is also required and contains any additional comments or instructions.
-
-The form is designed to collect data in a structured and standardized manner, making it easier to analyze and compare performance and resource usage across different departments, locations, and teams. This form is an essential tool for making data-driven decisions in the organization.
-</thinking>
-
 # Work Performance And Resource Usage Report - Help Guide
 ## Purpose
 This form is designed to collect data on employee performance and resource usage across various departments, locations, and teams. The information gathered will help in making informed decisions about resource allocation and performance optimization.

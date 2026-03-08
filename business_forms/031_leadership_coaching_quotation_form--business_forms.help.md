@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to fill out the Leadership Coaching Quotation Form for a leadership coaching engagement. Before proceeding, please ensure you have a clear understanding of the form's purpose and do not submit duplicate quotes.
-</thinking>
-
 # Leadership Coaching Quotation Form - Help Guide
 ## Purpose
 This form is used to capture details about a leadership coaching engagement, including client information, services provided, rates, and terms of payment.

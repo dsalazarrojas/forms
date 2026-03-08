@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is only being used for its intended purpose of collecting contact information for economic policy consulting services. It's also essential to avoid duplicating efforts and ensure that users understand the form's purpose and usage guidelines. This form should not be used for general inquiries or sales pitches that are not related to economic policy consulting services. 
-</thinking>
-
 # Economic Policy Consulting Contact Form - Help Guide
 
 ## Purpose

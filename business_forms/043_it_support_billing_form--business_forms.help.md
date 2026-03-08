@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for billing purposes, allowing users to provide billing information and payment details for IT support services. The form is intended for internal use and is not meant for external clients. It is likely used by the IT support team to gather information for billing and payment processing. Before completing this form, please ensure that you have the necessary permissions and authority to do so, and that the information provided is accurate and up-to-date.
-</thinking>
-
 # it_support_billing_form - Help Guide
 ## Purpose
 This form is used to provide billing information and payment details for IT support services.

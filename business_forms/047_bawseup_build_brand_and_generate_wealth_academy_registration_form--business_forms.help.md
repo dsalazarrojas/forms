@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # BawseUp Build, Brand And Generate Wealth Academy Registration Form - Help Guide
 ## Purpose
 The BawseUp Build, Brand And Generate Wealth Academy Registration Form is designed to gather information from individuals interested in joining the 90-day intensive business and branding program. This form serves as the primary entry point for prospective students to submit their application and enroll in the program.

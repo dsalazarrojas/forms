@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request shipping quotes from delivery businesses. It should only be used by customers who deal with delivery businesses and are looking for a shipping quote. Please ensure you are not duplicating a shipping quote request for the same order. If you are unsure, refer to the order's original request form or contact the customer to clarify.
-</thinking>
-
 # Shipping Quote Form - Help Guide
 ## Purpose
 The Shipping Quote Form is used to request shipping quotes from delivery businesses for specific orders. It is designed to help customers get an early estimate of the shipping cost, allowing them to plan their logistics and finances more effectively.

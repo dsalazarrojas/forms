@@ -1,8 +1,3 @@
-<thinking>
-This form is used to verify the condition of ingredients on a shelf, and to gather information for potential recalls or corrective actions. It's essential to fill out this form accurately to ensure the quality and safety of stored products. Please fill out this form carefully and thoroughly.
-
-</thinking>
-
 # Ingredient Shelf Verification Report Form - Help Guide
 ## Purpose
 The Ingredient Shelf Verification Report Form is used to inspect and verify the condition of ingredients on a shelf. This form helps to identify potential issues, such as recalls or corrective actions, and ensures that the ingredients are stored and handled properly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide their details and acknowledge certain agreements and risks associated with fishing charters. It is a critical document that requires accurate and complete information to ensure customer safety and satisfaction. Please ensure that you have reviewed the form carefully and understand its purpose before proceeding. If you have any doubts or concerns, please reach out to the relevant authorities or contact the form owner for clarification.
-</thinking>
-
 # fishing_charter_waiver_form - Help Guide
 ## Purpose
 This form is used to collect customer information and ensure their understanding of the terms and conditions of the fishing charter. It is essential to fill out the form accurately and truthfully to avoid any issues or conflicts during the charter.

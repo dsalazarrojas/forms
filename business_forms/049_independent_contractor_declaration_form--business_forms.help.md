@@ -1,10 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'll create a comprehensive help guide for the "independent_contractor_declaration_form" form based on the provided YAML. The form appears to be designed for independent contractors to declare their business and contract details. The form's purpose is to collect information from independent contractors, including their business name, address, email, phone number, tax ID number, contract start and end dates, payment terms, payment frequency, payment method, payment amount, contractor type, contract terms, contractor status, business type, tax ID type, payment terms frequency, contract duration, business name alias, address lines, city, state, zip, and business hours.
-
-To avoid duplication, I'll assume that the form is intended for use by independent contractors who are registering their business with a client or client company. The guide will cover each field's purpose, required status, and any specific instructions or constraints.
-
-</thinking>
-
 # independent_contractor_declaration_form - Help Guide
 ## Purpose
 The independent_contractor_declaration_form is a form for independent contractors to declare their business and contract details to a client or client company.

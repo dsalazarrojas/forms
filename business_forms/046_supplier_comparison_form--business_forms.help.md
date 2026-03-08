@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about suppliers, including their quotes, decision notes, contact information, and review status. This form will help users compare different suppliers and make informed decisions. To ensure accuracy, the form should only be filled out for active suppliers that have an active review status. This is because the form is meant to be used for comparison and decision-making purposes, and inactive suppliers or reviews may not be relevant for this purpose.
-</thinking>
-
 # Supplier Comparison Form - Help Guide
 ## Purpose
 This form is used to collect information about suppliers for the purpose of comparison and decision-making. It is recommended to only fill out this form for active suppliers with an active review status.

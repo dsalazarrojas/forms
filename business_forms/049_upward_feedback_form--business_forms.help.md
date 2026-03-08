@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture upward feedback from employees to their superiors, allowing them to communicate their thoughts, ideas, and concerns. This feedback can be used to improve the working relationship between employees and their superiors and to identify areas for improvement within the organization. The form is likely used by employees to provide feedback on their team's performance, their manager's feedback, or even their own performance. To ensure accuracy and relevance, please review the fields carefully before submitting your feedback.
-</thinking>
-
 # Upward Feedback Form - Help Guide
 ## Purpose
 The Upward Feedback Form is designed to capture upward feedback from employees to their superiors, allowing them to communicate their thoughts, ideas, and concerns to improve working relationships and identify areas for improvement.

@@ -1,13 +1,3 @@
-<thinking>...
-
-This form is intended to capture user input for requisitioning equipment from inventory. The form is designed to be user-friendly and minimize the time spent completing it.
-
-This form is meant to be used when a user wants to request or "requisition" equipment for various business needs, such as for a new project, for maintenance, or for other operational purposes. 
-
-Before completing this form, ensure that you are requesting equipment for a legitimate business need and that the item is not already duplicated in another requisition. Duplicate requisitions can lead to unnecessary purchases or stockpiling of equipment.
-
-</thinking>
-
 # Inventory Storage Equipment Requisition Form - Help Guide
 ## Purpose
 This form is designed to capture the necessary information for requisitioning equipment from inventory. Please fill out the form below to submit your request.

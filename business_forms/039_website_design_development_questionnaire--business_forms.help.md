@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information from individuals who need to get their website designed and developed. It will be used by internal stakeholders to assess and process the requests. The purpose of this form is to streamline the process of gathering necessary details from potential clients or partners. Please fill out this form only if you are seeking web design and development services or if you are a representative of a company that is interested in such services. If you are not the decision maker, please do not fill out this form as it may not be processed correctly.</thinking>
-
 # Website Design & Development Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or companies seeking web design and development services. Please fill out this form to provide the necessary details for internal stakeholders to assess and process your request.

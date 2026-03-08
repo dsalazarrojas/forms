@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return To Vendor Form - Help Guide
 ## Purpose
 The Return To Vendor Form is used to document the reason for returning a product to the vendor. This form helps to ensure that the return process is properly recorded and communicated to the vendor, facilitating efficient and transparent returns.

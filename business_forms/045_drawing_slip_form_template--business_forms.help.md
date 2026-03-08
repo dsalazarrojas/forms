@@ -1,11 +1,3 @@
-<thinking>
-
-The Drawing Slip Form Template is used to create a template for a drawing or sweepstakes event. It captures relevant information about the event, including the entry name, draw date, start and end times, number of prizes, and more. This form is designed to be flexible and adaptable to various types of drawing events, allowing event administrators to easily create and manage their events.
-
-To prevent duplication, ensure that each entry is submitted with unique information. If you're unsure about which form to use for a particular event, refer to the event category guidelines for clarification.
-
-</thinking>
-
 # Drawing Slip Form Template - Help Guide
 ## Purpose
 The Drawing Slip Form Template is a versatile form used to create a drawing or sweepstakes event. It collects essential details such as entry name, draw date, start and end times, and more, helping event administrators efficiently plan and execute their events.

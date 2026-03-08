@@ -1,7 +1,3 @@
-<thinking>
-This form, "production_timeline_checklist_form", appears to be a checklist-style form designed to track various aspects of production timelines. It seems to be intended for use in a business or project management context, possibly for tracking progress, milestones, and other production-related activities. The form is composed of multiple pages with various input types, including text, select_one, select_multiple, date, time, and number fields. The fields are not strictly required, suggesting that the form is meant to be used as a guide or template rather than a rigid reporting tool. The form structure indicates a focus on tracking production timelines, but the specific purpose and usage context should be verified to ensure alignment with the actual business needs.
-</thinking>
-
 # production_timeline_checklist_form - Help Guide
 ## Purpose
 The production timeline checklist form is designed to help you track and report on production-related activities, milestones, and progress.

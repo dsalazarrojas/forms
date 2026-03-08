@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect payment details for data storage services. It's intended for businesses that need to store data for their clients. The form is meant to be filled out by the business representative or owner, and it requires some basic information about the payment method, amount, currency, and contact details. To prevent duplication, the form should only be filled out once per payment instance.
-</thinking>
-
 # data_storage_payment_form - Help Guide
 ## Purpose
 This form collects payment details for data storage services for your business. Please fill it out thoroughly to ensure accurate processing of your payment.

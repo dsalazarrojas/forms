@@ -1,7 +1,3 @@
-<thinking>
-This form is used by landlords and tenants to extend an existing retail space lease agreement. The form is typically used when the tenant is requesting to extend their lease, and the landlord is agreeing to the extension. The purpose of this form is to gather information about the lease extension, including the start and end dates of the lease, lease duration, and renewal terms. This form is a critical component of the lease extension process, as it ensures that all parties involved are aware of the new terms of the lease. It is essential to fill out this form accurately and thoroughly to avoid any confusion or disputes in the future.
-</thinking>
-
 # Retail Space Lease Extension Form - Help Guide
 ## Purpose
 This form is used to extend an existing retail space lease agreement between a landlord and a tenant.

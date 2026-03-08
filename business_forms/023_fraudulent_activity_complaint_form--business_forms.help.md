@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used in a business setting to collect information related to fraudulent activity complaints. It is intended for use by employees or representatives of an organization to report incidents of suspected fraudulent activity. This form is meant to gather relevant details about the incident, including the suspect's identity and the nature of the alleged fraudulent activity. Before filling out this form, please ensure that you have all necessary information to complete it accurately and thoroughly. If you have filled out this form previously for the same incident, please do not submit another form.
-</thinking>
-
 # Fraudulent Activity Complaint Form - Help Guide
 
 ## Purpose

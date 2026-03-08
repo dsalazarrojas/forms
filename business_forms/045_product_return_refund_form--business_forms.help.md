@@ -1,9 +1,3 @@
-<thinking>
-
-We need to ensure that the form is used for its intended purpose and that users are not duplicating efforts by submitting the same information multiple times. This form is designed to collect information for a product return refund, and users should only submit this form once for each return request. If users need to submit multiple return requests, they can use the form multiple times, but they should not reuse information from previous submissions. Additionally, users should only submit information that is accurate and relevant to the return request.
-
-</thinking>
-
 # Product Return Refund Form - Help Guide
 ## Purpose
 This form is designed to collect information for a product return refund. It is used by customers to submit a request for a refund on a product they have purchased from our company.

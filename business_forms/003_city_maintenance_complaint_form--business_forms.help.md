@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from citizens about city maintenance complaints. It is meant to gather data on the location, type, and details of the issue, as well as contact information for follow-up. The form is likely used by city officials to identify and prioritize maintenance tasks. 
-</thinking>
-
 # City Maintenance Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about city maintenance complaints, allowing citizens to report issues such as potholes, broken streetlights, and overgrown vegetation. Your input helps city officials identify and address these problems.

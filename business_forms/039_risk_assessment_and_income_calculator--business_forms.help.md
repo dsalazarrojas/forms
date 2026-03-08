@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is clear in its purpose and usage to avoid confusion and errors. The form is a "Risk Assessment And Income Calculator", which is likely used to assess an individual's or business's income and expenses to identify potential risks. The form's fields should be filled out accordingly to provide accurate calculations and risk assessments. To prevent duplication of effort, it's essential to review and update the form regularly. 
-</thinking>
-
 # Risk Assessment And Income Calculator - Help Guide
 ## Purpose
 This form is designed to help assess an individual's or business's income and expenses to identify potential risks. It provides a framework to calculate and evaluate financial data to make informed decisions.

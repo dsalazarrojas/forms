@@ -1,14 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-This form is designed to aid building inspectors in conducting thorough inspections of buildings by providing a structured and comprehensive checklist. The purpose of this form is to ensure that all necessary information is collected and recorded during the inspection process, promoting accuracy and attention to detail. This form can be used for both routine inspections and special inspections, such as fire safety checks or code compliance evaluations.
-
-The form is divided into 25 pages, each addressing a specific aspect of the building's structure and functionality. This segmentation allows for efficient navigation and focus on individual components of the inspection. Each page includes text fields where inspectors can enter their observations, notes, and findings.
-
-To avoid duplication and ensure consistency, this form serves as a guide, but it is essential to verify the accuracy of the information provided by the building inspector.
-
-</thinking>
-
 # Framing Inspection Checklist - Help Guide
 ## Purpose
 The Framing Inspection Checklist is a comprehensive guide for building inspectors to ensure thorough and accurate inspections of buildings. The form is designed to gather all necessary information about the building's structure and functionality, facilitating efficient and precise documentation.

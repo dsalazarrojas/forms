@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for a parking lease agreement between two parties: the lessee (tenant) and the lessor (landlord). It is used to outline the terms and conditions of the parking lease, including the address of the parking, the information of both parties, the lease term, and the start and end dates of the lease. This form should be completed by the lessee, providing accurate and truthful information to ensure a smooth and secure parking lease agreement. Before proceeding, please ensure that you have the necessary permissions and approvals to complete this form.
-</thinking>
-
 # Parking Lease Agreement Form - Help Guide
 ## Purpose
 The Parking Lease Agreement Form is a document used to outline the terms and conditions of a parking lease between the lessee (tenant) and the lessor (landlord). It is a crucial document that ensures both parties are on the same page regarding the lease agreement.

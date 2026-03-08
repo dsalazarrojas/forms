@@ -1,9 +1,3 @@
-<thinking>
-This form is a Business Environment Assessment tool designed to evaluate the performance of an organization in various aspects of its business environment. The form will help respondents provide an honest assessment of their organization's internal and external environment, providing valuable insights for improvement and growth. 
-
-Before starting the assessment, ensure that the form is relevant to your organization's specific context and needs. This form is a general-purpose tool and might not be entirely suitable for every organization. If you have a similar form already in use, you may want to compare it with this one to identify any overlaps or areas of improvement.
-</thinking>
-
 # Business Environment Assessment - Help Guide
 ## Purpose
 The Business Environment Assessment form is designed to help you evaluate your organization's performance in its internal and external environment. This form will guide you through a series of questions to provide a comprehensive assessment of your business environment.

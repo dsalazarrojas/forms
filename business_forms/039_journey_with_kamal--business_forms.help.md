@@ -1,6 +1,3 @@
-<thinking>
-We're creating a help guide for the "Journey With Kamal" form, which seems to be a business form that aims to collect information about a person's travel plans. The form likely serves a purpose such as event planning, meeting coordination, or customer service. Before we begin, let's quickly review the form's structure and fields to ensure we cover everything that needs to be explained. The form has a mix of text, date, time, email, phone, and selection fields, which suggests it's used for gathering various types of information about the individual or group traveling. Our goal is to break down each field and provide a clear understanding of what each field is used for and how to complete it correctly.</thinking>
-
 # Journey With Kamal - Help Guide
 ## Purpose
 The "Journey With Kamal" form is designed to collect information about a person's travel plans. This form helps in gathering necessary details for event planning, meeting coordination, or customer service purposes.

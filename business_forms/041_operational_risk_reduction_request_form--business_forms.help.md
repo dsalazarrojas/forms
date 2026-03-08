@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about operational risks that need to be addressed within the organization. It is designed to be completed by employees who have identified a risk that requires mitigation or assessment. This form will not be duplicated if the user is already logged in and has previously submitted a request for the same risk.
-
-The form is used to gather data on the type of risk, its category, description, potential impact, frequency of occurrence, priority, responsible party, suggested solutions, and any additional comments.
-
-The form is intended to be completed by employees who have identified a risk and are requesting assistance from the risk management team. The information collected will be used to prioritize and address the risks accordingly.
-
-To ensure accurate and complete data, employees are encouraged to fill out the form carefully and thoroughly.
-
-</thinking>
-
 # Operational Risk Reduction Request Form - Help Guide
 ## Purpose
 The Operational Risk Reduction Request Form is a tool for employees to report and document operational risks that need to be addressed within the organization. This form helps to gather information about the risk, its category, potential impact, and suggested solutions, allowing the risk management team to prioritize and mitigate risks effectively.

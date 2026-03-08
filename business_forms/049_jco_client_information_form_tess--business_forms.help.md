@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are booking a service or appointment with your organization. The purpose of this form is to gather essential details about the client, including their name, contact information, and other relevant details. To ensure accuracy and consistency in data collection, please note that the form has several required fields. It's essential to fill out this form carefully and thoroughly, and to review the provided instructions and examples for guidance.
-
-Before filling out this form, please ensure you have all the necessary information at hand. If you're unsure about any of the fields or have specific questions, please don't hesitate to contact our support team for assistance.
-
-To avoid duplication of effort, please do not fill out this form if you have already submitted a similar request in the past. You can check your previous submissions to see if you have already provided the necessary information.
-
-</thinking>
-
 # JCOClientsInformationFormTess - Help Guide
 ## Purpose
 The JCOClientsInformationFormTess is designed to collect essential information from clients who are booking a service or appointment with your organization. This form gathers details such as name, contact information, and booking details to ensure a smooth and efficient booking process.

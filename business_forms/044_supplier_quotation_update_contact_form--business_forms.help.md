@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect update information for a supplier's quotation. The form is used by suppliers to update their quotations with the buyer, and the updated information is likely to be used for internal reference and record-keeping purposes. The form's fields are designed to gather relevant details about the supplier, the quotation, and the update method. 
-
-</thinking>
-
 # Supplier Quotation Update Contact Form - Help Guide
 ## Purpose
 This form is used to update supplier quotations with the buyer. Please fill out the form with the required information to facilitate the update process.

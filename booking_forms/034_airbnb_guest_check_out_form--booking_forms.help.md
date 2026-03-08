@@ -1,7 +1,3 @@
-<thinking>
-  This help guide is meant to provide a clear understanding of the purpose and completion process for the Airbnb Guest Check Out Form. The form is designed to gather essential information from guests to help hosts evaluate their stay and identify areas for improvement. This form will be used to assess the guest's experience, cleanliness, communication, and overall satisfaction with the property. The form is divided into several sections, including guest information, property condition, and feedback, to gather comprehensive feedback from guests. It is crucial to fill out this form accurately and thoroughly to ensure that hosts can provide the best possible experience for future guests.
-</thinking>
-
 # Airbnb Guest Check Out Form - Help Guide
 ## Purpose
 The Airbnb Guest Check Out Form is a critical tool for hosts to gather feedback from guests about their stay. It helps hosts to understand what guests liked or disliked about the property, their communication, and the overall cleanliness of the property. By filling out this form, guests can provide valuable insights that help hosts improve their services and provide a better experience for future guests.

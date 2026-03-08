@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record and review shift-related data for employees. The primary purpose of this form is to ensure that all relevant information about shifts is accurate and up-to-date. This data is used to track sales, inventory, and other key metrics related to employee shifts. Please note that this form is for internal use only. If you are filling out this form for an external party, you are not allowed to do so. Also, be aware that if you are already filling out this form for the same shift, you must not duplicate your submission. Ensure that all fields are filled out correctly to avoid errors. Ensure that your submissions are consistent and follow our company's standard procedures.
-</thinking>
-
 # shift close - Help Guide
 ## Purpose
 The Shift Close form is used to record and review shift-related data for employees. This includes recording sales, inventory, and other key metrics related to employee shifts.

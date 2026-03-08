@@ -1,6 +1,3 @@
-<thinking>
-The form's purpose is to collect personal and professional information from employees or staff members to create or update their HR records. This form is crucial for ensuring that all relevant details are gathered accurately and efficiently. Please verify that you are completing the correct form and that all required fields are filled to avoid duplication of efforts.
-</thinking>
 # Admin And Staff Registration Form - Help Guide
 ## Purpose
 The Admin And Staff Registration Form is designed to collect personal and professional information from employees or staff members for HR record-keeping purposes. This form helps ensure that all necessary details are gathered accurately and efficiently, making it easier for HR teams to manage staff records.

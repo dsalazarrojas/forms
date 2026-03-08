@@ -1,8 +1,3 @@
-<thinking>
-**The form is designed to track errors that occur within a warehouse setting. It captures relevant details about each error, including the date it occurred, its category, status, and other relevant factors. This information helps warehouse staff to efficiently identify, report, and resolve errors. The form aims to reduce paperwork and increase accuracy in error reporting.**
-
-</thinking>
-
 # Warehouse Error Log Form - Help Guide
 ## Purpose
 The Warehouse Error Log Form is a tool used to record and track errors that occur within a warehouse setting. It helps to provide a systematic approach to error reporting, making it easier for warehouse staff to identify, report, and resolve errors in a timely and efficient manner.

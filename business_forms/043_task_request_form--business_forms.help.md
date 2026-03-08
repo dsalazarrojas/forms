@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information about a task request from a user. The form has nine pages with text input fields, each labeled as a "Page" with a unique number (First Page, Second Page, Third Page, etc.). Each page is optional, and the user can fill out any or all of them. The form's purpose is to gather details about a task request, and it does not have specific requirements or constraints on which pages to fill out.
-
-To ensure the form's relevance and non-duplication, it's essential to review the existing task requests and their descriptions before creating a new one. This will help prevent duplicate task requests and ensure the new request is not already covered.
-
-</thinking>
-
 # Task Request Form - Help Guide
 ## Purpose
 The Task Request Form is designed to collect information about a task request from a user. It is intended to gather details about a task request, and it does not have specific requirements or constraints on which pages to fill out.

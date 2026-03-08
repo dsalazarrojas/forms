@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be a payment-related form, likely used for booking or transaction purposes. It's designed to collect information about payments, including check out dates, room numbers, email, phone numbers, payment methods, payment details, total amounts, payment statuses, and comments. To prevent duplication, let's assume this form is used for new payments only.
-</thinking>
-
 # Prophets - Help Guide
 ## Purpose
 The Prophets form is used to collect information about new payments for booking-related transactions. It's essential to fill out this form accurately to ensure proper payment processing.

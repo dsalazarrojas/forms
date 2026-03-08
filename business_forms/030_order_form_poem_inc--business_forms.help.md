@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers about their orders, including delivery dates and times, customer contact information, and product details. This form likely serves as a digital replacement for traditional paper-based order forms that are filled out by customers. The form's design and functionality should be intuitive and easy to use, reducing errors and improving the overall customer experience. This form should be accessible and usable by customers with disabilities, adhering to web accessibility standards. Before proceeding, ensure that this form is not a duplicate or unnecessary addition to existing processes.
-</thinking>
-
 # Order Form Poem Inc - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their orders, including delivery dates and times, customer contact information, and product details.

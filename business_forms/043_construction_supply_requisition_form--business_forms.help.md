@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from construction workers to request materials and supplies for their projects. It's intended for internal use within the organization, and the purpose of this form is to streamline the requisitioning process, making it easier for project managers and procurement teams to manage and fulfill requests accurately and efficiently.
-
-Before completing this form, ensure you are only submitting one request at a time. If you need to make multiple requests, please submit each as a separate form.
-
-Please fill out this form carefully, providing accurate information for each field as needed.
-</thinking>
-
 # Construction Supply Requisition Form - Help Guide
 ## Purpose
 

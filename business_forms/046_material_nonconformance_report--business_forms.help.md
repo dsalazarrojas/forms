@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and report nonconformances, which are defects or issues that do not conform to specifications or expectations. Nonconformances can have significant business impact and are an essential part of maintaining product quality and customer satisfaction. The purpose of this form is to provide a standardized and structured way to collect and record nonconformance information, helping to track and address issues efficiently.
-</thinking>
-
 # material_nonconformance_report - Help Guide
 ## Purpose
 The material nonconformance report is a form used to document and report nonconformances, which are defects or issues that do not conform to specifications or expectations. Nonconformances can have significant business impact and are an essential part of maintaining product quality and customer satisfaction.

@@ -1,7 +1,3 @@
-<thinking>
-The Robot Equipment Safety Inspection Form is used by maintenance personnel and safety officers to inspect robot equipment for safety issues, such as wear and tear, malfunctioning parts, and proper usage. This form is not to be filled out for every minor issue, but rather for recurring or critical safety inspections. It's essential to use this form for thorough and accurate reporting of any safety concerns. Ensure that you only fill out this form for the intended purpose.
-</thinking>
-
 # Robot Equipment Safety Inspection Form - Help Guide
 ## Purpose
 The Robot Equipment Safety Inspection Form is a crucial tool for identifying and reporting safety issues with robot equipment. It helps maintenance personnel and safety officers to assess the condition of the equipment and identify potential hazards. This form ensures that any safety concerns are documented and addressed to prevent accidents and injuries.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information from potential homebuyers who are interested in obtaining a mortgage. The purpose of this form is to gather essential details about the buyer, such as their contact information, loan preferences, and lead source. This information will help us to provide personalized guidance and support to the buyer through the lead process.
-</thinking>
-
 # mortgage_calculator_lead_form - Help Guide
 ## Purpose
 The mortgage_calculator_lead_form is designed to collect information from potential homebuyers who are interested in obtaining a mortgage. The form helps us understand the buyer's needs and preferences, allowing us to provide personalized guidance and support throughout the lead process.

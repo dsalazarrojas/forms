@@ -1,7 +1,3 @@
-<thinking>
-To determine the purpose of this form, the fields provided in the YAML structure suggest it's likely for collecting input on the presidential election, specifically asking about voter's choice and candidate preference. This form appears to be for capturing information about whether the respondent is a voter and whether they have chosen a candidate. Given the fields 'voter_choice' and 'candidate_choice' with options 'Yes' and 'No', it seems this form might be part of a survey or a registration process related to a presidential election. No other fields are present that would suggest a different context, so this form likely serves to gather basic preferences or choices related to presidential elections.
-</thinking>
-
 # presidential_election_form - Help Guide
 ## Purpose
 This form is used to collect information related to the presidential election, specifically about whether the respondent is a voter and their candidate choice.

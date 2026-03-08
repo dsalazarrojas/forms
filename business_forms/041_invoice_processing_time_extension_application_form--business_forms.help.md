@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for the "Invoice Processing Time Extension Application Form", we first need to understand the purpose and context of the form. The form is intended to be filled out by businesses or individuals requesting an extension for invoice processing due to certain reasons. 
-
-Upon reviewing the provided YAML schema, we can see that the form collects various pieces of information, including business name, contact person, contact email, contact phone, extension reason, requested extension date, actual extension date, payment terms, payment frequency, notes, category, assigned tool, and output file name. 
-
-Before we dive into the help guide, we should ensure that the form is being used appropriately and not for duplicate requests. This can be achieved by asking the user to confirm that they have not submitted a similar request in the past and that this request is genuine.
-
-</thinking>
-
 # Invoice Processing Time Extension Application Form - Help Guide
 ## Purpose
 The Invoice Processing Time Extension Application Form is designed to allow businesses or individuals to request an extension for invoice processing due to certain reasons. This form is intended to help gather necessary information for the processing and extension of the invoice.

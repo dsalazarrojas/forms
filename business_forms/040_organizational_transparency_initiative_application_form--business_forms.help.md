@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to support an Organizational Transparency Initiative, which aims to promote transparency and accountability within an organization. The purpose of this form is to gather information from applicants about their organization's details, contact information, and other relevant data. This form will be used to assess the applicability of the initiative within the organization and ensure that the organization is a good fit. 
-Before filling out this form, please ensure that you are not duplicating an existing application. If you are unsure, please check with the relevant department or team to confirm.
-</thinking>
-
 # Organizational Transparency Initiative Application Form - Help Guide
 ## Purpose
 This form is used to collect information from organizations applying for the Organizational Transparency Initiative. It is essential to provide accurate and complete information to ensure a smooth evaluation process.

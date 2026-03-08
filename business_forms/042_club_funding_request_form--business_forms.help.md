@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Club Funding Request Form - Help Guide
 ## Purpose
 The Club Funding Request Form is used to submit a request for funding for club-related activities, events, or expenses. This form helps the club to provide detailed information about their financial needs and justify their funding request to the club's financial advisors or funding committee.

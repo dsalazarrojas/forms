@@ -1,12 +1,3 @@
-<thinking>
-This form is a Ship Builders Insurance Assessment, designed to gather information about a shipyard's or ship builder's insurance needs and requirements. The form is likely used by an insurance company or risk management team to assess the risk factors and insurance needs of a shipbuilding company, including details about their operations, risk factors, and contact information.
-
-To avoid duplication and ensure the form is being used correctly, please note that this form is a custom-generated form and not affiliated with any specific form platform or company. It's an original adaptation of the provided metadata.
-
-If you're unsure about any field or the purpose of this form, please refer to the following help guide.
-
-</thinking>
-
 # Ship Builders Insurance Assessment - Help Guide
 ## Purpose
 This form is used to gather information about a shipyard's or ship builder's insurance needs and requirements.

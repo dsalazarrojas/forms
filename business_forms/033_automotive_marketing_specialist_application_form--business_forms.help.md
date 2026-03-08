@@ -1,5 +1,3 @@
-<thinking>As an expert in form design and technical writing, I'll create a comprehensive user-facing help guide for the Automotive Marketing Specialist Application Form. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section and question. Before we dive into the guide, it's essential to note that this form is designed to collect information from potential applicants who are interested in an Automotive Marketing Specialist position. The form is used to gather relevant information about the applicant's personal details, professional experience, marketing skills, technical skills, education, and motivations. This guide will help ensure that applicants understand what to expect and how to navigate the form efficiently.</thinking>
-
 # Automotive Marketing Specialist Application Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential applicants who are interested in an Automotive Marketing Specialist position. This form will help us assess your qualifications, experience, and skills to determine if you're a suitable fit for the role.

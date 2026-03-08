@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Mobile App Company Information Request Form - Help Guide
 =============================================
 

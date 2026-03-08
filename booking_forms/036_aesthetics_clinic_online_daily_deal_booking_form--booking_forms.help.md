@@ -1,12 +1,3 @@
-<thinking>
-I'm creating a user-facing help guide for the "Aesthetics Clinic Online Daily Deal Booking Form". The form is designed for customers to book a daily deal from the Aesthetics Clinic, and it requires some personal and appointment details. The form has two main sections: "Deal Selection" and "Schedule Appointment". Each section has multiple fields that need to be filled in by the customer. 
-
-The form's purpose is for customers to book a daily deal online, which requires providing personal details such as name, email, phone number, and credit card information. The form also asks for a preferred date and time slot for the appointment. 
-
-The form's fields are self-explanatory, but here's a detailed guide on how to complete it and what each field means:
-
-</thinking>
-
 # Aesthetics Clinic Online Daily Deal Booking Form - Help Guide
 ## Purpose
 The Aesthetics Clinic Online Daily Deal Booking Form is designed for customers to book daily deals online. To book a deal, you will need to provide some personal details and select a preferred date and time slot for the appointment.

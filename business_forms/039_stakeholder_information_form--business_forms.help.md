@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stakeholder Information Form - Help Guide
 ## Purpose
 This form is used to collect information about stakeholders, including their name, email address, contact number, type, and company name. This form is intended to help us better understand the needs and requirements of our stakeholders, which may inform business decisions or interactions with them.

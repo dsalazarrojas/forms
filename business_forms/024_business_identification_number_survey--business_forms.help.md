@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect business identification information for official records. It ensures that the data is accurate and trustworthy by requiring a verification acknowledgement from the business owner.
-The form is designed to be completed by business owners or their representatives, and it is expected that the data entered will be true and accurate to the best of their knowledge.
-The fields in this form are designed to collect a range of information, including identification numbers, addresses, contact details, and industry classification. Some fields are required, while others are optional. Each field's label and description will guide the user in understanding what information is needed.
-
-</thinking>
-
 # Business Identification Number Survey - Help Guide
 ## Purpose
 The Business Identification Number Survey is a tool designed to collect business identification information for official records.

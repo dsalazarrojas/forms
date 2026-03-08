@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about new vendors, including their contact details, business information, and agreement status. 
-This form is intended to be used for new vendor onboarding, and it's crucial to ensure that all required fields are filled out correctly to avoid duplication of effort and ensure accurate vendor information. 
-The form will be used by the purchasing team to verify and validate the information provided by the vendor. 
-Please note that some fields may be optional, but it's essential to fill out as much information as possible to ensure a smooth onboarding process.
-</thinking>
-
 # New Vendor Form - Help Guide
 
 ## Purpose

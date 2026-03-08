@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who are not familiar with the Joint Agreement Signatures form. The purpose of this form is to collect information related to joint agreements between parties. It captures base information, details about the agreement, signatures, and other relevant data. This form is designed to be completed by multiple parties, and it allows users to fill out multiple sections for each party involved. The guide is written to ensure that users understand each field's purpose and requirements, helping them complete the form accurately and efficiently.
-</thinking>
-
 # Joint Agreement Signatures - Help Guide
 ## Purpose
 The Joint Agreement Signatures form is designed to collect and document information related to joint agreements between parties. It captures the base information, agreement details, signatures, and other relevant data.

@@ -1,7 +1,3 @@
-<thinking>
-The "pre_start_daily_check_form" form is designed to capture essential information for the workday start-up process. This form helps ensure that employees accurately report their work hours, completed tasks, and other relevant details. It is intended for use by employees to provide a quick and efficient way to log their workday activities. This form should only be used once per workday and is typically submitted by the employee themselves. Please make sure to fill out this form only once per day and do not duplicate efforts. 
-</thinking>
-
 # pre_start_daily_check_form - Help Guide
 ## Purpose
 The pre_start_daily_check_form is a quick and efficient tool for employees to report their workday activities, including work hours, completed tasks, and other relevant details.

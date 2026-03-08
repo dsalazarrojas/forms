@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Team Regulations And Guidelines Agreement - Help Guide
 ## Purpose
 This form is designed to be used by team members to express their understanding and acceptance of the team's regulations and guidelines. It helps ensure that all team members are on the same page and aware of their responsibilities and expectations within the team.

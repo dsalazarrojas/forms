@@ -1,18 +1,3 @@
-<thinking>
-To create this user-facing help guide, we'll consider the provided form YAML and create an easy-to-follow guide for users.
-
-The purpose of this form is to collect photography session details and terms from clients or customers. It appears to be a contract or agreement form used by photographers to outline the expectations and conditions of a photography session. 
-
-This form will serve as a guide for photographers to understand the client's needs, preferences, and expectations, and for clients to agree to the terms and conditions of the photography session.
-
-The form is composed of multiple fields that capture relevant information such as session details, photographer information, client contact details, payment terms, and session conditions. This form aims to ensure a smooth and professional photography experience for both the photographer and the client.
-
-This form seems to be a standard template for photography studios or photographers to use, and it's crucial that end-users (photographers and clients) understand the purpose and each field's intent to avoid confusion or miscommunication.
-
-We'll create a comprehensive guide for this form to ensure users know what to fill out and what each field represents.
-
-</thinking>
-
 # Photography Session Agreement - Help Guide
 ## Purpose
 This form is designed to be a contract or agreement between the photographer and the client for a photography session. It captures essential details and terms to ensure a smooth and professional experience for both parties.

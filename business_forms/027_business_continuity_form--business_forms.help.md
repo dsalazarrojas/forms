@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information about an organization's business continuity, which is the process of maintaining and recovering from disruptions or crises that may impact the organization's operations. This form is intended for organizations to assess their ability to continue operations during disruptions and identify areas for improvement.
-
-The form will ask you to provide information about your organization, its critical functions, and its ability to recover from disruptions. This includes questions about your organization's size, its critical functions, and its ability to identify and maintain data backups. The form also asks about your organization's communication plan, testing schedule, and employee training program.
-
-Please ensure that the information you provide is accurate and up-to-date, as it will help us better understand your organization's business continuity needs.</thinking>
-
 # Business Continuity Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by building inspectors to collect safety information from shops. It's essential to complete this form accurately, as it helps identify potential hazards and ensures the shop's safety compliance. Before filling out this form, please review the shop's safety guidelines and procedures.
-</thinking>
-
 # shop_safety_inspection_form - Help Guide
 ## Purpose
 This form is used to inspect shops for safety hazards and ensure compliance with safety guidelines. It's crucial to fill it out carefully, as it helps identify potential risks and promotes a safe environment.

@@ -1,8 +1,3 @@
-<thinking>
-The "Festival Stage Barrier Booking Form" is a user-facing form designed to collect information from event organizers for booking festival stage barriers. The form should only be used for this specific purpose and not for any other type of booking or request. Please ensure that you are filling out this form with the correct information as it applies to your festival stage barrier needs. Before proceeding, please read through this help guide to ensure you are completing the form correctly. 
-
-</thinking>
-
 # Festival Stage Barrier Booking Form - Help Guide
 ## Purpose
 This form is used to book festival stage barriers for your event. Please fill out the form with the required information and ensure that you are accurately representing your event details.

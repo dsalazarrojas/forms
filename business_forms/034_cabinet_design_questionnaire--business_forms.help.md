@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cabinet Design Questionnaire - Help Guide
 ## Purpose
 This form is designed to gather information for a cabinet design project, helping our designers create a tailored solution that meets your specific needs and preferences. Please complete this form to provide detailed information about your project, including client and project details, design preferences, and functional requirements.

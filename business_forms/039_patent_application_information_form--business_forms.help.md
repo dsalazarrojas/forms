@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about a patent application, including details about the applicant, the invention, and the status of the patent application. The form is intended for use by business users, such as patent attorneys, to collect and process patent application data. The fields on this form are designed to provide a structured and organized way of gathering the necessary information to facilitate the patent application process.
-
-This form should only be filled out by authorized business users, as it contains sensitive information about patent applications. To ensure accuracy and consistency, it's essential to follow these guidelines carefully.
-
-Before proceeding, please note that some fields may require additional explanation or clarification. If you have any questions or concerns about a specific field, please contact the relevant business team for guidance.
-
-The following guide is designed to walk you through each field of the form, providing explanations and examples to help you complete it accurately and efficiently.
-</thinking>
-
 # Patent Application Information Form - Help Guide
 ## Purpose
 This form collects information about patent applications, including details about the applicant, the invention, and the status of the patent application.

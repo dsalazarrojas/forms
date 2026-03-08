@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 </thinking>
 
 # industrial_data_accuracy_report_form - Help Guide

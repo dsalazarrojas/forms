@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Treasury Compliance Monitoring Registration Form. The form is designed to collect information from entities about their compliance monitoring activities and ensure regulatory requirements are met. The form should only be completed by entities that have a genuine need for the information collected, and it's essential to ensure that the same entity does not register multiple times for the same purpose.
-</thinking>
-
 # Treasury Compliance Monitoring Registration Form - Help Guide
 ## Purpose
 The Treasury Compliance Monitoring Registration Form is designed to assist entities in registering for Treasury Compliance Monitoring services. The form collects essential information about the entity, including their type, contact person, and contact email. This information is used to ensure that regulatory requirements are met and to facilitate effective monitoring activities.

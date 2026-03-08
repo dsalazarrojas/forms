@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an organization's financial KPI (Key Performance Indicator) dashboard setup. The purpose of this form is to gather details about the company's financial management and performance metrics. It is likely intended for financial professionals and analysts to use in a business setting. It may be used to set up and configure a dashboard for monitoring and tracking financial data. This form does not collect sensitive data and is not intended for personal financial information. 
-</thinking>
-
 # financial_kpi_dashboard_setup_application_form - Help Guide
 ## Purpose
 This form is used to collect information about your organization's financial KPI dashboard setup.

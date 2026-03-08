@@ -1,12 +1,3 @@
-<thinking>
-This form is for reporting and tracking pool access complaints. It is meant to collect information about the nature of the complaint, the person or organization filing the complaint, and any actions taken to resolve the issue. 
-
-The purpose of this form is to standardize and centralize the complaint tracking process, making it easier to manage and follow up on these complaints in a structured manner. By filling out this form, you will provide the necessary details to ensure that your complaint is properly documented and addressed.
-
-To avoid duplication, please do not submit multiple complaints for the same issue.
-
-</thinking>
-
 # Pool Access Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect and track complaints related to pool access issues. It helps to standardize and centralize the complaint tracking process, ensuring that your issue is properly documented and addressed.

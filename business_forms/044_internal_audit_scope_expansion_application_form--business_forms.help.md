@@ -1,5 +1,3 @@
-<thinking>As an internal audit scope expansion application form, this form is used to collect information from users when they want to expand the scope of an internal audit. This form is likely used by internal auditors or audit team members who need to gather additional data or modify the current audit scope. The form is designed to be easy to fill out and requires minimal information from the user, making it a quick and efficient way to request scope expansion. Before filling out this form, make sure you have the necessary permissions and that the requested scope expansion is not already covered in an existing audit plan or report. To ensure consistency, please fill out the form with the most relevant and accurate information.</thinking>
-
 # Internal Audit Scope Expansion Application Form - Help Guide
 
 ## Purpose

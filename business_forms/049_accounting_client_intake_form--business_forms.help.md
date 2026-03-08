@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Accounting Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients who are seeking accounting services. It helps us understand your business needs, including your industry, annual revenue, services required, and other relevant details. The information gathered will be used to tailor our services to meet your specific needs and ensure a smooth accounting experience.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from investigators regarding their agreement to participate in research or other business activities. The form is likely used to gather data for internal purposes such as tracking and reporting. To prevent duplication, it's recommended to only fill out this form once, and to ensure the data is accurate and up-to-date. 
-</thinking>
-
 # Investigator Agreement Form - Help Guide
 ## Purpose
 The Investigator Agreement Form is used to collect information from investigators about their agreement to participate in research or other business activities.

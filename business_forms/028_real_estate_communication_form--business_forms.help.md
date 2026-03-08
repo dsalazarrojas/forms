@@ -1,5 +1,3 @@
-<thinking>This form is used for real estate communication, and the purpose is to gather contact information and schedule a call with clients. The form should only be filled out once per client, and it's recommended to use it for new client onboarding. Please make sure to fill out all required fields and provide clear and concise answers. This form does not require any specific technical knowledge, and the fields are self-explanatory. If you have any questions or need help, please contact the support team.</thinking>
-
 # Real Estate Communication Form - Help Guide
 ## Purpose
 The Real Estate Communication Form is used to gather essential information from clients, including contact details, schedule a call, client feedback, and preferred contact method.

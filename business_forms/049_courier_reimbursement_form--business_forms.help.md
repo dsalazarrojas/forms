@@ -1,6 +1,4 @@
-> <thinking>...This form is used to process reimbursements for couriers related to a particular business process. It will be used to track and manage courier's expenses for time spent, gas cost, additional purchases, and other associated costs. This form will likely be used by the business to process and approve or reject the reimbursement requests. Please ensure the form is not duplicated and that the information provided is accurate for correct processing. The form will be processed internally within the company, so ensure that the information provided is accurate and up-to-date. Please fill out each field carefully...)</thinking>
-
-# Courier Reimbursement Form - Help Guide
+> # Courier Reimbursement Form - Help Guide
 ## Purpose
 This form is used to process reimbursements for couriers related to a particular business process. It will be used to track and manage courier's expenses for time spent, gas cost, additional purchases, and other associated costs.
 

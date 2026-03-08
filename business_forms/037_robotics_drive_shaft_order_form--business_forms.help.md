@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # robotics_drive_shaft_order_form - Help Guide
 ## Purpose
 The "robotics_drive_shaft_order_form" is a form used to order custom drive shafts for robotics projects. The form collects information about the customer, their preferred shaft type, length, and material, and payment details. It's designed to guide the user through the ordering process, ensuring accurate and efficient transmission of the required information.

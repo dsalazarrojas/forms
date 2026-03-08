@@ -1,7 +1,3 @@
-<thinking>
-This guide is for users who need to fill out the Hair & Makeup Backstage Booking Form, which is used to book a hair and makeup service. This form is for internal use only, and the information collected is to be used by the backstage team to process the booking. The form should not be filled out for external purposes, such as marketing or sales. Please fill out the form accurately and completely to ensure that your booking is processed correctly.
-</thinking>
-
 # Hair & Makeup Backstage Booking Form - Help Guide
 ## Purpose
 The Hair & Makeup Backstage Booking Form is used to book a hair and makeup service. This form is intended for internal use by the backstage team.

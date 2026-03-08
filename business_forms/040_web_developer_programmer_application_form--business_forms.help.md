@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Web Developer/Programmer Application Form - Help Guide
 ## Purpose
 This form is designed to collect information about web developers and programmers interested in applying for a job or collaboration opportunity. The form helps us understand your background, skills, and experience in web development and programming. 

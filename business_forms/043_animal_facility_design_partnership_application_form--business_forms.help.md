@@ -1,7 +1,3 @@
-<thinking>
-To be eligible for partnership, the form is intended for businesses or organizations that provide design services related to animal facilities. This form is not meant for individual applicants. We encourage applicants to be honest about their experience, qualifications, and capabilities to ensure a successful partnership. By completing this form, applicants can demonstrate their suitability for partnership and provide valuable information for our review process.
-</thinking>
-
 # Animal Facility Design Partnership Application Form - Help Guide
 ## Purpose
 This form is designed to gather information from businesses or organizations that wish to partner with us on animal facility design projects. It helps us assess your company's qualifications, experience, and capabilities in providing design services related to animal facilities. Please answer the questions accurately and thoroughly to demonstrate your suitability for partnership.

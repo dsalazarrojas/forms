@@ -1,12 +1,3 @@
-<thinking> 
-This form, the Batch Rejection Summary Report Form, is intended to document the rejection of batches that fail to meet release standards. It's essential to use this form to ensure that incidents are properly recorded and communicated across the organization. 
-
-The form is used to capture details about the rejected batch, including the reason for rejection, the impact analysis, and the corrective and preventive actions to be taken. 
-
-To avoid duplication of effort, please use this form to document every batch rejection incident.
-
-</thinking>
-
 # Batch Rejection Summary Report Form - Help Guide
 ## Purpose
 The Batch Rejection Summary Report Form is used to document and report batches that have failed to meet release standards. It captures essential information about the rejected batch, including the reason for rejection, impact analysis, and corrective actions to be taken.

@@ -1,24 +1,3 @@
-<thinking>
-The purpose of the form is to conduct a comprehensive crane inspection to identify potential safety hazards and ensure compliance with safety standards. The form should only be completed for cranes that are in use or have been used in the recent past. This form is a checklist of key areas that should be inspected, and the completion of this form is mandatory for all cranes in use. 
-
-It is recommended to review the crane inspection logbook to ensure that all necessary inspections have been conducted. If a crane has not been inspected in the specified time period, it should be inspected and this form completed.
-
-Please note that the crane type, condition, and equipment will impact the inspection process and may require specific attention. 
-
-The form is designed to be completed by the operator or a certified rigger, who is familiar with the crane's specific requirements and operation. 
-
-Before completing this form, ensure you have access to the crane's logbook, and review it to identify any previous inspection results or concerns. 
-
-This form is intended to be a checklist and is not a comprehensive audit. If any concerns or issues are identified during the inspection, they should be addressed and documented in the comments field. 
-
-This form should be completed in conjunction with the crane manufacturer's instructions and safety standards. 
-
-This form's fields are designed to guide the inspector through the required inspections and ensure that the crane is safe for continued operation. 
-
-Ensure that the form is completed thoroughly and accurately, taking into account the crane's specific needs and any additional requirements. 
-
-</thinking>
-
 # Crane Inspection Checklist - Help Guide
 ## Purpose
 The Crane Inspection Checklist is a comprehensive form for inspecting cranes to identify potential safety hazards and ensure compliance with safety standards.

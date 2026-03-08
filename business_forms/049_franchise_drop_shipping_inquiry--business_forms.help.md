@@ -1,11 +1,3 @@
-<thinking>
-
-The form is used to collect information from potential franchises that are interested in drop shipping opportunities. This form is likely to be used by business development teams or sales teams to gather contact information and product preferences from potential franchisees. The purpose of this form is to streamline the initial inquiry process and provide a clear and concise way for potential franchises to express their interest in drop shipping opportunities.
-
-The main goal of this form is to collect the required information from the potential franchisees, and the provided fields are designed to gather the most essential details to facilitate further communication and potential business development. The form is not intended to be a sales tool, but rather a means to initiate the initial contact and gather necessary information for the potential franchisees.
-
-</thinking>
-
 # Franchise Drop Shipping Inquiry - Help Guide
 ## Purpose
 The Franchise Drop Shipping Inquiry form is used to collect information from potential franchises interested in drop shipping opportunities.

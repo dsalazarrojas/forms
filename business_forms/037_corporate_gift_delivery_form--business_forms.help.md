@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for corporate employees to request a gift delivery on behalf of their team or department. 
-The form helps to gather essential information about the gift recipient, such as their name and delivery address, 
-the details of the gift to be delivered, and the delivery date and time. 
-The purpose of this form is to ensure that the gift delivery process is executed smoothly and efficiently. 
-It is not a public-facing form and is intended for internal use only within the company. 
-Please ensure you are filling out this form for a valid business purpose and not for personal or external use.
-</thinking>
-
 # Corporate Gift Delivery Form - Help Guide
 ## Purpose
 The Corporate Gift Delivery Form is used to request a gift delivery on behalf of a team or department within the company. This form helps to gather essential information about the gift recipient and the gift details to ensure smooth and efficient delivery.

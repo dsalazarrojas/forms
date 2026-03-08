@@ -1,15 +1,3 @@
-<thinking>...This control matrix evaluation form is designed to assess the effectiveness and risk level of various controls within an organization. This form is intended to be used by auditors or risk management professionals to evaluate the strengths and weaknesses of different controls, such as financial, operational, IT, and compliance controls. The form is not intended to be a comprehensive risk assessment tool, but rather a focused evaluation of specific controls within a given process.
-
-Before starting the evaluation, please note that this form is not a duplication of existing risk assessments or compliance checklists. If you have already completed a risk assessment or compliance evaluation for the same process, please do not repeat the evaluation using this form.
-
-When completing the form, please ensure that you provide accurate and concise information about the controls being evaluated. Each section and field is designed to provide a clear and focused evaluation of specific control attributes. The form is divided into several sections to make it easier to navigate and complete.
-
-Please ensure that you answer all questions in the form and provide clear explanations for each field.
-
-Before submitting the form, review each field carefully to ensure that all required fields are completed and that your answers are accurate and clear.
-
-</thinking>
-
 # Control Matrix Evaluation Form - Help Guide
 ## Purpose
 

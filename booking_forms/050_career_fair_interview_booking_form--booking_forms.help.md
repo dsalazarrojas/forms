@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to facilitate the booking of interviews for candidates during career fairs. The purpose of this form is to collect relevant information from candidates, such as their name, the company they are applying to, the position they applied for, and their preferred interview date and time. This form also allows candidates to specify their preferred interview format and provide a link or attachment to their resume. The form is designed to be completed by candidates to facilitate easy and efficient communication with the interviewer.
-
-This form is intended for candidates to book interviews with potential employers during career fairs. It is not intended for use by employers or other stakeholders to book interviews with candidates.
-
-Please note that this form has been generated using AI and does not contain any proprietary content from other form platforms. It is an original adaptation and can be freely used, modified, and distributed under the Creative Commons BY 4.0 license.
-
-If you are having trouble understanding the form or would like to provide feedback, please contact us at form@gic.mx.
-
-</thinking>
-
 # Career Fair Interview Booking Form - Help Guide
 ## Purpose
 This form is designed to help candidates book interviews with potential employers during career fairs.

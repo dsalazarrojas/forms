@@ -1,7 +1,3 @@
-<thinking>
-The Dispute Resolution Form is designed to help users navigate and document disputes in a structured and organized manner. This form can be used to collect information about disputes between parties, including the type of dispute, parties involved, resolution method, and outcome. It can also be used to collect additional comments and details about the dispute resolution process. 
-</thinking>
-
 # Dispute Resolution Form - Help Guide
 ## Purpose
 The Dispute Resolution Form is a tool used to collect and document information about disputes, helping to clarify the situation and identify the best course of action.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "data_privacy_agreement_for_groups" form, a critical document that outlines the handling, protection, and security measures for sensitive data. This form is designed to ensure that groups understand their responsibilities and commitments to maintaining the confidentiality and integrity of data. As the form is intended for use within an organization or group, it's essential to ensure that all participants comprehend the purpose and significance of this document. 
-</thinking>
-
 # data_privacy_agreement_for_groups - Help Guide
 ## Purpose
 The purpose of this form is to outline the guidelines and policies for handling, protecting, and securing sensitive data within a group or organization. By completing this form, participants acknowledge their understanding and commitment to adhering to these guidelines.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Piano Tuning Appointment Form" is designed for customers to schedule an appointment with a piano technician for their piano tuning needs. This form collects information about the customer, including their name, contact details, appointment date and time, and payment method. The form aims to gather the necessary details to efficiently and effectively schedule the appointment with the chosen technician. This form does not require a specific order of questions, as each field is crucial for a complete assessment and planning of the appointment.
-</thinking>
-
 # Piano Tuning Appointment Form - Help Guide
 ## Purpose
 This form is used to schedule a piano tuning appointment with a professional piano technician. To submit the form, please follow these steps:

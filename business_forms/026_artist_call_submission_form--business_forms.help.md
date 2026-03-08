@@ -1,13 +1,3 @@
-<thinking>
-Please consider the following:
-
-* The artist call submission form is a crucial tool for artists and art organizations to communicate and manage submissions for art-related events.
-* The form is designed to collect relevant information about the artist and their work to facilitate the review and selection process.
-* This form is only intended for artists who have already been invited to submit their work.
-* Before filling out the form, please review the call submission guidelines and terms and conditions to ensure you understand your obligations and responsibilities.
-* To avoid duplication, make sure you do not submit multiple forms.
-</thinking>
-
 # Artist Call Submission Form - Help Guide
 ## Purpose
 The Artist Call Submission Form is used by artists and art organizations to submit artworks, statements, and other relevant information for review and selection processes related to specific art calls or events.

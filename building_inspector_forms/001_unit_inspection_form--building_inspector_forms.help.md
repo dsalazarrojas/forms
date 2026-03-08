@@ -1,24 +1,3 @@
-<thinking>
-
-Before creating this help guide, let's review the form's purpose and ensure it's a good fit for our audience. The form is designed for unit inspections, which are crucial for ensuring the safety and compliance of residential or commercial properties. It's essential to understand the context and the audience that will be using this form.
-
-The form is composed of various sections, including:
-
-*   Address
-*   Move-in date
-*   Tenant information
-*   Unit condition (including appliances)
-*   Contact information (name, email, phone)
-*   Contact method
-*   Notes
-*   Safety equipment and emergency exit checks
-
-The form's fields are designed to gather information about the unit's condition, the tenant's contact details, and the presence or absence of safety equipment. This form is likely to be used by property managers, building inspectors, or maintenance personnel to assess the status of a unit and take necessary actions.
-
-Before proceeding, I'd like to confirm that this form is intended for the specified use case and won't be duplicated or used for other purposes. If there are any concerns or questions, please let me know, and I'll be happy to clarify or make adjustments.
-
-</thinking>
-
 # Unit Inspection Form - Help Guide
 ## Purpose
 The Unit Inspection Form is designed to gather information about the condition of a unit, including its address, appliances, and safety equipment. This form is used by property managers, building inspectors, or maintenance personnel to ensure the unit's safety and compliance.

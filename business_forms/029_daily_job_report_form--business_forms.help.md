@@ -1,5 +1,3 @@
-<thinking>
-This form is intended for business use, likely for tracking work hours and tasks completed during the day. It's a daily report form, hence the name. The form is likely used for administrative purposes, such as time tracking or productivity monitoring. I will now assume this is a simple form used by employees to report their work hours and tasks completed on a daily basis. I will base the form explanation on the provided YAML fields. I will assume that the form is designed for a single day, and the "date_worked" field is the date the form is filled out for. I will also assume that the "task" fields are meant to track specific tasks completed, with "task_1", "task_2", and "task_3" being examples of such tasks. I will also assume that "work_hours" is a field meant to track the total number of hours worked during the day. I will now provide the help guide based on these assumptions.</thinking>
 # Daily Job Report Form - Help Guide
 
 ## Purpose

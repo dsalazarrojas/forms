@@ -1,5 +1,3 @@
-<thinking>... </thinking>
-
 # Sponsorship Compliance Audit Form - Help Guide
 ## Purpose
 

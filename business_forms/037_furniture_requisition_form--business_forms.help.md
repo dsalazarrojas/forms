@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Furniture Requisition Form" is used correctly to submit requests for new furniture items. This form should be filled out by employees who need to request furniture items for their workspaces or offices. The form should be used only once, and not repeatedly for the same request. The employee's name, department, and submitter's department should match to ensure the request is valid. The employee should fill out the required fields accurately to provide sufficient information for the purchase decision.
-</thinking>
-
 # Furniture Requisition Form - Help Guide
 ## Purpose
 This form is used to submit a request for new furniture items. Please fill out the form carefully to provide all the necessary information for the purchase decision.

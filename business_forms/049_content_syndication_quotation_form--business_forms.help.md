@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the purpose of this form is to collect information for content syndication, which is a service that helps businesses distribute their content to various channels and platforms. This form is used to gather details about the business, its needs, and preferences for content syndication. Before proceeding, please check if you have already completed this form in the past to avoid duplication. If you have any previous form submissions, please do not fill out this form again.
-</thinking>
-
 # Content Syndication Quotation Form - Help Guide
 ## Purpose
 The Content Syndication Quotation Form is designed to collect necessary information to provide you with the best content syndication services that meet your business needs.

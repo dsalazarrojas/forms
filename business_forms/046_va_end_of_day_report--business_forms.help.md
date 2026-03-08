@@ -1,9 +1,3 @@
-<thinking>
-
-This block will help ensure that the end user understands the context of this form and how it should be used, so I can create the most useful and concise help guide for them.
-
-</thinking>
-
 # Va End Of Day Report - Help Guide
 ## Purpose
 The "Va End Of Day Report" form is designed for reporting information about the end of day activities. This form helps in tracking and documenting the daily activities, tasks, and events that occurred during the day. It is used to provide a clear and concise overview of the day's activities, which can be useful for future reference and planning purposes.

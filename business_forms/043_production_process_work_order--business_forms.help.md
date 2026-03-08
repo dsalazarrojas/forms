@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to guide users through the production process by asking them to input specific details about the production process, including tasks, due dates and times, resources, and other relevant information. This form should be used to create a new production process work order, which is a crucial part of the production process in the business.
-</thinking>
-
 # production_process_work_order - Help Guide
 ## Purpose
 This form is used to create a new production process work order, which is a critical part of the production process in the business. It captures essential details about the production process, including tasks, due dates and times, resources, and other relevant information.

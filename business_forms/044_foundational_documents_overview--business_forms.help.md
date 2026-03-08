@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect information about foundational documents, such as their status, review dates, and other relevant details. The purpose of this form is to provide a structured overview of the documents, which will help in organizing and tracking them efficiently. This form is not meant to be a comprehensive document management system, but rather a quick and easy way to get an overview of the foundational documents. It's possible that some users may already have this information in their system or database, but this form serves as a simple and user-friendly way to collect the necessary information.
-
-Before filling out this form, please ensure that you have the necessary permissions and authority to access and modify the documents. If you're unsure about any of the fields or have questions, please reach out to your supervisor or administrator.
-
-This form is designed to be completed by users with varying levels of access. However, please ensure that you are only filling out the form for your own records and not for other users. If you're a manager or supervisor, you may need to review and approve some of the information provided.
-
-The form will be used to track and organize the foundational documents. Please be aware that some fields may be optional, but providing accurate and up-to-date information will be beneficial for future reference and collaboration.
-
-</thinking>
-
 # Foundational Documents Overview - Help Guide
 ## Purpose
 The purpose of this form is to gather information about the foundational documents to provide a structured overview of their status, review dates, and other relevant details.

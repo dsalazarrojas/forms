@@ -1,7 +1,3 @@
-<thinking>
-The Assembly Line Quality Evaluation Form is a tool used to assess the quality of products on an assembly line. It is designed to capture data on the number of defective units found, their primary defect category, and overall defect severity. The form also includes fields for the evaluation period start date, quality supervisor's name, and product model number. Additionally, it allows for a root cause analysis and a final evaluation summary and notes. The primary purpose of this form is to help quality supervisors and evaluators identify issues on the assembly line, track defects, and provide recommendations for improvements.
-</thinking>
-
 # Assembly Line Quality Evaluation Form - Help Guide
 ## Purpose
 The Assembly Line Quality Evaluation Form is used to assess the quality of products on an assembly line. It helps quality supervisors and evaluators to identify issues, track defects, and provide recommendations for improvements.

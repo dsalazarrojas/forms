@@ -1,12 +1,3 @@
-<thinking>
-We're going to create a help guide for the Green Supplier Evaluation Application Form to ensure end-users understand its purpose, how to complete it, and what each field represents. This form is part of the business_forms category and is used to assess a supplier's green practices and sustainability efforts.
-
-When filling out this form, we want to ensure that the required information is accurate and relevant to our evaluation process. Please review each section carefully and provide detailed responses to help us better understand your company's commitment to sustainability.
-
-To avoid any duplication or misinterpretation, please note that this form is designed to collect general information about your company's green practices, not specific product details. If you have any questions or concerns, don't hesitate to reach out to us for clarification.
-
-</thinking>
-
 # Green Supplier Evaluation Application Form - Help Guide
 ## Purpose
 

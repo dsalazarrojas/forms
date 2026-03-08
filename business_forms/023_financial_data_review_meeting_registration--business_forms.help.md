@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form "financial_data_review_meeting_registration" is not used for any other purpose other than what it's intended for, which is to register financial data for review meetings. The form should only be used for legitimate business purposes. To confirm, let's review the fields and their corresponding fields to prevent any misusage.
-
-</thinking>
-
 # financial_data_review_meeting_registration - Help Guide
 ## Purpose
 The "financial_data_review_meeting_registration" form is a tool used to register and collect data for financial review meetings. It is designed to provide accurate and detailed information about the meeting, including session topic, meeting date, start time, location, attendees, session duration, and other essential details.

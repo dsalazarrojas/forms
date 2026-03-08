@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Direct Deposit Enrollment Form - Help Guide
 
 ## Purpose

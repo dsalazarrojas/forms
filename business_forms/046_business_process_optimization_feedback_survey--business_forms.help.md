@@ -1,11 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Business Process Optimization Feedback Survey form. The purpose of this form is to gather feedback on business processes within your company, aiming to identify areas for improvement and suggest ways to optimize and automate processes. This form is intended for employees within your organization, and the feedback collected will be used to inform internal decisions and drive process enhancements. 
-
-To prevent duplication of effort, please only submit feedback on processes you are familiar with. 
-
-Please complete the form carefully, providing accurate and thoughtful responses. Thank you!
-</thinking>
-
 # Business Process Optimization Feedback Survey - Help Guide
 ## Purpose
 The Business Process Optimization Feedback Survey is designed to gather feedback on business processes within your company. Your input is crucial in helping us identify areas for improvement and suggest ways to optimize and automate processes.

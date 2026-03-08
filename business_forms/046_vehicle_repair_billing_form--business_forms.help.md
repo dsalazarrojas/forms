@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of creating a vehicle repair billing form for automotive services, likely used by mechanics, car dealerships, or other businesses involved in vehicle maintenance. The form is composed of three pages, each containing text fields for collecting information.
-
-</thinking>
-
 # vehicle-repair-billing-form - Help Guide
 ## Purpose
 The vehicle-repair-billing-form is used to document vehicle repairs and billing information for customers.

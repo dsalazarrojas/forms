@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will carefully review the provided YAML form schema to ensure that each field is accurately and concisely explained in a user-facing help guide. I will also consider the form's purpose, required fields, and options to provide a comprehensive guide for end-users.</thinking>
-
 # Organizational Design Assessment Application - Help Guide
 
 ## Purpose

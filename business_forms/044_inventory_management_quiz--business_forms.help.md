@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for creating or editing an Inventory Management Quiz. Its purpose is to gather information about an item in your inventory, including its description, status, and associated data such as location, date, and price.
-
-Before creating or editing an item, ensure that all required fields are filled in, as indicated by an asterisk (\*) in the label. This guide will walk you through each field to help you complete the form accurately and efficiently.
-
-</thinking>
-
 # Inventory Management Quiz - Help Guide
 ## Purpose
 The purpose of this form is to gather information about an item in your inventory, including its description, status, and associated data such as location, date, and price.

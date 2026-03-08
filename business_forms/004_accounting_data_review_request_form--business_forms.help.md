@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request accounting data review from the internal departments within an organization. This form helps to centralize the review request process, ensuring that all necessary information is gathered accurately and efficiently. Before filling out this form, please ensure that you're submitting a new request only if it's not a duplicate of an existing one. If you're unsure, you can check with the accounting department to confirm.
-</thinking>
-
 # Accounting Data Review Request Form - Help Guide
 ## Purpose
 The Accounting Data Review Request Form is used to collect information from internal departments within an organization for the purpose of reviewing and analyzing accounting data. This form helps to streamline the review process, ensuring that all necessary information is gathered accurately and efficiently.

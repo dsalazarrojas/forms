@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information on the user's health and medical history. It's crucial to fill this form accurately and thoroughly to ensure that the data collected is accurate and helpful for the user's health management. This form is designed to be completed by the user themselves, without any assistance from a healthcare professional. It's recommended that users review the form carefully before submitting to prevent any errors or inconsistencies.
-The form purpose is to collect user's medical history and any symptoms they're experiencing. It's a crucial part of their personal health management and should be completed with the utmost care.
-Before proceeding, ensure that you're filling out the form for the correct purpose and not duplicating any existing form submissions.
-</thinking>
-
 # Optavia Health Form - Help Guide
 ## Purpose
 This form is designed to collect information on your medical history and any symptoms you're experiencing. It's essential to fill this form accurately and thoroughly to ensure that the data collected is helpful for your health management.

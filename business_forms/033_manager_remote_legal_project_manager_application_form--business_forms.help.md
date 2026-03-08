@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Manager Remote Legal Project Manager Application Form - Help Guide
 ## Purpose
 

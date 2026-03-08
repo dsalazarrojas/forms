@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to help users request an appointment for travel medicine consultations. The form's purpose is to gather information about the user's travel plans, any medical conditions they may have, and contact details. This information will be used to schedule an appointment at the designated travel medicine clinic. 
-
-Before completing this form, ensure that you are not duplicating an existing request. If you have already submitted a similar request, you may be able to access and edit your previous submission. 
-
-To confirm that your submission is correct, please follow the instructions below:
-</thinking>
-
 # Travel Medicine Appointment Request - Help Guide
 ## Purpose
 This form is used to schedule an appointment at the travel medicine clinic.

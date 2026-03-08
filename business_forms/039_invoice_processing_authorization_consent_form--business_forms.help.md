@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to capture information about the authorized business that will be processing invoices on behalf of the client. The form is designed to be completed by the client, and the data collected will be used to verify the accuracy and authenticity of the authorized business's identity and contact information. This form is not intended to be completed by the authorized business itself, as the client is responsible for verifying the accuracy of the information provided.
-
-The form is designed to be completed by the client in one or multiple steps, depending on the page length of the form. Each page has a unique id and name, and the pages are designed to be completed in sequence. The form fields are a mix of text fields for name, address, and phone numbers, select fields for authorized business status, and email and note fields for additional comments.
-
-The form has no conditional logic or business logic that would affect the flow or the user experience of the form. All fields are required and must be completed before proceeding to the next page or submitting the form.
-
-</thinking>
-
 # invoice_processing_authorization_consent_form - Help Guide
 ## Purpose
 This form is used to capture information about the authorized business that will be processing invoices on behalf of the client.

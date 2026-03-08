@@ -1,34 +1,3 @@
-<thinking>
-
-To create this help guide, I will first understand the form's purpose and structure. This "Adult Evaluation And Road Test" form is used to assess the driving skills and performance of an individual during a road test. The form has two main sections: collecting information about the candidate and evaluating their driving skills.
-
-The form requires the following fields:
-
-* Candidate's first name and last name
-* Contact email and phone number
-* Test date and time
-* Evaluator's name
-* Type of vehicle used during the test
-* Class of driver's license
-* Vision test result
-* Scores for various driving skills, including:
-	+ Starting procedure
-	+ Steering control
-	+ Acceleration and braking
-	+ Gear shifting
-	+ Clutch control (if applicable)
-	+ Signaling and turn usage
-	+ Mirror checking
-	+ Lane discipline
-	+ Traffic awareness
-	+ Parking ability
-* Overall performance rating
-* Evaluator's comments
-
-This form is used to gather data and provide a final assessment of the candidate's driving performance.
-
-</thinking>
-
 # Adult Evaluation And Road Test - Help Guide
 ## Purpose
 The Adult Evaluation And Road Test form is used to evaluate a candidate's driving skills and performance during a road test. The form helps to assess their ability to operate a vehicle safely and efficiently.

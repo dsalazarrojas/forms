@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect and track information related to budget planning, which is essential for financial management and planning in an organization. This form likely serves as a template for budget planners to input and manage budget data, such as personnel and operating costs, capital expenditures, and revenue projections.
-</thinking>
-
 # Budget Planning Form - Help Guide
 ## Purpose
 The Budget Planning Form is designed to collect and track essential information for financial management and planning in an organization.

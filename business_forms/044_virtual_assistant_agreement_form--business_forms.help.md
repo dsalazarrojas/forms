@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to capture the essential details for a virtual assistant agreement between a client and the virtual assistant. The purpose of this form is to establish a clear understanding of the scope of work, payment terms, start and end dates, and the names of both the virtual assistant and the client. 
-
-The following form is a generic representation of a virtual assistant agreement form and may not cover all aspects of such agreements in real-world scenarios. It's meant to serve as a starting point for more complex forms. For instance, a comprehensive virtual assistant agreement might also address confidentiality, intellectual property, and liability.
-
-Please refer to the provided YAML for more accurate and detailed specifications.
-</thinking>
-
 # Virtual Assistant Agreement Form - Help Guide
 ## Purpose
 The Virtual Assistant Agreement Form is designed to capture the essential details for a virtual assistant agreement between a client and the virtual assistant. This form is intended to serve as a general guide for creating such agreements, although actual agreements might vary based on specific requirements and jurisdictions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to schedule a pest control appointment with a customer. The purpose of this form is to collect necessary information from the customer to facilitate a successful and efficient appointment. This form should only be used for scheduling appointments that require pest control services. If you are unsure about the purpose of this form, please contact your supervisor for clarification. Additionally, please ensure that this form is not used for other purposes to avoid duplication of efforts and potential errors.
-</thinking>
-
 # Pest Control Appointment Form - Help Guide
 
 ## Purpose

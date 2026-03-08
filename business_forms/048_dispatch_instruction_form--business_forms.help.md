@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users complete the "prophets_dispatch_instruction_form" form, which appears to be a general form for recording and documenting instructions for dispatching or sending out items to a customer or location. The form likely exists within a business setting, possibly related to sales or customer service, and is used to gather information on the dispatch process. This guide will walk users through each section of the form to ensure they understand its purpose and how to use it correctly.
-
-</thinking>
-
 # prophets_dispatch_instruction_form - Help Guide
 ## Purpose
 The "prophets_dispatch_instruction_form" is a form used to record and document instructions for dispatching items to a customer or location. It gathers information on the customer's details, the items being dispatched, and the dispatch date.

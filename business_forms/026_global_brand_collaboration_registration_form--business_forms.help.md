@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to register global brand collaboration requests. It's meant for employees to submit requests for collaboration with internal or external brands. The form should only be submitted by the assigned team members. 
 
 The form's purpose is to capture essential information about the collaboration request, such as brand name, contact person, email, phone number, collaboration type, start and end dates, notes, assigned tool, category, sub category, tags, collaborators, collaborators' email, submitted by and submitted to information, and assigned to team member.

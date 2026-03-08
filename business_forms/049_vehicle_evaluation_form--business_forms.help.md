@@ -1,14 +1,3 @@
-<thinking>
-The goal of this form is to collect information about a vehicle, including its type, engine size, transmission, drive type, fuel type, mileage, price, year, vehicle condition, make/model, description, features, color, safety features, warranty, and other relevant details. The form is designed to be completed by a vehicle owner or user, and the information collected will be used to evaluate the vehicle's characteristics and condition.
-
-Before filling out this form, please ensure you are familiar with the vehicle you are evaluating and have access to the necessary information. If you are unsure about any of the fields, you can refer to the field-by-field explanations below for guidance.
-
-This form is not intended to be a comprehensive vehicle inspection or assessment. The information collected will be used for general purposes only.
-
-Please note that some fields are optional and you can skip them if not applicable.
-
-</thinking>
-
 # vehicle_evaluation_form - Help Guide
 ## Purpose
 

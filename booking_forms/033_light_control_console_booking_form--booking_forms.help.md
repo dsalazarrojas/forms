@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to book a light control console. This form is designed to collect information from users to facilitate the booking process. It is essential to ensure that the form is filled out accurately and completely, as this information will be used to manage bookings for the light control console. To avoid confusion, please review the form carefully before submission.
-</thinking>
-
 # Light Control Console Booking Form - Help Guide
 ## Purpose
 The Light Control Console Booking Form is a form designed to collect information from users to facilitate the booking process for a light control console. This form is used to gather essential details that will be used to manage bookings for the light control console.

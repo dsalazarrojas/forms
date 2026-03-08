@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from a customer or end user for the purpose of requesting a quotation for renewable energy. This form should only be filled out by the intended recipient and not duplicated or filled out by anyone else. 
-Please ensure you are filling out the form with accurate and honest information to get the best quote from your desired provider. 
-</thinking>
-
 # Renewable Energy Request For Quotation Form - Help Guide
 ## Purpose
 This form is used to request a quote from a renewable energy provider. It includes details such as user information, provider information, and project specifications.

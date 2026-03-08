@@ -1,7 +1,3 @@
-<thinking>
-The Service Listing Form is intended to gather detailed information about a service provider, including their contact details, social media links, and descriptions. This form is likely used for listing services in a catalog or directory, possibly for businesses or professionals. This form is not meant to be used for other purposes than collecting service listing information. It is recommended that users fill out this form only if they have the necessary information and are authorized to represent the service provider. 
-</thinking>
-
 # Service Listing Form - Help Guide
 ## Purpose
 The Service Listing Form is used to collect information about a service provider, including their contact details, social media links, and descriptions.

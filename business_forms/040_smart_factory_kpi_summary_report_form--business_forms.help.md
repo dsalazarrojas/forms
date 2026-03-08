@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's analyze the form's purpose and fields to ensure we're creating accurate and concise instructions. This form appears to be designed for summarizing the Key Performance Indicators (KPI) of a smart factory, providing an overview of its operational status, production capacity, and other related metrics. To confirm, we will focus on explaining each field clearly and concisely, assuming the form is for monitoring and analyzing the factory's performance.</thinking>
-
 # Smart Factory KPI Summary Report Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is part of a business process for creating and managing quotations (quotes) for point of sale (POS) system installations. The purpose of this form is to provide a structured way of gathering and documenting the requirements from clients for a new POS system installation. The goal is to ensure that all necessary information is collected accurately and efficiently, reducing the risk of misunderstandings or missed details. It is intended to be used by sales personnel to communicate with clients and create quotes for the sales process. The form is not meant for external sharing or public use. It is a internal tool to streamline the sales process and support the sales team. 
-
-The form has been designed to collect relevant data without requiring too much technical knowledge from the users filling it out, and the field labels and hints provided aim to minimize the need for explanations. However, users should be able to understand the purpose and relevance of each field with this guide.
-
-The form has multiple fields of different types. Each field has a label, name, type, options, and hint (if available). The required/optional status indicates whether the field is mandatory or not. The form has two pages: the first one is for the quotation form itself, and the second one is not used in this form as per provided YAML.
-
-</thinking>
-
 # point_of_sale_system_quotation_form - Help Guide
 ## Purpose
 This form is used for creating and managing quotations for point of sale (POS) system installations.

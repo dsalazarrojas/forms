@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a business's use of AI in their operations. The purpose of this form is to identify and nominate businesses that have effectively leveraged AI to drive innovation and efficiency. 
-
-Before filling out this form, please ensure that your business has not been previously nominated or recognized for their AI use. 
-
-The form is divided into several sections, each focusing on a different aspect of the business's AI use. Please complete each section accurately and thoroughly. 
-
-</thinking>
-
 # Best Use of AI in Business Nomination Form - Help Guide
 ## Purpose
 This form is designed to identify and recognize businesses that have effectively leveraged AI in their operations.

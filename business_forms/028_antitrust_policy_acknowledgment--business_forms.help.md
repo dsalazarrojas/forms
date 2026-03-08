@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end users who are required to acknowledge and understand antitrust policy within their company. The form is to gather information about employee understanding and compliance with this policy.
-</thinking>
-
 # Antitrust Policy Acknowledgment - Help Guide
 ## Purpose
 This form is used to confirm employee understanding and acknowledgment of the company's antitrust policy. It is essential to complete this form to demonstrate your understanding and commitment to comply with the policy.

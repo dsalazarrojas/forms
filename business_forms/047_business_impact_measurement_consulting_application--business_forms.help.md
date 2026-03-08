@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from organizations about their business impact measurement consulting needs. It appears to be a comprehensive form designed to collect data on various aspects of the organization's impact measurement, including applicant information, project details, and consulting requirements. The form aims to provide a structured approach to identifying and addressing the specific needs of the organization in terms of impact measurement. However, it's essential to ensure that each organization completes the form only once, and the same information is not duplicated.
-
-To confirm, let's review the form's design:
-
-* It's a 25-field form divided into several sections (Applicant Information, Organization Information, Project Information, Impact Measurement Needs, Consulting Request, and Additional Information).
-* Each section has a clear and concise label that explains its purpose.
-* Fields are either "true" or "false" for required and optional status.
-
-Before proceeding, let's ensure the form's fields are properly filled out, and the data is accurate and relevant.
-</thinking>
-
 # Business Impact Measurement Consulting Application - Help Guide
 ## Purpose
 The Business Impact Measurement Consulting Application is a form designed to collect information from organizations about their impact measurement needs. This application aims to help organizations identify and address their specific needs related to impact measurement.

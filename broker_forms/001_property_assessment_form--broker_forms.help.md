@@ -1,7 +1,3 @@
-<thinking>
-The Property Assessment Form is used for the property owners to self-report property information. To avoid duplication, users must ensure that they are only filling out this form for properties that do not already exist in the assessment database.
-</thinking>
-
 # Property Assessment Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # stock_condition_survey_form - Help Guide
 ## Purpose
 The Stock Condition Survey Form is used to inspect and record the condition of stock, products, or goods during various stages of storage, transportation, or handling. This form helps ensure that the stock is properly inspected for any damages, defects, or other conditions that may affect its quality or value.

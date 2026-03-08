@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for suppliers to submit their invoices for payment. The form is likely used for businesses to manage their suppliers' invoices and facilitate smooth financial transactions. It's possible that this form will be used in conjunction with other forms for order tracking, inventory management, or accounting purposes. Before starting, it's essential to ensure this form is being used appropriately and not for any other purpose, so let's get started!
-</thinking>
-
 # Supplier Invoice Submission Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-The goal of this form is to help customers provide the necessary information for creating digital twins for their businesses. This form is used to gather information about the customer's quotation requirements, including payment details and contact information. The form should only be filled out if the customer is interested in obtaining a quotation from a business for digital twin services. 
-
-Checking the form fields against the provided YAML data, we can see that it consists of 10 fields. This guide will provide an explanation for each field, which will help the user fill out the form correctly.
-</thinking>
-
 # Digital Twin Creation Quotation Form - Help Guide
 ## Purpose
 This form is used to gather information from customers about their digital twin quotation requirements. Fill out this form to provide details about your project, payment method, and contact information.

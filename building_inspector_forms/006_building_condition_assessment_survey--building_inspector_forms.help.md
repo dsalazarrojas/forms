@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information on the overall condition of a building, allowing inspectors to assess its structural integrity, systems, and other factors that impact its value and livability. The form is used to identify areas that require immediate attention or long-term maintenance to prevent safety hazards and maintain the building's value. 
-Please note that this form should not be used to gather information on properties that have not been inspected yet.
-
-</thinking>
-
 # Building Condition Assessment Survey - Help Guide
 
 ## Purpose

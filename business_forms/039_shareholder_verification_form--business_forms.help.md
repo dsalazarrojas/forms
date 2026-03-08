@@ -1,5 +1,3 @@
-<thinking>As the AI-generated form designer, I've analyzed the provided YAML data to understand the form's purpose and fields. The Shareholder Verification Form is used to verify the identity of a shareholder, likely for corporate or business purposes. This form will likely be used by shareholders or their representatives to provide personal details for verification. The form appears to be a simple, one-page form with six fields: First Name, Last Name, SSN, Date of Birth, Email, and an optional field that is not present in this form.</thinking>
-
 # Shareholder Verification Form - Help Guide
 ## Purpose
 This form is used to verify the identity of a shareholder. Please fill out the form with your personal details to ensure accurate verification.

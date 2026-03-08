@@ -1,16 +1,3 @@
-<thinking>
-The purpose of this form is to obtain approval for a complaint resolution protocol from internal management. This form ensures that all necessary steps and costs are clearly documented and authorized before proceeding with the resolution process. The form is used to track and manage the approval process, ensuring that all relevant stakeholders are on board and that the protocol is compliant with company policies and procedures.
-
-Before filling out this form, make sure that:
-* You have the necessary information to complete the form accurately.
-* You are not duplicating effort or creating a new protocol for a case that already has an existing one.
-* You have reviewed and understood the relevant business logic and policies related to complaint resolution.
-
-This form is used to document and obtain approval for a single complaint resolution protocol. If you need to create or update multiple protocols, you will need to complete this form for each one separately.
-
-Please note that some fields in this form may require specific information or approval from specific stakeholders. Make sure to review the hints and options carefully to ensure you are completing the form correctly.
-</thinking>
-
 # Complaint Resolution Protocol Approval Form - Help Guide
 
 ## Purpose

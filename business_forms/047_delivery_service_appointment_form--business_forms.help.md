@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to create a delivery service appointment for an order, allowing customers to provide their preferred delivery date and time. This form is used to gather information about the customer's delivery preferences, including their preferred date and time, address, and contact information.
-The form is likely to be used in an e-commerce or retail context where customers can choose their delivery dates and times based on available slots.
-Before starting, ensure you have all the necessary information ready, as the form fields are mostly optional but may need some specific data.
-</thinking>
-
 # Delivery Service Appointment Form - Help Guide
 ## Purpose
 The purpose of this form is to create a delivery service appointment for an order, allowing customers to provide their preferred delivery date and time.

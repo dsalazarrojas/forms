@@ -1,15 +1,3 @@
-<thinking> 
-The form "Background Information Sheet Form" is designed to collect background information from business clients to understand their needs and objectives, which will help in providing tailored solutions and services.
-
-To ensure that this form is being used for its intended purpose, please note that:
-
-- This form is not affiliated with, endorsed by, or derived from any form platform.
-- It was generated using only public metadata from surveys and is an original adaptation.
-
-Before proceeding, ensure that this form is not a duplication of effort and that you are not attempting to collect sensitive or regulated information that may require specific handling and permissions.
-
-</thinking>
-
 # Background Information Sheet Form - Help Guide
 ## Purpose
 This form is designed to help us understand your business background, challenges, and needs, allowing us to provide you with more effective and personalized solutions.

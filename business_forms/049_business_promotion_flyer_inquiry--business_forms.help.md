@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's take a moment to understand why this form was created. This form is designed for businesses to inquire about creating a promotion flyer. It's used by customers to submit their request for a custom promotion flyer, which can include details about the type of flyer needed, distribution location, target audience, and other requirements. This form helps to ensure that all necessary information is collected from customers, making it easier for the business to create a tailored promotion that meets their needs.</thinking>
-
 # Business Promotion Flyer Inquiry - Help Guide
 ## Purpose
 This form is used by businesses to submit an inquiry for a custom promotion flyer. It gathers information about the type of flyer needed, distribution location, target audience, and other requirements to create a tailored promotion that meets their needs.

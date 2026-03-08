@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect and manage administrative terms and their definitions within the organization. This form will help to streamline the submission process for new terms and ensure consistency in their usage. It's essential to fill out this form accurately and thoroughly to maintain the integrity of the glossary. This form is used by administrative staff to submit new terms for review and approval. Reviewers will use this form to assess the submissions and provide feedback...</thinking>
-
 # Administrative Terms Glossary Submission - Help Guide
 ## Purpose
 The purpose of this form is to collect and manage administrative terms and their definitions within the organization. This form will help to streamline the submission process for new terms and ensure consistency in their usage.

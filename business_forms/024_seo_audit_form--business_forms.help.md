@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for SEO audits, which is a crucial process to evaluate the website's search engine ranking, search volume, and overall online presence. This form will help users to input their website's data, search engine, search term, and other relevant details to get insights on how to improve their website's SEO. The form is designed to be simple and easy to fill out, with clear labels and explanations for each field.
-</thinking>
-
 # seo_audit_form - Help Guide
 ## Purpose
 The SEO audit form is used to collect information about a website's search engine ranking, search volume, and online presence. This form is designed to help users input their website's details and get insights on how to improve their website's SEO.

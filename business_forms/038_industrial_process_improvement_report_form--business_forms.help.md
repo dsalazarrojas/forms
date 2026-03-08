@@ -1,7 +1,3 @@
-<thinking>
-This form is used to document and analyze potential improvements to industrial processes within an organization. It should only be filled out by individuals who have visited or interacted with a site or location where an industrial process is being performed. The information collected through this form will help management track and evaluate the effectiveness of current processes and identify areas for improvement. To ensure that only relevant and unique information is collected, please only fill out this form once per site or location.
-</thinking>
-
 # Industrial Process Improvement Report Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who have visited or interacted with a site or location where an industrial process is being performed. The data collected will help management identify areas of improvement and assess the effectiveness of current processes.

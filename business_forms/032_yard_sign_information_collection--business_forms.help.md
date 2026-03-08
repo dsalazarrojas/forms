@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about yard signs, which are used to identify and locate properties with the local sign shop. This form is intended to collect specific details about each yard sign, including the sign shop that created it, the size of the yard it was installed in, the artwork or design of the sign, the specifications of the sign, and installation details. It is used to provide clear and concise information to the customer about their yard sign.
-
-The form is designed to be completed by customers or authorized individuals within the sign shop, and it is essential to ensure accurate and relevant information is entered for proper tracking and maintenance of the yard signs.
-
-Before completing this form, please ensure that you are familiar with the information being requested and that it is accurate and relevant to the yard sign in question.
-</thinking>
-
 # Yard Sign Information Collection - Help Guide
 ## Purpose
 This form is used to collect information about yard signs, including the sign shop that created it, the size of the yard it was installed in, the artwork or design of the sign, and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This block explains the thought process behind this form design:
 This form is a generic workshop information form designed to collect various details about a workshop. The form is meant to be used in a business setting, likely for internal or external communication. The purpose of this form is to gather information about an upcoming workshop, including its details and the contact information of the event organizer.
 

@@ -1,7 +1,4 @@
-### <thinking>
-This form is designed to gather relevant information from individuals seeking coaching services. It ensures they understand what to expect from the coaching process, allows the coach to tailor their approach to the client's needs, and helps the coach identify potential areas of focus. This form is a critical first step in the coaching process, ensuring that both the client and coach are on the same page. To ensure relevance, please complete this form carefully, and if you have any questions or concerns, please don't hesitate to ask. Please be aware that this form may be required for coaching service eligibility. </thinking>
-
-# Coaching Intake Form - Help Guide
+### # Coaching Intake Form - Help Guide
 
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather financial data for forecasting and auditing purposes. It is likely used by finance teams to review and analyze historical and predicted financial performance. The form should only be completed by authorized personnel and the data collected will be used for internal analysis and reporting.
-
-</thinking>
-
 # Financial Forecasting Audit Form - Help Guide
 ## Purpose
 This form is used to gather financial data for forecasting and auditing purposes. It is intended for finance teams to review and analyze historical and predicted financial performance.

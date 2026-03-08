@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Batting Lesson Scheduling Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for vehicle detailing services. It's intended for customers to book an appointment with their vehicle details and preferences. To complete this form, ensure you are providing accurate and relevant information for the requested fields. Please do not duplicate or submit incomplete information as it may cause errors in the service process.
-
-Before submitting, double-check your input for accuracy and completeness.</thinking>
-
 # Vehicle Detailing Booking Form - Help Guide
 ## Purpose
 This form is for booking vehicle detailing services with your vehicle details and preferences.

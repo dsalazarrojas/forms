@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about penetration testing audits. It appears to be a template for tracking and managing risk assessments and remediation activities related to compliance testing, vulnerability testing, and other security-related activities. This form likely serves as a tool for auditors or security professionals to document and track the status of testing and remediation activities within an organization.
-</thinking>
-
 # Penetration Testing Audit Form - Help Guide
 ## Purpose
 This form is designed to collect and track information about penetration testing audits, focusing on risk assessments, remediation activities, and compliance testing.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an employee's paycheck, including their company, name, date of last payment, pay period, amount paid, payment method, paycheck number, and payment status. The form is used to track and manage employee paychecks, ensuring accurate and timely payment records. It's essential to complete this form accurately and correctly to avoid errors and discrepancies in the payroll process. Before filling out this form, ensure you're familiar with the employee's current pay period and payment status. To prevent duplicate entries, review the form fields carefully and only complete it for new or updated paycheck information.
-</thinking>
-
 # Paycheck Form - Help Guide
 ## Purpose
 The Paycheck Form is designed to collect and track employee's paycheck information for accurate and timely payment records.

@@ -1,14 +1,3 @@
-<thinking>
-This form is used for referral management within an organization. It's designed to collect relevant information about business referrals, including the name of the business, its website, contact details, and the status of the referral. This form is crucial for tracking and evaluating referrals effectively.
-
-The form should only be completed by authorized personnel within the organization, and the information collected should be accurate and up-to-date to ensure the best possible outcomes.
-
-Before filling out this form, ensure that all fields are correctly completed, and the referral status is accurately reported. This form should not be used for personal or non-business purposes.
-
-To avoid duplication of referrals, please ensure that all referrals are unique and not repeated.
-
-</thinking>
-
 # Import Specialist Referral Form - Help Guide
 ## Purpose
 This form is used for referral management within an organization, helping to track and evaluate referrals for businesses.

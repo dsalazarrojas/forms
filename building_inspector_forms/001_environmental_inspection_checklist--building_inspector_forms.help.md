@@ -1,5 +1,3 @@
-<thinking>As a building inspector, the Environmental Inspection Checklist is a crucial tool used to evaluate the condition of a facility's environmental systems, such as plumbing, electrical, and HVAC, to identify potential hazards and ensure compliance with regulatory standards. This form is typically used during regular facility inspections to gather information on the condition of these systems, identify maintenance needs, and provide a basis for future inspections.</thinking>
-
 # Environmental Inspection Checklist - Help Guide
 
 ## Purpose

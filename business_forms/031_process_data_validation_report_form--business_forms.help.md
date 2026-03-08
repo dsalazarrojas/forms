@@ -1,7 +1,3 @@
-<thinking>
-This form is used for documenting and reporting the validation status of business processes. The goal is to track the progress and outcome of process data validation, including whether the validation was successful or not. The form also captures information about the actions taken during the validation process and the next steps that are planned for improvement.
-</thinking>
-
 # Process Data Validation Report Form - Help Guide
 ## Purpose
 This form is used to document and report the validation status of business processes. It captures information about the process validation, including whether it was successful or not, and captures details about the activities, findings, actions taken, next steps, validation status, comments, and validation date and time.

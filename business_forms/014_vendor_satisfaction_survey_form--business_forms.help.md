@@ -1,13 +1,3 @@
-<thinking>
-This form aims to collect data on the satisfaction level of vendors regarding various aspects of the business relationship. It's essential to have a deep understanding of this form's purpose and usage context to ensure accurate and relevant responses. To avoid duplication, please review and verify the provided data before completing this form.
-
-Before proceeding, please ensure you have the necessary information and permissions to complete this form accurately. If you have any questions or concerns, don't hesitate to reach out to the contact person specified in the form header.
-
-If you're an administrator or manager reviewing the responses, please be aware that this form's data might be used to evaluate and improve the business relationship. Keep in mind that responses might reveal sensitive or confidential information, so handle them with care.
-
-To ensure accurate and consistent data collection, please follow the instructions below.
-</thinking>
-
 # Vendor Satisfaction Survey Form - Help Guide
 ## Purpose
 The Vendor Satisfaction Survey Form is designed to collect data on the satisfaction level of vendors regarding various aspects of the business relationship. This data will help evaluate and improve the partnership between your business and its vendors.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from local vendors interested in becoming a local accelerator. The purpose of this form is to gather essential details about the vendor's business, including their name, contact information, business hours, and application status. This form will be used by internal stakeholders to review and process vendor applications.
-
-Before filling out this form, please ensure that you're using the correct application type (service or product) and providing accurate information about your business. The form is not intended for general inquiries or other purposes.
-
-This guide will walk you through each field and provide explanations to help you complete the form correctly.
-</thinking>
-
 # local_vendor_accelerator_application_form - Help Guide
 ## Purpose
 The local_vendor_accelerator_application_form is designed to collect information from local vendors interested in becoming a local accelerator.

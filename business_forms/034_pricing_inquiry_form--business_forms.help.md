@@ -1,10 +1,3 @@
-<thinking>
-I'm thinking... This form is likely used for a business to inquire about pricing for a specific product or service. It's designed to gather contact information, product details, and other relevant data to facilitate the pricing discussion. The form should be completed by a representative of the business, and it's essential to fill it out accurately to ensure a smooth communication process.
-
-To prevent duplication, this form should not be used for existing customers or for orders that have already been processed.
-
-</thinking>
-
 # Pricing Inquiry Form - Help Guide
 ## Purpose
 The Pricing Inquiry Form is a tool for businesses to inquire about pricing for a specific product or service. This form helps to gather relevant information from the customer to facilitate a smooth pricing discussion.

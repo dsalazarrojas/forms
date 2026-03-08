@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture project information, such as project name, description, status, priority, start and end dates, budget, location, project manager's email and phone number, and team members. To ensure that this form is completed correctly, it is essential to understand its purpose and the requirements of each field.
-</thinking>
-
 # Project Information Form - Help Guide
 ## Purpose
 This form is designed to collect and store project information, including project name, description, status, priority, start and end dates, budget, location, project manager's email and phone number, and team members.

@@ -1,21 +1,3 @@
-<thinking>
-
-This form is used to sign up for desk duty, which is a weekly rotation of tasks and responsibilities among team members. The purpose of this form is to gather information about who is assigned to perform which tasks and when. This ensures that tasks are distributed fairly and efficiently among team members, promoting accountability and productivity.
-
-To complete this form, follow these steps:
-
-1. Provide your base information, including your name and any other relevant contact details.
-2. Indicate your preferred weeks for desk duty assignments. Choose 'Yes' for the weeks you are available and 'No' for the weeks you are not.
-3. Select your time slots for desk duty, such as morning, afternoon, or evening shifts.
-4. Enter your contact information, including your email and phone number.
-5. Indicate whether you submitted this form, and the date and time you submitted it.
-6. Choose whether you are assigned to perform desk duty for any specific tools, users, or teams.
-7. Select the date and time you are assigned to perform desk duty.
-
-Note: Some fields are optional, so you only need to fill in the required information. Make sure to fill in all required fields to ensure accurate assignment of desk duty tasks.
-
-</thinking>
-
 # Weekly Desk Duty Sign Up - Help Guide
 ## Purpose
 The purpose of this form is to sign up for desk duty, a weekly rotation of tasks and responsibilities among team members.

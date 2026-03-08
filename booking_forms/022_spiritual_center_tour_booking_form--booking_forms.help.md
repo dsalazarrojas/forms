@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spiritual Center Tour Booking Form - Help Guide
 ## Purpose
 This form is designed to help you book a tour at the Spiritual Center. Please fill out the form with your details and we will do our best to accommodate your tour request.

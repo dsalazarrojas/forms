@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to first understand the purpose and structure of the form. The Systems Evaluation Checklist form appears to be a collection of fields that aim to capture project-related information, including project manager details, project status, satisfaction, and risk assessment. It seems to be a form for evaluating or tracking project progress. To ensure that the guide is clear and concise, I will review each field and provide explanations that align with the available data.
-
-Upon reviewing the form, it seems there is no obvious duplication of effort or fields that can be removed. However, it's essential to note that some fields might be redundant or unnecessary, but without further context, I will provide explanations for all fields.
-
-The form has multiple sections or pages, but for the purpose of this guide, I will group them into categories for easier understanding. I will provide explanations for each field, using the field label, type, and options as references.
-</thinking>
-
 # Systems Evaluation Checklist - Help Guide
 ## Purpose
 The Systems Evaluation Checklist is a form used to evaluate or track project progress. It captures information about project manager details, project status, satisfaction, and risk assessment. This form helps project managers and teams to assess project effectiveness, identify areas for improvement, and make data-driven decisions.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather information from business owners or representatives to assess their business resilience and identify areas for improvement. The form is used to collect data on the business's current state, goals, and desired outcomes, as well as its support needs and organizational commitment to improvement. This information will help the organization provide tailored guidance and resources to support the business's resilience improvement journey. To ensure accurate and complete data, please answer all required fields carefully.
-</thinking>
-
 # Business Resilience Improvement Application - Help Guide
 ## Purpose
 This guide explains the Business Resilience Improvement Application form, a tool designed to help businesses assess and improve their resilience. The form is used to collect information on the business's current state, goals, and desired outcomes, as well as its support needs and organizational commitment to improvement.

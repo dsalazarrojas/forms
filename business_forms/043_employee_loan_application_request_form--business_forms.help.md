@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from employees who wish to request a loan from the company. To ensure the form is filled out correctly, please make sure to review all fields carefully to provide accurate and relevant information. If you are an employee requesting a loan, please note that the form will be reviewed by your manager and other relevant parties. If you are a manager, please use this form to review and approve or reject loan requests from your team members. Please ensure that all fields are filled out correctly and accurately, and that you have discussed the loan terms with the employee before filling out the form.</thinking>
-
 # Employee Loan Application Request Form - Help Guide
 ## Purpose
 The Employee Loan Application Request Form is used to collect information from employees who wish to request a loan from the company. This form is used to gather details such as loan amount, loan term, start and end dates, loan frequency, and other relevant information required for loan processing.

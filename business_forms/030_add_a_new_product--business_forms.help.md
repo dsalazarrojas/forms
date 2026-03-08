@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Add A New Product" form, I need to understand the form's purpose and how to complete it step-by-step. 
-The form appears to be used for creating a new product listing on an e-commerce platform or inventory management system.
-The form has several sections or "pages" with various fields that require input from the user.
-Upon reviewing the form YAML, I notice that it requires fields such as product title, name, category, description, pricing, inventory levels, shipping details, and more.
-The form seems to be focused on collecting detailed information about the product, including its internal cost price, retail price, wholesale price, shipping class, and image status.
-The user will likely need to input accurate and complete information for each field to ensure the product is properly listed and managed.
-To avoid duplication, a check may be required to ensure the product is not already in the system.
-</thinking>
-
 # Add A New Product - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the "Add A New Product" form to create a new product listing on the e-commerce platform or inventory management system.

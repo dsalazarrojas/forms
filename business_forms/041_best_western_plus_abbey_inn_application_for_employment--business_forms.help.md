@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Best Western Plus Abbey Inn Employment Application - Help Guide
 ## Purpose
 The Best Western Plus Abbey Inn Employment Application form is designed to collect information from applicants interested in working at Best Western Plus Abbey Inn. This form gathers essential details about the applicant's personal and professional history, education, and availability. The information collected will be used to assess the applicant's suitability for available positions.

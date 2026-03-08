@@ -1,13 +1,3 @@
-<thinking>
-
-To help determine whether this form is relevant and not duplicated, let's analyze the fields and the application process. The form is for a barber franchise, and it appears to be a comprehensive application that requires detailed information about the applicant's background, experience, and business plan. The form includes fields for personal information, business experience, financial details, location preferences, and management team information. It also asks about the applicant's commitment to brand standards and any potential legal or regulatory issues. 
-
-The form seems to be designed to gather thorough information that will help the franchise evaluate the applicant's suitability and readiness to open a franchise location. Based on the fields, it's likely that this form is a necessary step in the application process for anyone interested in opening a barber franchise.
-
-With that said, if you're unsure whether this form is a duplicate, please let me know and I'll investigate further.
-
-</thinking>
-
 # Barber Franchise Application Form - Help Guide
 ## Purpose
 The Barber Franchise Application Form is a comprehensive form designed to gather essential information from potential franchisees who are interested in opening a barber franchise. This form is a crucial step in the application process, as it helps the franchise evaluate the applicant's background, experience, and business plan.

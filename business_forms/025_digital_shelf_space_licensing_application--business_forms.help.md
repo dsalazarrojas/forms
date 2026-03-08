@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from brands that wish to apply for licensing space on digital shelf space platforms. The purpose of this form is to provide a clear and concise way for brands to submit their brand and product details, space requirements, start dates, ecommerce team details, marketplace team details, evaluation criteria, and any other relevant information needed for the application process. This form ensures that the brand provides the necessary information for the licensing process, reducing the back-and-forth communication and streamlining the application workflow.
-
-Before filling out this form, please ensure that you have all the required information ready. This form is not a duplicate of any existing form, and any data collected through this form will be used for the sole purpose of reviewing and processing your application.
-
-Please note that this form has multiple pages, each with its own set of fields. Make sure to fill out all the necessary fields to ensure a smooth application process.
-</thinking>
-
 # Digital Shelf Space Licensing Application - Help Guide
 
 ## Purpose

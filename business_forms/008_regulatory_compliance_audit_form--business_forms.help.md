@@ -1,20 +1,3 @@
-<thinking>
-This form is intended to help users assess and document the compliance status of a particular business process or policy within an organization. The purpose of this form is to identify potential areas of non-compliance and provide a framework for addressing these issues. To avoid duplication of effort, users should ensure that the form is completed accurately and thoroughly.
-
-This form will be used in conjunction with other tools and processes to ensure that the organization is meeting regulatory requirements. The fields on this form should not be confused with other similar forms or processes.
-
-In completing this form, users should consider the following:
-* Ensure that all questions are answered accurately and completely.
-* Review and select the correct options for each field.
-* Do not leave any fields blank without a valid reason or explanation.
-* If a field does not apply to the current business process or policy, select "N/A" or "Not Applicable".
-
-The form is designed to be flexible and adaptable to suit different business needs and processes. However, users should be aware that some fields may be required or have specific formatting or validation rules.
-
-Before beginning, users should review the fields and options carefully and ensure that they understand the context and relevance of each field.
-
-</thinking>
-
 # Regulatory Compliance Audit Form - Help Guide
 ## Purpose
 This form is used to assess and document the compliance status of a particular business process or policy within an organization.

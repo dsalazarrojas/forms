@@ -1,5 +1,3 @@
-<thinking>Is this form used for capturing employee information for document retrieval purposes? This form might be used for requesting or confirming document access rights for employees within an organization. The purpose of this form is likely to track and manage document retrieval agreements between employees and the organization. This form should not be used for other purposes. This form is a one-page form, so the instructions will be concise and to the point.</thinking>
-
 # Document Retrieval Agreement - Help Guide
 ## Purpose
 This form is used to capture employee information for document retrieval purposes, such as requesting or confirming access rights for documents.

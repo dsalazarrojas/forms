@@ -1,9 +1,3 @@
-<thinking>
-
-This form is meant to collect contact information from individuals interested in collaborating or partnering with the research team on smart manufacturing projects. The form is not intended to be a general contact form, but rather a specific one for research partners. The form should only be filled out by individuals who are interested in collaborating on research projects related to smart manufacturing. 
-
-</thinking>
-
 # smart_manufacturing_research_partner_contact_form - Help Guide
 ## Purpose
 This form is intended to help us identify potential research partners and collaborators for smart manufacturing projects. Please fill out this form if you are interested in collaborating or partnering with our research team.

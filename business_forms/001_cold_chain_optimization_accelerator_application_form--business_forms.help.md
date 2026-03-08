@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will aim to create a user-facing help guide that is easy to understand and concise. This guide will cover three main sections: "Purpose", "How To Complete This Form", and "Field-by-Field Explanation". The form is for the "Cold Chain Optimization Accelerator Application Form" and is intended for business users.</thinking>
-
 # Cold Chain Optimization Accelerator Application Form - Help Guide
 ## Purpose
 The Cold Chain Optimization Accelerator Application Form is designed to help businesses optimize their cold chain operations. By providing information about your business and your optimization goals, you will be able to access the Cold Chain Optimization Accelerator program, which will help you improve your supply chain visibility, reduce costs, and enhance compliance.

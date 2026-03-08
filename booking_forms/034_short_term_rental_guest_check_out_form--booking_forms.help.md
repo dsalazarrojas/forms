@@ -1,7 +1,3 @@
-<thinking>
-This form is used for short-term rental guest check out. The purpose of this form is to capture the check out time, additional charges, guest feedback, and other relevant details of the guest when they are checking out. This form is designed to be completed by the guest themselves, and the information collected will be used to record the check out process.
-</thinking>
-
 # short_term_rental_guest_check_out_form - Help Guide
 ## Purpose
 

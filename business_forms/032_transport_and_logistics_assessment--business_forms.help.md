@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather information about the transportation and logistics processes within an organization. The Transport and Logistics Assessment form aims to help assess the current capacity, cost, and challenges associated with the transport and logistics functions. This form will be used to identify areas for improvement and provide a basis for decision-making.
-
-The form consists of the following fields:
-- Transport Capacity: This field will be used to input the available transport capacity.
-- Transport Modes: This field will be used to input the transport modes used by the organization.
-- Major Challenges: This field will be used to input any major challenges faced by the transport and logistics department.
-- Improvement Needs: This field will be used to identify areas that need improvement.
-- Fleet Status: This field will be used to input the current fleet status.
-- Transport Costs: This field will be used to input the current transport costs.
-- Logistics Process: This field will be used to input any information about the logistics process.
-- Transport Capacity Index: This field will be used to input the transport capacity index.
-- Supply Chain: This field will be used to input information about the supply chain.
-- Logistics Fleet Size: This field will be used to input the logistics fleet size.
-- Supply Chain Risks: This field will be used to input any risks associated with the supply chain.
-
-</thinking>
-
 # Transport And Logistics Assessment - Help Guide
 ## Purpose
 This form is designed to gather information about the transportation and logistics processes within an organization.

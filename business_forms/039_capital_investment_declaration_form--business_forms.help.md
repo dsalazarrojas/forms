@@ -1,10 +1,3 @@
-<thinking>
-This help guide is meant to assist users in understanding the purpose of the Capital Investment Declaration Form and how to complete it accurately. The form is designed to collect information about an individual's or business's investments for financial assessment and compliance purposes. This guide will walk users through each page and field of the form, explaining what each field means and how to fill it out correctly.
-
-Before starting, please ensure that you have all the required information and that the form is relevant to your current situation. If you are unsure about any field, please refer to this guide for clarification.
-
-</thinking>
-
 # Capital Investment Declaration Form - Help Guide
 ## Purpose
 The Capital Investment Declaration Form is designed to collect information about your investments for financial assessment and compliance purposes. It is essential to provide accurate and complete information to ensure that your declaration is processed correctly.

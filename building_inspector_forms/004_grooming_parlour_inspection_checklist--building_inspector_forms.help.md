@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Grooming Parlour Inspection Checklist form, let's break down the form's purpose and requirements. The form is designed to inspect a grooming parlour to ensure it meets the necessary standards and regulations for safety, hygiene, and overall quality. It's essential to complete this form accurately to identify any potential issues or concerns that may affect the parlour's operation.
-
-The form is divided into several sections, including Facilities, Staff, Animal Handling, Facilities Cleanliness, and Other Findings. Each section is designed to evaluate specific aspects of the parlour, such as the availability of facilities and equipment, the quality of staff, animal handling practices, and overall cleanliness. The form requires the completion of multiple-choice questions, select-all-that-apply questions, and free-text fields for additional observations.
-
-The main purpose of this form is to gather information to identify areas that need improvement or attention. By answering each question accurately, the user can provide a thorough assessment of the parlour's condition and help ensure a safe and healthy environment for both customers and employees.
-
-Before proceeding, make sure to review the entire form carefully and answer each question according to the given options or your observations.</thinking>
-
 # Grooming Parlour Inspection Checklist - Help Guide
 ## Purpose
 This form is designed to inspect a grooming parlour to ensure it meets the necessary standards and regulations for safety, hygiene, and overall quality.

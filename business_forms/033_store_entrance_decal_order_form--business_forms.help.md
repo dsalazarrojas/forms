@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for store entrance decal orders. The purpose of this form is to capture details about the decal type, size, and other relevant details required for the order. This form should only be used for store entrance decal orders. Please ensure that you have the necessary permissions and authorization to complete this form. If you are unsure or have already completed this form for the same purpose, please do not submit duplicate requests.
-</thinking>
-
 # Store Entrance Decal Order Form - Help Guide
 ## Purpose
 This form is intended to collect information for store entrance decal orders.

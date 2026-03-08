@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from speakers who want to propose a session for a conference. The purpose of this form is to ensure that all necessary information is gathered in order to evaluate and review session proposals. This form will be used by the conference organizers to make informed decisions about which sessions to include in the conference program. It's essential that the form is completed carefully and thoroughly, as it will be used to decide on the sessions that will be presented at the conference. To avoid duplication, please make sure to check if a similar proposal has already been submitted before completing this form. If you have any questions or concerns, please don't hesitate to reach out to the conference organizers.
-</thinking>
-
 # Conference Proposal Form - Help Guide
 ## Purpose
 ## How To Complete This Form

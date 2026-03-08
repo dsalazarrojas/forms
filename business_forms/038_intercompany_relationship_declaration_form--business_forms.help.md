@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To clarify the purpose and usage of this form, I'll review the provided YAML fields to ensure I understand what's being asked. The form's title suggests a relationship declaration between two companies, but it appears that this form is more focused on individual employee declarations within a company. I'll base my explanation on this understanding.
 
 The form "intercompany_relationship_declaration_form" seems to be used for declaring relationships between employees within the company, specifically about whether an employee works with or declares a relationship with another company.

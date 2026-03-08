@@ -1,10 +1,3 @@
-<thinking>
-To create a well-crafted user-facing help guide for the "real_estate_transaction_summary" form, I'll need to review the provided YAML fields and understand their meanings and purposes. This form appears to be for real estate transactions, gathering information on various aspects of sales and purchases. The form seems to be comprehensive, covering details such as transaction types, property types, purchase prices, sale dates, and contact information for buyers, agents, and agencies. Each field is labeled with a descriptive name, and most have hints that provide additional context. The fields are a mix of text, select_one, select_multiple, date, and email types, indicating a variety of input methods.
-
-To ensure the guide is concrete, concise, and practical, I'll focus on explaining each field in a clear and simple way, without assuming additional business logic.
-
-</thinking>
-
 # real_estate_transaction_summary - Help Guide
 ## Purpose
 The "real_estate_transaction_summary" form is designed to collect detailed information on real estate sales and purchases. It's used to track and document transactional data, ensuring accurate and efficient processing of real estate deals.

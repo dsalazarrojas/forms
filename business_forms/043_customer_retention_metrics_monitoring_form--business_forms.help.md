@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to monitor and measure various customer retention metrics for a business. The primary goal is to collect data on customer satisfaction, acquisition, and retention rates to help businesses identify areas of improvement and optimize their customer retention strategies. 
-
-This form will likely be used by business analysts, product managers, or customer service teams to track key customer metrics and make data-driven decisions.
-
-Before proceeding, ensure the form is relevant to your role and responsibilities. If not, it's possible that a different form is more suitable for your needs.
-
-</thinking>
-
 # Customer Retention Metrics Monitoring Form - Help Guide
 
 ## Purpose

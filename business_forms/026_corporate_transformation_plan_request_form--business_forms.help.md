@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the Corporate Transformation Plan Request Form. The form is meant to collect information regarding corporate transformation plans, including goals, focus areas, timelines, budgets, and other related details. It is crucial to fill out this form accurately to ensure that the submitted plans are reviewed by the correct stakeholders and meet the necessary requirements.
-
-However, please be aware that duplicate submissions may be discarded. It is essential to verify that your submission is original and not a copy of an existing one. If you have any doubts or uncertainties about the form's purpose, please feel free to reach out to the relevant team for clarification.
-
-To avoid any confusion, please make sure to complete the form with accurate and up-to-date information. This will help in the efficient evaluation and processing of your submission.
-
-</thinking>
-
 # Corporate Transformation Plan Request Form - Help Guide
 ## Purpose
 

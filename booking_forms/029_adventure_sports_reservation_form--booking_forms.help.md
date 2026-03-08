@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to reserve an adventure sport activity. The main goal of this form is to collect relevant customer and activity information to facilitate the booking process. Before you start, make sure you have all necessary information, such as a valid email and phone number, which are both required fields. This form will help guide you through the entire process.
-</thinking>
-
 # Adventure Sports Reservation Form - Help Guide
 ## Purpose
 This form is designed for customers to book adventure sports activities. It collects customer and activity information to facilitate the booking process.

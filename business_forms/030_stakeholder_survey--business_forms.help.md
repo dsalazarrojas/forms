@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from stakeholders about areas of improvement within an organization. This information will be used to identify potential areas for growth and development. It's essential to complete this form accurately and honestly to provide valuable insights. Before starting, please confirm that you have reviewed the form's purpose and content to ensure you're providing relevant and consistent feedback.
-
-Please note that this form is for internal use only and the information collected will be used to improve the organization's processes and services. If you're unsure about any section or question, please contact the relevant department or team for clarification.
-
-Also, please be aware that this form is not a duplicate of other forms or surveys you may have completed in the past. Each section is designed to provide unique and relevant information, so please answer each question honestly and thoroughly.
-
-</thinking>
-
 # Stakeholder Survey - Help Guide
 ## Purpose
 The Stakeholder Survey is designed to gather information from stakeholders about areas of improvement within an organization. This information will be used to identify potential areas for growth and development to enhance our services and processes.

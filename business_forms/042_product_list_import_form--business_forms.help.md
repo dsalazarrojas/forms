@@ -1,7 +1,3 @@
-<thinking>
-
-This form appears to be designed for importing product data into a system or database. The form likely serves as a data entry tool, collecting various product information such as category, price, currency, status, and other relevant details. The "Product List Import Form" seems to be a critical component of a business's product management system, ensuring accurate and up-to-date product data is stored correctly. I assume the form is used by administrators, product managers, or other authorized personnel to update, manage, or create product listings. Before proceeding to create the user documentation, I will assume that this form is a critical component of the business's operations and should not be duplicated, and users should carefully follow the guidance to complete it correctly.</thinking>
-
 # Product List Import Form - Help Guide
 ## Purpose
 The Product List Import Form is a data entry tool used to collect and store product information into the business's product management system. This form helps ensure accurate and up-to-date product data is stored correctly, enabling efficient product management and sales operations.

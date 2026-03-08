@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to request access to the digital catalog for authorized personnel or users. The form is designed to ensure that users understand and agree to the terms and conditions of accessing the catalog.
-
-This form is intended for users who need access to the digital catalog for specific reasons and are required to agree to multiple terms and conditions of use. Each field on this form is designed to guide the user through the process of requesting access and providing necessary information to ensure compliance with the required terms and conditions.
-
-Before filling out this form, users should review and understand the terms and conditions of accessing the digital catalog to ensure that they are not duplicating requests or submitting incomplete information.
-
-</thinking>
-
 # Digital Catalog Access Request Form - Help Guide
 
 ## Purpose

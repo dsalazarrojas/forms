@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for cash management policy applications within an organization. It is crucial to ensure that all required fields are filled out to ensure accurate and complete information. Please review each field carefully and make sure to provide detailed responses where possible. This form is intended for internal use within the organization and is not meant to be shared with external parties.
-</thinking>
-
 # Cash Management Policy Application Form - Help Guide
 ## Purpose
 The Cash Management Policy Application Form is used to gather information for cash management policy applications within the organization. This form helps to ensure that all necessary details are captured for the effective implementation and review of cash management policies.

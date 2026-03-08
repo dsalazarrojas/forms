@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request a reconciliation for an invoice. Reconciliation is the process of verifying and matching transactions or accounts. This form is used to trigger this process. It is meant to be completed by the user who initiated the request. 
-The form is not meant to be duplicated or repeated for the same request. Each request should have its own unique form submission.
-</thinking>
-
 # Invoice Reconciliation Summary Request Form - Help Guide
 ## Purpose
 This form is used to initiate an invoice reconciliation request. It is meant to provide information needed to verify and match transactions or accounts.

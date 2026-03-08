@@ -1,7 +1,3 @@
-<thinking>
-We have to determine if this form is a registration form for businesses or organizations seeking services or support from a government agency or non-governmental organization. This form is likely used to gather information about the organization, its contact and address details, and the purpose of its submission or request. We also need to consider whether the form is designed to collect data on a specific business process or activity, such as registration, inquiry, feedback, or application.
-</thinking>
-
 # Basic Form Structure - Help Guide
 ## Purpose
 

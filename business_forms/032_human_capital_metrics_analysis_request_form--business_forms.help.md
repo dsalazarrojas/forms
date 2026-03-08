@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request analysis of human capital metrics, which are metrics that measure the performance, skills, and productivity of employees. These metrics are important for HR and management teams to understand employee performance, make informed decisions, and identify areas for improvement. Before filling out this form, please ensure that you have the necessary information and approval to proceed, as this form is intended for HR-related tasks and may involve sensitive employee data.
-
-To confirm, have you recently received a request from an HR manager or supervisor to perform a human capital metrics analysis?
-
-</thinking>
-
 # Human Capital Metrics Analysis Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for the analysis of human capital metrics for a specific employee or group of employees.

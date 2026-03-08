@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from potential integration partners to help us determine their qualifications and suitability for integration with our Smart Ticket system. This form is not a binding agreement, and by submitting this form, the applicant is not committing to any partnership. The goal is to assess the applicant's company details, technical experience, and expertise in order to determine whether they can effectively integrate their products or services with our system. 
-
-We will review each submission based on the provided information, and we may follow up with additional questions or requests if needed. This form should not be used to contact us with sales inquiries, but rather to apply as a Smart Ticket integration partner.
-</thinking>
-
 # Smart Ticket Integration Partner Application - Help Guide
 
 ## Purpose

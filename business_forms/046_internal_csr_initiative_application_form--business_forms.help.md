@@ -1,11 +1,3 @@
-<thinking>**Internal CSR Initiative Application Form Purpose and Validation Check**
-
-This form is designed for project managers to apply for internal CSR (Corporate Social Responsibility) initiatives within the company. It is a comprehensive form that gathers essential information about the project, including its title, goals, resources required, budget, start and end dates, location, and management structure. 
-
-Before proceeding, please ensure that you have the necessary approval from your department to fill out this form. This form should not be filled out multiple times for the same project. Please review the project's status and only submit a new form if there are changes to the project's scope, budget, or timeline.
-
-If you are unsure about any field, please refer to this guide for clarification. This form is a required part of the internal CSR initiative approval process, so please fill it out accurately and completely.</thinking>
-
 # Internal CSR Initiative Application Form - Help Guide
 
 ## Purpose

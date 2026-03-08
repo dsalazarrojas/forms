@@ -1,7 +1,3 @@
-<thinking>
-The Co-Owner Agreement Form is a legal document used to establish the terms and conditions of a business partnership between two co-owners. This form outlines the ownership structure, roles, responsibilities, exit strategy, and dispute resolution process for the partnership. It helps ensure that both co-owners understand their rights and obligations and provides a framework for making decisions and resolving conflicts.
-</thinking>
-
 # Co-Owner Agreement Form - Help Guide
 
 ## Purpose

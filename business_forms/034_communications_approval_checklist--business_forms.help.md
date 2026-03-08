@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Communications Approval Checklist - Help Guide
 ## Purpose
 The Communications Approval Checklist is a form used to ensure that all communications from your organization are reviewed and approved before being distributed to the public or internal stakeholders. It helps to assess the accuracy, compliance, and potential risks associated with the communication, ensuring that it is free from errors and aligns with your organization's brand and policies.

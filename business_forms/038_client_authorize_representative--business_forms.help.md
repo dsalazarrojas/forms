@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "Client Authorize Representative," is designed to authorize a representative to act on behalf of a client in various business or financial matters. The purpose of this form is to grant permission for a client to disclose personal information to a representative, allowing the representative to communicate with and make decisions on behalf of the client. This authorization is typically required for clients who wish to have someone else handle their affairs or make decisions regarding their account or case. The representative's access level and authorization duration are subject to specific restrictions, ensuring that personal information is disclosed only as necessary and within the authorized scope.
-
-By completing this form, clients grant permission for their representative to access and discuss their personal information with authorized personnel. Clients must provide accurate and complete information to ensure that the representative can effectively represent their interests.
-
-Please note that this form is typically used for clients who wish to have someone else handle their affairs or make decisions regarding their account or case. If you are unsure whether you need to complete this form, please contact the relevant authorities or personnel for guidance.
-
-</thinking>
-
 # Client Authorize Representative - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to create a stock image requisition request for a project. The form collects project information, image description, and other relevant details to facilitate a smooth and organized process.
-
-The form is designed for project managers to create a new stock image requisition request. This form is typically used for projects that require stock images, such as marketing campaigns, product photography, or social media content creation.
-
-Before starting the form, please ensure that you have the necessary project information and image requirements ready. This form is a one-time submission, and you will not be able to edit or save your responses once you've clicked the submit button.
-
-Please make sure to complete all required fields (indicated by *) and provide accurate information to ensure a successful project outcome.</thinking>
-
 # Stock Image Requisition Form - Help Guide
 ## Purpose
 The Stock Image Requisition Form is used to create a new stock image requisition request for a project.

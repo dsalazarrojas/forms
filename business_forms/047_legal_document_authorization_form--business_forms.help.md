@@ -1,12 +1,3 @@
-<thinking>
-This form is a multi-page form for authorizing legal documents. Each page is designed to collect specific information from the user, and the form is divided into different sections, each with its own set of fields. This guide will walk you through each page and field, explaining what to expect and how to complete each one.
-
-Before starting, please make sure you have all the necessary information and authorization to complete this form. Some fields may require specific information, so please double-check the requirements and ensure you have all the necessary details before proceeding.
-
-This form is designed to be completed in sections, and each page is self-explanatory. If you have any questions or concerns, please contact us for assistance.
-
-</thinking>
-
 # Legal Document Authorization Form - Help Guide
 ## Purpose
 The Legal Document Authorization Form is designed to collect information and authorization for legal documents.

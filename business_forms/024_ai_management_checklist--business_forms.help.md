@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist in the AI management process by gathering relevant information on the audit and initiative details, technical readiness, governance, risk, and performance monitoring of an AI project. It ensures that all critical aspects of AI management are checked and verified to guarantee a successful deployment.
-</thinking>
-
 # AI Management Checklist - Help Guide
 ## Purpose
 This form is a comprehensive checklist to assess the readiness and progress of AI initiatives. It includes sections on audit and initiative details, technical readiness, governance, risk, and performance monitoring.

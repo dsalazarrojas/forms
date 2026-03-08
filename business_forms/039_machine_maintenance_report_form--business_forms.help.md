@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to document machine maintenance activities, including tasks, schedules, and other relevant information. The purpose of this form is to ensure that machine maintenance is properly tracked and managed. This form should be used for machines that have not been previously registered in the system, to provide a quick and efficient way to input machine maintenance data. Please note that this form is not intended for machines that are already registered in the system, as their maintenance data can be updated directly in their respective machine profile.
-</thinking>
-
 # Machine Maintenance Report Form - Help Guide
 ## Purpose
 The Machine Maintenance Report Form is used to document machine maintenance activities for new machines that have not been previously registered in the system.

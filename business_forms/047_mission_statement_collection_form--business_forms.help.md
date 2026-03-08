@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mission Statement Collection Form - Help Guide
 ## Purpose
 The Mission Statement Collection Form is a tool used to collect mission statements and other relevant information from team members. This form helps to gather data that can be used to improve team performance, communication, and overall company goals. It is essential to complete this form accurately and comprehensively to ensure that your mission statements and other input are recorded correctly.

@@ -1,10 +1,3 @@
-<thinking>
-The form is designed for project teams to request endorsement from various stakeholders, such as the project manager, board, and sponsor. The form is intended for internal use, and the purpose of this form is to ensure that project stakeholders have a clear and standardized way of requesting and managing project endorsements. This form will help to avoid duplication of effort and non-standardized processes in requesting endorsements.
-
-Please ensure that you are using the correct form for your project's specific needs, and that you are not duplicating efforts by using other forms or processes. If you have any questions or concerns, please reach out to your project team or management.
-
-</thinking>
-
 # Project Endorsement Request Form - Help Guide
 ## Purpose
 

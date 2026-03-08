@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Invoicing Tool Requisition Form - Help Guide
 ## Purpose
 This form is intended to provide information about the requisioning needs of business forms in the invoicing tool. It is used to submit requests for new business forms that will be used to create invoices. 

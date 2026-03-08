@@ -1,12 +1,3 @@
-<thinking>
-To ensure the Global Market Strategy Program Application form is completed correctly, please note that this form is designed to gather information about potential candidates for the Global Market Strategy Program. This form is not intended for existing employees or contractors. Before proceeding, verify that you are eligible to apply for the program. 
-
-Please ensure that you have all necessary information and documentation ready before starting this application. 
-
-Also, note that all fields are optional, except where noted as required.
-
-</thinking>
-
 # Global Market Strategy Program Application - Help Guide
 ## Purpose
 The Global Market Strategy Program Application is designed to gather information from potential candidates about their interests, qualifications, and experience for the Global Market Strategy Program. This program is intended for individuals who are interested in developing their skills and knowledge in market research, business development, and strategy.

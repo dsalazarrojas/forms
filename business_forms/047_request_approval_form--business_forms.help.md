@@ -1,8 +1,3 @@
-<thinking>
-This form is for requesting approval for a specific purpose. It is designed to gather information about the request, including the category, description, and status of the request. The form will likely be used to track and manage requests within an organization. Before proceeding, please ensure that you are filling out this form for a valid reason and not duplicating an existing request. Ensure that you are providing accurate and detailed information to support your request.
-
-</thinking>
-
 # Request Approval Form - Help Guide
 ## Purpose
 The Request Approval Form is used to create a new request for approval. This form is intended for internal use within your organization, and the data collected will be used to track and manage requests.

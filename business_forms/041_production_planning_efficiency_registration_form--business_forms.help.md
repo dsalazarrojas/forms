@@ -1,12 +1,3 @@
-<thinking>
-This form is used to gather data for production planning efficiency in a workcenter. It's crucial that users only use this form if they're familiar with the production planning process and have a thorough understanding of the workcenter's production efficiency. Duplicate entries should be avoided to ensure accurate data collection.
-
-The form has two main parts: production planning efficiency and workcenter capacity. It's essential to fill out this form accurately to get reliable data.
-
-Before filling out this form, make sure you have the necessary information ready.
-
-</thinking>
-
 # Production Planning Efficiency Registration Form - Help Guide
 ## Purpose
 This form is used to collect production planning efficiency data for a workcenter. It includes fields for workflow description, production capacity, and planning efficiency.

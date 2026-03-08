@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather feedback from attendees of business webinars, which can help the organizers and presenters improve future events. 
-By filling out this form, attendees can provide their feedback on the quality and relevance of the content, 
-the effectiveness and clarity of the speaker, and the overall value they derived from the webinar. 
-The form also includes fields for suggestions for improvement, future topic ideas, and whether or not they would recommend the webinar to others. 
-This form is not designed to be a comprehensive survey, but rather a quick and easy way for attendees to share their thoughts and opinions.
-</thinking>
-
 # Business Webinar Feedback Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from attendees of business webinars, which can help the organizers and presenters improve future events. By filling out this form, you can provide your thoughts and opinions on the content, speaker, and overall experience.

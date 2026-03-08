@@ -1,9 +1,3 @@
-<thinking>
-This form is for reporting items that have not been returned by office employees. The purpose of this form is to provide a structured way for employees to report unreturned items, allowing for efficient tracking and follow-up. The form should only be completed by office employees. 
-
-Before starting, please ensure that you have not completed this form for the same item or office previously.
-</thinking>
-
 # Unreturned Item Report - Help Guide
 ## Purpose
 The Unreturned Item Report form is used to report items that have not been returned by office employees.

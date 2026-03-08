@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to track the progress of a business launch, including the reported and launch dates, checklist items, and other relevant information. This form is likely to be used by business managers or owners to keep track of their business's milestones and progress. 
-
-The form is divided into several sections, each focusing on a different aspect of the business launch process. Some fields may have redundant or similar options, which are intended to allow users to provide multiple perspectives or dates for the same event.
-
-Before filling out the form, ensure that you have all the necessary information and data at hand.
-
-</thinking>
-
 # startup_launch_checklist_form - Help Guide
 
 ## Purpose

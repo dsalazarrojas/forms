@@ -1,24 +1,3 @@
-<thinking>
-This form is designed to collect nominations for the "Employee of the Month" award in a company. The purpose is to allow employees to vote for their colleagues who they believe deserve recognition for their outstanding work. The form will be used to gather information about the nominee's department, reason for nomination, and demonstrated qualities. It's essential to fill out the form correctly to ensure accurate and helpful feedback.
-
-Before starting, ensure you're aware that this form is a voting form and not a general feedback form. The answers provided will be used to determine the "Employee of the Month" award, so be honest and thoughtful in your responses.
-
-The form is divided into several sections:
-
-1.  "Employee of the Month Voting" - This section is a title and header for the form.
-2.  Your Name - This is your name, and it's a required field as you're the one submitting the vote.
-3.  Today's Date - This is the current date to ensure the vote is up-to-date.
-4.  Month for Nomination - This selects the month for which the employee is being nominated (e.g., January, February, etc.).
-5.  Nominee Information - This section is a title and header for the next section.
-6.  Employee You are Nominating - This is the name of the employee you're nominating.
-7.  Department - This selects the department of the employee you're nominating (e.g., Front Desk, Party Hosting, etc.).
-8.  Reason for Nomination - This section is a title and header for the next section.
-9.  Why does this employee deserve Employee of the Month? - This is a text field where you can provide specific examples of the employee's great work.
-10. Which qualities did they demonstrate? - This is a select multiple field where you can choose from the qualities listed (e.g., Customer Service, Teamwork, etc.).
-11. Additional Comments - This is an optional section where you can provide any other comments about the employee you're nominating.
-
-</thinking>
-
 # Bj S Employee Of The Month Voting Form For Fec - Help Guide
 
 ## Purpose

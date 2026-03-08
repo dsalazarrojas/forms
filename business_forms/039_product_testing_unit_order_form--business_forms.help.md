@@ -1,6 +1,3 @@
-<thinking>
-This form is used to submit a product testing unit order request, typically for a business-to-business (B2B) product testing and evaluation process. It is used to collect information about the customer's order and product details for internal processing and testing purposes. Before starting, ensure you have all necessary information ready to fill out the form accurately and efficiently.
-</thinking>
 # product_testing_unit_order_form - Help Guide
 ## Purpose
 This form is used to submit a product testing unit order request for B2B product testing and evaluation. It helps us gather the required information about the customer's order and product details for internal processing.

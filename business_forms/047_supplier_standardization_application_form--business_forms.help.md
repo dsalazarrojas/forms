@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the Supplier Standardization Application Form, let's ensure that the form is properly understood and not duplicated within the organization. This form is intended for suppliers to standardize their data and agreements with the organization, ensuring that all relevant information is captured and consistent throughout. Please review the following help guide to ensure a smooth and accurate completion of the form.</thinking>
-
 # Supplier Standardization Application Form - Help Guide
 
 ## Purpose

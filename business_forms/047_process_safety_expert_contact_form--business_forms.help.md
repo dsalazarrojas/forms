@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture contact information from users who need to reach out to a process safety expert for assistance or guidance. It is likely that this form will be used internally within the organization, so users familiar with the company's operations and policies will understand the purpose of the form. To avoid duplication of effort, please review the form carefully and only submit this form if you truly need to contact a process safety expert. If you are unsure, consider reaching out to your department's point of contact for guidance.
-</thinking>
-
 # Process Safety Expert Contact Form - Help Guide
 
 ## Purpose

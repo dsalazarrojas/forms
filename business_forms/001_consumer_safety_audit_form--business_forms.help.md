@@ -1,7 +1,3 @@
-<thinking>... This form is designed to collect and analyze data on consumer safety audits. The purpose of this form is to identify potential hazards, assess product quality, and track corrective actions. It is crucial to ensure the form is completed accurately and thoroughly to facilitate effective risk management and compliance with regulatory requirements.
-
-... </thinking>
-
 # Consumer Safety Audit Form - Help Guide
 
 ## Purpose

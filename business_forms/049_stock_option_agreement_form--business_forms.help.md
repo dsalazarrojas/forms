@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for collecting participant information and agreement terms in a Stock Option scenario. This form is meant to be completed by participants who are involved in a stock option plan. The purpose of this form is to ensure that all participants are aware of and agree to the terms of the stock option plan. This form should only be used for participants who are directly involved in the stock option plan.
-</thinking>
-
 # Stock Option Agreement Form - Help Guide
 ## Purpose
 The Stock Option Agreement Form is used to collect participant information and agreement terms for a Stock Option plan.

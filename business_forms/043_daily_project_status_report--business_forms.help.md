@@ -1,6 +1,3 @@
-<thinking>
-This form is used to report on the daily project status to keep team members and stakeholders informed about the progress of a project. The purpose of this form is to provide a quick and easy way to update project status on a daily basis, ensuring that all relevant information is recorded and accessible to everyone involved. This form should only be filled out by project team members or designated project administrators, and should not be used for any other purpose.
-</thinking>
 # daily-project-status-report - Help Guide
 ## Purpose
 The daily project status report form is used to update project status on a daily basis, keeping team members and stakeholders informed about project progress.

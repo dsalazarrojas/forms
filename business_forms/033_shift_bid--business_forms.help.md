@@ -1,7 +1,3 @@
-<thinking>
-This form is used by employees to bid on available shifts in the company's scheduling system. The purpose of this form is to provide employees with a convenient way to express their availability and preferences for shifts they can work. By filling out this form, employees can submit their bids on shifts that align with their schedule and work preferences. This form is typically used by employees who are looking to pick up extra shifts or cover for colleagues.
-</thinking>
-
 # Shift Bid - Help Guide
 ## Purpose
 The Shift Bid form is used to submit bids on available shifts in the company's scheduling system. This form helps employees express their availability and preferences for shifts they can work.

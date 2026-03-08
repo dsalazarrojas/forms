@@ -1,6 +1,3 @@
-<thinking>
-This form is used to record vehicle maintenance contracts with clients. The purpose of this form is to gather necessary information to create a comprehensive maintenance contract that outlines the terms and conditions of vehicle maintenance, including the agreement type, vehicle details, and contract duration. It's essential to ensure that all required fields are completed accurately and consistently to avoid errors and ensure successful contract execution.
-</thinking>
 # Vehicle Maintenance Contract Form - Help Guide
 ## Purpose
 The Vehicle Maintenance Contract Form is designed to document vehicle maintenance agreements between you and your clients. This form helps in creating a comprehensive contract that outlines the terms and conditions of vehicle maintenance, ensuring a clear understanding between you and your clients.

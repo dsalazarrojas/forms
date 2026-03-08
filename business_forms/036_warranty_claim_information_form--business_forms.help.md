@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to collect information from customers or clients who are making a warranty claim against a product or service provided by the company. This form will help the company understand the reason for the claim, gather details about the product or service in question, and gather any supporting documents or attachments. The form is not designed for general customer inquiries or other purposes. 
-
-To use this form, follow the steps below.
-
-</thinking>
-
 # Warranty Claim Information Form - Help Guide
 ## Purpose
 The Warranty Claim Information Form is used to collect information from customers or clients who are making a warranty claim against a product or service provided by the company. This form helps the company understand the reason for the claim, gather details about the product or service in question, and gather any supporting documents or attachments.

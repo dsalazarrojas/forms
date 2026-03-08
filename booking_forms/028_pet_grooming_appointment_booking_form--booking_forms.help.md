@@ -1,8 +1,3 @@
-<thinking>
-This form is used to book a pet grooming appointment at a pet grooming facility. The form requests personal information from the owner, including first and last name, email, phone number, service type, service date, service time, additional information, pet type, and owner signature. The form is designed to collect all necessary information to facilitate a smooth and efficient booking experience for the pet owner. 
-
-</thinking>
-
 # Pet Grooming Appointment Booking Form - Help Guide
 ## Purpose
 The Pet Grooming Appointment Booking Form is used to schedule a pet grooming appointment at our facility.

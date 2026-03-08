@@ -1,6 +1,3 @@
-<thinking>...
-We need to ensure the form purpose is clear, and that the user fills it out correctly to avoid duplication. This form, the "Infrastructure Project Inquiry Form", is designed for users to inquire about or propose new infrastructure projects. It will help the team to gather relevant information about the project, including its location, description, timeline, status, priority, category, and submitter's email. This will save time and increase project management efficiency in the long run. It's essential to fill out each field accurately to avoid duplicate submissions or incorrect project management decisions.</thinking>
-
 # Infrastructure Project Inquiry Form - Help Guide
 ## Purpose
 This form is used to inquire about or propose new infrastructure projects, allowing the team to gather essential information to manage and execute projects effectively.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bakery Facebook Order Form - Help Guide
 ## Purpose
 The Bakery Facebook Order Form is a tool designed for customers to place orders for various baked goods from your bakery. This form allows customers to specify their preferred products, quantities, and delivery details, ensuring seamless ordering and payment processes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for business plan submissions, and the goal is to gather information about the plan's details, approval status, and implementation timeline. The form should only be filled out by the submitter and the reviewer (approver) to ensure accuracy and consistency in the review process. Please make sure to fill out this form carefully and only once the plan has been reviewed and approved.
-</thinking>
-
 # Business Plan Approval Form - Help Guide
 ## Purpose
 This form is used to gather information about a business plan, including its submission date, details, and approval status. It is meant to be completed by the submitter and the reviewer (approver) to ensure that all relevant information is collected and documented.

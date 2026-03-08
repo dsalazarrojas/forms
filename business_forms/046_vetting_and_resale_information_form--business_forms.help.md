@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general information and contact details from customers or clients. The form purpose is to streamline the collection of essential data required to provide services or support. The fields in this form are intended to be filled out by the user and reviewed by the relevant team members.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 The purpose of this form is to collect general information and contact details from customers or clients to enable our team to provide effective services or support.

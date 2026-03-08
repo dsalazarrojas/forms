@@ -1,7 +1,3 @@
-<thinking>
-The form is used by property owners or property managers to extend the stay of a guest or tenant, typically in the context of a hotel or property rental. This form helps to update the check-out dates and any additional charges that may have been incurred during the extended stay. The form is typically used when the original check-out date needs to be updated to a new date, and any additional charges such as late fees or penalties need to be added or updated. The form is an important part of the property management process, ensuring that all necessary information is documented and updated accurately.
-</thinking>
-
 # Property Stay Extension Agreement Form - Help Guide
 ## Purpose
 The Property Stay Extension Agreement Form is a document used to update and extend the stay of a guest or tenant in a property. This form is essential for accurately recording the new check-out date and any additional charges incurred during the extended stay.

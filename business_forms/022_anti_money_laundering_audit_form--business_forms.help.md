@@ -1,5 +1,3 @@
-<thinking>...this form is designed for auditors to gather information on Anti-Money Laundering (AML) audit results. The form captures key data points to help assess the overall AML risk level, identify major issues, and track recommended actions to mitigate those risks. To complete this form, the auditor will be required to provide their name, the start and end dates of the audit period, and assess the overall AML risk level. The auditor will also be asked to summarize key findings and recommend corrective actions. Optional fields include compliance officer acknowledgement and follow-up deadline.</thinking>
-
 # Anti Money Laundering Audit Form - Help Guide
 ## Purpose
 This form is used by auditors to record and report Anti-Money Laundering (AML) audit results.

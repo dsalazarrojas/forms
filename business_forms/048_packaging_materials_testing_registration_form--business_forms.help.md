@@ -1,26 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML structure. The form is titled "Packaging Materials Testing Registration Form" and it has multiple pages with various fields, including text, select, date, time, and email fields. This suggests that the form is designed to collect information about testing and registration of packaging materials. The fields appear to be related to testing conditions, testing methods, dates, times, test results, and contact information.
-
-The form likely has the following purpose:
-
-* To register testing and materials for packaging materials
-* To collect testing conditions and methods
-* To store test results and other relevant information
-
-The form likely follows these steps:
-
-1. Fill out the test materials section: test_materials
-2. Choose the test method: test_method
-3. Enter the testing date and time: testing_date and testing_time
-4. Enter the testing duration: testing_duration
-5. Select the test results: results
-6. Add any additional notes: notes
-7. Enter the contact information: email, phone, and customer_address
-
-Each field has a specific purpose and should be filled out accordingly.
-
-</thinking>
-
 # Packaging Materials Testing Registration Form - Help Guide
 ## Purpose
 This form is designed to register testing and materials for packaging materials. It collects information on testing conditions, methods, dates, times, test results, and contact information.

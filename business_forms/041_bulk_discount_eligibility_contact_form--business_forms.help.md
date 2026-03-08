@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is completed correctly to help us understand the requirements of the customer and provide accurate information to assess their eligibility for bulk discounts. This form is used to collect data that will help us evaluate the customer's business size, products of interest, and purchasing habits. It's essential to fill out each field accurately to provide the best possible service. Please note that some fields are required, and missing any of these may cause issues in the assessment.
-</thinking>
-
 # Bulk Discount Eligibility Contact Form - Help Guide
 ## Purpose
 This form helps us understand your business requirements to assess your eligibility for bulk discounts. Please fill out the form with accurate and up-to-date information to provide the best service.

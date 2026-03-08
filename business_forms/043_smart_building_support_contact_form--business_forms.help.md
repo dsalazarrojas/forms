@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who need support with a smart building, which is a type of facility that uses advanced technologies to improve energy efficiency and sustainability. The form will gather user's input, issue description, requested date, and contact email. It's essential to complete this form accurately to provide the best possible support.
-
-</thinking>
-
 # Smart Building Support Contact Form - Help Guide
 ## Purpose
 The Smart Building Support Contact Form is a tool for users to report issues or seek assistance with a smart building. This form will help our support team understand the problem and provide the best possible support.

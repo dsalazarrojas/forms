@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial document for updating official records, ensuring that an individual's or organization's address is accurately reflected in their account or membership information. This form is designed to provide a clear and structured way to submit address changes, reducing errors and making it easier for administrators to process updates. Before completing this form, please ensure that you have all necessary information readily available and that you understand the types of address changes that can be submitted (e.g., Residential, Business, etc.). Please note that each field is carefully labeled and explained below to guide you through the process.
-</thinking>
-
 # Address Change Declaration Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...This form is designed for business users to submit claims related to various types of incidents, including property damage, liability, business interruption, theft, and workers' compensation. The form collects essential details such as business name, contact person, contact email, contact phone number, type of claim, date of incident, incident location, description of the loss or incident, estimated claim amount, and other relevant information. The form also asks whether there are any witnesses and if the police or local authority was notified, as well as any additional comments users may have. It is intended for businesses to document and report claims to ensure accuracy and transparency... </thinking>
-
 # Claims Form - Help Guide
 ## Purpose
 This form is designed to collect essential business claims information for various types of incidents. Please ensure that the information is accurate and complete as possible.

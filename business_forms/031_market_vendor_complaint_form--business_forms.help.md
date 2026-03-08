@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help customers report issues or complaints about their market vendor experience. It appears to be a straightforward form for gathering feedback from customers, but it's not clear how it will be used internally or what kind of action will be taken as a result of the submitted complaints. To determine if this form is relevant to your needs, consider whether you are a customer looking to report an issue with a market vendor or if you are a vendor looking to improve your services. If you're a vendor, you may not need to use this form.
-
-</thinking>
-
 # Market Vendor Complaint Form - Help Guide
 ## Purpose
 This form is designed to allow customers to report issues or complaints about their market vendor experience.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is for extending an existing event sponsorship agreement. It's used by event organizers to gather information from sponsors about their agreement details, such as the event information, sponsor details, and agreement date. This form is likely used for internal purposes within an organization or company, and the data collected will be used to update or modify existing sponsorship agreements.
-
-This form should not be used for new event sponsorships, and it's essential to check with the relevant department before submitting this form to ensure it's the correct form for the intended purpose. If you're unsure, please contact the relevant department to confirm the form's usage.
-
-</thinking>
-
 # event_sponsorship_agreement_extension_form - Help Guide
 ## Purpose
 This form is used to extend an existing event sponsorship agreement. It's a crucial document that requires specific details from sponsors to ensure the agreement is up-to-date and accurate.

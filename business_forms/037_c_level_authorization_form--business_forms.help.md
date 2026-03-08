@@ -1,20 +1,3 @@
-<thinking>
-This form is for requesting executive-level authorization for various business decisions or actions. The purpose of this form is to provide a structured way to submit requests for executive approval, ensuring that all necessary information is gathered and presented in a clear and concise manner. 
-
-The form requires a standardized set of information to be filled in, including the date of the request, details about the requesting party, the executive level at which approval is required, and the specific details about the request itself. 
-
-The form is designed to ensure that the requesting party provides all necessary information to support their request, including any supporting documents or evidence that may be relevant to the decision-making process. 
-
-Before filling out this form, please review the following sections carefully to ensure that you understand what is required and how to complete it accurately. 
-
-This form is intended to be used for executive-level decisions that require approval from a specific executive level such as the CEO, COO, CFO, or other executive roles. 
-
-Please note that some of the fields are marked as "Not applicable" which means that they are not required to be filled in. 
-
-Also, please ensure that all required fields are filled in correctly to avoid delays or rejections of your request.
-
-</thinking>
-
 # C Level Authorization Form - Help Guide
 
 ## Purpose

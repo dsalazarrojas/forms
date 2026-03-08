@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed to collect feedback from team members about their experiences with team meetings. The goal is to gather information about the effectiveness and quality of the meetings, as well as the overall satisfaction of the attendees. The form includes fields for rating the meeting's agenda, collaboration, and overall rating, as well as fields for providing feedback on action items, meeting topics, team attendance, facilities, and comments. There is also a section for providing additional comments and suggestions. The form seems to be used for internal purposes within the company and likely used to evaluate and improve team meetings.
-</thinking>
-
 # E Commerce Team Meeting Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from team members about their experiences with team meetings. This feedback helps the team and leadership identify areas of improvement and make necessary adjustments to ensure productive and effective meetings.

@@ -1,9 +1,3 @@
-<thinking>
-This form allows users to book a demo session for a product demo. The form is designed to gather user information in a structured and organized way, making it easier for the demo technicians to prepare and deliver a personalized demo session. When filling out this form, please ensure that you provide accurate and up-to-date information to ensure a smooth and efficient demo experience.
-
-To ensure that the demo session goes as planned, please do not book multiple demo sessions for the same date and time. Additionally, double-check that the product you are interested in is listed among the options provided.
-</thinking>
-
 # Product Demo Technician Booking Form - Help Guide
 ## Purpose
 The Product Demo Technician Booking Form is designed to help customers book a demo session for a specific product.

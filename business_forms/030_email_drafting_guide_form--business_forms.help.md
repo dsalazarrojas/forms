@@ -1,8 +1,4 @@
-> <thinking>
-The purpose of the email drafting guide form is to assist users in creating a well-structured email. This form is designed to be a useful tool for users who need to craft a professional email, such as in a business setting. It is not intended to be a comprehensive resource, but rather a starting point for users to build their own email drafts. It is recommended to refer to other resources for more detailed guidance on email drafting.
-</thinking>
-
-# email_drafting_guide_form - Help Guide
+> # email_drafting_guide_form - Help Guide
 ## Purpose
 The email drafting guide form is a tool to help users create a professional email.
 

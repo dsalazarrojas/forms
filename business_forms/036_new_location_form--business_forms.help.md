@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for creating a new location within a business or organization. It's crucial that the form is filled out accurately to ensure that the location information is up-to-date and correct. Please ensure that you're filling out this form only once for each new location to avoid duplication.
-</thinking>
-
 # New Location Form - Help Guide
 ## Purpose
 This form is designed to create a new location within your business or organization. It helps you to provide essential information about the location, such as contact details and address. This form is meant for one-time use, so please fill it out carefully to avoid creating duplicate locations.

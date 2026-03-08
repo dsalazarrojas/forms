@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "e_commerce_audit_form" form is to help e-commerce businesses assess and report their current operational state, focusing on aspects such as customer satisfaction, sales volume, inventory management, shipping policy, payment processing, customer service, marketing strategy, goals and objectives, target audience, product line, pricing strategy, and shipping frequency. This form will help business owners and operators to identify areas of improvement and provide a comprehensive overview of their e-commerce platform's performance.
-</thinking>
-
 # e_commerce_audit_form - Help Guide
 ## Purpose
 The e_commerce_audit_form is designed to help e-commerce businesses evaluate their current state and identify areas for improvement. It gathers information on various aspects of an e-commerce platform, including customer satisfaction, sales volume, inventory management, shipping policy, payment processing, customer service, marketing strategy, goals and objectives, target audience, product line, pricing strategy, and shipping frequency.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a "Pre Loading Checklist Form" likely used for logistics or supply chain management purposes. It seems to be designed for confirming various aspects of vehicle loading, including arrival, equipment, location, and other related information. I will now create the user-facing help guide based on the provided YAML fields.
-</thinking>
-
 # Pre Loading Checklist Form - Help Guide
 ## Purpose
 The Pre Loading Checklist Form is designed to ensure that all necessary checks are performed before loading vehicles with goods or equipment. This form helps confirm critical aspects of the loading process, including arrival, equipment, location, and other related details.

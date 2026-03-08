@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Schedule Your Fitness Testing Appointment - Help Guide
 ## Purpose
 This form is designed to help you schedule your fitness testing appointment with our team. It will ask for some basic information about you, your health status, and your preferred time slots to ensure we can provide you with the best possible service.

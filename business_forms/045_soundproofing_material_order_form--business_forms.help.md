@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to allow customers to place an order for soundproofing materials. This form is used to collect information about the customer, including their name, address, and preferred payment method. It also includes fields for specifying the type of soundproofing material needed, quantity, and unit price. This information will be used to process the order and generate an invoice.
-The form does not require any specific authentication or validation, but it's assumed that customers will fill it out with accurate information. If you're unsure about any field, you can always contact our support team.
-</thinking>
-
 # Soundproofing Material Order Form - Help Guide
 ## Purpose
 This form is used to place an order for soundproofing materials. Please fill out the form with accurate information to ensure efficient processing of your order.

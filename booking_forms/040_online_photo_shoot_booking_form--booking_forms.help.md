@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for customers to provide basic details to book a photo shoot session. The customer should provide their name, session type, and other details to schedule a successful photo shoot.
-
-To ensure that the form is being filled in correctly, it's essential to review each field for accuracy and completeness before submitting. This form will not ask for any unnecessary information and will guide the customer through the booking process in a straightforward manner. If there are any issues or questions, please contact [support email/number] for assistance. This form should be used for customers to book a photo shoot session with [company/organization name].
-
-</thinking>
-
 # Online Photo Shoot Booking Form - Help Guide
 ## Purpose
 This form is for customers to provide necessary information to book a photo shoot session with our organization.

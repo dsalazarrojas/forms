@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to process magazine subscription information and payment details using the Paysafe payment gateway. 
-The purpose of this form is to allow users to input subscription information such as subscription terms, payment types, payment methods, contact details, and payment amounts for a new magazine subscription.
-This form should not be completed for existing subscriptions or payment methods that are not applicable to the current situation.
-</thinking>
-
 # Magazine Subscription With Paysafe Payment Gateway - Help Guide
 ## Purpose
 This form is used to process magazine subscription information and payment details using the Paysafe payment gateway. It allows users to input subscription information such as subscription terms, payment types, and contact details.

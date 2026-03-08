@@ -1,14 +1,3 @@
-<thinking>
-We're designing a help guide for the "uniform_style_guide_submission" form, which is part of the "business_forms" category. This form is likely used for submitting style guides related to uniforms for business purposes.
-
-Before we begin, let's ensure this form is correctly filled out and not a duplication of effort. To confirm, please confirm that:
-* You have a clear understanding of the form's purpose and what it's used for.
-* You are not already a part of the process and do not have a uniform style guide to submit.
-
-If you're not sure or have questions, please reach out to your supervisor or the relevant department for guidance.
-
-</thinking>
-
 # uniform_style_guide_submission - Help Guide
 ## Purpose
 This form is used to submit uniform style guides for business purposes. It is intended for employees who need to submit their uniform style guides for review and approval.

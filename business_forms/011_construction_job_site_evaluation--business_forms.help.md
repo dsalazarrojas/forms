@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for end-users who need to complete a form for evaluating a construction job site. The form is used to assess the site's safety and operational status. This guide will cover the purpose of the form, instructions on how to complete it, and a detailed explanation of each field.
-</thinking>
-
 # Construction Job Site Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the safety and operational status of a construction job site. It helps to identify potential hazards and provide a rating of the site's overall safety rating.

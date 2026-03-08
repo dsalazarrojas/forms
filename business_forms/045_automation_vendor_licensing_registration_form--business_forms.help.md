@@ -1,11 +1,3 @@
-<thinking>
-
-We have a variety of vendors who are interested in registering their company with our organization for various reasons, such as product distribution, business partnerships, or collaborations. The purpose of this form is to gather essential information about the vendors, including their company details, financial information, licensing information, and other relevant data. By completing this form, we ensure that we have a comprehensive understanding of the vendor's capabilities, products, and services.
-
-To avoid duplication and ensure accuracy, we ask that vendors only submit this form once. Please note that this form will help us understand your company's capabilities and provide us with necessary information to proceed with further discussions.
-
-</thinking>
-
 # Automation Vendor Licensing Registration Form - Help Guide
 ## Purpose
 This form is designed for automation vendors who want to register their company with us for licensing purposes. It helps us understand your company's details, products, and services to ensure a smooth and efficient partnership.

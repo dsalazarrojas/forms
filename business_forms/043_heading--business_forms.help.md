@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by customers to request babysitting services from the company. It is used to collect information about the customer's requirements and needs. This form is not meant to be completed by employees of the company, as it is meant for external customers. Therefore, it is only available to be accessed by customers.
-</thinking>
-
 # Heading - Help Guide
 ## Purpose
 This form is a simple request form for customers to inquire about babysitting services. It is used to gather information about the customer's needs and preferences.

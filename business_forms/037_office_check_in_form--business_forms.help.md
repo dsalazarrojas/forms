@@ -1,7 +1,3 @@
-<thinking>
-This form is used for employees to check in when they arrive at the office, providing essential information such as their name, contact details, and work location. This guide will walk you through the process of completing the form, ensuring you provide accurate and complete information. Please note that this form is not meant to be filled out multiple times for the same purpose; each time you need to check in, fill out the form completely.
-</thinking>
-
 # Office Check In Form - Help Guide
 
 ## Purpose

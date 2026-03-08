@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Risk Assessment Form, I will first need to clarify the purpose and context of the form. 
-
-The form appears to be designed for assessing and recording risk-related information, likely in a business or operational context. The form has 5 sections with text fields, but no specific questions or prompts are provided. This might indicate that the form is intended to be a generic or open-ended template for users to provide their own risk assessment responses. 
-
-It would be good to verify if the form is intended to be used as a template for specific risk assessment types or if it's a general-purpose form. Without further context, it's assumed that the form can be used for various risk assessments. 
-
-Assuming the form is for general purposes, the following help guide is proposed:
-
-</thinking>
-
 # Risk Assessment Form - Help Guide
 ## Purpose
 This form is designed to help you identify and assess potential risks in your organization. It provides space for you to describe and evaluate the risk, including its likelihood, impact, and any measures you're taking to mitigate it.

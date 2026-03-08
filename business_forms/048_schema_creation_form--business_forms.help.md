@@ -1,7 +1,3 @@
-<thinking>
-This is a form to help users create a new schema for their project. A schema is a set of rules and constraints that define the structure of a dataset. This form will guide users through collecting the necessary information to create a new schema. This form should only be used by authorized personnel to prevent duplication and ensure consistency in schema creation.
-</thinking>
-
 # Schema Creation Form - Help Guide
 ## Purpose
 This form is used to collect the necessary information to create a new schema for your project.

@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to collect contact information and specific details from clients or customers who need help with Lean Operations strategies. The purpose of the form is to gather data that can be used for business development, sales, or marketing purposes. Please ensure that you are filling out this form for legitimate reasons and that the information provided is accurate and up-to-date.
-</thinking>
-
 # lean_operations_strategy_contact_form - Help Guide
 ## Purpose
 This form is used to collect contact information and specific details from clients or customers who need help with Lean Operations strategies. It helps us understand their needs and provide tailored support or solutions.

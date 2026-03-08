@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inspection Report Template - Help Guide
 ## Purpose
 This form is designed to gather information during the inspection of a building for any potential issues, defects, or damage. The form aims to collect data on the building's condition, any damage or repairs required, and the inspector's findings and recommendations.

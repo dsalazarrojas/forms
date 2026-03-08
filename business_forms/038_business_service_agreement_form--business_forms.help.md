@@ -1,12 +1,3 @@
-<thinking> 
-This guide is intended to help business users fill out the Business Service Agreement Form. Before proceeding, please ensure you have the necessary information and permissions to fill out the form.
-
-The form is designed to collect essential details from both the service provider and the client. It outlines the services to be provided, their scope, duration, and payment terms. The form also includes a section for the parties to agree on the terms and conditions of the service.
-
-To fill out the form, please follow the steps below:
-
-</thinking>
-
 # Business Service Agreement Form - Help Guide
 ## Purpose
 The Business Service Agreement Form is designed to document the terms and conditions of services provided by a business to a client. It ensures that both parties have a clear understanding of the scope, timeline, and payment terms of the service.

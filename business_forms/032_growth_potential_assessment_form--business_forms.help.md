@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Growth Potential Assessment Form", we need to first understand the form's purpose and the fields it contains. The form appears to be designed to assess an employee's growth potential within a business, gathering feedback and suggestions from various stakeholders, as well as tracking the form's status and submission details. The form consists of a mix of text, number, and date fields, as well as select options for certain fields.
-</thinking>
-
 # Growth Potential Assessment Form - Help Guide
 
 ## Purpose

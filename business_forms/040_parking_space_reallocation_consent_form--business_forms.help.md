@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # parking_space_reallocation_consent_form - Help Guide
 
 ## Purpose

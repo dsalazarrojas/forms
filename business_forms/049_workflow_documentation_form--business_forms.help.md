@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive documentation form for workflow management, capturing various details related to team members, project managers, communication channels, workflow status, next steps, project status, deadline, priority, task list, notes, email, phone, team lead, department, team member, task status, task priority, assigned tool, created by, updated by, created date, updated date, created time, and updated time.
-
-Before diving into the details of this form, let's clarify the purpose: This form is used to gather information about workflow-related documentation, likely for internal project management and collaboration purposes.
-
-To ensure the form's purpose is clearly understood, let's check if there are any redundant fields or fields that could be combined. Upon reviewing the form, there appear to be some fields that could potentially be combined, such as "created date" and "updated date," which could be combined into a single "last updated" field, or "created time" and "updated time," which could be combined into a single "last updated time" field. However, this is a minor point and may depend on the specific requirements and needs of the users.
-
-</thinking>
-
 # Workflow Documentation Form - Help Guide
 ## Purpose
 This form is used to gather information about workflow-related documentation for internal project management and collaboration purposes.

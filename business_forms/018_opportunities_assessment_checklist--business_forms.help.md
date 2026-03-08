@@ -1,11 +1,3 @@
-<thinking>
-
-The "Opportunities Assessment Checklist" form appears to be designed to collect information and assess opportunities for a business or organization. The form likely serves as a structured template for evaluating and documenting various aspects of an opportunity, including its status, description, location, and associated contact information. This form could be used in various contexts, such as sales, marketing, or project management, where assessing opportunities is a crucial part of decision-making and planning processes.
-
-It's essential to ensure that the form is not used for other purposes and to avoid duplication of effort by only using it for the intended use case.
-
-</thinking>
-
 # Opportunities Assessment Checklist - Help Guide
 ## Purpose
 The Opportunities Assessment Checklist is a form designed to collect and structure information about opportunities for businesses or organizations. It allows users to evaluate and document key aspects of each opportunity, including its status, description, location, and associated contact information.

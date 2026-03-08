@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for hiring managers to provide feedback on their overall satisfaction and staffing levels within their teams. The form asks the hiring manager to select multiple options for "Satisfaction" questions, which is likely due to the need for multiple reasons why they are satisfied or dissatisfied. However, without explicit business logic or additional context, it's difficult to infer the specific intent behind this design choice. It's possible that the form is designed to be adaptable to different types of hiring managers, allowing them to select one or more reasons for their satisfaction. The form also collects information on manager name, title, and feedback, as well as their current and ideal staffing levels. It's possible that this data will be used for internal benchmarking and comparison purposes.
-</thinking>
-
 # Hiring Manager Satisfaction Survey - Help Guide
 ## Purpose
 This form is designed for hiring managers to provide feedback on their overall satisfaction and staffing levels within their teams. The purpose of this form is to collect valuable insights from hiring managers to help us improve our services and processes.

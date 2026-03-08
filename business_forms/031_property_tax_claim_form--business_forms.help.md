@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to claim property tax. It is used to provide information about a property and the reasons for the appeal. This guide will cover the steps to complete this form and explain each field in detail. Before starting, ensure you are completing this form for the correct purpose and not duplicating an existing submission. If you're unsure, contact the relevant authorities for assistance.
-</thinking>
-
 # Property Tax Claim Form - Help Guide
 ## Purpose
 The Property Tax Claim Form is used to submit a claim for property tax relief. This form is typically used when an individual or organization feels that their property taxes are incorrect or unjust.

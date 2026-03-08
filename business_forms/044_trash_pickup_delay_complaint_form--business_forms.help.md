@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users complete the "Trash Pickup Delay Complaint Form" accurately and efficiently. It is a crucial form used to report any delays or issues with trash pickup services. Please note that this form is for reporting delays or complaints and should not be used for general inquiry or information purposes. It is also essential to complete the form with as much detail as possible to help our team resolve the issue promptly. Before proceeding, please ensure that you have not already reported this delay or issue via other means (e.g., phone, email, or in-person). Completing this form will help us gather necessary information to address the matter effectively.
-</thinking>
-
 # Trash Pickup Delay Complaint Form - Help Guide
 
 ## Purpose

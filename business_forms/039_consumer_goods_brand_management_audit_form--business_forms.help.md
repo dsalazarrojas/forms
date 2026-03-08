@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data from auditors on their experience and observations during an audit of consumer goods stores. The purpose of this form is to gather information on the overall performance of the store, including the condition of products, shelf presence, stock levels, and other aspects of the store's operations. This data will be used to help stores identify areas for improvement and provide guidance on best practices for consumer goods management.
-
-When filling out this form, please ensure that all fields are completed accurately and thoroughly. If a field is not relevant to your audit, please mark it as "N/A" or indicate that it was not observed during the audit.
-
-This form is divided into the following sections:
-
-</thinking>
-
 # Consumer Goods Brand Management Audit Form - Help Guide
 ## Purpose
 The purpose of this form is to collect data from auditors on their experience and observations during an audit of consumer goods stores. The data collected will be used to help stores identify areas for improvement and provide guidance on best practices for consumer goods management.

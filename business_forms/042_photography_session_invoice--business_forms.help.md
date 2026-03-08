@@ -1,17 +1,3 @@
-<thinking> 
-
-We need to create a user-facing help guide for a "Photography Session Invoice" form. The form is intended for photographers to record details of a photography session, including customer information, session details, payment terms, and payment status. The form likely serves as a template for generating invoices for photography sessions. 
-
-We should consider that this form will be used by people who are not familiar with the inner workings of the form and its purpose. Therefore, it's essential to make the explanation clear and concise. 
-
-This form seems to be designed to collect information about photography sessions, which is a service-based business transaction. It is not clear if the form is for internal use only or if it will be shared with the customer. However, we can assume it's meant to be used by the photographers and possibly shared with the customer after it's completed. 
-
-The form fields seem to be well-rounded, covering all the essential aspects of a photography session, including customer details, session details, payment terms, and payment status. 
-
-The form fields are: customer name, session start and end dates, photographer name, session duration, total hours, hourly rate, session services (yes or no), billing address, city, state, postal code, payment terms, payment method (yes or no), payment date, payment time, payment amount, and payment status (active or inactive). 
-
-</thinking>
-
 # Photography Session Invoice - Help Guide
 ## Purpose
 This form is designed to record details of a photography session, including customer information, session details, payment terms, and payment status. It is intended for use by photographers to generate invoices for their services.

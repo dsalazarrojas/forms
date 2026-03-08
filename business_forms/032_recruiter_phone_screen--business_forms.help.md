@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely to gather information about a candidate's screening performance in a recruitment process. The form may be used by recruiters or hiring managers to assess a candidate's suitability for a particular position, and to collect contact details for follow-up communication. To ensure relevance and prevent duplication, this form should only be filled out by authorized recruiters or hiring managers for internal use, and not by the candidates themselves.
-</thinking>
-
 # Recruiter Phone Screen - Help Guide
 ## Purpose
 The Recruiter Phone Screen form is used by recruiters or hiring managers to gather information about a candidate's screening performance. This form helps to assess a candidate's suitability for a particular position and collect contact details for follow-up communication.

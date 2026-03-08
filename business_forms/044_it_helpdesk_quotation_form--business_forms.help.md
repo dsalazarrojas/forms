@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for IT help desk quotations, providing a standardized process for handling service requests. The form is meant to be used by support staff to document and manage service requests from customers. The form will help to ensure consistency and accuracy in the information collected, and make it easier to track and follow up on service requests.
-
-</thinking>
-
 # it_helpdesk_quotation_form - Help Guide
 ## Purpose
 This form is used to collect information for service requests from customers, including details about the service requested, contact information, and estimated costs. This form will help support staff to better understand and respond to customer service requests.

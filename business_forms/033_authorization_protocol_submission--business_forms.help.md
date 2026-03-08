@@ -1,10 +1,3 @@
-<thinking> 
-The purpose of this form is to collect information for an authorization protocol submission. This form is used to gather details about a protocol's submission date, title, type, and other relevant information. It appears to be a structured template for submitting protocols within a business context. The form's fields cover various aspects of the protocol, including its scope, affected parties, authorization levels, and implementation details. This form is likely used by department or division teams within the business to submit protocols for review and approval. 
-
-The following help guide explains each field's purpose and requirement in the form.
-
-</thinking>
-
 # Authorization Protocol Submission - Help Guide
 ## Purpose
 The purpose of this form is to submit and manage protocols within your organization. 

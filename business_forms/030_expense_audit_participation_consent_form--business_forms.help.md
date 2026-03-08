@@ -1,16 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from employees regarding their participation in an expense audit. The form aims to gather data on employee consent, identification, and the status of the audit process. This information will be used to track and manage the audit process, ensuring that all relevant parties are aware of the progress and any necessary next steps.
-
-To ensure that this form is used correctly, please review the following steps:
-
-- Ensure that only authorized personnel are submitting this form, as it contains sensitive data related to employee identification and audit status.
-- Complete all required fields to avoid delays or errors in the audit process.
-- If you are not familiar with the format or any field, please reach out to your supervisor or departmental representative for guidance.
-- Before submitting, carefully read the explanations below to understand the purpose and use of each field.
-
-</thinking>
-
 # Expense Audit Participation Consent Form - Help Guide
 ## Purpose
 This form is used to record an employee's participation and consent for an expense audit. It is essential for the audit process to have accurate and up-to-date information, and this form ensures that all relevant details are collected.

@@ -1,10 +1,4 @@
-# <thinking>...
-
-The "Proof Approval" form is designed for internal use within an organization, presumably for approving and tracking the proofing process of some type of documents or artworks. The form likely originated from a public survey or topic metadata about proof or artwork approval processes. Its purpose is to provide an organized and standardized way to collect and review information from various departments or individuals involved in the proofing and approval process. This form is an original adaptation of such a process and can be freely used, modified, and distributed under the Creative Commons BY 4.0 license.
-
-</thinking>
-
-# Proof Approval - Help Guide
+# # Proof Approval - Help Guide
 ## Purpose
 The "Proof Approval" form is used to collect and review information for proofing and approval processes within an organization. This form helps to ensure that all necessary details are included and approved before finalizing any proof or artwork.
 

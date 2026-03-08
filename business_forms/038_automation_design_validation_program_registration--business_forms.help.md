@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help participants register for the Automation Design Validation Program. The purpose of the form is to gather information about the participant's company, project, and preferences. The form will help the program administrators understand who the participants are, what kind of automation projects they are interested in, and what kind of support and resources they may need.
-To prevent duplication of registration, the program administrators will check for existing participant data before accepting new registrations.
-</thinking>
-
 # Automation Design Validation Program Registration - Help Guide
 ## Purpose
 The Automation Design Validation Program Registration form is a comprehensive form designed to gather information about participants' companies, projects, and preferences. It helps program administrators understand who the participants are, what kind of automation projects they are interested in, and what kind of support and resources they may need.

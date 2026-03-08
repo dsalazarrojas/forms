@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "online_product_purchase_form" form, I will first analyze the provided YAML field definitions. The form appears to be for capturing information related to online product purchases, including purchase and delivery details, and payment proof. It seems to be a simple form with three fields: "Purchase Details", "Delivery Details", and "Payment Proof". 
-
-This form might be used by a company or business that sells products online, and the purpose of the form is to collect information from customers about their purchases. The form could be used for various purposes, such as tracking sales, managing inventory, or for administrative tasks. It is essential to verify that this form is relevant and not a duplicate, as the provided YAML field definitions do not explicitly state the form's purpose or context. Therefore, further research or clarification is necessary to ensure the form's accuracy and relevance.
-
-To create a user-facing help guide, I will base the explanations on the provided YAML field definitions and attempt to provide concrete and concise information to the end-users.
-
-</thinking>
-
 # online_product_purchase_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their online product purchases. It is intended to be used by businesses or companies selling products online.

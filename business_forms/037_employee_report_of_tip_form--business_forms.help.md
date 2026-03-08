@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'd like to clarify that the form purpose is to capture employee information and details about a tip received. The form seems to be a simple, one-page form with fields for employee information, date received, tip amount, tip type, total tips, and note. The form appears to be used for reporting purposes, possibly for tracking or accounting. It's essential to understand that the form is not meant for complex or lengthy text input, as the type 'text' is only used for the 'Note' field. I assume that the 'Tip Type' field is a selection of predefined options, but without more information, it's unclear what these options represent. I'll provide a neutral explanation for this field. Please let me know if I'm correct or if you need further clarification.</thinking>
-
 # Employee Report Of Tip Form - Help Guide
 
 ## Purpose

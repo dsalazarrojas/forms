@@ -1,7 +1,3 @@
-<thinking>
-This form is used to book audio visual equipment for events. The form is designed to gather information about the event, such as the date and time of the event, the type of equipment needed, and the contact information of the person making the booking. The form will guide you through the process of booking the equipment and ensure that all necessary details are provided. Please ensure that you have filled out all required fields before submitting the form. If you have any questions or need clarification on any field, please don't hesitate to reach out to us.
-</thinking>
-
 # Audio Visual Equipment Booking Form - Help Guide
 ## Purpose
 

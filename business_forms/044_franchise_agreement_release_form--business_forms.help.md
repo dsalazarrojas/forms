@@ -1,7 +1,3 @@
-<thinking>
-This form was created by an AI using only public metadata as inspiration from a public survey topic, and it's not affiliated with, endorsed by, or derived from any form platform. Its purpose is to serve as a template for creating franchise agreement release forms that are original and adaptable to your specific business needs. This form is intended for use by business entities to create a release form for franchise agreements. However, to ensure that this form is used correctly and effectively, it's essential to understand its purpose and how to complete it accurately.
-</thinking>
-
 # Franchise Agreement Release Form - Help Guide
 ## Purpose
 This form is used to create a release agreement for franchisees, which is a crucial document in the franchise industry. A franchise agreement release form is a legal document that outlines the terms and conditions of a franchisee's participation in a franchise program. It's essential to fill out this form accurately and completely to ensure that you're meeting your obligations as a franchisor and providing a smooth transition for your franchisees.

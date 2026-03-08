@@ -1,10 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to collect information about cybersecurity incidents that have occurred within the organization, allowing the incident response team to quickly identify, assess, and mitigate the situation.
-This guide should be used by individuals reporting incidents that they or someone else has detected within the organization to ensure consistent and accurate reporting. 
-Please use the guide and fill out the form only if the situation is new and not a repeat incident. 
-If you are unsure, reach out to the incident response team.
-</thinking>
-
 # Cybersecurity Incident Form - Help Guide
 ## Purpose
 The Cybersecurity Incident Form is used to report and classify cybersecurity incidents that have occurred within the organization. This information helps the incident response team to assess and respond to incidents effectively.

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to capture essential information about a new client for onboarding purposes. It's likely being used to create or update client records within a business or organization. This form appears to be a simple and straightforward way to gather the necessary details, such as name, contact information, and service requirements, for efficient client management and communication.
-</thinking>
 # Client Entry Form - Crown Essential - Help Guide
 
 ## Purpose

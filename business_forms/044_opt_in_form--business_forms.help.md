@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Opt In Form - Help Guide
 ## Purpose
 The Opt In Form is used to collect contact information and opt-in preferences from customers, allowing them to choose how they want to receive updates and offers from our company.

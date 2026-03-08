@@ -1,7 +1,3 @@
-<thinking>
-This form is used for the Executive Advisory Residency Application. The purpose of this form is to collect information from users applying to the Executive Advisory Residency program. The program is likely a residential program for executives or business professionals seeking to develop skills or gain experience in a specific area. This application form will be used to determine if the user's background and qualifications align with the program requirements. 
-</thinking>
-
 # Executive Advisory Residency Application - Help Guide
 ## Purpose
 The Executive Advisory Residency Application form is designed to collect information from users applying to the Executive Advisory Residency program. This form will help us assess your qualifications and background to determine whether you are a good fit for the program.

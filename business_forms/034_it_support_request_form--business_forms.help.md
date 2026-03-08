@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the IT Support Request Form. This guide will explain the purpose of the form, how to complete it, and provide a detailed explanation of each field, making it easy for end-users to understand and fill out the form accurately.</thinking>
-
 # IT Support Request Form - Help Guide
 ## Purpose
 The IT Support Request Form is designed to collect information from users regarding IT support requests, allowing IT staff to track and manage requests efficiently. This form is used to report issues, ask for help, or provide feedback on IT-related matters.

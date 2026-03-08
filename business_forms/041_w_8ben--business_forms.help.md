@@ -1,6 +1,3 @@
-<thinking>
-This form is for business entities to input their information for W-8BEN certification. This certification is used for international tax purposes and is typically required for businesses that have US-based operations. The form will help businesses provide accurate and consistent information to facilitate the certification process. It is essential to ensure that the information entered is accurate and up-to-date to avoid any potential issues or delays. Please review the fields carefully and enter the correct information to complete the form.</thinking>
-
 # W 8Ben - Help Guide
 ## Purpose
 The W 8Ben form is a certification document for businesses that have international tax implications. It helps businesses provide accurate information for tax purposes, ensuring compliance and avoiding any potential issues.

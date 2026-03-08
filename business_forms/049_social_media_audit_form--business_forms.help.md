@@ -1,7 +1,3 @@
-<thinking>
-The social media audit form is a crucial tool for analyzing the performance and reach of a social media presence. This form helps users to gather essential metrics and demographics that inform business decisions and identify areas for improvement. To avoid duplication, ensure that each user has a unique set of data and that the form is filled out only once for each social media entity being audited.
-</thinking>
-
 # social_media_audit_form - Help Guide
 
 ## Purpose

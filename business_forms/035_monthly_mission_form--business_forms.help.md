@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect data on the monthly mission and objectives, key results, action items, and progress of a project or task. This form ensures that all necessary information is captured in a structured and organized manner, making it easier to track and review progress.
-
-To ensure accurate and complete data, we must ensure that this form is filled out correctly.
-
-This form is designed to be used by project team members, team leaders, or any other stakeholders who need to provide information on their current mission and objectives.
-</thinking>
-
 # monthly_mission_form - Help Guide
 ## Purpose
 The monthly mission form is used to capture the monthly mission and objectives of a project or task. This information is essential for tracking progress, identifying areas of improvement, and making informed decisions.

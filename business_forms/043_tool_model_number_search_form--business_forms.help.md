@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to search for tool models based on various criteria. The user can input model number, supplier, store, date, time, and other relevant information to search for the desired tool model. The form has multiple pages with various fields, including text, select, select multiple, and email fields. Each page has its own set of fields, but some fields are repeated on multiple pages, such as "Tool Model Number" and "Tool Number". This is likely to accommodate different search scenarios. The form may be used to search for a specific tool model by its model number, or to search for tools by supplier, store, or date.
-
-The goal of this form is to provide a way for users to quickly and easily search for tool models based on their specific needs. However, the form's multiple pages and repeated fields may cause confusion for users unfamiliar with the form's purpose and layout.
-
-To minimize confusion, it's essential to clearly explain each field's purpose and how it should be filled out in this help guide.
-</thinking>
-
 # Tool Model Number Search Form - Help Guide
 ## Purpose
 The Tool Model Number Search Form is designed to help you quickly search for tool models based on various criteria, such as model number, supplier, store, date, and time. This form can help you find the desired tool model by providing a simple and straightforward way to input the necessary information.

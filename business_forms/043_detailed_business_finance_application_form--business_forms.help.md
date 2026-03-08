@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be used by business owners to apply for financial assistance. Before proceeding, ensure that you are a legitimate business entity and that your application is not a duplicate of another submitted application. Please review each field carefully and fill out the form as accurately and completely as possible.
-
-</thinking>
-
 # Detailed Business Finance Application Form - Help Guide
 
 ## Purpose

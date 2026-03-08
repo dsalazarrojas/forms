@@ -1,7 +1,3 @@
-<thinking>
-This form is used for evaluating the effectiveness of a software development process in place within an organization. It assesses various aspects such as the team's organization, communication, and adaptability to changes in project scope, timeline, resources, and requirements. The form is designed to be filled out by team members or project leads and provides insight into potential areas for improvement in the software development process.
-</thinking>
-
 # software_development_process_audit_form - Help Guide
 ## Purpose
 This form is used to evaluate the effectiveness of a software development process in place within an organization. It assesses various aspects such as team organization, communication, and adaptability to changes in project scope, timeline, resources, and requirements.

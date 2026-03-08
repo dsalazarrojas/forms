@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect real estate market data access information from users. It is intended for business use cases, and its purpose is to provide a structured way to gather necessary details for data access requests. Please ensure that each field is relevant and necessary for your specific use case to avoid duplication of effort.
-
-This guide is to help end-users understand the form's purpose and requirements, and to fill it out accurately and efficiently.
-
-</thinking>
-
 # Real Estate Market Data Access Form - Help Guide
 
 ## Purpose

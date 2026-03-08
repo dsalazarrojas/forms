@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information for the purpose of auditing safety data sheets. The primary goal of this form is to collect and document critical information related to hazardous materials, their handling, and the procedures in place for emergency situations. This form should be used by individuals responsible for ensuring a safe working environment, such as facilities managers, safety officers, or supervisors, who need to verify that the required information is accurately reported and up-to-date.
-
-</thinking>
-
 # Safety Data Sheet Audit Form - Help Guide
 ## Purpose
 The purpose of this form is to verify the accuracy and completeness of safety data sheets for materials and substances used in the workplace.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for conducting kitchen inspections, likely in a commercial or industrial setting. The form aims to evaluate the cleanliness, maintenance, and overall condition of a kitchen area, focusing on various aspects such as kitchen equipment, facilities, food storage, and pest control. 
-The purpose of this form is to collect data that can help identify potential hazards, deficiencies, or areas for improvement in the kitchen, enabling relevant authorities to take corrective actions. The form appears to be designed for regular or regularized inspections, possibly in a compliance or regulatory context.
-
-Please note that the fields are mostly text-based, suggesting that the form may be used to capture notes, descriptions, or comments about the condition of each area rather than numerical or quantitative data.
-
-</thinking>
-
 # Kitchen Inspection Form - Help Guide
 ## Purpose
 The Kitchen Inspection Form is designed to conduct regular or scheduled inspections of kitchen areas, focusing on various aspects such as equipment, facilities, food storage, and pest control. This form helps identify potential hazards, deficiencies, or areas for improvement, enabling relevant authorities to take corrective actions.

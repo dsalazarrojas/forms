@@ -1,9 +1,3 @@
-<thinking>
-# The form is designed to collect information for domestic pet transport bookings. Before we dive into the form details, let's clarify its purpose and potential duplication checks:
-The form is used to gather all necessary information for domestic pet transport bookings, including destination, transport details, pickup date, drop-off location, pet details, and more.
-To avoid duplicate submissions, this form should not be filled out if a similar booking request has been submitted recently. If you've submitted a similar booking within the last 24 hours, please check your emails for the status of your previous request.
-</thinking>
-
 # domestic_pet_transport_booking_form - Help Guide
 ## Purpose
 The domestic_pet_transport_booking_form is designed to collect information for domestic pet transport bookings. This form is used to gather all necessary details for a smooth and efficient transport process.

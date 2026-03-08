@@ -1,22 +1,3 @@
-<thinking>
-This form is used to assess and document risks within an organization. It is essential to complete this form accurately and thoroughly to identify potential risks and develop effective mitigation strategies. To ensure that the form is used correctly, please make sure that the form is filled out by the person who is most familiar with the risk, and that the information provided is up-to-date and accurate.
-
-The form is designed to be completed in multiple pages, each focusing on a specific aspect of the risk. The pages are:
-
-* Risk Identification (page 1)
-* Risk Category (page 2)
-* Risk Description (page 3)
-* Risk Owner and Responsibility (page 4)
-* Risk Frequency and Probability (page 5)
-* Risk Prevention and Mitigation (page 6-8)
-* Review and Monitoring (page 9)
-
-Make sure to complete each page thoroughly and accurately, and do not skip any fields. If you are unsure about any field, please consult with the person who is most familiar with the risk.
-
-Please also note that some fields may be required or optional depending on the specific risk. The required fields are indicated by an asterisk (*).
-
-</thinking>
-
 # Risk Management Assessment Form - Help Guide
 ## Purpose
 

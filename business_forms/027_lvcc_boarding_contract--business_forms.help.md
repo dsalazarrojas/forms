@@ -1,5 +1,3 @@
-<thinking>LVCC Boarding Contract form is a document used to record important information about a pet's boarding stay at an animal boarding facility. This form is likely used to gather essential details for the pet's care during its stay, including its name, type, and medical information. To ensure accurate and complete submission, please review each field carefully and fill it out accordingly.</thinking>
-
 # LVCC Boarding Contract - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by vendors or businesses that want to register their information with the company. The form is likely used for administrative purposes, such as tracking and managing vendor relationships. It's possible that the form is used in conjunction with other systems or workflows that involve vendor onboarding, contract management, or payment tracking. To confirm, the form should be used to register a new vendor, not to update an existing one. If you're unsure, please contact the relevant personnel for guidance.
-</thinking>
-
 # Vendor Registration Request Form - Help Guide
 ## Purpose
 The Vendor Registration Request Form is a tool for vendors to provide their information to the company. This form helps the company to track and manage vendor relationships, which includes verifying their identity, storing their contact information, and determining their role and assigned status.

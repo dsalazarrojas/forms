@@ -1,11 +1,3 @@
-<thinking>
-This is a form for party decor agreements, used to formalize the terms and conditions of a party decor event. The form is likely used by event managers or party decor companies to ensure that both parties have a clear understanding of their roles and responsibilities, payment terms, and other important details.
-This form is designed to collect information on event details, party details, services provided, agreement date, signature, contact number, email address, party decor contract ID, notes, payment terms, payment terms agreed, signature date, signature time, party decor contract signed date, party decor contract signed time, payment terms agreed signed date, payment terms agreed signed time, party decor terms agreed signed date, party decor terms agreed signed time, event manager agreement signed date, event manager agreement signed time, manager signature, event manager agreement signed date 2, party decor contract signed date 2, and event manager agreement signed time 2.
-Before filling out this form, ensure that you have the necessary information and authority to complete the form accurately.
-To complete the form, follow the steps below:
-
-</thinking>
-
 # Party Decor Agreement Form - Help Guide
 ## Purpose
 This form is used to formalize the terms and conditions of a party decor event.

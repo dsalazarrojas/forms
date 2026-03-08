@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## office_visit_scheduling_form - Help Guide
 
 ## Purpose

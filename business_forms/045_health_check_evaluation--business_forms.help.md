@@ -1,5 +1,3 @@
-<thinking>...this form is used by healthcare professionals and administrators to evaluate a patient's health status and medical history. It's essential to understand that this form is not a medical diagnostic tool but rather a data collection tool. To ensure the form's accuracy and relevance, it's crucial to review a patient's medical records before filling out this form. Please note that some fields may have been previously filled out by the patient or other healthcare staff... </thinking>
-
 # health_check_evaluation - Help Guide
 ## Purpose
 This form is used to collect patient information, medical history, and other relevant details for health evaluations.

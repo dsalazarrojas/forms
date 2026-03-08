@@ -1,18 +1,3 @@
-<thinking>
-This form is used to record the requisition of packing materials for shipping. Please ensure that you have filled out all required fields to ensure accurate and complete information is captured.
-
-Before filling out this form, please verify that you have not already submitted a requisition for the same materials and date.
-
-The Packing Materials Requisition Form is used to track the materials needed for shipping. This form helps to:
-
-* Record the materials that need to be packed for shipping
-* Identify the person responsible for ordering the materials
-* Track the materials ordered and received
-
-Please note that this form should be completed by the person responsible for ordering the packing materials.
-
-</thinking>
-
 # Packing Materials Requisition Form - Help Guide
 ## Purpose
 The Packing Materials Requisition Form is used to record the requisition of packing materials for shipping.

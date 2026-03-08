@@ -1,7 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the Skill Gap Analysis Monitoring Form. I will carefully review the provided YAML schema to understand the form's purpose and requirements. Upon review, it appears that the form is designed to monitor and analyze skills gaps within an organization, likely for business or employee survey purposes. The form has multiple pages with various fields, including select-one, select-multiple, text, and number fields. To ensure clarity and conciseness, I will focus on explaining each field's purpose and requirements.
-
-Please note that the field labels seem to be repetitive, which may lead to confusion. I will address this by providing clear explanations for each field, even if the labels are similar.</thinking>
-
 # Skill Gap Analysis Monitoring Form - Help Guide
 ## Purpose
 The Skill Gap Analysis Monitoring Form is designed to monitor and analyze skills gaps within an organization, allowing for the identification and development of necessary skills for business or employee surveys.

@@ -1,18 +1,3 @@
-<thinking>
-This is a form for booking a local experience house. To confirm, local experience houses are unique, curated properties that offer guests an immersive experience of local culture and lifestyle. The form is designed to collect information from guests about their stay dates, special requests, and other relevant details.
-The form will be used to process bookings for these houses, and the information collected will be used by the local experience house team to prepare for the guests' stay.
-Before we proceed, let's ensure that the form is clear and intuitive for end-users. Upon reviewing the form's schema, I see that it has the following fields:
-- Guest Details: a text field for collecting general information about the guest.
-- Stay Dates: a text field for specifying the stay dates.
-- Special Requests: a text field for any special requests or notes about the stay.
-- Booking Status: a select field with options for New Booking, Already Booked, and Booking Status.
-- Booking Type: a select field with options for House, Room, and Booking Type.
-- Phone: a text field for guest's phone number.
-- Email: an email field for guest's email address.
-- Stay Dates Start: a date field for specifying the start date of the stay.
-
-Upon reviewing the form, I notice that all fields are text or select fields, which makes it a straightforward form to complete. However, I will ensure that each field is clearly explained to avoid confusion.</thinking>
-
 # local_experience_house_booking_form - Help Guide
 ## Purpose
 This form is designed for guests to book a local experience house. It captures essential information such as guest details, stay dates, special requests, and booking status.

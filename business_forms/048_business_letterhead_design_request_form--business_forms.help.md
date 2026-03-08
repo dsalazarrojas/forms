@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Letterhead Design Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for the creation of a business letterhead design. It is intended for business owners or managers to provide details about their company's branding and preferences for the design of their letterhead. The purpose of this form is to ensure that the design meets the client's needs and expectations.

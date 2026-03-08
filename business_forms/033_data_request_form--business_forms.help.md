@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a data request form used to collect basic information from users. The form likely aims to gather demographic details such as name, contact information, professional background, and work history. The fields included seem to cover a range of topics, including contact information (first name, last name, email, phone), date of birth, job title and job dates, years of experience, and job history with multiple job positions.
-
-Before proceeding, it's essential to ensure this form is not a duplicate and that the user's request is legitimate. This may involve checking the form against existing records or verifying the user's identity.
-</thinking>
-
 # Data Request Form - Help Guide
 
 ## Purpose

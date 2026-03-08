@@ -1,12 +1,3 @@
-<thinking>
-This form is used for reassigning financial roles within an organization. It allows users to request a change in their current role and title, and to provide justification for the change. The form requires manager, IT, and HR approvals before it can be processed.
-
-The form is divided into several sections, each with a specific purpose. Users must complete the form by providing their name, reason for the change, current title, new title, and other relevant information such as manager, IT, and HR approvals. The form also includes fields for manager, IT, and HR names, which are used to track the approvals and the date of approval.
-
-The form is intended for internal use within the organization, and users must be authorized to access it.
-
-</thinking>
-
 # Financial Role Access Reassignment Application - Help Guide
 ## Purpose
 The Financial Role Access Reassignment Application form is used to reassign financial roles within the organization.

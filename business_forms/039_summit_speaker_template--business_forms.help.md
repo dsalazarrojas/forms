@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-**summit_speaker_template - Help Guide**
+> **summit_speaker_template - Help Guide**
 
 # Purpose
 This template is designed to gather speaker information and agreements for summits, conferences, or other events. It ensures that speakers provide necessary details about themselves and confirm their agreements with the event organizers.

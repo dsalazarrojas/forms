@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-We are creating a form for users to provide virtual office hours information. This form will be used to capture relevant details about the virtual office hours, such as the title, description, category, assigned tool, form ID, output file, submitted date, submitted by, submitted to, form version. The purpose of this form is to gather accurate and consistent data for reporting and analysis. To ensure accurate data, please fill out all required fields. Please note that form submission date and time are also recorded.
-</thinking>
-
 # Virtual Office Hours Form - Help Guide
 ## Purpose
 The Virtual Office Hours Form is a tool for gathering information about virtual office hours sessions. This form is used to capture details about the sessions, such as title, description, category, and more.

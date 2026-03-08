@@ -1,7 +1,3 @@
-<thinking>
-... internal reasoning block to check if the form purpose is correct and not duplicated ...
-</thinking>
-
 # foxie_nails_by_rosemary_order_form - Help Guide
 ## Purpose
 The Foxie Nails by Rosemary Order Form is used to collect customer information, order details, payment information, shipping information, and confirm order details for a single order.

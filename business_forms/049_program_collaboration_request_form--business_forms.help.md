@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about program collaboration requests. This form is designed to be completed by users who wish to collaborate on a program, project, or other initiatives. It's likely used in an academic or professional setting where collaboration is required. This form is a basic template and might not be specific to any particular industry or domain, so it's likely a general-purpose form that can be adapted by various organizations.
-</thinking>
-
 # Program Collaboration Request Form - Help Guide
 ## Purpose
 The Program Collaboration Request Form is a tool for users to express their interest in collaborating on a program, project, or other initiatives. It's meant to be a starting point for potential collaborations between individuals or groups within an organization or between organizations.

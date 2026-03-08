@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Content Audit Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Wealth Advisory Recommendations - Help Guide
 
 ## Purpose

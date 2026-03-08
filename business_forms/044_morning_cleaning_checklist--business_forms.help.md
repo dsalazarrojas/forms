@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by facility staff to report on the status of morning cleaning tasks. The form might be used for monitoring and record-keeping purposes, ensuring that cleaning tasks are completed correctly and on time. I am assuming the form is used in a facility or office setting where tasks are repetitive and need to be tracked for efficiency and accountability. I will not duplicate any existing form guides as this form seems to be specific in its purpose. I will provide a concrete and practical guide for the end user to understand each field's purpose.
-</thinking>
-
 # morning_cleaning_checklist - Help Guide
 ## Purpose
 The "morning_cleaning_checklist" form is designed to track and record the status of morning cleaning tasks in a facility or office setting. It helps monitor and report on the completion of these tasks, promoting efficiency and accountability.

@@ -1,17 +1,3 @@
-<thinking>
-The form "home_insurance_declaration_form" is a comprehensive form for declaring insurance information related to a vehicle. The form appears to be designed to collect detailed information about the policyholder, their vehicle, and other relevant details. It seems that the form is intended to be used in a business setting, possibly for an insurance company or financial institution.
-
-Upon reviewing the form structure, I notice that it has 25 fields, which can be categorized into several sections: 
-
-* Policyholder Information (fields 1-4)
-* Vehicle Information (fields 10-13, 15-17)
-* Additional Details (fields 18-25)
-
-The form seems to be collecting information about the policyholder's contact and demographic details, vehicle details (make, year, type, value, etc.), and additional personal information (date of birth, anniversary, etc.). There is a mix of required and optional fields, allowing users to provide varying levels of detail. Given the structure and content of the form, it is likely used for risk assessment, data collection, or customer onboarding purposes.
-
-The form's field types vary from text, select_one, and select_multiple, which suggests that it is designed for data accuracy and efficiency. However, it is unclear what specific business process this form is supporting. Further investigation or clarification from the business stakeholders is required for a more comprehensive understanding of the form's purpose and usage.
-</thinking>
-
 # home_insurance_declaration_form - Help Guide
 ## Purpose
 The "home_insurance_declaration_form" is a comprehensive form for declaring insurance information related to a vehicle. This form is used to collect detailed information about the policyholder, their vehicle, and other relevant details.

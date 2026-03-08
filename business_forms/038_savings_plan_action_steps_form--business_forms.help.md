@@ -1,8 +1,3 @@
-<thinking>
-You are designing a form to track and manage savings plans for users. The form will likely be used by individuals or businesses looking to set and achieve specific savings goals. This form's purpose is to help users create a comprehensive plan to achieve their savings objectives. To complete the form, users will need to provide details about their savings goals, such as their target amount, savings progress, and payment schedule. This form is likely to be used for internal purposes, such as for financial management and planning within an organization, or for external users to create a personal savings plan. 
-Before proceeding, ensure that the form is not a duplicate or unnecessary step for the user's specific situation. It is essential to understand that the form is designed to provide a structured approach to creating a savings plan, and users should be encouraged to review and update their progress regularly to ensure they are on track.
-</thinking>
-
 # Savings Plan Action Steps Form - Help Guide
 ## Purpose
 The Savings Plan Action Steps Form is designed to help users create a comprehensive plan to achieve their savings goals. This form guides users through a series of questions and fields to gather essential information about their savings objectives, including their target amount, savings progress, and payment schedule.

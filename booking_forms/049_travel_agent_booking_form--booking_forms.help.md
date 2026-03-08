@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a travel agent booking form designed to gather client information for booking travel arrangements. The fields collected can be used to identify the client, their travel details, and the travel agent's contact information. This form likely serves as a central hub for travel agents to gather client feedback and manage bookings.
-</thinking>
-
 # Travel Agent Booking Form - Help Guide
 
 ## Purpose

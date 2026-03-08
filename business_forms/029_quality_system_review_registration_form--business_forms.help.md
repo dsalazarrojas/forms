@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quality System Review Registration Form - Help Guide
 ## Purpose
 This form is used for registering a quality system review request, which is essential for ensuring the quality of a process or system within the organization. The purpose of this form is to gather necessary information about the review request, including the review date, type, and status, as well as the contact details of the reviewer and review requestor.

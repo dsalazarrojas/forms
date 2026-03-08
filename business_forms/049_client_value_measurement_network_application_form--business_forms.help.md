@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from potential members of the Client Value Measurement Network. The purpose of this form is to collect contact information and details about the applicant's background, interests, and availability. The form will help the network administrators to assess the applicant's fit and suitability for the network. It is expected that the applicants will have at least some experience in value measurement and will be interested in participating in the network. This form will be used to guide the selection process for network participants.
-</thinking>
-
 # Client Value Measurement Network Application Form - Help Guide
 ## Purpose
 The Client Value Measurement Network Application Form is designed to collect information about potential members of the network, including their background, interests, and availability. The form is used to assess an individual's fit and suitability for the network.

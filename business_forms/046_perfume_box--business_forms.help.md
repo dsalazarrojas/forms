@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users about their perfumery preferences. The form aims to understand their lifestyle, subscription type, payment method, perfume selection, confidence, perfect fit, and moment-to-moment experiences.
 
 To complete this form, follow these steps:

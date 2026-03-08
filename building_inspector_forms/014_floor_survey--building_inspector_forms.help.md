@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about the floor of a building for inspection purposes. This data will be used to identify and track the building and its various components, including the building type (residential, commercial, or industrial), location ID, location name, building name, floor number, room number, and a description of the floor. The form also collects information about the building inspector, including their name, license number, phone number, email, and notes. Additionally, the form asks for the building inspector's assigned tool (either Chatbot or Chatjimmy). This information will be used for inspection purposes.
-
-Before completing this form, please ensure that you have all the necessary information and that it is accurate. If you are unsure about any field, please refer to the explanations below.
-
-</thinking>
-
 # Floor Survey - Help Guide
 ## Purpose
 The Floor Survey form is used to collect information about the floor of a building for inspection purposes. This data will be used to identify and track the building and its various components.

@@ -1,20 +1,3 @@
-<thinking>
-This form is designed to manage access to tools within a project management toolset. The purpose of this form is to grant access to specific tools for team members, project managers, and other users. The form allows administrators to assign access levels, start and end dates, and tool names, as well as track tool status and project status. The form will ask for input on project management tool access, team member information, tool details, and project status updates.
-To ensure the form is completed correctly, review the fields below:
-- The form is divided into several sections, each with its own set of questions.
-- Some fields are optional (not required), while others are mandatory (required).
-- The form requires the project manager to be active (required).
-- The project status must be active (required).
-- The tool status must be active (required).
-- The project type must be one of the two options (required).
-- The user type must be one of the two options (required).
-- The assigned user status must be one of the two options (required).
-- The tool access level must be a number (required).
-- The tool name and project name are both required fields.
-- The access start date and assigned date are date fields, while the project status date is also a date field.
-- Some fields, such as tool description and tool access notes, are optional and can be left blank.
-</thinking>
-
 # Project Management Tool Access Form - Help Guide
 ## Purpose
 The Project Management Tool Access Form is used to manage access to tools within the project management toolset. This form allows administrators to grant access to specific tools for team members, project managers, and other users.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for project managers to submit their facility expansion applications to their superiors for approval. The form is a straightforward application form with various fields to gather information about the project. To determine if this form is relevant, check that you are the project manager seeking approval for a facility expansion project. If you are not, you should not submit this form.
-
-To avoid submitting duplicate requests, check that you are not already working on or have a submitted request for the same project.
-
-</thinking>
-
 # Facility Expansion Approval Application Form - Help Guide
 ## Purpose
 This form is for project managers to submit their facility expansion applications to their superiors for approval.

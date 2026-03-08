@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for clients to request an insurance policy extension. The form captures essential information to assess and process the extension request in a timely and efficient manner. To ensure the completeness and accuracy of the data, please review the following guide to complete the form correctly.
-
-</thinking>
-
 # Insurance Policy Extension Form - Help Guide
 ## Purpose
 The Insurance Policy Extension Form is used by clients to request an extension of their existing insurance policy. The form is designed to capture relevant details to facilitate the assessment and processing of the extension request.

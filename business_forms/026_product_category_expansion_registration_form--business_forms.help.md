@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for registering new product categories in a business context. The purpose of this form is to collect information about a new product category, including its name, description, and various team and manager-related details.
-The form is likely used by business owners or category managers to submit a request to add or modify product categories in the system.
-Before proceeding, please review the form to ensure that you are not duplicating an existing category and that you have the necessary authority to submit this request.
-</thinking>
 # Product Category Expansion Registration Form - Help Guide
 ## Purpose
 This form is used to register new product categories in the business system. It is intended for business owners or category managers to submit requests to add or modify product categories.

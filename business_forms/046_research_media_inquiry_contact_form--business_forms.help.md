@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used by researchers who want to inquire about research media, such as images, videos, or documents. The purpose of this form is to provide a clear and structured way for researchers to contact the organization for more information or to request access to specific research media. The form is designed to capture essential contact information and research inquiry details to ensure that the correct contact person or department is reached.
-
-Before starting the form, please ensure that you have checked that the research media you are inquiring about is not already publicly available. If you are inquiring about a specific research topic or project, please make sure that you have included all relevant information in the corresponding fields.
-
-This form is not intended to be used for general inquiries or to report issues with the platform. If you are experiencing technical difficulties or have concerns about the platform, please contact us through our designated support channels.
-</thinking>
-
 # Research Media Inquiry Contact Form - Help Guide
 ## Purpose
 This form is designed to be used by researchers who want to inquire about research media, such as images, videos, or documents, to get more information or request access to specific research media.

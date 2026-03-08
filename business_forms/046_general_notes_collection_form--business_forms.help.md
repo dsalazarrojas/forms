@@ -1,25 +1,3 @@
-<thinking> 
-This form is designed to collect general notes from users in a structured and organized manner. The purpose of the form is to gather information from users about a specific topic or issue. The form is divided into several sections, each with its own set of fields that cater to a specific aspect of the note collection. The form's fields are carefully crafted to ensure that users can provide clear and concise information that can be easily understood and acted upon. 
-
-The form's fields are: 
-- General Notes Collection Form: This is the main title of the form.
-- Category: A dropdown menu of options to select from, indicating the category of the note.
-- Title: A text field where users can enter a title for their note.
-- Notes: A text area where users can enter their note.
-- Categories: A multiple-select field where users can choose multiple categories for their note.
-- Priority: A dropdown menu of options to select from, indicating the priority of the note.
-- Attachments: An upload field where users can attach a file or image to their note.
-- Submission Date: A date field where users can enter the date of their submission.
-- Submission Time: A time field where users can enter the time of their submission.
-- Submitter's Info: A field with two options to select from, indicating who submitted the note.
-- Submission Date and Time: A date and time field where users can enter the date and time of their submission.
-- Submission Date and Time Time Zone: A dropdown menu of options to select from, indicating the time zone of the submission.
-- Submission Date and Time Format: A dropdown menu of options to select from, indicating the format of the submission date and time.
-
-This form is designed to be user-friendly and easy to complete, while ensuring that all necessary information is captured accurately. 
-
-</thinking>
-
 # General Notes Collection Form - Help Guide
 ## Purpose
 This form is used to collect general notes from users in a structured and organized manner.

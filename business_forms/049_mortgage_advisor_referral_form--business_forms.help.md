@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from mortgage advisors about their referrals. It's intended for internal use within the organization, likely for tracking and managing lead referrals. The form should not be filled out if the user is the referrer themselves, as they are not a referral.
-</thinking>
-
 # Mortgage Advisor Referral Form - Help Guide
 ## Purpose
 The Mortgage Advisor Referral Form is designed to gather information from mortgage advisors about their referrals, helping the organization to track and manage lead referrals effectively.

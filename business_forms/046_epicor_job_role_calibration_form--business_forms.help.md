@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Epicor Job Role Calibration Form is used to collect information about a specific job role within an organization. This form helps in standardizing the job role definition and classification, ensuring consistency across different departments and teams. The form should only be filled out for new job roles and not for existing ones. It is crucial to follow the standard format to the letter to ensure accurate and consistent data collection.
 
 # Epicor Job Role Calibration Form - Help Guide

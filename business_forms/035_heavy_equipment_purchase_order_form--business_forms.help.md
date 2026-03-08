@@ -1,7 +1,3 @@
-<thinking>
-This form is a purchase order form for heavy equipment. It collects information from users about the equipment purchase process, specifically the customer's details, payment method, and order status. It's likely used in an e-commerce or business-to-business (B2B) context. The form is designed to guide users through the process of creating a purchase order, ensuring accurate and complete information is provided. This form is essential for the sales team to process orders correctly and follow up with customers. It's recommended that users complete this form carefully to avoid errors and ensure a smooth purchase experience.
-</thinking>
-
 # heavy_equipment_purchase_order_form - Help Guide
 ## Purpose
 

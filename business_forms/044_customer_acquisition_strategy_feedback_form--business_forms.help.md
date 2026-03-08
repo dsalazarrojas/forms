@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback on the customer acquisition strategy from end-users, providing an opportunity for users to share their opinions on various marketing strategies, customer engagement, and other aspects of customer acquisition. The form is designed to be completed in multiple stages, with each stage containing a select multiple or select one field. The fields are meant to be filled out by end-users to provide their feedback and opinions on the current customer acquisition strategy. This form should not be used for any other purpose.
-</thinking>
-
 # customer_acquisition_strategy_feedback_form - Help Guide
 ## Purpose
 The customer acquisition strategy feedback form is designed to gather feedback from end-users on the current customer acquisition strategy. This form helps to identify areas of improvement and provide valuable insights for future strategy development.

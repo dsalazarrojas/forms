@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information for vehicle insurance refund purposes. It is meant to be completed by the claimant, who is the person submitting the claim. The form is divided into several sections, each with its own specific fields. 
-
-The purpose of this form is to provide a structured and clear way to gather all necessary information for the vehicle insurance refund process.
-
-Before proceeding, ensure that the form's purpose matches the claimant's needs and that no similar form is in use. If you are not the intended recipient, please do not complete this form.
-
-</thinking>
-
 # Vehicle Insurance Refund Form - Help Guide
 ## Purpose
 The Vehicle Insurance Refund Form is designed to collect information for vehicle insurance refund purposes. It is intended to be completed by the claimant, the person submitting the claim.

@@ -1,8 +1,3 @@
-<thinking> 
-The form "treasury_statement_delivery_request_form" is used by treasury department staff to request a treasury statement delivery for a specific account. The form is designed to gather essential information for the delivery process, including delivery method, period, and account details. This form should not be used for other purposes.
-
-</thinking>
-
 # treasury_statement_delivery_request_form - Help Guide
 ## Purpose
 The treasury statement delivery request form is used to request a treasury statement delivery for a specific account. This form is used by treasury department staff to gather necessary information for the delivery process.

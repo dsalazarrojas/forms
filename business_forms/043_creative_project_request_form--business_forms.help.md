@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creative Project Request Form - Help Guide
 
 ## Purpose

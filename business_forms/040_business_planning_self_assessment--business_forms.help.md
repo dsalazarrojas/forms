@@ -1,15 +1,3 @@
-<thinking>
-
-This form appears to be a comprehensive business planning self-assessment tool. It's designed to evaluate the readiness and performance of a business in various aspects, including its objectives, team alignment, market understanding, and financial projections. The form is likely used to identify areas of improvement and provide guidance for business planning and development.
-
-Upon reviewing the form's content, it's clear that it's a mix of numerical and free-text fields. Numerical fields are used to assess the business's level of performance in certain areas, while free-text fields are used to capture more qualitative information.
-
-Before creating a help guide, I need to ensure that this form is not duplicating other existing tools or guidelines within your organization. If it is, we'll need to review and modify the form to avoid redundancy.
-
-Assuming this form is a new or modified tool, let's create a help guide that's clear and concise for end-users.
-
-</thinking>
-
 # Business Planning Self Assessment - Help Guide
 ## Purpose
 The Business Planning Self-Assessment is designed to evaluate your business's performance in various areas, providing an overview of its strengths and weaknesses. This tool helps identify areas that need improvement and provides guidance for business planning and development.

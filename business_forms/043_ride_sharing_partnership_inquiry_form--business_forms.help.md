@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to help users understand the purpose and usage of the ride sharing partnership inquiry form. The form is designed to gather information from potential partners or collaborators interested in exploring partnership opportunities with our company. The form fields should only be filled out once per individual or company.
-</thinking>
-
 # ride_sharing_partnership_inquiry_form - Help Guide
 ## Purpose
 The ride sharing partnership inquiry form is used to gather information from potential partners or collaborators interested in exploring partnership opportunities with our company. This form helps us understand their interests, needs, and preferences, allowing us to tailor our approach to their specific requirements.

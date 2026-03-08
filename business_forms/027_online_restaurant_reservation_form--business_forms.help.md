@@ -1,16 +1,3 @@
-<thinking> 
-This guide is intended to be a comprehensive resource for users interacting with the online restaurant reservation form. It should provide clear guidance on the form's purpose, how to complete it, and what each field represents. 
-
-To start with, the form is designed to gather information from users for reservations at a restaurant. Its primary purpose is to collect details about guests, including their contact information, preferences, and requirements. The form also serves as a means to communicate with the restaurant staff, allowing users to convey any special requests or messages. 
-
-Upon completion, the form should be filled out accurately and thoroughly, ensuring that all required fields are completed and the user's preferences and requirements are clearly stated. 
-
-This guide will cover each field in the form, explaining its meaning, relevance, and expected user input. 
-
-Please note that this guide is tailored to the specific fields and options presented in the provided YAML configuration. Each field and option is carefully explained to avoid any confusion or duplication of effort.
-
-</thinking>
-
 # Online Restaurant Reservation Form - Help Guide
 ## Purpose
 The online restaurant reservation form is designed to collect information from guests for reservations at the restaurant. This includes contact details, preferences, and any special requests. By filling out this form accurately, guests can ensure that their reservations are handled efficiently and effectively.

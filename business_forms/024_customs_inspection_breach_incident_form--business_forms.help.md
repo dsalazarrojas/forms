@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to document and track customs inspection breaches and incidents, providing a structured format for reporting and managing such events. The form will help ensure that all relevant information is captured in a clear and concise manner, facilitating prompt and effective response to incidents. It will also help to prevent duplication of effort by ensuring that each incident is thoroughly documented and assigned to the appropriate person for follow-up. The form is intended for use by customs officials, inspectors, and other authorized personnel.
-
-To use this form, follow the steps below:
-
-1.  Select the relevant information about the breach incident, including the date and time of the incident, its location, and details about what happened.
-2.  Document the actions taken to address the incident, including any notes and follow-up actions.
-3.  Specify the status of the incident, whether it is Open, Closed, or Pending.
-4.  Provide any relevant follow-up information, including the follow-up date and time, location, and notes.
-5.  Identify the incident report type, whether it is an Incident Report or Non-Incident Report.
-6.  Finally, enter the unique incident ID and number for record-keeping purposes.
-
-This form is designed to ensure that all relevant information is captured in a clear and concise manner, facilitating prompt and effective response to incidents. By following these steps, you will be able to complete the form efficiently and accurately.</thinking>
-
 # customs_inspection_breach_incident_form - Help Guide
 ## Purpose
 The form is designed to document and track customs inspection breaches and incidents, ensuring all relevant information is captured and facilitating prompt response.

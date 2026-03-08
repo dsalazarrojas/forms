@@ -1,10 +1,3 @@
-<thinking>
-This form is used for registering a business trade license, which is a crucial process for businesses that engage in trade. The form requires information about the applicant and their business. It's essential to complete this form accurately and thoroughly to avoid any potential issues or delays in the registration process.
-
-To prevent confusion and ensure consistency, we will use the exact terminology from the provided YAML file.
-
-</thinking>
-
 # Business Trade License Registration Form - Help Guide
 ## Purpose
 This form is used for registering a business trade license, which is a requirement for businesses engaged in trade.

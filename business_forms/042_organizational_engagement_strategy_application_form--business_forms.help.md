@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from business owners or their representatives who wish to engage with the company for a specific service or purpose. It's a crucial step in understanding the needs and requirements of potential clients, ensuring that the company can provide tailored support and solutions.
-
-Before proceeding, please ensure you have the necessary permissions to complete this form on behalf of your business. If you're not authorized, please refrain from filling out this form and instead, contact our support team to discuss your needs.
-
-This form is meant for individual business owners or their authorized representatives. Please note that if you are representing multiple businesses, you will need to fill out separate forms for each one.
-
-To confirm that you are not duplicating an existing application, please check our internal database or reach out to our support team if you are unsure.
-
-</thinking>
-
 # Organizational Engagement Strategy Application Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>...This form is used to document the details of a mediation session, including the parties involved, any agreements reached, and any notable events or comments. This form is used to record the progress and outcome of the mediation session, ensuring that all parties are aware of their roles and responsibilities. It is essential to fill out this form accurately and completely to ensure that the mediation process is properly documented and to avoid any potential issues that may arise later on.
-
-Before completing this form, please ensure that you have a clear understanding of the mediation process and the details of the session. If you are unsure about any aspect of the form, please consult with your supervisor or a qualified mediator.</thinking>
-
 # Mediation Agreement Release Form - Help Guide
 ## Purpose
 The Mediation Agreement Release Form is used to document the details of a mediation session, including the parties involved, any agreements reached, and any notable events or comments.

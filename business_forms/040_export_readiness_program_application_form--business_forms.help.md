@@ -1,7 +1,3 @@
-<thinking>Export Readiness Program Application Form is designed to help businesses assess their export readiness to ensure compliance with regulations and guidelines for exporting products to other countries. This form is not meant to be a comprehensive assessment, but rather a tool to gather information about a company's export plans and practices. Please note that this form is not a substitute for professional advice or official government documentation. If you are unsure about any aspect of exporting, please consult the relevant authorities or seek guidance from a qualified expert.
-
-To complete this form, please answer the questions truthfully and thoroughly. If you are unsure about any question, please explain your answer in the provided space.</thinking>
-
 # Export Readiness Program Application Form - Help Guide
 ## Purpose
 The Export Readiness Program Application Form is designed to help businesses assess their export readiness and compliance with regulations and guidelines for exporting products to other countries.

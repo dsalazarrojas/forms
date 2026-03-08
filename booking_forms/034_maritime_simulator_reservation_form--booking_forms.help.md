@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Maritime Simulator Reservation Form - Help Guide
 
 ## Purpose

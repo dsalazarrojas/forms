@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently, while also being user-friendly and accessible. This form should be used for customers who are experiencing issues with payment reconciliation, and it's essential that we capture all relevant information to assist them efficiently. To avoid duplication of effort, we should verify that the form is being used for its intended purpose and that the customer has not already contacted us through another channel. This form will help us understand the payment reconciliation issue, provide any supporting documents, and contact information to get in touch with the customer.
-</thinking>
-
 # payment_reconciliation_support_contact_form - Help Guide
 ## Purpose
 This form is for customers who are experiencing issues with payment reconciliation. Fill out this form to provide us with the necessary information to assist you efficiently.

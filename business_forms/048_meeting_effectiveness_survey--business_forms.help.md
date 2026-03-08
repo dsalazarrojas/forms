@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback on the effectiveness of meetings within the organization. The purpose of this form is to help managers and attendees assess the value and usefulness of meetings, identify areas for improvement, and make data-driven decisions to optimize meeting schedules and agendas. Before filling out this form, please make sure you're completing one survey per meeting. If you've already completed a survey for the same meeting, your submission will be considered a duplicate, and you won't be able to submit it.
-</thinking>
-
 # Meeting Effectiveness Survey - Help Guide
 ## Purpose
 This form is designed to gather feedback on the effectiveness of meetings within the organization. The goal is to assess how well meetings achieve their intended outcomes and identify areas for improvement.

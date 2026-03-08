@@ -1,12 +1,3 @@
-<thinking>
-The form "Invoice Form For Dialycen In Spanish" is designed to collect information for generating an invoice for Dialycen services. The form is divided into different sections, each with its own set of fields, to gather relevant details such as billing information, contact details, payment terms, and payment method. This form is intended for use by customers or staff members to create an invoice for services rendered. 
-
-Please review the form to ensure it is not being used to collect unnecessary information or for any other purpose. If you're unsure about any field, it's best to clarify with the form creator or relevant stakeholders. 
-
-This form is not designed to be a replacement for an existing system; rather, it's meant to complement or assist with specific tasks.
-
-</thinking>
-
 # Invoice Form For Dialycen In Spanish - Help Guide
 ## Purpose
 The purpose of this form is to collect information for generating an invoice for Dialycen services.

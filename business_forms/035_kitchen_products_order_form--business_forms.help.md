@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for ordering kitchen products from a company, allowing customers to provide their contact information, select the products they want to order, and schedule the delivery. The form should be filled out by customers to initiate a new order. It is assumed that customers already have a pre-existing relationship with the company. The form is divided into 17 sections, each with a specific field type (text, number, select multiple, date, time, etc.) and required/optional status. The fields are designed to collect information about the customer, the products they want to order, and the delivery details.
-</thinking>
-
 # kitchen_products_order_form - Help Guide
 ## Purpose
 This form is for ordering kitchen products from our company. To complete the form, please follow the steps below.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about the editor's personal details.
-It is intended for editors who need to provide their contact information and demographic data for internal purposes. 
-This form will not be used for external publication. 
-Please ensure that the editor's information is accurate and up-to-date. 
-The form is split into multiple pages. 
-Please ensure that you have reviewed the form's purpose and the required fields before proceeding. 
-</thinking>
-
 # Editor Information Form - Help Guide
 ## Purpose
 This form is used to collect editor's personal details for internal purposes. It is not intended for external publication.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to help end users book a room at a boutique hotel. It is likely to be used by customers to provide their reservation details, guest information, and payment information in a user-friendly interface. The form likely serves as the primary means of communication between the hotel and customers for booking purposes.
-
-To avoid duplication, this form should not be used for other purposes such as checking room availability or making cancellations. 
-
-</thinking>
-
 # Boutique Hotel Booking Form - Help Guide
 ## Purpose
 The Boutique Hotel Booking Form is a user-friendly form designed for customers to book a room at a luxurious hotel. This form gathers essential information for the reservation, payment, and any special requests or restrictions the customer may have.

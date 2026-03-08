@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from clients for lash extension services. It is a crucial part of the booking process, as it captures essential details that help the technicians and management team prepare for the service. The form should not be used for general inquiries or non-urgent matters. 
-</thinking>
-
 # Lash Extension Service Form - Help Guide
 ## Purpose
 This form is used to book and schedule lash extension services with a salon or technician. Please fill out the form accurately and completely to ensure a smooth and efficient booking experience.

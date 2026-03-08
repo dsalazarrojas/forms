@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is not being used for its intended purpose by the end users, so it's worth including a brief explanation of the form's purpose here. This form is likely being used for internal purposes, so let's aim for clarity and simplicity in our explanation. We don't want to overcomplicate or confuse the end users. This form collects information about private label packaging orders, which are special orders for custom packaging for products. The purpose of this form is to gather the necessary details about the products and customers placing these orders.
-
-</thinking>
-
 # Private Label Packaging Order Form - Help Guide
 ## Purpose
 This form is used to collect information about private label packaging orders for custom products. It is intended for customers who are placing special orders for custom packaging for their products.

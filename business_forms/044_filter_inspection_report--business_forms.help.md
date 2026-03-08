@@ -1,7 +1,3 @@
-<thinking>
-The form "filter_inspection_report" appears to be a tool for filtering and summarizing the conditions and results of an inspection, as well as recording any necessary maintenance actions. This form likely serves to organize and categorize data from inspections, allowing users to quickly identify key points and generate reports. This form might be used in industries such as construction, manufacturing, or quality control. I'll create a help guide based on the provided YAML fields.
-</thinking>
-
 # filter_inspection_report - Help Guide
 ## Purpose
 The filter_inspection_report form is designed to help users filter and categorize inspection conditions and results, and to record any necessary maintenance actions. This form is useful for organizing and summarizing data from inspections.

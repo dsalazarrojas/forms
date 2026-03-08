@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for property compliance office contacts. The purpose of this form is to ensure that the office has all necessary contact details and documentation for properties under their supervision. It is essential to complete this form accurately and comprehensively to facilitate efficient communication and issue resolution.
-</thinking>
-
 # property_compliance_office_contact_form - Help Guide
 ## Purpose
 This form is used to gather contact information for properties under the office's supervision, allowing for efficient communication and issue resolution.

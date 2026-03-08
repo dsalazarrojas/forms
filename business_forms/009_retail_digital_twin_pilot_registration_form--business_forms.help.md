@@ -1,7 +1,3 @@
-<thinking>
-This form is a pilot registration form for a retail digital twin initiative. It is likely used by business stakeholders to gather information on potential participants for the pilot, ensuring they meet the necessary criteria. Before proceeding, verify that you are not duplicating information already collected or registering an account that does not belong to your team.
-</thinking>
-
 # retail_digital_twin_pilot_registration_form - Help Guide
 ## Purpose
 This form is for registering your team's interest and providing information for the retail digital twin pilot. Fill it out to express your interest and provide necessary details.

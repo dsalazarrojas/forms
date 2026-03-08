@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to logistics or shipping. Given the field labels such as "delivery_details", "customer_info", "delivery_address", and "delivery_contact", I'm assuming it's a form for capturing information about customer deliveries. I'll create a user-facing help guide based on these fields. I'll explain each field in a straightforward and practical way, without making any assumptions about business-specific logic or context.
-</thinking>
-
 # delivery_report_form - Help Guide
 ## Purpose
 The delivery report form is a tool to collect and record information about customer deliveries.

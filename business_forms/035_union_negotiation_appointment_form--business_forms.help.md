@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # union_negotiation_appointment_form - Help Guide
 
 ## Purpose

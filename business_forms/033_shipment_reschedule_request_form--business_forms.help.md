@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning for the Shipment Reschedule Request Form should be to allow users to adjust the delivery schedule of a shipment, providing an alternative pickup or delivery time for a shipment that has been scheduled for pickup or delivery. This form should only be used when the shipment is not yet in transit, as it may not be possible to reschedule once the shipment has left the warehouse or depot. Users should be able to select the new shipment type (e.g., reschedule, cancel, or delay) and provide any relevant customer information, such as their email and phone number, to facilitate communication with the customer. It is essential to check that the customer's contact information is up-to-date before proceeding with the reschedule request, as this will ensure that the customer is notified and can respond to the new schedule.
-</thinking>
-
 # Shipment Reschedule Request Form - Help Guide
 ## Purpose
 The Shipment Reschedule Request Form is used to reschedule a shipment that has not yet been collected or delivered. This form allows you to adjust the delivery schedule of a shipment by selecting a new reschedule option and providing relevant customer information.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help customers or clients book photography services with a studio. The form likely appears on the studio's website or other online platforms for potential customers to fill out. It's used for both internal and external purposes. It's likely used to collect information from customers about their needs and preferences for a photo shoot or other related services. This guide is intended to help customers fill out the form correctly and efficiently.
-
-</thinking>
-
 # Photography Studio Booking Form - Help Guide
 ## Purpose
 The Photography Studio Booking Form is a crucial part of the booking process. It gathers essential information from clients and helps our team prepare for their photo shoot.

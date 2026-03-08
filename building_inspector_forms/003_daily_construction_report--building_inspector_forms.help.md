@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and concise in its purpose and usage. This form is designed for the daily reporting of construction projects, gathering essential information about the project's progress and status. It should be completed by authorized personnel, and all required fields must be filled out accurately. The form will serve as a record of daily activities, allowing for tracking and monitoring of the project's progress. Before starting, please review the form carefully and ensure that all necessary information is entered correctly to avoid duplication or omission of data. The purpose of this guide is to assist users in completing the form efficiently and effectively.
-</thinking>
-
 # Daily Construction Report - Help Guide
 
 ## Purpose

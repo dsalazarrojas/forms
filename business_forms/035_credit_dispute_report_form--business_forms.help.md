@@ -1,14 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly to prevent misuse and data inaccuracies. We'll create a guide that explains the form's purpose and every field to help users submit accurate and complete reports.
-
-This guide will cover the "credit_dispute_report_form" and help users understand each field's importance in the dispute resolution process.
-
-Before starting the guide, note that the form's purpose is to assist consumers in reporting inaccuracies or disputes with their lenders. By using this form, consumers can provide detailed information about the issue, which will be reviewed and addressed by the lender.
-
-This guide will cover each field in the form, explaining its relevance and usage in the dispute resolution process.
-
-</thinking>
-
 # credit_dispute_report_form - Help Guide
 ## Purpose
 The "credit_dispute_report_form" is a tool designed to help consumers report inaccuracies or disputes with their lenders. This form gathers essential information to assist in the dispute resolution process, ensuring that issues are addressed promptly and accurately.

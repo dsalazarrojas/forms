@@ -1,8 +1,3 @@
-<thinking>
-The ESG Policy Alignment Request Form is a tool used to gather information from users who have requested alignment with the organization's ESG (Environmental, Social, and Governance) policies. This form helps the sustainability team and compliance team to review and evaluate the request, ensuring that the organization is meeting its ESG standards. The form is a required step for users to provide necessary information for a proper review.
-To avoid duplication of effort, please ensure that the user has not previously submitted a similar request. If you're unsure, reach out to the sustainability team for assistance.
-</thinking>
-
 # ESG Policy Alignment Request Form - Help Guide
 
 ## Purpose

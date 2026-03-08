@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for clients to provide information about their all-inclusive vacation plans, including personal details, travel preferences, and accommodation needs. The form helps in ensuring that the client's requirements are met and that the vacation planners have all the necessary information to provide an accurate quote or plan. The form should only be filled out by clients who have not already discussed their plans with a representative and are not seeking multiple quotations. Please review the form carefully before submitting it.</thinking>
-
 # All Inclusive Vacation Planning Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients about their vacation preferences and requirements to create an all-inclusive quote or plan. Please fill out the form completely and accurately to ensure that your needs are met.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to document and manage relationships between businesses and their affiliates or partners. The Fashion Affiliate Agreement Form is used to collect information about affiliates or partners, including their contact details, affiliation status, agreement terms, and contract specifics. This form will help in establishing a clear understanding of the terms and conditions of the agreement, ensuring both parties are on the same page.
-
-This form is designed to be filled out by affiliates or partners, and the information collected will be used to keep track of their affiliation status and agreement terms. It is recommended to fill out this form accurately and completely to ensure that all necessary information is captured.
-
-To avoid duplication of effort, ensure that you have not already submitted an affiliate agreement form for this partnership. If you have previously submitted a form for this partnership, it is not necessary to fill out this form again.
-</thinking>
-
 # Fashion Affiliate Agreement Form - Help Guide
 ## Purpose
 The Fashion Affiliate Agreement Form is used to document and manage relationships between businesses and their affiliates or partners. It collects information about affiliates or partners, including their contact details, affiliation status, agreement terms, and contract specifics.

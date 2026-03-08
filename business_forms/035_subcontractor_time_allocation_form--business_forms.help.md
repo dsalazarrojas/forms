@@ -1,8 +1,3 @@
-<thinking>
-This form is used to allocate time for a subcontractor on a project. It appears to be a crucial part of project management, possibly for reporting or billing purposes. The form likely requires user input to track time spent by a subcontractor on a specific project, with options for selecting the project, weeks, and subcontractor(s) involved. There may be additional fields for notes, email, phone, and comments, which could be used for communication or reference. This form seems to be a standard template for tracking subcontractor hours, so it's essential to ensure users understand how to fill it out correctly.
-
-</thinking>
-
 # subcontractor_time_allocation_form - Help Guide
 ## Purpose
 This form is used to track and report time allocated for a subcontractor on a specific project.

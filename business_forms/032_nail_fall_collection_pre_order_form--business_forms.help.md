@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers place a pre-order for the Nail Fall Collection. It's essential to fill out this form accurately to ensure timely processing and proper fulfillment of the order. Before filling out the form, please review the available options for collection and nail type to ensure you're making a selection that suits your needs. This form is intended to be completed by customers who wish to pre-order a product from the Nail Fall Collection. Please ensure that you're providing accurate information to avoid any discrepancies in the order process.
-</thinking>
-
 # Nail Fall Collection Pre Order Form - Help Guide
 ## Purpose
 The pre-order form is designed to collect information from customers interested in pre-ordering the Nail Fall Collection. Please fill out this form to express your interest in purchasing a product from the collection.

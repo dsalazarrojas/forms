@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warehouse Lease Authorization Form - Help Guide
 ## Purpose
 This form is designed to gather information about the lease authorization of a warehouse. It is intended to be used by warehouse employees or management to record and track lease agreements.

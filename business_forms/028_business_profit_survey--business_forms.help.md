@@ -1,11 +1,3 @@
-<thinking>
-This help guide will be used to inform end-users on the "Business Profit Survey" form, which is a critical component of our business operations. The form is designed to collect essential data on a business's overall performance, financials, and growth prospects. The purpose of this guide is to ensure that users understand each field's intent, requirements, and expected input.
-
-Before diving into the form details, it's essential to confirm that the business operates within the scope of this survey. Specifically, the form is intended for businesses that have been in operation for a certain period, which implies that the business has a track record of financial performance.
-
-To avoid duplication of effort, please fill out this form only once. If you have filled out this form previously, please do not attempt to re-submit. Our systems will detect duplicate submissions, and we will notify you of any issues.
-
-</thinking>
 # Business Profit Survey - Help Guide
 ## Purpose
 The Business Profit Survey is designed to collect valuable insights into your business's performance, financials, and growth prospects. This information helps us better understand your business's strengths, weaknesses, and areas for improvement.

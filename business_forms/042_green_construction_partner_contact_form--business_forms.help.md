@@ -1,19 +1,3 @@
-<thinking>
-To provide a clear and concise explanation of the form purpose and fields, let's assume the form is used for collecting information from potential partners or collaborators for business projects. The form likely exists within a business environment where collaboration and partnerships are a key aspect of operations. 
-
-The form might be used for various purposes such as:
-
-* Collecting contact information from potential partners or collaborators
-* Identifying areas of expertise or interest in collaboration
-* Establishing project management details, such as project managers and department involvement
-* Capturing partner details, including type, location, website, email, and phone number
-
-The form might be used for both internal and external purposes, depending on the organization's needs.
-
-This explanation will be based on the provided YAML fields. However, please note that without further context, some field labels may be weak or unclear.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the "<string>" form, which is used to collect information from potential partners or collaborators for business projects.

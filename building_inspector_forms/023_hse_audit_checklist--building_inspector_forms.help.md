@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Building Inspector Forms" titled "Building Inspector Forms - Help Guide".
-</thinking>
-
 # Building Inspector Forms - Help Guide
 ## Purpose
 This form is designed to collect information from building inspectors to assess the compliance and safety of a building. It guides the inspectors through various sections to evaluate the building's compliance with regulations, standards, and procedures, as well as its environmental impact and operational efficiency. The form also helps inspectors identify hazards and assess risks, and prepares for audits and continuous improvement. The goal is to ensure the building meets the necessary safety and regulatory standards.

@@ -1,13 +1,3 @@
-<thinking>
-
-**This form is intended to be a simple pet grooming appointment form. It gathers essential information from pet owners to schedule a grooming service for their pets. The purpose of this form is to ensure that the pet groomer has all the necessary details to provide the best service.**
-
-**Form validation and error handling are not included in this example.**
-
-**Please note that this form has been created using public metadata and is not affiliated with any form platform.**
-
-</thinking>
-
 # pet_grooming_appointment_form - Help Guide
 ## Purpose
 The **pet_grooming_appointment_form** is designed to collect information from pet owners for scheduling a grooming service for their pets. This form gathers essential details to ensure that the pet groomer is well-prepared to provide the best service.

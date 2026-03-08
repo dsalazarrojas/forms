@@ -1,17 +1,3 @@
-<thinking>
-This help guide is intended to help users understand the purpose and process of completing the "sustainability_audit_registration_form". 
-
-This form is part of the "business_forms" category and is designed to gather information about organizations and their sustainability audit requests. 
-
-To confirm that this form is relevant and not a duplication, consider the following:
-* Does the form align with the existing business forms category and its purpose?
-* Are the fields and their labels clear and unambiguous?
-* Are the form's fields and their labels consistent with the expected data collection goals?
-
-Upon reviewing the form's YAML, we can see that it has a clear structure and purpose. The fields are well-labeled and consistent with the expected data collection goals.
-
-</thinking>
-
 # sustainability_audit_registration_form - Help Guide
 ## Purpose
 The sustainability audit registration form is designed to collect information about organizations and their sustainability audit requests. This form is meant to be a straightforward way to gather necessary details from the user for the purpose of processing their sustainability audit request.

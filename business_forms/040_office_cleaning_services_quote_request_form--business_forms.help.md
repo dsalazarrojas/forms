@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Cleaning Services Quote Request Form - Help Guide
 
 ## Purpose

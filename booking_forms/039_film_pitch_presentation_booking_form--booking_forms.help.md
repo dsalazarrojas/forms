@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Film Pitch Presentation Booking Form - Help Guide
 ## Purpose
 This form is used to book film pitch presentations for film projects. The form helps gather essential information from the production team, including project details, event and presenter information, and production status. This information is crucial for organizing and scheduling presentations at film festivals, markets, or pitch events.

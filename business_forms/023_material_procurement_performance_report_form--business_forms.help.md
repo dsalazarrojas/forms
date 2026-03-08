@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Procurement Performance Report Form - Help Guide
 
 ## Purpose

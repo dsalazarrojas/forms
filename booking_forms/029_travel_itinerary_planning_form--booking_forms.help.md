@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The travel_itinerary_planning_form is a user-facing form designed to guide users through the process of planning a travel itinerary. It is intended for users to provide essential information about their travel plans, which can be helpful for travel agents or travel agencies in providing personalized travel suggestions or services.
 
 To complete the form, follow the instructions below:

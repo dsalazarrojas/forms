@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from associates regarding their sales contract, including details about their employment status, sales performance, and contract terms. This form will help the company to better understand associate's sales performance, compensation structure, and contract terms, which will aid in efficient management and decision making.
-
-Before starting, please note that this form is required for all associates and should not be completed multiple times. If you have previously completed this form, there is no need to do so again.
-
-Please review each field carefully and provide accurate information to ensure a smooth and efficient process.
-
-</thinking>
-
 # Associates Sales Contract Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of this form, I analyzed the provided YAML. The form appears to be designed for evaluating business partners' stores, specifically assessing their performance in various areas such as exterior and interior appearance, product display, signage quality, staff behavior, inventory availability, and more. The form is likely used for quality control or performance evaluation of the business partner stores. This form is not duplicated or redundant as it covers a comprehensive set of evaluation criteria.
-
-</thinking>
-
 # Business Partner Store Evaluation - Help Guide
 ## Purpose
 This form is designed to evaluate the performance of business partner stores based on various criteria to ensure they meet the expected standards of the business partnership.

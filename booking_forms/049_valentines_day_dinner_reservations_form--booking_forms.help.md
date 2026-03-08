@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for customers to book a Valentine's Day dinner at one of three restaurants, and to provide additional information about their reservation. The form likely serves as a central intake point for customer requests across multiple restaurants, and it's possible that the restaurants will use this information to confirm and follow up with customers. It's also possible that this form is used to manage customer expectations and provide a clear communication channel between the restaurants and their customers. To prevent duplication, it would be beneficial to include a unique identifier or a timestamp in the form to associate each reservation with a specific customer.
-</thinking>
-
 # Valentines Day Dinner Reservations Form - Help Guide
 ## Purpose
 This form is designed to help customers book a dinner at one of our participating restaurants on Valentine's Day. Please fill out this form to make your reservation and provide any special requests you may have.

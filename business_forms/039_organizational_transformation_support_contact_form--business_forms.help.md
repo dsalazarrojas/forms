@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Organizational Transformation Support Contact Form - Help Guide
 
 ## Purpose

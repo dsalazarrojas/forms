@@ -1,7 +1,3 @@
-<thinking>
-The Listing Concierge Form is designed to collect information about properties for a listing service. This form will help you gather all the necessary details about a property to make an accurate listing. Please note that this form is intended to be completed by a user who is familiar with the property and its details. This form is not meant to be used for general inquiries or to report a property that is not under your ownership. 
-</thinking>
-
 # Listing Concierge Form - Help Guide
 ## Purpose
 This form is used to collect information about a property for listing purposes.

@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's break down the form's purpose and ensure it's not a duplicate. From the provided YAML, it appears that this form is for collecting guest information for an Airbnb accommodation booking. The form likely serves as a data collection tool for the accommodation owner or manager to understand guest preferences, requirements, and expectations. This form might be used to tailor the accommodation experience to the guest's needs and preferences. To confirm, we'll proceed with creating the help guide.</thinking>
-
 # Airbnb Accommodation Form - Help Guide
 ## Purpose
 This form is designed to gather information from guests about their stay at the Airbnb accommodation. The form helps us understand their preferences, requirements, and expectations, allowing us to provide a better experience during their stay.

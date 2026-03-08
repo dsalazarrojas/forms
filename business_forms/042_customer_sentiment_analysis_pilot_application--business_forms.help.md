@@ -1,13 +1,3 @@
-<thinking>
-This form is a tool for collecting feedback and sentiment from customers about a pilot application of a product or service. It is designed to help businesses understand their customers' perceptions and preferences. 
-
-This form is intended to be a pilot test, so it is possible that the questions or fields may change or be removed in the future as the project evolves. Please note that this form is not affiliated with, endorsed by, or derived from any specific form platform, and its creation was generated using publicly available information. 
-
-To ensure that you get the most out of this form, please complete it carefully and thoroughly. If you have any questions or concerns, please don't hesitate to reach out to the contact information provided at the end of this guide. 
-
-Before proceeding, please review the contact information section at the end of this guide to learn more about how to get in touch with the team.
-</thinking>
-
 # Customer Sentiment Analysis Pilot Application - Help Guide
 ## Purpose
 This form is designed to collect feedback and sentiment from customers about a pilot application of a product or service. It helps businesses understand their customers' perceptions and preferences.

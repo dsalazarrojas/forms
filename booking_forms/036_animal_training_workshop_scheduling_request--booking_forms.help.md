@@ -1,10 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Animal Training Workshop Scheduling Request" form. This form is used to request a workshop for animal training, which can be a basic obedience, behavior, or specialized training for dogs. The form is designed to gather information about the workshop's details, including the date, time, location, and content. It is intended for organizations, animal shelters, and other groups that want to schedule a workshop for their staff or participants. We will go through each field in the form to ensure the user understands its purpose and how to fill it correctly.
-
-The form is used for internal purposes, and we will ensure that the user is not duplicating a request that has already been made. We will also check if the user has filled in all the required fields.
-
-</thinking>
-
 # Animal Training Workshop Scheduling Request - Help Guide
 ## Purpose
 The purpose of this form is to request a workshop for animal training. This form is intended for organizations, animal shelters, and other groups that want to schedule a workshop for their staff or participants.

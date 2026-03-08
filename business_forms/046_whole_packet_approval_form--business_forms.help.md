@@ -1,7 +1,3 @@
-<thinking>
-The Whole Packet Approval Form is used to collect consistent packet reviews and approval decisions from internal teams managing multi-document requests. This form helps to streamline the approval process by providing a standardized framework for evaluating and approving requests. Before filling out this form, ensure that you are using it for its intended purpose and not duplicating efforts.
-</thinking>
-
 # Whole Packet Approval Form - Help Guide
 ## Purpose
 The Whole Packet Approval Form is a business form designed to help internal teams manage multi-document requests and keep approvals organized in Jotform.

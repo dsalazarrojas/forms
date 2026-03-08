@@ -1,10 +1,3 @@
-<thinking>
-To create an effective Environmental Cleanup Equipment Request Form, it's essential to understand its purpose and how to fill it out correctly. This form is designed to collect information from users about the equipment they need for environmental cleanup projects. It helps in streamlining the process by providing a structured way to request equipment, which enables efficient allocation and management of resources. To ensure accuracy and reduce duplication, please review the form carefully and only submit new requests if you're certain the equipment is not already available or in the process of being requested.
-
-This form is not affiliated with any form platform and is an original adaptation created using AI-powered form generation.
-
-</thinking>
-
 # Environmental Cleanup Equipment Request Form - Help Guide
 ## Purpose
 

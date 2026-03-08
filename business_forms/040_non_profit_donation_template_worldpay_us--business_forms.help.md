@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect donor information and donation details for non-profit organizations in the United States using WorldPay US as the payment gateway. This template is designed to be flexible and adaptable for different non-profit organizations, allowing them to easily collect and process donations. Before proceeding, ensure that you have the necessary permissions and authority to complete this form on behalf of the donor.
-
-This template is intended to be used by non-profit organizations that have already set up their WorldPay US account and are familiar with their payment processing requirements. If you're unsure about any aspect of the form or the donation process, please consult your organization's payment and donor management team.
-
-To avoid duplication of efforts and ensure accurate donor data, please review your organization's existing donor database and update any relevant information before using this template.
-</thinking>
-
 # Non Profit Donation Template WorldPay US - Help Guide
 ## Purpose
 This form is designed to collect donor information and donation details for non-profit organizations in the United States using WorldPay US as the payment gateway.

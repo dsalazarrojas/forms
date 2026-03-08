@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to capture legal compliance information for a quotation or bid. The Legal Compliance Quotation Form is used to provide a systematic way to collect and store client and quotation related details such as client name, firm name, address, email, phone number, quote date, time, value, and other relevant information. This form will help users to create quotes that are compliant with regulatory requirements and reduce errors.
-
-The form is designed for use by firm staff to create and manage quotes for clients. It is expected that the form will be used for quotes that require legal compliance. This form will help users to ensure that all required information is captured and stored in a structured way.
-
-Please make sure that the form is not used for any other purpose other than legal compliance quotation or bidding purposes. Any other use of the form may lead to data duplication or errors.
-
-Please also ensure that all fields are completed correctly, and the quote status is set to 'Active' once the quote has been accepted by the client.
-
-</thinking>
-
 # Legal Compliance Quotation Form - Help Guide
 ## Purpose
 The Legal Compliance Quotation Form is designed to collect and store client and quotation related details for legal compliance purposes.

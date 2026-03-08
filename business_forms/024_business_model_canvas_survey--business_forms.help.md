@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to help business owners, entrepreneurs, and teams understand and visualize their business model. It's based on the Business Model Canvas, a widely-used business model framework. The form will guide users through a series of questions to identify and document their key business model components, making it easier to innovate, pivot, or transform their business as needed. The form is suitable for businesses of all sizes and stages, from idea development to maturity.
 
 # Business Model Canvas Survey - Help Guide

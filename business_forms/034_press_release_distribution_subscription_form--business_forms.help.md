@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to help individuals and businesses sign up to receive press releases from us. The purpose of this form is to gather contact information and other relevant details from interested parties, which will allow us to share our press releases with them on a regular basis. This form is only intended for those who wish to receive press releases and not for those who wish to submit their own press releases. By filling out this form, you will be able to customize which types of press releases you would like to receive.
-
-</thinking>
-
 # Press Release Distribution Subscription Form - Help Guide
 ## Purpose
 This form is used to subscribe to our press release distribution list. Please fill out this form completely and accurately to ensure you receive the press releases you are interested in.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request backup data from the data management team. The purpose of this form is to gather information about the type and frequency of data backup requested by the user. The form will ask for the frequency of the backup (daily, weekly, or yearly), the type of data that needs to be backed up (e.g., files, system configurations, etc.), and the contact information of the person making the request. This information will help the data management team to determine the priority and scope of the backup request.
-The form will not ask for redundant or unnecessary information and will guide the user through the completion process step by step.
-
-The form has 25 fields in total, but many of them are not required as they are used for internal purposes or for redundancy. To complete the form, the user needs to select the correct answer for each field, and the form will guide them through the process.
-
-</thinking>
-
 # data_backup_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request data backup from the data management team. It helps the team determine the priority and scope of the backup request.

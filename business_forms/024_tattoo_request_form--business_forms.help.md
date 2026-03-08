@@ -1,6 +1,3 @@
-<thinking> 
-This help guide is intended to be a resource for end users who are not familiar with the form. It's designed to walk them through the process of completing the form and provide clarity on each field's purpose and expected input. This guide will ensure that users understand what to expect and how to navigate the form without causing any issues or errors.</thinking>
-
 # Tattoo Request Form - Help Guide
 ## Purpose
 The Tattoo Request Form is used to collect information from customers regarding their tattoo requests. This includes their customer information, contact information, tattoo details, preferred designer, design description, design file, tattoo type, tattoo size, and tattoo color.

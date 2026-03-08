@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Call For Abstract - Help Guide
 ## Purpose
 The Call For Abstract form is designed to collect information about a presentation or research abstract to be presented at a conference. It is intended to gather essential details about the presenter, including their contact information and presentation preferences. The form also requires an abstract text and keywords for categorization purposes.

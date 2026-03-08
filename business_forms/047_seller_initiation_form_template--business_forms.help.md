@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seller Initiation Form Template - Help Guide
 ## Purpose
 The Seller Initiation Form Template is designed to help sellers initiate their business activities by collecting essential information about their store and product details. This form is intended to be filled out by sellers to provide a clear and concise overview of their business operations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Yacht Preference Sheet Form - Help Guide
 
 ## Purpose

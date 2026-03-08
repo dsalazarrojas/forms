@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dealership Inventory Registration Form - Help Guide
 ## Purpose
 The Dealership Inventory Registration Form is used to collect information about a vehicle being registered for sale or inventory purposes. This form helps dealerships accurately record and update their vehicle inventory, ensuring accurate records and efficient operations.

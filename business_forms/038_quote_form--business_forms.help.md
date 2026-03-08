@@ -1,13 +1,3 @@
-<thinking>
-
-The Quote Form is used to collect quotes or feedback from customers or clients about their experience with our services/products. This form is designed to be completed by individuals who have used our services/products and want to share their thoughts and opinions.
-
-This guide is intended to be used by anyone who needs to complete a quote, including customers, clients, and internal users. To ensure a smooth completion process, please make sure you have all the necessary information before starting to fill out the form.
-
-Before proceeding, please note that this form is not for internal use. If you're looking for help or support, please contact our support team directly.
-
-</thinking>
-
 # Quote Form - Help Guide
 ## Purpose
 The Quote Form is used to collect quotes or feedback from customers or clients.

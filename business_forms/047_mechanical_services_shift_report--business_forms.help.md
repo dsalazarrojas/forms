@@ -1,20 +1,3 @@
-<thinking>
-To begin with, let's break down the form's purpose and required fields to ensure clarity for end-users. Upon analyzing the form's fields, it appears to be designed for a mechanical services shift report, likely used to document and track details about mechanical services provided during shifts. The form has a total of 12 fields, all of which seem to be optional. This means that users can submit the form with varying degrees of information, making it a flexible reporting tool. However, for the sake of clarity and consistency, let's identify the primary fields that users should focus on completing.
-
-The primary fields that appear most relevant are:
-
-*   Shift Details (field 2)
-*   Scheduled Shift (field 3)
-*   Team Member Details (field 5)
-*   Service Level (field 6)
-*   Shift Report (field 8)
-
-These fields likely provide crucial information about the shift being reported, including its start and end times, location, personnel involved, service level, and any notable events or outcomes.
-
-With this understanding, let's proceed to create a user-facing help guide for the form.
-
-</thinking>
-
 # mechanical_services_shift_report - Help Guide
 ## Purpose
 The mechanical_services_shift_report form is designed to document and track details about mechanical services provided during shifts. It is a flexible reporting tool that allows users to submit information with varying degrees of detail.

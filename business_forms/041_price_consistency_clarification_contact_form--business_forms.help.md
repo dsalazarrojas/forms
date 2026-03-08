@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help customers clarify inconsistencies in pricing, allowing them to contact the relevant customer support team with their concerns. The form is intended for customers who have encountered an issue with the price of a product or service. It's crucial to ensure that each customer's issue is properly understood and addressed by the correct support team. To avoid duplication of effort, please use this form only for price-related concerns.
-
-</thinking>
-
 # price_consistency_clarification_contact_form - Help Guide
 ## Purpose
 

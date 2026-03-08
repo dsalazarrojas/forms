@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Digital Shelf Integration Request Form", we need to consider the following:
-- The form is used for requesting integration with digital platforms such as Shopify, Magento, and WooCommerce.
-- It is likely intended for e-commerce teams and IT teams, so we need to explain each field in a way that is clear and concise for these users.
-- The form fields include status options for each team (ecommerce and IT), integration platform, integration type, product type, and additional notes. There also fields for integration date and time, as well as email and phone number fields.
-- To avoid duplicating efforts, we need to check if the end user has already submitted a similar request and prevent duplicate submissions if possible.
-
-</thinking>
-
 # Digital Shelf Integration Request Form - Help Guide
 ## Purpose
 

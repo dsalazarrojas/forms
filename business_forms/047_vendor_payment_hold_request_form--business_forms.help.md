@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used by internal staff to request a payment hold on a vendor's invoice. The payment hold is typically required in situations where the vendor has not yet met the expected payment terms or conditions. To avoid unnecessary payment holds, the form should only be filled out in instances where a payment hold is truly warranted. 
-
-Please make sure to fill out this form accurately and provide sufficient reason for the payment delay, so that the vendor can be notified and understands the delay. 
-
-The form will be reviewed by our finance team before taking further action.
-</thinking>
-
 # Vendor Payment Hold Request Form - Help Guide
 
 ## Purpose

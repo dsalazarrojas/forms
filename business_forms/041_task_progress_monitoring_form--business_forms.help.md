@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Task Progress Monitoring Form - Help Guide
 
 ## Purpose

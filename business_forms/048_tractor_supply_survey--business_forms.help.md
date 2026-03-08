@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about tractor supply in different locations. The form is split into multiple sections, each focusing on a specific aspect of tractor supply. The form is intended to be completed by users who want to provide feedback or input on tractor supply in their area.</thinking>
-
 # Tractor Supply Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect information about tractor supply in different locations. This form is designed to help gather feedback and input from users about tractor supply in their area.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely part of a company's HR or HRIS (Human Resource Information System) system, used to plan and record employee absences. The goal is to ensure a smooth handover and minimize disruptions during an employee's absence. The form might be used to inform colleagues, team leads, or managers about upcoming absences, enabling them to adjust work schedules and plans accordingly.
-</thinking>
-
 # Content Calendar Planning Absence Form - Help Guide
 ## Purpose
 This form is designed to help employees plan and record their absences for content creation and planning purposes. It gathers essential information about the employee's absence, including start and end dates, reason, and handover plan.

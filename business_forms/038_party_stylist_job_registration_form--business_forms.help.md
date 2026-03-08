@@ -1,6 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Party Stylist Job Registration Form, we need to understand its purpose and ensure that it is not being duplicated. The Party Stylist Job Registration Form is designed to collect information from potential party planners and stylists who want to offer their services to clients. This form will help us verify the contact information and qualifications of these individuals. We need to make sure that this form is not being filled out by people who are already registered or have been banned from the platform, to prevent duplication of services and maintain data integrity.</thinking>
-
 # Party Stylist Job Registration Form - Help Guide
 ## Purpose
 The Party Stylist Job Registration Form is designed to collect information from potential party planners and stylists who want to offer their services to clients. This form will help us verify the contact information and qualifications of these individuals.

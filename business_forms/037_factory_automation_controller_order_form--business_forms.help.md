@@ -1,11 +1,3 @@
-<thinking>
-This form is used to control and manage factory automation systems. It's a crucial tool for ensuring that all factory automation systems are properly ordered, tracked, and maintained. 
-
-The form is designed to be completed by factory administrators, engineers, or other authorized personnel who need to place orders for new or replacement factory automation controllers. 
-
-Please ensure this form is only used for its intended purpose and that all fields are completed accurately and thoroughly. 
-</thinking>
-
 # factory_automation_controller_order_form - Help Guide
 ## Purpose
 The factory automation controller order form is a crucial tool for factory administrators to order and manage factory automation controllers.

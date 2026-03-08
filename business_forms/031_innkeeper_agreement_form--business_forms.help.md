@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for Innkeepers to document their agreements with property owners. 
-The form collects information about the innkeeper's contact details, the property's address, and the agreement terms. 
-The purpose of this form is to standardize and record the innkeeper's agreements. 
-It is essential to ensure that all innkeepers complete the form accurately and thoroughly, as it is a vital document for both parties involved. 
-Please check that you are using the correct form and that all the required fields are filled.
-</thinking>
-
 # Innkeeper Agreement Form - Help Guide
 ## Purpose
 The Innkeeper Agreement Form is used to document and standardize agreements between innkeepers and property owners.

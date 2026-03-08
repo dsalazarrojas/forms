@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect billing information and payment details from clients for fleet services. This form is likely used for internal billing purposes within a business or organization, and it appears to be a straightforward form for capturing essential payment and vehicle-related data.
-</thinking>
-
 # Fleet Services Billing Form - Help Guide
 ## Purpose
 The Fleet Services Billing Form is designed to collect billing information and payment details from clients for fleet services. This includes capturing payment methods, amounts, due dates, and status of payments.

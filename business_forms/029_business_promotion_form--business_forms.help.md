@@ -1,11 +1,3 @@
-<thinking>
-
-Before we begin, let's ensure we're working with the correct form. The Business Promotion Form is a collection of questions and fields designed to gather information from customers about their shopping habits, interests, and demographics. This form should help us better understand our audience and tailor our marketing and product offers to meet their needs.
-
-To avoid unnecessary duplication of effort, we should only proceed with the form if it is indeed intended for customer engagement and outreach purposes.
-
-</thinking>
-
 # Business Promotion Form - Help Guide
 ## Purpose
 The Business Promotion Form is a form designed to gather information about your shopping habits, interests, and demographics. This information helps us better understand our audience and tailor our marketing and product offers to meet your needs.

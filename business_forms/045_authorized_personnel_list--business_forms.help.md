@@ -1,7 +1,3 @@
-<thinking>...The Authorized Personnel List is a document that outlines the personnel authorized to access certain areas, systems, or resources within the organization. The form is used to track and approve personnel authorized to perform specific tasks or access specific areas. Before creating this form, ensure that you are aware of the current list of authorized personnel and any changes that may affect the existing list. Also, check that the changes do not duplicate or conflict with existing authorizations.
-
-</thinking>
-
 # Authorized Personnel List - Help Guide
 ## Purpose
 The Authorized Personnel List is a document that outlines the personnel authorized to access certain areas, systems, or resources within the organization.

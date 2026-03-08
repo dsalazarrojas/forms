@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information related to job details, including job title, staff names, dates, times, work descriptions, materials used, files, and specific tasks. The form is meant to be completed by staff members when reporting on a job that has been completed. It's essential that the form is completed accurately and thoroughly to ensure that all relevant information is captured.
-</thinking>
-
 # Job Form - Help Guide
 
 ## Purpose

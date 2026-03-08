@@ -1,7 +1,3 @@
-<thinking>Before we dive into the detailed instructions for completing the "Construction Project Completion Offboarding Form", let's first consider the context and purpose of this form. This form is designed to ensure that all necessary steps for offboarding a construction project are properly completed and documented. It's essential to review the project details and ensure that every item is thoroughly checked to prevent any potential issues or oversights. The form should only be completed by authorized personnel, as it involves sensitive information and critical project details.
-
-Please review the form carefully and ensure you're submitting accurate information. If you're unsure about any part of the process, please reach out to your supervisor or the designated offboarding manager for guidance.</thinking>
-
 # Construction Project Completion Offboarding Form - Help Guide
 ## Purpose
 The Construction Project Completion Offboarding Form is a comprehensive guide that ensures all necessary steps for offboarding a construction project are properly completed and documented.

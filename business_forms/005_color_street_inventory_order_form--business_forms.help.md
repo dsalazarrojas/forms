@@ -1,13 +1,3 @@
-<thinking>... 
-
-This form is designed to collect information for the Color Street Inventory Order Form. The form is meant to be used by stylists to order inventory products. The purpose of the form is to provide the necessary details for the order, including the stylist's ID, shipping information, and payment method. 
-
-The form is divided into two sections: "Inventory Order Selection" and "Shipping and Payment". The first section is used to select the number of different types of sets, while the second section is used to choose the shipping method and payment method. 
-
-The form is required to be completed for the order to be processed. The "Stylist ID Number" and "Email for Order Confirmation" fields are required for identification and order confirmation purposes. 
-
-... </thinking>
-
 # Color Street Inventory Order Form - Help Guide
 ## Purpose
 The Color Street Inventory Order Form is a form used by stylists to order inventory products. It is used to provide all necessary details for the order, including stylist information and shipping and payment methods.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help potential applicants submit their applications for the Innovation Consulting Pilot Program. To determine relevance and avoid duplication, please make sure:
-* You have a clear understanding of what the Innovation Consulting Pilot Program is about. If not, review the program's description or ask your supervisor/HR representative for more information.
-* You've checked with your supervisor/HR representative if someone has already submitted an application for you or on your behalf.
-</thinking>
-
 # Innovation Consulting Pilot Program Application - Help Guide
 ## Purpose
 The Innovation Consulting Pilot Program is a unique opportunity for employees to develop their innovation consulting skills and knowledge. By participating in this program, you will work closely with experienced innovation consultants to enhance your abilities in identifying and solving business challenges.

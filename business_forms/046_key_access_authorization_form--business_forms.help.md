@@ -1,10 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect information for Key Access Authorization. It is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI. The form can be used, modified, and even sold without restriction, with proper credit given. 
-The form "key_access_authorization_form" is designed to gather data for a key access authorization process. It may have been generated based on a specific industry or category, such as business.
-To ensure the form's accuracy and relevance, please check that the industry and category it was generated for match your specific needs. 
-If the form's purpose, structure, or data requirements do not align with your needs, it's essential to review and adjust the form accordingly.
-</thinking>
-
 # key_access_authorization_form - Help Guide
 ## Purpose
 This form is designed to collect information for Key Access Authorization.

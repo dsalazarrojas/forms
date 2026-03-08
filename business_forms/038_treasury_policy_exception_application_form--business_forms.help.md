@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for exceptions to the company's Treasury Policy, which allows employees to request permission to deviate from standard procedures for specific business needs or circumstances. This form is intended for employees who require an exception to standard treasury procedures. Please only submit one exception request per form. 
-
-</thinking>
-
 # Treasury Policy Exception Application Form - Help Guide
 ## Purpose
 The Treasury Policy Exception Application Form is used to request exceptions to the company's Treasury Policy. Employees can fill out this form to seek permission to deviate from standard procedures for specific business needs or circumstances.

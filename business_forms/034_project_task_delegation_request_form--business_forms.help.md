@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request the delegation of tasks to team members or other stakeholders in a project. The form collects relevant information to facilitate the task delegation process. The form is typically filled out by project managers, team members, or other stakeholders who need to assign tasks to specific team members. The purpose of this form is to ensure that tasks are accurately and efficiently assigned to the right team members.
-</thinking>
-
 # Project Task Delegation Request Form - Help Guide
 ## Purpose
 This form is designed to request the delegation of tasks to team members or other stakeholders in a project. It ensures that tasks are accurately and efficiently assigned to the right team members.

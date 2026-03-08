@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a help guide for the provided form. The form is titled "Machine Commissioning Checklist" and seems to be related to electrical systems and commissioning processes. It appears to be a comprehensive form with multiple fields for various electrical systems. Before proceeding, I will review the form's purpose and ensure that I don't duplicate any information or create unnecessary sections.</thinking>
-
 # Machine Commissioning Checklist - Help Guide
 ## Purpose
 The Machine Commissioning Checklist is a form used to gather information about the commissioning process of electrical systems. This form is designed to ensure that all necessary steps and checks are performed during the commissioning process. It appears to be a comprehensive form covering various aspects of electrical systems commissioning.

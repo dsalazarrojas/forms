@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed for workers to provide information about themselves for internal business purposes.
-  Before filling out this form, ensure that you have permission to do so, and that you are not duplicating your information. 
-  This form should only be filled out once, and you should not submit multiple forms with the same information.
-</thinking>
-
 # workers_profile_form - Help Guide
 ## Purpose
 The workers_profile_form is a form designed for workers to provide their personal and professional information for internal business purposes.

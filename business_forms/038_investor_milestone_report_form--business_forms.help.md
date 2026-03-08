@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be for collecting milestone information and progress from an investor. It likely serves as a tool for project managers or team members to update the status of project milestones, track progress, and obtain signoff from investors.
-The fields seem to cover a range of information, including investor comments, milestone status, expected and actual completion dates, signoff status, and final signoff complete status.
-To ensure that the form is used correctly, it would be helpful to clarify that each field is required or optional, and provide guidance on what type of input is expected for each field.
-</thinking>
-
 # Investor Milestone Report Form - Help Guide
 ## Purpose
 The Investor Milestone Report Form is used to collect and track milestone progress and status from investors. This form is intended to be completed by project managers or team members to provide updates on project status and obtain signoff from investors.

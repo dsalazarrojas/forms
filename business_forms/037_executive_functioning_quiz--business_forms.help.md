@@ -1,10 +1,3 @@
-<thinking>
-  This guide will cover the "Executive Functioning Quiz" form, which is designed to assess an individual's executive functioning skills, such as cognitive, emotional, and social skills. This form is used to evaluate the respondent's ability to perform tasks that require executive functions like planning, organization, time management, self-regulation, and metacognition.
-  Please note that this form may be used in educational or clinical settings to help identify areas of strength and weakness in executive functioning skills.
-  Before filling out this form, ensure that the information provided is accurate and relevant to the context in which it will be used.
-  This form is intended to be filled out by a single individual, and each question is designed to be completed by the individual themselves. However, in some cases, an assistant may help with inputting information into the form.
-</thinking>
-
 # Executive Functioning Quiz - Help Guide
 ## Purpose
 The Executive Functioning Quiz is designed to assess an individual's executive functioning skills, including cognitive, emotional, and social skills.

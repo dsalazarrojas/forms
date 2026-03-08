@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help project managers, stakeholders, and team members evaluate and mitigate risks associated with projects. It is meant to be used during project planning and review phases to identify potential risks, assess their severity, and implement strategies to minimize their impact. Before filling out this form, ensure that the project category has been selected and the risk level assessed. This form should not be filled out for every project, only for those that require risk evaluation.
-</thinking>
-
 # Project Risk Mitigation Evaluation Form - Help Guide
 ## Purpose
 The Project Risk Mitigation Evaluation Form is a tool used to assess and mitigate potential risks associated with projects. It helps project managers, stakeholders, and team members identify, evaluate, and prioritize risks, and develop strategies to minimize their impact.

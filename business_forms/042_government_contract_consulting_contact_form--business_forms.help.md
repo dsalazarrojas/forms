@@ -1,7 +1,3 @@
-<thinking>
-This form will likely be used by government contract consultants to contact our team for consulting services. I'll need to check if this form is being used for the intended purpose and not for other purposes, such as general inquiries. It's also possible that this form will be used by people outside of the government sector, so I'll need to ensure that the explanations are clear and not assuming prior knowledge of government contracts or procedures.
-</thinking>
-
 # Government Contract Consulting Contact Form - Help Guide
 ## Purpose
 The Government Contract Consulting Contact Form is designed for government contract consultants to contact your team for consulting services. Fill out this form to get in touch with us and receive assistance on government contract matters.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to verify media coverage, likely for journalistic organizations or media outlets to record and report their coverage of a specific event, issue, or topic. This form is designed to gather information about the publication's name, date of coverage, type of publication (e.g., newspaper, magazine, online), and the name of the journalist involved. The form is intended to be a simple and efficient way to collect relevant details from media publications, possibly for tracking, archiving, or research purposes. It is not affiliated with any specific form platform and is a custom adaptation for this specific use case. Before using this form, it is essential to ensure that it aligns with your organization's specific needs and requirements, and you may need to adjust or add fields as necessary.</thinking>
-
 # media_coverage_verification_form - Help Guide
 ## Purpose
 The media_coverage_verification_form is designed to collect and verify information about media coverage of events, issues, or topics. This form helps media outlets, organizations, or researchers gather relevant details from publications, such as publication names, dates, types, and journalists involved.

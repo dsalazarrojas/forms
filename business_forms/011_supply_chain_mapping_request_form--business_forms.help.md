@@ -1,5 +1,3 @@
-<thinking>Supply Chain Mapping Request Form is used to collect information about companies that participate in the supply chain, including contact and location information. This form helps us understand how the supply chain is structured and how information flows between companies. Please fill out this form only once per company. If you have already submitted this form, do not submit it again.</thinking>
-
 # Supply Chain Mapping Request Form - Help Guide
 ## Purpose
 The Supply Chain Mapping Request Form is used to collect information about companies that participate in the supply chain. This form helps to understand how the supply chain is structured and how information flows between companies.

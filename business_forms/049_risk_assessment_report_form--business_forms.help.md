@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to provide a systematic way of assessing risks in the workplace. It is used by employees to identify and report potential risks that may impact the organization. The form should only be used to report risks that have a significant impact on the company.
-Please ensure you are only reporting risks that fit the provided options for "Risk Category" and follow the instructions below to complete the form.
-</thinking>
-
 # Risk Assessment Report Form - Help Guide
 ## Purpose
 The Risk Assessment Report Form is designed to help employees identify and report potential risks that may impact the organization. It is used to gather information on risks that have a significant impact on the company.

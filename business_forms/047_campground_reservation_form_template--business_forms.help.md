@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from guests who are making a reservation at a campground. It's intended to gather essential details such as contact information, accommodation preferences, and payment information. To ensure the accuracy of the data collected, it's crucial that each field is completed thoroughly and honestly. Please make sure to review each section carefully before submitting the form. This form is part of the business forms category, and its completion is required for a successful reservation and to ensure the guest's experience is tailored to their needs. The form fields are designed to be clear and concise, with each label serving as a clear indication of what the field represents.
-
-</thinking>
-
 # Campground Reservation Form Template - Help Guide
 
 ## Purpose

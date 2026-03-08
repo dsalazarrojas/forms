@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to facilitate the creation and management of SEO services bills. It captures essential information required for billing purposes, including service type, client details, payment method, and billing cycles. It's essential to fill out this form accurately to avoid any discrepancies or errors in the billing process. Ensure that you have all the necessary information before filling out the form, and if you're unsure about any field, please refer to the explanation below.</thinking>
-
 # seo_services_billing_form - Help Guide
 ## Purpose
 The SEO services billing form is a tool to create and manage SEO services bills, ensuring accurate and efficient billing processes.

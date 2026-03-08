@@ -1,6 +1,3 @@
-<thinking>
-This form is likely used by plant or facility personnel to conduct a thorough inspection of a boiler room. To ensure accurate completion, please review the form carefully before submitting it. This form does not appear to be duplicated; it is likely used for a single inspection instance.</thinking>
-
 # Boiler Room Inspection Form - Help Guide
 ## Purpose
 This form is used to record the results of a boiler room inspection, providing a comprehensive overview of the inspected equipment and its conditions. The form is designed to help identify potential issues and ensure the safe operation of the boiler room.

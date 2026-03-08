@@ -1,12 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the driver medical evaluation form. The form is designed to collect medical evaluation information from drivers. Each field is labeled clearly, and the instructions will explain the purpose of each field to the user. This guide will ensure that users understand how to complete the form accurately and efficiently.
-
-The form collects various medical evaluation information, including driver's name, medical certification status, examination date, and type. The guide will also address any potential issues with date fields, as these fields are critical for accurate medical evaluation.
-
-The guide will be divided into four sections: Purpose, How to Complete This Form, Field-by-Field Explanation, and Tips. Each section will provide clear and concise information for the user to understand the form's purpose and completion process.
-
-</thinking>
-
 # driver_medical_evaluation_form - Help Guide
 ## Purpose
 The driver medical evaluation form is designed to collect necessary medical evaluation information from drivers. This information is vital for medical professionals to accurately assess the driver's fitness to operate a vehicle safely.

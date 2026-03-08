@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Procurement Request Communication Form - Help Guide
 ## Purpose
 The Procurement Request Communication Form is a tool used to communicate with internal stakeholders and customers about procurement requests. Fill out this form to provide details about the items or services being requested, including contact information, delivery dates and times, and other relevant details. This form helps ensure that procurement requests are properly documented and tracked for future reference.

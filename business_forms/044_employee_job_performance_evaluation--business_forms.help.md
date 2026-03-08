@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to evaluate the performance of an employee, assessing their skills, job areas, and overall job performance. This form is likely used by managers or reviewers to conduct regular evaluations, identify areas of improvement, and provide feedback to employees. It's essential to ensure the form is completed accurately to provide valuable insights for employee growth and development. 
-</thinking>
-
 # Employee Job Performance Evaluation - Help Guide
 ## Purpose
 This form is used to evaluate the performance of an employee, assessing their skills, job areas, and overall job performance. It's essential to fill out this form accurately to provide valuable insights for employee growth and development.

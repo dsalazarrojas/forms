@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from users who want to practice their esports skills. This form is used to collect their contact details, game preferences, experience level, and other relevant details to create sessions with the caster (a person who comments on esports events). The form is designed to be straightforward and easy to fill out. Before proceeding, make sure you're not already registered with us. If you're unsure, feel free to check your account status. If you are already registered, your account might be inactive. Reach out to us if you need help reactivating it.
-</thinking>
-
 # esports_caster_practice_booking_form - Help Guide
 ## Purpose
 This form is for users who want to book a practice session with our caster.

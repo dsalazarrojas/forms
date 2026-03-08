@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the provided YAML fields. The form seems to be related to the termination of a lease agreement between a tenant and a landlord. The fields include various information about the lease, such as the tenant's and landlord's signatures, lease dates, reason for termination, and termination fees. The form likely serves as a formal document to record the termination of a lease agreement and provide necessary information for both parties involved.
-
-Before we proceed, let's ensure we're not duplicating any existing guides.
-
-</thinking>
-
 # Lease Termination Authorization Form - Help Guide
 ## Purpose
 This form is used to formalize the termination of a lease agreement between a tenant and a landlord. It collects necessary information to document the termination of the lease and ensure both parties are in agreement on the terms of the termination.

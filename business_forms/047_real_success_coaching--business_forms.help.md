@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for creating and managing "real success coaching" forms. It's essential to ensure that the form is filled out correctly and accurately to avoid any confusion or errors in the coaching process. The form should not be filled out more than once for the same purpose, as this would create duplicate records. This guide will walk you through the process of completing the "real_success_coaching" form step-by-step.
-</thinking>
-
 # real_success_coaching - Help Guide
 ## Purpose
 The "real_success_coaching" form is used to create and manage coaching forms for real success initiatives.

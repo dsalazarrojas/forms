@@ -1,25 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from sponsors who want to support a business or organization financially. The form is designed to gather details about the sponsor, including their name, contact information, payment method, and payment terms. This form is intended for internal use and is not publicly accessible.
-The form has 15 fields, each with a specific label and type. The fields can be filled in using the following types:
-* text: allows users to enter a text string
-* email: allows users to enter an email address
-* number: allows users to enter a numeric value
-* select_multiple: allows users to select multiple options from a list
-* select_one: allows users to select one option from a list
-* note: allows users to enter a note or description
-
-The form is not strictly required, meaning that users can leave some fields blank if they are not applicable. However, some fields are marked as required, indicating that they must be filled in before submitting the form.
-
-The fields are organized into the following sections:
-* Sponsor Information: collects the sponsor's name, email, and other contact details
-* Payment Information: collects the payment method and terms
-* Sponsor Type: collects the type of sponsor (Sponsor, Co-Sponsor, Donor)
-* Contact Information: collects the sponsor's organization, phone number, address, city, state, and zip
-* Additional Information: collects any additional notes or comments from the sponsor
-
-This form is intended for internal use and is not publicly accessible. Please ensure that all required fields are filled in before submitting the form.
-</thinking>
-
 # sponsor_sign_up_and_payment - Help Guide
 ## Purpose
 The purpose of this form is to collect information from sponsors who want to support a business or organization financially.

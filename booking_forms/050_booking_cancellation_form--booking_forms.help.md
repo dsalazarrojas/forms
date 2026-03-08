@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Booking Cancellation Form" in a format that is easy to read and understand. I will base the guide on the provided YAML fields, ensuring it is concrete, concise, and practical. I will use Markdown structure as requested.</thinking>
-
 # Booking Cancellation Form - Help Guide
 ## Purpose
 This form is used for guests to provide information related to their booking cancellation, including the reason for cancellation, original booking details, and refund preferences. This guide will walk you through each section of the form to ensure you complete it accurately and effectively.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to request approval for a label design. The form asks for basic contact information (first name, last name, and email) and department information (department and role). It also asks for the date of birth and date of last review, which might be used to assess the user's eligibility for certain types of label approval. The form is not designed to collect sensitive or confidential information. This form is not intended to be used for any other purpose than its intended use case. The form is not designed to be used for any other purpose than its original intention. I will now provide a help guide based on the form's schema.</thinking>
-
 # Label Design Approval Request Form - Help Guide
 ## Purpose
 The Label Design Approval Request Form is designed to collect information from users who wish to request approval for a label design. It is intended to be used for internal purposes, such as label design approval requests.

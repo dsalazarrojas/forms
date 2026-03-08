@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to collect customer feedback and audit customer experience. The purpose of this form is to gather data about a customer's experience with a company, including their level of satisfaction, the category of the issue or concern, and any additional comments they may have. It also collects information about the customer's contact details and the details of the auditor who conducted the audit. This form is likely used in a business setting where customer feedback is valuable for improving services and products.
-The form is designed to be completed by customers, who will provide their feedback and audit details, and by auditors, who will collect and review the feedback. It's essential to ensure that the form is completed accurately and thoroughly to gather the most valuable information.
-</thinking>
-
 # Customer Feedback Audit Form - Help Guide
 ## Purpose
 This form is used to collect customer feedback and audit customer experience. It helps to gather data about a customer's satisfaction level, category of the issue, and any additional comments they may have. This information is valuable for improving services and products.

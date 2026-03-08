@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to changes to a project's scope. This form helps project managers and team members to document and track scope change requests in a structured and organized way. It's essential to ensure that all relevant details are captured for proper evaluation and approval of the request. 
-
-Before starting to fill out this form, please check if a similar request has been made in the past to avoid duplication. If you're unsure about the purpose or scope of the project, discuss it with the project manager or team lead before proceeding.
-</thinking>
-
 # Project Scope Change Request Form - Help Guide
 ## Purpose
 The Project Scope Change Request Form is used to collect and track changes to a project's scope.

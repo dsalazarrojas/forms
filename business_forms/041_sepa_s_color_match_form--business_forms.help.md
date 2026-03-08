@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect color matching information from users, likely for use in product recommendations or customer targeting. The form is split into multiple pages, each focused on a specific aspect of color matching. The purpose of this form is to gather detailed information about the user's color preferences and physical characteristics. Each field is designed to provide options or input fields for users to input their preferences. The form's design is likely intended for internal use within a business or organization, potentially to inform marketing or product development decisions.
-
-</thinking>
-
 # Sepa’s Color Match Form - Help Guide
 ## Purpose
 

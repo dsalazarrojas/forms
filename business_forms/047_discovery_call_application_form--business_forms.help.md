@@ -1,8 +1,3 @@
-<thinking>
-The Discovery Call Application Form is designed to collect user information and other relevant details for a discovery call between a sales representative and a potential client. This form will help us understand the user's requirements and preferences, and enable us to tailor the discovery call to their needs. 
-The form is used to create new opportunities and track potential leads. Please make sure you're filling out this form for a valid use case, and not for testing or experimentation. 
-</thinking>
-
 # Discovery Call Application Form - Help Guide
 ## Purpose
 The Discovery Call Application Form is designed to provide a structured way for users to input their information and preferences for a discovery call. This form helps us understand the user's requirements and tailor the discovery call to their needs.

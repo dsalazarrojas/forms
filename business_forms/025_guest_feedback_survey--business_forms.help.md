@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect feedback from guests who have stayed at a hotel or accommodation. The purpose of this form is to gather information about the guest's experience, including their overall satisfaction, rating of their stay, and feedback on various aspects of their visit such as services, room environment, staff, location, and amenities. This form will help us understand areas of improvement and provide better services to our guests in the future.
-
-The following guide will walk you through completing this form.
-
-Before you start, please note that some fields are optional, but filling out all the fields will provide us with more accurate and comprehensive feedback.
-
-</thinking>
-
 # Guest Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from guests who have stayed at a hotel or accommodation.

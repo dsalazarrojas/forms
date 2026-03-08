@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication of efforts and ensure the form is correctly filled out, please make sure you are only filling this form once and not creating multiple submissions. Also, ensure that all required fields are correctly filled out before proceeding.
-</thinking>
-
 # Sales Agent Accreditation Application - Help Guide
 ## Purpose
 This form is designed for sales agents to be accredited to represent and work on behalf of a company. The form gathers information about the sales agent, their company, and the documents uploaded.

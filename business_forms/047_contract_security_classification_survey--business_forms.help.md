@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about contract security classification, which is an important aspect of managing sensitive and confidential information within an organization. The purpose of this form is to gather details about the classification of contracts, including the classification level, sensitive information types, data handling requirements, access restrictions, and other relevant details. This form should only be used by authorized personnel within the organization.
-
-Before starting, please note that the information collected through this form will be used to classify and manage sensitive and confidential information. Please ensure that you have the necessary permissions and clearances to complete this form accurately.
-
-Please also be aware that some fields may require additional clarification or documentation to ensure accurate classification.
-
-</thinking>
-
 # Contract Security Classification Survey - Help Guide
 ## Purpose
 This form is used to gather information about contract security classification for the purpose of managing sensitive and confidential information within the organization.

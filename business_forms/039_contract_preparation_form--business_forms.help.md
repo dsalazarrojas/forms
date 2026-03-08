@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information to prepare a contract between the company and an external entity. The form asks for details about the requestor, such as their name and title, as well as information about the other party involved, including their name, type, address, and contact details. The form also collects details about the contract itself, including its value, duration, and type. Additionally, it asks for information on who needs to approve the contract and the urgency level of the request. This form is intended to facilitate the preparation of a comprehensive contract that meets the necessary requirements and includes all necessary details.
-
-Before filling this form, ensure that you have all the required information and that you are not duplicating any existing contracts. If you are unsure about any field, please consult with the relevant department or the contract team.
-
-</thinking>
-
 # Contract Preparation Form - Help Guide
 ## Purpose
 

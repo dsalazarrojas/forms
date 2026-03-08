@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Meal And Rest Breaks Policy - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the Sale Proceeds Release Form, it's essential to establish the context and purpose of this form. This form is used to document and verify the sale or transfer of a property, ensuring that all parties involved, including the client and the organization, are aware of the details and terms of the transaction. By accurately filling out this form, the client's interests are protected, and the organization can maintain transparency and compliance. Please ensure that you're filling out this form for a valid reason, and if you're unsure about any part of the process, consult the relevant personnel or seek guidance from the organization. This form should not be used for duplicate or fictional purposes.</thinking>
-
 # Sale Proceeds Release Form - Help Guide
 
 ## Purpose

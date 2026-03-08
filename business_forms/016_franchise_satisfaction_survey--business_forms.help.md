@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gauge the satisfaction of franchisees regarding their experience with the franchisor. It collects information on various aspects of communication, responsiveness, support, and overall satisfaction. 
-
-The form is intended to gather feedback from franchisees on their interactions with the franchisor, including communication methods, effectiveness, and follow-up actions. It also seeks information on their ratings and comments on the franchisor's performance.
-
-To ensure accuracy and completeness of responses, the form should not be filled out by multiple users concurrently. Please ensure that each user fills out the form independently.
-
-</thinking>
-
 # Franchise Satisfaction Survey - Help Guide
 ## Purpose
 The Franchise Satisfaction Survey is designed to collect feedback from franchisees about their experience with the franchisor. It helps in identifying areas of improvement and areas of success, allowing us to better serve our franchisees.

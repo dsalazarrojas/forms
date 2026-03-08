@@ -1,14 +1,3 @@
-<thinking>
-This form is for sales agents who are interested in working with your company. To confirm that this form is relevant for your use case, please consider the following:
-
-* You are a sales agent looking to work with a company.
-* You have experience in sales, marketing, management, finance, or a combination of these areas.
-* You are able to provide detailed information about your experience, job title, job description, job requirements, and job duties.
-* You are able to specify your availability, including available hours, days, weekends, and holidays.
-* You have a preferred method of contact and at least one other contact method.
-
-</thinking>
-
 # sales_agent_application - Help Guide
 ## Purpose
 This form is designed to help sales agents apply for work with your company. It collects information about their experience, job title, job description, job requirements, availability, and contact methods.

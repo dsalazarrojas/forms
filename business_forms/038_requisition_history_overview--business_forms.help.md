@@ -1,5 +1,3 @@
-<thinking>...This form is used to provide a summary of historical requisition data. It's likely used for administrative or analytical purposes, possibly to track the history of requisitions within an organization. To ensure the form is used effectively, please note that it's not intended for creating new requisitions. If you're looking to create a new requisition, please use the "Create Requisition" form instead.</thinking>
-
 # Requisition History Overview - Help Guide
 ## Purpose
 The Requisition History Overview form is designed to provide a summary of historical requisition data. It's intended for administrative or analytical purposes, such as tracking the history of requisitions within an organization.

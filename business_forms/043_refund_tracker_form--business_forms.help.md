@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "refund_tracker_form" form. The form's purpose is to track refund information for orders. This form will likely be used by customer support staff to update the status of refunds, enter refund details, and keep track of customer communication. We should assume that the end users have basic knowledge of refunds and their purpose. The form's fields should be explained in a way that is clear and concise, with each field's purpose and required status highlighted. We should also include some tips to help end users navigate the form efficiently.
-
-</thinking>
-
 # refund_tracker_form - Help Guide
 ## Purpose
 The refund_tracker_form is used to track refund information for orders. It allows customer support staff to update the status of refunds, enter refund details, and keep track of customer communication.

@@ -1,7 +1,3 @@
-<thinking>
-The form "Work Order Request" is designed to collect information about work orders, including facility, location, and work order details. The form is intended for internal use within a business organization and is likely used to track and manage work orders. Before submitting a work order request, ensure that you have permission to do so and that the necessary information is accurate and complete. Duplicate work orders can be time-consuming and lead to incorrect processing, so please be aware of existing work orders before submitting a new request. Ensure that you provide clear and accurate information for each field to facilitate proper processing and management of the work order.
-</thinking>
-
 # Work Order Request - Help Guide
 ## Purpose
 This form is used to submit a new work order request. Work orders are used to track and manage tasks and projects within a business organization.

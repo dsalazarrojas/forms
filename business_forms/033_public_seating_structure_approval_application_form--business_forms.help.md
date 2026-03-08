@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for business users to obtain approval on the public seating structure. The approval process ensures that the seating structure meets the necessary standards and requirements before it is finalized. This form is used to collect information about the user, the seating structure, and other relevant details. Please note that this form is not intended for general public use and is meant for internal business purposes only. It is essential to review and fill this form carefully to ensure accurate and correct information is submitted. To avoid duplication, please check that you have not submitted this form previously before proceeding.
-
-</thinking>
-
 # Public Seating Structure Approval Application Form - Help Guide
 
 ## Purpose

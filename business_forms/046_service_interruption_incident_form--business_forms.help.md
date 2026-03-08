@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to report a service interruption incident within an organizational setting. It is used to document and track service interruptions, their impact, and the progress of resolution. The goal is to ensure that all relevant information is collected in a standardized manner to facilitate incident response and recovery.
-This form should only be completed by individuals authorized to report incidents, and should not be duplicated for the same incident.
-</thinking>
-
 # service_interruption_incident_form - Help Guide
 ## Purpose
 The service interruption incident form is used to report and document service interruptions, including their impact and resolution progress. It helps to standardize the collection of incident information for effective response and recovery.

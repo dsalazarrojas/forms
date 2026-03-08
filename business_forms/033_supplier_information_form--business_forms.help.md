@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect essential information about a supplier. The form is intended for use in a business setting to gather accurate and reliable data about suppliers. This form is not intended for general public use and is meant for internal business purposes only. 
 
 It is crucial that the information submitted is accurate and up-to-date to ensure efficient and effective business operations. Duplicate entries should be avoided to prevent errors and inconsistencies. Before filling out this form, please ensure that you have all the necessary information and that it is accurate.

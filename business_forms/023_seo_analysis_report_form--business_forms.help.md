@@ -1,11 +1,3 @@
-<thinking>
-The "seo_analysis_report_form" form is designed to collect data related to search engine optimization (SEO) analysis for a given website or webpage. This form is used to gather information about the meta tags, meta descriptions, keywords, header tags, and other SEO-related data. The form is intended for use by business analysts, SEO specialists, or other professionals who require detailed SEO data for analysis or reporting purposes.
-
-It's essential to understand that this form is a generic template and might need to be adapted or extended based on specific business needs or requirements.
-
-Please review the form fields carefully and ensure you are filling it out correctly to avoid duplication or unnecessary entries.
-</thinking>
-
 # seo_analysis_report_form - Help Guide
 ## Purpose
 The SEO Analysis Report Form is used to collect data related to search engine optimization (SEO) analysis for a given website or webpage.

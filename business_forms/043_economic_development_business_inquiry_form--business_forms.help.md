@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to inquire about economic development business opportunities. This form aims to gather information about the user's business inquiry, including the nature of their inquiry, type of business, location, project details, status, hours of operation, contact information, project budget, start and end dates, project notes, and any additional business questions. This form is for internal use only and is not intended for public disclosure. Please ensure that the information provided is accurate and relevant to the inquiry being made. If you are unsure about any of the fields, please refer to the guidelines provided.
-</thinking>
-
 # Economic Development Business Inquiry Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is for the registration of a retail blockchain partnership. The form is used to collect information from potential partners who are interested in collaborating with our retail business. The goal is to determine their level of interest, qualifications, and contact details. This form will help us assess whether they are a good fit for our partnership and ensure that we are in line with our business standards. To avoid duplication, please only submit one form per partner. Please review the form carefully and ensure all required fields are completed before submission.
-</thinking>
-
 # Retail Blockchain Partnership Registration - Help Guide
 ## Purpose
 This form is used to register potential partners for our retail blockchain partnership program. It helps us understand their level of interest, qualifications, and contact details.

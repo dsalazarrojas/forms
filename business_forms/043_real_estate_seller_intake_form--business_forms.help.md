@@ -1,7 +1,3 @@
-<thinking>...To provide a helpful guide for the Real Estate Seller Intake Form, I need to ensure the form's purpose and the fields' intent are well understood by the end-users... This form is designed to collect information from real estate sellers, including contact details, property details, and location specifics. It will help in creating a comprehensive database for real estate sales. To avoid duplication of work and ensure accuracy, it's essential to complete the form carefully and follow the instructions below.
-
-</thinking>
-
 # Real Estate Seller Intake Form - Help Guide
 ## Purpose
 The Real Estate Seller Intake Form is designed to collect information from real estate sellers. This form will help us create a comprehensive database for real estate sales.

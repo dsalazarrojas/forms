@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for vendor risk reviews, where organizations assess the risks associated with a particular vendor or third-party entity. The form's purpose is to collect relevant information from vendors to determine their risk level and ensure compliance with regulatory requirements. 
-
-The goal is to provide an easy and streamlined process for both vendors and internal teams to complete and review the form accurately. It's essential to ensure the form is filled out correctly to avoid any potential risks or issues. 
-
-Before starting, please ensure you have all the necessary information and permissions to complete this form, especially if it's being completed by the vendor.
-
-The following form fields should not be repeated or filled out by anyone without permission from the vendor.
-
-</thinking>
-
 # Vendor Risk Review Application Form - Help Guide
 ## Purpose
 This form is used to review and assess the risks associated with a particular vendor or third-party entity. It helps ensure compliance with regulatory requirements and provides an easy and streamlined process for internal teams and vendors to review and complete the form.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to allow customers to book a vehicle repair service with a company. The form has multiple pages with different fields, each requiring specific information from the customer. The form is intended to gather details about the vehicle, customer, and repair options, as well as schedule an appointment and provide contact information. To avoid duplication, customers should only complete one form per vehicle per visit. Completing multiple forms for the same vehicle may cause issues with service scheduling and pricing. Customers are also encouraged to provide clear and accurate information to ensure prompt and efficient service.
-</thinking>
-
 # Vehicle Repair Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers for booking vehicle repair services. It helps our team to efficiently schedule and process your requests.

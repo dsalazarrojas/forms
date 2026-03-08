@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for conducting a background check on an employee, which is a crucial step in the hiring process for an employer. This form ensures that the employer and employee both agree on the terms of the background check, including the type, frequency, and scope of the check. It is essential to complete this form carefully and accurately to maintain the integrity of the background checking process.
-
-</thinking>
-
 # Criminal Record Verification Form - Help Guide
 ## Purpose
 

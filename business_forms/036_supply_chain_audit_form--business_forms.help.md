@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the supply_chain_audit_form is to gather information related to supply chain auditing processes. This form is part of a larger process for evaluating and improving the management of supplies and materials within an organization.
-The form collects data from suppliers, assesses their performance, checks for compliance, and records notes. The assessment section allows users to evaluate multiple options, while the compliance section is a single selection option. The text field for performance and notes allows users to provide more detailed information.
-The form was created using AI-powered form generation, which is a public, original, and non-derivative tool. The form's content is based on publicly available metadata and is intended to be used as a reference or starting point for creating custom forms.
-This form does not collect or use any proprietary data from other form platforms. It can be modified, used, and even sold without any restrictions other than proper attribution.
-If you're looking to use this form for your organization, feel free to modify it as needed and contact the form creator for more information.
-</thinking>
-
 # supply_chain_audit_form - Help Guide
 ## Purpose
 The supply_chain_audit_form is a tool for gathering information related to supply chain auditing processes.

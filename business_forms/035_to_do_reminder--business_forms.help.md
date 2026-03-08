@@ -1,7 +1,3 @@
-<thinking>
-The "To Do Reminder" form is used to create a reminder for a task with a specified deadline. It is essential to fill out this form to create a new reminder that will be visible to the user who created it, as well as to other team members if they are given permission to access the related tools. 
-When filling out this form, be sure to check the "To Do List" field to see if the task has already been completed or not. If it has, you can choose 'True' to mark it as completed.
-</thinking>
 # To Do Reminder - Help Guide
 ## Purpose
 The "To Do Reminder" form is used to create a reminder for a task with a specified deadline. It allows you to set a reminder for a task, which will be visible to you and other team members if they have permission to access the related tools.

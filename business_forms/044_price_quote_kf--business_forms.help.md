@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is relevant and not a duplicate. This form, "Price Quote Kf", is designed to collect customer information for quote purposes. It is not a payment form, and users should not be able to enter sensitive payment information such as credit card numbers. To confirm, let's check if there are any existing forms with similar purposes and labels. If so, we'll review and update this form accordingly.
-</thinking>
-
 # Price Quote Kf - Help Guide
 ## Purpose
 The Price Quote Kf form is designed to collect customer information for quote purposes, allowing you to quickly gather essential details for quote-related tasks.

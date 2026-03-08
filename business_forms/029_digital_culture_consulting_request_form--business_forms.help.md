@@ -1,9 +1,3 @@
-<thinking>...
-To create this form guide, I will first provide a brief internal reasoning block explaining the purpose and context of the form, then I will output the final help guide in Markdown format.
-
-The form "Digital Culture Consulting Request Form" is used for clients or potential clients to submit requests for consulting services related to digital culture, such as strategy, development, and implementation. The form serves as a central point of contact for clients to share their needs, requirements, and project details. This document will provide a step-by-step guide on how to complete the form accurately and effectively.
-
-</thinking>
 # Digital Culture Consulting Request Form - Help Guide
 ## Purpose
 The Digital Culture Consulting Request Form is designed for clients to submit requests for consulting services related to digital culture. This form helps us understand your needs and requirements for digital culture consulting, making it easier for us to provide you with the best possible service.

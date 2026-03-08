@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure this form is relevant and not duplicated, we need to check if there are any similar forms or fields that could be used in place of this form. After reviewing the provided YAML, it appears that this form is designed for customers to book a cruise, and it doesn't seem to overlap with any other forms. The fields seem to be focused on customer information, travel details, and cruise preferences, which should cover the necessary data for a cruise booking process.</thinking>
 
 # Cruise Booking Form - Help Guide

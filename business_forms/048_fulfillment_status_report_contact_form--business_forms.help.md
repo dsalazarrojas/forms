@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to make sure that this form is completed only by those who are supposed to fill it out. Please ensure you have the necessary permission and authority to fill out this form. This form should not be filled out by customers or external users. If you're not sure about your role in filling out this form, please reach out to your team for clarification.
 
 # Fulfillment Status Report Contact Form - Help Guide

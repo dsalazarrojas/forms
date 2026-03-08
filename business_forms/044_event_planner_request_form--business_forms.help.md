@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to gather event-related information from users, such as name, date, time, location, and other relevant details. This form can be used by event planners to collect data on upcoming events and help them organize and manage event information efficiently. To ensure accurate and consistent data collection, please read this guide carefully and complete the form accordingly.
-</thinking>
-
 # Event Planner Request Form - Help Guide
 
 ## Purpose

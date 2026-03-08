@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of requesting changes to the franchise manual, a document that outlines the rules and procedures for franchisees. The form requires the submitter to provide a clear reason for the change, a description of the change, the current version of the manual, the version that preceded it, and the date when the new version will be effective. This information will help the reviewer understand the context of the change and ensure that it aligns with the company's policies and procedures. By filling out this form, franchisees can ensure that their manual revisions are properly reviewed and approved.
-</thinking>
-
 # Franchise Manual Revision Request Form - Help Guide
 ## Purpose
 The Franchise Manual Revision Request Form is a document used to request changes to the franchise manual. This form requires the submitter to provide a clear explanation of the reason for the change, a description of the requested change, and supporting information such as the current and previous versions of the manual, and the date when the new version will be effective.

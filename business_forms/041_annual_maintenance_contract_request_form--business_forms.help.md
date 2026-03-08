@@ -1,7 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the Annual Maintenance Contract Request Form, we should first understand its purpose: the form is designed to collect information from clients or customers for the purpose of creating an annual maintenance contract. This form will help in understanding their needs, requirements, and constraints related to their equipment, systems, or properties that need maintenance.
-</thinking>
-
 # Annual Maintenance Contract Request Form - Help Guide
 ## Purpose
 The Annual Maintenance Contract Request Form is a document used to gather information from clients or customers to create an annual maintenance contract. This form will help in understanding their needs, requirements, and constraints related to their equipment, systems, or properties that need maintenance.

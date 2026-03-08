@@ -1,36 +1,3 @@
-<thinking>
-This form appears to be a daily checklist for a duty manager, designed to track various tasks and activities across different time periods, including morning, afternoon, and evening tasks. The form captures information such as task status, assigned users, task completion dates, and other relevant metadata.
-To ensure that this form is being used effectively, it's essential to understand its purpose and how to complete it correctly. Here's a step-by-step guide to help users navigate the form.
-
-The following fields are present on this form:
-
-*   Morning Checklist: This field is used to record morning tasks and activities.
-*   Afternoon Tasklist: This field is used to record afternoon tasks and activities.
-*   Evening Tasklist: This field is used to record evening tasks and activities.
-*   Morning Notes: This field is used to record any notes related to morning activities.
-*   Afternoon Notes: This field is used to record any notes related to afternoon activities.
-*   Evening Notes: This field is used to record any notes related to evening activities.
-*   Assigned To: This field is used to record the user assigned to perform the task.
-*   Assigned By: This field is used to record the person who assigned the task.
-*   Task Status: This field is used to record the status of the task (active or inactive).
-*   Priority: This field is used to record the priority of the task (yes or no).
-*   Completed Tasks: This field is used to record completed tasks.
-*   Completed Date: This field is used to record the completion date of the task.
-*   Created By: This field is used to record the person who created the task.
-*   Updated By: This field is used to record the person who updated the task.
-*   Created At: This field is used to record the date and time the task was created.
-*   Updated At: This field is used to record the date and time the task was updated.
-*   Assigned Tool: This field is used to record the tool assigned to perform the task.
-*   Category: This field is used to record the category of the task.
-*   Form ID: This field is used to record the unique identifier of the form.
-*   Form Version: This field is used to record the version of the form.
-*   Submitted At: This field is used to record the date and time the task was submitted.
-*   User ID: This field is used to record the user ID of the person who submitted the task.
-*   Status: This field is used to record the status of the task (active or inactive).
-*   Deleted At: This field is used to record the date the task was deleted.
-*   Created At: This field is used to record the date and time the task was created.
-
-</thinking>
 # Duty Manager Daily Checklist - Help Guide
 ## Purpose
 This form is designed to provide a daily record of tasks and activities that need to be performed by the duty manager. It captures relevant metadata such as assigned users, task status, priority, and completion dates.

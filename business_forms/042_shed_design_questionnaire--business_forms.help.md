@@ -1,8 +1,3 @@
-<thinking>
-The shed_design_questionnaire form is designed to collect information from users about their shed design requirements. This form will ask users to select options from various fields to provide details about their shed's design preferences. The form's purpose is to gather essential information for a quote. The form's structure is composed of multiple pages with different types of questions.
-To ensure that the users do not duplicate their efforts, we will check if they have already completed the form before allowing them to submit it.
-</thinking>
-
 # shed_design_questionnaire - Help Guide
 ## Purpose
 The shed_design_questionnaire form is designed to collect information about your shed design requirements. This form will help us provide an accurate quote for your project.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for businesses and individuals to provide contact information and project details to potential smart energy equipment providers. The form will help providers assess and respond to leads in a structured and organized manner. 
 
 This form will guide users through the process of submitting a lead, providing all necessary information for the provider to understand the project requirements and provide accurate quotes or responses.

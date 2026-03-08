@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Channel Partner Lead Submission Form - Help Guide
 
 ## Purpose

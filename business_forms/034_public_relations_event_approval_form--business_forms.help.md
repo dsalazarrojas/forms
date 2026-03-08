@@ -1,6 +1,3 @@
-<thinking> 
-Public Relations Event Approval Form is used for approving and reviewing events in the business. This form helps ensure that events are well-structured and properly documented before they proceed. It's essential to fill this form accurately, as it's a crucial part of event management. Please ensure that you're filling this form for the correct event and that you're not duplicating it unnecessarily. If you're unsure about any field or process, please reach out to your administrator or refer to the business event management guidelines.</thinking>
-
 # Public Relations Event Approval Form - Help Guide
 ## Purpose
 The Public Relations Event Approval Form is designed to gather essential information and facilitate the approval process for public relations events. It ensures that events are properly documented, well-structured, and aligned with business objectives.

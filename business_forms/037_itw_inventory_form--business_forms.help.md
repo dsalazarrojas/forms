@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect and manage information about inventory items within a business setting. The form will help end-users keep track of various details such as item names, quantities, prices, categories, and other relevant data. The form is designed for general use and is not specific to a particular department or team. It is essential to provide accurate and up-to-date information to ensure efficient management and decision-making.
-
-Please note that this form does not require any special permissions or access controls.
-</thinking>
-
 # itw inventory form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the "Multiple Products Order Form" to ensure end-users understand its purpose, how to complete it, and what each field means. I will base the explanation on the provided YAML fields, focusing on clarity, conciseness, and practicality. I will also include a brief internal reasoning block to justify the form's purpose and check for relevance and non-duplication.</thinking>
-
 # Multiple Products Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for ordering multiple products. It is used to gather details about the user, products ordered, and order options to efficiently process and manage orders.

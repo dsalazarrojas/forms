@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for property owners or managers to gather information about a property's foundation and any concerns related to it. The form is used to collect various data points related to the property's foundation, including its type, condition, and any issues that have been reported. The form also asks about the property's ownership status and the purpose of the assessment, as well as the preferred date and time for the assessment.
-
-Please note that this form is used to gather information about the property's foundation and not to perform an actual inspection. The form's purpose is to collect relevant data that will help in making decisions or planning further actions.
-
-Before starting this form, please ensure that you are not duplicating your efforts and that the information gathered will not be redundant. The form's questions are designed to be concise and easy to understand, so please take your time and answer each question accurately.
-</thinking>
-
 # Book A Foundations Assessment - Help Guide
 
 ## Purpose

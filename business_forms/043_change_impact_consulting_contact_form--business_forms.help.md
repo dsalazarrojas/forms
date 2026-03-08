@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather contact information and details from potential clients interested in the consulting services provided by Change Impact Consulting. The form will help the consulting team understand the client's specific needs and requirements for change initiatives, including their industry, job title, and preferred contact method. The form also aims to gather information on the client's current challenges, previous change experience, and preferred services. By filling out this form, potential clients can express their interest in Change Impact Consulting's services and allow the team to provide personalized guidance and support.
-</thinking>
-
 # Change Impact Consulting Contact Form - Help Guide
 ## Purpose
 This form is designed to collect contact information and details from potential clients interested in our consulting services.

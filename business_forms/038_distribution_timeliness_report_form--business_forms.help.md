@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to report on the timeliness of deliveries. It is designed to collect information about delivery performance, delay reasons, and other relevant details. To avoid duplication, please only fill out this form if you have not already reported on this delivery.
-
-Before starting, ensure that you have all necessary information about the delivery at hand. You can fill out this form in multiple pages, allowing you to break down the information into manageable sections. This form is not intended to be a comprehensive report, but rather a way to provide an update on the status of your delivery. 
-
-Please note that some fields may have options such as "Yes" and "No", these indicate whether a particular condition applies to the delivery. If you are unsure about any field, refer to the field-by-field explanation below for guidance.
-
-</thinking>
-
 # Distribution Timeliness Report Form - Help Guide
 ## Purpose
 This form is used to report on the timeliness of deliveries, allowing you to track and update the status of your deliveries.

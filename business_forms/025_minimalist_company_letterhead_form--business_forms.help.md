@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a basic template for creating a company letterhead. The provided YAML fields indicate a minimalist design, likely intended for a simple yet formal document. The form includes fields for the company's name, address, city, state, zip, phone number, email, date, time, and signature. It seems the purpose of this form is to collect essential information about a company for official purposes, potentially for business correspondence or documentation. The "note" and "text" fields suggest that the form might be used for a variety of purposes, including taking notes or providing a space for additional comments. 
-
-The "date" and "time" fields indicate that the form might be used for scheduling or timestamping purposes. The "email" field is likely intended for the company's contact information. The "signature" field suggests that the form might be used for official signing or approval. However, without further context, the specific use case and requirements for this form are unclear. 
-
-In any case, the fields appear to be straightforward, and the "note" and "text" types suggest that users might be free to use their discretion when filling out the form. It's worth noting that some fields, such as "phone" and "email", might be redundant depending on the specific use case, and the "date" and "time" fields might be better suited for separate input fields. Nevertheless, the form's design seems to aim for simplicity and ease of use. </thinking>
-
 # Minimalist Company Letterhead Form - Help Guide
 ## Purpose
 The Minimalist Company Letterhead Form is a basic template for creating a company letterhead, designed to collect essential information for official purposes.

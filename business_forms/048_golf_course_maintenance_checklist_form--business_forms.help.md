@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for golf course maintenance. The purpose of this form is to gather essential details about the maintenance status, schedule, and other relevant data for a golf course. This form will help administrators track and manage maintenance activities efficiently. Before proceeding, please ensure you are using this form for its intended purpose and not duplicating information already collected.
-</thinking>
-
 # Golf Course Maintenance Checklist Form - Help Guide
 ## Purpose
 The Golf Course Maintenance Checklist Form is a tool used to gather and track information about the maintenance status and schedule of a golf course. This form will help you keep your golf course in top condition by monitoring maintenance activities.

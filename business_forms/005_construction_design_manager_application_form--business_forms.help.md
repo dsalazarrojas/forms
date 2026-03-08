@@ -1,7 +1,3 @@
-<thinking>
-The Construction Design Manager Application Form is used to collect information from applicants for a Construction Design Manager position. This form is intended for those who are interested in applying for this role within the company. It's essential to ensure that the form is completed correctly to increase the chances of getting shortlisted. The form is divided into several sections that cover personal information, professional experience, education and certifications, availability and logistics, and application details. Please ensure that you fill out the form accurately and thoroughly, and if you're unsure about any part of the form, please don't hesitate to contact the hiring team.
-</thinking>
-
 # Construction Design Manager Application Form - Help Guide
 ## Purpose
 The Construction Design Manager Application Form is designed to gather necessary information from applicants for the Construction Design Manager position.

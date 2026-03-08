@@ -1,7 +1,3 @@
-<thinking>... This is a form designed for a job application, specifically for a Social Media Manager position. It's intended to gather information from candidates about their personal details, work experience, and qualifications, as well as job-related preferences and availability. Before starting the application process, please review this guide to ensure you understand what each field is for.
-
-</thinking>
-
 # Social Media Manager Application Form - Help Guide
 ## Purpose
 The Social Media Manager Application Form is designed to collect information about candidates for the Social Media Manager position. This form is used to evaluate candidates' qualifications, work experience, and job preferences to determine the best fit for the role.

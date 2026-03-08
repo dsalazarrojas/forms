@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my first step is to carefully examine the form structure and its purpose. This "Team Collaboration Check In Form" appears to be a project management form used for team members to provide updates on their check-in activities, such as checking in for a project, reporting their check-in time, methods, and locations. The form also includes questions about project details, team and project involvement, and frequency of check-ins. This form is likely used for team leads and managers to track team members' activities and progress. It's crucial to ensure that the form is clear and concise for users to accurately provide the required information.</thinking>
-
 # Team Collaboration Check In Form - Help Guide
 ## Purpose
 This form is designed to help team members provide updates on their check-in activities for projects, including the project name, check-in time, location, method, and notes. It's a crucial tool for team leads and managers to track team progress and stay informed about ongoing projects.

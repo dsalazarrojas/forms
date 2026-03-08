@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users complete the "Complaint Resolution Acknowledgment Form" in an efficient and accurate manner. Before proceeding, ensure that the form is being filled out in a context where the initial complaint has already been resolved and this form is a follow-up acknowledgement. If the complaint is still pending or being disputed, do not fill out this form.
-</thinking>
-
 # Complaint Resolution Acknowledgment Form - Help Guide
 ## Purpose
 The Complaint Resolution Acknowledgment Form is used to confirm that a complaint has been fully resolved and to gather feedback on the resolution process. This form is a way to ensure that the issue has been fully addressed and that all parties are satisfied with the outcome.

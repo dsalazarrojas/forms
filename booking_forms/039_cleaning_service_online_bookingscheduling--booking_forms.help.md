@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients or customers who want to book a cleaning service online. This form is used by the cleaning service company to gather details about the customer's needs, such as their personal information, cleaning service preferences, and payment details. The form is designed to be completed by the customer, and the information collected will be used to schedule and provide the requested cleaning service.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to proceed. This form is intended for individuals who are booking a cleaning service for their personal or commercial properties. If you are a representative of a business or organization, please ensure you have the necessary authority to book this service on behalf of your business.
-
-Please review the form carefully and ensure that all required fields are completed accurately and truthfully. Incomplete or inaccurate information may delay or affect the scheduling of your cleaning service.
-
-Please note that this form is not intended for emergency or same-day bookings. If you need immediate service, please contact the cleaning service company directly to discuss alternative arrangements.
-
-Before proceeding, please ensure that you have reviewed and agree to the terms and conditions of the service. This includes the terms of service, payment, and cancellation policies.
-</thinking>
-
 # Cleaning Service Online Booking Scheduling - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers for online booking and scheduling of cleaning services.

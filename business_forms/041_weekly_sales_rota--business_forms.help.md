@@ -1,7 +1,3 @@
-<thinking>
-This is a form for generating a Weekly Sales Rota report. The purpose of this report is to schedule team members and their sales leads for the week, taking into account their availability, responsibilities, and performance. This form is used by managers and sales leaders to plan and coordinate sales activities for the week. Before filling out this form, please make sure to check if a similar report already exists, so we can avoid duplication of effort.
-</thinking>
-
 # Weekly Sales Rota - Help Guide
 ## Purpose
 The Weekly Sales Rota form is designed to help managers and sales leaders schedule team members and their sales leads for the week. This form allows you to set up a schedule that takes into account team members' availability, responsibilities, and performance.

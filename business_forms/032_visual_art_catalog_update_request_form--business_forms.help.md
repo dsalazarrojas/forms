@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to update information about visual art catalog entries. To complete this form, you should only fill out the fields that are relevant to your specific update request. Before submitting, make sure you have reviewed the form for accuracy and completeness. 
-
-</thinking>
-
 # Visual Art Catalog Update Request Form - Help Guide
 ## Purpose
 The Visual Art Catalog Update Request Form is used to update information about visual art entries in a catalog. This form should be used when you need to add, modify, or delete information about a visual art piece.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users for a reusable container program, which is a service that allows customers to request and collect containers for various purposes (e.g., events, parties, etc.). This form will help the business determine what items the customer needs to collect, when they want to pick up or deliver the containers, and how to contact the customer in case of any questions or issues. This form should only be filled out once, as it is intended to be a one-time request. If a customer has already submitted a request, please do not fill out this form again.
-</thinking>
-
 # Reusable Container Program Request Form - Help Guide
 
 ## Purpose

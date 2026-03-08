@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, let's consider the purpose and context of the "Data Visualization Input Form".
-
-This form is designed to gather specific data from users, which will be used for data visualization purposes. It seems that the form is collecting a range of information, including personal details (Name, Email), contact information (Phone), dates (Date, Time), notes, and selections. Some fields are also designed to collect ranges, such as date, time, and text ranges. The form is likely used for data analysis or reporting purposes.
-
-Before proceeding, let's ensure that the guide is clear, concise, and practical for end-users. We'll review each field to provide accurate explanations.
-</thinking>
-
 # Data Visualization Input Form - Help Guide
 ## Purpose
 This form is used to collect information for data visualization purposes. The input will help in analyzing and presenting data in a meaningful way.

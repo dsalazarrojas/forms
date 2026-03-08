@@ -1,8 +1,3 @@
-<thinking>
-This guide is designed to help users fill out the Vendor Information Form. This form is used to collect information about vendors, including their company, name, address, contact person, phone, email, and other details. The form is divided into several sections, each with its own set of fields. Before starting, ensure that you have all the required information about the vendor at hand.
-
-</thinking>
-
 # Vendor Information Form - Help Guide
 
 ## Purpose

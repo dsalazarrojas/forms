@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect sustainability information from suppliers for the purpose of conducting a thorough sustainability audit. This information will be used to assess the supplier's sustainability practices and ensure they align with our company's sustainability standards. 
-Please ensure this form is completed correctly and thoroughly by the supplier to avoid any duplication of efforts or incomplete assessments. 
-</thinking>
-
 # Supplier Sustainability Audit Application Form - Help Guide
 ## Purpose
 The Supplier Sustainability Audit Application Form is used to collect information from suppliers regarding their sustainability practices and certifications. This form helps us to assess the supplier's commitment to sustainability and ensure their alignment with our company's sustainability standards.

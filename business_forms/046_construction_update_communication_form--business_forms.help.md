@@ -1,5 +1,3 @@
-<thinking>As the form designer, I will create a comprehensive help guide for the "Construction Update Communication Form" that covers its purpose, step-by-step instructions, and in-depth explanations of each field. I will ensure the guide is clear, concise, and easy to understand for end-users.</thinking>
-
 # Construction Update Communication Form - Help Guide
 ## Purpose
 The Construction Update Communication Form is used to facilitate effective communication between project stakeholders by providing a standardized framework for reporting updates, progress, and issues on construction projects. This form helps to ensure that all relevant information is collected and disseminated accurately and efficiently.

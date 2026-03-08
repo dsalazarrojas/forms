@@ -1,10 +1,3 @@
-<thinking>
-This guide is intended to help users complete the Sustainable Ingredient Development Registration Form. This form is used to register and document sustainable ingredients, such as materials, dyes, or fibers, that meet certain sustainability criteria. The form is used to gather information about the ingredients, including their category, description, price, weight, and origin. This information is crucial for businesses and organizations to make informed decisions about sourcing and developing sustainable ingredients.
-
-Before starting, please ensure that you have a clear understanding of the form's purpose and the information it collects. This guide will walk you through each field and provide explanations to help you complete the form accurately and efficiently.
-
-</thinking>
-
 # Sustainable Ingredient Development Registration Form - Help Guide
 ## Purpose
 The Sustainable Ingredient Development Registration Form is used to register and document sustainable ingredients that meet certain sustainability criteria. This form helps businesses and organizations gather information about sustainable ingredients, including their category, description, price, weight, and origin.

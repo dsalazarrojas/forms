@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to book online with Moneris, a booking system. The form will be used to gather information from the user to process their booking request. Before proceeding, please ensure that you are completing this form for the correct purpose. If you are looking for information on how to use Moneris, please refer to the Moneris user guide instead.
-
-</thinking>
-
 # Online Booking Form With Moneris - Help Guide
 
 ## Purpose

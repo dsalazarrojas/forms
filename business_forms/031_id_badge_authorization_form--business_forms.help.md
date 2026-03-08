@@ -1,8 +1,3 @@
-<thinking>
-The id_badge_authorization_form form is a multi-page form used for issuing ID badges to employees. It's used to collect necessary information for badge creation, which includes details about the employee, badge type, and other relevant attributes. Before starting, make sure the form is being used for its intended purpose and not as a duplicate entry. This form is meant to be used once for each ID badge creation process.
-
-</thinking>
-
 # id_badge_authorization_form - Help Guide
 ## Purpose
 This form is used to issue ID badges to employees, collecting information about the employee, badge type, and other relevant attributes.

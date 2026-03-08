@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help employees automate their expense workflow. 
-The purpose of this form is to capture essential information for expense requests, including request details, submission status, and contact information. 
-This form is intended for internal use only. 
-</thinking>
-
 # Expense Workflow Automation Application Form - Help Guide
 ## Purpose
 The Expense Workflow Automation Application Form is a tool to streamline the expense request process for employees. It gathers necessary details about their expense requests, including submission status and contact information. This form is meant for internal use within the organization.

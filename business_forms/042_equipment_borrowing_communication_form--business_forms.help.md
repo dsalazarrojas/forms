@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate the borrowing and return of equipment within the organization. It serves as a communication tool for users to submit requests, track borrowed equipment, and update its status. The form should not be used for other purposes, such as general equipment maintenance or inventory management.
-
-The form consists of several sections, each with a specific field that corresponds to a particular aspect of equipment borrowing. The sections include user information, equipment details, and status updates. Ensure that all required fields are filled out to ensure accurate tracking and communication.
-</thinking>
-
 # equipment_borrowing_communication_form - Help Guide
 ## Purpose
 This form is used to submit and track equipment borrowing requests.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to capture vendor service requests from users. This form is typically filled out by vendors seeking to offer their services, and the information collected helps the internal team to track and process their requests efficiently. To avoid duplication of effort, it's essential to ensure that only one request is submitted per service. If a user attempts to submit another request for the same service, it's best to review and update the existing one instead of creating a new one.
-</thinking>
-
 # Vendor Service Request Form - Help Guide
 ## Purpose
 The Vendor Service Request Form is a tool for vendors to provide their service requests to the internal team. This form captures essential information about the requested service, contact details, and any additional information the user would like to provide.

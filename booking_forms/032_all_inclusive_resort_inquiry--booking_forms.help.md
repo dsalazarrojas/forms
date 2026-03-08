@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users for an all-inclusive resort inquiry. The form collects personal contact details, travel preferences, and special requests. Users are required to provide their name, email address, phone number, and preferred travel dates. They also have the option to provide their mailing address, preferred resort, and other details such as number of guests, budget range, and special occasion.
-
-The purpose of this form is to collect information from potential guests for an all-inclusive resort, allowing the resort staff to better understand their needs and preferences. This form helps in ensuring that the guests receive personalized responses and tailored offers.
-
-Please note that some of these fields are optional, but they are included in the form to cater to the diverse needs of potential guests.
-
-</thinking>
-
 # All Inclusive Resort Inquiry - Help Guide
 ## Purpose
 This form is designed to gather information from users for an all-inclusive resort inquiry. The form collects personal contact details, travel preferences, and special requests to provide a better experience for potential guests.

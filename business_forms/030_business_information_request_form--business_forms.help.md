@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Information Request Form - Help Guide
 ## Purpose
 This form is used to request information from businesses in a structured and formalized way, ensuring that your requests are properly documented and met with the required confidentiality agreements. Please fill out this form to initiate a request for business information, providing all necessary details and agreements to facilitate a successful and secure exchange of data.

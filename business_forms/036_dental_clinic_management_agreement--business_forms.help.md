@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for a Dental Clinic Management Agreement, which is a critical document for the management and operation of a dental clinic. The purpose of this form is to outline the terms and conditions under which a management agreement will be entered into between the clinic owner(s) and the management company. It is essential to fill out this form accurately to ensure that all parties involved are aware of their roles, responsibilities, and expectations.
-
-The following guide will walk you through the process of filling out this form, which consists of multiple pages. Each page will be explained in detail to avoid any confusion.
-
-</thinking>
-
 # Dental Clinic Management Agreement - Help Guide
 ## Purpose
 This form is designed for the management and operation of a dental clinic. It is a critical document that outlines the terms and conditions under which a management agreement will be entered into between the clinic owner(s) and the management company.

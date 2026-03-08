@@ -1,10 +1,3 @@
-<thinking>
-Please note that the form is designed to be a standardized release form for authors, typically used in publishing or media industries.
-This form should only be filled out if you are an author or creator of the work.
-The form should not be used for non-standardized releases or other types of work not related to publishing or media.
-Please ensure that you have read and understood the terms and conditions before filling out this form.
-</thinking>
-
 # Author's Release Form - Help Guide
 ## Purpose
 This form is designed to capture the necessary information for an author to release their work to a publishing or media organization. It collects details such as release date, author's name and contact information, publication medium and date, copyright ownership, and other publishing agreements.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to handle stay extensions for guests in a hotel setting. It is intended to gather information from guests about their stay extension requests, including the date and time they wish to check out, the reason for the extension, and any additional comments. The form is used to ensure that the necessary information is collected and that the guest is assigned to a specific staff member for handling their stay extension. The form is not intended for duplicate submissions.
-</thinking>
-
 # Hotel Stay Extension Form - Help Guide
 
 ## Purpose

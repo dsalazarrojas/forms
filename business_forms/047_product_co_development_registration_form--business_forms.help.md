@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about product co-development collaborations from end-users. It captures details such as category name, contact information, and collaboration specifics like level and status. The fields are designed to be flexible and allow for optional submission of supporting comments. The form's goal is to streamline the process of registering product co-development collaborations in the business environment. 
-</thinking>
-
 # Product Co Development Registration Form - Help Guide
 ## Purpose
 The Product Co Development Registration Form is used to collect information about product co-development collaborations. This form helps us understand the specifics of each collaboration, including category, contact details, and collaboration status.

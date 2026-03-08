@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to book a visit to a renewable energy campus. The purpose of this form is to gather general information, contact details, group information, visit purpose, group size, visit date, visit time, preferred visit time, preferred visit date, and any additional notes or contact information. This form is typically used by school groups, non-profit organizations, or other groups visiting the campus.
-We will not accept duplicate submissions. If you have already submitted this form, you will receive a notification.
-</thinking>
-
 # Renewable Energy Campus Booking Form - Help Guide
 
 ## Purpose

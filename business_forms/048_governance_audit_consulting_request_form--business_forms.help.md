@@ -1,5 +1,3 @@
-<thinking>...The Governance Audit Consulting Request Form is a tool used to collect information from clients who are requesting governance audit consulting services. The form helps consultants understand the client's needs and requirements for the audit, ensuring that the audit is tailored to their specific needs. Before filling out this form, please make sure you are requesting the correct services and that the information is accurate and up-to-date. Please note that the form is not a duplicate request, and your input will be used to provide the best possible service...</thinking>
-
 # Governance Audit Consulting Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients who are requesting governance audit consulting services. The information collected will be used to tailor the audit to the client's specific needs.

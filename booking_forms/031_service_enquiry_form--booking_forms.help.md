@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # service_enquiry_form - Help Guide
 ## Purpose
 This form is designed for customers or potential customers to submit an enquiry to book a service with your company. It is meant to collect relevant information from the user to facilitate a smooth and efficient booking process.

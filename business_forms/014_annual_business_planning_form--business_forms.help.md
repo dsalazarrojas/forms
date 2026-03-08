@@ -1,8 +1,3 @@
-<thinking>
-As an expert form designer and technical writer, I will create a user-facing help guide for the Annual Business Planning Form. This guide will provide clear instructions and explanations for each field to help users navigate the form effectively.
-
-The purpose of this form is to help businesses create an annual plan that outlines their goals, objectives, and strategies for the upcoming year. The form is designed to gather relevant information to inform business decisions and improve planning efficiency. Please ensure you only complete this form if you have a genuine business to submit, and please note that this form may not be suitable for personal or non-business use.</thinking>
-
 # Annual Business Planning Form - Help Guide
 ## Purpose
 The Annual Business Planning Form helps businesses create a comprehensive plan for the upcoming year. This form gathers essential information about your business, including its name, contact details, goals, and strategic planning.

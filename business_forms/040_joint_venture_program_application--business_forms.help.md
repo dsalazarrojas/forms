@@ -1,9 +1,3 @@
-<thinking>
-
-A joint venture program application is an internal application form used by company partners to submit information about potential joint ventures with the company. This form is designed to gather relevant information from partners about their joint venture proposals, including partner details, venture objectives, and supporting documents. To ensure accurate and relevant applications, please only submit applications that align with the company's joint venture policies. 
-
-</thinking>
-
 # Joint Venture Program Application - Help Guide
 ## Purpose
 The Joint Venture Program Application form is intended to collect information from company partners about their joint venture proposals, which will be reviewed for potential collaboration and alignment with the company's objectives.

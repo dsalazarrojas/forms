@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about the inspection of expansion joints in a building. The purpose of this form is to gather data on the condition, location, and recommended actions for expansion joints in a building. The form is used by building inspectors to assess the state of expansion joints and provide recommendations for maintenance or repairs. This form is likely to be used in a construction or engineering context.
-
-To ensure the form is being filled correctly, I'll review the YAML fields and ensure each field is correctly interpreted and explained.
-
-</thinking>
-
 # Expansion Joints Inspection Checklist - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the inspection of expansion joints in a building, which is used by building inspectors to assess the state of expansion joints and provide recommendations for maintenance or repairs.

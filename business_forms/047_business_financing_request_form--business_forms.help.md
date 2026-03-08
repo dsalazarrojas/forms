@@ -1,11 +1,3 @@
-<thinking>**Internal Reasoning Block:**
-
-Before proceeding, ensure you understand the form's purpose and that it's not a duplicate or irrelevant submission. This form is designed for business financing requests, and it's essential to fill it out correctly to ensure your request is processed efficiently.
-
-This form is intended for business owners or representatives to provide detailed information about their business, including financial projections, business type, and use of funds. The form is divided into several sections, each with specific fields that require accurate and complete information. Ensure you answer all required fields truthfully and accurately, as this information will be reviewed for financing approval.
-
-</thinking>
-
 # Business Financing Request Form - Help Guide
 ## Purpose
 The Business Financing Request Form is designed to gather essential information from businesses seeking financing. This form helps us understand your business needs, financial situation, and goals to assess your eligibility for financing.

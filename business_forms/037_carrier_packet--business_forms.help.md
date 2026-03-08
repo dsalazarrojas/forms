@@ -1,14 +1,3 @@
-<thinking>
-
-To determine the relevance and non-duplication, we need to consider the following:
-- The "Carrier Packet" form appears to be a comprehensive document for carriers to provide information about themselves and their operations.
-- The form is divided into several sections: Profile, Operational Details, Compliance, Safety, Financial and Terms, and Agreement and Finalization.
-- Each section is designed to capture relevant information about the carrier, such as their profile, operational details, compliance status, safety rating, and financial information.
-- The form requires certain sections and fields to be filled out, as indicated by the "required" property in the YAML schema.
-- The form also includes options for selecting the main focus of the carrier's fleet and the type of bank account they use.
-- The form ends with a certification and digital signature field to ensure that the carrier has reviewed and confirmed the accuracy of the provided information.
-</thinking>
-
 # Carrier Packet - Help Guide
 ## Purpose
 The Carrier Packet form is a document used by carriers to provide information about themselves and their operations. It is designed to gather relevant data that can be used for various purposes such as compliance, safety, and financial purposes.

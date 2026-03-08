@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect client intake and disclaimers for intuitive energy healing services. It is essential to complete this form to provide accurate and comprehensive information about the client's identity, medical conditions, and consent for the services. Please ensure that you have reviewed this form carefully and completed it accurately to ensure a smooth and effective treatment process. Before proceeding, verify that you have not completed this form previously, as this will avoid any duplication of work.</thinking>
-
 # Intuitive Energy Healing Client Intake and Disclaimer Form - Help Guide
 ## Purpose
 The Intuitive Energy Healing Client Intake and Disclaimer Form is a comprehensive form designed to gather essential information about the client's personal details, medical history, and consent for intuitive energy healing services. This form is used to ensure a thorough understanding of the client's needs and provide a secure and comfortable environment for the healing process.

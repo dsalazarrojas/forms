@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be a comprehensive agreement between a client and a designer for a graphic design service. It outlines the scope of work, payment terms, and other essential details for the project. The form aims to ensure both parties are on the same page and avoid potential misunderstandings.
-</thinking>
-
 # Graphic Design Service Agreement - Help Guide
 ## Purpose
 This form is a comprehensive agreement for graphic design services. It outlines the scope of work, payment terms, and other essential details for the project.

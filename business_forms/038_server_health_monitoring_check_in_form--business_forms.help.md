@@ -1,9 +1,3 @@
-<thinking>
-This form is used for checking in on the server health monitoring system. It is designed to gather information about the status of servers and their performance. The purpose of this form is to provide a simple and efficient way for users to report on the health of their servers. It is intended for use by system administrators and IT staff to quickly check in on server status and make sure everything is running smoothly. 
-
-Before filling out this form, make sure that you are checking in on the server health monitoring system and that you have a clear understanding of what information you want to report.
-</thinking>
-
 # Server Health Monitoring Check In Form - Help Guide
 ## Purpose
 This form is used for checking in on the server health monitoring system.

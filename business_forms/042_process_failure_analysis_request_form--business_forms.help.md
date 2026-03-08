@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Process Failure Analysis Request Form - Help Guide
 
 ## Purpose

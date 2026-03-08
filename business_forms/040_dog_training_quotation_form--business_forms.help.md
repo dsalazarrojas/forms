@@ -1,9 +1,3 @@
-<thinking>
-
-We are creating a form to collect necessary information for providing a quotation for dog training services. This form will be used by business owners to gather details from potential clients regarding their dog's information, desired training services, and payment terms. To avoid duplication and ensure accurate quotations, we will not allow potential clients to submit multiple forms. The form is divided into several sections with clear labels and explanations to guide the user through the process.
-
-</thinking>
-
 # Dog Training Quotation Form - Help Guide
 ## Purpose
 This form is designed for potential clients to provide necessary information about their dog and their requirements for dog training services. The goal is to get an accurate quotation for the services.

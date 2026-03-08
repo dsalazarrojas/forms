@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Net Profit Margin Calculator form, we must first consider the purpose of this form and how it will be used by end-users. The form is designed to calculate key financial metrics related to profit margins, which is a crucial aspect of business financial management. The form will likely be used by business owners, accountants, or financial analysts who need to evaluate the profitability of a company by calculating the difference between revenue and total costs, and expressing that difference as a percentage of total revenue or cost of goods sold.
-
-To ensure that the form is used correctly and effectively, it's essential to create a clear and concise help guide that explains the purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Net Profit Margin Calculator - Help Guide
 ## Purpose
 The Net Profit Margin Calculator form is designed to calculate key financial metrics related to profit margins, helping business owners, accountants, or financial analysts evaluate the profitability of a company.

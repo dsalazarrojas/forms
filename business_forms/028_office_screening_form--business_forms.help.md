@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about office employees for screening purposes. The form is designed to gather essential details such as employee name, email, department, phone number, date of birth, medical history, screening result, employee status, employee type, and notes. This information will be used for internal screening and evaluation purposes. Please ensure that you have the necessary permissions and approvals to complete this form.
-
-The form is not intended to collect sensitive or confidential information and should only be completed by authorized personnel. Please note that some fields may be optional, but all required fields must be filled out before submitting the form.
-
-To avoid duplication and ensure accuracy, please make sure to review the fields before submitting and verify the information with the employee when necessary.
-
-</thinking>
-
 # Office Screening Form - Help Guide
 ## Purpose
 This form is used to collect and evaluate office employee information for screening purposes.

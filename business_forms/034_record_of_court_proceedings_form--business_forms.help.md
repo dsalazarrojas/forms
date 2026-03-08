@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for capturing information about court proceedings. It is likely intended for use within a legal or judicial system, possibly for tracking or reporting on cases. The purpose of this form is to gather data on various aspects of court proceedings, including the case number, court number, judge name, and other relevant details. 
-</thinking>
-
 # record_of_court_proceedings_form - Help Guide
 ## Purpose
 This form is used to record and track court proceedings, allowing for the collection of data on various aspects of court cases.

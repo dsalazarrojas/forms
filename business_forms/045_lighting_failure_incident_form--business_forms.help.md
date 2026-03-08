@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the Lighting Failure Incident Form, which is used for reporting and tracking lighting failure incidents within a business or organization. To ensure accurate and effective completion of this form, it is crucial to follow the instructions and guidelines provided below.
-</thinking>
-
 # Lighting Failure Incident Form - Help Guide
 ## Purpose
 This form is designed to collect and track information related to lighting failure incidents, including the description of the failure, location, date, and time of the incident, as well as any attachments and follow-up actions required. The form is intended for use by employees and reporting officers to report and track lighting failures within their designated areas.

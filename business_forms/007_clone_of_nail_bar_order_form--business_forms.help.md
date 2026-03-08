@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to place orders for nail services, such as nail polishes, manicures, and other nail treatments. The form will guide users to provide necessary information to complete an order, including contact details, product selection, and payment preferences. Please ensure that the form is completed accurately and comprehensively to ensure smooth order processing and communication.
-</thinking>
-
 # Clone Of Nail Bar Order Form - Help Guide
 ## Purpose
 The Clone Of Nail Bar Order Form is used to capture customer orders for nail services, including contact information, product selection, and payment details.

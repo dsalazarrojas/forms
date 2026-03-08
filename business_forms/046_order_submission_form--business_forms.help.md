@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to submit new orders. 
-</thinking>
-
 # Order Submission Form - Help Guide
 ## Purpose
 The Order Submission Form is a crucial tool for customers to submit their orders to our company. This form allows customers to provide essential details about themselves and their orders, ensuring that we receive accurate and complete information for processing.

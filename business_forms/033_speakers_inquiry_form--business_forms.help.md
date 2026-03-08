@@ -1,12 +1,3 @@
-<thinking>
-This form is used to inquire about speaker availability for an event. It gathers information about the event's details, such as name, date, time, speaking formats, target audience, expected number of attendees, number of speakers requested, budget, speaker name, and speaker contact information. This form is meant to be filled out by an event organizer or coordinator to gather essential details to determine the suitability of speakers for the event.
-
-The form will only allow users to submit one event at a time. If the user has already submitted an inquiry for the same event, they will be notified that they cannot submit another inquiry for the same event.
-
-Before starting, it is recommended that the user has the event's details ready, including the event name, date, time, and other relevant information.
-
-</thinking>
-
 # speakers-inquiry-form - Help Guide
 ## Purpose
 The speakers-inquiry-form is used to gather information about speaker availability for an event.

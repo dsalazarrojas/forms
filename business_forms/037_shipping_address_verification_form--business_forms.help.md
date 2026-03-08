@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for verifying shipping addresses, ensuring that a correct shipping address is entered for a given order or order group. It is crucial to double-check the form input to avoid shipping issues and errors. This form should only be filled out for each order individually, not duplicated across multiple orders or order groups. This verification is part of the standard business process, and this form helps streamline and standardize the process.
-
-</thinking>
-
 # shipping_address_verification_form - Help Guide
 ## Purpose
 The shipping address verification form is used for verifying shipping addresses for orders or order groups, preventing shipping errors and ensuring correct delivery.

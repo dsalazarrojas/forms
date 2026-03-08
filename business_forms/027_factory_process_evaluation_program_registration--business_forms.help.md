@@ -1,16 +1,3 @@
-<thinking>
-We will use this form to evaluate and understand the needs and preferences of your company for the Factory Process Evaluation Program. This form will help us tailor our evaluation process to suit your specific business requirements and schedule.
-
-Before you start, please be sure that the form is not a duplicate. If you have filled this form before, or if you have any pending applications, please do not resubmit your registration.
-
-Please answer all required fields to ensure we get a complete understanding of your needs. If a field is not marked as required, you can skip it, but keep in mind that missing information may result in a less tailored evaluation program.
-
-The form has several pages, each with a specific set of questions. You can navigate through the pages using the next and previous buttons.
-
-This guide will walk you through each field, helping you understand what information we need from you.
-
-</thinking>
-
 # Factory Process Evaluation Program Registration - Help Guide
 ## Purpose
 The purpose of this form is to help us evaluate and understand your company's needs and schedule for the Factory Process Evaluation Program. 

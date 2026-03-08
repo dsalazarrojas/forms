@@ -1,8 +1,3 @@
-<thinking> 
-  This form is used for tool inspection and declaration. It captures information about the tool, its condition, and the inspector's comments. The form is designed to be filled out by the inspector after inspecting a tool to record their findings and provide a clear declaration of the tool's status. The inspector will fill out the form with details about the tool's condition, any issues or comments, and sign off on the form to confirm their declaration. This form is likely to be used for quality control or safety inspection purposes in a workshop or factory setting. 
-
-</thinking>
-
 # Tool Inspection Declaration Form - Help Guide
 ## Purpose
 This form is designed to capture information about the tool and its condition after inspection. It ensures that the inspector's declaration is recorded accurately and consistently.

@@ -1,21 +1,3 @@
-<thinking>
-This form is designed for members of the tourism industry to submit their applications for review and approval to join a review council. The form is meant to gather information about the applicant's roles, motivations, and contact details to facilitate the review process.
-
-This form is likely used by the management or administrative team of a company that handles tourism policy reviews to collect relevant data from applicants.
-
-The form is composed of the following sections:
-
-1. Application Form (Page 1)
-2. Select Roles (Page 2)
-3. Select Motivations (Page 3)
-4. Role (Page 4)
-5. Motivation (Page 5)
-6. Name (Page 6)
-7. Email (Page 7)
-8. Phone (Page 8)
-
-</thinking>
-
 # tourism_policy_review_council_registration - Help Guide
 ## Purpose
 This form is designed for members of the tourism industry to submit their applications for review and approval to join a review council.

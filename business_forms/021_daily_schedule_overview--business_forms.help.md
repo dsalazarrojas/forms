@@ -1,16 +1,3 @@
-<thinking>
-This form is likely used for a manager or team lead to schedule and organize team member's daily tasks, meetings, and other activities. This form probably helps to track and record team members' schedules, meetings, and other important events. The purpose of this form is to provide a quick and easy way to overview a team member's daily schedule, making it easier for managers to plan and coordinate team activities.
-
-The form is likely designed for daily use, and it's probably used to track multiple team members' schedules at once. This would make it easier for the manager to see who's available, who's not, and what's going on during the day.
-
-Before filling this form, please make sure you're familiar with your team's schedule and any upcoming meetings or events. This will help you fill out the form correctly and ensure that everyone's schedule is accurately represented.
-
-If you're filling out the form for multiple team members, you may want to use the "Schedule Priority" field to indicate which tasks are most important or urgent.
-
-Please note that some fields are optional, and you can leave them blank if they don't apply to you or your team.
-
-</thinking>
-
 # daily_schedule_overview - Help Guide
 ## Purpose
 The daily schedule overview form helps managers and team leads to track and organize team members' schedules, meetings, and other activities.

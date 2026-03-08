@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Warehouse Audit Form - Help Guide
 ## Purpose
 The Warehouse Audit Form is used to perform regular audits on warehouse facilities. This form helps you to track and document the status of warehouse facilities, including their type and current status. It's essential for ensuring compliance with regulations and maintaining a safe working environment.

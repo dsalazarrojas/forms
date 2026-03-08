@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # it_system_backup_checklist_form - Help Guide
 ## Purpose
 The IT System Backup Checklist Form is a tool used to track the backup status and frequency of IT systems. This form helps in ensuring that backups are performed regularly and that the data is safe and secure.

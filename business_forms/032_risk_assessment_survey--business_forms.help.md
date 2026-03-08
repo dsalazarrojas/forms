@@ -1,10 +1,3 @@
-<thinking>
-This form is used to assess and evaluate potential risks within a workplace or organization. It helps identify hazards, their risk factors, and the likelihood and consequence of accidents. The form collects data on risk level, control measures, and frequency of the risk, as well as the likelihood of the risk and the impact it could have. Reviewers can add comments and status updates to track their review and assessment of the risk.
-The form will ask for data on various aspects of risk, including workplace hazards, risk factors, potential accidents, and control measures. Reviewers will then evaluate the risk level and status of the control measures and follow-up required.
-It's essential to fill out the form accurately and comprehensively to provide a thorough assessment of the risk.
-</thinking>
-
-
 # Risk Assessment Survey - Help Guide
 ## Purpose
 This form is used to evaluate potential risks within a workplace or organization. It collects data on workplace hazards, risk factors, and the likelihood and impact of accidents.

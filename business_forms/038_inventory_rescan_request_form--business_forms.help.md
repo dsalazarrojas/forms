@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inventory Rescan Request Form - Help Guide
 ## Purpose
 This form is used to request an inventory rescan for a specific business, staff member, or product. The goal of this form is to facilitate the process of updating inventory information by requesting a rescan of the relevant data. 

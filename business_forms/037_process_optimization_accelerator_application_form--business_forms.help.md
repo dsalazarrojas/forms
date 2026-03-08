@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from businesses interested in using the Process Optimization Accelerator, a tool designed to streamline and improve business processes. 
-This form is a crucial step in the application process, as it allows the accelerator team to assess each applicant's details and ensure they are a good fit for the program. 
-Please ensure that all required fields are completed accurately and thoroughly.
-</thinking>
-
 # Process Optimization Accelerator Application Form - Help Guide
 ## Purpose
 This form is for businesses interested in utilizing the Process Optimization Accelerator to streamline and improve their processes.

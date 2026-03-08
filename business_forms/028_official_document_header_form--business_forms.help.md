@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information related to official documents, specifically for the purpose of creating and managing document headers. The form is intended to be used by employees to create and update document headers for internal business purposes. This form should only be used for official documents and not for any other type of document.
-</thinking>
-
 # official_document_header_form - Help Guide
 ## Purpose
 The official document header form is used to create and update headers for official documents. This form is necessary for maintaining accurate and up-to-date document information.

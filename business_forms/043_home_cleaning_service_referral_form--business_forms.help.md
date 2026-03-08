@@ -1,9 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Home Cleaning Service Referral Form". The purpose of this form is to gather information from individuals who would like to refer someone to the home cleaning service. This form is used to collect the referrer's name, address, and contact details, as well as the information about the person being referred. The form will help the service to follow up on the referral and provide the best possible service to the referred individual.
-
-The form is divided into several sections, and each section has a specific field that requires completion. The form fields are all text fields and are optional except for the first name field. Completing the form will take a few minutes, but it's essential to provide as much information as possible to help the service to follow up on the referral.
-
-It is crucial to fill the form correctly and accurately as it will be used to contact the referrer and the person being referred. Please make sure to fill in all the required fields and provide correct contact details.</thinking>
-
 # Home Cleaning Service Referral Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals who would like to refer someone to the home cleaning service.

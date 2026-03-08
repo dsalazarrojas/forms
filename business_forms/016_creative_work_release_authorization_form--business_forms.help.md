@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to the release of a creative work, such as a visual art piece, music composition, or other original content created by an artist or artist team. This form will be used to obtain necessary permissions and documentation for the release of the work in various mediums, including but not limited to digital and printed platforms. Please fill out this form to provide essential details about your work for proper authorization and documentation.
-
-Before proceeding, please ensure that the required fields are filled out accurately and completely. Note that not all fields are required but are recommended for optimal information collection and documentation.
-
-The following fields are required: work name, artist name, and client name.
-</thinking>
-
 # Creative Work Release Authorization Form - Help Guide
 ## Purpose
 This form is used to collect necessary information and authorization for the release of a creative work, such as a visual art piece, music composition, or other original content created by an artist or artist team.

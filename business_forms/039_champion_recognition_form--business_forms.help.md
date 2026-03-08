@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Champion Recognition Form - Help Guide
 ## Purpose
 The Champion Recognition Form is a tool used to nominate individuals for recognition within the organization. This form allows you to submit a nomination for a team member or colleague who has demonstrated exceptional performance and deserves recognition. The form is used to gather information about the nominee's achievements and provide context for the recognition.

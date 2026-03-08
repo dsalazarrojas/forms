@@ -1,14 +1,3 @@
-<thinking>
-To ensure the form is properly filled out and to avoid duplication of efforts, please be aware that this form is designed to capture specific details for vehicle wrap design purposes. It is intended for end-users to provide input on vehicle details and design preferences. This form should only be filled out for each unique vehicle design request.
-
-Please note that some fields are optional and may not apply to all requests. Be sure to provide accurate information to avoid delays in processing.
-
-The form is not intended for general vehicle wrap design purposes, so only fill out the form for specific vehicle wrap design requests.
-
-The form fields are designed to collect specific information for vehicle wrap design purposes. Please fill out each field accurately and completely to ensure the best results.
-
-</thinking>
-
 # vehicle_wrap_design_order_form - Help Guide
 ## Purpose
 This form is designed to collect specific details for vehicle wrap design purposes, helping to ensure accurate and complete designs for your vehicle. Please fill out the form for each unique vehicle design request.

@@ -1,10 +1,3 @@
-<thinking>
-The form purpose is to collect information related to trade setup risk management, which is an essential part of financial trading. This form is likely used in a business context, possibly within a trading platform or a brokerage firm. The goal of this form is to ensure that traders and risk management teams have access to all necessary details about each trade setup to evaluate and manage risks effectively.
-
-It's essential to review the fields in this form carefully to avoid duplication of effort and ensure that you're capturing all the necessary information.
-
-</thinking>
-
 # Trade Setup Risk Management Checklist - Help Guide
 ## Purpose
 This form is designed to collect information about trade setup risk management, helping traders and risk management teams make informed decisions.

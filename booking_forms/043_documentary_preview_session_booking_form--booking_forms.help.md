@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that the user understands that this form is for booking a documentary preview session. This form is likely used in an academic or business context where users need to book a time slot for a preview of a documentary. The goal is to provide a smooth and efficient experience for users to reserve a spot. To avoid duplication, we should confirm that the user has reviewed the form fields and understands what each field is for before proceeding. This will help prevent errors and ensure that the form is completed correctly.
-</thinking>
-
 # Documentary Preview Session Booking Form - Help Guide
 ## Purpose
 This form is used to book a documentary preview session. It is intended for users to reserve a time slot for a preview of a specific documentary.

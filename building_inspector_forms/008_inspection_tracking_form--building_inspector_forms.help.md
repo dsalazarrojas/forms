@@ -1,20 +1,3 @@
-<thinking>
-This form is designed for tracking and documenting inspection activities, likely used by building inspectors to record and report on their findings. The purpose of this form is to gather information about the inspection process, including category, description, date, time, and any notes taken during the inspection. The form is designed to be flexible, allowing inspectors to choose from a variety of categories and assign tools and users to specific inspections. This form is likely used in a construction or property management context.
-The form consists of the following fields:
-*   **Inspection Tracking Form** (title): This is the main title of the form, which should be filled in with a clear and descriptive name for the inspection.
-*   **Category** (Building Inspector Forms, Other Forms): This field is used to determine which type of form this inspection tracking form is being used for. Select the appropriate category (e.g., Building Inspector Forms).
-*   **Description**: This field is a text input field for describing the inspection process or findings. Enter a clear and concise description of the inspection.
-*   **Date**: This field is for recording the date of the inspection. Enter the date in the required format (e.g., YYYY-MM-DD).
-*   **Time**: This field is for recording the time of the inspection. Enter the time in 24-hour format (e.g., 14:30).
-*   **Note**: This field is for recording any notes taken during the inspection. This field is typically used for additional comments or observations.
-*   **Email**: This field is for recording the email address of the contact person or inspector.
-*   **Phone**: This field is for recording the phone number of the contact person or inspector.
-*   **Assigned Tool**: This field is for selecting from a list of assigned tools used during the inspection. Choose the tools that were used.
-*   **Assigned User**: This field is for selecting from a list of assigned users who conducted the inspection. Choose the user who conducted the inspection.
-*   **Assigned Date**: This field is for recording the date on which the inspection was assigned to the user.
-*   **Assigned Time**: This field is for recording the time at which the inspection was assigned to the user.
-</thinking>
-
 # Inspection Tracking Form - Help Guide
 ## Purpose
 The Inspection Tracking Form is designed for tracking and documenting inspection activities. This form is used to gather information about the inspection process, including category, description, date, time, and any notes taken during the inspection.

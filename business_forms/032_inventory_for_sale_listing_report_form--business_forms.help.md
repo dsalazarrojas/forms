@@ -1,11 +1,3 @@
-<thinking>
-The "Inventory For Sale Listing Report Form" is used to report sales information on existing products in the inventory. This form should be used by sales team members to provide an accurate representation of the current state of products for sale in the inventory. Ensure that you are using this form for its intended purpose and not duplicating sales reports already submitted.
-
-This form is used to provide detailed information about a product sale, including the product's current status, sales date, and any notes about the sale. By using this form, sales team members can ensure that the inventory is up-to-date and that the product sales are accurately recorded.
-
-To avoid any confusion, ensure that you are using this form for products that are actually being sold, and not for products that are currently out of stock or have special orders.
-</thinking>
-
 # Inventory For Sale Listing Report Form - Help Guide
 ## Purpose
 The "Inventory For Sale Listing Report Form" is used to report sales information on existing products in the inventory. This form should be used by sales team members to provide an accurate representation of the current state of products for sale in the inventory.

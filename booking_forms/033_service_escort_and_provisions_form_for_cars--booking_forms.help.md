@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for car-related bookings and services. It is not related to any specific booking platform, but rather a generic form created by AI using public survey data as inspiration. This form can be freely modified and used for personal or commercial purposes, with proper credit given. The purpose of this form is to collect booking details, car information, service requirements, provisions, transportation requests, and any additional notes or contact information. 
-</thinking>
-
 # Service Escort And Provisions Form (for Cars) - Help Guide
 ## Purpose
 The Service Escort And Provisions Form is designed to gather essential information from users for car-related bookings and services. This form helps users to provide accurate details about their booking and service requirements, ensuring a smooth and efficient experience for all parties involved.

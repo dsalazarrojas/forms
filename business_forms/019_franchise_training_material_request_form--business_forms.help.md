@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request training materials for a franchise, providing a structured way to gather information about the type of material needed, the urgency of the request, and other relevant details. It's likely that this form will be used by internal teams to request materials from external partners or vendors. The form purpose and fields should be reviewed to ensure they are aligned with the actual business needs and avoid duplicating existing processes.
-</thinking>
-
 # Franchise Training Material Request Form - Help Guide
 ## Purpose
 The Franchise Training Material Request Form is a structured format for requesting training materials from franchises. This form is designed to gather essential information to fulfill material requests in a timely and efficient manner.

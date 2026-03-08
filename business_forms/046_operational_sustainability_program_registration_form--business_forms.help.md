@@ -1,32 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is intended to collect information about operational sustainability programs. These programs are likely related to environmental or corporate social responsibility initiatives that aim to improve the sustainability and reduce the ecological footprint of a business or organization. The form is designed to gather details about the program, including its name, description, start and end dates, contact person, organization, email, phone number, address, type, certification level, sector, region, country, city, and zip code. The purpose of this form is to ensure that the program is properly registered and tracked for future reference and reporting.
-
-The key fields in this form include:
-
-*   Program Details: This section provides a brief description of the program.
-*   Program Name: This field is used to record the name of the program.
-*   Program Description: This field is used to provide more detailed information about the program.
-*   Program Start Date: This field is used to record the start date of the program.
-*   Program End Date: This field is used to record the end date of the program.
-*   Contact Person: This field is used to record the contact person for the program.
-*   Organization: This field is used to record the organization running the program.
-*   Email: This field is used to record the email address of the program.
-*   Phone: This field is used to record the phone number of the program.
-*   Address: This field is used to record the address of the program.
-*   Program Type: This field is used to record the type of the program, with options being Sustainability or Non-Sustainability.
-*   Certification Level: This field is used to record the certification level of the program, with options being Basic, Intermediate, or Advanced.
-*   Sector: This field is used to record the sector of the program.
-*   Region: This field is used to record the region of the program.
-*   Country: This field is used to record the country of the program.
-*   City: This field is used to record the city of the program.
-*   Zip Code: This field is used to record the zip code of the program.
-*   Website: This field is used to record the website of the program.
-
-Please make sure to fill in all the required fields. Note that some fields are not required, but it's best to fill them in for completeness.
-
-</thinking>
-
 # Operational Sustainability Program Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about operational sustainability programs. These programs are intended to improve the sustainability and reduce the ecological footprint of a business or organization.

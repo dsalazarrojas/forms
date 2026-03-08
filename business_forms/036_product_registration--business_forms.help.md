@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be designed for registering a product with specific details such as name, purchase date, serial number, and product code. The form likely serves to capture and store product registration information, which can be used for various purposes such as tracking, inventory management, or customer service.
-
-To ensure the form is being used correctly, it's essential to understand its purpose and how to fill it out. This guide will walk you through the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Product Registration - Help Guide
 ## Purpose
 This form is designed for registering a product with details such as purchase date, serial number, and product code. The collected data can be used for tracking, inventory management, or customer service purposes.

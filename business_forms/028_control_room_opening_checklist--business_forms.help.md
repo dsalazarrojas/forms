@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the control room is safe and functional before opening. This form is a checklist to verify that all critical systems are in order, including physical security, power systems, communication systems, monitoring systems, computer systems, environmental controls, and documentation. We should check each section carefully to avoid any potential risks or hazards. Please fill out this form thoroughly and accurately to ensure the control room is ready for operation.
-</thinking>
-
 # Control Room Opening Checklist - Help Guide
 ## Purpose
 The Control Room Opening Checklist is a form used to verify that all critical systems and components are in order before opening the control room for operation. This includes checking physical security, power systems, communication systems, monitoring systems, computer systems, environmental controls, and documentation.

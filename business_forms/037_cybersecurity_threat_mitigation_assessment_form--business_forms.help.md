@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # cybersecurity-threat-mitigation-assessment-form - Help Guide
 ## Purpose
 The Cybersecurity Threat Mitigation Assessment Form is designed to help you identify and assess potential security threats to your business. This form collects information on company details, threat descriptions, mitigation strategies, and security controls to help you understand and address potential risks.

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from business owners and stakeholders to assess the feasibility of a new project. 
-The form will be used to identify key project parameters such as project title, description, status, priority, start and end dates, estimated cost, and project owner. 
-This data will be reviewed and analyzed by project managers to determine whether the project aligns with company goals and objectives. 
-The form is not intended to be a commitment or a promise to undertake the project, but rather a preliminary assessment to gauge its viability. 
-This form will be reviewed internally to avoid duplicating effort and ensure that the project aligns with existing projects. 
-Please ensure that the information provided is accurate and up-to-date to facilitate informed decision-making. 
-Please note that the form is intended for internal use and will not be shared with external parties.
-</thinking>
-
 # project_feasibility_study_request_form - Help Guide
 ## Purpose
 This form is used to assess the feasibility of a new project by collecting key parameters such as project title, status, priority, start and end dates, estimated cost, and project owner.

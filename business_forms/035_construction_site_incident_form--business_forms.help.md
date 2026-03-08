@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Site Incident Form - Help Guide
 
 ## Purpose

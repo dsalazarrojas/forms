@@ -1,7 +1,3 @@
-<thinking>
-This form is a digital representation of a physical "Bill Book" used to record and track invoices for a business. The purpose of this form is to collect and organize invoice information, including customer details, itemized billing data, and payment status. The form is designed to be completed by the accounting or finance team for recording and tracking invoices.
-</thinking>
-
 # Bill Book - Help Guide
 
 ## Purpose

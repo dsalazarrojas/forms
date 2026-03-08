@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the Product Lifecycle Management (PLM) application. It is intended to track product requests, changes, and approvals within an organization. To complete this form, you will need to provide relevant details about the product and the change request. Please make sure to review each field carefully and provide accurate information.
-</thinking>
-
 # Product Lifecycle Management Application - Help Guide
 ## Purpose
 The Product Lifecycle Management Application is used to track and manage product requests, changes, and approvals within an organization.

@@ -1,17 +1,3 @@
-<thinking>
-This form is a Coaching Call Preparation Form, designed for coaches to prepare for coaching sessions with clients. This form ensures that coaches have a clear understanding of the client's goals, progress, and challenges, allowing them to provide effective and personalized coaching. The form is meant to be completed by coaches before each coaching call. 
-
-The form is not intended to be a duplicate or a copy of any existing form, but rather an original adaptation created using AI-generated metadata from public surveys. This form is released under a Creative Commons license, allowing users to use, modify, and share it freely.
-
-This form is part of the "business_forms" category, which likely refers to forms used in business settings. The form is intended for coaches to use in their business coaching practice.
-
-Before using this form, please ensure you are aware of the form's purpose and the context in which it will be used. The form's fields and layout are designed to be intuitive and easy to use. However, if you are unsure about any part of the form, please reach out to form@gic.mx for clarification.
-
-If you are using this form in a context where similar forms are already being used, you may need to modify the form or create a new version to avoid duplication and ensure it meets your specific needs. 
-
-The form's layout and fields are as follows:
-
-</thinking>
 # Coaching Call Preparation Form - Help Guide
 ## Purpose
 This form is designed to help coaches prepare for coaching calls by gathering essential information about the client's goals, progress, and challenges. It helps coaches provide effective and personalized coaching.

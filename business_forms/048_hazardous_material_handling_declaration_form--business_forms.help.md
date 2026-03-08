@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about the handling and declaration of hazardous materials. The purpose of this form is to ensure that businesses are aware of their responsibilities regarding the handling and declaration of hazardous materials. The form will be used to collect data on the business's name, contact person, email, phone number, address, hazardous materials, handling instructions, certification, declaration date, submitted by, submitted on, business ID, hazardous materials description, handling location, handling capacity, declaration type, declaration number, business license, declaration status, notes, certification number, submission date, certification expiration date, and certification status.
-This form is intended to be completed by businesses that handle hazardous materials. The form should only be completed once the business has been certified to handle hazardous materials.
-</thinking>
-
 # hazardous_material_handling_declaration_form - Help Guide
 ## Purpose
 This form is designed to collect information about the handling and declaration of hazardous materials.

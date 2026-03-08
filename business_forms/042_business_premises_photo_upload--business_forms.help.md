@@ -1,25 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's analyze the fields and hints provided in the YAML configuration. The form appears to be for collecting information related to business premises photos, including dates, contact information, property details, and photos of the premises. This form is likely used for insurance or inspection purposes, such as verifying property conditions or assessing potential damage.
-
-The form includes fields for:
-
-*   Date of upload
-*   Contact information (name, email, phone number)
-*   Property name and address
-*   Property type (office, warehouse, retail store, etc.)
-*   Type of inspection (insurance, property, routine review, etc.)
-*   Date of inspection
-*   Photos of exterior, interior, roof condition, HVAC system, and electrical system
-*   Damage observed and description
-*   Maintenance needed
-*   Total number of photos uploaded
-*   Photo quality
-*   Additional notes
-
-Given this analysis, the form's purpose seems to be for collecting and organizing information about business premises photos for inspection, insurance, or other related purposes.
-
-</thinking>
-
 # Business Premises Photo Upload - Help Guide
 ## Purpose
 This form is designed to collect information and upload photos of business premises for inspection, insurance, or other related purposes.

@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's review the form purpose and ensure it's not a duplicate. This form appears to be a comprehensive checklist for swimming pool construction projects, covering various aspects from site inspection to warranty and support. I'll create a clear and concise help guide based on the provided YAML fields. I'll explain each field to the end user and provide tips for filling out the form correctly.</thinking>
-
 # swimming_pool_construction_checklist_form - Help Guide
 ## Purpose
 The swimming pool construction checklist form is designed to aid contractors, builders, or project managers in ensuring the correct steps and checks are performed during a swimming pool construction project. This form helps to maintain a clear and organized workflow, facilitating efficient completion of the project.

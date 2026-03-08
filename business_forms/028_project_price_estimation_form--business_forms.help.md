@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for business use cases, likely for estimating prices for projects. The fields seem to be related to project management and financial data. However, I don't see a "Purpose" field in the provided YAML, so I'm assuming it's for general project price estimation. The form has 7 fields: Project Details, Project Budget, Project Scope, Project Duration, Project Price, Project Location, and Project Type. To confirm, I will create a help guide based on the provided YAML fields.
-</thinking>
-
 # project_price_estimation_form - Help Guide
 ## Purpose
 The project_price_estimation_form is a form used for estimating prices for projects. This form helps users provide detailed information about a project, including its budget, scope, duration, price, location, and type.

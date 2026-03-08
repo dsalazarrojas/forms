@@ -1,5 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the Restaurant Closing Checklist Form. This form is likely used to gather information and data for closing procedures at the end of a shift or day at a restaurant. The form may be used by restaurant staff to report on tasks completed, cash handling, and other important details. It seems that the form is designed to be completed by a staff member or manager, with options for selecting multiple values or providing notes and dates. We will aim to provide a clear and concise guide for users to understand the form's purpose and how to complete it.</thinking>
 # Restaurant Closing Checklist Form - Help Guide
 ## Purpose
 The Restaurant Closing Checklist Form is used to gather information and data for closing procedures at the end of a shift or day at a restaurant. This form helps staff members report on tasks completed, cash handling, and other important details.

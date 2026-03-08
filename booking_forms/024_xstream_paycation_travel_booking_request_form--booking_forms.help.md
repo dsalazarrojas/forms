@@ -1,14 +1,3 @@
-<thinking>
-To ensure that we're on the same page, let's break down the form's purpose and relevance before diving into the help guide.
-
-The xstream_paycation_travel_booking_request_form is designed for users to request travel bookings, allowing them to provide essential details about their travel plans.
-
-Given the form's layout, we can infer that the fields are meant to cover various aspects of a travel request, including the travel date, destination, duration, type, arrival time, number of travelers, contact person, phone number, email address, and any special requests.
-
-This help guide will focus on clarifying each field and making it easy for end-users to understand how to complete the form correctly and efficiently.
-
-</thinking>
-
 # xstream_paycation_travel_booking_request_form - Help Guide
 
 ## Purpose

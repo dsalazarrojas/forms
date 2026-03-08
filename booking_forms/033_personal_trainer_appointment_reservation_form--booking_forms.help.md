@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help users book a personal trainer appointment. The form collects personal details of the trainer, appointment details, and other relevant information such as time slots, availability, and confirmation of the appointment. This form is not intended for trainers to book appointments with themselves, but rather for users to book an appointment with a personal trainer. The form should be used to gather essential information for the trainer to prepare for the appointment.</thinking>
-
 # personal_trainer_appointment_reservation_form - Help Guide
 ## Purpose
 This form is designed to book a personal trainer appointment.

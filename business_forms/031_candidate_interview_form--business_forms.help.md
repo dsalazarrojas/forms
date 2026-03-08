@@ -1,5 +1,3 @@
-<thinking>...I'm assuming this form is used to gather information and feedback from interviewers after a candidate has gone through the hiring process. This form will help to document their performance, skills, and fit with the company culture. It might be used by HR or hiring managers to make informed decisions about which candidates to advance to the next round, or if they're ready for hire. To avoid duplication, it's likely that each interviewer will fill out this form independently, providing a snapshot of their interaction with the candidate. This form will help to gather diverse perspectives and provide a comprehensive view of the candidate's strengths and weaknesses. Each field in this form seems to be designed to capture a specific aspect of the candidate's performance, such as their technical competence, communication skills, and cultural alignment. The 'strengths summary' and 'concerns or gaps identified' fields will likely be used to note qualitative observations and provide context for the final recommendation... </thinking>
-
 # Candidate Interview Form - Help Guide
 
 ## Purpose

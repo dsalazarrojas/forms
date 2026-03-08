@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sound Test Window Booking Form - Help Guide
 
 ## Purpose

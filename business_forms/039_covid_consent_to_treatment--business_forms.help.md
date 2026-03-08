@@ -1,7 +1,3 @@
-<thinking>
-You are about to create a help guide for a form used to obtain patient consent for COVID-19 treatment. This form likely collects various patient information, medical history, and consent for treatment. Ensure the guide clearly explains each field's purpose and requirements.
-</thinking>
-
 # COVID Consent To Treatment - Help Guide
 
 ## Purpose

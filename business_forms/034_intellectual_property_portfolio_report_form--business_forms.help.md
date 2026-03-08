@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a report for intellectual property portfolios. It is intended for use by owners or agents of intellectual property rights. The form's purpose is to collect information about intellectual property portfolios in various stages of development or approval, including patents, trademarks, copyrights, and trade secrets. The form will help users track and manage their portfolios.
-
-It does not duplicate or replicate any proprietary forms used in commercial or proprietary environments, but rather creates a standardized template based on publicly accessible metadata.
-
-</thinking>
-
 # Intellectual Property Portfolio Report Form - Help Guide
 ## Purpose
 This form is designed to collect and document information about intellectual property portfolios. Use it to track and manage your portfolios, including patents, trademarks, copyrights, and trade secrets.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to register their property on the Smart Property Network. The purpose of this form is to collect information about a property, including its type and subtypes, services, and other relevant details. To avoid duplicates, please ensure that the property is not already registered on the network before submitting this form.
-</thinking>
-
 # Smart Property Network Registration Form - Help Guide
 ## Purpose
 The Smart Property Network Registration Form is a tool to collect information about a property's details, including type, subtypes, services, and contact information.

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be for declaring real estate sales, gathering information about the seller and buyer's contact details, property address, sale price and date, time of sale, buyer-seller relationship, property type, and agency details.
-The form seems to be designed for internal use within a business setting. I'll make sure to explain each field clearly for end-users. I'll also check for any redundancy and ensure that the explanation is concise and practical.
-</thinking>
-
 # real_estate_sale_declaration_form - Help Guide
 ## Purpose
 This form is designed to capture essential information for real estate sales transactions. It is intended for use by agents and professionals in the real estate industry to declare sales and gather relevant details about the sale.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect data for an energy audit on LED screens. The purpose of this form is to gather information about the screen's size, wattage, type, location, and other relevant details. This form will help us understand the energy consumption and potential cost savings of using LED screens in various settings. Please ensure that you only fill out this form if you are requesting an energy audit on an LED screen, as this form is specifically designed for that purpose. If you are unsure, please refer to your supervisor or departmental guidelines for guidance.
-
-Note: This form is not intended for other types of energy audits or for non-LED screen-related requests.
-</thinking>
-
 # LED Screen Energy Audit Application Form - Help Guide
 ## Purpose
 The LED Screen Energy Audit Application Form is designed to collect data for energy audits on LED screens. This form helps us understand the energy consumption and potential cost savings of using LED screens in various settings.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Market Alignment Review Form - Help Guide
 
 ## Purpose

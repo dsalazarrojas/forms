@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Credit Reinstatement Request Form - Help Guide
 ## Purpose
 The Vendor Credit Reinstatement Request Form is a tool to help customers request reinstatement of their vendor credit. This form is used to provide detailed information required for our team to review and process the request. Please note that this form is only for genuine requests and not for duplicate or fraudulent purposes.

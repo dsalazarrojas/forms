@@ -1,7 +1,3 @@
-<thinking>
-The form "Global Project Needs Assessment" seems to be designed for gathering information about specific projects that require resources and planning. This form is likely used in a business setting where projects are being managed and assessed. The fields on the form include objectives, challenges, resource needs, and other relevant details. The purpose of the form is to ensure that the projects are adequately equipped and resourced to meet the needs and expectations of all parties involved.
-</thinking>
-
 # Global Project Needs Assessment - Help Guide
 ## Purpose
 This form is used to gather information about a global project, including its objectives, challenges, resource needs, and other relevant details. It helps to ensure that the project is adequately equipped and resourced to meet the needs and expectations of all parties involved.

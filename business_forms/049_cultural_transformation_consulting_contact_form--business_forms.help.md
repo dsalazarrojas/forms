@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers or clients to contact our cultural transformation consulting services. This form is not mandatory, and the information collected will be used to better understand the client's needs and goals. This form will be reviewed internally to ensure that we are not duplicating efforts or resources. Please note that the fields marked as "required" will need to be filled out to complete the form successfully.
-</thinking>
-
 # cultural-transformation-consulting-contact-form - Help Guide
 ## Purpose
 This form is designed to collect information from customers or clients interested in our cultural transformation consulting services. It will help us understand their needs and goals, which will aid us in providing tailored solutions.

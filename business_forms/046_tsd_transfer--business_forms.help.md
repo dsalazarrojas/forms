@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # TSD transfer - Help Guide
 
 ## Purpose

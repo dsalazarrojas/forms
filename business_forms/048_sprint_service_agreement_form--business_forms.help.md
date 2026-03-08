@@ -1,9 +1,3 @@
-<thinking>
-
-This form's purpose is to create a Sprint Service Agreement Form for businesses. The form is designed to capture essential information for a service agreement between a company and its client or customer. Each field on this form has been carefully crafted to help users understand their rights and responsibilities as service providers and clients. The form is not affiliated with any form platform and is an original adaptation of public survey topics.
-
-</thinking>
-
 # Sprint Service Agreement Form - Help Guide
 ## Purpose
 The Sprint Service Agreement Form is a document that outlines the terms and conditions of service between a company and its client or customer. It helps to establish clear expectations and responsibilities for both parties involved.

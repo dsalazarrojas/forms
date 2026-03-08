@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from construction site workers for COVID-19 health screenings. It is essential for the worker to complete this form truthfully and to the best of their ability to ensure accurate and effective health monitoring. Please note that this form is used to assess the worker's health status and potential risk factors for COVID-19 transmission on the construction site.
-
-Before proceeding, please make sure to review each field carefully and answer honestly. The form is designed to gather information on the worker's health status, recent activities, and interactions with others. This information is crucial for site management and health authorities to monitor the situation and take necessary measures to prevent the spread of the virus.
-
-Please ensure that you have not completed this form in the past 14 days, as the information might be outdated.
-
-</thinking>
-
 # Construction Site Covid 19 Protocol Form - Help Guide
 ## Purpose
 The Construction Site Covid 19 Protocol Form is a health screening questionnaire designed to assess the risk of COVID-19 transmission on the construction site. The form is intended to be completed by construction workers to provide information about their health status, recent activities, and interactions with others.

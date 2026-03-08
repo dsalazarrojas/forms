@@ -1,9 +1,3 @@
-<thinking> 
-- The Receipt Claim Form is a document used to submit claims for business receipts, such as employee reimbursements or expense reports.
-- This form is designed to collect relevant information about the receipt, including date, time, amount, and other supporting details.
-- It is essential to ensure that all fields are filled out accurately and consistently to process the claim efficiently.
-</thinking>
-
 # Receipt Claim Form - Help Guide
 ## Purpose
 The Receipt Claim Form is a document used to submit claims for business receipts. It is designed to collect relevant information about the receipt, including date, time, amount, and other supporting details.

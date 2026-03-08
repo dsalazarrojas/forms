@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a business that has been done. The form is called "PowerCore We Did Business Template" and is part of the "business_forms" category. It is not a duplicate of other forms, and it is necessary for the organization to track and analyze business activities.
-</thinking>
-
 # PowerCore We Did Business Template - Help Guide
 ## Purpose
 The PowerCore We Did Business Template is a form designed to collect information about business activities. It helps the organization track and analyze the events, locations, and details of completed business transactions.

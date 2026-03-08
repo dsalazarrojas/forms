@@ -1,7 +1,3 @@
-<thinking>
-To ensure a safe workplace, this form helps you document and maintain accurate records of Personal Protective Equipment (PPE) safety practices and policies. PPE includes equipment such as masks, gloves, safety glasses, and headgear to prevent injury or infection. 
-</thinking>
-
 # PPE Safety Checklist - Help Guide
 ## Purpose
 This form is used to record and track the status of various aspects of personal protective equipment (PPE) in your workplace, including:

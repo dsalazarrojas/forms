@@ -1,11 +1,3 @@
-<thinking>
-The form is used to gather client information for booking confirmation, including client name, email address, phone number, booking ID, appointment date and time, service type, appointment duration, therapist or stylist name, salon or studio location, address, and payment information (service cost, deposit, payment method, etc.). The form is likely used by a beauty hub or salon to confirm client bookings and gather necessary information for service delivery. To ensure accurate and complete bookings, all required fields should be filled out carefully.
-
-This form is designed to collect information from clients who have already made a booking. It is not intended for new bookings or cancellations. Please review the form carefully to ensure you are filling out all necessary fields.
-
-Before filling out the form, please make sure to have your booking ID ready, as it will be required to fill out the form.
-</thinking>
-
 # Beauty Hub Booking Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm client bookings and gather necessary information for service delivery.

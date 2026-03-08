@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for collecting information about safety and compliance concerns or incidents in a business setting. The purpose of this form is to allow individuals to report or inquire about safety concerns or incidents, and to contact relevant personnel for follow-up or further assistance. This form appears to be intended for internal use within the organization, allowing employees or other stakeholders to reach out to the safety and compliance officers or reporting officers for support. To determine if this form is being used correctly, one would need to verify that it is being used for its intended purpose and not for other reasons such as general customer service or sales inquiries.
-</thinking>
-
 # Safety & Compliance Officer Contact Form - Help Guide
 ## Purpose
 The purpose of this form is to allow employees or other stakeholders to report or inquire about safety and compliance concerns or incidents, or to contact safety and compliance officers or reporting officers for follow-up or further assistance.

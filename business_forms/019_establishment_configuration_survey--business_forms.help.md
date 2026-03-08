@@ -1,5 +1,3 @@
-<thinking>What is the purpose of the "Establishment Configuration Survey" form? The primary goal of this form is to collect information about a business, specifically its establishment details, operating hours, and service offerings. By completing this form, businesses can provide essential information for surveys, such as location address, operating hours, and services offered. The form will help surveyors understand the business's operational setup and requirements, allowing them to conduct surveys effectively and efficiently.</thinking>
-
 # Establishment Configuration Survey - Help Guide
 ## Purpose
 The Establishment Configuration Survey form is designed to collect essential information about a business, including its location, operating hours, and service offerings. This information will help surveyors conduct surveys accurately and efficiently.

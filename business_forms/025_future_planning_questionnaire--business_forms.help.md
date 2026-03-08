@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of the "future_planning_questionnaire" form is to gather information on an individual's future plans and goals, including their career and personal aspirations, financial support, risk tolerance, and self-care habits. This information is likely used to create a comprehensive profile or assessment of the individual's future prospects and challenges. It's possible that this form is used in a professional setting, such as in a career development or career coaching context.
-
-Before filling out this form, it's essential to understand that it's designed to be completed by the individual themselves, providing their personal and subjective insights into their future plans and goals. 
-
-This form is not intended to be a comprehensive survey, but rather a snapshot of the individual's current thoughts and feelings at the time of completion. It's a self-assessment tool to help individuals identify their goals, priorities, and challenges.
-
-To complete this form, please read each section carefully and answer the questions truthfully. If you're unsure about any of the questions, try to respond based on your current thoughts and feelings.
-
-</thinking>
-
 # future_planning_questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to gather information on your future plans and goals, including career and personal aspirations, financial support, risk tolerance, and self-care habits.

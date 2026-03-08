@@ -1,13 +1,3 @@
-<thinking>
-
-We're assuming this form is used for potential sponsors, partners, or collaborators to inquire about potential partnership or sponsorship opportunities. This form is likely used to gather information from potential collaborators and to help the company manage and track inquiries. Before filling out this form, please ensure that you've reviewed our company's existing partnership or sponsorship opportunities, and that this collaboration aligns with our current strategic goals and objectives.
-
-This form is a self-contained unit, and filling it out will likely trigger internal review and follow-up actions from the company's partnership or sponsorship team.
-
-Please fill out this form if you're interested in exploring potential partnership or sponsorship opportunities with our company. If you've already submitted an inquiry, please do not submit it again. Instead, contact our team to discuss the status of your previous inquiry.
-
-</thinking>
-
 # sponsorship_collaboration_inquiry_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from potential sponsors, partners, or collaborators about their interest in working with our company.

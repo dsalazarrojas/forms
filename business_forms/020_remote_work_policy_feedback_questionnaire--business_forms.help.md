@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather feedback from employees on the effectiveness of the company's remote work policy. It's intended to help the company understand whether the policy is meeting the needs and expectations of remote workers, and identify areas for improvement. Please note that this form is not intended for immediate action or decision-making, but rather for ongoing feedback and policy development.
-
-This form is meant to be filled out by employees who work remotely or who are interested in working remotely. If you're unsure if this form applies to you, please ask your HR representative or supervisor for clarification.
-
-</thinking>
-
 # Remote Work Policy Feedback Questionnaire - Help Guide
 
 ## Purpose

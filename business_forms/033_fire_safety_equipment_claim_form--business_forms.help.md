@@ -1,9 +1,3 @@
-<thinking>
-This form is for employees to report and claim any damage or issues with fire safety equipment. It's essential to fill out the form thoroughly and accurately to ensure that the necessary actions are taken to rectify the situation.
-Please check that you have not already submitted a report for this claim before filling out this form. Duplicate submissions can lead to confusion and delay in resolving the issue.
-Ensure that you have attached all relevant supporting documents to the form before submitting it.
-</thinking>
-
 # Fire Safety Equipment Claim Form - Help Guide
 ## Purpose
 This form is designed to allow employees to report and claim any damage or issues with fire safety equipment. It's essential to fill out the form accurately and thoroughly to ensure that the necessary actions are taken to rectify the situation.

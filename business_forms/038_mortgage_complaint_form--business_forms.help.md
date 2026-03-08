@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from homeowners who have filed a complaint regarding a mortgage issue. This form will gather essential details such as the homeowner's information, the type of complaint, and the supporting documentation. The form is designed to be completed by the homeowner in a straightforward and efficient manner. It's essential to review the form carefully to ensure that all required fields are filled out correctly. If you're unsure about any field, please refer to this guide for clarification.
-</thinking>
-
 # Mortgage Complaint Form - Help Guide
 ## Purpose
 The Mortgage Complaint Form is used to collect information from homeowners who have filed a complaint regarding a mortgage issue.

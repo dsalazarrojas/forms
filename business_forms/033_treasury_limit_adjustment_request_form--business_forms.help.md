@@ -1,5 +1,3 @@
-<thinking>Before designing the form's user-facing help guide, let me first understand the form's purpose and requirements. I will review the provided YAML fields to determine how they contribute to this form's functionality. I will aim to create a clear and concise guide that explains the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Treasury Limit Adjustment Request Form - Help Guide
 ## Purpose
 The Treasury Limit Adjustment Request Form is used to request changes to the treasury limit for a user's account. This form is typically used when a user needs to adjust their treasury limit due to changes in their business needs or circumstances.

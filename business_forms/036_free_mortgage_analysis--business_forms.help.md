@@ -1,28 +1,3 @@
-<thinking>
-This form is designed to help users understand the implications of taking out a mortgage. By providing information about the mortgage amount, interest rate, loan term, and other related data, the form aims to calculate various aspects of the mortgage, such as monthly payment, total interest, and total balance. This form is useful for individuals or businesses planning to take out a mortgage and wanting to understand the financial implications of doing so.
-
-It's essential to note that this form does not actually perform any calculations, but rather provides examples and explanations of what users should expect in different scenarios. 
-
-The form is divided into the following sections:
-	* Mortgage Amount: The initial amount borrowed for the mortgage.
-	* Interest Rate: The rate at which the interest on the mortgage is charged.
-	* Loan Term: The duration of the mortgage in years.
-	* Annual Rate: This field is likely intended to show the annual interest rate, but it seems to be redundant with the Interest Rate field. It's unclear what this field is for.
-	* Monthly Payment: The calculated monthly payment amount based on the mortgage amount and interest rate.
-	* Total Interest: The total interest paid over the life of the mortgage.
-	* Years Owned: The number of years the mortgage has been in effect.
-	* Month Owned: The number of months the mortgage has been in effect.
-	* Interest Paid: The total interest paid on the mortgage.
-	* Principal Paid: The total principal paid on the mortgage.
-	* Total Balance: The remaining balance on the mortgage after all payments.
-
-This form seems to have some redundancy and inconsistencies. For example, 'Annual Rate' and 'interest_rate' are likely the same thing. 'Years Owned' and 'month_owned' are likely redundant, as one of them could be removed without impacting the form's functionality.
-
-The form does not ask for any additional information such as credit score, location, or other relevant factors that could impact mortgage calculations. This might lead to unrealistic or inaccurate results.
-
-Given the above considerations, we will proceed to create a help guide that provides the best-effort explanations for the fields.
-</thinking>
-
 # Free Mortgage Analysis - Help Guide
 ## Purpose
 This form helps users understand the implications of taking out a mortgage. It guides you through providing information about your mortgage amount, interest rate, loan term, and other relevant data to calculate various mortgage aspects.

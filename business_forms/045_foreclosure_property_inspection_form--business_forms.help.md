@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a property in foreclosure. The purpose of this form is to gather details about the property's current status, including its location, type, and condition. This information will help inspectors and other stakeholders assess the property's current state and make informed decisions.
-</thinking>
-
 # Foreclosure Property Inspection Form - Help Guide
 ## Purpose
 This form is designed to collect information about a property in foreclosure. The information collected will help assess the property's current status and make informed decisions.

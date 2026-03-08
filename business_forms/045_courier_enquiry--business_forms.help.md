@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information about a courier service request from a client. The form is intended to be used by customers who want to send packages to different destinations. To use this form, the client should have a legitimate reason for sending a package. If the client has already submitted a similar request in the past 30 days, they will be prevented from submitting this form. This is to prevent duplication of requests.
-
-Please note that this form is not intended for commercial or business-to-business use cases. It is solely meant for individual customers.
-
-The form is divided into different sections, each with a specific purpose. The client details section is for collecting information about the client. The package details section is for providing information about the package being sent. The delivery details section is for specifying the delivery address and date. The client phone and email sections are for collecting contact information. The package weight and dimensions sections are for providing details about the package's weight and size.
-</thinking>
-
 # Courier Enquiry - Help Guide
 ## Purpose
 This form is designed to gather information about a courier service request from a client. It is intended to be used by customers who want to send packages to different destinations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for requesting an audit on a transaction involving a third-party vendor. The form is used by internal business users to initiate an audit, which helps ensure that transactions are accurate, compliant, and in line with company policies. The form will be reviewed by an appropriate authority to assess and potentially approve or reject the transaction. The form does not require submission of sensitive financial information, only information relevant to the transaction being audited.
-</thinking>
-
 # Vendor Transaction Audit Request Form - Help Guide
 ## Purpose
 The Vendor Transaction Audit Request Form is used to request an audit on a transaction involving a third-party vendor. This form helps ensure that transactions are accurate, compliant, and in line with company policies.

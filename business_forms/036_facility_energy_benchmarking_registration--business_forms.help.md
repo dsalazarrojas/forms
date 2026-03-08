@@ -1,12 +1,3 @@
-<thinking>
-We need to ensure that end users understand the purpose and context of this form before proceeding with completion. The Facility Energy Benchmarking Registration form is a crucial step in tracking and evaluating the energy consumption and usage patterns of facilities within a certain region or industry. By accurately filling out this form, users will be providing valuable data that will help us understand and improve energy consumption habits. 
-
-To prevent duplication, we will check for existing facility records before allowing new registrations. This ensures that the data we collect is up-to-date and accurate.
-
-Please note that the following fields will be required for a complete registration:
-Facility Name, Facility Address, Facility Location, Contact Name, Contact Email, Contact Phone, Program Name, Program Start Date, Program End Date, Building Square Feet, Building Type, Building Energy Use, Participant Name, Participant Email, Participant Phone, and Terms and Conditions.
-</thinking>
-
 # Facility Energy Benchmarking Registration - Help Guide
 ## Purpose
 The Facility Energy Benchmarking Registration form is a crucial tool in tracking and analyzing energy consumption patterns of facilities. It provides us with valuable data to understand and improve energy consumption habits.

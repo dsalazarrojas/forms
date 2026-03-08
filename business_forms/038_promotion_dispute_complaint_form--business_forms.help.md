@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Promotion Dispute Complaint Form - Help Guide
 ## Purpose
 This form is designed to collect information about promotions that have been disputed by a customer. It's intended for customers to provide details about the issue they're experiencing with a promotion, which will be reviewed and addressed by our support team.

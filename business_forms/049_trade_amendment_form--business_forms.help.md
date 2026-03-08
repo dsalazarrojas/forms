@@ -1,14 +1,3 @@
-<thinking>
-This form is for making changes to a trade agreement. The user needs to fill out the form with the required information to update the trade agreement accordingly. 
-
-The main goal of this form is to provide a clear and structured way to collect the necessary details for a trade amendment. 
-
-The form should not be filled out if the trade agreement has already been amended or updated, as this would be considered a new trade amendment. 
-
-The trade amendment form has several fields that need to be filled out. These fields provide the necessary information for making changes to a trade agreement.
-
-</thinking>
-
 # Trade Amendment Form - Help Guide
 ## Purpose
 The Trade Amendment Form is used to update existing trade agreements. 

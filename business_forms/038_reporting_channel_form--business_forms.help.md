@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # reporting_channel_form - Help Guide
 ## Purpose
 This form is used to report issues and feedback on various channels, such as email, phone, or other custom channels. It captures essential details about the issue, including the issue description, category, and priority. This form is used to track and manage issues reported through different channels.

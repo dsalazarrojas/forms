@@ -1,9 +1,3 @@
-<thinking>
-This form is used for submitting weekly updates from team members. It is likely used in a business or organizational setting where team members need to regularly report their progress, status, or updates. 
-The form is used to collect information about the weekly updates from team members, including the date and time of the update, the type of update, category, and status of the update. 
-The form is likely used by team leaders or managers to track and monitor the progress of team members.
-</thinking>
-
 # pp_weekly_update - Help Guide
 ## Purpose
 The pp_weekly_update form is used to submit weekly updates from team members, providing information about the date and time of the update, the type and category of the update, and its status.

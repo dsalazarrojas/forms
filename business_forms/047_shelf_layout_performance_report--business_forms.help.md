@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect performance data from store owners and managers to assess the overall layout and organization of their store's shelves. The form will help store owners evaluate the current state of their shelf layout and identify areas for improvement. By completing this form, store owners can get a clear understanding of their store's performance and make informed decisions about future adjustments to their shelf layout.
-</thinking>
-
 # Shelf Layout Performance Report - Help Guide
 ## Purpose
 The Shelf Layout Performance Report is a tool used by store owners and managers to assess the overall performance of their store's shelves. This report helps store owners identify strengths and weaknesses in their shelf layout and make data-driven decisions to improve their store's organization and customer satisfaction.

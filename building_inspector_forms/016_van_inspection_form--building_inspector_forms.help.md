@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Van Inspection Form. The form is designed to collect information about a van's inspection, including its make, year, engine size, engine type, transmission, body type, condition, safety features, and inspection details. The form is likely used by mechanics or inspectors to record and document the results of a van inspection, which could be used for maintenance, repair, or certification purposes.
-
-To determine if this guide is relevant, we've reviewed the form's fields and their descriptions. All fields are required, indicating that the form is comprehensive and requires complete information. The fields are also diverse, suggesting that the form is used for a specific purpose, such as inspection, maintenance, or certification.
-
-Before proceeding, please note that the form's fields may not be exhaustive, and some fields may have unclear or weak labels. In such cases, we'll explain the field's purpose based on our understanding of the provided YAML fields, and provide practical guidance for users to complete the form.
-
-</thinking>
-
 # Van Inspection Form - Help Guide
 ## Purpose
 The Van Inspection Form is a comprehensive guide for inspecting and documenting a van's condition, features, and details. It is likely used for maintenance, repair, or certification purposes.

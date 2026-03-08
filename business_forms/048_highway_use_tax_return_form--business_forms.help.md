@@ -1,12 +1,3 @@
-<thinking>
-Business Forms are used to collect information from users for administrative and regulatory purposes. This form is likely used to collect data for a government agency or a business that needs to track highway usage and associated costs. This form might be used for auditing purposes, to calculate taxes owed, or to monitor usage patterns.
-
-The form is structured around vehicle usage, with fields for vehicle make, model, license plate number, dates of usage, miles driven, mileage efficiency, gas consumption, and associated costs. Each field is designed to collect specific information to calculate a total tax owed, although the exact calculation method and purpose are not explicitly stated in this YAML definition.
-
-This form is likely intended for users to report their highway usage, and the provided fields would support a basic calculation of tax owed based on fuel efficiency, miles driven, and associated costs. It could also be used for other related purposes, such as monitoring tolls and fees, or tracking overall vehicle performance.
-
-</thinking>
-
 # Highway Use Tax Return Form - Help Guide
 ## Purpose
 The Highway Use Tax Return Form is a data collection form designed to gather information about a vehicle's highway usage. This form is typically used for tax reporting and auditing purposes.

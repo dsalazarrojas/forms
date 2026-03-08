@@ -1,7 +1,3 @@
-<thinking>
-The Investment Readiness Assessment Form is a crucial tool for investors and entrepreneurs to determine the readiness of a business for investment. This form serves as a comprehensive checklist to evaluate a company's characteristics, financials, and other essential details. To ensure accurate and efficient completion, please review each field carefully and answer truthfully. This form may seem extensive, but it is designed to gather essential information to help investors make informed decisions. Please note that some fields are required, and providing incomplete or misleading information may lead to incorrect assessments.
-</thinking>
-
 # Investment Readiness Assessment Form - Help Guide
 ## Purpose
 

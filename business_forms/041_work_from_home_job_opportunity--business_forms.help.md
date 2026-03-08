@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # work_from_home_job_opportunity - Help Guide
 ## Purpose
 The work_from_home_job_opportunity form is designed to collect information about a job opportunity that allows employees to work from home. This form is used to gather details about the job, such as job title, description, and requirements, which can help employers and potential employees make informed decisions about remote work arrangements.

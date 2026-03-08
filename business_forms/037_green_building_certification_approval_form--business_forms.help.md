@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a green building certification process. It is likely used by building owners, architects, or other stakeholders to track and report on the progress of green building projects. This form should only be filled out for projects that are relevant to green building certification, and should not be used for other purposes. Please ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # green_building_certification_approval_form - Help Guide
 ## Purpose
 The green building certification approval form is used to track and report on the progress of green building projects. This form helps to ensure that projects meet the necessary requirements for green building certification.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for clients of accounting firms to provide their profile information. The purpose of this form is to gather essential details about the client's business, including contact information, industry sector, tax classification, accounting method, and preferred communication frequency. This information will help the accounting firm tailor its services to the client's specific needs and ensure accurate service setup.
-</thinking>
-
 # Accounting Firms Client Profile Form - Help Guide
 ## Purpose
 The Accounting Firms Client Profile Form is designed to collect essential information about your business, allowing us to provide personalized service tailored to your specific needs.

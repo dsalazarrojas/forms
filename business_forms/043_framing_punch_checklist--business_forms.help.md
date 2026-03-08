@@ -1,7 +1,3 @@
-<thinking>
-The provided YAML describes a framing punch checklist form, which appears to be used to track tasks, requirements, tools, equipment, dates, and notes for framing work on-site. Given the numerous "notes" fields present in the form, it seems likely that this form is used for project management or quality control within a framing or construction context. However, without further context or business logic, it's challenging to confirm the exact purpose with certainty. It's essential to ensure that the form is used for its intended purpose and that all fields are relevant to the task at hand. To confirm, it would be helpful to review the project's requirements and ensure that this form accurately addresses those needs. For now, I'll proceed under the assumption that this form is indeed relevant and will provide a user-facing help guide based on the given structure.
-</thinking>
-
 # framing_punch_checklist - Help Guide
 ## Purpose
 The framing punch checklist form is designed to track and document tasks, requirements, tools, equipment, and notes related to framing work on-site. This form should be used to ensure that all necessary tasks are completed, and relevant details are recorded accurately.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial tool for production teams to ensure that all necessary steps are taken when closing a production, making it easier to track and document the process for future reference. This form is used to gather information about the production site, production date and time, production location, and other relevant details. By filling out this form, production teams can provide a comprehensive account of the production's status, making it easier to evaluate and improve their performance.
-</thinking>
-
 # Production Closure Checklist - Help Guide
 ## Purpose
 The Production Closure Checklist form is designed to gather crucial information about a production closure process. It helps production teams to document and record the essential details of a production, making it easier to track and evaluate their performance.

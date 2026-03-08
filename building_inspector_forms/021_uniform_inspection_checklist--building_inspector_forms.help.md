@@ -1,12 +1,3 @@
-<thinking>
-Form purpose: Ensure consistency and quality of equipment and supplies used in a uniform inspection process.
-
-Form relevance: This form is used to standardize the inspection of uniforms and equipment used by building inspectors, making it easier to identify any issues and take corrective action.
-
-Form duplication check: This form is designed to be used by different departments within the organization, but its structure and content should be reviewed for consistency before use.
-
-</thinking>
-
 # Uniform Inspection Checklist - Help Guide
 ## Purpose
 The Uniform Inspection Checklist is a standard form designed to help building inspectors evaluate and report on the quality and condition of uniforms and equipment used in the inspection process. This form ensures that all inspectors follow a consistent process, reducing subjective judgments and promoting fairness.

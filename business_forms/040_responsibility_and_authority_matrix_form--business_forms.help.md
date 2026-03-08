@@ -1,18 +1,3 @@
-<thinking>
-
-This form appears to be designed to document the responsibility and authority matrix for a process or project. The matrix is likely used to track which teams or team members are responsible for various aspects of a project or process and who has authority over them. The form might be used in a business settings to ensure accountability and clarity on roles and responsibilities. 
-
-The form is structured with 26 fields across two pages, with multiple sections focused on responsibility and authority. It seems that each section is designed to capture information on a particular aspect of the process or project, such as team members, responsible roles, and authority.
-
-To confirm, let's review the fields:
-
-- The first page seems to be an introduction or overview page with a general description of the process or project.
-- The second page appears to have a mix of fields for capturing specific information, such as team members, responsible roles, and authority, with some sections allowing for additional comments and review dates.
-
-This form is likely used for tracking and documentation purposes, ensuring that all stakeholders are aware of their responsibilities and areas of authority. It's worth noting that some fields might be redundant or unnecessary in certain contexts, so it's crucial to review each field carefully to understand its purpose and relevance.
-
-</thinking>
-
 # Responsibility and Authority Matrix Form - Help Guide
 ## Purpose
 The Responsibility and Authority Matrix Form is designed to document and track the roles and responsibilities of teams or team members for a process or project. It is used to ensure clarity and accountability in a business setting.

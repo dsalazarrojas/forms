@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to record the time clocking in and out of employees, drivers, or other personnel within a shared living arrangement. It is used to track the hours worked, time spent on tasks, and other relevant details. The form is meant for internal use within the facility or organization, and is likely used by management or HR to monitor work hours, track productivity, and maintain accurate records.
-
-To use this form, you should ensure that you are accessing a valid version of the form and that you are filling it out for the correct purpose. Please note that some fields may be optional, but providing accurate and relevant information will help ensure that the form is used correctly.
-
-</thinking>
-
 # Shared Living Clock In And Out Form - Help Guide
 ## Purpose
 This form is used to track the clocking in and out of employees or personnel within a shared living arrangement, including time clocked in, time clocked out, and other relevant details.

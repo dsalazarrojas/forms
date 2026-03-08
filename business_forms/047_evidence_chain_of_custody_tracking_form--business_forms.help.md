@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to track the chain of custody of evidence in a case, which means monitoring who had possession, custody, or control of the evidence from the point of collection to the point of presentation in court. This form helps ensure that the evidence is handled and stored properly, maintaining its integrity and admissibility in court. To ensure that the form is completed correctly and efficiently, the user should review each page carefully and fill out all required fields.
-</thinking>
-
 # Evidence Chain Of Custody Tracking Form - Help Guide
 ## Purpose
 The Evidence Chain Of Custody Tracking Form is designed to monitor the handling and storage of evidence in a case from collection to presentation in court.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect data from road inspections. It appears to be a standard inspection form used to assess the condition and characteristics of a road, including its surface, grade, and alignment. The form includes fields for the inspector's notes, date of inspection, and condition of various road features. The form also has multiple select multiple fields for rating the condition of the road, its grade, surface, and surface texture. It is likely used for quality control, maintenance, or survey purposes.
-</thinking>
 # Road Inspection Checklist - Help Guide
 ## Purpose
 This form is used to collect data from road inspections, including its surface, grade, alignment, and condition. The goal is to provide a standard assessment of the road's features.

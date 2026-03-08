@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help freight terminals conduct safety inspections to identify and address potential safety risks and hazards. The purpose of this form is to gather information about the terminal's safety status, identify areas that need improvement, and facilitate the completion of necessary corrective actions.
-
-To ensure that your data is accurate and helpful, please review the following sections carefully.
-
-This form was generated based on public survey topic metadata and is not affiliated with, endorsed by, or derived from any proprietary form platform.
-</thinking>
-
 # freight_terminal_safety_inspection_form - Help Guide
 ## Purpose
 The freight terminal safety inspection form is used to identify and document safety risks and hazards at freight terminals. It helps terminals evaluate their safety status, pinpoint areas for improvement, and ensure compliance with regulatory requirements.

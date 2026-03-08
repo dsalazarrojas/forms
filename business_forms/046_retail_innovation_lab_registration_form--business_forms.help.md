@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # retail_innovation_lab_registration_form - Help Guide
 ## Purpose
 

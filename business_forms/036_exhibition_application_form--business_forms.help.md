@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to guide applicants through the process of applying for an exhibition. The form is not affiliated with, endorsed by, or derived from any form platform, and it's an original adaptation created using AI. The purpose of this form is to collect information from applicants about their exhibitions, including contact information, exhibition details, product information, and any additional details they might want to provide. 
-
-Before filling out this form, please make sure that you are applying for a genuine exhibition and that the information provided is accurate and complete. 
-
-This form is a simple, text-based form with six pages, each focusing on a different aspect of the exhibition application process. 
-
-Please ensure that you have all the necessary information before starting, as some fields are optional while others are required.
-
-</thinking>
-
 # Exhibition Application Form - Help Guide
 ## Purpose
 This form is designed to guide applicants through the process of applying for an exhibition, collecting information about their exhibitions, contact details, product information, and any additional details they might want to provide.

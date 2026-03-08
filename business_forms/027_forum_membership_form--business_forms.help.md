@@ -1,6 +1,3 @@
-<thinking>
-To confirm, we are designing a user-facing help guide for the "Forum Membership Form" in the "business_forms" category. The form purpose is to allow users to join a forum by providing personal information, and the form fields are for collecting the user's first and last name, email address, and password. We will aim to explain each field clearly and concisely in the guide, assuming the password field is used for account creation or login purposes only. Since the form is not affiliated with any particular platform, we will use a neutral tone to describe its functionality.</thinking>
-
 # Forum Membership Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a charter service request form, this form is designed to collect information from customers regarding their charter service needs. The form is divided into several sections that cover essential details about the customer, trip requirements, and preferences. To prevent duplication, customers are not allowed to submit the form multiple times for the same trip date. The form is designed to be completed by the customer in a sequential manner, starting with their personal details, followed by trip details, and finally, any additional information or preferences. This form is meant to be completed by the customer before submitting a request to the charter service provider.</thinking>
-
 # Charter Service Request Form - Help Guide
 ## Purpose
 The Charter Service Request Form is designed to collect information from customers regarding their charter service needs, including personal details, trip details, and preferences.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Worker Certification Program Contact Form" is to collect contact information and certification interests from workers. This form is typically used by workers who are interested in participating in certification programs to gather more information about their certification interests and contact details. It is essential to complete this form accurately to ensure that workers receive the correct information and support they need.
-</thinking>
-
 # Worker Certification Program Contact Form - Help Guide
 ## Purpose
 The Worker Certification Program Contact Form is designed to collect contact details and certification interests from workers interested in participating in certification programs. To complete this form, please follow the instructions below.

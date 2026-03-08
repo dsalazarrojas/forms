@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect registration information from new customers interested in investing in a particular category. The fields are designed to gather essential details such as name, contact information, investment preferences, and any additional notes or comments. This form ensures that the customer's data is collected consistently and accurately, allowing for efficient processing and follow-up actions.
-</thinking>
-
 # new_customer_investment_registration_form - Help Guide
 ## Purpose
 This form is designed to gather registration information from new customers interested in investing in a particular category.

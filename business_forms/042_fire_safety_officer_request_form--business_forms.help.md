@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fire Safety Officer Request Form - Help Guide
 ## Purpose
 The Fire Safety Officer Request Form is a document used to report and document fire risks and hazards in the workplace, identify fire safety measures and training needs, and provide emergency contact information. This form will help to ensure that the workplace is a safe and compliant environment for all employees.

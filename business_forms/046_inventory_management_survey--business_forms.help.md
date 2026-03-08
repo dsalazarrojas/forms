@@ -1,6 +1,3 @@
-<thinking>
-You are about to create a help guide for an "Inventory Management Survey" form. Before we begin, let's consider the form's purpose and ensure we are not duplicating any existing guides. The purpose of this form is to gather information about inventory management practices and processes within an organization. It's essential to understand the survey questions and ensure they are comprehensive enough to cover various aspects of inventory management, without being overly broad or too narrow. The questions seem to cover stock management, inventory types, stock loss rates, and purchasing processes. Double-check that this form will not be replacing or overlapping with any other forms used for similar purposes within the organization.</thinking>
-
 # Inventory Management Survey - Help Guide
 ## Purpose
 The Inventory Management Survey is designed to collect information about an organization's inventory management practices and processes. This form aims to gather data on various aspects of inventory management, including inventory types, stock management, stock purchasing processes, and more. 

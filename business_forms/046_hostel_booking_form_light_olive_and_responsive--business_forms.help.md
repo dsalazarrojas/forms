@@ -1,12 +1,3 @@
-<thinking>
-This help guide is for the "hostel_booking_form_light_olive_and_responsive" form, which is used for booking a hostel. This form is designed to collect information from users for the purpose of booking a room at the hostel.
-
-To ensure that this form is filled out correctly, please note that some fields are optional, while others are required. The form is divided into two main sections: checkin and checkout dates, and payment method.
-
-Before filling out the form, please confirm that you have all the necessary information ready, including your arrival and departure dates, room type, and payment method.
-
-</thinking>
-
 # hostel_booking_form_light_olive_and_responsive - Help Guide
 ## Purpose
 This form is used for booking a room at the hostel.

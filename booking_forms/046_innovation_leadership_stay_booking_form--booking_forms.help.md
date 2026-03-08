@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Innovation Leadership Stay Booking Form - Help Guide
 ## Purpose
 This form is designed to book a retreat center for Innovation Leadership stays. It is intended for booking a specific type of stay, such as a retreat or other type of stay. The form is meant to gather necessary information from the guest to accommodate their needs during their stay.

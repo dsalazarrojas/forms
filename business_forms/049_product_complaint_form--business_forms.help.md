@@ -1,10 +1,3 @@
-<thinking>
-This form is for customers to submit complaints or feedback about a product. It's used to report issues with a product, provide feedback on the product experience, or ask for assistance. This form helps us to categorize and prioritize complaints, which is essential for efficient and effective support.
-
-To ensure that we handle each complaint fairly and consistently, we only allow customers to submit one complaint at a time. We'll check for duplicate complaints before processing each submission. This will save time and reduce confusion for our support team and ensure that we don't waste resources on duplicate work.
-
-</thinking>
-
 # Product Complaint Form - Help Guide
 ## Purpose
 The Product Complaint Form is designed to help customers report issues or provide feedback on products. This form allows you to submit a complaint or feedback in a structured format, ensuring that we can efficiently categorize and prioritize each complaint.

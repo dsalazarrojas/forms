@@ -1,16 +1,3 @@
-<thinking>
-This form is likely part of a workflow for inspecting vacation rental properties, where the goal is to assess the condition and status of the property. The form likely helps in documenting and tracking the progress of the inspection process. This form might be used by property managers or inspectors to record their findings, and the information collected will be used to make informed decisions about the property's maintenance and upkeep.
-This form is likely used in the context of a web application or a mobile app, where users can easily navigate and fill out the form on their device of choice.
-The form consists of multiple fields that collect various types of information, including text, date, time, and selection fields. The fields are organized into a logical flow, and each field has a clear label and description.
-The fields can be broadly grouped into several categories:
-* Property status and condition
-* Inspection details
-* Contact and assignment information
-* Inspection status and result
-* Additional information and attachments
-The purpose of this form is to ensure that all relevant information is collected during the inspection, and that the property's status is accurately reflected in the database.
-</thinking>
-
 # Vacation Rental Inspection Form - Help Guide
 ## Purpose
 This form is used to inspect vacation rental properties and collect data on their status, condition, and maintenance needs. It helps in documenting and tracking the progress of the inspection process.

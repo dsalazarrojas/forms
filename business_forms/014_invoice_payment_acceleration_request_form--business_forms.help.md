@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request payment acceleration from the finance team. Before submitting, please ensure that you have not already submitted a request for the same invoice and that the request is accurate and complete. Incomplete or duplicate requests may cause unnecessary delays and inefficiencies in the payment process.
-</thinking>
-
 # Invoice Payment Acceleration Request Form - Help Guide
 ## Purpose
 This form is used to request payment acceleration from the finance team. Please use it to submit requests for invoices that need urgent payment processing.

@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a workforce planning matrix form designed for team management and organization. It likely serves as a tool for team leaders to provide insights into the team's structure, priorities, and other relevant details. The form includes fields for department information, staff priorities, next steps, contact details, and team lead designations. It seems to be a comprehensive form for team management and planning purposes.</thinking>
-
 # Workforce Planning Matrix Form - Help Guide
 ## Purpose
 The Workforce Planning Matrix Form is designed to gather essential information about team structure, priorities, and other key details. This form is intended for team leaders to provide accurate and complete data for workforce planning and management.

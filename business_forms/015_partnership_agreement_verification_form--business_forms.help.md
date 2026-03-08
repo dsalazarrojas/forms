@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # partnership-agreement-verification-form - Help Guide
 
 ## Purpose

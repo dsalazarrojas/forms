@@ -1,13 +1,3 @@
-<thinking>
-This form is used to gather information from end-users, likely employees or vendors, to facilitate communication and contact between them and the Vendor Finance Office. It is essential to complete this form accurately and thoroughly to ensure that the information is recorded correctly and acted upon.
-
-When filling out this form, please consider the following guidelines to ensure that your submission is processed efficiently:
-
-* Ensure that you fill out all required fields (Vendor Name, Office Location, Contact E-mail, Contact Phone, and Message).
-* For fields that are not required (Vendor Notes), use them to provide any additional context or information that might be helpful for the Vendor Finance Office.
-
-</thinking>
-
 # Vendor Finance Office Contact Form - Help Guide
 
 ## Purpose

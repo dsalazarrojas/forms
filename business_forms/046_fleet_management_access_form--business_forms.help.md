@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to manage access to a fleet of vehicles. The form will be used to request access to a vehicle, allowing users to specify their vehicle access requests and related information. The form has been designed with multiple pages, each with its own set of fields. To ensure that the form is completed accurately and efficiently, it is essential to understand the purpose and functionality of each field.
-
-Before proceeding, please note that this form is not intended to create or modify any existing data. It is a request form, and its purpose is to capture information for access requests only.
-
-Please verify that you have read and understood the form's purpose before continuing. If you have any doubts or concerns, please refer to your supervisor or the form's creator.
-
-</thinking>
-
 # fleet_management_access_form - Help Guide
 ## Purpose
 The fleet management access form is used to request access to a fleet of vehicles. This form is used to capture essential information about the access request, including vehicle access status, driver information, access date, and start time.

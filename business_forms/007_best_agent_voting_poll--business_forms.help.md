@@ -1,5 +1,3 @@
-<thinking>As the form is a "Best Agent Voting Poll", the purpose of the form is to gather opinions and ratings from employees on their colleagues who are being nominated for an award. The form aims to collect information on the nominee's performance, qualities, and achievements, which will be used by the awards committee to evaluate and select the best agent for the award. This form is likely to be used for internal purposes within an organization, and the results will be used to recognize and reward outstanding employee performance.</thinking>
-
 # Best Agent Voting Poll - Help Guide
 
 ## Purpose

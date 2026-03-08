@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for custom furniture delivery services. The form is intended for customers who wish to schedule a custom delivery of furniture items. The purpose of this form is to gather essential details from customers such as contact information, delivery date and time, and other necessary details for the delivery process. This form will likely be used by sales or customer service teams to communicate with customers and arrange for the delivery of custom-made furniture items.
-</thinking>
-
 # Custom Furniture Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for custom furniture delivery services. It is intended for customers who wish to schedule a custom delivery of furniture items.

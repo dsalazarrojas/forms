@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect contact information and order preferences from customers or clients for the business "Color Street W Kelli Independent Stylist". The form has 9 fields, including name, email, phone, color selection, date, and a note section for additional information. This guide will walk you through each field, ensuring a smooth and accurate completion process for users.
-
-</thinking>
-
 # VIP Order Form Color Street W Kelli Independent Stylist - Help Guide
 ## Purpose
 The purpose of this form is to gather contact information and order preferences from customers or clients for the business "Color Street W Kelli Independent Stylist". 

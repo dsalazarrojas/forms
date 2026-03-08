@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from business users to request financial reporting tools and reports. It is intended to streamline the process of requesting financial data and ensure that reports are generated on a timely and accurate basis. The form is meant to be completed by business users who need financial data for decision-making purposes.
-
-When filling out this form, please ensure that you only submit one request per form. If you need to make multiple requests, please create a new form for each request. This will help us process your requests efficiently and ensure that you receive the accurate financial data you need.
-
-</thinking>
-
 # Financial Reporting Tool Request Form - Help Guide
 ## Purpose
 The Financial Reporting Tool Request Form is designed to collect information from business users to request financial reporting tools and reports. This form helps us gather the necessary details to generate accurate and timely financial reports.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Preschool Booking Form - Help Guide**
 
 ## Purpose

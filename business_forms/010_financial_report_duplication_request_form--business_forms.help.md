@@ -1,7 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata to adapt to a specific business form template, without copying any proprietary content from other platforms. The purpose of this form is to request a financial report duplication, allowing users to specify the type of report they need, the relevant period, department, delivery method, and other details. It's essential to ensure that the form's purpose is not duplicated, and the correct information is provided to avoid any confusion. 
-</thinking>
-
 # Financial Report Duplication Request Form - Help Guide
 ## Purpose
 This form is designed to help users request a financial report duplication, providing a structured way to specify the report type, period, department, and other details.

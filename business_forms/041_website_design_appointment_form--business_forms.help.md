@@ -1,7 +1,3 @@
-<thinking>
-This form will collect information for clients, projects, and appointments for website design services. The purpose of this form is to help the client provide details about themselves, their project, and preferred communication methods, as well as schedule an appointment for the website design service.
-</thinking>
-
 # Website Design Appointment Form - Help Guide
 ## Purpose
 This form is used to collect client and project information, as well as schedule appointments for website design services.

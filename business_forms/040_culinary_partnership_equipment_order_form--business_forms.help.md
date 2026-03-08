@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a guide to help users understand the purpose and completion of the Culinary Partnership Equipment Order Form.
 
 # Culinary Partnership Equipment Order Form - Help Guide

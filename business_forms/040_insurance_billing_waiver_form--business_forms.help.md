@@ -1,11 +1,3 @@
-<thinking>
-This is the Insurance Billing Waiver Form, which is used for customers to provide their personal contact information in order to receive insurance billing information. 
-
-This form will be used for insurance billing purposes. Before filling out this form, please ensure that you are a authorized representative of your company and that your information is accurate. 
-
-Please note that this form is designed to be completed by one person per submission.
-</thinking>
-
 # Insurance Billing Waiver Form - Help Guide
 ## Purpose
 The Insurance Billing Waiver Form is used to collect personal contact information from customers to provide them with insurance billing information.

@@ -1,16 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "COVID 19 Weekly Test Form", I will need to understand the purpose and requirements of this form. Based on the form's structure and field labels, it appears that this form is designed to collect information about a person's experience with the COVID-19 virus, including details about their test results, symptoms, and isolation status. The form also seems to be focused on collecting data for weekly intervals, suggesting that it is intended for tracking and reporting purposes.
-
-Upon reviewing the form's layout and field types, I have a few questions and concerns:
-
-* Are there any specific instructions or guidelines for filling out the form that should be included in the help guide?
-* Are there any specific requirements or deadlines for submitting the form?
-* How does this form fit into the overall workflow or process of handling COVID-19 cases?
-
-Assuming that the form is for a general purpose and not specific to a particular industry or organization, I will create a help guide based on the provided YAML. Please let me know if my understanding is correct or if I should clarify any points.
-
-</thinking>
-
 # COVID 19 Weekly Test Form - Help Guide
 ## Purpose
 The COVID 19 Weekly Test Form is designed to collect information about your experience with the COVID-19 virus, including details about your test results, symptoms, and isolation status. This form is intended for tracking and reporting purposes.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for car insurance quotation and data collection for potential customers. It gathers information about the owner, vehicle, driver(s), and liability coverage details. This form ensures that customers provide accurate and complete information to receive a precise insurance quote. This information is used to process the quote and provide the best possible insurance coverage.
-
-</thinking>
-
 # Car Insurance Quotation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for a car insurance quotation. Please fill out the form accurately to receive an insurance quote tailored to your needs.

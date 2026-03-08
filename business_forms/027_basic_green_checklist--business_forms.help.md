@@ -1,10 +1,3 @@
-<thinking>
-This form is a "Basic Green Checklist" designed to assess a property's sustainability and environmental quality. It's used to evaluate a property's compliance with green standards in various areas such as energy efficiency, water conservation, waste reduction, and indoor environmental quality. This form is essential for property owners or managers to identify areas of improvement and make informed decisions about sustainable practices.
-
-Before completing this form, please ensure that you have the necessary information and access to the property's documentation and systems. This form should not be duplicated or used for any other purpose than its intended use.
-
-This guide will walk you through the form step-by-step, explaining each field and its purpose.</thinking>
-
 # Basic Green Checklist - Help Guide
 ## Purpose
 The Basic Green Checklist is a tool to evaluate a property's sustainability and environmental quality in six areas: Property Information, Energy Efficiency, Water Conservation, Waste Reduction, Indoor Environmental Quality, and Sustainable Transportation. The form provides an overview of the property's compliance with green standards, helping property owners or managers identify areas for improvement and make informed decisions about sustainable practices.

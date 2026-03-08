@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # indigo_brokers_financial_needs_analysis_questionnaire - Help Guide
 
 ## Purpose

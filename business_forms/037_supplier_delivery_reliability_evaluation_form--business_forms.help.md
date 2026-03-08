@@ -1,14 +1,3 @@
-<thinking>
-The Supplier Delivery Reliability Evaluation Form is used to assess the reliability and efficiency of suppliers in delivering goods and services. The form is designed to gather data on various aspects of the supplier's performance, including contact information, payment terms, delivery frequency, and delivery times. 
-
-This form is intended for use by procurement teams within the organization to evaluate and record supplier performance data. It is not intended for use by external parties or individuals outside of the organization.
-
-Before completing this form, ensure that you have the necessary information and permissions to do so. Review the form carefully and fill it out according to the instructions provided.
-
-This form is divided into several sections, each addressing a specific aspect of the supplier's performance. The sections are designed to be completed in a logical and methodical manner, and the fields are labeled to help guide you through the process.
-
-</thinking>
-
 # Supplier Delivery Reliability Evaluation Form - Help Guide
 ## Purpose
 The Supplier Delivery Reliability Evaluation Form is used to assess the reliability and efficiency of suppliers in delivering goods and services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # trading_mixture_assessment_form - Help Guide
 ## Purpose
 This form is designed to assess the trading mixture of a specific substance. It collects relevant information about the mixture's components, hazards, internal review, safer trading practices, and other essential details. This form aims to ensure that the trading mixture meets the required standards and regulations for safe handling, storage, and transportation.

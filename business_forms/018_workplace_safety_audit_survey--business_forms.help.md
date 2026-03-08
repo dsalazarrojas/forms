@@ -1,6 +1,3 @@
-<thinking>
-This form was generated using AI to help facilitate the completion of a Workplace Safety Audit Survey. The purpose of this survey is to collect information about workplace safety protocols, procedures, and policies. It is designed to be completed by employees, managers, or other individuals responsible for maintaining a safe work environment. The survey is intended to help identify areas of improvement and ensure compliance with relevant workplace safety regulations. Please note that this form is not affiliated with any form platform, and it is an original adaptation of public survey topic metadata.</thinking>
-
 # Workplace Safety Audit Survey - Help Guide
 ## Purpose
 The Workplace Safety Audit Survey is a tool used to assess and improve workplace safety protocols, procedures, and policies.

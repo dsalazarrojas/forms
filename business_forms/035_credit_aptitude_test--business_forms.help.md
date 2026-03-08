@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-The form is called "Credit Aptitude Test" and seems to be designed for evaluating some aspect of credit, likely a person's or business's creditworthiness. The form has a large number of fields, mostly text inputs, but also includes some select options and date/time fields. Given the name, it's possible that the form is meant to assess a credit applicant's background and financial situation.
+> The form is called "Credit Aptitude Test" and seems to be designed for evaluating some aspect of credit, likely a person's or business's creditworthiness. The form has a large number of fields, mostly text inputs, but also includes some select options and date/time fields. Given the name, it's possible that the form is meant to assess a credit applicant's background and financial situation.
 
 To determine if this form is a good fit for a specific use case, we should consider the following:
 

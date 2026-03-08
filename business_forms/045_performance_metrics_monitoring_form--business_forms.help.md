@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for collecting and monitoring performance metrics from users. It's likely used for business or operational performance monitoring. The fields seem to be related to metrics such as their name, value, type, target, frequency, and associated notes or contact information. There's no clear duplication of fields or redundancy, so it's likely a single-purpose form for a specific use case.
-</thinking>
-
 # performance_metrics_monitoring_form - Help Guide
 ## Purpose
 The performance metrics monitoring form is a tool for collecting and tracking business or operational performance metrics from users. This form helps in monitoring performance indicators and providing insights for improvement.

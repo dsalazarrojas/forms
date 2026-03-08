@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect timesheet and tracking data from employees. It appears to be used for work hours tracking, with some fields indicating breaks and other specific events. I will create a help guide that explains how to complete the form and what each field is used for.
-
-</thinking>
-
 # Worker Timesheet And Tracking Form - Help Guide
 ## Purpose
 This form is used to track employee work hours, including start and end times, breaks, and other specific events. It helps to ensure accurate recording of work hours and breaks for payroll purposes.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect and manage Treasury Forecast submissions within the organization. The submission is a crucial part of the forecasting process as it ensures accurate and timely financial planning and analysis. Before filling out this form, please ensure that you have all required information and that your submission adheres to the company's financial policies and procedures.
-</thinking>
-
 # Treasury Forecast Submission Application Form - Help Guide
 ## Purpose
 The Treasury Forecast Submission Application Form is a tool used to collect and manage Treasury submissions within the organization. It is an essential part of the forecasting process, allowing financial analysts to analyze and predict cash inflows and outflows for the company.

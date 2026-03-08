@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that this guide is helpful and accurate, let's go through the following internal checks:
 
 *   Does this form have an explicit purpose in the sales team's process? The form's title and field options suggest it's for recording information after an inside sales call. This form could be used to track customer interactions, note down next steps, and follow-ups. 

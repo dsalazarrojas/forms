@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to create a new business initiative. The purpose of this form is to provide a structured way to capture essential details about a new business initiative, ensuring that all necessary information is gathered to move the initiative forward. To prevent duplication, this form will be reviewed by the business owner before creating a new initiative.
-
-</thinking>
-
 # new_initiative_request_form - Help Guide
 ## Purpose
 This form is used to collect information about a new business initiative before it is created.

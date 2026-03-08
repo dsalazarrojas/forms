@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be used in business settings to collect information from customers or clients for service agreement extensions. The purpose of this form is to gather details about the service agreement, including the business name, service agreement ID, extension date, extension time, and the reason for the extension. This form is intended to be used by service providers or managers to collect necessary information in a straightforward and efficient manner.
-
-</thinking>
-
 # Service Agreement Extension Form - Help Guide
 ## Purpose
 This form is used to collect details for service agreement extensions.

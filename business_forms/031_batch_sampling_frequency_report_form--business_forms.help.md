@@ -1,7 +1,3 @@
-<thinking>...This form is used to collect information on the sampling frequency and methodology for a batch of products. It is used to track the number of samples taken, the date of collection, and the storage conditions for samples. This form is likely used by quality assurance teams to ensure that products are being sampled and stored correctly.
-
-</thinking>
-
 # Batch Sampling Frequency Report Form - Help Guide
 ## Purpose
 This form is used to collect information on the sampling frequency and methodology for a batch of products.

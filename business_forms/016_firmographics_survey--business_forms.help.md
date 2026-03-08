@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect firmographics information about a company, which is a set of data points that describe a company's demographics. Firmographics is used in business research and marketing to categorize and analyze companies based on their characteristics. This form is intended to gather information about a company's size, industry, location, founding history, and contact information. 
-
-It's assumed that the form will be filled out by a business representative or owner, and the information will be used for internal purposes only. The form should not be filled out by individuals who are not authorized to provide company information.
-
-Before starting, check that you are filling out the form as a representative of the company, and that you are not duplicating information.
-
-</thinking>
-
 # Firmographics Survey - Help Guide
 ## Purpose
 This form is used to collect firmographic information about a company, which is used for internal business purposes.

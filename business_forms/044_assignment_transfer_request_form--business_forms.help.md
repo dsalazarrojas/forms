@@ -1,14 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to submit an Assignment Transfer Request Form. The form is used to request the transfer of assignments, projects, or tasks from one employee to another. It is essential that the form is completed accurately and thoroughly to ensure that the transfer process proceeds smoothly. Before submitting the form, please ensure that you have reviewed the assignment details carefully and have the necessary information required for the transfer.
-
-Please note that this form is intended for employees who are requesting a transfer of assignments and are familiar with the company's internal processes and requirements.
-
-Before proceeding, please ensure that you have not previously submitted a transfer request for the same assignment. Duplicate requests may cause confusion and delay the transfer process.
-
-This form is divided into sections that guide you through the process. Please read each section carefully and complete the form accurately.
-
-</thinking>
-
 # Assignment Transfer Request Form - Help Guide
 ## Purpose
 The Assignment Transfer Request Form is used to request the transfer of assignments, projects, or tasks from one employee to another.

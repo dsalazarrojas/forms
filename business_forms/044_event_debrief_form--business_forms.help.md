@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Event Debrief Form - Help Guide
 ## Purpose
 The Event Debrief Form is used to gather information about events, including their dates, locations, status, types, outcomes, and comments. This form is designed to provide detailed insights into each event, which can be used for future reference, analysis, and decision-making.

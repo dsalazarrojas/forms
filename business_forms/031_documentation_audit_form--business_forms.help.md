@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "documentation_audit_form" form, we need to consider its purpose, how to complete it, and provide a field-by-field explanation of each section.
-</thinking>
-
 # documentation_audit_form - Help Guide
 ## Purpose
 The "documentation_audit_form" is a form used to collect information for documentation and audit purposes. It captures details such as user name, form ID, document type, status, date submitted, and reviewed information.

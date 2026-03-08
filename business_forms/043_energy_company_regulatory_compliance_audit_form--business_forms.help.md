@@ -1,5 +1,3 @@
-<thinking>...This form is designed to help energy companies track and record their regulatory compliance status, covering various aspects such as audit details, company information, and energy production, consumption, and distribution. It aims to facilitate the identification of compliance issues, provide recommendations for improvement, and set action items and next audit due dates. This form is not intended to be a substitute for professional auditing and regulatory compliance expertise. Users must ensure they understand the specific regulations and guidelines applicable to their business. Ensure that all fields are filled out accurately and relevantly, especially if marked as required...)</thinking>
-
 # Energy Company Regulatory Compliance Audit Form - Help Guide
 ## Purpose
 The Energy Company Regulatory Compliance Audit Form is a tool for energy companies to track and record their regulatory compliance status. This form helps identify potential issues and provides recommendations for improvement.

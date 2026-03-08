@@ -1,7 +1,3 @@
-<thinking>
-This form is used to manage vendor commission adjustments. The form should only be used for valid reasons and to avoid duplication. The form should only be submitted if the vendor commission adjustment is necessary due to a change in circumstances or a new agreement between the vendor and the company. 
-</thinking>
-
 # Vendor Commission Adjustment Application Form - Help Guide
 ## Purpose
 The Vendor Commission Adjustment Application Form is used to request adjustments to vendor commissions. This form should only be used for valid reasons and to avoid duplication.

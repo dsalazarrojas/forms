@@ -1,16 +1,3 @@
-<thinking>
-This form is designed for users to report and analyze machine errors. The goal is to identify and address issues related to machine malfunctions or performance issues. It is essential to fill out this form accurately to ensure that the correct information is captured for analysis. Please fill out this form only once per machine error, to prevent duplication of effort.
-
-If you have already filled out this form for the same error, please do not submit it again. The information will be reviewed and addressed accordingly. 
-
-This form is intended for internal use only. If you are not an authorized user, please do not submit this form. 
-
-The form captures key information about the machine error, including the error type, description, date, time, machine model, and error details. Please provide as much detail as possible to help with analysis. 
-
-Please submit this form to request analysis and resolution of machine errors. 
-
-</thinking>
-
 # Machine Error Log Analysis Request Form - Help Guide
 ## Purpose
 The Machine Error Log Analysis Request Form is designed for users to report and analyze machine errors. The form captures key information about the machine error to help with analysis and resolution.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for construction vendors seeking to register as a certified vendor for construction projects with the company. Before submitting, ensure you are not duplicating an existing registration and that your submission is for a legitimate business purpose. The form includes fields for contact information, business details, insurance information, and other relevant data points. 
-</thinking>
-
 # Construction Vendor Registration Form - Help Guide
 
 ## Purpose

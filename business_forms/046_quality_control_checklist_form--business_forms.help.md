@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the Quality Control Checklist Form, used for tracking quality control processes and measures. The form helps users assess whether specific quality control measures are in place and whether corrective actions are taken when issues arise. The form will be used by quality control experts and others involved in production and manufacturing processes. Please ensure that the fields on this form are filled out completely and accurately.
-</thinking>
-
 # Quality Control Checklist Form - Help Guide
 ## Purpose
 The Quality Control Checklist Form is a tool used for tracking quality control processes and measures in production and manufacturing environments. It helps ensure that quality control measures are in place and that corrective actions are taken when issues arise.

@@ -1,13 +1,3 @@
-<thinking>...to create a form that captures all the necessary information for a social engineering incident report...
-
-The purpose of this form is to document and report social engineering incidents that have occurred within the organization. This form will be used to gather details about the incident, including the date and time it occurred, the attacker's IP address, email, and phone number, as well as any other relevant details. The form will also help identify the victim, location, and type of incident, and track the status of the incident.
-
-The form will be used by IT security team members to gather information and investigate the incident. The form will help ensure that all necessary details are captured and that the incident is properly documented.
-
-This form will be used for reporting and tracking social engineering incidents only. If the incident is not related to social engineering, please use the appropriate incident reporting form.
-
-</thinking>
-
 # Social Engineering Incident Form - Help Guide
 ## Purpose
 The Social Engineering Incident Form is used to report and track social engineering incidents that have occurred within the organization.

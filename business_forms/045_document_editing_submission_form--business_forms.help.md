@@ -1,8 +1,3 @@
-<thinking>
-The document editing submission form is used to collect information from end-users on their document editing submissions. This form is designed to gather data on user input, submission type, document type, date and time submitted, note, email, and phone number. The form does not require all fields to be filled out, allowing users to provide as much or as little information as they see fit. However, please note that providing incomplete or missing data may affect the processing and analysis of your submission.
-
-</thinking>
-
 # document_editing_submission_form - Help Guide
 ## Purpose
 The document editing submission form is used to collect information from end-users on their document editing submissions. This form gathers data on user input, submission type, document type, date and time submitted, note, email, and phone number.

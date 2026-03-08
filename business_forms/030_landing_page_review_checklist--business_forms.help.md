@@ -1,11 +1,3 @@
-<thinking>
-This form is used to review and evaluate the content of a landing page. It assesses the quality of the landing page's header image, headline, meta description, page title, and other essential elements. The form ensures that all necessary components are in place and meets the required standards for a well-structured and effective landing page. The form's output will help in identifying areas that need improvement, making it an essential tool for content creators and web developers.
-
-This form is likely to be used by content creators, web developers, and quality assurance teams within an organization. They will be able to use the form to evaluate landing pages and ensure that they meet the required standards.
-
-This form will not be used for other purposes like creating a new landing page or editing an existing one. Its primary use case is to review and provide feedback on the existing landing page content.
-</thinking>
-
 # landing_page_review_checklist - Help Guide
 ## Purpose
 The landing page review checklist is a tool used to evaluate the quality of a landing page. It helps in identifying areas that need improvement and ensures that the landing page meets the required standards.

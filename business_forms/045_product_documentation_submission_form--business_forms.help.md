@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect product documentation submission information from customers. The form will be used to gather data on customer-provided products, including their first name, last name, email, phone number, date of the product's launch, time of the product's launch, a short description of the product, the category it falls under, the tools assigned to the product, and any output files associated with it. 
-
-Before filling out this form, please ensure that you have not previously submitted this product documentation and that your submission aligns with the product's current status.
-
-</thinking>
-
 # Product Documentation Submission Form - Help Guide
 ## Purpose
 The purpose of this form is to collect product documentation submission information from customers.

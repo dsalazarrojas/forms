@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to seek support for their product subscription, which is a vital part of our business operation. It helps us to track and manage support requests efficiently. Please ensure that you only submit this form when you really need support. If you have general questions or queries, our FAQ section might be a more suitable alternative. Also, please note that this form is intended for customers who have already subscribed to our product.
-</thinking>
-
 # Product Subscription Support Contact Form - Help Guide
 ## Purpose
 

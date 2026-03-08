@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help assess and evaluate the effectiveness of security measures implemented in an organization. It's meant to collect information about the organization's security protocols, their impact on risk levels, and other relevant details to help identify areas of improvement. Before filling out this form, please consider the following:
-
-* This form is intended for general use and is not specific to a particular organization or project.
-* The form fields are designed to collect data that will help identify potential security threats and areas for improvement.
-* Please answer each question truthfully and provide as much detail as possible.
-* The form should not be used to collect sensitive or confidential information.
-</thinking>
-
 # security_measures_effectiveness_evaluation_form - Help Guide
 
 ## Purpose

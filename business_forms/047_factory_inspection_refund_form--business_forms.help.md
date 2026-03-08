@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to capture information for factory inspection refunds. It's used for submitting refund requests related to factory inspections, which are inspections conducted at a client's premises to assess their facility or equipment. The form is meant to collect relevant details to process the refund request efficiently. The form should not be used for other purposes, and it's essential to fill it out accurately and completely.
-
-</thinking>
-
 # Factory Inspecton Refund Form - Help Guide
 ## Purpose
 The Factory Inspecton Refund Form is used for submitting refund requests related to factory inspections. To ensure a smooth refund process, please complete this form with the required information.

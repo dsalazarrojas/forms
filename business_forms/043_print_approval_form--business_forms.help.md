@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # print_approval_form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, my first step is to analyze the provided YAML fields and understand the form's purpose. This form appears to be a press release writing checklist, which is likely used by internal teams or external collaborators to collect information for publishing press releases. The form collects various types of data, including contact information, image details, press contacts, and publication details. I will now create a comprehensive help guide for the user to complete this form correctly.
-
-</thinking>
-
 # press_release_writing_checklist - Help Guide
 ## Purpose
 This form is designed to guide internal teams or external collaborators in filling out the required information for a press release. Please fill out the form accurately and thoroughly to ensure that the press release is properly formatted and meets the necessary requirements.

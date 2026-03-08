@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information for remote work contracts, which is a type of agreement between a company and an employee that outlines the terms and conditions of remote work. This form is likely to be used by HR or management to create a standardized template for remote work arrangements. 
-</thinking>
-
 # Remote Work Contract Form - Help Guide
 ## Purpose
 This form is designed to collect information necessary for a remote work contract, which is a document that outlines the terms and conditions of remote work arrangements between a company and an employee. It will help ensure that all remote work contracts are completed consistently and accurately.

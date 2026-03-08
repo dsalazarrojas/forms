@@ -1,7 +1,3 @@
-<thinking>
-We should first consider the overall purpose of the form: the Sustainability Certification Audit Consent Form is intended to gather information from businesses on their sustainability practices. This form likely aims to collect data on a company's environmental performance, such as their energy usage, waste management, and emissions. To determine if this form is being used correctly, we should review the form's fields. The form consists of various input fields, such as text, select_one, and date fields, which suggest that it is a comprehensive form for gathering business information. To avoid duplication, we should ensure that this form is not already being used for similar purposes within the organization. If there is an existing form for similar data collection, it would be wise to integrate or modify this form to avoid redundancy.
-</thinking>
-
 # Sustainability Certification Audit Consent Form - Help Guide
 ## Purpose
 This form is used to gather information from businesses on their sustainability practices, including their energy usage, waste management, and emissions.

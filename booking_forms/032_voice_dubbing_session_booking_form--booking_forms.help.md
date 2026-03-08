@@ -1,7 +1,3 @@
-<thinking>
-This is a critical form that requires precise and accurate information. The Report Form is designed to gather essential details about a session, including client and session information. Before filling this form, please ensure that you're not duplicating work and that the session details are not already known to the user. The form will ask for session details, client name, date and time, duration, voice type, project details, email, phone number, and session status.
-</thinking>
-
 # Report Form - Help Guide
 ## Purpose
 This form is used to collect information about a session, allowing for accurate and efficient reporting.

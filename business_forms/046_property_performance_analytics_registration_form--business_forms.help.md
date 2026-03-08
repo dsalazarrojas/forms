@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a registration form for collecting performance data from property owners or managers. The form likely aims to gather information about a specific property's performance, such as its status, type, and contact details. The fields on this form are likely to be used for data analysis and reporting purposes. It seems that the form is designed to be completed by property owners or their representatives, and the data collected will be used to monitor and improve property performance.
-</thinking>
-
 # Property Performance Analytics Registration Form - Help Guide
 ## Purpose
 This form is designed to collect data about a property's performance. Please provide the required information to help us better understand the property's status and performance.

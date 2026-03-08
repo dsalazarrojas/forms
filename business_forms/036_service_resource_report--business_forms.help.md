@@ -1,5 +1,3 @@
-<thinking>...this form is designed for business use, likely for reporting and tracking purposes. It is meant to collect information about a service resource, such as whether a service is available, the date of the report, the type of report, the resource count, and the resource value. This form should only be completed by authorized personnel. It is not intended for public use. There should be no duplicate entries in the report. Each field should be filled in correctly and accurately... </thinking>
-
 # service_resource_report - Help Guide
 ## Purpose
 The service resource report form is used to collect information about a service resource for reporting and tracking purposes.

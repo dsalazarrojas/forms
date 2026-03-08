@@ -1,9 +1,3 @@
-<thinking>
-The Department Purchase Request Form is a crucial tool for departments to communicate their purchasing needs with the finance team. It serves as a bridge between the departmental needs and the finance department's purchasing capabilities. This form ensures that the departmental needs and expectations are accurately captured, and the finance team is informed about the purchase requirements in a timely manner. 
-Before starting, please ensure that you have read and understood the company's purchasing policies and procedures. 
-Please note that this form is not for personal purchases. If you are looking to purchase something for personal use, please do not fill out this form.
-</thinking>
-
 # Department Purchase Request Form - Help Guide
 ## Purpose
 The Department Purchase Request Form is a tool for departments to communicate their purchasing needs to the finance team. This form captures essential information about the purchases required, ensuring that the finance team is informed and can process the requests accordingly.

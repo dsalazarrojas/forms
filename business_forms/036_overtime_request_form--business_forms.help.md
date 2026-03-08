@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request overtime for an employee when they have worked beyond their regular working hours. It is a simple form designed to collect information from the employee and their manager for approval and communication. The form should only be filled out for actual overtime requests, and not for other purposes such as vacation requests or employee feedback. The employee should ensure that their manager has not already approved or denied the request before submitting the form. The employee should also ensure that the manager's email and phone number are up-to-date in the system.
-
-</thinking>
-
 # Overtime Request Form - Help Guide
 ## Purpose
 The Overtime Request Form is used to request overtime for an employee when they have worked beyond their regular working hours. This form is intended to facilitate communication between the employee and their manager for approval and tracking of overtime requests.

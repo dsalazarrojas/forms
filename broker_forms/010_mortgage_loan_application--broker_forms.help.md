@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to assist users in providing information required for a mortgage loan application. This form collects details such as loan application ID, property type, loan amount, loan term, loan term years, loan frequency, applicant information (name, email, phone, and address), and property location and description. It is essential to ensure the provided information is accurate and complete to facilitate a smooth loan application process.
-
-Before proceeding, ensure that all required fields are filled out and the information provided is up-to-date and correct.
-
-To prevent duplicate applications, please do not submit multiple applications with the same property type or loan status.
-</thinking>
-
 # Mortgage Loan Application - Help Guide
 ## Purpose
 The Mortgage Loan Application form is designed to gather necessary information for a loan application. It helps lenders to assess the applicant's creditworthiness and the property's value. By providing accurate and complete information, applicants can expedite the loan processing time and increase the chances of loan approval.

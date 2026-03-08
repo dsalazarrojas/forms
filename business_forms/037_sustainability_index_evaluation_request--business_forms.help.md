@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Sustainability Index Evaluation Request" form is a crucial tool used to evaluate and assess various aspects of an organization's sustainability index. This form serves as a framework for collecting and analyzing data related to the request type, context, focus areas, documentation, and submission details. The purpose of this form is to ensure that each aspect of the sustainability index is accurately evaluated and rated to provide a comprehensive picture of an organization's sustainability performance.
 
 ## Sustainability Index Evaluation Request - Help Guide

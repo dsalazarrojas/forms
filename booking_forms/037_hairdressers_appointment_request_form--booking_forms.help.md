@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to be completed by clients or users to request appointments with hairdressers. It should be clear that the form is for requesting appointments, and the user is expected to provide contact information, services required, preferred stylist, date, time, and any additional notes. To complete this form, the user selects their contact information, chooses the services they need (haircut, color, style), chooses a preferred stylist, selects a date and time for the appointment, and may leave any additional notes. 
-
-The following fields should be filled in accordingly:
-
-* **Contact Information** (<type>: text): This field is for the user to enter their contact information, such as name and phone number.
-* **Services** (<type>: select_multiple): This field is for the user to select the services they need, such as haircut, color, or style.
-* **Stylist** (<type>: select_one): This field is for the user to choose a preferred stylist.
-* **Date** (<type>: date): This field is for the user to enter a date for their appointment.
-* **Time** (<type>: time): This field is for the user to enter a time for their appointment.
-* **Notes** (<type>: note): This field is for the user to leave any additional notes or comments.
-* **Form Submission** (<type>: text): This field is not required but allows the user to review and edit their submission before submitting the form.
-
-The form submission process can be reviewed and edited before clicking the "Submit" button.
-</thinking>
-
 # Hairdressers Appointment Request Form - Help Guide
 ## Purpose
 

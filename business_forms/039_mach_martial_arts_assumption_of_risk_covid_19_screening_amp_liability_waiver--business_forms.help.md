@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to participate in martial arts activities at Mach Martial Arts. The purpose of this form is to gather necessary contact and medical information, as well as to obtain an assumption of risk from the individual. This form will help us ensure that we have accurate and up-to-date information in case of an emergency.
-
-The form is divided into several sections, each with its own set of fields. To avoid duplication and ensure accuracy, it's essential to complete each section carefully and thoroughly.
-
-Before proceeding, please note that some fields are marked as "required," which means that you must provide information in those fields to continue. Failure to do so may prevent you from completing the form.
-
-</thinking>
-
 # Mach Martial Arts Assumption Of Risk, COVID-19 Screening & Liability Waiver - Help Guide
 ## Purpose
 This form is designed to collect contact and medical information from individuals who wish to participate in martial arts activities at Mach Martial Arts, as well as to obtain an assumption of risk from the individual.

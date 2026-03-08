@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting signage from the Facility team or Property Owner to be posted on a specific property to deter trespasseders. It should be filled out by a staff member, manager, or other authorized personnel.
-</thinking>
-
 # no_trespassing_signage_request_form - Help Guide
 ## Purpose
 This form is used to request signage for a specific property to deter trespasseders. Please fill out the form accurately and completely to ensure that your request is processed correctly.

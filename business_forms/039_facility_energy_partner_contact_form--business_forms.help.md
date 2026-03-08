@@ -1,7 +1,3 @@
-<thinking>
-The Facility Energy Partner Contact Form is a form used to gather information from organizations and facilities that partner with the energy sector. It is designed to collect contact details, facility information, and other relevant data. This form is meant to be used by energy partners to collaborate and exchange information with other organizations. To ensure the form is being used correctly, please note that each field is required unless otherwise specified. Before filling out the form, please review the fields to ensure you have all the necessary information. 
-</thinking>
-
 # Facility Energy Partner Contact Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants in a Lean Production Certification program. It is designed to capture information about the participant, their training provider, experience, preferred sessions, certification status, and submission details. The form is likely used for administrative purposes, such as tracking participant data and certification progress. This form is a crucial part of the certification process and requires accurate and thorough information to ensure successful certification.
-</thinking>
-
 # Lean Production Certification Registration - Help Guide
 ## Purpose
 The Lean Production Certification Registration form is a crucial tool for registering participants in a Lean Production Certification program. It helps administrators collect and track participant data, including their certification status, training provider, and preferred sessions.

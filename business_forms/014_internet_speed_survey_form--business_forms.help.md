@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internet Speed Survey Form - Help Guide
 
 ## Purpose

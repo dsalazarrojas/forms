@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_risk_advisory_contact_form - Help Guide
 
 ## Purpose

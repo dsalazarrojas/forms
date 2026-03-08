@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is being filled out by legitimate business users, and not just anyone who wants access. The form should be used by individuals or organizations who have a legitimate interest in promoting our business. To prevent duplication, we should check if the user's email address already exists in our database before allowing them to submit the form. We also need to ensure that the user has a clear understanding of what they are signing up for and what our expectations are.
-</thinking>
-
 # Affiliate Dashboard Access Request - Help Guide
 ## Purpose
 The Affiliate Dashboard Access Request form is designed for individuals or organizations interested in promoting our business as affiliates. This form allows you to provide us with your contact information, marketing plans, and preferences for collaboration.

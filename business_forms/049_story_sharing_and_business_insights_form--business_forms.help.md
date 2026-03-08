@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information about story sharing and business insights from end users. The form is intended to gather data on the effectiveness of story sharing and its impact on business growth. It is meant to be completed by users who have access to the form and are responsible for sharing stories and insights within their organization.
-
-This form is not meant to be a comprehensive or exhaustive document, but rather a quick and straightforward way to collect relevant information from end users. 
-
-Before filling out this form, please ensure that you have already read and understood the relevant documentation and guidelines. This form is not a substitute for those materials.
-
-</thinking>
-
 # Story Sharing And Business Insights Form - Help Guide
 ## Purpose
 This form is designed to collect information about the effectiveness of story sharing and its impact on business growth. It is intended to gather data on customer stories, business insights, data collection, and other related metrics.

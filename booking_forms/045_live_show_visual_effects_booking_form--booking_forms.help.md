@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Live Show Visual Effects Booking Form - Help Guide
 ## Purpose
 The Live Show Visual Effects Booking Form is designed to collect essential information from clients or production teams for booking live show visual effects services. The form helps in streamlining the booking process, ensuring that all necessary details are captured accurately and efficiently.

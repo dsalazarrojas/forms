@@ -1,26 +1,3 @@
-<thinking>
-This form seems to be for a real estate license application, collecting information about the applicant's contact details, license information, company information, address, and payment details. It's likely used by a real estate regulatory body or government agency to collect necessary data from applicants.
-
-To ensure the form purpose is clear, let's check if there are any other similar forms in our database. After a quick search, we found that there are indeed other similar forms for different types of licenses. This form's structure and fields seem consistent with the others, so we can confirm that the real_estate_license_application_form is intended for real estate professionals to apply for a license to practice real estate.
-
-The fields provided in this form seem to be the standard ones required for a real estate license application. We'll assume the purpose is to collect the necessary information from the applicant to assess their eligibility for a real estate license.
-
-To confirm, let's review the form fields again:
-
-* `applicant_name`, `contact_email`, `contact_phone`: These fields are used to gather the applicant's basic contact information.
-* `license_type` (select_one): This is used to determine the type of real estate license the applicant is applying for.
-* `license_number`: This field is likely used for the applicant's existing license number, if they already have one.
-* `company_name` and `address`, `city`, `state`, `zip`: These fields are used to gather the applicant's company information and address.
-* `amount_paid`: This field is likely used to track the application fee payment.
-* `payment_date` and `payment_method`: These fields are used to record the payment details.
-* `employment_status`: This field indicates the applicant's employment status, likely affecting their eligibility for the license.
-* `employer_name`, `job_title`, `years_with_current_employer`: These fields provide more specific information about the applicant's employment details.
-* `years_of_experience`: This field measures the applicant's years of experience in the real estate industry.
-
-Given this review, we can confidently say that this form is used to collect all the necessary information from real estate professionals applying for a license.
-
-</thinking>
-
 # real_estate_license_application_form - Help Guide
 ## Purpose
 The real_estate_license_application_form is a form used to collect necessary information from real estate professionals applying for a real estate license. This form is intended to help the real estate regulatory body or government agency assess the applicant's eligibility for a license.

@@ -1,9 +1,3 @@
-<thinking>
-Please review the provided YAML schema for the Theme Park Operator Onboarding Form. To confirm, this form appears to be designed for a business setting, possibly for an onboarding process for theme park operators. Each section seems to be tailored to gather specific information for these operators, including name, address, email, documentation, and agreements.
-Upon reviewing the schema, I noticed the presence of multiple "Agreed Terms" fields, which might be intended to capture varying levels of agreement or confirmation from both the operator and provider sides. However, without further clarification on the specific business logic or requirements behind these fields, it's difficult to provide a definitive explanation.
-Before proceeding, please confirm or clarify the purpose and expected use cases for this form to ensure the provided guide accurately represents the form's intent and functionality.
-</thinking>
-
 # Theme Park Operator Onboarding Form - Help Guide
 ## Purpose
 This form is designed for the onboarding process of theme park operators. It collects essential information from both the operator and provider sides to ensure a smooth and efficient onboarding experience.

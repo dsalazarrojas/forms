@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # e_commerce_seo_change_request_form - Help Guide
 
 ## Purpose

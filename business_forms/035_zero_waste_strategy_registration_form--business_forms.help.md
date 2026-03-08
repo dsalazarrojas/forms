@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to capture information from businesses and organizations interested in participating in the Zero Waste Strategy program. It will be used to collect necessary data to tailor the program to the specific needs and goals of each organization. The data collected will be used to create a personalized plan to help businesses reduce their waste and improve their environmental performance.
-
-Before starting, please note that this form should only be filled out by representatives of the organization interested in participating in the Zero Waste Strategy program. Please do not fill out this form unless your organization is eligible to participate.
-
-</thinking>
-
 # zero_waste_strategy_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from businesses and organizations interested in participating in the Zero Waste Strategy program.

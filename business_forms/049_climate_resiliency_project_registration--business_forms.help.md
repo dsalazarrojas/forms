@@ -1,10 +1,3 @@
-<thinking>
-To confirm relevance and prevent duplication, let's first check if this form is intended for a specific audience or purpose. Based on the form's title and fields, it appears to be a registration form for climate resiliency projects, likely aimed at organizations or institutions involved in climate-related initiatives.
-
-Before proceeding, we should also ensure that this form is not a duplicate of an existing one. Assuming it's not, let's move on to crafting the user-facing help guide.
-
-</thinking>
-
 # Climate Resiliency Project Registration - Help Guide
 
 ## Purpose

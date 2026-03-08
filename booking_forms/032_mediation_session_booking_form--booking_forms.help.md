@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be for booking a mediation session. It may be used by individuals or organizations seeking conflict resolution services. The form likely serves as a preliminary step in the mediation process, collecting necessary information from the parties involved. To determine its purpose, type, and intended users, it may be helpful to review the provided form fields. 
-
-Considering the fields, it seems the form will be used to collect general information, session details, contact details, date and time, mediator information, party details, and session notes. Each field likely plays a specific role in the mediation process, such as selecting the mediator, specifying the session schedule, and collecting party contact information.
-
-To avoid form duplication or misplacement, it's essential to carefully examine each field and verify that it's correctly associated with the intended use case.
-
-</thinking>
-
 # Mediation Session Booking Form - Help Guide
 ## Purpose
 The Mediation Session Booking Form is designed to collect necessary information for booking a mediation session. This form is intended for individuals or organizations seeking conflict resolution services.

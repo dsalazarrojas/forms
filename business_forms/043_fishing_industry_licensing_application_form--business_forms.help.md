@@ -1,7 +1,3 @@
-<thinking>
-  This form is used to collect and verify information for the fishing industry licensing application. Please ensure you are completing this form for the correct purpose and do not submit duplicate applications. The form is designed to collect the necessary details for the fishing industry licensing process, and any incorrect or duplicate submissions may delay or complicate your application. Ensure you have reviewed the guidelines and regulations for fishing industry licenses before starting this form.
-</thinking>
-
 # fishing_industry_licensing_application_form - Help Guide
 
 ## Purpose

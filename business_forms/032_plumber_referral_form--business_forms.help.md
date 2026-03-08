@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Plumber Referral Form - Help Guide
 
 ## Purpose

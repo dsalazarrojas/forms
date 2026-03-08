@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal reasoning:** This form is intended for use within the organization, likely by sales or service staff who need to document their daily activities and performance. It's crucial to use it for tracking and reporting purposes, such as monitoring staff productivity, client engagement, and revenue generation. 
-
-The main goal is to create a simple and efficient way for employees to input their daily summaries, which will help management to stay up-to-date with team performance. 
-
-We should ensure that the form isn't filled out unnecessarily, so let's set the required fields as true for the necessary sections and leave the others optional for those who want to add extra information.
-
-</thinking>
-
 # CIS Day Sheet Draft - Help Guide
 ## Purpose
 

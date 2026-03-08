@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for businesses to submit applications for logistics development, which likely refers to the process of improving or optimizing their logistics operations, possibly including but not limited to supply chain management, transportation, or warehousing. The purpose of this form is to gather essential information from businesses about their logistics needs and requirements. Before proceeding, ensure you have all necessary information and authorization to submit this application, and note that this is a new or duplicate submission. If you've submitted this form before, please do not resubmit. Please fill out this form carefully and accurately to ensure a smooth review process.
-</thinking>
-
 # Fresh Logistics Development Application Form - Help Guide
 
 ## Purpose

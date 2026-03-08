@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from individuals applying for a finance strategy manager position. The purpose of this form is to collect personal, contact, finance-related, experience, education, resume, references, and job application information from applicants. This form is likely used in a professional setting, such as a company or organization, to streamline the hiring process for finance strategy manager roles.
-
-Before filling out this form, please ensure that you have the necessary information and permissions to complete it accurately. This form does not duplicate any existing forms, and the provided fields are a unique adaptation of a generic form.
-
-</thinking>
-
 # finance_strategy_manager_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from applicants for a finance strategy manager position.

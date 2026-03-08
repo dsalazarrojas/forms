@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Transformation Initiative Application Form - Help Guide
 
 ## Purpose

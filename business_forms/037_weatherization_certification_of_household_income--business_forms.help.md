@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning**
-This form is designed to collect household income information from users. The field names and labels may seem repetitive, but they are actually collecting income from different months of the year. Each field is named with a month (e.g., `household_income_1` for January, `household_income_2` for February, and so on) to help users understand which month's income they are entering. This form is likely used for weatherization certification purposes, where users are required to provide income information for the most recent months. Please ensure to fill out the most recent months only.
-</thinking>
-
 # Weatherization Certification Of Household Income - Help Guide
 ## Purpose
 This form is designed to collect household income information from users for weatherization certification purposes.

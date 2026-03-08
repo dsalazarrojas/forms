@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about the weekly objectives of an employee, providing a structured way to track progress and set priorities. It captures essential details such as employee name, objective, status, notes, assigned date, due date, supervisor, and priority level.
-This form can be used by various departments within a company to monitor and manage employee performance, ensuring that objectives are aligned with the company's overall goals and objectives.
-It is essential to ensure that this form is not duplicated or used for any other purpose outside of its intended use.
-</thinking>
-
 # weekly_objectives_form - Help Guide
 ## Purpose
 The weekly_objectives_form is a tool used to track and manage employee weekly objectives. It helps departments within a company to monitor progress and set priorities for employees.

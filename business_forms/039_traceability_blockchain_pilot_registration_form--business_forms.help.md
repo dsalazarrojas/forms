@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed for registering a traceability blockchain pilot project. It is meant for companies and individuals to provide information about their pilot projects in a standardized and easily accessible way. The form is intended to be completed by a contact person from the company, and it will be used to track and verify the status of the pilot projects. 
-
-Please make sure you have all the necessary information and permissions to complete this form, and that the information you provide is accurate and up-to-date. If you have any questions or concerns, please reach out to the relevant authorities or your supervisor.
-
-</thinking>
-
 # Traceability Blockchain Pilot Registration Form - Help Guide
 ## Purpose
 The Traceability Blockchain Pilot Registration Form is used to register and track the status of traceability blockchain pilot projects. It is intended to gather information about the project's name, location, contact person, and other relevant details.

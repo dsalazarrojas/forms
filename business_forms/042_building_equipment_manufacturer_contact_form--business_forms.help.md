@@ -1,7 +1,3 @@
-<thinking>
-We should only allow users to fill this form if they are a potential customer or partner of a manufacturer. This form is intended for those who would like to inquire about building equipment manufacturing. We are checking for duplication and relevance to ensure the information received is accurate and up-to-date. We are aiming to provide the best service to our customers and partners, and this form will help us get the required information to do so.
-</thinking>
-
 # Building Equipment Manufacturer Contact Form - Help Guide
 ## Purpose
 This form is designed to help potential customers or partners of a building equipment manufacturer get in touch with us. Please fill out the form to provide us with the necessary information so we can better assist you.

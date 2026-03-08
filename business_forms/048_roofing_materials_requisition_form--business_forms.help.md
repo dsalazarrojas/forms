@@ -1,14 +1,3 @@
-<thinking>
-This form is used by contractors or building owners to request roofing materials from a supplier. The form will help in creating a requisition that can be used to order materials from the supplier. This will ensure that the necessary information is provided to the supplier, including the type of material, quantity, and unit price. It will also help in tracking the status of the requisition, whether it is approved, rejected, or pending.
-
-The form can be filled out by a contractor or building owner, and it will be sent to the supplier for review and processing.
-
-The supplier can use this form to verify the information provided and update the status of the requisition accordingly.
-
-To avoid duplication, please make sure to fill out the form only once for each requisition.
-
-</thinking>
-
 # Roofing Materials Requisition Form - Help Guide
 ## Purpose
 This form is used to request roofing materials from a supplier. It ensures that all the necessary information is provided to the supplier for processing.

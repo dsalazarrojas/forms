@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to register and track projects related to energy recovery, which is crucial for factories and industrial sites to improve their energy efficiency and reduce their environmental impact. 
-The form is used to collect information about a project, including its title, location, type, status, start and end dates, budget, and contact details. 
-The form will be used by factory energy recovery project managers to keep track of all ongoing and completed projects. 
-Before completing this form, please ensure that the project is registered for the first time and not duplicated. 
-Please note that all fields are optional unless specified as required. 
-</thinking>
-
 # Factory Energy Recovery Project Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and track information about factory energy recovery projects.

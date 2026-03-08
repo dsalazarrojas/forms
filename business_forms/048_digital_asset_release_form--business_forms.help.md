@@ -1,7 +1,3 @@
-<thinking>
-This form is for tracking and managing digital assets used within the company. It's used to document the ownership, creation, and release of digital assets. This form helps ensure that assets are properly tracked and released to prevent misuse or unauthorized use. It's essential to fill this out accurately to maintain accurate asset records.
-</thinking>
-
 # Digital Asset Release Form - Help Guide
 ## Purpose
 The Digital Asset Release Form is a tool used to track and manage digital assets within the company. It helps ensure that assets are properly documented and released to prevent misuse or unauthorized use.

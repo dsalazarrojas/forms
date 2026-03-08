@@ -1,12 +1,3 @@
-<thinking>
-
-The Warehouse Check In Form is a form designed to collect information from warehouse workers to check in inventory and track any issues or comments they may have. This form is typically used for daily or weekly check-ins, allowing warehouse staff to report on stock levels, any discrepancies, or provide feedback on inventory management. To determine the correct form purpose and relevance, consider the following:
-
-* This form is likely used by warehouse staff to report on inventory check-ins and provide feedback on stock levels and management.
-* The form is not a duplicate of any other form, as it focuses on a specific use case (warehouse check-ins) and does not overlap with other forms.
-
-</thinking>
-
 # Warehouse Check In Form - Help Guide
 ## Purpose
 The Warehouse Check In Form is a tool for warehouse workers to report on inventory levels and provide feedback on stock management.

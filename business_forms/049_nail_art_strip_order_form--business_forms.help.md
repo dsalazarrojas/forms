@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place a nail art strip order. The form will guide users through the required information needed to complete their order. Before proceeding, please ensure that you have reviewed and filled out all relevant fields. This form is intended for individual customers and does not require repeated submissions. Please do not submit the form multiple times, as this may cause delays in processing your order.
-</thinking>
-
 # Nail Art Strip Order Form - Help Guide
 ## Purpose
 The purpose of this form is to help customers order nail art strips online. It collects customer and order information to facilitate the production and delivery of the order.

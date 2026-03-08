@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a DJ service for an event. The event details will be collected to determine the best fit for the event. This form should be filled out only once per event to ensure accurate planning. Please note that some fields are required and should be filled out accordingly.
-</thinking>
-
 # Event DJ Service Request - Help Guide
 ## Purpose
 This form is designed to collect information about an event, allowing the DJ service team to best plan and prepare for your event.

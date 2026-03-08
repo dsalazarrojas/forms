@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from consignors for an auction trading post. The purpose of this form is to gather details about the consignor, including their name, contact information, and agreement terms for the trading post. This form will help the trading post manage its operations and ensure a smooth auction process.
-
-The form is divided into two sections: Consignor Information and Contract Details. The Consignor Information section asks for the consignor's full name, business name (if applicable), email address, and phone number. The Contract Details section requires information on the trading post location, a summary of the items for sale, the agreed sales commission rate, payout terms, liability waiver agreement, contract expiration date, signature date, and digital signature.
-
-It is essential to fill out the form accurately and completely to ensure a smooth trading post experience.
-</thinking>
-
 # Auction Trading Post Contract - Help Guide
 ## Purpose
 This form is designed to collect information from consignors for an auction trading post. It is used to gather details about the consignor and their agreement terms with the trading post.

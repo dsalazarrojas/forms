@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the setup and needs of a home office or work-from-home space. The form is intended to help the user (e.g., remote worker, freelancer, or entrepreneur) assess and plan for their home office setup, including necessary equipment, supplies, and space requirements. This form is likely used by HR, management, or operations teams within an organization to facilitate the remote work experience.
-</thinking>
-
 # home_office_setup_checklist_form - Help Guide
 ## Purpose
 The home office setup checklist form is designed to help you determine the necessary equipment, supplies, and space requirements for setting up a home office or work-from-home space. This form will guide you through a series of questions to help you prepare your home office for productivity and comfort.

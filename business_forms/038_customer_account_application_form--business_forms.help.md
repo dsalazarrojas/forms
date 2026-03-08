@@ -1,5 +1,3 @@
-<thinking>...This form is intended to be used by customers to create or update their account information. To avoid duplication of effort, please ensure that the customer does not exist in the database already. If a customer is already registered, please do not fill out this form. Please ensure that all required fields are completed to the best of your ability. Please be aware that this form is only used for internal purposes. If you have any questions, please don't hesitate to contact the customer support team...</thinking>
-
 # Customer Account Application Form - Help Guide
 ## Purpose
 This form is for customers to create or update their account information. To avoid duplication, check our database for existing customer accounts before filling this form out.

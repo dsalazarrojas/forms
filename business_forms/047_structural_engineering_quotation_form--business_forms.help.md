@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Structural Engineering Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information about a structural engineering project, including project details, budget, deadline, and contact information. It will help users provide accurate and comprehensive data for quotation purposes.

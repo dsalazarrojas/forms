@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of this form and are not submitting duplicate requests. This form is intended for organizations seeking to partner with our pet care services. Each field should be filled in according to the guidelines provided. Please note that all fields are not required, and the user should only fill in the necessary information. Also, please make sure to check the options for each select fields for the correct choices. If you are unsure about any field, please reach out to us for further clarification.</thinking>
-
 # Pet Care Service Partnership Request Form - Help Guide
 ## Purpose
 This form is for organizations interested in partnering with our pet care service. It will help us gather necessary information about your organization and your partnership request, which will be reviewed by our team. Please fill in the form accurately and completely to ensure that your request is processed efficiently.

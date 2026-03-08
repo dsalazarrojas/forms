@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "daily_production_startup_checklist" form, designed to assist users in efficiently and securely starting up production on a daily basis. To ensure accurate and thorough completion, the form is divided into sections focusing on startup time, startup date, equipment verification, safety verification, startup protocol, production team, supervisor's name, and comments. The form is intended for use in business settings, specifically in the industry of production management and control.
-</thinking>
-
 # daily_production_startup_checklist - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the daily production startup checklist form, which is designed to facilitate a systematic and secure approach to starting up production on a daily basis.

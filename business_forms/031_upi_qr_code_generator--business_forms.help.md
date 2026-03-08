@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to generate a Unique Payment Identifier (UPI) QR code for payment processing. The form is intended to collect relevant payment information, including name, date of birth, phone number, email, and other details. The purpose of the form is to create a QR code that can be used for payment processing, which is likely used in scenarios such as online transactions, bill payments, or other payment-related activities. This form is likely used in a business setting, possibly for accounting or financial services.
-
-Before proceeding, ensure this form is not a duplicate of any existing form with the same purpose and functionality. This form is meant to be used once per user, and any duplicate submissions may cause unnecessary processing or data duplication.
-
-</thinking>
-
 # UPI QR Code Generator - Help Guide
 ## Purpose
 The UPI QR Code Generator form is designed to create a Unique Payment Identifier (UPI) QR code for payment processing. This form collects various details such as name, date of birth, phone number, and other relevant information to generate the QR code.

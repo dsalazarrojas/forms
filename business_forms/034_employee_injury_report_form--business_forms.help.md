@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about employee injuries, including the details of the incident, the employee involved, and the report's submission. It is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using public survey topic metadata. The form is released under the Creative Commons Attribution 4.0 license, allowing for free use, modification, and even commercial use with proper credit.
-</thinking>
-
 # employee_injury_report_form - Help Guide
 ## Purpose
 This form is intended to collect information about employee injuries, including the details of the incident, the employee involved, and the report's submission.

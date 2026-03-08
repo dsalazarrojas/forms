@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Funding Review Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about your business, including your name, email address, phone number, business details, funding requirements, and financial information. The purpose of this form is to help the funding review process, so we can better understand your business needs and assess your eligibility for funding.

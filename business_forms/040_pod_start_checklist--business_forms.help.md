@@ -1,20 +1,3 @@
-<thinking>
-I'll create a detailed and clear help guide for the "Pod Start Checklist" form. Here's the internal reasoning block explaining the form's purpose and relevance:
-
-The "Pod Start Checklist" form is a crucial tool for project managers to collect essential information about a project before it begins. This form serves as a checklist to ensure that all necessary details are captured, and it helps project teams get started on the right foot. Its primary objective is to standardize the initiation process, making it easier to track progress and maintain project scope.
-
-The form will guide users through a series of questions to gather critical information about the project, including its status, team composition, and other relevant details. By completing this form, project teams can:
-
-*   Identify the project's start and end dates and times
-*   Determine the team members assigned to the project
-*   Set project and meeting start and end dates and times
-*   Establish project and meeting status (active or inactive)
-*   Capture project notes and comments
-*   Identify project owners and team leads
-
-The form's structure and fields are designed to be user-friendly, making it easy for project teams to navigate and provide the required information.
-
-</thinking>
 # Pod Start Checklist - Help Guide
 
 ## Purpose

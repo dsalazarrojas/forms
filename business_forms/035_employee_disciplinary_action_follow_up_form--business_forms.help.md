@@ -1,5 +1,3 @@
-<thinking>... This form is a template for tracking the follow-up actions taken by employees on disciplinary actions initiated in the past. Its primary purpose is to collect and record details about the outcome of these actions. It ensures that the follow-up process is accurately documented and helps in assessing whether the disciplinary actions are progressing as expected or need further attention. By using this form, supervisors can monitor the status of disciplinary actions, note the progress, and make necessary adjustments. This form should not be used for new disciplinary actions; instead, it is intended for follow-up actions on actions already initiated. It is not a substitute for regular performance evaluations or formal disciplinary processes. Please use this form only for its designated purpose and follow company policies regarding employee disciplinary actions... </thinking>
-
 # Employee Disciplinary Action Follow Up Form - Help Guide
 
 ## Purpose

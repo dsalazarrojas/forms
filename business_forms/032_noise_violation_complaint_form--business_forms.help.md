@@ -1,10 +1,3 @@
-<thinking>
-  This form is intended to help users report noise violations in their area, allowing them to provide detailed information about the incident. 
-  The form is designed to be completed by individuals or entities experiencing noise disturbances, and the submitted data will be used to investigate and address the reported issue. 
-  To ensure that the submitted complaints are valid and not duplicates, we will be using a system to check for similar reports in the same location and time frame. 
-  This guide is designed to assist users in completing the form correctly and efficiently.
-</thinking>
-
 # Noise Violation Complaint Form - Help Guide
 ## Purpose
 The Noise Violation Complaint Form is a tool for reporting noise disturbances in your area. The form requires detailed information about the incident, including the address where the noise is occurring, a brief description of the issue, and other relevant details. 

@@ -1,21 +1,3 @@
-<thinking>
-The "Additional Service Agreement" form is used to add new services to an existing membership plan for a client. This form is used to ensure that the client understands and agrees to the changes in their service level, including any new or additional services they are requesting. The purpose of this form is to gather the necessary information for the client to confirm their agreement and understand the implications of adding new services to their plan. 
-
-This form should only be used for clients who are currently members of the gym or wellness center, and are looking to add new services such as personal training packages, nutritional consultations, or spa and sauna access. 
-
-When completing this form, the client must ensure that they are aware of the changes to their service level and confirm their understanding of the terms and conditions. They will also be asked to acknowledge the 30-day notice requirement for service cancellation and agree to the liability waiver for the selected services. 
-
-The form includes sections for client information, service selection, and agreement and confirmation of changes. 
-
-The form will also check if the client is aware of the current payment method on file and will provide the option to update it if necessary. 
-
-Lastly, the client will be asked to confirm their agreement and acknowledge their understanding of the terms and conditions, liability waiver, and other important details. 
-
-Please make sure to review this form carefully and confirm that you have read and understand all the information before submitting it.
-
-Please note that this form should only be used by current members of the gym or wellness center. If you are not a current member, please contact us to inquire about membership options.
-</thinking>
-
 # Additional Service Agreement - Help Guide
 ## Purpose
 The "Additional Service Agreement" form is used to add new services to an existing membership plan for a client.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form used to help employees or individuals request to reinstate their tax deductions that were previously disallowed. This form is intended for internal use within an organization and is not designed for external use. 
 
 The form collects personal and financial information, as well as details about tax returns and supporting documents, to facilitate the reinstatement process. It also includes fields for declarations, submissions, and reviews to ensure accuracy and approval.

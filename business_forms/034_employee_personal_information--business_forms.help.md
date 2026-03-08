@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Employee Personal Information" form is to collect relevant details about an employee, including their first name, last name, job title, date of birth, email, phone number, physical address, city, state, and zip code. This form is likely used for internal purposes such as HR management, benefits administration, or performance tracking.
-To avoid duplication, please ensure that you have not already submitted this information for the same employee before filling out this form.
-</thinking>
-
 # Employee Personal Information - Help Guide
 ## Purpose
 The "Employee Personal Information" form is used to collect personal details about an employee, which can be utilized for various internal purposes such as HR management, benefits administration, or performance tracking.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a referral for a freight broker. The form is designed to gather details about the individual or company being referred, including their name, contact information, job title, and address. This information will be used to facilitate communication and potentially initiate business relationships. Please ensure that this form is completed accurately and thoroughly to avoid duplication or incorrect information. It's essential to verify that the information is up-to-date and accurate before submitting the form.
-</thinking>
-
 # Freight Broker Referral Form - Help Guide
 ## Purpose
 The Freight Broker Referral Form is a tool for collecting information about a referral for a freight broker.

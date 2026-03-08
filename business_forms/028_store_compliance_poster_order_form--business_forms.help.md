@@ -1,12 +1,3 @@
-<thinking> 
-This form was likely created for businesses or organizations to gather compliance information related to store posters. The form's purpose is to collect specific details about store compliance, possibly for regulatory or internal record-keeping purposes. However, without further context, it's uncertain whether this form is for employee training, customer-facing, or internal use. It's also unclear if the form is for a specific industry or type of business. To confirm its purpose and intended use, I recommend reviewing the form's metadata or consulting with the form's creator.
-
-Before proceeding, ensure that the form is not a duplicate or an exact replica of an existing form. If it's a duplicate, please consider whether to reuse or recreate the form to avoid redundancy.
-
-If this form is an original, ensure that its metadata and field structure align with your business needs and requirements. Review the form's fields, options, and hints to guarantee that they accurately capture the required information.
-
-Assuming the form is an original and relevant adaptation, please continue with the help guide below. </thinking>
-
 # Store Compliance Poster Order Form - Help Guide
 ## Purpose
 This form is designed to collect compliance information related to store posters. It has multiple pages with text fields for capturing specific details. 

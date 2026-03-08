@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect basic information for flat booking purposes, which likely refers to booking a flat or apartment for temporary or extended stays. This form might be used by property management or rental services to gather contact information and preferences from clients. Please note that the form does not seem to be asking for any sensitive or complex information. The field labels are quite clear, but some of them could be considered a bit weak or unclear. I will assume the best-effort explanation based on the provided YAML fields.
-
-</thinking>
-
 # Flat Booking Form - Help Guide
 ## Purpose
 This form is used to collect basic information for booking a flat or apartment.

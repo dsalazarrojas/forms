@@ -1,5 +1,3 @@
-<thinking>This form is likely designed for applicants to apply for a data analyst position, likely in an organization. The form asks for basic information such as name, email, and phone number. It also asks for educational background, specifically the degree and major earned. The form also inquires about work experience, asking for the job title, start and end dates of the previous job, and the name of the company. Additionally, it asks about specific skills in data analysis, data visualization, and programming languages. Finally, it asks for certification details, such as name, date, and issuer. The form may be used by a hiring manager or recruiter to assess the qualifications and background of potential applicants for a data analyst position.</thinking>
-
 # transportation_data_analyst_application_form - Help Guide
 ## Purpose
 This form is designed to help potential applicants apply for a data analyst position in our organization. It collects information about your background, skills, and experience to assess your qualifications.

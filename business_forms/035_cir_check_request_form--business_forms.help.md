@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block**
-This form is intended for organizations seeking financial support from our foundation. It collects essential information about the requesting organization, the purpose of the donation, and the project details. By completing this form, the organization will be able to provide a clear picture of their needs and requirements, ensuring a smooth review and approval process.
-
-</thinking>
-
 # Cir Check Request Form - Help Guide
 ## Purpose
 The Cir Check Request Form is designed to gather information from organizations seeking financial support from our foundation. This form helps us understand the organization's identity, project details, and financial requirements, ensuring a thorough review and approval process.

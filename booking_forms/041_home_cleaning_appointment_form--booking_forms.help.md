@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for customers to book a home cleaning service. It collects information such as customer contact details, service date and time, type of cleaning service needed, and other relevant information. The form is divided into three main sections: booking details, customer details, and service details.
-
-To ensure the form is completed correctly, the "Type of Cleaning" field is required to be one of the options: Clean, Deep Clean, or Move-In/Move-Out. The "Service Date" field requires a date in the format of mm/dd/yyyy. The "Time" field requires a time in the format of HH:MM. The "Street Address" field is required to be a valid address. The "Zip Code" field is required to be a valid zip code. The "City" field is required to be a valid city name. The "Cleaner Name", "Phone", and "Email" fields are all required to be a valid name, phone number, and email address, respectively. The "Service Details" field is an optional field for any additional comments or details about the service. 
-
-The form is used for both the customer and cleaner to input information about the service details, such as the type of service provided, any additional details, and the rate of the service.
-
-Note: This form is not intended to be used for any other purpose than booking a home cleaning service. Please ensure you provide all required information and double-check the details before submitting the form.</thinking>
-
 # Home Cleaning Appointment Form - Help Guide
 ## Purpose
 This is a form for customers to book a home cleaning service with a cleaner.

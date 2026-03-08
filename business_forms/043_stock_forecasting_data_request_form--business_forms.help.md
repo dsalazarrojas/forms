@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for stock forecasting data requests. The purpose of this form is to gather essential details about a stock's performance and characteristics to aid in making informed investment decisions. This form will guide users through a series of questions to help them provide comprehensive data on stocks.
-
-Before proceeding, please ensure that you have all the necessary information ready to fill in the form accurately. If you have filled this form previously, please be aware that this is a new instance of the form and your previous submissions will not be affected.
-
-Please note that some fields are required, which means they must be filled in for the form to be processed. Required fields are marked as such in the form.
-
-</thinking>
-
 # Stock Forecasting Data Request Form - Help Guide
 ## Purpose
 The Stock Forecasting Data Request Form is designed to collect information for stock forecasting data requests. The form helps users provide comprehensive data on stocks to aid in making informed investment decisions.

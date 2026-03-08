@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to help business users monitor customer support tickets. It is intended for tracking and managing customer support requests, providing an overview of the current status, description, category, priority, type, and resolution time of each request. By filling out this form, business users can effectively manage and prioritize customer support requests, enabling timely resolution and improved customer satisfaction.
-
-The form does not require duplication of data, and users should only submit one request at a time.
-
-The purpose of this form is to provide a structured format for capturing customer support ticket information, ensuring consistency and accuracy in tracking and reporting.
-
-The form's purpose and content may overlap with other business forms, but its primary function is to serve as a general tool for monitoring and reporting on customer support requests.
-
-The form's output is not intended to be a substitute for the actual customer support ticketing system.
-
-The form may need to be adapted or extended to suit specific business needs and requirements.
-
-The form does not require authentication or authorization for submission.
-
-The form's fields may need to be filled out in order to ensure consistency and accuracy in tracking and reporting customer support requests.
-</thinking>
-
 # Customer Support Ticket Monitoring Form - Help Guide
 
 ## Purpose

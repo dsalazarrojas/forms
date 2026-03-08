@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for travel inquiries related to the Orlando holiday season. The form is intended for users to provide details about their planned visit, including arrival and departure dates, number of travelers, and various other relevant information. Please ensure you are filling out this form only once, as submitting duplicate forms will cause unnecessary processing and waste time.
-
-</thinking>
-
 # Orlando Holiday Vacation Inquiry - Help Guide
 ## Purpose
 This form is used to collect information about your planned visit to Orlando during the holiday season. Please provide accurate and complete information to facilitate our processing of your inquiry.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Noise Disturbance Complaint Form - Help Guide
 =====================================
 

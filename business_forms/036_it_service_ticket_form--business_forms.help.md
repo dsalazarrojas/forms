@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "IT Service Ticket Form" that explains the purpose of the form, how to complete it, and what each field means, we first need to understand the context and purpose of this form. This form is used to report IT issues within an organization and provides a structured way to report problems that require assistance from the IT department. 
-
-The form is likely used by employees and customers to report various issues, such as technical problems, system errors, or hardware malfunctions, and the goal is to gather relevant information about the issue to expedite the resolution process.
-
-The form's sections and fields should be designed to capture essential details, categorize the issue's priority and urgency, and establish a contact method and follow-up process.
-
-With the above context in mind, we can now proceed to create the user-facing help guide.
-</thinking>
-
 # IT Service Ticket Form - Help Guide
 ## Purpose
 The IT Service Ticket Form is used to report issues that require assistance from the IT department. It helps to gather essential information to expedite the resolution process and categorize the issue's priority and urgency.

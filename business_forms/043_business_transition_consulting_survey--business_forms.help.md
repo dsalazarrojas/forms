@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to gather information from business professionals about their organization's transition plans, readiness, and potential challenges. This includes questions about the type of transition, timeline, overall organizational readiness, leadership continuity, knowledge transfer, employee retention, stakeholder communication, cultural continuity, anticipated financial impact, customer impact, regulatory compliance, key risks, support needs, and budget available for the transition. It's essential to complete this form accurately to help identify potential areas of concern and provide a foundation for effective business transition consulting.
-
-</thinking>
-
 # Business Transition Consulting Survey - Help Guide
 
 ## Purpose

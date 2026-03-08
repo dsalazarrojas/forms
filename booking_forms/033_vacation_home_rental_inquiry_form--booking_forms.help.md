@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information from guests inquiring about renting a vacation home. The form is likely to be used by property managers or owners to gather necessary details to facilitate a smooth rental experience. The form's purpose is to ensure that the guest has provided all required information to make a booking. 
-
-The form's fields are designed to be completed by the guest and should be filled out in the following order:
-
-1.  Guest's personal details such as name, email and phone number.
-2.  Dates for the booking such as start and end dates.
-3.  Type of inquiry which could be for a stay, a visit, or some other reason.
-4.  Details about the stay such as number of guests, arrival and departure dates, and any special requests.
-5.  Information about the guest's country and the type of property they are inquiring about.
-
-This guide will walk you through each field, explaining what it means and how to complete it correctly.
-</thinking>
-
 # Vacation Home Rental Inquiry Form - Help Guide
 
 ## Purpose

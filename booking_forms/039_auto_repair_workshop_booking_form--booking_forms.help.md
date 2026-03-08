@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for customers to book an appointment at an auto repair workshop. The purpose of this form is to gather essential information from the customer to ensure a smooth and efficient booking experience. This information includes customer details, vehicle details, appointment scheduling, and service requirements. The form is designed to be user-friendly and helps the workshop staff to understand the customer's needs and preferences.
-
-</thinking>
-
 # Auto Repair Workshop Booking Form - Help Guide
 ## Purpose
 

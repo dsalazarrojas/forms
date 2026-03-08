@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to track daily work activity, allowing users to report on the tasks they completed, their status, and the duration of their work. This information is crucial for monitoring progress, identifying areas of improvement, and adjusting work schedules as needed. 
-This form is meant to be filled out daily, and the fields should be completed accurately and thoroughly to ensure that work progress is accurately reflected. 
-Please ensure that you are not duplicating information already reported in previous days; each day's work should be tracked separately. 
-</thinking>
-
 # Standard Of Work Daily Tracking Form - Help Guide
 
 ## Purpose

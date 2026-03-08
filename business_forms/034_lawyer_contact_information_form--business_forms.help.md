@@ -1,18 +1,3 @@
-<thinking>
-The Lawyer Contact Information Form is a simple form designed to collect basic contact information from lawyers. The form is intended to gather first name, last name, address, email, phone, and fax details from users. The purpose of this form is to provide a way for lawyers to share their contact information with others, which is useful for networking, collaborations, or other business purposes.
-
-When filling out this form, the user will be able to input their first and last name, which will help to identify them correctly. The address field will allow users to input their business or residential address, which can be useful for others to get in touch with them. The email address will enable users to receive communications from others, and the phone number will be handy for phone calls or voice messages. The fax number is optional, but it can be useful for those who still use faxes.
-
-The form does not require users to input any sensitive or personal information, and all fields are optional. This form is suitable for lawyers who want to share their contact information with others in a simple and straightforward way.
-
-Before completing this form, make sure to fill in all the required fields, which are marked as "required" in the form. This form is designed to be filled out by one person at a time, so do not fill in multiple fields with your own information.
-
-When filling out this form, you can input your information in the format that you prefer, as long as it is legible and easy to read. However, if you are unsure about any of the fields, please feel free to ask for help.
-
-Please be aware that the form is a public tool, and the information you input will be shared with others. Be cautious when sharing sensitive information.
-
-</thinking>
-
 # Lawyer Contact Information Form - Help Guide
 ## Purpose
 This form is designed to collect basic contact information from lawyers for networking, collaborations, or other business purposes.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a simple booking form for sponsors to provide details about their organization, preferred kiosk location, booking date and time, and terms of agreement. The purpose is to gather essential information to manage and confirm sponsor bookings. To ensure accuracy and efficiency in the completion process, please review each field carefully and ensure the information provided is correct. This form is intended to be completed by sponsors or authorized representatives of organizations, and it is recommended that they have the necessary permissions to complete the form.
-
-Please note that the field "Terms Agreement" requires a detailed explanation of the terms of agreement, but as it is a note field, the user might be free to write anything they like, but we encourage them to be concise and clear in their writing.
-</thinking>
-
 # Sponsorship Kiosk Booking Form - Help Guide
 ## Purpose
 This guide will help you understand the purpose and requirements of this sponsorship kiosk booking form.

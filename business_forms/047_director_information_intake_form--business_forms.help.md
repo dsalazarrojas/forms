@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect director information, including personal and professional details, to help administrators and HR personnel maintain accurate records and facilitate effective communication with directors. The purpose of this form is to gather essential information about the director's contact details, job title, department, date of birth, time of hire, and other relevant details. To ensure that the collected data is up-to-date and accurate, the form will help administrators keep track of the last updated time. Please note that some fields are optional and are meant to capture additional information not covered by the standard fields.
-
-This form is intended to be completed by directors to provide their personal and professional information to the administrators for official purposes. The form is designed to be completed in a single page, making it easy for directors to provide the necessary information without any hassle.
-
-Before proceeding, ensure that you have all the necessary details required to complete the form accurately.
-</thinking>
-
 # Director Information Intake Form - Help Guide
 ## Purpose
 This form is designed to collect director information for official purposes.

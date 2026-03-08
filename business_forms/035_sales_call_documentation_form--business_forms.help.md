@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to document sales calls, including details about the client, call type, next steps, and other relevant information. This form should only be used for sales calls that have a defined outcome or next steps. 
-  To avoid duplication, ensure that only one sales call per client is documented in this form. 
-  </thinking>
-
 # Sales Call Documentation Form - Help Guide
 ## Purpose
 This form is used to document sales calls, including details about the client, call type, next steps, and other relevant information.

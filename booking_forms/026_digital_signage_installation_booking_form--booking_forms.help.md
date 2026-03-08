@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the installation of digital signage at a customer's location. The form fields are categorized into several sections to ensure that all relevant details are captured accurately. Before proceeding, ensure that the form is filled out completely and accurately to ensure a successful installation process.
-
-</thinking>
-
 # Digital Signage Installation Booking Form - Help Guide
 ## Purpose
 

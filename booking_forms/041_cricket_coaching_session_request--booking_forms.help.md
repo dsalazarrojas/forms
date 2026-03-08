@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cricket Coaching Session Request - Help Guide
 ## Purpose
 The Cricket Coaching Session Request form is used to collect information from users who want to request a cricket coaching session. This form helps the coaching team schedule and organize sessions effectively.

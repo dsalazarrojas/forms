@@ -1,11 +1,3 @@
-<thinking>
-  This form is used to obtain the user's consent for sharing their personal information with others. 
-  This includes their name, email, phone number, and other details they may choose to share. 
-  Please ensure you only use this form when necessary and in accordance with relevant data protection laws. 
-  This form does not need to be filled out if you do not wish to share any information. 
-
-</thinking>
-
 # Profile Information Sharing Consent Form - Help Guide
 ## Purpose
 The Profile Information Sharing Consent Form is used to collect your consent for sharing your personal information with others. This form is necessary for our business operations and is used to determine which information you are willing to share.

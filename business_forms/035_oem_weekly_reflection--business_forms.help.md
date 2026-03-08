@@ -1,5 +1,3 @@
-<thinking>What this form is used for is to facilitate weekly reflections from team members, helping them document their progress and experiences with the assigned tools and categories. The form aims to be a quick and simple way to track what's working and what's not. It's essential to fill out this form consistently every week, so we can monitor the tools' effectiveness and make informed decisions. Before filling out the form, ensure you've reviewed the tools and your current work to provide accurate and honest feedback.</thinking>
-
 # oem_weekly_reflection - Help Guide
 ## Purpose
 This form is a weekly reflection tool used to document progress and experiences with assigned tools.

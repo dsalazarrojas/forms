@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information about a referral to a tire repair service. 
-The form asks questions that will help in tracking the client's visit history, status, contact information and other relevant details.
-To ensure that the client's information is accurate and up-to-date, it's best to fill out the form for each client separately, without duplicating or overwriting the information. 
-</thinking>
-
 # tire_repair_service_referral_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about referrals to a tire repair service. This form is used to track client visits, status, contact information, and other relevant details.

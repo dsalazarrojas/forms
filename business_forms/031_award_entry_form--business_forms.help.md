@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Award Entry Form - Help Guide
 
 ## Purpose

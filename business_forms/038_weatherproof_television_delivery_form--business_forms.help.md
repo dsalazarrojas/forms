@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the delivery of weatherproof televisions. The purpose of this form is to gather details about the delivery address, date and time, contact information, and television specifics. It's essential to complete this form accurately to ensure smooth and successful delivery. Please review the fields carefully and complete them as instructed. If you've already submitted this form, you don't need to do so again, as the information is likely saved in the system.
-</thinking>
-
 # Weatherproof Television Delivery Form - Help Guide
 ## Purpose
 

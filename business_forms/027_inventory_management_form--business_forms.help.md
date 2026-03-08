@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # inventory_management_form - Help Guide
 ## Purpose
 This form is for managing inventory. It allows users to input and store information about stores, employees, products, and suppliers. This includes store ID, employee ID, product ID, quantity, product name, product description, price, reorder point, reorder quantity, vendor status, supplier ID, and supplier name.

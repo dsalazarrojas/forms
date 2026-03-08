@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information about a business, particularly its operational and financial data. The main goal of this form is to gather essential details that can be used to assess and improve the business. This form is likely used by businesses looking to evaluate their performance, set goals, and identify areas for improvement. This form may be used by business owners, entrepreneurs, or professionals who need to provide a snapshot of their business's current status, operations, financials, challenges, and goals. To ensure accuracy, please fill in the form carefully and thoroughly, and avoid duplicating or omitting information that could affect the assessment or recommendations made from this data. 
-</thinking>
-
 # Business Snap Shot - Help Guide
 ## Purpose
 This form is designed to collect a comprehensive snapshot of your business's current state, including its operational and financial details. It will guide you in providing a clear picture of your company, which can be used for assessments, goal setting, or identifying areas for improvement.

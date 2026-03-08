@@ -1,5 +1,3 @@
-<thinking>This form is designed for users to inquire about off-grid energy solutions, such as solar, wind, hydro, or biomass systems, for a specific location. The form collects information about the system type, location, energy source, system size, and other relevant details. This form is intended for individuals or organizations that need to evaluate or implement off-grid energy solutions for their business or personal needs. Please ensure that you are filling out this form for a valid inquiry and not for test purposes.</thinking>
-
 # Off Grid Energy Solutions Inquiry - Help Guide
 ## Purpose
 The Off Grid Energy Solutions Inquiry form is designed to collect information about off-grid energy solutions for a specific location. This form is meant to help users understand their energy needs and potential solutions.

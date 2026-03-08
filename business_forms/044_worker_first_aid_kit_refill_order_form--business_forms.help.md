@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to enable workers to request a refill of their first aid kit, which is a crucial tool for providing immediate medical assistance in case of an emergency. This form is designed to gather information about the location of the first aid supply, the type of kit, and other relevant details to ensure that the refill request is processed efficiently.
-
-Before filling out this form, please ensure that you have a valid reason for requesting a refill and that you have not already submitted a refill request for the same first aid kit. This form is intended for workers who need to report their first aid kit supply levels and request a refill if necessary.
-
-Please note that the form is divided into sections with clear labels and instructions. Each section is designed to gather specific information that will help in processing your refill request.
-
-</thinking>
-
 # Worker First Aid Kit Refill Order Form - Help Guide
 ## Purpose
 This form is used to request a refill of your first aid kit, which is essential for providing immediate medical assistance in emergency situations.

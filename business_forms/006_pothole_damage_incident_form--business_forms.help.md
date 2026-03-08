@@ -1,12 +1,3 @@
-<thinking>
-The form is used to record a pothole damage incident report, which is a common issue reported by drivers. The primary purpose of this form is to collect relevant information about the incident, including the date, vehicle details, and contact information. The form aims to gather accurate and comprehensive data to assist in processing and resolving the incident.
-
-To ensure relevance, the form should only be used for genuine pothole damage incidents. If the issue is unrelated or duplicate, please do not fill out this form.
-
-This guide will walk you through the fields included in the pothole damage incident form, their meanings, and how to complete the form correctly.
-
-</thinking>
-
 # pothole_damage_incident_form - Help Guide
 ## Purpose
 The pothole damage incident form is designed to collect information about a pothole damage incident reported by drivers. This form will help gather accurate details about the incident, including the date, vehicle information, and contact details.

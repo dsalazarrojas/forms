@@ -1,7 +1,3 @@
-<thinking>
-This form is used to assess the quality of website traffic on our platform. The purpose of this form is to gather information about users' behavior and demographics to provide insights into their online activities. This form is only meant to be completed by users who have visited or interacted with our website. If you have not visited or interacted with our website, please do not fill out this form.
-</thinking>
-
 # Website Traffic Quality Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess the quality of website traffic on our platform. The information collected through this form will help us understand how often users visit websites, their behavior on our platform, and their demographics. This data will be used to improve the user experience and tailor our services accordingly.

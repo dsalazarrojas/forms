@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive help guide for the Sustainable Partnership Innovation Application Form that covers its purpose, completion process, and field-by-field explanation. This guide will be concise, practical, and easy to understand, ensuring that end-users can efficiently complete the form and get the most out of it.</thinking>
-
 # Sustainable Partnership Innovation Application Form - Help Guide
 ## Purpose
 The Sustainable Partnership Innovation Application Form is a tool used to gather information about innovative projects and partnerships within the organization. This form helps to track and manage project details, partner interactions, and funding status.

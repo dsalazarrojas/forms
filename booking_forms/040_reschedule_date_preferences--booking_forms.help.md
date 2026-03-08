@@ -1,7 +1,3 @@
-<thinking>
-This guide explains how to fill out the "Reschedule Date Preferences" form. The form is used to request changes to scheduled dates, appointments, or events. Its purpose is to collect information about the rescheduling request, including the new date, reason for the request, and any preferred dates. This form is used in various fields, such as appointments, events, or meetings.
-</thinking>
-
 # Reschedule Date Preferences - Help Guide
 ## Purpose
 The "Reschedule Date Preferences" form is used to collect information about requests to change scheduled dates, appointments, or events. This form is used to gather details about the requested changes, including the new date, reason for the request, and preferred dates.

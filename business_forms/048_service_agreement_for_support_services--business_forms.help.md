@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from clients regarding their support services, including service description, terms, payment details, and contact information. This form helps in ensuring that all necessary details are captured accurately and efficiently, facilitating effective support services delivery. 
-</thinking>
-
 # Service Agreement For Support Services - Help Guide
 
 ## Purpose

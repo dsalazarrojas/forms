@@ -1,8 +1,3 @@
-<thinking>
-This is an internal help guide to ensure that the end users are aware of the purpose and usage of the "Shipping Manifest Check In Form". The form is used for tracking and checking in shipments. It's essential to complete this form accurately and consistently to avoid duplication and ensure that shipment status is updated correctly. Please refer to the internal business logic and procedures for more information.
-
-</thinking>
-
 # Shipping Manifest Check In Form - Help Guide
 ## Purpose
 This form is used to check in shipments and update their status in the manifest. It helps ensure that all shipments are tracked and reported accurately, reducing the risk of errors or duplication of efforts.

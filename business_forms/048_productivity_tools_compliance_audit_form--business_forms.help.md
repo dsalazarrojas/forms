@@ -1,10 +1,3 @@
-<thinking>
-This form is used to evaluate the compliance of productivity tools used within an organization. The purpose of this form is to ensure that the tools being used are in line with the organization's standards and policies. This form should not be used for other purposes or for tools that do not require evaluation. This form's content should be reviewed and updated periodically to ensure it remains relevant and accurate. 
-
-Note that this form is for evaluating productivity tools, specifically, tools that are used by employees to perform job responsibilities. This form is not intended to be filled by non-employees, like customers or partners, for example. This form is part of a more extensive set of tools for internal use. 
-
-If you're not sure about the tool's type, please contact the relevant department or team for guidance.</thinking>
-
 # Productivity Tools Compliance Audit Form - Help Guide
 ## Purpose
 This form is used to evaluate the compliance of productivity tools used within the organization, ensuring they align with the organization's standards and policies.

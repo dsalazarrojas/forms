@@ -1,8 +1,3 @@
-<thinking>
-This help guide is for the "Expense Approval Checklist" form. The purpose of this form is to collect and review information about expenses incurred by employees within the company. It's used to ensure that all expenses are properly accounted for and approved by authorized personnel. This form should only be used for expenses that have already been submitted by employees for approval. If you're unsure whether your expense meets the criteria for this form, please double-check with your supervisor or refer to your company's expense policies.
-
-</thinking>
-
 # Expense Approval Checklist - Help Guide
 ## Purpose
 The Expense Approval Checklist is a form used to review and approve expenses submitted by employees. It helps to ensure that all expenses are properly accounted for and approved by authorized personnel.

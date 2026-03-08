@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about a construction project. It is used to document the essential details about the project, including address, contact person, phone number, email, project name, location, description, start and end dates, project type, project size, project status, contractor details, contractor license, contractor insurance, contractor experience, contractor vehicle, contractor equipment, contractor supervision, and owner contact details. This form is essential for ensuring that all necessary information is collected and recorded accurately and efficiently.
-</thinking>
-
 # Pre Construction Information Form - Help Guide
 ## Purpose
 The Pre Construction Information Form is used to collect essential details about a construction project, including contact information, project specifics, and contractor details.

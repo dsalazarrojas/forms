@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from clients interested in Reiki sessions. The form should only be used to gather information from clients, not for booking or payment purposes. This form will help us to understand the client's preferences and provide them with the best possible Reiki experience. Before filling this form, please ensure that you are not already registered with us as a client.
-</thinking>
-
 # reiki_client_information_form - Help Guide
 ## Purpose
 The reiki_client_information_form is used to collect client information for Reiki sessions. Please fill out this form to provide us with your details so we can tailor the experience to your needs.

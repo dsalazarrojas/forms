@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for estate planning purposes, likely for a legal or financial professional to use in their work. This form is not meant to be used for emergency appointments or urgent matters. Before proceeding, please verify that you are not using this form for a duplicate purpose or an appointment that has already been scheduled. If you're unsure, please reach out to the relevant party for clarification.
-</thinking>
-
 # Estate Planning Appointment Form - Help Guide
 ## Purpose
 The Estate Planning Appointment Form is a document used to gather essential information for estate planning purposes. It is meant to assist professionals in their work with clients.

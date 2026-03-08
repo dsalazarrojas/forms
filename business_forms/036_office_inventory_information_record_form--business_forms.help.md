@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that the purpose of this form is clear and relevant to the business needs. This form is used to collect and record information about office inventory, which includes items such as furniture, equipment, supplies, and other assets. The form will be used by office administrators to track and manage the inventory, and provide a centralized repository of information about each item. Before proceeding, please review the form's fields and ensure that you are completing it for the intended purpose and not duplicating efforts.
-
-Please note that the form has multiple fields, each with its own specific use case. The form should only be completed once for each item in the inventory.
-
-After reviewing the form, if you are confident about its purpose and relevance, you can proceed with completing it.
-</thinking>
-
 # office_inventory_information_record_form - Help Guide
 ## Purpose
 The **office_inventory_information_record_form** is a form used to collect and record information about office inventory, including items such as furniture, equipment, supplies, and other assets. This form helps office administrators track and manage the inventory, providing a centralized repository of information about each item.

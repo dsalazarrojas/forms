@@ -1,10 +1,3 @@
-<thinking>
-The "customer_contact_form" form is designed to collect information from customers or potential customers who have inquiries or requests regarding products or services. This form aims to gather contact details and specific information about their requirements or concerns. The form is likely used by a business or organization to establish a communication channel with its clients, allowing for a more personal and efficient exchange.
-
-Before proceeding with the guide, it's crucial to ensure that this form is relevant and not a duplicate of another form. If you've already accessed this form or one with similar fields, please proceed to the next steps with caution, as this explanation will cover the purpose, completion process, and explanations of each field to ensure you understand its intended use.
-
-</thinking>
-
 # customer_contact_form - Help Guide
 ## Purpose
 The "customer_contact_form" form is used to collect contact information and details from customers or potential customers who have inquiries or requests regarding products or services.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for individuals to submit their application for a Freelance Social Media Manager position. The form asks for basic contact information, job title, and expected salary, as well as skills and availability. However, it's likely that this form is intended for internal use within the company and the "expected salary" field might not be relevant for freelancers or might be intended for other purposes (e.g., internal reference for pricing). It's also possible that the "agreement" fields might not be necessary for a freelance application. To proceed with creating the help guide, I will assume these fields are intended for other purposes and focus on the most relevant fields for a freelance social media manager application.
-
-</thinking>
-
 # Freelance Social Media Manager Job Application Form - Help Guide
 ## Purpose
 The purpose of this form is to allow individuals to apply for a Freelance Social Media Manager position. Please fill out this form to submit your application.

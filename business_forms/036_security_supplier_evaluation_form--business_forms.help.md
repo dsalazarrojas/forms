@@ -1,8 +1,3 @@
-<thinking>
-The Security Supplier Evaluation Form is a tool used by business users to evaluate potential security suppliers. This form is likely used to gather information from business users about the security posture of a supplier, which could be related to their ability to handle sensitive data, meet regulatory requirements, or provide secure communication channels. The form could be used by the IT or security department to assess the supplier's security risk and make decisions on whether to partner with them. The fields on this form suggest that it's meant to gather information on the supplier's ability to handle various aspects of security, such as evaluation, future business, security, and potential risks. It's possible that this form is part of a larger process for evaluating and onboarding new suppliers.
-Please ensure that you're filling out this form for the right purpose and not duplicating efforts. If you're unsure about the form's purpose or have already filled it out for the same supplier, please check with your team or supervisor before proceeding.
-</thinking>
-
 # Security Supplier Evaluation Form - Help Guide
 ## Purpose
 The Security Supplier Evaluation Form is used to assess the security posture of a potential supplier, evaluating their ability to handle sensitive data, meet regulatory requirements, and provide secure communication channels.

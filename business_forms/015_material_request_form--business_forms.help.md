@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Material Request Form - Help Guide
 ## Purpose
 The Material Request Form is designed to collect information about materials requested by project teams. It is used to gather details about the materials needed for a project, the person who requested them, and the location and person responsible for ordering them.

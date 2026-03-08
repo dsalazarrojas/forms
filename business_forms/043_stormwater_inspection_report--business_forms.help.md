@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information about stormwater inspection reports. It's a crucial document for monitoring and managing stormwater systems in various locations. This form should only be used for stormwater inspection reports and should not be filled out for other types of inspections or purposes. 
-
-Please ensure that you have the necessary permissions and authorization to access and fill out this form. 
-
-The form will be used for tracking and record-keeping purposes. It's essential to fill it out accurately and thoroughly.
-
-</thinking>
-
 # Stormwater Inspection Report - Help Guide
 ## Purpose
 The stormwater inspection report is used to document the condition and performance of stormwater systems, including pumps, catch basins, and other infrastructure. This form helps in monitoring and managing these systems, ensuring they are functioning correctly and efficiently.

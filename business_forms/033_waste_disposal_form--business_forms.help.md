@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Waste Disposal Form - Help Guide
 
 ## Purpose

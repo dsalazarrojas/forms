@@ -1,8 +1,3 @@
-<thinking>
-This form is likely created for technicians or maintenance workers to report on their daily activities, specifically for tasks related to air conditioning systems. The form is a daily report and will help the management or supervisor keep track of work done, time spent, and tools used for each job. This form might be part of a regular work process to ensure that tasks and jobs are managed efficiently, and that necessary information is collected for invoicing, accounting, or future planning. To ensure accuracy and completeness, the fields and their corresponding labels should be filled in correctly to represent the work performed and materials consumed during the job. 
-
-</thinking>
-
 # Air Conditioning Daily Requisition Report Form - Help Guide
 
 ## Purpose

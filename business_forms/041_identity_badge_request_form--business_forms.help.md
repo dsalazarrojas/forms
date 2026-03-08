@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # identity_badge_request_form - Help Guide
 ## Purpose
 The Identity Badge Request Form is used to request a new badge for employees in your organization. This form captures essential information to process the request and ensure the badge is issued correctly. 

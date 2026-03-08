@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning and Non-Duplication Check**
-
-Before creating this user-facing help guide, I reviewed the provided form structure and fields. The form is designed to collect information for a credit check permission form, which typically includes contact information, employment details, and permission to proceed with a credit check. This guide will cover each field's purpose, making it easier for end users to understand the form's requirements and fill it out correctly. No duplicate information or unnecessary fields were detected during review.
-</thinking>
-
 # Credit Check Permission Form - Help Guide
 ## Purpose
 This Credit Check Permission Form is used to collect necessary information from individuals for a credit check. It will gather contact details, employment information, and permission to conduct a credit check.

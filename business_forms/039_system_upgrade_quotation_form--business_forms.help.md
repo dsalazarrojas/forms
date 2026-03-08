@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for system upgrade quotations from customers. It is used to gather details about the upgrade, including the system's current status, the desired upgrade options, customer information, and any additional costs or comments related to the upgrade. The form should only be filled out by authorized personnel, such as system administrators or technical support staff. It is not intended for general public use.
-</thinking>
-
 # System Upgrade Quotation Form - Help Guide
 ## Purpose
 This form is used to collect information for system upgrade quotations from customers. It is an internal tool for authorized personnel to gather details about system upgrades.

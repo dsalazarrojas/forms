@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is for capturing agreement details between the client and the developer for a web application development project. The purpose of this form is to outline the terms and conditions of the project, including project details, payment terms, and agreement duration. 
-
-When completing this form, please ensure that you have a clear understanding of the project requirements and payment terms before submitting it. This form is not intended to be a legally binding contract, but rather a guiding document for both parties to refer to during the project.
-
-The form is divided into several sections, each with its own set of fields. Please complete each section carefully, as it will help in maintaining a smooth and successful project experience.
-
-</thinking>
-
 # Web Application Development Agreement - Help Guide
 ## Purpose
 This form is for capturing agreement details between the client and the developer for a web application development project.

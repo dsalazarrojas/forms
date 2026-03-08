@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to be a comprehensive resource for end-users navigating the Photography Contract Form. The primary purpose of this form is to collect essential information from clients, such as contact details, contract terms, and shoot specifics, to ensure a smooth and well-organized photography session. It is intended to facilitate communication and agreement between the client and the photographer. It serves as a foundation for the contract and the terms agreed upon between the two parties.
-</thinking>
-
 # Photography Contract Form - Help Guide
 ## Purpose
 The Photography Contract Form is a vital document that outlines the terms and conditions of a photography session. It provides a clear understanding of the client's and photographer's responsibilities, expectations, and obligations. This guide will walk you through the form's sections and fields to ensure you fill out the form accurately and make the most of your photography experience.

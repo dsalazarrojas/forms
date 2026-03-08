@@ -1,8 +1,3 @@
-<thinking>
-This form is used by Supply Chain teams to provide a high-level summary of the current efficiency status of their supply chain operations. The form is meant to be a brief overview of the key metrics and actions that need to be taken to improve the efficiency of the supply chain. It is used to monitor and report on the supply chain's performance over time, allowing teams to identify trends and areas for improvement. The form should only be filled out for each reporting period, and the data should be reviewed and updated regularly to ensure accurate and consistent reporting. Note that this form is meant to be a general template and may need to be tailored to the specific needs of your organization.
-
-</thinking>
-
 # Supply Chain Efficiency Summary Report - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking> 
-
-The purpose of this form is to help users reserve a parking spot at a specific park by collecting information about the guest, the reservation details, and the payment method. This form is likely used by park administrators or managers to manage and track parking spot reservations. 
-
-Before filling out this form, please ensure that you are authorized to make reservations at the park. If you are not sure about the reservation status, please contact the park management or check the park's website for more information.
-
-To avoid duplication, please make sure to check the park's availability and confirm the reservation before submitting the form. This will avoid unnecessary rework and ensure a smooth experience for all users.
-
-</thinking> 
-
 # rv_parking_spot_reservation_form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-The Rental Notice Communication Form is used to communicate rental notices to tenants, landlords, or other stakeholders involved in the rental process. This form helps in maintaining a record of rental notices, their status, and the people involved in the process. It's an essential tool for property managers or administrators to keep track of rental notices and ensure that all parties are aware of the current status. This form can be used to record a notice when a tenant reports an issue or concern, and the landlord or administrator responds to it, or when a rent payment is due or late.
-
-</thinking>
-
 # Rental Notice Communication Form - Help Guide
 
 ## Purpose

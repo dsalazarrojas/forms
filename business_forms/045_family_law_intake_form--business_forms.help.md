@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about family law cases, including client details, family information, case status, and communication preferences. The purpose of this form is to streamline the intake process for family law cases, ensuring that all necessary information is collected in a structured and efficient manner. This form is intended for internal use within the organization, and the information collected will not be shared with external parties. It is essential to ensure that the form is completed accurately and thoroughly, as the information collected will be used to guide decision-making and case management. Please note that this guide is for users who are new to this form or need a quick refresher on how to complete it.
-</thinking>
-
 # Family Law Intake Form - Help Guide
 ## Purpose
 The Family Law Intake Form is designed to collect essential information about family law cases, helping the organization's staff to understand the client's needs and manage the case effectively.

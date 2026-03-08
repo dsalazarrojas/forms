@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used in an internal business setting to collect leadership feedback from team members or employees, which can help managers and supervisors gauge the overall well-being and sentiment of their team or department. The form may be used for anonymous feedback or for tracking feedback over time.
-</thinking>
-
 # Leadership Feedback Form - Help Guide
 ## Purpose
 The Leadership Feedback Form is a tool used to collect feedback from team members or employees about their leaders, managers, or supervisors. This form is designed to gather information about the leadership style, communication, and overall performance of the person in a leadership position.

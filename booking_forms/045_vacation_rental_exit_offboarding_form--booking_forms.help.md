@@ -1,5 +1,3 @@
-<thinking>As the form designer, I need to create a user-facing help guide that explains the purpose and usage of the "Vacation Rental Exit Offboarding Form". This form is intended for tenants to provide information about their exit from a vacation rental property. The form should help to gather essential details about the tenant's contact information, feedback, and rating of the property. The form is likely to be used by property managers or administrators to keep a record of tenant interactions and improve the rental experience. I need to ensure that the form is easy to understand and complete for the end-users.</thinking>
-
 # Vacation Rental Exit Offboarding Form - Help Guide
 ## Purpose
 The Vacation Rental Exit Offboarding Form is a tool for tenants to provide information about their exit from a vacation rental property. This form helps property managers or administrators to keep a record of tenant interactions and improve the rental experience.

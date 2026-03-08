@@ -1,5 +1,3 @@
-<thinking>This form is designed for subcontractors to prequalify themselves for potential partnerships with our company. The form gathers information about the subcontractor's experience, business type, services offered, equipment needed, and other relevant details. Each field is designed to help us assess the subcontractor's qualifications and fit with our company's needs.</thinking>
-
 # Subcontractor Prequalification Form - Help Guide
 
 ## Purpose

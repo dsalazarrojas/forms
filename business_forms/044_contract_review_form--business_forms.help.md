@@ -1,10 +1,3 @@
-<thinking>
-The Contract Review Form is a critical tool used to evaluate contracts and agreements within the organization. It is essential to ensure that all stakeholders have a clear and standardized process for reviewing contracts and making informed decisions about them.
-This form is designed to gather feedback and insights from reviewers on various aspects of the contract, including business terms, legal terms, financial terms, and overall risk level. Reviewers will assess the contract's compliance status, identify any required changes, and recommend approval or non-approval based on their evaluation. The form will also provide space for reviewers to include any additional comments or conditions for approval.
-Before starting the review, please ensure that you have the necessary permissions and access to the contract documents. Reviewers should have a clear understanding of the contract terms and conditions before providing their feedback. It is also essential to note that this form is for reviewing contracts, and it is not intended for other purposes. 
-Please make sure to complete the form accurately and thoroughly, as it will help in making informed decisions about the contract.
-</thinking>
-
 # Contract Review Form - Help Guide
 ## Purpose
 The Contract Review Form is designed to gather feedback and insights from reviewers on various aspects of contracts and agreements within the organization. It ensures a standardized process for reviewing contracts and making informed decisions about them.

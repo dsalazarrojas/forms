@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be used by a company to evaluate the efficiency of its supply chain. The form asks for general information about the company, including its name, contact person, location, annual revenue, customer base, employee count, production capacity, inventory level, and supply chain length. It also inquires about the company's supply chain efficiency, sustainability, and improvement plans. This form is used to assess the company's performance in these areas and identify potential areas for improvement.
-
-Before starting, please ensure that you have all the necessary information and approvals to complete this form. This form should not be duplicated for the same company. Please note that some fields may not be applicable to your company, and you should only answer the questions that are relevant to your business operations.
-
-Please review the fields and ensure you understand their purpose before proceeding.
-</thinking>
-
 # Supply Chain Efficiency Evaluation Form - Help Guide
 ## Purpose
 This form is designed to help companies evaluate their supply chain efficiency and sustainability. It collects information about the company's structure, operations, and performance in the supply chain management.

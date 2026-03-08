@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for photographers to book a photo shoot with a client. 
-It is likely used by a photography business to handle new booking requests from clients. 
-The form fields are designed to collect essential information for the photographer and the client.
-It is crucial to have the most up-to-date information and correct fields in order to avoid duplication and ensure that the correct information is captured for the client.
-The form's fields should match the business' specific needs and preferences for client information.
-</thinking>
-
 # photo_shoot_booking_form - Help Guide
 ## Purpose
 The photo shoot booking form is used for photographers to book a photo shoot with a client. It collects essential information for the photographer and the client, ensuring that all necessary details are captured for a successful shoot.

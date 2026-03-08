@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect event details and booking requests for hotels. This form will be used by hotel staff or clients to input event details, such as start date, end date, guest name, email, arrival date, and more. The form is designed to be used with 14 fields. Please note that not all fields are required, and users can provide any other event details they deem necessary.
-</thinking>
-
 # Hotel Meeting And Booking Request Form - Help Guide
 ## Purpose
 This form is used to collect event details and booking requests for hotels.

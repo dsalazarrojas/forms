@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is clear and easy to use for end-users, while also being comprehensive in its explanation. The Mosquito Inspection Report Form is designed to capture information about mosquito infestations in properties. This form will help inspectors collect data about the property address, details about the mosquito species found, the number of mosquitoes present, the date and time of the inspection, any notes from the inspector, and other relevant information. This form is likely used by building inspectors or pest control professionals to gather data for mosquito control measures.
-
-We also need to make sure the form doesn't duplicate efforts or data collection for the same property, so we'll want to ensure users understand the form's purpose and how to fill it out correctly. This guide will walk users through the form step by step.</thinking>
-
 # Mosquito Inspection Report Form - Help Guide
 
 ## Purpose

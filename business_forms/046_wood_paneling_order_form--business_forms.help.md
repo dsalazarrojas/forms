@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wood Paneling Order Form - Help Guide
 
 ## Purpose

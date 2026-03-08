@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive and user-friendly help guide, we'll need to ensure that the form is completed accurately and efficiently. This form is intended for collecting information on the safety and compliance of a venue with the required safety and emergency response features. It's designed to be used by building inspectors, who need to gather detailed data on the venue's condition, emergency contact information, and other relevant details. To avoid confusion and duplication, ensure that each field is filled accurately and completely.
-
-</thinking>
-
 # Venue Inspection Checklist - Help Guide
 ## Purpose
 This form is used to collect information on the safety and compliance of a venue with the required safety and emergency response features.

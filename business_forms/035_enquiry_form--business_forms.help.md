@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for users to submit inquiries for various services or issues they need help with. It's intended to gather information about the user, their preferred method of contact (phone or email), and a brief description of their inquiry. The form also captures additional details that will help in addressing their concern and any further tools that may be needed to resolve it. It's a crucial form for internal teams to process and respond to user requests efficiently. 
-
-Before filling this form, please ensure that you haven't already submitted a similar inquiry. If you have done so, kindly refer to the previous submission for a response, or contact the relevant team directly. 
-</thinking>
-
 # enquiry_form - Help Guide
 ## Purpose
 The enquiry_form is a tool for users to submit inquiries for various services or issues they need help with.

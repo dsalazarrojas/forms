@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax Classification Form - Help Guide
 ## Purpose
 The Tax Classification Form is used to classify and categorize a vendor's tax status, type, rate, and other related information. This form helps to ensure accurate and efficient tax reporting and classification.

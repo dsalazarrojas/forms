@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to guide users through the process of implementing an MRO (Maintenance, Repair, and Operations) and OEM (Original Equipment Manufacturer) procurement initiative. This process involves identifying and implementing procurement objectives, budget allocation, supplier selection criteria, and timelines, as well as tracking procurement budgets and reviewing and approving suppliers. The form helps users to ensure that all necessary information is collected in a structured manner, reducing the risk of errors and inconsistencies that can arise from incomplete or incorrect data.
-This form is a template for internal use and not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using AI, and users are free to modify and even sell it, as long as they give credit. The form's design and structure are based on public survey topic metadata.
-The form is intended to be a helpful tool for users who need to implement an MRO and OEM procurement initiative. It is not a substitute for professional advice or guidance from experts in the field.
-</thinking>
-
 # MRO & OEM Procurement Initiative - Help Guide
 ## Purpose
 The MRO & OEM Procurement Initiative form is designed to guide users through the process of identifying and implementing procurement objectives, budget allocation, supplier selection criteria, and timelines for MRO and OEM procurement processes.

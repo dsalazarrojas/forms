@@ -1,13 +1,3 @@
-<thinking>Before we dive into the intern_feedback_form help guide, let's briefly explain what this form is for and its significance within the internal business process.
-
-The intern_feedback_form is a structured form designed to collect feedback from supervisors on their interns' performance during their work placement. This feedback is essential for both the interns to gain valuable insights, the supervisors to evaluate the intern's performance, and the organization to make informed decisions about future internships. The form ensures consistency and thoroughness in the feedback process by standardizing the input fields.
-
-Before using this form, please verify that you have reviewed the relevant policies and procedures regarding intern feedback and submissions. This form should only be used for legitimate feedback purposes and not for any other reasons. Ensure you complete the form accurately and comprehensively, as it will be used to assess intern performance and provide valuable feedback.
-
-If you have completed the form previously, please check that you are not duplicating feedback or using the form for an external reason other than feedback collection.
-
-</thinking>
-
 # intern_feedback_form - Help Guide
 ## Purpose
 The intern_feedback_form is a standardized form for collecting feedback on interns' performance during their work placement. This feedback is vital for the intern to evaluate their performance and grow professionally, while the supervisor evaluates the intern's capabilities and provides valuable insights. The organization also benefits from this feedback to refine its internship programs and policies.

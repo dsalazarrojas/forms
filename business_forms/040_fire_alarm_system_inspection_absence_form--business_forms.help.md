@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used to record the absence of a fire alarm system from an inspection, and to provide information on the reasons for the absence and other relevant details. The form is likely used by maintenance or facilities personnel to report on the status of fire alarm systems in a building or facility. 
-
-To determine if this form is a duplicate or unnecessary, one can check if the building or facility has a similar form for recording maintenance or inspection activities. Additionally, consider if the form is part of a larger system for tracking and managing fire alarm systems, and if the information collected on this form is used to inform and support such a system.
-
-This form seems to focus on recording the absence of a fire alarm system inspection, which suggests that it is intended to be used when an inspection is not performed. The fields collected on this form include dates and times, reasons for absence, system type, contact information, and comments, which suggests that it is a comprehensive form for recording and reporting on the absence of an inspection.
-</thinking>
-
 # Fire Alarm System Inspection Absence Form - Help Guide
 ## Purpose
 This form is used to record the absence of a fire alarm system inspection and provide information on the reasons for the absence and other relevant details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Metering Initiative Registration - Help Guide
 ## Purpose
 This guide is for completing the Smart Metering Initiative Registration form. The form is used to record participant registration and details for the Smart Metering Initiative program. Please note that this form is for program participants to register and provide necessary information. If you are not a participant, please do not fill out this form. This guide will explain each field clearly, so you will know exactly what to fill in.

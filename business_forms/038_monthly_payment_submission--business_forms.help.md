@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The monthly payment submission form is used to collect information for payments made by customers on a monthly basis. This form can be used to track and record payments received from customers for accounting and financial purposes. When filling out the form, please ensure that you are submitting the correct information for the relevant month.
 
 The form is divided into several sections, each corresponding to a specific field.

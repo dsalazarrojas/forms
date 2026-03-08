@@ -1,5 +1,3 @@
-<thinking>...The form is designed to collect information about stage events, specifically focusing on power connections and event details. The form is divided into multiple pages, each containing various fields that require user input. The primary purpose of this form is to gather data about stage power connections, event details, and other related information...The form does not appear to be a duplicate, and its content seems to be relevant to the provided YAML fields. Please note that the form is not affiliated with any form platforms, and its content is an original adaptation using public survey topic metadata as inspiration. The form was created using AI and is released under CC BY 4.0. Feel free to use, modify, and even sell it, giving credit to the original creator...!</thinking>
-
 # Stage Power Connection Booking Form - Help Guide
 ## Purpose
 This form is designed to gather information about stage events, specifically focusing on power connections and event details.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect tourist transport ticket order information. The form is intended to be completed by tourists who wish to book a transport ticket for their trip. The fields in this form are meant to gather essential details about the user, their travel plans, and ticket preferences.
-
-To ensure that the form is completed accurately and effectively, it is essential to understand each field's purpose and requirements.
-
-Before proceeding, please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata as inspiration.
-
-</thinking>
-
 # Tourist Transport Ticket Order - Help Guide
 ## Purpose
 The Tourist Transport Ticket Order form is designed to collect essential information from tourists who wish to book a transport ticket for their trip. This form gathers details about the user's identity, travel plans, and ticket preferences to ensure a smooth and efficient booking process.

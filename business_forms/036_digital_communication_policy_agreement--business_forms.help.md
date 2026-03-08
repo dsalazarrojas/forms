@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for employees to acknowledge and agree to a company's digital communication policies. The purpose of the form is to ensure that employees understand and comply with these policies. The form is likely used by HR or IT departments to track employee compliance and manage digital communication policies within the organization. The form may be part of a larger process for onboarding new employees, reviewing policy updates, or maintaining employee records. This guide will help users complete the form accurately and effectively.
-</thinking>
-
 # Digital Communication Policy Agreement - Help Guide
 ## Purpose
 The Digital Communication Policy Agreement is a form used to ensure that employees understand and agree to the company's digital communication policies. Completing this form is a necessary step for employees to demonstrate their awareness and commitment to adhering to these policies.

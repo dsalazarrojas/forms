@@ -1,19 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to capture relevant information from customers to fulfill their crochet orders. This form should not be used for other purposes such as general customer inquiries or internal business operations.
-
-To confirm, this is a form designed for customers to provide information about their crochet orders, including their name, email, order date, selected pattern, quantity, color, thread color, order notes, payment method, phone number, address, order status, comments, order number, and other relevant details. This form should not be used for other purposes such as customer service or sales support.
-
-Before proceeding, please note that this form has been designed with the following fields:
-
-* Customer information (name, email, phone number, address)
-* Order information (order date, selected pattern, quantity, color, thread color, order notes)
-* Payment information (payment method)
-* Order status and comments
-* Additional details (order number, customer ID, crochet site URL)
-
-Please review and understand the form's purpose and structure before completing it.
-</thinking>
-
 # Crochet Order Form - Help Guide
 ## Purpose
 This form is designed to help customers provide accurate and complete information about their crochet orders. It includes fields for customer contact details, order specifics, payment information, and order status.

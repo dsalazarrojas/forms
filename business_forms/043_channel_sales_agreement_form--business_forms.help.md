@@ -1,10 +1,3 @@
-<thinking>
-The Channel Sales Agreement Form is used to document the terms and conditions of a sales agreement between a channel partner and a vendor or manufacturer. This form helps to outline the expectations, responsibilities, and obligations of both parties involved in the sales process. The form serves as a legal binding contract that outlines the terms and conditions of the partnership, including the products or services covered, discount structures, and termination clauses. 
-
-When filling out this form, please make sure to carefully read and understand each field before submitting it. Ensure that all required fields are completed accurately and thoroughly. If you are unsure about any part of the form, please reach out to the relevant department for clarification.
-
-</thinking>
-
 # Channel Sales Agreement Form - Help Guide
 ## Purpose
 The Channel Sales Agreement Form is used to document the terms and conditions of a sales agreement between a channel partner and a vendor or manufacturer.

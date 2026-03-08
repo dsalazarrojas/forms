@@ -1,24 +1,3 @@
-<thinking>
-This form seems to be designed for collecting production information about a project or product. However, without more information about the specific business use case or context, it's hard to be entirely sure of its purpose. Assuming it's for general production information collection, let's proceed with the help guide.
-
-The form has the following fields:
-
-* Project Name: This is a text field where the user can enter the name of the project.
-* Product Name: Another text field for the name of the product.
-* Product Type: A dropdown menu with three options - Type A, Type B, and Type C.
-* Production Date: A date field where the user can enter the production date of the project or product.
-* Production Time: A time field for the production time.
-* Production Location: A text field for the location of production.
-* Production Manager: A text field for the production manager's name.
-* Notes: A note field for any additional information.
-* Phone Numbers: A text field for phone numbers related to the production.
-* Email Addresses: A field for email addresses related to the production team or manager.
-* Production Team: A multiple selection field with three options - Team A, Team B, and Team C.
-
-This form seems to be for collecting contact information and production details about a project or product.
-
-</thinking>
-
 # Production Information Collection Form - Help Guide
 ## Purpose
 The Production Information Collection Form is designed to collect production information about a project or product.

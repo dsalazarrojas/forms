@@ -1,10 +1,3 @@
-<thinking>
-This form is used for evaluating MRR (Monthly Recurring Revenue). The MRR evaluation form is a critical tool for analyzing the financial performance of a business or organization. It helps in understanding the revenue streams, growth rate, and other key metrics that contribute to the overall MRR. This form is essential for business professionals, such as accountants, financial analysts, or decision-makers, to gain insights into the financial health of an organization.
-
-To avoid duplication, please ensure that you are not completing this form if you have already done so in the past. If you are unsure, please reach out to your supervisor or the financial team for guidance.
-
-</thinking>
-
 # mrr_evaluation_form - Help Guide
 
 ## Purpose

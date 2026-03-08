@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information from project teams to help identify areas for process optimization. The form captures project details, contact information, and various project metrics such as start and end dates, expected and actual durations, budget, and team composition. It is intended to be a general tool for project teams to provide insight into their processes.
-</thinking>
-
 # Process Optimization Research Application Form - Help Guide
 ## Purpose
 The Process Optimization Research Application Form is designed to collect project-related information to help identify areas for process improvement. Please fill out this form to provide your project team with valuable data for process optimization.

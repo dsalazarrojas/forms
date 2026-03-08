@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to verify vehicle inspections. Its purpose is to gather data regarding vehicle inspections, potentially for maintenance or repair purposes, or for regulatory compliance. This form is likely to be used by mechanics, maintenance staff, or other personnel involved in vehicle management. Ensure that the form is not used for purposes other than its intended use, such as for general inquiries or sales pitches.</thinking>
-
 # vehicle_inspection_verification_form - Help Guide
 ## Purpose
 The vehicle inspection verification form is designed to collect and verify information related to vehicle inspections, allowing for accurate and efficient tracking of maintenance and compliance.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # interaction_details_request_form - Help Guide
 ## Purpose
 This form is designed to collect interaction details from customers. It is intended to be used by customer support teams to gather information about customer interactions, such as whether they had an interaction with the company, when it occurred, and what it was about. 

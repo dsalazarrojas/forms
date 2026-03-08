@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "customer_retention_consulting_program_application_form" that explains its purpose, how to complete it, and what each field means to end users. This form is used for the Customer Retention Consulting Program application process.
-</thinking>
-
 # customer_retention_consulting_program_application_form - Help Guide
 ## Purpose
 

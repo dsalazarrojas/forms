@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, let's review the form purpose and fields to ensure we're providing the best possible guidance for end-users.</thinking>
-
 # Report Request Form - Help Guide
 ## Purpose
 The Report Request Form is used to gather information for reports from the requester to provide to the submitter. This form helps to standardize the process of creating and submitting reports in the system.

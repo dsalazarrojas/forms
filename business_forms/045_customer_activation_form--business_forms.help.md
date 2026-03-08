@@ -1,9 +1,3 @@
-<thinking>
-This form is a Customer Activation Form, designed to collect various information about a customer, including personal details like first and last name, email address, password, confirm password, date of birth, time of registration, phone number, and address. 
-It also asks for some optional information like phone and time of registration. The form also checks for confirmation of email address and requires the customer to select yes or no from some options. 
-This form should not be used to collect duplicate data or any other kind of data that is not relevant or sensitive. 
-</thinking>
-
 # Customer Activation Form - Help Guide
 ## Purpose
 The Customer Activation Form is used to collect essential information from customers to activate their accounts.

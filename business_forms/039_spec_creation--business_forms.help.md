@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to create and manage specifications for business processes. It is used to capture and store information about products, their status, priority, and other relevant details. This form is likely used within a business or organizational context to track and manage product specifications. To ensure accuracy, it's essential to review and verify the information provided in this form before submission. This form may be used in multiple contexts, please review the fields carefully to ensure you are filling it out for the correct purpose.
-</thinking>
-
 # spec_creation - Help Guide
 ## Purpose
 This form is designed to create and manage specifications for business products. It captures key information about products, including names, types, statuses, priorities, and other essential details.

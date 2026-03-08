@@ -1,7 +1,3 @@
-<thinking>
-This form is for retail business customers to apply for certification of their cloud solutions. To avoid duplication, ensure you have not previously submitted or certified this solution. If you're still unsure, check with your sales representative or contact us.
-</thinking>
-
 # Retail Cloud Solution Certification Application Form - Help Guide
 
 ## Purpose

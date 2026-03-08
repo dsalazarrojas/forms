@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for event organizers to gather information about events that will be held at a venue. The purpose of this form is to capture necessary details about the event, allowing the venue management to review and approve the event booking. This form is not affiliated with any form platform, but rather an original adaptation created using AI. The form fields are designed to be completed by event organizers, providing a structured way to submit event information.
-</thinking>
-
 # Venue Rental Intake Form - Help Guide
 ## Purpose
 The Venue Rental Intice Form is designed to gather event information from event organizers, allowing venue management to review and approve event bookings.

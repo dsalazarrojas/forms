@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the form is only used for genuine shift swap requests and not for other purposes. Also, please verify that you do not submit duplicate requests for the same shift. Before submitting this form, ensure you have a verbal or written agreement with the colleague you are swapping with. If you are unsure about the submission process or have any questions, please reach out to your supervisor or HR representative for assistance.
-</thinking>
-
 # Burger Restaurant Shift Swap Request Form - Help Guide
 ## Purpose
 This form is designed to facilitate shift swaps between employees in the Burger Restaurant. A shift swap occurs when an employee swaps shifts with a colleague, and both employees agree to take each other's shifts. This form helps to document the swap request and ensure that it is properly reviewed and approved by the relevant authorities.

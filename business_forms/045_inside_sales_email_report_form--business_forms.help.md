@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for users who need to complete the Inside Sales Email Report Form. The form is used to track and report on the status of leads, including the lead email form, sales person email, email body, lead phone number, lead status, action taken, follow up date, follow up time, next follow up date, next follow up time, email sent status, follow up notes, follow up outcome, follow up outcome notes, and lead owner. This guide will walk users through each field of the form, explaining its purpose and how to fill it out correctly.
-
-</thinking>
-
 # Inside Sales Email Report Form - Help Guide
 ## Purpose
 

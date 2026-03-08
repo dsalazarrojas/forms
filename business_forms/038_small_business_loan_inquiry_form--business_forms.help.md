@@ -1,5 +1,3 @@
-<thinking>As a business owner or operator, you're looking to inquire about a small business loan. This form will help you submit your inquiry and provide the necessary details for your loan application. Please note that this form is designed to gather information about your business, and the fields below are essential for us to understand your needs and provide the best possible loan solution for you. Make sure to fill out the form carefully, and we'll be in touch soon to discuss your loan options.</thinking>
-
 # Small Business Loan Inquiry Form - Help Guide
 ## Purpose
 This form is designed to collect information about your business loan inquiry, allowing us to understand your needs and provide the best possible loan solution for your business.

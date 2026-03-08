@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to help participants assess the maturity level of their organization in terms of CMM (Capability Maturity Model) alignment. The CMM is a model for measuring the maturity level of an organization's software and systems development processes. The form asks a series of questions to gauge the extent to which the organization's practices and processes align with the CMM levels, from Initial (Level 1) to Optimizing (Level 5). The goal is to help participants identify areas for improvement and prioritize their efforts to align with the CMM.
-
-This form is designed to be used by individuals with varying levels of experience and knowledge about CMM and software development processes. The questions are intended to be clear and concise, and the responses should help participants understand their organization's strengths and weaknesses.
-
-Please note that this form is not a substitute for a comprehensive assessment or audit. It is a tool to help participants identify areas for improvement and provide a starting point for discussions and further exploration.
-
-Before starting, please ensure you have the necessary permissions and authority to complete this form on behalf of your organization.
-
-</thinking>
-
 # CMM Alignment Assessment Quiz - Help Guide
 ## Purpose
 This form is designed to help your organization assess its alignment with the Capability Maturity Model (CMM), a model for measuring the maturity level of an organization's software and systems development processes.

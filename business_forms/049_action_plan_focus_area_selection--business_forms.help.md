@@ -1,10 +1,3 @@
-<thinking> 
-This form is designed to help users select and document a specific focus area and create an action plan for achieving a desired outcome. It is used to identify key actions and objective statements for the selected focus area, and ensure that all stakeholders are aware of the plan and their involvement. This form is intended to be used by individuals in a business setting to create and manage their action plans, such as employees, team leaders, and project managers.
-
-Please ensure that you are filling out this form for a valid business purpose and not duplicating an existing form.
-
-</thinking>
-
 # Action Plan Focus Area Selection - Help Guide
 ## Purpose
 This form is designed to help users select and document a specific focus area and create an action plan for achieving a desired outcome.

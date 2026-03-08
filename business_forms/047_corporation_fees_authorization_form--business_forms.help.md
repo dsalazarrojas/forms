@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "corporation_fees_authorization_form" is a form used to collect information from corporations to authorize fees related to their virtual office purchases and other services. This form is likely used by the corporation to inform their own staff or other relevant parties about their fee structure and payment terms, and to ensure that all parties involved are aware of the fees associated with their services. To the best of my knowledge, this form is not intended for public use or external sharing, which means it's primarily an internal tool for communication within the corporation. I'm assuming the form is not meant to be a public-facing document, and its purpose is to facilitate internal knowledge sharing and authorization processes.
 
 </thinking>

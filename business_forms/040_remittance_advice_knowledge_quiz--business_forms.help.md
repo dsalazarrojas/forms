@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to assess their knowledge about remittance advice. Remittance advice is a crucial aspect of payment processing, serving as a detailed report of payments made to suppliers, vendors, or customers. It's essential for individuals in various roles within a business to understand the concept, its purpose, and the process of creating it. This quiz aims to gauge the user's knowledge and awareness of remittance advice, ensuring they grasp its significance accurately.
-</thinking>
-
 # Remittance Advice Knowledge Quiz - Help Guide
 ## Purpose
 This form is a quiz to evaluate your understanding of remittance advice. It consists of multiple questions about remittance advice, and you will be asked to select the correct option from the given choices.

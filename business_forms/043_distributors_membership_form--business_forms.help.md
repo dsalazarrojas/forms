@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear and the end user understands what each field means and how to complete it correctly. This form is for collecting information from distributors, which are individuals or businesses that sell or distribute products on behalf of the company. The purpose of this form is to gather contact and sales information from these distributors. We should also ensure that the form's layout is logical and easy to navigate. I will review the form's fields to provide a clear and concise explanation of each field's purpose and usage.
-</thinking>
-
 # prophets_membership_form - Help Guide
 ## Purpose
 The Prophets Membership Form is used to collect contact and sales information from distributors, which are individuals or businesses that sell or distribute products on behalf of the company.

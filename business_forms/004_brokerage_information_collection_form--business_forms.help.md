@@ -1,7 +1,3 @@
-<thinking>
-We are implementing this form to collect essential information from our clients to understand their needs and preferences for a smooth and efficient experience. This form is designed to be completed by both buyers and sellers. We will use the collected data to provide personalized guidance and support throughout the brokerage process. Please ensure that you complete this form accurately and thoroughly to help us better understand your situation. If you have any questions or concerns, don't hesitate to ask.
-</thinking>
-
 # Brokerage Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals looking to buy or sell a property. It helps us understand their needs and preferences, allowing us to provide personalized guidance and support throughout the brokerage process.

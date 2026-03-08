@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Break Even Analysis Form - Help Guide
 
 ## Purpose

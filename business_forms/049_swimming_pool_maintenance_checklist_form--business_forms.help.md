@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for documenting swimming pool maintenance tasks, issues, and related information. It is meant to be used by pool maintenance staff to record and report on their work, including tasks performed, equipment issues, safety guidelines, and other relevant details. This form is not intended for general use, but rather for specific pool maintenance tasks, so please only use it for this purpose.
-</thinking>
-
 # swimming_pool_maintenance_checklist_form - Help Guide
 ## Purpose
 This form is designed for pool maintenance staff to record and report on their work, including tasks performed, issues identified, and related information.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by business users to report their daily performance and progress. 
-The form collects information about the date of the report, working hours, work minutes, notes, any issues that arose, and action items for next steps. It is likely used in a business setting to track employee daily performance, progress, and productivity. 
-Please note that this form should only be completed by authorized personnel, and the information collected will be used internally within the organization. 
-</thinking>
-
 # Daily Performance Report Form In Indonesian - Help Guide
 ## Purpose
 The Daily Performance Report Form In Indonesian is used to track employee daily performance, progress, and productivity.

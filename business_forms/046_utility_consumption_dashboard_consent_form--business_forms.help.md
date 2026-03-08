@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect user consent for accessing the Utility Consumption Dashboard, which is a platform for tracking and analyzing utility consumption data. The form is designed to capture essential information such as user demographics (First Name, Last Name, Street Address, City, State, Zip Code, Date of Birth, Email, Phone), contact information (Email, Phone), and preferences for dashboard settings (Consent Date, Utility Types, Dashboard View, Dashboard Access, Dashboard Frequency). This form is used to ensure that users understand the terms of access and usage of the dashboard.
-
-Before proceeding, ensure that this form is only used for its intended purpose and that the required information is accurately and honestly filled out. 
-</thinking>
-
 # Utility Consumption Dashboard Consent Form - Help Guide
 
 ## Purpose

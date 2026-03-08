@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to collect and document the inspection status of a piece of equipment in an organization. This form helps ensure that all necessary information is gathered and recorded during regular maintenance and inspection of equipment. By using this form, users can provide a comprehensive overview of each equipment's condition and status, facilitating better maintenance planning and risk management.
-
-This form should only be used for the specific purpose of inspecting and maintaining equipment within the organization's assets. Please do not use this form for other purposes or for equipment not belonging to the organization.
-
-</thinking>
-
 # it_equipment_inspection_form - Help Guide
 ## Purpose
 The it_equipment_inspection_form is designed to collect information about the inspection status of equipment within the organization.

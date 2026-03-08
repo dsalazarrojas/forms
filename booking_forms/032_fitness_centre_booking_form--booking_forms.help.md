@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to allow users to book a fitness class at a fitness centre. The form includes fields for selecting a class booking date, class booking time, customer information (name, email, and phone), class details (session length, number of sessions, and class booking status), and payment method. This form is likely used by fitness centre staff to manage bookings and interact with customers. I will now create a help guide based on the provided YAML fields.</thinking>
-
 # Fitness Centre Booking Form - Help Guide
 
 ## Purpose

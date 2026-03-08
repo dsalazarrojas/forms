@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering for a Trade Season Pass, which is an annual pass that allows users to access certain benefits or services for a specific period of time. The form is intended for individuals or businesses seeking to register for a Trade Season Pass. To ensure accuracy and prevent duplication, it's essential to verify that the individual or business has not already registered for a Trade Season Pass under a different name or business name. This form collects essential information for the registration process, ensuring that the user can be properly accounted for and verified in the system.
-</thinking>
-
 # Trade Season Pass Registration - Help Guide
 ## Purpose
 

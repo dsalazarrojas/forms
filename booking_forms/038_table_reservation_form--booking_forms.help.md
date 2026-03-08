@@ -1,8 +1,3 @@
-<thinking>
-To be clear and concise, I will first analyze the YAML form schema to understand the form's purpose and how it should be completed. The form appears to be for reserving a table at a restaurant or similar establishment. The form requires customer information, reservation details, and additional notes. However, the fields required and optional status is not explicitly stated in the provided YAML, so I will assume that all fields are optional based on the lack of explicit requirements. The form also includes a select one field with three options, which suggests that the form may be used to specify any additional requirements or constraints for the reservation.
-
-</thinking>
-
 # Table Reservation Form - Help Guide
 ## Purpose
 This form is for reserving a table at a restaurant or similar establishment. Please fill out this form to provide the necessary information for your reservation.

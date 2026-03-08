@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information for the sponsorship package delivery process, which is a crucial part of the event organization process. The form is intended to ensure that the correct information is collected for the delivery of sponsorship packages to event partners. This form is used to prevent miscommunication and errors in the delivery process. Before filling out the form, please check to see if a similar form has already been submitted or if you have the necessary information to complete it, to avoid redundant or duplicate submissions.
-</thinking>
-
 # Sponsorship Package Delivery Form - Help Guide
 ## Purpose
 The Sponsorship Package Delivery Form is a crucial part of the event organization process. It is used to gather information for the delivery of sponsorship packages to event partners.

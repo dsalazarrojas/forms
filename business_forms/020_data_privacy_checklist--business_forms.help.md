@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form serves as a tool for employees to assess and record data privacy practices within an organization. The purpose of this form is to help ensure that the organization adheres to data privacy standards and policies. By using this form, employees can identify areas of improvement and document their efforts to protect sensitive customer information.
 
 # Data Privacy Checklist - Help Guide

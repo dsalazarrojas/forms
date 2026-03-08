@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to monitor and track the resolution process of complaints or issues raised within an organization. It is intended to be filled out by those responsible for overseeing and managing the resolution process. The form aims to ensure that complaints are being resolved within the target time frame (SLA) and to identify any bottlenecks or delays that may be slowing down the process. This form will help in tracking progress, setting reminders, and keeping track of updates. Please ensure that each monitoring record is unique and not a duplicate.
-
-</thinking>
-
 # Complaint Resolution Monitoring Form - Help Guide
 ## Purpose
 This form is designed to track and monitor the resolution process of complaints or issues within an organization.

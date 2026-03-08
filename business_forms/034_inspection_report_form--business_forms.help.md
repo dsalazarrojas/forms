@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information for a comprehensive inspection report, which is used for various purposes such as documenting safety and compliance checks for workplaces or facilities, conducting inspections of construction sites, and recording property condition assessments for real estate transactions. 
-This form will help the user to collect and organize relevant data in a structured manner, ensuring accuracy and completeness. 
-The form is intended to be completed by an authorized person, and the information collected will be used to generate a report that can be saved or printed for further reference. 
-The purpose of this form is to ensure that all relevant details are captured consistently and accurately, reducing errors and discrepancies. 
-To avoid duplication of effort, it is essential to carefully review the form fields before starting to fill it out. 
-Please note that some fields are required, and the user will need to provide information for these fields to ensure that the form is complete and accurate.
-</thinking>
-
 # inspection_report_form - Help Guide
 ## Purpose
 The inspection report form is designed to gather information for a comprehensive inspection report, which is used for various purposes such as documenting safety and compliance checks for workplaces or facilities, conducting inspections of construction sites, and recording property condition assessments for real estate transactions.

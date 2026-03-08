@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Third Party Vendor Access Form - Help Guide
 
 ## Purpose

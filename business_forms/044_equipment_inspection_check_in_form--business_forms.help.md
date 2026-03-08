@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is the internal reasoning block to determine relevance and non-duplication:
 - The form's title is "Equipment Inspection Check In Form", which is a self-explanatory name indicating it's for equipment inspection purposes.
 - The form's structure suggests it's used for collecting information about equipment inspections, including general information, equipment status, condition report, photo upload, notes, assigned personnel, equipment inspection checklist, inspection date/time, inspection completion status, and equipment type.

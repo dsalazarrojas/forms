@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Health Assessment Survey - Help Guide
 
 ## Purpose

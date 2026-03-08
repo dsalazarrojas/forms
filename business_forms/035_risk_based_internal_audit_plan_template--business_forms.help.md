@@ -1,8 +1,3 @@
-<thinking> 
-We need to ensure that this form is used correctly to create a comprehensive risk-based internal audit plan template. This form is a crucial tool for identifying and assessing potential risks in the organization. To confirm, this form is designed for internal audit planning, and the purpose is to gather information about the risks that need to be addressed in the next audit cycle. This will help in developing an effective audit plan that focuses on the most critical risks. Before proceeding, review the form fields and their explanations to ensure that all the required information is collected correctly. Please ensure that each field is filled out with the relevant information before submitting the form. 
-
-</thinking>
-
 # Risk Based Internal Audit Plan Template - Help Guide
 ## Purpose
 This template is designed to assist in creating a comprehensive risk-based internal audit plan that focuses on the most critical risks to the organization.

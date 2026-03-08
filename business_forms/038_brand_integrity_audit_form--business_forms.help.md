@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a user-facing help guide for the Brand Integrity Audit Form that meets the provided YAML specification and explains the form's purpose, how to complete it, and what each field means.</thinking>
-
 # Brand Integrity Audit Form - Help Guide
 ## Purpose
 The Brand Integrity Audit Form is a tool designed to assess and evaluate a company's brand integrity across various aspects such as visual branding, voice and messaging, values, and operational practices. It helps identify areas of improvement and provides suggestions for enhancing brand integrity.

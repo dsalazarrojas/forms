@@ -1,32 +1,3 @@
-<thinking>
-
-This form is designed to track personal financial information, including income and expenses. It is used to gather data on a user's financial situation, including income sources, expenses, and categorization of business and personal expenses. The form will help users to keep track of their financial data, which can be useful for budgeting, planning, and making informed financial decisions.
-
-The form has the following fields:
-
-* User Income: This field is used to input the user's income.
-* Business Income: This field is used to input the user's business income.
-* Total Income: This field is used to input the total income of the user.
-* Regular Expenses: This field is used to input the user's regular expenses.
-* Savings: This field is used to input the user's savings.
-* User Expenses: This field is used to input the user's personal expenses.
-* Business Expenses: This field is used to input the user's business expenses.
-* Income Source: This field is used to indicate whether the income is from a personal or business source.
-* Expense Source: This field is used to indicate whether the expense is from a personal or business source.
-* Date: This field is used to input the date of the financial data.
-* Month: This field is used to indicate the month of the financial data.
-* Year: This field is used to input the year of the financial data.
-* Time: This field is used to input the time of the financial data.
-* Notes: This field is used to input any additional notes about the financial data.
-* Email: This field is used to input the user's email address.
-* Phone: This field is used to input the user's phone number.
-* Business Category: This field is used to indicate whether the business is a personal or business expense.
-* Tags: This field is used to input any additional tags or labels for the financial data.
-
-The user will be able to input data for different time periods, and the form will automatically calculate the total income and expenses for each period.
-
-</thinking>
-
 # Personal Finance Tracker - Help Guide
 ## Purpose
 The Personal Finance Tracker is a form designed to track personal financial information, including income and expenses. It helps users to keep track of their financial data, which can be useful for budgeting, planning, and making informed financial decisions.

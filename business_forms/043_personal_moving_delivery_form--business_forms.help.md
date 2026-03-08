@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a person's moving plans, preferences, and details. It's likely used for delivery or logistics purposes, such as tracking moving requests or providing services. Before filling out this form, please ensure you're not duplicating a previous request or updating an existing one, as this form is designed to be used for new or updated moving information only.
-</thinking>
-
 # Personal Moving Delivery Form - Help Guide
 ## Purpose
 This form is used to collect and track information about a person's moving plans, including delivery details, moving type, and other relevant information.

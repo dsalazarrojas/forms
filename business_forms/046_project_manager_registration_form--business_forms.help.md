@@ -1,6 +1,3 @@
-<thinking>
-This form is designed for registering projects with a project manager to oversee and manage them. Project registration is a critical process in any organization to keep track of ongoing projects. Before filling out this form, please ensure you have all the necessary information ready. Please note that this form is a template, and you may need to adapt it according to your project needs and organizational policies.
-</thinking>
 # Project Manager Registration Form - Help Guide
 ## Purpose
 The Project Manager Registration Form is used to register a new project with a project manager. This form helps to collect essential project information to ensure smooth project execution and management.

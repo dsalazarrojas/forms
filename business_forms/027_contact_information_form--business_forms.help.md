@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect contact information from businesses or individuals. The primary purpose is to gather essential details such as name, email address, and phone number. The form also includes optional fields for company name, position, address, and other supplementary information. This form is meant for internal business purposes and will not be publicly available.
-
-The form will be used to create business records and should not be used for general public inquiries. To fill in the form, you should only provide information about yourself or your business, not for others.
-
-</thinking>
-
 # Contact Information Form - Help Guide
 ## Purpose
 This form is designed to collect contact information from businesses or individuals for internal business purposes. It should not be used for general public inquiries or to gather information about others.

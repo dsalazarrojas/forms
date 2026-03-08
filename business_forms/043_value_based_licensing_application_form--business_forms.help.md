@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for a form that is used for value-based licensing applications. This form is used to collect information from end users to process their value-based licensing requests. We will be using the provided YAML fields to create a concise and concrete guide that explains the purpose and usage of each field in the form.
-</thinking>
-
 # Value-Based Licensing Application Form - Help Guide
 ## Purpose
 The Value-Based Licensing Application Form is used to collect information from end users to process their value-based licensing requests. This form helps us to understand the specifics of the request and provide accurate licensing solutions. Please fill out the form carefully to ensure that your request is processed efficiently.

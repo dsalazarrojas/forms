@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect information from clients for nail trend consultations. It has 25 fields that gather details such as client information, service requests, appointment dates and times, payment terms, and signatures. The form requires fields like client signature, staff signature, confirmation date and time, appointment status, staff signature status, payment status, and payment terms status, indicating a focus on appointment management and payment processing. The purpose of this form is to streamline the booking process and ensure all necessary details are collected and confirmed. The form can be used by businesses that provide nail trend consultations, such as nail salons or spas.</thinking>
-
 # Nail Trend Design Consultation Appointment Form - Help Guide
 
 ## Purpose

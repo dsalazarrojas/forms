@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide will walk you through the Supplier Registration Form, helping you understand its purpose, completion process, and each field explanation.
 
 # Supplier Registration Form - Help Guide

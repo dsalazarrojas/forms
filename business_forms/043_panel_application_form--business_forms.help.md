@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Panel Application Form - Help Guide
 
 ## Purpose

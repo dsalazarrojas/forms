@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a clear and concise user-facing help guide for the City Pass Registration form. To begin with, let's consider the purpose and relevance of this form. The form is likely used for registering citizens for a city pass, which is a type of identification or access pass issued by the city authorities. The form appears to be designed for residents, as it asks for personal information, identification, residency status, address, and contact details. It also includes fields for selecting the type of city pass requested and proof of residency. This form is probably used to verify the identity and residency status of individuals applying for the city pass, ensuring that only eligible citizens receive the pass.</thinking>
-
 # City Pass Registration - Help Guide
 ## Purpose
 The City Pass Registration form is a mandatory online form used to register for a city pass, a form of identification or access granted by the city authorities. This form collects personal, identification, and residency information to verify your eligibility for a city pass.

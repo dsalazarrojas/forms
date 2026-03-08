@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register commercial land use policies for a particular project or development. It is intended to gather information about the applicant, the proposed use and size of the property, and the required supporting documents and certifications. This form will help the reviewer understand the project's details and ensure that it complies with relevant policies and regulations. Before proceeding, please ensure that you have reviewed and completed this form carefully and accurately.
-
-This form is not intended to be used for any other purpose. If you are looking for a different type of form, please check the available options or contact the responsible authorities for more information.
-</thinking>
-
 # Commercial Land Use Policy Registration - Help Guide
 ## Purpose
 The Commercial Land Use Policy Registration form is used to submit and register commercial land use policies for a particular project or development. This includes gathering information about the applicant, the proposed use and size of the property, and the required supporting documents and certifications.

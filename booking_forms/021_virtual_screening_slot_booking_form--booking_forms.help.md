@@ -1,18 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Virtual Screening Slot Booking Form", we need to understand the form's purpose, how to complete it, and what each field means.
-
-The form is intended for users to book a virtual screening slot. To complete this form, users will need to provide information about their booking preferences, including the time they wish to book, the duration of the screening, the slot they wish to book, any notes or comments, their phone number, email, and confirmation of their booking.
-
-The form has a few fields that require special attention:
-
-* "screening_start_time" and "screening_end_time" are both time fields, but they might be confusing as they are not explicitly linked. It seems like "screening_start_time" should be the start time of the screening and "screening_end_time" should be the end time of the screening, but it's not specified in the form's schema. This could be clarified to avoid confusion.
-* "booking_slot" is a select one field with a long list of options, which might be overwhelming for users. Consider rephrasing the label to "Available Booking Slots" to make it clearer.
-* "confirm_booking" is a select one field with "True" and "False" options, which seems to be an error. It's likely that this field was intended to be a checkbox or a boolean field with a more descriptive label like "Confirm Booking" and two options "Yes" and "No" or a checkbox with a label like "Confirm".
-* "phone_number" and "email" seem redundant, as they both ask for contact information. Consider merging them into a single field for "Contact Information".
-
-</thinking>
-
 # Virtual Screening Slot Booking Form - Help Guide
 ## Purpose
 

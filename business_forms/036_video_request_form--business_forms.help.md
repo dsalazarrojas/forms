@@ -1,12 +1,3 @@
-<thinking>
-This form is for requesting videos for a project. It is meant to be filled out by project team members or managers to gather information about the video requests they have. The purpose of this form is to ensure that all requests are collected in one place and that the project team has a clear understanding of what videos are needed and why. 
-
-This form is not meant to be filled out by end-users, but by project team members or managers who are requesting videos. It is not a form for end-users to request videos from the project team. The form should not be used for that purpose.
-
-The form will be reviewed to check for duplicate requests before processing. A duplicate request will be flagged and notified to the project team member or manager that has already submitted the request. 
-
-</thinking>
-
 # Video Request Form - Help Guide
 ## Purpose
 The Video Request Form is used by project team members or managers to gather information about video requests. The form helps to ensure that all requests are collected in one place and that the project team has a clear understanding of what videos are needed and why.

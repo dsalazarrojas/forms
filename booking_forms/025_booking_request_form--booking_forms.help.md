@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect booking information from guests for an accommodation. It's designed to gather essential details such as first and last name, email, phone number, arrival and departure dates, number of guests, preferred room type, number of rooms, airport transfer information, flight numbers, and any special requests or additional services required. This form is likely used for hotels, resorts, or other types of accommodations to prepare for incoming guests.
-
-To prevent duplication, it's essential to ensure that each guest's information is correctly filled in and that the form is submitted once. This form should be filled out by the guest before or after arriving at the accommodation.
-
-</thinking>
-
 # Booking Request Form - Help Guide
 ## Purpose
 The Booking Request Form is a crucial part of the guest's interaction with the accommodation. It provides essential information needed to prepare for the guest's stay.

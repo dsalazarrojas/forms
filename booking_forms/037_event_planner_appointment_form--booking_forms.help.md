@@ -1,6 +1,3 @@
-<thinking>
-This form is used to plan appointments and events. It captures essential details such as event date, time, location, attendees, and status. This information will be useful for event organizers to keep track of their events. Before starting, check if you've already created a similar form to avoid duplication.</thinking>
-
 # event_planner_appointment_form - Help Guide
 ## Purpose
 This form is used to collect information about appointments and events, enabling event organizers to keep track of essential details.

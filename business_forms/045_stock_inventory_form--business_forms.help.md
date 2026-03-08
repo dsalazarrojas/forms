@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a store's inventory, including stock type, quantity, capacity, inventory date, and inventory time. The purpose of this form is to gather details about the store's stock levels, allowing for easier management and analysis. Before proceeding, ensure that this form is not already used for similar purposes within your organization to avoid duplication of efforts. 
-</thinking>
-
 # Stock Inventory Form - Help Guide
 ## Purpose
 This form is used to collect and track information about a store's stock inventory, including stock type, quantity, and other relevant details.

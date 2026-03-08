@@ -1,8 +1,3 @@
-<thinking>
-This form is part of the business process for auditing and tracking product inventory. The "Product_Inventory" field is for entering the product's current stock level. The "Inventory_Level" field is for recording the current product level, which should be a numeric value. "Last_Audit_Date" is the date of the last audit performed. "Audit_Frequency" is used to determine how often audits are performed, such as Daily, Weekly, or Monthly. "Audit_Method" is used to determine the method used to perform the audit, which could be Physical Count, Cycle Count, or Periodic Count. "Notes" is an optional field to capture any additional comments or notes about the audit.
-
-</thinking>
-
 # product_inventory_audit_form - Help Guide
 ## Purpose
 The "Product_Inventory Audit Form" is used to track and record product inventory information. This form captures essential details about a product's inventory level, last audit date, audit frequency, and audit method.

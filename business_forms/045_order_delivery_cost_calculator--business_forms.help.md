@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to calculate the estimated cost of delivery for an order. The form is intended to gather information about the delivery location, date, time, cost, weight, distance, fuel surcharge, delivery type, vehicle type, estimated delivery time, and estimated delivery cost. To avoid duplication of effort and ensure accuracy, it is crucial to fill out the form correctly.
-
-The form will be used to determine the estimated cost of delivery for a specific order. This can help businesses to plan and manage their delivery costs efficiently. The form may be used by delivery personnel, logistics managers, or anyone involved in the delivery process.
-</thinking>
-
 # Order Delivery Cost Calculator - Help Guide
 ## Purpose
 The Order Delivery Cost Calculator is a form designed to calculate the estimated cost of delivery for an order. It helps businesses to plan and manage their delivery costs efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Sustainable Accommodation Form is used correctly and efficiently, while avoiding duplication and ensuring that end-users understand its purpose. This form is designed to collect information about sustainable accommodations, which is crucial for managing bookings, payments, and ratings. It's essential to provide a clear and concise guide to help end-users understand how to complete the form accurately and effectively.
-</thinking>
-
 # Sustainable Accommodation Form - Help Guide
 ## Purpose
 The Sustainable Accommodation Form is designed to collect information about sustainable accommodations. It helps manage bookings, payments, and ratings, ensuring accurate and up-to-date data.

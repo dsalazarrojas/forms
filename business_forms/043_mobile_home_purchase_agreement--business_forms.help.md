@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mobile Home Purchase Agreement - Help Guide
 ## Purpose
 The Mobile Home Purchase Agreement is a document that outlines the terms of a mobile home purchase, including details such as seller and buyer information, property address, asking and purchase prices, payment terms, and other relevant details.

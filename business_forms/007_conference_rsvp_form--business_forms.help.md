@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who have expressed interest in attending a conference. By filling out this form, attendees can confirm their participation, provide necessary details for the organizers, and express their preferences for the event. This form ensures that attendees receive accurate and relevant information about the conference, such as catering, accommodations, and networking opportunities.
-
-This guide will help you understand each field's purpose and what information we need from you to ensure a smooth and enjoyable experience at the conference.
-</thinking>
-
 # Conference RSVP Form - Help Guide
 
 ## Purpose

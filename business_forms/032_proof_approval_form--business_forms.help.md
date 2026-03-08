@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## proof prophets - Help Guide
 ## Purpose
 This form is designed to capture information related to proof prophets, which is an original and AI-generated adaptation of public survey topics. It is intended to gather specific data points for a particular business purpose, but the exact nature of this purpose is not explicitly stated in the provided YAML fields. If you are not familiar with the topic of proof prophets, please let us know so we can ensure this form is relevant to your needs.

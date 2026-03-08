@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # policy_execution_confirmation - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for an "Overbooking Complaint Form" that helps end-users understand its purpose, how to complete it, and what each field means. The form is used to report overbooking complaints, and its primary goal is to gather information from customers about their issues with service overbooking. We should ensure that the guide is concise, concrete, and practical, and that each field explanation is clear and concise. We also need to be careful not to invent unsupported business logic when explaining field labels or options. Lastly, the guide should be formatted in Markdown for maximum readability.
-</thinking>
-
 # Overbooking Complaint Form - Help Guide
 ## Purpose
 This form is used to report overbooking complaints about services. Please provide detailed information about your issue, and our team will work to resolve it as quickly as possible.

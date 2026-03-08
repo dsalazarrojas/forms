@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help retail businesses collaborate on sustainability initiatives with their partners. The form is intended to gather information from partners about their sustainability interests, goals, and current partnerships, as well as their industry, sector, and sustainability focus. This information will help retailers and partners identify areas of common interest and potential opportunities for collaboration.
-
-Before filling out this form, please ensure that you have not already submitted a similar registration form for this business. This will help avoid duplicate registrations and ensure that your submission is processed correctly.
-
-</thinking>
-
 # Retail Sustainability Collaboration Registration Form - Help Guide
 ## Purpose
 The Retail Sustainability Collaboration Registration Form is designed to help retail businesses collaborate on sustainability initiatives with their partners. By filling out this form, you will be able to:

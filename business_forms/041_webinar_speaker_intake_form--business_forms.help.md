@@ -1,13 +1,3 @@
-<thinking>
-
-We need to create a user-friendly help guide for the Webinar Speaker Intake Form. The form is used to gather information about the speakers for an upcoming webinar. This form is meant to ensure that the speakers have the necessary information about the webinar, including their availability and topic of discussion. It's essential to fill out this form carefully and accurately to avoid any misunderstandings or miscommunications.
-
-The form is designed for speakers who are interested in participating in the webinar. The purpose of this form is to collect information from the speakers about their availability and willingness to present. The information gathered will help us in scheduling and preparing for the webinar.
-
-Please note that this form is not intended to be a comprehensive application form or a lengthy questionnaire. It's a short and simple form designed to gather the most critical information.
-
-</thinking>
-
 # Webinar Speaker Intake Form - Help Guide
 ## Purpose
 The Webinar Speaker Intake Form is designed to gather essential information from speakers about their availability and willingness to present in an upcoming webinar.

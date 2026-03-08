@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be filled out by users to manage vehicle allocation and exchange within a company or organization. This form may be used to track the allocation of vehicles, exchange of vehicles, and other related activities. The form's purpose is to collect information about vehicles and their status, allowing users to make informed decisions about vehicle allocation and exchange.
-
-To confirm the form's purpose and relevance, let's review the form's fields. The form includes fields for vehicle type, exchange status, allocation date, vehicle number, and other relevant details. These fields are all related to vehicle management, indicating that the form's purpose is indeed focused on managing vehicle allocation and exchange.
-
-Before filling out the form, ensure that you have the necessary information and permissions to complete it accurately. The form is not intended to be a mandatory or repetitive task, but rather a tool to support informed decision-making and data tracking.
-
-</thinking>
-
 # Vehicle Allocation And Exchange Form - Help Guide
 ## Purpose
 The Vehicle Allocation And Exchange Form is designed to collect information about vehicle allocation and exchange within a company or organization. This form helps track vehicle status, allocation decisions, and exchange activities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by HR departments to collect contact information and priorities from companies for the purpose of optimizing HR services. It's essential to ensure that the form is completed correctly to gather the right data. Please make sure to read this guide carefully and only fill out the form if you are a business contact. If you are a job seeker or an employee, please do not fill out this form.
-</thinking>
-
 # Human Resources Optimization Contact Form - Help Guide
 ## Purpose
 This form is for business contacts to provide their company information and HR priorities for the purpose of optimizing HR services. It will help us understand your business needs and improve our services accordingly.

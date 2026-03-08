@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # new-homeowner-onboarding-including-homeowner-checklist--business-forms - Help Guide
 
 ## Purpose

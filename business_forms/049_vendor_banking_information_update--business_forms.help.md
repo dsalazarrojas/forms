@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to update the banking information of a vendor, allowing users to input details such as first and last names, account number, bank name, bank routing number, account type (checking, savings, or other), bank branch, bank phone number, bank email, and bank address. This information will likely be used for accounting and financial purposes. 
-To prevent duplicate entries and ensure the form is used correctly, users should review and confirm their updates carefully before submitting the form, and not make unnecessary changes unless absolutely required.
-This form does not store sensitive or high-value information that could pose a risk to the system if mishandled.
-</thinking>
-
 # Vendor Banking Information Update - Help Guide
 ## Purpose
 This form is used to update the banking information of a vendor.

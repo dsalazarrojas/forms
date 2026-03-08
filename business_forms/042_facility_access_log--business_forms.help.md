@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Facility Access Log - Help Guide
+> # Facility Access Log - Help Guide
 ## Purpose
 The Facility Access Log is a form used to record and document access to facilities, such as buildings, rooms, or equipment. This form is intended to help facility administrators, security personnel, and managers track and monitor who has accessed a facility, when they accessed it, and for what reason.
 

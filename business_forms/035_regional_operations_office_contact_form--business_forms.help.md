@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect contact information and notes related to regional operations offices. This form likely serves as a centralized hub for office locations within a region, allowing users to input information such as office addresses, contact persons, and notes about their operations. This form could be used by regional office administrators or managers to update or create new office locations and their associated contact details.
-</thinking>
-
 # regional_operations_office_contact_form - Help Guide
 ## Purpose
 The regional_operations_office_contact_form is designed to collect contact information and notes for regional office locations, enabling users to manage office details in a centralized location.

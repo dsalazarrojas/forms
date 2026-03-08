@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to book and manage performance equipment testing sessions. This form will guide users through the process of requesting a testing session, assigning it to a staff member, and tracking its status. It is crucial to ensure that each field is filled in accurately to avoid delays or misunderstandings. Before proceeding, please review the form carefully and ensure that you have all the necessary information required for the test request.
-</thinking>
-
 # Performance Equipment Testing Booking Form - Help Guide
 ## Purpose
 The Performance Equipment Testing Booking Form is used to request and manage performance equipment testing sessions. This form helps users to provide necessary information for the test request, including equipment type, test location, and test status.

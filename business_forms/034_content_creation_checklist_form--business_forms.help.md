@@ -1,12 +1,3 @@
-<thinking>
-This form is used to track the progress and completion of content creation projects. It is intended to be filled out for each project, providing a clear and concise overview of the project's status.
-The form is divided into several sections, each addressing different stages and aspects of the content creation process.
-The project details, including the project title and ID, are required information.
-The production stages and quality checks are also required, ensuring that each stage is completed before moving on to the next.
-The checklist completion indicator is crucial, as it signifies the project's status as completed or not.
-This form is designed to be used by content creators and project managers to track and verify the completion of content projects.
-</thinking>
-
 # Content Creation Checklist Form - Help Guide
 
 ## Purpose

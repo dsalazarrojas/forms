@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for solo users to submit their offers and proposals to potential clients. The form is meant to gather information about the service they are offering, including its details, price, time required to complete, available dates, and service location. The purpose of this form is to help solo users showcase their offers and proposals in a clear and concise manner, making it easier for clients to review and consider their services.
-
-</thinking>
-
 # solo_offer_submission_form - Help Guide
 ## Purpose
 This form is used to submit offers and proposals for services you are providing as a solo user.

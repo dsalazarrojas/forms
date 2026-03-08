@@ -1,5 +1,3 @@
-<thinking>...The goal of this form is to collect information from users to request a property reservation. The form is designed to gather details about the property, address, property type, number of guests, and other relevant information required for the reservation. To prevent duplication, this form will only accept unique property reservation requests and will prompt users to confirm that they have not submitted a similar request before. The form will only be displayed if the user has not submitted a similar request within the last 24 hours. If a user has already submitted a similar request, they will be shown a confirmation message and will not be able to submit the form again within 24 hours...</thinking>
-
 # Property Reservation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to request a property reservation. The form is intended for users to provide their property details, address, and other relevant information for the reservation.

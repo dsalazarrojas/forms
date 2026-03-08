@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "creative_agency_contract_extension_form" is designed to facilitate the extension of contracts between creative agencies and their clients. It is meant to gather information necessary to discuss and possibly modify existing agreements. The form can be completed by either the agency or the client, and its purpose is to provide a clear and structured way of presenting their needs and expectations for the extension. This form is not affiliated with any specific survey or form platform and is an original adaptation created by AI.
 
 </thinking>

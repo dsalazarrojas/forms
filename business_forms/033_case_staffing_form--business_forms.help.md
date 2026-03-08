@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information on case staffing discussions, ensuring that all relevant details are documented for effective case management. Its purpose is to facilitate coordination and communication among team members, case managers, and clients. 
-
-This form will help in tracking the progress of the case, identifying potential barriers, and updating the treatment plan as needed. It also ensures that client safety is assessed regularly, and a risk assessment is conducted to determine the current risk level of the client.
-
-Please note that this form is not intended to be used as a template for other purposes or for any other industry. It's specifically designed for social services and case management in social services.
-
-</thinking>
-
 # Case Staffing Form - Help Guide
 ## Purpose
 The Case Staffing Form is a tool used to document and coordinate case staffing discussions, ensuring that all relevant information is recorded for effective case management.

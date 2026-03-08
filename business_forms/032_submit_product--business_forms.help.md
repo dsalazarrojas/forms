@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for customers, partners, or employees to provide a simple way to submit a product, including product name, description, price, and tags. It's possible that this form is used for internal business operations, such as product management or sales purposes. However, it's also possible that this form is used for public-facing purposes, such as customer support or feedback collection. It's worth noting that some fields, like product price and currency, are likely related to financial aspects of the product, while tags might be used for categorization or search purposes. To avoid duplication, it's crucial to ensure that this form is not used for tasks that can be automated or performed through other means. 
-</thinking>
-
 # Submit Product - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information for the creation of a graphic design project. The purpose of this form is to collect the necessary details from the client, such as project name, client information, project description, deadlines, and budget. This information will be used to create a comprehensive project plan.
-
-To ensure consistency and clarity in the project planning process, this guide will cover every field in the form.
-
-</thinking>
-
 # Graphic Design Project Order Form - Help Guide
 ## Purpose
 The Graphic Design Project Order Form is designed to collect essential information for the creation of a graphic design project. This form serves as the primary means of communication between the client and the project team, ensuring a clear understanding of the project scope, timelines, and expectations.

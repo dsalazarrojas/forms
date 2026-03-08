@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from users who wish to submit a service to the Service Directory. The goal is to provide a structured and organized way for users to provide details about their service, including contact information, service details, and review information. To ensure accuracy and consistency, users must fill out the entire form. Before proceeding, make sure you have read the form instructions carefully and that you have all the necessary information ready. If you've already submitted a service to the Service Directory, you do not need to fill out this form again. Please note that some fields may not be required, but it is still essential to fill them out if you want your submission to be complete and accurate.
-
-</thinking>
-
 # Service Directory Submission Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who want to submit a service to the Service Directory. It helps the directory team understand the details of the service, including contact information, service description, and any relevant additional information.

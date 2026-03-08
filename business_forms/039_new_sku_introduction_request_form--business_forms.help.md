@@ -1,7 +1,3 @@
-<thinking>
-This form is likely designed for a retail or e-commerce business to create a new stock keeping unit (SKU) for inventory management and product catalog purposes. The form might be used to onboard new suppliers, products, or SKUs to the system, ensuring that all relevant product information is accurately represented. To avoid duplicates, the form might check for existing SKUs or suppliers before allowing new ones to be created. 
-</thinking>
-
 # New SKU Introduction Request Form - Help Guide
 
 ## Purpose

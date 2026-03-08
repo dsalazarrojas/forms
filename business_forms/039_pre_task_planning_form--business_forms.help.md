@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from project managers and team members for pre-project planning. It helps to gather essential details about a project, such as its title, client name, task name, task description, start and end dates, priority level, assigned personnel, and tools. This form is intended to be used by project managers to ensure that all necessary information is collected before a project begins. It is not meant to be a comprehensive project management tool, but rather a starting point for planning and organization.
-</thinking>
-
 # Pre Task Planning Form - Help Guide
 ## Purpose
 The Pre Task Planning Form is a tool used to gather essential project information before the project starts. It helps project managers and team members to plan and prepare for the project's requirements, timeline, and resources.

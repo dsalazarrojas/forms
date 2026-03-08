@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from guests to process their farm stay reservation requests. The form is required for all bookings.
-</thinking>
-
 # Farm Stay Reservation Form - Help Guide
 ## Purpose
 This form is used to gather information from guests to process their farm stay reservation requests. Please fill out the form below with accurate and complete information to ensure smooth processing of your reservation.

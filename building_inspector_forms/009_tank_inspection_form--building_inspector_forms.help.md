@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tank Inspection Form - Help Guide
 
 ## Purpose

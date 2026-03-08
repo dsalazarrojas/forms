@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reporting the efficiency of water filtration systems. The form collects information on the water flow rate, pressure drop, and water temperature. It is likely used for internal business operations and may be used to track and analyze the performance of water filtration systems. This form does not seem to be a critical or complex form and the fields appear to be straightforward. I am assuming it is not a duplicate of another form and is intended for a specific purpose.
-</thinking>
-
 # Water Filtration Efficiency Report Form - Help Guide
 ## Purpose
 The Water Filtration Efficiency Report Form is used to collect information on the performance of water filtration systems. This includes the water flow rate, pressure drop, and water temperature. The form is meant to be a quick and easy way to report the efficiency of these systems.

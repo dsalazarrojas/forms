@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for business owners and entrepreneurs who want to apply to the Business Launch Prep School, a program aimed at helping early-stage businesses prepare for launch. The form is divided into several sections that gather information about the applicant, their business concept, and their commitment to the program. The form is intended to help applicants provide a clear and concise overview of their business idea, goals, and experience, making it easier for the program administrators to assess their eligibility for the program.
-
-By filling out this form, applicants demonstrate their understanding of the program's requirements and their ability to commit to the program's demands. The information gathered through this form will be used to evaluate applicants' readiness to launch their business and to guide the program's decision-making process.
-
-Before proceeding, ensure that you have not already submitted an application to the Business Launch Prep School. If you have, please do not submit another application.
-
-</thinking>
-
 # Business Launch Prep School Application - Help Guide
 ## Purpose
 The Business Launch Prep School Application form is designed to gather information about your business idea, experience, and commitment to the program. Please answer each question honestly and thoroughly to ensure a smooth evaluation process.

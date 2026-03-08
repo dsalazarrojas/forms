@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user feedback and contact information for quality assurance and testing purposes. It is intended to help the development team understand the user's experience and gather necessary details for further testing and improvement.
-The form is composed of multiple pages, each with various types of fields such as text, select multiple, select one, date, and time. The fields are labeled with names like `contact_info_form` which might not be immediately clear to the end-user. To ensure accurate completion, it is crucial to understand the purpose and usage of each field.
-This guide is designed to walk the user through the form step-by-step and provide a clear explanation of each field's purpose to minimize errors and ensure the user provides the required and accurate information.
-</thinking>
-
 # User Testing Survey - Help Guide
 ## Purpose
 This form is designed to collect user feedback and contact information for quality assurance and testing purposes. It is intended to help the development team understand the user's experience and gather necessary details for further testing and improvement.

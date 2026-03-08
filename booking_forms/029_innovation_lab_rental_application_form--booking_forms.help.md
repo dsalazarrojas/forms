@@ -1,12 +1,3 @@
-<thinking>
-This help guide is meant to assist users in completing the Innovation Lab Rental Application Form correctly. Before starting, ensure that you are familiar with the form's purpose and requirements. This form is meant to be used for innovation lab rental applications, where applicants provide necessary information about their project. 
-
-Please note that the following information is based on the provided YAML input, and the actual form fields and requirements may vary based on the specific use case or context.
-
-Before proceeding, ensure that you have all the required information about your project ready, including project details, start and end dates, project organiser's contact information, and lab location details. This form requires you to provide accurate and complete information to ensure that your rental request is processed correctly.
-
-</thinking>
-
 # Innovation Lab Rental Application Form - Help Guide
 
 ## Purpose

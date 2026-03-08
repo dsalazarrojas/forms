@@ -1,9 +1,3 @@
-<thinking>
-This help guide will guide the end user through the Service Evaluation Form, providing a concise and clear understanding of its purpose and usage.
-The form is intended to gather user feedback and evaluations on a specific service, with the aim of improving the program's quality and customer satisfaction.
-It is assumed that users will fill this form to rate and give suggestions on the service they have used or will use. This guide will cover the fields to be filled in this form.
-</thinking>
-
 # Service Evaluation Form - Help Guide
 ## Purpose
 The Service Evaluation Form is designed to collect user feedback and evaluations on a specific service, helping us to improve the quality and customer satisfaction of our programs.

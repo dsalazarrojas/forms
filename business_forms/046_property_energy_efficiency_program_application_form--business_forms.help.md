@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for property owners to submit an application for the Property Energy Efficiency Program. Before proceeding, please ensure that you are eligible for this program and that you have reviewed the program's terms and conditions. 
-
-This form should not be filled out by property developers or other entities that are not property owners. Please ensure that you have the necessary permission from the property owner to submit this application on their behalf. 
-
-This form is meant to be filled out by property owners who wish to participate in the Property Energy Efficiency Program and wish to submit an application. 
-
-Please note that the program's terms and conditions are subject to change, and this form is for informational purposes only. 
-
-If you are unsure about any of the questions or fields in this form, it is recommended to review the program's guidelines and FAQs before proceeding.
-
-</thinking>
-
 # Property Energy Efficiency Program Application Form - Help Guide
 ## Purpose
 This form is for property owners to submit an application for the Property Energy Efficiency Program.

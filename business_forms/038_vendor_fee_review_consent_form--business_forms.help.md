@@ -1,5 +1,3 @@
-<thinking>...This form is used to gather the contact information of vendors and their consent to review their fees. The form is typically used for internal auditing and record-keeping purposes, and is a way to ensure that vendors are aware of and consent to the review of their fees. This form should be completed by vendors to provide their contact information and sign off on the consent to fee review... </thinking>
-
 # Vendor Fee Review Consent Form - Help Guide
 ## Purpose
 The Vendor Fee Review Consent Form is used to collect contact information from vendors and obtain their consent to review their fees. This form helps to ensure that vendors are aware of and agree to the review of their fees, which is essential for internal auditing and record-keeping purposes.

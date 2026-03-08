@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # waiver_brow_lamination_tint - Help Guide
 ## Purpose
 This form is designed to capture information related to a waiver of liability, specifically for brow lamination tinting. It is used to gather details about the form title, category, description, liabilities, risks, signature, and contact information of the issuer.

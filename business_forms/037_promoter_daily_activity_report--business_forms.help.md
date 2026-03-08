@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Promoter Daily Activity Report - Help Guide
 ## Purpose
 The Promoter Daily Activity Report is a form used to track the daily activities and progress of promotional events. It is essential for promoters to accurately report their daily activities to ensure timely and efficient event management.

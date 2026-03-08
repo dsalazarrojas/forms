@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be used by production staff to book a reading of a script for production purposes. The form's purpose is to collect relevant information about the script, the reading date and time, and the contact information of the person making the booking. 
-This form will be used to manage the status of script readings, ensure that all the necessary information is collected before the reading takes place, and provide a clear overview of the booking status. 
-This guide will cover how to complete the form, what each field is used for, and provide some general tips to help users navigate the form efficiently.
-</thinking>
-
 # Production Script Reading Booking Form - Help Guide
 ## Purpose
 

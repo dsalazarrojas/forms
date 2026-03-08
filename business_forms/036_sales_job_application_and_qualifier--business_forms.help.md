@@ -1,5 +1,3 @@
-<thinking>... This form appears to be designed for a sales team to gather information about a job applicant's personal details, sales experience, and availability. It seems to be a crucial part of the hiring process, and its completion is likely mandatory for applicants. I will make sure to cover each field in detail to help users understand its purpose and how to fill it out correctly. I will also ensure that the explanation is concise and practical, avoiding any unsupported business logic. ...</thinking>
-
 # Sales Job Application And Qualifier - Help Guide
 ## Purpose
 The Sales Job Application And Qualifier form is a crucial step in the hiring process for the sales team. It gathers information about a job applicant's personal details, sales experience, and availability, helping the team to assess their fit for the role.

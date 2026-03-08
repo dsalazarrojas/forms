@@ -1,18 +1,3 @@
-<thinking>
-To create an effective help guide for the "Lodge Reservation Form", we need to consider the following factors:
-
-* The form is designed to be a simple reservation form for a lodge.
-* It requires a date for the reservation.
-* It asks for start and end times for the guest's stay.
-* Guest's personal details such as name and email are needed.
-* Additional details like phone number, a message for the guest, and the type of reservation are also collected.
-* Business or leisure trip is an important factor to be considered.
-* Confirmation of whether the guest is traveling for business or not is also necessary.
-
-We need to ensure that the form is easy to understand and use for the end-users.
-
-</thinking>
-
 # Lodge Reservation Form - Help Guide
 
 ## Purpose

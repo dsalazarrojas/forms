@@ -1,7 +1,3 @@
-<thinking>
-This form is a photography portrait session booking form. The purpose of this form is to collect information from clients who are interested in booking a photography portrait session. The form captures details about the session, such as the session type, start and end times, location, and services required. It also captures client information including name, email, and phone number. The payment method and status are also captured to track payments. The form is used for both internal and external purposes, such as generating invoices and communicating with clients.
-</thinking>
-
 # photography_portrait_session_booking_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients who are interested in booking a photography portrait session.

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to register participants for a finance system pilot program. The form is used to collect information about the participant's details, objectives, and other relevant information. The form is typically filled out by participants who are interested in joining the finance system pilot program. To ensure that the form is filled out correctly, it is recommended that participants read the form carefully and ask for clarification if they are unsure about any of the fields.
-
-This form is not intended for internal use within the finance department, but rather for external participants who wish to join the finance system pilot program. The form is designed to be user-friendly and easy to understand, with each field clearly labeled and explained.
-
-The finance system pilot program is a trial or test run of the finance system to evaluate its effectiveness and usability. The program is usually conducted by the finance department to gather feedback and make improvements before rolling out the system to a larger audience.
-
-Before filling out the form, participants should ensure that they have all the necessary information and details at hand. The form is not meant to be rushed through, and participants are encouraged to take their time to fill it out carefully.
-
-The finance system pilot program is usually conducted by the finance department, but participants from other departments may also be included. The form is designed to collect information about the participant's experience, objectives, and other relevant details.
-
-The finance system pilot program is a great opportunity for participants to gain experience with the new finance system and provide valuable feedback to the finance department. Participants who complete the form will be able to contribute to the development of the finance system and help make it better for everyone.
-
-</thinking>
-
 # Finance System Pilot Registration Form - Help Guide
 ## Purpose
 This form is designed to register participants for the finance system pilot program. The form collects information about the participant's details, objectives, and other relevant information.
