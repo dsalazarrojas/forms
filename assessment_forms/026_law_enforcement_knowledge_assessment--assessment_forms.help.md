@@ -1,0 +1,124 @@
+<thinking>
+
+Form "Law Enforcement Knowledge Assessment" appears to be designed for law enforcement officials to evaluate or assess the knowledge of individuals or groups related to law enforcement. 
+
+The form's purpose might be to:
+* Gather information on specific topics or areas of knowledge within the law enforcement domain.
+* Assess the current level of knowledge or understanding among law enforcement officials on these topics.
+* Identify areas where further training or guidance is needed.
+* Track changes or improvements in knowledge over time.
+
+To avoid duplication, this form might be used in conjunction with other assessments or evaluations.
+
+</thinking>
+
+# Law Enforcement Knowledge Assessment - Help Guide
+## Purpose
+The Law Enforcement Knowledge Assessment form is designed to evaluate the knowledge of individuals or groups related to law enforcement topics.
+
+## How To Complete This Form
+1. Please answer each question carefully and to the best of your ability.
+2. If a question does not apply to your situation, please mark the correct answer as "Not Applicable" or leave it blank.
+3. If you have any questions or concerns while completing the form, please contact your supervisor or instructor for guidance.
+
+## Field-by-Field Explanation
+- **User Input 1**: A text field to input your answer or response.
+   - This field is used to collect your input or answer to a specific question.
+   - Required: No
+   - Example: If you're asked to input your name, this is where you would type it.
+- **User Input 2**: A numeric field to input your answer or response.
+   - This field is used to collect your numerical answer or response.
+   - Required: No
+   - Example: If you're asked to input your age, this is where you would type it.
+- **Select 1**: A dropdown menu to select one of the provided options.
+   - This field is used to present you with a set of options and ask you to choose the one that best applies to your situation.
+   - Required: No
+   - Example: If you're asked to select your highest level of education, this is where you would choose from the options provided.
+- **Select 2**: A dropdown menu to select multiple options.
+   - This field is used to present you with a set of options and ask you to choose the ones that best apply to your situation.
+   - Required: No
+   - Example: If you're asked to select all of the procedures you follow during a routine traffic stop, this is where you would choose the relevant options.
+- **Date**: A field to input a date.
+   - This field is used to collect a date or specific date range.
+   - Required: No
+   - Example: If you're asked to input your birthdate, this is where you would type it.
+- **Time**: A field to input a time.
+   - This field is used to collect a time or specific time range.
+   - Required: No
+   - Example: If you're asked to input your shift start time, this is where you would type it.
+- **Note**: A text field to input any additional information or note.
+   - This field is used to provide additional context or information related to your answer or response.
+   - Required: No
+   - Example: If you have any additional comments or concerns, this is where you would type them.
+- **Email**: A field to input an email address.
+   - This field is used to collect your email address.
+   - Required: No
+   - Example: If you have an email address that's relevant to your answer or response, this is where you would type it.
+- **Phone**: A text field to input a phone number.
+   - This field is used to collect your phone number.
+   - Required: No
+   - Example: If you have a phone number that's relevant to your answer or response, this is where you would type it.
+- **User Input 3**: A text field to input your answer or response.
+   - This field is used to collect your input or answer to a specific question.
+   - Required: No
+   - Example: If you're asked to input your address, this is where you would type it.
+- **User Input 4**: A numeric field to input your answer or response.
+   - This field is used to collect your numerical answer or response.
+   - Required: No
+   - Example: If you're asked to input your badge number, this is where you would type it.
+- **Select 3**: A dropdown menu to select one of the provided options.
+   - This field is used to present you with a set of options and ask you to choose the one that best applies to your situation.
+   - Required: No
+   - Example: If you're asked to select your shift start time, this is where you would choose from the options provided.
+- **User Input 5**: A text field to input your answer or response.
+   - This field is used to collect your input or answer to a specific question.
+   - Required: No
+   - Example: If you're asked to input your unit number, this is where you would type it.
+- **User Input 6**: A numeric field to input your answer or response.
+   - This field is used to collect your numerical answer or response.
+   - Required: No
+   - Example: If you're asked to input your badge expiration date, this is where you would type it.
+- **Select 4**: A dropdown menu to select one of the provided options.
+   - This field is used to present you with a set of options and ask you to choose the one that best applies to your situation.
+   - Required: No
+   - Example: If you're asked to select your highest level of certification, this is where you would choose from the options provided.
+- **User Input 7**: A text field to input your answer or response.
+   - This field is used to collect your input or answer to a specific question.
+   - Required: No
+   - Example: If you're asked to input your unit name, this is where you would type it.
+- **User Input 8**: A numeric field to input your answer or response.
+   - This field is used to collect your numerical answer or response.
+   - Required: No
+   - Example: If you're asked to input your badge number, this is where you would type it.
+- **Date**: A field to input a date.
+   - This field is used to collect a date or specific date range.
+   - Required: No
+   - Example: If you're asked to input your hire date, this is where you would type it.
+- **User Input 9**: A text field to input your answer or response.
+   - This field is used to collect your input or answer to a specific question.
+   - Required: No
+   - Example: If you're asked to input your shift end time, this is where you would type it.
+- **User Input 10**: A numeric field to input your answer or response.
+   - This field is used to collect your numerical answer or response.
+   - Required: No
+   - Example: If you're asked to input your badge number, this is where you would type it.
+- **Select 5**: A dropdown menu to select one of the provided options.
+   - This field is used to present you with a set of options and ask you to choose the one that best applies to your situation.
+   - Required: No
+   - Example: If you're asked to select your shift start time, this is where you would choose from the options provided.
+- **Select 6**: A dropdown menu to select multiple options.
+   - This field is used to present you with a set of options and ask you to choose the ones that best apply to your situation.
+   - Required: No
+   - Example: If you're asked to select all of the procedures you follow during a traffic stop, this is where you would choose the relevant options.
+- **User Input 11**: A text field to input your answer or response.
+   - This field is used to collect your input or answer to a specific question.
+   - Required: No
+   - Example: If you're asked to input your unit name, this is where you would type it.
+- **User Input 12**: A numeric field to input your answer or response.
+   - This field is used to collect your numerical answer or response.
+   - Required: No
+   - Example: If you're asked to input your badge number, this is where you would type it.
+- **Select 7**: A dropdown menu to select one of the provided options.
+   - This field is used to present you with a set of options and ask you to choose the one that best applies to your situation.
+   - Required: No
+   - Example: If you're asked to select your shift end time, this is where you would choose from the options provided.

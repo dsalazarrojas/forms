@@ -1,0 +1,41 @@
+<thinking>
+This guide will help users understand the purpose and requirements for the "Financial Compliance Reporting Consent Form". This form is intended to gather information for financial compliance reporting. It is essential to complete this form accurately and truthfully.
+
+Before proceeding, please ensure you have all necessary permissions and approvals. If you have already completed this form, please do not submit it again.
+
+This guide will walk you through each field and explain its purpose and requirements.
+
+</thinking>
+
+# Financial Compliance Reporting Consent Form - Help Guide
+## Purpose
+This form is used to gather information for financial compliance reporting. It is a critical document that requires accurate and truthful information.
+
+## How To Complete This Form
+1. Review the form carefully and ensure you have all necessary permissions and approvals.
+2. Enter your name and select your role (finance, audit, or compliance).
+3. Enter the date and time you provided consent.
+4. Enter the date and time you reviewed the form (if applicable).
+5. Enter the date and time you submitted the form (if applicable).
+6. Provide any additional remarks or comments.
+7. Enter your email address (if applicable).
+8. Enter your phone number (if applicable).
+9. Select all applicable signatures (e.g., John, Jane, or Jim).
+10. Enter any additional comments you wish to submit.
+11. Attach any relevant files (if applicable).
+
+## Field-by-Field Explanation
+- **User**: Enter your name as it appears on your official documentation.
+- **Role**: Select your role from the options provided (finance, audit, or compliance).
+- **Consent Date**: Enter the date you provided consent for financial compliance reporting.
+- **Consent Time**: Enter the time you provided consent for financial compliance reporting.
+- **Review Date**: Enter the date you reviewed the form (if applicable).
+- **Review Time**: Enter the time you reviewed the form (if applicable).
+- **Submit Date**: Enter the date you submitted the form (if applicable).
+- **Submit Time**: Enter the time you submitted the form (if applicable).
+- **Remarks**: Enter any additional remarks or comments.
+- **Email**: Enter your email address (if applicable).
+- **Phone**: Enter your phone number (if applicable).
+- **Signature**: Select all applicable signatures (e.g., John, Jane, or Jim).
+- **Comments**: Enter any additional comments you wish to submit.
+- **File**: Attach any relevant files (if applicable).
