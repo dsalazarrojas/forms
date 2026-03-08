@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the Book Bundle Removal Request Form. This form is used to request the removal of a book bundle from the system. Before filling out this form, please ensure you have a valid reason for removal, as indicated by the "Reason for removal" field. Also, ensure that you have the necessary approvals, as specified in the "Approval required" field. This form is not a duplicate request form, as the "Requester name" field should only be filled by one person per request. Please fill out this form with accurate information to ensure the removal process is executed smoothly.
-</thinking>
-
 # Book Bundle Removal Request Form - Help Guide
 ## Purpose
 The Book Bundle Removal Request Form is a form used to request the removal of a book bundle from the system. It is essential for staff or partners to fill out this form when they need to remove a book bundle from the system.

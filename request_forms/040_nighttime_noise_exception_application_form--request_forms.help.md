@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for requesting exceptions to regular nighttime noise policies. It is intended for residents or guests to provide information about their noise-related exceptions and exceptions to their lease, including the start and end times of their events and the reason for the request. The form is likely used by staff to evaluate and process these requests.
-
-To avoid duplication, we recommend checking the current status of your submitted request before re-submitting. Please note that submitted requests may be subject to review and approval by relevant authorities.
-
-</thinking>
-
 # Nighttime Noise Exception Application Form - Help Guide
 ## Purpose
 The Nighttime Noise Exception Application Form is used to request exceptions to regular nighttime noise policies. This form is intended for residents or guests to provide information about their noise-related exceptions and exceptions to their lease.

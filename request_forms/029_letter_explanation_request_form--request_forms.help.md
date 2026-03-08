@@ -1,6 +1,3 @@
-<thinking>
-If this form is being used in an internal context within a school or organization, I will assume that "school_id" will be filled out by the user's own school information. However, to be certain, please confirm if this is the case. Are you aware if users might be completing this form as part of a routine process or a one-time action? Are there any specific scenarios where this form should not be completed (e.g., if the form is already filled out and submitted, should it still be visible to the end user)?
-</thinking>
 # Letter Explanation Request Form - Help Guide
 ## Purpose
 The Letter Explanation Request Form is designed for users to request explanations and justifications for letters, providing detailed information to facilitate understanding.

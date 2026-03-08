@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only used for its intended purpose - to request collaborations between environmental education institutions. This form should not be used to submit general information or to inquire about non-environmental education related matters. To prevent duplication, the system will check if the submitted information already exists in the database, and only process new or updated information.
-</thinking>
-
 # Environmental Education Collaboration Request Form - Help Guide
 ## Purpose
 This form is designed to facilitate collaborations between institutions for environmental education purposes. If you are looking to collaborate on a project or share resources, please fill out the form below.

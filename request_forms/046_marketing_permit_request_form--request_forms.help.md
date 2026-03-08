@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used by business owners or managers to request marketing permits. The form is used to gather information about their business, including their name, address, type of business, contact information, permit type, and any other relevant details. This information is then used by the relevant authorities to evaluate and potentially grant or deny the marketing permit request.
-</thinking>
 # Marketing Permit Request Form - Help Guide
 ## Purpose
 The Marketing Permit Request Form is a form used to gather information from business owners or managers to request a marketing permit. The form is designed to be simple and easy to use, but if you need help or clarification on any part, please don't hesitate to contact us.

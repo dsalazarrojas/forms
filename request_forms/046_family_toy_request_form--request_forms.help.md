@@ -1,13 +1,3 @@
-<thinking>
-
-The "Family Toy Request Form" is a form used to collect information from family members to request toys for a family event or activity. Before filling out this form, please ensure you are not submitting duplicate requests. If you have already submitted a request for the same event, you will be notified and asked to review and update your previous request instead of submitting a new one.
-
-This form is intended for family members to provide their name, address, contact information, and additional details about their toy request. The form is used to streamline the process of toy distribution and allocation for events or activities.
-
-When filling out this form, please ensure that you are providing accurate and complete information to avoid any delays or issues with toy distribution.
-
-</thinking>
-
 # Family Toy Request Form - Help Guide
 
 ## Purpose

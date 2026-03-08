@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for artists to submit their work for commission, allowing art collectors, galleries, or other interested parties to review and potentially commission the artist for a specific piece of art. The form should be used to collect information about the artwork, including details about the artist, the artwork itself, and any relevant costs associated with the commission. Before completing this form, please ensure that you have not already submitted a similar request for the same artwork, as this could be considered a duplicate request.
-</thinking>
-
 # Painting Commission Form Template - Help Guide
 ## Purpose
 This form is designed for artists to submit their work for potential commission by art collectors, galleries, or other interested parties. It collects information about the artwork, artist, and commission details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used by individuals to request attendance at a mass or religious service. The form should not be filled out by individuals who are not planning to attend the mass. Please ensure that you are not duplicating a request that has already been made.
-</thinking>
-
 # Mass Attendance Request Form - Help Guide
 ## Purpose
 This form is used to request attendance at a mass or religious service. Please fill out the form with your information to ensure that your request is processed correctly.

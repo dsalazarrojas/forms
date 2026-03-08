@@ -1,22 +1,3 @@
-<thinking>
-Please note that the form is used for developers to report and track issues related to social media presence, which might be affecting the company's online image or operations.
-
-The form is designed to gather detailed information from developers about the issues they face on social media, including the type of social media platform, the description of the issue, and the priority of the issue. The form also asks for the developer's email and phone number for communication purposes. The team lead's email and phone number are also included for escalation and coordination. The date and time of the issue occurrence are also captured.
-
-The form is used by developers to report issues that require attention from the social media support team. The team will review and respond to these issues, providing a resolution or further assistance as needed.
-
-To ensure accurate and efficient processing of these requests, please make sure to fill out each field accurately and completely. If you're unsure about any field, please refer to this guide or contact the support team for clarification.
-
-This form is not intended for general inquiries or support requests. Please do not use this form for questions about company policies, procedures, or general concerns.
-
-Before submitting the form, please make sure to:
-
-*   Fill out all required fields accurately and completely.
-*   Check that the form is complete and submitted correctly.
-
-By following these guidelines, we can ensure that your issue is processed efficiently and effectively.
-</thinking>
-
 # Social Media Support Request For Developers - Help Guide
 ## Purpose
 The Social Media Support Request For Developers form is used by developers to report and track issues related to social media presence, which might be affecting the company's online image or operations.

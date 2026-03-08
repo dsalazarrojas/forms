@@ -1,11 +1,3 @@
-<thinking>
-
-This guide is intended for employees who need to submit a Request For Leave form. It's crucial to understand how to fill out this form accurately to avoid errors or unnecessary revisions. Before starting, please review your leave type (Work, Personal, or Leave Type), ensuring it matches your actual leave purpose. This helps prevent duplication or rejection of your request. 
-
-When completing this form, please ensure that the dates of your leave match your selected leave type and purpose. Remember to fill out all required fields and provide clear explanations for each section. If you're unsure about any field, refer to this guide for guidance.
-
-</thinking>
-
 # Request For Leave - Help Guide
 ## Purpose
 The Request For Leave form is designed to allow employees to submit a formal leave request to their manager for approval. This form includes details such as leave type, start and end dates, duration, and purpose of leave. Completing this form accurately and thoroughly ensures a smooth processing of your leave request.

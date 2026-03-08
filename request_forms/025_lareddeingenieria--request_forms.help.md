@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect project request information from users. 
-This form is part of the request_form system that aims to gather essential details about a project. 
-Please note that this form does not require a user to submit all the fields, as indicated by the "required: false" tag in each field. 
-However, providing a complete set of information will help improve the accuracy and efficiency of the project handling process.
-
-</thinking>
-
 # Lareddeingenieria - Help Guide
 ## Purpose
 The Lareddeingenieria form is designed to collect project request information for further processing and evaluation. 

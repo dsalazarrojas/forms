@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Club Funding Request Form - Help Guide
 ## Purpose
 This form is for requesting funding from the club to support your club's activities and expenses.

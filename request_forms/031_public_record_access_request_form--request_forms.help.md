@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to request access to public records. The form is designed to collect information from users who want to access public records, including their first name, last name, organization name, address, city, state, zip, email, phone, and fax. The form also asks for the purpose of the request, the type of record, the date of the record, and the signature of the user. The form is likely used by administrators or records management personnel to manage requests for public records.
-
-Before filling out this form, please make sure that you have not already made a request for access to this record or that the record is not publicly available. 
-
-</thinking>
-
 # public_record_access_request_form - Help Guide
 ## Purpose
 This form is used to request access to a public record.

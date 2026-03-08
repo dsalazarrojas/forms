@@ -1,13 +1,3 @@
-<thinking>
-Before we dive into the form help guide, let me clarify the form's purpose and relevance:
-
-The Youth Services Resource Directory Submission form is designed to collect information from users about their services, resources, and needs. This form is meant to be a comprehensive collection of data to create a directory that caters to the diverse needs of youth in the community. The form's primary goal is to gather relevant information about the services offered, the target population, and any other relevant details that can help in creating an accurate and helpful directory.
-
-To ensure the form's effectiveness, it's essential to prevent duplication of entries. The form's design and data validation mechanisms are built to prevent users from submitting the same information multiple times. This way, the directory can maintain data integrity and provide accurate and up-to-date information to users.
-
-Before submitting the form, please ensure that you have all the necessary information. This form is best suited for users who are looking to submit their resources or services to be listed in the directory.
-</thinking>
-
 # Youth Services Resource Directory Submission - Help Guide
 ## Purpose
 The Youth Services Resource Directory Submission form is designed to collect information from users about their services, resources, and needs. The form helps create a comprehensive directory that caters to the diverse needs of youth in the community.

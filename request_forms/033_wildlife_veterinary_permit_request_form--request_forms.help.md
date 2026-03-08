@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wildlife Veterinary Permit Request Form - Help Guide
 ## Purpose
 This form is for requesting a wildlife veterinary permit, which is typically required for handling, possessing, or transporting wildlife. The purpose of this form is to gather information from the permit applicant to assess their request and ensure compliance with regulations.

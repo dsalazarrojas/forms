@@ -1,5 +1,3 @@
-<thinking>This form is intended for family members to request access to a secure family portal for their student. The form is meant to capture relevant information about the student and the family member making the request. Before submitting this form, ensure that the request is not a duplicate and that the purpose is clear. Please note that some of the fields are optional, but providing accurate and complete information will help expedite the processing of your request.</thinking>
-
 # Family Portal Access Request - Help Guide
 ## Purpose
 The Family Portal Access Request form is used to request access to a secure family portal for your student. This form is used to gather information about the student and the family member making the request.

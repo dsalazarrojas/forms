@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # multi_agency_coordination_application_form - Help Guide
 ## Purpose
 The Multi-Agency Coordination Application Form is designed to facilitate the coordination and management of projects across multiple agencies. This form is used to gather information about a project, including its details, participating organizations, resources, budget, and status. It is intended for use by project managers and coordinators to ensure that all necessary information is collected and documented.

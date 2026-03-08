@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for collecting information from debtors, which is a crucial step in the debt collection process. It is not meant for internal or administrative purposes. It is also not a duplicate form for existing debt information.
-</thinking>
-
 # Debt Collection Form - Help Guide
 ## Purpose
 The Debt Collection Form is used to gather essential details from debtors to facilitate effective debt collection. Please ensure you are filling out this form for the correct purposes and do not create duplicate entries for the same debt.

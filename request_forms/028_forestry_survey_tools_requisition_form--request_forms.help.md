@@ -1,5 +1,3 @@
-<thinking>As a forestry survey expert, I have designed this form to help you efficiently and accurately request tools for your forestry survey needs. This form is not intended for general requests, but rather for specific forestry survey tools. Please ensure that your submission is relevant to the provided options and not a duplicate request. Please fill out the form carefully, as your request will be processed accordingly.</thinking>
-
 # Forestry Survey Tools Requisition Form - Help Guide
 ## Purpose
 This form is designed to request tools for forestry survey operations. Please use this form for specific tool requests related to forestry surveys.

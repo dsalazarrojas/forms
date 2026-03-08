@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a clear and concise user-facing help guide that will help end users understand the purpose, structure, and functionality of the Livestock Care Consultation Request Form. I will carefully review the provided YAML fields to ensure that each field is explained in a way that is practical and easy to understand. By doing so, I will create a guide that will save time and reduce confusion for users who need to fill out this form.</thinking>
-
 # Livestock Care Consultation Request Form - Help Guide
 
 ## Purpose

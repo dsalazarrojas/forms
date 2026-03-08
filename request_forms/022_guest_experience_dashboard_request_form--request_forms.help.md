@@ -1,5 +1,3 @@
-<thinking>...The form is designed to gather guest feedback and preferences for their experience on our platform. The form will be reviewed for duplication and relevance before being processed. Please ensure you're submitting a unique request and be concise in your input. This will help us improve our service and provide a better experience for our guests in the future...</thinking>
-
 # Guest Experience Dashboard Request Form - Help Guide
 ## Purpose
 This form is used to gather information from guests about their experience on our platform. By filling out this form, you'll be able to provide us with valuable feedback and preferences that will help us improve our services.

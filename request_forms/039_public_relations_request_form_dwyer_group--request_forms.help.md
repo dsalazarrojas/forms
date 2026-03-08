@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to allow users to request a public relations (PR) support for their press release needs. The purpose of this form is to gather information about the press release being requested, including the company, contact details, release details, and request date and time. This information will be used to assess the request and provide guidance on the best course of action for the press release. Please fill out this form carefully to ensure your request is properly processed.
-
-</thinking>
-
 # public_relations_request_form_dwyer_group - Help Guide
 ## Purpose
 This form is used to request public relations support for a press release. It helps us understand your needs and provide the necessary assistance.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate the cancellation of a boundary, which is a critical process that involves the removal or modification of a geographical boundary. The cancellation of a boundary can be a complex process that requires careful consideration and accurate information. Before proceeding, please ensure that you have the necessary authority to submit this request and that you are aware of the potential implications of boundary cancellation. This form will guide you through the process, but please note that the cancellation of a boundary may trigger additional steps or reviews, and the accuracy of the information provided is crucial to ensure a smooth and efficient process. Additionally, please be aware that some fields may require further clarification or supporting documentation to ensure a complete and accurate submission.
-
-</thinking>
-
 # Boundary Cancellation Request Form - Help Guide
 ## Purpose
 The Boundary Cancellation Request Form is used to request the cancellation of a geographical boundary. This form requires accurate and complete information to facilitate a smooth cancellation process.

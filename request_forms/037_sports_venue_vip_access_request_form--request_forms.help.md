@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for requesting access to a sports venue for specific events and time slots. It's intended for individuals or teams seeking exclusive access to a sports venue, possibly for interviews, photography, or other official purposes. Please note that this form should only be completed if the requester has a valid reason for needing such access and is not a duplicate request. This form will help us assess the request and provide an answer in due course.
-</thinking>
-
 # Sports Venue VIP Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to a sports venue for specific events and time slots.

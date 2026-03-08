@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-facing help guide that is clear, concise, and practical for the Special Event Request Form. To achieve this, I will focus on explaining the form's purpose, providing step-by-step instructions on how to complete it, and breaking down each field into an easily understandable format.</thinking>
-
 # Special Event Request Form - Help Guide
 ## Purpose
 The Special Event Request Form is designed to collect information about events that require special arrangements or services. It helps organizers and event coordinators gather essential details about an event, such as its category, description, date, location, and requirements.

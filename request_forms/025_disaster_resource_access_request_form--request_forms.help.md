@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information from users who need access to disaster resources. The purpose of this form is to gather emergency contact information, such as name, email, and phone number, to establish a point of contact in case of a disaster. This form also asks about the user's relationship with the individual or group requesting resources and where the resources are needed.
-Please ensure this form is filled out completely, but if a particular piece of information is not applicable, it can be left blank. If the user is not sure how to complete a particular field, please reach out to [Support Contact Email or Phone Number] for assistance.
-Please note that this form is not used to request resources for [non-disaster] purposes.
-</thinking>
-
 # Disaster Resource Access Request Form - Help Guide
 ## Purpose
 The Disaster Resource Access Request Form is used to collect information from users who need access to disaster resources. This form helps us establish a point of contact in case of a disaster and ensures that we can quickly and efficiently provide the necessary resources.

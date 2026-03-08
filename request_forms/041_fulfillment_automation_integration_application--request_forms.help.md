@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to gather information about the status of fulfillment automation integrations, which are connections between different systems that enable automated processing of tasks and data. This form is used to track and monitor the progress of these integrations, including requests, vendor requirements, integration documentation, and other relevant details.
-
-This form will likely be used by logistics and technical teams to collaborate and share information about the integration process. To ensure that this form is used correctly, please make sure that you have a clear understanding of the following questions and that you're not completing this form unnecessarily, as some fields are optional. If you're unsure about any part of the form, please refer to the field-by-field explanation below for clarification.
-
-</thinking>
-
 # Fulfillment Automation Integration Application - Help Guide
 ## Purpose
 The Fulfillment Automation Integration Application form is used to track and monitor the progress of fulfillment automation integrations.

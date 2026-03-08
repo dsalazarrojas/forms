@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraising License Request Form - Help Guide
 
 ## Purpose

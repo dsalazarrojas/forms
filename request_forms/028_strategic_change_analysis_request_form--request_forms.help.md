@@ -1,17 +1,3 @@
-<thinking>
-This form is used for requesting changes that are considered strategic in nature and that have significant impact on the organization. Before filling out this form, please ensure that you have thoroughly researched and understood the implications of the change and that it is not a duplicate of an already existing request.
-
-To be eligible for approval, the change request should meet the following criteria: 
-- The change has a significant impact on the organization
-- The change is not a minor change that can be made without approval
-- The change has not been previously approved or requested
-
-When completing this form, please ensure that you clearly and concisely describe the change and its implications. 
-
-Please fill out this form carefully and thoroughly, and make sure to review your answers before submitting.
-
-</thinking>
-
 # Strategic Change Analysis Request Form - Help Guide
 ## Purpose
 This form is used for requesting changes that are considered strategic in nature and that have significant impact on the organization.

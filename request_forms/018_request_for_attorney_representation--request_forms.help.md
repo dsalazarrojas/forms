@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Request For Attorney Representation - Help Guide
 
 ## Purpose

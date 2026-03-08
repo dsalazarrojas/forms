@@ -1,10 +1,3 @@
-<thinking>
-This form is used by customers to request services from a satellite technician. It is intended to gather the necessary information from the customer to schedule and complete the service request. This form should only be completed by customers who are requesting services, not by satellite technicians or other staff members.
-
-To avoid duplication, please check that this form has not been completed recently and that there are no ongoing or pending service requests for the customer. This form should only be used for new or ongoing requests.
-
-</thinking>
-
 # Satellite Technician Service Request - Help Guide
 ## Purpose
 The Satellite Technician Service Request form is used to collect information from customers to schedule and complete service requests for satellite technician visits.

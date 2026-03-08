@@ -1,19 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for public road use coordination, which is the process of coordinating with various stakeholders to ensure that road work or other public activities are carried out safely and efficiently. This form is used to gather details about the request, contact information, and other relevant details to facilitate the coordination process.
-
-To complete this form, follow these steps:
-
-1. Fill out the General Information page with your name and any other relevant details.
-2. Provide your contact information on the Contact Details page, including your name, email, and phone number.
-3. On the Request Details page, describe the nature of your request, including the type of request (e.g., Public Utility Use, Emergency Repair, etc.).
-4. Choose the correct Request Type and Request Purpose from the dropdown menus.
-5. Select the correct Location, Road Type, and Road Status from the dropdown menus.
-6. Optionally, add any additional details or remarks about the road condition and location.
-7. Sign the form (note: this is not actually a signature field but a placeholder for your actual signature).
-
-This form is only for coordinating public road use. If you are unsure about which form to fill out, please contact our office.
-</thinking>
-
 # public_road_use_coordination_application_form - Help Guide
 ## Purpose
 The form is used to collect information for public road use coordination.

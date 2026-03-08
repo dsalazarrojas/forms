@@ -1,5 +1,3 @@
-<thinking>As a user interacts with this form, they will likely be requesting a model that requires specific characteristics. To prevent duplication, we'll check for existing records before creating a new model. This form is a collection of demographic questions that will be used to create a model tailored to the user's needs. Each question is meant to gather specific information to make this process more efficient and accurate. The user will be able to select from a variety of options for different fields, allowing for a more tailored model to be generated.</thinking>
-
 # model_request_form - Help Guide
 ## Purpose
 This form is used to request a model that is tailored to your specific characteristics. It will guide you through a series of questions to gather the necessary information to create a model that fits your needs.

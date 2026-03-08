@@ -1,11 +1,3 @@
-<thinking>...thinking>
-
-This form is designed for users to submit a request for data export, providing necessary information about themselves and their preferred data export method and source.
-
-The form aims to ensure that users provide accurate contact information (first name, last name, and email) and a valid date of birth. The email address is also verified for correct formatting as it serves as the primary contact point for the exported data delivery. The "How do you want to receive your data?" and "What data do you want to export?" fields are crucial as they define the export method and source, respectively. The optional "Additional information" field allows users to provide context or clarify their request if needed. Users can choose from three export methods (CSV, Excel, and Google Sheets) and select multiple data sources. This form prevents duplicate submissions and ensures that users provide valid data.
-
-</thinking>
-
 # Data Export Request Form - Help Guide
 ## Purpose
 The Data Export Request Form is designed to collect information from users to facilitate data export for them. It is essential to fill out the form accurately and completely to ensure that the data export request is processed correctly and efficiently.

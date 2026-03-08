@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for database patch requests. It is meant for users who need to submit a patch or fix for a specific issue in the database. Please ensure you are submitting a new request and not duplicating an existing one. If you're unsure if there's already a request for the same issue, double-check before proceeding.
-</thinking>
-
 # Database Patch Request Form - Help Guide
 ## Purpose
 The Database Patch Request Form is used to submit a new patch or fix for a specific issue in the database. This form helps to gather the necessary information for our team to efficiently address and implement the change.

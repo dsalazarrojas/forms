@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals who are seeking guidance on family boundaries, which are the rules and expectations that govern interactions within a family unit. The form will help us understand the specific concerns or challenges individuals are facing, allowing us to provide tailored support and resources. To ensure accuracy and efficiency, please review the fields carefully and ensure you are submitting the most up-to-date and relevant information.
-
-When filling out this form, please make sure you are not submitting multiple requests for the same issue or concern. We want to make sure we understand your needs thoroughly. If you are unsure about any aspect of the process, please don't hesitate to reach out to our support team for clarification.
-</thinking>
-
 # Family Boundary Guidance Request Form - Help Guide
 ## Purpose
 The Family Boundary Guidance Request Form is designed to collect information from individuals seeking guidance on family boundaries. This form will help us understand your concerns, challenges, or needs, allowing us to provide the most appropriate support and resources.

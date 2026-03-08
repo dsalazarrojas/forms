@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Vehicle Rental Quote Request - Help Guide
 ## Purpose
 This form is used to request a corporate vehicle rental quote for a specific period of time. It is intended for employees or authorized users within the organization to provide information about the rental details required to get an accurate quote. Please note that duplicate or unnecessary submissions may be deleted to ensure the integrity of the quote request process.

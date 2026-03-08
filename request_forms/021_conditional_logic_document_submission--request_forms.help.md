@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for submitting documents for different types of submissions, such as employment documents, academic records, legal documents, financial records, medical records, and identity verification. The form is designed to collect specific information about the submission, including the type of document being submitted, the date of submission, and the applicant's details. It also includes fields for uploading documents and providing a description of the files. Additionally, it includes conditional logic questions that depend on the type of submission being made. This form is likely used for internal business processes within an organization and requires a valid submission type selection to proceed with the submission. 
-</thinking>
-
 # Conditional Logic Document Submission - Help Guide
 ## Purpose
 The Conditional Logic Document Submission form is a comprehensive form designed to collect documents and information for various types of submissions. It ensures accurate and secure submission of required documents.

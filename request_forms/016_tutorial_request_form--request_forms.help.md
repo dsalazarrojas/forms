@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users requesting a tutorial or educational resource. The purpose of this form is to gather data about the user's background and the specific topic they are interested in, which will be used to tailor the tutorial to their needs. It's essential to fill out this form carefully and accurately to ensure that the tutorial is relevant and helpful to the user. This form is not a duplicate and has a unique purpose.
-</thinking>
-
 # Tutorial Request Form - Help Guide
 ## Purpose
 This form is used to collect information from users requesting a tutorial or educational resource. The data collected will be used to tailor the tutorial to the user's needs and ensure it is relevant and helpful.

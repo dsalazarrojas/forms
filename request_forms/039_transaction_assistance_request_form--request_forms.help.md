@@ -1,9 +1,3 @@
-<thinking>...Internal reasoning block for this form...
-
-This form is used to assist in transactions that require special handling. It allows users to submit a request for help with a transaction, specifying details such as their name, the date of the transaction, the amount involved, and the type of transaction. The form also asks users to select a tool to be assigned to handle the transaction and specify the status of the transaction. This form is likely to be used by support staff to track and manage requests for assistance with transactions.
-
-</thinking>
-
 # Transaction Assistance Request Form - Help Guide
 ## Purpose
 The Transaction Assistance Request Form is used to submit a request for help with a transaction that requires special handling.

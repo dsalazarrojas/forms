@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to request a digital advertising quote for a client's advertising campaign. This form is intended for clients to provide information about their campaign goals and requirements, such as target audience, budget, and ad placement, to allow the provider to generate a quote for the campaign.
-
-Before filling out this form, please ensure that you have all the necessary information and details about your campaign. This form should not be used to request multiple quotes or changes to existing quotes.
-
-The form will ask you for your name, your company's name, contact email, phone number, and other relevant information about your campaign. Please ensure that you fill out all required fields accurately and comprehensively.
-
-</thinking>
-
 # Digital Advertising Quote Request - Help Guide
 ## Purpose
 The Digital Advertising Quote Request form is a tool to gather information about your digital advertising campaign and provide a quote for the services.

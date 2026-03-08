@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block is not required as per the instructions.
-</thinking>
-
 # Market Access Innovation Request Form - Help Guide
 ## Purpose
 This form is used to request market access for an innovation. Market access refers to the process of making a product or innovation available to a wider market, including potential customers or clients. This form helps to collect necessary information from the submitter about the innovation and submitter details for the review and evaluation process.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Request For Leave Of Absence Form" used in an organization. The purpose of this form is to allow employees to submit a request for a leave of absence, which is typically used for vacations, maternity/paternity leave, or other absences. It is a crucial document that helps in tracking employee absences, ensuring the organization's work continuity and maintaining employee benefits. To avoid duplication, please note that this form should not be submitted for short breaks like coffee or lunch breaks. 
-
-</thinking>
 # Request For Leave Of Absence Form - Help Guide
 ## Purpose
 The Request For Leave Of Absence Form is used to notify the organization about an employee's intention to take a leave of absence. This form ensures that the employee and the management are aware of the planned absence, facilitating a smooth work process.

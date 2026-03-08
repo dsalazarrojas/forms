@@ -1,7 +1,3 @@
-<thinking>
-This form will help you request new widgets for your company. Before submitting, ensure the request is for a specific purpose and not a repeat request. Please make sure that all the required fields are filled and that the requested widget model is correctly selected.
-</thinking>
-
 # New Widget Request Form - Help Guide
 
 ## Purpose

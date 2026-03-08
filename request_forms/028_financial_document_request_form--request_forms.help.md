@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect detailed information about financial document requests. It may be used by employees to request financial documents for various purposes, such as expense reimbursement or vendor payments. To ensure that the form is used correctly, please make sure that you are filling it out for a legitimate reason and that you have not already submitted a similar request. If you're unsure, please reach out to your supervisor or the finance department for clarification.
-</thinking>
-
 # Financial Document Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about financial document requests, including details about the document type, file upload, and request status.

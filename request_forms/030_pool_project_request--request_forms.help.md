@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to request a pool project. The form is likely used by a business or organization that offers pool installation services. The form is meant to gather necessary details from the user to understand their pool project requirements, including pool type, size, shape, features, and contact information. The form is probably used by a sales or customer support team to assess the user's needs and provide relevant services or responses.
-</thinking>
-
 # Pool Project Request - Help Guide
 ## Purpose
 This form is used to submit a request for a pool project. Please fill out the form with your project details and contact information.

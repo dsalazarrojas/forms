@@ -1,7 +1,3 @@
-<thinking>
-The provided YAML defines a form with a variety of fields that seem to be related to evaluating students, teams, or schools. It appears that the form is used for requesting evaluations, possibly for students or teams, and includes fields for providing details such as dates, locations, and evaluation results. There may be some overlap in the fields, such as multiple fields with "School ID" and "Team ID", which could be considered for potential duplication or redundancy. However, without further context, it's difficult to determine the exact purpose and relationships between these fields.
-</thinking>
-
 # IE Evaluation Request Form - Help Guide
 ## Purpose
 The IE Evaluation Request Form is used to request evaluations for students, teams, or schools. This form collects necessary information to facilitate the evaluation process.

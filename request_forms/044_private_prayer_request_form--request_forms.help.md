@@ -1,7 +1,3 @@
-<thinking>
-We will be designing a help guide for the "private_prayer_request_form" form. This form is used to collect information about prayer requests from individuals. The purpose of this form is to gather personal and specific prayer requests that can be prayed for by the community. The form will be used to collect the name, email, phone number, and message of the person making the prayer request. The form will also collect date and time information to schedule prayer meetings. The form will also collect options for prayer requests, which are required fields that need to be filled out. This form will be submitted when all required fields are filled out.
-</thinking>
-
 # private_prayer_request_form - Help Guide
 ## Purpose
 The private_prayer_request_form is used to collect information about prayer requests from individuals. This form will be used to gather personal and specific prayer requests to be prayed for by the community.

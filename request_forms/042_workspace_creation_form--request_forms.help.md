@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, I'll analyze the fields and their corresponding "name" and "label" properties. From the form structure, I can infer that it is used to create a new workspace, gathering various information about it and its settings. This includes user preferences, access preferences, team invites, workspaces names, descriptions, and more. The form likely aims to collect data for workspace creation and management.
-
-To ensure this form is not duplicated or misused, it is recommended that users should only fill out this form for the intended purpose of creating a new workspace. Users should not attempt to use this form for other purposes or actions.
-
-</thinking>
-
 # workspace_creation_form - Help Guide
 ## Purpose
 This form is used to create a new workspace, collecting information for its settings, team, and management.

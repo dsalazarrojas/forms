@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # DST KITT Disclaimer Form - Help Guide
 ## Purpose
 The DST KITT Disclaimer Form is used to gather information for a specific purpose. To ensure that your submission is relevant and not a duplicate, please review the form purpose and only submit if you are eligible to do so. The form purpose should be clearly understood before proceeding.

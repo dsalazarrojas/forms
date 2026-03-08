@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workplace Culture Suggestion Request Form - Help Guide
 ## Purpose
 This form is designed to collect suggestions and ideas from employees regarding workplace culture improvements. It is meant for employees to submit their thoughts and feedback on how to create a better work environment. Please ensure that your suggestions are constructive and respectful, and that you have a clear understanding of what you are suggesting.

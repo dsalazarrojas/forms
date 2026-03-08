@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information regarding a Personal Protective Equipment (PPE) request from the user. It is intended to be completed by employees who need to request PPE for their departments. This form will help the management understand the nature of the request, assign the right person for handling it, and track the progress of the request. It is essential to provide accurate and clear information to avoid confusion and ensure the right equipment is provided.
-</thinking>
-
 # ppe_request_form - Help Guide
 ## Purpose
 The PPE request form is used to submit a request for personal protective equipment to support the needs of employees in their work.

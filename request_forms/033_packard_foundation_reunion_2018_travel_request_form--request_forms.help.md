@@ -1,9 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is filled out correctly, please note that:
-- This form is intended for Packard Foundation staff to gather information from attendees of the 2018 reunion event.
-- The form should only be filled out by those who are actually traveling for the event and have not already submitted a request.
-</thinking>
-
 # Packard Foundation Reunion 2018 Travel Request Form - Help Guide
 ## Purpose
 This form is designed to help us gather information from attendees who are traveling for the 2018 Packard Foundation Reunion event. Please fill out the form carefully to ensure we can plan accordingly for your travel arrangements.

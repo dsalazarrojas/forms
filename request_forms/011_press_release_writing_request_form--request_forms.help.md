@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for the creation of press releases, which are formal announcements used to share news and information to the public, typically through various media channels. To ensure that the form is completed accurately, please verify that you have all necessary information before filling it out. This form should not be submitted multiple times for the same purpose. Please make sure to review the entire form carefully before submitting it to avoid errors or duplicate submissions.
-</thinking>
-
 # Press Release Writing Request Form - Help Guide
 ## Purpose
 The purpose of this form is to provide information for the creation of press releases.

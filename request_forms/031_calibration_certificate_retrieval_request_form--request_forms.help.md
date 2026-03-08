@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Calibration Certificate Retrieval Request Form - Help Guide
 
 ## Purpose

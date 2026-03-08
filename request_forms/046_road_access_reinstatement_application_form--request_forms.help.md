@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to collect information about a road access reinstatement project. The form helps us understand the project's details, schedule, and relevant permits. We only need this information from projects where a road access is involved. Please ensure you complete this form only once for each project. 
-</thinking>
-
 # Road Access Reinstatement Application Form - Help Guide
 ## Purpose
 The Road Access Reinstatement Application Form is used to gather details about a road access reinstatement project. Please submit this form to inform us about your project so we can assist you better.

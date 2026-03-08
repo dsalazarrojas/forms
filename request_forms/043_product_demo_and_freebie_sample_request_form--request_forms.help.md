@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers who want to request a product demo and freebie. The form is designed to gather information about the customer's product preferences, contact details, and demo requirements. This form will help the customer request a demo and potentially receive a freebie. It's essential to review the form carefully to ensure that the requested demo meets your needs and that you're eligible for the freebie. Please note that this form is for demonstration purposes only and may be reviewed internally to prevent duplicate requests.
-</thinking>
-
 # product_demo_and_freebie_sample_request_form - Help Guide
 ## Purpose
 This form is a request form for product demos and freebies. You can use it to request a demo of a product and potentially receive a freebie.

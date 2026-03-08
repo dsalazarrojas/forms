@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to submit an initial application for the Enrichment Academy. The purpose of this form is to collect relevant information about the user, including their schedule and contact details. Before proceeding, please ensure that you have not submitted a similar application in the past and that your submission is in line with the academy's guidelines.
-</thinking>
-
 # enrichment_academy_initial_application - Help Guide
 ## Purpose
 This form is used to submit an initial application for the Enrichment Academy.

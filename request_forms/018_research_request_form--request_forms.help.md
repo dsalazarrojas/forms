@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the "research_request_form" correctly and efficiently. To avoid unnecessary repetition and duplication, please review the form's purpose and content before proceeding.
-The form's purpose is to collect information about research requests, which are used for various research-related tasks.
-This guide assumes that the end-user has a good understanding of the research request process and the information needed to complete the form.
-</thinking>
-
 # research_request_form - Help Guide
 ## Purpose
 

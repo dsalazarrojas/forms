@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to request a membership freeze, which is a feature that temporarily disables or freezes a user's membership, usually due to concerns about user behavior or activity that may impact the platform's community or other users. This form helps administrators and moderators to verify the legitimacy of the request and ensure it's not a duplicate or abuse attempt.
-</thinking>
-
 # Membership Freeze Request Form - Help Guide
 ## Purpose
 This form is designed to be completed by a user if they wish to request a membership freeze. This feature is typically used when a user is concerned about their account's impact on the community or when they need to pause their account temporarily due to personal reasons.

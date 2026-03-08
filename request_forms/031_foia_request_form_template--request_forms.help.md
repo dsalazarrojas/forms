@@ -1,7 +1,3 @@
-<thinking>
-This is a FOIA (Freedom of Information Act) request form template. It is designed to collect personal and contact information from the requester, as well as details about the purpose and specifics of the request. The form is intended to gather relevant data for official responses to the FOIA requests. To ensure this form is used correctly, please make sure to provide accurate and complete information. If you have already submitted a FOIA request, do not fill out this form again. Please review the form carefully to ensure you are providing the correct type of information.
-</thinking>
-
 # FOIA Request Form Template - Help Guide
 ## Purpose
 The FOIA Request Form Template is used to collect information from individuals or organizations making a Freedom of Information Act (FOIA) request. This form is essential for our organization to respond to your request accurately and efficiently.

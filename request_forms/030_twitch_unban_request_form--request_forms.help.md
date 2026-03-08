@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing help guide for the Twitch Unban Request Form. The form is designed to assist users in requesting to be unbanned from Twitch. The form is intended for users who have been banned from Twitch and wish to appeal their ban. The form is used by the Twitch moderators to review and potentially lift the ban.
-</thinking>
-
 # Twitch Unban Request Form - Help Guide
 ## Purpose
 This form is for users who have been banned from Twitch and want to request to be unblocked. Fill out this form to provide the necessary information for the moderators to review and potentially lift the ban.

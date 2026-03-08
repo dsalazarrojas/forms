@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request permission for a student to bring a guest to a specific event. The form asks for information about the student, such as their name, event details, and any relevant dates or times. The form also asks for information about the guest, such as their name and type (e.g., student, teacher, staff, or other). The form includes fields for event details, event date and time, and status updates. To fill out this form, the user must provide the student's information, event details, and any necessary additional information. This form should not be used for duplicate requests, and each submission should be a new and unique request.
-</thinking>
-
 # Student Guest Bringing Request Form - Help Guide
 
 ## Purpose

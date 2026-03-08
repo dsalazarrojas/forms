@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # job_estimate_request_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create new on-call consultant requests. Please ensure that you only submit a new request if it is not a duplicate of an existing request. If you're unsure, you can check the request status in the form to see if it has already been completed or in progress.
-</thinking>
-
 # On Call Consultant Request Form - Help Guide
 ## Purpose
 The On Call Consultant Request Form is used to submit a new request for on-call consultant services. This form helps you communicate your needs to the consultant team and ensures that your request is properly assigned and tracked.

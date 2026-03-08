@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients for invoice requests. It's intended for internal use, and users should only fill out the form for valid and relevant requests. Please do not use this form for test or demonstration purposes, and avoid duplication of requests. 
-
-</thinking>
-
 # Invoice Request Form - Help Guide
 ## Purpose
 The Invoice Request Form is designed to collect essential information from clients for their invoice requests.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the user-facing help guide for the Landing Page Build Request Form Template, let me clarify the purpose and internal reasoning behind this form. This form is designed to collect information for landing page builds, which are typically created to showcase a business or project's presence on the web. The purpose of this form is to gather essential details about a project, including its description, objectives, deadlines, budget, and project managers. This information will help in creating a landing page that effectively represents the project and its goals.</thinking>
-
 # Landing Page Build Request Form Template - Help Guide
 ## Purpose
 This form is for requesting a landing page build for your project. We need details about your project to create an effective page that represents your business or project.

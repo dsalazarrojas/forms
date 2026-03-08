@@ -1,25 +1,3 @@
-<thinking>
-The purpose of this form is to allow exhibition organizers and participants to request modifications to their allocated exhibition stall. These modifications can include requests for changes in stall numbers, cancellation of participation, or swaps with other exhibitors. This form is designed to gather necessary information for efficient processing and management of exhibition modifications. It's essential to fill this form accurately and completely to avoid any issues during the modification process.
-
-To ensure that the form is filled out correctly, please review the following steps:
-
-1.  **Exhibitor Name**: Please enter the name of the exhibitor who is requesting the modification.
-2.  **Stall Number**: Enter the number of the stall that the exhibitor would like to modify.
-3.  **Request Type**: Choose the type of modification requested (Modification, Cancellation, or Swap).
-4.  **Request Date**: Enter the date on which the modification is being requested.
-5.  **File Upload**: Upload any supporting documents or files related to the request.
-6.  **Preferred Start Date**: Enter the date on which the exhibitor would like their stall to be modified.
-7.  **Preferred End Date**: Enter the date on which the exhibitor would like their stall to be closed.
-8.  **Priority**: Choose the priority level (High, Medium, or Low) of the modification request.
-9.  **Notes**: Provide any additional comments or details regarding the modification request.
-10. **Email**: Enter the email address of the exhibitor making the request.
-11. **Phone**: Enter the phone number of the exhibitor making the request.
-12. **Assigned To**: Choose who the request should be assigned to (chatjimmy or other).
-13.  **Status**: Choose the current status of the request (Requested, Pending, Approved, Rejected, Assigned, or Closed).
-
-Please fill out the form accurately and completely, and ensure that all required fields are filled before submitting it. If you are unsure about any field, please contact the exhibition management team for clarification.
-</thinking>
-
 # Exhibition Stall Modification Request Form - Help Guide
 ## Purpose
 The exhibition stall modification request form is used to request changes to allocated exhibition stalls.

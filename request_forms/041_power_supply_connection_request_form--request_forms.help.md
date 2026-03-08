@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Power Supply Connection Request Form - Help Guide
 ## Purpose
 This form is used to request connections for power supply systems. It is meant to gather information about the connection type, power consumption, start and end dates, and other relevant details for the connection.

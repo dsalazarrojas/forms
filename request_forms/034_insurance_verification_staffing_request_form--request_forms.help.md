@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting insurance verification staffing, which is a process used to verify a patient's insurance information with the patient's insurance provider. It's likely used in healthcare settings to ensure that patients have the necessary insurance coverage for their treatments or procedures. The form is used to collect information about the patient, the insurance information, and the request details.
-</thinking>
-
 # Insurance Verification Staffing Request Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be a template for requesting trailer dispatches, allowing users to provide necessary information for the trailer pickup and delivery process. Trailer dispatch requests are crucial for coordinating logistics and ensuring on-time delivery of trailers. This form is intended to be used by authorized personnel in the trailer rental or logistics industry. To avoid duplication, please fill out the form only once for a single trailer dispatch request.
-
-Please note that this form is not affiliated with any form platform, and its content is derived from public survey data. It is released under CC BY 4.0 license, allowing for modifications and reuse.
-</thinking>
-
 # Trailer Dispatch Request Form - Help Guide
 ## Purpose
 This form is designed to collect information necessary for trailer dispatch requests, ensuring efficient and accurate logistics coordination.

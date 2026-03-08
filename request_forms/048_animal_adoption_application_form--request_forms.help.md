@@ -1,13 +1,3 @@
-<thinking>
-This form is used to gather information from potential adopters to determine their suitability for adopting an animal from the shelter. 
-The form is designed to be completed by individuals interested in adopting an animal from the shelter. 
-This form ensures that the shelter staff can assess the adopter's ability to provide a safe and suitable environment for the animal. 
-Please ensure you have the necessary information and permissions required to complete this form accurately. 
-Please note that some sections of this form are required, so it's essential to fill them out carefully. 
-Also, please do not duplicate any information that you know the shelter already has about you. 
-Please be honest when answering the questions, as this information will be used to help ensure the animal's well-being. 
-</thinking>
-
 # Animal Adoption Application Form - Help Guide
 ## Purpose
 The Animal Adoption Application Form is a crucial document that helps the shelter assess an individual's or household's suitability for adopting an animal. It's essential to complete this form accurately and honestly to ensure the animal's well-being.

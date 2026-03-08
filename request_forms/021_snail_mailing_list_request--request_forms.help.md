@@ -1,13 +1,3 @@
-<thinking>**Internal reasoning and validation**
-
-This form is designed to collect information from users about their mailing list preferences. To ensure consistency and accuracy, this guide will cover the purpose, completion process, and explanations of each field.
-
-Before proceeding, please ensure that you haven't submitted a similar request in the past. This form is meant to be used for new, unique requests. If you've submitted a similar request, it's likely that the process is already ongoing and you should refer to the existing thread for more information.
-
-The form is divided into several sections. Each field has a specific purpose, which will be explained in detail below. Please note that some fields are optional, which means you can leave them blank if you don't have the information or prefer not to fill them.
-
-</thinking>
-
 # Snail Mailing List Request - Help Guide
 ## Purpose
 The Snail Mailing List Request form is used to collect information from users who want to be included in the company's internal mailing list. This list is used for internal communication and updates.

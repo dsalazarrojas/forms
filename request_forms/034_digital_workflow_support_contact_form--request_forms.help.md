@@ -1,9 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "Digital Workflow Support Contact Form". This form is designed to allow users to submit requests for support with their digital workflow processes. The form is divided into several sections, each with its own set of fields that provide detailed information about the request.
-Before starting to complete this form, please ensure that you are submitting a genuine request for support. If you're unsure about the purpose of this form or whether it's relevant to your needs, please check our support resources or reach out to us directly for assistance.
-Please note that some fields in this form are optional, but providing accurate and complete information will help us better understand and address your request.
-</thinking>
-
 # Digital Workflow Support Contact Form - Help Guide
 ## Purpose
 The Digital Workflow Support Contact Form is designed to collect information from users who need support with their digital workflow processes. It's a crucial tool for us to understand your requests and provide timely assistance.

@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block to validate form purpose and prevent duplication of requests...
-
-This form is used to capture staff development requests from employees, which are then reviewed and approved by managers. The form is designed to collect relevant information about the request, including job title, department, job title ID, job title description, job title level, start and end dates, status, submitted by, approved by, notes, email, phone, address, submitted date, approved date, form notes, employee comments, manager comments, status notes, approval reason, denial reason, and submission date.
-
-Before proceeding, please ensure that you have not already submitted a similar request. If you are unsure about your request, please review your internal notes or contact your HR department for guidance.
-
-...</thinking>
-
 # Staff Development Request Form - Help Guide
 
 ## Purpose

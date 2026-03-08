@@ -1,12 +1,3 @@
-<thinking>Before we dive into the help guide, let's take a moment to understand the form's purpose and requirements. This form is designed for requesting validation of material sources, which involves verifying the authenticity and legitimacy of materials. This form is likely used in industries that require precise information about the origin and quality of materials, such as construction, aerospace, or pharmaceuticals. The form's fields cover essential details about suppliers, materials, and delivery information, which helps in evaluating the legitimacy of the material sources.
-
-To ensure accuracy, users should be aware that each field has specific requirements:
-- `Supplier Info` and `Material Certifications` are mandatory fields with dropdown options.
-- `Material Information 1` and `Material Information 2` are optional fields for numerical data.
-- `Date of Delivery` and `Time of Delivery` are optional fields for scheduling.
-- The rest of the fields are optional and for supplementary information.
-</thinking>
-
 # Material Source Validation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about material sources for validation purposes. Fill out the form with accurate details to help us verify the authenticity and legitimacy of the material sources.

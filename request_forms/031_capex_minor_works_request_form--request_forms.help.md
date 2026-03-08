@@ -1,12 +1,3 @@
-<thinking>
-This form is used for requesting budget allocation for minor works, upgrades, or equipment purchases within an organization. It is an internal request form used to gather necessary information for budgeting and approval processes. This form should only be filled out for genuine requests and not for duplicate purposes, as this may cause delays in the approval process.
-
-To avoid duplicate requests, users should only submit one request per project or task, and ensure that all relevant information is provided to aid in the approval process.
-
-Before filling out this form, please ensure that you have all necessary information and approvals from your direct manager.
-
-</thinking>
-
 # Capex Minor Works Request Form - Help Guide
 ## Purpose
 This form is used for requesting budget allocation for minor works, upgrades, or equipment purchases within an organization.

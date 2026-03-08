@@ -1,8 +1,3 @@
-<thinking>
-  This form is used to request a replacement for a smart access card. A smart access card is a card that grants access to secure areas or systems within an organization. This form is used to submit a request for a replacement card when the original card has been lost, stolen, or damaged. 
-  To ensure that your request is processed efficiently, please ensure that you are not submitting duplicate requests. Check your email and previous requests before submitting this form. If you are requesting a replacement for an employee whose name you are not aware of, please provide as much information as possible in the "Reason for Replacement" field.
-</thinking>
-
 # Smart Access Card Replacement Request - Help Guide
 ## Purpose
 The purpose of this form is to request a replacement for a lost, stolen, or damaged smart access card.

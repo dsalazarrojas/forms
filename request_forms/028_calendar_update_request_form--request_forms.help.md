@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Calendar Update Request Form - Help Guide
 ## Purpose
 The Calendar Update Request Form is used to update existing events or add new ones to the calendar. This form allows users to specify the type of update, event details, and any necessary information for the update.

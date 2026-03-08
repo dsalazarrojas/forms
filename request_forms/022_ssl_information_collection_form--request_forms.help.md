@@ -1,7 +1,3 @@
-<thinking>
-This is a guide for the ssl_information_collection_form to ensure users understand its purpose and how to complete it correctly.
-</thinking>
-
 # ssl_information_collection_form - Help Guide
 ## Purpose
 The ssl_information_collection_form is a request form used to collect information about a website's SSL (Secure Sockets Layer) certificate. This form is used to gather contact details, CSR (Certificate Signing Request) data, domains, SSL type, email address, phone number, domain type, and expiration date for SSL renewal purposes.

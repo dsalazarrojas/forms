@@ -1,11 +1,3 @@
-<thinking>
-This form is used to capture information for a Laboratory Space Lease Letter Of Intent, a document that outlines the terms and conditions for the use of a laboratory space. The purpose of this form is to gather information from the user, who is typically a researcher or a lab manager, to ensure that the laboratory space is being used in accordance with the established guidelines and regulations.
-
-Before filling out this form, please make sure you have the necessary permissions and approvals to use the laboratory space. Also, be aware that this form is not a binding contract, but rather a letter of intent that outlines the proposed terms and conditions for the use of the space.
-
-To avoid duplication of effort, please check if a similar letter of intent has already been submitted for the same laboratory space. If you are unsure, contact the relevant authorities for clarification.
-</thinking>
-
 # Laboratory Space Lease Letter Of Intent - Help Guide
 ## Purpose
 The Laboratory Space Lease Letter Of Intent is a document that outlines the terms and conditions for the use of a laboratory space. This form helps to ensure that the space is being used in accordance with established guidelines and regulations.

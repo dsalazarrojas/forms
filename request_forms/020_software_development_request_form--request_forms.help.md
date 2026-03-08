@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for submitting requests related to software development projects. The goal is to capture essential information about the project, such as its type, description, deadline, and priority level. The form also includes fields for client and team information, as well as project status and assigned tool. This form should be used by project stakeholders, team members, or clients to provide project details for tracking and management purposes. 
-
-Please ensure that you are submitting a genuine request and not duplicating an existing one. This form is not intended for internal use within the organization, so please refrain from submitting internal tasks or requests. 
-
-</thinking>
-
 # Software Development Request Form - Help Guide
 ## Purpose
 This form is used to submit requests related to software development projects. It captures essential information about the project, such as its type, description, deadline, and priority level.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Before creating a promotion request, please make sure the promotion request form is relevant and not a duplicate. If you're unsure, consult with your supervisor or HR department.
 
 # Promotion Request Form - Help Guide

@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for airport drop-off services, typically required when a group of people, including passengers and their belongings, are being dropped off at a destination after a flight. This form helps in ensuring that the drop-off process is well-planned and executed smoothly.
-
-To prevent misuse, this form should only be submitted for legitimate drop-off services. Repeated or multiple submissions by the same user for the same purpose may be flagged for review to avoid unnecessary services.
-
-Before proceeding, ensure that you have the necessary information and permissions to complete this form.
-
-</thinking>
-
 # Airport Drop Off Request Form - Help Guide
 ## Purpose
 

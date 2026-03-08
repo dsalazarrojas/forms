@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request the addition of a payment card reader to the organization's payment system. The purpose of this form is to gather information about the payment card reader, including its category, location, and request type, to determine the best course of action for the request. To avoid duplication of effort and ensure the request is handled correctly, please make sure to:
-* Only submit this form if the request is not already in progress.
-* Ensure that you have filled out all required fields.
-* Double-check that your information is accurate and up-to-date.
-</thinking>
-
 # Payment Card Reader Request Form - Help Guide
 
 ## Purpose

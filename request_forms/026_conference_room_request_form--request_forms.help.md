@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Conference Room Request Form - Help Guide
 
 ## Purpose

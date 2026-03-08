@@ -1,5 +1,3 @@
-<thinking>Refund Request Form is used to document and process refund requests from customers. It helps ensure that refund requests are thoroughly documented and efficiently processed by assigned staff. The form should only be used for legitimate refund requests, and customers should not use this form to request refunds for orders that have already been resolved or cancelled. Before completing this form, please verify that the order has not already been refunded or cancelled.</thinking>
-
 # Refund Request Form - Help Guide
 ## Purpose
 The Refund Request Form is a standardized template for customers to submit refund requests. It collects essential information about the request, allowing staff to efficiently process and manage refunds.

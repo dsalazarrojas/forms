@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we first need to determine its purpose and ensure it's not a duplicate or irrelevant task. This form, "Free Shipping Eligibility Request Form," appears to be intended for customers to request free shipping on their orders. It's possible that customers may be eligible for free shipping based on their shipping method, address, contact method, order date/time, or store location. The goal of this help guide is to clarify the purpose and usage of each field to ensure the customer can complete the form accurately and efficiently.
-
-</thinking>
-
 # Free Shipping Eligibility Request Form - Help Guide
 
 ## Purpose

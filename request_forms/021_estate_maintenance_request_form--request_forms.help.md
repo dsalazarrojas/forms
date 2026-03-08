@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by end-users to request maintenance and upkeep for their estate properties. It is meant to be a straightforward and easily accessible tool for users to report any necessary work on their properties. This form will help us prioritize and schedule the requested work in a timely and organized manner. Before submitting this form, please ensure that you haven't already requested maintenance on the property in question or that you've received a response. If you're unsure about the status of a previous request, please reach out to our team.
-</thinking>
-
 # Estate Maintenance Request Form - Help Guide
 ## Purpose
 The Estate Maintenance Request Form is a tool for users to submit requests for maintenance and upkeep of their estate properties. This form collects information about the property and the work required, which helps us prioritize and schedule the work efficiently.

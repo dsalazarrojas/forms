@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is for requesting a refund related to a vending machine transaction. The goal of the form is to collect information from the customer to process a refund for a specific machine. Before proceeding, please check if you have already submitted a refund request for this transaction. If you have, please do not submit another request.
-</thinking>
-
 # Vending Machine Refund Form - Help Guide
 ## Purpose
 The Vending Machine Refund Form is used to request a refund for a transaction made on a vending machine. Please fill out this form to provide the necessary information to process your refund.

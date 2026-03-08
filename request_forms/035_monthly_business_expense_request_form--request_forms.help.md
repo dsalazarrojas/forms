@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record and track business expenses for the company. To ensure accuracy, please fill out this form for each expense request and submit it to the correct person. Before submitting, please make sure you have the necessary approvals and follow the company's expense policy. Please do not duplicate this form for unnecessary requests.
-
-</thinking>
-
 # monthly_business_expense_request_form - Help Guide
 
 ## Purpose

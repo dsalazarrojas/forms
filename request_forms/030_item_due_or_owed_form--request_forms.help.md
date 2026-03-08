@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to report items that are due or owed, such as rent, bills, or other types of payments. Before filling out this form, please ensure that you have already checked the internal database to verify the item's status. This form should not be used to report items that are still pending or not yet created. If you have already reported this item, do not fill out this form again.
-</thinking>
-
 # Item Due Or Owed Form - Help Guide
 ## Purpose
 The "Item Due Or Owed Form" is used to report items that are due or owed, such as rent, bills, or other types of payments. This form helps the user to provide accurate and up-to-date information about the item's status.

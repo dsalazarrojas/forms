@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a general-purpose form with a variety of input fields to gather information from users. It seems to be designed to collect data for course enrollment capacity purposes. However, without further context, it's difficult to determine the specific requirements and rules for completion. It's essential to review each field carefully to ensure accurate and relevant input. It's also crucial to avoid duplicating information already captured in other forms or sources. Please double-check that all necessary fields are filled out and the information provided is accurate and complete.
-</thinking>
-
 # Course Enrollment Capacity Request Form - Help Guide
 ## Purpose
 The Course Enrollment Capacity Request Form is a tool to collect and track the capacity of courses, allowing for better planning and management of course schedules.

@@ -1,10 +1,3 @@
-<thinking>
-This form template is designed to collect information from users about projects, with fields that cover various aspects of project details, priority, and status. The form includes fields for project name, description, request date, status, project status, priority, project manager, request type, and user input.
-The form is intended to gather information about projects in a structured and organized manner. It is not affiliated with, endorsed by, or derived from any form platform. The form is released under CC BY 4.0 license, allowing for free use, modification, and distribution.
-Before proceeding, ensure that you are not duplicating an existing project, and that your request is relevant to the project requirements.
-
-</thinking>
-
 # Project Request Form Template - Help Guide
 ## Purpose
 This form is designed to collect information about projects from users.

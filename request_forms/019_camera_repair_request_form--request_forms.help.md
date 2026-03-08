@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from camera customers who need repair services. The form aims to gather essential details about the customer, their camera, and the issue they are experiencing. This information helps the repair center to efficiently and effectively diagnose and fix the problem. To ensure that the form is completed accurately and thoroughly, it is recommended that customers review this guide before submitting their repair request.
-
-Please note that this form is for camera repair requests only and should not be used for other purposes. Completing this form does not imply that a repair will be provided, and any subsequent communication will be considered as acceptance of our terms and conditions.
-</thinking>
-
 # Camera Repair Request Form - Help Guide
 ## Purpose
 

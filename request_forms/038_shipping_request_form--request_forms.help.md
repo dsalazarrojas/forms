@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and manage shipping requests. It is likely used by a business or organization to collect information about shipments, including shipping details, contact information, and delivery dates. To ensure accurate and consistent use, please fill out this form carefully and only when necessary.
-</thinking>
-
 # shipping_request_form - Help Guide
 ## Purpose
 This form is used to collect information about shipments, including shipping details, contact information, and delivery dates.

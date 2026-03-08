@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for users who want to indicate that they do not wish to be contacted by the organization at all, either through phone, email, or other methods. This form is meant to be used when a user has a specific reason for not wanting to be contacted and wants to specify their preferred method of contact if they do change their mind in the future.
-
-To avoid unnecessary duplication of requests, this form should be filled out only once. If a user has already completed this form, they should not fill it out again unless their circumstances have changed significantly.
-</thinking>
-
 # Do Not Contact Request Form - Help Guide
 ## Purpose
 This form allows users to indicate their preference not to be contacted by the organization, providing a clear and concise way to communicate their wishes.

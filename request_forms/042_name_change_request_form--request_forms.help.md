@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the Name Change Request Form. This form is intended to be used for individuals who wish to request a name change, whether for personal or other reasons. It is used to gather necessary information for processing the request. This form should only be completed for individuals who have a valid reason for a name change and not for duplicate requests.
 
 </thinking>

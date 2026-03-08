@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for security-related requests from users. The form is likely used to track and manage security incidents, issues, or concerns that require attention from a team or department. 
-
-To avoid duplication and ensure accurate tracking, only new security requests should be submitted through this form. If you have an existing security request, please do not submit a new one. Instead, update the existing request or contact the assigned person directly.
-
-This form is meant to be completed by users who are submitting a new security request. Please ensure that all fields are filled out accurately and relevant to the request.
-
-</thinking>
-
 # Security Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for new security requests, allowing for efficient tracking and management of security incidents, issues, or concerns.

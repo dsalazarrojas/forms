@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help exhibitors request display fixtures for their booth at an event. The form is used to gather information about the exhibitor, their contact information, event details, and display requirements. This guide will help you understand how to fill out the form accurately to ensure that your display fixtures are ordered correctly.
-
-To complete this form, follow the instructions carefully, and make sure to provide accurate information about your needs. The form is divided into sections for exhibitor information, event details, and display requirements. Make sure to review each section carefully and provide all required information.
-
-</thinking>
-
 # Booth Display Fixture Request Form - Help Guide
 ## Purpose
 The Booth Display Fixture Request Form is designed to be completed by exhibitors to request display fixtures for their booths at an event. This form helps the event staff to determine the type and quantity of display fixtures needed.

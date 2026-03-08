@@ -1,5 +1,3 @@
-<thinking>This form is used for employees to submit appeals related to incidents of unfair treatment or discrimination. Before submitting an appeal, it's essential to ensure that the issue hasn't been previously reported or resolved. If you're unsure, you can contact your HR department for guidance. This form should only be filled out by employees who have experienced unfair treatment or discrimination and are seeking resolution or action. Do not use this form to submit general feedback or comments. Please ensure that the information provided is accurate and truthful. If the incident has already been reported or resolved, please do not submit this form again, as it may be considered a duplicate submission.</thinking>
-
 # Appeal Request Form - Help Guide
 ## Purpose
 The Appeal Request Form is designed to allow employees to submit appeals related to incidents of unfair treatment or discrimination. This form is used to provide detailed information about the incident, the action or resolution being sought, and any supporting evidence.

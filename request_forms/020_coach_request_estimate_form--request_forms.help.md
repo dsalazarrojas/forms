@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Coach Request Estimate Form - Help Guide
 
 ## Purpose

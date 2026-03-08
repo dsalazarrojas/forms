@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lighting Adjustment Request Form - Help Guide
 
 ## Purpose

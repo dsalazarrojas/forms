@@ -1,9 +1,3 @@
-<thinking>
-
-The item request form is a tool used by the procurement team to track and manage item requests from storekeepers. It helps to centralize the process of capturing and prioritizing requests, ensuring that they are not duplicated or lost in the process. By using this form, the storekeepers can quickly and easily submit their requests, and the procurement team can efficiently manage them.
-
-</thinking>
-
 # Item Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from storekeepers about items they need or are currently missing. The form is used to track and manage these requests, ensuring that they are processed and fulfilled in a timely manner.

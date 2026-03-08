@@ -1,5 +1,3 @@
-<thinking>Before diving into the help guide, it's essential to understand the purpose of this form is to collect information for the printing of pay stubs for employees. This form should only be used for employees who are requesting their pay stubs to be printed for them. To ensure accuracy and efficiency, please review your request carefully to avoid duplicates or unnecessary submissions. This form will also help identify potential issues or concerns that need to be addressed in a timely manner.</thinking>
-
 # Pay Stub Printing Request Form - Help Guide
 ## Purpose
 The Pay Stub Printing Request Form is designed to collect information for the printing of pay stubs for employees who have requested this service. This form helps in efficiently processing the request and ensures that the pay stub is delivered to the correct person at the correct location.

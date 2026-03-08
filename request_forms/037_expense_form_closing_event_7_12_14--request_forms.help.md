@@ -1,8 +1,3 @@
-<thinking>
-This form is used to gather information for expense reports, specifically to determine if an expense event has been closed. The purpose of this form is to collect the necessary details for the submitter's information, expense details, and supporting documentation. This form is not intended to be used for duplicate submissions, and users should ensure that they are not submitting multiple expense reports for the same event.
-
-</thinking>
-
 # Expense Form Closing Event (7/12 14) - Help Guide
 ## Purpose
 This form is used to gather information for expense reports to determine if an expense event has been closed.

@@ -1,15 +1,3 @@
-<thinking>
-
-To create an effective and user-friendly help guide for this form, we'll first outline the form's purpose and the instructions required to complete it, considering the provided YAML structure.
-
-The form purpose, as described in the YAML metadata, is to assist in generating original adaptation forms inspired by public survey topics in the AI-generated form. The form is designed to gather information and serve as a starting point for creating forms tailored to specific industries and categories. To ensure this process is done efficiently, it's essential that users understand the form's structure and the information each field provides.
-
-The form consists of four pages: job_requisition_form_page_1, job_requisition_form_page_2, job_requisition_form_page_3, and job_requisition_form_page_4. Each page is of type "text," indicating that it's meant to hold free-text responses or descriptions. Since the "required" property for each page is set to "false," it suggests that these pages are optional, meaning users can choose to fill them out if they find the corresponding information relevant or necessary.
-
-Considering the "hint" property for each page is set to "null," it implies there's no specific guidance provided for these fields. Therefore, the explanation of each field will be based on the best-effort intent of the field labels.
-
-</thinking>
-
 # Job Requisition Form - Help Guide
 ## Purpose
 The Job Requisition Form is a tool designed to gather information that can be used to create original forms tailored to specific industries and categories, leveraging public survey topics as inspiration.

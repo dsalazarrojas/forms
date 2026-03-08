@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Translation Request Form - Help Guide
 
 ## Purpose

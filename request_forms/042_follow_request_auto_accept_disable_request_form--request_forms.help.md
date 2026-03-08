@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to follow a request's auto-accept status, which is typically used by system administrators to determine whether a request should be accepted or disabled automatically. This form is used to update the auto-accept settings for a specific request, and the purpose of this form is to ensure that the correct settings are applied. The form is relevant when an administrator needs to update the auto-accept settings for an existing request. It is not necessary to fill out this form if the auto-accept settings have not been changed since the last update.
-</thinking>
-
 # Follow Request Auto Accept Disable Request Form - Help Guide
 ## Purpose
 This form is used to update the auto-accept settings for a specific request. It is used by system administrators to determine whether a request should be accepted or disabled automatically.

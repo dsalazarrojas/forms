@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information about an employee's data access request for HR research purposes. The form is meant to be completed by employees or their representatives to provide necessary details about the request. The form checks for duplication and ensures that only unique requests are processed.
-</thinking>
-
 # HR Research Data Access Request Form - Help Guide
 ## Purpose
 The HR Research Data Access Request Form is used to gather information about an employee's data access request for HR research purposes.

@@ -2,12 +2,6 @@
 ## Purpose
 The purpose of this form is to collect information related to a patient's health insurance claim. It is used to record and process claims in a structured and efficient manner.
 
-<thinking>
-Before filling out this form, please ensure you are authorized to access and submit this claim. This form is intended for patients or their authorized representatives to report their health insurance claims. 
-Please ensure that the claim you are submitting is accurate and true to your experience. 
-If you are submitting a claim that has already been processed or is being processed, please do not duplicate the submission.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

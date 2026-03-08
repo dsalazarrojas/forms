@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I'll create a user-facing help guide for the Event Planner Request Form. This form is designed to collect information about events and gatherings, allowing users to request specific services or resources for their events. To use this form, users should only fill out the required fields and provide as much detail as possible to ensure that their event planning needs are met. Please note that this form is for internal use only and does not collect any sensitive or personal identifiable information. It's also important to check that you're not submitting duplicate requests, as this form is meant to be used for new and original event planning requests.</thinking>
-
 # Event Planner Request Form - Help Guide
 ## Purpose
 The Event Planner Request Form is designed to collect information about events and gatherings to help plan and organize them smoothly. Fill out this form to request specific services or resources for your event, and our team will take care of the rest.

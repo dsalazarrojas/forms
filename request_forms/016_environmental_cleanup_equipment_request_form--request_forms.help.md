@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for requesting environmental cleanup equipment, and it's likely used by internal teams or external stakeholders. Please confirm that this form is relevant to your use case before proceeding. Also, please note that this form is a simple request form and does not have any complex logic or validation, so it's essential to fill it out correctly to ensure that your request is processed accurately.
-</thinking>
-
 # environmental_cleanup_equipment_request_form - Help Guide
 ## Purpose
 This form is used to request environmental cleanup equipment for various types of equipment, including water pumps, filtration systems, and purification systems. Fill out the form to provide necessary information for your request.

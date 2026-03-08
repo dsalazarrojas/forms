@@ -1,24 +1,3 @@
-<thinking>
-To determine the purpose of this form, let's examine the input schema. The form is titled "Relief Agreement For Community Support" which suggests it's related to agreements or contracts for individuals or groups seeking support from a community. The form's input fields suggest it's used for collecting information from potential beneficiaries, such as their name, email, address, phone number, and other details. The fact that it includes fields like "consent_to_guidelines" and "agreement" implies that the form is also used to ensure that individuals understand and agree to certain guidelines or rules.
-
-To check for relevance and non-duplication, let's review the fields:
-
-* "Request Form" (page 1) seems to be the introduction page.
-* "name", "email", "phone", "address", "consent_to_guidelines", "agreement", "follow_up", "organization", "role_in_organization", "contact_person", "contact_info", "role" appear to be basic contact and agreement details.
-* "follow_up_info" and "other_info" are additional details for the individual to provide.
-* "signature", "date", "time", "timezone" seem to be related to the submission process.
-* "error_messages" is not a field for user input.
-
-Considering the form's purpose and fields, it appears that this form is used to collect contact and agreement details from individuals or groups seeking support from a community. It's designed to ensure that individuals understand and agree to certain guidelines or rules, and to collect any additional information that may be relevant for follow-up actions.
-
-Non-duplication considerations:
-* The form seems to be focused on a single type of agreement, and the fields are organized in a way that makes sense for this purpose.
-* There are no fields that seem to be duplicates or unnecessary.
-
-Given this analysis, the form is likely used in a situation where a community needs to manage agreements or contracts with individuals or groups seeking support.
-
-</thinking>
-
 # Relief Agreement For Community Support - Help Guide
 ## Purpose
 The "Relief Agreement For Community Support" form is used to collect contact and agreement details from individuals or groups seeking support from a community. This form ensures that individuals understand and agree to certain guidelines or rules, and collects any additional information that may be relevant for follow-up actions.

@@ -1,5 +1,3 @@
-<thinking>Internal reasoning behind this form is to help users submit new content ideas for review and implementation. This form helps ensure that all relevant information is captured to make informed decisions about content creation and publication. The form should not be used to submit existing content or ideas that have already been implemented. Ensure that you are submitting original ideas and not duplicating existing content.</thinking>
-
 # Content Idea Submission Form - Help Guide
 ## Purpose
 The Content Idea Submission Form is used to submit new content ideas for review and implementation. This form helps ensure that all relevant information is captured to make informed decisions about content creation and publication.

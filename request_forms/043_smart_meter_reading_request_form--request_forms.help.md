@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by customers or users to request meter readings for their smart meters. The purpose of this form is to collect specific information from users regarding their meter readings. This form is not meant to be used for general inquiries or support requests. To avoid confusion, users are advised to only fill out this form if they have a specific request regarding their meter readings. If users are unsure whether they need to fill out this form, they should contact the customer support team for guidance. Before proceeding, please note that this form does not collect unnecessary or redundant information. Users are not required to fill out every field; however, please ensure that all required fields are completed for the form to be considered valid.
-</thinking>
-
 # Smart Meter Reading Request Form - Help Guide
 ## Purpose
 The Smart Meter Reading Request Form is designed to collect specific information from customers or users regarding their smart meter readings. This form helps the customer support team to efficiently process and address meter reading requests.

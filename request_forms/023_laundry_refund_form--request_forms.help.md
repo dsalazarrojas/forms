@@ -1,9 +1,3 @@
-<thinking>
-We should first confirm that the form purpose is to gather information from users to process their laundry refund requests. This form is part of the "request_forms" category and is used to collect detailed information from users to efficiently process their requests.
-The form is split into multiple pages, and each page has its unique set of fields to collect relevant information.
-Before filling out the form, users should review each field to ensure they provide accurate and sufficient information.
-</thinking>
-
 # Laundry Refund Form - Help Guide
 
 ## Purpose

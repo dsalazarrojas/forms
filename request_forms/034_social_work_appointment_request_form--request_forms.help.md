@@ -1,12 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients seeking social work services. The purpose of this form is to schedule an appointment with a social worker. The form is divided into multiple pages, each asking a different set of questions to gather essential information from the client.
-
-**Internal Reasoning:**
-This form is a tool to streamline the process of scheduling appointments for social work services. It is essential to complete the form accurately to ensure that the social worker and the client are on the same page. The form will not collect any information that can be used to identify the client or their personal details. The information collected will only be used for scheduling purposes.
-
-</thinking>
-
 # Social Work Appointment Request Form - Help Guide
 ## Purpose
 The Social Work Appointment Request Form is designed to collect information from clients seeking social work services. Please complete this form to schedule an appointment with a social worker.

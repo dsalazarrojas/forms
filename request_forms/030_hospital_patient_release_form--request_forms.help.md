@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from patients being discharged from a hospital. It is meant to be completed by hospital staff to gather essential details about the patient's release. The form collects various types of information, including demographic data (name, date of birth), contact information (address), medical facility and staff details, medical conditions, and release information (release date, medical facts, and patient signature). This form is designed to be user-friendly and easy to understand, reducing errors and ensuring accurate collection of data.
-
-</thinking>
-
 # Hospital Patient Release Form - Help Guide
 ## Purpose
 This form is used to collect information from patients being discharged from a hospital. It ensures that all necessary details are gathered accurately and efficiently.

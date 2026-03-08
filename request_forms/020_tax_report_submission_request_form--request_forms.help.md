@@ -1,7 +1,3 @@
-<thinking>
-We are going to create a user-facing help guide to support users who will be submitting tax reports. The purpose of this form is to collect information for tax report submissions. Before filling out this form, users should ensure they are submitting a valid request and have all required documents ready for upload. To avoid duplicated submissions, users should check their current submission status in their user portal and only submit new requests if necessary.
-</thinking>
-
 # Tax Report Submission Request Form - Help Guide
 ## Purpose
 The Tax Report Submission Request Form is used to collect information for tax report submissions. This form helps our team gather necessary details to review and process your request efficiently.

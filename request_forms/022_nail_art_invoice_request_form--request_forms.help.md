@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nail Art Invoice Request Form - Help Guide
 ## Purpose
 This form is a request form for nail art services, allowing customers to provide information about their desired nail art design style, contact details, and other relevant information. It ensures that the service provider receives the necessary details to deliver a personalized and high-quality nail art experience.

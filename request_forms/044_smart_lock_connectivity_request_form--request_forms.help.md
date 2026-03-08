@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be a comprehensive guide for customers or users to request assistance with connectivity issues related to their smart locks. The form is designed to gather essential information to troubleshoot and resolve these issues efficiently. It's essential to ensure that the information provided is accurate and complete to expedite the resolution process.
 
 # Smart Lock Connectivity Request Form - Help Guide

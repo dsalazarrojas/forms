@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a request form for reporting lost items or items found on a location. The form likely aims to collect information about the lost item, its location, and the person who reported it. The fields include fields for item name, type, location, and a description of the lost item, as well as fields for the person who reported it and their location.
-
-Before proceeding, I will ensure that this form is not a duplicate of a similar form, and that its purpose is relevant to the target audience.
-
-</thinking>
-
 # Lost and Found Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about lost and found items on a location. You can use this form to report a lost item or an item you found on a location. The collected information will help the location's management team or authorities to identify and locate the item.

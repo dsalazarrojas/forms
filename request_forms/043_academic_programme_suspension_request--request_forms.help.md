@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Programme Suspension Request - Help Guide
 ## Purpose
 This form is used by students to submit a request for academic programme suspension. The form collects necessary information from the student, including their full name, student ID, programme name, reason for suspension, proposed suspension start date, and expected return date. It also asks for supporting documents and comments from academic advisors, if applicable.

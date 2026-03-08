@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be filled out when an employee needs to reschedule a training event. It is intended for internal use within the organization and should only be used for legitimate rescheduling requests. Please do not fill out this form for non-relevant or duplicate requests. The form is used to collect information about the employee's training needs and preferences for rescheduling, including the new training date and time, the manager's name and contact information, and the reason for the change. The form also includes fields for submitting the request and the submitter's contact information.
-</thinking>
-
 # Rescheduled Training Request Form - Help Guide
 ## Purpose
 The Rescheduled Training Request Form is used to request a rescheduled training event.

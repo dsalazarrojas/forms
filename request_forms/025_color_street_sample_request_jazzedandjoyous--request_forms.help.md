@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to confirm form purpose and relevance...
-
-This form is likely to be used for Color Street, a nail polish product brand, to collect user information and preferences for potential future marketing or sales outreach. The form asks for basic contact information (name, email, mailing address, and phone number), favorite colors, nail type preference, and other personal details such as interest in hosting a party or becoming a stylist. The purpose is to engage with potential customers and understand their needs and preferences.
-
-... </thinking>
-
 # Color Street Sample Request - JazzedandJoyous - Help Guide
 ## Purpose
 This form is used by Color Street to collect user information and preferences for potential future marketing or sales outreach. By completing this form, you will be helping us to understand your interests and better serve you.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to search for home and garden items. It is intended to be filled out by users looking for a specific product or product information. To ensure accuracy, we recommend users fill out the form with care and attention to detail. Please note that this form is not intended for users looking to purchase items directly; our system will provide search results based on the information provided. If you're looking for a specific product, try to provide as much information as possible about the product you're looking for. To avoid duplicating requests, please check our search results before submitting this form.
-</thinking>
-
 # Home And Garden Item Search Request - Help Guide
 ## Purpose
 The Home And Garden Item Search Request form is a tool for users to search for specific home and garden products. It helps our system provide accurate search results based on the user's input.

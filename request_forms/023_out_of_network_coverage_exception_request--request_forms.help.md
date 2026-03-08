@@ -1,6 +1,3 @@
-<thinking>
-To ensure that this form is used correctly and consistently, it's essential to clearly explain its purpose and the expected input for each field. This form, titled "out_of_network_coverage_exception_request," appears to be designed to gather information from claimants, particularly regarding their address, phone, email, date of birth, gender, and relationship status, likely for the purpose of verifying or processing requests related to out-of-network coverage. Before proceeding, please confirm that this form meets your specific needs and that you are not duplicating requests already made. If you are unsure about the relevance or have concerns, please seek guidance from your team or supervisor.</thinking>
-
 # out_of_network_coverage_exception_request - Help Guide
 
 ## Purpose

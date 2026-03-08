@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## plc_communication_protocol_configuration_form - Help Guide
 
 ## Purpose

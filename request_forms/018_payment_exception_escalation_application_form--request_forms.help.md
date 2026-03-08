@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user-submitted information for payment exception escalations. A payment exception is a discrepancy that arises during the payment process. This form is used to gather details about such exceptions, which will help in identifying and resolving the issue. The form is optional, meaning users are not required to fill it out, but it's recommended to provide as much information as possible to facilitate efficient processing of the exception.
-</thinking>
-
 # payment_exception_escalation_application_form - Help Guide
 ## Purpose
 This form is used to submit payment exceptions for escalation.

@@ -1,22 +1,3 @@
-<thinking>
-This form is designed for users to request physical access to secure areas within an organization. The purpose of this form is to collect relevant information from the user, including their user type, name, email, department, location, reason for access, and other details necessary for approval. This form will help ensure that access requests are submitted correctly and that the approval process is streamlined.
-
-To complete this form, follow these steps:
-
-1.  Select your user type from the options provided.
-2.  Enter your name.
-3.  Enter your email address.
-4.  Choose your department from the options provided.
-5.  Enter the location you plan to access.
-6.  Specify the reason for your access request.
-7.  Select the date you plan to access the secure area.
-8.  Select the time you plan to access the secure area.
-9.  Enter your shift number (if applicable).
-10. Enter any additional approval details.
-11. Enter any additional submission details.
-
-</thinking>
-
 # Physical Access Security Request Form - Help Guide
 ## Purpose
 This form is designed for users to request physical access to secure areas within an organization.

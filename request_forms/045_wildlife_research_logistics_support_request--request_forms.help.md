@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about wildlife research projects. It's intended for research teams, institutions, or individuals to request support and resources for their projects. This form will be reviewed internally to ensure that the requests are valid and non-duplicative. Please provide accurate and complete information to help us assess your needs.
-
-</thinking>
-
 # Wildlife Research Logistics Support Request - Help Guide
 ## Purpose
 This form is meant to aid research teams in requesting support and resources for their projects.

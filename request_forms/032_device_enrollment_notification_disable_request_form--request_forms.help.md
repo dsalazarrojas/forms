@@ -1,9 +1,3 @@
-<thinking>
-This help guide will cover the Device Enrollment Notification Disable Request Form, which is used to request disabling device enrollment for a team or user. This form is typically completed by a team member or user who wants to remove a device from the enrollment program. The form checks for the team's or user's permission to disable the enrollment and provides the necessary information to process the request.
-
-Before proceeding, please ensure you have the necessary permission to submit this form. If you have already submitted this form for the same purpose and device(s) in the past 7 days, you may not need to submit this form again. Please review the form fields carefully and provide accurate information to ensure a smooth processing of your request.
-</thinking>
-
 # Device Enrollment Notification Disable Request Form - Help Guide
 ## Purpose
 The Device Enrollment Notification Disable Request Form is used to request disabling device enrollment for a team or user. This form is typically completed by a team member or user who wants to remove a device from the enrollment program.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Wallet Access Recovery Request - Help Guide
 
 ## Purpose

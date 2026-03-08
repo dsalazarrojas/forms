@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for users to submit new initiative requests, which can be related to various projects, projects, or programs within an organization. It's likely used by employees, customers, or partners to propose new ideas or improvements. The form is not specific to any particular industry or category, making it a general-purpose tool for gathering information about initiatives.
-
-Before filling out this form, please make sure you have a clear understanding of what you want to propose and that it has not been previously submitted. This will help prevent duplicate submissions and ensure that your request is considered in the most efficient and effective way.
-
-</thinking>
 # New Initiative Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about new initiatives or proposals from users. It's a general-purpose tool for submitting ideas or improvements within an organization.

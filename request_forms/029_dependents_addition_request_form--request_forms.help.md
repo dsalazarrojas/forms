@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about dependents that an employee or their family member is adding to their benefit enrollment. The purpose of this form is to ensure that all necessary details are gathered for processing the dependent's benefits. Please note that this form should only be completed if you are a current employee or their family member adding a new dependent to their benefits. If you have already submitted this form or are not eligible to add dependents to your benefits, please do not complete this form as it may cause delays in your benefits processing. This form is typically used in the following scenarios: Adding a new dependent due to marriage, birth, or adoption.
-</thinking>
-
 # Dependents Addition Request Form - Help Guide
 ## Purpose
 This form is used to collect information about dependents that an employee or their family member is adding to their benefit enrollment.

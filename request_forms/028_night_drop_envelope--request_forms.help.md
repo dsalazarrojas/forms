@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the "night_drop_envelope" form is to collect information from users about their requests, including their first and last name, phone number, email address, and a brief description of their request. This information is likely used to provide a quick and efficient way for users to submit their requests, such as for assistance or support. To ensure that their request is accurately processed, users should ensure that their submission is completed only once and with accurate information.
-
-This guide is intended to help users understand what to expect from the form and how to complete it correctly.
-
-</thinking>
-
 # night_drop_envelope - Help Guide
 ## Purpose
 The "night_drop_envelope" form is a tool for users to submit requests for assistance or support. It is used to collect contact information and a brief description of the issue or inquiry.

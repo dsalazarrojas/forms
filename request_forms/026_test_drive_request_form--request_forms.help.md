@@ -1,13 +1,3 @@
-<thinking>
-
-We have been tasked with creating a comprehensive help guide for the "Test Drive Request Form" to ensure that end-users understand its purpose, how to complete it, and what each field means.
-
-To start, the form is used to request a test drive on a vehicle. It is a critical part of our business process to ensure that potential customers get a hands-on experience with our vehicles. This form helps us to better understand their needs and preferences, making it easier for us to provide the right vehicle for their needs.
-
-We want to ensure that end-users do not submit duplicate forms, hence, we will ask you to review this guide before proceeding.
-
-</thinking>
-
 # Test Drive Request Form - Help Guide
 ## Purpose
 The Test Drive Request Form is used to request a test drive on a vehicle. It is a critical step in our business process to understand potential customers' needs and preferences.

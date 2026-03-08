@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers or stakeholders who are interested in registering their water use optimization programs. This form is used to gather essential details about the program, such as the program name, contact information, and water usage data. Completing this form accurately and thoroughly will ensure that your program's data is properly recorded and utilized for further analysis.
-</thinking>
-
 # Water Use Optimization Program Registration Form - Help Guide
 ## Purpose
 The form is designed to collect registration information for water use optimization programs, enabling us to better understand and support these efforts.

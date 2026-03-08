@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for employees to submit their travel expense reports for reimbursement. The form should only be used for genuine business trips, and not for personal or leisure travel. Please ensure that you have not already submitted a travel expense report for this trip, as duplicate reports will not be accepted. Please also ensure that you have all necessary receipts and supporting documents attached to your report.
-</thinking>
-
 # Travel Expense Report - Help Guide
 
 ## Purpose

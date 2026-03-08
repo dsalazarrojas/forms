@@ -1,11 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Account ID Lookup Request" form, we first need to understand its purpose and ensure it's being used correctly to avoid duplication of effort. This form is designed to collect information from requesters to facilitate the lookup of account IDs. It's essential to use this form only for legitimate requests and not for duplicate or unnecessary searches. 
-
-The form is meant to gather details about the requester, such as their name, email, department, and phone number. It also includes fields to specify the urgency level, reason for the lookup, and customer identifier type. Additionally, the form asks for the account type being searched and any previous search results. The requester can also provide additional context and specify the sensitivity level of the data involved and any compliance requirements. Finally, the form checks for approval needed for the request and allows for any additional comments.
-
-</thinking>
-
 # Account ID Lookup Request - Help Guide
 ## Purpose
 This form is used to request an account ID, ensuring that the requester provides necessary information to facilitate a quick and accurate search. It helps to avoid duplicate searches and unnecessary efforts.

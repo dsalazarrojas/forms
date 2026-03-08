@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # it_services_fee_schedule_request - Help Guide
 ## Purpose
 This form is used to request a fee schedule for IT services. Fill in your required information to submit a request for IT services fee schedule.

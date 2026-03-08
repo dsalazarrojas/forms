@@ -1,8 +1,3 @@
-<thinking>
-This form is for submitting a request for pricing information from the customer. The form is meant to gather details about the customer's inquiry, such as the type of product or service they are interested in, the price range they are looking for, and the type of price inquiry they have. This information will help the business respond to the customer's pricing request accurately and efficiently. Before submitting this form, please ensure that you have not already contacted the team about this specific request, as duplicate requests may lead to unnecessary back-and-forth communication.
-
-</thinking>
-
 # Request For Pricing - Help Guide
 ## Purpose
 This form is designed to collect information about your pricing request from our team. Please fill it out completely and accurately to ensure we can provide you with the best possible response to your inquiry.

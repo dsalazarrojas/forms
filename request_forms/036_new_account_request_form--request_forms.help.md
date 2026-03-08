@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Account Request Form - Help Guide
 
 ## Purpose

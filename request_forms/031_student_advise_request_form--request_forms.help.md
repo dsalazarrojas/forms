@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information from students who are seeking advice or guidance from academic advisors. This form is likely used to ensure that students can easily communicate their needs and preferences for mentorship or academic support.
-To avoid duplication of requests, the form may ask for a unique identifier or timestamp to be filled out by the student. However, this has not been explicitly stated in the provided YAML. 
-</thinking>
-
 # Student Advise Request Form - Help Guide
 ## Purpose
 The Student Advise Request Form is a tool for students to request guidance or advice from academic advisors. It helps to ensure that advisors are aware of the student's needs and preferences.

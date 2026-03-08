@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the "Writing Residency Leave Of Absence Form" which is used to request a residency leave of absence. The form is designed to be completed by individuals who wish to take a leave of absence for a specific period of time. The purpose of this form is to provide relevant information about the leave request, including the reason for the leave, the start and end dates of the residency program, and other supporting details. 
-
-Before proceeding, ensure that you are filling this form for a valid reason and that it is not a duplicate request. If you are unsure, please contact your department or manager for clarification.
-</thinking>
-
 # Writing Residency Leave Of Absence Form - Help Guide
 ## Purpose
 

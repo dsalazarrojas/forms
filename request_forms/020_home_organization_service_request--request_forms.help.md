@@ -1,7 +1,3 @@
-<thinking>
-A service request form for requesting home organization services. This form collects information about the service date, service time, lead qualifier, lead status, and assigned tool for service organization services. To ensure accurate processing of your service request, please ensure you complete all required fields.
-</thinking>
-
 # Home Organization Service Request - Help Guide
 ## Purpose
 The purpose of this form is to request home organization services. Fill out this form to submit a request for service organization services.

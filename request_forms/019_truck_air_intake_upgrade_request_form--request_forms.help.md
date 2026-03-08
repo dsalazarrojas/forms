@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by customers or clients to request upgrades to their truck air intakes. It is an internal tool used by service teams to gather information for upgrading services. It is not intended for external use by the general public. 
-
-To complete this form, please follow the steps below.
-
-</thinking>
-
 # Truck Air Intake Upgrade Request Form - Help Guide
 ## Purpose
 This form is used by customers or clients to request upgrades to their truck air intakes. It is an internal tool used by service teams to gather information for upgrading services.

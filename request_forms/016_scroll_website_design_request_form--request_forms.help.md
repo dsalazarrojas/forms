@@ -76,10 +76,3 @@ Select the time you prefer for your website design completion.
 Make sure to fill out all the fields with accurate information to ensure your website design request is processed correctly.
 If you have any questions or need further assistance, please do not hesitate to contact us.
  
-<thinking>
-This form is designed to collect information about a website design request. Please ensure you have not already submitted a similar request for the same website or project. 
-The website name, description, and URL fields help us identify and prioritize your request.
-Design style, colors, font size, and background image fields allow you to specify the look and feel of your website.
-Name and email fields are used to identify the person submitting the request.
-Date and time fields help us plan the completion of your website design.
-</thinking>

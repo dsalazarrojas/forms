@@ -1,11 +1,3 @@
-<thinking>
-
-We need to ensure this form is used correctly by users and avoid duplicate or incomplete submissions. The Automation Error Report Request Form is designed to collect critical information about errors or issues that occur within our system. This form should only be used to report errors that affect the functionality or performance of our systems. If you are experiencing a non-technical issue or a question, please use our general contact form instead.
-
-Before filling out this form, please review our system's affected systems and environments: Development, Testing, Staging, and Production. Ensure you have permission to report errors on behalf of others. If you have already submitted an error report for this issue, please do not resubmit. 
-
-</thinking>
-
 # Automation Error Report Request Form - Help Guide
 ## Purpose
 The Automation Error Report Request Form is designed to gather information about errors or issues that occur within our systems. This form helps our team quickly identify and address technical problems, ensuring the stability and reliability of our automation processes.

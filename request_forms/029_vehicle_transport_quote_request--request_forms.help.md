@@ -1,22 +1,3 @@
-<thinking>
-This form is intended to gather information for a vehicle transport quote request. It is designed to be filled out by customers or users who need to transport vehicles. 
-The form has the following fields:
-* Vehicle Type: a select-one field to specify the type of vehicle being transported (e.g., Auto, Truck, Motorcycle, etc.)
-* Origin Location: a text field to enter the pickup location of the vehicle
-* Destination Location: a text field to enter the drop off location of the vehicle
-* Type of Transport: a select-one field to specify the mode of transportation (e.g., Air, Ground)
-* Vehicle Size: a select-one field to specify the size of the vehicle (e.g., Small, Medium, Large)
-* Estimated Weight: a number field to enter the estimated weight of the vehicle
-* Vehicle Length: a number field to enter the length of the vehicle
-* Vehicle Width: a number field to enter the width of the vehicle
-* Vehicle Height: a number field to enter the height of the vehicle
-* Vehicle Weight: a number field to enter the weight of the vehicle
-* Additional Cargo Information: a text field to enter any additional cargo information
-* Estimated Cost: a number field to enter the estimated cost of the transport
-
-Please note that this form is not intended to be filled out by users who are not authorized to make requests for vehicle transport quotes. 
-</thinking>
-
 # Vehicle Transport Quote Request - Help Guide
 ## Purpose
 This form is used to gather information for a vehicle transport quote request. It is designed to be filled out by customers or users who need to transport vehicles.

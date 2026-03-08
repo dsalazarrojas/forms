@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly for requesting open access courseware distribution. This form helps users submit requests for distributing courseware to specific locations. The form should only be used for genuine distribution requests, and users should not submit duplicate requests for the same location. This form is intended for users who need to distribute courseware to various locations on specific dates and times.
-</thinking>
-
 # Open Access Courseware Distribution Request Form - Help Guide
 ## Purpose
 The Open Access Courseware Distribution Request Form is a tool for requesting open access courseware distribution. Use this form to submit a request for distributing courseware to a specific location. This form will guide you through the required information for your request.

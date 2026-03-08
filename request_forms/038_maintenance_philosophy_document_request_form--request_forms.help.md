@@ -1,7 +1,3 @@
-<thinking>
-The Maintenance Philosophy Document Request Form is used to submit a new maintenance philosophy document request to the relevant team. The form is intended for employees, contractors, or vendors who need to create a new maintenance philosophy document, which is a crucial record that captures the essential practices, processes, and principles that govern the maintenance and upkeep of equipment, systems, or facilities. This form helps ensure that the maintenance philosophy document is properly documented and reviewed, which in turn helps improve equipment reliability and reduces downtime. The form should only be submitted if the request is genuine and not a duplicate of a previously submitted request. Please make sure to provide accurate and clear information in the form.
-</thinking>
-
 # Maintenance Philosophy Document Request Form - Help Guide
 ## Purpose
 The Maintenance Philosophy Document Request Form is a document that captures the essential practices, processes, and principles that govern the maintenance and upkeep of equipment, systems, or facilities. It is a crucial record that helps improve equipment reliability and reduce downtime.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by event organizers, event managers, or event staff to request electricity sponsorships for their booths or exhibits at an event. This form will help collect information on the power requirements, installation schedule, and approval status of the sponsored booths. The goal is to streamline the process of managing power requests for sponsors, ensuring that all necessary information is collected in a clear and concise manner. To use this form, please check that you have not already submitted a request for the same event and booth. If your request has already been approved or denied, please do not submit this form again. If your request requires changes, please update the existing request instead of creating a new one.
-</thinking>
-
 # Sponsor Booth Electricity Request Form - Help Guide
 ## Purpose
 The Sponsor Booth Electricity Request Form is used to collect information from event organizers, event managers, or event staff to request electricity sponsorships for their booths or exhibits at an event.

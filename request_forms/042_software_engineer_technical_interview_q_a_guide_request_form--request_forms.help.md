@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Software Engineer Technical Interview Q&A Guide Request Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information from customers about their parts requests. This includes their name, email, phone number, the name of the product they're requesting, the quantity they need, and any order notes. This form will likely be used by customers to contact the support team with their requests, so it's essential to have clear and accurate information from them.
-The form has multiple fields, but the form's required fields might be unclear. For a parts request form, the customer name and product name are likely required, while the email and phone are optional. 
-The form should be completed by entering the customer name, selecting the product name, entering the quantity and any additional order notes. 
-</thinking>
-
 # Parts Request Form - Help Guide
 ## Purpose
 The Parts Request Form is a tool used by the support team to collect information from customers about their parts requests.

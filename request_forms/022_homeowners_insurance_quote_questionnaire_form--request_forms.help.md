@@ -1,12 +1,3 @@
-<thinking>
-To ensure the form's purpose is clear, let's break down the form's intention and potential duplication concerns:
-
-The form, "Homeowners Insurance Quote Questionnaire Form," is designed to collect essential information from homeowners to determine their insurance needs. The form is not intended to be a comprehensive assessment tool, but rather a starting point for the insurance agent to understand the client's basic needs and circumstances. To minimize duplication, it's essential to clearly explain each field's purpose and relevance to the overall context of the insurance quote.
-
-The form's fields cover various aspects of the client's life, including contact information (name, contact number, address), demographic details (date of birth, marital status, dependents, employment status), and property-related information (home value, number of rooms, property type, mortgage information). Each field should be explained in a way that helps the user understand its significance and relevance to the insurance quote process.
-
-</thinking>
-
 # Homeowners Insurance Quote Questionnaire Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from homeowners to determine their insurance needs. This form is meant to be a starting point for the insurance agent to understand the client's basic circumstances and provide a quote for insurance coverage.

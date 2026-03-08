@@ -1,6 +1,3 @@
-<thinking>**Internal reasoning block**
-This guide is intended to help users understand the Employee Permanent Residency Assistance Request Form, which is used to record and verify employee permanent residency information. It's designed to ensure accurate and up-to-date documentation of this critical employee data. This form is only applicable when an employee's permanent residency status needs to be updated or verified. Please review the guide below to ensure you understand each field's purpose and requirements before completing the form.</thinking>
-
 # Employee Permanent Residency Assistance Request Form - Help Guide
 
 ## Purpose

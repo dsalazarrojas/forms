@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for users to request support for social media account linking. The form is designed to gather information from users about their account linking issues, which will be used to troubleshoot and resolve these issues.
-</thinking>
-
 # social_media_account_linking_support_request - Help Guide
 ## Purpose
 This form is for users to request support for social media account linking issues. If you are experiencing difficulties linking a social media account, please fill out this form so our support team can assist you in resolving the issue.

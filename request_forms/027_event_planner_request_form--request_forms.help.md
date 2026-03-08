@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is for requesting events in an event planning context, likely for events hosted by the company or organization. It captures essential information such as event name, date, time, and participant details (name, email, phone). The purpose is to gather accurate and detailed information for event planning, likely for invitations, invitations reminders, or other logistical purposes. This form should prevent duplication of events by ensuring unique event names are requested, and the form should be filled out thoroughly and accurately to ensure efficient planning and communication...</thinking>
-
 # event_planner_request_form - Help Guide
 ## Purpose
 This form is designed to collect information for requesting events in our organization. Please fill out this form accurately and thoroughly to ensure efficient planning and communication.

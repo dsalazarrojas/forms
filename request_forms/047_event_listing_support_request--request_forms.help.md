@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used by end-users to request support for event listings. The goal is to provide detailed information about an event in order to troubleshoot or resolve an issue related to it. The form is designed to be filled out by event organizers or team members, and will typically be used to report issues such as incorrect event dates, times, or locations.
-
-To ensure that the form is used correctly, the following checks will be performed:
-
-*   The form will be checked for duplication to prevent multiple requests for the same event.
-*   The event title, date, and location will be checked to ensure that they match the actual event details.
-</thinking>
-
 # Event Listing Support Request - Help Guide
 ## Purpose
 The Event Listing Support Request form is a tool used to report issues or requests related to an event listing. This form is intended to provide detailed information about an event in order to troubleshoot or resolve the issue.

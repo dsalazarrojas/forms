@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect submission information from developers, including the title of the submission, examples of string formats used, and documentation requirements. The form is primarily used for technical submissions that require detailed specifications and string formats.
-
-It is intended for submissions that require technical support from development teams, including lists of teams supporting the submission. However, some fields are optional and can be used for additional context or information about the submission.
-
-Please note that the form is designed with the purpose of collecting relevant data for technical submissions. Please ensure the provided information is accurate and complete to avoid any potential issues with submission processing.
-
-</thinking>
-
 # string_format_submission_form - Help Guide
 
 ## Purpose

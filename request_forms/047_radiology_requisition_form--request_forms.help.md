@@ -1,7 +1,3 @@
-<thinking>
-Are we certain that the form is not a duplicate of the "patient_registration_form" or "radiology_order_form" we created previously? This form "radiology_requisition_form" seems to be more comprehensive with additional fields like "order_description", "order_description", "facility_notes", "patient_notes", and "physician_name" and "physician_signature". If this is a new form with unique features, let's create a separate help guide.
-</thinking>
-
 # Radiology Requisition Form - Help Guide
 ## Purpose
 The Radiology Requisition Form is a comprehensive form designed to facilitate the process of requesting radiology services such as X-ray, MRI, CT Scan, Ultrasound, and Mammogram. This form collects essential information from the patient, healthcare provider, and facility staff to ensure accurate and efficient radiology services.

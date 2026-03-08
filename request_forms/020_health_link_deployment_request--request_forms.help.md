@@ -1,15 +1,3 @@
-<thinking>
-This form is likely used to collect information related to a deployment request. The form is designed to gather details such as deployment date, start date, resources required, schedule, deployment status, and any additional notes. The purpose of this form is to ensure that all necessary information is provided for a smooth deployment process.
-
-To determine if this form is being completed correctly, we check for the following:
-
-- The form is not a duplicate, and a new form is not being submitted for the same purpose.
-- The form is relevant to the intended deployment request.
-
-This form is part of the "request_forms" category.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information related to a deployment request.

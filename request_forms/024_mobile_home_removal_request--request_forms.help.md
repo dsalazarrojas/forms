@@ -1,6 +1,3 @@
-<thinking>
-The internal purpose of this form is to handle mobile home removal requests from users. It is meant to gather information from users to assess whether their mobile home should be removed. This form will be reviewed internally to make decisions based on the provided data. Please ensure that each field is correctly filled out so that our team can process your request efficiently. Duplicate requests will not be entertained.</thinking>
-
 # Mobile Home Removal Request - Help Guide
 ## Purpose
 This form is for users who would like to request the removal of their mobile home from the system. Please note that all requests are internally reviewed before any action is taken.

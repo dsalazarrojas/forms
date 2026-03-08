@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Mechanical Pencil Request Form is used to collect information from employees about their mechanical pencil requests. This form will be reviewed and processed by the management team to ensure that the requests are legitimate and meet the company's requirements. Please ensure that you have reviewed the form carefully before submitting it to avoid duplication and unnecessary requests. Before submitting the form, please ensure you haven't already submitted a request for the same type of pencil.
 
 # Mechanical Pencil Request Form - Help Guide

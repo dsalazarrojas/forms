@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Device Logout Request Form - Help Guide
 ## Purpose
 This form is used to request a device logout, which is a process that removes a user's access to a device. This form is typically used when a user no longer needs or is no longer authorized to access a device.

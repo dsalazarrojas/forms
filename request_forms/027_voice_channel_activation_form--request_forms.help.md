@@ -1,7 +1,3 @@
-<thinking>... internal reasoning block: this form is for users to request activation of a voice channel, which is a feature that allows users to interact with a company through voice assistants like Alexa or Google Assistant. This form helps to collect information about the user's needs and preferences for activation. The form will not be duplicated if the user has already activated the voice channel previously.
-
-</thinking>
-
 # Voice Channel Activation Form - Help Guide
 
 ## Purpose

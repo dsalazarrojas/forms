@@ -1,11 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I'd like to explain the reasoning behind this form: This "Design Approval Form" appears to be designed for collecting feedback and approval from users, specifically designers or stakeholders, on a design project. The form likely serves as a means to communicate the project's design elements, such as color scheme, typography, imagery, and layout, and to receive approval or feedback on these aspects. It also seems to include fields for collecting contact information (email and phone number) and notes, possibly for follow-up or reference purposes.
-
-To ensure the form is not redundant, I will review the form and make sure I don't duplicate any existing forms that serve a similar purpose.
-
-</thinking>
-
 # Design Approval Form - Help Guide
 ## Purpose
 

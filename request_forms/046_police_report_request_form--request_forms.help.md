@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Police Report Request Form - Help Guide
 ## Purpose
 The Police Report Request Form is used to gather information for a police report from a witness or individual who witnessed a crime or incident. This form is used to capture details of what happened, the date and time, location, and other relevant details related to the report.

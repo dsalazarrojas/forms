@@ -1,9 +1,3 @@
-<thinking>Here is a brief internal reasoning block that explains the purpose and relevance of the form:
-
-The "New Buyer Compliance Form" is a critical document that ensures new buyers comply with the necessary regulations and guidelines before proceeding with a purchase. This form helps to gather information about the buyer, including their section preferences and compliance date/time, which is essential for our business operations. By using this form, we can streamline the buying process, reduce errors, and improve overall efficiency.
-
-</thinking>
-
 # New Buyer Compliance Form - Help Guide
 ## Purpose
 The New Buyer Compliance Form is designed to collect information from new buyers to ensure compliance with our business guidelines and regulations. This form helps to verify the buyer's details and preferences before proceeding with the purchase process.

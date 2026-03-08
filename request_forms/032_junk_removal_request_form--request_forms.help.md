@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request the removal of unwanted items such as trash, debris, or other waste from designated areas within a specific date and time. The form is designed to ensure that requests are properly documented and assigned to the correct personnel for efficient processing and disposal. To avoid duplication of efforts, users are asked to only submit new requests for items that have not been previously submitted for removal.
-
-Before submitting a request, please verify that the item has not been previously reported and that the requested date and time for removal is not already scheduled.
-</thinking>
-
 # Junk Removal Request Form - Help Guide
 ## Purpose
 The Junk Removal Request Form is used to submit a request for the removal of unwanted items, ensuring that the process is properly documented and assigned to the correct personnel for efficient processing and disposal.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for an invoice for nail services. It will be used to generate a detailed report for the customer's order, including order details, payment information, and shipping data. This form must be filled out completely and accurately to ensure that the report is generated correctly. Please make sure to fill out each field according to your needs and ensure that all required fields are completed. This form should not be used for duplicate or unnecessary requests.
-</thinking>
-
 # nail_stripes_invoice_request_form - Help Guide
 ## Purpose
 The nail_stripes_invoice_request_form is a comprehensive form used to collect information for an invoice for nail services. It helps to create a detailed report for the customer's order.

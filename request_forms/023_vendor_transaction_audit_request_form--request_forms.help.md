@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request an audit of a vendor transaction. The form is used by the procurement team to gather information about a specific transaction involving a vendor. It is essential to understand that a vendor transaction audit can only be requested if the transaction has been completed or is pending. If the transaction has not been completed or is not pending, a separate request form should be used.
-The purpose of this form is to gather information and provide context about a transaction that may be in question or requires further review.
-</thinking>
-
 # Vendor Transaction Audit Request Form - Help Guide
 ## Purpose
 This form is used to request an audit of a vendor transaction. It is essential to understand that a vendor transaction audit can only be requested if the transaction has been completed or is pending. If the transaction has not been completed or is not pending, a separate request form should be used.

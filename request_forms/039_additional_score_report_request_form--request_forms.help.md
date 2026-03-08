@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used by students and institutions to request additional score reports for a student's standardized exam scores. The form is designed to gather information from the student, including their contact details, exam information, and the reason for requesting the report. The form also includes fields for the recipient's details and the preferred delivery method. The purpose of this form is to ensure that the score report is sent to the correct recipient and in the correct format.
-
-To prevent duplication, this form checks for existing requests before allowing new submissions. This is to ensure that scores are not sent to the wrong recipient and to maintain accurate records.
-
-</thinking>
-
 # Additional Score Report Request Form - Help Guide
 ## Purpose
 This form is used to request additional score reports for a student's standardized exam scores. The form gathers information from the student, including their contact details, exam information, and the reason for requesting the report. The form also includes fields for the recipient's details and the preferred delivery method.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a payment hold from the finance team for a specific vendor. The purpose of this form is to provide a structured way for vendors to submit their payment hold requests, ensuring that all necessary details are captured and reviewed by the finance team. To avoid duplication, this form should only be submitted by authorized personnel and only for valid payment issues. This form is not intended for general payment inquiries or payment disputes that have not been previously approved by the finance team. 
-
-</thinking>
 # Vendor Payment Hold Request Form - Help Guide
 ## Purpose
 This form is used to request a payment hold from the finance team for a specific vendor. A payment hold is used to prevent a vendor from receiving payment for an invoice.

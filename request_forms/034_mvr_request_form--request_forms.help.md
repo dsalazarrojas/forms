@@ -1,6 +1,3 @@
-<thinking>
-The form is used to request a Motor Vehicle Record (MVR) from the relevant authorities. The form is not required to be completed for all users, but is instead intended for those who want to request this information for their own use. Users are asked for personal information, including name, driver license number, date of birth, and address. The form also includes a few fields related to communication, such as email and phone number, which is intended for contacting the user to discuss their request further. The purpose of this form is for users to provide their own information to facilitate their request of an MVR.
-</thinking>
 # MVR Request Form - Help Guide
 ## Purpose
 The MVR Request Form is used for requesting a Motor Vehicle Record from the relevant authorities. It's intended for users who want to obtain this information for their personal use.

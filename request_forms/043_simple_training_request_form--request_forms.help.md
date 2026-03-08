@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from employees to request training sessions. The form should only be filled out by employees to make training requests, not by non-employees or to submit false requests. To prevent duplication, ensure that you are not submitting a duplicate request for the same training session. If you are unsure whether you can submit a request, please consult your supervisor or training manager.
-</thinking>
-
 # Simple Training Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The Financial Insurance Application Request Form is used to collect customer data for a financial insurance application. This form is meant to gather essential information about the customer, such as their contact details, financial history, and employment status. The data collected will be used to determine eligibility for a financial insurance product. Please note that only one person should fill out this form per household.
-</thinking>
-
 # Financial Insurance Application Request Form - Help Guide
 ## Purpose
 The Financial Insurance Application Request Form is used to collect customer data for a financial insurance application. This form is meant to gather essential information about the customer, such as their contact details, financial history, and employment status. The data collected will be used to determine eligibility for a financial insurance product.

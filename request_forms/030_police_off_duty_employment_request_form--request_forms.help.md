@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for Police Department personnel to request time off for employment-related duties. The form is used to notify the Police Department of an employee's need for time off, allowing the department to schedule and approve or deny the request. It's recommended to review the form carefully before filling it out to ensure you've provided all necessary information.
-
-</thinking>
-
 # Police Off Duty Employment Request Form - Help Guide
 
 ## Purpose

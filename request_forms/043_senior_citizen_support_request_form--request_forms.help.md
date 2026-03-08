@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from senior citizens seeking support. It's crucial to ensure that the information provided is accurate and thorough to ensure that the support requested is properly assessed and addressed. To prevent duplication of effort, please do not submit duplicate requests unless there are significant changes to the original request.
-</thinking>
-
 # Senior Citizen Support Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from senior citizens seeking support. The purpose of this form is to gather necessary details to assess and address the support requests.

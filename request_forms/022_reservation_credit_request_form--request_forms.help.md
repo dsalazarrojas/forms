@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Reservation Credit Request Form is to collect information from customers who wish to request a reservation credit. This form is used to capture details about the customer's reservation request, including their contact information, phone number, address, and credit card details. 
 
 When submitting a reservation credit request, please ensure that you are not duplicating a previous request for the same purpose. If you have already submitted a credit request for a similar reservation, please do not submit another form.

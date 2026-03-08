@@ -1,7 +1,3 @@
-<thinking>
-
-This form is designed to collect information about upcoming events, such as whether they are hospitality-related, their date and time of occurrence, the duration of the event, the number of guests expected, how guests can contact the event host, and any additional instructions provided to the event host. The form is meant for internal use within the organization and is not intended to be publicly accessible. This form will be used in conjunction with other forms to gather all relevant information. Please ensure that you only fill out this form when the event is not already scheduled or planned internally to avoid duplication of effort and to maintain accurate records.</thinking>
-
 # events-hospitality-consultation-form - Help Guide
 ## Purpose
 This form is designed to collect information about upcoming events, such as whether they are hospitality-related, their date and time of occurrence, the duration of the event, the number of guests expected, how guests can contact the event host, and any additional instructions provided to the event host.

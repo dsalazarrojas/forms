@@ -1,8 +1,3 @@
-<thinking>
-We will create a help guide for the Ruby Ribbon Sizing Form (Newberry) form, a tool used for measuring and confirming customer measurements for fitting. This form is used to capture the customer's preferred style, height, chest, waist, hip, and body measurements. The form is essential for determining the correct fit of clothing items. To prevent duplicates, we will check if the form has been previously submitted by the customer.
-
-</thinking>
-
 # Ruby Ribbon Sizing Form (Newberry) - Help Guide
 ## Purpose
 The Ruby Ribbon Sizing Form (Newberry) is a form used to collect measurements and style preferences from customers to ensure accurate fitting of clothing items.

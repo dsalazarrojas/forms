@@ -1,9 +1,3 @@
-<thinking>
-This form is likely used by land survey professionals to collect information about a land survey request. It may be used by land surveyors, engineers, architects, or other professionals in the real estate or construction industries.
-The form is probably used to request land survey information from clients or customers. It's designed to collect user information, contact details, land specifics, and other relevant data. The output may include generated files such as reports or maps.
-Before proceeding, the user should ensure that the request is not a duplicate and that the information provided is accurate to the best of their knowledge.
-</thinking>
-
 # Land Survey Records Request Form - Help Guide
 ## Purpose
 This form is designed to collect and document land survey requests from clients or customers.

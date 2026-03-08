@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to request information on the status of a lawsuit claim. This form will help users to look up the claim number and get the necessary information on the claimant's name, firm name, contact person, claim type, case status, and any supporting documents. The form will help to reduce the duplication of requests and ensure that users get the most up-to-date information on the status of the lawsuit claim.
-To prevent duplication of requests, this form will only allow users to submit a request if the claim number is not already being processed. This will help to prevent unnecessary work on the backend and ensure that the users get the accurate and timely information on the status of the lawsuit claim.
-</thinking>
-
 # lawsuit_claim_number_lookup_request - Help Guide
 ## Purpose
 The lawsuit claim number lookup request form is designed to provide users with the necessary information on the status of a lawsuit claim by looking up the claim number.

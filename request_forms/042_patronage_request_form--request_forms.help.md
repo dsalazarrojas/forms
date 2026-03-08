@@ -1,7 +1,3 @@
-<thinking>
-This form is a Patronage Request Form, designed to collect information from individuals who wish to request patronage or support for their work, business, or cause. The form has 25 input fields, each with a unique label and ID.
-</thinking>
-
 # patronage_request_form - Help Guide
 ## Purpose
 This form is intended for individuals or organizations seeking patronage or support for their work, business, or cause. It is a comprehensive tool to gather information about the request, which will be reviewed and considered by our team.

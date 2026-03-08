@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PPP Loan Forgiveness Application Form - Help Guide
 ## Purpose
 The PPP (Paycheck Protection Program) Loan Forgiveness Application Form is a document used to report and apply for loan forgiveness under the PPP program for businesses affected by the COVID-19 pandemic. 

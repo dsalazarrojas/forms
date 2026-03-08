@@ -1,17 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the Flyer Printing Request Form, let's analyze the form's purpose and requirements:
-
-* The form is intended to collect information for printing flyers, which may include business cards, brochures, or any other promotional materials.
-* It appears that the form is used to gather details about the company or organization requesting the printing services, such as their name, contact person, email, and address.
-* Additional information includes contact phone number, job title, and number of pages required for printing.
-* The form also requests specific printing settings, such as paper size, orientation, and color printing options.
-* Finally, it includes fields for ordering quantity, unit price, and subtotal.
-
-Before starting the actual form, we need to check if the request has already been made or if there are any similar requests pending. If you have already submitted a similar request or if you are an authorized personnel, please refer to the original request for more information.
-
-Please follow the steps below to complete the form accurately:
-</thinking>
-
 # Flyers Printing Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for printing flyers. Please fill out the form with accurate and complete details to ensure that your printing request is processed correctly.

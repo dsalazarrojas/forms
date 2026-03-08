@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or end-users about their skilled trade service requests. This form likely serves as a centralized repository for skilled trade service requests, allowing administrators or relevant staff to efficiently manage and fulfill these requests. To ensure accuracy and efficiency, this guide aims to cover the following:
-- Purpose: Clearly understand what type of information this form is meant to collect
-- Relevance: Confirm whether this form is applicable to your use case
-- Non-duplication: Identify if this form is a potential duplicate or variant of existing forms
-
-The following assumptions are based on the provided YAML fields:
-- The form's 'pages' structure suggests a multi-page form with 6 different pages, each with distinct fields for capturing relevant information
-- The presence of 'service description' and 'trade type' fields suggests a form that requires detailed information about the service needed and the trade type it pertains to
-- The form also includes fields for scheduling and contact information, implying that the form is used to request services from skilled tradespeople or companies
-
-Based on the provided YAML fields, this form is likely used for collecting information to facilitate communication between customers and skilled trade services providers, such as requesting a repair, installation, or consultation.
-
-</thinking>
-
 # Skilled Trade Service Request - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their skilled trade service requests. It helps us gather the necessary details to efficiently manage and fulfill these requests.

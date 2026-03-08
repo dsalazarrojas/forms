@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be for requesting shelf label printing services. To ensure the form is complete and accurate, please verify that you are requesting labels for a valid purpose (e.g., new inventory, inventory restocking, etc.) and not for duplicate requests. This guide will walk you through each step to complete the form.
-</thinking>
-
 # Shelf Label Printing Request Form - Help Guide
 ## Purpose
 The Shelf Label Printing Request Form is used to request printing of shelf labels for various purposes such as new inventory, restocking, or other related purposes. Please ensure that the form is filled out accurately and is not a duplicate request.

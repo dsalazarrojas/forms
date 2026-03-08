@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the essential information about the Character Reference Request Form, ensuring users understand its purpose, how to complete it, and what each field means.
-</thinking>
-
 # Character Reference Request Form - Help Guide
 ## Purpose
 The Character Reference Request Form is used to request a character reference from a referee. This form allows you to submit a structured request for a reference, providing essential details to help the referee write a comprehensive and relevant character assessment.

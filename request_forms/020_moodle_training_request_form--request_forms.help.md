@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information for training requests. It is intended for use by users who wish to request training on a specific topic or subject. Please use this form to provide a clear and concise description of your training needs. 
-
-Duplicate requests will be reviewed on a case-by-case basis. 
-
-Please ensure that you are using this form to request training that aligns with your job requirements and responsibilities.
-</thinking>
-
 # Moodle Training Request Form - Help Guide
 ## Purpose
 The Moodle Training Request Form is a tool used to submit a request for training on a specific topic or subject. It is intended for users who wish to enhance their skills or knowledge in a particular area.

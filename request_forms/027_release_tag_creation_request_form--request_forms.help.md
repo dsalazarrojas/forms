@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the creation of a release tag. The purpose of this form is to gather all necessary details to create a release tag, including version, environment, release date and time, description, tag names, requester, approver, and other relevant information. This form is used by team members to submit a request for creating a release tag, and the approver will review and approve the request before the tag is created. This form is a critical part of the release management process, ensuring that all necessary information is collected and documented for future reference.
-</thinking>
-
 # Release Tag Creation Request Form - Help Guide
 ## Purpose
 This form is used to collect information for the creation of a release tag. Please fill out the form carefully to ensure that all necessary details are captured.

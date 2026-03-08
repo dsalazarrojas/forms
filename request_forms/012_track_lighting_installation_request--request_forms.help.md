@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a lighting installation for a customer. The form is likely used in an electrician's or electrical contractor's workflow to gather information about the customer's needs before performing an installation. The form is not intended for use in a public-facing application, but rather as an internal tool to streamline the installation process. 
-</thinking>
-
 # Track Lighting Installation Request - Help Guide
 ## Purpose
 This form is used to collect information from customers requesting a lighting installation. It helps electricians or electrical contractors gather necessary details to complete the installation efficiently and accurately.

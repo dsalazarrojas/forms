@@ -1,7 +1,3 @@
-<thinking>
-This form is a request form for pedagogical innovation consultation. A pedagogical innovation is an idea or approach to teaching and learning that is designed to improve educational outcomes. This form is used to collect requests for consultation on such innovations. The form is intended to be completed by users who wish to consult on pedagogical innovation ideas they have or want to discuss with experts. To avoid duplication, please only submit one request per form.
-</thinking>
-
 # Pedagogical Innovation Consultation Request Form - Help Guide
 ## Purpose
 This form is designed to collect requests for consultation on pedagogical innovations, which are ideas or approaches to teaching and learning that aim to improve educational outcomes. 

@@ -1,11 +1,3 @@
-<thinking>
-
-The "Visitor Request Form" is designed to be completed by visitors to the organization's premises for a variety of reasons. This form is used to track and manage visitor requests, allowing the organization to efficiently process and respond to these requests. 
-
-Before filling out this form, ensure that the visitor has not already completed it or that the purpose of their visit has changed since their last visit. This will help prevent unnecessary submissions and ensure that the correct information is collected.
-
-</thinking>
-
 # Visitor Request Form - Help Guide
 ## Purpose
 The Visitor Request Form is a tool to gather information from visitors to the organization's premises for the purpose of tracking and managing their visits.

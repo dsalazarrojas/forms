@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a life insurance quote. It is not intended for current policies or policy renewals. Please use this form if you are interested in purchasing a new policy or making changes to an existing one. Ensure that you are not submitting duplicate requests, as each request will generate a new quote. This form will guide you through the necessary information required to generate a comprehensive life insurance quote.
-</thinking>
-
 # life_insurance_quote_request_form - Help Guide
 ## Purpose
 This form is designed to help you get a life insurance quote by providing us with necessary personal and policy details.

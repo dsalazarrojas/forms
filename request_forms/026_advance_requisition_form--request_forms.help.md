@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Note:** This form is used for internal purposes to collect advance requisition requests from various departments within the organization. The form is designed to streamline the request process by gathering necessary information from the requester, including item details, quantity, and justification. This guide is intended to ensure that users understand what information is required and how to complete the form accurately.
-
-</thinking>
-
 # Advance Requisition Form - Help Guide
 
 ## Purpose

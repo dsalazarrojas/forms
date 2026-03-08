@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to manage materials release information. The purpose of this form is to document and track the release of materials. To ensure accurate and efficient release, this form helps in providing necessary details such as the type of request, material name, quantity, release date, and contact information. Please fill out this form accurately and thoroughly to avoid duplication of requests.
-</thinking>
-
 # Materials Release Form - Help Guide
 ## Purpose
 The Materials Release Form is used to document and track the release of materials. This form captures essential details that help manage materials release effectively.

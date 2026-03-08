@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication and ensure that this form is filled out correctly, please note that you are submitting a request for meeting room blinds installation. This form is used to gather necessary information from the person or entity requesting the installation. Ensure that all required fields are filled out accurately and thoroughly.
-
-</thinking>
-
 # Meeting Room Blinds Installation Request - Help Guide
 ## Purpose
 This form is used to request installation of blinds in a meeting room. To provide accurate information for installation, it is essential to fill out all required fields.

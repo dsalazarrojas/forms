@@ -1,10 +1,3 @@
-<thinking>
-This form is for configuring browsing restrictions on a network or device. Browsing restrictions are a way to control what websites or content users can access within a network or device. This form is used by requesters to specify the restrictions they want to apply to a specific user, group, or device. The form ensures that the restrictions are properly configured and documented for the requester and the administrator.
-
-This form will only be used for configuring restrictions that are not already in place. If a restriction already exists, please do not fill out this form.
-
-Please note that this form is for configuring restrictions, not for requesting access to restricted resources. To request access to restricted resources, please use the Access Request Form.</thinking>
-
 # Browsing Restrictions Configuration Form - Help Guide
 ## Purpose
 This form allows you to configure browsing restrictions on a network or device. You can specify the user, group, or device to apply the restrictions to, as well as the websites or content to block or allow.

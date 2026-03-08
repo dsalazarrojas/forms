@@ -1,13 +1,3 @@
-<thinking>
-# Purpose: This form is designed to collect information about work order requests from customers. 
-The form asks for basic customer information and details about the work order, 
-such as service type, location, description, and schedule information.
-The form is intended to be a simple and concise way to capture the essential 
-information needed for efficient work order processing.
-Please ensure that you are filling out a single form per customer request.
-If you need help with a similar request or have questions, please reach out to us.
-</thinking>
-
 # Work Order Request Form - Help Guide
 ## Purpose
 The Work Order Request Form is a simple form designed to gather essential information about customer requests.

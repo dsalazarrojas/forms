@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a music-related service or product from the music studio. It's essential to fill it out accurately to ensure that your request is properly processed. Please note that this form is not meant to be a replacement for other forms, and it's only for specific music-related services. If you're unsure about the type of service you need, please reach out to the music studio team for guidance.
-</thinking>
-
 # music_studio_request_form - Help Guide
 ## Purpose
 The music_studio_request_form is used to request a music-related service or product from the music studio. It's a simple form with several fields that help the music studio team understand your needs.

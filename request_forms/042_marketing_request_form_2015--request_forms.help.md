@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect marketing requests from users. The form is used to gather information from requestors about their marketing activities and communication methods. It is not intended to be a comprehensive survey, but rather a simple and efficient way to capture essential details. To ensure that the form is filled out correctly, please read the following guide carefully.
-</thinking>
-
 # Marketing Request Form 2015 - Help Guide
 ## Purpose
 The Marketing Request Form 2015 is a tool designed to collect marketing requests from users. It is intended to gather information about the requestor, their marketing activities, and communication methods.

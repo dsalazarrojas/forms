@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for Sigma Shout Outs, which is a feature that allows users to recognize and reward colleagues for their outstanding work and contributions. This form is used to create a shout out for a team member, including their name, contact information, and a message to acknowledge their achievement.
-Before filling out the form, ensure that you're not duplicating efforts and that the person you're nominating is deserving of recognition. If you're unsure, consider discussing with the team lead or mentor to confirm.
-</thinking>
-
 # Sigma Shout Outs - Help Guide
 ## Purpose
 The Sigma Shout Outs form is used to collect information for recognizing and rewarding team members for their outstanding work and contributions.

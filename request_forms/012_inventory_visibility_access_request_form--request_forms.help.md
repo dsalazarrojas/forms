@@ -1,12 +1,3 @@
-<thinking>
-This form is used by employees to request access to a specific inventory item within the organization. The goal of this form is to provide a standardized way for employees to submit requests for access to inventory items, ensuring that all necessary information is collected and reviewed. 
-
-To ensure that all relevant requests are reviewed, it is essential that this form is used for this specific purpose only, and duplicate requests should be avoided.
-
-The following help guide explains how to complete and submit the Inventory Visibility Access Request Form.
-
-</thinking>
-
 # Inventory Visibility Access Request Form - Help Guide
 ## Purpose
 The Inventory Visibility Access Request Form is a standardized form used to request access to inventory items within the organization. This form helps ensure that all necessary information is collected and reviewed for approval.

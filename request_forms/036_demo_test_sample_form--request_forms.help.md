@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # demo_test_sample_form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is used to gather information about a property's energy consumption and infrastructure. The purpose of this form is to collect data on various aspects of a property, including its energy efficiency features, insulation, and systems.
-</thinking>
 # property_clean_energy_data_request_form - Help Guide
 ## Purpose
 This form is designed to collect information about a property's energy consumption and infrastructure. It is intended to help assess the property's energy efficiency and identify areas for improvement.

@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand what the Dossier Request Form is and how to fill it out. 
-</thinking>
-
 # Dossier Request Form - Help Guide
 ## Purpose
 The Dossier Request Form is a document used to submit a formal request for a dossier. This form gathers information from the submitter and allows them to request a dossier for specific purposes such as new hire, transfer, or separation.

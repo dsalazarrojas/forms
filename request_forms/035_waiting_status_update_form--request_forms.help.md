@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "Waiting Status Update Form" is to allow users to update the status of waiting requests, providing critical information to the assigned users and follow-up contacts. This form is essential for ensuring that requests are properly managed and communicated throughout the process.
-To avoid confusion and ensure accurate updates, please fill out this form carefully and accurately. Before submitting, review your answers for completeness and correctness.
-</thinking>
-
 # Waiting Status Update Form - Help Guide
 ## Purpose
 The "Waiting Status Update Form" is used to update the status of waiting requests, providing essential information to assigned users and follow-up contacts.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a song request, including song details and requester details. The purpose of this form is to gather relevant information to facilitate the processing and fulfillment of song requests. It is essential to complete this form correctly to ensure that the information is accurate and can be used efficiently.
-
-The form is divided into several pages, each focusing on a specific aspect of the song request.
-
-**Note:** This form is not designed to be a mandatory form and is intended for optional use.
-
-</thinking>
-
 # song_request_form--request_forms - Help Guide
 ## Purpose
 This form is used to collect information about a song request, including song details and requester details. It is intended for optional use and is designed to gather relevant information to facilitate the processing and fulfillment of song requests.

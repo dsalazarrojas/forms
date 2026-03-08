@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hearing Request Submission - Help Guide
 ## Purpose
 The Hearing Request Submission form is designed to collect information about a hearing request. This form is used to gather details about the requestor, the hearing date, and the start and end times.

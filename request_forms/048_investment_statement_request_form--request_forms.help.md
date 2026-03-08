@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an investment statement, which is a document that provides information about an individual's investments. Before proceeding, please ensure that you have not already submitted this request and that the information you provide is accurate and up-to-date. To complete this form, follow the instructions below.
-</thinking>
-
 # Investment Statement Request Form - Help Guide
 ## Purpose
 This form is used to request an investment statement, which is a document that provides information about an individual's investments.

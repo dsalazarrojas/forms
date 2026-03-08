@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information related to waste recycling practices from end-users. The "Waste Recycling Form" is a crucial tool for monitoring and analyzing recycling data. Before proceeding with this form, please ensure that you are not filling out a duplicate submission, as this can lead to inconsistent data. Additionally, the information collected will be reviewed internally to better understand current recycling practices and optimize future waste management efforts.
-</thinking>
-
 # Waste Recycling Form - Help Guide
 ## Purpose
 The "Waste Recycling Form" is designed to help our organization gather essential information about waste recycling practices among its community. This form aims to collect detailed insights on the types, quantities, and descriptions of waste generated, which will assist in developing more effective recycling programs and reducing waste effectively.

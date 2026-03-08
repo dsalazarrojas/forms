@@ -1,13 +1,3 @@
-<thinking>**Form Designer's Internal Note:**
-
-The purpose of this form is to gather information from retail employees to request shifts at a specific store. This form is meant to be used when an employee needs to schedule a new shift or adjust their existing schedule. The form includes fields for employee information, shift details, and personal notes. It's essential to ensure that the employee fills out the form accurately and completely, as it will be used to process their schedule request.
-
-Please note that some fields are optional or have multiple selections. Ensure that employees fill out all required fields and provide clear explanations for their shift status and reason.
-
-When reviewing the form, check for any duplication of requests, especially if it's related to the same shift or store. Verify that the employee's availability matches their scheduled shifts.
-
-</thinking>
-
 # Retail Employee Schedule Request Form - Help Guide
 ## Purpose
 The Retail Employee Schedule Request Form is used to submit a new schedule request or adjust an existing one for retail employees.

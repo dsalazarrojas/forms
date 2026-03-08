@@ -1,11 +1,3 @@
-<thinking>
-This help guide is for the Audio Visual Setup Request Form, which is used to request audio-visual equipment and technical services for events. Before filling out this form, please note that it is intended for requesting AV services for single or recurring events. If you are looking to reserve a room or book a service for a series of events, please use the corresponding form for that purpose.
-
-This form is designed to collect necessary information from the requestor, including their contact details and event requirements. Please fill out the form accurately to ensure that the AV team can provide the correct services and equipment for your event.
-
-Please make sure to fill out this form only once for each event, and avoid duplicating this form for recurring events. If you have any questions or need help with the form, please reach out to the AV team.
-</thinking>
-
 # Audio Visual Setup Request Form - Help Guide
 ## Purpose
 The Audio Visual Setup Request Form is used to request audio-visual equipment and technical services for events. This form collects information from the requestor and event organizers to ensure that the AV team can provide the right equipment and support for each event.

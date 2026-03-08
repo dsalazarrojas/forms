@@ -1,10 +1,3 @@
-<thinking>
-This form is for requesting a shift swap with a team member. It's essential to ensure that the form is completed accurately to facilitate a smooth shift swap process. 
-Please make sure to only submit a shift swap request when it is absolutely necessary. Repeatedly submitting false requests may lead to a negative impact on team morale and work efficiency. 
-Please ensure that you are submitting a valid shift swap request and follow all required procedures to avoid any issues in the future. 
-
-</thinking>
-
 # shift_swap_request_form - Help Guide
 ## Purpose
 This form is used to request a shift swap with a team member. You can use it to swap shifts with a colleague for any reason.

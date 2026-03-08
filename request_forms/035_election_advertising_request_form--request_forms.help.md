@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for election advertising requests. It is intended for internal use by authorized personnel. To ensure accurate and efficient processing, please fill out the form completely and accurately.
-</thinking>
-
 # Election Advertising Request Form - Help Guide
 ## Purpose
 The Election Advertising Request Form is a tool for submitting requests for election advertising services. This form helps authorized personnel gather necessary information to process and fulfill your request.

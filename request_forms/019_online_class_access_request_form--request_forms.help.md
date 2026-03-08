@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_class_access_request_form - Help Guide
 
 ## Purpose

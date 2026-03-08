@@ -1,7 +1,3 @@
-<thinking>
-We want to provide an intuitive experience for end-users to fill out this form without confusion or frustration. Before proceeding, we need to verify that the form's purpose is to collect information necessary for a customized analysis request. This form should not be used for other types of requests or inquiries. Please confirm that you understand the purpose of this form and that it aligns with your needs.
-</thinking>
-
 # Request Customized Analysis - Help Guide
 ## Purpose
 The Request Customized Analysis form is designed to gather information for a customized analysis request. This form allows you to provide detailed information about your project, which will be used to tailor the analysis to your specific needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to request the allocation of press tables for a specific event or purpose. The form is typically used by event organizers or coordinators to request press tables for journalists, photographers, or other media personnel. To ensure that you complete the form correctly, please review the instructions and explanations provided below.
-</thinking>
-
 # Press Table Allocation Request Form - Help Guide
 ## Purpose
 The Press Table Allocation Request Form is designed to allow users to request the allocation of press tables for a specific event or purpose.

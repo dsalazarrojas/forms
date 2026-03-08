@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect project information for internal project requests within the organization. It is intended for use by project requesters and project managers to track and manage project requests. This guide will help you understand how to complete the form correctly and what each field means.
-
-Before starting, please ensure that you are using the correct form and that you have all the necessary information. If you need help with project requests, please reach out to your project manager or support team for assistance.
-
-This form should only be completed for project requests that require specific resources or support. If you need to create a new project, please use the project creation tool.
-</thinking>
-
 # Project Request Form - Help Guide
 
 ## Purpose

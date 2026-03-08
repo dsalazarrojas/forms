@@ -1,7 +1,3 @@
-<thinking>
-To determine if this form is relevant to the user's request, it's essential to check if the "Maintenance Type" field is set to "Yes", indicating that it's a maintenance request form. Also, to avoid duplication of requests, we should check if there's an existing request with the same "Contact Number" and "Contact E-mail" fields. If these conditions are met, the form can be used by the user to submit their maintenance request.
-</thinking>
-
 # Maintenance Request Form - Help Guide
 ## Purpose
 The Maintenance Request Form is used to submit maintenance requests for tools and equipment. Fill out this form to request assistance for any issues you're experiencing with your assigned tool.

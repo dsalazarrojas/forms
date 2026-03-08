@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users complete the Domestic Communication Request Form. Please ensure that you have a valid reason for submitting this form and that you have not already submitted a similar request before. This form is meant to facilitate internal communication between employees, and the information provided will be used to coordinate internal follow-up activities.
-</thinking>
-
 # Domestic Communication Request Form - Help Guide
 ## Purpose
 This form is designed to capture essential information required for domestic communication, allowing us to coordinate internal follow-up activities efficiently. The information you provide will help us connect with your internal stakeholders effectively.

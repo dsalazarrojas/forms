@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect users' preferences regarding data sharing, marketing, and other related information under the General Data Protection Regulation (GDPR) guidelines. To ensure the form is completed correctly, please note that it is intended for users who have already been informed about our company's policies and are consenting to their data being shared. Please fill out the form accurately and truthfully to ensure your preferences are registered correctly. Please avoid submitting duplicate entries, as this form is for individual users' personal data sharing preferences. If you have any issues or concerns, please contact our support team. 
-
-</thinking>
-
 # GDPR Preference Collection Form - Help Guide
 ## Purpose
 The GDPR Preference Collection Form is a crucial document that helps us understand and manage your data sharing preferences. By filling out this form, you will be able to indicate your willingness to share your data with us or our partners, as well as how you would like to be contacted for marketing purposes.

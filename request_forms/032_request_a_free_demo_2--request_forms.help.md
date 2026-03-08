@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # request_a_free_demo_2_request_forms - Help Guide
 
 ## Purpose

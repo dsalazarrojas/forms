@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from requestors seeking cultural heritage media rights. It captures details about the requestor and the institution or organization they are requesting on behalf of. The form is intended to gather essential information about the media item, its format, and the rights holder. It's crucial to fill out this form accurately to ensure that the request is processed correctly and efficiently.
-</thinking>
-
 # cultural_heritage_media_rights_request_form - Help Guide
 ## Purpose
 The cultural heritage media rights request form is a tool for requestors to submit requests for cultural heritage media rights. This form helps to ensure that the necessary information is collected to process the request correctly and efficiently.

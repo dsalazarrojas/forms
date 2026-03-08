@@ -1,7 +1,3 @@
-<thinking>
-This form was generated using AI to provide a helpful guide for end-users. It's designed to gather information about delivery and installation details in a clear and concise manner. This form is not affiliated with or derived from any popular form platforms, and its content is original and adapted from public survey topics. The form's purpose is to collect essential details for the delivery and installation process, which will be used for further reference and processing.
-</thinking>
-
 # Delivery & Install Wizard - Help Guide
 ## Purpose
 The "Delivery & Install Wizard" form is a tool designed to gather information about delivery and installation details in a straightforward and efficient manner. This form will help you collect the necessary details to facilitate a smooth and successful delivery and installation process.

@@ -1,7 +1,3 @@
-<thinking>
-We're creating this form to help users request access to materials needed for audits and reference purposes. This form is essential for ensuring that the right materials are provided to the right people at the right time. We want to encourage users to provide as much detail as possible so we can fulfill their requests efficiently and effectively. We'll review each request to prevent duplication and ensure that we're not over-issuing materials. Please note that this form is only for requesting materials for internal and external audits, as well as financial, accounting, compliance, risk management, and legal purposes. This form is not for requesting materials for other purposes not listed here.
-</thinking>
-
 # Audit Reference Material Request Form - Help Guide
 ## Purpose
 The Audit Reference Material Request Form is designed to collect essential information for users to request access to materials needed for audits and reference purposes.

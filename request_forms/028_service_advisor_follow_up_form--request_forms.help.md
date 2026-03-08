@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by a service advisor after completing a service visit or interaction with a customer. Its purpose is to gather feedback and insights from the customer on their experience, which can help the service advisor to understand the customer's satisfaction and identify areas for improvement. This form should only be completed if the customer has not already provided feedback through other channels, such as phone calls or emails. 
-</thinking>
-
 # Service Advisor Follow Up Form - Help Guide
 ## Purpose
 The Service Advisor Follow Up Form is used to gather feedback and insights from customers after a service visit or interaction. This form helps the service advisor to understand the customer's satisfaction and identify areas for improvement.

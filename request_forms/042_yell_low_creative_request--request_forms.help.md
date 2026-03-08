@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose and usage of this form, I will analyze the input fields provided in the YAML configuration. This form appears to be a request form for a creative project, likely for a client to provide information about their project. The fields suggest that the client needs to submit details about their project, including the project type, name, description, contact information, deadline, location, and budget.
-
-To ensure that the form serves its intended purpose and to prevent duplication, it should be used by clients to submit new project requests, and not for any other purpose. If used for other purposes, it could lead to unnecessary processing and confusion within the team.
-
-The form should be used by clients to submit new project requests, and not for existing projects or any other purpose.
-</thinking>
-
 # Yell Low Creative Request - Help Guide
 ## Purpose
 This form is a request form for a creative project. It is designed to collect information from clients about their project needs and requirements.

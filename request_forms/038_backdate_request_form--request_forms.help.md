@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting a backdate for a record or transaction. Backdating refers to changing the date of a record or transaction to a date in the past. This form is used to ensure that records are accurate and consistent. Please note that backdating may have implications for financial reporting, payroll, and other areas, so it's essential to provide a clear explanation and justification for the request. Before submitting, check that the form has not been previously submitted, and that you have the necessary permissions and approvals in place. 
-</thinking>
-
 # Backdate Request Form - Help Guide
 ## Purpose
 The Backdate Request Form is used to request a change in the date of a record or transaction. This ensures that records are accurate and consistent.

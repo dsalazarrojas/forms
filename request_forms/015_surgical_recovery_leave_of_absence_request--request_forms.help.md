@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for employees to request a leave of absence for surgical procedures. It's essential to fill out this form thoroughly and accurately to ensure that your request is processed promptly and correctly. Before submitting this form, please note that you should not submit duplicate requests. If you have already submitted a request for the same surgery date, please do not resubmit another request.
-</thinking>
-
 # Surgical Recovery Leave Of Absence Request - Help Guide
 ## Purpose
 The Surgical Recovery Leave Of Absence Request form is a form used by employees to request a leave of absence for a surgical procedure. This form helps ensure that your request is processed correctly and promptly.

@@ -1,7 +1,3 @@
-<thinking>
-Are you creating a help guide for a form used for testing webhooks? This guide will help users understand the form's purpose, how to complete it, and what each field means. Before we dive into the guide, please note that this form was AI-generated using public survey topic metadata, and it's an original adaptation, not copied or derived from any proprietary form platforms.
-</thinking>
-
 # Webhook Testing Form - Help Guide
 ## Purpose
 This form is designed to help you test your webhooks and ensure they're working as expected. Fill out the form with details about your webhook's category, description, output file, assigned tool, event type, attachments, and payload.

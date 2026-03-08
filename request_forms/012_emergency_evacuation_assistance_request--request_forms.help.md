@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about emergency evacuations. It will help us assess and respond to the situation effectively.
-To ensure that we provide the best possible assistance, please fill out the form accurately and thoroughly.
-If you have filled out this form before, please review your previous submissions before proceeding.
-</thinking>
-
 # Emergency Evacuation Assistance Request - Help Guide
 ## Purpose
 This form is used to collect information about emergency evacuations that require assistance. Please provide as much detail as possible to help us respond to your situation efficiently.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request access to the virtual desktop, which is a virtualized environment for users to work on specific projects. The form is used to gather information from users requesting access, including their name, job title, department, team, reason for request, manager's name, manager's email, and manager's phone number. The form also includes fields for the date and time of the request, as well as the manager's approval status, comments, and approval date/time. This form is used to ensure that all requests are properly reviewed and approved before access to the virtual desktop is granted.
-
-</thinking>
-
 # Virtual Desktop Access License Request Form - Help Guide
 ## Purpose
 This form is used to request access to the virtual desktop, a virtualized environment for users to work on specific projects.

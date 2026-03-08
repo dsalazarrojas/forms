@@ -1,9 +1,3 @@
-<thinking>
-The Sound Design Enhancement Request Form is used to collect project-related information from project stakeholders for sound design enhancements and improvements. This form helps project managers to gather essential details to better understand project requirements and to facilitate collaboration among team members. 
-It is essential to fill in the form accurately and comprehensively, ensuring that the submitted information is complete, up-to-date, and correct.
-Please review the following fields carefully and provide the required information. 
-</thinking>
-
 # Sound Design Enhancement Request Form - Help Guide
 ## Purpose
 The Sound Design Enhancement Request Form is used to gather project-related information for sound design enhancements and improvements.

@@ -1,20 +1,3 @@
-<thinking>
-
-This form is designed to help users create a Birthday Wish List for themselves or their loved ones. The form guides the user through a series of questions and prompts to help them create a comprehensive list of desired gifts, experiences, and preferences. This information can be shared with friends and family to help them give more meaningful and personalized gifts.
-
-The form consists of several sections, including:
-
-* Birthday person information (name, birthday date, age, email address, and phone number)
-* Gift preferences (budget range, gift style, and specific interests)
-* Wish list items (up to 5 items with descriptions, price ranges, and links to purchase)
-* Experience wishes (up to 3 experiences)
-* Special requests (charitable donation preferences, gift recipient details, and allergies or restrictions)
-* Sharing options (who to share the wish list with and any additional notes)
-
-By filling out this form, users can create a clear and concise list that will help gift-givers understand their preferences and interests.
-
-</thinking>
-
 # Birthday Wish List Template - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information and request approval for patients who are considering or have already been prescribed Nirsevimab, a medication that requires careful evaluation before administration. The form will be reviewed by medical staff to assess eligibility and approval status. Please note that this form will not be used for duplicate requests or to request multiple approvals. 
-Please fill out this form completely and accurately to help expedite the review process.
-</thinking>
-
 # Nirsevimab Eligibility And Approval Request Form - Help Guide
 ## Purpose
 This form is used to request approval for Nirsevimab, a medication that requires careful evaluation before administration. Patients can fill out this form to provide their information and submit a request for approval.

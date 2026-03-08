@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from store owners who wish to suggest domain names for their ecommerce stores. The form is intended for internal use and is not affiliated with or endorsed by any specific form platform. The form's purpose is to gather specific details from store owners to better understand their domain name requirements and suggest suitable domain names accordingly.
-</thinking>
-
 # Ecommerce Domain Name Suggestion Request - Help Guide
 ## Purpose
 This form is a tool for store owners to provide information about their ecommerce business, including the type of business they operate, their location, and their domain name preferences. The goal is to provide store owners with suitable domain name suggestions that meet their needs.

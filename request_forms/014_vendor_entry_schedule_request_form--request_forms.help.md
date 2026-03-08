@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors about their schedule entry. The purpose of this form is to gather essential details such as vendor name, entry date and time, duration, site access, and any contact phone number. This form will help the management team to coordinate and schedule the vendor's entry efficiently. 
-
-When filling out this form, ensure that you are using it for the correct purpose and not duplicating a request that has already been made. This form is meant for individual requests and not for batch submissions. 
-</thinking>
-
 # Vendor Entry Schedule Request Form - Help Guide
 ## Purpose
 The Vendor Entry Schedule Request Form is designed to collect essential information from vendors about their schedule entry. This form helps the management team to coordinate and schedule the vendor's entry efficiently.

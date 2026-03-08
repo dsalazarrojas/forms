@@ -1,13 +1,3 @@
-<thinking>...This form is designed for maintenance requests in a residence setting. It is used to document and track maintenance activities, such as repairs, replacements, and other upkeep tasks. The form captures essential information about the request, including the maintenance type, priority, and status. It also includes fields for the requester's contact information and any additional comments or attachments.
-
-This form is intended for maintenance team members to gather and manage maintenance requests efficiently. Please ensure that you are submitting a genuine request and not duplicating an existing one.
-
-Before submitting this form, please make sure you have the necessary permissions and approvals to make a maintenance request.
-
-Also, note that this form is not meant for emergency or urgent maintenance requests. For critical issues, please contact your supervisor or maintenance team directly.
-
-...</thinking>
-
 # Residence Maintenance Request Form - Help Guide
 ## Purpose
 The Residence Maintenance Request Form is used to document and track maintenance activities, such as repairs, replacements, and other upkeep tasks, in a residence setting.

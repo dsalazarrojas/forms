@@ -1,7 +1,3 @@
-<thinking>
-To help me create a user-friendly help guide for the Service Downgrade Request Form, I need to understand the form's purpose and the fields it contains. Based on the provided YAML, I see that the form is used to handle requests to downgrade a service and includes fields for details about the downgrade, reason for the request, approval, and comments. The purpose of this form is likely to provide a structured way for customers or users to submit their service downgrade requests with relevant information and receive approval.
-</thinking>
-
 # Service Downgrade Request Form - Help Guide
 ## Purpose
 This form is used to submit requests to downgrades a service. Please fill out the form with the required information to help us process your request.

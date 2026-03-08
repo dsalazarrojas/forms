@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Funeral Place Guest Book Request Form - Help Guide
 
 ## Purpose

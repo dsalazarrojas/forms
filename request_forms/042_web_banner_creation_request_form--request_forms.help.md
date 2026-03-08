@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-# Web Banner Creation Request Form - Help Guide
+> # Web Banner Creation Request Form - Help Guide
 ## Purpose
 This form is designed to help teams create web banners for various purposes. It captures essential information required for web banner creation, including image, title, description, and other relevant details. Fill out this form to submit your request and our team will create an engaging and effective web banner for you.
 

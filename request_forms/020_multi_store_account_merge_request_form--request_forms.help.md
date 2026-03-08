@@ -1,11 +1,3 @@
-<thinking> 
-The purpose of this form is to facilitate the process of merging multiple store accounts into one, allowing users to request the consolidation of their store accounts into a single, unified account. 
-This form is intended for employees who need to manage store account information and perform actions such as store merging for various reasons, like correcting account errors, improving store performance, or streamlining account management for customers. 
-The form is divided into multiple pages, each with distinct fields for providing relevant information. 
-Please review the form carefully before proceeding to ensure you fill it out correctly and do not request an account merge for non-relevant reasons. 
-Additionally, please note that if you request an account merge, you will not be able to access the original account after it is merged. 
-</thinking>
-
 # Multi Store Account Merge Request Form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the process of merging multiple store accounts into one, allowing users to request the consolidation of their store accounts into a single, unified account.

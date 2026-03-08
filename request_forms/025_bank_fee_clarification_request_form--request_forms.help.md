@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Bank Fee Clarification Request Form", we need to understand the form's purpose and the fields within it. This form is used to request clarification on bank fees that are unclear or disputed. 
-
-The form is used to gather information from customers about the fees they are disputing, including details about their account, the fee in question, and their requested resolution. This information will help the bank's customer service team to investigate and potentially resolve the issue.
-
-</thinking>
-
 # Bank Fee Clarification Request Form - Help Guide
 
 ## Purpose

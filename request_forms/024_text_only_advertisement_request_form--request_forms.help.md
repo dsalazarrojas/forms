@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for a text-only advertisement request. It likely serves as a means to gather requirements and specifications for creating an advertisement that meets the needs of the requester, whether it's for a product, service, or campaign. It might be used by marketing or advertising teams within organizations to ensure that the advertisement aligns with their brand identity and messaging.
-</thinking>
 # Text Only Advertisement Request Form - Help Guide
 
 ## Purpose

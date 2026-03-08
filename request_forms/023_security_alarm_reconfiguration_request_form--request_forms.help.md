@@ -1,7 +1,3 @@
-<thinking> 
-This form is used for requesting reconfiguration of security alarms within the organization. Before proceeding, please ensure that you have reviewed all relevant security policies and have the necessary permissions to submit a reconfiguration request. To avoid duplication, please do not submit duplicate requests for the same alarm.
-</thinking>
-
 # Security Alarm Reconfiguration Request Form - Help Guide
 
 ## Purpose

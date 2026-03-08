@@ -1,12 +1,3 @@
-<thinking>
-This form is used to make a grade request, which is typically used to ask a teacher to update a student's grade in a particular subject or course. This form is usually completed by students to provide a reason for the grade change and obtain a new grade. To avoid duplication of effort, please ensure that you have reviewed the course syllabus and discussed with your teacher before submitting this form.
-
-Before starting to fill out this form, make sure you have all the necessary information and permissions from your teacher.
-
-This form is used to make a grade request, and it's essential to complete it accurately to avoid any misunderstandings or delays in the grade update process.
-
-</thinking>
-
 # Grade Request Form - Help Guide
 ## Purpose
 The Grade Request Form is used to make a grade request to a teacher, allowing students to ask for an update to their grade in a particular subject or course.

@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to request a reassignment of a coworking station from an employee, which can be a desk or other work area. This form is intended to be completed by employees who need to change their current station due to various reasons such as personal preferences, equipment needs, or accessibility requirements. Before completing this form, please ensure that the reason for the request is genuine and not a duplicate of a previous request. Please note that manager approval is required for the reassignment request.
-</thinking>
-
 # Co Working Station Reassignment Request Form - Help Guide
 
 ## Purpose

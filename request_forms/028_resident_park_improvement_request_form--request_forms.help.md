@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the resident_park_improvement_request_form is to allow residents to submit requests for improvements or maintenance to their park. This form is likely used by park administrators or maintenance staff to collect information about the issues or requests received from residents. To avoid duplication of effort and ensure that all requests are captured, it's essential to understand the form's content and usage.
-
-The form has several pages, but they all belong to the same form, so we will focus on one page at a time.
-
-Each field on this form has a specific purpose, and it's crucial to complete them accurately. This guide will walk you through each field, providing a clear and concise explanation of its meaning and required or optional nature.
-
-</thinking>
-
 # resident_park_improvement_request_form - Help Guide
 ## Purpose
 The resident_park_improvement_request_form is designed to collect and process requests from residents for park improvements or maintenance.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for the announcement of an individual's obituary. This information will be publicly shared with family and friends, and will be included in the official announcement. 
-
-To avoid duplication or errors in the obituary announcement, please check if someone has already submitted the announcement before proceeding with this form. 
-
-This form must be completed by a family member or a close contact of the deceased. 
-</thinking>
-
 # Obituary Announcement Request Form - Help Guide
 ## Purpose
 This form is used to submit an obituary announcement for a deceased individual. It includes personal details such as first name, last name, date and time of death, burial date and time, location, and other related information.

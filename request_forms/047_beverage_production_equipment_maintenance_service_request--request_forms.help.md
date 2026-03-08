@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from production facility staff or managers to request maintenance service for beverage production equipment. The form is intended to provide a structured and organized way to gather essential details about the issue, including the equipment type, brand, and model, as well as the nature of the problem, its impact on production, and the desired service date. This will help the maintenance service team to prioritize and schedule services efficiently.
-
-Before starting, please ensure you have the necessary permissions to request maintenance services on behalf of your facility. If the issue requires immediate attention, please contact our emergency services number at (phone number). Otherwise, submit this form and our maintenance team will review it to schedule a service visit accordingly.
-
-</thinking>
-
 # Beverage Production Equipment Maintenance Service Request - Help Guide
 ## Purpose
 This form is designed to collect essential information from production facility staff or managers to request maintenance services for beverage production equipment. It helps the maintenance service team to prioritize and schedule services efficiently.

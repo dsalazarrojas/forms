@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Return Exchange Authorization Form - Help Guide
 
 ## Purpose

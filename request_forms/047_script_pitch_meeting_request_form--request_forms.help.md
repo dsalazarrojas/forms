@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to request a meeting with a script pitch. The purpose of this form is to provide information about a script or project, including its title and logline, and to schedule a meeting with the person responsible for reviewing it. This form is intended for internal use within the industry or company, and is not affiliated with any external form platforms. The fields in this form should only be filled out for a specific script or project, and should not be used to solicit or promote unrelated projects. Please fill out this form accurately and thoroughly, and ensure that you are only scheduling meetings for projects that are a good fit for this company or organization.
-</thinking>
-
 # script_pitch_meeting_request_form - Help Guide
 ## Purpose
 This form is used to request a meeting for a script pitch, providing an opportunity to showcase and discuss a project with the relevant team or department.

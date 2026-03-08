@@ -1,15 +1,3 @@
-<thinking>...The "Distribution Label Revision Request Form" is a tool for users to request changes to the distribution label. This form is typically used by submitters who need to update their label specifications due to changes in their product or product line. It is essential that the user fills out this form completely and accurately to ensure that their request is processed efficiently and effectively.
-
-Before proceeding, please ensure that:
-
-* The form is filled out completely and accurately with all required information.
-* The submitted request is not a duplicate of a previous request.
-* The submitter has the necessary approval from their supervisor or manager before submitting the form.
-
-If the form is not completed or submitted correctly, it may lead to delays or rejection of the request.
-
-</thinking>
-
 # Distribution Label Revision Request Form - Help Guide
 ## Purpose
 The "Distribution Label Revision Request Form" is a tool for users to request changes to the distribution label. This form is typically used by submitters who need to update their label specifications due to changes in their product or product line.

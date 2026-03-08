@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users requesting a cross-check of their financial data. This is typically used to verify or update account information, confirm transactions, or request access to account details. To ensure accuracy and relevance, please only submit this form if you have a legitimate reason to request a cross-check. Duplicate submissions may be rejected.
-</thinking>
-
 # Financial Data Cross Check Request Form - Help Guide
 ## Purpose
 The Financial Data Cross Check Request Form is used to request a review of your financial data. This form helps ensure that your account information is up-to-date and accurate.

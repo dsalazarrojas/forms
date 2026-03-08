@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by employees to request expenditures or expenses that need to be approved by their manager. The purpose of this form is to provide a standardized way for employees to submit their requests, ensuring that all necessary information is collected and reviewed by the relevant stakeholders.
-This form should only be filled out for legitimate business purposes and not for personal expenses. If you have already submitted a similar request, please do not resubmit it, as this may lead to duplication of effort and confusion.
-Please ensure that you have permission from your manager before submitting a request. This form is intended to be used for official company expenses, not personal or unauthorized expenses.
-</thinking>
-
 # Expenditure Request Form - Help Guide
 ## Purpose
 The Expenditure Request Form is a standardized form used by employees to request expenses that require approval from their manager. This form is intended to be used for legitimate business purposes and should not be used for personal expenses.

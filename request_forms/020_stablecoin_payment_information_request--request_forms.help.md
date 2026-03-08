@@ -1,13 +1,3 @@
-<thinking>
-A stablecoin payment information request form is used to gather information about a payment made or to be made by a Stablecoin user. This form is typically used in conjunction with other forms, such as a loan application or a payment request, to capture relevant details related to the payment. 
-The main purpose of this form is to collect data that can help in processing and verifying the payment efficiently. 
-Please make sure to fill out this form carefully and accurately. 
-
-If you have already filled out a similar form or have the required information readily available, you may skip this form.
-
-Before you start filling this form, please make sure you have all the necessary information at hand. 
-</thinking>
-
 # Stablecoin Payment Information Request - Help Guide
 ## Purpose
 This form is used to gather information about a payment made or to be made by a Stablecoin user.

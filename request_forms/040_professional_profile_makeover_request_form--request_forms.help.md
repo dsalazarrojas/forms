@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users to create a professional profile makeover. This form is used to collect the necessary details to tailor a professional profile to the user's specific needs and preferences. It is recommended to fill out this form only if you are looking to have your professional profile created or updated. If you've already submitted a professional profile request in the past, it's likely not necessary to fill out this form.
-</thinking>
-
 # Professional Profile Makeover Request Form - Help Guide
 ## Purpose
 The Professional Profile Makeover Request Form is designed to collect information from users to create or update their professional profiles. This form helps us understand your needs and preferences to tailor a personalized profile that suits you best.

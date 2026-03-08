@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that our users understand the purpose and requirements of the "police report amendment request form" to prevent non-duplication and incorrect submissions.
-This form is meant to gather information from users to request an amendment to a police report. The fields in this form should be filled accordingly to provide a clear and complete request.
-Before submitting the form, please make sure to review all fields carefully and ensure that all required fields are filled.
-</thinking>
-
 # police_report_amendment_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request an amendment to a police report. Please fill out the form below to provide the necessary information for your request.

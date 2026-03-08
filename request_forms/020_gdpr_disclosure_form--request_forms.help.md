@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: This form is designed to collect information from users about the collection, storage, and usage of their personal data, in compliance with the General Data Protection Regulation (GDPR) guidelines. This form will help users understand how their data will be used, stored, and shared, and what measures are in place to protect and delete their data.
-
-Form purpose is to inform users about data management practices, and it's a legal requirement for data controllers to have a clear and transparent data management policy in place. This form is an essential part of GDPR compliance and is a way for data controllers to demonstrate their commitment to data privacy and protection.
-</thinking>
-
 # GDPR Disclosure Form - Help Guide
 ## Purpose
 The GDPR Disclosure Form is a tool designed to inform users about the collection, storage, and usage of their personal data, in accordance with the General Data Protection Regulation (GDPR) guidelines.

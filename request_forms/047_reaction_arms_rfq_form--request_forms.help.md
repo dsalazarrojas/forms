@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect feedback and opinions from users about a specific product or service. The form will ask users to answer a series of questions related to their experience with the product or service, including demographic information and specific feedback questions. This form is likely part of a larger product or service evaluation process used to improve the experience.
-
-The form is divided into 6 questions (page 1: form_question_1, form_answer_1, form_question_2, form_answer_2, form_question_3, form_answer_3) and 3 questions (page 2: form_question_4, form_answer_4, form_question_5, form_answer_5, form_question_6, form_answer_6). Each question type will be explained in the field-by-field explanations section.
-
-</thinking>
-
 # reaction_arms_rfq_form - Help Guide
 ## Purpose
 This form is designed to collect feedback and opinions from users about a specific product or service. 

@@ -1,8 +1,3 @@
-<thinking>
-This is a form designer and technical writer's internal reasoning block to create a user-facing help guide.
-The speaking engagement request form is used to collect information from event organizers or promoters about their speaking engagement requests. This form helps in centralizing the information and streamlining the internal processes for coordinating and managing speaking engagements. It's essential to ensure that the form is filled out correctly to avoid duplication of effort and duplication of requests. 
-</thinking>
-
 # Speaking Engagement Request Form - Help Guide
 ## Purpose
 The Speaking Engagement Request Form is used to collect information from event organizers or promoters to centralize and manage speaking engagement requests.

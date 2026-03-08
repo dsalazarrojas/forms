@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to request marketing collateral, such as brochures, sell sheets, and catalogues, from the marketing team. The purpose of this form is to provide a standardized way for business owners to request marketing materials, allowing them to track and manage these requests effectively. The form should only be used for legitimate requests, and duplicate or unnecessary requests may be discarded.
-
-</thinking>
-
 # Marketing Collateral Request Form - Help Guide
 ## Purpose
 This form is used to request marketing collateral, such as brochures, sell sheets, and catalogues, from the marketing team.

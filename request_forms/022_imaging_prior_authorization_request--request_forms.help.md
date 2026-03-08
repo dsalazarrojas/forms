@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information about a patient's imaging request, including their demographic information, insurance details, and clinical services provided. It also captures the contact information of the requestor, who is typically the patient or their authorized representative.
-
-Internal checks will be performed to ensure that the patient's medical record and imaging request fields are not submitted if they are missing or invalid.
-
-This form will be used to verify and approve or deny the patient's imaging request. The goal is to ensure that the patient's insurance provider is identified and that the clinical services provided are accurately captured. The form will also ensure that the patient's contact information is correctly submitted to enable follow-up communication.
-
-Before submitting this form, please ensure that the patient's medical record is up-to-date and that the imaging request is accurately reflected in the clinical services provided field. This form is for the purpose of requesting imaging services, not for scheduling appointments. If you are requesting an appointment, please submit a different form.
-
-This form will help to streamline the process of submitting imaging requests. It is essential to accurately complete this form to avoid any delays or errors in the processing and approval process.
-
-Please be aware that some fields in this form might have options that seem contradictory (e.g., both 'Yes' and 'No' options for the insurance provider). However, these options are necessary to capture specific scenarios that might occur.
-
-</thinking>
-
 # Imaging Prior Authorization Request - Help Guide
 
 ## Purpose

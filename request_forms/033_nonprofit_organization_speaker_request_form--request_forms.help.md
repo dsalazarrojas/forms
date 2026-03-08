@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an event that a nonprofit organization would like to request a speaker for. This form is used to gather relevant details about the event, such as its category, description, type, dates, and the speaker's contact information. It's possible that the organization has already submitted a similar request, so please make sure to check with your team to avoid duplicates.
-
-This form will be used to help facilitate communication between the speaker's team and the event organizers.
-</thinking>
-
 # Nonprofit Organization Speaker Request Form - Help Guide
 ## Purpose
 This form is used to request a speaker for a nonprofit organization's event. Please fill out the form carefully to provide the necessary information for our team to consider your request.

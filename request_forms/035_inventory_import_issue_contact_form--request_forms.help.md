@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "inventory_import_issue_contact_form" form is to collect contact information and any additional details related to import-related issues. It appears to be used for customers or users to report import-related problems or provide feedback. This form is designed to be simple and easy to use. However, it's not clear if this form is intended for internal use, external customer use, or a mix of both.
-To confirm, the form seems to be suitable for collecting contact information and any supporting details for import-related issues. Please confirm or correct this assumption.
-The form does not have any redundant or duplicated fields. It consists of three fields:
-* A contact form for a name or name of the contact person
-* A contact information field for details such as email, phone number, etc.
-* A field for additional information related to the issue at hand.
-</thinking>
-
 # inventory_import_issue_contact_form - Help Guide
 ## Purpose
 The "inventory_import_issue_contact_form" form is intended to collect contact information and details related to import-related issues.

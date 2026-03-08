@@ -1,7 +1,3 @@
-<thinking>
-This form is for mapping cost allocations for a specific project, allowing users to select multiple cost allocation options, enter cost allocation requesters' information, project information, and the allocated cost. This form is intended to be filled out by project managers or team members who need to map cost allocations for projects. The form is not intended for cost entry or reporting; it is a support form used to assist in mapping allocations.
-</thinking>
-
 # Cost Allocation Mapping Application Form - Help Guide
 ## Purpose
 This form is used to map cost allocations for a specific project. It allows users to select multiple cost allocation options and provide relevant information for cost allocation.

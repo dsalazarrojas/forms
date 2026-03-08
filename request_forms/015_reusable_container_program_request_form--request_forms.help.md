@@ -1,8 +1,3 @@
-<thinking> 
-The purpose of this form is to capture information from a user for a Reusable Container Program request. The Reusable Container Program allows users to request reusable containers for a specific date range. The form is used to collect contact information and date details from the user. To avoid duplication, this form will only be visible to users with the correct permissions.
-
-</thinking>
-
 # Reusable Container Program Request Form - Help Guide
 ## Purpose
 The Reusable Container Program Request Form is used to capture information from users for a Reusable Container Program request. This information is used to facilitate the processing and fulfillment of the request.

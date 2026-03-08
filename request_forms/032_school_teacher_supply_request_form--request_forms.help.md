@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect information from school teachers on their specific supply needs for the upcoming school year. It helps school administrators to better understand the requirements of each teacher, ensuring that they have the necessary resources to teach effectively. This form should only be completed by authorized personnel, as it contains sensitive information about the school's resources and teacher preferences. To ensure accuracy, it's essential to review and complete the form carefully, and if necessary, review your answers to confirm their correctness, especially if you are requesting supplies for multiple purposes. Please do not submit duplicate requests, as this may cause unnecessary delays and confusion in the supply ordering process.</thinking>
-
 # School Teacher Supply Request Form - Help Guide
 ## Purpose
 The School Teacher Supply Request Form is designed to gather information from school teachers about their specific supply needs for the upcoming school year. This form helps school administrators understand the requirements of each teacher, ensuring they have the necessary resources to teach effectively.

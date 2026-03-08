@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Transfer Request Form - Help Guide
 ## Purpose
 The Transfer Request Form is a tool used to collect information for internal transfer requests between different departments or teams. This form helps to streamline the process of requesting a transfer and provides a clear and organized way to gather necessary details.

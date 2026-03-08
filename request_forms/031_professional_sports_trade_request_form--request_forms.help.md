@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for a professional sports trade request. The purpose of this form is to facilitate the process of teams requesting and proposing trades in the sports industry. Please note that this form is generated based on publicly available metadata and may not be affiliated with any specific form platform or industry entity. It is meant to be an original adaptation for educational purposes and not for direct use in commercial or professional settings.
-
-Before using this form, ensure that you understand the context and requirements of the trade request process within your specific organization or team. This form should not be used to collect sensitive or confidential information without proper clearance and handling.
-
-</thinking>
-
 # professional_sports_trade_request_form - Help Guide
 ## Purpose
 The professional sports trade request form is designed to collect information for trade proposals between teams in the sports industry. This form will guide you through the process of submitting a trade request, including details about the trade proposal, dates, values, and acceptance status.

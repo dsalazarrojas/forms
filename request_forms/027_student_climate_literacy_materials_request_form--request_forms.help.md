@@ -1,20 +1,3 @@
-<thinking>
-To provide a user-friendly experience for end-users, I'll create a detailed help guide explaining the purpose and completion process of the Student Climate Literacy Materials Request Form. This form is designed to collect information from students who are interested in learning more about climate change or need educational resources related to climate literacy. By submitting this form, students can express their interest in climate change topics and provide their personal details for follow-up communication.
-
-Upon reviewing the provided YAML fields, I've determined that the form consists of 8 fields:
-
-*   Request Form (text field)
-*   Name (text field)
-*   Email (email field)
-*   Phone Number (number field)
-*   Department (text field)
-*   Resource Request (select multiple field)
-*   Comments (text field, optional)
-*   Additional Comments (text field, optional)
-
-The form is designed to collect basic personal information and a brief expression of interest in climate change resources.
-</thinking>
-
 # Student Climate Literacy Materials Request Form - Help Guide
 ## Purpose
 

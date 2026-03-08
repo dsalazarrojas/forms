@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to request a review of their policy modernization needs. The purpose of this form is to gather relevant information from users about their request, which will then be reviewed to determine the next steps. Before proceeding, please review the form carefully and ensure that you are submitting a new request. To avoid duplicate requests, please check that you are not requesting the same policy modernization review for the same purpose within a short period.
-
-</thinking>
-
 # Policy Modernization Review Request Form - Help Guide
 ## Purpose
 The Policy Modernization Review Request Form is designed to collect information from users about their policy modernization requests. The form is used to determine the next steps for your policy modernization needs.

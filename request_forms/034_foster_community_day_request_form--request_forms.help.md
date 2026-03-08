@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect requests from community members to organize and facilitate a community day event. This is a crucial step in planning and executing a successful community day, which typically involves a group of people coming together for a specific purpose or activity. Before starting to complete the form, ensure you have checked with the event organizers or relevant stakeholders to confirm the event details and avoid duplicate requests. 
-</thinking>
-
 # Foster Community Day Request Form - Help Guide
 ## Purpose
 This form is meant to provide a structured and organized way to collect requests from community members for a community day event. It is not intended to be a generic request form, but rather a specific tool for organizing and facilitating a community day.

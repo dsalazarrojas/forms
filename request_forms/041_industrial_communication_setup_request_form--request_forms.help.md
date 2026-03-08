@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, we first need to confirm that this is a one-time request form for industrial communication setup, and that the user has not already submitted a similar request. If they have, we can point them to a link to their previous request for review and approval. If not, we will guide them through the form completion process. This form is designed to capture essential details for setup and follow-up purposes. The form will be submitted to the assigned staff member for review and action. We will also provide a clear explanation of each field to ensure users understand what information is required for a successful submission. This will help us streamline and ensure accurate setup and follow-up processes.
-</thinking>
-
 # Industrial Communication Setup Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users who wish to submit their home renovation designs for evaluation. This form is used in conjunction with other internal processes to ensure that submitted designs meet the necessary standards and requirements for approval. Please note that this form is not meant for users who have already submitted a design or do not have a genuine renovation project in mind. Please ensure that you have not previously submitted a design or that you are submitting a real project before filling out this form.
-</thinking>
-
 # Home Renovation Design Upload Form - Help Guide
 
 ## Purpose

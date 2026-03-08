@@ -1,16 +1,3 @@
-<thinking>
-We should check that the form is only used for its intended purpose, which is for users to request registration counter supplies. If the user tries to use the form for a different purpose (e.g., asking for a non-existent item), we should prevent it from being submitted. We should also prevent the user from submitting the same request form multiple times. To do this, we can check the form's fields for consistency with the expected values. 
-
-The expected values for this form are:
-* A valid email address
-* A valid phone number
-* A category (either "Supply" or "Other")
-* A non-zero quantity (if category is "Supply")
-* A description that matches the chosen category
-
-We will prevent the form from being submitted if any of these checks fail.
-</thinking>
-
 # Registration Counter Supply Request Form - Help Guide
 ## Purpose
 The Registration Counter Supply Request Form is used to request registration counters or supplies from the inventory management system. This form helps ensure that users can request necessary items for upcoming events or meetings.

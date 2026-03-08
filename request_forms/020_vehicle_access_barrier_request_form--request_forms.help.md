@@ -1,24 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users regarding their vehicle access barrier requests. This form is designed to gather relevant details about the gates that need to be accessed by vehicles. 
-
-The form is intended to collect the following types of data:
-* Gate status and operability
-* Access request date and time
-* Gate dimensions (operable height and width)
-* Gate operability and opening type
-
-This form is likely to be used by staff members or facility administrators to manage and track vehicle access barriers across the facility.
-
-Please ensure you are completing this form to request access to a specific gate in your vehicle for the following reasons:
-* You will not be submitting duplicate requests for the same gate. 
-* You will ensure that the gate is indeed inoperative or not accessible.
-
-Please note that the fields in this form are designed to provide a detailed and accurate picture of your vehicle access barrier needs.
-
-If you are unsure about any of the information, please reach out to the relevant department or team for clarification.
-
-</thinking>
-
 # Vehicle Access Barrier Request Form - Help Guide
 
 ## Purpose

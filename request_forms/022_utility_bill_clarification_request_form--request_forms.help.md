@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to request clarification on their utility bills. This form will guide employees to fill out a request for utility bill clarification in case there's an issue with their account. This form will help us ensure that all the necessary information is collected and that the process is as efficient as possible. To confirm the purpose of this form, let's ensure that it's not used for other types of requests.
-</thinking>
-
 # Utility Bill Clarification Request Form - Help Guide
 ## Purpose
 The Utility Bill Clarification Request Form is used to request help and clarification from the utility company about a specific bill or account issue. This form gathers essential information from the customer, including their name, contact information, and a brief description of the issue.

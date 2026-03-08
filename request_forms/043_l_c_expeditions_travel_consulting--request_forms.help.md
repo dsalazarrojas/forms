@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request travel and consulting services from the organization. It is intended to gather information about the type of trip or vacation, the destination, travel dates, and other relevant details required for the consultation process. Before filling out this form, please ensure that you have not submitted a similar request in the recent past, as duplicate requests will not be processed.
-</thinking>
-
 # l_c_expeditions_travel_consulting_request_forms - Help Guide
 ## Purpose
 This form is for requesting travel and consulting services. It collects information about your trip or vacation preferences and provides the necessary details for the consultation process.

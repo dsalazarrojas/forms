@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to support agents in linking their access to various systems, enabling them to access and manage different systems with a specific scope and level of access. The form's primary purpose is to collect information from requesters and agents to facilitate the linking process.
-
-The form is typically used in a business setting where agents need access to specific systems for their work. The form serves as a template for requesters to provide necessary details about the systems they want to link and the level of access they require. It also allows agents to submit their requests for linking and provides a clear framework for approvers to assess and approve these requests.
-
-</thinking>
-
 # Agent Linking Guide Form - Help Guide
 ## Purpose
 This form is used to request linking access to systems and manage the linking process for agents in a business setting.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an appointment with a notary for various purposes. It is not intended for duplicate submissions. Please ensure that you have not already submitted this form before.
-</thinking>
-
 # Notary_appointment_request_form - Help Guide
 ## Purpose
 

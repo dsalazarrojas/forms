@@ -1,5 +1,3 @@
-<thinking>Is this form designed to collect information from organizations applying for an affordable community expansion project? The purpose of the form is to gather details about the project, including organization and contact information, project overview, and project specifics such as location, timeline, and funding. The form is likely to be used by housing development or government agencies to evaluate and approve project applications.</thinking>
-
 # Affordable Community Expansion Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from organizations applying for an affordable community expansion project. It will help us evaluate and approve your project.

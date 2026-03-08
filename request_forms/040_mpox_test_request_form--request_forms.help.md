@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from patients or individuals requesting medical testing. This form will help the laboratory or healthcare provider understand the patient's symptoms, test requirements, and contact information. It is crucial to fill out the form accurately to ensure that the test can be conducted properly and the results are delivered correctly. Please note that some fields are not required, so you should only fill out the fields that are relevant to your situation.
-</thinking>
-
 # Mpox Test Request Form - Help Guide
 ## Purpose
 The Mpox Test Request Form is a tool used to collect information from patients or individuals requesting medical testing. This form helps the laboratory or healthcare provider understand the patient's symptoms, test requirements, and contact information.

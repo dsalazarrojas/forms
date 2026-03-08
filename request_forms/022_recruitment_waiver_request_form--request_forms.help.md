@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from applicants for recruitment purposes. A Recruitment Waiver Request Form is used to request a waiver for an application or a position. The form is typically completed by the applicant to provide supporting details and waiver requests.
-Before filling out this form, please ensure that it is not a duplicate request and that you have checked with the relevant department or team to see if they have already received a similar request.
-</thinking>
-
 # Recruitment Waiver Request Form - Help Guide
 ## Purpose
 The Recruitment Waiver Request Form is used to request a waiver for an application or a position. This form is completed by the applicant to provide supporting details and waiver requests.

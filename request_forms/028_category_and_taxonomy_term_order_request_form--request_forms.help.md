@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Category And Taxonomy Term Order Request Form" is designed to gather information from users about changes they need to make to the category and taxonomy terms on their website or application. This form helps IT and web teams understand the requested changes and prioritize them accordingly. It is essential to fill out the form correctly to ensure that the requested changes are properly assessed and implemented.
 
 </thinking>

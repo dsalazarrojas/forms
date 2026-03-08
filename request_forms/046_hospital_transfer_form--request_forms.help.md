@@ -1,16 +1,3 @@
-<thinking>
-The internal reasoning block to explain the form purpose and checks for relevance and duplication:
-The Hospital Transfer Form is a crucial document for transferring patients between facilities or healthcare providers. This form ensures that the patient's information is accurately and consistently collected, reducing errors and promoting smooth transitions. The form is divided into several sections, each capturing essential details about the patient's transfer. The fields are designed to gather information that will be used for patient care and administrative purposes.
-
-To ensure that the form is completed accurately and efficiently, please note the following:
-
-* Please complete the form only for patients who are being transferred between facilities or healthcare providers.
-* Do not use this form for other purposes, such as initial hospital admissions or discharge documents.
-* The form is intended to be a single-page document; if additional information is required, please attach it as an addendum or separate note.
-* All fields are required unless specified otherwise in the field descriptions.
-
-</thinking>
-
 # Hospital Transfer Form - Help Guide
 ## Purpose
 The Hospital Transfer Form is a document used to collect information necessary for the transfer of a patient between facilities or healthcare providers.

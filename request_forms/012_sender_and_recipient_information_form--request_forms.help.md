@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sender And Recipient Information Form - Help Guide
 
 ## Purpose

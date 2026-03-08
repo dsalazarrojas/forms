@@ -1,19 +1,3 @@
-<thinking>
-The form purpose is to customize the streaming settings for a specific streaming platform. The goal is to help end-users configure their streaming settings in a way that suits their needs and preferences. 
-
-Form design considerations:
-- The form should be simple and straightforward, with an intuitive layout and clear labels.
-- Each field should have a clear and concise label, hint, and option description.
-- The form should be adaptable to different streaming settings.
-
-Form type: The form is a single page with multiple fields.
-- Form fields are input schema fields.
-- Form fields may have options and/or hints.
-- Fields are categorized into groups, e.g., "Branding", "Presentation".
-
-
-</thinking>
-
 # Streaming Overlay Settings Form - Help Guide
 ## Purpose
 The Streaming Overlay Settings Form is a customizable settings form designed to tailor the streaming settings for your specific needs and preferences. This form allows you to adjust various settings to enhance your streaming experience.

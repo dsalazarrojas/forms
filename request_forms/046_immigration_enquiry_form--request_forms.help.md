@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for individuals to submit an immigration enquiry, and it collects information about the enquirer's personal details and the purpose of their enquiry. The form has multiple pages, but for the purpose of this help guide, we will focus on the fields that require input from the enquirer.
-
-To ensure that users complete the form correctly, we will check for potential duplication of enquirers and provide guidance on how to fill in each field accurately.</thinking>
-
 # immigration_enquiry_form - Help Guide
 ## Purpose
 The immigration_enquiry_form is designed for individuals to submit an immigration enquiry, providing essential information about their personal details and the reason for their enquiry.

@@ -1,29 +1,3 @@
-<thinking>
-This form is used to request the validation of a cold transport shipment. It is designed to collect information about the shipment, including the requester's contact information, shipment details, and delivery instructions. The form is used to ensure that the shipment meets all necessary safety and regulatory requirements.
-To fill out this form, follow these steps:
-
-1. Enter your full name and email address as the requester.
-2. Provide your department and organization name.
-3. Choose the type of shipment, such as pharmaceuticals, vaccines, or blood products.
-4. Describe the shipment in detail, including the contents and packaging type.
-5. Specify if the shipment contains hazardous materials and if temperature requirements are needed.
-6. Choose the temperature range and tolerance for the shipment.
-7. Enter the shipment weight and dimensions.
-8. Select the packaging type, such as insulated shipper or refrigerated container.
-9. Enter the pickup and delivery addresses, including contact names and phone numbers.
-10. Choose the pickup and delivery times, including dates and time windows.
-11. Select the maximum acceptable transit time for the shipment.
-12. Choose the temperature monitoring method during transit.
-13. Select the required documentation for the shipment.
-14. Enter any special handling instructions.
-15. Enter the declared value for insurance purposes.
-16. Choose if a signature is required upon delivery.
-17. Indicate if return shipment is needed.
-18. Enter the budget or cost center code for billing purposes.
-19. Add any additional comments or information about the shipment.
-
-</thinking>
-
 # Cold Transport Validation Request Form - Help Guide
 ## Purpose
 This form is used to request the validation of a cold transport shipment to ensure that all necessary safety and regulatory requirements are met.

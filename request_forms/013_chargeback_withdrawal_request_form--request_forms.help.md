@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 I'll create a user-facing help guide for the Chargeback Withdrawal Request Form.
 
 # Chargeback Withdrawal Request Form - Help Guide

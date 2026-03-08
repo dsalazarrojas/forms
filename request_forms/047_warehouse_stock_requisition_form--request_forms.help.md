@@ -1,14 +1,3 @@
-<thinking>
-
-The Warehouse Stock Requisition Form is designed to allow users to request stock from the warehouse department for a specific reason. The form captures essential details about the request, including the stock code, quantity, unit of measurement (UoM), and reasons for the request. It also requires users to provide their contact information, including email and phone number, to facilitate communication and follow-up on the request.
-
-Before filling out the form, please ensure that:
-
-* You have a valid reason for requesting stock (e.g., for a specific project, for personal use, etc.).
-* You have checked if the stock is not already available in the warehouse or if it's being reordered.
-
-</thinking>
-
 # Warehouse Stock Requisition Form - Help Guide
 ## Purpose
 The Warehouse Stock Requisition Form is used to request stock from the warehouse department for a specific reason.

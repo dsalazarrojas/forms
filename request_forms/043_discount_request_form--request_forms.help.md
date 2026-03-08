@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discount Request Form - Help Guide
 
 ## Purpose

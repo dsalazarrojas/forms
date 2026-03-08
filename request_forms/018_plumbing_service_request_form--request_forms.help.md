@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or users for plumbing services such as drain cleaning, leak repair, and pipe installation. It's essential to ensure that the form is filled out correctly to provide accurate and efficient service. Before proceeding, please confirm that you have not already submitted a request for a similar service in the recent past. If you have any doubts or questions, please reach out to our support team.
-</thinking>
-
 # Plumbing Service Request Form - Help Guide
 ## Purpose
 This form is designed to gather information for plumbing services such as drain cleaning, leak repair, and pipe installation. Please fill out this form to request a service.

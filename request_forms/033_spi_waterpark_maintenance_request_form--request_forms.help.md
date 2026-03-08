@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to gather information from users about their maintenance requests in the Spi Waterpark. The form should only be filled out for legitimate maintenance requests, and users should not submit duplicate requests. To ensure this, users are encouraged to review their request carefully before submitting it. The form is designed to collect user name, date and time of maintenance request, contact information, location, and a brief description of the maintenance issue. This guide will walk you through each field in the form to help users complete it accurately and efficiently.
-</thinking>
-
 # Spi Waterpark Maintenance Request Form - Help Guide
 ## Purpose
 The Spi Waterpark Maintenance Request Form is designed to gather information about maintenance requests from users. Please only submit a request if you have a legitimate maintenance issue that requires attention.

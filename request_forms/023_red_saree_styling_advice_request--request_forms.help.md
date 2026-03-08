@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # red_saree_styling_advice_request - Help Guide
 ## Purpose
 

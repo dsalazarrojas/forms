@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is designed to capture information about an event, allowing users to record details such as event title, description, date, time, location, and start time. This form serves as a simple tool for gathering data about events and can be easily completed by anyone with basic computer literacy. The purpose of this form is not to replace existing event planning or management systems, but rather as a supplemental tool for capturing event information in an easily accessible format... </thinking>
-
 # Event Recording Form - Help Guide
 ## Purpose
 The Event Recording Form is designed to capture information about events, making it easier to record and reference details such as event title, description, date, time, location, and start time.

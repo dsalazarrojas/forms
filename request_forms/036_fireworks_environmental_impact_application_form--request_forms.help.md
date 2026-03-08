@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to gather information for events involving fireworks, such as displays, shows, and festivals. The form helps to document event details, type, start and end dates and times, firework types, and contact information for follow-up questions or concerns. This information will be used to assess the environmental impact of the event and ensure that all necessary permits and regulations are in place.
-
-To prevent non-compliance and duplicate applications, please ensure that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Fireworks Environmental Impact Application Form - Help Guide
 ## Purpose
 This form is used to gather information for events involving fireworks, such as displays, shows, and festivals. Please fill out the form with accurate and detailed information to ensure a successful application.

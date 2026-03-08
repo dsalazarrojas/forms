@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to request a quote for moving a piano. It is used to gather information from customers who are interested in getting a quote for their piano move. This form helps to streamline the quoting process by collecting necessary details such as name, address, email, phone number, and other relevant information.
-
-This form is meant for individuals who want to get a quote for a piano move, and it does not require any business or organizational information. However, it is essential for users to fill out this form accurately to ensure the quote process is completed efficiently and effectively.
-
-Please check if you have already filled out this form before or if you have any existing quote requests. This will help to avoid duplication of efforts and save time for both you and our team.
-
-Please ensure that you fill out this form completely and accurately to the best of your ability. This will help us to provide you with a more accurate quote and ensure a smooth move-in process.
-</thinking>
-
 # Piano Moving Quote Request - Help Guide
 ## Purpose
 This form is designed to gather information for a piano moving quote.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for requesting a permission set license change. It is meant for employees to submit their requests, and managers or approvers will review and approve or deny the requests. To ensure that your request is processed efficiently, please fill out the form completely and accurately. Also, please note that some fields may be optional but are still important for the approvers to have a complete understanding of your request. Make sure to check the form carefully before submitting it to avoid any unnecessary delays.
-</thinking>
-
 # Permission Set License Change Request Form - Help Guide
 ## Purpose
 The Permission Set License Change Request Form is used to submit requests for changes to your permission sets. This form collects necessary information to understand your reason for the change, who should be involved in the decision-making process, and what date the request was submitted.

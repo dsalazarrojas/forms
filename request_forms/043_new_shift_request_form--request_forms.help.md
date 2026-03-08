@@ -1,5 +1,3 @@
-<thinking>As we aim to provide an efficient and user-friendly experience, let's ensure that the "New Shift Request Form" is completed accurately and effectively. Please take a moment to review the form's purpose and ensure that this submission is not a duplicate request. Ensure that your start and end dates match the actual duration of your shift. The form is designed to provide the following fields: Start Date, Shift Duration, Start Time, End Time, Employee Name, Employee ID, Manager ID, Request Message, Shift Status, Shift Type, Assigned Tool, Assigned Tool Description, Requester, Request Status, Created At, Updated At, Deleted At, Created By, Updated By, and Deleted By. This will help the team review and manage shift requests efficiently, and we appreciate your attention to detail. If you are unsure about any of the fields, please refer to this guide for clarification.</thinking>
-
 # New Shift Request Form - Help Guide
 
 ## Purpose

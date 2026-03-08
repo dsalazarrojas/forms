@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Courier Partner Realignment Request Form" is used to request a change in the status of a partner in the courier services system. This form is not required for every situation, and users should only fill it out when they have a legitimate reason for the change. To avoid confusion, please ensure that a realignment request is necessary before submitting this form.
 </thinking>
 

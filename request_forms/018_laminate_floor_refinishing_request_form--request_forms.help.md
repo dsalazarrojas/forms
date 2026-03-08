@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request laminate flooring refinishing services from a team, likely for properties or homes. A person submitting the form will provide information about a property, including contact details and the type of service needed. The form aims to streamline the process of collecting necessary data for the refinishing service, allowing for efficient scheduling and communication with the property manager.
-
-It's essential to ensure that the form is completed correctly to avoid duplication and ensure accurate data collection. This help guide will walk you through each field in the form to help you fill it out correctly.</thinking>
-
 # Laminate Floor Refinishing Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request laminate floor refinishing services for a property. It collects essential information from the property manager to schedule and perform the service efficiently.

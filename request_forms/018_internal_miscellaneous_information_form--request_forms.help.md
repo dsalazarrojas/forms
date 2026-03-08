@@ -1,14 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect internal miscellaneous information from users, such as contact details, department affiliations, and preferences. This form is intended to be filled out by users for internal purposes, and the collected data will be used for administrative purposes.
-
-Before filling out this form, please note that you should only fill it out if:
-
-* You are a relevant user (e.g., an employee or a team member)
-* You have not filled out this form previously (to avoid duplication)
-
-</thinking>
-
 # Internal Miscellaneous Information Form - Help Guide
 
 ## Purpose

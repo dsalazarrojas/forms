@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Will Robins Golf Lesson Request - Help Guide
 
 ## Purpose

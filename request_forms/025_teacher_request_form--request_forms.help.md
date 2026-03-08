@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from teachers about their requests, such as their title, student(s) they are teaching, school they are affiliated with, subject(s) they teach, and whether they need help with specific subjects. This form aims to ensure that teachers can efficiently submit their requests to the relevant authorities. It's essential to fill out the form accurately and completely, as it will help in processing their requests efficiently.
-
-To avoid duplication or misplacement of requests, please ensure that you submit each request only once, using the correct form. If you have already submitted a similar request, please do not resubmit it. This will help in maintaining the accuracy and completeness of the data.
-
-</thinking>
-
 # Teacher Request Form - Help Guide
 ## Purpose
 The Teacher Request Form is designed to collect information from teachers about their requests, such as their title, student(s), school, subject(s), and whether they need help with specific subjects.

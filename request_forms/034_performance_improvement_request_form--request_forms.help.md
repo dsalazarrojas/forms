@@ -1,21 +1,3 @@
-<thinking>Before creating the help guide, I need to understand the form's purpose and how it's intended to be used. The form seems to be designed for employees to request performance improvements, possibly as part of a performance evaluation process. It may be used by supervisors and HR personnel to track and manage these requests.
-
-To confirm, I'll review the form fields again:
-
-*   `supervisor_name`: This field likely asks for the supervisor's name who is handling the request.
-*   `subordinate_name`: This field may be for the employee making the improvement request.
-*   `reason_for_request`: The employee would describe why they need a performance improvement.
-*   `expected_performance_improvement`: This field is for the employee to specify what they hope to achieve with the improvement.
-*   `suggested_improvement_plan`: The employee would outline their plan for improvement.
-*   `date_of_request`: The date when the request was made.
-*   `time_of_request`: The time when the request was made.
-*   `submitted_by`: This field seems to be for selecting who submitted the request (Supervisor, HR, or Other).
-*   `review_status`: Multiple options to track the request's status.
-*   `comments`: A free-text field for additional notes.
-*   `submitted_to`: This field may be for selecting who the request was addressed to (Manager or HR).
-
-Given this analysis, the form is intended for supervisors, HR, or employees to request and track performance improvement requests within an organization. Now, let's create the help guide as per the requested structure.</thinking>
-
 # Performance Improvement Request Form - Help Guide
 
 ## Purpose

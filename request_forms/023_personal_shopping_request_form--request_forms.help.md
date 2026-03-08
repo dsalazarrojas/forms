@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be completed by customers to provide their personal shopping requests. This form is typically used for sales teams to collect information from customers regarding their shopping needs, which will be used to assign the correct sales person and tool for the customer's shopping experience. The form ensures that customers' requests are accurately and efficiently processed by the sales team, reducing the chance of miscommunication and errors.
-
-Please ensure that you are only submitting this form once. Multiple submissions may result in unnecessary work and potential duplication of effort. Ensure that you are using the most up-to-date version of the form and that the information is accurate and complete before submitting.
-</thinking>
-
 # Personal Shopping Request Form - Help Guide
 ## Purpose
 This form is designed to collect personal shopping information from customers for the sales team to process their requests efficiently.

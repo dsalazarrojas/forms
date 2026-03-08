@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request access to sea areas, which are likely sensitive or restricted areas. The purpose of this form is to gather information from users to facilitate the approval process for sea access requests. To avoid duplication of efforts, please ensure that you have not submitted a request for the same area or time period before submitting this form. This form is only for users with legitimate access requests.
-</thinking>
-
 # Sea Access Request Form - Help Guide
 ## Purpose
 The Sea Access Request Form is used to request access to sea areas, which are likely sensitive or restricted areas. This form is only for users with legitimate access requests.

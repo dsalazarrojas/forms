@@ -1,6 +1,3 @@
-<thinking>
-Facility Waste Recycling Approval Request Form is used to manage and track the approval process of waste recycling requests within the facility. This form ensures that requests are reviewed, approved, and tracked efficiently. The form can also be used to prevent duplication of efforts and minimize waste recycling request processing time. Please note that all fields marked as "required" are mandatorily, so ensure to complete them properly.</thinking>
-
 # Facility Waste Recycling Approval Request Form - Help Guide
 
 ## Purpose

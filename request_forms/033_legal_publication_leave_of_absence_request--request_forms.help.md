@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to facilitate the process of requesting a legal publication leave of absence. The purpose of the form is to gather information from the employee about their leave request, including the start and end dates of the leave, the type of leave, and the reasons for it. The form also allows the employee to select the manager and team lead who will be responsible for approving their leave request. The form will be used to track the status of the leave request and display it for the employee and relevant parties.
-
-The fields in this form are designed to gather specific information necessary for the leave request process. The form will likely be used by employees in the publishing industry who need to take leave for various reasons such as publishing, editing, or vacation. The form will help track and manage these requests efficiently.
-
-Before filling out this form, please ensure that you have discussed your leave request with your manager and team lead to obtain their approval. The form is not intended to be a substitute for in-person discussions or other communication channels.
-
-</thinking>
-
 # Legal Publication Leave Of Absence Request - Help Guide
 ## Purpose
 This form is designed to request a legal publication leave of absence for employees in the publishing industry. It is intended to be a simple and efficient way to track and manage these requests.

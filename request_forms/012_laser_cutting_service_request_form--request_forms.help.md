@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to request services from a laser cutting service. The form allows end-users to provide information about their specific needs, which will be used to process their request. The goal is to ensure that the service provider has all the necessary details to fulfill the request accurately and efficiently.
-
-To minimize duplication of requests and ensure that the request meets all necessary requirements, we'll only process completed and accurate submissions.
-
-</thinking>
-
 # Laser Cutting Service Request Form - Help Guide
 ## Purpose
 

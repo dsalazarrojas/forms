@@ -1,7 +1,3 @@
-<thinking>
-To be honest, I'm a bit confused about the form's purpose. Is it meant to delegate tasks between workers or supervisors in a team? The form seems to have a mix of fields related to task management, language, and supervisor information. I'm assuming it's for a team leader to delegate tasks to workers, but I'd like to confirm. Please clarify the form's purpose and intended use case.
-</thinking>
-
 # Worker Language Delegation Form - Help Guide
 ## Purpose
 This form is used to delegate tasks between team leaders (supervisors) and workers. It helps in tracking the delegation of tasks, language details, and other relevant information.

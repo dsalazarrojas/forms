@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about a new project's kickoff application. The form is part of the project management process, and its purpose is to gather essential details about the project, including project information, team composition, project status, and other relevant details. This guide will walk you through each field of the form, explaining its purpose and the expected input.
-
-</thinking>
-
 # Kickoff Application Form - Help Guide
 
 ## Purpose

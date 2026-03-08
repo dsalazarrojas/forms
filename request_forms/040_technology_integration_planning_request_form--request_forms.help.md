@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Technology Integration Planning Request Form - Help Guide
 ## Purpose
 The Technology Integration Planning Request Form is used to collect information about technology integration requests made by users in the organization. This form is designed to gather relevant details about the request, including the type of integration, the goals and timelines involved, and the support and technical teams that should be involved in the process. This form is intended to be completed by users who want to request integration of a new tool or platform within the organization.

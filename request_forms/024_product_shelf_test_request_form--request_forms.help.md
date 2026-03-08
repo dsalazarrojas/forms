@@ -1,7 +1,3 @@
-<thinking>
-Before diving into the help guide, I'd like to remind you that this form is AI-generated, meaning it's an original adaptation of a public survey topic, not a copy or extraction from any other form platform. It's released under the Creative Commons Attribution 4.0 license, allowing you to use, modify, and even sell forms derived from it, as long as you give credit. This form is designed for requesting product testing, so let's get into its purpose and how to fill it out efficiently.
-</thinking>
-
 # Product Shelf Test Request Form - Help Guide
 
 ## Purpose

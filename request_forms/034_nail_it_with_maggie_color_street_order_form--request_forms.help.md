@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers about their color street order, such as their name, contact details, and order details. This form should be used for customers to place orders for color products or services.
-</thinking>
 # nail_it_with_maggie_color_street_order_form - Help Guide
 ## Purpose
 The nail_it_with_maggie_color_street_order_form is designed to collect information from customers who want to place an order for color products or services.

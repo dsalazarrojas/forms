@@ -1,10 +1,3 @@
-<thinking>
-This form is used to set up automatic replies for an employee's out-of-office status.
-The form is designed to help employees inform their team and manager about their absence.
-It's essential to fill out this form accurately to ensure that the automatic replies are sent correctly.
-Please review each field to ensure that you are providing the correct information.
-</thinking>
-
 # out_of_office_autoreply_setup - Help Guide
 ## Purpose
 This form is used to set up automatic replies for an employee's out-of-office status, ensuring that the team and manager are informed about the employee's absence.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect requests from students for placement within the university. It allows students to specify the category of their request, provide a description of their needs, and submit additional form data if required. This form is not intended for general use, but rather for internal use by the university to track and manage student placement requests. Please ensure that you only submit this form if you have a legitimate student placement request, and that your request is not already being handled by another form.
-
-</thinking>
-
 # Student Placement Request Form Template - Help Guide
 ## Purpose
 The Student Placement Request Form Template is used to collect information from students who require placement within the university. This form is not intended for general use, but rather for internal use by the university to track and manage student placement requests.

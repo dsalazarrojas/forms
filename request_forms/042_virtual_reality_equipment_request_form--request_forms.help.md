@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request virtual reality (VR) equipment for various purposes. It is designed for students, instructors, or other requestors to provide details about the equipment they need, including type, model, and location. The form also requests the reason for the equipment request, which will help in assessing the priority and approval process.
-</thinking>
 # Virtual Reality Equipment Request Form - Help Guide
 ## Purpose
 The Virtual Reality Equipment Request Form is a request form used to submit requests for virtual reality equipment to the IT department.

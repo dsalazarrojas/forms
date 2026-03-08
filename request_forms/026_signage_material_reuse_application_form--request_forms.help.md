@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # signage_material_reuse_application_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for the reuse of signage materials in your project. Please fill out this form to help us determine the suitability of using existing signage materials for your project needs. This form will be reviewed internally to ensure the materials are not already in use or being reused for another project.

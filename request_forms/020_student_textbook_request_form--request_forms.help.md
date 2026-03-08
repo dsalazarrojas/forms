@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Student Textbook Request Form is used by teachers to request textbooks for their students. This form helps to track and process these requests efficiently. Please note that this form does not replace the teacher's existing workflow, but rather serves as an additional support tool. Before filling out this form, please ensure you have not submitted a similar request in the past and that you have permission from your department head to make the request.
 
 # Student Textbook Request Form - Help Guide

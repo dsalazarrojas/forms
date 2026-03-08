@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for veterinary media appearances, which likely refers to a request for media representation or participation in a veterinary-related context, such as a TV show, documentary, or interview. This form aims to gather information from veterinary professionals or their representatives to facilitate the appearance process. To ensure accuracy, we'll review each submission to prevent duplication and ensure it aligns with our media appearance guidelines. Please fill out this form carefully to avoid delays in processing your request.
-</thinking>
-
 # Veterinary Media Appearance Request Form - Help Guide
 ## Purpose
 This form is designed to help us consider your request for media appearances related to veterinary media, such as TV shows, documentaries, or interviews.

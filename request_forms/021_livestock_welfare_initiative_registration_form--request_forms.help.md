@@ -1,8 +1,3 @@
-<thinking>
-The Livestock Welfare Initiative Registration Form is used to collect information from farmers, ranchers, and other stakeholders about their participation in the Livestock Welfare Initiative. This form helps us understand their level of interest, type of farm, and specific concerns they may have regarding animal welfare. To ensure accurate and efficient collection of data, please fill out the form carefully. Please note that if you are already registered with us, you may not need to fill out this form again. In any case, if you have any questions or concerns about the form, please contact us at your earliest convenience.
-
-</thinking>
-
 # Livestock Welfare Initiative Registration Form - Help Guide
 ## Purpose
 The Livestock Welfare Initiative Registration Form is used to gather information from participants about their participation in the Livestock Welfare Initiative. This includes their interest in participating, type of farm, and specific concerns related to animal welfare.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is used to provide instructions for completing the "Online Information Request Form". Before proceeding, it's worth noting that the form is likely intended for clients or customers who need to request information or services related to environmental consulting, landscaping, or treatment services. It's not immediately apparent if the form is used to request general information or if there's a specific business process associated with it. This form might be used for general inquiries, service requests, or research purposes. The form's purpose is not explicitly stated, so please consider the context in which it's being used in your organization.
-</thinking>
-
 # Online Information Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from clients or customers who need to request services or information related to environmental consulting, landscaping, or treatment services. The form is used to gather details about the client's requirements and needs.

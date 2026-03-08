@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to submit procurement requests, providing a structured platform for individuals to communicate their needs and preferences for purchasing goods or services. The form is meant to be used by employees, clients, or partners who require assistance with acquiring specific items or services. The form's purpose is to gather essential information from users, ensuring that their requests are accurately and efficiently processed.
-
-Before proceeding, please ensure that you have reviewed the form carefully and that your request is not a duplicate. If you have already submitted a request for the same item or service, please do not submit another form.
-
-This guide will walk you through the form's sections and fields, helping you understand what to expect and how to complete it effectively.
-
-</thinking>
-
 # Procurement Request Form - Help Guide
 ## Purpose
 

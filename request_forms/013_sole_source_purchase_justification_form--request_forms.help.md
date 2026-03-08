@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sole Source Purchase Justification Form - Help Guide
 
 ## Purpose

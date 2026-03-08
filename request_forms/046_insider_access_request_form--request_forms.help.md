@@ -1,6 +1,3 @@
-<thinking>
-This is a critical security feature to request access to sensitive information or systems within our organization. Please note that duplicate requests may be rejected. Before submitting a new request, please check if you have previously submitted a request and verify that your circumstances have changed. If you are requesting access on behalf of another person, please use their contact information in this form. If you are unsure of any of the following information or have questions, please don't hesitate to reach out to our support team.</thinking>
-
 # Insider Access Request Form - Help Guide
 ## Purpose
 The Insider Access Request Form is designed to allow users to request access to sensitive information or systems within our organization. This form helps us ensure that all requests are processed in a controlled and secure manner.

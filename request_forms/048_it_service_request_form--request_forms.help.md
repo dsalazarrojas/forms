@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate IT service requests from end-users. The purpose is to collect information about the requests, including details of the issue, its category, status, and other relevant information. This form reduces the need for duplicate requests, ensuring that the IT team focuses on the most current and relevant requests.
-</thinking>
-
 # it_service_request_form - Help Guide
 ## Purpose
 The it_service_request_form is designed to collect information from end-users about their IT service requests.

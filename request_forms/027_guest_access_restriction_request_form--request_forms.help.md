@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, here is a step-by-step guide to creating a help document for the Guest Access Restriction Request Form.</thinking>
-
 # Guest Access Restriction Request Form - Help Guide
 ## Purpose
 This form is designed to facilitate the request for guest access restrictions. By completing this form, you can request restrictions on specific areas, dates, times, and other access parameters for guests visiting your facility.

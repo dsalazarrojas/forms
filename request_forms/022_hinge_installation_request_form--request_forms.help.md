@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a Hinge installation request from users. It appears to be for a specific business or organization, likely for internal purposes. The form likely aims to gather details about the installation of Hinges, which might be used for maintenance, repairs, or other activities. 
 
 </thinking>

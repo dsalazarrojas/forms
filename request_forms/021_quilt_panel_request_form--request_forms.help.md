@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a patient's treatment panel or appointment schedule. This form is likely used in a medical setting, such as a hospital or clinic, to gather relevant details about the patient's medical condition, treatment, and appointment times. 
-
-This form is probably used by medical professionals to quickly and efficiently collect necessary information from patients. The form's content suggests that it may be used for both new patients and existing ones, as the required fields are optional. 
-
-Before proceeding, please ensure that you have not completed this form recently. If you have already submitted this form, there is no need to repeat the process unless there are changes to your treatment schedule or medical condition. 
-
-</thinking>
-
 # quilt_panel_request_form - Help Guide
 ## Purpose
 The Quilt Panel Request Form is designed to collect information about your treatment panel or appointment schedule. This form helps our medical team to efficiently manage your care and ensure that we have the necessary details to provide you with the best possible service.

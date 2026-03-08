@@ -1,17 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a Table Saw extension request. A Table Saw is a machine used in various workshops and departments, and extensions are necessary to allocate extra time for maintenance, training, or other reasons. This form is used to request an extension for a specific Table Saw, and the required fields ensure that essential information is collected and processed correctly.
-
-The form is used by users who are requesting an extension for a Table Saw, and supervisors are responsible for approving or denying these requests. The form will be reviewed internally to ensure that the extension request is valid and that necessary steps are taken to process the request.
-
-To complete this form, please ensure that all required fields are filled out accurately. If a field is optional, it is not necessary to complete it, but providing additional information can be helpful for the internal review process.
-
-Before filling out the form, please note that the "User Input" field is the most important part of the form. It is where you will provide a detailed description of the reason for the extension request, including any relevant dates and times.
-
-Please make sure to fill out the form carefully and accurately, as it will be reviewed internally before any action is taken.
-
-</thinking>
-
 # Table Saw Extension Request Form - Help Guide
 ## Purpose
 This form is used to collect information for a Table Saw extension request. A Table Saw is a machine used in various workshops and departments, and extensions are necessary to allocate extra time for maintenance, training, or other reasons.

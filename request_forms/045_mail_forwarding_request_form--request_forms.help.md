@@ -1,10 +1,3 @@
-<thinking>
-The form is for users to submit a request for mail forwarding services, which can include forwarding mail to a different address, another office, or an email account. To ensure that the form is filled out correctly and efficiently, please review the following guidelines:
-
-* The form is not intended to be a general-purpose contact form. It is specifically designed for mail forwarding requests, so only provide information relevant to this purpose.
-* If you have previously submitted a mail forwarding request, please do not submit another. Instead, contact the relevant office or department directly to inquire about the status of your previous request.
-</thinking>
-
 # Mail Forwarding Request Form - Help Guide
 ## Purpose
 This form is used to submit a mail forwarding request for various reasons such as forwarding mail to a different address, another office, or an email account.

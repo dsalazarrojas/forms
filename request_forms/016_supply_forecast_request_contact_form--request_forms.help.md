@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for forecasting purposes, allowing them to provide a contact form to get in touch with the supply team. The form will likely be used by customers or suppliers to request supply forecasts, which can help the supply team better understand their needs and adjust their forecasts accordingly. 
-
-Please ensure that you only submit a forecast request if this is not already in progress or has not been requested recently. If you're unsure, please contact our support team first.
-
-</thinking>
-
 # Supply Forecast Request Contact Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for forecasting purposes, allowing them to provide a contact form to get in touch with the supply team.

@@ -1,15 +1,3 @@
-<thinking>
-This is a form designer and technical writer's internal reasoning block to explain the purpose and context of the form:
-
-This form is designed to capture information from a user requesting medical equipment loan. The purpose of this form is to collect relevant details about the equipment being loaned, the category it falls under, the loan start and end dates, and the loan status. 
-
-The form should be completed by users who need medical equipment loaned for a specific period. The form's primary goal is to facilitate efficient loan management, making it easier to track and manage loaned equipment.
-
-To prevent duplication and non-relevant requests, this form will ask users for the category and equipment type the loan is for, and ensure that the user can only select one of the provided options for these fields.
-
-This form will be used by medical staff, such as nurses and doctors, as well as other users such as administrators. It will be useful for tracking and monitoring equipment loaned for medical purposes.
-</thinking>
-
 # Medical Equipment Loan Requestæk - Help Guide
 ## Purpose
 The Medical Equipment Loan Requestæk form is designed to provide a structured way for users to request loaned medical equipment. This form captures essential information about the equipment, loan details, and user preferences to ensure efficient loan management.

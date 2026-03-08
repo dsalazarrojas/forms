@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a sample from Mary's Color Street. The purpose of this form is to gather information from customers who need a sample from the company. This form will be used to capture the customer's details, including their name, email, phone number, and other relevant information. The fieldset is designed to be minimal and only capture necessary information to fulfill the sample request.
-</thinking>
-
 # Mary's Color Street Sample Request Form - Help Guide
 ## Purpose
 This form is used to request a sample from Mary's Color Street. It's essential to complete this form accurately to ensure that your sample request is fulfilled correctly.

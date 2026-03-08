@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from event requesters regarding an event they wish to request. It is meant for internal use within the organization. Before filling out this form, please ensure that you are not duplicating a request that already exists. If you are unsure, you can always check with the relevant department or manager to confirm if a similar request has been submitted before.
-
-This form is intended for requesting events such as meetings, appointments, or other internal events. Please fill out this form accurately and completely to ensure that your event request is processed efficiently.
-
-</thinking>
-
 # Event Inventory Request Form - Help Guide
 
 ## Purpose

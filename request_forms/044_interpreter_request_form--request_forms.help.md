@@ -1,7 +1,3 @@
-<thinking>
-We'll create a comprehensive help guide for the Interpreter Request Form that covers its purpose, completion instructions, and field-by-field explanation.
-</thinking>
-
 # Interpreter Request Form - Help Guide
 ## Purpose
 The Interpreter Request Form is used to request the services of an interpreter for language support. This form helps gather information about your language needs, contact details, and additional requirements to ensure a smooth communication process.

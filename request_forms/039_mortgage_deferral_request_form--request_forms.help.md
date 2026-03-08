@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The internal reasoning block is to check if the form is actually needed and not just duplicating an existing process or request. This form should only be used when a customer has already been approved for a mortgage and is requesting a deferral. If the customer has not been approved for a mortgage, they should not fill out this form. 
 
 This form is designed to collect information from customers who have been approved for a mortgage but are requesting to postpone their payments. The goal is to understand their current situation and provide a way for them to request a deferral. 

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to request access to the Academic Innovation Toolkit, which is a collection of tools and resources designed to support academic innovation and progress. This form helps the requestor to provide necessary information about their request, ensuring that the toolkit is allocated effectively and efficiently.
-
-To avoid duplication, users should not submit multiple forms without approval from the current approver. If you need to make changes or updates, please contact the current approver or the form administrator.
-
-</thinking>
 # Academic Innovation Toolkit Request Form - Help Guide
 
 ## Purpose

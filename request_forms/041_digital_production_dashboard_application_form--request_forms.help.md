@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect project information for the Digital Production Dashboard Application. It is a multi-page form that captures various details about the project, including project description, technical requirements, supporting files, team leads, technical leads, project deadline, project start date, notes, email, and phone number. The form is intended to provide a clear and structured way to gather information about the project. Please ensure that each field is filled out accurately and completely, as the form will be used to facilitate the project's success.
-</thinking>
-
 # Digital Production Dashboard Application Form - Help Guide
 ## Purpose
 This form is designed to collect project information for the Digital Production Dashboard Application.

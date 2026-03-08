@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to request the alignment of environmental, social, and governance (ESG) policies within a company or organization. It serves as a mechanism for stakeholders to submit and track policy requests, ensuring that they are reviewed and approved in a timely and efficient manner. 
-
-Before starting this form, please ensure you have a genuine reason to request ESG policy alignment and that you have not already submitted a similar request. This will help prevent unnecessary duplication of effort and ensure that your request is processed promptly.
-
-</thinking>
-
 # ESG Policy Alignment Request Form - Help Guide
 ## Purpose
 The ESG Policy Alignment Request Form is a tool for requesting alignment of environmental, social, and governance policies within your organization. This form helps ensure that your policy requests are properly submitted, reviewed, and approved in a timely and efficient manner.

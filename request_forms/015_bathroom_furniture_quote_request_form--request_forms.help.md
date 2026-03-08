@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers about their bathroom furniture needs. It's designed to be completed by individuals who require a quote for their bathroom furniture project. The form is intended to gather essential details such as the customer's name, contact information, project details, and specific preferences for their bathroom furniture. Before proceeding, please ensure you have not completed this form previously, as it may cause duplication of efforts. 
-
-</thinking>
-
 # Bathroom Furniture Quote Request Form - Help Guide
 ## Purpose
 The Bathroom Furniture Quote Request Form is a comprehensive form designed to collect essential information about your bathroom furniture project. It helps our team understand your needs and preferences, ensuring we provide an accurate quote for your requirements.

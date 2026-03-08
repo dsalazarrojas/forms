@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Referee Payment Request Form - Help Guide
 ## Purpose
 The Referee Payment Request Form is used to request payment for a referee's services during a tournament or event. This form is typically filled out by the referee or event organizer to submit payment requests for the referee's fees.

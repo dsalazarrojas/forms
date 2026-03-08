@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "machine_vision_inspection_system_request_form" is to collect information from users requesting access to the Machine Vision Inspection System. This form should only be filled out by individuals who have a genuine need for the system, and the form submission should be reviewed and approved by the relevant authorities before any further action is taken. Please make sure to only fill out this form if your organization is a legitimate user of the Machine Vision Inspection System, and avoid submitting duplicate requests.
-</thinking>
-
 # machine_vision_inspection_system_request_form - Help Guide
 ## Purpose
 The machine_vision_inspection_system_request_form is a form designed to collect information from users who need access to the Machine Vision Inspection System.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # String Replacement Request Form - Help Guide
 
 ## Purpose

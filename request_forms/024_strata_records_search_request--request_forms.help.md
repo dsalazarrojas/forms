@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help internal users understand how to create a Strata Records Search Request form. The form is used to request access to certain records within a strata complex. This form should only be used for valid and legitimate reasons, and users should ensure that they are not duplicating requests for the same records. 
-</thinking>
-
 # Strata Records Search Request - Help Guide
 ## Purpose
 The Strata Records Search Request form is a tool to facilitate access to specific strata records. It's used to request access to building plans, financial reports, or other types of documents within a strata complex.

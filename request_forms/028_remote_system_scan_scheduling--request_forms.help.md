@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is not duplicated and is relevant to the user's needs. The Remote System Scan Scheduling form is designed to collect information about scheduling a remote system scan. The form is typically used by team members or team leads to request a scan of a remote system. To prevent duplication, we should check if a similar form has been submitted recently or if the scan request is already in progress.
-
-The form is composed of multiple pages, each with various fields that require input. To complete the form, users should follow the instructions below.
-</thinking>
-
 # Remote System Scan Scheduling - Help Guide
 ## Purpose
 This form is used to schedule a remote system scan for a specific system. Please fill out the form accurately to ensure the scan is scheduled correctly.

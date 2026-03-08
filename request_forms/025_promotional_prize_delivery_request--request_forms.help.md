@@ -1,11 +1,3 @@
-<thinking>
-This form is a "promotional_prize_delivery_request" form. To determine if this form is suitable for you, please consider the following:
-
-- Is this form for submitting a request to deliver a prize or promotional gift to a winner?
-- Are you authorized to make requests on behalf of others or only for yourself?
-- Have you already submitted a request for the same prize or promotional gift, or is this a new request?
-</thinking>
-
 # promotional_prize_delivery_request - Help Guide
 
 ## Purpose

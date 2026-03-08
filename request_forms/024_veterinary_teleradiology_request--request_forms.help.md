@@ -1,6 +1,3 @@
-<thinking>
-We must verify that the form is being used for its intended purpose and check for duplications to prevent misuse. This form is for veterinarians to request teleradiology services for patients. We need to ensure that the user is a veterinarian or authorized to make such requests. To prevent duplication, we will check if a request for the same patient has already been made.</thinking>
-
 # Veterinary Teleradiology Request - Help Guide
 ## Purpose
 This form is for veterinarians to request teleradiology services for their patients. Please ensure you are a veterinarian or authorized to make such requests.

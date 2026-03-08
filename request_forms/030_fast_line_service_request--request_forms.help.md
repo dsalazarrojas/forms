@@ -1,8 +1,3 @@
-<thinking>
-The form "Fast Line Service Request" appears to be a request form for some sort of service or assistance. The purpose of this form is to collect information about a service request, likely to help the requester receive the necessary help or support. I assume that the form is for internal use within an organization or company, and the requests might be related to maintenance, repairs, or other types of services. I will provide a help guide based on this understanding.
-
-</thinking>
-
 # Fast Line Service Request - Help Guide
 ## Purpose
 The Fast Line Service Request form is used to submit a service request to the relevant department or team. Please use this form to provide detailed information about the service needed, including the date and time of submission, any additional details, and any specific instructions or requirements.

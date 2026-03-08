@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting access to the Retail Omni Data API. This form should only be used for this purpose, as it is the only approved method for requesting access to this specific API. Please do not use this form for any other purpose.
-</thinking>
-
 # retail_omni_data_api_application_form - Help Guide
 ## Purpose
 

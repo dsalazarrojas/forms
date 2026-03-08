@@ -1,6 +1,3 @@
-<thinking>
-This guide is designed to walk users through the process of requesting frames for art gallery exhibitions or projects. It's meant for staff or external users who need to acquire frames for displaying artwork. The purpose of this guide is to gather all necessary information to fulfill the frame request accurately and efficiently. It's essential to fill out the form completely and accurately to avoid any potential issues or delays.
-</thinking>
 # Art Gallery Frames Requisition Form - Help Guide
 ## Purpose
 The Art Gallery Frames Requisition Form is used to request frames for exhibitions or projects within the art gallery. This form gathers necessary information to ensure that the frames are ordered correctly and on time.

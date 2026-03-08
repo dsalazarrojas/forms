@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to provide a suggested message to a customer, which can be customized and personalized to meet their preferences. The form is intended to be completed by customer service representatives or other personnel who need to respond to customer inquiries. The form is part of a larger process for generating and sending customized replies to customers.
-
-To prevent duplicates, a flag should be set to indicate whether a reply is already being processed or has been sent. This way, customers can avoid receiving duplicate responses.
-
-</thinking>
-
 # Suggested Message Reply Form - Help Guide
 ## Purpose
 This form is designed to help customer service representatives create a suggested message reply to a customer based on their preferences. The form allows selecting the message reply type and personalization options.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information and request wedding child care services. To determine if this form meets your needs, ensure that you are a family member or friend of the newlywed couple and that the form is not a duplicate of a previous request. If you are not a family member or friend of the couple, or if you have already submitted this form, please do not proceed.
-</thinking>
-
 # wedding_childcare_service_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from users who wish to request wedding child care services. The form will be used to gather contact details, event information, and child care requirements.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from team members or managers who wish to propose a team bonding initiative within their team. The purpose of this form is to ensure that team bonding initiatives align with the organization's goals and objectives and are properly communicated and approved within the HR department.
-Please ensure you have a valid reason for proposing this initiative and that it is not redundant. Duplicate initiatives may not be accepted.
-</thinking>
-
 # Team Bonding Initiative Application Form - Help Guide
 ## Purpose
 The Team Bonding Initiative Application Form is a tool for team members or managers to propose team bonding activities that promote collaboration, productivity, and team building within their team.

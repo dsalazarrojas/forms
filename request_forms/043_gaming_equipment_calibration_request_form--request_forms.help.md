@@ -1,8 +1,3 @@
-<thinking>
-**Internal reasoning:** This form is used to collect information for gaming equipment calibration requests. Ensure that the form is filled out accurately and thoroughly, and only submit it for legitimate purposes. Repeatedly submitting this form for the same game or equipment may be considered spam and will be addressed accordingly.
-
-</thinking>
-
 # Gaming Equipment Calibration Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request calibration for gaming equipment. Please use this form to submit a request for calibration, providing as much detail as possible about the issue with the equipment.

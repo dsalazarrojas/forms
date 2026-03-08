@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ประก FM Transmitter License Inquiry Form - Help Guide
 
 ## Purpose

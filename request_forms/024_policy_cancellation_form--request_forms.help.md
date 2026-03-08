@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to request cancellation of a policy. It is intended for users who need to cancel their policy, but please note that only valid policy cancellations will be accepted and approved. If you have already submitted a cancellation request, please do not submit another one as it may lead to unnecessary processing and approval attempts. Please make sure your reason for cancellation is clear and concise in the reason field.
-</thinking>
-
 # Policy Cancellation Form - Help Guide
 ## Purpose
 The Policy Cancellation Form is designed to help users request the cancellation of their policy.

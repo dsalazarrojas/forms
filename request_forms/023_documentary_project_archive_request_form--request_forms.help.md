@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request archival services for documentary projects. It is designed to capture relevant information about the project, including its title, category, description, contact details, and any additional notes or files that may be required. The form is divided into multiple pages, allowing users to provide detailed information about their project in a step-by-step manner. The form is not required, and users can navigate between pages using the "Next Page" and "Previous Page" buttons.
-</thinking>
-
 # Documentary Project Archive Request Form - Help Guide
 ## Purpose
 This form is used to request archival services for documentary projects. It is designed to capture relevant information about the project, including its title, category, description, contact details, and any additional notes or files that may be required.

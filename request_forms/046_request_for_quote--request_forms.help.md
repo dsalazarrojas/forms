@@ -1,9 +1,3 @@
-<thinking>
-This form is for customers to request a quote for a product or service.
-The purpose of this form is to gather information about the customer and their requirements for a quote. It is not intended for internal use within the company.
-This form will not create any automated tasks or triggers.
-</thinking>
-
 # Request For Quote - Help Guide
 ## Purpose
 The Request For Quote form is a tool for customers to provide information about their product or service needs. This information will be used to generate a quote for the customer.

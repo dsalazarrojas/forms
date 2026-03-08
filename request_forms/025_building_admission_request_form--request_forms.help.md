@@ -1,5 +1,3 @@
-<thinking>Building Admission Request Form is used for visitors to request access to a building or facility. Please ensure you are filling out this form for the correct purpose and not to request access for another person. Also, ensure that you're not filling out this form to request access for yourself if you've visited before, as this will not expedite the process. Please fill out this form carefully and accurately to ensure your request is processed efficiently.</thinking>
-
 # Building Admission Request Form - Help Guide
 
 ## Purpose

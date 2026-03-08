@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vendor Parking Access Request Form - Help Guide
 ## Purpose
 This form is designed for requesting access to a vendor parking area. The purpose of this form is to gather information about the individual requesting access, including their name, company name, email, phone number, and preferred parking location. By filling out this form, you will be requesting permission to park on site. Please ensure that this form is submitted only once for each individual requesting access.

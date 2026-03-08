@@ -1,5 +1,3 @@
-<thinking>This form is meant to request a vacation, allowing employees to submit a formal request for time off. To ensure accurate and complete information, please review and provide all necessary details in the form fields. Duplicate submissions will be considered invalid, so please only submit one request per instance.</thinking>
-
 # Vacation Request Form - Help Guide
 ## Purpose
 The Vacation Request Form is a formal request for time off, allowing employees to plan and coordinate their leave.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to request the removal of a product review. The form is typically filled out by customers who have identified a review that they would like to have removed due to various reasons such as the review being outdated, incorrect, or in violation of community guidelines. The form helps the support team to quickly and efficiently review and verify the request. To fill out this form, please ensure that you have all the necessary information and evidence to support your request. Before submitting the form, please double-check that the review you are requesting to be removed is indeed the correct one, as this will expedite the removal process. 
-</thinking>
-
 # Product Review Removal Request Form - Help Guide
 ## Purpose
 The Product Review Removal Request Form is designed to facilitate the removal of a product review that a customer feels is incorrect, outdated, or in violation of community guidelines.

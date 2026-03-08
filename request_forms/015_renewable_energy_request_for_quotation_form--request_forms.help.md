@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or users who are interested in renewable energy solutions, such as solar, wind, hydro, geothermal, or biomass energy. The form is intended to be completed by someone who wants to inquire about the possibility of implementing a renewable energy system, and it will help the team understand their specific needs and preferences. To avoid duplicate requests, please ensure that this form is not used for multiple submissions from the same person or company.
-
-The form is not intended for general inquiries or sales pitches, but rather for specific requests for quotations. If you are not sure if this is the right form for your needs, please check with the relevant authorities first.
-
-Please be aware that this form is not a formal sales or business contract, but rather a request for further discussion and information gathering.
-
-The form is designed to be simple and easy to fill out, and it should take no more than 5-10 minutes to complete. If you need help or have questions, please don't hesitate to contact us.
-</thinking>
-
 # Renewable Energy Request For Quotation Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers or users who are interested in renewable energy solutions. Please fill out this form to help us understand your specific needs and preferences.

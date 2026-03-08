@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Threshold Configuration Form - Help Guide
 ## Purpose
 This form is used to configure thresholds for monitoring and alerting in your system. A threshold is a condition that triggers a notification when it is met. Thresholds can be configured for different types of conditions, such as absolute values or relative time periods. This form helps you set up custom thresholds and notification settings to suit your needs.

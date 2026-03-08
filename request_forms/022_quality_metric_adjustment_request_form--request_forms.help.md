@@ -1,5 +1,3 @@
-<thinking>First, we need to determine the purpose of this form. It seems like it's used to request adjustments to quality metrics within a team or department. The form might be used to track changes to specific metrics, such as sales figures or customer support requests. To avoid duplication, users should only submit a new request if the metric has changed since the last adjustment. To avoid irrelevant requests, users should only submit requests for changes that affect their own department or team. This form likely belongs to a business or organizational context, where metrics are used to measure performance and progress. It's essential to ensure that users understand the form's purpose and use cases before completing it.</thinking>
-
 # Quality Metric Adjustment Request Form - Help Guide
 ## Purpose
 The Quality Metric Adjustment Request Form is used to request adjustments to quality metrics within a team or department. This form should only be used to submit changes to metrics that affect your own department or team and have occurred since the last adjustment.

@@ -1,10 +1,3 @@
-<thinking>
-This form is likely used by property management companies or landlords to request and collect information from current tenants to facilitate the process of evaluating and processing tenant rental applications. This form may be used to verify a tenant's past rental history and to help ensure that they are a suitable tenant for future rentals. 
-
-To avoid duplication of effort and to ensure that all necessary information is collected, property management staff should only submit this form for each rental application. This form will be used to support decisions on whether or not to approve a tenant's rental application. 
-
-Before filling out this form, please make sure to have the tenant's consent and permission to access their past rental history.</thinking>
-
 # Residential Tenancy Reference Request Form - Help Guide
 ## Purpose
 The Residential Tenancy Reference Request Form is a document used to request and collect information from current or past tenants about their rental history and past experiences with the property management company.

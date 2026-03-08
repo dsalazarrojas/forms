@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about project expenses, including project details, expense type, description, date, and contact information. 
-</thinking>
-
 # Project Expense Reimbursement Form - Help Guide
 ## Purpose
 This form is used to request reimbursement for project expenses. To use this form, please follow the steps below.

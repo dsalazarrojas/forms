@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information about keyboard issues that users are experiencing. Its purpose is to gather details about the problem, so that the support team can troubleshoot and resolve the issue efficiently.
-The form is intended to be completed by users who are experiencing problems with their keyboard. By submitting this form, users will provide valuable information about their issue, which will help the support team to better understand and resolve the problem.
-To avoid duplication of effort, please make sure to check if there is an existing issue report that describes your problem before submitting this form.
-</thinking>
-
 # Keyboard Troubleshooting Request Form - Help Guide
 ## Purpose
 This form is used to report issues with keyboards. By filling out this form, you will help the support team to better understand and troubleshoot the problem.

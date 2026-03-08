@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request a change in an employee's work schedule. To confirm, this form is not used for requesting leave, vacation, or other types of time-off, but rather for adjusting an employee's regular working hours or schedule. 
-
-Before filling out this form, please note that if you have recently submitted a similar request, please check with your supervisor or HR department to confirm the status of your previous request and avoid duplicating efforts. 
-
-This form must be filled out in its entirety and submitted to your supervisor or HR representative for review and approval. Please ensure that you have the necessary information and approvals before submitting this form.
-
-</thinking>
-
 # Work Schedule Change Request Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-This form is used for requesting expenses related to various categories of expenses. 
-To use this form, ensure the form is being used for an expense that has not been previously requested or reimbursed. 
-Please refer to the relevant policy for more information on what is eligible for reimbursement.
-</thinking>
-
 # expense_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request expenses related to various categories of expenses. This form is used to track and manage expenses for reimbursement.

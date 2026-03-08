@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help users submit requests for live translation technology applications. It's intended for users who are interested in using our live translation technology services. 
-
-The form is structured into several pages, each with a specific focus, to help users provide the necessary information for their requests. The form's fields are categorized into sections for event details, language needs, technical requirements, and contact information.
-
-This form aims to collect comprehensive and accurate information from users to provide the best possible service. It's not a duplication of another form, and users should be able to provide all required and optional information to get their request processed successfully.</thinking>
-
 # Live Translation Technology Application Form - Help Guide
 
 ## Purpose

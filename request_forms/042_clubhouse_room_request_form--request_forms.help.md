@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information from users who want to request a meeting room for a specific event or purpose. The form will be used to assess the feasibility of the request and allocate resources accordingly. The form should not be filled out by users if they have the same request already submitted or if it's for an event that has already been scheduled.
-
-</thinking>
-
 # Clubhouse Room Request Form - Help Guide
 ## Purpose
 The Clubhouse Room Request Form is a tool used to collect information about meeting room requests. It helps us understand what type of room is needed, when it's needed, and what resources are required to make the meeting a success.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to request a demo for interactive cognitive therapy. This form is required to be completed by all users. It is designed to gather information about the user for the demo. Please ensure that the information you enter is accurate and up-to-date. This form has been created to streamline the demo request process and ensure that all relevant details are captured. Please do not submit multiple requests for the same demo.
-</thinking>
-
 # interactive_cognitive_therapy_demo_request_form - Help Guide
 ## Purpose
 This form is for requesting a demo for interactive cognitive therapy. It is intended for gathering information about the user for the demo and ensures that all relevant details are captured.

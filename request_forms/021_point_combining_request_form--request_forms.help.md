@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for customers to make a request for points transfer between their accounts in a system. The purpose of this form is to gather necessary information from the customer to facilitate the transfer process. To ensure accuracy and efficiency, please review this guide carefully before proceeding.
-
-When filling out this form, please note that the required fields are marked as such and must be completed before submitting the request. The form is split into multiple pages for easier navigation and clarity.
-
-Before submitting the form, please review all the fields carefully to avoid duplication and ensure that the correct information is provided.
-</thinking>
-
 # point_combining_request_form - Help Guide
 ## Purpose
 The point combining request form is designed to gather information for customers to transfer points between their accounts. This form is divided into multiple pages for easy navigation and to ensure accuracy.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in requesting virtual assistant or online business management services. The form is intended to gather contact and service details, as well as agreement and submission information from the submitter. The form will not accept duplicate requests for the same service from the same customer, and the submitter's details will be collected for administrative purposes.
-
-</thinking>
-
 # Virtual Assistant / Online Business Manager Service Request - Help Guide
 
 ## Purpose

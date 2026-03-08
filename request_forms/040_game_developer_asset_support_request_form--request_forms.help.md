@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form is meant to be used by game developers to request support for assets that are not functioning as expected. It's designed to gather necessary information to efficiently assist them in addressing the issue. To avoid duplication of effort and improve response times, please ensure that you're filling this form only when you've experienced an issue with a specific asset. This form will be reviewed by the support team, who will get in touch with you to discuss further assistance. 
-</thinking>
-
 # Game Developer Asset Support Request Form - Help Guide
 ## Purpose
 The Game Developer Asset Support Request Form is a tool for game developers to report issues with assets that are not functioning as expected. If you're experiencing problems with a specific asset, please fill out this form to get our support team's assistance.

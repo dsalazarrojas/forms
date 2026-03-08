@@ -1,7 +1,3 @@
-<thinking>
-
-This form is used to request school activities and events. To ensure that your request is processed correctly, please ensure that you have filled out all the required fields accurately and that you have not submitted the same request previously. Duplicate requests may cause delays in the processing of your request. Please review this guide to ensure you have completed all necessary fields correctly.</thinking>
-
 # School Activity Request Form - Help Guide
 ## Purpose
 The School Activity Request Form is used to submit requests for school activities, events, and other related matters. This form helps us understand your needs and preferences to process your request efficiently.

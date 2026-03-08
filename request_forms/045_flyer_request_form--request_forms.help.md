@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal Note: This form is designed to collect flyer information for a specific request. It is essential to provide clear and accurate information to ensure that the request is completed correctly. Before proceeding, please verify that you haven't already submitted a similar request with the same flyer details.**
-
-</thinking>
-
 # Flyer_request_form - Help Guide
 ## Purpose
 This form is used to request a flyer for a specific date and location. Please fill in the required fields with accurate and clear information to facilitate the processing of your request.

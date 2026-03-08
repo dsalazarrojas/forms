@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow employees to request paid time off (PTO) from work. This form is used to collect information about the employee's request for time off, including their name, dates of absence, reason, status, and manager's comments. It's essential to fill out this form correctly to ensure that your request is processed accurately and efficiently.
-</thinking>
-
 # PTO Request Form - Help Guide
 ## Purpose
 The PTO Request Form is a crucial tool for employees to submit their paid time off requests to the management team. This form helps to streamline the process of requesting time off, ensuring that all necessary information is collected and reviewed by the manager before approval.

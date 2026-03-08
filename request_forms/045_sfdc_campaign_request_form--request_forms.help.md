@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clients to submit requests for salesforce campaigns, such as social media advertising campaigns. Before filling out this form, please make sure you have not submitted a request for the same campaign recently, as duplicate requests may cause delays in processing your request. Please ensure that you have all the necessary information and details required for your campaign request. This form is designed to gather essential information for the campaign team to review and process your request efficiently.
-</thinking>
-
 # sfdc_campaign_request_form - Help Guide
 
 ## Purpose

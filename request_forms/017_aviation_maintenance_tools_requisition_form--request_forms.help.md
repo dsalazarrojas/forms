@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from employees and teams in various departments to request and requisition tools and equipment for maintenance tasks. It ensures that the correct tools are provided to the right personnel at the right time, reducing delays and improving the overall efficiency of maintenance operations. The form should only be filled out for tools that are not already in stock or available for immediate issue. Requisitioning the same tool multiple times for the same purpose is not recommended and may result in delays or cancellations.
-
-</thinking>
-
 # Aviation Maintenance Tools Requisition Form - Help Guide
 ## Purpose
 This form is designed to collect information from employees and teams in various departments to request and requisition tools and equipment for maintenance tasks.

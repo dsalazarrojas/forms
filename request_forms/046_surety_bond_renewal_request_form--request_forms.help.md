@@ -1,9 +1,3 @@
-<thinking>
-The form is used to request the renewal of a surety bond. The purpose of this form is to gather information from the customer for the renewal of their bond. This form is designed to be completed by customers who need to request the renewal of their surety bond. To ensure accurate and efficient processing, please ensure that you are not submitting duplicate or outdated information.
-
-The form is only meant for the renewal of a surety bond, and any other use is not supported. Please review the form carefully to ensure you are providing the correct information.
-</thinking>
-
 # surety-bond-renewal-request-form - Help Guide
 ## Purpose
 The form is used to request the renewal of a surety bond. It is designed to collect necessary information from customers for the purpose of renewing their bond.

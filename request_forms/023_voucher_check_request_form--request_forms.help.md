@@ -1,15 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Voucher Check Request Form, we need to first understand the form's purpose and ensure that it's being used for the correct reasons. This form is designed to facilitate the submission of voucher requests, and it's essential that the user understands how to fill it out correctly and efficiently. 
-
-The form is divided into different fields that cater to different aspects of the voucher request process, including submitting the request, providing business information, specifying services and amounts, and adding additional notes or comments. Each field has been carefully crafted to ensure that the necessary information is captured accurately and efficiently. However, it's crucial that the user understands the purpose and relevance of each field to avoid duplication and ensure the correct submission of the request.
-
-Before proceeding, let's review the form's fields and their corresponding explanations:
-
-* The form is divided into two pages: "Submit Request" and other fields.
-* On the "Submit Request" page, users are asked to select whether they want to submit or not.
-* On the other fields page, users are asked for business information, services and amounts requested, voucher details, contact information, and review status.
-</thinking>
-
 # Voucher Check Request Form - Help Guide
 
 ## Purpose

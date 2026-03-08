@@ -1,7 +1,3 @@
-<thinking>
-We will be using this form to gather information from individuals or organizations interested in exploring partnerships and innovations with our company. This form is meant to capture the essential details of their projects and interests. To ensure that each application is thoroughly reviewed, please only submit once per project, and ensure that your project is not currently under review or awaiting approval.
-</thinking>
-
 # Sustainable Partnership Innovation Application Form - Help Guide
 ## Purpose
 The "Sustainable Partnership Innovation Application Form" is designed for individuals or organizations to share their project details and partnership interests with our company. It aims to facilitate an efficient and effective review process.

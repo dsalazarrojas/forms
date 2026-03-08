@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to help customers or clients request an estimate for house cleaning services. This guide will explain the process of completing the form, what each field represents, and provide tips to ensure accurate and complete submission.
-
-To avoid duplication, please note that this form is designed to collect information about house cleaning services, specifically the services required, estimated cost, and client contact details. It's essential to provide accurate contact information and estimated cost to ensure the cleaning team can prepare for the job efficiently.
-
-</thinking>
-
 # House Cleaning Estimate Form - Help Guide
 ## Purpose
 This form is used to request an estimate for house cleaning services. Please fill it out to provide necessary information for the cleaning team to prepare for your job.

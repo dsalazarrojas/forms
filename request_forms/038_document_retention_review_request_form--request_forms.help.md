@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to facilitate a review process for document retention. It is designed to be completed by individuals seeking to review documents that are subject to retention policies. The form should not be used to request reviews of documents that have already been reviewed or are in an ongoing review process. 
-</thinking>
 # Document Retention Review Request Form - Help Guide
 ## Purpose
 The Document Retention Review Request Form is used to request a review of documents that are subject to retention policies. This form is typically used by individuals who need to review documents for their own use or for others in their organization.

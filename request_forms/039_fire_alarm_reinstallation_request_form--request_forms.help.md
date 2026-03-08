@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-The purpose of this form is to facilitate the submission of requests for reinstallation of fire alarms on properties. It's designed to gather information from end-users to process their reinstallation requests efficiently. To avoid duplicate submissions, please check if a request for the same property has already been made before submitting this form. If you're unsure, you can check the status of previous submissions on our internal system.
-
-</thinking>
-
 # Fire Alarm Reinstallation Request Form - Help Guide
 ## Purpose
 The Fire Alarm Reinstallation Request Form is used to submit requests for reinstallation of fire alarms on properties. This form ensures we have the necessary information to process your request correctly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting graphics and design elements for various campaigns. It is intended for designers and artists to provide their input and feedback on the design and artwork for a particular campaign. The form is a template to gather all necessary information in one place.
-</thinking>
-
 # Graphic Request Form Template - Help Guide
 
 ## Purpose

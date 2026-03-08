@@ -1,7 +1,3 @@
-<thinking>
-The form "Laboratory Leave Of Absence Request" is intended to be a formalized process for laboratory workers to submit their leave requests, ensuring that all relevant information is collected and reviewed by the relevant parties for approval or denial. This form is crucial in maintaining a smooth and organized workflow within the lab environment. To avoid duplication, please ensure that you have not submitted a similar request in the past 30 days. If you are unsure, check your previous leave requests in the system. This form should be completed in its entirety to ensure accurate and speedy processing. Please note that the assigned tool is a required field, as it is essential for lab management to allocate the necessary resources for your leave.
-</thinking>
-
 # Laboratory Leave Of Absence Request - Help Guide
 ## Purpose
 The Laboratory Leave Of Absence Request form is used to submit a formal request for leave from the laboratory, including the request date, end date, reason for leave, and other relevant details such as email and phone number. The form ensures that all required information is collected and reviewed by the relevant parties for approval or denial.

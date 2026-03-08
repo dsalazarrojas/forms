@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to request the display mannequins for fashion retail stores. It allows users to submit a request for display mannequins with specific details such as store name, department, category, and delivery information. The form is used to ensure that the display mannequins are delivered correctly and on time, and that the store has been properly notified and approved.
 
 ## Fashion Retail Display Mannequins Requisition Form - Help Guide

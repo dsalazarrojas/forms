@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand its purpose and functionality.
-The form is called "Process Standardization Assistance Request Form", which suggests it's related to requesting assistance with standardizing processes. Given the options for "Request Type" and "Operational Change", I infer that this form is meant to help employees standardize processes, improve them, or make changes to existing processes.
-Before proceeding, I'd like to check if this form is not a duplicate of any other form with similar purposes. Assuming it's unique, let's create the help guide.
-</thinking>
-
 # Process Standardization Assistance Request Form - Help Guide
 ## Purpose
 This form is used to request assistance with standardizing processes. You can fill it out to seek help from experts in process standardization, process improvement, or change management.

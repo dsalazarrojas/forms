@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Smart Water Usage Report Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the revision of ingredient lists. It's designed to be used by internal stakeholders to request changes to the ingredient list, such as adding or removing ingredients, updating the list, or requesting changes to specific categories or manufacturers. Before proceeding, please ensure you have a clear understanding of the purpose and requirements. This form should not be used for other purposes. Please note that you can save your progress as you fill out the form and review it before submission.
-</thinking>
-
 # Ingredient List Revision Request Form - Help Guide
 ## Purpose
 The Ingredient List Revision Request Form is used to request changes to the ingredient list, such as adding, removing, or updating ingredients.

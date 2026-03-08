@@ -1,9 +1,3 @@
-<thinking>
-This form is used to capture requests for quotes from the Theme Park, which may be used for various types of events such as birthdays, team building, corporate events, or other special occasions. It's essential to fill out this form accurately to ensure that your request is processed correctly. Please make sure you don't submit duplicate requests, as this may lead to confusion and delay in processing your request.
-
-Before filling out the form, please review the following fields and their explanations to ensure you provide the necessary information.
-</thinking>
-
 # theme_park_quote_request_form - Help Guide
 ## Purpose
 The theme park quote request form is used to gather information for quotes from the theme park. This form helps us understand your event details and provide accurate pricing and availability for your event.

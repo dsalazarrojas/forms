@@ -1,18 +1,3 @@
-<thinking>
-We're creating a user-facing help guide for the "Sosyal Medya İçerik Talep Formu" form. This form is intended to capture information from users, likely for a social media-related purpose. To confirm, the form has the following fields:
-- A note field with no specific label or hint
-- Name and Email fields, likely for user identification
-- Phone field for contact information
-- Date and Time fields for scheduling or timeline-related purposes
-- Select One and Select Multiple fields for choosing from options
-- Text field for additional information
-- Integer and Decimal fields for numerical data
-- Another Date field ( likely redundant, considering the previous one)
-
-We'll review the form design to ensure it's clear, concise, and easy to follow for end-users.
-
-</thinking>
-
 # Sosyal Medya İçerik Talep Formu - Help Guide
 ## Purpose
 This form is used for requesting social media content, likely for posting or publication purposes. Fill out the form with your details to help our team create and manage social media content effectively.

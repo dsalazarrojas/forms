@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for weekend maintenance requests. It is not intended for urgent or emergency maintenance, and should only be used for planned maintenance activities. Please note that the form does not require all fields to be filled out, but the more information provided, the better the maintenance team will be able to assist.
-</thinking>
-
 # weekend-maintenance-registration - Help Guide
 ## Purpose
 This form is used to request maintenance activities that take place on weekends. It allows users to submit a request for maintenance, including the type of maintenance, locations involved, and details about the work to be performed.

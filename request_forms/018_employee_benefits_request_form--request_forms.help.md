@@ -1,7 +1,3 @@
-<thinking>
-This form is for employees to request benefits, such as time off, salary changes, or other perks. The form is used to collect information about the employee's request, including their name, job title, and contact details. The form is designed to ensure that employees can request benefits in a clear and concise manner, making it easier for management to process and approve their requests.
-</thinking>
-
 # Employee Benefits Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from employees for benefits requests, such as time off, salary changes, or other perks.

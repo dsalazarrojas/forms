@@ -1,10 +1,3 @@
-<thinking>
-This is a critical section to be filled up with internal thoughts on how this form should be designed based on the provided yaml fields. Please review the provided yaml fields carefully before proceeding. The form is called "Vacuum Truck Service Request". This form seems to be designed to collect information from users who want to request services related to vacuum trucks. The fields include "Job Details", "Service Requested", "Job Type", "Date of Service", "Time of Service", "Location of Service", "Special Instructions", "Contact Number", "Email Address", "Address", and "Services". All of these fields are optional. The form also seems to have a "Service Requested", "Job Type", "Location of Service", and "Services" fields which are select_one, select_one, select_one, and select_multiple types respectively.
-
-To ensure the form is properly completed, please verify if any of these fields were already filled out before, to avoid duplicates. Please make sure to provide accurate and complete information in all fields. If you're unsure of what to fill in any of these fields, please consult with someone who has more experience.
-
-</thinking>
-
 # Vacuum Truck Service Request - Help Guide
 ## Purpose
 This form is used to request services related to vacuum trucks. Fill out this form to provide information about the job you want to be performed.

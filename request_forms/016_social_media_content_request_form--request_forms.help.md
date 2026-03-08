@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information about social media content requests. Its purpose is to collect data on the type of social media platform, the type of content (e.g., photo, video, or post), and other relevant details. The form will help users submit content requests efficiently, ensuring that the content team has all the necessary information to create engaging content. This guide will cover the form's purpose and how to complete it, as well as explain each field in detail.
-</thinking>
-
 # social_media_content_request_form - Help Guide
 ## Purpose
 The social_media_content_request_form is designed to help content teams gather information for social media content creation. It collects details such as social media platform, type of content, content description, target audience, and content request date. This form streamlines the process for content teams and ensures they have all the necessary information to create valuable content.

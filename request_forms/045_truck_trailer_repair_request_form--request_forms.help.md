@@ -1,10 +1,3 @@
-<thinking>
-To create an effective help guide for the "truck_trailer_repair_request_form" form, we need to understand its purpose and the fields that it contains. The form is designed to gather information about a trailer repair request, including the type of trailer, the repair request, the maintenance date, the repair cost, the trailer number, the repair status, and the notes. The form seems to be primarily used for administrative or internal purposes, and it may be used to keep track of trailer maintenance and repairs.
-
-However, there is no explicit indication of whether this form is intended for external users or internal use only. Therefore, we should consider that this form might be used by both external users (e.g., customers who need to report a trailer issue) and internal personnel (e.g., maintenance staff who need to complete the form for each repair). To avoid duplication, we should consider using existing forms or documents that might cover similar topics or processes.
-
-</thinking>
-
 # truck_trailer_repair_request_form - Help Guide
 ## Purpose
 The "truck_trailer_repair_request_form" is a form used to gather information about a trailer repair request. This form is intended to help maintenance staff quickly and accurately collect the necessary information to complete a repair.

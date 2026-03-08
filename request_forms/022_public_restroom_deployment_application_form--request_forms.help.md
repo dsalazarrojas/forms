@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # public_restroom_deployment_application_form - Help Guide
 ## Purpose
 The Public Restroom Deployment Application Form is used to submit a request for the deployment of a public restroom. This form is intended for use by facility owners, managers, or other relevant stakeholders to provide information about the location, features, and accessibility requirements of the restroom. Please ensure that you have the necessary authorization to complete this form and that you are not submitting duplicate requests.

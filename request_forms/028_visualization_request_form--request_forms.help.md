@@ -1,14 +1,3 @@
-<thinking>
-This form is used to request a visualization from a design team. It gathers information about the business requirements, desired outcomes, and other details related to the request. To ensure that this form is relevant to your needs and not a duplicate, please verify that you have not recently submitted a similar request with similar requirements.
-
-Before filling out this form, ensure you have all necessary information ready, such as the project's business description, expected delivery date and time, budget, and priority level.
-
-This form should only be filled out by authorized personnel or representatives from the business side. Unauthorized use may lead to delays or miscommunication in the design process.
-
-If you are unsure about any field or requirement, please do not hesitate to reach out to the design team for clarification.
-
-</thinking>
-
 # visualization_request_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about your visualization request, ensuring that the design team has all necessary details to create an effective and efficient design.

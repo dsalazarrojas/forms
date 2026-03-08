@@ -1,6 +1,3 @@
-<thinking>
-This guide will cover the shipment reschedule request form, which is used to manage rescheduling requests for shipments. This form is intended for end-users to provide information about the rescheduling needs for a shipment. The purpose of this form is to collect details about the reschedule date, time, and reason for rescheduling, as well as the current shipment status and other relevant details. Please fill out the form accurately to ensure that your rescheduling request is processed correctly. Note that this form is not intended for duplicate requests, so please ensure that you have not already submitted a reschedule request for the same shipment.
-</thinking>
 # shipment_reschedule_request_form - Help Guide
 
 ## Purpose

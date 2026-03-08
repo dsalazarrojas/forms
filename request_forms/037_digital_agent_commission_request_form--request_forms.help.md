@@ -1,5 +1,3 @@
-<thinking>...The form purpose is to request commissions for digital agents. The form is not intended for internal use and will not be shared with internal teams, ensuring that external partners can securely submit their commission requests without worrying about internal information sharing. The form should not be duplicated for each commission request; instead, it's a single form for all commission requests. Each field has been designed to collect necessary information for efficient processing and accurate commission payment...</thinking>
-
 # digitalAgentCommissionRequestForm - Help Guide
 ## Purpose
 This form is designed for digital agents to request commissions for their work. It's intended for external use, ensuring secure submission of commission requests.

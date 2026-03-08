@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the RMA Request Form is to enable customers to submit a return merchandise authorization (RMA) request for an item(s) they would like to return. This form ensures that the customer provides necessary information, such as customer details, reason for return, and item details, to facilitate a smooth return process. Please note that this form must only be used for legitimate return requests and not for duplicate or unnecessary requests.
-
-</thinking>
-
 # rma_request_form - Help Guide
 ## Purpose
 The RMA Request Form is a tool for customers to submit a return merchandise authorization request for an item(s) they would like to return.

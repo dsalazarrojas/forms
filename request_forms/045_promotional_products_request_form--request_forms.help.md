@@ -1,34 +1,3 @@
-<thinking>As a form designer and technical writer, I will focus on creating a user-friendly help guide for the "Promotional Products Request Form" that covers its purpose, completion process, and field-by-field explanations. This guide will help users understand what the form is for, how to fill it out correctly, and what each field means.
-
-The form purpose is to collect information from customers or companies requesting promotional products. This includes details about the product name, quantity, color, size, and style preferences, as well as shipping information and contact details. The form will help the organization process these requests efficiently and accurately.
-
-To complete this form, users will need to provide the following information:
-
-1. Product Name: Enter the name of the product being requested.
-2. Requested Quantity: Enter the number of items being requested.
-3. Requested Color: Select the desired color for the product.
-4. Requested Size: Select the desired size for the product.
-5. Requested Style: Select the desired style for the product.
-6. Requested Finish: Select the desired finish for the product.
-7. Company Name: Enter the name of the company requesting the product.
-8. Company Contact Name: Enter the name of the contact person at the company.
-9. Company Email: Enter the email address of the company.
-10. Company Phone: Enter the phone number of the company.
-11. Shipping Name: Enter the name of the person to be shipped to.
-12. Shipping Address: Enter the shipping address.
-13. Shipping City: Enter the city for the shipping address.
-14. Shipping State: Enter the state for the shipping address.
-15. Shipping Zip: Enter the zip code for the shipping address.
-16. Order Date: Enter the date the order is expected to be fulfilled.
-17. Order Time: Enter the time the order is expected to be fulfilled.
-18. Special Requests: Enter any special requests or instructions.
-19. Company Type: Enter the type of company (e.g., retail, wholesale, etc.).
-20. Sales Rep: Enter the name of the sales representative.
-21. Order Details: Enter any additional details about the order.
-22. Notes: Enter any notes or comments.
-
-</thinking>
-
 # Promotional Products Request Form - Help Guide
 ## Purpose
 

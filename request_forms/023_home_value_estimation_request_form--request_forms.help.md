@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose. The Home Value Estimation Request Form is likely used to gather information for clients or customers seeking to estimate the value of their property. This form would help the client provide essential details about their property, such as location, date, and contact information, which would then be used to generate an output file containing the estimated home value.</thinking>
-
 # Home Value Estimation Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from clients or customers to estimate the value of their property. It is used to provide essential details about the property, date, and contact information to generate an output file with the estimated home value.

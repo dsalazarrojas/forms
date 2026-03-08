@@ -1,7 +1,3 @@
-<thinking>
-This form is used by healthcare staff to request medication distribution after hours when the regular shift is not available. The form helps to ensure that medication is dispensed correctly and safely, even when the staff who normally handle the medication are not present. This form should only be filled out when no other options are available, such as when a nurse is not on duty or during a critical care situation. Please ensure you have checked the medication administration schedule and have consulted with your peers before filling this form.
-</thinking>
-
 # After Hours Medication Distribution Request - Help Guide
 ## Purpose
 This form is used to request medication distribution after hours, when the regular shift is not available. It is designed to ensure that medication is dispensed correctly and safely, even when staff who normally handle the medication are not present.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for prescription requests. It's intended for patients or their representatives to provide details about their medication needs and preferences. The form can be used to gather information on various aspects of prescriptions, including the type of medication, dosage, and instructions for use. To ensure accuracy and efficiency, please review the form fields carefully and provide complete information as requested.
-</thinking>
-
 # Prescription Request Form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is a support request form for cultural performance travel, aiming to collect information from performers, event organizers, and other stakeholders involved in cultural events and performances that require travel support. The form is designed to gather data from various fields, including performer information, tour/event details, dates, locations, travel details, travel support requests, contact information, funder identification, and submission. To ensure that users complete the form correctly and avoid duplication, this form has been generated to provide a clear and structured layout with minimal required fields.
-
-</thinking>
-
 # cultural_performance_travel_support_request_form - Help Guide
 ## Purpose
 The cultural performance travel support request form is designed to gather information from performers, event organizers, and other stakeholders involved in cultural events and performances that require travel support. This form helps to streamline the process of requesting travel support and ensures that all relevant information is captured accurately.

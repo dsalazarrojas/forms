@@ -1,9 +1,3 @@
-<thinking> 
-  This form is intended for employees to request a workplace violence restraining order. It is a mandatory form that needs to be filled out in case of an incident involving workplace violence.
-  <hr>
-  Before starting, make sure that there isn't already an active restraining order or that this form isn't being submitted in duplicate. This will help prevent unnecessary paperwork and ensure that the request is processed efficiently.
-</thinking>
-
 # Workplace Violence Restraining Order Request Form - Help Guide
 
 ## Purpose

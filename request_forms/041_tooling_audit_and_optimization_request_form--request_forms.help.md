@@ -1,12 +1,3 @@
-<thinking>
-The "Tooling Audit and Optimization Request Form" is designed to collect information on tooling-related audits and optimization requests from end users. This form helps in identifying areas of improvement for tooling-related processes and provides a structured format for submitting requests.
-
-Before filling out this form, please ensure that you have not already submitted a request for the same issue, as duplicate requests may cause unnecessary delays in addressing the issue. To check if a similar request has been submitted, you can search for existing requests using the provided search feature on our platform.
-
-This form should only be used for legitimate tooling-related issues, and please provide as much detail as possible to ensure that the request is processed efficiently.
-
-</thinking>
-
 # Tooling Audit And Optimization Request Form - Help Guide
 ## Purpose
 The Tooling Audit and Optimization Request Form is designed to collect information on tooling-related audits and optimization requests from end users. This form helps in identifying areas of improvement for tooling-related processes and provides a structured format for submitting requests.

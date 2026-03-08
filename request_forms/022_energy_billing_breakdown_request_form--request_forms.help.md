@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request an energy billing breakdown, which is a detailed analysis of a user's energy consumption and charges. This form is intended to help users understand their energy consumption patterns and identify potential areas for cost savings. 
-
-Before submitting this form, please ensure that you have not already submitted a request for a billing breakdown in the past 6 months, as duplicate requests may not be processed.
-
-Please complete the following form to submit your request. 
-</thinking>
-
 # Energy Billing Breakdown Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request an energy billing breakdown, which will provide you with a detailed analysis of your energy consumption and charges. This analysis will help you understand your energy consumption patterns and identify potential areas for cost savings.

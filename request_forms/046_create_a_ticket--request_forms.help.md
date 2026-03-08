@@ -1,7 +1,3 @@
-<thinking>
-To ensure that this form is used correctly, please note that it is intended for requesting a ticket. This form should not be used for other purposes, such as creating a new user or updating an existing ticket. Before filling out this form, make sure to review the ticket title, subject, and description carefully to ensure that they accurately reflect the request being made. Additionally, select the correct assignee and status to ensure the ticket is properly assigned and prioritized.
-</thinking>
-
 # Create A Ticket - Help Guide
 ## Purpose
 This form is designed to create a new ticket for your request or issue. It's a straightforward process that helps you get your problem or question addressed quickly and efficiently.

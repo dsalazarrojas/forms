@@ -1,9 +1,3 @@
-<thinking>
-This help guide will explain the purpose and usage of the "qms_training_request_form" form.
-The form is intended to capture information for Quality Management System (QMS) training requests, including team and trainer details, training topic and type, attendees, comments, and approval status. 
-The form will be used by employees to submit training requests and by approvers to review and approve or reject requests.
-</thinking>
-
 # qms_training_request_form - Help Guide
 ## Purpose
 The "qms_training_request_form" is a form used to submit requests for QMS training sessions. 

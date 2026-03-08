@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to capture information from individuals or organizations seeking marketing and public relations support from the company. It's essential to fill out this form accurately to ensure that the company can provide relevant and timely support. Before filling out this form, please ensure that you have not already submitted a similar request to avoid duplication of effort.
-
-</thinking>
-
 # Marketing And Public Relations Request Form - Help Guide
 ## Purpose
 This form is used to request marketing and public relations support from the company. It's essential to provide accurate and complete information to help us process your request efficiently.

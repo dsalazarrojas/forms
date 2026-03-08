@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users who need assistance at a distance. The purpose of this form is to help identify and categorize requests for support or help from remote locations. It is crucial to avoid duplication of efforts and ensure that the correct support team receives the necessary information to address the user's concerns. Please fill out this form carefully, providing accurate and complete information to help us better understand and address your needs.
-</thinking>
-
 # Need Assistance At A Distance - Help Guide
 ## Purpose
 The "Need Assistance At A Distance" form is designed to gather information from users who need support or help from a remote location.

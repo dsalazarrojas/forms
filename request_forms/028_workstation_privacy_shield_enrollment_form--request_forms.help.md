@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information about workstations and their associated privacy shield enrollments. Users will need to provide details about the workstation's location, ownership, and employee information, as well as the reason for the request and any additional notes or comments. The form also includes fields for approval, renewal, and replacement status. It's essential that users fill out this form accurately and thoroughly to ensure that the workstation's privacy shield is properly configured... </thinking>
-
 # Workstation Privacy Shield Enrollment Form - Help Guide
 ## Purpose
 The Workstation Privacy Shield Enrollment Form is used to collect information about workstations and their associated privacy shield enrollments. This form helps ensure that workstations are properly configured with the necessary privacy settings, which is crucial for maintaining employee data protection and compliance with company policies.

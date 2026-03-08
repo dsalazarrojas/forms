@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information about a courier's reimbursement for expenses incurred during a delivery. This form is typically used by couriers to report their time spent, gas costs, and any additional purchases made during the delivery. The form may also be used to assign a user to be responsible for the submission and to track the submission date and time.</thinking>
-
 # Courier Reimbursement Form - Help Guide
 ## Purpose
 This form is used to request reimbursement for expenses incurred during a delivery. 

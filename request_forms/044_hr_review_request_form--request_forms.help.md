@@ -1,5 +1,3 @@
-<thinking>HR Review Request Form is used by employees and managers to request reviews for new or existing employee projects. Before filling out this form, please ensure that you have already discussed the project with your manager and have all necessary information ready. Additionally, please note that this form is not intended to request reviews for completed reviews. If you have already submitted a review for the same project, please do not fill out this form again.</thinking>
-
 # HR Review Request Form - Help Guide
 ## Purpose
 The HR Review Request Form is a tool used to request reviews for new or existing employee projects. It allows employees and managers to provide necessary information for the review process, ensuring timely and accurate reviews.

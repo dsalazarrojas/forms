@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tax Return Request Form - Help Guide
 ## Purpose
 

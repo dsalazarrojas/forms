@@ -1,5 +1,3 @@
-<thinking>...This form is intended for the preschool student's teacher or caregiver to assess the student's skills and abilities. The form helps to track and document the student's progress in various areas of development. Each field on the form is designed to provide specific information about the student's skills, including their language and communication skills, social skills, motor skills, and more. This form is typically filled out by the teacher or caregiver at the end of each assessment period, such as at the end of the month or quarter. By completing this form, the teacher or caregiver can get a snapshot of the student's skills and abilities at that point in time, and track changes over time. This can help inform instruction and support for the student in future assessment periods.</thinking>
-
 # Preschool Student Skills Assessment Form - Help Guide
 
 ## Purpose

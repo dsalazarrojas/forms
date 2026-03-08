@@ -1,5 +1,3 @@
-<thinking>As a healthcare AI vendor, you are looking to showcase your product or service to potential clients. This form is designed to gather essential information about your company and product in a standardized format, facilitating a seamless evaluation process. The form consists of multiple fields, which are grouped into several sections. Please note that each field is optional, allowing you to provide as much detail as you want or need. This guide will walk you through each section and field, ensuring you understand the purpose and requirements of each. Before starting, review the sections below to get the most out of this form.</thinking>
-
 # Healthcare AI Vendor RFP Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a comprehensive overview of your company and product in the healthcare AI industry. This information will help us evaluate your submission and determine its suitability for further review.

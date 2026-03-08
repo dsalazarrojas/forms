@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers or agents to request a visa quote from an international travel agency. Before filling out this form, please make sure you have all necessary travel and customer information ready. Please do not submit a duplicate request if you have already submitted a visa quote request in the past. 
-</thinking>
-
 # Visa Quotation Request Form - Help Guide
 ## Purpose
 This form is used to request a visa quotation from our international travel agency. Please provide necessary travel and customer information to help us process your request efficiently.

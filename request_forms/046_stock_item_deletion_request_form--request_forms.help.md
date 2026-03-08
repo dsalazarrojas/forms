@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request the deletion of a stock item from the inventory. It's a crucial process to ensure that outdated or unnecessary items are removed to maintain the inventory's accuracy and organization. Before submitting this form, please make sure that you have a valid reason for deletion and that you're not duplicating a request that's already been made.
-
-When completing this form, please make sure to provide clear and concise information in each field. If you're unsure about any field or have a question, please don't hesitate to reach out to the inventory team for assistance.
-</thinking>
-
 # Stock Item Deletion Request Form - Help Guide
 ## Purpose
 The Stock Item Deletion Request Form is used to request the deletion of a stock item from the inventory. This process is used to remove outdated or unnecessary items to keep the inventory organized and up-to-date.

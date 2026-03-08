@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dog Policy Update Request - Help Guide
 ## Purpose
 The Dog Policy Update Request form is used to submit updates to the dog policy. This form is only intended for authorized users and is used to make changes to the dog policy, which is a critical component of our organization's animal care and management system. Please ensure that you have the necessary permissions to access and update the dog policy before submitting this form.

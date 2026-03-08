@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request events such as meetings, conferences, and other gatherings. It is intended for internal use within an organization. The form is not intended for external or public events. Before submitting this form, ensure that the event aligns with the organization's policies and procedures. Duplicate requests will be reviewed on a case-by-case basis, but it is recommended to fill out the form with new and unique information only.
-</thinking>
-
 # Event Request Form - Help Guide
 ## Purpose
 The Event Request Form is used to submit requests for events such as meetings, conferences, and other gatherings within the organization.

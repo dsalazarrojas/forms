@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prison Visitation Form - Help Guide
 ## Purpose
 This form is designed for individuals visiting a correctional facility to provide necessary information for visitation purposes. It ensures that visitors and prison officials have the required information in a timely and accurate manner.

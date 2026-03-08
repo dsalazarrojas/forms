@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a public venue lighting scheme application. The purpose of this form is to gather project details, dates, lighting requirements, and venue details for a lighting scheme project. This form should only be used by those who are authorized to submit such applications. Please make sure to complete the form carefully and accurately, and do not submit duplicate applications.
-</thinking>
-
 # public_venue_lighting_scheme_application - Help Guide
 ## Purpose
 This form is designed to collect information for a public venue lighting scheme application. This information will be used to assess and implement the requested lighting scheme for the venue.

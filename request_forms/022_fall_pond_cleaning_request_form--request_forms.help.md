@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain how to complete the Fall Pond Cleaning Request Form. Please note that this form is designed to gather information for cleaning a fall pond, and its purpose is to help us schedule and perform the cleaning efficiently. Before proceeding, please ensure that the pond cleaning has not already been scheduled for the current week by checking with our maintenance team or reviewing our internal calendar.
-</thinking>
-
 # Fall Pond Cleaning Request Form - Help Guide
 ## Purpose
 The Fall Pond Cleaning Request Form is used to request pond cleaning services for fall ponds.

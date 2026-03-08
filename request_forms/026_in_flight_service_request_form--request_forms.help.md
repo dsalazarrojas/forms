@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users regarding in-flight services requests. The purpose of this form is to collect details about the services requested by passengers on a flight. The form will help the airlines to provide the necessary services and ensure that the flight operates smoothly. 
-
-The form can be filled out by any passenger who requires any service during the flight. The form is divided into different sections, each covering a specific aspect of the service request. 
-
-Please make sure to fill out this form carefully and completely so that the airline can address your request efficiently.
-
-</thinking>
-
 # in_flight_service_request_form - Help Guide
 ## Purpose
 The in-flight service request form is designed to collect information from passengers about services required during a flight.

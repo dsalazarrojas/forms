@@ -1,13 +1,3 @@
-<thinking>
-
-The Employee Pay Stub Access Request Form is a crucial document that allows employees to request access to their pay stubs. However, it's essential that employees only submit this form when their pay stub access is not already available or if they need to request access for a specific period. To avoid duplication, please ensure that you are not re-submitting this form if you have already completed one for the same period.
-
-Before filling out the form, review the period selection field carefully to select the correct period for which you are requesting pay stub access. If you're unsure, ask HR for clarification.
-
-Please ensure that you're providing the correct delivery preferences, delivery method, and delivery address if you choose to receive your pay stubs via mail or email. This will ensure that you receive your pay stubs promptly and securely.
-
-</thinking>
-
 # Employee Pay Stub Access Request Form - Help Guide
 ## Purpose
 The Employee Pay Stub Access Request Form is used by employees to request access to their pay stubs for a specific period.

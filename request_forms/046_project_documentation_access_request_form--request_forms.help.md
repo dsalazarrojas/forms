@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect information from users who are requesting access to project documentation. The form is used to gather details about the project being requested, the user's information, and the project access type. This form will likely be filled out by someone who needs access to project documentation but does not already have it. The form will help to track the request and ensure that access is granted to the correct user and project. 
-
-This form is not intended to be filled out by someone who already has access to project documentation. If you already have access, you should not fill out this form.
-
-Before proceeding, please ensure that you have read and understood the form's purpose and that you are filling it out for a legitimate reason.
-
-Please note that the form is divided into multiple pages, each with its own purpose. Page 1 is for general information about the project and the user's request. Page 2 is for more specific information about the project and the access type. Please fill out the form in the order and pages as instructed.
-</thinking>
-
 # Project Documentation Access Request Form - Help Guide
 ## Purpose
 The Project Documentation Access Request Form is a tool used to collect information about project documentation access requests. This form is used to gather details about the project being requested, the user's information, and the project access type.

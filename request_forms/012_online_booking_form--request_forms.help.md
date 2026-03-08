@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for online bookings, allowing users to input details about their pickup location, travel dates and times, contact information, and more. The form is likely used by travel agencies to gather necessary information for tour bookings.
-
-To avoid duplication of effort, the form is designed to be completed by one user at a time. This guide will help you navigate the form and provide clear instructions on how to fill it out correctly.
-
-</thinking>
-
 # Online Booking Form - Help Guide
 ## Purpose
 This form collects information for online bookings, including pickup location, travel dates and times, contact information, and other relevant details.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to allow users to submit a request for municipal tree service. This could be for tree trimming, removal, pruning, planting, or maintenance. The form collects information about the address where the tree service is needed, a brief description of the issue, and contact details for follow-up. This form is likely to be used by residents, property owners, or facility managers who need to report issues with trees in a municipal area.
-The form should only be filled out once per tree issue per address. If you need to report another issue with the same address, please fill out the form again and include the new request in the description field.
-Please make sure to submit a photo or video of the issue, if available, to help us better understand the problem.
-</thinking>
-
 # Municipal Tree Service Contact Request - Help Guide
 ## Purpose
 This form is used to request municipal tree service for trees in the area.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to document and authorize the removal of an agent from various systems and rolls. It is essential to complete this form accurately and truthfully to ensure that the removal process is properly executed. Please ensure that you are filling out this form for a valid reason and not duplicating a request that has already been submitted. If you are unsure about the removal process or have questions, consult with the relevant authority before completing this form.
-</thinking>
-
 # Agent Removal Request Form - Help Guide
 ## Purpose
 The Agent Removal Request Form is a critical document that initiates the process of removing an agent from systems and roles. It is used to provide formal notice of termination, resignation, internal transfer, or leave of absence of an agent and revoke access to necessary systems.

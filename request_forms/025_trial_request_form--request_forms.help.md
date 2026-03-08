@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm, we want to make sure this form is being used for the correct purpose and not being duplicated. This form is meant for requesting trials, which is a crucial part of our testing process. We're not sure if this form is being used for something else, so let's review the fields to determine if any of the required fields have been filled out correctly. This form collects information to help us determine if a trial is requested and what kind of support or tools will be required.
 
 # Trial Request Form - Help Guide

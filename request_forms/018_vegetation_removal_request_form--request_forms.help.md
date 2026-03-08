@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vegetation Removal Request Form - Help Guide
 ## Purpose
 This form is designed to request the removal of vegetation from properties, allowing property owners or their representatives to communicate their needs and provide necessary information for efficient vegetation removal services.

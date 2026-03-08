@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the purpose of requesting gas boiler replacement or repair. It's intended for customers to provide details about their boiler and the issues they are experiencing with it. This form is likely to be used by facility management or maintenance teams to gather necessary information for scheduling and executing maintenance tasks. To ensure that the submitted requests are accurately processed, it's crucial that this form is filled out correctly and in full. Please make sure to complete this form only for gas boiler replacement or repair requests and not for other purposes. If you're unsure about which type of request this form is suited for, please contact your supervisor or the designated maintenance team for guidance.
-</thinking>
-
 # Gas Boiler Replacement Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is designed to be used by customers or users who want to opt out of receiving paper bills and switch to electronic statements. To ensure this process goes smoothly and efficiently, please fill out this form to provide your information and preferences. Please note that you can only submit this form if you have not already submitted it in the past 30 days. If you are unsure, you can check with your representative or our billing department.</thinking>
-
 # Paperless Billing Request Form - Help Guide
 
 ## Purpose

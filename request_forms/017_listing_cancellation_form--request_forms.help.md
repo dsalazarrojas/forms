@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Listing Cancellation Form - Help Guide
 
 ## Purpose

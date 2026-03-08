@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for changes to their internal user information, such as profile updates or changes in department affiliation. To avoid duplicate submissions, please ensure you only submit one form per user. Before proceeding, please review the form fields carefully to ensure you are providing accurate and relevant information.
-</thinking>
-
 # user_information_change_request_form - Help Guide
 ## Purpose
 This form is used to request changes to a user's internal information, including but not limited to, profile updates, department affiliation changes, or other internal data updates.

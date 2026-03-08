@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for mediation requests. The form is not meant to be a comprehensive or binding agreement, but rather a way to gather necessary details for internal processing and follow-up actions. Please ensure that your request is not a duplicate, and that you have a legitimate reason for submitting this form. If you're unsure about the form's purpose, please consult with the relevant department before proceeding.
-</thinking>
-
 # mediation_request_form - Help Guide
 ## Purpose
 This form is designed to collect information for mediation requests. It helps the relevant department to understand the details of your request, allowing them to process it efficiently and ensure a proper outcome.

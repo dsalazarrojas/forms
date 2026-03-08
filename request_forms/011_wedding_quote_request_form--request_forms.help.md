@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used for wedding planning, and the vendor list field is probably used to allow the user to select multiple vendors they are interested in getting quotes from. The event date is a required field to help the vendor know when the event is taking place. The budget field is likely used to gauge the user's budget for the event. The number of guests is another required field to help the vendor estimate the resources needed. The contact person is the person to reach out to for further information. The email and phone fields are for communication purposes. The address field is likely for delivery purposes. The message field is for any additional information the user wants to provide. The vendor message field is for any message the user wants to send to the vendor.
-</thinking>
-
 # Wedding Quote Request Form - Help Guide
 ## Purpose
 The Wedding Quote Request Form is designed to help you request quotes from various vendors for your wedding event. This form helps you provide essential information to vendors, allowing them to give you accurate quotes tailored to your needs.

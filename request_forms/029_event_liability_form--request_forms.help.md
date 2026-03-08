@@ -1,5 +1,3 @@
-<thinking>... this form is designed to gather information on events such as conferences, workshops, or meetups. The purpose of this form is to collect details about an event's schedule, its organizer, and any sponsor(s) involved. The form aims to gather data that will help event organizers and sponsors collaborate effectively. It is recommended to fill out this form for each event. Please ensure that the information submitted is accurate and up-to-date. If the same event has been previously registered, please do not submit duplicate entries. This form is not affiliated with or endorsed by any form platform and is an original creation for your convenience...</thinking>
-
 # event-liability-form - Help Guide
 ## Purpose
 The event-liability-form is a tool used to gather event-related information, including date and time, organizer name and email, and sponsor details.

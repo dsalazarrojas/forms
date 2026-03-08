@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Elections Volunteer Request Form - Help Guide
 
 ## Purpose

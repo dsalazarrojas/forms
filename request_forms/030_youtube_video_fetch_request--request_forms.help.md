@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information about a YouTube video fetch request. The form is likely used for internal purposes, such as tracking requests from clients or stakeholders, and may be used by team members or administrators to organize and prioritize tasks. The form does not appear to be for public use or submission by end-users. It's possible that the form is part of a larger internal workflow or process.
-</thinking>
-
 # youtube_video_fetch_request - Help Guide
 ## Purpose
 This form is designed to collect information about YouTube video fetch requests. It's intended for internal use, such as tracking requests from clients or stakeholders.

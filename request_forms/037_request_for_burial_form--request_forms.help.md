@@ -1,10 +1,3 @@
-<thinking>...To create a user-facing help guide for the "Request For Burial Form", we must consider the following:
-
-- The form's purpose: The "Request For Burial Form" is designed to collect information for the burial process. It likely aims to gather essential details to ensure a smooth and respectful burial process.
-- To avoid duplication and relevance: We should ensure that the guide clearly explains each field's purpose and requirements to prevent errors and duplication of effort.
-
-</thinking>
-
 # Request For Burial Form - Help Guide
 
 ## Purpose

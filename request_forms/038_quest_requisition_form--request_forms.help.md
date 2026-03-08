@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a quest requisition form used to gather information and requirements for a project or request. It's likely used in a business or project management context, possibly for tracking or submitting project requests. The form seems to cover various aspects of a project, including project status, deadlines, output formats, and assigned personnel. I will now create a help guide for this form.
-
-</thinking>
-
 # Quest Requisition Form - Help Guide
 ## Purpose
 This form is used to gather information and requirements for a project or request. It's designed to help project managers and team members track and submit project requests, ensuring that all necessary details are captured and communicated effectively.

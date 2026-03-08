@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a graphic web design project. It is used to capture essential details from the requester, including project title, description, contact information, project type, deadline, budget, and project status. This form is likely to be used by a web development team or a company's project management department to gather requirements and initiate a project.
-</thinking>
-
 # kubumedia_graphic_web_design_project_request_form - Help Guide
 ## Purpose
 This form is used to gather project requirements for a graphic web design project. Users are requested to fill in the form with their project details to enable the development team to initiate the project.

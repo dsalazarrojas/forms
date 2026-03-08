@@ -1,11 +1,3 @@
-<thinking>
-This form, "internal_csr_initiative_application_form", is designed for employees to submit internal projects or initiatives that require corporate resources and support. It is intended to help employees get approval for resources, budget, and other necessary support for their project or initiative. Before starting the form, please review the following:
-
-* Ensure the project aligns with company goals and objectives.
-* Verify that there is no duplicate submission for the same project.
-* Confirm that the employee has the necessary approval from their supervisor or manager.
-</thinking>
-
 # internal_csr_initiative_application_form - Help Guide
 ## Purpose
 This form is designed to help employees submit internal projects or initiatives for corporate support and resources.

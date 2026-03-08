@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-friendly help guide for the "Program Removal Request Form", let's break down the form's purpose and fields in a step-by-step approach.
 
 ### Program Removal Request Form - Help Guide

@@ -1,6 +1,3 @@
-<thinking>
-The Advance On Inheritance Form is used to request an advance on an inheritance, which is a payment made to the beneficiary before the final distribution of the estate. This form is essential for ensuring that the beneficiary's needs are met during the probate process. To complete this form, you must ensure that you are not duplicating a previous request or that the request is not already being processed internally. If you are unsure, please reach out to the relevant authority for clarification.
-</thinking>
 # Advance On Inheritance Form - Help Guide
 ## Purpose
 The Advance On Inheritance Form is used to request an advance on an inheritance, which is a payment made to the beneficiary before the final distribution of the estate.

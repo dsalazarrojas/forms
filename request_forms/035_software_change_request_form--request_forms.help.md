@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide for the "Software Change Request Form", let me first provide some internal reasoning behind the form's purpose and requirements.</thinking>
-
 The purpose of this form is to collect and document software change requests from users, likely for the IT department or software development team to review and address. The form is designed to gather relevant information from users to efficiently and effectively handle software change requests.
 
 The form seems to be a simple, text-based form with 12 pages, each containing a text field. This suggests that the form is intended to collect free-form text input from users, possibly for various software-related changes, updates, or issues.

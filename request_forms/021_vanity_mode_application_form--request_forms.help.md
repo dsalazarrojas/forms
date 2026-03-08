@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vanity Mode Application Form - Help Guide
 ## Purpose
 The Vanity Mode Application Form is designed to gather user information and preferences for vanity mode access. Please ensure you only submit this form if you have a genuine interest in vanity mode.

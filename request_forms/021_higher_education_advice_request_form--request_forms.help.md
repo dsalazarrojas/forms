@@ -1,13 +1,3 @@
-<thinking>
-# This form is a higher education advice request form. It is designed to collect
-information from students who are seeking advice on their higher education path.
-This form is for informational purposes only and does not imply any commitment
-or guarantee of admission or financial aid. It is an optional and
-voluntary form, and the information collected will be reviewed by a
-panel of experts. The form is not intended to collect sensitive or
-confidential information, so please only provide public information.
-</thinking>
-
 # higher_education_advice_request_form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from students who are

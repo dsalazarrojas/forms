@@ -1,9 +1,3 @@
-<thinking>...checking for relevance and potential duplication of effort in the "Pet Prescription Form"...
-
-This form appears to be a simple, one-page form for requesting veterinary medication or treatment for pets. It seems straightforward to use, but let's break it down step-by-step to ensure end-users understand what's needed.
-
-</thinking>
-
 # Pet Prescription Form - Help Guide
 ## Purpose
 This form is used to create a prescription for your pet's medical needs. It's a simple, one-page form that gathers information about your pet, your relationship with the owner, and the treatment or medication being prescribed.

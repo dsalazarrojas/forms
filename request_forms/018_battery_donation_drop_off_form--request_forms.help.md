@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Battery Donation Drop Off Form - Help Guide
 
 ## Purpose

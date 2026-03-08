@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is used to collect key request information from users. To ensure that your request is processed correctly, please review the form carefully before submitting it. This form is only for submitting new key requests; if you are resubmitting a request, please use the existing request form.
-
-</thinking>
-
 # Key Request Form - Help Guide
 ## Purpose
 The Key Request Form is used to collect key information from users, including user name, organization, key description, pickup date, and issue date.

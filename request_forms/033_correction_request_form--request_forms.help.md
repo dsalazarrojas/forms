@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Correction Request Form - Help Guide
 ## Purpose
 The Correction Request Form is used to document and track customer corrections or issues related to a product or service. This form helps to gather accurate and detailed information about the problem, which can be used to improve the quality of our products and services.

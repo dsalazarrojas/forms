@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Quick Drive Setup Form - Help Guide
 ## Purpose
 The Quick Drive Setup Form is a form used to collect essential information from the drive requester. This form is necessary for us to process and execute the drive request effectively. Please fill out the form accurately and completely to ensure a smooth drive experience.

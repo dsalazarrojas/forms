@@ -1,15 +1,3 @@
-<thinking>
-
-To provide a user-friendly guide for the Artist Offer Sheet form, we need to consider the following:
-
-- The form is designed to collect information from artists or performers about their offer to participate in an event or project.
-- The form is intended to be filled out by both the event/ project requester and the artist/performer.
-- The form collects information about the requester's and artist's contact details, the event/project details, the terms of the offer, and the acceptance of the offer by the artist.
-
-Before filling out the form, it's essential to understand that this form is a crucial document that will be used to communicate between the event/project requester and the artist/performer, and it's essential to ensure that all the required fields are filled out correctly.
-
-</thinking>
-
 # Artist Offer Sheet - Help Guide
 ## Purpose
 The Artist Offer Sheet is a form designed to collect information from artists or performers about their offer to participate in an event or project. It's essential to fill out the form accurately to ensure a smooth communication process between the event/project requester and the artist/performer.

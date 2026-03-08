@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a tool for designers and creators to submit their entry for the OPEN Runway Video Series, a platform for showcasing fashion and style. This form will help designers provide information about their work, including category, description, niche, episode structure, and collaborations. By using this form, designers can showcase their creativity and style while also helping the platform curate and categorize their work.
-
-To ensure that this form is used correctly, please note that:
-
-*   This form is not affiliated with any form platform and is an original adaptation.
-*   The form's metadata is not extracted from any other platform.
-*   You are free to use, modify, and even sell this form, just give credit.
-
-</thinking>
-
 # Designer Entry Form OPEN Runway Video Series - Help Guide
 ## Purpose
 The Designer Entry Form is a tool for designers to submit their work for the OPEN Runway Video Series. This form helps curate and categorize entries based on the provided information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fundraiser Request Form - Help Guide
 
 ## Purpose

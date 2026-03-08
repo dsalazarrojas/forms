@@ -1,8 +1,3 @@
-<thinking>
-We are creating a user-facing help guide for the Car Request Form, a crucial tool for requesting vehicles for various purposes such as fleet assignments, rentals, and test drives. The form is designed to gather essential information from users about their vehicle requirements, contact details, and payment preferences. To ensure accurate and efficient processing of vehicle requests, it is essential to complete the form accurately and thoroughly.
-To avoid duplication of effort and confusion, please do not submit duplicate requests or incomplete information. If you have any questions or concerns, feel free to reach out to our support team.
-</thinking>
-
 # Car Request Form - Help Guide
 
 ## Purpose

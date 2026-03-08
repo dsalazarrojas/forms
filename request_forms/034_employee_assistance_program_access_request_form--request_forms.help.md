@@ -1,6 +1,3 @@
-<thinking> 
-An Employee Assistance Program (EAP) provides support for employees who need help with personal or work-related issues, such as financial assistance, family or medical issues, or work-related problems. This form is for employees to request access to the EAP, and it is a necessary step for the HR department to process and fulfill requests. Please only submit one form per employee. If you have previously submitted a request, please do not submit another. This form is designed to be easy to use and will help the HR department efficiently process your request. Please provide as much detail as possible to help speed up the process.</thinking>
-
 # Employee Assistance Program Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to the Employee Assistance Program (EAP), a confidential service designed to provide support for employees with personal or work-related issues.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is a request form for users to provide information about their trip to Disneyland. It is used to collect details about their destination, travel dates, number of guests, contact information, and additional information. The form is likely used by a travel agency or a tour operator to plan and book trips for customers. To avoid confusion, this form should only be filled out by people planning a trip to Disneyland.
-
-</thinking>
-
 # disneyland_quote_request_form - Help Guide
 ## Purpose
 This form is used to collect information about your trip to Disneyland. Please fill out the form with your details so we can assist you with planning and booking your trip.

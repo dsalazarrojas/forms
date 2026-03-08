@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request an increase in database storage limit for a team. The form is used by team members to submit a request for a storage limit increase, providing the necessary information for approval. It's essential to ensure that the form is filled out correctly to expedite the approval process and avoid duplicate requests. Please review the form carefully before submitting it to ensure that all required fields are filled out correctly.
-</thinking>
-
 # Database Storage Limit Increase Request Form - Help Guide
 ## Purpose
 This form is used to request an increase in database storage limit for a team. The form requires information about the team members who need access to the increased storage limit, the reason for the request, and other relevant details.

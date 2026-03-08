@@ -1,8 +1,3 @@
-<thinking> 
-We should check if the form is being used correctly and not for duplicate graphic requests. This form is used for requesting a graphic, which is a crucial asset for various purposes within the organization. Before filling it out, please ensure that you have not submitted a similar request recently. If you're unsure, you can check the internal database or ask your team leader.
-
-The form should only be used for legitimate requests that align with the organization's goals. Any misuse or duplicate submissions will be handled accordingly.</thinking>
-
 # Graphic Request Form - Help Guide
 ## Purpose
 This form is designed to help users request access to graphics for their projects. Please use this form to ensure that the requested graphics are relevant to your work.

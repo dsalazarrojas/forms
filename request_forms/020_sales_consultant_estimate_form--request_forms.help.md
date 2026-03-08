@@ -1,5 +1,3 @@
-<thinking>...this form is a crucial tool for sales consultants to estimate services and provide a professional quote to clients. The form is designed to collect client information, services needed, and price estimates for each service. It helps sales consultants provide accurate and reliable estimates, which in turn builds trust with clients and aids in closing deals. Before proceeding, ensure that this form is not being used for another purpose or in an internal process, and that all necessary fields are required to accurately estimate the services. This form is meant for client-facing interactions, so it's essential to be clear and concise in the language used... </thinking>
-
 # Sales Consultant Estimate Form - Help Guide
 ## Purpose
 

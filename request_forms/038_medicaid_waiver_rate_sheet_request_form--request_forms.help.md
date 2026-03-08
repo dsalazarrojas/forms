@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by healthcare providers to request a Medicaid Waiver Rate Sheet, which is a document used to determine the reimbursement rate for Medicaid services. The form is designed to collect necessary information from the provider, including their name, address, waiver type, and other relevant details. The form will help the healthcare provider submit their request in a structured and efficient manner.
-
-Before proceeding, please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created by AI using public survey topic metadata as inspiration.
-
-</thinking>
-
 # Medicaid Waiver Rate Sheet Request Form - Help Guide
 ## Purpose
 This form is designed for healthcare providers to request a Medicaid Waiver Rate Sheet. It helps providers submit their requests in a structured manner and provides necessary information for the waiver determination process.

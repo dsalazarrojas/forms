@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Product Recall Coordination Request Form - Help Guide
 ## Purpose
 This form is used to coordinate and record information for product recalls. It is used to gather data about the product, reason for recall, and other relevant details. Please ensure you have the necessary authorization and approval before submitting a request, and that the request is not a duplicate of a previously submitted request.

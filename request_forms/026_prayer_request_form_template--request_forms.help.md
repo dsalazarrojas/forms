@@ -1,5 +1,3 @@
-<thinking>...This form is intended for users to submit prayer requests to an organisation. It collects information about the requesters, prayer details, and status updates. The form is a combination of text fields, select options, and date fields to gather all necessary information in one place. By completing this form, users can ensure that their prayer requests are correctly assigned and managed within the organisation. Please ensure you have filled out this form correctly as some fields are required for accurate processing.</thinking>
-
 # Prayer Request Form Template - Help Guide
 ## Purpose
 This form is for submitting prayer requests to the organisation, ensuring that all necessary information is collected for correct processing and assignment.

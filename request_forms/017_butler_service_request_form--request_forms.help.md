@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Butler Service Request Form, I will first outline the internal reasoning behind the form's purpose and potential issues with duplication or relevance. The form is designed to capture detailed information from guests regarding their service requests, allowing the butler staff to provide personalized services to meet their needs. To ensure data quality and reduce duplication, the form should be used to request services for one guest at a time. Guests should not use the form for services that are already included in their room package or for services that are not offered by the butler staff. 
-
-</thinking>
-
 # Butler Service Request Form - Help Guide
 ## Purpose
 The Butler Service Request Form is designed to capture detailed information from guests regarding their service requests. This form is used to ensure that the butler staff can provide personalized services to meet the guests' needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a request form for customers who want to get a custom candle quote. It's likely used by a candle-making business or a retail store that sells candles. The form collects information about the customer and their order, such as shipping details and product information. The form doesn't explicitly ask for required information, but it might be implied that the customer should provide all of it to get a proper quote. To avoid duplicating the quote request, it's best to submit only once.
-</thinking>
-
 # Custom Candle Quote Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers who want to get a custom candle quote. This form is designed to be filled out by customers who want to inquire about pricing and ordering custom candles.

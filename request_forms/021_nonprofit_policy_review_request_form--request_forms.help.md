@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to allow users to request a review of a nonprofit organization's policies. The review process is an internal procedure that ensures the organization's policies are up-to-date and effective. This form helps to streamline the request process and ensure that reviews are not duplicated. The organization's staff and leadership will review the submitted forms to prioritize and schedule the reviews accordingly. Please complete this form carefully and thoroughly to increase the chances of your request being approved.</thinking>
-
 # Nonprofit Policy Review Request Form - Help Guide
 ## Purpose
 The Nonprofit Policy Review Request Form is used to request a review of a nonprofit organization's policies. This form helps ensure that the organization's policies are up-to-date and effective in meeting the needs of its constituents.

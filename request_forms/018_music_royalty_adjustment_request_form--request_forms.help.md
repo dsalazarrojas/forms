@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from artists, labels, and publishing companies for music royalty adjustments. This form is used to submit requests for adjustments to music royalties, which are payments made to creators and rights holders for the use of their work in various contexts, such as radio airplay, TV broadcasts, or digital streaming. The form ensures that all relevant details are gathered and submitted in a structured way to facilitate accurate and efficient processing of royalty adjustment requests.
 
 # music_royalty_adjustment_request_form - Help Guide

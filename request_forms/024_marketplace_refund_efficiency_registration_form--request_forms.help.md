@@ -1,5 +1,3 @@
-<thinking>As a marketplace refund efficiency registration form, this form is designed to collect information from customers about their refund requests. The primary goal is to gather accurate and detailed data for efficient refund processing. This form should only be used by customers who have a valid reason for requesting a refund, such as an issue with their order or a problem with a product. To ensure accurate and efficient processing, please fill out the form completely and accurately. If you have already submitted a refund request, please do not submit this form again.</thinking>
-
 # Marketplace Refund Efficiency Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their refund requests, allowing for efficient and accurate refund processing.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to submit a multilingual message, allowing them to provide their contact information, the subject of their message, and a detailed description of their request. To avoid duplication, please ensure that the form is filled out completely and accurately. If you have any existing message or attachment related to this topic, please do not submit it again.
-</thinking>
-
 # Multilingual Message Submission Form - Help Guide
 ## Purpose
 The Multilingual Message Submission Form is designed to enable customers to send a message to our support team in their preferred language, providing us with a clear understanding of their requests and needs.

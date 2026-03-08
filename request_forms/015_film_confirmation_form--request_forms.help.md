@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information about a film submission. The form is designed to collect personal details, contact information, and film-specific data. It's essential to ensure that the user fills out the form correctly, as the information will be used for official purposes. To avoid duplication, please check the form for any existing submissions before proceeding.
-</thinking>
-
 # film_confirmation_form - Help Guide
 ## Purpose
 This form is used to collect information about a film submission. It's essential to fill out the form accurately to ensure that your film is properly documented and processed.

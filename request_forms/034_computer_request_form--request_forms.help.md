@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather detailed information from users regarding computer hardware requests, ensuring accurate and efficient processing. Before filling out this form, please ensure that you are submitting a new request and not duplicating an existing one. The form is divided into several sections, and each field has been carefully crafted to minimize errors and ensure completeness. Please follow the instructions carefully to provide accurate information and avoid unnecessary revisions.
-</thinking>
-
 # Computer Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather essential information from users who wish to submit an intervention request. It's crucial to ensure that users understand what kind of information is being requested and why. Please make sure you are submitting a genuine request and not duplicating an existing one. Before proceeding, review the form carefully to guarantee accurate completion.
-</thinking>
-
 # Intervention Ticket Submission Form - Help Guide
 ## Purpose
 The Intervention Ticket Submission Form is designed to collect necessary information from users who need assistance or have a specific issue that requires intervention. Please fill out this form to submit your request, and our team will review and address it accordingly.

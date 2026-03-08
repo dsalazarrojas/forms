@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to install software on their computer or server. It is primarily intended for internal use within your organization. Please only complete this form if you really need to install software. If you have already installed the software, please do not submit this form again.
-</thinking>
-
 # Software Installation Request Form - Help Guide
 ## Purpose
 The Software Installation Request Form is a tool used to collect information from users who want to install software on their computer or server. This form helps the IT team to track and manage software installation requests efficiently.

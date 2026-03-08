@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Program Collaboration Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting upgrades to VIP services. The form will ask for customer information and specific details about their upgrade requests. The purpose of this form is to gather data for processing upgrade requests in a structured and organized manner. It's essential to fill out the form correctly to ensure that the upgrade request is processed accurately and efficiently. Please note that you should only submit the form once for each request, as duplicate submissions may cause confusion and delay the processing of your request.
-</thinking>
-
 # .report_form - Help Guide
 ## Purpose
 The `.report_form` is a user-facing form used for requesting upgrades to VIP services. It collects customer information and specific details about their upgrade requests to process and manage upgrade requests efficiently.

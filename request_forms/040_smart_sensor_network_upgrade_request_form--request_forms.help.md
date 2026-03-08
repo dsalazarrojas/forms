@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to facilitate the upgrade process for the Smart Sensor Network. This form is intended for users to provide information about their upgrade needs and preferences. It is crucial to ensure that the upgrade request is processed efficiently and correctly. To prevent duplicate submissions, please ensure that you are not submitting this form if you have already done so in the past. If you are unsure, you can check the system for existing requests or reach out to the relevant team for clarification. Please be concise and accurate while filling out the form to ensure that your request is processed without any delays. Please use the following instructions to complete this form correctly...</thinking>
-
 # Smart Sensor Network Upgrade Request Form - Help Guide
 ## Purpose
 The Smart Sensor Network Upgrade Request Form is used to submit an upgrade request for the Smart Sensor Network. This form helps the upgrade team process your request efficiently.

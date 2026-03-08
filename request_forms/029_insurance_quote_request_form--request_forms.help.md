@@ -1,5 +1,3 @@
-<thinking>Internal note: The purpose of this form is to collect information from users about their insurance quote requests. This form is intended to be used by customers or clients to provide details about the type of insurance quote they are interested in, their contact information, and any additional relevant details. This form is not intended to collect sensitive information that would require additional security measures or verification steps. Before filling out this form, please ensure you have not already submitted a request of this kind recently. If you're unsure, you can always contact our support team to check the status of your previous request.</thinking>
-
 # Insurance Quote Request Form - Help Guide
 ## Purpose
 The Insurance Quote Request Form is a simple form that helps us gather information about your insurance quote request. Please fill out this form to provide details about the type of insurance you are interested in, your contact information, and any additional relevant details.

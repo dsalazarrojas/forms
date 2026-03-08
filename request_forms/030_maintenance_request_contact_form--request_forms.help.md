@@ -1,7 +1,3 @@
-<thinking>
-This form is a user-facing contact form for submitting maintenance requests to a facility or organization. It's intended to be used by users who want to report issues or concerns regarding maintenance or upkeep within the facility. The form is designed to gather relevant information that will help the organization understand the request and address it effectively. Before filling out this form, please ensure you haven't already submitted a similar request or issue in the past. If you're unsure, check the facility's maintenance request history to avoid duplication.
-</thinking>
-
 # Maintenance Request Contact Form - Help Guide
 
 ## How To Complete This Form

@@ -1,10 +1,3 @@
-<thinking>
-This form seems to be intended for users to request two-way radio equipment and associated event details. The form likely serves as a tool for event organizers or coordinators to gather information about the equipment needed for an event and the event's specifics. It is possible that the form is used to ensure that all necessary equipment is available and accounted for before the event.
-
-To avoid duplication of requests, it is assumed that users will be able to view and edit their submitted forms. This form may be part of a workflow for event planning and coordination.
-
-</thinking>
-
 # Two Way Radio Request Form - Help Guide
 ## Purpose
 The Two Way Radio Request Form is designed to help event organizers and coordinators gather information about two-way radio equipment needs and event details. This form ensures that all necessary equipment is available and accounted for before the event.

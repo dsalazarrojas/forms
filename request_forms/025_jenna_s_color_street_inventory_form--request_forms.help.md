@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to document their street inventory, including color details, quantity, and other relevant information. This form should only be used for users to report their observations of the street's color palette. Please ensure you are filling this form accurately and not duplicate your submission. If you're unsure, please ask your supervisor for clarification.
-</thinking>
-
 # jennas_color_street_inventory_form - Help Guide
 ## Purpose
 This form is for users to report their observations of the street's color palette.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from potential customers who are interested in a software product demo. The purpose of this form is to streamline the demo request process and provide a clear and concise way for customers to communicate their needs and preferences. 
-This form should only be used by customers who are interested in requesting a demo of one of our software products. If you are not a customer, please do not fill out this form.
-</thinking>
-
 # Software Product Demo Request Form - Help Guide
 ## Purpose
 This form is intended for potential customers to request a demo of one of our software products. It will help us understand your needs and preferences to provide a tailored demo experience.

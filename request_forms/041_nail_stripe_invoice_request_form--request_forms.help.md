@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # nail_stripe_invoice_request_form - Help Guide
 ## Purpose
 The "Nail Stripe Invoice Request Form" is used to collect information for generating an invoice related to nail stripe services. This form helps to record details such as stripe color, width, length, style, material, and other relevant information required for the invoice.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Resort Amenities Requisition Form - Help Guide
 ## Purpose
 The Resort Amenities Requisition Form is a form used to request amenities from the resort. This form allows guests to provide their preferences and requirements for their stay, such as special requests, dietary needs, and any other amenities they may need during their visit.

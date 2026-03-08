@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Archaeologist Estimate Form - Help Guide
 ## Purpose
 The Archaeologist Estimate Form is designed to gather information about a project's details. This form is intended for project managers, team leaders, and other stakeholders to provide a comprehensive overview of a project's scope, timeline, and budget requirements. Fill out this form to ensure that your project is well-planned and that all necessary information is gathered.

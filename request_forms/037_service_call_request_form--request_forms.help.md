@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Service Call Request Form" to ensure that end-users understand the form's purpose, how to complete it, and what each field means. I'll base the explanation on the provided YAML fields and strive to be concrete, concise, and practical.</thinking>
-
 # Service Call Request Form - Help Guide
 ## Purpose
 The Service Call Request Form is a tool used to capture essential information for requesting service calls to be performed by customer service agents. This form helps ensure that the necessary details are collected accurately and promptly, allowing for efficient handling of service calls.

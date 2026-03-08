@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect subscription renewal approval requests from users. The purpose of this form is to gather relevant information for approval decisions. To prevent duplicate requests, the system checks if a user has already submitted a renewal request for the same subscription. If a user has already submitted a request, they will be prompted to provide an updated request.
-</thinking>
-
 # Subscription Renewal Approval Request Form - Help Guide
 ## Purpose
 This form is used to collect subscription renewal approval requests from users. The purpose of this form is to gather relevant information for approval decisions.

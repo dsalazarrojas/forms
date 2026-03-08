@@ -1,7 +1,3 @@
-<thinking>
-The internal purpose of this form is to collect information related to petty cash transactions. This form should only be used for transactions that fall under the category of "request_forms" and should not be used for duplicate or irrelevant purposes. 
-</thinking>
-
 # Petty Cash Form - Help Guide
 ## Purpose
 The Petty Cash Form is used to track and record petty cash transactions. This form helps accountants and financial administrators gather necessary information about expenses and transactions that fall under a specific category.

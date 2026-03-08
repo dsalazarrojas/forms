@@ -1,9 +1,3 @@
-<thinking>
-This form is used by users to request a status override for a spot. A spot status override is a change to the status of a spot that is not automatically handled by the system. This form is used to manually update a spot's status in cases where the system is not able to handle it automatically. The form is typically filled out by a user with access to the spot's facility and the spot's status itself.
-Please ensure that you have the proper permissions and access to the spot's facility before submitting this form. Also, be sure to fill out all relevant fields to ensure your request is processed properly.
-If you have already submitted a status override request for this spot, please do not resubmit. Only one status override request should be submitted for each spot at a time.
-</thinking>
-
 # Spot Status Override Request - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to help individuals break up with someone in a way that is clear, compassionate, and respectful. It is meant to be a structured and guided process to help individuals express their feelings and intentions in a way that is both personal and professional. The form is not intended for use in emergency or crisis situations, but rather for planned breakups.
-
-The form is also designed to be adaptable to different types of relationships, such as casual dating, long-term relationships, or relationships in the early stages of development. It can be used as a tool for individuals to reflect on their feelings and decisions, and to communicate their intentions to their partner in a clear and respectful manner.
-
-Before completing this form, it is recommended to take some time to reflect on your feelings and intentions, and to consider the impact of your actions on your partner. The form should not be used as a substitute for in-person or phone conversations, but rather as a supplement to those conversations.
-
-Please note that some fields are marked as optional, and you are not required to answer them. However, filling out all fields can provide more context and clarity to your breakup message.
-
-Also, please be aware that some of the options provided are not mutually exclusive, and you may choose multiple options that best fit your situation.
-</thinking>
-
 # Breaking Up Form - Help Guide
 ## Purpose
 The Breaking Up Form is designed to help individuals break up with someone in a clear, compassionate, and respectful manner. It guides you through a series of questions to help you express your feelings and intentions to your partner.

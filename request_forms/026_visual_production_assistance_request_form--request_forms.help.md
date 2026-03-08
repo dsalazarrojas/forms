@@ -1,13 +1,3 @@
-<thinking>
-
-The "Visual Production Assistance Request Form" is intended for users to submit requests for assistance from internal production teams. This form will help ensure that the production team receives all necessary information to efficiently process and fulfill production requests. 
-
-This form is designed to gather essential details about the project, such as marketing team involvement, agency name, project specifics, production requirements, deadline, budget, contact information, and any additional comments or files related to the project. By using this form, production teams can better understand the scope and requirements of each project, allowing for more efficient and effective production.
-
-Before submitting the form, please make sure to review your project details carefully and ensure that you are not duplicating efforts or submitting unnecessary requests. This form is intended for new requests only and will help prevent duplicate work and ensure that production teams focus on the most critical projects.
-
-</thinking>
-
 # Visual Production Assistance Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from users to facilitate production requests. Please use this guide to ensure you complete the form correctly and efficiently.

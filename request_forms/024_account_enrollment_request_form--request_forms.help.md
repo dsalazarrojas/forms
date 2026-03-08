@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals or organizations seeking to enroll in an account on our platform. This form is used to determine whether the applicant meets the necessary requirements and has the necessary information to proceed with the account enrollment process. It is essential to fill out the form accurately and completely to ensure that the information is up-to-date and relevant.
-
-Before filling out the form, please note that it is designed to be a one-time submission. If you have already submitted an enrollment request, please do not resubmit. Our team will review your application and contact you if further information is required.
-
-</thinking>
-
 # Account Enrollment Request Form - Help Guide
 
 ## Purpose

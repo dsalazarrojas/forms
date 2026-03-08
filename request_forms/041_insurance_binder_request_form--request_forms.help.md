@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for insurance binders, which are documents that bind the terms of an insurance policy between a client and an insurance company. The purpose of this form is to capture relevant details about the client, the policy, and the broker's notes, ensuring that all necessary information is accurately recorded.
-To prevent duplication or incorrect submission of insurance binders, it is essential to verify that the information provided is up-to-date and complete before submitting the form. The form requires a combination of text, date, and email inputs, which need to be filled in accurately to create a complete and valid insurance binder.
-</thinking>
-
 # Insurance Binder Request Form - Help Guide
 ## Purpose
 

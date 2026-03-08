@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from travelers whose luggage has gone missing during a flight. 
-The form will be used to gather details about the passenger's travel information, baggage contents, and contact preferences. 
-To ensure accurate and efficient processing of the missing luggage claims, please complete the form as thoroughly as possible. 
-Please do not submit duplicate claims for the same missing luggage. 
-</thinking>
-
 # Lost Luggage Recovery Request Form - Help Guide
 ## Purpose
 The Lost Luggage Recovery Request Form is a tool used to gather information about missing luggage from passengers. It helps our team to quickly identify and retrieve the missing baggage.

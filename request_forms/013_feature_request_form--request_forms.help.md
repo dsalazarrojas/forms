@@ -1,9 +1,3 @@
-<thinking>
-
-To create the help guide for the "Feature Request Form", I need to understand the form's purpose and the fields it contains. Based on the provided YAML, the form appears to be a general feature request form, likely used to gather feedback and suggestions from customers. The form has four fields: "form_data", "customer_name", "customer_email", and "feature_request".
-
-</thinking>
-
 # Feature Request Form - Help Guide
 ## Purpose
 This form is designed to collect suggestions and feedback from customers on features they would like to see added or improved in our product. This will help us better understand your needs and priorities for future development.

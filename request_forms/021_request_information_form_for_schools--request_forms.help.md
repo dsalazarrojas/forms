@@ -1,17 +1,3 @@
-<thinking>
-This form is intended for school representatives to request information about a specific topic or subject they are interested in learning more about. To use this form, school representatives must be registered with our organization and have access to our platform. Before submitting the form, please check that you are not duplicating a request we may have already addressed, as we may not respond to duplicate requests to avoid unnecessary communication.
-
-This form is divided into multiple pages, each with its own field set.
-
-To complete this form, follow these steps:
-
-- Select "Request Information" to begin.
-- Fill out your name and email address in the "Your Name" and "Your Email" fields, if required.
-- Enter your phone number in the "Your Phone" field, if required.
-- In the "Interested In" field, type a brief description of what you would like to learn more about.
-
-</thinking>
-
 # Request Information Form (For Schools) - Help Guide
 ## Purpose
 The Request Information Form for Schools is a platform for school representatives to request information about a specific topic or subject they are interested in learning more about. It is designed to facilitate knowledge sharing and collaboration between our organization and schools.

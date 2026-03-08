@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for City Wide Shift Bid Participation, where employees can express their preferences for shifts they would like to be assigned to. The form is used to gather information about the employee's current department, assigned shift, seniority date, and bid preferences. The goal is to create a clear and structured way for employees to submit their bids, which will be considered in the shift assignment process. To ensure accurate and consistent submissions, it's essential to complete this form with attention to detail and careful consideration of each field.
-
-This form is intended for employees who are participating in the shift bid process. It's not designed for non-employees or external users. Before submitting this form, employees should review the form carefully to ensure they understand the purpose and requirements. To prevent errors and confusion, employees should not duplicate their bids or submit incomplete forms.
-
-The submission of this form is mandatory for employees participating in the shift bid process. Failure to submit this form may result in missed opportunities or incorrect shift assignments. Employees who are unsure about any aspect of this form or the shift bid process should consult their supervisor or HR representative for guidance.
-</thinking>
-
 # City Wide Shift Bid Participation - Help Guide
 ## Purpose
 The City Wide Shift Bid Participation form is used to collect information about employees' shift preferences for the purpose of shift assignment and scheduling.

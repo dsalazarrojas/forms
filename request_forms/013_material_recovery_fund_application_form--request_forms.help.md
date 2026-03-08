@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for material recovery fund applications, which are typically used by organizations to request financial assistance for specific projects or initiatives. The form is meant to be completed by individuals or representatives of organizations seeking funding. The purpose of the form is to gather relevant details such as the applicant's name, contact information, project details, and funding requirements. Please ensure that you have a valid reason for requesting funding before submitting this form. Duplicate submissions will be flagged for review.
-
-</thinking>
-
 # Material Recovery Fund Application Form - Help Guide
 ## Purpose
 The Material Recovery Fund Application Form is designed to collect information for material recovery fund applications. This form is meant to be completed by individuals or representatives of organizations seeking funding for specific projects or initiatives.

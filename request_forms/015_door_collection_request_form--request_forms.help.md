@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to request access to collect and manage their door collections. The form is meant for users to provide relevant information about their door collection needs. 
-The following guide is designed to walk through the user-facing aspects of this form.
-</thinking>
-
 # Door Collection Request Form - Help Guide
 
 ## Purpose

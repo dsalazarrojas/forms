@@ -1,7 +1,3 @@
-<thinking>
-The Visual Effects Adjustment Request Form is used for requesting adjustments to visual effects in a project. This form allows users to provide details of the adjustments they want to make, which can include changes to the expected resolution date, time, or status of the project. The purpose of this form is to facilitate communication between project teams and stakeholders, ensuring that all relevant adjustments are recorded and tracked.
-</thinking>
-
 # Visual Effects Adjustment Request Form - Help Guide
 ## Purpose
 This form is used to request adjustments to visual effects in a project. It captures essential details of the request, including the studio, project, reason for request, expected resolution date and time, and status.

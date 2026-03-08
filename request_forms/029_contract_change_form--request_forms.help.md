@@ -1,7 +1,3 @@
-<thinking>
-A form for requesting changes to existing contracts. This form is used to gather information about a proposed change to a contract, including the reason for the change, potential impact on cost and schedule, and the recommended course of action. To ensure accurate and complete responses, please review the form carefully before submitting your request.
-</thinking>
-
 # Contract Change Form - Help Guide
 
 ## Purpose

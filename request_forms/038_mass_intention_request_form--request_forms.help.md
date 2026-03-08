@@ -1,9 +1,3 @@
-<thinking>
-The Mass Intention Request Form is designed to gather information for the Mass intentions to be held at our church. The purpose of this form is to provide a structured way of capturing the details of the Mass intentions, including the date and time of the event, the name of the person the Mass is being requested for, and any additional comments or requests. This form helps to ensure that all necessary information is collected consistently and accurately.
-
-This form should not be completed multiple times for the same event. If you are requesting a Mass for the same date and time, please use the same form number. For example, if you requested a Mass for the 12:00 PM Sunday Mass last week, and you're requesting another Mass for 12:00 PM on the same Sunday, please do not submit a new request using this form.
-</thinking>
-
 # Mass Intention Request Form - Help Guide
 ## Purpose
 The Mass Intention Request Form is designed to gather information for the Mass intentions to be held at our church. The purpose of this form is to provide a structured way of capturing the details of the Mass intentions, including the date and time of the event, the name of the person the Mass is being requested for, and any additional comments or requests.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a creative design request from a client. This form will help designers gather the necessary details to create a design that meets the client's needs and expectations. Before proceeding, please ensure that this is a new request and you have not already submitted a similar form with similar requirements.
-
-Please note that the form is not intended to be used for internal purposes or for submitting existing designs. If you need to update an existing design, please use the appropriate update form.
-
-Also, ensure that you have the necessary permissions and approvals to submit this form on behalf of the client.
-
-</thinking>
-
 # Creative Design Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about a client's creative design request, allowing our designers to provide high-quality designs that meet their needs and expectations.

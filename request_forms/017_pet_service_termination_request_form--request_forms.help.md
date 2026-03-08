@@ -1,16 +1,3 @@
-<thinking>
-Pet Service Termination Request Form is used to document and facilitate the termination of pet services. This form should be used when a pet service is no longer needed or has been cancelled by a customer. Please fill out this form only once for each pet service termination.
-
-Before completing this form, please ensure that you have reviewed and understood the following:
-
-* You are an authorized representative of the company.
-* The pet service is not currently active.
-* The customer has given their consent to terminate the service.
-
-If you are unsure, please contact your supervisor or the customer before proceeding.
-
-</thinking>
-
 # Pet Service Termination Request Form - Help Guide
 ## Purpose
 The purpose of this form is to document and facilitate the termination of pet services.

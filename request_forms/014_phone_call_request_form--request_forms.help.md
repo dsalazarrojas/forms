@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow users to request a phone call from a support staff member. The form is intended to be used for various purposes, such as requesting technical support, asking a question, or scheduling a call to discuss a specific topic. To ensure that the form is completed correctly, please review the following steps and explanations.
-
-</thinking>
-
 # phone_call_request_form - Help Guide
 ## Purpose
 The phone call request form is a tool for users to request a phone call from a support staff member. It is used to capture necessary information to facilitate the call and ensure that the support staff member has all the necessary details before the call.

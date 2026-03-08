@@ -1,7 +1,3 @@
-<thinking>
-The Meal Reimbursement Form is used to submit a request for meal reimbursement. This form is intended for employees who need to claim reimbursement for meals they have purchased on company business. The form should only be completed if the employee has actually incurred a meal expense for which they are seeking reimbursement. To avoid duplication, ensure that you have not already submitted a request for this meal expense. If you are unsure, please reach out to your supervisor or HR representative for guidance.
-</thinking>
-
 # Meal Reimbursement Form - Help Guide
 ## Purpose
 This form is used to submit a request for meal reimbursement for business-related expenses. Please fill out the form accurately and completely.

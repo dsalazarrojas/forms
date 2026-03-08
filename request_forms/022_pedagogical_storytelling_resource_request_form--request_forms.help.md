@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this form is to help educators discover and access pedagogical resources that match their needs. This form gathers information about the educator's request, which will be used to find the most suitable resource from our collection. Please ensure that you have not submitted this form recently, as submitting multiple forms for the same resource request may cause duplicate requests. If you need help with a similar request, please contact your pedagogical resource manager.
 
 # Pedagogical Storytelling Resource Request Form - Help Guide

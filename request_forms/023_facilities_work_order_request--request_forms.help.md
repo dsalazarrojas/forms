@@ -1,13 +1,3 @@
-<thinking>
-A Facilities Work Order Request form is used for requesting and managing facility work orders. To ensure the form serves its purpose, we need to confirm that the following conditions are met:
-- The form is used for requesting maintenance, repairs, or other types of work on facilities, such as maintenance, upgrades, or renovations.
-- The form is used within the facilities management team to manage and track work orders.
-- The form is not used for other types of requests or work orders that do not fit this specific purpose.
-
-Please review the form fields and verify that they are correctly set up for this purpose and that there are no duplicate fields or fields that serve a different purpose.
-
-</thinking>
-
 # Facilities Work Order Request - Help Guide
 ## Purpose
 This form is designed to facilitate the submission of work orders for facilities management, allowing users to request maintenance, repairs, or other types of work on facilities. It is used by facility staff to submit, track, and manage these requests.

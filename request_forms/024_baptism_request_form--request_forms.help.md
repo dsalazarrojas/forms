@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who are requesting a baptism service, either for themselves or for someone else. It will help us understand your relationship to the candidate, the type of baptism requested, and the preferred date and location for the ceremony. The form also asks about the candidate's name, date of birth, and age, as well as your personal details such as email, phone number, and church affiliation. Please make sure to fill out this form accurately and comprehensively, and do not duplicate requests as this will cause confusion and delay the process. If you are unsure about any of the fields, please reach out to us for clarification.
-</thinking>
-
 # Baptism Request Form - Help Guide
 ## Purpose
 The Baptism Request Form is designed to collect information for a baptism service, whether for the individual requesting the baptism or for someone else. This form helps us understand your relationship to the candidate, the type of baptism requested, and preferred ceremony details.

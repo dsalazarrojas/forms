@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Obituary Information Request - Help Guide
 ## Purpose
 This form is designed to gather information about an individual's obituary. Obituaries are formal announcements or public notices, typically published in newspapers, about the passing of someone, including details about their life, funeral, or death. This form requests essential information about the individual who has passed away to create an online obituary for public viewing and sharing.

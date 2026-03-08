@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their wallpaper requests for a browser extension. The form should only be completed by users who are requesting a wallpaper for a browser extension. The form is not intended for internal use and should not be completed by internal personnel. This form will help the development team understand the user's wallpaper preferences and tailor the design accordingly. Please fill out this form to ensure that your wallpaper request is properly documented and assigned to the right development team member. Note that this form will not be used for production or other purposes.
-</thinking>
-
 # Wallpaper Request For Browser Extension - Help Guide
 ## Purpose
 This form is intended for users requesting a wallpaper for a browser extension.

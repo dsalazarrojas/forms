@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be completed by users to request reports on ongoing or completed projects. The purpose of the form is to gather essential information about the project and the person requesting the report. This information will be used to create and deliver the report.
-
-Before filling out this form, please ensure you've already reviewed our project list to determine if the report request is for an active or completed project. If the project is not listed, please reach out to your supervisor for assistance. 
-
-</thinking>
-
 # Report Request Form - Help Guide
 ## Purpose
 

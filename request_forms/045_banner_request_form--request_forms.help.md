@@ -1,10 +1,3 @@
-<thinking>...To avoid duplicate requests and ensure accurate information is gathered, please note the following before proceeding:
-- This form is designed for creating banner requests, which can be used for a variety of purposes, such as promotional events, grand openings, or directional signage.
-- Please provide detailed and accurate information to ensure a smooth request process.
-- If you have any questions or concerns, please don't hesitate to reach out to the relevant department.
-
-</thinking>
-
 # Banner Request Form - Help Guide
 ## Purpose
 This form is used for requesting banners for various purposes, such as events, promotions, or directional signage. Please fill out the form with accurate and detailed information to ensure a smooth request process.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that our IT Master Data Request Form is completed accurately and efficiently. This form is designed to collect relevant information from users to help the IT team process their requests properly. To prevent duplication and ensure consistency, please do not submit duplicate requests. Ensure that the fields below are filled accurately and completely before submitting the form.
-</thinking>
-
 # Information Technology Master Data Request Form - Help Guide
 ## Purpose
 The Information Technology Master Data Request Form is designed to collect information related to IT requests, including request type, priority, business impact, request date, due date, status, assignee, and attachments. This form helps the IT team understand the nature of the request, allocate resources effectively, and ensure timely resolution.

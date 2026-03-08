@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for towing services, such as vehicle details, authorization, and other relevant information. It is intended for use by customers or users of towing services to provide necessary details for a towed vehicle. The form should not be used for general inquiries or other purposes not related to towing services.
-
-</thinking>
-
 # Towing Service Notification - Help Guide
 ## Purpose
 This form is used to provide information for towing services, including vehicle details and authorization. It helps the towing service provider to quickly and accurately collect necessary information from customers.

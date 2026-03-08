@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is for users to submit a request for access to the Interview Preparation App. This form is used to gather information from users about their request, including their user name, title, and reason for request. The form also includes fields for requesting a specific interview date and time, location, and contact method. Additionally, users can provide additional details about their request and agree to the terms and conditions. The form is used to track the status of the request, including who reviewed it and when.
-To prevent duplication and ensure accurate information, please ensure that you have not previously submitted a request and that the information provided is accurate and up-to-date.
-</thinking>
-
 # Interview Preparation App Access Request - Help Guide
 
 ## Purpose

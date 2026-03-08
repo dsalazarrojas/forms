@@ -1,9 +1,3 @@
-<thinking>
-This form is used for users to request appointments with the company to inquire about services offered, schedule a consultation, or book a project meeting. 
-The form is designed for users to provide necessary information about themselves and their desired services, allowing the company to understand their needs and provide tailored support.
-To prevent duplication, users are not allowed to submit multiple requests within a short time frame.
-</thinking>
-
 # Ahm Appointment Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request an appointment with our team to discuss potential services or projects.

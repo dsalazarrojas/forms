@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture requests related to web browsing activities. The form will be used by users to submit requests for tasks that require someone to browse the web for information or research. The form will help track and manage these requests, providing a clear overview of the task's status and due dates.
-It's essential to ensure that the form is filled out correctly, as this information will be used to assign tasks to team members and track progress. Please review the form carefully before submitting your request.
-This form does not require any sensitive or personal information, making it suitable for public use. However, please note that this form is an original adaptation created using AI, and while it's designed to be user-friendly, some field labels or explanations might be unfamiliar.
-If you're unsure about a field or its label, feel free to ask your administrator or the person who created the form for clarification.
-</thinking>
-
 # web_browsing_request_form - Help Guide
 ## Purpose
 This form is designed for users to submit web browsing requests, allowing your organization to track and manage these tasks efficiently.

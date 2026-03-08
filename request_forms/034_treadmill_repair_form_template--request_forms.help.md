@@ -1,37 +1,3 @@
-<thinking>
-
-To determine the purpose and context of this form, I analyzed the YAML fields. The form appears to be used for tracking and documenting the maintenance and repair of treadmills. The purpose of this form is to collect information about the problem with a treadmill and the repair details.
-
-To avoid duplication and ensure the form is only filled out when necessary, it would be beneficial for the submitter to confirm they have the correct form and that the treadmill is indeed in need of repair.
-
-The form seems to be divided into two sections, with the first section focused on collecting information about the treadmill's condition and the second section focused on repair details and completion.
-
-The form fields include:
-
-*   Treadmill Information: This field likely collects details about the treadmill's model, serial number, or other identifying information.
-*   Problem: A text field for describing the issue with the treadmill.
-*   Treadmill Problem Description: A more detailed description of the problem.
-*   Location: The location of the treadmill.
-*   Problem Date: The date the problem occurred.
-*   Technician: A yes/no field indicating if a technician has been assigned.
-*   Technician Contact: Contact information for the assigned technician.
-*   Service Type: A yes/no field indicating if the service is a repair or maintenance.
-*   Service Details: A text field for describing the service performed.
-*   Repair Cost: The cost of the repair or maintenance.
-*   Repair Comments: Additional comments about the repair or maintenance.
-*   Technician Signature: The signature of the assigned technician.
-*   Client Signature: The signature of the client or owner.
-*   Additional Comments: Any other comments or information.
-*   Date: The date the form was completed.
-*   Time: The time the form was completed.
-*   Time Zone: A yes/no field indicating the technician's time zone.
-*   Service Time Zone: A text field for describing the service time zone.
-*   Treadmill Model: The model of the treadmill.
-
-Please note that the form fields have various types such as text, date, and time which are likely related to the specific requirements of the repair or maintenance process.
-
-</thinking>
-
 # Treadmill Repair Form Template - Help Guide
 
 ## Purpose

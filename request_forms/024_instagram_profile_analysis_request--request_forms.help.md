@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a request form for Instagram profile analysis, likely for the purpose of monitoring or analyzing user behavior on the platform. The form likely serves as a way to collect information about the user's profile, including their name, email, phone number, analysis requested, profile URL, specific details, submission date and time, submitter IP address, device type, browser type, operating system, and submission country.
-</thinking>
-
 # instagram_profile_analysis_request - Help Guide
 ## Purpose
 This form is designed to collect information from users for Instagram profile analysis. Fill out this form to initiate an analysis of your Instagram profile.

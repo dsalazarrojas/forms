@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Referral Request Form, I will assume that the form is intended to collect patient referral information from healthcare providers. The form appears to be designed to collect comprehensive patient referral data, including patient and provider contact information, referral reasons, and details. I will focus on creating a clear and concise guide to help end-users understand the purpose and usage of the form.
-
-</thinking>
-
 # Referral Request Form - Help Guide
 ## Purpose
 The Referral Request Form is a tool designed for healthcare providers to submit patient referral requests. The form collects necessary information about the patient, the referral reason, and the referring provider's details. This information helps healthcare professionals streamline their referrals and ensure that patients receive the necessary care.

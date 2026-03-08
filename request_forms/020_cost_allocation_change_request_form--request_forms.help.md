@@ -1,5 +1,3 @@
-<thinking>...to check if the form purpose and requirements are clear and not redundant... The form is for requesting changes to cost allocations. It's a straightforward form for cost center managers or other users to request changes in cost allocations, providing details about the category, type of change, reason, and other relevant information... The form seems well-structured, and the fields are properly labeled and explained in the YAML. However, some fields might be optional, which is good for user convenience. I won't invent any business logic, so I'll just follow the YAML and explain the fields as they are... </thinking>
-
 # Cost Allocation Change Request Form - Help Guide
 ## Purpose
 The Cost Allocation Change Request Form is used to request changes to cost allocations. Users can fill out this form to submit a request, providing relevant details about the category, type, reason, and other information.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to capture essential information from faculty members who need support for the Faculty Recognition Program. The purpose of this form is to provide a structured way for faculty to request assistance from the program. The form will be used by support staff to evaluate and process these requests efficiently. It is essential that each field is completed accurately and thoroughly to ensure that the support request is processed correctly.
-
-Before submitting this form, please ensure that:
-
-* You have not already submitted a request for this reason. Duplicate requests may lead to delays or confusion in the processing of your support request.
-* You have the necessary permissions and approvals from your department head and/or chair before submitting the form.
-* You have all necessary information available for each field, including your department's contact details.
-
-Please complete the form in a step-by-step manner, paying attention to each field's requirements and options. If you are unsure about any field, refer to the field-by-field explanation below.
-</thinking>
-
 # Faculty Recognition Program Support Request Form - Help Guide
 ## Purpose
 ## How To Complete This Form

@@ -1,12 +1,3 @@
-<thinking>
-This form is used by business leaders to request consultation services to help optimize their team's work processes, productivity, and efficiency. It is typically used when an organization needs guidance on how to better manage their workforce, improve workflows, or address specific business challenges. The form helps the consultant understand the project scope, challenges, and desired outcomes, allowing them to tailor their consulting services to meet the client's needs.
-
-Before filling out this form, please ensure that:
-
-* You have discussed your project with the consultant or project lead to understand the scope and goals.
-* You have not submitted a similar request form recently; if you need to repeat a request, please refer to the previous form submission.
-</thinking>
-
 # Workforce Optimization Consulting Request Form - Help Guide
 ## Purpose
 The form is designed to gather information about your project and needs, so we can tailor our workforce optimization consulting services to meet your business objectives.

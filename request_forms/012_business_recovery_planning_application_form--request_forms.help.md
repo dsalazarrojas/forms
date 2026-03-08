@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather essential information from businesses affected by disruptions or crises, such as natural disasters, economic downturns, or supply chain disruptions. The goal is to help us understand how the business was impacted and what support they need to recover. This form will help our team assess the situation and provide appropriate assistance.
-
-Before proceeding, please ensure you have all the necessary information and that this form is not a duplicate submission. If you have already submitted a similar application, please do not submit this form again.
-
-</thinking>
-
 # Business Recovery Planning Application Form - Help Guide
 ## Purpose
 The Business Recovery Planning Application Form is designed to collect information about businesses affected by disruptions or crises. It helps our team assess the situation and provide targeted support to help your business recover.

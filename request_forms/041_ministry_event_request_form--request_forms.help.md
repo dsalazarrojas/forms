@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request events or activities related to the Ministry. It is designed to gather essential information about the event, including the event details, attendees, event type, and contact information for the event organizer. The form is intended to be used by the event requesters to provide the necessary information for the event to be approved or scheduled by the Ministry.
-
-Before filling out the form, please ensure that you are not submitting a duplicate request for the same event. Also, be sure to fill out the form accurately and completely, as the information provided will be used to process your request.
-
-This form is divided into the following sections:
-</thinking>
-
 # Ministry Event Request Form - Help Guide
 
 ## Purpose

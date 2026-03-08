@@ -1,7 +1,3 @@
-<thinking>
-Are you considering submitting a Remote Learning Request Form? First, please ensure that you have a valid reason for requesting remote learning and that it aligns with our institution's remote learning policies. Additionally, check if this request has been submitted before. If you are certain about your submission, proceed with filling out the form carefully.
-</thinking>
-
 # Remote Learning Request Form - Help Guide
 ## Purpose
 This form is used to request remote learning arrangements for students. Fill out the form if you need to access course materials, assignments, or exams remotely due to personal circumstances.

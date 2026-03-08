@@ -1,7 +1,3 @@
-<thinking>
-The Manpower Request Form is intended to collect information for requesting additional staff or positions from the management team. To use this form, you should have a legitimate business need for additional manpower. The form is designed to be completed by employees or team members requesting additional staff or positions to support their work. The form is not meant for casual or routine requests, but rather for formal, documented requests with clear justifications.
-</thinking>
-
 # Manpower Request Form - Help Guide
 ## Purpose
 The Manpower Request Form is a tool for employees or team members to submit formal requests for additional staff or positions to support their work. It helps the management team make informed decisions about resource allocation.

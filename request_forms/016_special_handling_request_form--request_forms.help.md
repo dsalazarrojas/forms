@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for customers or stakeholders to submit special handling requests to the company. It's intended for requests that require specific attention or services from the company, such as special delivery options, equipment handling, or other bespoke services. 
-
-To ensure that the submitted requests are valid and not duplicate, the form includes a few fields to gather relevant information. Please review the fields below to complete the form accurately and avoid submitting duplicate requests.
-
-</thinking>
-
 # Special Handling Request Form - Help Guide
 ## Purpose
 This form is used to submit special handling requests for bespoke services such as special delivery options, equipment handling, or other tailored services.

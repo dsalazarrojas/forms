@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Remote Work Access Request Form is to request remote work access for a user, which will be reviewed and approved by management. Please ensure that you do not submit duplicate requests. If you have already submitted a request, please refer to the "Check Status" section for updates. If you're not sure about the status, please contact your manager or HR representative for clarification. 
 
 # Remote Work Access Request Form - Help Guide

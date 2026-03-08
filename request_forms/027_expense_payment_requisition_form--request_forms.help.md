@@ -1,12 +1,3 @@
-<thinking>
-Please note that this form appears to be a generic form created by an AI using public survey topic metadata, and it's not affiliated with or endorsed by any specific platform. The form's purpose is to collect information about expense payments, which is a common type of request that organizations or businesses might use to track and manage their financial transactions. Before filling out this form, please make sure that you have the necessary information and authority to submit a request for an expense payment.
-
-To confirm, this form is not a survey or a transactional form, and it's meant for internal use within an organization. If you're unsure about the purpose or scope of this form, please consult with the relevant authorities within your organization.
-
-Also, be aware that this form has a large number of fields, which might make it seem overwhelming. However, each field is designed to collect specific information, and most of them are optional. Take your time to fill out the form, and make sure to provide as much information as you can.
-
-</thinking>
-
 # Expense Payment Requisition Form - Help Guide
 ## Purpose
 The Expense Payment Requisition Form is used to request payment for expenses incurred by employees or departments within an organization. This form helps to track, record, and manage financial transactions related to these expenses.

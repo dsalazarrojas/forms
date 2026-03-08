@@ -1,8 +1,3 @@
-<thinking>
-This form is used for requesting visits to outdoor locations. It should only be filled out for visits that are not routine or emergency situations. Duplicate requests will be rejected. 
-Please ensure that each form is completed accurately and thoroughly so that the requested visit can be fulfilled efficiently. A well-prepared form will ensure that your visit request is processed promptly. 
-</thinking>
-
 # Outdoor Visit Request Form - Help Guide
 
 ## Purpose

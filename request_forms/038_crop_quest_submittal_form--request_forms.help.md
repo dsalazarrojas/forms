@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers seeking crop consultation services. The form should only be used for customers who are new to the service and do not already have a pre-existing relationship with the consultant. The purpose of this form is to capture the necessary contact and consultation details for the customer and the service provider. Before filling out this form, ensure that you are not already in touch with the consultant or have a pre-existing relationship with them.
-</thinking>
-
 # Crop Quest Submittal Form - Help Guide
 ## Purpose
 This form is for new customers seeking crop consultation services from the consultant. It is used to collect contact and consultation details to facilitate communication and service provision.

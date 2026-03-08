@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request a religious exemption for the Covid vaccine in a workplace setting. The purpose of this form is to collect information from employees who have a religious reason for not getting vaccinated. This form should only be filled out by employees who have a genuine religious reason for not getting vaccinated and not for any other reason. Please note that completing this form does not guarantee a religious exemption, but it is an official request that will be reviewed and considered by HR and management. Before filling out this form, please ensure that you have a clear understanding of the form's purpose and that your reason for not getting vaccinated is based on a legitimate religious belief or practice.
-
-Please fill out this form carefully and accurately. Make sure to provide all required information and supporting documents if necessary.
-</thinking>
-
 # Religious Exemption For Covid Vaccine Form - Help Guide
 ## Purpose
 This form is used to request a religious exemption for the Covid vaccine. It collects information from employees who have a legitimate religious reason for not getting vaccinated.

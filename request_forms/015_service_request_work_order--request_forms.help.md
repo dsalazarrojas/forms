@@ -1,11 +1,3 @@
-<thinking>
-
-This form was created to collect information for service requests from users, and is likely used for internal purposes by the company or organization providing the service. It might be used to gather details about the service needed, the client's contact information, and any additional requirements. To confirm, the form has multiple "confirm and submit" fields which could be used to double-check the accuracy of the information entered before submitting the form. 
-
-Before filling out this form, please ensure that the information is accurate and complete. If you need to make any corrections, you can edit the form before submitting. Also, please note that this form is not intended for public use and is likely used for internal purposes only.
-
-</thinking>
-
 # Service Request Work Order - Help Guide
 ## Purpose
 The Service Request Work Order form is used to collect information for service requests from clients. It includes fields for general information, service request, visit scheduling, contact information, work order, attachments, service requests, and confirmations before submitting the form.

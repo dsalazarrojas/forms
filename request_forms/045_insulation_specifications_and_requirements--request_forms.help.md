@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect insulation specifications and requirements from users for various projects. It's intended for project managers and team members to gather crucial information for insulation-related tasks. To ensure accuracy and completeness of data, it's essential to fill out each field carefully. This form will be used in multiple projects, so please make sure to fill in only once for each project.
-
-</thinking>
-
 # insulation_specifications_and_requirements - Help Guide
 ## Purpose
 This form is used to collect insulation specifications and requirements for various projects, providing crucial information for insulation-related tasks.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about DNA samples for endorsement purposes. It is intended for individuals or agencies to request and provide details about DNA samples, including the reason for the request, the sample details, and the submitter's information. This form is not affiliated with any form platforms and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # dna_endorsement_form - Help Guide
 ## Purpose
 This form is designed to collect information about DNA samples for endorsement purposes.

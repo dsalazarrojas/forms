@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Agent Feature Application Form - Help Guide
 
 ## Purpose

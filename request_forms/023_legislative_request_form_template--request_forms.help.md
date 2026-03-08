@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from users to facilitate legislative requests. It is not intended for commercial use or mass production. This form is for informational purposes only and does not replace the need for a thorough analysis or legal review. Please ensure that you are not duplicating existing requests and that your submission is accurate and complete.
 
 </thinking>

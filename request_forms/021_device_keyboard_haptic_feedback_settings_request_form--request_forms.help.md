@@ -1,10 +1,3 @@
-<thinking>
-You're creating a help guide for a form to request haptic feedback settings for a device keyboard. To confirm, the form will be used to collect information from users (submitters) about their device's keyboard settings, such as the type of device, keyboard model, and haptic feedback settings. This form is likely used to troubleshoot issues or request adjustments to these settings.
-
-Before proceeding, ensure this form is not already used for other purposes and that you're not duplicating effort in other parts of the organization. If it's a new request, make sure to fill out all required fields, otherwise, only fill out the fields necessary for your submission.
-
-</thinking>
-
 # Device Keyboard Haptic Feedback Settings Request Form - Help Guide
 ## Purpose
 This form is used to request haptic feedback settings for device keyboards. Fill out this form to describe your issue or request adjustments to your device's keyboard settings.

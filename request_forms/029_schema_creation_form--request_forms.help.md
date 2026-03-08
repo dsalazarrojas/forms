@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a schema request from the user, including the type of request (e.g., schema, database, or data model), team size, data sources, database type, database version, data model, database name, and a brief description. This form is designed to guide users through the process of creating a new schema request, ensuring that all necessary information is collected for the request to be properly processed and managed.
-
-Before proceeding, please note that this form is intended for new schema requests. If you are updating an existing schema request, please refer to our <a href="existing_request_form.html" target="_blank">existing request form</a> for the specific guidance.
-
-To avoid duplication of effort, we will check if a similar request has been made recently. If a similar request already exists, we will alert you and guide you to that existing request instead.
-</thinking>
-
 # schema_creation_form - Help Guide
 ## Purpose
 The schema creation form is used to create new schema requests. It helps us understand what you need and provides a platform for our team to work on your schema request.

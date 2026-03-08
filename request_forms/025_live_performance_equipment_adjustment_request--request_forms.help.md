@@ -1,6 +1,3 @@
-<thinking>
-We're going to create a help guide for the "Live Performance Equipment Adjustment Request" form. This form is used to request adjustments or changes to live performance equipment, such as sound or lighting systems, and is likely used by artists or technicians to coordinate the technical aspects of live performances. The form should not be used for duplicate requests, and any requests without a valid reason or date/time will be rejected. We'll make sure to clearly explain each field and provide a concise and practical guide on how to fill it out.</thinking>
-
 # Live Performance Equipment Adjustment Request - Help Guide
 ## Purpose
 This form is used to request adjustments or changes to live performance equipment, such as sound or lighting systems. Please fill out this form to submit your request for approval.

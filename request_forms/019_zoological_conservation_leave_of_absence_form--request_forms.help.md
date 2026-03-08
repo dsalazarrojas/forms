@@ -1,7 +1,3 @@
-<thinking>...
-This form is designed for employees to request a leave of absence for conservation activities related to their work in the zoological field. This form should be used by employees who need to take time off from their job to attend to matters related to conservation efforts. Please ensure that the reason for leave is directly related to the employee's job and not for personal reasons. Additionally, please note that this form might not be the only required form for leave of absence, so be sure to review the company's policies before submitting this form.
-</thinking>
-
 # Zoological Conservation Leave Of Absence Form - Help Guide
 ## Purpose
 The Zoological Conservation Leave Of Absence Form is designed for employees to request a leave of absence for conservation-related activities. This form allows employees to provide necessary details for their leave, such as start and end dates, job title, department, location, reason for leave, and return date.

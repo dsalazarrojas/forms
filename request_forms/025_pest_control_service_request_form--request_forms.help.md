@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is used to submit a request for pest control services to the company's customer service team. It is essential to ensure that the form is completed accurately and thoroughly to provide the necessary information for the pest control team to address the problem effectively. Before filling out this form, please make sure to check if you have already submitted a similar request in the past. This will save time and help us serve you better.
-</thinking>
-
 # Pest Control Service Request Form - Help Guide
 ## Purpose
 This form is designed to help you request pest control services for your property. Please fill out the form accurately and thoroughly to ensure that our team can provide the necessary assistance.

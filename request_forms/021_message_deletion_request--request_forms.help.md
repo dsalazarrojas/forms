@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Message Deletion Request - Help Guide
 
 ## Purpose

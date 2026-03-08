@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses interested in integrating their e-commerce platform with voice commerce features. The form is intended for companies that want to enable voice commerce on their online stores, allowing customers to use voice assistants like Amazon Alexa or Google Assistant to interact with their products and services. 
-
-To confirm, the form is not a duplicate or affiliated with any other form platforms, and it's an original creation using only public survey topic metadata.
-
-This form is used to gather necessary information from businesses to evaluate their voice commerce integration needs. The form is not a sales or marketing tool, but rather a means to understand their requirements and provide guidance on the integration process.
-
-</thinking>
-
 # Voice Commerce Integration Application Form - Help Guide
 ## Purpose
 This form is designed to help businesses integrate their e-commerce platforms with voice commerce features, enabling customers to use voice assistants to interact with their products and services.

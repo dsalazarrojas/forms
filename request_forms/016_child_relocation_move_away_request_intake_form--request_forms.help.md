@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to process accurate relocation requests. Before filling out this form, please check that you are the requesting parent and that you are not duplicating a previously submitted request. Additionally, please review the provided options carefully and choose the most accurate response for each field. This form is intended to gather information for relocation requests, particularly those involving children. Please answer all questions thoroughly and truthfully to help us process your request efficiently.
-</thinking>
-
 # Child Relocation (Move Away) Request Intake Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for a school to collect information about student referrals. The form might be used to gather data on students who need additional support or attention from school counselors. The fields suggest that the form collects information on the student's name, grade level, concerns, and other relevant details. However, without further context, it's not clear if this form is intended for teachers, parents, or school administrators to complete. Additionally, there might be some overlap between fields, such as "referral concerns" and "parent concerns", which could potentially be consolidated into one field. 
-</thinking>
-
 # School Counselling Referral Form - Help Guide
 ## Purpose
 This form is designed to collect information about student referrals to support school counselors in their work. Please use this form to gather relevant details about students who need additional support or attention.

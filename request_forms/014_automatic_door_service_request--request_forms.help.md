@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Automatic Door Service Request" form is used for its intended purpose and not for other types of requests. Additionally, we want to prevent duplication of work by ensuring that users only submit one request per automatic door. This form is specifically designed to gather information about automatic doors that require service, such as repairs, maintenance, or inspections. It's essential that users understand this and refrain from using the form for other types of requests, like new installations or non-service-related issues. This will help streamline the service process and prevent confusion.
-</thinking>
-
 # Automatic Door Service Request - Help Guide
 ## Purpose
 This form is for users to request service for automatic doors. The purpose of this form is to gather information about the door, its location, and the type of service needed.

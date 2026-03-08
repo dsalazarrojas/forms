@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block explains that the form is used for requesting a free inspection service from the organization. The form is designed to collect contact information, request details, and other relevant data from the requestor. Before proceeding, please ensure you have not submitted a request recently, and it's not a duplicate request. If you've already submitted a request, please contact us to discuss further actions.
-</thinking>
-
 # Free Inspection Request Form - Help Guide
 
 ## Purpose

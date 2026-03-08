@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from warehouse team members regarding their slot allocation requests. It's meant for internal use within the organization, and the information submitted will be reviewed and processed by the warehouse management team. To ensure relevance and avoid duplication, please only submit a new form if your request has changed or if you need to update existing information. If you're unsure about the purpose or any specific fields, refer to this guide for guidance.
-</thinking>
-
 # Warehouse Slot Allocation Request Form - Help Guide
 ## Purpose
 The Warehouse Slot Allocation Request Form is used to collect information from warehouse team members about their slot allocation requests. This form helps the warehouse management team to efficiently manage and allocate slots for different items, ensuring that everyone's needs are met and resources are utilized effectively.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about marketing requests from users. The purpose of this form is to gather contact information and details about the request, which will be used to respond to the user's inquiry. 
-
-Before proceeding, ensure that you are not submitting a duplicate request, and that the form is relevant to your needs. 
-
-</thinking>
-
 # marketing_request - Help Guide
 ## Purpose
 The marketing_request form is a tool for collecting contact information and details about marketing requests. It is intended to be used by customers, partners, or prospects to submit their marketing-related inquiries.

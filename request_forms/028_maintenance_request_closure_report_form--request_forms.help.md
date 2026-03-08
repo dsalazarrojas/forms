@@ -1,7 +1,3 @@
-<thinking>
-This form is used for recording and tracking the closure of maintenance requests. It should only be completed by authorized personnel after the work has been completed. Please ensure that the form is filled out accurately and thoroughly, and that no duplicate requests are made. This form should not be used for new maintenance requests, but rather for tracking and documenting existing ones. 
-</thinking>
-
 # Maintenance Request Closure Report Form - Help Guide
 ## Purpose
 The Maintenance Request Closure Report Form is used to record and track the closure of maintenance requests. It should only be used by authorized personnel after the work has been completed.

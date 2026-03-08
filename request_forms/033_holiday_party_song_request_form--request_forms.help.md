@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to allow users to submit requests for holiday party songs, specifying their preferences for the theme, music genre, and other song-related details. The form is used to tailor the party playlist to meet the needs and tastes of the users. 
-
-To avoid duplication of requests, users are encouraged to review the form's instructions and guidelines carefully before filling it out. They should also consider that some questions may have default settings that can be overridden if desired.
-
-</thinking>
-
 # Holiday Party Song Request Form - Help Guide
 ## Purpose
 This form is designed to gather information about your holiday party song requests. Please answer these questions to ensure your favorite songs are included in our party playlist.

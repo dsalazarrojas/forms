@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect user input for free skin analysis and consults. The form should only be submitted by users who have not previously been analyzed or consulted by the organization. Submitters will be asked to provide information about their skin type, any skin problems they are experiencing, a proposed solution, their email address, a phone number, a date and time for the analysis or consult, and any additional notes. 
-
-Please review this form carefully before submitting to ensure you are not duplicating an existing analysis or consult.
-</thinking>
-
 # Free Skin Analysis And Consult Form - Help Guide
 
 ## Purpose

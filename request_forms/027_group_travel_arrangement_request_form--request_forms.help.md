@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information for group travel arrangements. It is not necessary to complete if you have already submitted a request for the same group travel dates. Please ensure that each request is unique and not a duplicate of a previous one.
-</thinking>
-
 # Group Travel Arrangement Request Form - Help Guide
 ## Purpose
 The Group Travel Arrangement Request Form is used to gather information for group travel arrangements. This form helps us understand the details of your group travel, including category, travel date, travel time, travel notes, email, phone number, description, assigned tool, and output file.

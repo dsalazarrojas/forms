@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help individuals or organizations request emergency medical aid in a specific location. The form will be used by aid providers to assess the aid request and provide relevant assistance. Please ensure that the information provided is accurate and up-to-date to avoid any duplication or miscommunication. Before submitting the form, review the required fields carefully to ensure that you have included all necessary information.
-</thinking>
-
 # Emergency Medical Aid Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from individuals or organizations requesting emergency medical aid in a specific location. It is used by aid providers to assess the aid request and provide timely and efficient assistance.

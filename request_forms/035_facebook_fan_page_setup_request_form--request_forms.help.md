@@ -1,13 +1,3 @@
-<thinking>
-- The form purpose is to request setting up a Facebook fan page setup for a lead. 
-  This is an important step in the sales process as it enables the company to 
-  connect with potential customers and showcase their brand on the social 
-  media platform.
-- The form is designed to gather essential information about the lead, 
-  including their name, email address, and phone number.
-- The form is non-mandatory, meaning the user is not required to fill it 
-  out, but it is crucial for the successful setup of the Facebook fan page.
-</thinking>
 # facebook_fan_page_setup_request_form - Help Guide
 
 ## Purpose

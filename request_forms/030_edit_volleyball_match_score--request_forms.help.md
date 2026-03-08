@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Edit Volleyball Match Score - Help Guide
 ## Purpose
 The "Edit Volleyball Match Score" form is designed to allow you to edit the score of a specific volleyball match. This form is typically used by administrators or authorized personnel to correct errors, update scores, or make adjustments to match results.

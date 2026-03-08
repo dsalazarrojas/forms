@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for HTTP request workflow documentation requests. This form is designed to collect relevant details such as the category of the request, a detailed description of the request, and other related information.
-The form is likely used in a work environment where team members need to document and track requests for HTTP requests. The form is not affiliated with, endorsed by, or derived from any form platform, and was created using only public metadata as inspiration. It is an original adaptation and does not copy or use proprietary content from any other form creation or survey platform.
-Before filling out this form, ensure that the information requested is not already known or available to you. Also, double-check that the category is not a duplicate.
-</thinking>
-
 # HTTP Request Workflow Documentation Request Form - Help Guide
 ## Purpose
 The HTTP Request Workflow Documentation Request Form is designed to collect relevant details for HTTP request workflow documentation requests. It is used to ensure that requests are properly documented and tracked.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To avoid duplication, please ensure that you have completed the "Property Status" and "Property Type" sections correctly before submitting this form. The purpose of this form is to request pre-approval for a home sale. The form is used to gather information about the sale, including the full name, phone number, and email address of the agent or broker facilitating the sale, as well as details about the property being sold, such as its type and status. Please provide accurate and complete information to ensure that your pre-approval request is processed correctly.
 
 # Home Sale Pre Approval Request Form - Help Guide

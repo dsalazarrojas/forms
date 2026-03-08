@@ -1,9 +1,3 @@
-<thinking>Before diving into the detailed help guide, let's clarify the purpose and internal reasoning behind this form: "Street Parking Pass Request" form is used for individuals or companies to request permission for parking passes, typically used for events, deliveries, or other special occasions where parking spaces are limited. This form aims to collect essential details about the vehicle and its owner for efficient and secure parking management.
-
-This form has multiple pages, each with various fields that cater to different aspects of the parking pass request. To avoid duplication or misinterpretation, ensure that you fill out each page completely and accurately, and review the form before submission.
-
-</thinking>
-
 # Street Parking Pass Request - Help Guide
 ## Purpose
 The "Street Parking Pass Request" form is used for individuals or companies to request permission for parking passes, typically for events, deliveries, or other special occasions where parking spaces are limited. This form collects essential details about the vehicle and its owner for efficient and secure parking management.

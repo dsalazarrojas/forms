@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Kitchen Milk Delivery Request Form - Help Guide
 ## Purpose
 The Kitchen Milk Delivery Request Form is used to request milk delivery for your household. Please ensure you have a legitimate milk delivery request before submitting this form. If you have already submitted a similar request, your previous request will be cancelled and a new one will be processed.

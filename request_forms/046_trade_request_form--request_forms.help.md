@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a generic form for requesting trade-related information, likely for internal record-keeping or reporting purposes. It asks for various details about the trade, including business information, dates and times, payment methods, and trade characteristics. It seems that this form might be used for auditing or reporting on trades, but I'm not aware of the specific business context in which it's used. Please note that some fields appear to be redundant (e.g., multiple select fields with the same options), which might be a result of form design constraints or evolving business needs.
-
-Given the lack of specific business context, I'll provide a general explanation for the form fields, focusing on their intended purpose and usage.
-
-To confirm, this form is intended for requesting trade information, and I'll provide a help guide based on its current configuration.
-
-</thinking>
-
 # Trade Request Form - Help Guide
 ## Purpose
 This form is used to request trade-related information for internal record-keeping and reporting purposes.

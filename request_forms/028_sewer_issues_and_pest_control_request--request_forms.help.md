@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Reasoning Block:**
-The purpose of this form is to collect information about sewer issues and pest control requests from residents. This form is used to track and manage these requests internally. To avoid duplication, please ensure that the same request is not made multiple times. If you have already submitted a request, please do not resubmit it. If you have concerns or questions about a previous request, please contact the relevant department directly.
-
-</thinking>
-
 # Sewer Issues And Pest Control Request - Help Guide
 
 ## Purpose

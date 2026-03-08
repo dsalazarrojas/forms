@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Studio Access Security Request Form - Help Guide
 
 ## Purpose

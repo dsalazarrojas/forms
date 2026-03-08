@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be a Stock Transfer Coordination Request form designed to facilitate the coordination of stock transfers within a warehouse environment. Before proceeding, please ensure that the form is not already in use or that the stock transfer request is not already coordinated. If you are unsure, you may want to check the internal stock transfer coordination system or consult with the stock transfer team.
-</thinking>
-
 # Stock Transfer Coordination Request - Help Guide
 ## Purpose
 The Stock Transfer Coordination Request form is used to submit a request for stock transfer coordination between different warehouses. This form helps to ensure that stock transfers are properly documented and that the necessary parties are informed and involved in the process.

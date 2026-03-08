@@ -1,8 +1,3 @@
-<thinking>
-A caregiver change and transfer form is used to request a change in the care plan for a client, typically when there is a need to replace or modify the current caregiver. This form is used to gather information from the requesting party about the reason for the change request, the desired effective date of the change, how the change should be implemented, and other relevant details such as how the client will be notified and what services should be continued uninterrupted during the transition. 
-The form will typically be reviewed and processed by the agency or care provider. To ensure that the correct information is included, review the form carefully and fill out all relevant fields before submitting it for processing.
-</thinking>
-
 # Caregiver Change and Transfer Form - Help Guide
 ## Purpose
 The Caregiver Change and Transfer Form is used to request a change in the care plan for a client, typically when there is a need to replace or modify the current caregiver.

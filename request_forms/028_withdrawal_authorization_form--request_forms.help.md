@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only used for valid withdrawals and not for other purposes. This form should not be used to request permission to withdraw from a different type of activity. The student and parent must be present and provide their signatures in the presence of the teacher to ensure authenticity. This form is required to be completed for every withdrawal, regardless of whether the student is returning or not.
-</thinking>
-
 # Withdrawal Authorization Form - Help Guide
 
 ## Purpose

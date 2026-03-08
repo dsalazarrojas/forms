@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Ticket And Part Request Form - Help Guide
 
 ## Purpose

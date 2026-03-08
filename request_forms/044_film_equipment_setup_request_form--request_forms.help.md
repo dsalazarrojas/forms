@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for requesting film equipment setup for a specific shoot date, location, and contact information. The form should be used only once per request, and users should be careful not to create duplicate requests for the same purpose.
-To complete this form, follow these steps:
-</thinking>
-
 # Film Equipment Setup Request Form - Help Guide
 ## Purpose
 This form is used to request film equipment setup for a specific shoot date, location, and contact information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for filmmakers, production companies, or other entities to request a lighting permit for an external location shoot. The purpose of this form is to collect information about the project, location, crew, contact details, and attachments, as well as the declaration of the truth and correctness of the submitted information. This form is not a substitute for the actual permitting process, which may involve additional steps and requirements beyond what is collected here. Please ensure that the information provided is accurate and complete before submitting the form. If you have any doubts or questions, contact the relevant authorities or your internal contacts.
-</thinking>
-
 # Film Location Lighting Permit Request - Help Guide
 
 ## Purpose

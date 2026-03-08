@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Equipment Liability Form. This form is used to collect information about a piece of equipment, including its owner, description, condition, serial number, and other relevant details. The form should be completed by users who want to report a piece of equipment that is in their possession. This form is not meant for duplicate submissions, so users should only submit new information.
-</thinking>
-
 # Equipment Liability Form - Help Guide
 ## Purpose
 This form is used to collect information about a piece of equipment that is in your possession. Please complete this form to report your equipment and provide details about its condition, purchase price, and other relevant information.

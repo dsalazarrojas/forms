@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to be filled out by real estate agents or brokers to request brochure design services. It is not intended for use with other types of forms that have different purposes. To ensure this form is being used correctly, please confirm that the purpose of this form is for brochure design requests.
-
-The form is not a copy of any existing form and is a custom adaptation using AI-generated content. It is released under a Creative Commons license, allowing you to use, modify, and even sell forms derived from it, as long as you give credit.
-</thinking>
-
 # real_estate_brochure_design_request_form - Help Guide
 ## Purpose
 This form is designed for real estate agents or brokers to request brochure design services. It's meant to collect essential information to create a custom brochure for their clients or properties.

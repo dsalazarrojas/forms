@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Deviation Request Form - Help Guide
 ## Purpose
 This form is used to request deviations or changes to a business's service. It collects information about the business, the reason for the request, and the impact on the service, contract, and customers. It also tracks the status of the deviation request, who it was submitted by, and who it was assigned to.

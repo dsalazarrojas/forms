@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, I will create a user-facing help guide for the "Transaction Alert Activation Request Form". 
-
-First, let's break down the form's purpose and ensure that users are aware that this form is intended for submitting a request to activate a transaction alert. This form will be used to gather information from the user about a specific transaction, including details such as contact information and preferences. 
-
-Before filling out the form, please ensure you have a valid reason for requesting the transaction alert and that you are not duplicating an existing request. 
-
-</thinking>
-
 # Transaction Alert Activation Request Form - Help Guide
 ## Purpose
 

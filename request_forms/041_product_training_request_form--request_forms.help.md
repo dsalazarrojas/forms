@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # product_training_request_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for users to request payment from one another. It is crucial to ensure that each request is legitimate and meets the required criteria before processing. The form should only be filled out after careful consideration and in accordance with the organization's internal policies. To avoid duplication of requests, please ensure that you have not already filled out this form for the same purpose or with the same individual. If you are unsure about the purpose of this form or have any questions, please contact your supervisor or the relevant department. 
-</thinking>
-
 # Peer To Peer Payment Request Form - Help Guide
 ## Purpose
 This form is for users to request payment from one another. It is a tool to facilitate internal transactions between colleagues, ensuring that both parties are aware of the terms and conditions of the payment.

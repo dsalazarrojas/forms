@@ -1,5 +1,3 @@
-<thinking>This form is designed to enable patients to request their medical records from one healthcare provider or facility to another.</thinking>
-
 # Medical Record Request Form - Help Guide
 ## Purpose
 The Medical Record Request Form is a template used to request medical records from one healthcare provider or facility to another. This form is designed to be completed by a patient or their authorized representative to facilitate the transfer of medical records.

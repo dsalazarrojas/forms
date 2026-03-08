@@ -1,7 +1,3 @@
-<thinking>
-This is to ensure that the waiver request form is completed correctly by end-users, while also checking for any potential duplicates or invalid requests. The form is intended to collect information about construction projects, waiver details, and approver information. Please review the form carefully to provide accurate and complete responses.
-</thinking>
-
 # Waiver Request Form - Help Guide
 ## Purpose
 The Waiver Request Form is used to request a waiver for a specific construction project. It is required to provide detailed information about the project, waiver number, date, and approver information to ensure that the waiver is processed correctly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Quest Form - Help Guide
 ## Purpose
 The Marketing Quest Form is designed to collect information about the user's marketing-related needs and preferences. This form helps the marketing team understand the user's requirements for events, graphic design services, website updates, and grant requests.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from event organizers or coordinators regarding their post-event cleaning needs and preferences. It's intended to gather details such as the event's timing, preferred day, and the services required after the event. This form can be used by event management teams or staff to schedule and coordinate cleaning services efficiently. 
-
-The form will likely be used by event management teams or staff to collect this information from event organizers or coordinators. The form should not be used to collect sensitive or confidential information about the event or its attendees. 
-
-To avoid duplication, please ensure that the form is not filled out by the same event organizer or coordinator within a 30-day period.
-
-</thinking>
-
 # post_event_cleaning_request_form - Help Guide
 ## Purpose
 This form is designed to collect information from event organizers or coordinators regarding their post-event cleaning needs and preferences.

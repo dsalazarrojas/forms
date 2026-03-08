@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to request a reference order from a university. The purpose of this form is to gather all the necessary information to process the order request, including the university's details and the order specifics. To avoid any confusion, please ensure that you are submitting a new request and not duplicating an existing one.
-</thinking>
-
 # Reference Order Request Form - Help Guide
 ## Purpose
 The Reference Order Request Form is a form used to request a reference order from a university. This form is used to gather all the necessary information to process the order request.

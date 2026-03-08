@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a record of a patient's communication board request, which is a critical document that helps nursing home staff and administrators track and follow up on patient requests, concerns, and needs. Before submitting this form, please check if a similar request has been made on the same resident in recent days/weeks/months. This will help minimize duplicate entries and ensure that staff are notified of urgent concerns in a timely manner.
-</thinking>
-
 # Nursing Home Communication Board Request Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for a wedding reception planning process, which is crucial for a smooth and enjoyable event. This form will help in collecting details about the couple, the ceremony, and other essential elements that will make the reception a success. 
-Before filling out this form, ensure that you've checked if you've already provided the same information elsewhere, as duplication can lead to confusion. 
-
-</thinking>
-
 # Wedding Reception Planner Form - Help Guide
 
 ## Purpose

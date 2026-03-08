@@ -1,15 +1,3 @@
-<thinking>
-
-Before designing the user-facing help guide, I will review the form's purpose and relevance. This form, "CNA Shift Restoration Request", seems to be designed for Certified Nursing Assistants (CNAs) to request restoration of their shifts, which can be due to various reasons such as scheduling errors, system errors, or emergency coverages. It's essential to ensure that this form is used correctly, and the user understands its purpose and requirements.
-
-To prevent duplication and non-relevant requests, it's crucial to include clear guidelines and explanations for each field. The form collects detailed information from the CNA, including personal details, shift information, and the reason for restoration. It also asks for supporting documentation and verification information.
-
-The form's fields seem to be well-structured and straightforward, with most of them being required fields. However, some fields like "supporting documentation" and "previous communication" are optional, which is understandable for the sake of providing flexibility to the user.
-
-With this review in mind, I will create a user-facing help guide that covers the form's purpose, how to complete it, and field-by-field explanations for each section.
-
-</thinking>
-
 # CNA Shift Restoration Request - Help Guide
 
 ## Purpose

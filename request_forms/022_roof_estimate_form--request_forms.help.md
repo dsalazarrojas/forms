@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Roof Estimate Form - Help Guide
 ## Purpose
 This form is used to collect and store estimates for roof projects. It captures essential details such as project name, client information, estimate date, estimate time, estimate total, and other relevant details to ensure accurate and thorough estimates.

@@ -1,17 +1,3 @@
-<thinking>
-
-To create a new conversation, the user is asked to fill out a form with various details. This form is used to initiate a new conversation with a support team. The form is designed to be used for both internal and external conversations. However, there are no strict requirements for filling out the form, as most fields are optional. The form is meant to guide the user through the process of creating a new conversation in an organized and structured way.
-
-The form is used for:
-
-* Creating new conversations with a support team
-* Initiating internal and external discussions
-* Providing details about the conversation, such as priority and escalation policy
-
-The form is divided into several sections, each with its own set of questions and fields. The user can navigate through the form by selecting the next or previous button. 
-
-</thinking>
-
 # Create New Conversation - Help Guide
 ## Purpose
 This form is used to initiate a new conversation with a support team.

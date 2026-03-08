@@ -1,6 +1,3 @@
-<thinking>
-This form is a business expense reimbursement form used by employees to request reimbursement for business-related expenses incurred during a specific period. It is intended for employees who need to submit expenses for reimbursement and ensures that all necessary information is provided for processing the request. This form is a critical part of the expense management process, and it helps the employee and the company track and approve expenses efficiently.
-</thinking>
 # Business Expense Reimbursement Form - Help Guide
 ## Purpose
 

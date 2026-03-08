@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is only used for its intended purpose and not duplicated. This form is intended to be used by customers who need to request a propane tank return and refund. It should only be used by customers who have a valid reason for returning their tank, such as a defect or a change of service. To avoid duplication, we should check if a similar request has been made before for the same customer and tank serial number.
-
-</thinking>
-
 # propane_tank_return_and_refund_request_form - Help Guide
 ## Purpose
 This form is for customers who need to request a propane tank return and refund. If you have a propane tank that needs to be returned due to a defect or other valid reason, please use this form to submit your request.

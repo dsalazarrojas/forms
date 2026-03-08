@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a "Motion For Return Of Property" form, used to request the return of property. This form is intended for individuals who need to request the return of their property, whether it's a physical item or a vehicle. The goal of this form is to provide a structured way to gather relevant information about the request, including the type of property, the reason for return, and any supporting documentation or witness statements. 
-
-The form will be used by the relevant authorities or administrators to review and process the request. The information gathered through this form will help them make informed decisions about the return of the property.
-
-To ensure that the form is used correctly and that relevant information is provided, it's essential to carefully read the instructions and fill out each field as instructed.
-
-</thinking>
-
 # Motion For Return Of Property - Help Guide
 ## Purpose
 This form is used to request the return of property that has been taken or seized by the authorities. It's essential to complete this form accurately and thoroughly to ensure that your request is processed correctly.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for customers to submit a purchase price request for a product or service. The purpose of this form is to allow customers to provide detailed information about their request, which will be reviewed and responded to by the company. This form is intended for customers who are interested in purchasing a product or service and would like to inquire about the price of the product/service. It's also a good opportunity for customers to provide any additional information that may be relevant to the purchase.
-
-To ensure that each purchase price request is handled correctly, we've designed the form to be as thorough and user-friendly as possible. Please make sure to fill out the form only once, as duplicate requests may cause unnecessary delays and confusion.
-
-</thinking>
-
 # Purchase Price Request - Help Guide
 ## Purpose
 This form is a request for customers to inquire about the price of a product or service.

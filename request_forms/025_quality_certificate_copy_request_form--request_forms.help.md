@@ -1,12 +1,3 @@
-<thinking>
-The Quality Certificate Copy Request Form is used to request a quality certificate for a particular product or service. This form is typically completed by an applicant who is seeking a quality certificate to validate their product or service meets certain standards. The form will be reviewed and processed by the relevant authorities to ensure that the product or service meets the required standards.
-
-The form is not designed to be filled out by people who are not applicants or are not requesting a quality certificate. Therefore, it is recommended that users only complete this form if they are an applicant and are seeking a quality certificate.
-
-Before filling out the form, please ensure you are an applicant and have a genuine reason for requesting a quality certificate. You should also check that you are not duplicating a request that has already been made.
-
-</thinking>
-
 # Quality Certificate Copy Request Form - Help Guide
 ## Purpose
 This form is used to request a quality certificate for a particular product or service. Fill out this form to submit your request to the relevant authorities.

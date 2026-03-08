@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect general information and details from users for a generic submission. Before completing this form, please ensure you are submitting a new request and do not duplicate existing ones. 
-</thinking>
-
 # Generic Submission Form - Help Guide
 ## Purpose
 This form is used to collect general information and details from users for a generic submission. It is essential to provide accurate and complete information to ensure that your request is processed correctly.

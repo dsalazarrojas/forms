@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information from individuals or organizations looking to donate food or non-food items to a specified location. It's essential to ensure that the form is completed accurately to facilitate the efficient processing of such requests.
-To avoid duplication of efforts, please note that you must not submit multiple forms for the same donation request.
-
-</thinking>
-
 # Food Donation Request Form - Help Guide
 ## Purpose
 This form is used to request food or non-food donations from individuals or organizations to be delivered to one of the following locations:

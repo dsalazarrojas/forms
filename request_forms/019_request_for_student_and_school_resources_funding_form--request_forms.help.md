@@ -1,10 +1,3 @@
-<thinking>
-Please note that the form is designed to collect information about student and school resources funding requests. 
-This form aims to gather details about the current financial situation of schools, student population, teacher staffing, school resources, and other related factors. 
-The form may be used for internal review and analysis, budgeting, and reporting purposes.
-Please ensure that only relevant and up-to-date information is submitted, avoiding duplicate requests.
-</thinking>
-
 # Request For Student And School Resources Funding Form - Help Guide
 ## Purpose
 The "Request For Student And School Resources Funding Form" is designed to collect information about the current financial situation of schools, student population, teacher staffing, and other related factors. This form will help the administrators and decision-makers to make informed decisions about school resources funding.

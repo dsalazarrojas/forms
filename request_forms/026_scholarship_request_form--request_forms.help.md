@@ -1,9 +1,3 @@
-<thinking>
-This form is for students to request a scholarship, a financial award given to support their education or career development. The form is designed to gather information about the student's background, address, career goals, and details about the scholarship they are requesting.
-
-Before starting the form, please ensure you are submitting a genuine request and are not duplicating a previous submission. If you are unsure about the form's purpose or have questions, contact the form administrators at [form@gic.mx](mailto:form@gic.mx).
-</thinking>
-
 # Scholarship Request Form - Help Guide
 ## Purpose
 This form is designed for students to request a scholarship, a financial award given to support their education or career development.

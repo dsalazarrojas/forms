@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about power supply restoration requests. The purpose of this form is to gather relevant details about outages, affected facilities, and restoration status. This form should only be filled out by authorized personnel, and users should not submit duplicate requests for the same facility. Users must select the correct restoration status, as it reflects the current state of power supply restoration efforts.
-</thinking>
-
 # Power Supply Restoration Request Form - Help Guide
 ## Purpose
 The Power Supply Restoration Request Form is used to collect information about power supply restoration requests.

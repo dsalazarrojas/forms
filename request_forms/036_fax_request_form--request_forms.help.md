@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for fax requests. The purpose of this form is to gather details about the user's fax needs, such as their contact information, fax number, type of fax, and preferred date and time for the fax transmission. Before proceeding, ensure that you are not duplicating a previous request for the same purpose. If you are seeking to resubmit a request, please contact your administrator to clarify the current status.
-</thinking>
-
 # fax_request_form - Help Guide
 ## Purpose
 This form is intended to collect user information for fax requests.

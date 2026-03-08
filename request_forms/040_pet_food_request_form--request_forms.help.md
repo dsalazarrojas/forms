@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request pet food for the pets of customers or employees. The form is not intended for general use but rather for customers or employees who have a specific need for pet food due to a medical condition, special dietary need, or other exceptional circumstances. To avoid duplication of effort, please only submit a request if you have not already done so. The form should be used for new requests or to update an existing request. Please ensure that you have a valid email address and phone number to facilitate communication and delivery of the pet food.
-</thinking>
-
 # Pet Food Request Form - Help Guide
 
 ## Purpose

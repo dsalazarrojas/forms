@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request document conversion services. The purpose of this form is to capture essential information about the document to be converted and the contact details of the person requesting the conversion. This information will help us understand the requirements and urgency of the conversion request.
-
-We've checked the form fields and found that most of them are optional. This means you can fill in only the required fields or provide additional information if you feel it's necessary. 
-
-Please note that some fields have specific options or formats for input. If you're unsure about any field, please refer to this help guide for clarification.
-</thinking>
-
 # document_conversion_request_form - Help Guide
 ## Purpose
 The document conversion request form is used to request document conversion services. This form captures the essential information needed to understand the requirements and urgency of the conversion request.

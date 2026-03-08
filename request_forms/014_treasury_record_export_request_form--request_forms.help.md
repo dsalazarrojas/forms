@@ -1,10 +1,3 @@
-<thinking>
-We will first need to check if the user is eligible to fill this form. The form will be available only to users who have been granted permission to submit Treasury Record Export Request. We will also need to ensure that the user is not already processing a Treasury Record Export Request and that the request is not already in review. To avoid duplication, we will check if the user's email address and request ID (if provided) already exist in the database.
-
-Assuming these checks are in place, we will then provide a user-facing help guide to assist users in completing the form efficiently and accurately.
-
-</thinking>
-
 # Treasury Record Export Request Form - Help Guide
 ## Purpose
 The Treasury Record Export Request Form is a request form designed to allow authorized users to request the export of Treasury records in a specific format. This form helps in streamlining the export process, ensuring that users can access their required data in a timely and organized manner.

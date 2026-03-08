@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting access to virtual learning analytics data. It's essential to ensure that users have the correct permissions to view analytics data for a course or program. To avoid duplicating requests, please check the existing analytics access requests before submitting this form. If you're unsure about the purpose of the form or have questions, reach out to your department administrator for clarification.
-</thinking>
-
 # Virtual Learning Analytics Access Request Form - Help Guide
 ## Purpose
 The Virtual Learning Analytics Access Request Form is used to request access to virtual learning analytics data for educational purposes. This form helps to identify the level of analytics access needed and the scope of data requested.

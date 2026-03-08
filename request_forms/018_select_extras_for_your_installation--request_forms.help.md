@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request extras for an installation. It is intended for customers who wish to add additional options or services to their installation. 
-This form will collect information about the customer's installation date, extra requests, service providers, visit preferences, preferred contact method, installation type, installation date and time, installation duration, contact name, contact phone number, and contact email. The form will be used to determine the extras that need to be added to the installation and will guide the customer through the process of adding these extras.
-Please ensure this form is not used to resubmit the same request, as this will lead to duplicate records and incorrect information. Please review the form carefully before submitting.
-</thinking>
-
 # select_extras_for_your_installation - Help Guide
 ## Purpose
 This form is used to request extras for an installation. It allows customers to add additional options or services to their installation.

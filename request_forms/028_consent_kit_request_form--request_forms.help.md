@@ -1,14 +1,3 @@
-<thinking>
-This form is a request form for individuals seeking consent kits, which are used to obtain informed consent from patients or subjects in various settings such as healthcare, research, or education. The form ensures that the requester provides accurate and complete information about the nature of the consent kit required, the intended use, and the target population, among other details. It also helps the requester to track the status of their request and communicate with the request processing team effectively.
-
-This form is intended to be used by individuals requesting consent kits for their organizations or personal use. Requesters should be aware that providing accurate and clear information will expedite the processing and delivery of the requested kits.
-
-Please ensure you do not submit duplicate requests. If you have submitted a request previously, please do not create a new request. Instead, you can check the status of your previous request using our [request status tracking link] or by contacting the request processing team directly.
-
-Also, please note that this form will not be processed if the information provided is incomplete or inaccurate.
-
-</thinking>
-
 # Consent Kit Request Form - Help Guide
 ## Purpose
 The Consent Kit Request Form is designed to gather essential information from you to process and deliver the required consent kits accurately and efficiently.

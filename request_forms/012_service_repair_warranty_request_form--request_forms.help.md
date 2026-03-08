@@ -1,11 +1,3 @@
-<thinking>... internal form purpose and non-duplication checks: 
-
-This form is intended to help customers submit their Service Repair Warranty Request. It is required for all customers to provide their category, service type, and contact information for warranty validation. The form is designed to be simple and easy to use, with minimal fields to collect relevant information. Please ensure that you fill out the form accurately and completely, as this will help our team process your request efficiently. 
-
-If you have previously submitted a warranty request, please do not fill out this form again. Instead, contact our customer support team to inquire about the status of your previous request.
-
-</thinking>
-
 # Service Repair Warranty Request Form - Help Guide
 ## Purpose
 This form is for customers to submit their Service Repair Warranty Request. It helps us understand the category, service type, and contact information needed for warranty validation.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is used correctly to avoid unnecessary scenes being reshot due to miscommunication or incomplete information. This form should only be used to request a reshoot when it's truly necessary and not just for minor issues. Also, we need to prevent duplication of requests, so let's make sure to check if a request with the same Form ID already exists before submitting a new one.
-</thinking>
-
 # Film Scene Retake Request Form - Help Guide
 
 ## Purpose

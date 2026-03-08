@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for website updates, allowing them to request changes or modifications to the website. The form is divided into three sections: User Information, Update Details, Request Type, and Agency. The User Information section is optional, while Update Details, Request Type, and Agency are required fields. The form is intended for users to provide accurate and relevant information to ensure that their website update requests are processed efficiently and effectively.
-To prevent duplication of requests, this form includes a mechanism to detect and flag potential duplicates based on specific criteria. This is done to maintain data accuracy and minimize unnecessary updates.
-</thinking>
-
 # Website Update Request Form - Help Guide
 ## Purpose
 The website update request form is designed to gather information from users for website updates. This form is used to collect details about the user, the type of update requested, and the agency involved.

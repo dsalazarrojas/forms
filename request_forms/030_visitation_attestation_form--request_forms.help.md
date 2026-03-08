@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger system for managing visitor data and ensuring accurate record keeping. The purpose of this form is to collect relevant information from visitors about their visit, including their identity, contact details, and the circumstances of their visit. This information is used to generate an official attestations document that can be used to verify the identity of visitors. This form is only for visitors to complete; staff and administrators should not use this form.
-</thinking>
-
 # Visitation Attestation Form - Help Guide
 ## Purpose
 This form is used to collect information from visitors about their visits, including their identity, contact details, and the circumstances of their visit. It generates an official attestations document that can be used to verify the identity of visitors.

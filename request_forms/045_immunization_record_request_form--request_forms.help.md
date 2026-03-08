@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from the user, including their name, date of birth, address, email, phone number, reason for requesting an immunization record, and a signature. The form is likely used for official purposes, such as requesting a copy of an immunization record, and is likely to be reviewed by someone else. This form does not have any mandatory fields, so it seems that it's designed for users to provide information voluntarily.
-</thinking>
 # Immunization Record Request Form - Help Guide
 
 ## Purpose

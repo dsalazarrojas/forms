@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-<details>
+> <details>
 # information_request_form - Help Guide
 ## Purpose
 This form is designed to collect basic information from users. It is intended to be used for requests, inquiries, or other general purposes where minimal details are required. Please note that this form is not designed for complex or sensitive topics.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for requesting a credit memo, which is a document that provides a detailed description of the credits and debits related to a transaction or series of transactions. A credit memo can be used for various purposes, such as accounting, tax purposes, or for internal financial management. 
 
 When a credit memo is requested, it is usually for accounting reasons, and the form is completed by an internal department or team. The form should only be completed once for each credit memo request, to avoid duplication of effort and ensure accurate information is collected for review.

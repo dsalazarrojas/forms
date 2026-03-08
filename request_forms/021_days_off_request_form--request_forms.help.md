@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for employee days off requests. The form should be used by employees to submit requests for time off, specifying the dates and reason for the request. It will be reviewed and processed internally to determine the approval status and any comments or assigned tools related to the request.
-
-To ensure that this form is used correctly and consistently, please check the internal database to see if a similar request has been made before. If a duplicate request is found, please do not submit this form.
-
-</thinking>
-
 # Days Off Request Form - Help Guide
 ## Purpose
 This form is used by employees to request days off for a specific period. It helps the HR or management team to track and process these requests in a timely manner.

@@ -1,13 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Student Email Account Request Form, its purpose, and how to complete it. The form is designed to collect relevant information from students, including their email address, department, faculty, and other details. It's essential to ensure that students submit accurate information to avoid duplication of effort and potential technical issues.
-
-To confirm the form's purpose and ensure the user has not submitted the same request before, an internal logic might check for the presence of specific email addresses in a database. If a matching record is found, the form will display a message indicating that the student has already submitted a request.
-
-Before completing the form, students should carefully review the required and optional fields to ensure they provide accurate and complete information. Some fields are optional, but providing them might help with further processing and analysis.
-
-Please note that this guide will provide step-by-step instructions on how to complete the form and explain each field in detail.
-</thinking>
-
 # Student Email Account Request Form - Help Guide
 
 ## Purpose

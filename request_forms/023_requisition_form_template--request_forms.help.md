@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a generic requisition form template used to create and manage requests for various items or services. The form is designed to be completed by authorized personnel for official business purposes. To avoid duplication, please only submit a single requisition form per item or service request. If you need to submit multiple requests, please ensure that each form is complete and accurate before submitting. 
 
 </thinking>

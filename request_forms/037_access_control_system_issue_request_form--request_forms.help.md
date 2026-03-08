@@ -1,5 +1,3 @@
-<thinking>Internal note: Before filling this form, please make sure you haven't already reported this issue. Duplicate reports may not be processed. If unsure, it's always better to err on the side of caution and report the issue again. This form is designed for users to provide information about access control system issues they're experiencing. It's intended to help our team identify and resolve problems efficiently. Each field is crucial in providing the necessary details for swift resolution. Please fill out this form carefully, and if you're unsure about any field, feel free to ask for clarification.</thinking>
-
 # Access Control System Issue Request Form - Help Guide
 ## Purpose
 This form is designed for users to report issues with the access control system, allowing our team to identify and resolve problems efficiently.

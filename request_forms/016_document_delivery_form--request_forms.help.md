@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for document delivery purposes. This includes collecting a title for the document, a brief description, and contact details for delivery and a group. The form is optional, allowing users to submit a delivery name, address, contact email and phone, and group details if required. This form is not meant to be completed multiple times, it's a one-time request for document delivery. 
-</thinking>
-
 # Document Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect information for document delivery purposes.

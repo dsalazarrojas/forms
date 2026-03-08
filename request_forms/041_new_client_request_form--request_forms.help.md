@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Client Request Form - Help Guide
 ## Purpose
 The New Client Request Form is used to capture information about new clients and their requests for services. This form helps our team to understand the client's needs and to assign the correct tools and resources to fulfill their requests.

@@ -1,9 +1,3 @@
-<thinking>
-
-To avoid duplication of effort, it's essential that this form is only filled out when a user requests to access a digital capability. The purpose of this form is to gather information about the digital capability the user is requesting access to, which will help the team evaluate and fulfill the request efficiently. To fill out this form, please carefully review each section and provide accurate and relevant information.
-
-</thinking>
-
 # Digital Capability Audit Request Form - Help Guide
 ## Purpose
 The Digital Capability Audit Request Form is a tool used to gather information about digital capabilities you are requesting access to. This form will help our team evaluate and fulfill your requests efficiently.

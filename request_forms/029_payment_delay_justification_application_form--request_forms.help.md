@@ -1,5 +1,3 @@
-<thinking>Before you begin, please note that this form is for payment delay justification applications. It is intended for users who have experienced payment delays and need to provide a reason for the delay. The form is designed to gather information that will help us understand the cause of the delay and facilitate a resolution. Please fill out the form completely and accurately to ensure that your application is processed efficiently.</thinking>
-
 # Payment Delay Justification Application Form - Help Guide
 ## Purpose
 The Payment Delay Justification Application Form is a tool used to document the reason for payment delays. It helps us to identify and address the underlying causes of payment delays.

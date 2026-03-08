@@ -1,11 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, we can analyze the YAML fields provided. The form is titled "Retrofit Planning Registration Form" and has various fields related to personal information, project details, and project management. This suggests the form is used to collect information from individuals who will be involved in a project, possibly for organizational purposes such as HR or project management. The form may be used to register or onboard new employees, contractors, or freelancers.
-
-To check for relevance and non-duplication, we can see that all fields are required, which indicates that the form is comprehensive. However, the fields are not overly repetitive, and each field serves a distinct purpose.
-
-</thinking>
-
 # Retrofit Planning Registration Form - Help Guide
 ## Purpose
 The Retrofit Planning Registration Form is used to collect information from individuals involved in a project. This form helps project managers and HR teams track and manage project details, including personal information, project status, start and end dates, and contact information.

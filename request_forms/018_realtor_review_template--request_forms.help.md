@@ -1,8 +1,3 @@
-<thinking>
-This is a form for collecting feedback and reviews from realtors and clients. It seems to be focused on evaluating the performance of realtors, including their communication style, response time, and overall service experience. The form likely aims to help real estate agencies monitor and improve their agents' interactions with clients.
-The form is split into sections, each containing different fields related to various aspects of the realtor's performance. This form is likely used by agencies to assess and evaluate realtor agents, and may also be used by clients to rate their experience.
-</thinking>
-
 # realtor_review_template - Help Guide
 ## Purpose
 This form is designed for realtors to collect feedback and reviews from clients on their performance. It helps realtors to evaluate and improve their communication style, response time, and overall service experience.

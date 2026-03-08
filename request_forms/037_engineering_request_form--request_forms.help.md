@@ -1,11 +1,3 @@
-<thinking>
-
-The Engineering Request Form is used for requesting engineering resources from internal teams. It's essential to ensure you have approval and proper allocation of resources before proceeding. This guide will walk you through filling out the form correctly. 
-
-Please note that filling out this form is required for any engineering-related request.
-
-</thinking>
-
 # Engineering Request Form - Help Guide
 ## Purpose
 

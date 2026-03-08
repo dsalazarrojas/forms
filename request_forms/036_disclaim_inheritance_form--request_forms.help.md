@@ -1,7 +1,3 @@
-<thinking>Disclaim Inheritance Form - Internal Reasoning and Duplication Check
-The Disclaim Inheritance Form is used to gather information about inheritance claims. Each field is meant to capture specific aspects of the inheritance process. The following guide will help you understand what each field is meant to capture and how to complete the form accurately.
-</thinking>
-
 # Disclaim Inheritance Form - Help Guide
 ## Purpose
 The Disclaim Inheritance Form is used to gather information about inheritance claims, allowing us to understand the specifics of the inheritance process.

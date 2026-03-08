@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm thinking that this form is for sending a message on WhatsApp using various options and scheduling capabilities. Upon reviewing the form YAML, I can see that it's designed to collect user input for sending a message to a recipient at a specific time, with options for scheduling and sending at specific time intervals. However, I notice that some fields have similar names (e.g., "schedule_outreach" and "scheduled_outreaches"), which might cause confusion. I'll make sure to address this in the field-by-field explanation. I'm also assuming that this form is used for internal purposes, as there's no indication of external users.</thinking>
-
 # WhatsApp Message Sending Form - Help Guide
 ## Purpose
 This form is used for sending messages on WhatsApp with options for scheduling and customization.

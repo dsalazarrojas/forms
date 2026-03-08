@@ -1,13 +1,3 @@
-<thinking>
-This form is used to request access to fire-rated hatches for the attic space. Before starting, please ensure that:
-* You have the necessary permissions and clearance to make this request.
-* This request is not a duplicate; if you've submitted a similar request in the past, please do not submit again.
-* You have all the necessary information and supporting documents required for the approval process.
-
-If you have questions or need clarification, contact the designated team member or department responsible for this process.
-
-</thinking>
-
 # Fire Rated Attic Access Hatch Request Form - Help Guide
 ## Purpose
 This form is used to request access to fire-rated hatches for the attic space. Please use this form to provide the necessary information for the installation and delivery of the hatches.

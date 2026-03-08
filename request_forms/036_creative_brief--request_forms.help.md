@@ -1,9 +1,3 @@
-<thinking>
-This form was created using AI to generate a Creative Brief form. The purpose of this form is to gather information about the requirements for various types of promotional materials such as posters, prints, banners, leaflets, flyers, brochures, postcards, stickers, cards, folders, catalogs, and calendars. The form is designed to be used by clients or project managers to specify their needs for these materials.
-
-The form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation of public survey topic metadata and is released under CC BY 4.0 license.
-</thinking>
-
 # Creative Brief - Help Guide
 ## Purpose
 The Creative Brief form is designed to help clients or project managers specify their requirements for various types of promotional materials such as posters, prints, banners, leaflets, flyers, brochures, postcards, stickers, cards, folders, catalogs, and calendars.

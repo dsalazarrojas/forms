@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about referrals related to Tan use. This form is designed to gather details from individuals who have referred someone to the Tan use program. The form is not intended for users who are requesting Tan use themselves, but rather for those who are providing information about others. It is essential to ensure that the information provided is accurate and complete to avoid duplication of efforts and ensure the correct referral source is attributed.
 
 # Referrals (for TAN Use) - Help Guide

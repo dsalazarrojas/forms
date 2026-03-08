@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting access to assets or properties, and is used to track and manage requests from users. It is essential to ensure that the request is properly filled out and submitted to avoid duplication or incomplete requests. This form will guide you through the process of filling out the form and explaining each field's purpose.
-</thinking>
-
 # right_of_first_refusal_request_form - Help Guide
 
 ## Purpose

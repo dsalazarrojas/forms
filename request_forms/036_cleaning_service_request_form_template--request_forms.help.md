@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cleaning Service Request Form Template - Help Guide
 ## Purpose
 This form is used to collect information about your cleaning service request. It will help us understand your needs and preferences for cleaning services such as residential, deep, move-in/move-out, window, carpet, and office cleaning. Please provide as much detail as possible to help us tailor our service to your requirements.

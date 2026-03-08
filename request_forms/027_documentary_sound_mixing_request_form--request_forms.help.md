@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a straightforward tool for submitting documentary sound mixing requests. Its main purpose is to collect information about the submission date of a mix, the mixer assigned to work on it, the client's name, project number, project type, mix type, mix version, mix status, and any additional comments or notes. It should only be used for submitting new mixes for review.
-
-Before filling out this form, please ensure that you are not duplicating an existing mix submission. To do this, please check with the production team or review the mix submissions log to ensure that your mix is not already listed.
-
-</thinking>
-
 # Documentary Sound Mixing Request Form - Help Guide
 ## Purpose
 This form is used to submit a new mix for review and processing.

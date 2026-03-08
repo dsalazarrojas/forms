@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # on_set_health_monitoring_service_request - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from employees regarding their workforce inclusion strategy requests. The purpose of this form is to gather details about the request, the context surrounding the request, any challenges faced, and the recommended strategies and next steps for the request. This form is not intended for general feedback or suggestions but rather for specific requests regarding workforce inclusion strategies. Please ensure that you only submit requests that are relevant to your work and not duplicate or submit general feedback. This form is only for submitting specific requests and should not be used to discuss general topics or ideas. Please note that all information submitted through this form will be reviewed and used for internal purposes only.</thinking>
-
 # Workforce Inclusion Strategy Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect specific requests regarding workforce inclusion strategies. It is meant to gather information about the requests, context, challenges, and recommended strategies and next steps. Please ensure that you submit only relevant and specific requests.

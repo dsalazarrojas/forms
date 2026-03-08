@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information about the movement of tools within a system or facility. The form will help to track the movement of tools from one location to another, ensuring that all relevant information is captured accurately. 
-
-It's essential to ensure that only one form is completed for each tool movement event. If you have already completed a form for the same tool movement event, please do not attempt to re-complete it as duplicate forms may lead to inaccuracies in the tracking system. 
-
-Please ensure that you provide accurate information for each field, as this will impact the quality of the tracking data.
-</thinking>
-
 # Tool Movement Form - Help Guide
 ## Purpose
 The Tool Movement Form is used to collect and track the movement of tools within a facility or system. 

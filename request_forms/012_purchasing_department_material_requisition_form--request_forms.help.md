@@ -1,9 +1,3 @@
-<thinking>
-
-To create a user-friendly help guide for this "Purchasing Department Material Requisition Form," we first need to break down the form's purpose and the reasoning behind it. This form is likely used to request materials or supplies for purchase by departmental units within an organization. It allows users to specify the material name, type, quantity, and other details required for the purchase. The form might also ask for departmental approval, requested-by, and material description, which helps in tracking and managing the purchase process. Before proceeding, ensure the material is not already requisitioned or in the purchasing process.
-
-</thinking>
-
 # Purchasing Department Material Requisition Form - Help Guide
 ## Purpose
 The Purchasing Department Material Requisition Form is designed to assist departments in requesting materials or supplies for purchase. This form guides users through specifying the required details for the purchase, ensuring that materials are properly tracked and managed throughout the process.

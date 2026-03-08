@@ -1,7 +1,3 @@
-<thinking> 
-  This form is designed to collect information from individuals or groups within the acting school, such as students, faculty, or staff, requesting materials such as scripts, props, or costumes. The purpose of the form is to ensure that the request is properly recorded and that materials are delivered correctly. To prevent duplication of requests, the form will ask for the production or class name and a specific date, which should match the existing production schedule and materials requests. 
-</thinking>
-
 # Acting School Material Request Form - Help Guide
 ## Purpose
 The Acting School Material Request Form is used to collect information from individuals or groups within the acting school requesting materials such as scripts, props, or costumes for productions or classes. This form helps ensure that the request is properly recorded and that materials are delivered correctly.

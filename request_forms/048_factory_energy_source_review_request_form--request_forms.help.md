@@ -1,7 +1,3 @@
-<thinking>
-This form is for factory managers or other authorized personnel to request a review of their energy source. The review is to assess the current energy use and planning of the factory, and to identify opportunities for improvement in sustainability and production planning. This form should be filled out by the factory management or designated representative, not by third-party personnel.
-</thinking>
-
 # Factory Energy Source Review Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a review of your factory's energy source, enabling the energy team to assess and provide feedback on the current energy use and planning. This information will help in identifying areas for improvement and opportunities for sustainability and production planning.

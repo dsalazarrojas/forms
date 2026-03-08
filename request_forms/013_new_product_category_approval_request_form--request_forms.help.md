@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting the approval of a new product category. This process should only be initiated by authorized personnel. Please ensure that you have the necessary permissions to submit this form before proceeding. Also, note that duplicate requests for the same product category will be rejected.
-</thinking>
-
 # New Product Category Approval Request Form - Help Guide
 ## Purpose
 The New Product Category Approval Request Form is a form used to request the approval of a new product category. This form is to be filled out by authorized personnel to propose a new category for approval. 

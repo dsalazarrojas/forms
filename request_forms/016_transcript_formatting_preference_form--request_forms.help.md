@@ -1,15 +1,3 @@
-<thinking>
-
-The Transcript Formatting Preference Form is used to collect user preferences for transcript formatting. This form is typically filled out before receiving a transcript, and the preferences selected will dictate how the transcript is formatted. 
-
-When filling this form, ensure that you are providing your preferences correctly, as they will be used to generate the transcript accordingly. 
-
-Please note that this form should be filled out only once per session, as changes may not be automatically reflected in previously generated transcripts.
-
-This form is designed to be filled out by users who have been assigned a transcript for review and formatting. If you are unsure about any of the options, please consult the relevant documentation or contact the support team for assistance.
-
-</thinking>
-
 # Transcript Formatting Preference Form - Help Guide
 ## Purpose
 The Transcript Formatting Preference Form is used to collect user preferences for transcript formatting. This form is typically filled out before receiving a transcript, and the preferences selected will dictate how the transcript is formatted.

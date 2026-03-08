@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers or clients for the purpose of conducting a financial consultation. The form asks for basic contact information, the topic of the consultation, and any additional notes or details. This form is not intended for sensitive or confidential financial information.
-</thinking>
-
 # Financial Consultation Form - Help Guide
 ## Purpose
 This form is used to collect information from customers or clients for the purpose of conducting a financial consultation.

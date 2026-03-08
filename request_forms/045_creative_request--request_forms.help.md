@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creative Request - Help Guide
 ## Purpose
 This form is designed to help you submit a creative request for promotional materials to our team. Please fill out this form completely and accurately to ensure we can provide you with the best possible outcome.

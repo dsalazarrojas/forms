@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a Thanksgiving dinner event. The form aims to gather details about the date of the dinner, the reporter's status, contact information, and preferences for various aspects of the dinner, such as the presence of a turkey, stuffing, cranberry sauce, pumpkin pie, pie crust, pie toppings, main course, sides, and drinks.
-
-Before filling out the form, please ensure that it is relevant to the specific dinner event you are reporting on. This guide will walk you through each field to help you complete the form accurately.
-
-</thinking>
-
 # Thanksgiving Dinner Form - Help Guide
 ## Purpose
 The form is designed to collect information about a Thanksgiving dinner event, including the date, reporter's status, contact information, and preferences for various dinner aspects.

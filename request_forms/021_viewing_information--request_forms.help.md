@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for viewing information. It is intended to collect user input for displaying information on a specific date and time. The form fields are designed to provide necessary details for this purpose, including date, time, note, email, phone number, and a submit button.
 
 </thinking>

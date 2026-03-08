@@ -1,7 +1,3 @@
-<thinking>
-This form is used by team members to request a work call with a manager. When requesting a work call, please ensure that the request is legitimate and not a duplicate. A work call is not automatically granted, and the manager will review the request before approving or denying it.
-</thinking>
-
 # Work Call Request Form - Help Guide
 ## Purpose
 The Work Call Request Form is used for requesting a work call with a manager. It's a simple form that helps you schedule a meeting to discuss work-related topics.

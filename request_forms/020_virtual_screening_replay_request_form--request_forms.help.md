@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to allow users to request a replay of a virtual screening. The purpose of this form is to capture essential information from the user, including their user info, screening information, and a message. The request type and screening date/time are also important fields to be filled in. The form will be used to track and fulfill requests for replays of virtual screenings. To avoid duplicates, we will check for existing requests for the same screening ID. 
-
-The form is divided into several sections, each containing one or more fields that need to be filled in. The fields are:
-
-- **User Info** (`user_info`, `text`, required: false): This field is for the user to enter their name and other personal details.
-- **Screening Info** (`screening_info`, `text`, required: false): This field is for the user to enter details about the screening they are requesting a replay of.
-- **Message** (`message`, `text`, required: false): This field is for the user to enter any additional information they would like to share with the team.
-- **Request Type** (`request_type`, `select_one`, required: false): This field is for the user to choose the type of request they are making (e.g., Request, Other).
-- **Screening Date** (`screening_date`, `date`, required: false): This field is for the user to select the date of the screening they are requesting a replay of.
-- **Screening Time** (`screening_time`, `time`, required: false): This field is for the user to select the time of the screening they are requesting a replay of.
-- **Screening ID** (`screening_id`, `text`, required: false): This field is for the user to enter the ID of the screening they are requesting a replay of.
-- **Email** (`email`, `email`, required: false): This field is for the user to enter their email address.
-- **Phone** (`phone`, `text`, required: false): This field is for the user to enter their phone number.
-- **Message** (`user_message`, `text`, required: false): This field is for the user to enter any additional information they would like to share with the team.
-
-Please fill in the required fields and any additional information as needed. The team will review your request and follow up with you soon.
-</thinking>
-
 # Virtual Screening Replay Request Form - Help Guide
 ## Purpose
 The Virtual Screening Replay Request Form is designed to allow users to request a replay of a virtual screening.

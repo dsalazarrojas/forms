@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "digital_document_management_application_form" is completed correctly and accurately. This form is used to request documents for a specific purpose or project, and its completion will impact the document's status, implementation details, and overall document management. To prevent duplication and ensure relevance, please review the form carefully and only submit if the information is accurate and complete.
-</thinking>
-
 # digital_document_management_application_form - Help Guide
 ## Purpose
 The "digital_document_management_application_form" is used to request documents for a specific purpose or project. It helps to gather information about the document's status, implementation details, and other relevant attributes.

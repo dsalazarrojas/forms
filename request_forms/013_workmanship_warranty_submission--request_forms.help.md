@@ -1,7 +1,3 @@
-<thinking>
-This form is used to submit a workmanship warranty claim, which is a formal process for documenting and tracking workmanship-related issues that need to be addressed. This form is intended to be completed by the claimant, who is the individual or company responsible for the workmanship issue. To ensure consistency and accuracy, please ensure that you are submitting a new workmanship warranty claim and not a duplicate claim.
-</thinking>
-
 # Workmanship Warranty Submission - Help Guide
 ## Purpose
 The purpose of this form is to submit a workmanship warranty claim to document and track workmanship-related issues. The claimant is the individual or company responsible for the workmanship issue.

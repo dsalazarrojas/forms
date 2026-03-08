@@ -1,8 +1,3 @@
-<thinking>
-To help ensure that the grant registration process is efficient and well-structured, this form is designed to gather relevant information about grant applications. This form is intended for grant applicants to register their grant applications, providing essential details about the grant they are requesting. Before starting, please make sure you're not duplicating an existing grant application and that you're submitting a new grant application that hasn't been previously registered.
-
-</thinking>
-
 # Process Efficiency Grant Registration Form - Help Guide
 ## Purpose
 The Process Efficiency Grant Registration Form is a crucial tool for grant applicants to register their grant applications with relevant details. This form helps streamline the grant registration process and ensures that all necessary information is provided.

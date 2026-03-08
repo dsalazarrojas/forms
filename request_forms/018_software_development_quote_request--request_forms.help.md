@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm whether this form is being used for its intended purpose, please verify that you are requesting a software development quote for a new project. This form should not be used for project updates or other non-quote-related purposes. If you are unsure, please contact your project manager to confirm the correct process. Additionally, please check the project database to ensure this quote request is not a duplicate of an existing project.
 
 # Software Development Quote Request - Help Guide

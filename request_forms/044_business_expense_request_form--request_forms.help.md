@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for requesting business expenses. It is intended to be filled out by employees when they need to incur an expense related to work.
-
-The form is split into multiple sections, each focusing on different aspects of the expense request. The form requires the employee to provide their information, the details of the expense, and justifications for the request.
-
-The form is not designed to be a duplicate or unnecessary, as it provides a structured way of requesting expenses, ensuring that all necessary information is provided to process the request.
-
-Please note that this form is intended for internal use and should not be used for external communication.
-
-</thinking>
-
 # Business Expense Request Form - Help Guide
 ## Purpose
 

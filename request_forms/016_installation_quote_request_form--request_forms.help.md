@@ -1,8 +1,3 @@
-<thinking>
-This help guide will walk you through the Installation Quote Request Form, ensuring you have all the necessary information to complete it accurately. Please take a moment to review this guide to confirm the form's purpose and relevance to your specific request.
-
-</thinking>
-
 # Installation Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather essential details from customers to provide them with an installation quote. By filling out this form, you will be able to provide your contact information, details about the job, and any additional comments.

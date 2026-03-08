@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from editors or authors requesting a peer review for a manuscript. This form is meant to be filled out by editors or authors looking to solicit peer review for their submission. Before submitting this form, the requester should ensure that they have not already sent out a similar request and that the manuscript is not currently under review.
-
-</thinking>
-
 # Academic Peer Review Invitation Request Form - Help Guide
 ## Purpose
 The Academic Peer Review Invitation Request Form is used to request peer review invitations for a manuscript submission. This form helps gather necessary information from the requester to facilitate the peer review process.

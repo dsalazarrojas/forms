@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Software Package Availability Issue Report Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to request a job to be posted on the internal job board. This form is used by employees or managers to submit information about a new job opening, including job description, requirements, salary range, and other relevant details. By filling out this form, the requester can help to streamline the hiring process and ensure that the job is posted accurately and efficiently.
-</thinking>
-
 # opportunity_request_form_requesting_a_job_to_be_posted - Help Guide
 ## Purpose
 The opportunity request form is a crucial tool for requesting a job to be posted on the internal job board. This form helps to centralize job postings, making it easier for employees and managers to find and apply to job openings.

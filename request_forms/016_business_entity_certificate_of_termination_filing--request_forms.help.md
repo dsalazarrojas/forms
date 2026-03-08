@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Entity Certificate Of Termination Filing - Help Guide
 
 ## Purpose

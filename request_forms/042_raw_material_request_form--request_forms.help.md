@@ -1,12 +1,3 @@
-<thinking>
-A request for a Raw Material Request Form typically involves asking for the necessary information about the raw materials that an organization needs for its operations or manufacturing. This information is usually submitted to a supplier for procurement purposes.
-
-This form aims to gather details about the raw materials requested, such as the description, quantity, supplier information, order due date, and order status, among other essential details. 
-
-It seems to serve a specific business purpose, so ensure this form is being used for a legitimate reason and is not a duplicate request for a material already being procured.
-
-</thinking>
-
 # Raw Material Request Form - Help Guide
 ## Purpose
 This form is designed to gather essential information about raw materials requested for procurement purposes.

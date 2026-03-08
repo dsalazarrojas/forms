@@ -1,11 +1,3 @@
-<thinking>
-
-To create this form, I will consider the original purpose and intention of the form, as well as the fields and their labels. I will also try to be concrete, concise, and practical in my explanations.
-
-This form is intended to gather information from students who want to request study materials for their Communication Systems course. The form is designed to collect details about the student's request, such as their name, email, course information, and what type of materials they need. The form also has fields for students to provide additional comments or reasons why they need the materials.
-
-</thinking>
-
 # Communication Systems Study Material Request Form - Help Guide
 ## Purpose
 This form is used by students to request study materials for their Communication Systems course. The form collects information about the student's request, including the type and quantity of materials needed, and any additional comments they may have.

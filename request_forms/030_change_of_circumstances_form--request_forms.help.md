@@ -1,12 +1,3 @@
-<thinking>
-We should create a user-facing help guide for the "Change Of Circumstances Form" to ensure end-users understand its purpose and how to complete it accurately. This form is meant to capture changes in an individual's circumstances, which can be used for updating records, adjusting policies, or other relevant purposes.
-
-To prevent duplication, we should check if a similar form has been submitted within the past 30 days. If so, the current form submission will be considered non-compliant. To prevent irrelevant submissions, we should verify that the form is being completed for a valid reason, such as a change in address, employment, or marital status.
-
-The form is split into several pages with various fields, each with its own set of options and requirements. It's essential to explain each field clearly to avoid confusion.
-
-</thinking>
-
 # Change Of Circumstances Form - Help Guide
 ## Purpose
 The "Change Of Circumstances Form" is used to report changes in your circumstances, such as address, employment, or marital status. This information helps us update your records and ensure that our policies and procedures are applied accurately.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Data Compliance Review Request Form - Help Guide
 
 ## Purpose

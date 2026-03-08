@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is intended to collect modernization initiative requests from various business units, which will be assessed and prioritized by the IT department. This form will help in reducing the number of requests and their complexity by ensuring all required information is gathered upfront. Before proceeding, ensure you are submitting a genuine request and not just a duplicate of an existing one. This form must be completed in full, and please make sure that your selection in the "IT Department" field is accurate. Also, please provide as much detail as possible in the "Advisory Request Notes" field to aid the IT department in assessing your request. If the IT department is not specified, the request might be delayed or lost.
-</thinking>
-
 # it-modernization-advisory-request-form - Help Guide
 ## Purpose
 This form is intended to collect modernization initiative requests from various business units to be assessed and prioritized by the IT department.

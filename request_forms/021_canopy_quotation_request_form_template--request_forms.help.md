@@ -1,6 +1,3 @@
-<thinking>
-Canopy quotation request forms are used to gather information about a project's specifics, such as the type of canopy needed, installation location, and estimated area to be covered. This form ensures that the project's requirements are accurately captured to provide a suitable quotation.
-</thinking>
 # Canopy Quotation Request Form Template - Help Guide
 ## Purpose
 This form is designed to help us understand your canopy quotation request needs, ensuring that we can provide a tailored solution for your project.

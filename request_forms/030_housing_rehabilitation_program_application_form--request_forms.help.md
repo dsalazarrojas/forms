@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from applicants applying for the Housing Rehabilitation Program. The goal is to collect data on properties and households that meet the eligibility criteria for the program. This form is meant for property owners or managers who want to apply for the program. Please ensure that the information provided is accurate and complete, as it will be reviewed to assess the eligibility of the property for the program.
-</thinking>
-
 # Housing Rehabilitation Program Application Form - Help Guide
 ## Purpose
 The Housing Rehabilitation Program Application Form is designed to collect information from property owners or managers that meet the program's eligibility criteria. This form is used to gather data on properties and households that are eligible for the program.

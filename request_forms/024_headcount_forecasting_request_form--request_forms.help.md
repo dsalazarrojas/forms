@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information for headcount forecasting, which is crucial for various business processes such as resource allocation, project planning, and budgeting. This form is typically filled out by submitting managers who need to request a headcount for a specific role, type, or location. To avoid duplication, ensure that you submit a new request only if your previous request has not been processed or if there has been a significant change in your circumstances.
-</thinking>
-
 # Headcount Forecasting Request Form - Help Guide
 ## Purpose
 The Headcount Forecasting Request Form is a tool used to collect information for headcount forecasting. This form helps managers request a headcount for a specific role, type, or location to support various business processes such as resource allocation, project planning, and budgeting.

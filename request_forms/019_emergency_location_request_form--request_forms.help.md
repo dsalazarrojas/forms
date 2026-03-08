@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency_location_request_form - Help Guide
 ## Purpose
 The emergency_location_request_form is used to request a location in case of an emergency. Please fill out this form to provide information about the emergency location you are requesting.

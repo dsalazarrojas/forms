@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for tax-related requests. It is not intended for use in other contexts. Please ensure that you only use this form when requesting tax-related information. Duplicate or unrelated requests will be rejected.
-</thinking>
-
 # Tax Request Form - Help Guide
 ## Purpose
 This form is used to collect information for tax-related requests.

@@ -1,7 +1,3 @@
-<thinking>
-To provide a comprehensive help guide for the Staff Coverage Request Form, we first need to understand its purpose and how it should be filled out to ensure accurate and efficient processing. This form is used to request staff coverage for a specific shift or period, and it requires information from the employee making the request, as well as their manager. The form aims to capture relevant details about the request, including date, employee information, shift timing, and manager contact details. When filling out this form, please make sure to accurately enter your own and your manager's information, and provide a clear note if necessary. If you're unsure about any field, it's best to ask the relevant team or manager for clarification. Additionally, if you've previously submitted a request, please check our records before resubmitting, to avoid duplicates. If you're still unsure, feel free to reach out to our support team for assistance.
-</thinking>
-
 # Staff Coverage Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Stop Payment Form Template - Help Guide
 
 ## Purpose

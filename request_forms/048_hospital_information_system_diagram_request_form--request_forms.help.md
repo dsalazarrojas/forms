@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from hospital staff and management to understand the current state of their hospital's information system diagram requests. The purpose of this form is to gather input on whether the hospital's information system diagram is up-to-date, accurate, and complete. This form is not intended for patients or external stakeholders. It's a request for internal use only, aimed at identifying areas for improvement and ensuring that the hospital's information system is functioning optimally.
-</thinking>
-
 # Hospital Information System Diagram Request Form - Help Guide
 ## Purpose
 This form helps hospital staff and management assess and improve the accuracy, completeness, and up-to-dateness of the hospital's information system diagram.

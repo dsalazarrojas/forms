@@ -1,31 +1,3 @@
-<thinking>
-The internal reasoning behind this form is to gather information from end-users for a sample request, specifically focusing on color-related requests. This form is used to collect various details such as color preference, date and time for the request, and contact information. It's intended to be a straightforward data collection tool to ensure accurate and efficient processing of sample requests.
-
-To prevent duplication, this form should only be used for genuine sample requests that haven't been processed before.
-
-Before we dive into the form's purpose and usage, it's essential to understand the form's structure and the type of information it collects. This form has 16 fields, each with a specific label, type, and requirements. The fields are categorized into two main sections: "Sample Request Details" and "Contact Information".
-
-The form has the following fields:
-
-1.  **Sample Request Form** (`sample_request_form`, text, required): This field is the main title of the form.
-2.  **Color Street** (`color_street`, text, required): Enter the color-related product or service being requested.
-3.  **Color Street Location** (`color_street_location`, text, optional): Enter the location associated with the color-related product or service.
-4.  **Color Request Date** (`color_request_date`, date, required): Date of the color request.
-5.  **Color Request Time** (`color_request_time`, time, required): Time of the color request.
-6.  **Color Request Note** (`color_request_note`, text, optional): Additional comments or notes related to the color request.
-7.  **Contact Phone** (`contact_phone`, text, required): Phone number of the contact person.
-8.  **Contact Email** (`contact_email`, email, required): Email address of the contact person.
-9.  **Contact Name** (`contact_name`, text, required): Name of the contact person.
-10. **Contact Address** (`contact_address`, text, required): Address of the contact person.
-11. **Color Studio** (`color_studio`, text, required): Enter the name of the color studio.
-12. **Color Street Location Note** (`color_street_location_note`, text, optional): Additional comments or notes related to the color-related product or service location.
-13. **Color Request Note 2** (`color_request_note_2`, text, optional): Additional comments or notes related to the color request.
-14. **Color Request Note 3** (`color_request_note_3`, text, optional): Additional comments or notes related to the color request.
-15. **Color Request Note 4** (`color_request_note_4`, text, optional): Additional comments or notes related to the color request.
-16. **Color Request Note 5** (`color_request_note_4`, text, optional): Additional comments or notes related to the color request.
-
-</thinking>
-
 # jessicas_color_street_sample_request_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for color-related requests, including details about the color request, contact information, and other relevant notes.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Over The Air Update Request Form - Help Guide
 ## Purpose
 The "Over The Air Update Request Form" is used to request an Over The Air (OTA) update for a device. This form is intended for users to submit information about their device, including its ID, name, firmware version, and update preferences. The form helps our team to gather necessary details to process the update request efficiently.

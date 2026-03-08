@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Document Suggestion Removal Request Form - Help Guide
 ## Purpose
 This form is used to request removal of a document that was previously suggested for inclusion in the collection. The form is intended for use by staff members who want to remove a document from the collection due to a specific reason.

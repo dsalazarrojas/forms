@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Religious Accommodation Request Form Template - Help Guide
 
 ## Purpose

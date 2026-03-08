@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a quotation request form for an event or party, likely used for internal purposes within an organization. The form is designed to collect various details about the event, including its name, date, location, type, and other relevant information. The form likely serves as a template for generating quotes or proposals for events or parties. It's possible that the form is used by event organizers or coordinators to provide details about their events, and the quotes or proposals generated from this form are used to communicate with clients or stakeholders.
-</thinking>
-
 # Facebooth Quotation 1 - Help Guide
 ## Purpose
 

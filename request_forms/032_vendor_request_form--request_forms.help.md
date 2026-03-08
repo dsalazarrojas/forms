@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors about their requests, which will be reviewed and processed internally. To ensure that we are providing accurate and complete information, please be aware that this form will be used for the purpose of reviewing and processing vendor requests. To avoid duplicate requests, please do not submit multiple forms for the same event or activity.
-</thinking>
-
 # Vendor Request Form - Help Guide
 ## Purpose
 The Vendor Request Form is a tool used to collect information from vendors about their events, parties, or other activities. This form will be reviewed and processed internally to ensure that we are providing accurate and complete information.

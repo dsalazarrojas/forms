@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to handle temporary duty requests, allowing users to submit a request for a change of duty location. This form is likely to be used in a work environment where employees need to swap shifts or work locations for a short period. The form should prevent duplication of requests for the same duty location change, ensuring that requests are reviewed and approved before being processed.
-</thinking>
-
 # Temporary Duty Request Form - Help Guide
 ## Purpose
 The Temporary Duty Request Form is used to submit a request for a temporary change of duty location.

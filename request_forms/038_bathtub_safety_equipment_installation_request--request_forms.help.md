@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to request the installation of safety equipment in a bathtub, which is typically used to assist residents with mobility issues. The form is intended to collect essential information from the requester, including personal details about the resident, the requested equipment, and the urgency of the installation. The form also asks for billing and payment information, as well as authorization for installation. This form helps ensure that the correct safety equipment is installed to meet the resident's needs and that the installation process can be completed efficiently. To avoid duplication, this form should not be submitted more than once for the same request.
-
-</thinking>
-
 # Bathtub Safety Equipment Installation Request - Help Guide
 ## Purpose
 This form is used to request the installation of safety equipment in a bathtub for residents with mobility issues.

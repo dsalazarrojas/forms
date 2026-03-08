@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pwr_workshop_interest_form - Help Guide
 ## Purpose
 This form is designed to gather information about your interest in attending a workshop on [workshop topic] in [location]. We will use this information to better understand your preferences and tailor the workshop to suit your needs.

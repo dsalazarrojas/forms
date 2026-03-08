@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "toy_product_missing_parts_request_form" form, we need to first understand the purpose and usage of this form. The form is designed to allow users to request missing parts for a toy product. This form should be used when a toy product is not complete or is missing certain parts, and the user needs to report this issue to the relevant teams or departments. To ensure that the form is filled out correctly, it's essential to follow the guidelines outlined in this help guide.
 
 # toy_product_missing_parts_request_form - Help Guide

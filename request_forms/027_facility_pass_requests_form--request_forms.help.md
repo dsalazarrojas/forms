@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a request form for facilities, likely for employees to request passes for themselves or others to access a facility or restricted area. The form likely serves as a centralized platform for facility managers or administrators to track and manage these requests.
-</thinking>
-
 # Facility Pass Requests Form - Help Guide
 
 ## Purpose

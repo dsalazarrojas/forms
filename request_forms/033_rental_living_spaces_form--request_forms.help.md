@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rental Living Spaces Form - Help Guide
 ## Purpose
 This form is designed to collect information about rental living spaces, providing a platform for users to input data and preferences related to their living situation. The form is used for various purposes, such as surveying opinions, collecting feedback, or requesting services.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used by employees to request mileage credit for business trips or other work-related travel. The form helps to track and verify travel details, employee involvement, and other relevant information to ensure accurate mileage credit is awarded. 
-Please only submit this form if you are an employee who has actually taken a business trip. Repeatedly requesting mileage credit for the same trip or submitting a form with false or incomplete information will not be processed.
-</thinking>
-
 # Mileage Credit Request Form - Help Guide
 ## Purpose
 The Mileage Credit Request Form is used to request mileage credit for business trips or other work-related travel. To request mileage credit, you must be an employee who has actually taken a business trip.

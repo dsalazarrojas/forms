@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations seeking to provide a credit reference. The purpose of this form is to gather relevant details from the contact person, including their first name and email address, as well as the address of the organization or entity they represent. This form aims to be used in a professional or business context.
-
-Before filling out this form, please ensure that you have the necessary permissions and clearance to provide the requested information. Additionally, please note that the information collected here will be used for legitimate purposes, such as providing a credit reference for a credit application or loan.
-
-To avoid duplication of work, please do not fill out this form if a similar form has already been submitted by someone else with the same name and email address or organization address.
-</thinking>
-
 # credit_reference_request - Help Guide
 
 ## Purpose

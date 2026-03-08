@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information for customer loyalty merging, which is a process to combine multiple customer records into one unified record. This form helps in collecting the necessary details of the customer to ensure accurate and efficient merging. To avoid filling out this form if you are not a authorized staff member, please refer to your organization's internal policies.
-</thinking>
-
 # Customer Loyalty Merge Request Form - Help Guide
 ## Purpose
 The Customer Loyalty Merge Request Form is designed to collect relevant information about the customer to facilitate their loyalty merging process. This form is used by staff members to gather the necessary details for merging multiple customer records into one unified record.

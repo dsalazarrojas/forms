@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users who wish to import data into the system. The form is used to gather necessary details to process and import data into the target system. This form should only be used by authorized personnel to prevent abuse or unauthorized data import. Please ensure that you are authorized to submit this form and that the data to be imported does not exist in the system yet.
-</thinking>
-
 # CSV Importer Form - Help Guide
 ## Purpose
 The CSV Importer Form is used to collect information from users who wish to import data into the system. This form is necessary for the import team to process and import data correctly.

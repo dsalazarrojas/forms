@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about municipal service improvement requests from residents and citizens. Its purpose is to ensure that their voices are heard and their concerns are addressed by the local government. However, before proceeding, please ensure that you are submitting a new request and not a duplicate. This form is not intended to be used for emergency services or urgent matters. To prevent duplication, you can search for existing requests using our municipal service request tracking system. If you find that your request is already listed, please refrain from resubmitting it. If you're unsure or have questions, feel free to contact us at: form@gic.mx.
-</thinking>
-
 # Municipal Service Improvement Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from citizens about improvements or concerns they have regarding municipal services, such as road maintenance, parks and recreation, waste management, and other services.

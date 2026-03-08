@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to assist the person surrendering or intaking an animal to understand and complete the form correctly. Please ensure that the guide is being used for its intended purpose, which is to provide accurate information for the animal's surrender or intake. To ensure that the form is being used correctly, please review the information below before proceeding.
-The guide is designed to ensure that the user has access to all relevant information, and the user understands their obligations and requirements when surrendering or intaking an animal. Please review the form carefully and use your best judgment when completing the form.
-</thinking>
-
 # Animal Surrender/Intake Request - Help Guide
 ## Purpose
 This form is used to collect information about an animal being surrendered or intaken by an animal shelter or rescue organization. It is essential to provide accurate information to ensure the best possible outcome for the animal.

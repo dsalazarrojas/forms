@@ -1,7 +1,3 @@
-<thinking>
-  The Patient Refund Request form is used to request a refund for services provided to a patient. Before filling out this form, please ensure that you have not already submitted a refund request for the same service. If you are unsure about your eligibility for a refund, contact your healthcare provider's customer support team for guidance.
-</thinking>
-
 # Patient Refund Request - Help Guide
 ## Purpose
 The Patient Refund Request form is used to submit a request for a refund for services provided to a patient. This form should be filled out by patients or their representatives who wish to dispute a charge or seek a refund for services they received.

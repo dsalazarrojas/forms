@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Time Log Adjustment Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a time log adjustment. Please fill out the form if you need to make a change to your time logs.

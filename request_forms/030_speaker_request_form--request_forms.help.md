@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for requesting speaker information for various events. It is essential that the speaker's identity and contact information are accurate. To ensure that speakers are not listed multiple times, please verify that there is no existing request for the same speaker before filling this form. If you are unsure, contact your supervisor or event coordinator to confirm.
 
 # Speaker Request Form - Help Guide

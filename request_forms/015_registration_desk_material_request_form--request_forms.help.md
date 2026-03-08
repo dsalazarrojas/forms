@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users who need to request materials for an event. The purpose of this form is to ensure that the materials requested are delivered on time and in the right quantity. The form will be used by the registration desk to process the requests and ensure that the materials are prepared and delivered according to the user's needs.
-
-This form should only be filled out by users who have not already submitted a similar request within the past month. If a user has already submitted a similar request within the past month, they should not fill out this form.
-
-Please note that the fields are designed to be easy to understand, and the instructions are clear and concise. If any user has questions or concerns, please don't hesitate to contact the registration desk.
-
-</thinking>
-
 # Registration Desk Material Request Form - Help Guide
 ## Purpose
 The Registration Desk Material Request Form is designed to collect information from users who need to request materials for an event.

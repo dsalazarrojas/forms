@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form's purpose and ensure it's not being duplicated. Based on the provided YAML, this form appears to be a general online registration form for restaurants. It seems to be a one-time request form, so the purpose is likely for restaurants to share their information or register for a specific event or promotion. There might be similar forms within the organization, but without further context, it's hard to be certain. It's always a good idea to confirm with the client or project stakeholders to ensure this is the correct purpose and not a duplicate.</thinking>
-
 # Restaurant Online Registration Form - Help Guide
 ## Purpose
 This form is intended for restaurants to provide their information or register for a specific event or promotion. Please fill out the form with accurate and detailed information to ensure a smooth registration process.

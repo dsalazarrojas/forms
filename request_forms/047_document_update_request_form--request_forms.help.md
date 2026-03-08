@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from staff and clients to request updates to a document. It is recommended to only submit a request if there is a valid reason for the update, and to avoid duplicating requests for the same document. This will help the document management team to process the requests efficiently and accurately.
-</thinking>
-
 # Document Update Request Form - Help Guide
 ## Purpose
 The Document Update Request Form is used to collect information from staff and clients to request updates to a document. Before submitting a request, please ensure that it is valid and not a duplicate of an existing request.

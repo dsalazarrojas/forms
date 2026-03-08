@@ -1,11 +1,3 @@
-<thinking>
-The "prayer_card_design_request_form" form is designed for requesting custom prayer cards for a specific individual or event. 
-This form is used to collect details required to create a personalized prayer card, including the church name, name of the person receiving the card, their address, and other relevant information such as phone number, email, and date of need. 
-It also allows users to specify special requests, the number of prayer cards required, and a message to be included in the card. 
-Additionally, it provides an option to upload files, such as photos or videos, to be included in the card. 
-Please ensure you are only filling out this form once for each request.
-</thinking>
-
 # prayer_card_design_request_form - Help Guide
 ## Purpose
 The "prayer_card_design_request_form" is a form used to collect details for creating a custom prayer card. This form helps us to understand the specific needs and requests of the individual or event.

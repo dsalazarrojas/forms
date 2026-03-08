@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # security_plan_deviation_request_form - Help Guide
 
 ## Purpose

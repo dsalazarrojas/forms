@@ -1,5 +1,3 @@
-<thinking>Internal note: This form is used for new hire registration, where employees can input their information such as next area of work, title of work, office, tools involved, job order, and other necessary details. It's essential to ensure that the form is completed accurately and thoroughly to avoid any issues during the hiring process. Before proceeding, please verify that you are not duplicating this form for the same purpose. If you're unsure, please reach out to the relevant department for assistance.</thinking>
-
 # New Hire Registration Form - Help Guide
 ## Purpose
 The New Hire Registration Form is used to collect information from new employees for various departmental purposes, including next area of work, title of work, office, job order, and other necessary details.

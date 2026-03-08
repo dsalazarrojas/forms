@@ -1,5 +1,3 @@
-<thinking> This form is used to request a copy of a simulation log. The purpose of this form is to gather information from the user about their request. The form will ask for the user's team members, request details, and other relevant information. It will also ask for the user's email, phone number, and date of birth. The form will not be duplicated if the user has already submitted a request for the same simulation log. The form is not required to be completed in one go, users can save their progress and come back later to finish it. The user can also cancel their request at any time if they change their mind. </thinking>
-
 # simulation_log_copy_request_form - Help Guide
 ## Purpose
 This form is used to request a copy of a simulation log. It will collect information about your team members, request details, and other relevant information.

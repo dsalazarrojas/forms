@@ -1,5 +1,3 @@
-<thinking>...The form is designed to allow users to submit a request for proposal submission for a hotel project. This form is meant to collect relevant information from the user, including the title of the form, the category it falls under, a brief description of the form, the file associated with it, and the date it was submitted. To prevent duplication and ensure relevance, the form checks for existing submissions before processing new ones. This helps maintain a streamlined and efficient process for users and administrators alike...</thinking>
-
 # Hotel Request For Proposal Submission Form - Help Guide
 ## Purpose
 The Hotel Request For Proposal Submission Form is a tool used to collect information from users for hotel project proposals. This form ensures that all necessary details are provided to streamline the submission and review process.

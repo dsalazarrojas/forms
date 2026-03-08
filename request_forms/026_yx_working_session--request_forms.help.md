@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # yx_working_session - Help Guide
 ## Purpose
 The yx_working_session form is used to collect information for various purposes, such as registration, feedback, or other internal processes. The form collects personal and non-personal data from the user, including name, contact information, and selection of options. Please note that this form is for internal use only and may not be suitable for public consumption.

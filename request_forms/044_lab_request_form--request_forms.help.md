@@ -1,6 +1,3 @@
-<thinking>
-We need to verify that the form is being used for its intended purpose and not for duplicate requests. The form is meant to be used by laboratory personnel for requesting tests and results from patients. Please ensure that you are not duplicating existing requests or submitting requests for tests that have already been completed.</thinking>
-
 # Lab Request Form - Help Guide
 ## Purpose
 The Lab Request Form is a digital tool used for requesting laboratory tests and results from patients. It allows laboratory personnel to submit requests for tests, track progress, and manage test results.

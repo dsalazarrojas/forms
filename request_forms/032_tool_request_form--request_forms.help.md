@@ -1,8 +1,3 @@
-<thinking>
-To create a help guide for the Tool Request Form, let's consider the form's purpose and the fields involved. The form is likely used to request a specific tool for a particular job or task. The form fields include job number, job type, tool type, quantity, description, assigned tool, comments, and requested by. Each field should be explained in simple and clear terms to help users understand what information is being requested and how to provide it accurately. Let's assume that the "Tool Type" and "Assigned Tool" fields are related to the type of tool required and the person or team member assigned to use it, respectively. The "Comments" field is likely for any additional information or context about the tool request. The "Requested By" field might be indicating who is requesting the tool.
-
-</thinking>
-
 # Tool Request Form - Help Guide
 ## Purpose
 The Tool Request Form is used to request a specific tool for a particular job or task. To complete this form, you need to provide accurate information about the job and the tool required.

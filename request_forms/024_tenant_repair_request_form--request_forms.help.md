@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tenant_repair_request_form - Help Guide
 ## Purpose
 The Tenant Repair Request Form is designed to collect information from tenants about any issues or concerns they have with their rented property. This form is used to gather details about the problem, the tenant's description of the issue, and the date they first noticed it.

@@ -1,11 +1,3 @@
-<thinking>
-The Military Conditional Release Request Form is used to document a request for a military unit's conditional release. The form is used to collect information regarding the request date, reason for release, and other relevant details.
-
-Before completing this form, please ensure that it's being used for a legitimate request and that it hasn't been previously submitted. Duplicate submissions can lead to unnecessary processing and potential delays in resolving the issue.
-
-To submit a request, start by filling out the form with the required and optional fields. Please be specific when providing details for the reasons for release.
-</thinking>
-
 # Military Conditional Release Request Form - Help Guide
 
 ## Purpose

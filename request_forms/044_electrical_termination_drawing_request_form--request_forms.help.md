@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Electrical Termination Drawing Request Form - Help Guide
 ## Purpose
 This form is used to request an electrical termination drawing for your project. Please ensure you have the required information and authorization to submit this form. To avoid duplication, please check if you have already submitted a request for the same project before filling out this form.

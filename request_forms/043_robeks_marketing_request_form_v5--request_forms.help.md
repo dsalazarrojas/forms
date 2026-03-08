@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are interested in requesting marketing services or collaboration from Robeks. It's intended for users who want to inquire about specific job requests or projects they're interested in working on with the company. This form will help Robeks understand the user's needs and preferences, allowing them to tailor their marketing services or collaboration opportunities accordingly. Before filling out this form, please note that the "User Name" and "Job Request" fields are mandatory, while "Email" and "Company" are optional but can provide additional context to your request.
-</thinking>
-
 # Robeks Marketing Request Form V5 - Help Guide
 ## Purpose
 This form is designed to gather information from users interested in requesting marketing services or collaboration from Robeks.

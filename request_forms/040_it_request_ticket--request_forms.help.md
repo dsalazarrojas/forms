@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "it_request_ticket" form, which is used to submit requests for assistance. This form is crucial for users to provide information about their needs, and the submitted tickets are reviewed and acted upon by the support team.
-</thinking>
-
 # it_request_ticket - Help Guide
 ## Purpose
 The "it_request_ticket" form is used to submit requests for assistance on internal tools and services. When you submit a ticket, you will be able to track and follow up on the status of your request.

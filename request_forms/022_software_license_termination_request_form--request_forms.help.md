@@ -1,11 +1,3 @@
-<thinking>
-
-The Software License Termination Request Form is used for requesting the termination of a software license. This form is intended for employees who need to terminate their software licenses due to various reasons. The purpose of this form is to gather necessary information for a smooth and efficient termination process. Please ensure you fill out the form accurately and completely to avoid any delays or miscommunications.
-
-Before proceeding, make sure you have the necessary approvals and permissions to request a software license termination.
-
-</thinking>
-
 # Software License Termination Request Form - Help Guide
 
 ## Purpose

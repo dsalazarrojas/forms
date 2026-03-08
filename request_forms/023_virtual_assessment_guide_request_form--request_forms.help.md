@@ -1,38 +1,3 @@
-<thinking>... internal review of form fields and logic ...
-
-The purpose of this form is to request a virtual assessment guide for a specific user input scenario. This form is designed to collect information from users to help assessors create a tailored virtual assessment guide.
-
-To complete this form, users will need to provide the following information:
-
-1. User Input: A brief description of the user's input or requirements for the virtual assessment guide.
-2. Virtual Resources: Whether or not the user needs virtual resources to be included in the assessment guide.
-3. Needs Assessment: What specific needs the user wants to be assessed.
-4. Data Collection: What data the user is willing to share or collect for the assessment.
-5. Follow-up: How the user wants to be followed up on after the assessment.
-6. Comments: Any additional comments or feedback the user has.
-7. Email: The user's email address (optional).
-8. Phone Number: The user's phone number (optional).
-9. Date: The date for the virtual assessment (optional).
-10. Time: The time for the virtual assessment (optional).
-11. File Upload: Any additional files the user wants to upload.
-12. Text Area: A space for the user to enter additional information.
-13. Checkbox: Checkboxes for the user to select multiple options.
-14. Select One 1: A dropdown menu for the user to select one option.
-15. Select Multiple 1: A dropdown menu for the user to select multiple options.
-16. Select Multiple 2: A dropdown menu for the user to select multiple options.
-17. Select Multiple 3: A dropdown menu for the user to select multiple options.
-18. Select Multiple 4: A dropdown menu for the user to select multiple options.
-19. Text: A text field for the user to enter information.
-20. Integer: A field for the user to enter an integer value.
-21. Decimal: A field for the user to enter a decimal value.
-22. Date Time: A field for the user to enter a date and time.
-23. Time Zone: A field for the user to enter a time zone.
-24. Date Time 2: A field for the user to enter a date and time.
-
-Please note that some fields are optional and some are not. The user is expected to fill in all relevant fields according to their specific needs.
-
-</thinking>
-
 # Virtual Assessment Guide Request Form - Help Guide
 ## Purpose
 The Virtual Assessment Guide Request Form is designed to collect information from users to help assessors create a tailored virtual assessment guide.

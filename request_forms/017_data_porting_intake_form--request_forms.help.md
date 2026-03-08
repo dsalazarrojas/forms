@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect general information from the requestor, including their contact details and the transfer details, to facilitate the data porting process.
-
-Before starting, please ensure that you are completing this form for a legitimate data transfer request. If you have already submitted a similar request, please do not resubmit it, as this may cause confusion and duplication of effort.
-
-This form is used to gather necessary information to process and fulfill your data transfer request. Please fill out the form accurately and thoroughly to ensure that your request is handled efficiently.
-
-</thinking>
-
 # Data Porting Intake Form - Help Guide
 ## Purpose
 This form is used to collect general information from the requestor, including their contact details and transfer details, to facilitate the data porting process.

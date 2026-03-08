@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a mortgage payoff statement request. It is intended for customers to provide details about their loan and request a payoff statement. To prevent duplication, it is recommended to only submit one request per loan account. Please ensure that all required fields are filled out accurately to ensure a prompt response from our team.
-</thinking>
-
 # Mortgage Payoff Statement Request Form - Help Guide
 ## Purpose
 The Mortgage Payoff Statement Request Form is a form used to request a mortgage payoff statement from our team. This form is designed to collect necessary information to process your request efficiently.

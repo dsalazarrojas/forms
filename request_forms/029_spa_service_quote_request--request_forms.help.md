@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from potential clients about their spa service interests, visit details, and preferences. It is used to create a quote for a spa service based on the provided information. The form will only be visible to authorized personnel in the company, and users should not fill it out if they already have a quote in process or have recently visited the spa. The form's fields are designed to collect the most relevant information for creating a quote, with some fields being optional. Please ensure that you are filling this form for your own service and not for someone else's. Please also ensure that you are providing accurate information as it will be used to generate a quote for your service.
-</thinking>
-
 # Spa Service Quote Request - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is used for instructors to apply for a grade change for a student. A grade change application is a formal request for a student's grade to be modified in the grading system. Before proceeding, please make sure that:
-* The grade change is not due to a clerical error or administrative action.
-* The grade change is not a result of a dispute between the instructor and the student.
-* You are the instructor of record for the course.
-* The grade change is not an attempt to circumvent the grading system.
-</thinking>
-
 # grade-change-application-form - Help Guide
 ## Purpose
 This form is used to apply for a grade change for a student. A grade change application is a formal request for a modification of a student's grade in the grading system.

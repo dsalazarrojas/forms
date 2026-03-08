@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect requests for veterinary staff training sessions. It is intended for veterinary staff to provide information about their training needs and preferences. This form can be used by administrators or training coordinators to assess and plan training sessions for the veterinary staff. 
-
-To prevent duplication of efforts, please note that this form is intended for one-time submissions. Multiple submissions with the same request will not be considered.
-
-Please fill out this form to request a veterinary staff training session.
-</thinking>
-
 # Veterinary Staff Training Session Request Form - Help Guide
 ## Purpose
 The Veterinary Staff Training Session Request Form is used to collect information about veterinary staff training needs and preferences. This form helps administrators and training coordinators plan and schedule training sessions for veterinary staff.

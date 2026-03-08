@@ -1,6 +1,3 @@
-<thinking>
-... 
-</thinking>
 # Hemoglobin Disorder Evaluation Request Form - Help Guide
 ## Purpose
 The Hemoglobin Disorder Evaluation Request Form is used to gather information from patients or their representatives to request an evaluation of a hemoglobin disorder. This form helps the medical team to understand the nature of the disorder and make informed decisions about further action. Please note that this form is not for patients with a confirmed hemoglobin disorder diagnosis.

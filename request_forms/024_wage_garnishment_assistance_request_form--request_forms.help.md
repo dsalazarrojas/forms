@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request assistance with wage garnishment, a legal process where a portion of an employee's paycheck is withheld to satisfy a debt or court order. This form is intended to be completed by employees who are facing financial difficulties and need help with this process. Please ensure you have reviewed the relevant policies and procedures before completing this form, and that you have not already initiated a wage garnishment through other means.
-</thinking>
-
 # Wage Garnishment Assistance Request Form - Help Guide
 
 ## Purpose

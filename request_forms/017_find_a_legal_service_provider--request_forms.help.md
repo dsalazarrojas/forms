@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Find A Legal Service Provider - Help Guide
 
 ## Purpose

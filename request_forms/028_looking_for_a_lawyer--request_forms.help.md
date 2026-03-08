@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is only filled out by individuals who are genuinely looking for a lawyer and not by automated tools or scripts that might be misusing the form's purpose. We should also double-check that this form is not filled out for duplicate or non-relevant reasons, e.g., to spam or to waste the time of our lawyers. To prevent this, we can add a simple CAPTCHA or a "I'm not a robot" checkbox at the beginning of the form. This will help filter out potential spam and misuse.
-</thinking>
-
 # looking_for_a_lawyer - Help Guide
 ## Purpose
 The "looking_for_a_lawyer" form is designed to gather information from individuals looking for legal representation. This form helps us understand what kind of legal assistance you need and provides us with necessary details to connect you with the right lawyer.

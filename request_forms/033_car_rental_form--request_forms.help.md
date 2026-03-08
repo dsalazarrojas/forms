@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect information from customers who are planning to rent a car. The purpose of this form is to gather necessary details such as customer contact information, rental preferences, and driving information to facilitate a smooth and safe rental experience. This form is not intended for duplicate submissions, and users are expected to provide accurate and honest information to ensure that their rental needs are met. By providing accurate information, users can help us better understand their requirements and provide a better service. Please note that some fields are required and must be completed to process the rental request. </thinking>
-
 # Car Rental Form - Help Guide
 
 ## Purpose

@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from customers requesting to install an indoor air purifier in a specific unit. This form will be used by building management to review and coordinate with the customer. 
-
-To ensure accuracy and efficient processing, please fill out the form correctly and provide all necessary information. Note that this form is for individual unit owners. If you are a property manager or maintenance personnel, please use the corresponding form for mass installations or service requests. 
-
-This form may be used for multiple units if you are the unit owner. If the unit has multiple occupants, please fill out one form per occupant. 
-
-Before you start, please note that some fields may not be required. However, providing as much information as possible will make it easier to process your request. 
-
-Please also note that the preferred time and appointment time fields are not the same. Preferred time is when you would like the installation to be done and appointment time is the specific time slot you are available for the installation. 
-
-If you are not sure about any field, please do not hesitate to contact the building management for clarification. 
-
-</thinking>
-
 # Indoor Air Purifier Installation Request - Help Guide
 ## Purpose
 This form is used to request the installation of an indoor air purifier for a specific unit in the building.

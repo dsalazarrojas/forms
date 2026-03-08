@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Office Key Replacement Request Form - Help Guide
 ## Purpose
 This form is designed to facilitate the process of requesting an office key replacement. It collects information from the requestor to provide a comprehensive request for a replacement office key.

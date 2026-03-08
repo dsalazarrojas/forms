@@ -1,7 +1,3 @@
-<thinking>
-Please note that the form purpose is to gather information for the cleaning and maintenance of the spring pond. This form will help the maintenance team to understand the current state of the pond and what needs to be done to keep it clean and safe for the ecosystem.
-</thinking>
-
 # Spring Pond Cleaning Request Form - Help Guide
 ## Purpose
 The Spring Pond Cleaning Request Form is used to gather information about the spring pond's maintenance needs. It helps the maintenance team to identify areas that require attention and prioritize their tasks accordingly.

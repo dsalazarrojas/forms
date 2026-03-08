@@ -1,11 +1,3 @@
-<thinking>
-
-The form is for a Postpaid Service Ownership Change Form, which is used to request changes to service ownership. The form is likely used in a business or organizational setting where services are postpaid, meaning that the service provider is responsible for paying for the service on behalf of the account holder.
-
-To prevent duplication, ensure that you are not submitting the same request multiple times. If you have already submitted a request, please do not submit another.
-
-</thinking>
-
 # Postpaid Service Ownership Change Form - Help Guide
 ## Purpose
 The Postpaid Service Ownership Change Form is used to request changes to service ownership for postpaid services. This form should be completed by the account holder to request changes to their service ownership.

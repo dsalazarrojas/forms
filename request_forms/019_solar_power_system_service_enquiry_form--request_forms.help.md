@@ -1,7 +1,3 @@
-<thinking>
-**Internal Reasoning:** This form is designed to allow customers to request services related to solar power systems. When filling out this form, please ensure that you provide accurate and complete information, especially for fields marked as "required". This form is not intended to be used for duplicate requests; if you have previously submitted a service request, please do not resubmit. Additionally, please note that some fields are optional, but providing them can aid in a more efficient service delivery process.
-</thinking>
-
 # Solar Power System Service Enquiry Form - Help Guide
 ## Purpose
 This form is used to submit a service request for your solar power system. Please provide your details to help us better understand and assist with your requirements.

@@ -1,10 +1,3 @@
-<thinking>
-The Rug Evaluation Request Form is designed to collect information about a rug's characteristics, condition, and history to facilitate an evaluation process. This form will likely be used by professionals, such as interior designers, appraisers, or conservators, who need to assess the value, authenticity, or conservation needs of a rug. The form is structured to guide the user through the process of providing detailed descriptions and measurements of the rug, as well as its history, acquisition, and condition. By ensuring that each field is filled out accurately, users can provide the best possible information for a thorough evaluation.
-
-To ensure the accuracy and relevance of the information collected, it is essential to review each field carefully before proceeding. Please note that this form is not meant for duplication or general information gathering. It is specifically designed to support the evaluation process, so if you are unsure about any field, it is best to leave it blank and seek clarification before completing the form.
-
-The following guide will walk you through each field, ensuring you understand the purpose and expectations for each one.</thinking>
-
 # Rug Evaluation Request Form - Help Guide
 ## Purpose
 The Rug Evaluation Request Form is designed to collect information about a rug's characteristics, condition, and history to facilitate an evaluation process. This form will help professionals assess the value, authenticity, or conservation needs of a rug.

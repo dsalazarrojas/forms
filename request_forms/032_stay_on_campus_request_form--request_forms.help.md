@@ -1,7 +1,3 @@
-<thinking>
-We will first review the form's purpose and ensure that the user is aware of it before proceeding to the help guide.
-</thinking>
-
 # Stay On Campus Request Form - Help Guide
 ## Purpose
 The "Stay On Campus Request Form" is a form designed to request permission to stay on campus beyond the typical check-out date. It's used to provide essential information about the student's stay, including their reason for staying, planned departure time, and contact details for their resident advisor and submitter. This form helps ensure that students can provide accurate and up-to-date information about their stay.

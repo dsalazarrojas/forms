@@ -1,10 +1,3 @@
-<thinking>
-A store opening permit request form is used by store owners to submit their application for a store opening permit. This form is used to gather information about the store, its owner, and its operational details. To ensure that a store opening permit request is submitted correctly and efficiently, it is essential to understand the purpose and requirements of this form.
-
-Before filling out the form, please make sure that you have all the necessary information and documents ready. This includes but not limited to the store name, address, phone number, and owner's details. Also, please be aware that some fields may be marked as optional, but providing accurate and complete information will help us process your request efficiently.
-
-</thinking>
-
 # store_opening_permit_request_form - Help Guide
 ## Purpose
 

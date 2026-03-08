@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Program Scheduling Request Form - Help Guide
 ## Purpose
 This form is used to request a cultural program for your event, allowing our team to review and schedule it in our calendar.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a pay grade evaluation request. It is intended for use by employees to request changes to their current pay grade. The form should only be used when there is a valid reason for a pay grade change, and the employee should not use this form to request changes for personal reasons, such as a promotion or a raise. To prevent duplication, this form will only be accepted if the employee has not submitted a request for the same pay grade within the last 3 months. The form will be reviewed and processed by the manager's team.
-</thinking>
-
 # Pay Grade Evaluation Request Form - Help Guide
 ## Purpose
 The Pay Grade Evaluation Request Form is used by employees to request changes to their current pay grade.

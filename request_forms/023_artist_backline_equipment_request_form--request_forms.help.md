@@ -1,5 +1,3 @@
-<thinking>As an artist, you're likely to be focused on your craft, but as an event planner, you want to ensure that the technical aspects of the performance are well-taken care of. This form is designed to collect essential information about your performance to provide you with the right equipment and support for a smooth and successful show. Please fill out the form accurately to ensure that we can cater to your needs.</thinking>
-
 # Artist Backline Equipment Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about your performance to provide you with the right equipment and support for a successful show.

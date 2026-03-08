@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from vendors for product verification purposes. The form collects general information about the product, product details, supplier information, contact information, request information, review information, and upload documentation related to the product. This form is intended to be used by vendors to provide accurate and up-to-date information about their products to the relevant parties.
-</thinking>
-
 # Vendor Product Verification Request Form - Help Guide
 ## Purpose
 This form is used to gather information from vendors for product verification purposes. It collects details about the product, supplier, and other relevant information to facilitate the verification process.

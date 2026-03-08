@@ -1,8 +1,3 @@
-<thinking>
-The purpose of the "senior_housing_request_form" is to collect information from individuals who are seeking senior housing options. This form is likely used by senior living communities or other organizations that provide housing services for seniors. The form is designed to gather essential details from users to help them find the most suitable housing option for their needs.
-This form is a crucial part of the process, and users are encouraged to fill it out carefully to ensure that they are matched with the best possible housing option. The form is not meant to be used for other purposes, such as requesting services or submitting applications. To avoid duplicate submissions, users are advised to fill out the form only once and wait for follow-up contact from senior living communities or organizations.
-</thinking>
-
 # senior_housing_request_form - Help Guide
 ## Purpose
 The "senior_housing_request_form" is a form designed to help individuals find senior living communities or housing options that meet their specific needs.

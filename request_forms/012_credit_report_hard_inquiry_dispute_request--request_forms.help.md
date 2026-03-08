@@ -1,7 +1,3 @@
-<thinking>
-This form is used for credit report hard inquiry dispute requests. It collects information about the user's request and allows them to select the relevant details. This form is not a mandatory field and should only be filled out when the user has a dispute regarding their credit report.
-</thinking>
-
 # credit_report_hard_inquiry_dispute_request - Help Guide
 ## Purpose
 This form is used to submit a credit report hard inquiry dispute request. Please fill it out if you have a dispute regarding your credit report.

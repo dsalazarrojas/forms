@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # General Use Permit Application - Help Guide
 ## Purpose
 The General Use Permit Application form is used to collect information for a general use permit application. This form is typically used for new applications or updates to existing applications. Please ensure that you are using this form for its intended purpose and not duplicating efforts. If you have already submitted an application for the same facility, please do not submit another application.

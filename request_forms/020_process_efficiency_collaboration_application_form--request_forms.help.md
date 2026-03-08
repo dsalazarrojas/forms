@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Process Efficiency Collaboration Application Form - Help Guide
 ## Purpose
 The Process Efficiency Collaboration Application Form is designed to collect ideas and suggestions from team members to improve processes and enhance collaboration within the organization. This form helps team members submit their improvement ideas, collaborate with others, and track the status of their submissions.

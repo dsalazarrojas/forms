@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Access Permission Request Form - Help Guide
 
 ## Purpose

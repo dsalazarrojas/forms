@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form called "Email Santa Form 2". The form purpose is to collect information for an end user to provide to Santa Claus. The form includes fields for first name, last name, email address, wish list, holiday message, phone number, category selection, description, date, time, and a note. We should ensure the form is completed correctly to avoid any misinterpretation or missing information. Let's review each field to understand its purpose and how to complete it correctly.
-</thinking>
-
 # Email Santa Form 2 - Help Guide
 ## Purpose
 The "Email Santa Form 2" is a form to help you provide information to Santa Claus. Fill in the required fields to ensure your message reaches him.

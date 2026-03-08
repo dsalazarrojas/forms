@@ -1,26 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for truck rental purposes, such as their personal details, confirmation information, and a unique form ID. This form likely serves as an internal tool for the company to gather data and manage their truck rental process. To prevent form duplication, users should not reuse the form ID or resubmit the form with the same information.
-
-This form requires users to provide the following information:
-* First name and last name
-* Email address for contact and confirmation
-* Phone number for contact and confirmation
-* Company details (if applicable)
-* Location for the rental
-* Date and time for the rental
-* Type of rental (select one)
-* Types of rentals (select multiple)
-* Notes about the rental
-* Confirmation of email, phone, company, location, date, and time
-* A unique form ID
-* User input for any additional information
-* Another type of rental (select one)
-* Another type of rental (select multiple)
-* Another note about the rental
-
-Before filling out the form, please ensure that you have all the necessary information and that you understand the purpose of each field.
-</thinking>
-
 # truck_rental_request_form - Help Guide
 ## Purpose
 This form is designed to collect information for truck rental purposes.

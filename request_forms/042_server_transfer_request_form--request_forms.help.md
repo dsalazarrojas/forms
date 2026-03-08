@@ -1,9 +1,3 @@
-<thinking>
-
-Before we dive into the help guide, let's confirm the form's purpose. The Server Transfer Request Form is designed to collect information about server transfers, including the request source, destination server, move type, move date and time, reason for the move, comments, and assignee. This form should help users understand how to accurately complete it to ensure that the required information is provided. We'll review the fields below to make sure they're filled out correctly. 
-
-</thinking>
-
 # Server Transfer Request Form - Help Guide
 ## Purpose
 The Server Transfer Request Form is used to document server transfers between different servers. This form is essential for keeping track of transfer requests, enabling smooth and efficient management of your server resources.

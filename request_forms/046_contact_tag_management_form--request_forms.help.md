@@ -1,8 +1,3 @@
-<thinking>
-The form's purpose is to enable end-users to request changes to contact tags or segmentation, ensuring that contacts are accurately labeled and organized within the system. This process is crucial for maintaining data integrity and facilitating targeted marketing or sales efforts. 
-This form is intended to collect information from the requester and provide a clear, step-by-step process for submitting requests. To ensure consistency and clarity, the following instructions and explanations aim to guide the user through each field, helping them fill out the form accurately and efficiently.
-</thinking>
-
 # Contact Tag Management Form - Help Guide
 ## Purpose
 The Contact Tag Management Form is used to request changes to contact tags or segmentation within the system. This process is essential for maintaining data accuracy and facilitating targeted marketing or sales efforts.

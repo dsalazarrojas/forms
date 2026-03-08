@@ -1,7 +1,3 @@
-<thinking>
-The form is used to document and report property damage disputes. Users can fill out this form to report an instance where a customer is disputing damage to their property that they claim is a result of an action or event caused by the company. The purpose of this form is to collect all relevant details regarding the disputed damage, contact information for the customer, and supporting evidence such as photos. This form will help to efficiently document and resolve such issues in a timely manner.
-</thinking>
-
 # damage_dispute_form - Help Guide
 ## Purpose
 This form is designed to document and report property damage disputes, allowing the company to efficiently collect and review relevant details.

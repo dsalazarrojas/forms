@@ -1,15 +1,3 @@
-<thinking>
-This form is used to request social media insights for a company. The form is designed to collect information about the company, the social media platform, analytics tool, and specific insights requested. To ensure the form is filled out correctly, please note that:
-
-* This form should only be used to request insights for your own company, not for external or third-party companies.
-* Please ensure that you have the necessary permissions and agreements in place before filling out this form.
-* Please fill out all relevant fields to provide accurate and complete information.
-
-Please check that you have not already submitted a request for the same social media platform and analytics tool combination.
-
-This form is a one-time request, and we'll only process the request once. If you need further insights or updates, please submit a new request.
-</thinking>
-
 # Social Media Insights Request Form - Help Guide
 
 ## Purpose

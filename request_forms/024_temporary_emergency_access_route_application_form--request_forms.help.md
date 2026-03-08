@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Temporary Emergency Access Route Application Form - Help Guide**
 ## Purpose
 The Temporary Emergency Access Route Application Form is designed to collect information about potential emergency routes, including details about the route, contact information, and other relevant details. This form helps us understand your needs and circumstances, and is intended for situations where immediate access is required due to an emergency.

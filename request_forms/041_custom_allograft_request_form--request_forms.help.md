@@ -1,12 +1,3 @@
-<thinking>
-This form appears to be a Custom Allograft Request Form, which seems to be a specialized form for requesting allografts, a procedure involving transferring cells, tissues, or organs from one individual to another. This form likely caters to medical professionals or researchers in the field of allografting. Given the structure of the form, it appears to be designed for collecting detailed information from both the recipient and the donor, including medical history, surgical details, and recipient condition. The form may be used in a controlled medical setting, such as a hospital or research institution, where the collected data is used to evaluate and prepare for allograft procedures.
-
-Before proceeding, ensure that you are filling out this form in a suitable context, such as under the guidance of a qualified healthcare professional. If you are a patient or recipient, please consult with your doctor or medical team before providing any information. If you are a researcher, ensure that you have the necessary permissions and approvals for data collection and use.
-
-To avoid duplication, please review the form carefully and only submit it once you have gathered all required information.
-
-</thinking>
-
 # Custom Allograft Request Form - Help Guide
 
 ## Purpose

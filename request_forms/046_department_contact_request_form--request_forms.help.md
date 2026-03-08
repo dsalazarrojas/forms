@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Department Contact Request Form - Help Guide
 
 ## Purpose

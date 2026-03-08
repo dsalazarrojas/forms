@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block) ...
-The form purpose is to collect information from users about a security camera review request. This form is likely used by a security team to gather details about a security incident that occurred at a specific location with security cameras. The form is designed to be completed by users who have witnessed or have information about a security incident, and it will be reviewed by the security team to determine the appropriate course of action. 
-
-To ensure consistency and avoid duplication, we should check if a similar incident has been reported in the past, and if so, direct the user to the existing report. We will also ensure that all necessary fields are filled out to make it easier for the security team to review the information.
-
-</thinking>
 # Security Camera Review Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about a security camera review request. This information will be reviewed by the security team to determine the appropriate course of action.

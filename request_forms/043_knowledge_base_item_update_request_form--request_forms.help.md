@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to be used by knowledge base administrators to update existing knowledge base items. The purpose of this form is to allow administrators to modify existing items in the knowledge base, ensuring that the information remains accurate and up-to-date. This form should be used for internal purposes only and should not be completed by external users or customers. It is assumed that the user has the necessary permissions and access rights to complete this form. Please note that this form is for knowledge base updates only and should not be used for other purposes. Before filling out this form, ensure that you are using it for its intended purpose and have the necessary information available. 
-
-</thinking>
-
 # Knowledge Base Item Update Request Form - Help Guide
 ## Purpose
 

@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect information from users requesting to transfer their website hosting to our service. The form is used to gather contact details, website information, and transfer preferences. 
-
-This form is intended for users who want to transfer their website hosting to our service. Please fill out the form accurately and completely to ensure a smooth transfer process. 
-
-Before filling out this form, ensure you have checked the following: 
-- You are an authorized representative of the company/organization owning the website. 
-- You have the necessary permissions to request the transfer. 
-- You have reviewed the hosting agreement and understand its terms. 
-
-Please do not fill out this form if you are not authorized to do so. 
-Please do not duplicate a transfer request that has already been initiated or completed. 
-Please fill out this form only once for a single transfer request. 
-
-</thinking>
-
 # Website Hosting Transfer Request Form - Help Guide
 ## Purpose
 This form is used to request the transfer of a website's hosting to our service. 

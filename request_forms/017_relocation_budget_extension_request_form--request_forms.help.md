@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Relocation Budget Extension Request Form - Help Guide
 
 ## Purpose

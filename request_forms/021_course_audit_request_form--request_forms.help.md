@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information about course audit requests from students. The purpose of this form is to gather relevant details about the student's course audit, including course name, student ID, email, phone number, and other relevant information. 
-To avoid duplication of work, please ensure that the form is filled out only once per course audit request. 
-</thinking>
-
 # Course Audit Request Form - Help Guide
 ## Purpose
 The Course Audit Request Form is used to collect information about course audit requests from students. This form helps us to efficiently gather necessary details about the student's course audit, making it easier to process and address their requests.

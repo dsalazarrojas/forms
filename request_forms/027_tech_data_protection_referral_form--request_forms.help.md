@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations seeking tech data protection referrals. The form is meant to be completed by a person who has received a report or concern about unauthorized or suspicious activity involving sensitive or personal data. The form is not intended for internal use only, but rather for external stakeholders or authorities who can help address and resolve the issue. Please fill out this form to provide necessary details for further action.
-</thinking>
-
 # Tech Data Protection Referral Form - Help Guide
 ## Purpose
 This form is used to report and refer sensitive or personal data protection incidents to the relevant authorities or stakeholders for further investigation and resolution.

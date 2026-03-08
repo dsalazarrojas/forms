@@ -1,20 +1,3 @@
-<thinking>
-To ensure that the form is used correctly and efficiently, it's essential to understand the purpose and requirements of the AI Tools Subscription Request form. This form is used to request access to specific AI tools or services, and the information collected will help administrators determine the appropriate level of access and duration of use.
-
-Before filling out the form, please ensure that:
-
-* You have read and understood the form's purpose and requirements.
-* You have filled out a similar form in the past or have the necessary information to complete this form.
-* The form is not a duplicate or unnecessary request.
-
-To prevent duplicate requests, please do not submit multiple requests for the same tool or service.
-
-Please also note that the form is designed for internal use within the organization, and the information collected will be used to make informed decisions about tool access.
-
-If you're unsure about any of the fields or requirements, please contact the form administrators for clarification.
-
-</thinking>
-
 # AI Tools Subscription Request - Help Guide
 ## Purpose
 The AI Tools Subscription Request form is used to request access to specific AI tools or services. This form helps administrators determine the appropriate level of access and duration of use for each requested tool.

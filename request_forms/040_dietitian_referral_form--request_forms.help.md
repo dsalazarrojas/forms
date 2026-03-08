@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information for a referral to a dietitian. It is meant to be used when a client is being referred to a dietitian for nutrition services. This form should not be completed for routine follow-up or progress monitoring appointments. 
-
-Before filling out this form, ensure that you have already reviewed and updated the client's medical record with any new information or updates. If the client is currently receiving services with another healthcare provider, please complete a referral to the other provider instead. 
-</thinking>
-
 # Dietitian Referral Form - Help Guide
 ## Purpose
 The purpose of this form is to provide essential information to a dietitian for nutrition services.

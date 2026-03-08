@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to support users in submitting requests for browser tab renaming extension development. The purpose of this form is to gather information from users about their needs and requirements for a custom browser tab renaming extension. The form will be used to identify potential feature requests, bug reports, and integration requests that the team can review and address.
-
-To ensure that the form is completed accurately and efficiently, please review the form carefully before submitting your request. If you have any questions or concerns, please don't hesitate to reach out to the team.
-
-This form is not intended to be a substitute for other forms or channels of communication. If you have a similar request that you have already submitted through another channel, please do not resubmit it through this form. The team will review each submission individually and follow up with you to discuss further.
-
-</thinking>
-
 # Browser Tab Renaming Extension Request Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from users about their needs and requirements for a custom browser tab renaming extension.

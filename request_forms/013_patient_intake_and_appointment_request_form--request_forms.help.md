@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Patient Intake And Appointment Request Form is to gather relevant information from patients before their appointment, including their contact details, medical history, and preferences for their appointment. This form helps the medical staff to efficiently process the patient's information and prepare for their visit.
-
-Before proceeding, please ensure that you have not completed this form for the same patient previously. This form is meant to be completed for new or follow-up visits only.
-
-</thinking>
-
 # Patient Intake And Appointment Request Form - Help Guide
 ## Purpose
 This form is used to collect patient information and preferences before their appointment, ensuring efficient processing and preparation for their visit.

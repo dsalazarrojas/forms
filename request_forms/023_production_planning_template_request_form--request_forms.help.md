@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for production planning template requests. It allows users to submit a request for a production planning template, which is a document used for organizing and coordinating production activities. To ensure that your request is properly processed, please make sure that you have a clear understanding of the template type and its specifications. Additionally, please note that if you have submitted a similar request in the past, it might be helpful to review and update your previous submission to avoid duplication of effort.
-
-</thinking>
-
 # Production Planning Template Request Form - Help Guide
 ## Purpose
 The Production Planning Template Request Form is a tool for requesting a production planning template. This template is used for organizing and coordinating production activities.

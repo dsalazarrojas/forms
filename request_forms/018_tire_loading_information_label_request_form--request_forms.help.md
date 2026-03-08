@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for requesting information about tire loading, a process that involves loading tires onto a vehicle or other heavy equipment. The form is used to capture details about the vehicle, its loading location, and other relevant information related to the tire loading process. It is likely used in a warehouse or logistics context where accurate tracking and management of vehicle loading is crucial.
-
-This form is designed to gather specific details from the submitter, including their contact information, vehicle details, and loading specifications. To ensure accurate and complete data is captured, each field has been carefully crafted with clear labels and hints to guide the submitter in providing the necessary information.
-
-To prevent duplication and ensure consistency, the system checks for duplicate requests based on specific criteria, and this form is designed to capture relevant information to aid in this process.
-
-</thinking>
-
 # tire_loading_information_label_request_form - Help Guide
 ## Purpose
 This form is used to request information about the tire loading process, including vehicle details, loading specifications, and other relevant information.

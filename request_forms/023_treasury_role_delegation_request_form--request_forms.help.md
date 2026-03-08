@@ -1,9 +1,3 @@
-<thinking>
-This form is for requesting to delegate a treasury role to another user. This form is likely to be filled out by someone who needs to grant another user permission to perform certain tasks in the treasury. It is possible that this form might be used for various purposes such as delegating authority to another user for managing financial data, granting access to specific accounts, etc.
-It is essential to review the current delegation settings and ensure that this request is not duplicating or contradicting existing permissions before submitting the form.
-Before filling out this form, the submitter should consider the level of access and permissions they want to delegate, and ensure that the delegated user has the necessary skills and experience to handle the role.
-</thinking>
-
 # Treasury Role Delegation Request Form - Help Guide
 ## Purpose
 This form is used to request delegation of a treasury role to another user. This includes tasks such as managing financial data, granting access to specific accounts, and other related responsibilities.

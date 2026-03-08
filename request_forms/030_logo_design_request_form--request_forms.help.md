@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplicate effort and ensure the form is filled out correctly, please note that this form is intended for businesses and individuals requesting logo design services. Please make sure you're filling out the correct type of requestor (individual or business) and providing accurate information about your logo type, budget, and any other relevant details.
-</thinking>
-
 # Logo Design Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for logo design services for your business or individual needs.

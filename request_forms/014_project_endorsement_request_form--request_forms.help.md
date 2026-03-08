@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Project Endorsement Request Form - Help Guide
 
 ## Purpose

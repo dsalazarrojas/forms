@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block explains that this form was created using AI and is not affiliated with any form platform, but rather a public adaptation of the metadata from a survey topic. It's released under CC BY 4.0 and can be used, modified, and even sold with proper credit given.
-</thinking>
-
 # HandymanserviceRequestForm - Help Guide
 ## Purpose
 This form is designed to collect contact information, service requests, and additional details from customers. It's meant to be completed by customers who require a handymans service, whether it's for a one-time task or an ongoing service.

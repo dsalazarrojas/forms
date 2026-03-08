@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a floor plan drawing for a building. It is a required form for submitting a floor plan drawing request. The form includes a range of fields for specifying the type of building, its size, dimensions, and orientation, as well as the requested scale and units of the floor plan drawing. Additionally, it includes fields for specifying the address, contact information of the building owner, and notes or comments. The form is designed to be completed by the building owner or their representative to provide detailed information about the building and its requirements.
-</thinking>
-
 # Floor Plan Drawing Request Form - Help Guide
 ## Purpose
 The Floor Plan Drawing Request Form is used to submit a request for a floor plan drawing. This form helps the building owner or their representative provide essential information about the building, its location, and its requirements for the drawing.

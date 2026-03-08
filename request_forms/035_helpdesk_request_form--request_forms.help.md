@@ -1,5 +1,3 @@
-<thinking>...This form is a helpdesk request form that allows users to submit requests for various purposes, such as requesting a new feature, reporting a bug, or posting a question. This form should be used by users who need assistance or support, and it is intended to be used for one-off requests. It is not meant for recurring issues or routine support queries. To avoid duplication, users should only submit one request at a time. Before filling out this form, please ensure you have not already submitted a similar request... </thinking>
-
 # helpdesk_request_form - Help Guide
 ## Purpose
 The helpdesk request form is a tool for users to submit requests for assistance or support. Use this form to request a new feature, report a bug, or ask a question.

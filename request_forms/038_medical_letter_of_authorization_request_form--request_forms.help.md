@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Letter Of Authorization Request Form - Help Guide
 
 ## Purpose

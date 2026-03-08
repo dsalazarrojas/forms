@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Job Work Order Form, I'll need to understand its purpose and how it's used within the company. Let's assume this form is used to gather information for job orders, which are essential for managing projects and tasks. The form likely requires input from customers or employees to provide details about a job, including their name, contact information, payment method, job status, and other relevant details. This form is probably used by the company's support team to process and follow up on job orders.
-
-Given this context, let's create a clear and concise help guide for the form.
-
-</thinking>
-
 # Job Work Order Form - Help Guide
 ## Purpose
 The Job Work Order Form is used to collect information for job orders, which are vital for project management and follow-ups. Please fill out this form with accurate and complete information to ensure efficient processing.

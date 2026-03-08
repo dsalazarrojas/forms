@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's consider the purpose of this form. This form is used to collect information from siblings to participate in events or programs. The form likely aims to gather details about the sibling's interest, preferences, and other relevant information to facilitate a smooth and enjoyable experience for the sibling. It's essential to review the form carefully to ensure that all required fields are completed accurately and thoroughly. Also, please ensure that you are not submitting duplicate requests, as the form is designed to collect unique information for each sibling. If you're unsure about any field or have questions, please don't hesitate to reach out for clarification.</thinking>
-
 # Sibling Participation Request Form - Help Guide
 ## Purpose
 The Sibling Participation Request Form is designed to collect information from siblings to participate in events or programs. This form will help us understand their interests, preferences, and other essential details to create a wonderful experience for them.

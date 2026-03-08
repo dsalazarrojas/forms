@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to allow users to request a meeting space for a specific day of the week and time. This form is designed to be completed by users who need to schedule a meeting, and the information collected will be used to determine the best possible meeting time and space. Please note that this form should not be completed if you are requesting a meeting that has already been scheduled or planned.
 
 To complete this form, follow these steps:

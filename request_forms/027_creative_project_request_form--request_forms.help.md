@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help us better understand and respond to creative project requests submitted by clients or collaborators. Please note that we may request additional information or clarification on certain fields to ensure we have a complete understanding of your project needs before proceeding. We aim to ensure that every project we take on meets the highest standards of quality, relevance, and feasibility. Before filling out this form, please ensure that you haven't already submitted a request for the same project as we may duplicate effort and cause unnecessary work. This form is designed to be completed by the point of contact person or the project manager, depending on their preference. 
-</thinking>
-
 # Creative Project Request Form - Help Guide
 
 ## Purpose

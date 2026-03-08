@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to ensure that the form is used correctly and efficiently by end-users. Before we dive into the help guide, let's quickly review the form purpose and relevance. This form is for requesting support with research publication, so it's essential to understand what information is needed to facilitate a smooth process. We should only allow users to submit requests if they are relevant, so let's consider adding a "I'm certain this is a genuine request" checkbox at the bottom of the form, so users can confirm they need support before proceeding. Additionally, we should ensure each field is accurately labeled and described to minimize confusion.</thinking>
-
 # Research Publication Support Request Form - Help Guide
 ## Purpose
 The Research Publication Support Request Form is designed to collect information from researchers to help with manuscript publication support. Fill out this form accurately to ensure your request is processed efficiently.

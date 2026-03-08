@@ -1,15 +1,3 @@
-<thinking>
-
-This form is used for requesting storage space for tools and equipment. The purpose of this form is to gather information about the tool, the user requesting storage, and their manager's approval status. This information is used to evaluate and manage tool storage requests. 
-
-To complete this form, follow these steps:
-
-1. Fill in the form with the required information, which includes the tool name, storage location, storage size, storage duration, access level, manager's phone number, manager's email, and manager's approval status.
-2. If you are requesting low-level access, fill in the form with the minimum required information.
-3. If you are requesting medium or high-level access, fill in more details about the tool and the storage location.
-
-</thinking>
-
 # Tool Storage Authorization Request Form - Help Guide
 ## Purpose
 This form is used for requesting storage space for tools and equipment.

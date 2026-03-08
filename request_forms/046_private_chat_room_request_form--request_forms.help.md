@@ -1,9 +1,3 @@
-<thinking>
-To create a form that requests private chat room details, you need to understand that this form is for end-users to ask for a private chat room to be created, possibly for sensitive or private discussions. 
-This form likely won't be filled out by people who don't actually need a private chat room. Also, this form should prevent people from accidentally filling it out again if they've already done so.
-
-</thinking>
-
 # Private Chat Room Request Form - Help Guide
 ## Purpose
 This form is used to request a private chat room. Please fill out the form if you need a private chat room for a specific reason.

@@ -1,7 +1,3 @@
-<thinking>
-The form is for requesting a DJ set, and it's used to gather information about the event, the music to be played, and other relevant details. It's used by the DJ to create a customized playlist for their set. The form should only be filled out once for each event. If you've already filled out this form for the same event, you can check the form ID to see if it's a duplicate.
-</thinking>
-
 # DJ Request Form - Help Guide
 ## Purpose
 The DJ Request Form is used to gather information about a specific event, including the type of dance, song, and other details to create a customized playlist.

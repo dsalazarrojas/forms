@@ -1,10 +1,3 @@
-<thinking>
-The School Zone Support Request Form is designed to gather information about potential issues or requests related to school zones. It is intended for school administrators, support staff, or other relevant personnel to collect information and track requests. This form should be used only for genuine requests or issues and not for general inquiries.
-
-When filling out this form, please ensure that the information provided is accurate and relevant to the request. If you have already submitted a similar request, please do not duplicate your submission. This form is not intended for general feedback or suggestions.
-
-</thinking>
-
 # School Zone Support Request Form - Help Guide
 ## Purpose
 The School Zone Support Request Form is designed to help school administrators and support staff gather information about potential issues or requests related to school zones.

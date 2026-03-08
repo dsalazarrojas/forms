@@ -1,13 +1,3 @@
-<thinking>
-We should ensure that this form is used correctly to avoid duplication of effort. This form is intended for organizations and individuals seeking funding and support for climate change initiatives. Before filling out this form, please ensure that:
-- You have a clear understanding of your project's goals and objectives.
-- You have identified the specific climate change area you are addressing (e.g., carbon reduction, sustainable agriculture).
-- You have a well-defined plan for measuring project success.
-- You are not duplicating an existing project.
-
-Please review your project details carefully to ensure that your application is accurate and complete.
-</thinking>
-
 # Climate Change Initiative Application Form - Help Guide
 ## Purpose
 This form is designed for organizations and individuals seeking funding and support for climate change initiatives. It guides you through the necessary steps to provide a complete and accurate application.

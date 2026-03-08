@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, we're creating a document that explains the purpose and usage of the Sustainable Teaching Toolkit Request Form. This form is designed to collect information from teachers who wish to access the toolkit, which is a collection of educational resources. The form will help us understand their needs, preferences, and requirements for the resources. We aim to make it easy for teachers to access the resources they need to support their teaching practices.</thinking>
-
 # Sustainable Teaching Toolkit Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Service Request Information Form - Help Guide
 ## Purpose
 This form is designed to collect information from users requesting services from our public services. It is intended to help us understand their needs and provide the best possible service. Please note that this form should only be used for new service requests. If you have already submitted a service request, please do not resubmit your form. Duplicate service requests will be reviewed on a case-by-case basis, but please be patient as we aim to process each request efficiently.

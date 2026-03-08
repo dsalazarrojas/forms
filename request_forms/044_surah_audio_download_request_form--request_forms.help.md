@@ -1,8 +1,3 @@
-<thinking>
-The Surah Audio Download Request Form is used to collect information from users to fulfill their audio download requests related to Surah. This form is intended to gather details about the request, including the name, contact information, and specific audio type desired. It is essential to fill out this form only if you have a genuine request for a Surah audio download. Please note that submitting a duplicate request may lead to unnecessary processing and delay in response.
-
-</thinking>
-
 # Surah Audio Download Request Form - Help Guide
 ## Purpose
 The Surah Audio Download Request Form is designed to collect information for fulfilling user requests for specific Surah audio downloads.

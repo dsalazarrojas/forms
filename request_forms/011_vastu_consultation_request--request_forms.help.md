@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from potential clients or customers who are interested in requesting a consultation or meeting with a representative from our organization. It is used to collect property details and schedule a suitable appointment time. 
-The form ensures that we collect relevant information from the client and prevent duplication of consultations. 
-Please make sure to complete this form only if you have not already had an initial consultation.
-</thinking>
-
 # Vastu Consultation Request - Help Guide
 ## Purpose
 This form is used to request a consultation or meeting with a representative from our organization. We use this information to schedule a suitable appointment time and ensure that you receive the best possible support for your property needs.

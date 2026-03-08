@@ -1,10 +1,3 @@
-<thinking>
-This guide assumes that the form is used within a company or organization to process grants for junior tennis teams. The form is intended to collect information about the teams requesting grants, including team name, address, and contact information. The form also requests details about the grant amount, use of the grant, start and end dates of the grant period, and bank account information. The form is likely used to ensure that teams are not requesting duplicate grants for the same project or team, and that the organization is not granting excessive amounts. The organization may review and approve or deny grant requests based on the information provided. 
-
-The form is used to process grant requests for junior tennis teams. To complete this form, follow the steps below. 
-
-</thinking>
-
 # Junior Tennis Team Grant Request Form - Help Guide
 ## Purpose
 The Junior Tennis Team Grant Request Form is used by junior tennis teams to request funding for their activities, events, and initiatives. The form is reviewed and approved by the organization to ensure that the request meets the necessary criteria. 

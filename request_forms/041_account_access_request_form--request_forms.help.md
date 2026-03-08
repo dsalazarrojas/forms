@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the form is completed accurately and efficiently, let's first confirm that the purpose of this form is to request access to an account for a specific system or application. This form is used to collect information from the requester, including their details, manager's information, and specific access requirements. It's essential to understand that the form is not for general account inquiries or other purposes. Please ensure that you are filling out this form to request access for a legitimate reason. If you have already submitted a request, please do not submit another. Please review the form carefully and ensure that all required fields are completed accurately.
-</thinking>
-
 # Account Access Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals requesting access to an account for a specific system or application. It is essential to fill out this form accurately and truthfully to ensure that your request is processed efficiently.

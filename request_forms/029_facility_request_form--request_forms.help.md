@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information about a facility's status and requirements. It appears to be a general form for gathering details about a facility's availability, request type, and other relevant information. To ensure you're using this form correctly, please check if you've already submitted a similar request. If this is a new request, please fill out the form with accurate and relevant information.
-</thinking>
-
 # Facility Request Form - Help Guide
 ## Purpose
 This form is used to collect information about a facility's status and requirements.

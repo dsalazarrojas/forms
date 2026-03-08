@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about a deceased parent's medical record. The form is used to gather details about the parent's date of death, hospitalization, and other relevant medical history. It is essential to provide accurate and complete information to ensure the accuracy of the medical record. Before filling out this form, please ensure that you have the necessary permissions and authorizations to access the parent's medical information. Also, check that you haven't already submitted this form for the same parent. If you have already submitted this form, please do not resubmit it. This form is intended for use by authorized personnel only, and submitting incorrect or incomplete information may lead to delays or errors in processing the medical record.</thinking>
-
 # Deceased Parent Medical Record Request Form - Help Guide
 ## Purpose
 This form is used to collect information about a deceased parent's medical record. It is essential to provide accurate and complete information to ensure the accuracy of the medical record.

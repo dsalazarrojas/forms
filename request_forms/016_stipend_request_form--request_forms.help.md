@@ -1,9 +1,3 @@
-<thinking>
-This help guide is being generated to provide end-users with the necessary information to complete the "stipend_request_form" efficiently and accurately.
-The form's purpose is to request a stipend payment for expenses or services rendered.
-To confirm the purpose and ensure that the form is being completed for a valid reason, please review the following instructions carefully.
-</thinking>
-
 # stipend_request_form - Help Guide
 ## Purpose
 The "stipend_request_form" is a form used to request a stipend payment for expenses or services rendered. Please ensure that your request is for a valid reason before proceeding.

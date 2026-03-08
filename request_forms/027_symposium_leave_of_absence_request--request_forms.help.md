@@ -1,5 +1,3 @@
-<thinking>**Symposium Leave Of Absance Request Form Purpose and Relevance**: The purpose of this form is to request a Leave of Absence for a symposium. A Leave of Absance is a temporary absence from work that can be applied for by employees for various reasons related to the symposium. The form is intended for internal use within the organization and is used to collect relevant information about the request, including user information, symposium details, start and end dates, reason for request, manager approval, and any additional comments.</thinking>
-
 # Symposium Leave Of Absance Request - Help Guide
 ## Purpose
 The Symposium Leave Of Absence Request form is used to request a Leave of Absance for a symposium.

@@ -1,12 +1,3 @@
-<thinking>
-
-To help ensure that the Telework Request Form is used correctly and consistently, please note the following:
-
-* This form should only be used for requests that are not already approved or planned. If you have an existing telework approval, please do not submit another request.
-* If you are submitting a request for someone else, please make sure they have reviewed and agreed to the request.
-
-</thinking>
-
 # Telework Request Form - Help Guide
 ## Purpose
 The Telework Request Form is a tool used to request approval for work-from-home arrangements. It is meant for employees who wish to work from home instead of coming into the office.

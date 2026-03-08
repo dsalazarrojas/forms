@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to be used as a template for creating loan agreements for instruments, which can be any type of musical instrument. It is designed to collect information about the instrument, its condition, and the loan terms between the lender and the borrower. This form can be adapted to suit different types of instruments and loan scenarios.
-
-To ensure that the form is used correctly, it is essential to understand its purpose and the fields it contains. Please review the form carefully before proceeding to complete it.</thinking>
-
 # Instrument Loan Agreement - Help Guide
 ## Purpose
 The Instrument Loan Agreement is a template to create loan agreements for musical instruments. It collects information about the instrument, its condition, and the loan terms between the lender and the borrower.

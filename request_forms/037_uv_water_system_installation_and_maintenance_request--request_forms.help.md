@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "uv_water_system_installation_and_maintenance_request" form, we should consider the form's purpose and the fields it contains. This form is likely used for requesting maintenance or installation services for UV water systems, which are systems that use ultraviolet light to disinfect water. The form might be used by facilities or maintenance teams to request assistance from a service provider or internal team. It's essential to check if the form is being completed for a valid reason and to prevent duplication of work.
-</thinking>
-
 # uv_water_system_installation_and_maintenance_request - Help Guide
 ## Purpose
 

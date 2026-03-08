@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for a media folder creation request.
-The purpose of this form is to gather details necessary for a media folder creation request. 
-The form is designed to be simple and straightforward, with fields that guide the user through the process of requesting a media folder.
-The form does not require any authentication or validation, so users can submit their requests without any additional steps.
-Before proceeding, please ensure that you have the necessary permissions to submit this form.
-Also, check that you are not duplicating a previous request.
-</thinking>
-
 # Media Folder Creation Request - Help Guide
 ## Purpose
 This form is designed to collect information for a media folder creation request.

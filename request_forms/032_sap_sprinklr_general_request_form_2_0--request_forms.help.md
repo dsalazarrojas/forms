@@ -1,8 +1,3 @@
-<thinking>
-This block will contain internal reasoning and checks for the form purpose and non-duplication.
-The form is designed to be a general request form for users to provide input on various aspects of their needs or issues. The form is intended to collect data from users to aid in the resolution of their concerns. The form will be used to collect user input on a variety of topics, including department, status, date, time, notes, email, phone number, submit options, comments, request type, priority, urgency, tags, comments attachment, and attachment type. The form will be used to gather information on a per-page basis, with each page containing a specific set of questions or input fields. The form will be used by end-users to provide feedback and input on their concerns, which will aid in their resolution. The form will be used to ensure that all necessary information is collected and no information is duplicated.
-</thinking>
-
 # sap_sprinklr_general_request_form_2_0 - Help Guide
 ## Purpose
 The sap_sprinklr_general_request_form_2_0 is a general request form designed for users to provide input on various aspects of their concerns.

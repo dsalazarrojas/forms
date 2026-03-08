@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from employees requesting a company credit card for business purposes. The purpose of this form is to streamline the process of card issuance, ensuring all necessary details are collected and approved before cards are released. This form should only be used for employees seeking a card for business use. Duplicate requests should not be submitted, as this can lead to confusion and unnecessary issuance of multiple cards.
-</thinking>
-
 # Company Credit Card Issuance Form - Help Guide
 ## Purpose
 This form is used to collect information from employees requesting a company credit card for business purposes.

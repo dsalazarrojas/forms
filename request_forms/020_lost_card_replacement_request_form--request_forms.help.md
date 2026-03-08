@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to request a lost card replacement. It's used to report an incident where a card has been lost, and the user will need to provide details about the incident, such as the date and location it occurred, the type of incident, and any relevant images, videos, or audio files...</thinking>
-
 # Lost Card Replacement Request Form - Help Guide
 ## Purpose
 This form is used to request a lost card replacement in the case of an incident involving a card.

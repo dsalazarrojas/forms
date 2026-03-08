@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Resource Request Form Template", I'll follow the provided Markdown structure and YAML fields. Here's the guide:
 
 # Resource Request Form Template - Help Guide

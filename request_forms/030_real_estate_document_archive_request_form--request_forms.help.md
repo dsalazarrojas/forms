@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # real_estate_document_archive_request_form - Help Guide
 ## Purpose
 This form is used to request the archiving of real estate documents. The form is designed to capture the necessary information from the person requesting the archive, including property details, contact information, and document specifics.

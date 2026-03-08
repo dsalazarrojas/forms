@@ -1,10 +1,3 @@
-<thinking>
-To ensure this form is relevant and not duplicated, consider the following checks:
-
-*   The form is primarily used for training requests, which is a common and legitimate business process within most organizations.
-*   The form fields are mostly optional, but this doesn't mean they're not essential for the process. They may provide additional context or information that's crucial for the request.
-*   The form's purpose is to gather information for training requests, which is a reasonable use case for any organization.
-</thinking>
 # Training Request Form - Help Guide
 
 ## Purpose

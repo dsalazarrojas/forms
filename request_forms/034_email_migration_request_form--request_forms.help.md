@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request migration of an email account from one service provider to another. Before proceeding, please ensure you have a valid reason for the migration, and that you are not duplicating a request that already exists in the system. If you are unsure, contact your internal support team to check the status of existing requests.
-</thinking>
-
 # Email Migration Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request the migration of your email account from one service provider to another.

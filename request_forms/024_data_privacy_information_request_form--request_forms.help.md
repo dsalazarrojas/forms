@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from users about their request for data privacy information. This form is meant to be used by individuals who wish to access their personal data that is stored by the organization. 
-
-The form is intended to be used for legitimate and genuine requests, and users should only submit a form if they are genuinely interested in accessing their data. 
-
-To ensure the form is used appropriately, we will be monitoring for duplicate requests and checking for any requests that appear to be submitted in bad faith.
-</thinking>
-
 # Data Privacy Information Request Form - Help Guide
 ## Purpose
 This form is used to request access to your personal data that is stored by the organization. Fill out this form to provide the necessary information for your request.

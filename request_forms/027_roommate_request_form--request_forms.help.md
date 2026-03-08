@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide, I will analyze the form fields to understand their purpose and explain them in a way that is clear and concise. This form appears to be a simple roommate request form designed to gather information from potential roommates. The fields are mostly text inputs and selects, but it seems to be missing fields that would allow users to upload documents or photos for additional information. The form is divided into several pages, but I will assume that each page is a logical grouping of related fields. I will provide guidance on how to complete the form and explain each field in the following sections. I will also include general tips to help users navigate the form efficiently.</thinking>
-
 # Roommate Request Form - Help Guide
 ## Purpose
 This form is designed to help you find a suitable roommate for your living space. Please fill out this form to provide detailed information about your preferences and needs. This will help us match you with potential roommates who share similar interests and circumstances.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a travel assessment form, which is likely used to collect information from customers about their travel plans and preferences. The form includes fields for customer information, travel dates, travel locations, and other relevant details.
-</thinking>
-
 # Travel Assessment - Help Guide
 
 ## Purpose

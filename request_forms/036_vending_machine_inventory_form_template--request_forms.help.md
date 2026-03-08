@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Vending Machine Inventory Form Template - Help Guide
 ## Purpose
 The Vending Machine Inventory Form Template is used to collect and record information about the inventory levels and status of vending machines. This form is typically used for inventory management and tracking the availability of products in vending machines.

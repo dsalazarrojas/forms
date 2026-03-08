@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Vehicle Service Request Form" is designed to allow users to submit a vehicle-related service request to the organization. This form helps in collecting information from the user, including their vehicle details and contact preferences. By filling out this form, users can get assistance with their vehicle-related service needs.
 
 

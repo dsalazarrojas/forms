@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used to request safety stock for items in the inventory. When filling out this form, please ensure that you have the necessary information and permissions to complete it accurately. This form should only be submitted once for each item. If you need to request safety stock for multiple items, please fill out a separate form for each item.
-</thinking>
-
 # safety_stock_request_form - Help Guide
 ## Purpose
 The safety stock request form is used to request additional stock for items that are running low or have reached their reorder point. This form helps ensure that stock levels are maintained to meet business needs and prevent stockouts.

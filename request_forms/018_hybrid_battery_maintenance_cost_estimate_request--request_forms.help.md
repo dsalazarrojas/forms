@@ -1,5 +1,3 @@
-<thinking>Hybrid Battery Maintenance Cost Estimate Request form is used to collect information about a hybrid vehicle's battery maintenance needs. This form is for internal use only and is intended to be completed by authorized personnel. The form is designed to be used by service center staff to estimate the cost of battery maintenance and repair for a hybrid vehicle. This includes providing detailed information about the vehicle's condition, including its type, make, model, year, and mileage. The form also requires inputting the service request, cost estimate, and notes about the service. This form is a duplicate of the previous form, please ensure that you fill out the information correctly before submitting. Please use a clear and concise language in your responses.</thinking>
-
 # Hybrid Battery Maintenance Cost Estimate Request - Help Guide
 ## Purpose
 The Hybrid Battery Maintenance Cost Estimate Request form is used to collect information about a hybrid vehicle's battery maintenance needs for internal use only. It is designed to be completed by authorized personnel to estimate the cost of battery maintenance and repair for a hybrid vehicle.

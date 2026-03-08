@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'm excited to help create a user-friendly help guide for the "Cards Design Request" form. This form is designed to collect customer contact information and details about their card design requests, including card type, size, orientation, material, quantity, and deadline. To ensure relevance and non-duplication, let's consider the form's purpose and how it fits into the larger organizational workflow.</thinking>
-
 # Cards Design Request - Help Guide
 ## Purpose
 This form is for customers to submit their card design requests, providing essential details such as contact information, card specifications, design requirements, and deadlines. This information helps our design team create custom cards that meet their needs.

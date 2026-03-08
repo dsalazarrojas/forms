@@ -1,10 +1,3 @@
-<thinking>
-To ensure that the form serves its purpose of gathering relevant information from stranded citizens, the following conditions must be met:
-* The form should not be submitted multiple times for the same stranded citizen. This may lead to confusion and duplication of effort.
-* If a citizen is already receiving assistance from another agency, they should not be able to submit this form multiple times.
-* The form should be submitted only by authorized personnel or the stranded citizen themselves, to prevent unauthorized access and potential misuse.
-</thinking>
-
 # stranded_citizen_transportation_request_form - Help Guide
 ## Purpose
 The Stranded Citizen Transportation Request Form is designed to gather information from stranded citizens who require assistance. This form helps us understand the citizen's situation, provide timely and relevant aid, and track the status of their request.

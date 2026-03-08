@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Refund Timeframe Exception Request - Help Guide
 ## Purpose
 This form is used to request a refund for a purchase that falls outside of the standard refund timeframe. Please use this form to provide detailed information about your purchase and the reason for requesting an exception to the refund policy.

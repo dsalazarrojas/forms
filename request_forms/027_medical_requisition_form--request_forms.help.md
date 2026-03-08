@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for healthcare professionals to collect information about medical requests and supplies. It is designed to ensure that the right equipment, supplies, and medications are ordered for patient care. The form should only be filled out once for each request, and any subsequent requests for the same items should be avoided.
-</thinking>
-
 # Medical Requisition Form - Help Guide
 ## Purpose
 The Medical Requisition Form is used to request medical equipment, supplies, and medications for patient care. This form helps ensure that the right items are ordered and available for patient treatment.

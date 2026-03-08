@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to gather information from SEO clients to better understand their needs, website design requirements, and contact preferences. The goal is to create a tailored experience for the client, ensuring that the assigned tool is the best fit for their project.
 
 The form is divided into several pages, each with its own set of fields. Completing this form helps our team to understand the client's project requirements, preferences, and constraints, allowing us to create a well-informed project plan.

@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and requirements of the Plant Maintenance Request Form. The form is used to submit requests for maintenance tasks to be performed on plants and equipment in a production facility. It is crucial to ensure that all fields are accurately filled out to ensure the correct maintenance request is submitted. To avoid submitting duplicate requests, please review the form carefully and ensure that all necessary information is provided before submitting. This guide is here to help clarify any doubts and ensure a smooth submission process.
-</thinking>
-
 # Plant Maintenance Request Form - Help Guide
 ## Purpose
 The Plant Maintenance Request Form is used to submit requests for maintenance tasks to be performed on plants and equipment in a production facility. This form helps to ensure that all necessary information is gathered and submitted correctly.

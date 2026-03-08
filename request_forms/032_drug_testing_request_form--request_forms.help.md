@@ -1,8 +1,3 @@
-<thinking>
-**This form is designed to gather information about drug testing requests. It is intended for use by employees who are required to undergo a drug test. The purpose of this form is to provide a standardized way of capturing relevant information about the employee, test type, and test results. The form should only be completed by authorized personnel.**
-
-</thinking>
-
 # drug_testing_request_form - Help Guide
 ## Purpose
 

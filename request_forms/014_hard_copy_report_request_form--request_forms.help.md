@@ -1,7 +1,3 @@
-<thinking>
-We need to clearly define the purpose and usage of this form for the end-users. This form is used to request a hard copy report from the system. The report can be requested by providing the user's name, email address, and preferred delivery date and time. Additionally, the user can choose their preferred delivery method, whether it's by email, print, or digital copy. This form is likely used in business settings where reports need to be accessed offline or for printing.
-</thinking>
-
 # Hard Copy Report Request Form - Help Guide
 ## Purpose
 The Hard Copy Report Request Form is used to request a report to be sent to you in various formats. You can choose the delivery date, time, and method you prefer.

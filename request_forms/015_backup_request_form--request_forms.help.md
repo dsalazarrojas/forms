@@ -1,11 +1,3 @@
-<thinking>
-The backup request form is designed to collect essential information from requesters to ensure that backups are completed efficiently and effectively. This form helps to streamline the backup request process, ensuring that all necessary details are captured, and that backups are performed according to the requester's needs and preferences.
-
-To prevent duplication of efforts and confusion, please do not submit a new backup request if you have an active backup in progress or if you have already submitted a request within the last 24 hours.
-
-The information collected in this form will be reviewed and actioned as per the set backup schedule and priority. Please be as accurate as possible when filling out the form.
-</thinking>
-
 # Backup Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect necessary information from the requester to facilitate the backup process and ensure that backups are completed efficiently and effectively.

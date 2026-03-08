@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to request permission for a layover exit during travel. It's intended to be used by travelers who need to leave the plane during a layover, and the form should not be submitted for duplicate requests or when there are no legitimate reasons for a layover exit. The form requires information about the traveler's travel agency, the layover time, flight number, airline, passenger ID, flight departure and arrival times, reason for the layover, and layover exit permission status. The form's fields are designed to gather all necessary details for the travel agency to process the request efficiently.
-</thinking>
-
 # Layover Exit Permission Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request permission for a layover exit during travel. It is meant to be used by travelers who need to leave the plane during a layover. Please ensure that the request is legitimate and not a duplicate.

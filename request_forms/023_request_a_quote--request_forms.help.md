@@ -1,8 +1,3 @@
-<thinking>
-The form "Request A Quote" is designed for customers to request a quote for a particular service or product. The form collects relevant information to help the customer's sales team generate an accurate quote. The purpose of this form is to gather all necessary details to create a quote that meets the customer's needs.
-The form is structured to guide the customer through the process of providing the required information, which includes their contact information, quote details, and any additional attachments or comments. The form is divided into multiple pages, each with its own set of fields.
-</thinking>
-
 # Request A Quote - Help Guide
 ## Purpose
 The "Request A Quote" form is used to gather information from customers to create a quote for a particular service or product. This form helps the customer's sales team generate an accurate quote based on the provided details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to submit a new hardware request. The purpose of this form is to provide a structured way to gather necessary details for processing and fulfilling the hardware request. Before filling out this form, please ensure that you have a genuine reason for requesting new hardware and that it is not a duplicate request. This will help us ensure that we process your request efficiently and effectively.
-</thinking>
-
 # New Hardware Request - Help Guide
 ## Purpose
 This form is used to submit a request for new hardware. Please provide all necessary information to ensure that your request is processed correctly.

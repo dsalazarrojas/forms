@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for updating the visual art catalog, allowing users to add or modify information about artworks. The form is designed to gather metadata about an artwork, including its title, update type, details, artist name, description, image, video, assigned tool, creator, creation date and time, and last update details. This form is likely used by administrators or curators to ensure accurate and up-to-date information in the art catalog.
-To prevent duplicate submissions, the form will only allow one submission per artwork. If a user attempts to submit the same artwork for update, they will be notified that the artwork already exists in the catalog and must choose a different artwork for update.
-</thinking>
-
 # visual_art_catalog_update_request_form - Help Guide
 ## Purpose
 The visual art catalog update request form is used to add or modify metadata about artworks in the visual art catalog. Use this form to ensure that the artwork information is accurate and up-to-date.

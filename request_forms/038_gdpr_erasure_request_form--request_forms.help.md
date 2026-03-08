@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who are requesting data for research purposes. The purpose of this form is to ensure that users provide accurate and relevant information about themselves and their request. By filling out this form, users can help us understand their needs and preferences better.
-</thinking>
-
 # gdlr_request_form - Help Guide
 ## Purpose
 The gdlr_request_form is used to collect information from users who are requesting data for research purposes. It is essential to provide accurate information to ensure that we can fulfill their requests effectively.

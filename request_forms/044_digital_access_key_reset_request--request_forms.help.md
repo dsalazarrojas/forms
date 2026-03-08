@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Access Key Reset Request - Help Guide
 ## Purpose
 The Digital Access Key Reset Request form is used to request a reset of a digital access key for a user. This form allows users to provide their information and reason for requesting a reset.

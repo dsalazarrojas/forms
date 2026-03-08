@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register a server application. The purpose of this form is to gather information about the server application, including its name, type, operating system, hardware specifications, and more. This information will be used to create a server application profile that can be used for further processing and analysis.
-
-Before filling out this form, please ensure that you have all the necessary information required to complete it. Also, please note that this form is not meant to be filled out multiple times for the same server application. If you need to update existing information, please contact the relevant support team to do so.
-
-</thinking>
-
 # Server Application Registration - Help Guide
 ## Purpose
 The Server Application Registration form is used to collect information about a server application, which will be used to create a server application profile for further processing and analysis.

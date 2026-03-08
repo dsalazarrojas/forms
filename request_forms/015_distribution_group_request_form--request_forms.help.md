@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Distribution Group Request Form - Help Guide
 
 ## Purpose

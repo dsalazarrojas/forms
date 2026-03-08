@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to gather information for creating a credit note for a customer to offset against a debt. It will only be accessible to customers who have an existing credit balance. Customers will need to have a valid credit balance to proceed with the form submission. Please note that duplicate requests for the same credit request date will be rejected.
-
-</thinking>
-
 # Credit Note Request Form - Help Guide
 ## Purpose
 The Credit Note Request Form is used to generate a credit note for customers who wish to offset a debt against their existing credit balance.

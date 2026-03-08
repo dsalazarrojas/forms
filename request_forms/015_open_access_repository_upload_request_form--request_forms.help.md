@@ -1,9 +1,3 @@
-<thinking>
-We've designed this form to collect information from authors and contributors to facilitate the upload of their manuscripts to an Open Access Repository. Before proceeding, please ensure that you have not already submitted your work to this repository, and that you've reviewed and agreed to the submission guidelines. If you're unsure about the repository's guidelines or have questions, please contact your departmental or institutional support.
-
-Please note that the fields in this form are for your convenience and to help us process your request accurately. Your responses will be reviewed and used for the purpose of uploading your manuscript to the Open Access Repository.
-</thinking>
-
 # Open Access Repository Upload Request Form - Help Guide
 
 ## Purpose

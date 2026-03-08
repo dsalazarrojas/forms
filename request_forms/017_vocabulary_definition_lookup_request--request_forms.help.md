@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that users understand the purpose of this form and what information is being requested. 
-The form is for vocabulary definition lookup requests, which means users are seeking clarification on words or phrases that are unclear or unfamiliar to them. The purpose is to provide a way for users to ask for information on the definition of a word or phrase, so that they can better understand its meaning in a specific context.
-</thinking>
-
 # Vocabulary Definition Lookup Request - Help Guide
 ## Purpose
 This form is for users to submit vocabulary definition lookup requests to the team. Please fill out the form below to provide necessary information for our team to process your request.

@@ -1,7 +1,3 @@
-<thinking>
-This is a form that captures information from individuals seeking support or counseling services from a chaplain or counselor. The form is designed to gather demographic information, support request details, and contact information.
-</thinking>
-
 # Chapel Support Form - Help Guide
 ## Purpose
 This form is intended to be filled out by individuals seeking support or counseling services from a chaplain or counselor. It captures demographic information, support request details, and contact information to ensure that the chaplain or counselor can provide the best possible support.

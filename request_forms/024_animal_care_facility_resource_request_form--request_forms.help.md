@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help animal care facilities request resources and supplies from a central organization. It's a crucial form for facilities to provide accurate and detailed information about their needs, allowing the central organization to allocate resources efficiently. When filling out this form, please ensure that you are not duplicating a previous request or providing incomplete information. Please note that the form is divided into several sections to guide you through the process.
-
-</thinking>
-
 # Animal Care Facility Resource Request Form - Help Guide
 ## Purpose
 This form is designed to help animal care facilities request resources and supplies from a central organization. It allows facilities to provide detailed information about their needs, enabling the central organization to allocate resources efficiently.

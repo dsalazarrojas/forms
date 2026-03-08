@@ -1,7 +1,3 @@
-<thinking>
-This form is used to track and monitor methane emissions from a site, likely for environmental or regulatory compliance purposes. Before proceeding, please ensure that this is the correct form for your use case and that you are not duplicating a request already submitted. If you are unsure, please refer to your organization's standard procedures.
-</thinking>
-
 # Methane Emissions Monitoring Request Form - Help Guide
 ## Purpose
 This form is used to request tracking and monitoring of methane emissions from a specific site. It gathers essential information for environmental or regulatory compliance.

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to facilitate remote work arrangements for employees, allowing them to request to work from home when needed. This form is intended to be used by employees to provide necessary information for their work-from-home requests, and it is not designed to be used for any other purpose. 
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and it is an original adaptation of a form generated using AI. 
-
-The form is released under a Creative Commons license, allowing users to use, modify, and sell it while giving credit.
-</thinking>
-
 # Work From Home Request Form - Help Guide
 ## Purpose
 The Work From Home Request Form is designed to help you request to work from home when you need to do so. It collects information about your employee status and the dates you are requesting to work from home. This form helps to ensure that your request is processed efficiently and effectively.

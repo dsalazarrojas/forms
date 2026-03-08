@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be designed for managing subscriptions to streaming channels. The fields seem to be focused on user preferences and changes to their subscription plans. The purpose of this form is likely to collect information from users about their subscription preferences, such as plan changes, notification choices, and subscription changes. The form may be used by administrators or customer support teams to manage subscriptions and tailor the streaming experience for users.
-
-Before completing this form, please ensure you are not submitting duplicate requests or redundant information. This form is designed to collect new or updated information, not to resubmit existing data.
-
-To complete this form, please follow the steps below.
-</thinking>
-
 # streaming_channel_subscription_management_form - Help Guide
 ## Purpose
 This form is designed to collect and manage subscription preferences and changes for streaming channels. It helps us understand your preferences and tailor the streaming experience for you.

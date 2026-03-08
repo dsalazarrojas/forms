@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the intake process of payment software development projects. The form will be used to gather essential details about the project requirements, timeline, and priority. This form should only be used for genuine project intake purposes, not for duplicate or test entries. Please ensure that the form is filled in correctly, as any incomplete or duplicate submissions might cause confusion in the project management process.
-</thinking>
-
 # Payment Software Development Project Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information for the payment software development project intake process.

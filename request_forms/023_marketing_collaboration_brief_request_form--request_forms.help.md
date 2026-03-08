@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Marketing Collaboration Brief Request Form - Help Guide
 
 ## Purpose

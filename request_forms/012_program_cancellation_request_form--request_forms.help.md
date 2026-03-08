@@ -1,10 +1,3 @@
-<thinking>
-This form is used for requesting the cancellation of a program. 
-This form is typically used when you want to stop a program from continuing. 
-Ensure that you have a valid reason for cancellation before filling out this form. 
-Please make sure that you have not filled out this form already before proceeding. 
-</thinking>
-
 # Program Cancellation Request Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a request to cancel a program. This form should only be filled out when the program is to be canceled.

@@ -1,9 +1,3 @@
-<thinking>
-
-This guide assumes that the user is requesting a custom cartoon picture drawing service. The form is designed to collect information from the customer, including their contact details, drawing preferences, and delivery options. It is essential that the user carefully fills out the form to ensure that the artist can create an accurate and satisfactory drawing.
-
-</thinking>
-
 # Cartoon Picture Drawings - Help Guide
 ## Purpose
 This form is designed to collect information from customers to create a custom cartoon picture drawing. Customers will be asked to provide their contact details, preferences for the drawing style and background, number of subjects, and delivery options, including payment method and currency.

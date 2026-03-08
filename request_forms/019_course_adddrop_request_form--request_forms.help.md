@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Course AddDrop Request Form - Help Guide
 ## Purpose
 This form is used to request adding or dropping courses in a program. It is designed to facilitate the process of updating course enrollment information.

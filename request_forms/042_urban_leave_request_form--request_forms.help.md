@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Urban Leave Request Form - Help Guide
 
 ## Purpose

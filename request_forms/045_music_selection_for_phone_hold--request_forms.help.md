@@ -1,33 +1,3 @@
-<thinking>
-
-This form is used for music selection for phone holds, which is a process where music is selected for a phone hold to play to customers while they wait on hold. This form allows users to select music preferences and provide approval status for the music selection. The purpose of this form is to ensure that the music selection for phone holds is accurate and up-to-date.
-
-This form is used by administrators and music selection team members to update music selections, approve or reject music selections, and track the status of music selections. 
-
-The form has multiple fields that require input from users and has the following fields: 
-- Music Selection
-- Phone Hold Approvals
-- Start Time
-- End Time
-- Music Preferences
-- Approval Status
-- Approval Comments
-- Approval Date
-- On Hold Duration
-- On Hold Start Time
-- On Hold End Time
-- Created By
-- Created At
-- Updated At
-- Approved At
-- Music Selection ID
-- Approval User
-- On Hold ID
-
-To ensure that the form is completed correctly and without duplication, it's recommended to review the fields before proceeding and ensure that all fields are filled out before submitting the form.
-
-</thinking>
-
 # Music Selection For Phone Hold - Help Guide
 ## Purpose
 The Music Selection For Phone Hold form is used to select music for phone holds, which is used to provide a pleasant experience for customers while on hold.

@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is designed to capture information for marketing materials printing requests. It's meant for internal use and is not intended to be a publicly accessible form. Before proceeding, please check if a similar request has been made recently. If so, you may not need to fill out this form. If you are unsure, please ask your supervisor or department lead for guidance.
-</thinking>
-
 # Marketing Material Printing Request Form - Help Guide
 ## Purpose
 The Marketing Material Printing Request Form is used to submit requests for printing marketing materials, such as brochures, flyers, and posters, to the marketing team. Please use this form to specify the details of the materials you need printed.

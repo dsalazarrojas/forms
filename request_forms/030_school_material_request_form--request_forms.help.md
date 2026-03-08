@@ -1,9 +1,3 @@
-<thinking>
-
-The School Material Request Form is designed to collect requests from students, parents, or school staff for materials and resources needed for academic or administrative purposes. This form will help the school administration to track and manage these requests efficiently. To avoid duplication, please ensure that you have not submitted a similar request in the past. Before proceeding, consider if the request is for a material that can be borrowed or obtained from within the school or if it needs to be purchased or sourced externally.
-
-</thinking>
-
 # School Material Request Form - Help Guide
 ## Purpose
 The School Material Request Form is a tool for students, parents, or school staff to request materials and resources needed for academic or administrative purposes. This form helps the school administration track and manage these requests efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for employees to submit a vacation request to their employer. The form likely serves as a way for employees to notify their management team of their upcoming absence, ensuring a smooth work process and adequate staff coverage. It's essential to review the form's content to avoid duplicate requests and ensure that all necessary fields are filled correctly. Please review the form carefully and provide your specific vacation dates, selection options, and any other required information to ensure your request is processed efficiently.
-</thinking>
-
 # Employee Vacations Request Form - Help Guide
 ## Purpose
 This form is for employees to submit a vacation request to their employer. It helps the management team to plan and prepare for staff coverage during your absence.

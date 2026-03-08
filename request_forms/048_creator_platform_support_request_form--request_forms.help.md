@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be a support request form for creators on a platform that offers a range of features and services to help creators manage their work and projects. The form should provide a clear and concise way for creators to reach out to the platform support team with their questions, issues, or concerns. 
-
-To ensure that the form serves its purpose, I will create a help guide that is user-friendly and easy to follow. Before completing the form, creators should ensure that they have a clear reason for submitting a request and that the request is not a repeat of a previous issue.
-
-The form consists of several fields that cater to different types of requests. Each field has a specific purpose and should be filled in accordingly.
-
-</thinking>
-
 # Creator Platform Support Request Form - Help Guide
 ## Purpose
 The Creator Platform Support Request Form is a tool for creators to submit their requests and issues to the platform support team. This form helps the support team to understand the creator's concerns and provide timely and effective assistance.

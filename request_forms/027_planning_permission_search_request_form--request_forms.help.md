@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Planning Permission Search Request Form - Help Guide
 
 ## Purpose

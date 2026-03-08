@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to gather information for the Outreach Brochure Request Form. This form is used to request outreach brochures from the organization. We will review each form submission to ensure that the information provided is accurate and complete. Please note that if you are requesting for the same brochure multiple times, we will only provide it once per request, as we want to prevent duplication of effort and ensure that our resources are allocated efficiently.
-</thinking>
-
 # Outreach Brochure Request Form - Help Guide
 ## Purpose
 This form is used to request outreach brochures from our organization. Fill out the form below to provide us with your information, and we will review your request carefully to ensure that we can provide you with the necessary brochure.

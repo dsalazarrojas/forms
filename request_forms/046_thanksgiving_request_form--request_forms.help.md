@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the "thanksgiving_request_form" is to allow users to request assistance during the holiday season. This form is typically used by staff to collect information from customers or colleagues who need help with food requests or other holiday-related matters. It's essential to complete this form accurately and truthfully to ensure that the requested assistance is provided efficiently.
 
 Before filling out the form, please ensure that you haven't already submitted a similar request in the past, as duplicate requests may be flagged and removed.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a free project proposal, which can be used to gauge the feasibility and viability of a project. This form is likely to be used for internal project management purposes, such as tracking project progress and resource allocation. 
-The form should not be used for projects that are already underway, and users should only be prompted to fill it out if they have a new project idea or proposal that they'd like to submit. 
-This form will be used in conjunction with other project management tools and systems, but it should be filled out independently.
-</thinking>
-
 # Free Project Proposal - Help Guide
 ## Purpose
 The Free Project Proposal form is used to collect and store information about new project proposals. 

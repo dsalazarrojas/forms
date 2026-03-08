@@ -1,8 +1,3 @@
-<thinking>
-This guide is for the Animal Welfare Data Integration Request Form. Before proceeding, please ensure that you are familiar with our data integration services and understand what types of data can be integrated. If you have already submitted a similar request or have existing partnerships, please do not fill out this form again. The form will guide you through the necessary steps to request data integration for animal welfare data. 
-
-</thinking>
-
 # Animal Welfare Data Integration Request Form - Help Guide
 ## Purpose
 The Animal Welfare Data Integration Request Form is designed to help you request data integration for animal welfare data. This form will guide you through the necessary steps to provide us with essential information about your organization and the data integration needs you have. Please fill out the form carefully, and we will review your request and follow up with you to discuss further details.

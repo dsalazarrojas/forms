@@ -1,13 +1,3 @@
-<thinking>
-
-To confirm, the purpose of this form is to gather information about an event, including the event details, styling services, event type, date, time, location, description, client information, number of guests, budget, services offered, and client preferences. This form will be used to plan and coordinate an outfit for the event. It's essential to ensure that the form is completed accurately and thoroughly to ensure the best possible outcome.
-
-The form is divided into multiple pages, but all fields are on the same page, and users will be able to fill out the form in a linear sequence.
-
-Each field in the form serves a specific purpose, and users should be aware of what to expect when filling out the form.
-
-</thinking>
-
 # Outfit Planner Form - Help Guide
 ## Purpose
 The Outfit Planner Form is designed to gather information about an event to plan and coordinate the outfit for the event.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information for an Electric Service Load Change Request. It is crucial to ensure that users understand the purpose and relevance of the form before starting the submission process.
-The form will be used for internal purposes, so users should not submit the form if they are not authorized or if the request is not legitimate. Please note that duplicate submissions will be deleted to maintain data accuracy.
-To avoid confusion, the form should only be used by authorized users. Users can check the "Contact Details" field to ensure that the information provided is correct and up-to-date.
-The form is designed to be filled out once and not repeatedly. Repeated submissions with the same information will not be accepted.
-</thinking>
-
 # Electric Service Load Change Request - Help Guide
 
 ## Purpose

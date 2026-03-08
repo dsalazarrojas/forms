@@ -1,11 +1,3 @@
-<thinking> 
-This form is intended to collect information from customers who are requesting a replacement for an audio cable they have purchased. To ensure that their issue is resolved efficiently, please ensure that you have the following information: 
-- A clear and detailed description of the problem with the cable. 
-- Proof of purchase (original order number and approximate purchase date). 
-- Complete shipping address. 
-- Contact email address for shipping updates. 
-</thinking>
-
 # Audio Cable Replacement Request Form - Help Guide
 ## Purpose
 This form is designed to help you request a replacement for your audio cable. Please fill out this form with accurate and detailed information to help us process your request efficiently.

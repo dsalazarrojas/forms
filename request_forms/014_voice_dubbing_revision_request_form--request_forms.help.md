@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to collect information from users who need to request revisions for voice dubbing services. The form is intended to capture the details of the revision request, including any necessary file attachments, priorities, and comments. The purpose of this form is to ensure that the revisions are accurately and efficiently processed.
-
-To avoid duplication, this form should only be filled out if the user needs to request a revision for a specific voice dubbing project. If the user is looking for a new voice dubbing project, they should fill out a different form.
-
-Please note that this form collects the following information:
-
-* Revision details
-* File attachments
-* Priorities
-* Comments
-* Date and time of submission
-* Email and phone number (optional)
-
-The form does not require a submit button, as it is designed to be used for internal purposes only.
-
-</thinking>
-
 # Voice Dubbing Revision Request Form - Help Guide
 ## Purpose
 This form is used to request revisions for voice dubbing projects. Please fill out this form if you need to make changes to a previously completed voice dubbing project.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # request_for_proposal_form - Help Guide
 
 ## Purpose

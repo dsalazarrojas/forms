@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ky_global_missions_2020_schedule - Help Guide
 ## Purpose
 The ky_global_missions_2020_schedule form is designed to collect information about global and district missions. It is intended for mission coordinators to plan and manage their missions effectively. The form is used to schedule and assign missions to teams or individuals, with various options for mission types, start and end dates, locations, and details.

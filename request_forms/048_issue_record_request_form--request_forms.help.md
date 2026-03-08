@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information related to an issue record request, which could be used in various contexts such as claims management, incident reporting, or problem tracking within an organization. The form's purpose is to provide a structured way for users to submit details about a specific issue, including information on the requestor, request date, issue description, coverage type, and claim status. The form's fields should be completed by users to ensure that all necessary information is collected and that the submitted data is accurate.
-</thinking>
-
 # Issue Record Request Form - Help Guide
 ## Purpose
 This form is used to capture and track information related to issue records.

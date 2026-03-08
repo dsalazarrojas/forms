@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to be filled out by customers to request cleaning services. The purpose of this form is to gather necessary information for the cleaning services team to provide the best possible service to the customer. To ensure that the form is completed correctly and efficiently, please note that this form is intended for new requests, and if the customer has previously submitted a request, it is considered a duplicate and should not be resubmitted. 
-</thinking>
 # Request For Cleaning Services Form - Help Guide
 
 ## Purpose

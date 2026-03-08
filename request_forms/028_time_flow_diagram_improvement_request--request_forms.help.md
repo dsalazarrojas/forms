@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Time Flow Diagram Improvement Request - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # M3U List URL Submission Form - Help Guide
 
 ## Purpose

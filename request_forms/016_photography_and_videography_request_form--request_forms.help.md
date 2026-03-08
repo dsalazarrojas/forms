@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting photography and videography services for events. The form is used to gather information about the event and assign a tool, user, and category for the service. The form is divided into several pages, and each page is explained below. Please make sure to fill out the form accurately and completely to ensure that your request is processed correctly. Also, be aware that some fields are required and must be filled out, while others are optional and can be left blank.
-</thinking>
-
 # Photography And Videography Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request photography and videography services for events. This form will be used to gather necessary information about the event and assign a tool, user, and category for the service.

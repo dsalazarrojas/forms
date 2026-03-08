@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request a custom flyer design from a design team. The form will guide the designer on what the client is looking for and what kind of design is needed. This form helps to ensure that the design team has all the necessary information to create a high-quality design that meets the client's requirements. The form is meant to be filled out by the person submitting the design request, who will be referred to as the "submitter" in this guide.
-
-Before filling out the form, please make sure that you are authorized to submit a design request on behalf of your company or organization. Also, be sure that this is not a duplicate request, as submitting duplicate requests can cause confusion and delay the design process.
-
-This guide will walk you through each field in the form, explaining what it means and how to fill it out correctly.
-</thinking>
-
 # Custom Flyer Request Form - Help Guide
 ## Purpose
 This form is used to request a custom flyer design from a design team. It is meant to gather necessary information from the submitter to guide the designer in creating a high-quality design that meets the client's requirements.

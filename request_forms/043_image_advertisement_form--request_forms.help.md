@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial form for creating image advertisements, which can be used to showcase products, services, or events. This form is essential for marketing teams to create engaging visuals that capture the audience's attention. To ensure relevance and non-duplication, we have implemented a system to prevent users from submitting multiple forms with the same image. Before proceeding, please review the following guide to understand the form's purpose and fields.
-</thinking>
-
 # Image Advertisement Form - Help Guide
 ## Purpose
 The Image Advertisement Form is a tool for marketing teams to create and manage image advertisements. This form helps in capturing vital information about the advertisement, including its type, budget, duration, and dates. The form is designed to be flexible and adaptable to meet the diverse needs of different marketing campaigns.

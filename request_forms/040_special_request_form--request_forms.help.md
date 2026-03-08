@@ -1,7 +1,3 @@
-<thinking>
-This is a form designed to handle special requests. The form's purpose is to gather information from users about their special requests, such as categorization, description, and any other relevant details. To prevent duplicate forms from being created, it is recommended to fill out this form only once per request. If a user has already filled out this form for the same request, they should not fill it out again.
-</thinking>
-
 # special_request_form - Help Guide
 ## Purpose
 The special_request_form is a tool for users to provide information about their special requests. This form helps to categorize and describe the requests accurately, ensuring that the request is handled correctly.

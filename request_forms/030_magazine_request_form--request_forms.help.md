@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users about their magazine request, which is a crucial part of our internal process for managing magazine subscriptions. We need to ensure that the form is completed accurately and thoroughly to avoid duplication and miscommunication. Before filling out this form, please review the following guidelines to ensure you understand what is required and what information is needed.
-</thinking>
-
 # Magazine Request Form - Help Guide
 ## Purpose
 The Magazine Request Form is used to collect information from users about their magazine requests. It helps our team to understand your preferences and requirements for magazines, ensuring that we can provide you with the best possible service.

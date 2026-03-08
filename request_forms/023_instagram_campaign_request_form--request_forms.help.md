@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for an Instagram campaign. It is used to gather details about the user's Instagram account and business information. This form is designed to be completed by users who want to request a campaign on Instagram. The form is not intended to be used for other purposes, and users who have already submitted a campaign request do not need to fill it out again.
-</thinking>
-
 # Instagram Campaign Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for an Instagram campaign. Fill out this form to provide your business information and request a campaign on Instagram.

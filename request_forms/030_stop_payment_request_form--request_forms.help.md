@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to help users request the cancellation or reversal of a payment that has already been processed. To ensure the form is used correctly and effectively, we need to clarify its purpose and usage.
-
-The main purpose of this form is to document a request to stop or reverse a payment that has been incorrectly or undesirably processed. This form can be used by account holders to submit their request to stop or reverse a payment that is incorrect, duplicate, or in any other way invalid.
-
-To avoid duplication, this form is not intended for users who have already submitted a valid stop payment request or have been notified that their request has been approved, rejected, or canceled. If a user has already submitted a request, please use another form or contact customer support.
-
-</thinking>
-
 # Stop Payment Request Form - Help Guide
 ## Purpose
 The Stop Payment Request Form is designed to be filled out by account holders to request the cancellation or reversal of a payment that has been already processed.

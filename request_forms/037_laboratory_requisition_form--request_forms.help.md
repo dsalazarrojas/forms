@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information for laboratory testing requests, including details about the test type, status, and results. Before filling out this form, please ensure that you have the necessary permissions and clearance to access this information. This form should not be used for duplicate or redundant requests. Ensure that you have already submitted a request for the same test or lab service before completing this form.</thinking>
-
 # Laboratory Requisition Form - Help Guide
 ## Purpose
 This form is used to collect and track laboratory testing requests, including details about the test type, status, and results.

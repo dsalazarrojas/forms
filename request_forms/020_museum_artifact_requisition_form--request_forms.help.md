@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help museums and institutions document and manage their collections, specifically for requisitioning artifacts. The form will be used by curators, conservators, and other collection management staff to provide detailed information about the artifacts in their care. This information will be used to catalog, store, and potentially loan out artifacts to other institutions or researchers. The form should only be completed for artifacts that are currently held in the institution's collection and are being loaned, donated, or sold. Requisitioning multiple copies of the form for the same artifact is not recommended and should only be done on a case-by-case basis when an artifact's status changes.
-
-</thinking>
-
 # museumArtifactRequisitionForm - Help Guide
 ## Purpose
 The museumArtifactRequisitionForm is used to document and manage artifacts in a museum's collection.

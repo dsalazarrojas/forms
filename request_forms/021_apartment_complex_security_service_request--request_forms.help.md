@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Apartment Complex Security Service Request - Help Guide
 ## Purpose
 This form is designed for residents to report security incidents or concerns to the apartment complex management. It will help ensure that the management receives accurate and detailed information to effectively address and resolve the issue. Please fill out the form with as much detail as possible to help us assist you in the best possible way.

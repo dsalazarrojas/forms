@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hr Service Request Form - Help Guide
 
 ## Purpose

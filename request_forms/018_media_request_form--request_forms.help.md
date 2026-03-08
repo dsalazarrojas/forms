@@ -1,21 +1,3 @@
-<thinking>
-This form is used to request media assets (images, videos, audio files, etc.) from various sources. It's intended for users to provide specific details about the media they need, such as the type of media, description, and production dates. The form is designed to be user-friendly and adaptable to cater to different types of requests.
-
-To confirm, the form will be used to collect information on:
-- First name
-- Email address
-- Type of media (video, image, audio, or other)
-- Description of the requested media
-- Media type (image, video, or audio)
-- Production date
-- Release date
-- File (optional)
-- Notes (optional)
-
-Before starting, ensure you have all the necessary information ready. This form is not designed to be completed multiple times with the same information. If you need to make multiple requests, please fill in the form with a new set of details each time.
-
-</thinking>
-
 # Media Request Form - Help Guide
 ## Purpose
 The Media Request Form is used to submit a request for media assets to our team. This form collects essential information about the requested media, ensuring that we can efficiently process and fulfill your requests.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used for users to request integration with the ecommerce application. The integration request form is designed to collect necessary information from the user to facilitate a smooth and efficient integration process. This form is intended for internal use within the organization, and the submitted information will be reviewed and processed internally. Before filling out this form, please ensure you have all the necessary information required to complete it accurately. This form should only be filled out once per app integration request. Repeatedly filling out this form will result in duplicated information and may cause confusion in our internal processes.
-
-</thinking>
-
 # e_commerce_app_integration_request_form - Help Guide
 ## Purpose
 The "e_commerce_app_integration_request_form" is used to gather information from users who want to integrate their application with our system. This form helps us understand their needs and requirements to provide a smooth integration process.

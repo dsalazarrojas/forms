@@ -1,8 +1,3 @@
-<thinking>
-This form is used to process pay increases for employees. The user needs to fill out the form with the required information, which includes the employee's name, the type of pay increase, the amount of the increase, the effective date, and other supporting details such as justification letter and approval status. This form helps to streamline the process of requesting and approving pay increases for employees. Please ensure that you are using this form for a valid reason and not for duplicate purposes. If you have already submitted a request for the same employee, please do not resubmit the form.
-
-</thinking>
-
 # Pay Increase Form - Help Guide
 ## Purpose
 This form is used to request a pay increase for an employee. It is an essential part of the payroll process to ensure that employees receive fair compensation for their work.

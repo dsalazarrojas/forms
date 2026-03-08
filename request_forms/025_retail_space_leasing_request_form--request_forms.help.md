@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # retail_space_leasing_request_form - Help Guide
 
 ## Purpose

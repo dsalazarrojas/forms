@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be used for requesting a book from the library. It is assumed that the user is a member or associate of the library and is requesting a book not already available at the library. The form is a simple text-entry form for submitting a book request.
-To avoid duplicates, the library will check for books that are already available. If a book is already available, users will be notified and the request will not be added to the catalog.
-</thinking>
-
 # Library Book Request Form - Help Guide
 ## Purpose
 The Library Book Request Form is a simple form for requesting a book from the library. You can use it to submit a request for a book not already available at the library.

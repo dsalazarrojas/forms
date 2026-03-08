@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and requests from users for sound system upgrades. This form will help the system administrators to track and manage all the upgrade requests efficiently. Before proceeding, please ensure that the upgrade request is not a duplicate and that the form is being filled out by the correct department.
-</thinking>
-
 # Sound System Upgrade Request Form - Help Guide
 ## Purpose
 The Sound System Upgrade Request Form is designed to collect information and requests for sound system upgrades from users. This form is essential for system administrators to track and manage all the upgrade requests, ensuring timely and efficient resolution of these requests.

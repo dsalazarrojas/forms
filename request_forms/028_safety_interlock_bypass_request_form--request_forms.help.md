@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is only used for valid and legitimate reasons to bypass safety interlocks. A bypass is granted only after careful review, and repeated misuse can result in disciplinary action. Also, make sure the maintenance team and route description are correctly filled out.
-</thinking>
-
 # Safety Interlock Bypass Request Form - Help Guide
 ## Purpose
 This form is used to request a safety interlock bypass, which allows access to areas or routes that would otherwise be restricted for safety reasons. A bypass is granted only for legitimate reasons and after careful review by the safety team.

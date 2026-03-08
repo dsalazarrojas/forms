@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users who need assistance with robot-related services, such as escorting or accompanying robots for various purposes. This is a general-purpose form for handling requests for robot service.
-Before filling out this form, please ensure you have not already submitted a similar request. If you're unsure or have questions, contact the support team.
-</thinking>
-
 # Robot Escort Service Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who need assistance with robot-related services. Please use this form to provide your details and requirements for our robot escort service.

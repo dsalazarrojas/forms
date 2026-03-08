@@ -1,7 +1,3 @@
-<thinking>
-This form is used by students who are seeking a fee waiver for sending their test scores to educational institutions. The purpose of this form is to gather information from the student applicant, guardian or parent, and educational institution to assess whether a fee waiver is justified. This form should not be completed by students who have already received a fee waiver for the same purpose.
-</thinking>
-
 # Test Score Sending Fee Waiver Request Form - Help Guide
 
 ## Purpose

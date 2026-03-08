@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request reimbursement for company-related expenses. It is intended for employees to submit their requests for reimbursement for expenses incurred while on the job, such as travel, meals, or other work-related purchases. To avoid duplicate requests, please ensure that you have not already submitted a request for the same expense.
-</thinking>
-
 # Request For Reimbursement Form - Help Guide
 ## Purpose
 This form is used to request reimbursement for company-related expenses.

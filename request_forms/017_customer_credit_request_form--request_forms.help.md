@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Customer Credit Request Form - Help Guide
 ## Purpose
 The Customer Credit Request Form is a tool designed to collect information from customers who are requesting credit from your company. This form helps to gather essential details that will aid in processing their credit request, ensuring that the necessary information is collected accurately and efficiently.

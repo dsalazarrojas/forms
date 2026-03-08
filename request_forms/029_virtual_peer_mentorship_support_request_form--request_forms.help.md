@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from students who need virtual or in-person peer mentorship support. This support is typically offered by students from the same school or program who can provide guidance, guidance, and companionship to their peers during their educational journey. 
-
-To be eligible, the students should be currently enrolled in a program or have completed one recently. This form ensures that mentors are matched with mentees who have similar backgrounds and program experiences.
-
-The form will not be processed if it is incomplete, and the user will be required to fill in all the required fields. This form is designed to be simple and easy to fill out, but please ensure that you are providing accurate and honest information to facilitate the best possible matching. 
-
-</thinking>
-
 # Virtual Peer Mentorship Support Request Form - Help Guide
 ## Purpose
 This form is used to request virtual or in-person peer mentorship support from students at the same school or program.

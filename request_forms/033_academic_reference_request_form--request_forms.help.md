@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Reference Request Form - Help Guide
 
 ## Purpose

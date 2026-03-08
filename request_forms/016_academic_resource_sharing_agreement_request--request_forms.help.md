@@ -1,10 +1,3 @@
-<thinking>
-To ensure the form is completed correctly and to avoid duplication of effort, let's review its purpose and ensure the end user understands the form's requirements. This form is used for requesting access or sharing academic resources between institutions or departments. It is essential to fill out this form carefully and accurately to facilitate the resource sharing process.
-
-Before starting, please note that some fields are required, while others are optional. The form is divided into two main sections: the Requester's Information and Resource Details. In the Requester's Information section, you will provide your personal details, including your name, email address, phone number, institution, department, role, and contact information at the providing institution (if applicable). In the Resource Details section, you will specify the type of resource being requested, its description, the purpose of accessing the resource, and the dates of access. Please ensure that the information provided is accurate and complete.
-
-</thinking>
-
 # Academic Resource Sharing Agreement Request - Help Guide
 ## Purpose
 This form is used to request access or share academic resources between institutions or departments.

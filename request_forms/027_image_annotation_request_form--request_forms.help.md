@@ -1,5 +1,3 @@
-<thinking>Image annotation request forms are used to collect information for image annotation projects, which involve annotating or labeling images to prepare them for use in artificial intelligence, machine learning, or other applications. To avoid duplication, please do not submit multiple forms for the same project. Ensure you have all the necessary information ready before filling out this form.</thinking>
-
 # Image Annotation Request Form - Help Guide
 ## Purpose
 The Image Annotation Request Form is used to collect information for image annotation projects, which involve annotating or labeling images to prepare them for use in artificial intelligence, machine learning, or other applications.

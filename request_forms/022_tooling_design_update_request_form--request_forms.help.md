@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's take a moment to understand the form's purpose and context. The form is called "Tooling Design Update Request Form" and its name suggests that it's used for requesting updates to tooling designs. Upon reviewing the form's YAML schema, we see that it has 15 fields, all of which are text fields with no specific labels or hints to provide additional context. This suggests that the form is intended for users to provide free-form text input, potentially for describing changes or updates to tooling designs. However, without further context or business logic, we can only make an educated guess based on the field names and types.</thinking>
-
 # Tooling Design Update Request Form - Help Guide
 ## Purpose
 The Tooling Design Update Request Form is designed for users to submit requests for updates to tooling designs. This form is intended to capture detailed information about the changes or updates required.

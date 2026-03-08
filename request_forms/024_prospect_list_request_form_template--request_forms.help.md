@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a prospect list request. It appears to be intended for sales or business development purposes. Before filling out this form, please ensure that the request is not already being handled by another team member to avoid duplication of effort. If you're not sure, please check with your colleagues or the project manager to confirm.
-</thinking>
-
 # Prospect List Request Form Template - Help Guide
 ## Purpose
 This form is used to request a list of prospects from the database. It helps to gather necessary information for sales or business development activities.

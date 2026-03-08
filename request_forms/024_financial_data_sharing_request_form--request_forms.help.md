@@ -1,10 +1,3 @@
-<thinking>
-This form is used for requesting access to financial data. 
-Before proceeding, please ensure that you haven't already made a request for the same purpose or period. 
-This form is intended for internal use within the company. Please only submit a request if you have legitimate access needs. 
-The fields below are designed to guide you through the request process. 
-</thinking>
-
 # Financial Data Sharing Request Form - Help Guide
 ## Purpose
 This form is used to request access to financial data. If you need access to financial data for a specific purpose, please complete this form to initiate the review process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shared Workspace Configuration Request - Help Guide
 
 ## Purpose

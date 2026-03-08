@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Subscription Pause Request Form - Help Guide
 ## Purpose
 This form is used by customers or their representatives to request to pause or stop a subscription. It is intended to be filled out by customers who wish to temporarily or permanently pause their subscription due to various reasons. This form is reviewed and approved by our team before any action is taken.

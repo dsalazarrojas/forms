@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Material Optimization Trial Application Form", I will first understand the form's purpose and how it is used by end-users. This form is designed to collect information from users who are interested in conducting a material optimization trial. A trial is a test or experiment that aims to evaluate the properties and characteristics of a material. The form is likely used by researchers, scientists, or professionals in industries that require material testing and evaluation. It is crucial to ensure that the form is completed correctly and thoroughly to gather accurate and relevant information about the trial. I will review the form's structure and identify any potential issues or areas for improvement.
-</thinking>
-
 # Material Optimization Trial Application Form - Help Guide
 ## Purpose
 The "Material Optimization Trial Application Form" is designed to collect information from users about a material optimization trial. The form is used to gather details about the trial, including user information, trial objectives, material characteristics, and other relevant details.

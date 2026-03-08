@@ -1,17 +1,3 @@
-<thinking>
-This form is used to collect information for rehydration requests. Rehydration is the process of rehydrating a patient after IV treatment or blood transfusion. The form is designed to gather essential details about the patient, the rehydration type, preferred date and time, location, urgency level, and any additional comments or contact information.
- 
-It is intended for medical professionals to quickly gather information from patients or their representatives. The form can be used to determine the best course of action for rehydration requests and ensure that patients receive proper care. It's recommended that users only submit requests for rehydration through this form if they have already been assessed and determined that rehydration is necessary.
- 
-Before filling out this form, it's essential to review the following:
- 
-* You are only submitting a rehydration request if you have already been assessed and determined that rehydration is necessary.
-* The rehydration type and location should be selected based on your specific needs.
- 
-Please note that this form is not intended for emergency situations.
- 
-</thinking>
- 
 # Rehydration Request Form - Help Guide
  
 ## Purpose

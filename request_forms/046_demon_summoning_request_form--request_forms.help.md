@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture information from users who are requesting a summoning or a meeting with a practitioner. The purpose of this form is to collect relevant details from the requestor, such as scheduling preferences, request details, and practitioner information. The form will be used to create a submission that can be reviewed by the practitioners and other relevant parties.
-The form is intended to be used by individuals or organizations requesting a summoning or meeting with a practitioner. The form should not be used for other purposes, such as requesting services or products not related to summoning or meetings with practitioners.
-
-Before starting to complete the form, ensure that you have all the necessary information ready. The form is divided into several sections, each with its own specific fields that are required or optional depending on the field type. Some fields are select-one, select-multiple, text, time, date, or note.
-</thinking>
-
 # Demon Summoning Request Form - Help Guide
 ## Purpose
 This form is used for requesting a summoning or meeting with a practitioner.

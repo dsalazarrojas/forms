@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payment Prioritization Request Form - Help Guide
 
 ## Purpose

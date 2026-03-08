@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to update the information of a farm's certification status. It is designed to collect updated details about a farm's name, type, size, address, contact information, and certification status. The form is intended for farmers or their representatives to provide accurate and up-to-date information about their farm. 
-
-When filling out this form, please ensure that you are submitting a new update and not a duplicate submission. 
-
-</thinking>
-
 # Farm Certification Update Request Form - Help Guide
 ## Purpose
 The Farm Certification Update Request Form is used to collect updated information about a farm's certification status. This form is designed to ensure that all farms have the most accurate and up-to-date information on file.

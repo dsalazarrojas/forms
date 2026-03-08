@@ -1,9 +1,3 @@
-<thinking>
-A portable handwash station is a self-contained unit designed to provide a hygienic handwashing experience in a variety of settings. This form is used to request a portable handwash station for a specific event or purpose. Before completing this form, please ensure that you have read and understood the guidelines for requesting a portable handwash station. If you are not certain about the guidelines, please refer to the relevant documentation. 
-
-This form should only be submitted once per event or purpose. Duplicate submissions will be reviewed and may be rejected.
-</thinking>
-
 # Portable Handwash Station Application Form - Help Guide
 ## Purpose
 The Portable Handwash Station Application Form is used to request a portable handwash station for a specific event or purpose. This form gathers essential information about the event, the station details, and the contact person responsible for the event.

@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request a delay in Medicare Part B enrollment. The purpose of this form is to provide a standardized process for individuals to submit their requests for delay in their Medicare Part B enrollment. Before filling out this form, please note that:
-
-* You should only submit this form if you have already applied for Medicare Part B and are seeking a delay in your enrollment start date.
-* You should not submit duplicate requests for delay.
-* If you are unsure about the purpose or requirements of this form, please consult with a representative or a designated authority before proceeding.
-
-</thinking>
-
 # Medicare Part B Enrollment Delay Request Form - Help Guide
 
 ## Purpose

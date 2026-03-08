@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information from customers who are interested in a demo. The goal is to gather their contact details and preferences for a demo session. 
-Before proceeding, ensure that you have not submitted this form previously. If you have, you will not be able to submit it again.
-</thinking>
-
 # demo_submission_form - Help Guide
 ## Purpose
 The demo_submission_form is a tool used to collect information from customers interested in a demo session. This form helps us understand their contact details and preferences.

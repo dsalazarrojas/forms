@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who need to retake an exam. It's essential to fill out this form correctly to ensure that the request is processed accurately and efficiently. Please ensure that you are submitting a legitimate request and not duplicating an existing one. If you're unsure, you can check with your instructor or the exam administrator to confirm.
-</thinking>
-
 # Late Retake Exam Form - Help Guide
 
 ## Purpose

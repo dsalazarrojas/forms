@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 A help guide for the Supply Request Form. This form is used to record and manage supply requests from suppliers. It's crucial to ensure that each request is accurately documented to prevent duplication and improve overall supply chain management. Before filling out this form, please review the following guide to understand its purpose and usage.
 
 # Supply Request Form - Help Guide

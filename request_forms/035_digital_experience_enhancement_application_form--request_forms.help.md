@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect information from users who want to request enhancements to their digital experience on a specific platform. The purpose of this form is to gather essential details about the application name, description, priority level, deadline, expected completion date, team member, and comments. This form is designed to be completed by internal staff or team members to facilitate the process of handling digital experience enhancement requests. 
-
-To determine the relevance of this form, I assume it is used by a team or organization that provides services or support related to digital experiences, such as IT, customer support, or product development. This form should not be used for general feedback or support requests. 
-
-Before filling out this form, please make sure that you are authorized to submit a request for digital experience enhancement. If you are not sure about your authority, contact the responsible team member or manager before proceeding.
-
-This form is not a replacement for other established processes or workflows. If you are already working with a project or issue, please use the existing channels to report your progress or updates.
-</thinking>
-
 # Digital Experience Enhancement Application Form - Help Guide
 ## Purpose
 This form is used to collect information from users who want to request enhancements to their digital experience on a specific platform.

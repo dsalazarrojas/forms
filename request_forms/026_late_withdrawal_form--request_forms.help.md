@@ -1,9 +1,3 @@
-<thinking>
-This form is used to request a late withdrawal from an institution or organization. The form is typically used when a student, employee, or member is requesting to withdraw from an academic or professional program late in the semester or year. The form is often reviewed by the institution's administration or relevant authorities to determine the validity of the request. This form is only for requesting a late withdrawal and not for withdrawal requests for other reasons such as financial or medical reasons.
-
-Before filling out this form, please make sure that your reason for requesting late withdrawal is valid and meets the institution's criteria. Please also ensure that you have attached the necessary supporting documents if required.
-</thinking>
-
 # Late Withdrawal Form - Help Guide
 ## Purpose
 This form is used to request a late withdrawal from an institution or organization. The form is typically used when a student, employee, or member is requesting to withdraw from an academic or professional program late in the semester or year.

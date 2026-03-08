@@ -1,9 +1,3 @@
-<thinking>
-
-The form purpose is to allow employees to request changes to their salary. To ensure that the form is used correctly, please ensure that you only use it for legitimate reasons and not for personal benefits or other non-work-related purposes. Also, please note that this form is designed to be used in conjunction with the company's HR and management procedures, and any requests made through this form will be reviewed and approved according to those procedures.
-
-</thinking>
-
 # Request For Salary Change Form - Help Guide
 ## Purpose
 The Request For Salary Change Form is a tool used by employees to submit requests for changes to their salary. This form is used to gather necessary information from the employee and their manager for the purpose of salary adjustments.

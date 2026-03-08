@@ -1,5 +1,3 @@
-<thinking>Before creating this form, let's make sure that the form purpose and requirements are clearly understood. This form is for requesting assistance with feral cat TNR (Trap-Neuter-Release) services. The form is intended to gather information about the feral cat, its location, and the person or organization requesting assistance. This information will be used for community outreach and support purposes. Additionally, we should check that the form is not duplicated and that the user has the necessary permissions to submit this form. If the form is duplicated, a message should be displayed to the user. If the user does not have the necessary permissions, a prompt for authentication should be displayed.</thinking>
-
 # Feral Cat TNR Request Form - Help Guide
 ## Purpose
 This form is for requesting assistance with feral cat TNR services. Please provide detailed information about the feral cat, its location, and the person or organization requesting assistance.

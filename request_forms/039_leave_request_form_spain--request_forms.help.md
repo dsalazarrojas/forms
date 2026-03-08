@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to document employee leave requests in Spain. The form should only be completed if the employee has already discussed and agreed upon their leave with their manager. This form is not a request for leave, but rather a formalization of the previously agreed upon leave. If the employee has not discussed and agreed upon their leave with their manager, please fill out the "Leave Request Form" (not shown here). 
-
-</thinking>
-
 # Leave Request Form (Spain) - Help Guide
 ## Purpose
 This form is used to record employee leave requests that have already been agreed upon with their manager. Please fill out this form to provide the necessary information for your leave.

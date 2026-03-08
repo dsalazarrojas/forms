@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect marketing request information from customers or prospects. It's designed to gather essential details such as first name, last name, email, phone number, request date, request time, request type, and a brief message. This form helps to streamline the process of fulfilling marketing requests in a timely and organized manner. 
-Please ensure you're only submitting this form when you're making a genuine marketing request. This will help to prevent duplication of requests and ensure that our team is focused on fulfilling relevant and timely marketing needs.
-</thinking>
-
 # Marketing Request Form - Help Guide
 
 ## Purpose

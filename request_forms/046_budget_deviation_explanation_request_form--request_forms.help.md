@@ -1,11 +1,3 @@
-<thinking>... internal notes ...
-
-The form is used to document and track deviations from the budget, ensuring that all financial discrepancies are properly reported and managed. This form serves as a means to communicate between the finance department and the department requesting the deviation. It is essential to fill out this form accurately and thoroughly to avoid any confusion or miscommunication. 
-
-Please note that this form should not be used for duplicate or unnecessary requests. If a deviation has already been approved or denied, it is not necessary to fill out this form again.
-
-</thinking>
-
 # Budget Deviation Explanation Request Form - Help Guide
 
 ## Purpose

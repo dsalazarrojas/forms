@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and to ensure the form's purpose is understood, we first need to clarify the form's purpose, which is to collect information for appliance delivery and installation requests from customers. This form is intended to gather essential details to facilitate a successful delivery and installation process. By filling out this form, customers can provide their contact information, specify their delivery preferences, and outline any special requirements for the delivery and installation of their appliances.
-</thinking>
-
 # Appliance Delivery And Installation Request - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This help guide is for the "Moving Quote Request Form". The form is designed to collect information from users who are requesting moving services. This form will be used by the company's staff to gather essential details about the user's moving requirements, which will then be used to provide a quote for the moving services.
-To ensure that the form is filled out correctly, please make sure that:
-* The form is not filled out multiple times with the same information.
-* The information provided is accurate and complete.
-</thinking>
-
 # Moving Quote Request Form - Help Guide
 ## Purpose
 This form is used to collect information from users who are requesting moving services. It is intended to help us provide a quote for the moving services.

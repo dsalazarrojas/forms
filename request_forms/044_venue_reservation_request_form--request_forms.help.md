@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Venue Reservation Request Form, we need to understand the purpose of the form and ensure it's not being used for non-relevant or duplicate requests.
-
-The form appears to be designed for users to request reservations for events or meetings at a venue. It's likely used to collect information necessary to process and fulfill such requests, such as contact information, event details, and availability of the venue. This form might be intended for staff or administrators within an organization, who can use the data to review and manage incoming requests.
-
-The form should only be used to submit new requests. If a user has already submitted a request for the same event or event type, they should not resubmit the form for the same purpose.
-
-</thinking>
-
 # Venue Reservation Request Form - Help Guide
 ## Purpose
 This form is for requesting venue reservations for events or meetings. Please provide accurate information to help us process your request efficiently.

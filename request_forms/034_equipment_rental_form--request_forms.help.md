@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process equipment rental requests from customers. Before filling out this form, please ensure that you are submitting a legitimate request and that the information you provide is accurate.
-</thinking>
-
 # Equipment Rental Form - Help Guide
 ## Purpose
 The Equipment Rental Form is used to collect information from customers about their equipment rental requests. This information is used to process and fulfill their requests efficiently.

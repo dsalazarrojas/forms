@@ -1,10 +1,3 @@
-<thinking>
-The "invoice_request_form" is a form used to request an invoice from the system. It is designed to collect information from the user to create a new invoice. This form is not intended for users who need to edit or view existing invoices, but rather for those who want to submit a new request for an invoice.
-
-Before completing this form, please ensure that you have a legitimate reason for requesting an invoice. To avoid duplication, please do not submit multiple requests for the same invoice type within a short period of time.
-
-</thinking>
-
 # invoice_request_form - Help Guide
 ## Purpose
 The invoice_request_form is used to request a new invoice from the system. Please use this form to submit a new request for an invoice if you need to create a new one.

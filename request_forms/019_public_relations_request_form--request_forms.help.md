@@ -1,12 +1,3 @@
-<thinking>
-This form is used for public relations requests. The purpose of this form is to collect information about the request, including the organization and department submitting the request, the contact person, and the description of the request. The form also includes fields for submitting dates and options for assigning tools. The form is used to gather information about public relations requests.
-
-When submitting this form, make sure to fill out the required fields accurately and completely. If the form requires a specific format for the submitted date (e.g., YYYY-MM-DD), ensure that the date is in the correct format to avoid any issues with data validation.
-
-Before submitting, review the fields below to understand what information is required for each:
-
-</thinking>
-
 # public_relations_request_form - Help Guide
 ## Purpose
 This form is used for public relations requests.

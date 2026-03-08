@@ -1,13 +1,3 @@
-<thinking>
-To avoid duplication, this form should only be filled out when the user needs to request approval for a new material specification. This form is used to request approval for new or revised material specifications, ensuring that all necessary information is collected and reviewed by relevant stakeholders before being added to the inventory. 
-
-The form should only be filled out by authorized requestors, and it's essential to ensure that the correct information is entered to avoid delays or rejections in the approval process.
-
-Before filling out this form, ensure that you have all the required information and that you are familiar with the material specification and the request process.
-
-To avoid confusion, it's crucial to understand that "Requestor" refers to the person or department making the request, whereas "Prophets Form" refers to the selection of options for the material specification.
-</thinking>
-
 # Material Specification Approval Request - Help Guide
 
 ## Purpose

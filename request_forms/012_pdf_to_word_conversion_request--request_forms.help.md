@@ -1,11 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly by providing clear instructions for end-users. The form "pdf_to_word_conversion_request" is used for requesting the conversion of a PDF file to Word document format. This form is likely used by users who need to convert PDF files for various purposes, such as editing or proofreading. To avoid duplication and ensure that the form is used correctly, we need to make sure that users understand each field's purpose and how to fill it out.
-
-This form should only be used for requesting the conversion of PDF files. Users should not use this form for other types of requests or for uploading non-PDF files.
-
-When filling out this form, users need to provide accurate and complete information to ensure that the conversion request is processed correctly. This guide will walk end-users through each field in the form, explaining what each field means and how to fill it out correctly.
-</thinking>
-
 # pdf_to_word_conversion_request - Help Guide
 ## Purpose
 This form is used for requesting the conversion of a PDF file to Word document format.

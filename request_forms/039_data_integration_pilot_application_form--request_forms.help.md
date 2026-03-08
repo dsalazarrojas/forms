@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be completed by team members who want to request access to technical environments for the purpose of integrating data. The purpose of this form is to gather information about the team member's goals, skills, and contact information. The form is not a one-time activity, and team members can submit multiple requests. It is essential that team members understand the form's purpose and follow the instructions carefully to avoid duplication of requests.
-</thinking>
-
 # Data Integration Pilot Application Form - Help Guide
 
 ## Purpose

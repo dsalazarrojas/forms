@@ -1,5 +1,3 @@
-<thinking>Before we start, let's quickly review the form's purpose: this form is designed to request blocking of a particular app on a child's device. It's used by parents or guardians to report problematic apps that they want to block. This form helps ensure that the blocking request is properly recorded and communicated to the relevant parties. To complete the form, please make sure you're submitting a legitimate request and not duplicating an existing one. If you're unsure, please check our internal records or contact our support team for assistance.</thinking>
-
 # Parental App Blocking Request Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Building Entry Pass Request Form", we must first consider the purpose and requirements of the form. This form is designed to collect information from visitors who wish to gain access to a building or campus. The form is intended to be completed by the visitor to provide their details and specify the purpose of their visit. This information will be used to ensure that the visitor has the necessary clearance and access to the building or campus.
-
-The form is likely to be used by visitors who need to access the building for various reasons, such as meetings, deliveries, repairs, or other purposes. The form will help to streamline the process of gaining access to the building, reducing the need for manual verification and improving the overall efficiency of the access management process.
-
-Before we proceed, let's make sure that the form is being completed correctly and not duplicated. The form should not be filled out multiple times, and each section should be filled out only once. This will ensure that the visitor's details and visit purpose are accurately recorded and processed efficiently.
-</thinking>
-
 # Building Entry Pass Request Form - Help Guide
 ## Purpose
 The Building Entry Pass Request Form is designed to collect information from visitors who need to access a building or campus. This form will help to streamline the process of gaining access, ensuring that visitors have the necessary clearance and access.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # itw_inventory_form - Help Guide
 ## Purpose
 The **itw_inventory_form** is a multi-page form designed to collect detailed information from users. It is used to create and manage an inventory, tracking items and their corresponding details.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals seeking urgent healing services. This form is designed to be completed by those who require immediate attention and care. To ensure that we handle each request efficiently and effectively, please only submit the form if it is truly urgent. If your request is not urgent, please contact us at a later time. Also, please do not submit duplicate requests, as this will only cause unnecessary duplication of effort.
-</thinking>
-
 # Urgent Healing Request Form - Help Guide
 ## Purpose
 The Urgent Healing Request Form is designed to collect information from individuals seeking urgent healing services. This form is intended for those who need immediate attention and care. 

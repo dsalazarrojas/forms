@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to collect information for the pet cremation service request. This form is likely used by pet owners or their representatives to request cremation services for a deceased pet. The form is designed to collect relevant details such as pet name, type, weight, contact information, cremation date, location, and other specific information related to the pet and the service. To ensure that the form is filled out correctly, it is crucial to understand each field's purpose and what information it collects. This guide will walk you through each field and explain its purpose to make sure the form is completed accurately.</thinking>
-
 # Pet Cremation Service Request - Help Guide
 
 ## Purpose

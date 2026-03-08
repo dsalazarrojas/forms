@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request laundry services for a customer. It's essential to ensure that the form is completed accurately and thoroughly to provide the necessary information for our staff to process the request efficiently. Before proceeding, make sure to review the form carefully and ensure that the requested services and details are correct. Please note that the form is not a duplicate of any previous requests, and you should only submit one request for each laundry service needed.
-</thinking>
 # Laundry Pick-up Request Form - Help Guide
 ## Purpose
 This form is designed to help customers request laundry services. It collects essential information about their preferences for pick-up and service requirements.

@@ -1,5 +1,3 @@
-<thinking>...This form is intended to collect information for asbestos surveys, which are essential for ensuring the safety of individuals and the church property. Asbestos surveys are critical in determining the presence, location, and condition of asbestos-containing materials within a building. This form will guide users through the process of requesting a survey, providing the necessary information for the surveyor to conduct an accurate and effective assessment...</thinking>
-
 # Church Asbestos Survey Request Form - Help Guide
 ## Purpose
 This form is designed to collect information for a church asbestos survey, which is crucial for ensuring the safety of individuals and the church property. The information collected will help the surveyor assess the presence, location, and condition of asbestos-containing materials within the building.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Abstract Request Form - Help Guide
 ## Purpose
 

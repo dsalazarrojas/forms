@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submissions, this form should only be filled out by users with the authority to request holidays. This form is intended for employees to request a holiday for themselves or their team members. The form should only be filled out for legitimate requests and not for other purposes. If you are a team lead, please make sure to review and approve or deny these requests.
-</thinking>
-
 # Emacs Holiday Request - Help Guide
 ## Purpose
 The Emacs Holiday Request form is a tool for employees to request holidays for themselves or their team members. This guide will walk you through the steps to fill out the form correctly.

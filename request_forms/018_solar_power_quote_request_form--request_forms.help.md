@@ -1,7 +1,3 @@
-<thinking>
-We are creating this form to help users provide us with their details for a solar power quote. This form is meant for users who are interested in installing solar panels on their roof and would like to receive a quote for the installation. Please fill out this form carefully, making sure to provide as much information as possible. If you have already requested a quote, please do not resubmit this form. Your submission will be reviewed and used to generate a personalized quote.
-</thinking>
-
 # Solar Power Quote Request Form - Help Guide
 ## Purpose
 This form is designed to collect your details so we can provide you with a quote for a solar power installation on your property.

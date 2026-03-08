@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hidden Feature Access Request Form - Help Guide
 ## Purpose
 This form is for requesting access to features that are currently not visible to all users. Fill out this form to submit your request for access to a hidden feature, providing the necessary user information and reasons for your request.

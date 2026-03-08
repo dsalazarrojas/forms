@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to gather information for a request related to a "Rise Tribe" initiative. The purpose of this form is to capture specific details about the request, such as its category, title, and description. It also includes various selection fields to provide additional context and categorization. To ensure relevance and non-duplication, it is essential to only submit requests that are directly related to this form's purpose.
-
-The form is designed to be filled out by users who want to submit a request for consideration. Each field in the form has a specific purpose, and users should fill out each field accurately to ensure their request is properly processed.
-
-Before proceeding, please note that some fields are optional, and users are not required to fill them out. However, providing as much information as possible will increase the likelihood of their request being successfully processed.
-
-</thinking>
-
 # rise_tribe_rr_form - Help Guide
 ## Purpose
 The rise_tribe_rr_form is designed to capture information about a request related to a "Rise Tribe" initiative. This form helps gather specific details about the request, such as category, title, description, and various selection fields for context and categorization.

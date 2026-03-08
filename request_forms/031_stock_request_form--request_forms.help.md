@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from users who want to request stock or inventory from the system. The purpose of this form is to provide a structured way to gather relevant details about the stock request, including the item name, type, quantity, and status. The form should not be used to request non-stocked items or items that are not available for immediate fulfillment. To avoid duplication, users should not submit multiple forms for the same item.
-
-This form is intended for internal use by authorized personnel. Please do not submit this form for external or non-logged-in users.
-
-To minimize errors, users should double-check the information before submitting the form.
-</thinking>
-
 # Stock Request Form - Help Guide
 ## Purpose
 The Stock Request Form is a structured template designed to collect information from users who want to request stock or inventory from the system. The form is intended to help internal users manage stock requests efficiently.

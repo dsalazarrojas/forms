@@ -1,8 +1,3 @@
-<thinking>
-The form is used by students or professionals who need study materials related to a business licensing exam. This form is meant to gather the necessary information from the requester to provide them with the relevant study materials in the most efficient and effective way possible. The form ensures that the requester's name, contact email, and preferred delivery method are correctly captured, making sure that the study materials reach them without any issues.
-The form is designed to be a one-time submission form, meaning it's meant to be filled out once for each request. If a user has already submitted a request, they should not fill out this form again.
-</thinking>
-
 # Business Licensing Exam Study Material Request Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Utility Junction Service Request Form - Help Guide
 ## Purpose
 The Utility Junction Service Request Form is a tool used by customers to submit service requests to Utility Junction. The form is designed to gather information about the customer's service request, including the type of service needed, the service area, and the date and time of the request.

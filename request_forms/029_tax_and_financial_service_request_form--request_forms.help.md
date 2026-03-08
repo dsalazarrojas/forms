@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a general-purpose request form for tax and financial services. It can be used in various contexts, such as for tax consulting, financial planning, or other business-related services. However, this form is not a specific template for any particular service provider or industry. The fields are generic and can be used to gather information about the services the user is requesting. It's essential to review and verify the information provided in this guide to ensure you understand the form's purpose and requirements.
-
-To avoid duplication of requests, please ensure that you're not submitting duplicate forms for the same purpose. This guide will walk you through the form's purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Tax And Financial Service Request Form - Help Guide
 ## Purpose
 This form is designed to gather information about the tax and financial services you're interested in. It's a general-purpose form that can be used for various services such as tax consulting, financial planning, or other business-related services.

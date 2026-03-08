@@ -1,7 +1,3 @@
-<thinking>
-We need to make sure this form is being used for its intended purpose and not for duplicate requests. Before proceeding, take a moment to confirm that you have not already submitted a similar request for this product. If you are unsure, please contact our support team to verify.
-</thinking>
-
 # Product Tag Design Update Request Form - Help Guide
 ## Purpose
 This form is for updating the design of a product tag. Fill it out to request changes to the tag's design, and our team will review and implement the changes as soon as possible.

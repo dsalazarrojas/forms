@@ -1,7 +1,3 @@
-<thinking>
-This guide will walk you through the Asset Transfer Form, an essential tool for managing asset transfers within the organization. The form collects relevant information to facilitate a smooth transfer process and minimize potential issues. Before filling out this form, please ensure that you have read and understood the instructions carefully. This form is not intended for duplicate or unnecessary requests, so please only submit it when the transfer is genuine. If you're unsure about the form or its purpose, kindly reach out to the asset management team for clarification.
-</thinking>
-
 # Asset Transfer Form - Help Guide
 ## Purpose
 The Asset Transfer Form is designed to document and facilitate the transfer of assets between employees, departments, or locations within the organization. This form helps ensure that all necessary information is gathered and communicated to the relevant parties involved in the transfer process.

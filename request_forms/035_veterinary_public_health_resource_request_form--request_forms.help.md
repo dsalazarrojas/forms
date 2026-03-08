@@ -1,15 +1,3 @@
-<thinking>
-
-**Internal reasoning block:**
-
-This form is intended to gather information from veterinary professionals who are seeking public health resources. It is designed to be filled out by staff at the point of care (e.g. animal clinics, veterinary schools, etc.). 
-
-This form is used to request resources for a public health issue, such as a public health event, disease outbreak, or environmental health issue. The form should only be filled out for actual public health resource requests. If the resource request is not for public health purposes, do not fill out this form.
-
-When filling out this form, it is essential to be as accurate and comprehensive as possible. This form will help the public health team better understand the resource request and act accordingly.
-
-</thinking>
-
 # Veterinary Public Health Resource Request Form - Help Guide
 ## Purpose
 The Veterinary Public Health Resource Request Form is designed to gather information from veterinary professionals who are seeking public health resources. This form helps the public health team better understand the resource request and act accordingly.

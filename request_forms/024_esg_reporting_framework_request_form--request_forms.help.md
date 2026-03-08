@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to fill out the ESG Reporting Framework Request Form. The purpose of this form is to gather information from organizations regarding their ESG (Environmental, Social, and Governance) reporting needs and preferences. This form will help the organization in identifying the appropriate reporting framework for their specific requirements.
-
-This form should only be filled out by authorized personnel within the organization. Please note that filling out this form multiple times with different information will not affect the outcome of the reporting framework selection. If you are unsure whether this form is relevant to your organization's needs, please consult with your internal team before proceeding.
-
-The form is split into multiple pages, each with a specific set of questions. Please make sure to fill out each page thoroughly and accurately to ensure the best possible outcome.
-
-</thinking>
-
 # ESG Reporting Framework Request Form - Help Guide
 ## Purpose
 The ESG Reporting Framework Request Form is designed to gather information from organizations regarding their ESG reporting needs and preferences. This form will help the organization in identifying the appropriate reporting framework for their specific requirements.

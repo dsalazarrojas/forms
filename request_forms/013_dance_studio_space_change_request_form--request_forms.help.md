@@ -1,10 +1,3 @@
-<thinking>
-To be honest, this form's design appears to be quite unusual, but I'll create a user-facing help guide based on the provided YAML. Please note that the form's purpose, fields, and options might not be entirely clear to me.
-
-Assuming this form is used for requesting changes in a dance studio space, I'll make an educated guess about its purpose and fields. This form might be used by users to request changes to the dance studio's physical space or its offerings.
-
-</thinking>
-
 # Dance Studio Space Change Request Form - Help Guide
 ## Purpose
 This form is designed to help users submit requests for changes to the dance studio's physical space or its offerings. It's meant to be a straightforward process for users to provide essential information about their needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by pool owners or maintenance staff to request adjustments to the pool heating system. It's intended for users to provide information about their pool and their needs for adjustments. The form might be used internally to streamline the process of addressing these requests. It may not be intended for external users or for general inquiries. It's possible that this form is used to ensure that all requests go through a formal process, and that the submitted requests are reviewed and addressed systematically. To avoid duplication, it's likely that this form is not meant to be filled out multiple times by the same user for the same request.
-</thinking>
-
 # Pool Heating Adjustment Request Form - Help Guide
 ## Purpose
 This form is used to submit requests for adjustments to the pool heating system. If you are a pool owner or maintenance staff, fill out this form to submit your request for adjustments.

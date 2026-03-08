@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect user wishes and preferences for future use. Please note that this form is a template and its completion is optional. Before filling out this form, please ensure that you have not already submitted a similar wish list template. If you are unsure about the purpose of the form or have already submitted a similar form, kindly review our wish submission guidelines.
-</thinking>
-
 # Wish List Template - Help Guide
 ## Purpose
 The Wish List Template is a form used to collect user wishes and preferences for future reference. It is meant to be a comprehensive and structured way to express your desires, needs, or goals.

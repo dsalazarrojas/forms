@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide for the "Industrial Site Access Control Request" form, let's quickly review its purpose and potential concerns. This form is designed to facilitate the process of requesting access to an industrial site, which might involve security considerations and formal approval procedures. To ensure accuracy, it's essential to fill out the form correctly and avoid duplication of requests. We'll cover the form's purpose, step-by-step instructions, and field-by-field explanations to help users navigate it effectively.</thinking>
-
 # Industrial Site Access Control Request - Help Guide
 ## Purpose
 The "Industrial Site Access Control Request" form is used to request access to an industrial site for visitors, including their contact information, site-specific details, and approval processes. This form ensures that all necessary information is gathered and approved before granting access.

@@ -1,5 +1,3 @@
-<thinking>...We need to ensure that the form is used correctly and efficiently. To avoid duplication and ensure that the correct information is captured, the Fence Request Form is meant to be filled out by authorized personnel only. When submitting a fence request, please be sure to fill out all applicable fields accurately and completely, and avoid submitting duplicate requests for the same fence project. If you're unsure about any field or the form's purpose, please reach out to the contact person listed below for assistance.</thinking>
-
 # Fence Request Form - Help Guide
 ## Purpose
 The Fence Request Form is used to create and track fence requests for new fence projects. Authorized personnel should use this form to provide accurate and complete information to ensure efficient and successful fence construction.

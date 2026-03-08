@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about an upcoming meeting, specifically the room and space details. It's likely to be used by administrators or staff to gather data about meeting planning and space allocation.
-</thinking>
-
 # H4h Meetings And Room Response Draft - Help Guide
 ## Purpose
 This form is designed to collect details about an upcoming meeting, including the room and space information. It will help you gather necessary data for meeting planning and space allocation.

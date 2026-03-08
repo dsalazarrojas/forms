@@ -1,7 +1,3 @@
-<thinking>
-Please let me ensure that the form is used to create and track prayer requests, and that it is not used for other purposes, and that the user is not submitting a request for the same person multiple times.
-</thinking>
-
 # Prayer Request - Help Guide
 ## Purpose
 The Prayer Request form is designed to allow users to create and submit prayer requests for others. This form is used to record and track prayer requests, including the name and email of the person requesting prayer, details about the prayer request, and whether the prayer has been answered.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Oxygen Machine Request Form - Help Guide
 ## Purpose
 

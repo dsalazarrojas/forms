@@ -1,7 +1,3 @@
-<thinking>
-This form is a tool for customers to request engineering drawings from the engineering team. The form is used to gather information about the customer's request, including their name, email, phone number, project description, type of drawing needed, required documents, submission date and time, and any additional notes. The form is used to ensure that the customer's request is properly documented and can be easily processed and managed by the engineering team.
-</thinking>
-
 # Engineering Drawing Request Form - Help Guide
 ## Purpose
 The Engineering Drawing Request Form is a tool for customers to request engineering drawings from the engineering team. This form helps to gather necessary information about the customer's request, ensuring that their needs are met in a timely and accurate manner.

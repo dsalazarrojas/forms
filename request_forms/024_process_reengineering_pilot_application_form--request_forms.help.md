@@ -1,37 +1,3 @@
-<thinking>
-This form is designed to gather information for the Process Reengineering Pilot Application Form. The purpose of this form is to collect project details, team information, and project status updates for internal and external projects. The form is intended for team leads, project managers, and other stakeholders to provide a comprehensive overview of project requirements, timelines, and progress. Before starting, please ensure that you have all necessary permissions and approvals to submit this form.
-
-Please note that if you are not the team lead or project manager, you should not submit this form on behalf of someone else without their explicit approval. Also, be aware that this form is meant to be filled out once per project, so please ensure that the project status is up to date and accurate.
-
-Before filling out this form, make sure to have all relevant information ready, including project details, team members, and project status. The form is divided into several sections, each with its own set of fields. The following sections and fields are included:
-
-*   **Request Form**: This section is meant to capture the initial project request. Please provide a brief description of the project.
-*   **Team Lead Info**: Enter the name of the team lead or contact person.
-*   **Project Details**: Describe the project in a few sentences.
-*   **Business Case**: Explain the business case for the project.
-*   **Team Details**: List the name, position, and role of all team members involved in the project.
-*   **Project Stage**: Choose the current project stage (inception, planning, development, deployment, maintenance, or aborted).
-*   **Project Type**: Select the type of project (internal or external).
-*   **Project Category**: Choose the category of the project (IT project, non-IT project, or pilot).
-*   **Project Location**: Enter the location of the project (if applicable).
-*   **Team Lead Email**: Enter the email address of the team lead or contact person.
-*   **Contact Person**: Enter the name of the contact person.
-*   **Project Deadline**: Enter the deadline for the project completion.
-*   **Team Lead Phone**: Enter the phone number of the team lead or contact person.
-*   **Project Manager**: Enter the project manager's name.
-*   **Project Approver**: Enter the project approver's name.
-*   **Request Type**: Choose the type of request (new project, project renewal, project update, or project closure).
-*   **Project Status Update**: Provide a brief update on the project status.
-*   **Project Notes**: Add any additional project notes.
-*   **Project Attachment**: Attach any supporting documents.
-*   **Review Status**: Enter the review status of the project.
-*   **Review Date**: Enter the review date.
-*   **Reviewer**: Enter the name of the reviewer.
-*   **Review Comments**: Enter any review comments.
-
-Please fill out this form carefully and accurately, as the information provided will be used to track project progress and make informed decisions. If you have any questions or need help with filling out this form, feel free to ask your team lead or project manager.
-</thinking>
-
 # Process Reengineering Pilot Application Form - Help Guide
 ## Purpose
 This form is designed to gather information for the Process Reengineering Pilot Application Form.

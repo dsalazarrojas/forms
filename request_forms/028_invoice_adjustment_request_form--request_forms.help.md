@@ -1,7 +1,3 @@
-<thinking>
-An internal check for relevance and non-duplication should be performed before providing the user-facing help guide. This guide is intended for users who need to request an adjustment to an invoice, which is a critical process in managing financial transactions. This guide will walk users through the steps to complete the form correctly.
-</thinking>
-
 # Invoice Adjustment Request Form - Help Guide
 ## Purpose
 The Invoice Adjustment Request Form is used to request adjustments to invoices that have been issued to customers. This form allows users to specify the type of adjustment, amount, and description of the change needed.

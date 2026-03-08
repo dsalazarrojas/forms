@@ -1,11 +1,3 @@
-<thinking>
-
-The Request Approval Form is a form used for requesting approval for employee and manager-related tasks. To use this form, please ensure that the request is not already approved or duplicated. Before submitting a new request, check that it is not already approved.
-
-This form is used for employees to request approval from their manager for a request, and managers to approve or deny the request and provide notes if needed. The form is divided into several sections for clarity and ease of use.
-
-</thinking>
-
 # Request Approval Form - Help Guide
 ## Purpose
 The Request Approval Form is a form used for requesting approval for employee and manager-related tasks. To use this form, please ensure that the request is not already approved or duplicated. Before submitting a new request, check that it is not already approved.

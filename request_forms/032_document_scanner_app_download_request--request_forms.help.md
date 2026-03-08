@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for users who need to download the Document Scanner App. It requests information from the user to facilitate the download process. Please note that this form is only for internal use within our organization, and the information gathered will be used to verify the user's identity and determine the appropriate download package for their operating system. The user must not have previously submitted a request for the same app version. 
-
-</thinking>
 # Document Scanner App Download Request - Help Guide
 
 ## Purpose

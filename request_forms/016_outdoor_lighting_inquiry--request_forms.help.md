@@ -1,7 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Outdoor Lighting Inquiry" form to ensure that end-users understand its purpose and how to complete it effectively. This guide will cover the form's purpose, the step-by-step process to fill it out, and a detailed explanation of each field to avoid any confusion.
-</thinking>
-
 # Outdoor Lighting Inquiry - Help Guide
 ## Purpose
 The "Outdoor Lighting Inquiry" form is designed to gather information from users requesting outdoor lighting services. This form aims to collect relevant details about the user's contact information, address, and service requirements to provide an efficient and effective lighting solution. Fill out this form to initiate a quote or request for outdoor lighting services.

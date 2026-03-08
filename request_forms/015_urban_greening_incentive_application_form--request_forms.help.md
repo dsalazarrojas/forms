@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about urban greening projects from applicants. The form is intended to help the reviewers evaluate and process the applications efficiently. To ensure that the form is filled out correctly, please review the following instructions and explanations carefully.
-
-Before starting to fill out the form, please ensure that the project is not already registered in our system. To check this, you can search for the project name in our database. If the project is already registered, please do not fill out this form again. Instead, update the existing application.
-
-Additionally, please make sure that the information you provide is accurate and up-to-date. If you're unsure about any of the fields, you can reach out to us for clarification.
-
-</thinking>
-
 # Urban Greening Incentive Application Form - Help Guide
 ## Purpose
 The Urban Greening Incentive Application Form is designed to collect relevant data from applicants for urban greening projects. This data will be used to review and process the applications efficiently.

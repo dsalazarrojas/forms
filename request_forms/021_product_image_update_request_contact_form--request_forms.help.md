@@ -1,8 +1,3 @@
-<thinking>
-To create an effective help guide for this "Product Image Update Request Contact Form", we must understand its purpose and internal logic. This form is designed to allow customers or stakeholders to request updates to product images on your platform. It is likely intended for internal teams, such as product managers or marketing teams, to use when gathering information for product image updates. To fill out the form, users should have a clear idea of what type of image they want to update and why. They must provide their contact email and phone number for internal teams to get in touch with them about the updates. The form also asks for the image URL where the update needs to be made, as well as the intended date and time for the update. Finally, the form should be filled out completely before being submitted, as all fields are optional.
-
-</thinking>
-
 # Product Image Update Request Contact Form - Help Guide
 ## Purpose
 The Product Image Update Request Contact Form is designed to collect information about product image updates from customers or stakeholders. It helps internal teams to gather necessary information for updating product images in a timely and efficient manner.

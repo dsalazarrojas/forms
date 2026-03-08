@@ -1,7 +1,3 @@
-<thinking>
-This form is used to manage stock requisitions, which are requests for stock or materials from storekeepers. The form is used to assign a unique identifier to each request, provide a description of the request, and specify the tool associated with the request. The form also allows users to select categories for the request and provide an output file for the request. The form is a critical component of the stock management process, and its data is used to track and manage stock levels.
-</thinking>
-
 # Stock Requisition Form - Help Guide
 ## Purpose
 The Stock Requisition Form is used to manage stock requisitions, which are requests for stock or materials from storekeepers. This form is a critical component of the stock management process.

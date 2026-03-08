@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Environmental Impact Review Registration - Help Guide
 ## Purpose
 The Environmental Impact Review Registration form is designed to gather information about a project's environmental impact. This form is intended for projects that may have potential environmental implications and requires review to ensure compliance with relevant regulations and standards.

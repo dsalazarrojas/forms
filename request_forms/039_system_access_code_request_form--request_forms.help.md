@@ -1,8 +1,3 @@
-<thinking>
-We have a system access code request form that allows users to request access codes for various reasons. The form is meant to be completed by users who need access to the system for legitimate business purposes. This form will help the system administrators review and approve or deny requests based on the provided information.
-To ensure that the form is completed correctly, we need to check for duplicates and ensure that the user is not attempting to request access for non-business purposes.
-</thinking>
-
 # System Access Code Request Form - Help Guide
 ## Purpose
 The System Access Code Request Form is a tool for requesting access codes for legitimate business purposes. It is used by system administrators to review and approve or deny requests based on the provided information.

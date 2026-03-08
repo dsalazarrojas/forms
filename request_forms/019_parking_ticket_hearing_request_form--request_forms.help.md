@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by individuals to request a parking ticket hearing. The form is split into multiple pages, each with its own section for gathering specific information. The form is intended to be used by individuals who have received a parking ticket and wish to contest or appeal it. The form will likely be used by parking authorities or law enforcement personnel who will review the information provided to make a determination.
-</thinking>
-
 # parking_ticket_hearing_request_form - Help Guide
 ## Purpose
 The Parking Ticket Hearing Request Form is a tool used to request a hearing for a parking ticket. This form is designed to collect information from the individual requesting the hearing, which will be reviewed by parking authorities or law enforcement personnel to determine the validity of the ticket.

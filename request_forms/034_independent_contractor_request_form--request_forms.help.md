@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Independent Contractor Request Form - Help Guide
 
 ## Purpose

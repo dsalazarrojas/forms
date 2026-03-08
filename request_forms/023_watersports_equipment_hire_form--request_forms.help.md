@@ -1,7 +1,3 @@
-<thinking>
-This form, watersports_equipment_hire_form, is likely intended to gather information from users to facilitate the reservation or rental of various watersports equipment, such as kayaks, jet skis, paddleboards, and more. To avoid duplication, users should only submit one form per watersport and per equipment type. 
-</thinking>
-
 # watersports_equipment_hire_form - Help Guide
 ## Purpose
 This form is used to book or reserve watersports equipment for a specific date range. Please provide the required information to help us fulfill your request.

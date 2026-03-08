@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to request sponsorship opportunities for various projects, events, or activities. Before filling out this form, please ensure that you have not already submitted a sponsorship request for the same project/event/activity. If you're unsure, check with the relevant department or team to confirm.
-</thinking>
-
 # Sponsorship Request Form - Help Guide
 ## Purpose
 This form is used to submit a sponsorship request for a specific project, event, or activity. Please fill out the form with the required information to provide a clear and concise request.

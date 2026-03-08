@@ -1,7 +1,3 @@
-<thinking>
-...to ensure that this form only appears as necessary, let's verify that the form's purpose matches the request type and event type to prevent duplicate requests from being submitted. This form will only be accessible to users with the necessary permissions to submit accessibility requests for specific event types. The form will be submitted to the accessibility team for review and approval, who will contact the requester if additional information is needed.
-</thinking>
-
 # Hearing Accessibility Request Form - Help Guide
 ## Purpose
 The Hearing Accessibility Request Form is used to submit accessibility requests for events, sessions, or meetings. This form helps to ensure that event accessibility needs are met and accommodates participants with disabilities. Please complete this form accurately to ensure that your accessibility needs are considered.

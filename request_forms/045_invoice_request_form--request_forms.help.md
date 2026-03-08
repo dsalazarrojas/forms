@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to request an invoice from the user, which can be a useful tool for internal tracking, record-keeping, and follow-up actions. To ensure that the form is filled out correctly and efficiently, it's essential to understand its purpose and the required fields. This form is used by users to submit their requests and provide essential details such as due dates, payment methods, contact information, and more. It's crucial to fill out the form accurately to avoid any potential issues or delays in processing the invoice request.
-
-Before starting, take a moment to review the form structure and required fields to ensure you're providing all necessary information. The form is divided into several sections, each with its specific fields. Make sure to fill out each field accordingly to ensure your request is processed correctly.
-
-Also, be aware that some fields might have specific format requirements, such as the "submit_date" field which should be in the format "YYYY-MM-DD". If you're unsure about any field or require clarification, feel free to ask.
-
-</thinking>
 # Invoice Request Form - Help Guide
 ## Purpose
 The Invoice Request Form is a tool used by users to submit their requests for invoices. It collects essential information that helps in processing and tracking these requests.

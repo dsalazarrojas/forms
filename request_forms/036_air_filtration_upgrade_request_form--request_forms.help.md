@@ -1,23 +1,3 @@
-<thinking>
-
-To create the help guide for the "Air Filtration Upgrade Request Form", we'll need to consider the following fields and provide a clear and concise explanation for each:
-
-* Requester Information: 
-  - Requester Name
-  - Department or Unit
-  - Location
-* Upgrade Details:
-  - Reason for Upgrade
-  - Current System Type
-  - Desired Upgrade Level
-  - Urgency
-  - Budget Code (Internal Billing Code)
-  - Additional Comments
-
-The form is designed for users to request an air filtration upgrade, providing essential information for the upgrade process.
-
-</thinking>
-
 # Air Filtration Upgrade Request Form - Help Guide
 ## Purpose
 The Air Filtration Upgrade Request Form is designed to gather information from users requesting an air filtration upgrade. This form helps the requester provide essential details about their needs and preferences for the upgrade, enabling the upgrade process to be efficiently and effectively executed.

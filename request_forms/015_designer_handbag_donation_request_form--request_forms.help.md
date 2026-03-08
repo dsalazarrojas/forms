@@ -1,5 +1,3 @@
-<thinking>Internal note: The form is intended for customers or donors to request a designer handbag donation. To avoid duplication, only one request per person is accepted. The form will be reviewed internally to ensure authenticity and eligibility. Please fill out the form accurately.</thinking>
-
 # Designer Handbag Donation Request Form - Help Guide
 ## Purpose
 This form is for customers or donors who wish to request a designer handbag donation. We kindly request that you fill out the form accurately and honestly, as your details will be reviewed internally for eligibility and authenticity. 

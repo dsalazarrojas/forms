@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect support requests from employees regarding payroll-related issues. The form should only be used by employees who need assistance with their payroll, and it's essential to ensure that each submission is unique and not a duplicate. To prevent duplicate submissions, the system will check for existing records with the same ID number. This form is not affiliated with any specific payroll system and is a generic request form. Please use this form to submit your payroll support requests, and a team member will be in touch with you soon.
-</thinking>
-
 # cross_boder_payroll_support_request_form - Help Guide
 ## Purpose
 This form is designed to collect support requests from employees for payroll-related issues. It's meant to be used by employees who need assistance with their payroll, and it's essential to ensure that each submission is unique and not a duplicate.

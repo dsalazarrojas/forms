@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Equipment Authorization Form - Help Guide
 ## Purpose
 The Equipment Authorization Form is used to authorize the use of equipment within your organization. This form is used to track and manage the authorization process for equipment usage, ensuring that all necessary approvals are in place before equipment is used.

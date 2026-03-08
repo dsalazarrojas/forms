@@ -1,13 +1,3 @@
-<thinking>
-This guide will help users understand the purpose and usage of the Equipment Repair Request Form. 
-
-The form is designed to gather information from customers about their equipment repair needs. The form is typically used when a customer is experiencing issues with their equipment and needs assistance from the support team.
-
-Before proceeding, please ensure that you are not requesting repair for a piece of equipment that you do not own. If you are unsure, please reach out to the support team to confirm.
-
-Also, ensure that you are not requesting repair for equipment that is no longer under warranty or maintenance contract. In some cases, requesting repair for such equipment may incur extra charges.
-</thinking>
-
 # Equipment Repair Request Form - Help Guide
 ## Purpose
 The Equipment Repair Request Form is a form used to report issues with your equipment to the support team. This form helps us quickly gather the necessary information to diagnose and resolve your issues efficiently.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to request files from users and track their status. It's intended for team members to submit requests for files, which can then be reviewed and approved by administrators. The form is part of a larger workflow for file management within the organization.
-
-When filling out the form, users should only submit a request for a file if they need it for work-related purposes. Repeatedly submitting requests for the same file will not speed up the process and might be considered a spam.
-
-</thinking>
-
 # Dropbox File Request Form - Help Guide
 ## Purpose
 The Dropbox File Request Form is a tool for team members to submit requests for files that are not currently available to them.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by finance personnel to request payment for various expenses or invoices from internal or external parties. It is intended to streamline the process of requesting and processing payments. Before filling out this form, please ensure that you are authorized to request payment on behalf of the company and that the request is not duplicative (i.e., there is no existing pending or processed request for the same invoice number and payee).
-</thinking>
-
 # Accounts Payable Check Request Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information for the accounting department to process payments and ensure accuracy in their accounting records.

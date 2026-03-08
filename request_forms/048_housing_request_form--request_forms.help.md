@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a housing request. This form is likely used in a real estate or property management context, where the goal is to collect relevant details from a user regarding their housing needs or preferences. Before proceeding, please ensure you have a legitimate reason for submitting this form, such as requesting to be housed in a specific area or expressing interest in a particular type of housing. Please also check if you have already submitted a similar request to avoid duplication of effort.
-</thinking>
-
 # Housing Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about a housing request, allowing users to express their needs or preferences regarding housing in a specific area or type.

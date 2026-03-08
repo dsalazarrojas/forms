@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information from users about a government records request. It appears to be a multi-page form with a variety of fields, including text, date, email, select options, and file upload. The form likely requires user input for the following: 
-- User's name
-- Government agency
-- Date of request
-- Description of request
-- Contact information (email and phone number)
-- File upload (presumably for supporting documents)
-- Confirmation of submission status and date
-
-The form seems to be focused on collecting metadata and status information for a record request. It might be used by government agencies or other entities to track record requests and their progress.
-
-Before we begin, check if you have already submitted this request. If not, please ensure you only submit this form once.</thinking>
-
 # Government Records Request Form - Help Guide
 ## Purpose
 The Government Records Request Form is designed to collect information for government record requests.

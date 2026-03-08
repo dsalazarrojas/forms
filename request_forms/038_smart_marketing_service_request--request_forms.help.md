@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for end-users to understand the purpose and usage of the smart_marketing_service_request form. The form is designed for users to submit requests for marketing services, providing general information, project details, project goals, and additional information. To prevent duplication, users must first check if a similar request has been made recently.
-</thinking>
-
 # smart_marketing_service_request - Help Guide
 ## Purpose
 The smart_marketing_service_request form is a tool for users to submit requests for marketing services, enabling teams to gather relevant information about their projects and goals.

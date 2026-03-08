@@ -1,7 +1,3 @@
-<thinking>
-The "Facility Waste Reduction Plan Request Form" is used to collect information from facility management teams to identify and document opportunities to reduce waste within facilities. This form is used by facility management teams to request approval for new waste reduction projects. It is crucial that users answer this form accurately to ensure that their facility's waste reduction needs are properly documented and addressed. Please ensure that you are submitting a new request and not duplicating an existing one.
-</thinking>
-
 # Facility Waste Reduction Plan Request Form - Help Guide
 ## Purpose
 The "Facility Waste Reduction Plan Request Form" is used to collect information from facility management teams to identify and document opportunities to reduce waste within facilities. This form is used by facility management teams to request approval for new waste reduction projects.

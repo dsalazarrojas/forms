@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow staff members to submit requests for restocking products on campus. The form is typically used by business managers on campus to request additional supplies of products that are running low.
-
-Before filling out this form, please ensure that you have checked the product availability and that there are no duplicate requests. This will help ensure that the request is processed efficiently and that the campus team can focus on fulfilling the actual needs.
-
-The form will be reviewed and processed by the campus team upon submission.
-</thinking>
-
 # Restocking Request Form - Help Guide
 ## Purpose
 The restocking request form is used to request additional supplies of products on campus for business operations.

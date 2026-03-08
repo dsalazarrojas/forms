@@ -1,11 +1,3 @@
-<thinking>
-
-The Organizational Capability Enhancement Request Form is a tool for employees to submit requests for process improvements, tools, or other capabilities that can benefit their work processes. 
-
-To ensure these requests are properly evaluated, it is essential to follow the steps below.
-
-</thinking>
-
 # Organizational Capability Enhancement Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect requests for process improvements, tools, or other capabilities from employees. This form will help to evaluate and prioritize these requests effectively.

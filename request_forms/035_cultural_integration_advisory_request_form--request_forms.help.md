@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cultural Integration Advisory Request Form - Help Guide
 
 ## Purpose

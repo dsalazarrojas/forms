@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # URL Indexing Check Request Form - Help Guide
 
 ## Purpose

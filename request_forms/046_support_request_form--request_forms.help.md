@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about support requests from customers or end-users. This form can be used by support team members or administrators to collect details about problems or inquiries, making it easier to provide assistance.
-The goal of this form is to collect relevant and accurate data to address the issue at hand. Please ensure the information you provide is clear and concise to help support team members resolve the issue efficiently. Also, make sure to check for any duplicate requests before submitting to avoid confusion and redundancy.
-</thinking>
-
 # Support Request Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to allow users to submit information about a tattoo, including client and artist details, submission details, and other relevant information. The form is intended to be completed by both artists and clients, with a focus on collecting accurate and up-to-date information. Before starting, please ensure that you have all necessary permissions and approvals in place to submit this form. If you're submitting multiple submissions, please review our submission guidelines to ensure consistency and accuracy.</thinking>
-
 # Tattoo Submission Form - Help Guide
 ## Purpose
 

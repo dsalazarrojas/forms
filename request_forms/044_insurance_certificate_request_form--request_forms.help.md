@@ -1,7 +1,3 @@
-<thinking>
-This form is an Insurance Certificate Request Form, which is used to request insurance certificates for various purposes. The form is designed to collect necessary information from the user to facilitate the processing and issuing of insurance certificates. The purpose of this form is to ensure that users provide accurate and complete information to avoid delays or rejections of their insurance certificate requests.
-</thinking>
-
 # Insurance Certificate Request Form - Help Guide
 ## Purpose
 

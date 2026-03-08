@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the process of requesting parental leave for employees. This form is used to collect information from employees about their plans for taking leave, including the dates of their leave and the reason for it. It is essential that employees complete this form to ensure that their absence is approved and scheduled correctly, allowing for a smooth transition of work responsibilities. Before filling this form, make sure you are not already on parental leave or that you have not submitted a similar request recently. If you are unsure, please consult with your HR representative or manager.
-</thinking>
-
 # Parental Leave Request Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-The University Library Resource Requisition Form is used to request access to library resources by users. To ensure that the form is completed correctly, the following checks are performed internally:
-* The form is only accessible to authenticated users.
-* The form will not be available if the user already has access to the requested resource.
-* The form will not be available if the requested resource is already being reviewed.
-</thinking>
-
 # University Library Resource Requisition Form - Help Guide
 ## Purpose
 The University Library Resource Requisition Form is used to request access to library resources by users. This form allows users to specify the resource they need, the quantity required, their department, and their priority/urgency level, ensuring that their requests are processed efficiently and effectively.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request elevated access to sensitive areas or data systems within the organization. The form helps ensure that the requestor provides necessary details about their current and requested access levels, as well as the justification for the escalation. It also ensures that the request is properly escalated to the appropriate manager for approval. 
-
-Before filling out this form, ensure that your request is not a duplicate. Review the fields below to ensure you provide all necessary information.
-
-</thinking>
-
 # Access Escalation Request Form - Help Guide
 ## Purpose
 The Access Escalation Request Form is used to request elevated access to specific areas or data systems within the organization. Fill out the form below to submit your request.

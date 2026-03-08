@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about children who are interested in receiving gifts during the holiday season. It helps parents or guardians provide accurate and personalized information about their child's preferences, needs, and interests. This form will help our team to better understand the child's characteristics and provide suitable gifts that align with their interests and requirements. Please ensure you are the parent or guardian of the child before completing this form, as you will be asked to confirm the accuracy of the information provided. This form is not intended for adults, please refrain from filling out this form if you are not the parent or guardian of a child.
-</thinking>
-
 # Christmas Wish List Form - Help Guide
 ## Purpose
 The Christmas Wish List Form is designed to gather essential information about a child's preferences, needs, and interests to provide them with suitable gifts during the holiday season.

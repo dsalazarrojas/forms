@@ -1,5 +1,3 @@
-<thinking>Internal Note: This form is designed to collect information from users requesting assistance from an audio engineer, typically for events or projects requiring sound-related services. This form helps ensure that the requestor's needs are clearly understood by the audio team. Before filling out this form, please ensure that the issue or event is not a duplication or an emergency that requires immediate attention. If the issue is time-sensitive, please contact the audio team directly to discuss your needs.</thinking>
-
 # Audio Engineer Assistance Request Form - Help Guide
 
 ## Purpose

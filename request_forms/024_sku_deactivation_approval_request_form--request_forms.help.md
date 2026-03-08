@@ -1,24 +1,3 @@
-<thinking>
-This form is used to request deactivation of a SKU (Stock Keeping Unit) in the inventory management system. The purpose of this form is to gather information about the reason for deactivation, the date and time of deactivation, and any additional notes or comments from the sales representative. The form is required to be filled out completely and accurately to ensure proper deactivation of the SKU.
-
-The form has several fields that need to be filled out:
-
-* **Submit Request**: This field is used to indicate if the request is to be submitted or not. A true or false option is provided.
-* **Reason for Deactivation**: This field is used to provide the reason for deactivating the SKU. A text field is provided for the sales representative to type in their response.
-* **Deactivation Date**: This field is used to select the date on which the deactivation should take place.
-* **Deactivation Time**: This field is used to select the time of deactivation.
-* **SKU ID**: This field is used to enter the ID of the SKU being deactivated.
-* **Additional Notes**: This field is used to provide any additional comments or notes about the deactivation process.
-* **Sales Representative**: This field is used to enter the name of the sales representative who will be handling the deactivation.
-* **Reason for Deactivation (if no)**: This field is used to provide an alternative reason for deactivation if the standard reason is not applicable.
-* **Deactivation Time (if no)**: This field is used to select the deactivation time if the standard deactivation time is not applicable.
-* **Deactivation Date (if no)**: This field is used to select the deactivation date if the standard deactivation date is not applicable.
-* **SKU ID (if no)**: This field is used to enter the ID of the SKU if the standard SKU ID is not applicable.
-
-Please ensure that all fields are filled out accurately and completely before submitting the form.
-
-</thinking>
-
 # SKU Deactivation Approval Request Form - Help Guide
 ## Purpose
 This form is used to request deactivation of a SKU in the inventory management system.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Referral Service Login Assistance Request - Help Guide
 ## Purpose
 This form is designed to help customers who are having trouble logging into their Referral Service account. The form is for internal use only and is intended to help our support team provide assistance and resolve login issues. Please note that we may not be able to verify the information provided without further confirmation.

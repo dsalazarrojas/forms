@@ -1,11 +1,3 @@
-<thinking>
-The form is a Notice Of Cancellation Form, which is used for formal notice and communication in business or legal settings to document the reason for and date of a cancellation or termination of an agreement or contract between two or more parties.
-The form is designed to collect information regarding the cancellation or termination event, including the reason for cancellation, the date it took place, and relevant parties involved.
-This form is typically used in formal situations, such as in business or professional settings to notify clients or customers of a cancellation or termination.
-Given the form's context, it is unlikely that an end-user would fill out the form without knowing the purpose and intended use of the form, and it's likely they will already be familiar with the basic principles of business or legal practices.
-However, for the sake of completion, let's assume a user who may not be familiar with formal cancellation processes and provide a clear and practical guide to help them fill out the form.
-</thinking>
-
 # Notice Of Cancellation Form - Help Guide
 ## Purpose
 This form is used to notify parties of a cancellation or termination of an agreement or contract. It collects information about the reason for cancellation and relevant details.

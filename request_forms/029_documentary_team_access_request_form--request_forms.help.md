@@ -2,10 +2,6 @@
 ## Purpose
 This form is used to request access for documentary teams. Please ensure that you are requesting access for the correct purpose and that you are not duplicating an existing request.
 
-<thinking>
-To confirm that you have the correct purpose and are not duplicating a request, please check with your team lead or the project manager before submitting this form. If you're unsure, it's best to err on the side of caution and reach out to the relevant team lead or project manager for guidance.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow the instructions below:
 

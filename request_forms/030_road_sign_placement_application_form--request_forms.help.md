@@ -1,7 +1,3 @@
-<thinking>
-To determine if the user has a good understanding of the form purpose and to avoid duplicated requests, we need to ensure that the form is being used for a specific reason and that the user has a clear intention behind their request. This form is intended for the placement of road signs, which is a critical component in the construction and maintenance of roads. Please verify that the user has a valid reason for the placement of a road sign and that the request is not a duplicate.
-</thinking>
-
 # Road Sign Placement Application Form - Help Guide
 ## Purpose
 The Road Sign Placement Application Form is used to submit requests for the placement of road signs. This form helps us to gather the necessary information to determine the feasibility and priority of your request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help faculty members and teachers manage their workload and request additional resources. It is intended to be a tool for faculty to provide information about their current workload and requirements. Before filling out this form, please ensure that you have already submitted a workload report and that you are not duplicating your request.
-</thinking>
-
 # Faculty Work Load Form - Help Guide
 ## Purpose
 The Faculty Work Load Form is a tool for faculty members and teachers to manage their workload and request additional resources.

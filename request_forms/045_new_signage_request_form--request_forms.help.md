@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to request new signage to be created or updated. This form is only to be filled out when a new signage request needs to be made. Please do not submit duplicate requests as this can cause confusion and delay the process.
 
 # new_signage_request_form - Help Guide

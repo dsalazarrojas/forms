@@ -1,14 +1,3 @@
-<thinking>
-This form is used when a veterinary clinic or hospital needs to share a client's medical record with another party. This form is intended to collect the necessary information from the client or their representative to facilitate the request.
-
-This form should only be used for legitimate requests and should not be used to duplicate work or create unnecessary requests. The completed form will be used to generate a record copy for the client, which will be shared with the requested party.
-
-Before filling out the form, ensure that the client has given their consent for the record copy to be shared.
-
-Note: This form is not intended for internal use within the clinic or hospital, but rather for external sharing of medical records.
-
-</thinking>
-
 # Veterinary Client Record Copy Request Form - Help Guide
 ## Purpose
 The Veterinary Client Record Copy Request Form is used to request a copy of a client's medical record from a veterinary clinic or hospital. This form is used to collect the necessary information from the client or their representative to facilitate the sharing of the medical record.

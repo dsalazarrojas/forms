@@ -1,9 +1,3 @@
-<thinking>
-
-This form is part of a system used to manage nonprofit data access requests. It is intended for non-employees of the organization, who are requesting access to data for their own use. This form aims to ensure that the requests are properly documented and communicated internally, and that the requesting party is aware of any limitations on access. Non-employees are not permitted to access data without proper request and approval processes.
-
-</thinking>
-
 # Nonprofit Data Access Request Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help users request assistance with training their pet, specifically with the guidance provided by "Puppy Clicker Training" guides. The goal of this form is to gather information about the pet and the user's needs, so that the appropriate guidance can be provided. This form is typically completed by users who are seeking advice on how to train their pet using clicker training techniques.
-To confirm, this is the correct form to be used for requesting help with puppy clicker training guides. Please fill out the form carefully to ensure that your request is processed correctly.
-</thinking>
-
 # Puppy Clicker Training Guide Request Form - Help Guide
 ## Purpose
 This form is designed to gather information about your pet and your needs, so that we can provide the best possible guidance on using clicker training with your pet.

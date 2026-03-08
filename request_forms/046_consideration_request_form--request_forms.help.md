@@ -1,7 +1,3 @@
-<thinking>
-A consideration request form is used to document and facilitate official requests within an organization, allowing employees to submit proposals for policy exceptions, deadline extensions, resource allocations, and more. The form gathers essential information about the request, including the request date, requester's details, request type, and justification. It also considers the potential risks, business impact, and compliance implications of the request. This form is a crucial tool for management and decision-making.
-</thinking>
-
 # Consideration Request Form - Help Guide
 
 ## Purpose

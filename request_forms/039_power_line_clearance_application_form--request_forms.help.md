@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Power Line Clearance Application Form is designed to collect information from users who need to access power lines for work purposes. This form helps to gather essential details for efficient processing and coordination. Before proceeding, please review the following guidelines to ensure you provide accurate and complete information.
 
 # Power Line Clearance Application Form - Help Guide

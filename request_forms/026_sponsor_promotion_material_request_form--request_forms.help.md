@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly to avoid duplication of effort and ensure that requests are accurately categorized and submitted. The Sponsor Promotion Material Request Form is used to collect information about sponsor materials that need to be promoted. This form is a crucial tool for sponsors to request materials that can help them promote their products or services in a professional setting. Please fill out this form carefully to ensure that your request is properly documented and processed.
-</thinking>
-
 # Sponsor Promotion Material Request Form - Help Guide
 ## Purpose
 The Sponsor Promotion Material Request Form is a form used to request promotion materials from sponsors.

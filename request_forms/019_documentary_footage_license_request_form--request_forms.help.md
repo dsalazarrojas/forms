@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Documentary Footage License Request Form, I'll first review the form's purpose and required fields. This form appears to be used for requesting a license for documentary footage, which implies that users need to provide information about themselves and the footage they want to license. The required fields are First Name, Last Name, Email, Phone, License Type, Usage Purpose, Distribution, License Duration, Date Of Capture, and Date Received. The form also includes optional fields for Date Returned and Note.
-
-To ensure that this form serves its intended purpose, we should verify that all fields are correctly completed and that the user is aware of the expected information. This will prevent errors and ensure that the license request is processed efficiently.</thinking>
-
 # Documentary Footage License Request Form - Help Guide
 ## Purpose
 This form is used to request a license for documentary footage. Please complete the form with your personal information and details about the footage you want to license.

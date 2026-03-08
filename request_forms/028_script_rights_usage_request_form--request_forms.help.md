@@ -1,5 +1,3 @@
-<thinking> This form is used to collect information for script usage rights requests. It is intended for internal use and should not be submitted multiple times for the same request. Before submitting the form, please ensure that all required fields are filled out correctly. </thinking>
-
 # Script Rights Usage Request Form - Help Guide
 ## Purpose
 The Script Rights Usage Request Form is used to collect information for script usage rights requests.

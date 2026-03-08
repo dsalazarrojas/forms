@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to request a personal trainer at the gym. To ensure that only relevant requests are processed, please do not submit this form if you have already made a similar request in the past. If you're looking for information on our current personal trainer offerings, please visit our "Trainers" page.
-</thinking>
-
 # personal_trainer_request_form - Help Guide
 ## Purpose
 This form is used to request a personal trainer at the gym. Please fill out the form with your information and preferences to help us tailor a training plan that suits your needs.

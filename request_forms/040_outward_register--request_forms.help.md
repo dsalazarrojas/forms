@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outward Register - Help Guide
 ## Purpose
 The Outward Register form is used to register outward activities or events, such as submitting requests, customer interactions, or other notable occurrences. This form helps to track and document these events, providing valuable information for future reference and analysis.

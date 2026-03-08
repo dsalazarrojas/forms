@@ -1,5 +1,3 @@
-<thinking>As the form designer, I must understand the form's purpose and the context in which it will be used. This form is likely used to collect information from personal shoppers or customers who are requesting specific products or services. The form will be completed by the end user, who may be a personal shopper or a customer. The form's purpose is to gather relevant information about the customer's preferences, such as their name, contact information, and shopping requests. To ensure the form is completed correctly and efficiently, it's essential to provide clear and concise instructions for the end user.</thinking>
-
 # Personal Shopper Request Form - Help Guide
 ## Purpose
 The Personal Shopper Request Form is designed to collect information from personal shoppers or customers who are requesting specific products or services. This form helps us understand their preferences and needs, allowing us to provide better service and support.

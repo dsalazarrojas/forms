@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request labor cost reconciliation for a project or project-related work. It is intended for employees and managers to record and verify labor costs for a particular period of time. Before proceeding, please ensure this form is not a duplicate request for the same timeframe. Please review the project ID and employee ID carefully to prevent any discrepancies. This form should only be submitted with a valid project ID and employee ID combination if this has not been previously processed for the same timeframe.
-
-</thinking>
-
 # Labor Cost Reconciliation Request Form - Help Guide
 ## Purpose
 This form is a tool for requesting labor cost reconciliation, allowing employees or managers to record and verify labor costs for a project or project-related work.

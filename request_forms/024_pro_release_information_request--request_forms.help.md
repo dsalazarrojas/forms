@@ -1,7 +1,3 @@
-<thinking>
-The Pro Release Information Request form is designed to collect information from stakeholders regarding a Pro release, which is a formal request for release of confidential information, assets, or resources. This form helps to streamline the review process and ensure that all necessary documentation is provided for evaluation and approval. Before filling out this form, please check if a similar request has been made recently. If you are unsure, please search our internal database to avoid duplication of effort.
-</thinking>
-
 # Pro Release Information Request - Help Guide
 ## Purpose
 The Pro Release Information Request form is used to collect information from stakeholders about a Pro release. This form helps to gather all necessary documentation and information to facilitate a thorough evaluation and approval process.

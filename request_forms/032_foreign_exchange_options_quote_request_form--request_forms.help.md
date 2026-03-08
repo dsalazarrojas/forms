@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Foreign Exchange Options Quote Request Form - Help Guide
 
 ## Purpose

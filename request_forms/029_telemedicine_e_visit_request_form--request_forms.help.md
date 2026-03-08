@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for telemedicine visits. A telemedicine visit is a consultation or check-in conducted remotely between a patient and a healthcare provider. This form is intended to be filled out by patients prior to their telemedicine visit. Please ensure that you have filled out this form accurately to help the healthcare provider prepare for your visit and ensure that you receive the proper care. This form will not be duplicated in the system, so please do not submit duplicate requests. If you need to make a follow-up visit, please submit a new form.
-</thinking>
-
 # Telemedicine E Visit Request Form - Help Guide
 ## Purpose
 The Telemedicine E-Visit Request Form is used to collect information from patients prior to a telemedicine visit. This form helps the healthcare provider prepare for the visit and ensures the patient receives the proper care.

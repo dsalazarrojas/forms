@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restricted Antibiotic Request Form - Help Guide
 ## Purpose
 This form is used to request a restricted antibiotic for a patient. It is intended for healthcare providers to request antibiotics that are not commonly available or require special authorization. Please ensure that you are completing this form for a valid medical reason and not simply to request a medication that is readily available.

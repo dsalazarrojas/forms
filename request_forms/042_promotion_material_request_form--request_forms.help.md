@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Promotion Material Request Form - Help Guide
 
 ## Purpose

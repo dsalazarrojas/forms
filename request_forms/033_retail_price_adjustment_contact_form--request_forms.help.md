@@ -1,15 +1,3 @@
-<thinking>
-
-Retail price adjustment contact form is used for retailers to contact the platform for price adjustment or inquiry, and the platform uses this form to track and process such requests.
-
-This form is meant to be used by retailers who need to adjust their product prices, either for a specific reason or as a general inquiry. 
-
-This guide will walk you through the process of filling out this form.
-
-If you have already submitted a price adjustment request, you may not need to fill out this form again as it will be treated as a duplicate.
-
-</thinking>
-
 # retail_price_adjustment_contact_form - Help Guide
 ## Purpose
 The retail price adjustment contact form is a tool for retailers to contact the platform for price adjustments or inquiries. It allows retailers to provide necessary information for processing their requests.

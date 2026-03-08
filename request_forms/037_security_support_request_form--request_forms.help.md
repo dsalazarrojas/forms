@@ -1,12 +1,3 @@
-<thinking>
-This form is used to submit requests for security support. The form's purpose is to gather information about incidents that have occurred, including the type of incident, affected areas, and request priority. This form is not meant to be filled out by every user, only those who have encountered an incident and need assistance.
-
-When submitting a request, please ensure that you are not duplicating an existing request. If you are unsure, you can check the request log or ask your supervisor for guidance.
-
-This guide is meant to walk you through the form's fields and how to complete it accurately and efficiently.
-
-</thinking>
-
 # Security Support Request Form - Help Guide
 
 ## Purpose

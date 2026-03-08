@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users to request studio time. It is meant to be filled out by users who need to request a specific time slot in the studio. The form should only be filled out once per request, and users should not fill it out multiple times for the same time slot. 
-</thinking>
-
 # Studio Time Request Form - Help Guide
 ## Purpose
 The Studio Time Request Form is a tool used to request a specific time slot in the studio. It is intended for users who need to book a time slot for a project or meeting and want to provide necessary information for the studio to process the request.

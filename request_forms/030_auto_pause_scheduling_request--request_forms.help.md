@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to request a pause in service scheduling, likely due to some external factor affecting the customer's account or subscription. This form is likely used to inform the customer service team that a service hold is needed for a specific period of time. The form should only be filled out once for each pause request. It's essential to fill out all required fields accurately to ensure a successful service hold.
-
-</thinking>
 # Auto Pause Scheduling Request - Help Guide
 ## Purpose
 The **Auto Pause Scheduling Request** form is used to pause services for a specific period. This allows the customer's service to be put on hold while they are dealing with external circumstances that affect their account or subscription.

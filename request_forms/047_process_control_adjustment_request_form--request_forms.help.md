@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a tool for employees to request adjustments to process controls, which are changes to equipment, processes, or other system settings that require management approval. The purpose of this form is to document and track these requests, ensuring that necessary adjustments are made and communicated effectively. Before submitting this form, please ensure that:
-
-* The request is not a duplicate of an existing request.
-* The equipment id and process id are accurate and valid.
-* You have permission to make this request.
-
-</thinking>
-
 # Process Control Adjustment Request Form - Help Guide
 ## Purpose
 The Process Control Adjustment Request Form is a tool used to document and track requests for adjustments to equipment, processes, or other system settings. This form helps ensure that necessary adjustments are made and communicated effectively.

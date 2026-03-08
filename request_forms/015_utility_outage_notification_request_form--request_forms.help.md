@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to notify utility companies of planned or unplanned outages, allowing them to respond accordingly. This form should only be used for genuine requests, and users should not submit multiple requests for the same event.
-</thinking>
-
 # Utility Outage Notification Request Form - Help Guide
 ## Purpose
 This form is designed to report utility outages, such as power or water disruptions, to the relevant service provider. Please fill in your details to ensure a swift response and resolution.

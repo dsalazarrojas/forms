@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from employees about their event expenses. The purpose of the form is to gather details about an event expense that an employee has incurred, including their employee information and the expense details of the event. This form is intended to be completed by employees who have incurred an expense related to an event and are requesting reimbursement or approval for the expense.
-</thinking>
-
 # Event Expense Request Form - Help Guide
 ## Purpose
 The Event Expense Request Form is a tool for employees to submit information about their event expenses. This form is used to gather necessary details to process the request for reimbursement or approval of the expense.

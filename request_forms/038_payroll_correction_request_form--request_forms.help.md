@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to request corrections to their payroll records. This form is meant to be used when there is an error or discrepancy in an employee's pay information, such as an incorrect salary, benefits, or other compensation-related issues. Before filling out the form, please ensure that you have not already made the correction request through other means, such as submitting a paper-based request or using the internal payroll correction system. This will help prevent duplicate requests and ensure that the payroll team can process your correction in a timely and efficient manner.
-</thinking>
-
 # Payroll Correction Request Form - Help Guide
 ## Purpose
 This form is used to request corrections to an employee's payroll records. Please use this form to report any errors or discrepancies in your pay information, such as incorrect salary, benefits, or other compensation-related issues.

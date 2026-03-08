@@ -1,5 +1,3 @@
-<thinking>...This form is designed to request data integrity validation from users, typically to ensure the accuracy and consistency of data within a system or database. This form is not required for every request, but only when a user needs to validate specific data. To complete this form, a user should start by providing their name and email or phone number, which will help the system identify them as a requestor. The user should then choose the type of validation they require, select a suitable timezone for the validation, and provide the date and time for the validation. If the user has any other questions or concerns, they can include them in the form's note section...</thinking>
-
 # Data Integrity Validation Request Form - Help Guide
 ## Purpose
 This form is used to request data integrity validation from a system or database to ensure the accuracy and consistency of data.

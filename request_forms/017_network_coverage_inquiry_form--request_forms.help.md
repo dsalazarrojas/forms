@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their network coverage inquiries. It is intended to be used by network administrators or support teams to quickly and efficiently gather necessary details to assist with resolving network-related issues or requests. This form should only be used for new inquiries, and not for follow-up or duplicate requests. Please ensure that you have not previously submitted a similar request before filling out this form.
-</thinking>
-
 # Network Coverage Inquiry Form - Help Guide
 ## Purpose
 The Network Coverage Inquiry Form is designed to collect details about network-related issues or requests from users. This form aims to gather essential information to facilitate timely and effective assistance from network administrators or support teams.

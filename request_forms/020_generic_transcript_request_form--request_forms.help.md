@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to request a transcript from an institution, likely for academic or verification purposes. It's designed for users to provide basic information to facilitate the transcript request process. The form is likely to be used by students, administrators, or other individuals who need to obtain transcripts for various reasons. To ensure the form is being used correctly, we should check for duplicates or multiple requests from the same user for the same transcript type. This will help prevent unnecessary processing and potential errors in the transcript production process.
-</thinking>
-
 # Generic Transcript Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users to request a transcript from an institution. It is intended for students, administrators, or other individuals who need to obtain a transcript for academic or verification purposes.

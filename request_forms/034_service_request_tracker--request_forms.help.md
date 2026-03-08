@@ -1,7 +1,3 @@
-<thinking>
-If a user wants to use this form to track service requests, they would need to understand what the form is used for and why it's necessary. This form is used to track the status and resolution of service requests, providing a clear and organized way to manage and prioritize these requests. It's essential to ensure that the form is filled out correctly to avoid duplicate or incomplete requests. The form should only be filled out once the service request has been received and not before or after it has been resolved. 
-</thinking>
-
 # Service Request Tracker - Help Guide
 ## Purpose
 The Service Request Tracker form is used to track the status and resolution of service requests. This form is essential for service management, allowing users to prioritize and organize service requests in an organized and clear way.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users who need access to quality benchmark data. The purpose of this form is to ensure that all requests are properly documented and that the necessary permissions are granted before the data is released. 
-
-Before starting, please make sure you are authorized to access the quality benchmark data and that you are not submitting a duplicate request. 
-
-</thinking>
-
 # Quality Benchmark Data Access Request Form - Help Guide
 ## Purpose
 This form is used to collect information from users who need access to quality benchmark data. Fill out this form to submit your request and we will get back to you with more information on how to proceed.

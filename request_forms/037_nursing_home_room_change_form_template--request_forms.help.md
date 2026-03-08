@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by nursing home staff to record a resident's move request from their current room to a new one. The purpose of this form is to gather essential information about the move, including the resident's name, current room, new room, reason for the move, and date and time of the move. This form ensures that all necessary details are captured accurately and efficiently, helping to streamline the process and reduce errors.
-
-When using this form, please ensure that you are not duplicating any existing requests. If you are unsure about the form's purpose or have questions, please contact the relevant authorities for clarification.
-
-This guide is designed to be user-friendly and easy to follow. Please read through it carefully before filling out the form.
-
-</thinking>
-
 # nursing_home_room_change_form_template - Help Guide
 ## Purpose
 The nursing home room change form is used to record and manage resident room changes. This form collects essential information about the move, ensuring a smooth transition for residents.

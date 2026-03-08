@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block**
-The `library_event_programming_request_form` is a versatile form designed to facilitate requests for events and programming needs from community partners in a library setting. This form serves as a centralized platform for librarians to gather information about events and programs requested by community partners. The form's design allows for flexible input of event details, partner requests, and submission status, catering to the diverse needs of both librarians and community partners.
-</thinking>
-
 # library_event_programming_request_form - Help Guide
 ## Purpose
 The `library_event_programming_request_form` is a tool for librarians to collect and manage requests from community partners for events and programming needs. It helps librarians gather information, track submissions, and make informed decisions about programming and events.

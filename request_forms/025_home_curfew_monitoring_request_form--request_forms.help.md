@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Curfew Monitoring Request Form - Help Guide
 
 ## Purpose

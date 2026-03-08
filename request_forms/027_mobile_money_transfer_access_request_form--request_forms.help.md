@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I want to review the form purpose and fields. This form, titled "Mobile Money Transfer Access Request Form," is used to request access to mobile money transfers. The purpose of this form is to collect information from users for such requests, including personal details, transfer information, and approval process. It seems that the form requires some critical fields for the system to function properly (e.g., `created_by`, `updated_time`, `submitted_time`, `submitted_to`, `approver_email`, `approver_phone`, and `approver_name`). I will make sure to highlight these important fields in the guide.</thinking>
-
 # Mobile Money Transfer Access Request Form - Help Guide
 ## Purpose
 This form is used to request access to mobile money transfers. It collects personal and transfer information and other relevant details to facilitate the approval process.

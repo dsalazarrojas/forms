@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is a critical tool for employees to request access to files containing sensitive information about themselves or others. It is essential to ensure that employees understand the form's purpose: to provide a structured and organized way of requesting access to files, reducing administrative burdens and promoting efficiency. 
-
-Before starting, ensure you're not already aware of the file's location or that it's not a duplicate request. 
-
-</thinking>
-
 # Employee File Access Request Form - Help Guide
 ## Purpose
 The Employee File Access Request Form is used to request access to files containing information about yourself or others. This form helps you to organize and track access requests, ensuring that files are shared only with those who have a legitimate reason to access them.

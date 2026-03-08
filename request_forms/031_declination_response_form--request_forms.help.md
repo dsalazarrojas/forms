@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for declination responses, which is a process where a customer or user decides not to accept or take part in a particular product or service. This form is meant to be completed by customers or users who wish to decline or reject a product or service, and provides fields to collect relevant details about their reasons for declining. It's recommended that users only fill out this form if they are genuinely declining a product or service, and not as a form of harassment or spam.
-
-This form is intended to be filled out by users who have previously responded to a different form, the "Declination Response Form" is a follow-up form used for confirmation and further clarification. It's designed to ensure that the user's declination response is clear and accurate, and provides additional fields for any additional information or notes that the user may want to add.
-
-To avoid duplication of effort, this form should only be filled out once the initial response has been made, and should not be used to resubmit or redecline a response.
-
-</thinking>
-
 # Declination Response Form - Help Guide
 ## Purpose
 The purpose of this form is to collect declination responses, including reasons, dates, and confirmations, from customers or users who wish to decline or reject a product or service.

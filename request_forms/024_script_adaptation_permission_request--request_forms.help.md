@@ -1,9 +1,3 @@
-<thinking>
-To determine the purpose of this form, we need to analyze its fields. The form "Script Adaptation Permission Request" appears to be used for requesting permission to adapt a script into another medium, such as a stage production or a screen adaptation. The fields suggest that the form is for tracking the status of script adaptations, including the type of adaptation, the date of the request and review, and the current status of the adaptation.
-The fields also suggest that the form may be used for managing agreements between producers and the adaptation team, including whether an agreement has been signed and the date of the agreement.
-We also notice that there are no fields that suggest the form is used for creating a new script from scratch, or for submitting new script drafts for approval. Therefore, it is likely that this form is used to request permission to adapt an existing script.
-</thinking>
-
 # Script Adaptation Permission Request - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to capture information for a software enhancement request from a customer. It is essential to provide accurate and relevant information to ensure that the request is handled efficiently and effectively. Before completing this form, please ensure that you are filling out a new request and not duplicating an existing one. This form should not be used for urgent issues or technical support queries. Please use the correct format for the "Created By" field to reflect the user who submitted the request.
-</thinking>
-
 # Software Enhancement Request Form - Help Guide
 ## Purpose
 The Software Enhancement Request Form is used to collect information about the software enhancements or improvements requested by customers. This form helps our team to better understand the customer's needs and prioritize the enhancements accordingly.

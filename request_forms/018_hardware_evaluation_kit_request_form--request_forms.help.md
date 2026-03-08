@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for requesting a hardware evaluation kit, which is likely a kit used to test or evaluate hardware components or systems. The form will be used by customers or users to submit their requests for a hardware evaluation kit, providing necessary information such as contact details, request details, and the type of evaluation kit required. This form is not intended for other purposes, such as requesting software or other types of kits.
-</thinking>
-
 # Hardware Evaluation Kit Request Form - Help Guide
 ## Purpose
 This form is used to request a hardware evaluation kit. Please fill out the form below with your request information.

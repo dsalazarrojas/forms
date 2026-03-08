@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-To ensure that the "Special Visitor Request Form" is completed accurately and efficiently, it is essential that users understand its purpose and how to fill it out correctly. The form is used to collect information from special visitors who may be visiting the organization, whether for a tour, information request, or another purpose. It's crucial to fill out the form carefully to ensure that the visitor's needs are met and that the organization can provide the necessary support and information during their visit. Before starting, please verify that you are not duplicating a previously submitted request, as this form is intended for new and unique requests.
-
-</thinking>
-
 # Special Visitor Request Form - Help Guide
 ## Purpose
 The Special Visitor Request Form is designed to collect information from special visitors who may be visiting the organization for various reasons such as tours, information requests, or other purposes. This form helps the organization's staff prepare for the visit, ensure a smooth experience, and provide necessary support to the visitor.

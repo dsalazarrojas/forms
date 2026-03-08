@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Counselor Transfer Request Form - Help Guide
 ## Purpose
 The Counselor Transfer Request Form is used to request a transfer of a student to a new school or program. This form is typically completed by a student or their authorized representative, such as a parent or guardian. The form is reviewed and approved by authorized personnel, who will verify the requested transfer and update the student's records accordingly.

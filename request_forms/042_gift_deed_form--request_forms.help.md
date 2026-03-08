@@ -1,12 +1,3 @@
-<thinking>
-This form is used for the purpose of recording and verifying the transfer of gifts, specifically focusing on the grantor's and grantee's information, including their names, addresses, and signatures. The form aims to capture essential details for the legal and administrative processes related to gift documentation.
-
-To avoid any duplication or confusion, it's essential to ensure that each field is accurately filled and corresponds to the correct grantor or grantee.
-
-To complete this form, please follow the instructions below.
-
-</thinking>
-
 # gift_deed_form - Help Guide
 ## Purpose
 The gift_deed_form is used to document and verify the transfer of gifts between individuals. It captures the grantor's and grantee's information, including their names, addresses, and signatures.

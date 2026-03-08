@@ -1,11 +1,3 @@
-<thinking>
-This form appears to be designed for requesting media releases or permissions for various purposes such as filming, interviewing, or photography. The purpose of this form is to gather information from users who want to request media releases for their time and media. It's likely that this form is used in professional settings like news organizations, media companies, or other industries where obtaining media releases is a common process.
-To ensure that the form is not duplicated or submitted for the same request, the internal reasoning block checks for the following:
-1. Does the user already have an existing request with the same title and start date?
-2. Has the user already submitted a request with the same assigned tool?
-
-</thinking>
-
 # media-release-time-request-form - Help Guide
 ## Purpose
 The Media Release Time Request Form is a form used to request media releases or permissions for various purposes such as filming, interviewing, or photography. It is used to gather information from users who want to request media releases for their time and media.

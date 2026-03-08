@@ -1,5 +1,3 @@
-<thinking>... Internal reasoning block: This form is used for users to request a password reset when they have forgotten their password. It's an essential feature for maintaining user account security and ensuring that users can recover their access in case of a forgotten password. To prevent abuse and ensure the form's intended use, a check will be implemented to verify that the request is not a duplicate.</thinking>
-
 # Password Reset Request Form - Help Guide
 ## Purpose
 This form is used to request a password reset when you have forgotten your password. Fill out this form to initiate the password reset process.

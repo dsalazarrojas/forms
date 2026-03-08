@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Airline Seating Change Request Form - Help Guide
 
 ## Purpose

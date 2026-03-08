@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reviewing fraudulent transactions. The purpose of this form is to gather information from the review requester about the suspicious activity and the details of the transaction. This form is not meant to be used for duplicate reviews or for transactions that have already been reviewed. Before filling out this form, please ensure that you have not already submitted a request for this transaction and that it has not already been reviewed.
-</thinking>
-
 # fraudulent_transaction_review_request_form - Help Guide
 ## Purpose
 The purpose of this form is to request a review of a potentially fraudulent transaction. It is used to gather information from the review requester about the suspicious activity and the details of the transaction.

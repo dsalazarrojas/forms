@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request a credit report from a user. The form is designed to collect information about the user, the type of credit report requested, and the frequency of the report. The form will be used to create a credit report that will be sent to the user. The user must select the type of report and the frequency of the report that they are requesting. If the user has any questions or comments, they can be entered in the "Request Reason" field. The form is designed to be as simple and straightforward as possible.
-</thinking>
-
 # credit_report_request_form - Help Guide
 ## Purpose
 This form is used to request a credit report from a user, allowing them to select the type and frequency of the report they require.

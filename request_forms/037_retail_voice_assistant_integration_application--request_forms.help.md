@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from retail businesses seeking integration with the Retail Voice Assistant, a platform providing voice-enabled services. The form helps the business owners to request integration with the platform for various reasons such as support or integration. This form will help to ensure that the businesses' requests are properly documented and can be efficiently handled by the platform's support team. 
-</thinking>
-
 # retail_voice_assistant_integration_application - Help Guide
 ## Purpose
 The Retail Voice Assistant Integration Application form is designed to collect information from retail businesses that want to integrate their store with the Retail Voice Assistant platform. This form is used to document business owner's requests for support or integration with the platform.

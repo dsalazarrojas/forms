@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from agencies requesting services from your organization. This form will help you gather essential details from the agency, including their name, contact person, email, and project requirements. By using this form, you'll be able to efficiently process agency requests and provide the necessary information to your team.
-Before filling out this form, please ensure that you have the necessary permissions and approvals to do so. Also, please note that this form is not designed for duplicate requests, so please only submit one request per agency. If you need to submit multiple requests, please create a new form for each agency.</thinking>
-
 # Agency Request Form - Help Guide
 ## Purpose
 The Agency Request Form is designed to collect essential information from agencies requesting services from your organization. This form helps to gather details such as company name, contact person, email, and project requirements, allowing for efficient processing of agency requests.

@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure this form is completed correctly and accurately, we must first consider the purpose of the form. This "Jewelry Display Requisition Form" is used to request the display of jewelry in an event or showcase setting. 
-
-Before proceeding with the submission, please verify that this form is relevant to your needs and that you have not already submitted a similar request in the past. 
-
-If this form is not relevant to your current request, please do not proceed with the submission. 
-
-</thinking>
-
 # Jewelry Display Requisition Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>Internal reasoning block to ensure form purpose is understood: This form is designed for employees who want to request database audit extension documentation. It is intended for employees within the organization who need to request access to sensitive data for their work. The form will help in streamlining the process and ensuring that the requests are properly documented and approved. This form should only be filled out by employees who have a legitimate reason for requesting access to sensitive data and should be used for internal purposes only. Duplicate requests or attempts to use this form for external purposes will not be entertained.</thinking>
-
 # Database Audit Extension Documentation Request Form - Help Guide
 ## Purpose
 This form is designed to help employees request access to sensitive data for their work. It is intended to streamline the process and ensure that the requests are properly documented and approved.

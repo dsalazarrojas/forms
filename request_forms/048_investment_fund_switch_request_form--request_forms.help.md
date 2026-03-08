@@ -1,10 +1,3 @@
-<thinking>
-This form is used to request a switch of investment funds between different investment funds. The form is typically used by users to submit a request to transfer funds from one investment fund to another. This form is usually completed by investment professionals who need to facilitate fund transfers for their clients or internal purposes.
-
-Before completing this form, please ensure that you are authorized to submit a request for a fund switch. Also, please check that the fund switch request has not already been submitted before. If you have already submitted a request for a fund switch, you will be able to see the status of your previous request on the form.
-
-</thinking>
-
 # Investment Fund Switch Request Form - Help Guide
 ## Purpose
 The Investment Fund Switch Request Form is used to submit a request for transferring funds between different investment funds.

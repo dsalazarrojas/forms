@@ -1,15 +1,3 @@
-<thinking>
-
-This help guide is intended for employees who need to submit requests for remote access to the company's virtual private network (VPN). This form is used to gather the necessary information to process these requests. To ensure the form is used correctly, please note that:
-
-* Only relevant requests will be processed.
-* If your request is denied, you will be informed via the email you provided.
-* If your request is approved, you will receive a confirmation email with instructions on how to access the VPN.
-
-This guide is intended to provide a clear understanding of what each field is for, so please follow it carefully.
-
-</thinking>
-
 # remote_access_vpn_request_form - Help Guide
 ## Purpose
 This form is used to request remote access to the company's virtual private network (VPN). Please fill out the form accurately to ensure your request is processed correctly.

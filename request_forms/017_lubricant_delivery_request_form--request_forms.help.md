@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for requesting lubricant delivery or service from a business or organization. Before proceeding, make sure to review the form carefully and only submit a new request if it's not a duplicate. If you've already submitted a request, please don't resubmit to avoid unnecessary delays or miscommunication.
-</thinking>
-
 # Lubricant Delivery Request Form - Help Guide
 ## Purpose
 The Lubricant Delivery Request Form is designed to collect information from users for lubricant delivery or service requests. This form helps our team process your request efficiently and ensures accurate delivery.

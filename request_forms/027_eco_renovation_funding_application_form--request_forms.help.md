@@ -1,11 +1,3 @@
-<thinking>**Internal reasoning block to check if the form is relevant and non-duplication**
-
-The Eco Renovation Funding Application Form seems to be a form designed to collect information from individuals or entities seeking funding for an eco-friendly project or initiative. The form's purpose is likely to gather necessary details for evaluation and processing of the funding request.
-
-To confirm that this form is relevant and non-duplication, we will analyze its fields. Upon examination, the form appears to cover various aspects of the project, including project details, funding options, supporting documents, and contact information. The form also includes multiple fields for different types of funding, allowing users to select the specific funding option they are interested in. Additionally, there are fields for submission and communication details, such as email and phone numbers.
-
-After reviewing the form's structure and fields, it appears to be a comprehensive application form for eco renovation funding, suitable for the intended purpose.</thinking>
-
 # Eco Renovation Funding Application Form - Help Guide
 
 ## Purpose

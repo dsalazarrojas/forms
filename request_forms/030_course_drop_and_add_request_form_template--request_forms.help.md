@@ -1,8 +1,3 @@
-<thinking>
-Is this form used to request changes to a student's course schedule? Is this form used to handle student requests for course drops and adds, which are typically managed by the registrar's office? Does this form ensure that the student's advisor has been consulted and approves the request before it's submitted? This form seems to collect information from the student, including their student ID, academic program, reason for the request, and contact information. It also appears to include fields for the advisor's approval, which would be a required field to ensure that the advisor has been notified and agrees with the request. I am assuming that the form is used to manage course scheduling requests from students.
-
-</thinking>
-
 # Course Drop And Add Request Form Template - Help Guide
 ## Purpose
 This form is used to request changes to a student's course schedule. It is typically used by students to add or drop courses, and it ensures that the student's advisor has been consulted and agrees with the request before it's submitted.

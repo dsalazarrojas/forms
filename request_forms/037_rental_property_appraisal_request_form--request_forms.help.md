@@ -1,11 +1,3 @@
-<thinking>
-To prevent duplication and ensure that users understand the purpose of this form, let's review it: 
-The rental property appraisal request form is a key tool used by appraisers to gather information from requestors about a rental property. 
-The form serves as a standard template for requesting appraisals, ensuring that all relevant details are captured consistently across different appraisals. 
-This helps to maintain a high level of quality and accuracy in the appraisal process. 
-It also helps the appraiser to prepare for the task at hand, as they will know exactly what information is needed for each appraisal.
-</thinking>
-
 # rental_property_appraisal_request_form - Help Guide
 ## Purpose
 The rental property appraisal request form is a tool used by appraisers to gather information from requestors about a rental property. This form serves as a standard template for requesting appraisals, ensuring that all relevant details are captured consistently across different appraisals.

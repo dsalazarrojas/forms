@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users about their keyboard settings preferences. It is designed to be completed by end users who need to request specific keyboard settings to be enabled or disabled on their devices. The form should not be completed if the user already has a keyboard settings request pending or if they are not authorized to make such requests.
-</thinking>
-
 # Keyboard Settings Request Form - Help Guide
 ## Purpose
 This form is used to collect information from users about their keyboard settings preferences. It is designed to be completed by end users who need to request specific keyboard settings to be enabled or disabled on their devices.

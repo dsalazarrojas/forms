@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Transfer Request Form - Help Guide
 ## Purpose
 The Student Transfer Request Form is used to submit a request to transfer a student to a different class. It is a mandatory form that requires student number, teacher name, student name, reason for transfer, new class, current class, comments (optional), and the name of the person submitting the request. Please make sure to fill out this form accurately and completely to ensure your request is processed correctly.

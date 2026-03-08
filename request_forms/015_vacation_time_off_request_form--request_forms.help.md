@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow employees to request time off for vacation or other reasons. It is designed to be a simple and straightforward form that guides users through the necessary information to submit a request for time off. To avoid any confusion, please note that this form is only for requesting time off and is not for other types of leave, such as bereavement or family medical leave. It is also important to fill out the form completely and accurately to ensure that your request is processed correctly. 
-</thinking>
-
 # vacation_time_off_request_form - Help Guide
 ## Purpose
 This form is used to request time off for vacation or other reasons. Please use this form to submit your request for time off, and make sure to fill out all the required fields.

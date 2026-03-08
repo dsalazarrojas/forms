@@ -1,6 +1,3 @@
-<thinking>
-This form is used to request access to the Marketing Analytics Platform. To complete this form, the submitter must be an employee with valid credentials and the necessary permissions to submit requests. This form should not be submitted by external parties or non-employees. The form will be reviewed and processed internally for approval and validation. This form will not be used for external requests or to request access on behalf of other employees. If the form is being submitted to request access for another employee, please use the appropriate employee's account to submit the form instead.</thinking>
-
 # Marketing Analytics Platform Access Request - Help Guide
 ## Purpose
 This form is used to request access to the Marketing Analytics Platform. The platform is a tool used for data analysis and reporting for marketing purposes.

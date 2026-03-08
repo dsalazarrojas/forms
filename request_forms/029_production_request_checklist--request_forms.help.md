@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to ensure that the form is used correctly and efficiently by end users who are submitting production requests.
-</thinking>
-
 # Production Request Checklist - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-We have to consider the following when designing this help guide:
-
-* The form is used to create a support request for adding a menu item.
-* The form is designed to gather necessary information for menu addition support requests.
-* The form has several fields with different types and requirements.
-
-</thinking>
-
 # Menu Addition Support Request - Help Guide
 ## Purpose
 This form is used to submit a support request for adding a menu item to our platform. Please fill out the form below with the required information to help us assist you with your menu addition request.

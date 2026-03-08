@@ -1,10 +1,3 @@
-<thinking>
-This form is a template for requesting a fiscal leave of absence. It is intended to be used by employees to request time off from work due to various reasons such as personal or family emergencies, illnesses, or other approved events. 
-Before completing this form, please note that you should only submit a leave request if you have not already done so, and that you should not submit multiple requests for the same leave period. 
-Please ensure that the dates you enter are accurate and consistent with your leave type. 
-The purpose of this form is to provide a structured and efficient way for employees to request and track leaves of absence, and for managers to approve or deny these requests in a timely manner. 
-</thinking>
-
 # Fiscal Leave Of Absence Request - Help Guide
 
 ## Purpose

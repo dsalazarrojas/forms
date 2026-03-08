@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for property owners who are applying for a sustainability grant. The purpose of this form is to gather essential details about the property, the grant program, and the upgrades being implemented. It's essential to complete this form accurately and thoroughly to ensure that the information is correct and helpful for the grant evaluation process.
-
-When filling out this form, please ensure that you're not duplicating an existing entry. If you're unsure about whether you've already registered a property for a sustainability grant, please check with the grant administration team before proceeding.
-
-This form is divided into several sections, each with its own specific fields. Please read through each section carefully to ensure you understand what's required and what's optional.
-
-</thinking>
-
 # property_sustainability_grant_registration - Help Guide
 ## Purpose
 This form is designed to collect information for property owners who are applying for a sustainability grant.

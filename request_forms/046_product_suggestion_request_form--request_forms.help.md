@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to suggest new products to the company. The form is meant to gather information from users about their product suggestions, including product details, budget, time limit, date range, product type, product category, contact information, and any additional notes. To ensure that each suggestion is valid and relevant, we'll be checking for duplicate suggestions. Please fill out the form completely and accurately. Note: This help guide is for end-users. Do not attempt to submit duplicate suggestions.
-</thinking>
-
 # Product Suggestion Request Form - Help Guide
 ## Purpose
 The Product Suggestion Request Form is a tool for users to submit new product suggestions to the company. This form helps us gather information about the suggested product, including its details, budget, and requirements.

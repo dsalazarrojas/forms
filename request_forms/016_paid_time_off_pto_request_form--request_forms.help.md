@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a comprehensive tool for requesting paid time off for employees. It's used to capture the essential details of the request, including the employee's name, start and end dates of the time off, reason for the request, number of days off, and status of the request. By understanding this form, employees can ensure that their requests are accurately and clearly communicated to the management team. This form should not be used for other purposes, such as vacation or sick leaves, as it's specifically designed for paid time off. Please review your request to ensure you're submitting the correct type of request and follow the instructions below for completion.
-</thinking>
-
 # Paid Time Off Pto Request Form - Help Guide
 ## Purpose
 This form is used for submitting paid time off requests. Please fill it out carefully and accurately to ensure that your request is processed correctly.

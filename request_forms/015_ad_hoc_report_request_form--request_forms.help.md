@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to allow users to submit ad-hoc report requests, which are one-off reports created on demand to address specific information needs. This form serves as an interface for submitting these requests to a designated team or department. Ad-hoc reports are used to provide insights or data that may not be readily available through standard reporting channels.
-
-This form aims to gather necessary information to fulfill these requests efficiently. By completing the form, users can ensure their needs are met in a timely and accurate manner. Please review the form carefully to ensure you provide all required and relevant details.
-
-</thinking>
-
 # Ad Hoc Report Request Form - Help Guide
 ## Purpose
 The Ad Hoc Report Request Form is designed to collect information for one-off reports created on demand. This form helps the requesting team or department understand the requirements for the report and ensure they can create it accurately and efficiently.

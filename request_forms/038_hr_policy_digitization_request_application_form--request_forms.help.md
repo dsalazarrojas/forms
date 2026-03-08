@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # HR Policy Digitization Request Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from employees to request HR policy digitization. The purpose of the form is to gather necessary details to initiate the process of converting printed or outdated HR policies into digital formats for easy access and updating.

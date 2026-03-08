@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from entrepreneurs seeking business idea consultation. The form helps us understand the context, goals, and expectations of the consultation request. This guide will help you complete the form accurately and efficiently. Please review the form carefully and provide clear, concise answers to each field. This guide is meant for informational purposes only, and the information provided will be reviewed internally to determine the next steps for the consultation request.</thinking>
-
 # Business Idea Consultation Request - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Business Idea Consultation Request form.

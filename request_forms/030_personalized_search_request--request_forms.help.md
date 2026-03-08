@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to collect information for creating a customized search query. The form asks for basic contact information such as first and last name, company, email (optional), and phone number (optional), as well as a description of the search parameters. The search priority level (Low, Medium, or High) and the assigned tool for the search are also required fields. This form is designed to be completed by users who want to request a tailored search result. 
 
 # Personalized Search Request - Help Guide

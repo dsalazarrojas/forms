@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users who are interested in requesting access to a pet food pantry. This form ensures that we can gather necessary details from the users before we can process their request and provide the required pet food. By submitting this form, users will be able to specify their name, email address, phone number, and a brief description of their request, which will help us to efficiently manage and fulfill their request.
 
 To get started, please follow the steps below.

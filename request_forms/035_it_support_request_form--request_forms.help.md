@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their IT support requests. This form is likely used by the IT department to troubleshoot and resolve technical issues, track progress, and provide support to users. The form should not be completed if the user is experiencing a critical or urgent issue, as it may require immediate attention. Please ensure that you have not submitted a similar request before completing this form.
-</thinking>
-
 # IT Support Request Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users about their IT support requests so that the IT department can assist with troubleshooting and resolving technical issues.

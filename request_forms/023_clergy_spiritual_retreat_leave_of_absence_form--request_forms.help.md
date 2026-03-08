@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the Clergy Spiritual Retreat Leave Of Absence Form that explains its purpose, how to complete it, and what each field means.</thinking>
-
 # Clergy Spiritual Retreat Leave Of Absence Form - Help Guide
 
 ## Purpose

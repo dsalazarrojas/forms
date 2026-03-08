@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information from clients to better understand their skin concerns and concerns. It will likely be used to collect data for marketing and product research purposes. To prevent duplication, ensure that you don't complete this form if you've already done so in the past.
-
-</thinking>
-
 # Client Skin Consultation Survey - Help Guide
 ## Purpose
 The Client Skin Consultation Survey is designed to help us understand your skin concerns and concerns, allowing us to tailor our products and services to your needs.

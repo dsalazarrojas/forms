@@ -1,7 +1,3 @@
-<thinking>
-The "Field Trip Approval Request Form" is designed to gather information from students to request field trips. This form is intended to be filled out by students who are planning to attend an educational field trip. It is crucial to ensure that the form is filled out correctly to avoid any potential issues or miscommunications. Please fill out this form accurately and honestly, and ensure that the trip details are correct to the best of your ability.
-</thinking>
-
 # Field Trip Approval Request Form - Help Guide
 ## Purpose
 This form is for students to request approval to attend an educational field trip.

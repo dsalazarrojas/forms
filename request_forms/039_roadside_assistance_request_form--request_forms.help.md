@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Roadside Assistance Request Form". This form is designed to gather information from users who need roadside assistance services. The form's purpose is to collect details about the user's vehicle, the type of assistance requested, and contact information to facilitate communication and service provision. To prevent duplication, users should not submit the form if they have already received roadside assistance services from the same provider in the past 24 hours.
-
-</thinking>
-
 # Roadside Assistance Request Form - Help Guide
 ## Purpose
 The Roadside Assistance Request Form is a tool used to gather information from users who need roadside assistance services. This form helps our team to understand the user's requirements and provide the necessary support.

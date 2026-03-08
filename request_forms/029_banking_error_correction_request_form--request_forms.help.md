@@ -1,21 +1,3 @@
-<thinking>
-This form is used by customers to report and correct errors on their banking statements. It is intended for customers to provide detailed and accurate information about the issue they are experiencing. 
-
-When completing this form, customers must be careful in providing accurate information as this will aid in the correction of the error efficiently.
-
-The form is designed to capture the following details of the error:
-- The details about the affected customer, 
-- The nature of the error, 
-- The date of the error, 
-- The amount involved, 
-- Any supporting documents available 
-- The customer's preferred communication method and availability. 
-
-Please ensure that all necessary information is accurate and up-to-date to aid our team in correcting the error efficiently. 
-
-Before providing any supporting documents, ensure that they are complete, clear, and relevant to the issue at hand.
-</thinking>
-
 # Banking Error Correction Request Form - Help Guide
 ## Purpose
 The Banking Error Correction Request Form is used to report and correct errors on a customer's banking statement. This form captures necessary details to help our team investigate and resolve the issue efficiently.

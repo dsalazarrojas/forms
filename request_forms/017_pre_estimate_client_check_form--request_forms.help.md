@@ -1,7 +1,3 @@
-<thinking>
-This form is used for checking the details of a project before making an estimate. This form is designed to gather essential information about the project, client, and project status to help the team prepare for the project. It's a crucial step in the project initiation process. The information collected in this form will be reviewed and analyzed to determine the feasibility of taking on the project. This form is intended to be used by project stakeholders and team members to ensure that all necessary details are gathered and documented before proceeding with the project. Please ensure that you are not submitting duplicate entries for the same project.
-</thinking>
-
 # Pre Estimate Client Check Form - Help Guide
 ## Purpose
 This form is used to collect essential information about a project before making an estimate, ensuring that all necessary details are gathered and documented.

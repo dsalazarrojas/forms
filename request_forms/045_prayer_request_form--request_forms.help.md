@@ -1,6 +1,3 @@
-<thinking>
-**Internal reasoning**: This form is used to collect prayer requests from users. To ensure the form is used correctly, we should only accept requests that are not already duplicated. We will review each request to determine the relevance and feasibility of the prayer request. Please fill out this form carefully, and we will do our best to process your prayer request in a timely manner.</thinking>
-
 # Prayer Request Form - Help Guide
 ## Purpose
 The Prayer Request Form is a tool used to collect and process prayer requests from users. It is designed to help us understand your needs and provide support in a timely and effective manner.

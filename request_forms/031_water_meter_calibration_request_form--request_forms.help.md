@@ -1,11 +1,3 @@
-<thinking>
-This form is used to request calibration of a water meter. The user will provide information about themselves, the water meter, and the location where the meter is installed. This form will help the maintenance team to quickly gather necessary information to perform the calibration. Please ensure that this form is filled out completely and accurately to avoid any delays in the calibration process.
-
-This form is intended to be filled out by the owner of the water meter or the person responsible for its maintenance. If the user is not the owner, please provide the owner's contact information instead.
-
-Please do not fill out this form if you have already submitted a calibration request for the same meter in the past 30 days. Please wait for the previous request to be processed before submitting a new one.
-</thinking>
-
 # Water Meter Calibration Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request calibration of a water meter. Fill out this form to provide the necessary information for the maintenance team to perform the calibration.

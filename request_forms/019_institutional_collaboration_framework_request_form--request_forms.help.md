@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information for institutional collaboration requests. To determine if you need to fill out this form, consider the following:
-- If you are seeking to collaborate with external partners on a project or initiative that involves your institution, this form is likely relevant to you.
-- If you are not sure if you need to use this form, you can check with your supervisor or the relevant team lead to confirm.
-- To avoid duplication of effort, please ensure that you have not already submitted a similar request in the past.
-</thinking>
-
 # Institutional Collaboration Framework Request Form - Help Guide
 ## Purpose
 The Institutional Collaboration Framework Request Form is used to capture information for institutional collaboration requests involving external partners. This form helps facilitate the collaboration process by providing a structured way to gather essential details about the collaboration.

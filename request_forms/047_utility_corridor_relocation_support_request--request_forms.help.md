@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to support a request for relocation within a utility corridor, likely for infrastructure projects such as electrical or communication line installations. The form aims to collect relevant information from the requester, ensuring that all necessary details are provided to facilitate a smooth relocation process. This form is likely used by project managers, engineers, or other personnel responsible for infrastructure projects to gather project-specific information, timeline, and contact details. Before filling out this form, please ensure you are authorized to make the request and that it is not a duplicate. If you are unsure, please contact the relevant team or project lead for clarification.
-</thinking>
-
 # utility_corridor_relocation_support_request - Help Guide
 ## Purpose
 This form is used to gather information for a request to relocate within a utility corridor for an infrastructure project. Please fill out this form to provide necessary details for the relocation process.

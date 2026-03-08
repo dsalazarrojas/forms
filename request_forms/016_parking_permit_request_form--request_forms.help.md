@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help employees request parking permits for themselves or their colleagues. It is intended to be completed by employees who need to park on campus and want to request a parking permit. Before filling out this form, please note that you only need to submit one request per vehicle per calendar day. If you have multiple requests, please submit them separately. If you are unsure about the form or need clarification, please reach out to your supervisor or the parking department.
-</thinking>
-
 # Parking Permit Request Form - Help Guide
 ## Purpose
 The parking permit request form is used to request parking permits on campus for personal vehicles or company vehicles.

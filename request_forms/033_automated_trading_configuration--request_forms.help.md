@@ -1,8 +1,3 @@
-<thinking>
-This form is used to configure settings for automated trading, which is a crucial part of trading activities. To confirm, you are about to configure settings for automated trading, not manual trading. This form will help you set up your trading account, risk management, and other relevant details.
-Please ensure that you're not already set up or in the middle of configuring these settings. If you're unsure, double-check with your supervisor or trading team.
-</thinking>
-
 # Automated Trading Configuration - Help Guide
 ## Purpose
 This guide helps users understand the Automated Trading Configuration form. It walks them through the form's purpose, how to complete it, and explains each field in detail.

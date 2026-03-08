@@ -1,8 +1,3 @@
-<thinking>
-This form is a crucial tool for hosts to provide information about their availability to potential clients or attendees. It allows hosts to input details such as name, start and end dates, start and end times, duration, maximum capacity, and preferred days and time slots. This form aims to streamline the process of coordinating events or meetings, ensuring that hosts can efficiently manage their schedule and communicate their availability to clients. The form also includes fields for additional information like maximum participants, preferred contact method, email, and phone number.
-
-</thinking>
-
 # Host Availability Survey - Help Guide
 ## Purpose
 This form is designed to collect information about a host's availability for events or meetings. It helps hosts to provide detailed information about their schedule and preferences, making it easier for clients or attendees to plan and coordinate.

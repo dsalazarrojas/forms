@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Escort And Provisions Form (for Cars) - Help Guide
 ## Purpose
 This form is designed to collect information about service, escort, and provisions details for a car-related service. The form is required to be completed accurately to ensure that the service provider has all necessary information to perform the service efficiently.

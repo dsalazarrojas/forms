@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for faculty members to request supplies, guest speakers, field trips, and other additional requests for the Pre-College programs. The form is meant to be a centralized location for faculty to submit their requests, allowing the program directors to efficiently manage and track these requests. Please make sure to only submit a request if it is necessary and not already fulfilled.
-</thinking>
-
 # Pre College Programs Faculty Needs Form - Help Guide
 ## Purpose
 The purpose of this form is to allow faculty members to request supplies, guest speakers, field trips, and other additional support for the Pre-College programs. Please use this form to submit your requests and help the program directors efficiently manage and track these requests.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect requests for upgrades to school resources, such as equipment or facilities. When filling out this form, please ensure that the information is accurate and relevant to your request. To avoid duplicate requests, please check the current resource upgrades list before submitting your request.
-</thinking>
-
 # School Resource Upgrade Request Form - Help Guide
 ## Purpose
 The School Resource Upgrade Request Form is used to request upgrades to school resources, such as equipment or facilities. This form helps the school administration to track and prioritize resource upgrade requests.

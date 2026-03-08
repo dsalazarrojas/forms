@@ -1,7 +1,3 @@
-<thinking>
-This help guide will explain the Governor Contact Request Form to users, ensuring they understand its purpose and how to complete it correctly.
-</thinking>
-
 # Governor Contact Request Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>...To ensure that this form is relevant and does not duplicate existing requests, please consider the following internal reasoning:
-
-* Check if there are any open or pending fencing material requests for the same material type and quantity.
-* Verify that the requested material is in stock and available for fulfillment.
-* If the form is submitted with an invalid or unrealistic quantity, please review and adjust as necessary.
-</thinking>
-
 # Fencing Material Request Form - Help Guide
 ## Purpose
 This form is used to request fencing material for a specific project or purpose. Please provide accurate and complete information to facilitate efficient processing and delivery of the materials.

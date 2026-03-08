@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to request updates to the newsletter, allowing them to specify their preferences and schedule for receiving newsletters and promotions. This form should only be filled out by users who have not previously requested an update or have had their preferences changed in the past 3 months. Please ensure that the form is not filled out by the same user multiple times in a short period of time.
-</thinking>
-
 # Newsletter Update Request Form - Help Guide
 ## Purpose
 This form is used to update a user's preferences for receiving newsletters and promotions. To complete this form, follow the steps below.

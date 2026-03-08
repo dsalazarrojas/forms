@@ -1,12 +1,3 @@
-<thinking>
-As a form designer and technical writer, I'll provide a user-facing help guide for the "MAG Troubleshooting Request" form. To ensure the form's purpose and context are clear, I'll first outline the internal reasoning:
-
-This form is designed to collect information from users for troubleshooting purposes, specifically for the MAG system. The form will be used to identify and resolve issues related to the MAG system, which may be due to hardware, software, or network problems. By submitting this form, users will be able to provide a detailed description of the issue, categorize it, and attach relevant files for further analysis.
-
-The form will be reviewed by the technical team to ensure that the issue is understood and addressed accordingly.
-
-</thinking>
-
 # MAG Troubleshooting Request - Help Guide
 ## Purpose
 The MAG Troubleshooting Request form is designed to collect information for identifying and resolving issues related to the MAG system. Please fill out this form to help our technical team understand and fix the problem.

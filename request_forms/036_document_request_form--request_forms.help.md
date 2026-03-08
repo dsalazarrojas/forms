@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from users about a document they are requesting.
-Before filling out this form, please ensure you have permission to complete this form and that the document you are requesting is not a duplicate.
-Please review the form carefully to ensure all required fields are filled out.
-</thinking>
-
 # Document Request Form - Help Guide
 ## Purpose
 The Document Request Form is used to submit a document request to the school administration. This form is used to request documents such as transcripts, letters, and other certificates.

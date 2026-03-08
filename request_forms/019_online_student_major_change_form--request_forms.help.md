@@ -1,11 +1,3 @@
-<thinking>
-
-To explain the form purpose and check for relevance and non-duplication, I'll assume that this form is used by students to request a change of major in their academic program. The form is likely used by the student affairs or academic advising office to track and manage these requests.
-
-Before filling out this form, please make sure that you have not submitted a change of major request recently or have any active requests pending. If you have any questions or concerns, please reach out to the relevant office or department.
-
-</thinking>
-
 # Online Student Major Change Form - Help Guide
 ## Purpose
 The Online Student Major Change Form is used by students to request a change of major in their academic program. This form helps the student affairs or academic advising office track and manage these requests.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request overnight leave from work. When filling out this form, please ensure that you have not already requested or taken the same overnight leave in the past week. If you are unsure, please double-check your previous leave requests or contact your supervisor. This form is meant to be used for legitimate overnight leave purposes, such as personal activities or business appointments. 
-</thinking>
-
 # Overnight Leave Request Form - Help Guide
 
 ## Purpose

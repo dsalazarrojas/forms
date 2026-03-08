@@ -1,17 +1,3 @@
-<thinking>
-
-This form is a standardized template for requesting capital expenditures for the upcoming budget cycle. It is essential to fill out this form accurately and thoroughly to ensure that your request is reviewed and approved by the relevant authorities. Please be aware that incomplete or incorrect information may lead to delays or rejections in the processing of your request.
-
-Before proceeding, please check your agency's internal guidelines and existing requests to avoid submitting duplicate or unnecessary requests.
-
-To ensure that your request is processed correctly, please make sure to:
-
-1.  Verify that the information you provide is accurate and up-to-date.
-2.  Ensure that you have all necessary approvals and supporting documents.
-3.  Follow the guidelines and instructions provided in this form carefully.
-
-</thinking>
-
 # Capital Expenditure Request Form - Help Guide
 ## Purpose
 This form is for requesting capital expenditures for the upcoming budget cycle. It gathers information about the project, funding sources, and timeline for review and approval.

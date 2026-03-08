@@ -1,5 +1,3 @@
-<thinking>Before filling out this form, please note that it's intended to be used in conjunction with your role closure process. This form will not be used for roles that do not require closure. Ensure that you have reviewed and understand the purpose of the form and the role closure process before proceeding. Also, please note that this form will trigger an automated workflow that may have consequences on your access and permissions in the system.</thinking>
-
 # Role Closure Confirmation Request Form - Help Guide
 ## Purpose
 The Role Closure Confirmation Request Form is a crucial part of the role closure process. It helps to track and document the closure of roles in a structured manner, ensuring that all necessary steps are taken to complete the process.

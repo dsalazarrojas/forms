@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning: This form is intended for customers or internal stakeholders to submit service requests. To ensure the form is completed correctly and efficiently, it's essential to understand its purpose, which is to gather information about the service request. This form should not be submitted multiple times for the same request, as this may lead to duplicate records and confusion.
-</thinking>
-
 # Service Request Form - Help Guide
 ## Purpose
 The Service Request Form is a tool designed for customers or internal stakeholders to submit service requests to us. This form allows you to provide detailed information about your request, ensuring that we understand your needs accurately and can efficiently process your service request.

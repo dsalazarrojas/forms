@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help the user request a free sample from Your Dream Nails (YDN), a nail art service. To ensure that the request is processed efficiently, please provide all required information. The fields are categorized into sections to make it easier to navigate. This form is not meant for internal employees, as the purpose is to collect information from customers or potential customers.
-</thinking>
-
 # Color Street Sample Request - YDN - Help Guide
 ## Purpose
 This form is for requesting a free sample from Your Dream Nails (YDN). Fill out the form to get your free sample.

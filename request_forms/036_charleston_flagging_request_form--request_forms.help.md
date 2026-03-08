@@ -1,7 +1,3 @@
-<thinking>
-The "Charleston Flagging Request Form" is a form used by clients to request flagging services for their construction projects, events, or other projects that require flaggers. The form is meant to gather necessary information from the client to determine the type and quantity of flagging services needed. To avoid duplication, this form should only be used for new requests. If you have already submitted a flagging request, please do not fill out this form again.
-</thinking>
-
 # Charleston Flagging Request Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the concierge service, a personalized service offering assistance with various tasks and requests for guests staying at a hotel or resort. The form is intended to be completed by guests to provide their specific needs and requirements for the concierge service.
-</thinking>
-
 # Concierge Request Form - Help Guide
 ## Purpose
 The Concierge Request Form is designed to help guests communicate their personal requests and preferences for the concierge service. This form will guide you through the process of submitting your request, and each section of the form will provide further information on what information is required and why it's necessary.

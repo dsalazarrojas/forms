@@ -1,7 +1,3 @@
-<thinking>
-To check for duplicate requests, we should ensure that the end user enters a unique title for each form submission, ideally including their name or a brief description of their request. This form is primarily intended to be completed by homeowners or authorized representatives who wish to report issues or schedule maintenance tasks with the property management team. Please proceed to the next section for the user-facing help guide.
-</thinking>
-
 # Request For Home Repair Form - Help Guide
 ## Purpose
 The purpose of this form is to allow homeowners or authorized representatives to request home repairs, maintenance, or services from the property management team. By filling out this form, you can report issues and schedule maintenance tasks in a convenient and organized manner.

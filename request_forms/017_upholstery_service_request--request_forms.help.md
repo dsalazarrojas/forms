@@ -1,16 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and usage of the "Upholstery Service Request" form. The form is designed to gather information from customers regarding their upholstery service requests. This guide will cover the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-Before proceeding, please ensure that this form is relevant to your specific needs. Review the form's content to ensure it is up-to-date and applicable. If you are unsure about any aspect of the form, consult with the relevant team or team lead for clarification.
-
-To complete the form efficiently, please follow these steps:
-
-1. Review the form's layout and content.
-2. Enter the required information accurately and thoroughly.
-3. Refer to this help guide for field-by-field explanations to clarify any confusion.
-
-</thinking>
-
 # Upholstery Service Request - Help Guide
 ## Purpose
 The "Upholstery Service Request" form is used by customers to submit their service requests for various upholstery-related services, such as reupholstery repair, sarging, cushion replacement, and re-trimming. The form is used to collect necessary information for the service request, including contact information, service details, and follow-up requirements.

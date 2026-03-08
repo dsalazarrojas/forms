@@ -1,8 +1,3 @@
-<thinking>
-Please note that the form is used for pet owners to request animal care services, such as appointments, examinations, and vaccinations. The form should be completed by the pet owner and requires a signature to confirm consent to treatment. It's essential to fill out the form accurately and thoroughly to ensure that the necessary information is collected for the pet's care.
-To avoid duplication of effort and unnecessary work for the veterinary staff, it's crucial to ensure that the form is filled out correctly and completely before submission. Please take the time to fill out this form carefully to provide the best possible care for your pet.
-</thinking>
-
 # Animal Care Request Form - Help Guide
 ## Purpose
 The Animal Care Request Form is used by pet owners to request animal care services such as appointments, examinations, and vaccinations for their pets. It is essential to fill out this form accurately and thoroughly to ensure that the necessary information is collected for the pet's care.

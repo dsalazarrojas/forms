@@ -1,12 +1,3 @@
-<thinking>
-This form is a tool used for maintenance cost estimation purposes. 
-It is used for employees or individuals to submit their maintenance requests to the facility management. 
-Before proceeding, please ensure that this form is not being used to submit non-maintenance-related requests. 
-Please note that submitting duplicate or irrelevant requests will not be entertained. 
-Ensure you understand what kind of maintenance work you are requesting before submitting the form. 
-If you need assistance, please contact form@gic.mx
-</thinking>
-
 # Maintenance Cost Estimate Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about maintenance requests from the requester. It helps the facility management team to assess the estimated cost of the requested maintenance work and schedule it accordingly.

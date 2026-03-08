@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Gift Card Request Form - Help Guide
 ================================
 

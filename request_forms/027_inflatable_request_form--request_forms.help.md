@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from users for inflatable event planning purposes. It is meant to be filled out by clients or potential clients to provide details about their party requirements. 
-This form is not intended for general inquiry or other purposes.
-Please ensure that you only submit a single form for each party, to avoid duplicate submissions.
-</thinking>
-
 # Inflatable Request Form - Help Guide
 ## Purpose
 The Inflatable Request Form is designed to collect essential details about an inflatable party event. Please use this form to provide information about your party to help us better understand and plan for your event.

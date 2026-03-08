@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Estimate Form - Help Guide
 
 ## Purpose

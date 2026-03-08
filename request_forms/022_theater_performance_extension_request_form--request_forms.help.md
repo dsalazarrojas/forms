@@ -1,13 +1,3 @@
-<thinking>
-This form is used to request an extension for a theater performance. It is designed to gather information about the production, including its production date, time, and website. The form will help the theater staff to keep track of the production status and ensure that the extension is processed smoothly.
-To complete this form, the user should:
-1. Fill in the required information about the theater performance, such as production date and show start time.
-2. Provide a valid reason for the extension request.
-3. Choose the extension status from the available options (Approved, Denied, or Pending).
-4. Add any additional comments or notes about the production.
-
-</thinking>
-
 # Theater Performance Extension Request Form - Help Guide
 ## Purpose
 This form is used to request an extension for a theater performance.

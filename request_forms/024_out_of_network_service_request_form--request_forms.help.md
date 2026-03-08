@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about an out-of-network service request from a patient. This form is likely used in a medical context where a patient is seeking services outside of their usual provider's network. The form is designed to gather details from the patient about their request, including provider information, medical record, request details, and any supporting documentation. It is possible that this form is used to facilitate communication between the patient and their medical provider or insurance company.
-
-To avoid duplication of efforts, make sure to check if a similar request has been made by the patient before submitting this form.
-
-</thinking>
-
 # Out Of Network Service Request Form - Help Guide
 
 ## Purpose

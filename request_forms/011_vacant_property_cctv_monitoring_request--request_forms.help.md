@@ -1,19 +1,3 @@
-<thinking>
-To create this user-facing help guide, I'll first need to internalize the form's purpose and the context in which it's being used. The form is called "Vacant Property CCTV Monitoring Request" and seems to be related to requesting monitoring services for properties that are not currently occupied. This form likely serves as a tool for collecting information from property owners or managers to provide a service that involves monitoring the property's CCTV system. The form is likely used in a business or administrative context, possibly for security or maintenance purposes.
-
-The form has multiple pages with various fields, each asking for different information. The fields are:
-- General Information
-- Monitoring Details
-- Authorization
-- Submission
-- Additional
-
-Considering the form's purpose and the fields, it's possible that the form is used to gather information about the property, the monitoring services needed, and the authorization for access, as well as some general information and submission details. However, without further context, this is just an educated guess.
-
-The form is likely designed to be completed by property owners or managers who want to request monitoring services for their vacant properties. This guide will aim to make this process clear and user-friendly.
-
-</thinking>
-
 # Vacant Property CCTV Monitoring Request - Help Guide
 ## Purpose
 The Vacant Property CCTV Monitoring Request form is designed to collect information from property owners or managers to request monitoring services for their vacant properties. This form helps the property owner or manager to provide details about the property, the monitoring services needed, and any additional information relevant to the request.

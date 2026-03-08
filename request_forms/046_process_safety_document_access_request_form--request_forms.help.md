@@ -1,12 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Process Safety Document Access Request Form", I need to understand the form's purpose and how users will interact with it. This form seems to be designed for requesting access to process safety documents, which suggests it's for employees or managers to request or approve access to safety-related documents.
-
-From the input schema, I can see that this form asks for personal information (name, email, and job title), contact information for the manager (name and email), and information related to the purpose and type of document being requested. The form also includes fields for tracking the status of the document review, including options for review status, completed by, review by, review date, and reviewer note. These fields suggest that the form is not only for requesting access but also for managing and tracking the review process.
-
-Considering the form's purpose and fields, I assume this guide will focus on explaining how to fill out the form correctly and what each field means.
-
-</thinking>
-
 # Process Safety Document Access Request Form - Help Guide
 ## Purpose
 The Process Safety Document Access Request Form is designed for employees or managers to request or approve access to safety-related documents. This form helps track and manage the document review process, ensuring that documents are reviewed and approved in a timely and efficient manner.

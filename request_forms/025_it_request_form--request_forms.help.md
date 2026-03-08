@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect requests from users. It is used by team members and stakeholders to submit requests for various types of support or services within the organization. This form ensures that each request is properly documented and assigned to the right team member or team lead. 
-
-The form is not intended for duplicate or repetitive requests, so please do not resubmit the same request.
-
-</thinking>
-
 # it_request_form - Help Guide
 ## Purpose
 The IT Request Form is a tool for team members and stakeholders to submit requests for various types of support or services within the organization. It ensures that each request is properly documented and assigned to the right team member or team lead.

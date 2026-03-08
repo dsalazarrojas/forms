@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 # Homeowners Insurance Claim Premium Increase Dispute Form - Help Guide
 ## Purpose
 This form is for homeowners to dispute premium increases on their insurance policies. If you believe your premium has increased unnecessarily, please fill out this form to provide us with the necessary information to review and resolve the issue.

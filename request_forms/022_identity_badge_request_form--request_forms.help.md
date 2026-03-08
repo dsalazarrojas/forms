@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial form for requesting employee identity badges, and it's essential to ensure that all information is accurate and complete. Before proceeding, please review the fields carefully to avoid duplication and ensure that you're not requesting multiple badges for the same employee. 
-</thinking>
-
 # identity_badge_request_form - Help Guide
 ## Purpose
 The "Identity Badge Request Form" is used to request an employee identity badge. It captures essential information for badge issuance and management.

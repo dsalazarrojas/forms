@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting a guarantor recommendation letter to support an application. The purpose of this form is to collect details about the applicant and the guarantor, which will then be used to create a recommendation letter. It's essential that the information provided is accurate and complete, as it will be used to assess the applicant's eligibility for certain programs or opportunities. Please ensure that you're not submitting duplicate requests, as multiple requests for the same guarantor may not be processed.
-</thinking>
-
 # Guarantor Recommendation Letter Request Form - Help Guide
 ## Purpose
 This form is used to collect details about the applicant and the guarantor for a recommendation letter. The letter will be used to support the applicant's application for certain programs or opportunities.

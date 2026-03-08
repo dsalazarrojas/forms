@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Animation Questionnaire - Help Guide
 ## Purpose
 The Animation Questionnaire is a form used to gather essential information from clients about their animation projects. This form helps us understand their specific needs, goals, and preferences for a successful project outcome. Please ensure you fill out this form accurately to enable our team to create a high-quality animation that meets your expectations.

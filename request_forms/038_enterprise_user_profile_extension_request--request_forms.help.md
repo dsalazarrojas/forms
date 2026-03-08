@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request an extension to an Enterprise User Profile, which may include changes to user permissions, roles, or other profile attributes. The form should only be submitted once the manager has approved the changes. To prevent duplicate requests, we recommend checking the current state of your profile before submitting this form. If your profile has already been updated, please do not submit this form.
-</thinking>
-
 # Enterprise User Profile Extension Request - Help Guide
 ## Purpose
 The purpose of this form is to request an extension to an Enterprise User Profile, which may include changes to user permissions, roles, or other profile attributes. This form should only be submitted after the manager has approved the changes.

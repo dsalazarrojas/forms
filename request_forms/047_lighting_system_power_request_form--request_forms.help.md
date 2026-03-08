@@ -1,7 +1,3 @@
-<thinking>
-This form is used by the facilities team to request lighting system power for specific projects or events. To ensure the correct power allocation, the team needs to provide information about the project, its power needs, locations involved, and other details.
-</thinking>
-
 # Lightning System Power Request Form - Help Guide
 
 ## Purpose

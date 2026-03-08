@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from end users for marketing and design requests. It is designed to gather essential details to help the management team make informed decisions. This form should only be filled out for marketing and design requests that are new, not existing projects or ongoing tasks. Please ensure that you have not already submitted a similar request in the past to avoid duplication of effort. If you are unsure, please consult with the management team or check the project database before submitting this form.
-</thinking>
-
 # marketing_and_design_request_form - Help Guide
 ## Purpose
 The marketing and design request form is used to gather information for new marketing and design requests. This form helps the management team make informed decisions by providing essential details about the project.

@@ -1,5 +1,3 @@
-<thinking>...The "Schedule Change Request Form" is used to submit a schedule change request to the relevant department. Please note that you should only submit one request per form. Ensure that the request is not already in progress or already completed, as this will result in duplication of effort. If you are unsure about the status of a previous request, please contact your department for clarification before submitting this form. Please select the relevant teacher and student from the available options to ensure the request is directed to the correct personnel. Please provide a clear and concise description of the schedule change request in the "Schedule Change Request Details" field. This form should not be used for other purposes, such as general feedback or suggestions.</thinking>
-
 # Schedule Change Request Form - Help Guide
 ## Purpose
 The "Schedule Change Request Form" is used to submit a schedule change request to the relevant department.

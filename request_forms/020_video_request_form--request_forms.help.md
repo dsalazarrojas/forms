@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a video request form used for users to request videos based on specific categories and descriptions. It's likely intended for use within a company or organization where users need to request videos for training, meetings, or other purposes. The form may be used by staff members or employees to submit their video requests. To avoid duplication, it's possible that the form is designed to allow users to search or check if a similar request has already been made.
-
-</thinking>
-
 # Video Request Form - Help Guide
 ## Purpose
 The Video Request Form is designed to allow users to submit requests for videos based on specific categories and descriptions. Users can request videos for various purposes, such as training, meetings, or other company events.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # vasectomy_service_quote_request - Help Guide
 ## Purpose
 This form is designed to collect information for a vasectomy service quote request. It is meant to be used by individuals seeking to inquire about or request services for a vasectomy.

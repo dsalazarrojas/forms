@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for an individual to request sponsorship for a specific project or event. It collects information to determine the sponsor's level of interest and potential commitment to sponsor the individual or project. The form is not designed to collect payment or financial information, but rather to establish a relationship between the individual and the potential sponsor. Before filling out this form, please ensure you have not already submitted a similar request to the sponsor in the past. If you are unsure, contact the sponsor directly to confirm.
-</thinking>
-
 # Individual Sponsorship Request - Help Guide
 ## Purpose
 This form is designed for individuals to request sponsorship for a specific project or event. It helps establish a relationship between the individual and the potential sponsor.

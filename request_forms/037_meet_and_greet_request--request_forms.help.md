@@ -1,7 +1,3 @@
-<thinking>
-This is a form that will allow users to request a meet and greet session with their pet at the clinic. The form will help us to understand the pet and owner's information, preferences, and any special requests they may have. To ensure that we are serving the correct pet and providing the best possible experience, please fill out this form only if you are a pet owner who has been seen at our clinic before. We encourage you to fill out this form only once, but if you need to make any changes, please reach out to us directly so we can update your information.
-</thinking>
-
 # Meet And Greet Request - Help Guide
 ## Purpose
 This form is designed to request a meet and greet session with your pet at our clinic. It will help us to understand your pet's needs and preferences, so we can provide the best possible experience for both you and your pet.

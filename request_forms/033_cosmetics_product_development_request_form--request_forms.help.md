@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or internal teams for the development of new cosmetic products. The form helps in streamlining the process by ensuring that all the necessary details are captured in one place, making it easier for the development team to create the product as per the customer's requirements. This form is used for various types of cosmetic products, such as skin care, hair care, makeup, fragrances, and personal care. The form's purpose is to gather product-specific details, packaging, and other relevant information for successful product development.
-
-Before completing this form, please ensure that you are not submitting duplicate requests. If you have already submitted a request for a similar product, kindly check your previous submissions for any updates or changes.
-</thinking>
-
 # Cosmetics Product Development Request Form - Help Guide
 
 ## Purpose

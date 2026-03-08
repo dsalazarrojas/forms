@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request changes to literature materials. This guide will walk you through the process of completing this form to ensure you submit a request accurately and efficiently. Please note that this form is only for requesting changes to literature materials and not for other purposes. Before starting, ensure you have reviewed the relevant literature and understand the reason for the request. To avoid duplication of requests, check if a similar request has been made recently. If you're unsure about any field or the purpose of the request, please reach out to the relevant team for guidance.
-</thinking>
-
 # Literature Change Request Form - Help Guide
 ## Purpose
 The Literature Change Request Form is used to request changes to literature materials, such as corrections, updates, or additions. This form ensures that your changes are accurately documented and reviewed by the relevant team members.

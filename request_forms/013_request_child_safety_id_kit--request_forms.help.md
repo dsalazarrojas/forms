@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to request a Child Safety ID Kit, which is a collection of information and documentation required to ensure the safety and well-being of a child. This form is typically used by parents, guardians, or authorized representatives to provide essential details about a child's safety concerns, such as their current situation, address, and contact information. It is crucial to fill out this form accurately and thoroughly to ensure the most efficient and effective assistance.
-
-Before proceeding, please take note that this form should only be submitted once. Duplication or submission of a previously submitted form will not be processed.
-
-Additionally, kindly ensure that you have the necessary permissions or authorizations to submit this form on behalf of the child.
-
-Please note that some fields marked as required may not be explicitly explained in this guide. If you are unsure about any field, please consult the relevant authorities or support team for clarification.
-
-</thinking>
-
 # Request Child Safety ID Kit - Help Guide
 
 ## Purpose

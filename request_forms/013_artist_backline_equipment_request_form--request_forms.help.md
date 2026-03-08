@@ -1,11 +1,3 @@
-<thinking>
-
-The Artist Backline Equipment Request Form is used to gather information from artists and their representatives about their technical requirements for a performance or event. This form ensures that the production team is aware of the equipment and setup needs to provide a successful and safe experience for the artist. The form is designed to be completed by the artist or their representative, typically the contact person, and should be filled out for each performance or event.
-
-Before completing the form, please ensure that you are filling it out for the correct event and that you have discussed the equipment needs with the production team. If you have filled out this form previously, please review the changes and ensure that you are only adding new or updated information.
-
-</thinking>
-
 # Artist Backline Equipment Request Form - Help Guide
 
 ## Purpose

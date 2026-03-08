@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a COVID-19 testing appointment. To fill out this form, you will need to provide your demographic information, medical history, and appointment preferences. Please ensure you have all necessary information before submitting the form. Note that some fields may not be applicable to you, so please only fill out the required fields. We will review your submission and respond as soon as possible.
-</thinking>
-
 # COVID 19 Testing Appointment Request - Help Guide
 ## Purpose
 This form is used to request a COVID-19 testing appointment for individuals who wish to get tested for the virus. The purpose of this form is to gather necessary information from you to schedule an appointment at your preferred location and time.

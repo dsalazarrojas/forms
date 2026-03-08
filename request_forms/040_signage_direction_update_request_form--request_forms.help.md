@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Signage Direction Update Request Form - Help Guide
 
 ## Purpose

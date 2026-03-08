@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Donation Pick Up Request Form - Help Guide
 ## Purpose
 The Donation Pick Up Request Form is a digital form designed to collect information from donors who require their donations to be picked up. By filling out this form, donors can provide their information to schedule a pick-up for their donated items. The form helps us efficiently process and fulfill pick-up requests in a timely manner.

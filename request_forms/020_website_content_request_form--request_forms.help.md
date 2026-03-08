@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is filled out correctly, please review the provided form fields and ensure you're filling this out for a legitimate reason. This form is used for requesting website content, such as text, images, or videos, for the website. Please fill out the form accurately and thoroughly, and ensure you have a valid reason for submitting the request. If your request is not for content, you may want to consider using a different form, such as the <a href="#">Bug Report Form</a> or <a href="#">Feature Request Form</a>.
-</thinking>
-
 # Website Content Request Form - Help Guide
 ## Purpose
 The Website Content Request Form is used to request content for the website, such as text, images, or videos. This form is used to submit requests for content creation, updates, or changes.

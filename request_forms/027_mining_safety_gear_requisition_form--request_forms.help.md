@@ -1,10 +1,3 @@
-<thinking>
-We are creating a help guide for the "Mining Safety Gear Requisition Form". This form is used to request mining safety gear for users. It is essential to ensure that the form is completed correctly to prevent duplication of requests or incorrect submissions. Please review the following instructions carefully.
-
-This form is intended for users to submit a request for mining safety gear. It is not a form for submitting general equipment requests or other types of requisitions. Before filling out the form, please ensure you have a valid reason for requesting the equipment and have reviewed the guidelines below.
-
-</thinking>
-
 # Mining Safety Gear Requisition Form - Help Guide
 ## Purpose
 This form is used to request mining safety gear for use in a mining environment. Please submit this form if you need any of the following items: safety helmets, safety glasses, respirators, gloves, or any other safety gear that is not already stocked in your area.

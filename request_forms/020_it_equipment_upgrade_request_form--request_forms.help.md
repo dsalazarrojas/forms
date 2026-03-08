@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to allow users to submit a request for IT equipment upgrades, providing a structured and standardized way to request new or upgraded equipment. The form is meant to gather necessary information for the upgrade process, such as the type of equipment to be upgraded, the reason for the upgrade, and the budget allocated for the upgrade. This form is not meant to be used for non-essential upgrades or duplicate requests.
-
-Before submitting a new request, please ensure that the upgrade is not already approved or pending in the system. Duplicate requests will not be processed.
-
-This form is intended for employees and other authorized users to request upgrades for themselves or others. Please ensure that you have the necessary permissions to submit a request for someone else's account.
-
-The information gathered through this form will be used to assess and fulfill the upgrade requests in an efficient and timely manner.
-</thinking>
-
 # IT Equipment Upgrade Request Form - Help Guide
 ## Purpose
 

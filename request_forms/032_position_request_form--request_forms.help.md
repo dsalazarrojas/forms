@@ -1,7 +1,3 @@
-<thinking>
-This is a form for requesting a position within an organization, likely used by employees or departments to formalize job changes. It is used internally for administrative purposes. To prevent duplication, the form is probably not directly accessible to the general public. It seems to be designed for employee-to-employee or department-to-department communication within an organization. 
-</thinking>
-
 # Position Request Form - Help Guide
 ## Purpose
 The Position Request Form is a form used to submit formal requests for position changes within an organization. This form is intended for employees and departments to submit requests for new job titles, job levels, or other position changes.

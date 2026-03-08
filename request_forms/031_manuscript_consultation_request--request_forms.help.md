@@ -1,7 +1,3 @@
-<thinking>
-This form is used for requesting manuscript consultation services, which is a crucial step in the publication process for authors and writers. Before proceeding, please ensure that you have not already requested a consultation for the same manuscript or project. 
-</thinking>
-
 # Manuscript Consultation Request - Help Guide
 
 ## Purpose

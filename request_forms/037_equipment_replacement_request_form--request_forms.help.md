@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form purpose and fields. This form is for requesting replacement of equipment, and it captures various details to help manage the process. The goal is to collect relevant information about the equipment to be replaced, including its condition, requested date, and priority level. To ensure that we don't duplicate requests, each field should be completed carefully and accurately. Now, let's move on to the help guide.</thinking>
-
 # Equipment Replacement Request Form - Help Guide
 ## Purpose
 The Equipment Replacement Request Form is used to request replacement of equipment from the organization's assets. This form gathers essential information to facilitate a smooth and efficient replacement process.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # employee_mileage_record_request_form - Help Guide
 ## Purpose
 This form is used to record mileage requests from employees. It helps track and manage employee business mileage claims. The form is designed to be filled out by employees to submit their mileage requests for reimbursement or other purposes.

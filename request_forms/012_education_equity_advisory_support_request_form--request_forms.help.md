@@ -1,7 +1,3 @@
-<thinking>
-The Education Equity Advisory Support Request Form is designed to help support requests from schools and districts in accessing educational resources and services. This form is intended to gather essential information from the requestors, ensuring that the support provided meets their specific needs. To prevent duplicate requests, we encourage schools and districts to verify the status of their previous support requests before submitting a new form.
-</thinking>
-
 # Education Equity Advisory Support Request Form - Help Guide
 ## Purpose
 This form is used to request support from the Education Equity Advisory team for educational resources and services. Please fill out this form to ensure that your request is processed efficiently and effectively.

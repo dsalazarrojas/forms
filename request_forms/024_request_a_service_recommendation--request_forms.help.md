@@ -1,8 +1,3 @@
-<thinking>
-This form is for requesting a service recommendation from the user. The user should fill out this form to submit a request for a service, providing details such as service type, service name, and priority. 
-The form fields should not be duplicated, and users should not re-request the same service multiple times within a short timeframe. 
-The form should only be used for genuine requests, not for spamming or testing purposes.</thinking>
-
 # Request A Service Recommendation - Help Guide
 
 ## Purpose

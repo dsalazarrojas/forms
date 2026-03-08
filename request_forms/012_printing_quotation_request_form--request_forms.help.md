@@ -1,6 +1,3 @@
-<thinking>
-...thinking...</thinking>
-
 # Printing Quotation Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers requesting a printing quotation. The form will be used to gather essential details such as contact information, printing requirements, and additional notes to provide an accurate quotation. Please fill out the form carefully to ensure that your quotation request is processed efficiently.

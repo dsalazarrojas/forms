@@ -1,9 +1,3 @@
-<thinking>
-The Minimalist Request Form is designed to collect basic information for a request from a user. It is not intended for collecting sensitive or personal data, and its primary purpose is to gather information about a request for a service or resource. Before filling out this form, please make sure you have not submitted a similar request in the past, as duplicate requests will be removed.
-
-This form is not meant to be used for urgent or priority requests. If you need to request something urgently or with a high priority, please contact the relevant department directly.
-</thinking>
-
 # Minimalist Request Form - Help Guide
 ## Purpose
 The Minimalist Request Form is a simple form designed to collect basic information for a request. It is not intended for collecting sensitive or personal data.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for floor plan revisions, allowing architects, engineers, and construction teams to collaborate on updates to building plans. It's essential to ensure that this form is filled out correctly to guarantee that the request is processed efficiently and accurately. Before starting, please make sure this form is the correct one to fill out, as it's not intended for other types of requests. To avoid duplication, please do not submit multiple requests for the same floor plan revision.
-</thinking>
-
 # Floor Plan Revision Request Form - Help Guide
 
 ## Purpose

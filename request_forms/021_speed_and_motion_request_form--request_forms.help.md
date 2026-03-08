@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Speed And Motion Request Form - Help Guide
 ## Purpose
 The Speed And Motion Request Form is used to gather information about experiments that require speed and motion analysis. This form helps the user submit a request for an experiment, providing details about the experiment's start and end times, speed, motion, and other relevant information.

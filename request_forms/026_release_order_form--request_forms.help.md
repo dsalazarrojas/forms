@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information necessary for the release of a product or service. It is a general-purpose form and not intended for specific business or technical contexts. Ensure you're using this form for its intended purpose to avoid duplication of effort.
-</thinking>
-
 # Release Order Form - Help Guide
 ## Purpose
 The Release Order Form is used to collect essential details about a product or service release. This form helps the team gather necessary information for the release process.

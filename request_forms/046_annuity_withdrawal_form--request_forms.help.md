@@ -1,11 +1,3 @@
-<thinking> 
-
-The form purpose is to collect information from account holders for an annuity withdrawal request. The form is used to gather necessary details to process the withdrawal, including account holder information, withdrawal details, and financial implications. The form should only be filled out by account holders who have a legitimate reason for requesting a withdrawal. 
-
-The form is not intended for general inquiries or requests for information.
-
-</thinking>
-
 # Annuity Withdrawal Form - Help Guide
 ## Purpose
 This form is used to request an annuity withdrawal. Please fill out the form carefully and accurately to ensure your request is processed efficiently.

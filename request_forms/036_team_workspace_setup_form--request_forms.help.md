@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to set up a team workspace, which is a centralized location where team members can collaborate and share resources. This form will guide you through the process of creating a team workspace, including selecting team leads, members, and defining the workspace's characteristics such as name, description, and access level.
-This form is designed to be completed by the person responsible for setting up the team workspace. Before starting, ensure that you have the necessary permissions to create a team workspace and that you have all the required information to complete the form.
-</thinking>
-
 # Team Workspace Setup Form - Help Guide
 ## Purpose
 The Team Workspace Setup Form is used to create a team workspace, a centralized location where team members can collaborate and share resources.

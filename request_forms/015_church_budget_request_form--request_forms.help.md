@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is designed to collect financial request information from church departments and committees. It helps ensure that all budget requests are submitted with accurate and complete information, allowing for efficient review and decision-making processes. This form should only be filled out for new requests, not for updates to existing requests...</thinking>
-
 # Church Budget Request Form - Help Guide
 ## Purpose
 The Church Budget Request Form is used to collect financial request information from church departments and committees. It ensures that all budget requests are submitted with accurate and complete information, aiding in the review and decision-making process.

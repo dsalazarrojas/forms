@@ -1,7 +1,3 @@
-<thinking>
-This form is used to request reimbursement for expenses incurred by employees. It is intended for use when an employee has spent money on work-related expenses and needs to be reimbursed. This form is a simple, one-page form that gathers the necessary information to process a reimbursement request. To avoid any confusion or duplicate requests, please review the form carefully and ensure all required fields are filled out correctly before submitting. Please note that this form is not intended for urgent or emergency reimbursements. If you need reimbursement for such situations, please contact your supervisor or HR department for assistance.
-</thinking>
-
 # Reimbursement Request - Help Guide
 
 ## Purpose

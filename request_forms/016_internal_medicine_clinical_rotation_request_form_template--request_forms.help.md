@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Internal Medicine Clinical Rotation Request Form Template - Help Guide
 ## Purpose
 This form is designed to help medical staff request an internal medicine clinical rotation. It allows users to provide details about the rotation, including the start and end dates, type, location, and any relevant notes.

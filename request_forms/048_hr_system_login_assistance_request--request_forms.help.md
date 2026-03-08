@@ -1,14 +1,3 @@
-<thinking> 
-This guide is intended for HR personnel who need help accessing the HR System. The form is to be completed by an employee or HR representative to report issues or requests related to the HR System. This form is not meant for regular login access requests, but rather for assistance with existing login issues. To determine if you need to complete this form, consider the following:
-
-* If you are experiencing login difficulties or issues with your HR System account, this form is not the right tool. Instead, contact the HR Support team directly.
-* If you are an HR representative and need to request assistance for an employee, ensure that the employee's issue is not a simple password reset or access request. This form is intended for more complex issues that require HR's intervention.
-* If you have completed this form in the past and are now seeking assistance with a new issue, please provide the relevant details from your previous submission for context.
-
-If after reviewing these points, you still need to complete this form, please proceed with the following steps and field explanations.
-
-</thinking>
-
 # HR System Login Assistance Request - Help Guide
 ## Purpose
 The HR System Login Assistance Request form is designed to assist employees or HR representatives in reporting issues or requests related to the HR System. This form helps HR personnel identify and resolve these issues efficiently.

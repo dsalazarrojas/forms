@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to create a To-Do list for tasks that need to be completed. The form collects information about the status and priority of tasks, as well as the date when the task is due and if it has been completed.
-To complete this form, follow these steps:
-
-1. Select one of the options for "to-do-item" to indicate whether the task is ready to be started.
-2. Enter the due date of the task or select a date from the provided calendar.
-3. Choose the priority level of the task, indicating its level of importance.
-4. Check if the task has been completed.
-5. Enter any additional notes or comments about the task.
-</thinking>
-
 # to_do_list - Help Guide
 ## Purpose
 The purpose of this form is to create a To-Do list for tasks that need to be completed.

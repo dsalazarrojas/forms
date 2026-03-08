@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to enable users to request maintenance for the well water system in a specific location. It's essential to ensure that each request is filled out accurately and thoroughly, so the maintenance team can respond promptly and effectively. Please review the form carefully and fill it out completely before submitting it. Ensure that you're not duplicating an existing request.
-</thinking>
-
 # Well Water System Maintenance Request Form - Help Guide
 ## Purpose
 The Well Water System Maintenance Request Form is used to request maintenance for the well water system in a specific location. This form is essential for the maintenance team to receive and process your request efficiently.

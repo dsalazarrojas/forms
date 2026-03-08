@@ -1,10 +1,3 @@
-<thinking>
-The bus request form is used to collect information from students and parents to determine the need for bus transportation. This form is typically filled out by parents or guardians to request transportation for their child. 
-The form helps to identify the student's details, the reason for the transportation request, and the specific needs of the student. This form is used to ensure that the student's transportation requirements are met while maintaining the efficiency and accuracy of the transportation process.
-Before filling out this form, ensure that you are not requesting a new transportation need for the same student. This will help in preventing duplicate requests and streamline the process.
-This form is a one-time request. If you need to make any further changes, you will have to fill it out again.
-</thinking>
-
 # Bus Request Form - Help Guide
 ## Purpose
 The Bus Request Form is used to collect information from students and parents to determine the need for bus transportation. This form is designed to ensure that all students' transportation requirements are met while maintaining the efficiency and accuracy of the transportation process.

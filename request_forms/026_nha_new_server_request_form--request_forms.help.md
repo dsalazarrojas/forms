@@ -1,6 +1,3 @@
-<thinking> 
-We need to make sure that end users understand that this form is for requesting new servers, and that they shouldn't submit duplicate requests. We also want to ensure that the form is filled out correctly to avoid any issues. This form is used to request new servers for various purposes, and the submitted information will be reviewed and processed accordingly. To avoid confusion, please fill out the form accurately and completely, and do not submit duplicate requests for the same server. If you have any questions or concerns, please contact the support team.</thinking>
-
 # NHA New Server Request Form - Help Guide
 ## Purpose
 The NHA New Server Request Form is a tool used to request new servers for various purposes. This form allows you to provide detailed information about the request, including the server details, user information, and request type.

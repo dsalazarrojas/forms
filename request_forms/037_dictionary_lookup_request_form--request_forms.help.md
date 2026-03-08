@@ -1,30 +1,3 @@
-<thinking>
-
-To determine the form purpose and required fields, we will analyze the form's properties in the YAML. The form appears to be a Dictionary Lookup Request Form, designed to collect information about a dictionary lookup request, presumably for a linguistic or terminology database. The "Request Type" field allows the user to choose from different request types, such as Terminology, Definition, or Translation, suggesting that the form is used for submitting requests to modify or update the dictionary.
-
-Required fields are currently set to "false" for most fields, which implies that users have some flexibility in completing the form. However, the field "submitter" and "submitted" are set to "select_one" with options "Yes" and "No", but they don't necessarily imply they are required for form submission.
-
-To avoid duplication, we should ensure that the form fields are not too similar or redundant. Upon reviewing the fields, we notice that "request_type" and "follow_up" have similar themes, but "follow_up" seems to be a more specific request for follow-up information, while "follow_up" (id: 9) seems to be more about whether follow-up information is needed. This suggests that "follow_up" (id: 9) is intended for users to indicate if follow-up information is available.
-
-The form's fields are:
-
-* Dictionary Lookup Request Form
-* Request Type (select_one): Select a request type (e.g., Terminology, Definition, Translation)
-* Language (select_one): Select the language for the request (e.g., English, Spanish, French, German)
-* Request Term (text): Enter the request term
-* Request Term Definition (text): Enter the request term definition
-* Translation Language (select_one): Indicate if the translation is available (Yes/No)
-* Request Translator (select_one): Indicate if the request has a translator (Yes/No)
-* Request Date (date): Enter the date of the request
-* Follow-up (select_one): Indicate if follow-up information is available (Yes/No)
-* Follow-up Information (text): Enter follow-up information if available
-* contact_info (text): Enter contact information
-* Submitter (select_one): Indicate if the submitter is the same as the user (Yes/No)
-* Submitted (select_one): Indicate if the request is submitted (Yes/No)
-* Follow-up Date (date): Enter the follow-up date, if applicable
-
-</thinking>
-
 # dictionary_lookup_request_form - Help Guide
 ## Purpose
 The Dictionary Lookup Request Form is a tool used to submit requests to modify or update a dictionary. This form allows users to select the type of request, language, and other relevant information to ensure that the request is processed accurately and efficiently.

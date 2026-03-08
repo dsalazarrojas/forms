@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be a tool for users to request focus mode access on a website or application. The form is intended to be used when a user requires access to a specific site or app for work-related purposes, and needs to provide justifications and approvals to support their request. This form is likely to be used by administrators, managers, or IT personnel to evaluate and approve or deny access requests. When filling out this form, please make sure to provide accurate and clear information to help the request be processed efficiently.
-</thinking>
-
 # Focus Mode Allowlist Request - Help Guide
 ## Purpose
 This form is used to request focus mode access on a specific site or app.

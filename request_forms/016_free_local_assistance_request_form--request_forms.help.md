@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Free Local Assistance Request Form - Help Guide
 
 ## Purpose

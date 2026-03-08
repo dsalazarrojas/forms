@@ -1,15 +1,3 @@
-<thinking>
-We're creating a form to collect cash value information to facilitate efficient and accurate valuation. The form gathers essential details such as the requestor's information, item specifics, and valuation requirements to ensure that the valuer has a comprehensive understanding of the item's value.
-
-To avoid duplication of efforts and ensure relevance, it's essential that the form is filled out accurately and completely. Please review the form carefully before submitting it, ensuring that all required fields are completed.
-
-Before filling out the form, please make sure you are the authorized representative of the requestor or have explicit permission to submit on their behalf. This will avoid duplication of effort and ensure that your submission is relevant.
-
-This form will be reviewed by a qualified valuer who will assess the item's value based on the provided information. Incomplete or inaccurate submissions may lead to delays or re-valuation.
-
-If you need help filling out this form, please don't hesitate to contact us.
-</thinking>
-
 # Cash Value Information Request Form - Help Guide
 ## Purpose
 The Cash Value Information Request Form is designed to collect essential details about the item or property that needs to be valued. This form will help us understand your requirements and provide an accurate valuation report.

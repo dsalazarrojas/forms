@@ -1,11 +1,3 @@
-<thinking>... internal reasoning block explaining form purpose and checks for relevance and non-duplication...
-
-The form purpose is to capture information for payment requests, allowing users to submit requests for payment, specify payment amounts, frequencies, terms, and methods. This form is used to ensure that payment requests are properly documented and can be processed efficiently.
-
-Form duplication checks can be performed by ensuring that users do not submit multiple requests for the same payment amount, payment frequency, or payment method. This helps prevent errors and ensures that payments are accurate and reliable.
-
-</thinking>
-
 # Payment Request Form - Help Guide
 ## Purpose
 The Payment Request Form is used to submit payment requests for various purposes. This form captures relevant information about the payment amount, frequency, terms, method, and status.

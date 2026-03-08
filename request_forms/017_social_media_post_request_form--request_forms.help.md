@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for social media posts from coworkers and partners. It's intended for internal use, so only relevant requests should be submitted. Please ensure you're submitting a valid request and not a duplicate.
-
-</thinking>
-
 # Social Media Post Request Form - Help Guide
 ## Purpose
 The Social Media Post Request Form is designed to collect information for social media posts from coworkers and partners. This form helps streamline the process of creating content for social media channels.
